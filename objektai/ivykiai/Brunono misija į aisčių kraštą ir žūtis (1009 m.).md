@@ -46,12 +46,16 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 
 ## Teiginiai
 
+<a id="claim-t-10801"></a>
 - t-001
+  global_id: t-10801
   teiginys: 'Brunonas žuvo jotvingų krašte ir buvo paskelbtas šventuoju kankiniu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71739"></a>
 - t-002
+  global_id: t-71739
   teiginys: '1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.'
   pagrindžia:
     - c-003

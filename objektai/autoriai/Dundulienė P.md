@@ -19,12 +19,16 @@ Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J
 
 ## Teiginiai
 
+<a id="claim-t-64573"></a>
 - t-001
+  global_id: t-64573
   teiginys: 'Dusburgietis teigia, kad žinomi balti ir juodi Perkūno žirgai, šio plauko žirgai buvę ypatingai gerbiami (Dundulienė P., Arklys..., p. 83—101).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64574"></a>
 - t-002
+  global_id: t-64574
   teiginys: 'Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J., Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89; Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės baltų..., p. 221—223, 234.'
   pagrindžia:
     - c-001

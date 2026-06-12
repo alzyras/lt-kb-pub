@@ -18,7 +18,9 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
 
 ## Teiginiai
 
+<a id="claim-t-36059"></a>
 - t-001
+  global_id: t-36059
   teiginys: '„Kelionėje po Tibetą“ aprašoma Sven Hedino kelionė į Tibetą, nuotykiai ir kovos su vietos tautelėmis.'
   pagrindžia:
     - c-001

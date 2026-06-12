@@ -24,7 +24,9 @@ Radvilos pajėgos.
 
 ## Teiginiai
 
+<a id="claim-t-40164"></a>
 - t-001
+  global_id: t-40164
   teiginys: 'Caro kariuomenė prie Smolensko vengė šturmuoti tvirtovę, kol netoliese buvo J. Radvilos pajėgos.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-41529"></a>
 - t-001
+  global_id: t-41529
   teiginys: '„Ispaniškos tercijos ir švedų taktika“ iliustracijos autoriumi nurodytas dailininkas Andžej Geglis.'
   pagrindžia:
     - c-001

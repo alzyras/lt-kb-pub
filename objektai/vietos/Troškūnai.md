@@ -17,7 +17,9 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
 
 ## Teiginiai
 
+<a id="claim-t-42205"></a>
 - t-001
+  global_id: t-42205
   teiginys: 'Panevėžio rinktinė gegužės 27 d., persekiodama priešą, užėmė Troškūnus ir Subačių.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Masinėms žudynėms vykdyti sukonstruotas mechanizmas – rugpjūčio 16-ąją 
 
 ## Teiginiai
 
+<a id="claim-t-21320"></a>
 - t-001
+  global_id: t-21320
   teiginys: 'Rugpjūčio 16 d. Vytautas Reivytis slaptu raštu Nr. 3 įsakė sulaikyti visus žydus ir sutelkti juos tam numatytose vietose.'
   pagrindžia:
     - c-001

@@ -50,7 +50,9 @@ Nenurodyta.
 
 ## Teiginiai
 
+<a id="claim-t-05445"></a>
 - t-001
+  global_id: t-05445
   teiginys: 'Gediminui nepasisekė išlaikyti Lietuvos metropolijos.'
   pagrindžia:
     - c-008
@@ -61,27 +63,37 @@ Nenurodyta.
     - c-005
     - c-006
 
+<a id="claim-t-05446"></a>
 - t-002
+  global_id: t-05446
   teiginys: 'Kijevo metropolijos rezidencija buvo perkelta į Vladimirą Maskvos žemėse.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-05450"></a>
 - t-003
+  global_id: t-05450
   teiginys: '1389 m. Lietuvos metropolija nutrūko, o 1415 m. buvo trumpam atnaujinta.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-12566"></a>
 - t-004
+  global_id: t-12566
   teiginys: 'Vytautas tą savos metropolijos svarbą suprato labai gerai ir po visokių pertraktacijų su Maskva, nepajėgęs kaip reikiant išrišti klausimo susitarimu, pasekė Algirdu, ir nebodamas patriarcho priešinimosi 1415 met.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-97282"></a>
 - t-005
+  global_id: t-97282
   teiginys: '1300 m. metropolitas Maksimas perkėlė Kijevo metropolijos rezidenciją į Vladimirą prie Kliazmos, didindamas pavojų Lietuvos stačiatikių plotams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97283"></a>
 - t-006
+  global_id: t-97283
   teiginys: 'Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo.'
   pagrindžia:
     - c-008

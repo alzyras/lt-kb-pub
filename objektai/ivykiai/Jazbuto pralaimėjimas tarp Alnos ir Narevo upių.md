@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jazbuto pralaimėjimas tarp Alnos ir Narevo upių
 
 ## Santrauka
 
-Kojelavičius teigia, kad kitame pakraštyje Jazbutas, ypa tingai aukštos kilmės lietuvis, nuniokojęs kurias ne kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto, Baigos komtūro, su tūkstančiu dviem šim tais riterių užėmusio kelius tarp Alnos ir Narevo upių: Jazbutas.
+Jazbutas, nuniokojęs kai kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto tarp Alnos ir Narevo upių.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185800"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kitame pakraštyje Jazbutas, ypa tingai aukštos kilmės lietuvis, nuniokojęs kurias ne kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto, Baigos komtūro, su tūkstančiu dviem šim tais riterių užėmusio kelius tarp Alnos ir Narevo upių: Jazbutas.'
+  global_id: t-185800
+  teiginys: 'Jazbutas, nuniokojęs kai kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto tarp Alnos ir Narevo upių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kitame pakraštyje Jazbutas, ypa tingai aukštos kilmės lietuvis, nuniokojęs kurias ne kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto, Baigos komtūro, su tūkstančiu dviem šim tais riterių užėmusio kelius tarp Alnos ir Narevo upių: Jazbutas.'
+  santrauka: 'Jazbutas, nuniokojęs kai kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto tarp Alnos ir Narevo upių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nuo Liudviko
@@ -59,3 +60,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jazbutas]]
+- [[objektai/zodynas/įgula]]

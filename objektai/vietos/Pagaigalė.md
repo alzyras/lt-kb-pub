@@ -22,7 +22,9 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
 
 ## Teiginiai
 
+<a id="claim-t-41991"></a>
 - t-001
+  global_id: t-41991
   teiginys: '1951 m. kovo 19 d. MGB vidaus kariuomenė Pagaigalės kaimo apylinkėse puolė dvi partizanų žemines.'
   pagrindžia:
     - c-001

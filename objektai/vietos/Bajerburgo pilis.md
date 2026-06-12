@@ -27,7 +27,9 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
 
 ## Teiginiai
 
+<a id="claim-t-86292"></a>
 - t-001
+  global_id: t-86292
   teiginys: 'Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos.'
   pagrindžia:
     - c-001

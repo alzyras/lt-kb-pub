@@ -17,17 +17,23 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 
 ## Teiginiai
 
+<a id="claim-t-22004"></a>
 - t-001
+  global_id: t-22004
   teiginys: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-22005"></a>
 - t-002
+  global_id: t-22005
   teiginys: 'Kuriant Izraelį reikšmingus vaidmenis suvaidino iš istorinės Lietuvos erdvės kilę žydai, vadinęsi litvakais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183445"></a>
 - t-003
+  global_id: t-183445
   teiginys: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
   pagrindžia:
     - c-002

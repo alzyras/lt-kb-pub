@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-71566"></a>
 - t-001
+  global_id: t-71566
   teiginys: 'Laivo pavidalo akmens kirviai su skyle kotui įstatyti išskiriami kaip būdingas neolito įrankis.'
   pagrindžia:
     - c-001

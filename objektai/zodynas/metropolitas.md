@@ -11,13 +11,11 @@ date_start: '1300'
 date_end: '1415'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - religinis-terminas
+tags: []
 amziai:
   - 'XIII'
   - 'XV'
 ---
-
 # metropolitas
 
 ## Santrauka
@@ -56,43 +54,59 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 
 ## Teiginiai
 
+<a id="claim-t-05451"></a>
 - t-001
+  global_id: t-05451
   teiginys: 'Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-05453"></a>
 - t-002
+  global_id: t-05453
   teiginys: 'Algirdas ir Maskvos kunigaikštis siekė savo valstybės ribose išlaikyti ar atnaujinti atskirą arkivyskupo-metropolito sostą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05454"></a>
 - t-003
+  global_id: t-05454
   teiginys: '1354 m. Konstantinopolio patriarchas paskyrė Lietuvos žemių metropolitą Romaną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-05455"></a>
 - t-004
+  global_id: t-05455
   teiginys: 'Lietuvos stačiatikių žemės vėl buvo pajungtos visos Rusijos metropolitui.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-05456"></a>
 - t-005
+  global_id: t-05456
   teiginys: '1375 m. Lietuvos stačiatikių metropolitu buvo paskirtas Kiprijonas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-97284"></a>
 - t-006
+  global_id: t-97284
   teiginys: 'Ir Algirdas, ir Maskvos kunigaikštis tuo pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-97285"></a>
 - t-007
+  global_id: t-97285
   teiginys: 'Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184630"></a>
 - t-008
-  teiginys: 'Kojelavičius teigia, kad kai, sutik dami su šitokiomis sąlygomis; prisiekė valdovas Dimitrijus, vyriausiasis šventikas, žmo nių vadinamas metropolitu, viečė ir žymiausieji bajorai, Algirdas, tą pačią dieną įžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo vanojo kunigaikštį.'
+  global_id: t-184630
+  teiginys: 'Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė.'
   pagrindžia:
     - c-007
 
@@ -192,7 +206,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     - t-001
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad kai, sutik dami su šitokiomis sąlygomis; prisiekė valdovas Dimitrijus, vyriausiasis šventikas, žmo nių vadinamas metropolitu, viečė ir žymiausieji bajorai, Algirdas, tą pačią dieną įžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo vanojo kunigaikštį.'
+  santrauka: 'Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dimitrijus sumokėsiąs ka­
@@ -216,3 +230,65 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   statusas: verified
   pagrindžia:
     - t-008
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/religinis-terminas]]
+
+### Susiję objektai
+- [[objektai/daiktai/Akademijos teatro įranga]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/daiktai/Altorius]]
+- [[objektai/asmenys/Dimitrijus]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Graikai]]
+- [[objektai/daiktai/Ietis]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Teofilis (arkivyskupas)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/viečė]]
+- [[objektai/asmenys/Algirdas Brazauskas]]
+- [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
+- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
+- [[objektai/asmenys/Ciprijonas]]
+- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
+- [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]
+- [[objektai/asmenys/Fotijus]]
+- [[objektai/asmenys/Gr. Camblakas]]
+- [[objektai/autoriai/Grigorijus Camblakas]]
+- [[objektai/autoriai/J. Adamus]]
+- [[objektai/asmenys/Jonas Paulius II]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/asmenys/Julijona (Algirdo žmona)]]
+- [[objektai/asmenys/Jurgis Cemblakas]]
+- [[objektai/autoriai/Karamzin]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/asmenys/Kiprijonas]]
+- [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]
+- [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
+- [[objektai/paprociai/LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas]]
+- [[objektai/grupes/Lietuvos stačiatikiai]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/grupes/Mazovijos kunigaikščiai]]
+- [[objektai/zodynas/Metropolija ir metropolitas]]
+- [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas)]]
+- [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]
+- [[objektai/grupes/Romanovų dinastija]]
+- [[objektai/ivykiai/Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.)]]
+- [[objektai/asmenys/Teodosijus]]
+- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
+- [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]
+- [[objektai/asmenys/Vasilijus Vasiljevičius]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/daugiakonfesiškumas]]
+- [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]
+- [[objektai/posakiai/„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“]]
+- [„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“](/objektai/posakiai/%E2%80%9Epagal%20Tavo%20palaiminim%C4%85%20jy%20%5Bpromaskvieti%C5%A1kas%5D%20metropolitas%20juos%20%5Bmaskv%C3%A9nus%5D%20laimina%20kraujo%20praliejimui%20iki%20%C5%A1iol%E2%80%9C)
+- [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Maskvos metropolitai]]
+- [[objektai/zodynas/metropolitas metropolija]]
+- [[objektai/zodynas/pravoslavai]]

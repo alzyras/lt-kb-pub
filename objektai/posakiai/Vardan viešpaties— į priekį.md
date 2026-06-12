@@ -16,7 +16,9 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
 
 ## Teiginiai
 
+<a id="claim-t-59165"></a>
 - t-001
+  global_id: t-59165
   teiginys: 'Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspausdamas pentinais: „Vardan viešpaties— į priekį“.'
   pagrindžia:
     - c-001

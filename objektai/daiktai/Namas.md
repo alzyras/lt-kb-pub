@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08307"></a>
 - t-001
+  global_id: t-08307
   teiginys: 'Pirmasis giriose gyvenusių žmonių trobesys vadintas nams, namas arba namaitis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08308"></a>
 - t-002
+  global_id: t-08308
   teiginys: 'Senovėj tame name atlikdavo visus namų darbus ir laikydavo reikmenis.'
   pagrindžia:
     - c-002
@@ -141,7 +145,7 @@ Nenurodyta
 - [[objektai/ivykiai/Lietuvių žygis į Kališo ir Seradzo žemes]]
 - [[objektai/ivykiai/Liubavos apiplėšimas ir lietuvių būrio sumušimas]]
 - [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/asmenys/Mangoldas [iš Šternbergo]]]
+- [Mangoldas [iš Šternbergo]](/objektai/asmenys/Mangoldas%20%5Bi%C5%A1%20%C5%A0ternbergo%5D)
 - [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]
 - [[objektai/asmenys/Mauricijus]]
 - [[objektai/asmenys/Mergelė Marija]]
@@ -228,9 +232,11 @@ Nenurodyta
 - [[objektai/posakiai/„dėl Estijos, Latvijos, Lietuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“]]
 - [[objektai/asmenys/Jonas Hozijus]]
 - [[objektai/asmenys/Jonas Zabžezinskis]]
+- [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]
 - [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
 - [[objektai/daiktai/Kardinalijos namų kompleksas]]
 - [[objektai/asmenys/Merkelis Geiša Eljaševičius]]
+- [[objektai/ivykiai/Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas]]
 - [[objektai/asmenys/Pilypas Frizijus]]
 - [[objektai/asmenys/Skomantas]]
 - [[objektai/grupes/Vietinė rinktinė]]

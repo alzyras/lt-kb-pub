@@ -16,7 +16,9 @@ Podolės žemės tėvonys bei paveldėtojai“.
 
 ## Teiginiai
 
+<a id="claim-t-38782"></a>
 - t-001
+  global_id: t-38782
   teiginys: 'Podolėje veikė tėvonių paskirti atamanai, duodavę duoklę atvykstantiems Ordos baskakams.'
   pagrindžia:
     - c-001

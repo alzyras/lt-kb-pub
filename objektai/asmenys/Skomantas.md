@@ -29,63 +29,87 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
 
 ## Teiginiai
 
+<a id="claim-t-59824"></a>
 - t-001
+  global_id: t-59824
   teiginys: 'Dusburgietis teigia, kad apie Gardino pilies sunaikinimą 1284 viešpaties metais tas pats magistras, kuriam niekad nebuvo gana karų su netikėliais, sutelkė stiprią kariuomenę ir vasarą su vadovu Skomantu patraukė prieš Gardino pilį520; persikėlęs per Nemuną, jis išdėstė savo šaulius.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-59825"></a>
 - t-002
+  global_id: t-59825
   teiginys: 'Dusburgietis teigia, kad apie Skomanto mirtį Štai koks iš aukščiausiojo malonės nuostabus atsivertimas ir pasikeitimas, štai Skomantas, anksčiau be saiko persekiojęs dievo bažnyčią, dabar tapo karštu tikėjimo gynėju ir garbingu krikščionių tautos vadu.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-59826"></a>
 - t-003
+  global_id: t-59826
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams, būtent: Eimsutis ir dar viena Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas siaubė Kulmo žemę, plėšdamas ir degindamas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-59827"></a>
 - t-004
+  global_id: t-59827
   teiginys: 'Dusburgietis teigia, kad jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-59828"></a>
 - t-005
+  global_id: t-59828
   teiginys: 'Skomantas su sūduviais įsiveržė į Kulmo žemę ir padalijo kariuomenę į dvi dalis puolimams prieš Torunę ir Kulmo miestą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-59829"></a>
 - t-006
+  global_id: t-59829
   teiginys: 'Dusburgietis teigia, kad įniršęs dėl tokio savo žmonių pralaimėjimo ir tokių didelių nuostolių, patirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių dieną481.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-59830"></a>
 - t-007
+  global_id: t-59830
   teiginys: 'Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo (III, 192).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59831"></a>
 - t-008
+  global_id: t-59831
   teiginys: 'Dusburgietis teigia, kad be kita ko, sudegino Skomanto, galingo vyro bei šio valsčiaus vado, sodybą502 ir, paėmęs į nelaisvę ar išžudęs 150 žmonių, su didžiausiu grobiu sugrįžo namo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59832"></a>
 - t-009
+  global_id: t-59832
   teiginys: 'Dusburgietis teigia, kad skomantas galop su visais savo namais bei šeimyna pasidavė tikėjimui ir broliams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184827"></a>
 - t-011
-  teiginys: 'Kojelavičius teigia, kad vėliau, kai išblaškytas priešas dar dvejojo, kur geriau būtų atremti tą atgriaudėjančią audrą, Skomantas netikėtai atvedė kariuomenę prie Plovistos pilies ir netrukus po atkaklios apsiausties privertė įgulą pasiduoti.'
+  global_id: t-184827
+  teiginys: 'Skomantas atvedė kariuomenę prie Plovistos pilies ir po atkaklios apsiausties privertė jos įgulą pasiduoti.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-184828"></a>
 - t-012
-  teiginys: 'Kojelavičius teigia, kad siekdamas šio tikslo, turėjo jis ir bendrininkų, kilusių iš didikų: Skomantą ir Girdilą, vyrus, garsius Lietuvoje ir visokiomis pareigybėmis, ir šeimos šlove, kurie, priėmę krikščionių tikėjimą, buvo ten pat kartu pasitraukę.'
+  global_id: t-184828
+  teiginys: 'Skomantas ir Girdila buvo didikų kilmės vyrai, priėmę krikščionių tikėjimą ir pasitraukę pas kryžiuočius.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-184829"></a>
 - t-013
-  teiginys: 'Kojelavičius teigia, kad skomantas, neseniai pabėgęs į Prūsiją, netikėtai patraukė su prūsų kariais Gardino kryptimi.'
+  global_id: t-184829
+  teiginys: 'Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais patraukė Gardino kryptimi.'
   pagrindžia:
     - c-012
 
@@ -256,7 +280,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     - t-001
 
 - c-010
-  santrauka: 'Kojelavičius teigia, kad vėliau, kai išblaškytas priešas dar dvejojo, kur geriau būtų atremti tą atgriaudėjančią audrą, Skomantas netikėtai atvedė kariuomenę prie Plovistos pilies ir netrukus po atkaklios apsiausties privertė įgulą pasiduoti.'
+  santrauka: 'Skomantas atvedė kariuomenę prie Plovistos pilies ir po atkaklios apsiausties privertė jos įgulą pasiduoti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pirmiausia jis staiga užpuolė Kulmo žemę ir ją gais­
@@ -282,7 +306,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     - t-011
 
 - c-011
-  santrauka: 'Kojelavičius teigia, kad siekdamas šio tikslo, turėjo jis ir bendrininkų, kilusių iš didikų: Skomantą ir Girdilą, vyrus, garsius Lietuvoje ir visokiomis pareigybėmis, ir šeimos šlove, kurie, priėmę krikščionių tikėjimą, buvo ten pat kartu pasitraukę.'
+  santrauka: 'Skomantas ir Girdila buvo didikų kilmės vyrai, priėmę krikščionių tikėjimą ir pasitraukę pas kryžiuočius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     O tuo metu, kai lietuviai nesėk­
@@ -311,7 +335,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     - t-012
 
 - c-012
-  santrauka: 'Kojelavičius teigia, kad skomantas, neseniai pabėgęs į Prūsiją, netikėtai patraukė su prūsų kariais Gardino kryptimi.'
+  santrauka: 'Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais patraukė Gardino kryptimi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ramiai
@@ -327,3 +351,31 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   statusas: verified
   pagrindžia:
     - t-013
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Drabužiai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Liudvikas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Sūduviai]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vasalas]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/zodynas/įkaitai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]
+- [[objektai/autoriai/Paszkiewicz H]]
+- [[objektai/asmenys/Skomantas (lietuvių vadas)]]
+- [[objektai/ivykiai/Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas]]
+- [[objektai/ivykiai/Skomanto pasitraukimas į Rusios žemę ir atsivertimas]]
+- [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/posakiai/Pasiimk šį savo dievo paveikslą]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/ivykiai/Skomanto antpuolis prieš Gardiną]]
+- [[objektai/ivykiai/Skomanto vadovaujamas sūduvių ir lietuvių žygis į Ordino valdas pavyslyje (1277 m.)]]

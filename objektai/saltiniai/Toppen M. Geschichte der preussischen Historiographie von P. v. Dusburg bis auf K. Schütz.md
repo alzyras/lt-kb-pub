@@ -24,7 +24,9 @@ Dusburgietis teigia, kad toppen M.
 
 ## Teiginiai
 
+<a id="claim-t-61320"></a>
 - t-001
+  global_id: t-61320
   teiginys: 'M. Toppeno „Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz“ išleista Berlyne 1853 m.'
   pagrindžia:
     - c-001

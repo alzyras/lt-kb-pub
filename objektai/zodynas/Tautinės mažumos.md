@@ -26,7 +26,9 @@ Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. k
 
 ## Teiginiai
 
+<a id="claim-t-169938"></a>
 - t-001
+  global_id: t-169938
   teiginys: 'Apskritai tautinės mažumos, tarp jų rusai ir vokiečiai, galėjusios laisvai puoselėti savo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lietuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė valstybinės tarnybos.'
   pagrindžia:
     - c-001

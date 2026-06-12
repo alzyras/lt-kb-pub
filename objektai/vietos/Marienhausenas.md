@@ -18,7 +18,9 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
 
 ## Teiginiai
 
+<a id="claim-t-86303"></a>
 - t-001
+  global_id: t-86303
   teiginys: 'Marienhausenas minimas tarp Livonijos pilių.'
   pagrindžia:
     - c-001

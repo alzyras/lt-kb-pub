@@ -28,22 +28,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-49114"></a>
 - t-001
+  global_id: t-49114
   teiginys: '1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-49115"></a>
 - t-002
+  global_id: t-49115
   teiginys: 'Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir Žalioji.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-49116"></a>
 - t-003
+  global_id: t-49116
   teiginys: 'Čekistai puolė Šarūno rinktinės štabo bunkerį, kurį jiems nurodė Balys.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-49117"></a>
 - t-004
+  global_id: t-49117
   teiginys: '1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, 1949 m.'
   pagrindžia:
     - c-001

@@ -17,12 +17,16 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
 
 ## Teiginiai
 
+<a id="claim-t-69999"></a>
 - t-001
+  global_id: t-69999
   teiginys: 'Glaudus trijų Baltijos valstybių bendradarbiavimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70000"></a>
 - t-002
+  global_id: t-70000
   teiginys: 'Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).'
   pagrindžia:
     - c-002

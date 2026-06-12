@@ -17,7 +17,9 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
 
 ## Teiginiai
 
+<a id="claim-t-39992"></a>
 - t-001
+  global_id: t-39992
   teiginys: 'Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir
 
 ## Teiginiai
 
+<a id="claim-t-86189"></a>
 - t-001
+  global_id: t-86189
   teiginys: 'Horodiščės dvaras ir Losičiai buvo dovanojami su visomis Horodiščės ir Losičių žemėmis bei kaimiečiais.'
   pagrindžia:
     - c-001

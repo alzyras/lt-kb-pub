@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77946"></a>
 - t-001
+  global_id: t-77946
   teiginys: 'Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo pastatydino Vilniaus Žemutinę pilį, įdiegė daug naujų dalykų: nuo „itališkų pasivaikščiojimų“ – pokylių šokių – iki...'
   pagrindžia:
     - c-001

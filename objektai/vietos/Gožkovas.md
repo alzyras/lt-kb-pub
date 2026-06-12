@@ -17,7 +17,9 @@ Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus i
 
 ## Teiginiai
 
+<a id="claim-t-86187"></a>
 - t-001
+  global_id: t-86187
   teiginys: 'Mikalojus iš Gožkovo buvo trečiasis Krokuvos akademijos rektorius ir trečiasis Lietuvos vyskupas nuo Vilniaus katedros įsteigimo.'
   pagrindžia:
     - c-001

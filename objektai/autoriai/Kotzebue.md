@@ -19,7 +19,9 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
 
 ## Teiginiai
 
+<a id="claim-t-88072"></a>
 - t-001
+  global_id: t-88072
   teiginys: 'Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.'
   pagrindžia:
     - c-001

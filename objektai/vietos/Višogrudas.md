@@ -19,17 +19,23 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 
 ## Teiginiai
 
+<a id="claim-t-58487"></a>
 - t-001
+  global_id: t-58487
   teiginys: 'Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58488"></a>
 - t-002
+  global_id: t-58488
   teiginys: 'Višogrudas tapatinamas su dabartiniu Fordonu kairiajame Vyslos krante prie Bidgoščiaus, kur išliko piliakalnis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58489"></a>
 - t-003
+  global_id: t-58489
   teiginys: 'Dusburgietis teigia, kad todėl magistras minėtųjų metų vasarą, subūręs didelę kariuomenę, pasiuntė ją į Lenkiją ir apsupo Višogrudą, Lenkijos karaliaus pilį; joje gyveno nuodėmingi, išgarsėję piktais darbais vyrai, kurie plėšė pro šalį Vyslos upe plaukiančių laivais žmonių turtą, o.'
   pagrindžia:
     - c-003

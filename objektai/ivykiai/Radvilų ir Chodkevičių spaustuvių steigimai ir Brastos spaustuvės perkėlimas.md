@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20459"></a>
 - t-001
+  global_id: t-20459
   teiginys: '1562 m. Radvila Juodasis įkūrė spaustuvę Nesvyžiuje, o 1569 m. Chodkevičiai įsteigė spaustuvę Zabluduve.'
   pagrindžia:
     - c-001

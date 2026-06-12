@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86321"></a>
 - t-001
+  global_id: t-86321
   teiginys: 'Žemutinė, arba Kreivoji pilis.'
   pagrindžia:
     - c-001

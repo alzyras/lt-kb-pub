@@ -42,17 +42,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-47770"></a>
 - t-001
+  global_id: t-47770
   teiginys: 'Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą, bet jo eiga metraštyje neaprašyta.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-47771"></a>
 - t-002
+  global_id: t-47771
   teiginys: 'XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-47772"></a>
 - t-003
+  global_id: t-47772
   teiginys: '1040 m. Jaroslavo karo žygis į Lietuvą yra kaip tik įrodymas, kad tuo metu lietuviai nepripažino Kijevo viršenybės.'
   pagrindžia:
     - c-002

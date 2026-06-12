@@ -24,7 +24,9 @@ Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pir
 
 ## Teiginiai
 
+<a id="claim-t-77853"></a>
 - t-001
+  global_id: t-77853
   teiginys: 'Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pirmas tarp lygiųjų) tarp visų pasiuntinių.'
   pagrindžia:
     - c-001

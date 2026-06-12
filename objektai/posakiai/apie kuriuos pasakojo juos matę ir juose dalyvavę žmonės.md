@@ -16,7 +16,9 @@ Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš ra�
 
 ## Teiginiai
 
+<a id="claim-t-59073"></a>
 - t-001
+  global_id: t-59073
   teiginys: 'Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš rašytinių šaltinių, bet aprašė ir tuos įvykius, kuriuos pats buvo matęs, „apie kuriuos pasakojo juos matę ir juose dalyvavę žmonės“, pagaliau ir apie tuos, apie kuriuos sužinojęs iš.'
   pagrindžia:
     - c-001

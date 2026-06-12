@@ -18,7 +18,9 @@ Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį juridiškai formuluoti,
 
 ## Teiginiai
 
+<a id="claim-t-36842"></a>
 - t-001
+  global_id: t-36842
   teiginys: 'Jogaila vengė juridiškai įtvirtinti padėtį, kurioje Vytautas būtų laikomas tikruoju Lietuvos suverenu.'
   pagrindžia:
     - c-001
@@ -52,3 +54,5 @@ Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį juridiškai formuluoti,
 - [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]
 - [[objektai/zodynas/feodalizmas]]
 - [[objektai/zodynas/sritinė kunigaikštystė]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/zodynas/federacinė valstybė]]

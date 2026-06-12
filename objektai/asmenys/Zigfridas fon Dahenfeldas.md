@@ -15,24 +15,25 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Zigfridas fon Dahenfeldas
 
 ## Santrauka
 
-Kojelavičius teigia, kad zigfridas fon Dahenfeldas paskyrė Zigfridą fon Dahenfeldą, Prūsijos maršalą, ir įsakė žygiuoti į Lietuvą.
+Magistras paskyrė Prūsijos maršalą Zigfridą fon Dahenfeldą kariuomenės vadu ir įsakė žygiuoti į Lietuvą.
 
 ## Teiginiai
 
+<a id="claim-t-186269"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad zigfridas fon Dahenfeldas paskyrė Zigfridą fon Dahenfeldą, Prūsijos maršalą, ir įsakė žygiuoti į Lietuvą.'
+  global_id: t-186269
+  teiginys: 'Magistras paskyrė Prūsijos maršalą Zigfridą fon Dahenfeldą kariuomenės vadu ir įsakė žygiuoti į Lietuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad zigfridas fon Dahenfeldas paskyrė Zigfridą fon Dahenfeldą, Prūsijos maršalą, ir įsakė žygiuoti į Lietuvą.'
+  santrauka: 'Magistras paskyrė Prūsijos maršalą Zigfridą fon Dahenfeldą kariuomenės vadu ir įsakė žygiuoti į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nelaukdami
@@ -77,3 +78,10 @@ Kojelavičius teigia, kad zigfridas fon Dahenfeldas paskyrė Zigfridą fon Dahen
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]

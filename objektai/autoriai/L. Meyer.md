@@ -24,7 +24,9 @@ Dusburgietis teigia, kad meyer.—Paderborn, 1876.
 
 ## Teiginiai
 
+<a id="claim-t-60740"></a>
 - t-001
+  global_id: t-60740
   teiginys: 'L. Meyerio parengta „Livländische Reimchronik“ išleista Paderborne 1876 metais.'
   pagrindžia:
     - c-001

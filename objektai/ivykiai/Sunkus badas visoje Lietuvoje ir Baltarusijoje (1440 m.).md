@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Sunkus badas visoje Lietuvoje ir Baltarusijoje (1440 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad visoje Baltarusijoje taip baisiai sulau kėjo šunys, kad puolė ir draskė sutiktus žmones.
+Per sunkų badą Baltarusijoje sulaukėję šunys puldinėjo ir draskė sutiktus žmones.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185829"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad visoje Baltarusijoje taip baisiai sulau kėjo šunys, kad puolė ir draskė sutiktus žmones.'
+  global_id: t-185829
+  teiginys: 'Per sunkų badą Baltarusijoje sulaukėję šunys puldinėjo ir draskė sutiktus žmones.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad visoje Baltarusijoje taip baisiai sulau kėjo šunys, kad puolė ir draskė sutiktus žmones.'
+  santrauka: 'Per sunkų badą Baltarusijoje sulaukėję šunys puldinėjo ir draskė sutiktus žmones.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po atšiaurios ir ilgesnės nei paprastai žiemos
@@ -77,3 +78,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

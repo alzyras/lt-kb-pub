@@ -19,12 +19,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-99911"></a>
 - t-001
+  global_id: t-99911
   teiginys: '13) atvedęs savo pulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę Gilgenburgą, žygiavo Tannenbergo kryptimi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-99912"></a>
 - t-002
+  global_id: t-99912
   teiginys: '6, 139 Tannenberg (Eglija, Grunwald) 71 ; Tannenbergo mūšis 292, 338, 340, 343, 344, žr.'
   pagrindžia:
     - c-002

@@ -16,7 +16,9 @@ Dusburgietis teigia, kad ir Tepliava) Suvalkai Sūduonia, Sūduonė, u.
 
 ## Teiginiai
 
+<a id="claim-t-58734"></a>
 - t-001
+  global_id: t-58734
   teiginys: 'Dusburgietis teigia, kad ir Tepliava) Suvalkai Sūduonia, Sūduonė, u.'
   pagrindžia:
     - c-001

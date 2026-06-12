@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Mikalojus iš Moskožovo
 
 ## Santrauka
 
-Kojelavičius teigia, kad mikalojus iš Moskožovo toliau puolė, ypač dėl to, kad Plikojo kalno pusėje patrankų sviediniais apgriovus Aukštutinės pilies sieną, puolėjams nelyginant atsivėrė platus kelias.
+Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais Vytauto puolimo pastangas.
 
 ## Teiginiai
 
+<a id="claim-t-186150"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mikalojus iš Moskožovo toliau puolė, ypač dėl to, kad Plikojo kalno pusėje patrankų sviediniais apgriovus Aukštutinės pilies sieną, puolėjams nelyginant atsivėrė platus kelias.'
+  global_id: t-186150
+  teiginys: 'Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais Vytauto puolimo pastangas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mikalojus iš Moskožovo toliau puolė, ypač dėl to, kad Plikojo kalno pusėje patrankų sviediniais apgriovus Aukštutinės pilies sieną, puolėjams nelyginant atsivėrė platus kelias.'
+  santrauka: 'Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais Vytauto puolimo pastangas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas manė, jog patirto pralai­

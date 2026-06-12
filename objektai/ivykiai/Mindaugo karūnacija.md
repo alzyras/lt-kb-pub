@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66787"></a>
 - t-001
+  global_id: t-66787
   teiginys: 'Mindaugo vainikavimo dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66788"></a>
 - t-002
+  global_id: t-66788
   teiginys: 'Mindaugo vainikavimas Mindaugo karūnacija.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86089"></a>
 - t-001
+  global_id: t-86089
   teiginys: 'Prie Mogiliavo pilies buvusios dvaro žemės buvo skirtos karalienei Elenai valdyti iki gyvos galvos.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Lietuvos Tarybos konservatoriai ir monarchistai 1918 m. liepos 13 d., blokuodami
 
 ## Teiginiai
 
+<a id="claim-t-26455"></a>
 - t-001
+  global_id: t-26455
   teiginys: 'Matijas Ercbergeris rėmė Lietuvos Tarybos monarchistus, kai 1918 m. liepos 13 d. Vilhelmas fon Urachas buvo pakviestas į Lietuvos sostą.'
   pagrindžia:
     - c-001

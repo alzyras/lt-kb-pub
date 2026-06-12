@@ -35,17 +35,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66675"></a>
 - t-001
+  global_id: t-66675
   teiginys: '1929 m. naujas emigracijos įstatymas neleido Lietuvoje veikti jo nesilaikančioms emigracijos bendrovėms.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66676"></a>
 - t-002
+  global_id: t-66676
   teiginys: 'Pirmasis emigracijos įstatymas buvo išleistas 1920 m., bet jame buvo spragų ir jis ilgainiui atsiliko nuo gyvenimo reikalavimų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66677"></a>
 - t-003
+  global_id: t-66677
   teiginys: 'Emigracijai prižiūrėti prie Vidaus reikalų ministerijos buvo įsteigta speciali referentūra.'
   pagrindžia:
     - c-003

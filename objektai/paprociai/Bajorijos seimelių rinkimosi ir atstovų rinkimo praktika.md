@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67046"></a>
 - t-001
+  global_id: t-67046
   teiginys: 'Kas treji metai bajorija galėjo rinktis į seimelius Apskrities seimely ji svarstydavo savo reikalus ir išrinkdavo atstovus į apskrities įstaigas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67047"></a>
 - t-002
+  global_id: t-67047
   teiginys: 'Ir iš tikro 1817 metų seimeliai rinkosi baudžiavos panaikinimo šūkiais.'
   pagrindžia:
     - c-002

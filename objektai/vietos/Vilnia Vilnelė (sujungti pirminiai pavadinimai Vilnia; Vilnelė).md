@@ -27,77 +27,107 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 
 ## Teiginiai
 
+<a id="claim-t-174190"></a>
 - t-001
+  global_id: t-174190
   teiginys: 'Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose buvo žinoma jau XII amžiuje.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-174191"></a>
 - t-002
+  global_id: t-174191
   teiginys: 'Šventaragio slėnyje Vilnia įteka į Viliją.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-174193"></a>
 - t-004
+  global_id: t-174193
   teiginys: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-174194"></a>
 - t-005
+  global_id: t-174194
   teiginys: '1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-174197"></a>
 - t-008
+  global_id: t-174197
   teiginys: 'Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio iš miesto į Užupį.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-174198"></a>
 - t-009
+  global_id: t-174198
   teiginys: 'Vilnia tekėjo kalnų apsupta vaga ir įtekėjo į Viliją ties Gedimino pastatyta mūro tvirtove.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-174199"></a>
 - t-010
+  global_id: t-174199
   teiginys: 'Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-174201"></a>
 - t-012
+  global_id: t-174201
   teiginys: 'Iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-174202"></a>
 - t-013
+  global_id: t-174202
   teiginys: 'Vilnia, arba Vilnelė, anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-174203"></a>
 - t-014
+  global_id: t-174203
   teiginys: '1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-174204"></a>
 - t-015
+  global_id: t-174204
   teiginys: 'Gediminas įsakė pastatyti mūrinę pilį Vilnelės ir Vilijos upių santakoje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-174206"></a>
 - t-017
+  global_id: t-174206
   teiginys: '1580 metais ant kalno prie Vilnelės Kasparo Bekešo kapui buvo pastatytas apvalaus bokšto pavidalo paminklas.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-174209"></a>
 - t-020
+  global_id: t-174209
   teiginys: 'Prie Vilnios buvusios tvirtovės palei krantą pažemiais trobelės tęsėsi iki pat Vilijos.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-174210"></a>
 - t-021
+  global_id: t-174210
   teiginys: 'Pasak autoriaus, Gediminas, statydindamas pilį, iškasė Vilnelei kitą vagą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-174211"></a>
 - t-022
+  global_id: t-174211
   teiginys: 'Tarp Vilijos ir Vilnelės plytėjo Šventaragio slėnio lanka, nuo seno apaugusi ąžuolais.'
   pagrindžia:
     - c-003

@@ -35,19 +35,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01847"></a>
 - t-001
+  global_id: t-01847
   teiginys: '1917 m. rugsėjo 18 d. į Vilnių atvyko 214 asmenų, kurie uždaromis durimis posėdžiavo iki rugsėjo 22 d.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01848"></a>
 - t-002
-  teiginys: 'Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti tautinių mažumų atstovai.'
+  global_id: t-01848
+  teiginys: 'Vilniaus konferencija programai vykdyti išrinko 20 asmenų Tarybą, kuri vėliau turėjo būti papildyta tautinių mažumų atstovais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus konferencija programai vykdyti išrinko 20 asmenų Tarybą, kuri vėliau turėjo būti papildyta tautinių mažumų atstovais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tautinėms mažumoms turėjo būti laiduotos kultūrinės teisės.

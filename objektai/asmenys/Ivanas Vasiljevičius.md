@@ -12,7 +12,6 @@ tags:
   - kunigaikštis
   - miestas
 ---
-
 # Ivanas Vasiljevičius
 
 ## Santrauka
@@ -21,18 +20,24 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
 
 ## Teiginiai
 
+<a id="claim-t-87520"></a>
 - t-001
+  global_id: t-87520
   teiginys: 'Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio Aleksandro dėmesį nuo Vilniaus gerovės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87521"></a>
 - t-002
+  global_id: t-87521
   teiginys: 'Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184713"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad nieko nepešę, kara liaus legatai iškeliavo iš Maskvos, o netrukus pas ka ralių atvyko Ivano pasiuntinys, neturėjęs jokios rim tesnės užduoties, tik po senovei protestavęs dėl kaimy nų daromų skriaudų.'
+  global_id: t-184713
+  teiginys: 'Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose.'
   pagrindžia:
     - c-003
 
@@ -114,7 +119,7 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad nieko nepešę, kara liaus legatai iškeliavo iš Maskvos, o netrukus pas ka ralių atvyko Ivano pasiuntinys, neturėjęs jokios rim tesnės užduoties, tik po senovei protestavęs dėl kaimy nų daromų skriaudų.'
+  santrauka: 'Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nieko nepešę, kara­
@@ -134,3 +139,20 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Rusų pirkliai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/grašis]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/legatai]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Jonas Gornostajus]]
+- [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]
+- [[objektai/grupes/Krymo orda]]

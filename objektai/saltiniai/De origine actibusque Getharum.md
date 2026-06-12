@@ -18,7 +18,9 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 
 ## Teiginiai
 
+<a id="claim-t-31656"></a>
 - t-001
+  global_id: t-31656
   teiginys: 'Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine actibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą tautą («pacatum hominum genus omnino »), užėmusią labai ilgą pajūrio krantą į rytus.'
   pagrindžia:
     - c-001

@@ -27,43 +27,59 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 
 ## Teiginiai
 
+<a id="claim-t-76165"></a>
 - t-001
+  global_id: t-76165
   teiginys: 'Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-76166"></a>
 - t-002
+  global_id: t-76166
   teiginys: 'Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe – Baltarusija, su ja 1991 m. spalį pasirašė Deklaraciją dėl geros kaimynystės santykių principų, o po ketverių metų – sutartį dėl geros kaimynystės, Sutarties pasirašymas su Rusija – centre.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-76167"></a>
 - t-003
+  global_id: t-76167
   teiginys: 'Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti Lietuva, o šiandien ją vadiname istorine Lietuva.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-76168"></a>
 - t-004
+  global_id: t-76168
   teiginys: 'Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lukašenkos diktatūrinis valdymas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-76169"></a>
 - t-005
+  global_id: t-76169
   teiginys: 'Kad ir kaip ten būtų, bet kaip tik šioje erdvėje gimė keturios moderniosios Naujųjų laikų valstybės: Lenkija, Lietuva, Baltarusija, Ukraina.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-76170"></a>
 - t-006
+  global_id: t-76170
   teiginys: 'LDK erdvė apėmė Lietuvos, Baltarusijos, Ukrainos ir Lenkijos žydus, vadintus „Rusijos žydais“.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184926"></a>
 - t-008
-  teiginys: 'Kojelavičius teigia, kad argi jie pasitiki ištiki mybe Baltarusijos, kuri visada ligi šiol savo jėgomis rė musi maištininkus, kėlusius ranką prieš teisėtus valdo vus?'
+  global_id: t-184926
+  teiginys: 'Kojelavičius Baltarusiją apibūdino kaip kraštą, iki tol savo jėgomis rėmusį maištininkus prieš teisėtus valdovus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184927"></a>
 - t-009
-  teiginys: 'Kojelavičius teigia, kad žiemos viduryje ap lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske popiežiaus ir imperatoriaus įsikišimas.'
+  global_id: t-184927
+  teiginys: 'Kazimieras žiemos viduryje aplankė Baltarusiją, kur Polocke, Vitebske ir Smolenske tvarkė taikos bei karo reikalus.'
   pagrindžia:
     - c-007
 
@@ -161,7 +177,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - t-002
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad argi jie pasitiki ištiki mybe Baltarusijos, kuri visada ligi šiol savo jėgomis rė musi maištininkus, kėlusius ranką prieš teisėtus valdo vus?'
+  santrauka: 'Kojelavičius Baltarusiją apibūdino kaip kraštą, iki tol savo jėgomis rėmusį maištininkus prieš teisėtus valdovus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Negi jie mano, jog Že­
@@ -181,7 +197,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - t-008
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad žiemos viduryje ap lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske popiežiaus ir imperatoriaus įsikišimas.'
+  santrauka: 'Kazimieras žiemos viduryje aplankė Baltarusiją, kur Polocke, Vitebske ir Smolenske tvarkė taikos bei karo reikalus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žiemos viduryje ap­

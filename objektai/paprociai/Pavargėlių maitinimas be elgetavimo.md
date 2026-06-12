@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62706"></a>
 - t-001
+  global_id: t-62706
   teiginys: 'Dusburgietis teigia, kad jų krašte niekam neleidžiama elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada tinkami.'
   pagrindžia:
     - c-002

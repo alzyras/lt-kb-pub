@@ -27,32 +27,44 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
 
 ## Teiginiai
 
+<a id="claim-t-114280"></a>
 - t-001
+  global_id: t-114280
   teiginys: 'Abiejų Tautų Respublika per Gdanską į Amsterdamą aprūpino Vakarus javais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-114281"></a>
 - t-002
+  global_id: t-114281
   teiginys: 'Kai kurie klaipėdiškiai lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko, statusą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-114283"></a>
 - t-004
+  global_id: t-114283
   teiginys: 'Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-114284"></a>
 - t-005
+  global_id: t-114284
   teiginys: 'Dusburgietis teigia, kad išliko keletas kronikos rankraštinių ištraukų, saugotų Gdanske (XVI a.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-114285"></a>
 - t-006
+  global_id: t-114285
   teiginys: 'Kova dėl Livonijos daugiausia buvo suinteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko uostą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183591"></a>
 - t-007
+  global_id: t-183591
   teiginys: 'Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas)).'
   pagrindžia:
     - c-006

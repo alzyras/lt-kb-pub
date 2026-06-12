@@ -32,78 +32,108 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 
 ## Teiginiai
 
+<a id="claim-t-180319"></a>
 - t-001
+  global_id: t-180319
   teiginys: 'Po Švitrigailos pabėgimo Zigmantui, be tikrosios Lietuvos, liko Palenkės, Pagirio ir Minsko žemės.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-180320"></a>
 - t-002
+  global_id: t-180320
   teiginys: 'XII amžiuje, pakrikus Polocko kunigaikštijai, iš Minsko ir kitų jos miestų susidarė atskiros kunigaikštijos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-180321"></a>
 - t-003
+  global_id: t-180321
   teiginys: 'Per maištą užpultas Minskas, kaip ir Sluckas, nepasidavė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-180322"></a>
 - t-004
+  global_id: t-180322
   teiginys: 'Minske įsteigta jėzuitų kolegija buvo kanclerio Martyno Oginskio ir K. Bžostausko fundacija.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-180323"></a>
 - t-005
+  global_id: t-180323
   teiginys: 'Žygimanto privilegijoje Minskas minėtas tarp Lietuvos žemės vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-180324"></a>
 - t-006
+  global_id: t-180324
   teiginys: 'Čia jos turėjo susijungti ir pulti Minsko, Naugarduko, o vėliau Vilniaus kryptimi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-180326"></a>
 - t-007
-  teiginys: 'Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros kunigaikštijos.'
+  global_id: t-180326
+  teiginys: 'XII a. iš Polocko kunigaikštijos miestų, tarp jų Minsko, susidarė atskiros kunigaikštijos.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-180328"></a>
 - t-008
+  global_id: t-180328
   teiginys: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-180330"></a>
 - t-010
+  global_id: t-180330
   teiginys: 'Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-180332"></a>
 - t-012
+  global_id: t-180332
   teiginys: 'Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zaslavlis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-180333"></a>
 - t-013
+  global_id: t-180333
   teiginys: '1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-185048"></a>
 - t-014
-  teiginys: 'Kojelavičius teigia, kad jis pasiuntė į Smolenską lengvuosius dalinius, vedamus Konstanti no, Ostrogo kunigaikščio, o K o n sta n tin a s O stio - pats su pagrindinėmis jėgog išk is traukia p rieš mis lėtai patraukė iš paskos, M a s k v ą šiek tiek stabtelėdamas iš pradžių Minske, o.'
+  global_id: t-185048
+  teiginys: 'Aleksandras su pagrindinėmis jėgomis lėtai sekė Konstantino Ostrogiškio dalinius, stabtelėdamas Minske ir Borisove.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-185049"></a>
 - t-015
-  teiginys: 'Kojelavičius teigia, kad aleksandras, iš visa ko geM a s k v ė n a i a p su p a rai supratęs, kaip menkai S m o len sk ą galima pasitikėti maskvėnų pažadais, įsikūrė Minske pa siryžęs iš arti vadovauti kariuomenei, jeigu užgriūtų karas.'
+  global_id: t-185049
+  teiginys: 'Maskvėnams apsupus Smolenską, Aleksandras įsikūrė Minske, kad iš arti vadovautų kariuomenei kilus karui.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-185050"></a>
 - t-016
-  teiginys: 'Kojelavičius teigia, kad nužygiavęs ligi Minsko, jis visur nuniokojo kraštą, sudegino miestą, o matydamas, jog pilies nieku būdu greitai neužims, jos neapgulė, bet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko ir Vitebsko žemes, niekur nesutikdamas pasipriešini mo, ir sugrįžo.'
+  global_id: t-185050
+  teiginys: 'Mechmetas Girėjus nužygiavo iki Minsko, nuniokojo kraštą ir sudegino miestą, bet pilies neapgulė.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-185051"></a>
 - t-017
-  teiginys: 'Kojelavičius teigia, kad po priešo niokojamo antpuolio Minske ir kituose miestuose užėjo maras.'
+  global_id: t-185051
+  teiginys: 'Po priešo niokojamo antpuolio Minske ir kituose miestuose kilo maras.'
   pagrindžia:
     - c-015
 
@@ -212,6 +242,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - t-005
 
 - c-006
+  santrauka: 'XII a. iš Polocko kunigaikštijos miestų, tarp jų Minsko, susidarė atskiros kunigaikštijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet jau XII
@@ -348,7 +379,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - t-010
 
 - c-012
-  santrauka: 'Kojelavičius teigia, kad jis pasiuntė į Smolenską lengvuosius dalinius, vedamus Konstanti no, Ostrogo kunigaikščio, o K o n sta n tin a s O stio - pats su pagrindinėmis jėgog išk is traukia p rieš mis lėtai patraukė iš paskos, M a s k v ą šiek tiek stabtelėdamas iš pradžių Minske, o.'
+  santrauka: 'Aleksandras su pagrindinėmis jėgomis lėtai sekė Konstantino Ostrogiškio dalinius, stabtelėdamas Minske ir Borisove.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Aleksandras, praradęs bet kokias vil­
@@ -375,7 +406,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - t-014
 
 - c-013
-  santrauka: 'Kojelavičius teigia, kad aleksandras, iš visa ko geM a s k v ė n a i a p su p a rai supratęs, kaip menkai S m o len sk ą galima pasitikėti maskvėnų pažadais, įsikūrė Minske pa siryžęs iš arti vadovauti kariuomenei, jeigu užgriūtų karas.'
+  santrauka: 'Maskvėnams apsupus Smolenską, Aleksandras įsikūrė Minske, kad iš arti vadovautų kariuomenei kilus karui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat va­
@@ -398,7 +429,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - t-015
 
 - c-014
-  santrauka: 'Kojelavičius teigia, kad nužygiavęs ligi Minsko, jis visur nuniokojo kraštą, sudegino miestą, o matydamas, jog pilies nieku būdu greitai neužims, jos neapgulė, bet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko ir Vitebsko žemes, niekur nesutikdamas pasipriešini mo, ir sugrįžo.'
+  santrauka: 'Mechmetas Girėjus nužygiavo iki Minsko, nuniokojo kraštą ir sudegino miestą, bet pilies neapgulė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vaivada Goštautas, pilies seniūnas
@@ -420,7 +451,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - t-016
 
 - c-015
-  santrauka: 'Kojelavičius teigia, kad po priešo niokojamo antpuolio Minske ir kituose miestuose užėjo maras.'
+  santrauka: 'Po priešo niokojamo antpuolio Minske ir kituose miestuose kilo maras.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žmonės pa­

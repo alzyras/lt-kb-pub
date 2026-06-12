@@ -27,72 +27,100 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 
 ## Teiginiai
 
+<a id="claim-t-90290"></a>
 - t-001
+  global_id: t-90290
   teiginys: 'Dusburgietis teigia, kad po to ima pasakoti apie atskirų pilių bei miestų karus antrojo sukilimo metu (įvykių centre čia atsiduria Baiga, Brunsbergas, Kristburgas, Marienverderis, Kulmas, Elbingas, Bartenšteinas (III, 137—174).'
   pagrindžia:
     - c-011
 
+<a id="claim-t-90291"></a>
 - t-002
+  global_id: t-90291
   teiginys: 'Dusburgietis teigia, kad apie kelių prūsų žūtį Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo tokia narsa ir drąsa, kad retai kada priešo kariuomenė atsitraukdavo nuo pilies nepatyrusi nuostolių.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-90292"></a>
 - t-003
+  global_id: t-90292
   teiginys: 'Dusburgietis teigia, kad apie Baigos brolių vienuolišką gyvenimą Vargu ar kas žino, išskyrus tą, kuriam atvira kiekviena širdis ir kuriam nėra jokių paslapčių, kaip skaisčiai gyveno, kokio dorovingo santūrumo ir kokių griežtų vienuoliškų regulų laikėsi Baigos bei kitų minėtųjų pilių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-90293"></a>
 - t-004
+  global_id: t-90293
   teiginys: 'Dusburgietis teigia, kad apie karo su sembais rezultatų atspėjimą Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau jį ištirti, nusiuntė į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą, maloniai jį priėmė, aprodydami visą jų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-90294"></a>
 - t-005
+  global_id: t-90294
   teiginys: 'Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą, vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama Kandeimu, gerai žinojusį visą Sembos karių galią.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-90295"></a>
 - t-006
+  global_id: t-90295
   teiginys: 'Pasak kronikos, Kristus padėjo Baigoje apsuptiems broliams, paragindamas vieną prūsą išduoti saviškius.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-90296"></a>
 - t-007
+  global_id: t-90296
   teiginys: 'Kronikoje minimi trys Baigos komtūrai, dauguma jų buvo iš rytinės Ordino teritorijos dalies.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-90297"></a>
 - t-008
+  global_id: t-90297
   teiginys: 'Dusburgietis teigia, kad šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė vienas pasirodyti.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-90298"></a>
 - t-009
+  global_id: t-90298
   teiginys: 'Prie Baigos atplaukusi Ordino kariuomenė, padedama pilies vado Kodrūno, užgrobė prūsų pilį.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-90299"></a>
 - t-010
+  global_id: t-90299
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas Tuo metu daug kilmingų ir galingų Varmės vyrų, matydami, kad dievas padeda kovoti broliams, pajuto tokią didelę sąžinės graužatį, kad su namais bei savo šeimynomis246 persikėlė pas Baigos brolius, o šie.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-90300"></a>
 - t-011
+  global_id: t-90300
   teiginys: 'Dusburgietis teigia, kad paskui jie patraukė prieš Baigą ir pagrobė brolių arklius bei gyvulius, ir šitai buvo ne vieną, bet keletą kartų.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-90301"></a>
 - t-012
+  global_id: t-90301
   teiginys: 'Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs visą savo kariuomenę, apsiautė Baigos pilį ir, būdamas viršininkas, įsigeidė pats kaip karo vadas kitų akivaizdoje pasižymėti kovoje, tačiau.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90302"></a>
 - t-013
+  global_id: t-90302
   teiginys: 'Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę kariuomenę keršyti už neteisingai nužudytuosius; atplaukę prie Baigos, jie ten išlipo ir, tinkamose vietose išdėstę lankininkus bei surėmę į sieną kopėčias, smarkiai užpuolė šią prūsų pilį, o kadangi jiems.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-90303"></a>
 - t-014
+  global_id: t-90303
   teiginys: 'Dusburgietis teigia, kad atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra Baigos pilis, pamatė prūsų pilį, kurios vis dėlto nedrįso pulti, nes turėjo per mažai karių.'
   pagrindžia:
     - c-012

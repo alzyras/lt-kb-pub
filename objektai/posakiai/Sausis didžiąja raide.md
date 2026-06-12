@@ -34,12 +34,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41464"></a>
 - t-001
+  global_id: t-41464
   teiginys: 'Posakis „Sausis didžiąja raide“ siejamas su Sausio 13-ąja ir 1991 metų naktimi, kai Lietuva laimėjo ištvermės mūšį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41465"></a>
 - t-002
+  global_id: t-41465
   teiginys: 'Formuluotė „Sausis didžiąja raide“ Lietuvoje siejama su Sausio 13-ąja ir 1991 metų nakties atmintimi.'
   pagrindžia:
     - c-001

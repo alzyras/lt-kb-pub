@@ -22,7 +22,9 @@ Dusburgietis teigia, kad strikowski M.
 
 ## Teiginiai
 
+<a id="claim-t-61301"></a>
 - t-001
+  global_id: t-61301
   teiginys: 'M. Strikowskio „Kronika polska, litewska, żmodzka i wszystkiej Rusi“ išleista Karaliaučiuje 1582 m.'
   pagrindžia:
     - c-001

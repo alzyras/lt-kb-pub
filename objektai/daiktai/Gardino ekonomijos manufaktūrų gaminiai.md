@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77924"></a>
 - t-001
+  global_id: t-77924
   teiginys: 'Smuglevičius, 1800 m. įsteigė tekstilės, popieriaus, galanterijos, ginklų, vežimų manufaktūras Gardino ekonomijoje.'
   pagrindžia:
     - c-001

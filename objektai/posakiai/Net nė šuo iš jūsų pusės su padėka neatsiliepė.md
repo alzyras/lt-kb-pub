@@ -32,17 +32,23 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
 
 ## Teiginiai
 
+<a id="claim-t-55183"></a>
 - t-001
+  global_id: t-55183
   teiginys: 'Gedimino laiške priekaištauta, kad į ankstesnius pasiuntinius, laiškus ir atvertą kraštą net nė šuo su padėka neatsiliepė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55184"></a>
 - t-002
+  global_id: t-55184
   teiginys: 'Priekaištas sustiprintas formule, kad net nė šuo iš adresatų pusės su padėka neatsiliepė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82142"></a>
 - t-003
+  global_id: t-82142
   teiginys: 'Mūsų senoliai siuntė jums savo pasiuntinius ir laiškus, atvėrė jums savo kraštą, [tačiau] niekas iš jūsų neatvyko, net nė šuo iš jūsų pusės su padėka neatsiliepė dėl tų pasiūlymų.'
   pagrindžia:
     - c-002

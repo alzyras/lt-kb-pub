@@ -28,12 +28,16 @@ Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti L
 
 ## Teiginiai
 
+<a id="claim-t-69569"></a>
 - t-001
+  global_id: t-69569
   teiginys: 'Napoleonas su kariuomene stovėjo Vilkaviškyje, kai jau buvo paskelbęs karą Rusijai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-69570"></a>
 - t-002
+  global_id: t-69570
   teiginys: '78-79 Valimantaičiai 368 Valimantaitis Kęsgailą 354 Valkaviskas (Vilkaviškis) 88, 125, 164, 215, 286 Valuinė 28, žr.'
   pagrindžia:
     - c-001

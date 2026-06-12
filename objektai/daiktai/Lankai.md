@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40735"></a>
 - t-001
+  global_id: t-40735
   teiginys: 'Priedangą jų darbui teikė dviejų patrankų, šautuvų ir lankų ugnis.'
   pagrindžia:
     - c-001
@@ -66,7 +68,7 @@ Nenurodyta
 - [[objektai/asmenys/Jonas Lonei]]
 - [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Zygfridas iš Da[he]nfeldo]]
+- [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
 - [[objektai/zodynas/stabmeldys]]
 - [[objektai/zodynas/vyskupo teisėjas]]
 - [[objektai/daiktai/Šarvai]]

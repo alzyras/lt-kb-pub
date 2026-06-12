@@ -19,7 +19,9 @@ L I E T U V O S I S T O R I J A 106 Caro valdžia: „Čia nebus Lenkijos“ Po 
 
 ## Teiginiai
 
+<a id="claim-t-77811"></a>
 - t-001
+  global_id: t-77811
   teiginys: 'Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo „lenkų pradų naikinimo“ politiką, grįstą „istorinio pirmumo“ teise.'
   pagrindžia:
     - c-001

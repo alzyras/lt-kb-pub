@@ -22,7 +22,9 @@ Su jo kaip redaktoriaus vardu labiausiai lietuvių visuo­ menėje yra surišta 
 
 ## Teiginiai
 
+<a id="claim-t-31819"></a>
 - t-001
+  global_id: t-31819
   teiginys: '„Lietuvos istoriją“ (1936) rašė penki autoriai, o redaktoriaus indėlis buvo didžiausias.'
   pagrindžia:
     - c-001

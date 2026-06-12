@@ -35,22 +35,30 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 
 ## Teiginiai
 
+<a id="claim-t-70311"></a>
 - t-001
+  global_id: t-70311
   teiginys: 'Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70312"></a>
 - t-002
+  global_id: t-70312
   teiginys: 'Lauko etmonas kairiajame sparne išdėstė savo kavalerijos dalinius, kuriems greičiausiai vadovavo Usviatų seniūnas, rotmistras Jonas Petras Sapiega, centre buvo išdėstyti pėstininkai su muškietomis, kuriems vadovavo LDK didysis maršalka Kristupas Mikalojus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70313"></a>
 - t-003
+  global_id: t-70313
   teiginys: 'Kavalerijos dalinio vadas - rotmistras, turėdamas šaukimo raštus pats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-70314"></a>
 - t-004
+  global_id: t-70314
   teiginys: 'Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo
 
 ## Teiginiai
 
+<a id="claim-t-02505"></a>
 - t-001
+  global_id: t-02505
   teiginys: '1925 m. Lenkija pasiūlė Lietuvai Kopenhagoje derėtis dėl Nemuno atidarymo.'
   pagrindžia:
     - c-001

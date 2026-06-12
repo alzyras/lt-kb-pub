@@ -35,12 +35,16 @@ Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpr
 
 ## Teiginiai
 
+<a id="claim-t-60947"></a>
 - t-001
+  global_id: t-60947
   teiginys: 'Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas 1326 m. (PUB, 3, 3, p. 708, 697; Weber L., Preussen..., p. 473; Ambrassat A., Die Provinz..., p. 421).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60949"></a>
 - t-002
+  global_id: t-60949
   teiginys: 'A. Ambrassato veikalas „Die Provinz Ostpreussen“ išleistas Karaliaučiuje 1912 m.'
   pagrindžia:
     - c-001

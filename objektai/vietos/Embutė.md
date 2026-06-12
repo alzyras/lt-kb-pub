@@ -19,7 +19,9 @@ Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su 
 
 ## Teiginiai
 
+<a id="claim-t-41712"></a>
 - t-001
+  global_id: t-41712
   teiginys: 'Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis puolė Ordino valdytą Embutės pilį, bet jos neužėmė.'
   pagrindžia:
     - c-001

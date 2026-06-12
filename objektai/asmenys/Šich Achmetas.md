@@ -6,34 +6,39 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Šich Achmetas
 
 ## Santrauka
 
-Kojelavičius teigia, kad į seimą atvyko iš Vilniaus Skitas Sich Achmetas Šich Achmetas, Užvolgio skitariasi su karaliumi tų valdovas, o šiuo metu Breste ir Radome tremtinys ir beveik belaisvis. Kojelavičius teigia, kad karalius įsakė parūpinti Šich Achmetui pui kiausią svitą ir palydėti jį į Radomą. Kojelavičius teigia, kad susirgęs karalius nuvežamas į Krokuvą, o Šich Achmetas, valdovo valia turėjęs būti Trakuose vaišingai priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
+Šich Achmetas, Užvolgio skitų valdovas ir tremtinys Breste bei Radome, atvyko iš Vilniaus į seimą. Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą. Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą.
 
 ## Teiginiai
 
+<a id="claim-t-186025"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad į seimą atvyko iš Vilniaus Skitas Sich Achmetas Šich Achmetas, Užvolgio skitariasi su karaliumi tų valdovas, o šiuo metu Breste ir Radome tremtinys ir beveik belaisvis.'
+  global_id: t-186025
+  teiginys: 'Šich Achmetas, Užvolgio skitų valdovas ir tremtinys Breste bei Radome, atvyko iš Vilniaus į seimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186026"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad karalius įsakė parūpinti Šich Achmetui pui kiausią svitą ir palydėti jį į Radomą.'
+  global_id: t-186026
+  teiginys: 'Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-186027"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad susirgęs karalius nuvežamas į Krokuvą, o Šich Achmetas, valdovo valia turėjęs būti Trakuose vaišingai priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.'
+  global_id: t-186027
+  teiginys: 'Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad į seimą atvyko iš Vilniaus Skitas Sich Achmetas Šich Achmetas, Užvolgio skitariasi su karaliumi tų valdovas, o šiuo metu Breste ir Radome tremtinys ir beveik belaisvis.'
+  santrauka: 'Šich Achmetas, Užvolgio skitų valdovas ir tremtinys Breste bei Radome, atvyko iš Vilniaus į seimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Į seimą atvyko iš Vilniaus
@@ -56,7 +61,7 @@ Kojelavičius teigia, kad į seimą atvyko iš Vilniaus Skitas Sich Achmetas Ši
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad karalius įsakė parūpinti Šich Achmetui pui kiausią svitą ir palydėti jį į Radomą.'
+  santrauka: 'Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius įsakė parūpinti Šich Achmetui pui­
@@ -76,7 +81,7 @@ Kojelavičius teigia, kad į seimą atvyko iš Vilniaus Skitas Sich Achmetas Ši
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad susirgęs karalius nuvežamas į Krokuvą, o Šich Achmetas, valdovo valia turėjęs būti Trakuose vaišingai priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.'
+  santrauka: 'Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dėl karaliaus ligos seimas buvo pa­
@@ -98,3 +103,18 @@ Kojelavičius teigia, kad į seimą atvyko iš Vilniaus Skitas Sich Achmetas Ši
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/NATO]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/ivykiai/Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską|Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/paprociai/Bajoriškųjų lengvatų suteikimas paliečiant petį kardu]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/bajoriškosios lengvatos]]
+- [[objektai/paprociai/Iškilmingas aukšto svečio sutikimas lauke su palapine, kilimu ir garbės vieta]]
+- [[objektai/ivykiai/Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas]]

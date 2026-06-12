@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66575"></a>
 - t-001
+  global_id: t-66575
   teiginys: 'Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygiavo su tūkstančiu Sembos vyrų ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link Medrabos pilies534, per kurią.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66576"></a>
 - t-002
+  global_id: t-66576
   teiginys: 'Dusburgietis teigia, kad apie Junigedos pilies pastatymą ir Medrabos pilies sunaikinimą Tais pačiais metais per velykas lietuviai pastatė Junigedos valsčiuje pilį533, kurią 531 Žr.'
   pagrindžia:
     - c-001

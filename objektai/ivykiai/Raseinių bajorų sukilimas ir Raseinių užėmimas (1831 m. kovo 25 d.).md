@@ -36,17 +36,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01788"></a>
 - t-001
+  global_id: t-01788
   teiginys: 'Raseiniškių sėkmė paskatino sukilimą kitose apskrityse, ir netrukus sukilėlių rankose atsidūrė visa Lietuva.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-01789"></a>
 - t-002
+  global_id: t-01789
   teiginys: '1831 m. kovo 25 d. Raseinių bajorai pirmieji nutarė sukilti ir surašė sukilimo aktą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01790"></a>
 - t-003
+  global_id: t-01790
   teiginys: '1831 m. kovo 25 d. 50 raitelių, 100 pėsčiųjų šaulių ir 400 valstiečių užėmė Raseinius.'
   pagrindžia:
     - c-002

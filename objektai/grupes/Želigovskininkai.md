@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-20114"></a>
 - t-001
+  global_id: t-20114
   teiginys: 'Po L. Želigovskio akcijos Lietuvai reikėjo stabdyti tolesnį želigovskininkų judėjimą į Lietuvos teritoriją.'
   pagrindžia:
     - c-001

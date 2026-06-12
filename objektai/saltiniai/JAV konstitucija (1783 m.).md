@@ -22,7 +22,9 @@ Lenkijos ir Lietuvos konstitucijos konstruojama santvarka turėjo lygiuotis į A
 
 ## Teiginiai
 
+<a id="claim-t-78128"></a>
 - t-001
+  global_id: t-78128
   teiginys: 'Lenkijos ir Lietuvos konstitucijos konstruojama santvarka turėjo lygiuotis į Anglijoje prieš 100 metų įvestą santvarką, tiesa, taip ir nesulaukusią rašytinės konstitucijos.'
   pagrindžia:
     - c-001

@@ -31,32 +31,44 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
 
 ## Teiginiai
 
+<a id="claim-t-63416"></a>
 - t-001
+  global_id: t-63416
   teiginys: 'Dusburgietis pasakoja, kad 1303 m. Bonifacas VIII paskelbė Albrechtą imperatoriumi ir atidavė jam Prancūzijos karalystę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-63417"></a>
 - t-002
+  global_id: t-63417
   teiginys: 'Dusburgietis pasakoja, kad 1308 m. Albrechtą nužudė jo vaikaitis Jonas, vadinamas Anlantu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63418"></a>
 - t-003
+  global_id: t-63418
   teiginys: 'Dusburgietis pasakoja, kad 1307 m. Albrechtas į Čekijos sostą pakėlė savo sūnų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-63419"></a>
 - t-004
+  global_id: t-63419
   teiginys: 'Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių, imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė Klemensas V, popiežius (Ptol.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-63420"></a>
 - t-005
+  global_id: t-63420
   teiginys: 'Dusburgietis teigia, kad apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems 1307 viešpaties metais mirė Vaclovas, Čekijos karalius, o jo sūnus buvo vainikuotas karaliumi Budoje, tačiau tais pačiais metais jį nužudė vienas jo riteris (Ptol.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-63421"></a>
 - t-006
+  global_id: t-63421
   teiginys: 'Dusburgietis teigia, kad apie Albrechto, Romos karaliaus, nužudymą 1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos karalių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs Austrijos kunigaikštystę, nors tas ir buvo.'
   pagrindžia:
     - c-002

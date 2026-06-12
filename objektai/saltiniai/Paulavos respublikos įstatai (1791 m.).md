@@ -23,7 +23,9 @@ Bžostovskio įkurta Paulavos respublika.
 
 ## Teiginiai
 
+<a id="claim-t-23406"></a>
 - t-001
+  global_id: t-23406
   teiginys: 'Bžostovskio įkurta Paulavos respublika.'
   pagrindžia:
     - c-001

@@ -28,7 +28,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31892"></a>
 - t-001
+  global_id: t-31892
   teiginys: '„Pradinis švietimas Lietuvoje iki trečiojo padalinimo (1795 m.)“ 1971 m. paskelbtas „Lietuvių Tautos Praeities“ III tomo 1 numeryje.'
   pagrindžia:
     - c-001

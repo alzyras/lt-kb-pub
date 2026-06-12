@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66618"></a>
 - t-001
+  global_id: t-66618
   teiginys: 'Susipratę vietos lietuviai, nenorėdami leisti tokiai krypčiai įsivyrauti, padedami savanorių būrio iš Lietuvos, sukilo su ginklu rankose prieš vietinę Klaipėdos krašto vyresnybę ir 1923 metų sausio mėn.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66619"></a>
 - t-002
+  global_id: t-66619
   teiginys: 'Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui.'
   pagrindžia:
     - c-002

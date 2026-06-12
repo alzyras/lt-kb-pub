@@ -27,32 +27,44 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
 
 ## Teiginiai
 
+<a id="claim-t-90731"></a>
 - t-001
+  global_id: t-90731
   teiginys: 'Kroicburgas, dabartinis Slavskoje, buvo į pietus nuo Frišingo upės ir į rytus nuo Baigos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90732"></a>
 - t-002
+  global_id: t-90732
   teiginys: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-90733"></a>
 - t-003
+  global_id: t-90733
   teiginys: 'Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).'
   pagrindžia:
     - c-004
 
+<a id="claim-t-90734"></a>
 - t-004
+  global_id: t-90734
   teiginys: 'Dusburgietis teigia, kad apie Kroicburgo pilies sugriovimą Tais pačiais viešpaties metais, tai yra 1263, notangai, apsupę Kroicburgo pilį, trejus metus ją puolė įsirengę tris apgulos mašinas ir tris kuorus, o broliai su savo šeimyna, ilgai ir garbingai ten kovoję ir visiškai pristigę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-90735"></a>
 - t-005
+  global_id: t-90735
   teiginys: 'Dusburgietis teigia, kad , o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).'
   pagrindžia:
     - c-006
 
+<a id="claim-t-90736"></a>
 - t-006
+  global_id: t-90736
   teiginys: 'Dusburgietis teigia, kad todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis.'
   pagrindžia:
     - c-005

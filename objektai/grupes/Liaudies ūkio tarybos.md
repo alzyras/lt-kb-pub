@@ -16,7 +16,9 @@ Naujoji tvarka daugiau teisių suteikė sąjunginėms respublikoms: jos tvirtino
 
 ## Teiginiai
 
+<a id="claim-t-19799"></a>
 - t-001
+  global_id: t-19799
   teiginys: '1957 m. vietoje pramonės ir statybos ministerijų įsteigtos regioninės Liaudies ūkio tarybos turėjo pertvarkyti pramonės valdymą.'
   pagrindžia:
     - c-001

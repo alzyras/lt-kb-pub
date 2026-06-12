@@ -46,7 +46,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67184"></a>
 - t-001
+  global_id: t-67184
   teiginys: 'Bažnyčia siekė integruoti pagoniškuosius tikėjimus, tačiau katalikų šventieji tik pamažu stūmė pagonių dievus.'
   pagrindžia:
     - c-001

@@ -18,17 +18,23 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
 
 ## Teiginiai
 
+<a id="claim-t-72700"></a>
 - t-001
+  global_id: t-72700
   teiginys: 'Konstitucijomis vadinti seimo nutarimai buvo įstatymai, po seimo paprastai išspausdinami ir pranešami visam kraštui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72701"></a>
 - t-002
+  global_id: t-72701
   teiginys: 'konstitucijos: būdavo atsitikimų, kad seimas dėl kokių nors priežasčių tu- rėdavo pertraukti savo darbus. Tatai buvo vadinama seimo limita. Po to vėl susirinkęs seimas tęsdavo toliau savo darbus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72702"></a>
 - t-003
+  global_id: t-72702
   teiginys: 'Visi seimo nutarimai, vadinęsi konstitucijomis, buvo įstatymai.'
   pagrindžia:
     - c-001

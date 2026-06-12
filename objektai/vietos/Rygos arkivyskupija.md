@@ -18,7 +18,9 @@ Kad labiau popiežius patrauktų Vytautą į savo pusę, paskiria jį ir Rygos a
 
 ## Teiginiai
 
+<a id="claim-t-36561"></a>
 - t-001
+  global_id: t-36561
   teiginys: 'Popiežius paskyrė Vytautą Rygos arkivyskupijos protektoriumi, siekdamas patraukti jį į savo pusę.'
   pagrindžia:
     - c-001

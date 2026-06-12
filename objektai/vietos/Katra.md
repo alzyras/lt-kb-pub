@@ -17,7 +17,9 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 
 ## Teiginiai
 
+<a id="claim-t-32210"></a>
 - t-001
+  global_id: t-32210
   teiginys: 'Mezolito įrankių gausiai aptikta palei Katrą ir kitas Lietuvos upes.'
   pagrindžia:
     - c-001

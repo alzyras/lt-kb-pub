@@ -19,12 +19,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-88338"></a>
 - t-001
+  global_id: t-88338
   teiginys: 'Steponas Genseris Vilniaus auksakalių cecho reikalavimu buvo raštiškai pakviestas į valdovo teismą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88339"></a>
 - t-002
+  global_id: t-88339
   teiginys: 'Steponas Genseris kaltintas atskirai nuo Vilniaus auksakalių cecho gaminęs ir pardavinėjęs auksakalystės dirbinius.'
   pagrindžia:
     - c-001

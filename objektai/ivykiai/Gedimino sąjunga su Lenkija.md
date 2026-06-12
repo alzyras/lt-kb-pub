@@ -34,27 +34,38 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66537"></a>
 - t-001
+  global_id: t-66537
   teiginys: 'Ivinskis nurodo, kad 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66538"></a>
 - t-002
+  global_id: t-66538
   teiginys: '1326 m. Gediminas talkininkavo Lokietkai, pasiųsdamas 1200 vyrų, ir sąjungininkai palaikė vienas kitą kovoje prieš ordiną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66539"></a>
 - t-003
+  global_id: t-66539
   teiginys: 'Gediminas taip pat buvo pirmasis, kuris prieš kryžiuočius sudarė sąjungą su Lenkija.'
   pagrindžia:
+    - c-006
     - c-005
 
+<a id="claim-t-66540"></a>
 - t-004
-  teiginys: 'Sutartis buvo sudaryta 1325 m.; kad ji būtų tvirtesnė, Gediminas išleido už Vladislovo sūnaus, būsimojo Lenkijos karaliaus Kazimiero Didžiojo, savo dukterį Aldoną.'
+  global_id: t-66540
+  teiginys: '1325 m. Gediminas sudarė sąjungą su Vladislovu Lokietka ir ją sutvirtino išleisdamas dukterį Aldoną už Kazimiero Didžiojo.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66541"></a>
 - t-005
+  global_id: t-66541
   teiginys: '1325 m. sutartis buvo pirmasis pastovesnis Lietuvos ir Lenkijos taikos sąlytis.'
   pagrindžia:
     - c-001
@@ -112,6 +123,7 @@ Nenurodyta
     - t-001
 
 - c-004
+  santrauka: '1325 m. Gediminas sudarė sąjungą su Vladislovu Lokietka ir ją sutvirtino išleisdamas dukterį Aldoną už Kazimiero Didžiojo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tą numanydamas, Gediminas ir ruošėsi karui. Ieš-
@@ -166,5 +178,6 @@ Nenurodyta
 - [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
 - [[objektai/asmenys/Vladislovas Lokietka]]
+- [[objektai/asmenys/Lokietka]]
 - [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
 - [[objektai/asmenys/Vaclovas (Wanko) iš Płocko]]

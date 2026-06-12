@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Kauno apgulties pradžia (1362 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad pavasario pradžioje jis ir išvedė abi kariuo menes į Lietuvą.
+1362 m. pavasario pradžioje kryžiuočių magistras išvedė nuolatinę ir pagalbinę kariuomenę į Lietuvą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185804"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pavasario pradžioje jis ir išvedė abi kariuo menes į Lietuvą.'
+  global_id: t-185804
+  teiginys: '1362 m. pavasario pradžioje kryžiuočių magistras išvedė nuolatinę ir pagalbinę kariuomenę į Lietuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pavasario pradžioje jis ir išvedė abi kariuo menes į Lietuvą.'
+  santrauka: '1362 m. pavasario pradžioje kryžiuočių magistras išvedė nuolatinę ir pagalbinę kariuomenę į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pasklidus dėl to viso­
@@ -67,3 +68,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/magistras]]

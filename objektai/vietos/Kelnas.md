@@ -26,17 +26,23 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 
 ## Teiginiai
 
+<a id="claim-t-58448"></a>
 - t-001
+  global_id: t-58448
   teiginys: 'Dusburgietis teigia, kad apie Alberto Didžiojo mirtį Tais pačiais metais Kelne mirė Albertas Didysis (Ptol.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58449"></a>
 - t-002
+  global_id: t-58449
   teiginys: 'Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto kunigaikštis, nugalėjo Zigfridą iš Runkelės, Kelno arkivyskupą; neskaitant paprastų karių, abi šalys neteko nukautaisiais 1300.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58450"></a>
 - t-003
+  global_id: t-58450
   teiginys: 'Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties metais, o palaidotas Kelne.'
   pagrindžia:
     - c-001

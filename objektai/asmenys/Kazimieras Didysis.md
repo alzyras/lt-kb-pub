@@ -22,89 +22,111 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Kazimieras Didysis
 
 ## Santrauka
 
 Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taiką. Gediminas išleido už Vladislovo sūnaus, būsimojo Lenkijos karaliaus Kazimiero Didžiojo, savo dukterį Aldoną. Kazimieras yra vienintelis Lenkų karalius, turįs Didžiojo vardą.
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
-
 ## Teiginiai
 
+<a id="claim-t-184409"></a>
 - t-001
+  global_id: t-184409
   teiginys: 'Aldona, per krikštą pavadinta Ona, buvo ištekinta už Lenkijos karaliaus Kazimiero Didžiojo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184410"></a>
 - t-002
+  global_id: t-184410
   teiginys: 'Dusburgietis teigia, kad 592 Gedimino duktė Aldona (Ona) 1325 m. buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184411"></a>
 - t-003
+  global_id: t-184411
   teiginys: 'Kazimieras Didysis puošė ir tvirtino Lenkiją XIV amžiuje kilusių mūro miestų pavyzdžiu.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-184412"></a>
 - t-004
+  global_id: t-184412
   teiginys: 'Kazimieras Didysis į savo naujai pastatydintus miestus pritraukė daug pasiturinčių žydų tautybės žmonių.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-184413"></a>
 - t-005
+  global_id: t-184413
   teiginys: '1325 m. Gedimino dukters Aldonos ir būsimojo Kazimiero Didžiojo jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184414"></a>
 - t-006
+  global_id: t-184414
   teiginys: 'Tą žemę Kazimieras III buvo atidavęs Vladislovui iš Opolės.'
   pagrindžia:
     - c-001
     - c-006
     - c-008
 
+<a id="claim-t-184415"></a>
 - t-007
+  global_id: t-184415
   teiginys: 'Kazimieras Didysis buvo paskutinysis Piastas, miręs 1370 m. prieš Jogailaičių epochos pradžią.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184416"></a>
 - t-008
+  global_id: t-184416
   teiginys: 'Kazimieras Didysis XIV a. puošė ir tvirtino Lenkijos miestus.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-184417"></a>
 - t-009
+  global_id: t-184417
   teiginys: 'Kazimieras 1325 m. buvo sutuoktas su Gedimino dukra Aldona Ona ir tuo metu buvo Lenkijos sosto įpėdinis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184418"></a>
 - t-010
+  global_id: t-184418
   teiginys: 'Kazimieras Didysis į naujai statomus miestus pritraukė daug pasiturinčių žydų tautybės žmonių.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-184419"></a>
 - t-011
+  global_id: t-184419
   teiginys: 'Lenkų istorikas Kochanovskis Kazimiero Didžiojo politikos idėja vadino Lenkijos atsigręžimą į rytus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184420"></a>
 - t-012
+  global_id: t-184420
   teiginys: 'Kazimieras Didysis vedė Gedimino dukterį Aldoną, per krikštą pavadintą Ona.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184421"></a>
 - t-013
+  global_id: t-184421
   teiginys: 'Kazimiero Didžiojo politika siejo Lenkijos atsigręžimą į rytus su platesniais horizontais rytuose.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184748"></a>
 - t-014
-  teiginys: 'Kojelavičius teigia, kad podolė atitekusi Len kijos karalystei ne dėl to, kad jie atplėšė ją nuo Lie tuvos, kuri į ją neturinti jokių teisių, bet todėl, kad ją kadaise užėmė karalius Kazimieras Didysis, iš dalies remdamasis ginklo, iš dalies — paveldėjimo teisėmis, ir pavertė.'
+  global_id: t-184748
+  teiginys: 'Lenkai tvirtino, kad Kazimieras Didysis užėmė Podolę ginklo ir paveldėjimo teisėmis ir pavertė ją Lenkijos sritimi.'
   pagrindžia:
     - c-010
 
@@ -270,7 +292,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - t-004
 
 - c-010
-  santrauka: 'Kojelavičius teigia, kad podolė atitekusi Len kijos karalystei ne dėl to, kad jie atplėšė ją nuo Lie tuvos, kuri į ją neturinti jokių teisių, bet todėl, kad ją kadaise užėmė karalius Kazimieras Didysis, iš dalies remdamasis ginklo, iš dalies — paveldėjimo teisėmis, ir pavertė.'
+  santrauka: 'Lenkai tvirtino, kad Kazimieras Didysis užėmė Podolę ginklo ir paveldėjimo teisėmis ir pavertė ją Lenkijos sritimi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lenkai atkakliai tvirtino, jog visi Jogailos ir Vytauto
@@ -299,3 +321,26 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   statusas: verified
   pagrindžia:
     - t-014
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aldona Gediminaitė]]
+- [[objektai/daiktai/Antspaudai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Jogailaičiai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/asmenys/Vladislovas Łokietka]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/piastas]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/daiktai/Mūro sienos]]
+- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
+- [[objektai/asmenys/Aldona Ona]]
+- [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
+- [[objektai/asmenys/Liubartas]]
+- [[objektai/grupes/Jogailaičių dinastija]]

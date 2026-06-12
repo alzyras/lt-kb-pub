@@ -43,17 +43,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54271"></a>
 - t-001
+  global_id: t-54271
   teiginys: '1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio kronika tapo parankine Lietuvos bajorijos knyga.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54272"></a>
 - t-002
+  global_id: t-54272
   teiginys: 'Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183318"></a>
 - t-003
+  global_id: t-183318
   teiginys: 'Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas.'
   pagrindžia:
     - c-002

@@ -27,12 +27,16 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 
 ## Teiginiai
 
+<a id="claim-t-88025"></a>
 - t-001
+  global_id: t-88025
   teiginys: 'Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Kornerio (Chron.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88026"></a>
 - t-002
+  global_id: t-88026
   teiginys: 'Dominikonas Hermanas Corneris kronikoje rašė, kad Vilniaus miestiečiai buvo palankesni Jogailai.'
   pagrindžia:
     - c-001

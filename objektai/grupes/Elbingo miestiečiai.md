@@ -25,13 +25,17 @@ Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo mi
 
 ## Teiginiai
 
+<a id="claim-t-62994"></a>
 - t-001
+  global_id: t-62994
   teiginys: 'Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis tokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum pilis.'
   pagrindžia:
     - c-002
     - c-001
 
+<a id="claim-t-62995"></a>
 - t-002
+  global_id: t-62995
   teiginys: 'Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį 1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami nusileisti, paslėpė.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Algirdo ir Dimitrijaus taikos sutartis
 
 ## Santrauka
 
-Kojelavičius teigia, kad šitaip, kadangi ir Maskvos valdovas nepaprastai bi jojo visokių netikėtumų, ir lietuvis norėjo laiku iš vengti visokių atsitiktinumų, jie be didelio vargo su tarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi mas žymiausiųjų palydovų ir T a ik o s ta ip m a.
+Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.
 
 ## Teiginiai
 
+<a id="claim-t-186308"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad šitaip, kadangi ir Maskvos valdovas nepaprastai bi jojo visokių netikėtumų, ir lietuvis norėjo laiku iš vengti visokių atsitiktinumų, jie be didelio vargo su tarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi mas žymiausiųjų palydovų ir T a ik o s ta ip m a.'
+  global_id: t-186308
+  teiginys: 'Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad šitaip, kadangi ir Maskvos valdovas nepaprastai bi jojo visokių netikėtumų, ir lietuvis norėjo laiku iš vengti visokių atsitiktinumų, jie be didelio vargo su tarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi mas žymiausiųjų palydovų ir T a ik o s ta ip m a.'
+  santrauka: 'Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip, kadangi ir Maskvos valdovas nepaprastai bi­

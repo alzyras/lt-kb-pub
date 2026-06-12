@@ -23,7 +23,9 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 
 ## Teiginiai
 
+<a id="claim-t-58747"></a>
 - t-001
+  global_id: t-58747
   teiginys: 'Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo išrinktas didžiuoju magistru brolis Zigfridas iš Foichtvangeno, kuris ir iškeliavo į Veneciją, į vyriausiąją [Ordino] būstinę.'
   pagrindžia:
     - c-001

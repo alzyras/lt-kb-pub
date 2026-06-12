@@ -25,7 +25,9 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
 
 ## Teiginiai
 
+<a id="claim-t-87627"></a>
 - t-001
+  global_id: t-87627
   teiginys: 'Antanas Goreckis priklausė 1830 m. rudenį Vilniuje susikūrusiam sukilimo centriniam komitetui.'
   pagrindžia:
     - c-001

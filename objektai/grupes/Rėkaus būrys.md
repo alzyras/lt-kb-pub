@@ -22,7 +22,9 @@ Pavasarinės kovos Žuvinte ir Paliose 1945 m. balandžio 18 d. Buktos pamiškė
 
 ## Teiginiai
 
+<a id="claim-t-41139"></a>
 - t-001
+  global_id: t-41139
   teiginys: '1945 m. balandžio 18 d. ties Vartų kaimu žuvo penki Rėkaus būrio kovotojai ir būrio vadas.'
   pagrindžia:
     - c-001

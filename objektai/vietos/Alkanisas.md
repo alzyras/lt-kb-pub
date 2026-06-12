@@ -25,7 +25,9 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
 
 ## Teiginiai
 
+<a id="claim-t-86166"></a>
 - t-001
+  global_id: t-86166
   teiginys: 'Alkanisas nurodomas kaip Aragono miestas, kuriame gimė teisininkas Petrus Maureus Royzius.'
   pagrindžia:
     - c-001

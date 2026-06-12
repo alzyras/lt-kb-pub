@@ -23,7 +23,9 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
 
 ## Teiginiai
 
+<a id="claim-t-58764"></a>
 - t-001
+  global_id: t-58764
   teiginys: 'Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno, ir Lanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono valdžią.'
   pagrindžia:
     - c-001

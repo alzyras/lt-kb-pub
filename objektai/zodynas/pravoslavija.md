@@ -17,17 +17,23 @@ pravoslavija: dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai 
 
 ## Teiginiai
 
+<a id="claim-t-100288"></a>
 - t-001
+  global_id: t-100288
   teiginys: 'pravoslavija: valdžia norėjo viską surusinti: įstaigas, mokyklas ir net bažnyčias. Bet lietuviai nepanoro nei virsti pravoslavais nei išsižadėti savo kalbos, ir pirmą kartą stojo ginti savo tautinių teisių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-100289"></a>
 - t-002
-  teiginys: 'Dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai išnyko — buvo varu suvaryti į pravoslaviją (žiūr.'
+  global_id: t-100289
+  teiginys: 'Persekiojami unitai buvo varu suvaryti į pravoslaviją ir veikiai išnyko.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-100290"></a>
 - t-003
+  global_id: t-100290
   teiginys: 'Persekiojami unitai buvo varu suvaryti į pravoslaviją ir veikiai visai išnyko.'
   pagrindžia:
     - c-001

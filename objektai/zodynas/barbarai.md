@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # barbarai
 
 ## Santrauka
 
-Kojelavičius teigia, kad barbarai, per žvalgus gavę žinių apie priešo jėgas ir ketinimus, bijojo pirmo gerai ginkluotų karių puolimo, ypač dėl to, kad jų pačių ir apsiginklavimas, ir kariavimo būdas buvo menkoki.
+Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo gerai ginkluotų karių puolimo.
 
 ## Teiginiai
 
+<a id="claim-t-185366"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad barbarai, per žvalgus gavę žinių apie priešo jėgas ir ketinimus, bijojo pirmo gerai ginkluotų karių puolimo, ypač dėl to, kad jų pačių ir apsiginklavimas, ir kariavimo būdas buvo menkoki.'
+  global_id: t-185366
+  teiginys: 'Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo gerai ginkluotų karių puolimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad barbarai, per žvalgus gavę žinių apie priešo jėgas ir ketinimus, bijojo pirmo gerai ginkluotų karių puolimo, ypač dėl to, kad jų pačių ir apsiginklavimas, ir kariavimo būdas buvo menkoki.'
+  santrauka: 'Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo gerai ginkluotų karių puolimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ten greitosiomis įrengę stovyklą,
@@ -44,3 +45,22 @@ Kojelavičius teigia, kad barbarai, per žvalgus gavę žinių apie priešo jėg
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių]]
+- [[objektai/paprociai/Graikų apeigų koplyčios laikymas Trakų pilyje]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]
+- [[objektai/ivykiai/Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė|Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė (pilis)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
+- [[objektai/asmenys/Ona (Vytauto žmona)]]
+- [[objektai/paprociai/Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje]]
+- [[objektai/paprociai/Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora]]
+- [[objektai/posakiai/barbarų barbaras]]
+- [[objektai/zodynas/duoklė]]

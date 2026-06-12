@@ -25,7 +25,9 @@ Dusburgietis teigia, kad tai nuo Dlugošo einanti tradicija — Jakubowski J.
 
 ## Teiginiai
 
+<a id="claim-t-60716"></a>
 - t-001
+  global_id: t-60716
   teiginys: 'J. Jakubowskis Długoszo tradiciją siejo su žinia apie Petrą Dusburgietį per tarpininką.'
   pagrindžia:
     - c-001

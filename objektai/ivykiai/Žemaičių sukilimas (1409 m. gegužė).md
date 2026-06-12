@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-28885"></a>
 - t-001
+  global_id: t-28885
   teiginys: 'Tuo pat laiku, kai kryžiuočiams galutinai išslydo Žemaičiai, jie buvo priversti skelbti karą Lenkijai (1409.VIII.6), nes ordinui nepasisekė Jogailos atskirti nuo ketvirtą kartą atsimetusio Vytauto.'
   pagrindžia:
     - c-001

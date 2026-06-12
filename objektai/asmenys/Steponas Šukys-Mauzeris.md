@@ -17,7 +17,9 @@ Steponas Šukys-Mauzeris nusišovė, kiti pasidavė, kai čekistai išsprogdino 
 
 ## Teiginiai
 
+<a id="claim-t-40448"></a>
 - t-001
+  global_id: t-40448
   teiginys: 'Steponas Šukys-Mauzeris nusišovė, kiti pasidavė, kai čekistai išsprogdino bunkerio viršų.'
   pagrindžia:
     - c-001

@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-34547"></a>
 - t-001
+  global_id: t-34547
   teiginys: '1422 m. lapkritį popiežius Martynas V įsakė Vytautui per du mėnesius atšaukti Kaributą, grasindamas ekskomunika.'
   pagrindžia:
     - c-001

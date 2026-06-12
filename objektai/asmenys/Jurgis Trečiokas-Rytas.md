@@ -17,7 +17,9 @@ Lapkričio 2 d. rytą čekistų pajėgos apsupo Jurgio Trečioko-Ryto bunkerį �
 
 ## Teiginiai
 
+<a id="claim-t-40241"></a>
 - t-001
+  global_id: t-40241
   teiginys: 'Lapkričio 2 d. rytą čekistų pajėgos apsupo Jurgio Trečioko-Ryto bunkerį Šimonių girioje netoli Varležerio.'
   pagrindžia:
     - c-001

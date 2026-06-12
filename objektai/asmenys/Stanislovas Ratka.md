@@ -27,7 +27,9 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
 
 ## Teiginiai
 
+<a id="claim-t-87862"></a>
 - t-001
+  global_id: t-87862
   teiginys: 'Stanislovas Ratka buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių iš Poznanės.'
   pagrindžia:
     - c-001

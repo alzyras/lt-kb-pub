@@ -19,7 +19,9 @@ Lietuva liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmė
 
 ## Teiginiai
 
+<a id="claim-t-20898"></a>
 - t-001
+  global_id: t-20898
   teiginys: 'Gediminas žodžiais „ir mes turime vieną Dievą…“ bylojo apie vyriausiąjį pagonių Dievą, o ne būtinai apie pagonišką monoteizmą.'
   pagrindžia:
     - c-001

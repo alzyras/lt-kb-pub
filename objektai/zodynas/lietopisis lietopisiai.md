@@ -18,7 +18,9 @@ Nuo Mindaugo laiku iki XV amž. buvo išlikusi bendra rusų metraščių žymė:
 
 ## Teiginiai
 
+<a id="claim-t-32792"></a>
 - t-001
+  global_id: t-32792
   teiginys: 'Rusų lietopisiai Lietuvos valdovo pravardžiavimą siejo su jo didesniu pasižymėjimu lietuvių tautoje.'
   pagrindžia:
     - c-001

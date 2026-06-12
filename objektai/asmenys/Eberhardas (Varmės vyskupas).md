@@ -27,12 +27,16 @@ Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varm�
 
 ## Teiginiai
 
+<a id="claim-t-82281"></a>
 - t-001
+  global_id: t-82281
   teiginys: 'Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl taikos sutarties ir su kitais vyskupais paskelbė ją pražūtinga Prūsijai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82282"></a>
 - t-002
+  global_id: t-82282
   teiginys: 'Tačiau apgaulė greitai išaiškėjo, jau Varmės vyskupas Eberhardas 1325 metais rašo: Quidam - factis caritatem negantes, que ambiciosa non est, nugis victum querentes in populo apud fideles predicare et asserere mendaciter sunt inventi, quod (Lethowini) Gristi.'
   pagrindžia:
     - c-001

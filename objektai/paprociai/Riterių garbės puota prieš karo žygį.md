@@ -46,7 +46,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87283"></a>
 - t-001
+  global_id: t-87283
   teiginys: 'Kryžiuočių žygio metu Karaliaučiuje riterių garbės puota buvo nutraukta dėl anglų, škotų ir prancūzų vaidų.'
   pagrindžia:
     - c-001

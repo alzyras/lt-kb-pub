@@ -25,12 +25,16 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
 
 ## Teiginiai
 
+<a id="claim-t-62996"></a>
 - t-001
+  global_id: t-62996
   teiginys: 'Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir, suėję į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-62997"></a>
 - t-002
+  global_id: t-62997
   teiginys: 'Dusburgietis teigia, kad tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys prarado labai daug užmuštaisiais (Ptol.'
   pagrindžia:
     - c-001

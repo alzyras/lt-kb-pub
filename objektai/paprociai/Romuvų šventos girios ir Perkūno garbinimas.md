@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87251"></a>
 - t-001
+  global_id: t-87251
   teiginys: 'Romuvomis vadintose šventose vietovėse vidury šventų girių buvo garbinamas Perkūnas ir gyveno Krivių Krivaitis.'
   pagrindžia:
     - c-001

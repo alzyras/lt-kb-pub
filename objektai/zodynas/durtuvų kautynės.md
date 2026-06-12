@@ -16,7 +16,9 @@ Jie, susispaude į krūvą, atstatė durtuvus ir laukė.
 
 ## Teiginiai
 
+<a id="claim-t-80623"></a>
 - t-001
+  global_id: t-80623
   teiginys: 'Jie, susispaude į krūvą, atstatė durtuvus ir laukė.'
   pagrindžia:
     - c-001

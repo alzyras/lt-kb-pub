@@ -19,12 +19,16 @@ Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpa
 
 ## Teiginiai
 
+<a id="claim-t-88365"></a>
 - t-001
+  global_id: t-88365
   teiginys: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88366"></a>
 - t-002
+  global_id: t-88366
   teiginys: 'Švitrigailos sutarties su Didžiuoju Naugardu originalas buvo laikomas Užsienio reikalų kolegijos archyve ir buvo sunkiai įskaitomas.'
   pagrindžia:
     - c-001

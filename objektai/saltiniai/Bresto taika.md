@@ -16,17 +16,23 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-21028"></a>
 - t-001
+  global_id: t-21028
   teiginys: '1918 m. lapkričio 13 d. Bresto taikos sąlygos su Vokietija buvo anuliuotos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-21029"></a>
 - t-002
+  global_id: t-21029
   teiginys: 'Bresto taikos derybose Vokietijai pravertė rezoliucija, o Lietuvos Tarybos delegacija į jas nebuvo pakviesta.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183358"></a>
 - t-003
+  global_id: t-183358
   teiginys: 'Žinoma, Vokietijai ši rezoliucija pravertė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias Lietuvos Tarybos delegacija net nebuvo pakviesta.'
   pagrindžia:
     - c-003

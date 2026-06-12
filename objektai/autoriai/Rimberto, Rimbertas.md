@@ -16,17 +16,23 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
 
 ## Teiginiai
 
+<a id="claim-t-30956"></a>
 - t-001
+  global_id: t-30956
   teiginys: 'Rimbertas pažymėjo, jog kuršiai sukilo ir ilgai stengėsi savo penkiose srityse būti nepriklausomi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-30957"></a>
 - t-002
+  global_id: t-30957
   teiginys: 'Rimbertas pirmasis paminėjo kuršių (Cori) vardą ir rašė, kad jie anksčiau priklausę švedų valdžiai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-30958"></a>
 - t-003
+  global_id: t-30958
   teiginys: 'Rimbertas apie 875 m. parašė šv. Ansgaro gyvenimą, kuriame nušviečiami Baltijos pajūrio kariniai santykiai.'
   pagrindžia:
     - c-001

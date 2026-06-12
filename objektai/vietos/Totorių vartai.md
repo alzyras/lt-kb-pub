@@ -23,7 +23,9 @@ Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įt
 
 ## Teiginiai
 
+<a id="claim-t-86245"></a>
 - t-001
+  global_id: t-86245
   teiginys: 'Totorių vartų pavadinimas kilo nuo totorių, kurie, regis, pirmiausia buvo įsikūrę Lukiškėse.'
   pagrindžia:
     - c-001

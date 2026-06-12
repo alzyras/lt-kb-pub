@@ -46,7 +46,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87310"></a>
 - t-001
+  global_id: t-87310
   teiginys: 'Žygimantas miestui atidavė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.'
   pagrindžia:
     - c-001

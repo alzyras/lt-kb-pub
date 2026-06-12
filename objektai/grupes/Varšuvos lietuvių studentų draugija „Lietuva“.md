@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-20060"></a>
 - t-001
+  global_id: t-20060
   teiginys: 'Varšuvos lietuvių studentų draugija „Lietuva“ įsteigė 1889 m. pradėtą leisti žurnalą „Varpas“, plėtojusį „Aušros“ idėjas.'
   pagrindžia:
     - c-001

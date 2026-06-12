@@ -19,7 +19,9 @@ Vien tik Vytauto privilegi­ jos Rygos, vokiečių ir rusų pirkliams, liudijan�
 
 ## Teiginiai
 
+<a id="claim-t-86822"></a>
 - t-001
+  global_id: t-86822
   teiginys: 'Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams liudijo jo globą prekybai Vilniuje ir visoje šalyje.'
   pagrindžia:
     - c-001

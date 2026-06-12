@@ -16,7 +16,9 @@ Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįsteng�
 
 ## Teiginiai
 
+<a id="claim-t-60304"></a>
 - t-001
+  global_id: t-60304
   teiginys: 'Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai nukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus.'
   pagrindžia:
     - c-001

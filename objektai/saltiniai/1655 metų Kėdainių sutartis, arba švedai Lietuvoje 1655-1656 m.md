@@ -26,7 +26,9 @@ Nespausdinta yra likusi Lietuvoje Šapokos habilitacija « 1655 metų Kėdainių
 
 ## Teiginiai
 
+<a id="claim-t-31580"></a>
 - t-001
+  global_id: t-31580
   teiginys: 'Šapokos habilitacija „1655 metų Kėdainių sutartis, arba švedai Lietuvoje 1655-1656 m.“ liko nespausdinta Lietuvoje.'
   pagrindžia:
     - c-001

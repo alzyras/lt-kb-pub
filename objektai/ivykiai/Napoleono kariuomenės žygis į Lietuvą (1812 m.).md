@@ -35,13 +35,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66796"></a>
 - t-001
+  global_id: t-66796
   teiginys: 'Napoleono kariuomenei žygiuojant į Lietuvą, rusai iš visos Lietuvos pasitraukė be mūšio.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66797"></a>
 - t-002
-  teiginys: 'Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono globoje.'
+  global_id: t-66797
+  teiginys: 'Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Lietuvos Didžiosios Kunigaikštijos atkūrimu Napoleono globoje.'
   pagrindžia:
     - c-002
 
@@ -62,6 +66,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Lietuvos Didžiosios Kunigaikštijos atkūrimu Napoleono globoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau

@@ -18,12 +18,16 @@ Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigracij
 
 ## Teiginiai
 
+<a id="claim-t-70183"></a>
 - t-001
+  global_id: t-70183
   teiginys: 'Pietų Amerikoje buvo laikoma įmanoma įkurti grynai lietuviškų kolonijų, kokių turėjo kitos tautos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70184"></a>
 - t-002
+  global_id: t-70184
   teiginys: 'Kolonijomis vadinti kitų kontinentų tušti ar apytuščiai plotai, kuriuose didžiosios Europos tautos stengėsi sutelkti savo išeivius.'
   pagrindžia:
     - c-001

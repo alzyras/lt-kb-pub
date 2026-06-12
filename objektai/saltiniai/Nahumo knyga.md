@@ -18,7 +18,9 @@ Dusburgietis teigia, kad vis dėlto dievas, būdamas ir geras, ir pakantus, ir g
 
 ## Teiginiai
 
+<a id="claim-t-61187"></a>
 - t-001
+  global_id: t-61187
   teiginys: 'Nahumo knygos 1,2 eilutė cituojama teigiant, kad Dievas yra pavydus, keršijantis ir rūstaujantis ant priešų.'
   pagrindžia:
     - c-001

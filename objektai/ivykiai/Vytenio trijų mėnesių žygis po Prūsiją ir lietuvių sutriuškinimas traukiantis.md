@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Vytenio trijų mėnesių žygis po Prūsiją ir lietuvių sutriuškinimas traukiantis
 
 ## Santrauka
 
-Kojelavičius teigia, kad gavęs šią ži nią, Vytenis su didžiulėmis jėgomis, neseniai sutelkto mis kitam žygiui, kuo greičiausiai ten nuskubėjo.
+Vytenis beveik tris mėnesius siaubė Prūsiją, kol kryžiuočiai užklupo grįžtančius lietuvius ir beveik visus išžudė.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185835"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad gavęs šią ži nią, Vytenis su didžiulėmis jėgomis, neseniai sutelkto mis kitam žygiui, kuo greičiausiai ten nuskubėjo.'
+  global_id: t-185835
+  teiginys: 'Vytenis beveik tris mėnesius siaubė Prūsiją, kol kryžiuočiai užklupo grįžtančius lietuvius ir beveik visus išžudė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad gavęs šią ži nią, Vytenis su didžiulėmis jėgomis, neseniai sutelkto mis kitam žygiui, kuo greičiausiai ten nuskubėjo.'
+  santrauka: 'Vytenis beveik tris mėnesius siaubė Prūsiją, kol kryžiuočiai užklupo grįžtančius lietuvius ir beveik visus išžudė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gavęs šią ži­
@@ -69,3 +70,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/daiktai/Vytis]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]

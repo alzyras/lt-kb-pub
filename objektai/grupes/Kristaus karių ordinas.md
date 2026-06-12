@@ -19,7 +19,9 @@ Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobr
 
 ## Teiginiai
 
+<a id="claim-t-63011"></a>
 - t-001
+  global_id: t-63011
   teiginys: 'Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.'
   pagrindžia:
     - c-001

@@ -25,12 +25,16 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
 
 ## Teiginiai
 
+<a id="claim-t-86563"></a>
 - t-001
+  global_id: t-86563
   teiginys: 'Kastilijoje municipaliniai nuostatai buvo žinomi jau nuo 1020 m. ir beveik vienu amžiumi aplenkė Prancūzijos miestų teisėtvarką.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86564"></a>
 - t-002
+  global_id: t-86564
   teiginys: 'Municipaliniai liudijimai miestams dažniausiai buvo taikos sutartys, kuriose miestai diktuodavo sąlygas nugalėtiems baronams.'
   pagrindžia:
     - c-001

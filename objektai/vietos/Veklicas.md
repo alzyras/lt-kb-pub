@@ -18,7 +18,9 @@ Dusburgietis teigia, kad po to, matydami, kad viskas jiems gerai sekasi, patrauk
 
 ## Teiginiai
 
+<a id="claim-t-58746"></a>
 - t-001
+  global_id: t-58746
   teiginys: 'Dusburgietis teigia, kad po to, matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą, pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.'
   pagrindžia:
     - c-001

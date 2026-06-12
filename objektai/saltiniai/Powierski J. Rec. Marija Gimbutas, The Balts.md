@@ -22,7 +22,9 @@ Dusburgietis teigia, kad powierski J.
 
 ## Teiginiai
 
+<a id="claim-t-61245"></a>
 - t-001
+  global_id: t-61245
   teiginys: 'J. Powierskio recenzija Marijos Gimbutas knygai „The Balts“ paskelbta 1966 m. Torunėje, ZHP 31 tomo 2 sąsiuvinyje.'
   pagrindžia:
     - c-001

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad mažiulis V.
 
 ## Teiginiai
 
+<a id="claim-t-61165"></a>
 - t-001
+  global_id: t-61165
   teiginys: 'V. Mažiulio „Baltų ir kitų indoeuropiečių kalbų santykiai: Deklinacija“ išleistas Vilniuje 1970 m.'
   pagrindžia:
     - c-001

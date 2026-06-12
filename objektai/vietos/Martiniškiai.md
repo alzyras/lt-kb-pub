@@ -16,7 +16,9 @@ Lenkų artilerija trikdė lietuvių veiksmus, tačiau netrukus 6-oji lietuvių b
 
 ## Teiginiai
 
+<a id="claim-t-41903"></a>
 - t-001
+  global_id: t-41903
   teiginys: 'Lenkų artilerija trikdė lietuvių veiksmus, tačiau netrukus 6-oji lietuvių baterija išvedė iš rikiuotės Martiniškių dvare išsidėsčiusią lenkų bateriją.'
   pagrindžia:
     - c-001

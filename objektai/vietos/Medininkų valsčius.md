@@ -27,33 +27,45 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 
 ## Teiginiai
 
+<a id="claim-t-58353"></a>
 - t-001
+  global_id: t-58353
   teiginys: 'Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a. pabaigos duomenys rodo ten buvus žemę iš kelių valsčių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58354"></a>
 - t-002
+  global_id: t-58354
   teiginys: 'Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su aštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje vietoje pasalą, įsiveržė [į.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58355"></a>
 - t-003
+  global_id: t-58355
   teiginys: 'Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58356"></a>
 - t-004
+  global_id: t-58356
   teiginys: 'Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-58357"></a>
 - t-005
+  global_id: t-58357
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-185046"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad kai Chris- 1316 m e ta i tmemelio įgula buvo įviliota į pasalas ir sunaikinta, jie nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.'
+  global_id: t-185046
+  teiginys: '1316 m. kryžiuočiai nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.'
   pagrindžia:
     - c-006
 
@@ -156,7 +168,7 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
     - t-004
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad kai Chris- 1316 m e ta i tmemelio įgula buvo įviliota į pasalas ir sunaikinta, jie nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.'
+  santrauka: '1316 m. kryžiuočiai nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kitų metų pradžioje kryžiuočiai, pasinaudodami

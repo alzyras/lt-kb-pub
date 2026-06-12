@@ -30,7 +30,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-07802"></a>
 - t-001
+  global_id: t-07802
   teiginys: 'Dideli ir seni medžiai senovėje tarnavo kaip rubežių ženklai, o jų palietimas buvo baudžiamas labai griežtai.'
   pagrindžia:
     - c-001

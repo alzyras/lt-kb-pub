@@ -17,7 +17,9 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
 
 ## Teiginiai
 
+<a id="claim-t-87736"></a>
 - t-001
+  global_id: t-87736
   teiginys: 'Šubravcų draugijoje Juozapas Zavadskis buvo pasivadinęs senovės lietuvių dievybės Svaistiko vardu.'
   pagrindžia:
     - c-001

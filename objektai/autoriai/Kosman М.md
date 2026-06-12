@@ -16,7 +16,9 @@ Dusburgietis teigia, kad kartais tvirtinama, kad žynių luomo apskritai nėra b
 
 ## Teiginiai
 
+<a id="claim-t-60731"></a>
 - t-001
+  global_id: t-60731
   teiginys: 'Dusburgietis teigia, kad kartais tvirtinama, kad žynių luomo apskritai nėra buvę (Kosman М., Drogi zaniku..., р.'
   pagrindžia:
     - c-001

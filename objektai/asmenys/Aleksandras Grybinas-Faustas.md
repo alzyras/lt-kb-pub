@@ -16,7 +16,9 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 
 ## Teiginiai
 
+<a id="claim-t-40000"></a>
 - t-001
+  global_id: t-40000
   teiginys: 'Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.'
   pagrindžia:
     - c-001

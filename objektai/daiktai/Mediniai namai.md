@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87114"></a>
 - t-001
+  global_id: t-87114
   teiginys: 'XIII amžiaus viduryje dabartinio Vilniaus vietoje buvo medinių namų gyvenvietė.'
   pagrindžia:
     - c-001

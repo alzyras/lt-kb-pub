@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Jogailos ir Sofijos santuoka (1421 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad štai todėl Vytautas ir ėmė raginti Jogailą neiš sižadėti vilties ir pasirinkti naują gyvenimo draugę.
+Vytautas paragino Jogailą pasirinkti naują žmoną, o Jogaila jo paskatintas įsižiūrėjo Sofiją, Kijevo kunigaikščio Andriaus dukterį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185705"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad štai todėl Vytautas ir ėmė raginti Jogailą neiš sižadėti vilties ir pasirinkti naują gyvenimo draugę.'
+  global_id: t-185705
+  teiginys: 'Vytautas paragino Jogailą pasirinkti naują žmoną, o Jogaila jo paskatintas įsižiūrėjo Sofiją, Kijevo kunigaikščio Andriaus dukterį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad štai todėl Vytautas ir ėmė raginti Jogailą neiš sižadėti vilties ir pasirinkti naują gyvenimo draugę.'
+  santrauka: 'Vytautas paragino Jogailą pasirinkti naują žmoną, o Jogaila jo paskatintas įsižiūrėjo Sofiją, Kijevo kunigaikščio Andriaus dukterį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai todėl Vytautas ir ėmė raginti Jogailą neiš­
@@ -57,3 +58,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Graikai]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

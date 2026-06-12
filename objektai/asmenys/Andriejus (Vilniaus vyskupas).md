@@ -19,7 +19,9 @@ Rodos, kad Jogaila su Vytautu ir Vilniaus vysk.
 
 ## Teiginiai
 
+<a id="claim-t-35025"></a>
 - t-001
+  global_id: t-35025
   teiginys: 'Vilniaus vyskupas Andriejus su Jogaila ir Vytautu, rodos, susitarė sudaryti taiką su Ordinu.'
   pagrindžia:
     - c-001

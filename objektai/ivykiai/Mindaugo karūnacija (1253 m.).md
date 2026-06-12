@@ -49,37 +49,51 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 
 ## Teiginiai
 
+<a id="claim-t-13489"></a>
 - t-001
+  global_id: t-13489
   teiginys: '1251 m. pavasarį arba vasaros pradžioje Mindaugas per Andrių Štirlandą išsirūpino sau ir Mortai krikštą, o sau - karaliaus karūną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-13490"></a>
 - t-002
+  global_id: t-13490
   teiginys: '1251 m. Mindaugas krikštijosi mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui, o svarbiausias krikšto tikslas buvo karūna.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-24563"></a>
 - t-003
+  global_id: t-24563
   teiginys: 'Karūnos tikslas buvo pasiektas 1253 m. liepos 6 d., o Mindaugas įvardijamas kaip pirmas ir vienintelis vainikuotas Lietuvos karalius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-24564"></a>
 - t-004
+  global_id: t-24564
   teiginys: 'Mindaugo vainikavimas šaltinyje aiškinamas kaip valstybės susikūrimo užbaigimas, nes Lietuvą pripažino to meto pasaulis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-26855"></a>
 - t-005
+  global_id: t-26855
   teiginys: 'Mindaugas po karūnacijos tapo popiežiaus, o ne imperatoriaus vasalu ir gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-26856"></a>
 - t-006
+  global_id: t-26856
   teiginys: 'Mindaugo pasiekti diplomatiniai laimėjimai šaltinyje vadinami pirma tarptautine Lietuvos diplomatijos pergale.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-26857"></a>
 - t-007
+  global_id: t-26857
   teiginys: 'Mindaugo vainikavimas Mindaugo karūnacija.'
   pagrindžia:
     - c-004

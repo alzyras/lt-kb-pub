@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Narimantas (Pinsko kunigaikštis)
 
 ## Santrauka
 
-Kojelavičius teigia, kad tarp kitų begaliniu nar sumu pasižymėjo Pinsko kunigaikštis Narimantas, su savo vyrais ne tik narsiai gynęs ugnies apgriautą Že mutinę pilį, bet ir, esant reikalui, laiku teikęs pagalbą Moskožovskiui. Kojelavičius teigia, kad vytautas įniršo ir, apgailestaudamas, kad visas šis žygis sužlugo, be to, nevaliodamas kitaip išlieti bejėgio pykčio, pasi elgė su belaisviu Narimantu pikčiau nei laukinis.
+Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutinę pilį ir teikė pagalbą Moskožovskiui. Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribaigė jį lanko šūviu.
 
 ## Teiginiai
 
+<a id="claim-t-186073"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tarp kitų begaliniu nar sumu pasižymėjo Pinsko kunigaikštis Narimantas, su savo vyrais ne tik narsiai gynęs ugnies apgriautą Že mutinę pilį, bet ir, esant reikalui, laiku teikęs pagalbą Moskožovskiui.'
+  global_id: t-186073
+  teiginys: 'Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutinę pilį ir teikė pagalbą Moskožovskiui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186074"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad vytautas įniršo ir, apgailestaudamas, kad visas šis žygis sužlugo, be to, nevaliodamas kitaip išlieti bejėgio pykčio, pasi elgė su belaisviu Narimantu pikčiau nei laukinis.'
+  global_id: t-186074
+  teiginys: 'Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribaigė jį lanko šūviu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tarp kitų begaliniu nar sumu pasižymėjo Pinsko kunigaikštis Narimantas, su savo vyrais ne tik narsiai gynęs ugnies apgriautą Že mutinę pilį, bet ir, esant reikalui, laiku teikęs pagalbą Moskožovskiui.'
+  santrauka: 'Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutinę pilį ir teikė pagalbą Moskožovskiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Plyšius
@@ -49,7 +52,7 @@ Kojelavičius teigia, kad tarp kitų begaliniu nar sumu pasižymėjo Pinsko kuni
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad vytautas įniršo ir, apgailestaudamas, kad visas šis žygis sužlugo, be to, nevaliodamas kitaip išlieti bejėgio pykčio, pasi elgė su belaisviu Narimantu pikčiau nei laukinis.'
+  santrauka: 'Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribaigė jį lanko šūviu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas
@@ -73,3 +76,24 @@ Kojelavičius teigia, kad tarp kitų begaliniu nar sumu pasižymėjo Pinsko kuni
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/autoriai/Karamzinas]]
+- [[objektai/ivykiai/Kernavės susirinkimas ir Narimanto išrinkimas valdovu]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.)]]
+- [[objektai/asmenys/Narimantas Gediminaitis]]
+- [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]
+- [[objektai/asmenys/Patrikas, arba Patricijus]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]
+- [[objektai/asmenys/Vasilijus Čartoriskis]]
+- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
+- [[objektai/ivykiai/Narimanto karas su Daumantu ir Utenos apgultis]]

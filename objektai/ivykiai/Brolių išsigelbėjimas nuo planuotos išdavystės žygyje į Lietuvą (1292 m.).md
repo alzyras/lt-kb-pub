@@ -39,18 +39,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62758"></a>
 - t-001
+  global_id: t-62758
   teiginys: 'Dusburgietis teigia, kad brolis Henrikas visa tai papasakojo magistrui, ir šis, brolių patariamas, pasiuntė į Lietuvos žemę žvalgus, kurie sugrįžę pareiškė, jog tai, kas buvo sakyta, gryna teisybė.'
   pagrindžia:
     - c-004
     - c-002
 
+<a id="claim-t-62759"></a>
 - t-002
+  global_id: t-62759
   teiginys: 'Dusburgietis teigia, kad kai paprasti žmonės išvydo, jog svarbiausieji klastininkai nuolatos bendrauja su broliais ir prie stalo, ir kitokiuose pasilinksminimuose, labai nusigando ir, manydami, jog jų sąmokslas esąs susektas, nedrįso nieko bloga broliams daryti, ir šitaip broliai iš.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-62760"></a>
 - t-003
+  global_id: t-62760
   teiginys: 'Dusburgietis teigia, kad 1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai rūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę ir patraukė prie lietuvių sienų.'
   pagrindžia:
     - c-001

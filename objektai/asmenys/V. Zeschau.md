@@ -25,7 +25,9 @@ Zeschau vadovaujamas 18-tarių skaičius su šių komendantūrų kasis saksų p�
 
 ## Teiginiai
 
+<a id="claim-t-80745"></a>
 - t-001
+  global_id: t-80745
   teiginys: 'Zeschau vadovaujamas 18-tarių skaičius su šių komendantūrų kasis saksų pėstininkų pulkas, pradžioje veikęs su Panevėžio atskiruoju batalionu, vėliau riais siekė 4000-4500 žmonių.'
   pagrindžia:
     - c-001

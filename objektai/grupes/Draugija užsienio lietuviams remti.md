@@ -22,7 +22,9 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.
 
 ## Teiginiai
 
+<a id="claim-t-77822"></a>
 - t-001
+  global_id: t-77822
   teiginys: 'Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.'
   pagrindžia:
     - c-001

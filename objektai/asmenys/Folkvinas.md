@@ -26,7 +26,9 @@ Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos �
 
 ## Teiginiai
 
+<a id="claim-t-60276"></a>
 - t-001
+  global_id: t-60276
   teiginys: 'Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos žemė Tuo laiku brolis Folkvinas, antras Kristaus karių ordino magistras Livonijos žemėje, šešerius metus per garbingus pasiuntinius ragino brolį Hermaną iš Zalcos, Teutonų ordino didįjį magistrą, prijungti.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Stanevičius — lietuviškų dainų rinkinį.
 
 ## Teiginiai
 
+<a id="claim-t-01132"></a>
 - t-001
+  global_id: t-01132
   teiginys: 'S. Stanevičius išleido lietuviškų dainų rinkinį.'
   pagrindžia:
     - c-001

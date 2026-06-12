@@ -22,12 +22,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-74810"></a>
 - t-001
+  global_id: t-74810
   teiginys: '1920 m. nacionalinėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų konferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo spręsti visus socialinius ir kultūrinius žydų reikalus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74811"></a>
 - t-002
+  global_id: t-74811
   teiginys: 'Apskritai Lietuvos nepriklausomybę žydai parėmė, dalyvavo Lietuvos Tarybos veikloje, žydai savanoriai dalyvavo nepriklausomybės kovose.'
   pagrindžia:
     - c-001

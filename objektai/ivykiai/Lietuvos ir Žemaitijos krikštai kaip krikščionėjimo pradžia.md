@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-26399"></a>
 - t-001
+  global_id: t-26399
   teiginys: '1387 m. Lietuvos ir 1413–1417 m. Žemaitijos krikštai tik nedaug priartino visuomenę prie krikščionybės, nes sunaikintos tik svarbiausios pagoniškos šventvietės.'
   pagrindžia:
     - c-001

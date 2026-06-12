@@ -25,22 +25,30 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
 
 ## Teiginiai
 
+<a id="claim-t-58511"></a>
 - t-001
+  global_id: t-58511
   teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Daug kartų Elbingo broliai garbingai kariavo su pagudėnais, o tų karų niekas nestengtų 241 Kalbama apie Aismares (Vulfstano Estmere — SRP, I, p. 733).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58512"></a>
 - t-002
+  global_id: t-58512
   teiginys: 'Broliai ir ginklanešiai perplaukė Aismares, ieškodami vietos piliai prie Varmės žemės kranto.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-58513"></a>
 - t-003
+  global_id: t-58513
   teiginys: 'Laivai padėjo pastatyti Elbingo ir Baigos pilis ir apsaugoti Aismares nuo netikėlių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58514"></a>
 - t-004
+  global_id: t-58514
   teiginys: '1237 m. Elbingo pilis buvo pastatyta saloje ties vieta, kur Elbingo upė įteka į Aismares.'
   pagrindžia:
     - c-002

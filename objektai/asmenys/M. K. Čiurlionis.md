@@ -19,17 +19,23 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-63885"></a>
 - t-001
+  global_id: t-63885
   teiginys: 'Čiurlionio kūrybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63886"></a>
 - t-002
+  global_id: t-63886
   teiginys: 'Čiurlionio muziejaus senojo meno ekspozicija.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-63887"></a>
 - t-003
+  global_id: t-63887
   teiginys: 'M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius.'
   pagrindžia:
     - c-001

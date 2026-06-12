@@ -16,7 +16,9 @@ Lietuvos metraštis («Liatopisiec velikich kniaziej litovskich») Vytauto lupom
 
 ## Teiginiai
 
+<a id="claim-t-31787"></a>
 - t-001
+  global_id: t-31787
   teiginys: '„Liatopisiec velikich kniaziej litovskich“ Vytauto vardu aiškina, kad Jogailos žygis sukėlė nepasitenkinimą Lietuvoje dėl svetimųjų valdžios.'
   pagrindžia:
     - c-001

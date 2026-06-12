@@ -23,7 +23,9 @@ Turime atvirai pasisa­ kyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lie
 
 ## Teiginiai
 
+<a id="claim-t-35997"></a>
 - t-001
+  global_id: t-35997
   teiginys: '1401 m. aktas apibūdinamas kaip didelis žingsnis Lietuvos atsipalaidavimo nuo Lenkijos kelyje ir Krėvės unijos „remontas“.'
   pagrindžia:
     - c-001

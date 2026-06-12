@@ -26,42 +26,58 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 
 ## Teiginiai
 
+<a id="claim-t-59833"></a>
 - t-001
+  global_id: t-59833
   teiginys: 'Dusburgietis teigia, kad apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama 1286 viešpaties metais brolis Ditrichas, Sembos fogtas, galėjo taip sakyti, kaip kadaise bylojęs Jobas: „Atėjo baisenybė, kurios bijojau“, mat bartai, ką tik atgavę brolių palankumą, ir.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59834"></a>
 - t-002
+  global_id: t-59834
   teiginys: 'Ditrichas Sembos fogtu buvo 1278-1292 m.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-59835"></a>
 - t-003
+  global_id: t-59835
   teiginys: 'Dusburgietis teigia, kad todėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene į kitą Nemuno krantą, tuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir nukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-59836"></a>
 - t-004
+  global_id: t-59836
   teiginys: 'Dusburgietis teigia, kad apie daugybės pagudėnų išžudymą Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-59837"></a>
 - t-005
+  global_id: t-59837
   teiginys: 'Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-59838"></a>
 - t-006
+  global_id: t-59838
   teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59839"></a>
 - t-007
+  global_id: t-59839
   teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59840"></a>
 - t-008
+  global_id: t-59840
   teiginys: 'Sembos fogtui Ditrichui nepatiko, kad broliai bartams grąžino į nelaisvę paimtas žmonas ir vaikus.'
   pagrindžia:
     - c-007

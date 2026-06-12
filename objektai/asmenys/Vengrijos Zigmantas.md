@@ -17,7 +17,9 @@ Vaclovas tačiau gąsdino, jog ordino pusėje stosiąs jis pats ir jo brolis Ven
 
 ## Teiginiai
 
+<a id="claim-t-30408"></a>
 - t-001
+  global_id: t-30408
   teiginys: 'Vengrijos Zigmantas siūlėsi tarpininkauti ir galėjo tapti rimtu kryžiuočių sąjungininku.'
   pagrindžia:
     - c-001

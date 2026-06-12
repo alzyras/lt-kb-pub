@@ -27,7 +27,9 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
 
 ## Teiginiai
 
+<a id="claim-t-60110"></a>
 - t-001
+  global_id: t-60110
   teiginys: 'Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria kariuomene.'
   pagrindžia:
     - c-001

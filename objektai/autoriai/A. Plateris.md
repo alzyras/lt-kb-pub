@@ -26,7 +26,9 @@ Plateris : Janulaitis mokslininkas , LE 9 t., 293 p. 62 ĮVADAS Bažnyčios isto
 
 ## Teiginiai
 
+<a id="claim-t-30527"></a>
 - t-001
+  global_id: t-30527
   teiginys: 'A. Plateris parašė straipsnį „Janulaitis mokslininkas“, publikuotą „Lietuvių enciklopedijos“ 9 tome.'
   pagrindžia:
     - c-001

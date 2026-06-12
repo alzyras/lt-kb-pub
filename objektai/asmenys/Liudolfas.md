@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Liudolfas
 
 ## Santrauka
 
-Kojelavičius teigia, kad beveik visa Prūsija buvo nusiaubta ir pelenais paversta, bemaž visi žemdirbiai išžudyti, ša lis buvo taip žiauriai nuniokota, kad Liudolfas, sugrį žęs iš žygio ir išvydęs nepaprastą nelaimę, apstulbo iš siaubo ir sielvarto; prarado ir protą, o netrukus ir nu.
+Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado protą ir netrukus mirė.
 
 ## Teiginiai
 
+<a id="claim-t-186141"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad beveik visa Prūsija buvo nusiaubta ir pelenais paversta, bemaž visi žemdirbiai išžudyti, ša lis buvo taip žiauriai nuniokota, kad Liudolfas, sugrį žęs iš žygio ir išvydęs nepaprastą nelaimę, apstulbo iš siaubo ir sielvarto; prarado ir protą, o netrukus ir nu.'
+  global_id: t-186141
+  teiginys: 'Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado protą ir netrukus mirė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad beveik visa Prūsija buvo nusiaubta ir pelenais paversta, bemaž visi žemdirbiai išžudyti, ša lis buvo taip žiauriai nuniokota, kad Liudolfas, sugrį žęs iš žygio ir išvydęs nepaprastą nelaimę, apstulbo iš siaubo ir sielvarto; prarado ir protą, o netrukus ir nu.'
+  santrauka: 'Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado protą ir netrukus mirė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Skubiai sutelkę būrius,
@@ -47,3 +48,8 @@ Kojelavičius teigia, kad beveik visa Prūsija buvo nusiaubta ir pelenais pavers
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/žygis]]

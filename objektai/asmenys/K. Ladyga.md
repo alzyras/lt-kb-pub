@@ -16,17 +16,23 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-40248"></a>
 - t-001
+  global_id: t-40248
   teiginys: 'K. Ladyga 1919 m. birželio 2 d. su raitininkais slinko į rytus paskui atsitraukiantį priešą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40249"></a>
 - t-002
+  global_id: t-40249
   teiginys: 'I brigados vadas K. Ladyga suskirstė savo pajėgas į tris kolonas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40250"></a>
 - t-003
+  global_id: t-40250
   teiginys: 'I brigados vadas K. Ladyga įsakė pulti bolševikus Degučių plentu Zarasų kryptimi.'
   pagrindžia:
     - c-003

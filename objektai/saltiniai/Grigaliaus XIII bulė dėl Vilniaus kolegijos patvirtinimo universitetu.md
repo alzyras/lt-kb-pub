@@ -30,7 +30,9 @@ Paversti kolegiją aukštąja mokykla reikėjo nemažų lėšų ir pakankamai kv
 
 ## Teiginiai
 
+<a id="claim-t-25253"></a>
 - t-001
+  global_id: t-25253
   teiginys: '1579 m. spalio 29 d. popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją universitetu.'
   pagrindžia:
     - c-001

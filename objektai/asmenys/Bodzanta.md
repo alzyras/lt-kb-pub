@@ -19,37 +19,39 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Bodzanta (arkivyskupas, XIV a.)
 
 ## Santrauka
 
 Bodzanta Vladislovo vardu.
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
-
 ## Teiginiai
 
+<a id="claim-t-82241"></a>
 - t-001
+  global_id: t-82241
   teiginys: '1386 m. vasario 15 d. Krokuvos katedroje Gniezno vyskupas Bodzanta pakrikštijo Jogailą Vladislovo vardu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82242"></a>
 - t-002
+  global_id: t-82242
   teiginys: 'Gniezno arkivyskupas Bodzanta iškilmingai pašventino bažnyčią, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82243"></a>
 - t-003
+  global_id: t-82243
   teiginys: 'Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais rykais ir visokia manta.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184677"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad valentinui, Gnezno arkivyskupo Bodzantos apkrikštytas, gavo Vladislo vo vardą.'
+  global_id: t-184677
+  teiginys: '1386 m. vasario 16 d. Gnezno arkivyskupas Bodzanta apkrikštijo Jogailą, kuris gavo Vladislovo vardą.'
   pagrindžia:
     - c-003
 
@@ -92,7 +94,7 @@ Bodzanta Vladislovo vardu.
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad valentinui, Gnezno arkivyskupo Bodzantos apkrikštytas, gavo Vladislo vo vardą.'
+  santrauka: '1386 m. vasario 16 d. Gnezno arkivyskupas Bodzanta apkrikštijo Jogailą, kuris gavo Vladislovo vardą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to vasario 16 dieną, kuri
@@ -123,3 +125,18 @@ Bodzanta Vladislovo vardu.
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
+- [[objektai/asmenys/Jadvyga]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Rykai]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/asmenys/Vladislovas Jogaila]]
+- [[objektai/zodynas/diecezija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Lietuvos kunigaikščiai ir didikai]]

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad de Vries Jan.
 
 ## Teiginiai
 
+<a id="claim-t-61065"></a>
 - t-001
+  global_id: t-61065
   teiginys: 'Jano de Vrieso „Altnordisches etymologisches Wörterbuch“ išleistas Leidene 1962 m.'
   pagrindžia:
     - c-001

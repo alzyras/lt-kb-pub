@@ -20,27 +20,37 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 
 ## Teiginiai
 
+<a id="claim-t-49628"></a>
 - t-001
+  global_id: t-49628
   teiginys: 'Aukščiausiosios Tarybos rūmų rūsyje gynybai buvo įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-49629"></a>
 - t-002
+  global_id: t-49629
   teiginys: 'Ant rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-49630"></a>
 - t-003
+  global_id: t-49630
   teiginys: 'Aukščiausiosios Tarybos rūmų fojė ginkluoti vyrai buvo surinkti ir suskirstyti penketukais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-49631"></a>
 - t-004
+  global_id: t-49631
   teiginys: 'Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais UŽDUOTIS AT gynėjas Arvydas Pocius, vėliau tapęs generolu leitenantu, Lietuvos kariuomenės vadu, pasakoja apie AT gynybą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-49632"></a>
 - t-005
+  global_id: t-49632
   teiginys: '1991 m. sausio 11-12 d. rūmų vidus buvo įtvirtinamas spygliuota viela, smėlio maišais, armatūros tinklais, užminuotais laiptais ir baldų barikadomis.'
   pagrindžia:
     - c-002

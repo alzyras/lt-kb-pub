@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01747"></a>
 - t-001
+  global_id: t-01747
   teiginys: '1654–1655 m. Lietuvą užpuolė Maskva ir Švedai.'
   pagrindžia:
     - c-001

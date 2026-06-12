@@ -18,7 +18,9 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
 
 ## Teiginiai
 
+<a id="claim-t-59074"></a>
 - t-001
+  global_id: t-59074
   teiginys: 'Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei.'
   pagrindžia:
     - c-001

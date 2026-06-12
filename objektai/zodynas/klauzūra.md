@@ -17,7 +17,9 @@ Dusburgietis teigia, kad be to, jie sudegino du šimtus penkiasdešimt parapini�
 
 ## Teiginiai
 
+<a id="claim-t-58853"></a>
 - t-001
+  global_id: t-58853
   teiginys: 'Dusburgietis teigia, kad be to, jie sudegino du šimtus penkiasdešimt parapinių bažnyčių164, neskaitant įžadus darančiųjų ir pasauliečių vienuolynų, koplyčių, vienuolių vienuolynų ir griežtos klauzūros moterų vienuolynų.'
   pagrindžia:
     - c-001

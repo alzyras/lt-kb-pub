@@ -16,7 +16,9 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
 
 ## Teiginiai
 
+<a id="claim-t-15259"></a>
 - t-001
+  global_id: t-15259
   teiginys: 'Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercegovinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių.'
   pagrindžia:
     - c-001

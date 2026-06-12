@@ -17,7 +17,6 @@ tags:
 amziai:
   - 'XV'
 ---
-
 # Borisovas
 
 ## Santrauka
@@ -26,23 +25,31 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-114162"></a>
 - t-001
+  global_id: t-114162
   teiginys: '1500 m. Borisove datuotu sprendimu karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-114163"></a>
 - t-002
+  global_id: t-114163
   teiginys: 'Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183777"></a>
 - t-003
+  global_id: t-183777
   teiginys: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184934"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad glinskis, nutraukęs Minsko apgulą gal dėl sąžinės priekaištų, gal iš pagarbos karaliui, pirmiausia su savo kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs damas stoti į atvirą kovą veikiausiai dėl to, kad turė jo per mažai karių.'
+  global_id: t-184934
+  teiginys: 'Glinskis, nutraukęs Minsko apgulą, su savo kariais pirmiausia nužygiavo į Borisovą, o iš ten į Oršą.'
   pagrindžia:
     - c-003
 
@@ -123,7 +130,7 @@ amziai:
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad glinskis, nutraukęs Minsko apgulą gal dėl sąžinės priekaištų, gal iš pagarbos karaliui, pirmiausia su savo kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs damas stoti į atvirą kovą veikiausiai dėl to, kad turė jo per mažai karių.'
+  santrauka: 'Glinskis, nutraukęs Minsko apgulą, su savo kariais pirmiausia nužygiavo į Borisovą, o iš ten į Oršą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ga­

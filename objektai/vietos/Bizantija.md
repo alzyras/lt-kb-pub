@@ -18,7 +18,9 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
 
 ## Teiginiai
 
+<a id="claim-t-36157"></a>
 - t-001
+  global_id: t-36157
   teiginys: 'Bizantijos imperatoriaus pasiuntiniai buvo tarp svečių, atvykusių pas Vytautą.'
   pagrindžia:
     - c-001

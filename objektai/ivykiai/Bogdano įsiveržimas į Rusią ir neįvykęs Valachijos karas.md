@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas
 
 ## Santrauka
 
-Kojelavičius teigia, kad vos suN e p ra d e d a m a k a ria ugrįžusį nuo Maskvos kuniti V a la c h ijo je gaikštystės pasienių karalių užgulė nauji rūpesčiai dėl Valachijos karo.
+Kol karalius buvo išvykęs, Bogdanas smarkiai nuniokojo Rusią, sudegino kelis miestus ir daugybę bažnyčių.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185798"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vos suN e p ra d e d a m a k a ria ugrįžusį nuo Maskvos kuniti V a la c h ijo je gaikštystės pasienių karalių užgulė nauji rūpesčiai dėl Valachijos karo.'
+  global_id: t-185798
+  teiginys: 'Kol karalius buvo išvykęs, Bogdanas smarkiai nuniokojo Rusią, sudegino kelis miestus ir daugybę bažnyčių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vos suN e p ra d e d a m a k a ria ugrįžusį nuo Maskvos kuniti V a la c h ijo je gaikštystės pasienių karalių užgulė nauji rūpesčiai dėl Valachijos karo.'
+  santrauka: 'Kol karalius buvo išvykęs, Bogdanas smarkiai nuniokojo Rusią, sudegino kelis miestus ir daugybę bažnyčių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vos su-
@@ -64,3 +65,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuvos luomai]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/seimas]]

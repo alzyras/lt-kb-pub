@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87141"></a>
 - t-001
+  global_id: t-87141
   teiginys: 'Tačiau jie sako, jog tai daro dėl to, kad nori apginti krikščionis!'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87142"></a>
 - t-002
+  global_id: t-87142
   teiginys: 'Gediminas pageidavo savo krašte turėti dvasininkų ir vyskupų, saugoti Bažnyčios teises ir gerbti dvasininkus.'
   pagrindžia:
     - c-001

@@ -28,37 +28,51 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 
 ## Teiginiai
 
+<a id="claim-t-73958"></a>
 - t-001
+  global_id: t-73958
   teiginys: 'Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo Šešupėn.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-73959"></a>
 - t-002
+  global_id: t-73959
   teiginys: 'Sūduvos dykroje siena ėjo Šešupės krantu per girių masyvus, o jos žemupys buvo paliktas Ordinui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-73960"></a>
 - t-003
+  global_id: t-73960
   teiginys: 'Padalijus Užnemunę, Ordinui atiteko dalis didžiųjų girių tiesia linija nuo Salyno į Šešupę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-73961"></a>
 - t-004
+  global_id: t-73961
   teiginys: 'Padalijus Užnemunę, ordinui atiteko dalis didžiųjų girių tiesia linija nuo Salyno iki Šešupės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-73962"></a>
 - t-005
+  global_id: t-73962
   teiginys: '89 Šešuoliai 233 Šešupė 326, 333, 359 Šiauliai 68, 108, 168, 180 ; Šiaulių ekonomija 79 ; žr.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-73963"></a>
 - t-006
-  teiginys: 'Nuo pasirašymo vietos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės.'
+  global_id: t-73963
+  teiginys: 'Salyno sutartimi ordinui palikta šiaurinė Suvalkų krašto dalis ir kairysis Šešupės krantas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-73964"></a>
 - t-007
+  global_id: t-73964
   teiginys: 'Vytauto nustatytos Lietuvos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.'
   pagrindžia:
     - c-003
@@ -120,6 +134,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - t-007
 
 - c-004
+  santrauka: 'Salyno sutartimi ordinui palikta šiaurinė Suvalkų krašto dalis ir kairysis Šešupės krantas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nuo pasirašymo vie-

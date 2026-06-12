@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vasilka
 
 ## Santrauka
 
-Kojelavičius teigia, kad leonas, kuris ketino daryti visai ką kita, nei buvo žadėjęs, pasiliko Vladimire, o brolį Švarną ir dėdę Vasilką, Galičo ku nigaikštį, nė nenujaučiančius jokios klastos, išsiuntė į Ugrovską Vaišvilko pakviesti į Vladimirą.
+Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pakviesti Vaišvilko į Vladimirą.
 
 ## Teiginiai
 
+<a id="claim-t-186169"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad leonas, kuris ketino daryti visai ką kita, nei buvo žadėjęs, pasiliko Vladimire, o brolį Švarną ir dėdę Vasilką, Galičo ku nigaikštį, nė nenujaučiančius jokios klastos, išsiuntė į Ugrovską Vaišvilko pakviesti į Vladimirą.'
+  global_id: t-186169
+  teiginys: 'Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pakviesti Vaišvilko į Vladimirą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad leonas, kuris ketino daryti visai ką kita, nei buvo žadėjęs, pasiliko Vladimire, o brolį Švarną ir dėdę Vasilką, Galičo ku nigaikštį, nė nenujaučiančius jokios klastos, išsiuntė į Ugrovską Vaišvilko pakviesti į Vladimirą.'
+  santrauka: 'Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pakviesti Vaišvilko į Vladimirą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat tuo sa­

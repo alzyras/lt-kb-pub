@@ -19,7 +19,9 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
 
 ## Teiginiai
 
+<a id="claim-t-28529"></a>
 - t-001
+  global_id: t-28529
   teiginys: 'Medingėnų srities atstovai kartu su kitų Žemaičių sričių kilmingaisiais darė taiką su Vytautu ir Ordinu.'
   pagrindžia:
     - c-001

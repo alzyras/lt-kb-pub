@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77896"></a>
 - t-001
+  global_id: t-77896
   teiginys: 'Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas.'
   pagrindžia:
     - c-001

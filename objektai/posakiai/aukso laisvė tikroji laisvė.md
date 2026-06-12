@@ -17,17 +17,23 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 
 ## Teiginiai
 
+<a id="claim-t-02083"></a>
 - t-001
+  global_id: t-02083
   teiginys: 'Zigmanto laikais Lenkijoje ir Lietuvoje įsigalėjusi „aukso laisvė“ leido galingiesiems nieko neklausyti ir elgtis kaip tinkamiems.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-02084"></a>
 - t-002
-  teiginys: 'Vieni siūlė tvarkyti gyvenimą paliekant „aukso laisvės“ principus, o kiti siekė panaikinti liberum veto.'
+  global_id: t-02084
+  teiginys: 'Diskusijose dėl „aukso laisvės“ vieni siūlė palikti pagrindinius jos principus, o kiti siekė panaikinti liberum veto.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-02085"></a>
 - t-003
+  global_id: t-02085
   teiginys: 'Tikrąja laisve vadintą santvarką bajorija brangino ir saugojo nuo pakeitimų.'
   pagrindžia:
     - c-001
@@ -49,6 +55,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
     - t-003
 
 - c-002
+  santrauka: 'Diskusijose dėl „aukso laisvės“ vieni siūlė palikti pagrindinius jos principus, o kiti siekė panaikinti liberum veto.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Suprasdami visas savo krašto visuomenės santvar-

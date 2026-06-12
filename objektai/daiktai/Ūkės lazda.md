@@ -34,17 +34,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08361"></a>
 - t-001
+  global_id: t-08361
   teiginys: 'Lazda buvo naudojama kaip vyresnybės įsakymų skelbimo ženklas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08362"></a>
 - t-002
+  global_id: t-08362
   teiginys: 'Lazda siejama su krive krivaičiu ir kreiva lazda.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55773"></a>
 - t-003
+  global_id: t-55773
   teiginys: 'Kūrėjų kūrėjas paėmė ūkės lazdą ir vienas pats valdė tautą kaip anksčiau.'
   pagrindžia:
     - c-003

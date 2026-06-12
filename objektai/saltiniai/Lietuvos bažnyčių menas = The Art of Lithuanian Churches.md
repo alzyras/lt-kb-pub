@@ -23,7 +23,9 @@ Lietuvos bažnyčių menas = The Art of Lithuanian Churches.
 
 ## Teiginiai
 
+<a id="claim-t-45691"></a>
 - t-001
+  global_id: t-45691
   teiginys: 'Leidinys „Lietuvos bažnyčių menas = The Art of Lithuanian Churches“ buvo išleistas Vilniuje 1993 m.'
   pagrindžia:
     - c-001

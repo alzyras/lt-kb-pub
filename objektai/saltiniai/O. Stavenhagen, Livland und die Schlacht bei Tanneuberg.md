@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31870"></a>
 - t-001
+  global_id: t-31870
   teiginys: 'O. Stavenhageno „Livland und die Schlacht bei Tanneuberg“ paskelbtas 1902 m. „Baltische Monatschrift“ 54 tome.'
   pagrindžia:
     - c-001

@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Šv. Mykolo dienos bažnyčių lankymas
 
 ## Santrauka
 
-Kojelavičius teigia, kad be kitos priešui padarytos žalos, apiplėšė Straisbergo miestą rugsėjo pabaigoje per šventą Mykolą: žuvo daugybė žmonių, gausiai susirinkusių į bažnyčias.
+Per šv. Mykolo dieną Straisberge žuvo daug į bažnyčias susirinkusių žmonių, kai lietuviai apiplėšė miestą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185928"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad be kitos priešui padarytos žalos, apiplėšė Straisbergo miestą rugsėjo pabaigoje per šventą Mykolą: žuvo daugybė žmonių, gausiai susirinkusių į bažnyčias.'
+  global_id: t-185928
+  teiginys: 'Per šv. Mykolo dieną Straisberge žuvo daug į bažnyčias susirinkusių žmonių, kai lietuviai apiplėšė miestą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad be kitos priešui padarytos žalos, apiplėšė Straisbergo miestą rugsėjo pabaigoje per šventą Mykolą: žuvo daugybė žmonių, gausiai susirinkusių į bažnyčias.'
+  santrauka: 'Per šv. Mykolo dieną Straisberge žuvo daug į bažnyčias susirinkusių žmonių, kai lietuviai apiplėšė miestą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šis žygis iš pradžių labai se­
@@ -56,3 +57,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Konradas]]
+- [[objektai/asmenys/Konradas Žakas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Vytenio žygis į Prūsiją ir Straisbergo apiplėšimas]]

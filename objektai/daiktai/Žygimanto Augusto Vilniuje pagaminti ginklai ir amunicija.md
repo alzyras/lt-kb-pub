@@ -45,17 +45,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87008"></a>
 - t-001
+  global_id: t-87008
   teiginys: 'Iki 1565 m. Žygimanto Augusto lėšomis Lietuvos Didžiojoje Kunigaikštystėje gaminti ginklai ir amunicija iš dalies liko Vilniuje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87009"></a>
 - t-002
+  global_id: t-87009
   teiginys: 'Išvardyti pabūklai buvo naujai pagaminti ir išsiuntinėti Lietuvos provincijos tvirtovėms.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87010"></a>
 - t-003
+  global_id: t-87010
   teiginys: 'Vertingiausi ginklai turėjo vardus: keturios didžiosios akmenų patrankos vadinosi Elgeta, Vytautas, Boba ir Augustas.'
   pagrindžia:
     - c-001

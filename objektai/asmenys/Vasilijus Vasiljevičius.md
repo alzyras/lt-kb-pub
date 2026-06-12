@@ -20,7 +20,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Vasilijus Vasiljevičius
 
 ## Santrauka
@@ -29,13 +28,17 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87932"></a>
 - t-001
+  global_id: t-87932
   teiginys: 'Vasilijus Vasiljevičius, vadintas Akluoju, 1430 metais atvyko į Trakus ir Vilnių Vytauto karūnavimo proga.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184854"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad esą visų didžiausi pasaulyje valdovai, būtent ir Romos imperatorius, ir Rytų sulto nas, tituluoją Maskvos didįjį kunigaikštį caru, kaip rodo Maksimilijono bei Suleimano laiškai, adresuoti Va silijui Vasiljevičiui.'
+  global_id: t-184854
+  teiginys: 'Maskvos didikai teigė, kad Maksimilijono ir Suleimano laiškai Vasilijui Vasiljevičiui titulavo Maskvos didįjį kunigaikštį caru.'
   pagrindžia:
     - c-002
 
@@ -65,7 +68,7 @@ periodo_grupes:
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad esą visų didžiausi pasaulyje valdovai, būtent ir Romos imperatorius, ir Rytų sulto nas, tituluoją Maskvos didįjį kunigaikštį caru, kaip rodo Maksimilijono bei Suleimano laiškai, adresuoti Va silijui Vasiljevičiui.'
+  santrauka: 'Maskvos didikai teigė, kad Maksimilijono ir Suleimano laiškai Vasilijui Vasiljevičiui titulavo Maskvos didįjį kunigaikštį caru.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Maskvos didikų vardu atsakė to miesto vy­
@@ -82,3 +85,16 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Mazovijos kunigaikščiai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/vaivada]]

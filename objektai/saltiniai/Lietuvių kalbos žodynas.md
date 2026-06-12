@@ -26,17 +26,23 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 
 ## Teiginiai
 
+<a id="claim-t-67437"></a>
 - t-001
+  global_id: t-67437
   teiginys: 'Šeštasis „Lietuvių kalbos žodyno“ tomas išleistas 1962 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67439"></a>
 - t-002
+  global_id: t-67439
   teiginys: 'Dusburgietis teigia, kad 206 D.— baculum. Krivės baculum buvo krivūlė — kreiva lazda, krivio (vėliau seniūno) valdžios ženklas, lazda žmonėms į kuopą šaukti (Lietuvių kalbos žodynas, VI, p. 661; Lietuvių etnografijos bruožai, p. 528—529; MLTE, 2, p. 220).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183364"></a>
 - t-003
+  global_id: t-183364
   teiginys: 'Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai atspausdinti nacių okupacijos metais, tolesni rengti sovietų laikais, nors ir trukdant politrukams.'
   pagrindžia:
     - c-003

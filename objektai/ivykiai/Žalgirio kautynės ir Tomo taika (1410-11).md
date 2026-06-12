@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-100048"></a>
 - t-001
+  global_id: t-100048
   teiginys: 'Žalgirio kautynės ir Tomo taika (1410-11)........................'
   pagrindžia:
     - c-001

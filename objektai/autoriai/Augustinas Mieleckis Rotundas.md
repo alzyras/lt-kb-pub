@@ -27,22 +27,30 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87998"></a>
 - t-001
+  global_id: t-87998
   teiginys: '„Visa, ką maniau būsiant reikalinga tėvynei ir ką man derėjo parašyti, nutariau išdėstyti jums, ket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ — Rotundas (Augustinas Mieleckis), Vilniaus vaitas, Mikalojui Radvilai 1560 m. vasario 12 dieną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87999"></a>
 - t-002
+  global_id: t-87999
   teiginys: 'Augustinas Mieleckis Rotundas buvo bajorų kilmės, nes miesto aktuose prie jo pavardės buvo pridedama „Nobilis“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88000"></a>
 - t-003
+  global_id: t-88000
   teiginys: 'Joanne Jarczewski, Decano, Benedicto Woina Custode, Simone Brzezio Cantore, Laurentio Vaiski, Tboma Makowiecki, Nicolao Koryzna, Stanislao Górecki, et Marcello Suchodolski, Canonicis Ecclesiae nostrae, nec non eximio Juris utriusque Doctore, Domino Augustino.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-88001"></a>
 - t-004
+  global_id: t-88001
   teiginys: '„Visa, ką maniau kūsiant reikalinga tėvynei ir ką man derėjo parašyti, nutariau išdėstyti jums, ket meldžiu įvertinti ne mano ketinimus, o pačią knygą,“ — Rotundas (Augustinas Mieleckis), Vilniaus vaitas, Mikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas.'
   pagrindžia:
     - c-004

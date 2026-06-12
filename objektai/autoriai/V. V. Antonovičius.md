@@ -16,7 +16,9 @@ Odesos universiteto istorikas V. V. Antono­ vičius iš šaltinių bandė tirti
 
 ## Teiginiai
 
+<a id="claim-t-31053"></a>
 - t-001
+  global_id: t-31053
   teiginys: 'V. V. Antonovičius, Odesos universiteto istorikas, iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties.'
   pagrindžia:
     - c-001

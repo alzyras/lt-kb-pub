@@ -27,7 +27,9 @@ Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei garsieji «są
 
 ## Teiginiai
 
+<a id="claim-t-31571"></a>
 - t-001
+  global_id: t-31571
   teiginys: '„Sąmyšio metai“ (1604–1612) neturėjo reikšmingesnių atliepimų tarptautinio svorio netenkančioje Abiejų Tautų Respublikoje.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Išsi­ laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­ tai, s
 
 ## Teiginiai
 
+<a id="claim-t-86633"></a>
 - t-001
+  global_id: t-86633
   teiginys: 'Išsivadavę iš kašteliono valdžios, Lenkijos miestai įgijo atleidimą nuo duoklių, savo teisėtvarką ir atskirą miesto valdymą.'
   pagrindžia:
     - c-001

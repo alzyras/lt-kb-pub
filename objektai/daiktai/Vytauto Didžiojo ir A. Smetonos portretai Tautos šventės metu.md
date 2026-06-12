@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19611"></a>
 - t-001
+  global_id: t-19611
   teiginys: 'Nuo 1930 m. Tautos šventės dieną valstybines įstaigas puošdavo dideli Vytauto Didžiojo ir A. Smetonos portretai.'
   pagrindžia:
     - c-001

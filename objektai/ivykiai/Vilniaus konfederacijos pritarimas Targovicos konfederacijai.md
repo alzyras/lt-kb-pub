@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20537"></a>
 - t-001
+  global_id: t-20537
   teiginys: '1792 m. birželio 25 d. Vilniaus, arba Lietuvos, konfederacija pritarė Targovicos konfederacijai.'
   pagrindžia:
     - c-001

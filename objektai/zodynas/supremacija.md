@@ -18,12 +18,16 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
 
 ## Teiginiai
 
+<a id="claim-t-36838"></a>
 - t-001
+  global_id: t-36838
   teiginys: 'Teisiškai Lietuva buvo susieta su Lenkija ir buvo visiškoje jos supremacijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-36839"></a>
 - t-002
+  global_id: t-36839
   teiginys: 'Sudarytuose unijos aktuose kontragentai nebuvo laikomi lygiais, o supremacija visada buvo paliekama lenkams.'
   pagrindžia:
     - c-002

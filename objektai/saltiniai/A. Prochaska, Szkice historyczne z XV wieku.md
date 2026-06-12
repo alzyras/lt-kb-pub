@@ -26,7 +26,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31605"></a>
 - t-001
+  global_id: t-31605
   teiginys: 'A. Prochaskos „Szkice historyczne z XV wieku“ buvo išleista Krokuvoje ir Varšuvoje 1884 m.'
   pagrindžia:
     - c-001

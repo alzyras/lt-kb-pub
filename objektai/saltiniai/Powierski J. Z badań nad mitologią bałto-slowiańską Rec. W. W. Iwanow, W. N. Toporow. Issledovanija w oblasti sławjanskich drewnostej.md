@@ -22,7 +22,9 @@ Dusburgietis teigia, kad powierski J.
 
 ## Teiginiai
 
+<a id="claim-t-61248"></a>
 - t-001
+  global_id: t-61248
   teiginys: 'J. Powierskio recenzija apie W. W. Iwanowo ir W. N. Toporowo veikalą paskelbta 1977 m. žurnale „Slavia antiqua“.'
   pagrindžia:
     - c-001

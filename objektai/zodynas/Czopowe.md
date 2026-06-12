@@ -18,12 +18,16 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
 
 ## Teiginiai
 
+<a id="claim-t-86520"></a>
 - t-001
+  global_id: t-86520
   teiginys: 'Czopowe buvo svaigalų mokestis, kurį Batoras reikalavo išreikalauti iš Vilniaus miestiečių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86521"></a>
 - t-002
+  global_id: t-86521
   teiginys: 'Vilniaus miestiečiams ir pirkliams buvo nurodyta privalomai mokėti Czopowe ir Szosowe mokesčius.'
   pagrindžia:
     - c-002

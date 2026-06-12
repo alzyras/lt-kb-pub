@@ -18,12 +18,16 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
 
 ## Teiginiai
 
+<a id="claim-t-75594"></a>
 - t-001
+  global_id: t-75594
   teiginys: 'Dėl žemės reformos didžioji Lietuvos ūkių dalis buvo per smulkūs, kad šeimai garantuotų minimaliam gyvenimo lygiui prilygstančias pajamas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75597"></a>
 - t-002
+  global_id: t-75597
   teiginys: 'Šalies valdžiai sunkiai sekėsi kapitalistiniais pagrindais pertvarkyti Lietuvos žemės ūkį, sparčiai kintant geopolitinei situacijai neparengta ekonominių reformų programa, nelengva buvo netgi įsivaizduoti jų apimtį, gylį ir padarinius – pasaulyje tiesiog.'
   pagrindžia:
     - c-002

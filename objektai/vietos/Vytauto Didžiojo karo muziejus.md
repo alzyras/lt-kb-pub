@@ -19,7 +19,9 @@ Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė pastatyti Kaune V
 
 ## Teiginiai
 
+<a id="claim-t-21928"></a>
 - t-001
+  global_id: t-21928
   teiginys: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.'
   pagrindžia:
     - c-001

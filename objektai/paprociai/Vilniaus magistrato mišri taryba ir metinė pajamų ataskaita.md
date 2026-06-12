@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87307"></a>
 - t-001
+  global_id: t-87307
   teiginys: '1536 m. Žygimantas Senasis nustatė, kad Vilniaus magistratą sudarytų po lygiai katalikų ir stačiatikių burmistrai bei tarybos nariai.'
   pagrindžia:
     - c-001

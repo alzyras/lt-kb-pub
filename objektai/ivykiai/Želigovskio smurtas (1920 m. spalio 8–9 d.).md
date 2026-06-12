@@ -37,17 +37,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01898"></a>
 - t-001
+  global_id: t-01898
   teiginys: 'Želigovskio smurtas sulaužė Suvalkų sutartį praėjus dviem dienoms po jos pasirašymo ir sutrikdė Lietuvos ir Lenkijos santykių tvarkymą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-01899"></a>
 - t-002
+  global_id: t-01899
   teiginys: 'Želigovskio smurto išvakarėse lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01900"></a>
 - t-003
+  global_id: t-01900
   teiginys: 'Lenkija teigė, kad generolas Želigovskis savavališkai užėmė Vilnių, tačiau šaltinis šį aiškinimą vadino pramanu.'
   pagrindžia:
     - c-002

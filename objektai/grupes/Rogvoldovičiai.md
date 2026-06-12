@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86820"></a>
 - t-001
+  global_id: t-86820
   teiginys: 'Mstislavui Vladimirovičiui užėmus Polocką, Rogvoldovičiai pabėgo į Konstantinopolį.'
   pagrindžia:
     - c-001

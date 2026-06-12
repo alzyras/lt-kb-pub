@@ -16,7 +16,9 @@ Tikslas pateisino prie­ mones.
 
 ## Teiginiai
 
+<a id="claim-t-95945"></a>
 - t-001
+  global_id: t-95945
   teiginys: 'Posakis „Tikslas pateisino priemones“ taikytas Vytauto kovai dėl savo teisių ne visai teisėtu būdu.'
   pagrindžia:
     - c-001

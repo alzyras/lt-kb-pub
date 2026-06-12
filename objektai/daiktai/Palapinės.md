@@ -36,12 +36,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-12324"></a>
 - t-001
+  global_id: t-12324
   teiginys: 'Po mūšio buvo statomos palapinės ir trims dienoms sustota pailsėti bei susitvarkyti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-92990"></a>
 - t-002
+  global_id: t-92990
   teiginys: 'Imta statyti palapinės ir sustota, kaip tų laikų karo papročiai reikalavo, trims dienoms pasilsėti ir susitvarkyti.'
   pagrindžia:
     - c-001

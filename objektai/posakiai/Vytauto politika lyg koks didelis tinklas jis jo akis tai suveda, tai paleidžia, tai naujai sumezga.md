@@ -16,7 +16,9 @@ Jei Vytautas delsia, tai visada tas yra tikslinga: jis tuo arba priverčia prie�
 
 ## Teiginiai
 
+<a id="claim-t-176273"></a>
 - t-001
+  global_id: t-176273
   teiginys: 'Vytauto politika lyginama su dideliu tinklu, kurio akis jis suveda, paleidžia ir naujai sumezga.'
   pagrindžia:
     - c-001

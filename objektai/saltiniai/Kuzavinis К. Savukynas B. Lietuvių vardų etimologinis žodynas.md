@@ -22,7 +22,9 @@ Dusburgietis teigia, kad kuzavinis К.
 
 ## Teiginiai
 
+<a id="claim-t-61117"></a>
 - t-001
+  global_id: t-61117
   teiginys: 'K. Kuzavinio ir B. Savukyno „Lietuvių vardų etimologinis žodynas“ paskelbtas 1971 m. leidinyje „Vardai ir žodžiai“, p. 42–157.'
   pagrindžia:
     - c-001

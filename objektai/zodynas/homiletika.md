@@ -18,17 +18,23 @@ Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir semi
 
 ## Teiginiai
 
+<a id="claim-t-03012"></a>
 - t-001
+  global_id: t-03012
   teiginys: 'Muravjovas uždraudė seminarijoje lenkiškai dėstyti homiletiką ir įsakė ją dėstyti rusiškai arba lietuviškai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-03013"></a>
 - t-002
+  global_id: t-03013
   teiginys: 'Antanas Baranauskas seminarijoje lietuviškai dėstė lietuvių kalbą ir homiletiką.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182949"></a>
 - t-003
+  global_id: t-182949
   teiginys: 'Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir seminarijoje, kur iki tol buvo lenkiškai dėstoma homiletika (pamokslų mokslas); dabar buvo įsakyta ją dėstyti rusiškai arba lietuviškai.'
   pagrindžia:
     - c-002

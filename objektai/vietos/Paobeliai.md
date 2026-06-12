@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-42015"></a>
 - t-001
+  global_id: t-42015
   teiginys: 'J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius apeiti bolševikų iš užnugario.'
   pagrindžia:
     - c-001

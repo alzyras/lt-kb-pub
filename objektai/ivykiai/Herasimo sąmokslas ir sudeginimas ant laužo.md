@@ -30,7 +30,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01622"></a>
 - t-001
+  global_id: t-01622
   teiginys: 'Herasimas siekė sukelti maištą Smolenske, bet jo sąmokslas buvo susektas ir Švitrigailos įsakymu jis sudegintas ant laužo.'
   pagrindžia:
     - c-001

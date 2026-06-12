@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31476"></a>
 - t-001
+  global_id: t-31476
   teiginys: 'Sąmyšio metai (1604–1612), nors lietuviai ir lenkai per Dimitrą Prisimetėlį veikė Maskvoje, Abiejų Tautų Respublikai reikšmingesnių atliepimų neturėjo.'
   pagrindžia:
     - c-001

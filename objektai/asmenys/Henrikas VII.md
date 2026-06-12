@@ -28,22 +28,30 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
 
 ## Teiginiai
 
+<a id="claim-t-59976"></a>
 - t-001
+  global_id: t-59976
   teiginys: 'Dusburgietis teigia, kad apie Henriko, imperatoriaus, mirtį Tais pačiais metais, Baltramiejaus dieną (rugpjūčio 24), Sienos grafystėje mirė imperatorius Henrikas, o palaidojo jį Pizoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59977"></a>
 - t-002
+  global_id: t-59977
   teiginys: 'Dusburgietis teigia, kad apie karaliaus Henriko vainikavimą imperatoriumi Tais metais Henrikas VII, Romos karalius, buvo vainikuotas Romoje, Laterano bažnyčioje, imperatoriumi po 62 metų nuo imperatoriaus Fridricho II mirties (Mart.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-59978"></a>
 - t-003
+  global_id: t-59978
   teiginys: 'Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metais, per tris karalius sausio 6 dieną, Henriką, Romos karalių, vainikavo prie Milano geležiniu vainiku (Ptol.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59979"></a>
 - t-004
+  global_id: t-59979
   teiginys: 'Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos karaliumi Tais pačiais metais, šventos Kotrynos dieną (lapkričio 25), Vokietijos valdovai elektoriai vieningai išrinko Henriką, Liuksemburgo grafą, Romos karaliumi (Mart.'
   pagrindžia:
     - c-002

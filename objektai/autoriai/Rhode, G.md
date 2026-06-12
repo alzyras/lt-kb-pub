@@ -16,7 +16,9 @@ Rhode, G.
 
 ## Teiginiai
 
+<a id="claim-t-30952"></a>
 - t-001
+  global_id: t-30952
   teiginys: 'G. Rhode 1973 m. paskelbė darbą apie polemiką dėl 1410 m. Tanenbergo mūšio.'
   pagrindžia:
     - c-001

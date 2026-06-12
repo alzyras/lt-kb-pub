@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54262"></a>
 - t-001
+  global_id: t-54262
   teiginys: 'Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54263"></a>
 - t-002
+  global_id: t-54263
   teiginys: 'Lenkijoje ir Lietuvoje tolerancijos ribos siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.'
   pagrindžia:
     - c-001

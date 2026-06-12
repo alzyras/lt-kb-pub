@@ -23,7 +23,9 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 
 ## Teiginiai
 
+<a id="claim-t-25373"></a>
 - t-001
+  global_id: t-25373
   teiginys: 'Petras Griškevičius ir Rimgaudas Songaila laikėsi pasyviai, o Nikolajus Mitkinas siekė „Lietuvą padaryti internacionalinę“.'
   pagrindžia:
     - c-001

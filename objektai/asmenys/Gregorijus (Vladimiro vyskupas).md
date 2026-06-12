@@ -18,7 +18,9 @@ Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir stačiatikių tar
 
 ## Teiginiai
 
+<a id="claim-t-35082"></a>
 - t-001
+  global_id: t-35082
   teiginys: 'Bonifacas IX domininkoną Gregorijų paskyrė Vytauto įkurtos Vladimiro vyskupijos Volynijoje vyskupu.'
   pagrindžia:
     - c-001

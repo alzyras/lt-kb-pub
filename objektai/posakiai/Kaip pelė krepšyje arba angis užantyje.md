@@ -38,17 +38,23 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
 
 ## Teiginiai
 
+<a id="claim-t-55178"></a>
 - t-001
+  global_id: t-55178
   teiginys: 'Prūsijos vyskupų laiške taikos sutarties grėsmė lyginama su pele krepšyje arba angimi užantyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55179"></a>
 - t-002
+  global_id: t-55179
   teiginys: 'Prūsijos vyskupų laiške sutarties grėsmė buvo lyginama su pele krepšyje arba angimi užantyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82140"></a>
 - t-003
+  global_id: t-82140
   teiginys: 'Vyskupų laiške perspėta, kad priešai kaip pelė krepšyje arba angis užantyje sunaikins jų žemes ir užtrauks pražūtį krikščionybei.'
   pagrindžia:
     - c-001

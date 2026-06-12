@@ -22,7 +22,9 @@ Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš 
 
 ## Teiginiai
 
+<a id="claim-t-88511"></a>
 - t-001
+  global_id: t-88511
   teiginys: '1432 m. rugsėjo 3 d. laiške iš Polocko Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.'
   pagrindžia:
     - c-001

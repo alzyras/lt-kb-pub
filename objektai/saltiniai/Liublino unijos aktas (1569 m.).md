@@ -27,32 +27,44 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
 
 ## Teiginiai
 
+<a id="claim-t-169903"></a>
 - t-001
+  global_id: t-169903
   teiginys: 'Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino unijos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per ašaras, LDK atstovai priėmė, tačiau šio.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-169905"></a>
 - t-002
+  global_id: t-169905
   teiginys: '1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-169906"></a>
 - t-003
+  global_id: t-169906
   teiginys: 'Chodkevičius Liublino seime 1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos prijungimo prie Lenkijos – idėją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169907"></a>
 - t-004
+  global_id: t-169907
   teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169908"></a>
 - t-005
+  global_id: t-169908
   teiginys: 'Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos, kartu unijos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169909"></a>
 - t-006
+  global_id: t-169909
   teiginys: 'Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS IR LIETUVOS VALSTYBIŲ JUNGTUVĖS 63 ABIEJŲ TAUTŲ RESPUBLIKA 64 Liublino unija 64; LDK Baroko epochos Europoje.'
   pagrindžia:
     - c-005

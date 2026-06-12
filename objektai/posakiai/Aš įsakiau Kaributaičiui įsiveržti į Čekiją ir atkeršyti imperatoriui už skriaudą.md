@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą
 
 ## Santrauka
 
-Kojelavičius teigia, kad jis esą nenorįs, at virai užimdamas Čekijos karaliaus sostą, susilaukti valdovų nepalankumo, kuris jam būsiąs nenaudingas, o čekams — netgi žalingas. Kojelavičius teigia, kad kaributaitis, jo brolėnas, iš mažumės skatinamas narsiems karo žygiams, suteikęs čekams pagalbą ne todėl, kad šitokia buvusi karaliaus valia, bet dėl to, kad to pats norėjo, į Čekiją jis nukakęs be karaliaus žinios ir pasitrauksiąs iš ten tada, kai pats to.
+Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų nepalankumo sau ir žalos čekams. Vytautas pareiškė įsakęs Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.
 
 ## Teiginiai
 
+<a id="claim-t-185467"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad jis esą nenorįs, at virai užimdamas Čekijos karaliaus sostą, susilaukti valdovų nepalankumo, kuris jam būsiąs nenaudingas, o čekams — netgi žalingas.'
+  global_id: t-185467
+  teiginys: 'Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų nepalankumo sau ir žalos čekams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185468"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kaributaitis, jo brolėnas, iš mažumės skatinamas narsiems karo žygiams, suteikęs čekams pagalbą ne todėl, kad šitokia buvusi karaliaus valia, bet dėl to, kad to pats norėjo, į Čekiją jis nukakęs be karaliaus žinios ir pasitrauksiąs iš ten tada, kai pats to.'
+  global_id: t-185468
+  teiginys: 'Vytautas pareiškė įsakęs Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad jis esą nenorįs, at virai užimdamas Čekijos karaliaus sostą, susilaukti valdovų nepalankumo, kuris jam būsiąs nenaudingas, o čekams — netgi žalingas.'
+  santrauka: 'Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų nepalankumo sau ir žalos čekams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Slapta juos pasikvietęs, Vytautas jiems
@@ -46,7 +49,7 @@ Kojelavičius teigia, kad jis esą nenorįs, at virai užimdamas Čekijos karali
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kaributaitis, jo brolėnas, iš mažumės skatinamas narsiems karo žygiams, suteikęs čekams pagalbą ne todėl, kad šitokia buvusi karaliaus valia, bet dėl to, kad to pats norėjo, į Čekiją jis nukakęs be karaliaus žinios ir pasitrauksiąs iš ten tada, kai pats to.'
+  santrauka: 'Vytautas pareiškė įsakęs Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kaributaitis, jo brolėnas, iš mažumės skatinamas
@@ -71,3 +74,10 @@ Kojelavičius teigia, kad jis esą nenorįs, at virai užimdamas Čekijos karali
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Čekai]]

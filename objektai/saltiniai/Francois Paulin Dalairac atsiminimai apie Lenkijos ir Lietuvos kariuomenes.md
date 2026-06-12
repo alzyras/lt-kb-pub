@@ -32,17 +32,23 @@ Cituojama „Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kari
 
 ## Teiginiai
 
+<a id="claim-t-67390"></a>
 - t-001
+  global_id: t-67390
   teiginys: 'Francois Paulin Dalairac rašė, kad Karūnos ir Lietuvos kariuomenė buvo padalyta į lenkų ir svetimšalių autoramentus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67391"></a>
 - t-002
+  global_id: t-67391
   teiginys: 'Fiift Radeiviel begegnetim Mann: Lich, wiewel mit ebwas ver wirrhee, : E rs 46 G) Ištrauka iš Prancūzijos armijos kario Francois Paulin Dalairac (1699 m.) atsiminimų apie Lenkijos ir Lietuvos kariuomenes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67392"></a>
 - t-003
+  global_id: t-67392
   teiginys: 'Francois Paulin Dalairaco atsiminimuose Lenkijos ir Lietuvos kariuomenės skirstomos į lenkų ir svetimšalių autoramentus.'
   pagrindžia:
     - c-002

@@ -16,7 +16,9 @@ Antanas Smetona ir jo laikai.
 
 ## Teiginiai
 
+<a id="claim-t-18022"></a>
 - t-001
+  global_id: t-18022
   teiginys: 'Liudo Truskos knyga „Antanas Smetona ir jo laikai“ išleista Vilniuje 1996 m.'
   pagrindžia:
     - c-001

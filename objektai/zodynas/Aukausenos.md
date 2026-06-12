@@ -23,12 +23,16 @@ Vartojamos formos: `aukos`, `aukas`.
 
 ## Teiginiai
 
+<a id="claim-t-07688"></a>
 - t-001
+  global_id: t-07688
   teiginys: 'Aukausenos buvo skirstomos į iškilmines, išeigines ir kiemines.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-07689"></a>
 - t-002
+  global_id: t-07689
   teiginys: '`Aukausenos` šiame tekste reiškia aukojimo apeigas.'
   pagrindžia:
     - c-002
@@ -87,7 +91,6 @@ Vartojamos formos: `aukos`, `aukas`.
 - [[objektai/grupes/SSRS liaudies deputatų II suvažiavimas]]
 - [[objektai/paprociai/Sueiga į šventą girią baisios aukos atlikti]]
 - [[objektai/zodynas/Sutartinės|sutartinės]]
-- [[objektai/zodynas/vietininkas]]
 - [[objektai/daiktai/Dievų stabai]]
 - [[objektai/paprociai/Išeiginės aukos per metines viešes]]
 - [[objektai/paprociai/Maro aukų laidojimas Šv. Roko vienuolių eremitų rankomis]]

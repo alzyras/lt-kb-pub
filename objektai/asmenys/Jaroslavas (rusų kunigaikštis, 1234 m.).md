@@ -28,7 +28,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-40177"></a>
 - t-001
+  global_id: t-40177
   teiginys: '1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.'
   pagrindžia:
     - c-001

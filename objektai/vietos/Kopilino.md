@@ -24,7 +24,9 @@ Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, D
 
 ## Teiginiai
 
+<a id="claim-t-38616"></a>
 - t-001
+  global_id: t-38616
   teiginys: 'Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, Dubrovnos apylinkes, o atsakydami į tai lietuviai nuniokojo Maskvos žemes Vitebsko vaivadijos pasienyje.'
   pagrindžia:
     - c-001

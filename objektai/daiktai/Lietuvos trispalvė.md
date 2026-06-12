@@ -51,32 +51,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75334"></a>
 - t-001
+  global_id: t-75334
   teiginys: 'Liepos 9 d. Vingio parke LPS vadovybė paskelbė reikalavimą legalizuoti trispalvę ir „Tautišką giesmę“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75335"></a>
 - t-002
+  global_id: t-75335
   teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75336"></a>
 - t-003
+  global_id: t-75336
   teiginys: 'Stiprėjo Lietuvos žaliųjų judėjimas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75337"></a>
 - t-004
+  global_id: t-75337
   teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę, „Tautišką giesmę“, Vytį ir Gediminaičių stulpus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75338"></a>
 - t-005
+  global_id: t-75338
   teiginys: 'LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lietuvoje rugpjūčio 11–12 dienomis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75339"></a>
 - t-006
+  global_id: t-75339
   teiginys: 'Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos masinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių susirinko prie laikinosios sostinės Kauno.'
   pagrindžia:
     - c-001

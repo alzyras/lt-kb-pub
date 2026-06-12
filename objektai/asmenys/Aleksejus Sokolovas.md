@@ -16,12 +16,16 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
 
 ## Teiginiai
 
+<a id="claim-t-40005"></a>
 - t-001
+  global_id: t-40005
   teiginys: 'Aleksejus Sokolovas buvo agentų-smogikų organizatorius Lietuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40006"></a>
 - t-002
+  global_id: t-40006
   teiginys: 'Saugumo majoras Aleksejus Sokolovas formavo vadinamąsias specialiąsias grupes, kuriose veikdavo smogikai.'
   pagrindžia:
     - c-002

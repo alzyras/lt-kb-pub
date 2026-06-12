@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20312"></a>
 - t-001
+  global_id: t-20312
   teiginys: 'Juozo Urbšio kelionės į Maskvą išvakarėse pradėta dalinė Lietuvos kariuomenės demobilizacija buvo rizikingas žingsnis.'
   pagrindžia:
     - c-001

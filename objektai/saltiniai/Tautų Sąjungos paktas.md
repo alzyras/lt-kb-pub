@@ -18,12 +18,16 @@ Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją
 
 ## Teiginiai
 
+<a id="claim-t-67549"></a>
 - t-001
+  global_id: t-67549
   teiginys: 'Dalis Tautų Sąjungos narių nenorėjo prisiimti pakto prievolių ginti Pabaltijo valstybes nuo kaimynų agresijos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67550"></a>
 - t-002
+  global_id: t-67550
   teiginys: 'Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją (pagal pakto str.'
   pagrindžia:
     - c-001

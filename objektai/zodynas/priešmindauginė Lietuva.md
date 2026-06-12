@@ -29,7 +29,9 @@ Dusburgietis teigia, kad „Lietuvos ir Jotvingių“ veiksmai prieš Volynę š
 
 ## Teiginiai
 
+<a id="claim-t-58919"></a>
 - t-001
+  global_id: t-58919
   teiginys: '1219 m. priešmindauginė Lietuva sudarė sutartį su Volyne, kai kilo pavojus Lietuvai ir prūsų kraštui.'
   pagrindžia:
     - c-001

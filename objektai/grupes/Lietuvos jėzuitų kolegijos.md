@@ -23,17 +23,23 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
 
 ## Teiginiai
 
+<a id="claim-t-81463"></a>
 - t-001
+  global_id: t-81463
   teiginys: 'Pilaitė, buvusi jėzuitų nuosavybė, vėliau atiteko Vilniaus universitetui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81464"></a>
 - t-002
+  global_id: t-81464
   teiginys: 'Pilaitė prie Vilniaus kadaise buvo jėzuitų nuosavybė, o vėliau atiteko Vilniaus universitetui.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-81465"></a>
 - t-003
+  global_id: t-81465
   teiginys: 'Lietuvos jėzuitų kolegijos ir Vilniaus akademija prisidėjo prie lotynų kalbos plitimo tarp Lietuvos kilmingųjų.'
   pagrindžia:
     - c-002

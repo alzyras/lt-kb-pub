@@ -26,7 +26,9 @@ Dusburgietis teigia, kad 376 Mikalojaus bažnyčia 1550 m. Karaliaučiaus plane 
 
 ## Teiginiai
 
+<a id="claim-t-61054"></a>
 - t-001
+  global_id: t-61054
   teiginys: 'Dusburgietis teigia, kad 376 Mikalojaus bažnyčia 1550 m. Karaliaučiaus plane (Brauno) yra prie Steindamm gatvės.'
   pagrindžia:
     - c-001

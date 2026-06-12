@@ -17,7 +17,9 @@ Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, bet jie nebuvo tokie ga
 
 ## Teiginiai
 
+<a id="claim-t-86232"></a>
 - t-001
+  global_id: t-86232
   teiginys: 'Žygimantų laikais Vilniuje atsiradę nauji vartai ir nuo jų vingiuojanti gatvė gavo Rūdninkų vardą.'
   pagrindžia:
     - c-001

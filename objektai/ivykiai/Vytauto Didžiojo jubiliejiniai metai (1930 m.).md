@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31493"></a>
 - t-001
+  global_id: t-31493
   teiginys: 'Nuo Vytauto Didžiojo jubiliejinių metų 1930 m. Lietuvos istorijoje ėmė reikštis vadinamasis jaunųjų istorikų būrelis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-31494"></a>
 - t-002
+  global_id: t-31494
   teiginys: 'Vytauto Didžiojo jubiliejiniai metai 1930 m. rodė, kad Gediminaičių Lietuva vis dar traukė Lietuvos istorikų dėmesį.'
   pagrindžia:
     - c-002

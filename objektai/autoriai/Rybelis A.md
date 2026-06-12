@@ -24,7 +24,9 @@ Dusburgietis teigia, kad rybelis A.
 
 ## Teiginiai
 
+<a id="claim-t-60777"></a>
 - t-001
+  global_id: t-60777
   teiginys: 'A. Rybelis parašė darbą „Senoji lietuvių pasaulėžiūra“.'
   pagrindžia:
     - c-001

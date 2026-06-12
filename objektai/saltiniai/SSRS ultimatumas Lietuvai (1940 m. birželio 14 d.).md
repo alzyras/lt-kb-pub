@@ -16,22 +16,30 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
 
 ## Teiginiai
 
+<a id="claim-t-75516"></a>
 - t-001
+  global_id: t-75516
   teiginys: 'Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta, ar priešintis okupacijai, ar priimti ultimatumą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75517"></a>
 - t-002
+  global_id: t-75517
   teiginys: '1940 m. birželio 14 d. vakare J. Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai pareikalauta įsileisti neribotus sovietų karinius dalinius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75518"></a>
 - t-003
+  global_id: t-75518
   teiginys: 'Sovietai dar pavasarį slapta permetė į Lietuvos miestus lietuviškai kalbėti apmokytas specialias diversines karo žvalgybos grupes valdžiai paimti, prieš pat invaziją pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75519"></a>
 - t-004
+  global_id: t-75519
   teiginys: 'Kariuomenės vadas gen. V. Vitkauskas ir gen. S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.'
   pagrindžia:
     - c-003

@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-95967"></a>
 - t-001
+  global_id: t-95967
   teiginys: 'Kada Vytauto prašymai nieko negelbėjo, jis turėjo ieškoti būdų pabėgti iš Krėvės.'
   pagrindžia:
     - c-001

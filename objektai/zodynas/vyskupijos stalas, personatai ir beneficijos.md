@@ -19,7 +19,9 @@ Suprantame, kad mūsų ganytojiškoms parei­ goms priklauso pasirūpinti, kad i
 
 ## Teiginiai
 
+<a id="claim-t-86628"></a>
 - t-001
+  global_id: t-86628
   teiginys: 'Jurgis Radvila numatė klierikų kolegijai skirti dalį pajamų iš vyskupijos stalo, personatų, abatijų ir kitų beneficijų.'
   pagrindžia:
     - c-001

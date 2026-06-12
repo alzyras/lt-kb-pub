@@ -18,12 +18,16 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
 
 ## Teiginiai
 
+<a id="claim-t-60111"></a>
 - t-001
+  global_id: t-60111
   teiginys: 'Dusburgietis teigia, kad kai, šitai išgirdęs, brolis Ernekė jo pasigailėjo ir priplaukė prie kranto, šis staiga nutvėrė laivą, stipriai į jį įsikibo ir, susišaukęs savo bendrus, užpuolė plaukusius laivu ir visus išžudė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60112"></a>
 - t-002
+  global_id: t-60112
   teiginys: 'Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras, išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai.'
   pagrindžia:
     - c-001

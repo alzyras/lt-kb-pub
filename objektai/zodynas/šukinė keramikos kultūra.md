@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-32819"></a>
 - t-001
+  global_id: t-32819
   teiginys: 'Šukinė keramikos kultūra taip vadinama dėl šukinių keramikos ornamentų.'
   pagrindžia:
     - c-001

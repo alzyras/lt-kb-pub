@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31503"></a>
 - t-001
+  global_id: t-31503
   teiginys: '1296 m. žiemą Balgos komtūras galbūt tame pačiame žygyje užėmė Gardino priešpilį.'
   pagrindžia:
     - c-001

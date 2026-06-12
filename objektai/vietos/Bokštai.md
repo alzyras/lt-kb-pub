@@ -19,7 +19,9 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
 
 ## Teiginiai
 
+<a id="claim-t-86173"></a>
 - t-001
+  global_id: t-86173
   teiginys: 'Bokštai buvo tarp valdų, kuriomis iškilmingu dovanojimo aktu buvo aprūpinta Vilniaus katedra.'
   pagrindžia:
     - c-001

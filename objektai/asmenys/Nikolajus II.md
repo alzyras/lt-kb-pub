@@ -17,7 +17,9 @@ Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis kylanč
 
 ## Teiginiai
 
+<a id="claim-t-19178"></a>
 - t-001
+  global_id: t-19178
   teiginys: '1905 m. spalio pabaigoje caras Nikolajus II išleido manifestą, pažadėjusį demokratines laisves ir Valstybės Dūmos rinkimus.'
   pagrindžia:
     - c-001

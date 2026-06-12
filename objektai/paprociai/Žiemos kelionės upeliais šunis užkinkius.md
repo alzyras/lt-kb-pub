@@ -30,7 +30,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-07826"></a>
 - t-001
+  global_id: t-07826
   teiginys: 'Žiemos laiku gyventojai važinėdavo upeliais, šunis užkinkę.'
   pagrindžia:
     - c-001

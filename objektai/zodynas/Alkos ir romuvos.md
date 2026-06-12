@@ -37,17 +37,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-06171"></a>
 - t-001
+  global_id: t-06171
   teiginys: 'Archeologų atkastas šventoves apylinkių žmonės dažnai vadino alkų vardais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-06172"></a>
 - t-002
+  global_id: t-06172
   teiginys: 'Pasakojimas apie vieną vyriausiąją Romuvą laikomas viduramžių rašytojų prasimanymu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-06173"></a>
 - t-003
+  global_id: t-06173
   teiginys: 'Šventovės vienur buvo vadinamos romuvomis, kitur alkomis, galbūt dėl pobūdžio ar tarmių skirtumų.'
   pagrindžia:
     - c-002

@@ -18,7 +18,9 @@ S-gą suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo padaryt
 
 ## Teiginiai
 
+<a id="claim-t-02908"></a>
 - t-001
+  global_id: t-02908
   teiginys: 'Su Čekoslovakija buvo sudaryta sutartis, įpareigojusi saugoti mažumų teises.'
   pagrindžia:
     - c-001

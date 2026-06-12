@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87199"></a>
 - t-001
+  global_id: t-87199
   teiginys: 'Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87200"></a>
 - t-002
+  global_id: t-87200
   teiginys: 'Šventaragio slėnyje tarp Vilijos ir Vilnelės degė amžinoji ugnis Gabija, kurią lietuviai labai garbino.'
   pagrindžia:
     - c-002

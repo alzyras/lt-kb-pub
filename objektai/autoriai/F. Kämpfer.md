@@ -24,7 +24,9 @@ Kämpfer : Beobachtungen zu den Sendschreiben Filofejs, JbGO, t.
 
 ## Teiginiai
 
+<a id="claim-t-30609"></a>
 - t-001
+  global_id: t-30609
   teiginys: 'F. Kämpfer parašė straipsnį „Beobachtungen zu den Sendschreiben Filofejs“, paskelbtą 1970 m. „JbGO“ 18 tome.'
   pagrindžia:
     - c-001

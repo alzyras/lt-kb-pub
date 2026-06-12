@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62403"></a>
 - t-001
+  global_id: t-62403
   teiginys: 'Dusburgietis teigia, kad apie daugybės prūsų žūtį Neilgai trukus po to prūsų kariuomenė įsibrovė į Kulmo žemę ir ją nusiaubė, viską degindama ir plėšdama, o daugybę krikščionių išžudė.'
   pagrindžia:
     - c-001

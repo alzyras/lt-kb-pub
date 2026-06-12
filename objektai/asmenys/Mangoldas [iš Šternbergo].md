@@ -26,12 +26,16 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
 
 ## Teiginiai
 
+<a id="claim-t-60169"></a>
 - t-001
+  global_id: t-60169
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo kariuomenę ir.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60170"></a>
 - t-002
+  global_id: t-60170
   teiginys: 'Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpaties metais Brolis Mangoldas [iš Šternbergo], vienuoliktas Prūsijos magistras, vadovavo dvejus metus.'
   pagrindžia:
     - c-001

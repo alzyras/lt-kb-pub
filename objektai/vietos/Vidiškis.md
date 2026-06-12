@@ -16,7 +16,9 @@ Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraiči
 
 ## Teiginiai
 
+<a id="claim-t-42266"></a>
 - t-001
+  global_id: t-42266
   teiginys: 'Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.'
   pagrindžia:
     - c-001

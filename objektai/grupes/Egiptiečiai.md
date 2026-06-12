@@ -16,7 +16,9 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
 
 ## Teiginiai
 
+<a id="claim-t-07832"></a>
 - t-001
+  global_id: t-07832
   teiginys: 'Egiptiečiai buvo viena tautų, su kuriomis gilioje senovėje Lietuvos tauta turėjo pažinčių ir prekiavo.'
   pagrindžia:
     - c-001

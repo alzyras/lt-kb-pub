@@ -18,7 +18,9 @@ Pergalė prie Oršos buvo didžiausias Konstantino Ostrogiškio karinis triumfas
 
 ## Teiginiai
 
+<a id="claim-t-42432"></a>
 - t-001
+  global_id: t-42432
   teiginys: 'Per Oršos mūšį atsitraukiant priešas buvo atviliotas į artilerijos pasalą.'
   pagrindžia:
     - c-001

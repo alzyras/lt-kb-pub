@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54210"></a>
 - t-001
+  global_id: t-54210
   teiginys: 'Vytauto politikoje svarbia socialine permaina tapo žemvaldžių riterių sluoksnio kūrimas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54211"></a>
 - t-002
+  global_id: t-54211
   teiginys: 'Vytauto politikoje svarbios buvo socialinės permainos, kuriomis kurtas žemvaldžių riterių sluoksnis.'
   pagrindžia:
     - c-001

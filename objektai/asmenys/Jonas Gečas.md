@@ -24,12 +24,16 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
 
 ## Teiginiai
 
+<a id="claim-t-40216"></a>
 - t-001
+  global_id: t-40216
   teiginys: 'Jonas Gečas buvo paskirtas Aukščiausiosios Tarybos gynybos štabo viršininku.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40217"></a>
 - t-002
+  global_id: t-40217
   teiginys: '1991 m. Jonas Gečas priklausė Aukščiausiosios Tarybos gynybos štabui.'
   pagrindžia:
     - c-001

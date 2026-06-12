@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-91917"></a>
 - t-001
+  global_id: t-91917
   teiginys: 'Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250.'
   pagrindžia:
     - c-001

@@ -17,12 +17,16 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
 
 ## Teiginiai
 
+<a id="claim-t-70078"></a>
 - t-001
+  global_id: t-70078
   teiginys: 'Archeologų atkastas senąsias šventoves apylinkių žmonės dažnai vadino alkų vardais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70079"></a>
 - t-002
+  global_id: t-70079
   teiginys: 'Šapokos veikale pasakojimas apie vieną vyriausiąją šventovę Romuvą laikomas viduramžių rašytojų prasimanymu.'
   pagrindžia:
     - c-001

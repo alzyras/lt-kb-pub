@@ -24,7 +24,9 @@ Wittram : Baltische Geschichte 1180-1918 (WiBG).
 
 ## Teiginiai
 
+<a id="claim-t-31627"></a>
 - t-001
+  global_id: t-31627
   teiginys: 'R. Wittramo „Baltische Geschichte 1180-1918“ bibliografijoje žymėta santrumpa WiBG.'
   pagrindžia:
     - c-001

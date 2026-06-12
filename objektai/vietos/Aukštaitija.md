@@ -24,7 +24,9 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
 
 ## Teiginiai
 
+<a id="claim-t-176930"></a>
 - t-001
+  global_id: t-176930
   teiginys: 'Vytautas rašte Zigmantui teigė, kad Aukštaitija ir Žemaitija yra dvi neatskiriamos Lietuvos dalys.'
   pagrindžia:
     - c-001

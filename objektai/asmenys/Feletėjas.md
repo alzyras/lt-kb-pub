@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Feletėjas
 
 ## Santrauka
 
-Kojelavičius teigia, kad dvyliktaisiais viešpatavimo metais, laimėjęs keletą mūšių, sumušė rugijus, paėmė į nelaisvę karalių Feletėją, o jo sūnų Fridrichą išvijo.
+Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo.
 
 ## Teiginiai
 
+<a id="claim-t-186200"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad dvyliktaisiais viešpatavimo metais, laimėjęs keletą mūšių, sumušė rugijus, paėmė į nelaisvę karalių Feletėją, o jo sūnų Fridrichą išvijo.'
+  global_id: t-186200
+  teiginys: 'Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad dvyliktaisiais viešpatavimo metais, laimėjęs keletą mūšių, sumušė rugijus, paėmė į nelaisvę karalių Feletėją, o jo sūnų Fridrichą išvijo.'
+  santrauka: 'Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žygiuodamas toliau su kariuomene,
@@ -49,3 +50,8 @@ Kojelavičius teigia, kad dvyliktaisiais viešpatavimo metais, laimėjęs kelet�
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Gotai]]
+- [[objektai/asmenys/Fridrichas]]

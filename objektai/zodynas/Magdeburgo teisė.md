@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86595"></a>
 - t-001
+  global_id: t-86595
   teiginys: '1564 m. Žygimantas Augustas leido Vilniaus miestiečiams laisviau bylinėtis teismuose pagal Magdeburgo teisę.'
   pagrindžia:
     - c-001

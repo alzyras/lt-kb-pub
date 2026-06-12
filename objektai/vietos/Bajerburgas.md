@@ -27,32 +27,44 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-71842"></a>
 - t-001
+  global_id: t-71842
   teiginys: 'Visas Nemuno žemupys jau Vytenio laikais buvo kryžiuočių; o Gedimino laikais, pasistatę Bajerburgo ir Marijenburgo pilis, kryžiuočiai paslinko dar arčiau.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-71843"></a>
 - t-002
+  global_id: t-71843
   teiginys: 'Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos buvo susimetę kryžiuočiai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-71844"></a>
 - t-003
+  global_id: t-71844
   teiginys: 'Apsaugoti toli lietuvių teritorijoje pastatytam Marienburgui, ant Nemuno kranto tada buvo pastatytas Bajerburgas (tarp Veliuonos ir Peštvės, prie upelės Kvalkės).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71845"></a>
 - t-004
+  global_id: t-71845
   teiginys: '1384 m. liepos 9 d. pradėjęs išdavystę, Vytautas sunaikino jam pavestą Naująjį Bajerburgą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71846"></a>
 - t-005
+  global_id: t-71846
   teiginys: 'Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71847"></a>
 - t-006
+  global_id: t-71847
   teiginys: '1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Naująjį Bajerburgą bei dar vieną jam pavestą pilį.'
   pagrindžia:
     - c-002

@@ -17,14 +17,17 @@ Lenkų rungtynės su Lietuva dabartinės Ukrainos žemėse (Voluinėje, Haličiu
 
 ## Teiginiai
 
+<a id="claim-t-74006"></a>
 - t-001
-  teiginys: 'Lenkų rungtynės su Lietuva dabartinės Ukrainos žemėse (Voluinėje, Haličiuje, Podolėje) išėjo jiems į nenaudą.'
+  global_id: t-74006
+  teiginys: 'Liudviko valdymo metu lenkai prarado Haličių, kuris atiteko Vengrijai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Liudviko valdymo metu lenkai prarado Haličių, kuris atiteko Vengrijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl jie nusprendė, kad geriausias vyras Jadvygai būtų

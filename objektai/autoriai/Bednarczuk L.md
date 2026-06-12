@@ -16,7 +16,9 @@ Dusburgietis teigia, kad antikinių šaltinių tyrimas rodo, kad lotyniškoji fo
 
 ## Teiginiai
 
+<a id="claim-t-60676"></a>
 - t-001
+  global_id: t-60676
   teiginys: 'L. Bednarczukas tyrė antikinių šaltinių onomastiką, susijusią su Vyslos vardo baltiška kilme.'
   pagrindžia:
     - c-001

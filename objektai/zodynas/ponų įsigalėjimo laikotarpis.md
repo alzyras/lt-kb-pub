@@ -17,7 +17,9 @@ Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpis
 
 ## Teiginiai
 
+<a id="claim-t-74034"></a>
 - t-001
+  global_id: t-74034
   teiginys: 'Kazimiero laikai 1440–1492 m. priskiriami didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpiui.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-100229"></a>
 - t-001
+  global_id: t-100229
   teiginys: '117 Ikškilė (Uexkuel) 165 Į Laisvę 42 Ilmenio ež.'
   pagrindžia:
     - c-001

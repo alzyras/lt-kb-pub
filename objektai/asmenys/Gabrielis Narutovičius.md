@@ -16,7 +16,9 @@ Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo k
 
 ## Teiginiai
 
+<a id="claim-t-26441"></a>
 - t-001
+  global_id: t-26441
   teiginys: 'Dvarininkas Gabrielis Narutovičius tapo Lenkijos prezidentu.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Dusburgietis teigia, kad kodėl šitaip yra, nežinau, težino vienas dievas, ku
 
 ## Teiginiai
 
+<a id="claim-t-59160"></a>
 - t-001
+  global_id: t-59160
   teiginys: 'Dusburgietis teigia, kad kodėl šitaip yra, nežinau, težino vienas dievas, kurio sprendimai nesuprantami, o keliai nesuvokiami.'
   pagrindžia:
     - c-001

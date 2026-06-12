@@ -25,7 +25,9 @@ Grekov, B.
 
 ## Teiginiai
 
+<a id="claim-t-30568"></a>
 - t-001
+  global_id: t-30568
   teiginys: 'B. D. Grekovas su A. J. Jakubovskiu 1950 m. Maskvoje-Leningrade išleido veikalą „Zolotaja Orda i ee padenije“.'
   pagrindžia:
     - c-001

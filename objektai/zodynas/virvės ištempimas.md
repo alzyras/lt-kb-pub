@@ -18,7 +18,9 @@ Nuo tol joks namas negalėjo būti statomas be miesto tarybos žinios ir be virv
 
 ## Teiginiai
 
+<a id="claim-t-86626"></a>
 - t-001
+  global_id: t-86626
   teiginys: 'Namas Vilniuje negalėjo būti statomas be miesto tarybos žinios ir virvės ištempimo.'
   pagrindžia:
     - c-001

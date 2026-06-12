@@ -17,7 +17,9 @@ Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus 
 
 ## Teiginiai
 
+<a id="claim-t-58901"></a>
 - t-001
+  global_id: t-58901
   teiginys: 'Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai daryti atgailą, o kadangi jie plakėsi rykštėmis, vokiškai juos vadino Geyseler [saviplakiais].'
   pagrindžia:
     - c-001

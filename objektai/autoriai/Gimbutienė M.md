@@ -16,12 +16,16 @@ Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs O
 
 ## Teiginiai
 
+<a id="claim-t-60600"></a>
 - t-001
+  global_id: t-60600
   teiginys: 'Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M., Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60601"></a>
 - t-002
+  global_id: t-60601
   teiginys: 'Marija Gimbutienė knygoje „Baltai“ aptarė politeistinę baltų religiją, Krivės funkcijas, Perkūną ir kitus baltų dievus.'
   pagrindžia:
     - c-002

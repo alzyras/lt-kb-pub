@@ -17,7 +17,9 @@ tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (M
 
 ## Teiginiai
 
+<a id="claim-t-21628"></a>
 - t-001
+  global_id: t-21628
   teiginys: 'Voluinėje valdas įgiję Chodkevičiai turėjo valdų Mlynive.'
   pagrindžia:
     - c-001

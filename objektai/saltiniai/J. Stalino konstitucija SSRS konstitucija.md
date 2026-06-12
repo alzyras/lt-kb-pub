@@ -16,12 +16,16 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
 
 ## Teiginiai
 
+<a id="claim-t-21070"></a>
 - t-001
+  global_id: t-21070
   teiginys: 'Mokytojai buvo verčiami studijuoti V. Lenino, J. Stalino ir Karlo Markso veikalus, SSKP istoriją, SSRS konstituciją ir partijos nutarimus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-21071"></a>
 - t-002
+  global_id: t-21071
   teiginys: 'Mokyklose buvo įvestas privalomas J. Stalino konstitucijos ir rusų kalbos dėstymas, uždrausta tikyba ir sumažintas lietuvių kalbos pamokų skaičius.'
   pagrindžia:
     - c-001

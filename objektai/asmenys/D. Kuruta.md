@@ -17,12 +17,16 @@ Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenan
 
 ## Teiginiai
 
+<a id="claim-t-40078"></a>
 - t-001
+  global_id: t-40078
   teiginys: 'Mūšiui pasibaigus, generolas leitenantas D. Kuruta įsakė nutraukti sukilėlių persekiojimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40079"></a>
 - t-002
+  global_id: t-40079
   teiginys: 'Generolas leitenantas grafas D. Kuruta laikinai perdavė vadovavimą generolui leitenantui baronui D. Osten-Sakenui.'
   pagrindžia:
     - c-002

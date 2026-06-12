@@ -16,12 +16,16 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
 
 ## Teiginiai
 
+<a id="claim-t-41670"></a>
 - t-001
+  global_id: t-41670
   teiginys: 'Liepos 15 d. per operaciją Buktos miške ir Daukšių kaime žuvo partizanai Juozas Pūkas ir Motiejus Overa.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41671"></a>
 - t-002
+  global_id: t-41671
   teiginys: 'Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno-Tarzano.'
   pagrindžia:
     - c-001

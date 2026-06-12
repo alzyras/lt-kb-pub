@@ -18,7 +18,9 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 
 ## Teiginiai
 
+<a id="claim-t-31565"></a>
 - t-001
+  global_id: t-31565
   teiginys: 'Jordanes 551 m. Aesti apibūdino kaip visiškai taikingą tautą („pacatum hominum genus omnino“), gyvenusią ilgame rytiniame pajūrio ruože.'
   pagrindžia:
     - c-001

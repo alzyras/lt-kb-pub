@@ -16,7 +16,9 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
 
 ## Teiginiai
 
+<a id="claim-t-95917"></a>
 - t-001
+  global_id: t-95917
   teiginys: '1410 m. liepos 11 d. sąjungininkai ėmė trauktis Lautenburgo ir Soldau link.'
   pagrindžia:
     - c-001

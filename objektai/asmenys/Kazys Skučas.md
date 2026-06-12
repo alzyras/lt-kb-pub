@@ -16,7 +16,9 @@ Kazį Skučą ir Saugumo departamento direktorių Augustiną Povilaitį.
 
 ## Teiginiai
 
+<a id="claim-t-17560"></a>
 - t-001
+  global_id: t-17560
   teiginys: 'Sovietų pusė reikalavo atleisti vidaus reikalų ministrą generolą Kazį Skučą kaip tariamą „provokacijų“ kaltininką.'
   pagrindžia:
     - c-001

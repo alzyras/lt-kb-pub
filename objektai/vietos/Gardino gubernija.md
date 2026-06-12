@@ -23,27 +23,37 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-101721"></a>
 - t-001
+  global_id: t-101721
   teiginys: '1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms, todėl caro valdžia etnografiškai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-101722"></a>
 - t-002
+  global_id: t-101722
   teiginys: 'Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-101723"></a>
 - t-003
+  global_id: t-101723
   teiginys: 'Gardino gubernijos šiaurinis pakraštys istoriniu etnografiniu požiūriu buvo laikomas lietuvišku.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-101724"></a>
 - t-004
+  global_id: t-101724
   teiginys: '1801 m. buvo sudaryta Lietuvos Gardino gubernija, pavaldi Vilniuje veikusiai generalgubernatoriaus institucijai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101725"></a>
 - t-005
+  global_id: t-101725
   teiginys: '1843 m. prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms.'
   pagrindžia:
     - c-004

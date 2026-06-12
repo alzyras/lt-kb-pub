@@ -22,7 +22,9 @@ Dusburgietis teigia, kad pollakówna M.
 
 ## Teiginiai
 
+<a id="claim-t-61230"></a>
 - t-001
+  global_id: t-61230
   teiginys: 'M. Pollakównos straipsnis „Galindia“ paskelbtas SSS 2 tomo 1 dalyje, 1964 m. Vroclave, Varšuvoje ir Krokuvoje, p. 78–79.'
   pagrindžia:
     - c-001

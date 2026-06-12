@@ -28,27 +28,37 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 
 ## Teiginiai
 
+<a id="claim-t-81588"></a>
 - t-001
+  global_id: t-81588
   teiginys: 'Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81591"></a>
 - t-002
+  global_id: t-81591
   teiginys: 'Prancūzai, vadovaujami Boucicaut''o, per kautynes pridarė nemažai žalos apgultiesiems.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-81592"></a>
 - t-003
+  global_id: t-81592
   teiginys: 'Tos niautynės pagaliau baigėsi prancūzų iškvietimu kautis, jiems lenkai paaiškino, kad jeigu esą tikri riteriai ir norį parodyti narsą, nustatytas jų skaičius tepasirenka tam vietą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-81593"></a>
 - t-004
+  global_id: t-81593
   teiginys: 'Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183891"></a>
 - t-005
+  global_id: t-183891
   teiginys: 'Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai, įsiveržę pro sieną, ant kurios buvęs nupieštas.'
   pagrindžia:
     - c-005

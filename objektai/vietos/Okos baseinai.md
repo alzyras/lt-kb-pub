@@ -16,7 +16,9 @@ baltų genčių apgyvendintas arealas driekėsi nuo Vyslos iki Dniepro ir Okos b
 
 ## Teiginiai
 
+<a id="claim-t-21664"></a>
 - t-001
+  global_id: t-21664
   teiginys: 'I tūkstantmetyje po Kr. baltų genčių apgyvendintas arealas driekėsi iki Dniepro ir Okos baseinų rytuose.'
   pagrindžia:
     - c-001

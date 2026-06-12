@@ -17,17 +17,23 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
 
 ## Teiginiai
 
+<a id="claim-t-89590"></a>
 - t-001
+  global_id: t-89590
   teiginys: 'Dusburgietis teigia, kad šių žodžių padrąsinti krikščionys, dideliais būriais leidęsi iš paskos, užpuolė netikėlius ir išžudė visus, nė nebandžiusius priešintis; sūduviai ir kitos kaimyninės gentys, šitai sužinojusios, įsibrovė į minėtąją Galindos žemę ir išsivarė į amžiną vergovę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89591"></a>
 - t-002
+  global_id: t-89591
   teiginys: 'Dusburgietis teigia, kad kai traukėsi atgal, kai kuriems belaisviams pavyko slapta pasprukti; šie, grįžę pas tikinčiuosius, papasakojo, kad netikėlių kariuomenė neturinti nei ginklų, nei nieko kita, su kuo galėtų gintis, ir pradėjo nuoširdžiai juos įkalbinėti drąsiai leistis iš.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89592"></a>
 - t-003
+  global_id: t-89592
   teiginys: 'Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save visos žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis“.'
   pagrindžia:
     - c-001

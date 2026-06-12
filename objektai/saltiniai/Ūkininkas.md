@@ -17,7 +17,9 @@ Ta pati redakcija leido ir kaimiečiams skirtą laikraštį „Ūkininkas“.
 
 ## Teiginiai
 
+<a id="claim-t-78144"></a>
 - t-001
+  global_id: t-78144
   teiginys: 'Ta pati redakcija leido ir kaimiečiams skirtą laikraštį „Ūkininkas“.'
   pagrindžia:
     - c-001

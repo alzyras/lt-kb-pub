@@ -19,7 +19,9 @@ Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta
 
 ## Teiginiai
 
+<a id="claim-t-05405"></a>
 - t-001
+  global_id: t-05405
   teiginys: 'Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta nuo Dauguvos žiočių, jos krantu tolyn į rytus, «iki vietos, kur iš Liubano ežero ištekanti upė (= Aiviekstė, Ewst) įteka į Dauguvą».'
   pagrindžia:
     - c-001

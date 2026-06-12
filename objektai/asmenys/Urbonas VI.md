@@ -27,17 +27,23 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
 
 ## Teiginiai
 
+<a id="claim-t-82773"></a>
 - t-001
+  global_id: t-82773
   teiginys: 'Popiežius Urbonas VI per pasiuntinį Dobrogostą paskelbė bulę, kuria Vilniaus bažnyčia pripažinta katedra.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82774"></a>
 - t-002
+  global_id: t-82774
   teiginys: 'Urbonas VI per pasiuntinį Dobrogostą patvirtino Vilniaus katedrą ir vyskupą Andrių Vilniaus vyskupijoje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-82775"></a>
 - t-003
+  global_id: t-82775
   teiginys: 'Popiežius Urbonas VI išgyrė apsikrikštijusius lietuvius ir įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje.'
   pagrindžia:
     - c-001

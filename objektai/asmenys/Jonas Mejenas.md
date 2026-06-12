@@ -18,12 +18,16 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 
 ## Teiginiai
 
+<a id="claim-t-40223"></a>
 - t-001
+  global_id: t-40223
   teiginys: 'Gen. mjr. Jono Mejeno divizija gynė Vilnių nuo rusų puolimo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40224"></a>
 - t-002
+  global_id: t-40224
   teiginys: 'Liepos ir rugpjūčio mėnesiais Vilniaus gynybai tiesiogiai vadovavo generolas majoras Jonas Mejenas.'
   pagrindžia:
     - c-002

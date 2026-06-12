@@ -40,22 +40,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20466"></a>
 - t-001
+  global_id: t-20466
   teiginys: '1998–1999 m. Rusijos finansų krizė Lietuvai sukėlė biudžeto sunkumų, nes iki krizės daug lietuviškų prekių buvo eksportuojama į NVS, pirmiausia Rusiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-20467"></a>
 - t-002
+  global_id: t-20467
   teiginys: 'Lietuvos pagrindinėmis užsienio prekybos partnerėmis tapo Vokietija ir Lenkija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183270"></a>
 - t-003
+  global_id: t-183270
   teiginys: 'Nauji išbandymai šalies ekonomikos laukė 1998–1999 m., kilus Rusijos finansų krizei.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183271"></a>
 - t-004
+  global_id: t-183271
   teiginys: 'Tačiau krizė privertė Lietuvos eksportą persiorientuoti iš nestabilių Rytų rinkų į reiklesnes Vakarų rinkas.'
   pagrindžia:
     - c-004

@@ -17,12 +17,16 @@ Tos „sesijos" atlikdavo tą patį darbą, kurį anksčiau atlikdavo generalini
 
 ## Teiginiai
 
+<a id="claim-t-72617"></a>
 - t-001
+  global_id: t-72617
   teiginys: 'Provincijų sesijos atlikdavo darbą, kurį anksčiau atlikdavo generaliniai seimeliai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72618"></a>
 - t-002
+  global_id: t-72618
   teiginys: 'Provincijų sesijomis buvo vadinami posėdžiai, atlikdavę ankstesnių generalinių seimelių darbą.'
   pagrindžia:
     - c-002

@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01844"></a>
 - t-001
+  global_id: t-01844
   teiginys: '1639 m. po šūvio iš kalvinų bažnyčios šventoriaus į pranciškonių bažnyčią Vilniaus minia apgriovė kalvinų bažnyčią.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01845"></a>
 - t-002
+  global_id: t-01845
   teiginys: 'Po ilgos bylos seimas nusprendė nugriauti Vilniaus kalvinų bažnyčią, o 1640 m. kita kalvinų bažnyčia pastatyta už miesto.'
   pagrindžia:
     - c-001

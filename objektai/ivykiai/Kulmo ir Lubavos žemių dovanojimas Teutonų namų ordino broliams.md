@@ -42,18 +42,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62844"></a>
 - t-001
+  global_id: t-62844
   teiginys: 'Dusburgietis teigia, kad kad šis dovanojimas būtų teisėtas bei amžinas ir kad ateityje niekas negalėtų jo atšaukti, išdavė jiems raštą, kurį patvirtino savo antspaudu172.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-62845"></a>
 - t-002
+  global_id: t-62845
   teiginys: 'Dusburgietis teigia, kad 173 Dusburgietis tvirtina, kad Ordinas įsikūrė Prūsijoje apie 1226 m. Ši data, buvusi Hohenlohės reliacijos originale, įėjo į Ordino tradiciją.'
   pagrindžia:
     - c-003
     - c-001
 
+<a id="claim-t-62846"></a>
 - t-003
+  global_id: t-62846
   teiginys: 'Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes.'
   pagrindžia:
     - c-003

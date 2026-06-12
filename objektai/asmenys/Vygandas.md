@@ -19,7 +19,9 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 
 ## Teiginiai
 
+<a id="claim-t-30415"></a>
 - t-001
+  global_id: t-30415
   teiginys: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
   pagrindžia:
     - c-001
@@ -59,7 +61,6 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/daiktai/Kęstučio laidotuvių rūbai ir ginklai]]
 - [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje]]
-- [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]
 - [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]
 - [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/paprociai/Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus]]

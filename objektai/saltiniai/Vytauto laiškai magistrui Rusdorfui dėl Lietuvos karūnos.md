@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88500"></a>
 - t-001
+  global_id: t-88500
   teiginys: '1430 m. rugpjūtį Vytautas laiške magistrui Rusdorfui pranešė apie Maskvos ir Tverės kunigaikščių atvykimą į Lietuvą.'
   pagrindžia:
     - c-001

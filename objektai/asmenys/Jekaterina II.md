@@ -29,27 +29,37 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 
 ## Teiginiai
 
+<a id="claim-t-170049"></a>
 - t-001
+  global_id: t-170049
   teiginys: 'LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-170051"></a>
 - t-002
+  global_id: t-170051
   teiginys: 'Augusto Poniatovskio globėjus Čartoriskius, savo ruožtu, rėmė Rusijos imperatorė Jekaterina 11.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-170052"></a>
 - t-003
+  global_id: t-170052
   teiginys: 'Nuo Jekaterinos II laikų į vietinio valdymo grandį buvo įtrauktos atskirų luomų savivaldos institucijos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-170053"></a>
 - t-004
+  global_id: t-170053
   teiginys: 'Todėl Jekaterina 11 parėmė jų priešininkus Vilniaus-Radomo bajorų konfederaciją (1767-1768 m.).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-170054"></a>
 - t-005
+  global_id: t-170054
   teiginys: 'Jekaterinos II laikais į vietinį valdymą buvo įtrauktos atskirų luomų savivaldos institucijos.'
   pagrindžia:
     - c-003

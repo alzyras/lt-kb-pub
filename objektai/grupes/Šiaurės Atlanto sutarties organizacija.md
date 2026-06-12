@@ -31,32 +31,44 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-77814"></a>
 - t-001
+  global_id: t-77814
   teiginys: 'Vašingtono sutarties 5-asis straipsnis užtikrina, kad nė vienai šaliai nereikės kliautis savo pačios pastangomis ir ekonominiais ištekliais, jei iškils pavojus jos saugumui.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-77815"></a>
 - t-002
+  global_id: t-77815
   teiginys: 'Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-77816"></a>
 - t-003
+  global_id: t-77816
   teiginys: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-77817"></a>
 - t-004
+  global_id: t-77817
   teiginys: '2002 m. lapkritį Prahoje septynios NATO kandidatės – Bulgarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakviestos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-77818"></a>
 - t-005
+  global_id: t-77818
   teiginys: 'NATO Vašingtono sutarties 5 straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus Aljanso narę.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-77819"></a>
 - t-006
+  global_id: t-77819
   teiginys: '1991 m. rugsėjo 17 d. Lietuva priimta į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuotas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą.'
   pagrindžia:
     - c-001

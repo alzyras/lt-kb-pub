@@ -32,7 +32,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-25379"></a>
 - t-001
+  global_id: t-25379
   teiginys: '1235 m. rusų metraščiai mini „Mindaugo Lietuvą“, todėl svarstoma, ar Mindaugas jau buvo pajungęs kitus kunigaikščius.'
   pagrindžia:
     - c-001

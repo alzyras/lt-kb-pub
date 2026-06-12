@@ -28,23 +28,31 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
 
 ## Teiginiai
 
+<a id="claim-t-74186"></a>
 - t-001
+  global_id: t-74186
   teiginys: 'Jos įstatus 1791 m. patvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam „eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvenseną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74187"></a>
 - t-002
+  global_id: t-74187
   teiginys: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182896"></a>
 - t-003
-  teiginys: 'Šitaip seimas veikė net ištisus 4 metus ir per tą laiką pakeitė visą valstybės santvarką.'
+  global_id: t-182896
+  teiginys: 'Ketverių metų seimas veikė ištisus ketverius metus ir per tą laiką pakeitė visą valstybės santvarką.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-182897"></a>
 - t-004
-  teiginys: 'Priimtoje konstitucijoje buvo pasakyta, kad ji galėsianti būti pataisyta tik po 25 metų tam reikalui sušaukto specialaus seimo.'
+  global_id: t-182897
+  teiginys: 'Ketverių metų seimo priimta konstitucija galėjo būti taisoma tik po 25 metų specialiai sušauktame seime.'
   pagrindžia:
     - c-004
 
@@ -85,7 +93,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
     - t-002
 
 - c-003
-  santrauka: 'Šitaip seimas veikė net ištisus 4 metus ir per tą laiką pakeitė visą valstybės santvarką.'
+  santrauka: 'Ketverių metų seimas veikė ištisus ketverius metus ir per tą laiką pakeitė visą valstybės santvarką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Karalius, bijodamas Rusijos
@@ -109,7 +117,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
     - t-003
 
 - c-004
-  santrauka: 'Priimtoje konstitucijoje buvo pasakyta, kad ji galėsianti būti pataisyta tik po 25 metų tam reikalui sušaukto specialaus seimo.'
+  santrauka: 'Ketverių metų seimo priimta konstitucija galėjo būti taisoma tik po 25 metų specialiai sušauktame seime.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Priimtoje konsti-

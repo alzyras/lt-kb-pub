@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)
 
 ## Santrauka
 
-Kojelavičius teigia, kad neilgai trukus, tai yra gruodžio 2 d., Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias dešimties tūkstančių kariuomene, įrengusia prie Ašme nos stovyklą. Kojelavičius teigia, kad žygimantas, nenorėdamas, kad pergalę laimėjusi ka riuomenė plėšikautų jo valdose, patraukė, leidęs jai po mūšio šiek tiek pailsėti, į Livoniją, nes gavo žinių, kad Livonijos riteriai, laužydami susitarimą, teikė Boleslovui pagalbą.
+Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje po to, kai su keturiasdešimties tūkstančių kariuomene buvo įsirengęs stovyklą prie Ašmenos. Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185548"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad neilgai trukus, tai yra gruodžio 2 d., Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias dešimties tūkstančių kariuomene, įrengusia prie Ašme nos stovyklą.'
+  global_id: t-185548
+  teiginys: 'Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje po to, kai su keturiasdešimties tūkstančių kariuomene buvo įsirengęs stovyklą prie Ašmenos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185549"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad žygimantas, nenorėdamas, kad pergalę laimėjusi ka riuomenė plėšikautų jo valdose, patraukė, leidęs jai po mūšio šiek tiek pailsėti, į Livoniją, nes gavo žinių, kad Livonijos riteriai, laužydami susitarimą, teikė Boleslovui pagalbą.'
+  global_id: t-185549
+  teiginys: 'Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad neilgai trukus, tai yra gruodžio 2 d., Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias dešimties tūkstančių kariuomene, įrengusia prie Ašme nos stovyklą.'
+  santrauka: 'Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje po to, kai su keturiasdešimties tūkstančių kariuomene buvo įsirengęs stovyklą prie Ašmenos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neilgai trukus, tai yra gruodžio 2 d., Boleslovas
@@ -71,7 +74,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad žygimantas, nenorėdamas, kad pergalę laimėjusi ka riuomenė plėšikautų jo valdose, patraukė, leidęs jai po mūšio šiek tiek pailsėti, į Livoniją, nes gavo žinių, kad Livonijos riteriai, laužydami susitarimą, teikė Boleslovui pagalbą.'
+  santrauka: 'Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai
@@ -102,3 +105,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Boleslovas]]
+- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
+- [[objektai/asmenys/Daugirdas]]
+- [[objektai/asmenys/Fiodoras]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]

@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-22357"></a>
 - t-001
+  global_id: t-22357
   teiginys: 'Žyniai, vaidilos ir raganos turėjo sergėti „pirmines“ šventvietes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183487"></a>
 - t-002
+  global_id: t-183487
   teiginys: 'Šias „pirmines“ šventvietes turėjo sergėti žyniai (manoma, pavadinimas kilęs nuo žodžio „žinoti“), vaidilos ar raganos („regėti“).'
   pagrindžia:
     - c-002

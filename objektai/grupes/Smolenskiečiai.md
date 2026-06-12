@@ -17,7 +17,9 @@ Tos vė­ liavos buvusios smolenskiečių.
 
 ## Teiginiai
 
+<a id="claim-t-34366"></a>
 - t-001
+  global_id: t-34366
   teiginys: 'Smolenskiečių vėliavos liko kairiajame sparne ir visą mūšį narsiai kovėsi.'
   pagrindžia:
     - c-001
@@ -42,3 +44,4 @@ Tos vė­ liavos buvusios smolenskiečių.
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Smolensko atėmimas iš Jurijaus ir valdžios perdavimas Glėbui]]
 - [[objektai/daiktai/Vėliavos]]
+- [[objektai/asmenys/Andrius Sakavičius]]

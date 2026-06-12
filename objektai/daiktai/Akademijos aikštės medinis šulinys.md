@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54479"></a>
 - t-001
+  global_id: t-54479
   teiginys: 'Akademijos aikštėje buvo medinis keturių šulų šulinys su stogeliu ir volu vandeniui traukti.'
   pagrindžia:
     - c-001

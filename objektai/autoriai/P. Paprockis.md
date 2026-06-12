@@ -14,24 +14,25 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # P. Paprockis
 
 ## Santrauka
 
-Kojelavičius teigia, kad paprockis parašė trum pą Lietuvos istoriją lenkiškai (Domowe wiadomošci o Wielkim Xięstwie Litewskim z przytączeniem historyi tegož narodu przedrukowane.
+Vilniaus akademijos profesorius P. Paprockis parašė trumpą Lietuvos istoriją lenkų kalba.
 
 ## Teiginiai
 
+<a id="claim-t-186290"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad paprockis parašė trum pą Lietuvos istoriją lenkiškai (Domowe wiadomošci o Wielkim Xięstwie Litewskim z przytączeniem historyi tegož narodu przedrukowane.'
+  global_id: t-186290
+  teiginys: 'Vilniaus akademijos profesorius P. Paprockis parašė trumpą Lietuvos istoriją lenkų kalba.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad paprockis parašė trum pą Lietuvos istoriją lenkiškai (Domowe wiadomošci o Wielkim Xięstwie Litewskim z przytączeniem historyi tegož narodu przedrukowane.'
+  santrauka: 'Vilniaus akademijos profesorius P. Paprockis parašė trumpą Lietuvos istoriją lenkų kalba.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po šimto metų Vil­
@@ -47,3 +48,7 @@ Kojelavičius teigia, kad paprockis parašė trum pą Lietuvos istoriją lenkiš
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]

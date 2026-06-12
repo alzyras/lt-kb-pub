@@ -26,7 +26,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86297"></a>
 - t-001
+  global_id: t-86297
   teiginys: '1469 m. bernardinams Vilniuje buvo atiduotas platus slėnis palei Vilnios upę prie Karališkojo malūno.'
   pagrindžia:
     - c-001

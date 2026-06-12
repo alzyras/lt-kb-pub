@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62307"></a>
 - t-001
+  global_id: t-62307
   teiginys: 'Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras su didele kariuomene perėjo Nadruvos žemę, plėšdamas ir degindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė, tinkamai parengęs visa, kas tam reikalinga; abiem šalims.'
   pagrindžia:
     - c-001

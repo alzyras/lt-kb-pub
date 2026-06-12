@@ -28,27 +28,37 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
 
 ## Teiginiai
 
+<a id="claim-t-86717"></a>
 - t-001
+  global_id: t-86717
   teiginys: 'Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula užsidarė tarp tuometinių Vilniaus tvirtovių mūrų ir aptvarų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-86718"></a>
 - t-002
+  global_id: t-86718
   teiginys: 'Lenkų įgulai Aukštutinėje pilyje penkios Vilniaus apsupties savaitės praėjo sunkiomis kautynėmis ir ginčais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86719"></a>
 - t-003
+  global_id: t-86719
   teiginys: 'Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86720"></a>
 - t-004
+  global_id: t-86720
   teiginys: 'Nuolatinės atakos smarkiai kamavo įsitvirtinusią įgulą, bet nepalaužė lenkų narsos Moskoževskio gynybos linijose.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-86721"></a>
 - t-005
+  global_id: t-86721
   teiginys: 'Jogailos paliktas vadas su lenkų įgula Vilniaus Aukštutinėje pilyje tuo metu valdydavo ir kitus gyventojus.'
   pagrindžia:
     - c-001

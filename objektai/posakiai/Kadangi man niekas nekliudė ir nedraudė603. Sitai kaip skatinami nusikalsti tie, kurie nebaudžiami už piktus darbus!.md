@@ -16,12 +16,16 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
 
 ## Teiginiai
 
+<a id="claim-t-89593"></a>
 - t-001
+  global_id: t-89593
   teiginys: 'Sugautas vyras savo piktadarybes aiškino tuo, kad niekas jam nekliudė ir nedraudė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89594"></a>
 - t-002
+  global_id: t-89594
   teiginys: 'Dusburgietis teigia, kad pastarojoje pilyje buvo karvedys, vardu Henrikas, karys, lengva širdimi grobęs bei žiauriai kankinęs ir dvasininkus, ir pasauliečius, ir vienuolius, ir ne vienuolius bei visus kitus, kurie ėjo pro šalį.'
   pagrindžia:
     - c-002

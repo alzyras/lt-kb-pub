@@ -17,12 +17,16 @@ Kantrimas. Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesn
 
 ## Teiginiai
 
+<a id="claim-t-01075"></a>
 - t-001
+  global_id: t-01075
   teiginys: 'K. Kantrimas memoriale kuratoriui Čartoriskiui rašė, kad didesnėje lietuviškųjų gubernijų dalyje kaimiečiai kalbėjo lietuviškai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01076"></a>
 - t-002
+  global_id: t-01076
   teiginys: 'K. Kantrimas buvo universiteto bibliotekininkas ir neįvykdyto projekto autorius.'
   pagrindžia:
     - c-002

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad kazlauskas J.
 
 ## Teiginiai
 
+<a id="claim-t-61097"></a>
 - t-001
+  global_id: t-61097
   teiginys: 'J. Kazlausko straipsnis „Prūsai ir jų raštai“ paskelbtas 1967 m. žurnalo „Pergalė“ ketvirtame numeryje.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
 
 ## Teiginiai
 
+<a id="claim-t-80762"></a>
 - t-001
+  global_id: t-80762
   teiginys: 'Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.'
   pagrindžia:
     - c-001

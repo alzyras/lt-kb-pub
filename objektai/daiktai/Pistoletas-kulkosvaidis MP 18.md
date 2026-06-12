@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40750"></a>
 - t-001
+  global_id: t-40750
   teiginys: 'MP 18 pasirodė Pirmojo pasaulinio karo pabaigoje ir buvo pirmasis masiškai gamintas vokiečių pistoletas-kulkosvaidis.'
   pagrindžia:
     - c-001

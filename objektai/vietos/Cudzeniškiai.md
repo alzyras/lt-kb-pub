@@ -25,7 +25,9 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
 
 ## Teiginiai
 
+<a id="claim-t-86063"></a>
 - t-001
+  global_id: t-86063
   teiginys: '1396 m. Vilniuje surašyta privilegija Vytautas Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą netoli Medininkų pilies.'
   pagrindžia:
     - c-001

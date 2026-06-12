@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-42384"></a>
 - t-001
+  global_id: t-42384
   teiginys: '1949 m. rugsėjo 28 d. Šunkarių miške į pasalą patekęs asmuo žuvo.'
   pagrindžia:
     - c-001

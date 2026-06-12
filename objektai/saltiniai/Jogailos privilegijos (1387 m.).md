@@ -27,7 +27,9 @@ Kai kurie stačiatikiai, ypač jų di­ duomenė, buvo nepatenkinti ir tuo, kad 
 
 ## Teiginiai
 
+<a id="claim-t-12456"></a>
 - t-001
+  global_id: t-12456
   teiginys: '1387 m. Jogailos privilegija nesuteikė privilegijų stačiatikiams, nors bajorai katalikai buvo gavę plačių laisvių.'
   pagrindžia:
     - c-001

@@ -18,12 +18,16 @@ Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūs�
 
 ## Teiginiai
 
+<a id="claim-t-58893"></a>
 - t-001
+  global_id: t-58893
   teiginys: 'Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūsų ir lietuvių ryšiai bendroje kovoje prieš Ordiną, be to, prūsų kova dažnai traktuojama gana atsietai nuo Lietuvos karinių pastangų, nepakankamai ištirta, kaip tų įvykių verpetuose formavosi visų baltų (t.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58894"></a>
 - t-002
+  global_id: t-58894
   teiginys: 'Dusburgietis teigia, kad mindaugas norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės baltų žemės (Livonija ir Prūsija).'
   pagrindžia:
     - c-002

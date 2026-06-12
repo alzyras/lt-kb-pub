@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31898"></a>
 - t-001
+  global_id: t-31898
   teiginys: 'Pskovskije letopisi 1-asis leidimas buvo išleistas Maskvoje-Leningrade 1941 m.'
   pagrindžia:
     - c-001

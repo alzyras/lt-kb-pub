@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-88330"></a>
 - t-001
+  global_id: t-88330
   teiginys: 'Schützo Prūsijos kronika minima kaip šaltinis apie viduramžių riterių puotas prieš karo žygius.'
   pagrindžia:
     - c-001

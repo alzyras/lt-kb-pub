@@ -17,7 +17,9 @@ Gerai nemokėdami lietuviškai žydų atstovai Lietuvos Seime galėjo kalbėti j
 
 ## Teiginiai
 
+<a id="claim-t-26336"></a>
 - t-001
+  global_id: t-26336
   teiginys: 'Žydų atstovai Lietuvos Seime galėjo kalbėti jidiš, nes gerai nemokėjo lietuvių kalbos; Europoje tai buvo precedento neturintis atvejis.'
   pagrindžia:
     - c-001

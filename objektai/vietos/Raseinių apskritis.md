@@ -22,7 +22,9 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 
 ## Teiginiai
 
+<a id="claim-t-38540"></a>
 - t-001
+  global_id: t-38540
   teiginys: '1945 m. vasario 15 d. Raseinių apskrityje Vlado Pabarčiaus partizanų būrys surengė pasalą NKVD Betygalos stribams.'
   pagrindžia:
     - c-001

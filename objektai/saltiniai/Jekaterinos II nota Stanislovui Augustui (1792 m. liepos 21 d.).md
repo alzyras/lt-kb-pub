@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-21074"></a>
 - t-001
+  global_id: t-21074
   teiginys: 'Stanislovas Augustas nusprendė nebesipriešinti prie Varšuvos stovinčiai Rusijos armijai ir priimti Jekaterinos II liepos 21 d. notą.'
   pagrindžia:
     - c-001

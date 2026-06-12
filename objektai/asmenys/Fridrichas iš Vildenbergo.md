@@ -17,7 +17,9 @@ Dusburgietis teigia, kad su jais ir su visa Kulmo žemės bei gretimų žemių b
 
 ## Teiginiai
 
+<a id="claim-t-60279"></a>
 - t-001
+  global_id: t-60279
   teiginys: 'Dusburgietis teigia, kad su jais ir su visa Kulmo žemės bei gretimų žemių brolių kariuomene brolis Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, bei 150 brolių žiemą įsiveržė į Vaikių valsčių; apiplėšę bei sudeginę ir pilį, ir kitus pastatus, tiek daug išžudė žmonių, kad ten.'
   pagrindžia:
     - c-001

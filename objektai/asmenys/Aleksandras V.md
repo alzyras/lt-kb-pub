@@ -17,7 +17,9 @@ Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordi
 
 ## Teiginiai
 
+<a id="claim-t-35010"></a>
 - t-001
+  global_id: t-35010
   teiginys: 'Aleksandras V rėmė Vytautą prieš Ordiną.'
   pagrindžia:
     - c-001

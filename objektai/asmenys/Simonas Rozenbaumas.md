@@ -27,17 +27,23 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 
 ## Teiginiai
 
+<a id="claim-t-64057"></a>
 - t-001
+  global_id: t-64057
   teiginys: 'Simonas Rozenbaumas buvo Lietuvos delegacijos narys žydas, kurio argumentais lietuviai rėmėsi derybose su Sovietų Rusija.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-64058"></a>
 - t-002
+  global_id: t-64058
   teiginys: 'Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64059"></a>
 - t-003
+  global_id: t-64059
   teiginys: 'Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).'
   pagrindžia:
     - c-001

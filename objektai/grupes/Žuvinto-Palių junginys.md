@@ -23,12 +23,16 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 
 ## Teiginiai
 
+<a id="claim-t-41232"></a>
 - t-001
+  global_id: t-41232
   teiginys: 'Sergijus Staniškis-Litas suvienijo Žuvinto paliose, Buktos miške ir prie Daukšių veikusius partizanų būrius į Žuvinto-Palių junginį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41233"></a>
 - t-002
+  global_id: t-41233
   teiginys: 'Žuvinto-Palių partizanų persekiojimas tęsėsi mūšio išvakarėse.'
   pagrindžia:
     - c-002

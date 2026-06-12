@@ -18,17 +18,23 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
 
 ## Teiginiai
 
+<a id="claim-t-63475"></a>
 - t-001
+  global_id: t-63475
   teiginys: 'Antanas Gelgaudas vadovavo 1831 m. birželį į Lietuvą pasiųstai reguliariajai Lenkijos karalystės kariuomenei.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-63476"></a>
 - t-002
+  global_id: t-63476
   teiginys: 'Gelgaudas, palikęs štabą, pats dalyvavo mūšyje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-63477"></a>
 - t-003
+  global_id: t-63477
   teiginys: 'Jungtinei sukilėlių kariuomenei vadovavo generolas Antanas Gelgaudas.'
   pagrindžia:
     - c-002

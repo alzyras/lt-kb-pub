@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40805"></a>
 - t-001
+  global_id: t-40805
   teiginys: 'Žasto, dilbio, kelio ir blauzdos apsaugos datuojamos XIV a. pabaiga ir XV a.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40806"></a>
 - t-002
+  global_id: t-40806
   teiginys: 'Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
   pagrindžia:
     - c-002

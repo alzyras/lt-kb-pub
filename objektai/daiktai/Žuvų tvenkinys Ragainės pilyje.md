@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59718"></a>
 - t-001
+  global_id: t-59718
   teiginys: 'Dusburgietis teigia, kad mat jie turėję viduryje pilies 20 žingsnių ilgio ir beveik tokio pat pločio žuvų tvenkinį, jame buvę tiek žuvies, kad jos pakako visiems apsiaustiesiems maitintis.'
   pagrindžia:
     - c-001

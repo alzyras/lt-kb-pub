@@ -27,28 +27,38 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 
 ## Teiginiai
 
+<a id="claim-t-58391"></a>
 - t-001
+  global_id: t-58391
   teiginys: 'Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-58392"></a>
 - t-002
+  global_id: t-58392
   teiginys: 'Pagraudės ieškota ir labiau į rytus, nors ji siejama su valsčiumi Žemaičių pietvakariuose ties Jūros upe.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58393"></a>
 - t-003
+  global_id: t-58393
   teiginys: 'Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o keletą vyrų pasiuntęs plėšti apylinkės, nukovė visus jį besivejančius raitelius, išskyrus šešis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58394"></a>
 - t-004
+  global_id: t-58394
   teiginys: 'Dusburgietis teigia, kad trečią dieną po to tas pat brolis Eberhardas su savo kariuomene staiga įsiveržė, kaip, beje, magistro ir buvo iš anksto nurodyta, į Lietuvos valsčių, vardu Pagraudė, ir nusiaubė didžiąją jo dalį, degindamas ir plėšdamas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185076"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad kai Chris- 1316 m e ta i tmemelio įgula buvo įviliota į pasalas ir sunaikinta, jie nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.'
+  global_id: t-185076
+  teiginys: 'Sunaikinus Christmemelio įgulą, kryžiuočiai nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.'
   pagrindžia:
     - c-006
 
@@ -138,7 +148,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad kai Chris- 1316 m e ta i tmemelio įgula buvo įviliota į pasalas ir sunaikinta, jie nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.'
+  santrauka: 'Sunaikinus Christmemelio įgulą, kryžiuočiai nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kitų metų pradžioje kryžiuočiai, pasinaudodami

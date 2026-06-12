@@ -17,7 +17,9 @@ Malonybiškai ir kartu pašaipiai lietuvių vadinami „mūsų žydeliai“ (dė
 
 ## Teiginiai
 
+<a id="claim-t-20920"></a>
 - t-001
+  global_id: t-20920
   teiginys: 'Malonybiškai ir kartu pašaipiai lietuvių vadinami „mūsų žydeliai“ (dėl to, kad nebuvo aukšto ūgio ir užsiėmė valstiečių neigiamai vertinama prekyba, o ne „rimtu“ darbu) garsėjo visuotiniu raštingumu, pomėgiu knygai ir tuo atžvilgiu buvo geras pavyzdys.'
   pagrindžia:
     - c-001

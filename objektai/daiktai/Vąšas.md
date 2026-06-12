@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08352"></a>
 - t-001
+  global_id: t-08352
   teiginys: 'Virš ugnavietės kabėjęs ąžuolo ramentas buvo vadinamas vąšu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08353"></a>
 - t-002
+  global_id: t-08353
   teiginys: 'Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.'
   pagrindžia:
     - c-002

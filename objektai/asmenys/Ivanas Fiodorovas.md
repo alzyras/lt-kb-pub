@@ -23,22 +23,30 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
 
 ## Teiginiai
 
+<a id="claim-t-23198"></a>
 - t-001
+  global_id: t-23198
   teiginys: 'Ivanas Fiodorovas buvo pirmasis Maskvos spaustuvininkas, kurį 1569 m. Zabluduve priglobė Chodkevičiai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23199"></a>
 - t-002
+  global_id: t-23199
   teiginys: 'Chodkevičiai priglobė Ivaną Fiodorovą Zabluduvo spaustuvėje, o jis nulėmė jos stačiatikišką pobūdį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23200"></a>
 - t-003
+  global_id: t-23200
   teiginys: '1569 m. su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-26597"></a>
 - t-004
+  global_id: t-26597
   teiginys: 'Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį.'
   pagrindžia:
     - c-001

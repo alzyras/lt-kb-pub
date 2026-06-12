@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Gurka
 
 ## Santrauka
 
-Kojelavičius teigia, kad ta pati moteris vėliau davė dingstį naujiems neramumams, ku riuos ilgą laiką kėlė Slucko kunigaikštis Simeonas bei grafas Gurka.
+Grafas Gurka kartu su Slucko kunigaikščiu Simeonu ilgą laiką kėlė naujus neramumus dėl Elžbietos.
 
 ## Teiginiai
 
+<a id="claim-t-186206"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad ta pati moteris vėliau davė dingstį naujiems neramumams, ku riuos ilgą laiką kėlė Slucko kunigaikštis Simeonas bei grafas Gurka.'
+  global_id: t-186206
+  teiginys: 'Grafas Gurka kartu su Slucko kunigaikščiu Simeonu ilgą laiką kėlė naujus neramumus dėl Elžbietos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad ta pati moteris vėliau davė dingstį naujiems neramumams, ku riuos ilgą laiką kėlė Slucko kunigaikštis Simeonas bei grafas Gurka.'
+  santrauka: 'Grafas Gurka kartu su Slucko kunigaikščiu Simeonu ilgą laiką kėlė naujus neramumus dėl Elžbietos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Persekiotojai nusivijo bėglius ir viename miestelyje per
@@ -40,3 +41,8 @@ Kojelavičius teigia, kad ta pati moteris vėliau davė dingstį naujiems neramu
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Simeonas]]

@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35845"></a>
 - t-001
+  global_id: t-35845
   teiginys: 'Tiesa, savo valdymo pradžioje Kęstutis su Algirdu buvo pradėję tartis dėl krikšto.'
   pagrindžia:
     - c-001

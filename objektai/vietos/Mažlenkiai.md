@@ -17,12 +17,16 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 
 ## Teiginiai
 
+<a id="claim-t-02589"></a>
 - t-001
+  global_id: t-02589
   teiginys: 'Liublino unijos metu Mažlenkiai buvo viena iš dviejų Lenkijos provincijų, rengusių atskirus generalinius seimelius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183051"></a>
 - t-002
+  global_id: t-183051
   teiginys: 'Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.'
   pagrindžia:
     - c-002

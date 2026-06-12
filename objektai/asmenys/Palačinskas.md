@@ -16,7 +16,9 @@ Iš antros pusės stovėjęs eilinis Palačinskas nudūrė kitą.
 
 ## Teiginiai
 
+<a id="claim-t-80742"></a>
 - t-001
+  global_id: t-80742
   teiginys: 'Iš antros pusės stovėjęs eilinis Palačinskas nudūrė kitą.'
   pagrindžia:
     - c-001

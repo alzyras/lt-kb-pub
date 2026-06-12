@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62196"></a>
 - t-001
+  global_id: t-62196
   teiginys: 'Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos.'
   pagrindžia:
     - c-001

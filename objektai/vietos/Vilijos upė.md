@@ -19,12 +19,16 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 
 ## Teiginiai
 
+<a id="claim-t-86158"></a>
 - t-001
+  global_id: t-86158
   teiginys: 'Per Vilijos upę tarp Verkių ir Panerių buvo uždrausti perkėlimai plaustais, kad nebūtų kenkiama nustatytam muitui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86159"></a>
 - t-002
+  global_id: t-86159
   teiginys: 'Prie Vilniaus per Vilijos upę naudota perkėla kėlė sunkumų, išlaidų ir nepatogumų LDK valdiniams bei kitiems žmonėms.'
   pagrindžia:
     - c-002

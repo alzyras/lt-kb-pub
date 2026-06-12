@@ -16,7 +16,9 @@ Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-A
 
 ## Teiginiai
 
+<a id="claim-t-19056"></a>
 - t-001
+  global_id: t-19056
   teiginys: '1990 m. kovo 11 d. Kazimieras Motieka buvo Lietuvos Respublikos Aukščiausiosios Tarybos pirmininko pavaduotojas.'
   pagrindžia:
     - c-001

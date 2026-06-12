@@ -16,7 +16,9 @@ Joną Algimantaitį (Alšėniškį)^3 ).
 
 ## Teiginiai
 
+<a id="claim-t-53956"></a>
 - t-001
+  global_id: t-53956
   teiginys: 'Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vietininku Kijeve.'
   pagrindžia:
     - c-001

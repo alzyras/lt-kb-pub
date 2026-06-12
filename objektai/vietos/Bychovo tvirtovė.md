@@ -17,12 +17,16 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 
 ## Teiginiai
 
+<a id="claim-t-41638"></a>
 - t-001
+  global_id: t-41638
   teiginys: 'Etmonas, iždininkas ir maršalas paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, tačiau iš tikrųjų traukėsi į Kuršą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183779"></a>
 - t-002
+  global_id: t-183779
   teiginys: 'Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų suvežė svarbiausias vertybes į dominikonų vienuolyną, kuriame ir pernakvojo, o ryte, paskleidę gandą, kad vyksta į Drują bei Bychovo tvirtovę, iš tikrųjų suskubo trauktis į Kuršą - į.'
   pagrindžia:
     - c-001

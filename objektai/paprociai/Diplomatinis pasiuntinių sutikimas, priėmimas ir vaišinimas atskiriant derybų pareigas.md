@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas
 
 ## Santrauka
 
-Kojelavičius teigia, kad karalius taip paskirstė senatorių pareigas, kad vieni turėjo pasiuntinius sutikti, priimti ir T a ria m a si d ė l ta ik o s, dosniai pavaišinti, o kiti — b e t su sip y k sta m o kalbėtis su jais apie valstybės reikalus.
+Karalius senatoriams atskyrė pareigas: vieni turėjo sutikti, priimti ir vaišinti maskvėnų pasiuntinius, o kiti derėtis dėl valstybės reikalų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185869"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad karalius taip paskirstė senatorių pareigas, kad vieni turėjo pasiuntinius sutikti, priimti ir T a ria m a si d ė l ta ik o s, dosniai pavaišinti, o kiti — b e t su sip y k sta m o kalbėtis su jais apie valstybės reikalus.'
+  global_id: t-185869
+  teiginys: 'Karalius senatoriams atskyrė pareigas: vieni turėjo sutikti, priimti ir vaišinti maskvėnų pasiuntinius, o kiti derėtis dėl valstybės reikalų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad karalius taip paskirstė senatorių pareigas, kad vieni turėjo pasiuntinius sutikti, priimti ir T a ria m a si d ė l ta ik o s, dosniai pavaišinti, o kiti — b e t su sip y k sta m o kalbėtis su jais apie valstybės reikalus.'
+  santrauka: 'Karalius senatoriams atskyrė pareigas: vieni turėjo sutikti, priimti ir vaišinti maskvėnų pasiuntinius, o kiti derėtis dėl valstybės reikalų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius
@@ -67,3 +68,21 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Eustachijus (raštininkas)]]
+- [[objektai/asmenys/Eustachijus Valavičius]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/zodynas/Pataurininkis]]
+- [[objektai/grupes/Valavičiai]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/kaštelionas]]
+- [[objektai/zodynas/stalininkas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas]]
+- [[objektai/asmenys/Mikalojus Naruševičius]]
+- [[objektai/asmenys/Mikalojus Radvila]]
+- [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas]]

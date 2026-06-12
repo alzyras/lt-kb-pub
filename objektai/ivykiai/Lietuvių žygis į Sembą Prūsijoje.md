@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lietuvių žygis į Sembą Prūsijoje
 
 ## Santrauka
 
-Kojelavičius teigia, kad paleidęs dalį karių, kad be reikalo nebūtų laikomos tokios diL ietu via i n io k o ja džiulės jėgos, jis įsiveržė su S e m b ą P rū sijo je aštuoniais tūkstančiais kovingiausios raitijos į Sembą, kryžiuočių žemę; šie nedrįso kautis su priešu nei sto vyklose.
+Į Sembą įsiveržusi aštuonių tūkstančių lietuvių raitija nusiaubė kaimus, išžudė jų gyventojus ir išsivarė grobį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185814"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad paleidęs dalį karių, kad be reikalo nebūtų laikomos tokios diL ietu via i n io k o ja džiulės jėgos, jis įsiveržė su S e m b ą P rū sijo je aštuoniais tūkstančiais kovingiausios raitijos į Sembą, kryžiuočių žemę; šie nedrįso kautis su priešu nei sto vyklose.'
+  global_id: t-185814
+  teiginys: 'Į Sembą įsiveržusi aštuonių tūkstančių lietuvių raitija nusiaubė kaimus, išžudė jų gyventojus ir išsivarė grobį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad paleidęs dalį karių, kad be reikalo nebūtų laikomos tokios diL ietu via i n io k o ja džiulės jėgos, jis įsiveržė su S e m b ą P rū sijo je aštuoniais tūkstančiais kovingiausios raitijos į Sembą, kryžiuočių žemę; šie nedrįso kautis su priešu nei sto vyklose.'
+  santrauka: 'Į Sembą įsiveržusi aštuonių tūkstančių lietuvių raitija nusiaubė kaimus, išžudė jų gyventojus ir išsivarė grobį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš žvalgų gavęs žinią, kad, keršijant dievo rūs­
@@ -69,3 +70,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Lešekas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Lietuviai]]

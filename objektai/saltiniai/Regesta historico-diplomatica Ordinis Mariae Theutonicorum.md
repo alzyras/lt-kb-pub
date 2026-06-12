@@ -27,12 +27,16 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
 
 ## Teiginiai
 
+<a id="claim-t-60962"></a>
 - t-001
+  global_id: t-60962
   teiginys: 'Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4), norėdamas, kad šie gintų kraštą nuo polovcų (kumanų).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60963"></a>
 - t-002
+  global_id: t-60963
   teiginys: 'Dusburgietis teigia, kad 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.'
   pagrindžia:
     - c-001

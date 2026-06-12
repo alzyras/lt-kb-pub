@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-26653"></a>
 - t-001
+  global_id: t-26653
   teiginys: 'Komandinės, planinės ekonomikos neefektyvumas buvo pašiepiamas formule apie socializmą Sacharos dykumoje ir smėlio deficitą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-26905"></a>
 - t-002
+  global_id: t-26905
   teiginys: 'Posakiu apie socializmą Sacharos dykumoje šaipytasi iš komandinės planinės ekonomikos neefektyvumo ir SSRS deficito.'
   pagrindžia:
     - c-001

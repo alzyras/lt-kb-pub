@@ -17,7 +17,9 @@ g“ sel Flanguose Tercijos priekyje būdavo išrikiuojami išrikiuota muškieti
 
 ## Teiginiai
 
+<a id="claim-t-42517"></a>
 - t-001
+  global_id: t-42517
   teiginys: 'Tercijos rikiuotės priekyje flanguose būdavo išrikiuojami muškietininkai.'
   pagrindžia:
     - c-001

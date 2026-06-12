@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-100180"></a>
 - t-001
+  global_id: t-100180
   teiginys: '(”) Kęstučio šeima, Mūsų Žinynas, 1933, nr.'
   pagrindžia:
     - c-001

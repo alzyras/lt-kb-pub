@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87130"></a>
 - t-001
+  global_id: t-87130
   teiginys: 'Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir jo paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.'
   pagrindžia:
     - c-001

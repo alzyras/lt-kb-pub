@@ -22,7 +22,9 @@ Jie buvo pasiekę Nalšėnų žemę^144.
 
 ## Teiginiai
 
+<a id="claim-t-32385"></a>
 - t-001
+  global_id: t-32385
   teiginys: 'Apie 1259 m. totorių chanas Burundajus ir Volinijos-Haličo Danielius buvo pasiekę Nalšėnų žemę.'
   pagrindžia:
     - c-001

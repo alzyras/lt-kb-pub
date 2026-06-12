@@ -44,42 +44,58 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75180"></a>
 - t-001
+  global_id: t-75180
   teiginys: '1944–1953 m. Lietuvoje vyko Sovietų Sąjungos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75181"></a>
 - t-002
+  global_id: t-75181
   teiginys: 'Užimant Grupė Lietuvos partizanų 1947 m.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75182"></a>
 - t-003
+  global_id: t-75182
   teiginys: 'Karas po karo – ginkluota rezistencija Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-75183"></a>
 - t-004
+  global_id: t-75183
   teiginys: 'Nors organizuota ginkluota kova pasibaigė 1953-ųjų pavasarį, keletas pavienių partizanų išsislapstė dar dešimt ir daugiau metų.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-75184"></a>
 - t-005
+  global_id: t-75184
   teiginys: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-75185"></a>
 - t-006
+  global_id: t-75185
   teiginys: 'Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75186"></a>
 - t-007
+  global_id: t-75186
   teiginys: 'Antinacinė rezistencija koncentravosi miestuose, o antisovietinė buvo ginkluota ir vyko kaime, kur partizanai galėjo gauti valstiečių paramą maistu, medikamentais, drabužiais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75187"></a>
 - t-008
+  global_id: t-75187
   teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.'
   pagrindžia:
     - c-007

@@ -27,7 +27,9 @@ Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, 
 
 ## Teiginiai
 
+<a id="claim-t-87649"></a>
 - t-001
+  global_id: t-87649
   teiginys: 'Danmilė per krikštą buvo pavadinta Elžbieta ir ištekinta už Mazovijos kunigaikščio Vaclovo.'
   pagrindžia:
     - c-001

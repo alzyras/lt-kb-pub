@@ -27,7 +27,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-05378"></a>
 - t-001
+  global_id: t-05378
   teiginys: 'Zigmantas teisinosi, kad sprendimą priėmė žiūrėdamas ne bičiulystės, o teisybės.'
   pagrindžia:
     - c-001

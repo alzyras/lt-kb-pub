@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-88096"></a>
 - t-001
+  global_id: t-88096
   teiginys: 'Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.'
   pagrindžia:
     - c-001

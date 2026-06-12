@@ -20,7 +20,6 @@ amziai:
   - 'XIII'
   - 'XV'
 ---
-
 # Treiderės upė
 
 ## Santrauka
@@ -29,13 +28,17 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
 
 ## Teiginiai
 
+<a id="claim-t-58645"></a>
 - t-001
+  global_id: t-58645
   teiginys: '1298 m. birželio 1 d. Livonijos magistras Brunonas užpuolė Vytenį pajūryje prie Treiderės upės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185164"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad pavijęs siaubėjus ne toli Livonijos įlankos, magistras Brunonas nirtulingai juos užpuolė prie Treiderės upės, jau apsikrovusius grobiu.'
+  global_id: t-185164
+  teiginys: 'Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos.'
   pagrindžia:
     - c-002
 
@@ -63,7 +66,7 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad pavijęs siaubėjus ne toli Livonijos įlankos, magistras Brunonas nirtulingai juos užpuolė prie Treiderės upės, jau apsikrovusius grobiu.'
+  santrauka: 'Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to nugalėtojai, paleisti pasiplėšti grobio,

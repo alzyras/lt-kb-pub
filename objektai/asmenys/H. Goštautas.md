@@ -17,7 +17,9 @@ Goštauto vadovaujamas husarų eskadrono būrys, kiek vėliau dvi vokiečių pė
 
 ## Teiginiai
 
+<a id="claim-t-39734"></a>
 - t-001
+  global_id: t-39734
   teiginys: 'Karininkas H. Goštautas vadovavo husarų eskadrono būriui.'
   pagrindžia:
     - c-001

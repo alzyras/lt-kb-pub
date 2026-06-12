@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87476"></a>
 - t-001
+  global_id: t-87476
   teiginys: '„Visa, ką maniau būsiant reikalinga tėvynei ir ką man derėjo parašyti, nutariau išdėstyti jums, ket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ — Rotundas (Augustinas Mieleckis), Vilniaus vaitas, Mikalojui Radvilai 1560 m. vasario 12 dieną.'
   pagrindžia:
     - c-001

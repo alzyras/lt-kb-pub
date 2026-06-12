@@ -25,12 +25,16 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 
 ## Teiginiai
 
+<a id="claim-t-90250"></a>
 - t-001
+  global_id: t-90250
   teiginys: 'Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo išrinktas didžiuoju magistru brolis Zigfridas iš Foichtvangeno, kuris ir iškeliavo į Veneciją, į vyriausiąją [Ordino] būstinę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90251"></a>
 - t-002
+  global_id: t-90251
   teiginys: '1303 m. Elbingo kapituloje Zigfridas iš Foichtvangeno buvo išrinktas didžiuoju magistru.'
   pagrindžia:
     - c-001

@@ -31,7 +31,9 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
 
 ## Teiginiai
 
+<a id="claim-t-23432"></a>
 - t-001
+  global_id: t-23432
   teiginys: 'Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.'
   pagrindžia:
     - c-001

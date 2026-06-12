@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius
 
 ## Santrauka
 
-Kojelavičius teigia, kad neilgai trukus pasiuntęs tarpininką, jis pareiškė karaliui norįs su juo sudaryti taiką ir dėl to galįs atsiųsti didesnių įgaliojimų turinčius legatus, jeigu karalius sutinkąs daugiau nebelieti krikščionių kraujo. Kojelavičius teigia, kad štai todėl Jonui Sapiegai, val dančiam karaliaus vardu ViT a ik a su m a sk v ė n a is tebską, buvo pavesta susitar ti su kunigaikščio Vasilijaus pasiuntiniais dėl taikos sąlygų.
+Maskvos kunigaikštis Vasilijus per tarpininką pareiškė karaliui norįs sudaryti taiką ir galįs atsiųsti įgaliotus legatus. Jonui Sapiegai, karaliaus vardu valdžiusiam Vitebską, buvo pavesta tartis su Vasilijaus pasiuntiniais dėl taikos sąlygų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,20 +29,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185854"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad neilgai trukus pasiuntęs tarpininką, jis pareiškė karaliui norįs su juo sudaryti taiką ir dėl to galįs atsiųsti didesnių įgaliojimų turinčius legatus, jeigu karalius sutinkąs daugiau nebelieti krikščionių kraujo.'
+  global_id: t-185854
+  teiginys: 'Maskvos kunigaikštis Vasilijus per tarpininką pareiškė karaliui norįs sudaryti taiką ir galįs atsiųsti įgaliotus legatus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185855"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad štai todėl Jonui Sapiegai, val dančiam karaliaus vardu ViT a ik a su m a sk v ė n a is tebską, buvo pavesta susitar ti su kunigaikščio Vasilijaus pasiuntiniais dėl taikos sąlygų.'
+  global_id: t-185855
+  teiginys: 'Jonui Sapiegai, karaliaus vardu valdžiusiam Vitebską, buvo pavesta tartis su Vasilijaus pasiuntiniais dėl taikos sąlygų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad neilgai trukus pasiuntęs tarpininką, jis pareiškė karaliui norįs su juo sudaryti taiką ir dėl to galįs atsiųsti didesnių įgaliojimų turinčius legatus, jeigu karalius sutinkąs daugiau nebelieti krikščionių kraujo.'
+  santrauka: 'Maskvos kunigaikštis Vasilijus per tarpininką pareiškė karaliui norįs sudaryti taiką ir galįs atsiųsti įgaliotus legatus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Va­
@@ -76,7 +79,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad štai todėl Jonui Sapiegai, val dančiam karaliaus vardu ViT a ik a su m a sk v ė n a is tebską, buvo pavesta susitar ti su kunigaikščio Vasilijaus pasiuntiniais dėl taikos sąlygų.'
+  santrauka: 'Jonui Sapiegai, karaliaus vardu valdžiusiam Vitebską, buvo pavesta tartis su Vasilijaus pasiuntiniais dėl taikos sąlygų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lenkijos reikalai kvietė karalių
@@ -102,3 +105,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/asmenys/Vasilijus]]
+- [[objektai/zodynas/legatai]]

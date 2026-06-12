@@ -23,7 +23,9 @@ Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d
 
 ## Teiginiai
 
+<a id="claim-t-87823"></a>
 - t-001
+  global_id: t-87823
   teiginys: '1253 m. Petras, išrinktas Poznanės vyskupu, Gniezno arkivyskupo Pelkos buvo įšventintas vyskupu.'
   pagrindžia:
     - c-001

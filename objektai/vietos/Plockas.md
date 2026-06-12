@@ -21,7 +21,6 @@ amziai:
   - 'XIII'
   - 'XIV'
 ---
-
 # Plockas
 
 ## Santrauka
@@ -30,18 +29,24 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
 
 ## Teiginiai
 
+<a id="claim-t-84434"></a>
 - t-001
+  global_id: t-84434
   teiginys: '1386 m. Šv. Jono bažnyčią per iškilmes pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184191"></a>
 - t-002
+  global_id: t-184191
   teiginys: 'Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui, netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis, Plocku vadinama163.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185086"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad jie netru ko užimti Sochačevo ir Plocko apygardas; dvarus ir visa kita, ko negalėjo išsigabenti iš krašto kaip gro bio, sunaikino ugnimi ir kalaviju.'
+  global_id: t-185086
+  teiginys: 'Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.'
   pagrindžia:
     - c-003
 
@@ -93,7 +98,7 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad jie netru ko užimti Sochačevo ir Plocko apygardas; dvarus ir visa kita, ko negalėjo išsigabenti iš krašto kaip gro bio, sunaikino ugnimi ir kalaviju.'
+  santrauka: 'Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lietuviai, kelerius metus vengę niokoti to­

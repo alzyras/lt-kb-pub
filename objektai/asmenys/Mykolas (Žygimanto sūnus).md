@@ -21,7 +21,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Mykolas (Žygimanto sūnus)
 
 ## Santrauka
@@ -30,48 +29,66 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
 
 ## Teiginiai
 
+<a id="claim-t-87558"></a>
 - t-001
+  global_id: t-87558
   teiginys: 'Žygimanto sūnus kunigaikštis Mykolas, vedęs lenkų ir lietuvių pulkus, netoli Ukmergės nugalėjo Švitrigailą ir Livonijos magistrą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87559"></a>
 - t-002
+  global_id: t-87559
   teiginys: '1440 m. balandį, sąmokslininkams Trakų pilyje nužudžius Žygimantą, jo sūnus Mykolas buvo ištremtas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184792"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad mykolas, gavęs siaubingą žinią, pasislėpė Mažojoje pilyje, iš visų pusių apsuptoje vandens.'
+  global_id: t-184792
+  teiginys: 'Mykolas, gavęs žinią apie sąmokslą, pasislėpė vandens apsuptoje Mažojoje pilyje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184793"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad narbuto vadovaujami Žygimanto valdiniai bei žemai čiai, nuo seno atsidavę Kęstučio šeimai, palaikė Mykolą.'
+  global_id: t-184793
+  teiginys: 'Narbuto vadovaujami Žygimanto valdiniai ir Kęstučio šeimai atsidavę žemaičiai palaikė Mykolą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184794"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad tuo 46 9 tarpu Mykolas, gavęs žinią, jog Kazimieras su žymiau siais senatoriais ir bajorais atvyksta iš Bresto į Vilnių, paliko Trakų pilį ir patraukė į Mazoviją su penkiais šim tais raitelių.'
+  global_id: t-184794
+  teiginys: 'Mykolas, sužinojęs apie Kazimiero kelionę iš Bresto į Vilnių, paliko Trakų pilį ir su 500 raitelių patraukė į Mazoviją.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184795"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad deja, nuo sėkmės apsalusioje Mykolo širdyje netruko pabusti seni įgeidžiai.'
+  global_id: t-184795
+  teiginys: 'Mykolui gavus skirtingose žemėse paskirtas valdas, jo širdyje vėl pabudo seni įgeidžiai.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184796"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad niršo Mykolas, kad kitų ran kose valdos, kurias paveldėjo iš senelių ir prosenelių.'
+  global_id: t-184796
+  teiginys: 'Mykolas svajojo valdyti visą Lietuvą ir sumanė slapta nužudyti valdovą.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-184797"></a>
 - t-008
-  teiginys: 'Kojelavičius teigia, kad ten ir atskubėjo iš Mazovijos Mykolas ir, pripuolęs prie karaliaus kelių, įniko karščiausiai maldauti, pa keitus nuosprendį, sugrąžinti jam tėvoniją bei tėvo turtus.'
+  global_id: t-184797
+  teiginys: 'Mykolas iš Mazovijos atvyko į Kališą ir prašė karaliaus grąžinti jam tėvoniją bei tėvo turtus.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-184798"></a>
 - t-009
-  teiginys: 'Kojelavičius teigia, kad k ol visi lau k ė šio susitikim o, tu rė ju sio įv y k ti g e gužės pabaigoje, Mykolas su 1448 m e ta i sk itais įsiv eržė į Severską ir, Sum u ša M y k o lą Sesum ušęs greitosiom is sutelkv e r s k e tas jėg as, jam p asto ju sias k e lią, p aėm ė Brianską.'
+  global_id: t-184798
+  teiginys: '1448 m. Mykolas su skitais įsiveržė į Severską ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.'
   pagrindžia:
     - c-009
 
@@ -120,7 +137,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad mykolas, gavęs siaubingą žinią, pasislėpė Mažojoje pilyje, iš visų pusių apsuptoje vandens.'
+  santrauka: 'Mykolas, gavęs žinią apie sąmokslą, pasislėpė vandens apsuptoje Mažojoje pilyje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai pasklido gandas apie sąmoks­
@@ -140,7 +157,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad narbuto vadovaujami Žygimanto valdiniai bei žemai čiai, nuo seno atsidavę Kęstučio šeimai, palaikė Mykolą.'
+  santrauka: 'Narbuto vadovaujami Žygimanto valdiniai ir Kęstučio šeimai atsidavę žemaičiai palaikė Mykolą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu Lietuvos didikams visai nerūpėjo kraš­
@@ -160,7 +177,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad tuo 46 9 tarpu Mykolas, gavęs žinią, jog Kazimieras su žymiau siais senatoriais ir bajorais atvyksta iš Bresto į Vilnių, paliko Trakų pilį ir patraukė į Mazoviją su penkiais šim tais raitelių.'
+  santrauka: 'Mykolas, sužinojęs apie Kazimiero kelionę iš Bresto į Vilnių, paliko Trakų pilį ir su 500 raitelių patraukė į Mazoviją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Boleslovas, bijodamas, kad prieš jį nebūtų imtasi
@@ -188,7 +205,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad deja, nuo sėkmės apsalusioje Mykolo širdyje netruko pabusti seni įgeidžiai.'
+  santrauka: 'Mykolui gavus skirtingose žemėse paskirtas valdas, jo širdyje vėl pabudo seni įgeidžiai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kad šis, vienui vienas
@@ -206,7 +223,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
     - t-006
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad niršo Mykolas, kad kitų ran kose valdos, kurias paveldėjo iš senelių ir prosenelių.'
+  santrauka: 'Mykolas svajojo valdyti visą Lietuvą ir sumanė slapta nužudyti valdovą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Niršo Mykolas, kad kitų ran­
@@ -225,7 +242,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
     - t-007
 
 - c-008
-  santrauka: 'Kojelavičius teigia, kad ten ir atskubėjo iš Mazovijos Mykolas ir, pripuolęs prie karaliaus kelių, įniko karščiausiai maldauti, pa keitus nuosprendį, sugrąžinti jam tėvoniją bei tėvo turtus.'
+  santrauka: 'Mykolas iš Mazovijos atvyko į Kališą ir prašė karaliaus grąžinti jam tėvoniją bei tėvo turtus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Netrukus su­
@@ -242,7 +259,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
     - t-008
 
 - c-009
-  santrauka: 'Kojelavičius teigia, kad k ol visi lau k ė šio susitikim o, tu rė ju sio įv y k ti g e gužės pabaigoje, Mykolas su 1448 m e ta i sk itais įsiv eržė į Severską ir, Sum u ša M y k o lą Sesum ušęs greitosiom is sutelkv e r s k e tas jėg as, jam p asto ju sias k e lią, p aėm ė Brianską.'
+  santrauka: '1448 m. Mykolas su skitais įsiveržė į Severską ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­
@@ -275,3 +292,27 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   statusas: verified
   pagrindžia:
     - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Daugirdas]]
+- [[objektai/autoriai/Kotzebue]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/senatas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/tėvonija]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]

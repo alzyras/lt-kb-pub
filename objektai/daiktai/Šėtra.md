@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08359"></a>
 - t-001
+  global_id: t-08359
   teiginys: 'Parusnyje po dideliu žaliuojančiu ąžuolu stovėjo šėtra, prie kurios žyniai kūreno amžiną ugnį.'
   pagrindžia:
     - c-001

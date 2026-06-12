@@ -23,7 +23,9 @@ Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą t
 
 ## Teiginiai
 
+<a id="claim-t-26330"></a>
 - t-001
+  global_id: t-26330
   teiginys: 'Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.'
   pagrindžia:
     - c-001

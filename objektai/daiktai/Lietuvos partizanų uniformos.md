@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-80689"></a>
 - t-001
+  global_id: t-80689
   teiginys: 'Bunkeryje buvo visi tie trylika vyrų - visi aukšti kaip ąžuolai, visi gražūs, visi vilkėjo lietuviškas uniformas.'
   pagrindžia:
     - c-001

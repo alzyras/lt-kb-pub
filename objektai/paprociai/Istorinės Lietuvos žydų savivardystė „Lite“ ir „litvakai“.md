@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54238"></a>
 - t-001
+  global_id: t-54238
   teiginys: 'Istorinėje Lietuvoje gyvenę žydai šalį vadino „Lite“, o save – „litvakais“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54239"></a>
 - t-002
+  global_id: t-54239
   teiginys: 'Istorinės Lietuvos žydai šią šalį vadino „Lite“, o save – „litvakais“.'
   pagrindžia:
     - c-001

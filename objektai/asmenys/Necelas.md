@@ -16,7 +16,9 @@ Kaip kad paaiškėjo iš maloningojo Necelu pavyzdžio, immediate [neseniai] mir
 
 ## Teiginiai
 
+<a id="claim-t-87805"></a>
 - t-001
+  global_id: t-87805
   teiginys: 'Kaip kad paaiškėjo iš maloningojo Necelu pavyzdžio, immediate [neseniai] mirusio, kuris, būdamas vaistininkas, buvo kartu ir puikus gydytojas.'
   pagrindžia:
     - c-001

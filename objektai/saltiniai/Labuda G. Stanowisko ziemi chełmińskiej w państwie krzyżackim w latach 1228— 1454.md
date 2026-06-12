@@ -25,7 +25,9 @@ Dusburgietis teigia, kad labuda G.
 
 ## Teiginiai
 
+<a id="claim-t-61122"></a>
 - t-001
+  global_id: t-61122
   teiginys: 'G. Labudos „Stanowisko ziemi chełmińskiej w państwie krzyżackim w latach 1228–1454“ paskelbta 1954 m. Varšuvoje, „Przegląd historyczny“ 45 tome.'
   pagrindžia:
     - c-001

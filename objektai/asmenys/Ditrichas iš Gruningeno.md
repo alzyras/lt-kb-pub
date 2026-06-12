@@ -16,7 +16,9 @@ Dusburgietis teigia, kad vieną gražią dieną, bėgdamas nuo žmonių spūstie
 
 ## Teiginiai
 
+<a id="claim-t-60266"></a>
 - t-001
+  global_id: t-60266
   teiginys: 'Dusburgietis teigia, kad vieną gražią dieną, bėgdamas nuo žmonių spūsties ir triukšmingų reikalų, jis panūdo ieškotis ramybės su Hartmanu iš Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597, ten kartą, kai jie visi sėdėjo drauge, atėjo viena.'
   pagrindžia:
     - c-001

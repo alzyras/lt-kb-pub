@@ -24,7 +24,9 @@ periodo_grupes: []
 
 ## Teiginiai
 
+<a id="claim-t-87602"></a>
 - t-001
+  global_id: t-87602
   teiginys: '1253 m. dominikonas Vitas Gniezno arkivyskupo Pelkos buvo įšventintas pirmuoju Lietuvos vyskupu.'
   pagrindžia:
     - c-001

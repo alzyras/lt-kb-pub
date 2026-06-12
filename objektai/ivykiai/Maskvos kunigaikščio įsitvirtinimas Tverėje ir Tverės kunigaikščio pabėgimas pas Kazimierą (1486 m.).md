@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad gyvendamas Vilniuje, priėmė į sve čius Tverės didįjį kunigaikštį, atklydusį iš tolimos Rusios. Kojelavičius teigia, kad kai Tvėrėje ar dėl M a s k v o s ku n ig a ik šMaskvos valdovo Vasiljevitis užima T v e r ę čiaus klastos, ar dėl kokių ki tų priežasčių kilo maištas, ku nigaikštis, valdinių išvytas iš savo senolių valdų, pabė go pas karalių. Kojelavičius teigia, kad lietuviams tikrai buvo pavo jinga maskvėnų sėkmė, toks smarkus jų augimas kai mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi seniai mėgdamas ramybę, po senovei vengė karo.
+Karalius Kazimieras Vilniuje priėmė Tverės didįjį kunigaikštį, pabėgusį pas jį po maišto Tverėje. Tverėje kilus maištui, teisėtas kunigaikštis buvo išvytas, o Tverė susivienijo su maskvėnais. Kojelavičiaus vertinimu, maskvėnų stiprėjimas kėlė pavojų lietuviams, tačiau karalius Kazimieras vengė karo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,25 +32,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185615"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad gyvendamas Vilniuje, priėmė į sve čius Tverės didįjį kunigaikštį, atklydusį iš tolimos Rusios.'
+  global_id: t-185615
+  teiginys: 'Karalius Kazimieras Vilniuje priėmė Tverės didįjį kunigaikštį, pabėgusį pas jį po maišto Tverėje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185616"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kai Tvėrėje ar dėl M a s k v o s ku n ig a ik šMaskvos valdovo Vasiljevitis užima T v e r ę čiaus klastos, ar dėl kokių ki tų priežasčių kilo maištas, ku nigaikštis, valdinių išvytas iš savo senolių valdų, pabė go pas karalių.'
+  global_id: t-185616
+  teiginys: 'Tverėje kilus maištui, teisėtas kunigaikštis buvo išvytas, o Tverė susivienijo su maskvėnais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185617"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad lietuviams tikrai buvo pavo jinga maskvėnų sėkmė, toks smarkus jų augimas kai mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi seniai mėgdamas ramybę, po senovei vengė karo.'
+  global_id: t-185617
+  teiginys: 'Kojelavičiaus vertinimu, maskvėnų stiprėjimas kėlė pavojų lietuviams, tačiau karalius Kazimieras vengė karo.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad gyvendamas Vilniuje, priėmė į sve čius Tverės didįjį kunigaikštį, atklydusį iš tolimos Rusios.'
+  santrauka: 'Karalius Kazimieras Vilniuje priėmė Tverės didįjį kunigaikštį, pabėgusį pas jį po maišto Tverėje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sutvarkęs Valachijos reikalus, karalius nuvyko į
@@ -81,7 +86,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kai Tvėrėje ar dėl M a s k v o s ku n ig a ik šMaskvos valdovo Vasiljevitis užima T v e r ę čiaus klastos, ar dėl kokių ki tų priežasčių kilo maištas, ku nigaikštis, valdinių išvytas iš savo senolių valdų, pabė go pas karalių.'
+  santrauka: 'Tverėje kilus maištui, teisėtas kunigaikštis buvo išvytas, o Tverė susivienijo su maskvėnais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai Tvėrėje ar dėl
@@ -111,7 +116,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad lietuviams tikrai buvo pavo jinga maskvėnų sėkmė, toks smarkus jų augimas kai mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi seniai mėgdamas ramybę, po senovei vengė karo.'
+  santrauka: 'Kojelavičiaus vertinimu, maskvėnų stiprėjimas kėlė pavojų lietuviams, tačiau karalius Kazimieras vengė karo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tverė turėjo labai galingas karo
@@ -128,3 +133,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
+- [[objektai/asmenys/Kazimieras Jogailaitis]]

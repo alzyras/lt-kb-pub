@@ -24,7 +24,9 @@ Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
 
 ## Teiginiai
 
+<a id="claim-t-86823"></a>
 - t-001
+  global_id: t-86823
   teiginys: 'Po Cimermano mirties ar valdymo laikotarpio namas atiteko Savickiams.'
   pagrindžia:
     - c-001

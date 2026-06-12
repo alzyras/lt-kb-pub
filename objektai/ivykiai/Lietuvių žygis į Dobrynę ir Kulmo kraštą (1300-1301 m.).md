@@ -14,12 +14,11 @@ amziai:
   - 'XIII'
   - 'XIV'
 ---
-
 # Lietuvių žygis į Dobrynę ir Kulmo kraštą (1300-1301 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad iš L iv o n ijo s lie tu v ia i Taigi šeši tūkstančiai karių, ž y g iu o ja Į L en k iją , staigiai įsiveržusių Į Dobryn io k o ja D o b ryn ę nę, nuniokojo visą kraštą. Kojelavičius teigia, kad kadangi į Kulmo kraštą negalima buvo perN io k o ja K u lm o kraškelti visos kariuomenės, to tą, k u r su m u ša m i žygio ėmėsi kunigaikščių pa raginti ryžtingiausi ir nar siausi raiteliai.
+Šeši tūkstančiai lietuvių karių iš Livonijos staigiai įsiveržė į Dobrynę ir nuniokojo visą kraštą. Į Kulmo kraštą persikėlusi šimtinė lietuvių karių nuniokojo kaimus, bet vėliau patyrė pralaimėjimą ir neteko septyniasdešimties vyrų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -35,20 +34,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185608"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad iš L iv o n ijo s lie tu v ia i Taigi šeši tūkstančiai karių, ž y g iu o ja Į L en k iją , staigiai įsiveržusių Į Dobryn io k o ja D o b ryn ę nę, nuniokojo visą kraštą.'
+  global_id: t-185608
+  teiginys: 'Šeši tūkstančiai lietuvių karių iš Livonijos staigiai įsiveržė į Dobrynę ir nuniokojo visą kraštą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185609"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kadangi į Kulmo kraštą negalima buvo perN io k o ja K u lm o kraškelti visos kariuomenės, to tą, k u r su m u ša m i žygio ėmėsi kunigaikščių pa raginti ryžtingiausi ir nar siausi raiteliai.'
+  global_id: t-185609
+  teiginys: 'Į Kulmo kraštą persikėlusi šimtinė lietuvių karių nuniokojo kaimus, bet vėliau patyrė pralaimėjimą ir neteko septyniasdešimties vyrų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad iš L iv o n ijo s lie tu v ia i Taigi šeši tūkstančiai karių, ž y g iu o ja Į L en k iją , staigiai įsiveržusių Į Dobryn io k o ja D o b ryn ę nę, nuniokojo visą kraštą.'
+  santrauka: 'Šeši tūkstančiai lietuvių karių iš Livonijos staigiai įsiveržė į Dobrynę ir nuniokojo visą kraštą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to, sudarius paliaubas tarp Rygos miestie­
@@ -79,7 +82,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kadangi į Kulmo kraštą negalima buvo perN io k o ja K u lm o kraškelti visos kariuomenės, to tą, k u r su m u ša m i žygio ėmėsi kunigaikščių pa raginti ryžtingiausi ir nar siausi raiteliai.'
+  santrauka: 'Į Kulmo kraštą persikėlusi šimtinė lietuvių karių nuniokojo kaimus, bet vėliau patyrė pralaimėjimą ir neteko septyniasdešimties vyrų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi į Kulmo
@@ -105,3 +108,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/žygis]]

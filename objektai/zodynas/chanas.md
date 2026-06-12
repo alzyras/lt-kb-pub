@@ -18,17 +18,23 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
 
 ## Teiginiai
 
+<a id="claim-t-78881"></a>
 - t-001
+  global_id: t-78881
   teiginys: 'Aukso ordos chanas Timūr-Kutlukas įsijungė į mūšį su didele totorių jėga ir nugalėjo Vytautą bei Lietuvos kariuomenę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78882"></a>
 - t-002
+  global_id: t-78882
   teiginys: 'Prieš mūšį Vytautas pokalbyje su chanu tarsi reikalavo pavaldumo ir Ordos pinigus žymėti Vytauto ženklu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78883"></a>
 - t-003
+  global_id: t-78883
   teiginys: 'Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai.'
   pagrindžia:
     - c-003

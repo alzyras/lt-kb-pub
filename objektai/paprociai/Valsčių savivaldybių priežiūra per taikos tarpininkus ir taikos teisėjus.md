@@ -32,13 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-02043"></a>
 - t-001
+  global_id: t-02043
   teiginys: 'Valstiečių savivaldybių veikimo priežiūra buvo pavesta taikos tarpininkams ir taikos teisėjams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-02044"></a>
 - t-002
-  teiginys: '1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo paskyrę dvarininkai, buvo atstatyti.'
+  global_id: t-02044
+  teiginys: '1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo paskyrę dvarininkai, buvo atstatydinti.'
   pagrindžia:
     - c-002
 
@@ -61,6 +65,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo paskyrę dvarininkai, buvo atstatydinti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1861 m. įkurtų valsčių viršaičiai (star-

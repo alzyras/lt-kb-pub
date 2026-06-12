@@ -18,22 +18,30 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
 
 ## Teiginiai
 
+<a id="claim-t-72025"></a>
 - t-001
+  global_id: t-72025
   teiginys: 'XVII a., lietuviams pradėjus rinkti karalius bendrai su lenkais nuo Vladislovo Vazos, atskiri Lietuvos seimai ėmė nykti.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-72026"></a>
 - t-002
-  teiginys: 'Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos akto nuostatus, net pats karalius sušaukdavo atskirus seimus.'
+  global_id: t-72026
+  teiginys: 'Pats karalius ne kartą sušaukdavo atskirus seimus, nepaisydamas unijos akto nuostatų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72027"></a>
 - t-003
+  global_id: t-72027
   teiginys: 'Atskirus Lietuvos seimus tarpuvaldžiais dažnai šaukdavo patys Lietuvos ponai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-72028"></a>
 - t-004
+  global_id: t-72028
   teiginys: 'Atskiri Lietuvos seimai ypač dažnai būdavo šaukiami vykstant karui su Maskva, nes jis nelietė Lenkijos.'
   pagrindžia:
     - c-001
@@ -56,6 +64,7 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
     - t-004
 
 - c-002
+  santrauka: 'Pats karalius ne kartą sušaukdavo atskirus seimus, nepaisydamas unijos akto nuostatų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos

@@ -17,12 +17,16 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
 
 ## Teiginiai
 
+<a id="claim-t-40869"></a>
 - t-001
+  global_id: t-40869
   teiginys: 'Bolševikų 2-asis šaulių pulkas artėjo Kėdainių kryptimi ir turėjo apie 900 ar 1 000 kovotojų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183653"></a>
 - t-002
+  global_id: t-183653
   teiginys: 'Bolševikų 2-asis šaulių pulkas turėjo sunkiųjų kulkosvaidžių ir du lengvuosius pabūklus.'
   pagrindžia:
     - c-002

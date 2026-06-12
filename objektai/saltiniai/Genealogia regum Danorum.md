@@ -16,7 +16,9 @@ Iš XI-XII amž. danų šaltinių (Genealogia regum Danorum; Saxo Grammaticus) y
 
 ## Teiginiai
 
+<a id="claim-t-31686"></a>
 - t-001
+  global_id: t-31686
   teiginys: '„Genealogia regum Danorum“ yra vienas iš XI-XII a. danų šaltinių, iš kurių matyti, kad kuršiai ir sembai protarpiais mokėjo duoklę danams.'
   pagrindžia:
     - c-001

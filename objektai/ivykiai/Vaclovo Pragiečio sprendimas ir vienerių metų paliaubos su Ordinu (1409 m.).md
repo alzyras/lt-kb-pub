@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-34558"></a>
 - t-001
+  global_id: t-34558
   teiginys: 'Įsikišus Čekijos karaliui Vaclovui, kariaujančios pusės sudarė vienerių metų paliaubas.'
   pagrindžia:
     - c-001

@@ -19,22 +19,30 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
 
 ## Teiginiai
 
+<a id="claim-t-89876"></a>
 - t-001
+  global_id: t-89876
   teiginys: 'Dusburgietis teigia, kad pRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89877"></a>
 - t-002
+  global_id: t-89877
   teiginys: 'Dusburgietis teigia, kad jėzus Kristus skelbti ir savo stebuklus, nes jie galingi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89878"></a>
 - t-003
+  global_id: t-89878
   teiginys: 'Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89879"></a>
 - t-004
+  global_id: t-89879
   teiginys: 'Jėzus Kristus įvardijamas kaip pagalbininkas Teutonų ordino broliams per 53 metus palaužiant prūsus.'
   pagrindžia:
     - c-003

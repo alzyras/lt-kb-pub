@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-32021"></a>
 - t-001
+  global_id: t-32021
   teiginys: '„Zemleustrojstvo i zemeVnyj kadastr v Belorusi i Litve v XVI-XVII vv.“ išleistas 1952 m. kaip „Materijaly po istorii zemledelija v SSSR“ I tomas.'
   pagrindžia:
     - c-001

@@ -26,12 +26,16 @@ Bet Vytautas ir dabar, kaip ir 1410 m., ėmė greit rodyti norą grįžti į Lie
 
 ## Teiginiai
 
+<a id="claim-t-34342"></a>
 - t-001
+  global_id: t-34342
   teiginys: 'Dėl to iškilo konfliktas, nes kai kurie didikai, ypač didžlenkiai, pasipriešino jo paskutiniosios žmonos karūnacijai, remdamiesi padaryta priesaika Jadvygai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-34343"></a>
 - t-002
+  global_id: t-34343
   teiginys: 'Didžlenkiai priešinosi Vytauto norui grįžti į Lietuvą, nes buvo ypač suinteresuoti žygio pasisekimu.'
   pagrindžia:
     - c-001

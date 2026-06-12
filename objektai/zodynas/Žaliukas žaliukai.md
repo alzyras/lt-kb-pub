@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-42532"></a>
 - t-001
+  global_id: t-42532
   teiginys: 'Okupacinėms pajėgoms pradėjus dominuoti vietovėje, žaliukams teko įsirengti gerai užmaskuotas slėptuves.'
   pagrindžia:
     - c-001

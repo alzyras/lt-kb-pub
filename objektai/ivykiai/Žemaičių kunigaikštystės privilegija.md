@@ -31,12 +31,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01901"></a>
 - t-001
+  global_id: t-01901
   teiginys: 'Po Zigmanto mirties kilusių kovų metu žemaičiai iš Kazimiero išgavo privilegiją, laidavusią jų teises ir savitą vidaus tvarkymąsi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01902"></a>
 - t-002
+  global_id: t-01902
   teiginys: 'Žemaičių kunigaikštystės privilegija patvirtino Vytauto laikų žemaičių teises ir garantavo, kad krašto seniūną jie rinksis patys.'
   pagrindžia:
     - c-001

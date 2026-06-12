@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08284"></a>
 - t-001
+  global_id: t-08284
   teiginys: 'Briedinis diržas su vario sagčiais buvo senovės Lietuvos vyro puošmena ir garbės ženklas.'
   pagrindžia:
     - c-001

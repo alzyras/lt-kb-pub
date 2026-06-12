@@ -42,22 +42,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-176218"></a>
 - t-001
+  global_id: t-176218
   teiginys: 'Ordino riterius, šarvuotus metaliniais šarvais, atvirame lauke kepino karšta liepos mėnesio saulė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-176220"></a>
 - t-002
+  global_id: t-176220
   teiginys: 'Sunkiąją kavaleriją sudarė raiti kariai, apkaustyti tvirtais metaliniais šarvais nuo galvos iki kojų, šarvuodavę net arklius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176221"></a>
 - t-003
+  global_id: t-176221
   teiginys: 'Pasimeldęs Jogaila, Vytauto ir lenkų riterių raginamas, užsidėjo šarvus ir nuvyko prie kariuomenės.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-176222"></a>
 - t-004
+  global_id: t-176222
   teiginys: 'Lengvosios kavalerijos šarvai buvo lengvesni, dengė pečius ir krūtinę, o galvas saugojo šalmai.'
   pagrindžia:
     - c-002

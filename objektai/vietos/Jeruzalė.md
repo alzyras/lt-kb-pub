@@ -26,52 +26,72 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 
 ## Teiginiai
 
+<a id="claim-t-68010"></a>
 - t-001
+  global_id: t-68010
   teiginys: 'Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms suartėti su totoriais — mongolais.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-68011"></a>
 - t-002
+  global_id: t-68011
   teiginys: 'Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje įkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-68012"></a>
 - t-003
+  global_id: t-68012
   teiginys: 'Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras ir tamplierių ordino magistras, daugelis abiejų ordinų brolių ir.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-68013"></a>
 - t-004
+  global_id: t-68013
   teiginys: 'Dusburgietis teigia, kad štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-68014"></a>
 - t-005
+  global_id: t-68014
   teiginys: 'Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios maldininkų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-68015"></a>
 - t-006
+  global_id: t-68015
   teiginys: 'Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-68016"></a>
 - t-007
+  global_id: t-68016
   teiginys: 'Dusburgietis teigia, kad jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir suteikdamas.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-68017"></a>
 - t-008
+  global_id: t-68017
   teiginys: 'Dusburgietis teigia, kad pirmoje žinutėje kalbama apie Ordino įsikūrimą Jeruzalėje 1190 m., po to — apie Ordino pilių statybą Prūsijoje, pradedant Torune (1231 m.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-68018"></a>
 - t-009
+  global_id: t-68018
   teiginys: 'Dusburgietis teigia, kad taigi 1096 viešpaties metais anksčiau minėtasis Petras su kryžininkais ir daugybe vokiečių persikėlė per Helesponto marias ir užėmė miestą, kuris šiandien vadinamas Švento Jurgio ranka, be to, Antiochijos miestą bei šventąjį Jeruzalės miestą, o ilgainiui kiti.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-68019"></a>
 - t-010
+  global_id: t-68019
   teiginys: 'Po 1099 m. Jeruzalės išvadavimo iš turkų į ją pradėjo traukti minios maldininkų.'
   pagrindžia:
     - c-001

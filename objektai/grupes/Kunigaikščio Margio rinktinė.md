@@ -24,12 +24,16 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
 
 ## Teiginiai
 
+<a id="claim-t-40957"></a>
 - t-001
+  global_id: t-40957
   teiginys: 'Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir Žalioji.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40958"></a>
 - t-002
+  global_id: t-40958
   teiginys: '1950 m. likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.'
   pagrindžia:
     - c-001

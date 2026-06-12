@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-41392"></a>
 - t-001
+  global_id: t-41392
   teiginys: '1654 m. rugpjūčio 12 d. kunigaikštis Čerkaskis, turėdamas apie 40 000 karių, nuo Smolensko žygiavo užimti Oršą ir Kopysę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41393"></a>
 - t-002
+  global_id: t-41393
   teiginys: 'Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila.'
   pagrindžia:
     - c-002

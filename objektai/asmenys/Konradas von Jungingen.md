@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-30336"></a>
 - t-001
+  global_id: t-30336
   teiginys: 'Konradas von Jungingenas 1394 m. vasarą su gausiais svečiais suruošė didelį žygį į Lietuvą.'
   pagrindžia:
     - c-001

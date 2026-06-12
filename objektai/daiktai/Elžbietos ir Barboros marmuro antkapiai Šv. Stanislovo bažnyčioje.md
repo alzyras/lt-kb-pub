@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87076"></a>
 - t-001
+  global_id: t-87076
   teiginys: 'Italų meistrai per šešerius metus Šv. Stanislovo bažnyčioje pastatė marmuro antkapius Elžbietai ir Barborai.'
   pagrindžia:
     - c-001

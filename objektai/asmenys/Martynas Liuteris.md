@@ -26,17 +26,23 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-82553"></a>
 - t-001
+  global_id: t-82553
   teiginys: 'Martyno Liuterio ir Cvinglio mokslą Vilniuje stipriai palaikė Vilniaus vaivada Mikalojus Radvila Juodasis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82554"></a>
 - t-002
+  global_id: t-82554
   teiginys: '1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma viena iš reikšmingiausių Naujųjų amžių apraiškų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82555"></a>
 - t-003
+  global_id: t-82555
   teiginys: 'Martyno Liuterio ir Cvinglio mokslas Vilniuje buvo įsišaknijęs ir palaikomas vaivados Mikalojaus Radvilos Juodojo.'
   pagrindžia:
     - c-002

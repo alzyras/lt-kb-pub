@@ -23,7 +23,9 @@ Prieš mūšį 1945 m. gruodžio 5 d. prie Mardasavo km., ant Merkio kranto neti
 
 ## Teiginiai
 
+<a id="claim-t-41898"></a>
 - t-001
+  global_id: t-41898
   teiginys: '1945 m. gruodžio 5 d. prie Mardasavo, ant Merkio kranto, NKVD dalinio netikėtai užklupti žuvo keturi partizanai.'
   pagrindžia:
     - c-001

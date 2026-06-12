@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62913"></a>
 - t-001
+  global_id: t-62913
   teiginys: 'Dusburgietis teigia, kad šie, susijungę su Livonijos brolių kariuomene šventų Petro bei Povilo, apaštalų, dieną (birželio 29), nukovė per 4 tūkstančius Rygos miestiečių ir lietuvių, kurie tuo metu buvo apsupę 549 Goliubo pilis prie Drevantos, į šiaurės rytus nuo Torunės (SZCh, p.'
   pagrindžia:
     - c-001

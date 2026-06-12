@@ -17,12 +17,16 @@ Baudžiavos panaikinimo manifestas buvo paruoštas Petrapily ir paskelbtas 1861 
 
 ## Teiginiai
 
+<a id="claim-t-02138"></a>
 - t-001
+  global_id: t-02138
   teiginys: 'Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-02139"></a>
 - t-002
+  global_id: t-02139
   teiginys: '1861 m. vasario 19 d. paskelbtu Baudžiavos panaikinimo manifestu Rusijos imperijoje panaikinta baudžiava.'
   pagrindžia:
     - c-002

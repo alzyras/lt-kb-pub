@@ -17,7 +17,9 @@ Dusburgietis teigia, kad tad maldaute maldauju tuos, kurie skaitys šią knygą:
 
 ## Teiginiai
 
+<a id="claim-t-59138"></a>
 - t-001
+  global_id: t-59138
   teiginys: 'Dusburgietis teigia, kad tad maldaute maldauju tuos, kurie skaitys šią knygą: nesibaiminkite visokeriopų vargų, bet supraskite, jog tai, kas įvyko, neturi mūsų giminės pražudyti, o tegali ją pataisyti.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ Susižavėjęs šviečiamąja literatūra, jis darė reformas, viską, net Bažn
 
 ## Teiginiai
 
+<a id="claim-t-03020"></a>
 - t-001
+  global_id: t-03020
   teiginys: 'Jozefinizmas reiškė Juozapo II reformas, kuriomis net Bažnyčia buvo pajungta valstybės valdžiai.'
   pagrindžia:
     - c-001

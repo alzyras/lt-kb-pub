@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20283"></a>
 - t-001
+  global_id: t-20283
   teiginys: '1940 m. rugpjūčio 25 d. Liaudies seimas pervadintas Lietuvos SSR Aukščiausiąja Taryba.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-20284"></a>
 - t-002
+  global_id: t-20284
   teiginys: 'Visos Lietuvos įstaigos, ypač NKVD, prisipildė atvykusių iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp Lietuvos ir likusios SSRS dalies dar buvo.'
   pagrindžia:
     - c-002

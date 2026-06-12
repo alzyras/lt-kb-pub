@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88501"></a>
 - t-001
+  global_id: t-88501
   teiginys: 'Vytauto laiškas didžiajam magistrui dėl gydytojo buvo datuotas Obolcuose 1426 m. sausio 13 dieną.'
   pagrindžia:
     - c-001

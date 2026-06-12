@@ -27,12 +27,16 @@ Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­
 
 ## Teiginiai
 
+<a id="claim-t-88162"></a>
 - t-001
+  global_id: t-88162
   teiginys: 'Augustas Kotzebue veikale „Preussens aeltere Geschichte“ išspausdino Gedimino laiškus dominikonams, pranciškonams ir Hanzos miestams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88163"></a>
 - t-002
+  global_id: t-88163
   teiginys: 'Augustas Kotzebue į „Preussens aeltere Geschichte“ įdėjo tris Gedimino laiškus iš slaptojo Kryžiuočių archyvo Karaliaučiuje.'
   pagrindžia:
     - c-001

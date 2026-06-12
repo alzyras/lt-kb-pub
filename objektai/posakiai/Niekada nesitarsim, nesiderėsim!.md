@@ -20,7 +20,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-09673"></a>
 - t-001
+  global_id: t-09673
   teiginys: '„Niekada nesitarsim, nesiderėsim!“ buvo SSRS valdovų atsakymas į Lietuvos siūlymą tartis.'
   pagrindžia:
     - c-001

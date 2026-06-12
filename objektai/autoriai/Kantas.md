@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-01079"></a>
 - t-001
+  global_id: t-01079
   teiginys: '1800 m. Karaliaučiaus filosofas Kantas Milkės žodyno prakalboje palaikė lietuvių kultūrines teises.'
   pagrindžia:
     - c-001

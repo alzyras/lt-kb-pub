@@ -24,7 +24,9 @@ Dusburgietis teigia, kad palmaitis L.
 
 ## Teiginiai
 
+<a id="claim-t-62649"></a>
 - t-001
+  global_id: t-62649
   teiginys: 'L. Palmaitis paskelbė straipsnį apie prūsų kalbos negimininių įvardžių formų kilmę.'
   pagrindžia:
     - c-001

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad nepokupnas A.
 
 ## Teiginiai
 
+<a id="claim-t-61196"></a>
 - t-001
+  global_id: t-61196
   teiginys: 'A. Nepokupno darbas „Baltai slavų giminaičiai“ išleistas Vilniuje 1983 metais.'
   pagrindžia:
     - c-001

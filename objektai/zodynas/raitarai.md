@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-42501"></a>
 - t-001
+  global_id: t-42501
   teiginys: 'Švedų raitarai, pasikliaudami karakoliavimo taktika, vengdavo artimo mūšio.'
   pagrindžia:
     - c-001

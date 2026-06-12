@@ -27,7 +27,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88428"></a>
 - t-001
+  global_id: t-88428
   teiginys: 'Popiežius Inocentas X 1646 m. patvirtino Vilniaus arkikonfratrijos agregavimą prie Romos.'
   pagrindžia:
     - c-001

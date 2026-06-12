@@ -27,12 +27,16 @@ Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos impe
 
 ## Teiginiai
 
+<a id="claim-t-40379"></a>
 - t-001
+  global_id: t-40379
   teiginys: 'Vokiečių remiamas buvęs carinės Rusijos kariuomenės pulkininkas P. Bermontas-Avalovas vadovavo Rusijos vakarų armijai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40381"></a>
 - t-002
+  global_id: t-40381
   teiginys: 'P. Bermontas-Avalovas siekė nuversti bolševikus Rusijoje ir atkurti Rusijos imperiją, o jo pajėgos 1919 m. telkėsi Mintaujoje.'
   pagrindžia:
     - c-001

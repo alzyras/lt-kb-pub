@@ -17,7 +17,9 @@ Dusburgietis teigia, kad vieną kartą, sunkios negalės kamuojamas, jis išvydo
 
 ## Teiginiai
 
+<a id="claim-t-61047"></a>
 - t-001
+  global_id: t-61047
   teiginys: 'Brolis Henrikas regėjime ištarė Apaštalų tikėjimo išpažinimą, atsakydamas į raginimą priimti žydų tikėjimą.'
   pagrindžia:
     - c-001

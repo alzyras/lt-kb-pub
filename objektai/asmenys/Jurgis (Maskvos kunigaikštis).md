@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-87738"></a>
 - t-001
+  global_id: t-87738
   teiginys: 'Maskvos kunigaikštis Jurgis kartu su savo dėde Švitrigaila išvengė sutriuškinimo po pralaimėjimo prie Ukmergės.'
   pagrindžia:
     - c-001

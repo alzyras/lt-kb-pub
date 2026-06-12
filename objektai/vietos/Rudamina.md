@@ -26,47 +26,65 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
 
 ## Teiginiai
 
+<a id="claim-t-114961"></a>
 - t-001
+  global_id: t-114961
   teiginys: 'Vytautas ties Rudamina pasitiko kryžiuočių pulkus, bet per tirštą rūką klaidingai įvertino jų dydį ir skubiai atsitraukė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-114962"></a>
 - t-002
+  global_id: t-114962
   teiginys: 'Voigtas manė, kad prie Rudaminos vykęs susirėmimas galėjo būti ties dabartiniu Parudaminiu į pietvakarius nuo Vilniaus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-114963"></a>
 - t-003
+  global_id: t-114963
   teiginys: 'Prie Rudaminos kryžiuočiai laimėjo vieną didesnių mūšių ir paėmė į nelaisvę lietuvių kariuomenę.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-114964"></a>
 - t-004
+  global_id: t-114964
   teiginys: 'Vytautas ties Rudamina pasitiko kryžiuočius, bet per tirštą rūką klaidingai įvertino jų pajėgas ir atsitraukė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-114965"></a>
 - t-005
+  global_id: t-114965
   teiginys: 'Rudaminos bažnyčia buvo atiduota kolegijai, o jos ir nuolatinio vikaro bažnyčios aptarnavimui duoti atskiri nurodymai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-114966"></a>
 - t-006
+  global_id: t-114966
   teiginys: 'Vokiečiai ties Rudamina, pusantros mylios nuo Vilniaus, susirėmė su į pagalbą skubėjusiais septyniais šimtais lietuvių raitelių.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-114967"></a>
 - t-007
+  global_id: t-114967
   teiginys: 'Rudaminos bažnyčia buvo atiduota kolegijai, o jos aptarnavimui numatyti jėzuitai ir nuolatinis vikaras.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-114968"></a>
 - t-008
+  global_id: t-114968
   teiginys: '1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius vikarui skyrė Rudaminą su bažnytėle.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-114969"></a>
 - t-009
+  global_id: t-114969
   teiginys: 'Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygandą, kad susirėmimas vykęs prie didelio Rudminne kaimo (das grosse dorf), mano, kad tai turėtų būti dabartinis Parudaminys, esantis nuo Vilniaus į pietvakarius.'
   pagrindžia:
     - c-004

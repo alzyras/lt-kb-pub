@@ -13,12 +13,11 @@ atnaujinta: ''
 amziai:
   - 'XVI'
 ---
-
 # Slapta Augusto ir Barboros Radvilaitės santuoka
 
 ## Santrauka
 
-Kojelavičius teigia, kad jaunatviškai lengvabū diškas, be to, iš mažumės taip išauklėtas, kad mėgo puotauti, šokti ir visaip link- 1545 m e ta i M iršta A u strijo s k u n ig a ik š ty tė E lžb ieta , A u g u sto žm on a 6 7 4 smintis su moterimis, pradėjo lankyti Barborą Radvi. Kojelavičius teigia, kad ilgai draugavęs ir dažnai susitikinėjęs, Augus tas nieku būdu nestengė nei Barboros atkakliai gina mos doros įveikti, nei vis smarkiau įsiplieskiančio širdies karščio nuslopinti, todėl netrukus su visomis krikščioniškomis apeigomis jiedu vienas kitam prisie.
+Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą ir Stanislovo Goštauto našlę. Augustas ir Barbora Radvilaitė prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -34,20 +33,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185537"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad jaunatviškai lengvabū diškas, be to, iš mažumės taip išauklėtas, kad mėgo puotauti, šokti ir visaip link- 1545 m e ta i M iršta A u strijo s k u n ig a ik š ty tė E lžb ieta , A u g u sto žm on a 6 7 4 smintis su moterimis, pradėjo lankyti Barborą Radvi.'
+  global_id: t-185537
+  teiginys: 'Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą ir Stanislovo Goštauto našlę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185538"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad ilgai draugavęs ir dažnai susitikinėjęs, Augus tas nieku būdu nestengė nei Barboros atkakliai gina mos doros įveikti, nei vis smarkiau įsiplieskiančio širdies karščio nuslopinti, todėl netrukus su visomis krikščioniškomis apeigomis jiedu vienas kitam prisie.'
+  global_id: t-185538
+  teiginys: 'Augustas ir Barbora Radvilaitė prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad jaunatviškai lengvabū diškas, be to, iš mažumės taip išauklėtas, kad mėgo puotauti, šokti ir visaip link- 1545 m e ta i M iršta A u strijo s k u n ig a ik š ty tė E lžb ieta , A u g u sto žm on a 6 7 4 smintis su moterimis, pradėjo lankyti Barborą Radvi.'
+  santrauka: 'Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą ir Stanislovo Goštauto našlę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Palydėjęs į paskutinę kelionę Elžbietą ir iškilmingai
@@ -88,7 +91,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad ilgai draugavęs ir dažnai susitikinėjęs, Augus tas nieku būdu nestengė nei Barboros atkakliai gina mos doros įveikti, nei vis smarkiau įsiplieskiančio širdies karščio nuslopinti, todėl netrukus su visomis krikščioniškomis apeigomis jiedu vienas kitam prisie.'
+  santrauka: 'Augustas ir Barbora Radvilaitė prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat
@@ -121,3 +124,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/asmenys/Karolis]]
+- [[objektai/asmenys/Kęsgaila]]
+- [[objektai/zodynas/kaštelionas]]
+- [[objektai/paprociai/Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje]]

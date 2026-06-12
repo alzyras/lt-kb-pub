@@ -23,7 +23,9 @@ Su gausiomis originalių šaltinių ištraukomis jis išrinko gausius lietuvišk
 
 ## Teiginiai
 
+<a id="claim-t-31789"></a>
 - t-001
+  global_id: t-31789
   teiginys: 'Su gausiomis originalių šaltinių ištraukomis jis išrinko gausius lietuviškus žodžius (299) iš senosios Lietuvos valstybės raštinių kalbos ir išleido vertingą šaltinių ištraukų rinkinį: «Lietuviški žodžiai senosios Lietuvos raštinių kalboje, 1 d., tekstai».'
   pagrindžia:
     - c-001

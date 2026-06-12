@@ -40,22 +40,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-71746"></a>
 - t-001
+  global_id: t-71746
   teiginys: 'Kalniškės mūšyje partizanai, naudodami granatas ir sutelktą ugnį, su nuostoliais prasiveržė link Sūsninkų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71747"></a>
 - t-002
+  global_id: t-71747
   teiginys: 'Kalniškės mūšyje žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu Pušelė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71748"></a>
 - t-003
+  global_id: t-71748
   teiginys: 'Neifalta-Lakūnas per Kalniškės mūšį nežuvo ir žuvo apie 1946 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71749"></a>
 - t-004
+  global_id: t-71749
   teiginys: '„Lakūną“ po Kalniškės mūšio mačiau ne kartą savo akimis.'
   pagrindžia:
     - c-003

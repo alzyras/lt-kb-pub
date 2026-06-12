@@ -25,7 +25,9 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 
 ## Teiginiai
 
+<a id="claim-t-60451"></a>
 - t-001
+  global_id: t-60451
   teiginys: '1314 m. mūšyje prie Sizditės pilies žuvo brolis Ulrichas iš Tetingeno.'
   pagrindžia:
     - c-001

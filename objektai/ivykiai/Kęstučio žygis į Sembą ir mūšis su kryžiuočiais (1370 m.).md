@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai pulkai susirinko į stovyklą, jis, pa dalijęs kariuomenę dviem žygio voromis, nusprendė niokoti Sembą. Kojelavičius teigia, kad kovos lauke krito tūkstan tis lietuvių, tačiau ir kryžiuočiai neteko (neskaičiuo jant paprastų karių) dvidešimt šešių kilmingųjų ordi no riterių bei paties vado — ordino magistro Henriko; kadangi abiejų šalių nuostoliai rodėsi vienodi, ligi vi durdienio.
+Surinkęs pulkus stovykloje, Kęstutis padalijo kariuomenę į dvi žygio voras ir nusprendė niokoti Sembą. Mūšyje krito tūkstantis lietuvių, o kryžiuočiai neteko dvidešimt šešių kilmingųjų riterių ir ordino magistro Henriko.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185734"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai pulkai susirinko į stovyklą, jis, pa dalijęs kariuomenę dviem žygio voromis, nusprendė niokoti Sembą.'
+  global_id: t-185734
+  teiginys: 'Surinkęs pulkus stovykloje, Kęstutis padalijo kariuomenę į dvi žygio voras ir nusprendė niokoti Sembą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185735"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kovos lauke krito tūkstan tis lietuvių, tačiau ir kryžiuočiai neteko (neskaičiuo jant paprastų karių) dvidešimt šešių kilmingųjų ordi no riterių bei paties vado — ordino magistro Henriko; kadangi abiejų šalių nuostoliai rodėsi vienodi, ligi vi durdienio.'
+  global_id: t-185735
+  teiginys: 'Mūšyje krito tūkstantis lietuvių, o kryžiuočiai neteko dvidešimt šešių kilmingųjų riterių ir ordino magistro Henriko.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai pulkai susirinko į stovyklą, jis, pa dalijęs kariuomenę dviem žygio voromis, nusprendė niokoti Sembą.'
+  santrauka: 'Surinkęs pulkus stovykloje, Kęstutis padalijo kariuomenę į dvi žygio voras ir nusprendė niokoti Sembą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Norint pulti priešą, kuris
@@ -70,7 +73,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kovos lauke krito tūkstan tis lietuvių, tačiau ir kryžiuočiai neteko (neskaičiuo jant paprastų karių) dvidešimt šešių kilmingųjų ordi no riterių bei paties vado — ordino magistro Henriko; kadangi abiejų šalių nuostoliai rodėsi vienodi, ligi vi durdienio.'
+  santrauka: 'Mūšyje krito tūkstantis lietuvių, o kryžiuočiai neteko dvidešimt šešių kilmingųjų riterių ir ordino magistro Henriko.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Prasidėjo iš tie­
@@ -96,3 +99,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/žygis]]

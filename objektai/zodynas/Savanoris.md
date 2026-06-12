@@ -25,7 +25,9 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 
 ## Teiginiai
 
+<a id="claim-t-42426"></a>
 - t-001
+  global_id: t-42426
   teiginys: 'Pirmaisiais mėnesiais besikurianti Lietuvos kariuomenė nepajėgė aprūpinti pirmųjų savanorių ginklais, uniformomis ir ekipuote.'
   pagrindžia:
     - c-001

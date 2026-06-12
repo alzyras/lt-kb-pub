@@ -30,17 +30,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-55133"></a>
 - t-001
+  global_id: t-55133
   teiginys: 'Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55134"></a>
 - t-002
+  global_id: t-55134
   teiginys: 'Vilniaus Senienų muziejus buvo mokslinė institucija, sutelkusi krašto visuomenę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81829"></a>
 - t-003
+  global_id: t-81829
   teiginys: 'Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus, sutelkęs krašto visuomenę.'
   pagrindžia:
     - c-001

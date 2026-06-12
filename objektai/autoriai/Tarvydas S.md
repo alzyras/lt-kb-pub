@@ -24,7 +24,9 @@ Dusburgietis teigia, kad tarvydas S.
 
 ## Teiginiai
 
+<a id="claim-t-60797"></a>
 - t-001
+  global_id: t-60797
   teiginys: 'S. Tarvydas 1967 m. paskelbė straipsnį apie vakarinių lietuvių genčių teritorijų istorinius-geografinius landšaftus.'
   pagrindžia:
     - c-001

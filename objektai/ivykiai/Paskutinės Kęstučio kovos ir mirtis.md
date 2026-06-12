@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66819"></a>
 - t-001
+  global_id: t-66819
   teiginys: 'Kęstučio lavonas buvo atvežtas iš Krėvos į Vilnių, iškilmingai palaidotas ir sudegintas ant laužo su jo mėgtais daiktais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66820"></a>
 - t-002
+  global_id: t-66820
   teiginys: 'Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kalėjime; Kęstutį netrukus išvežė į Krėvos pilį, o Vytautą paliko Vilniuje.'
   pagrindžia:
     - c-002

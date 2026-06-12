@@ -17,7 +17,9 @@ Dusburgietis teigia, kad brolis Henrikas atsakė: „Tikiu dievą tėvą, visaga
 
 ## Teiginiai
 
+<a id="claim-t-59161"></a>
 - t-001
+  global_id: t-59161
   teiginys: 'Dusburgietis teigia, kad brolis Henrikas atsakė: „Tikiu dievą tėvą, visagalį...“ bei visa kita, kas „Apaštalų tikėjimo išpažinime“ pasakyta, ir tučtuojau abu išnyko.'
   pagrindžia:
     - c-001

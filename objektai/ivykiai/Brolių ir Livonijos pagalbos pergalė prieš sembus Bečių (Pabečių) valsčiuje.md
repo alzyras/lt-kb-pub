@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62756"></a>
 - t-001
+  global_id: t-62756
   teiginys: 'Dusburgietis teigia, kad įniršę sembai susibūrė, smarkiai užgriuvo brolių kariuomenę ir vos neprivertė jos bėgti, metę į kovą visas savo jėgas, bet atskubėjo Livonijos broliai su daugybe puikių ir didelių žirgų ir, kartu puldami netikėlius, kalavijais išnaikino visą sembų kariuomenę.'
   pagrindžia:
     - c-001

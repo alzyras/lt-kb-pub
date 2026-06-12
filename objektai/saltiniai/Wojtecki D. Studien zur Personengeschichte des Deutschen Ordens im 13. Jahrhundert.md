@@ -22,7 +22,9 @@ Dusburgietis teigia, kad wojtecki D.
 
 ## Teiginiai
 
+<a id="claim-t-61369"></a>
 - t-001
+  global_id: t-61369
   teiginys: 'D. Wojteckio studija apie Vokiečių ordino XIII a. personalijų istoriją išleista Vysbadene 1971 m.'
   pagrindžia:
     - c-001

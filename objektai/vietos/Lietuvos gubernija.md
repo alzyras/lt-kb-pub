@@ -16,12 +16,16 @@ Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padali
 
 ## Teiginiai
 
+<a id="claim-t-02553"></a>
 - t-001
+  global_id: t-02553
   teiginys: 'Po trečiojo padalinimo Rusijai tekusios žemės vėliau buvo sujungtos į vieną Lietuvos guberniją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183047"></a>
 - t-002
+  global_id: t-183047
   teiginys: 'Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padalintos į dvi gubernijas — Vilniaus ir Slanimo.'
   pagrindžia:
     - c-001

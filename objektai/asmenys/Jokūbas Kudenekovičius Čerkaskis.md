@@ -28,17 +28,23 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
 
 ## Teiginiai
 
+<a id="claim-t-40211"></a>
 - t-001
+  global_id: t-40211
   teiginys: 'Kunigaikštis Jokūbas Kudenekovičius Čerkaskis iš tikrųjų vadovavo Rusijos kariuomenei kare su Lenkijos-Lietuvos valstybe.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40212"></a>
 - t-002
+  global_id: t-40212
   teiginys: 'Jokūbas Kudenekovičius Čerkaskis dalyvavo užimant Gardiną ir Vilnių, kur sumušė J. Radvilos ir V. Gosievskio pajėgas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183743"></a>
 - t-003
+  global_id: t-183743
   teiginys: 'Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Aleksejus Michailovičius) vadovavo kunigaikštis Jokūbas Kudenekovičius Čerkaskis (iki krikšto — Uruskan-Murza), pasižymėjęs kovose su totoriais.'
   pagrindžia:
     - c-002

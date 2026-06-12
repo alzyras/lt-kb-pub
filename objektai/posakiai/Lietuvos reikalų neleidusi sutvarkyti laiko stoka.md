@@ -19,12 +19,16 @@ Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovano
 
 ## Teiginiai
 
+<a id="claim-t-67270"></a>
 - t-001
-  teiginys: 'Išvykdamas iš Vilniaus jis Oginskiui pareiškė, kad Lietuvos reikalų neleido sutvarkyti laiko stoka.'
+  global_id: t-67270
+  teiginys: 'Išvykdamas iš Vilniaus caras Aleksandras I Oginskiui pareiškė, kad Lietuvos reikalų neleido sutvarkyti laiko stoka.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67271"></a>
 - t-002
+  global_id: t-67271
   teiginys: 'Pasiteisinimas laiko stoka buvo diplomatiškas atsikalbėjimas, skirtas nesugriauti Lietuvos bajorijos vilčių.'
   pagrindžia:
     - c-002
@@ -32,6 +36,7 @@ Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovano
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Išvykdamas iš Vilniaus caras Aleksandras I Oginskiui pareiškė, kad Lietuvos reikalų neleido sutvarkyti laiko stoka.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mat,
@@ -73,3 +78,5 @@ Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovano
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Aleksandras I]]

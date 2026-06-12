@@ -17,12 +17,16 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 
 ## Teiginiai
 
+<a id="claim-t-75510"></a>
 - t-001
+  global_id: t-75510
   teiginys: 'Rugsėjo 28 d. pasirašytos Reicho ir SSRS sienų ir draugystės sutarties slaptasis protokolas priskyrė Lietuvą SSRS įtakos sferai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75511"></a>
 - t-002
+  global_id: t-75511
   teiginys: 'Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).'
   pagrindžia:
     - c-002

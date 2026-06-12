@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62328"></a>
 - t-001
+  global_id: t-62328
   teiginys: 'Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir įbaugintas, kad nė.'
   pagrindžia:
     - c-001

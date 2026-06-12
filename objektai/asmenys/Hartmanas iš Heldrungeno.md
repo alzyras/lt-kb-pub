@@ -28,17 +28,23 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
 
 ## Teiginiai
 
+<a id="claim-t-59966"></a>
 - t-001
+  global_id: t-59966
   teiginys: 'Dusburgietis teigia, kad vieną gražią dieną, bėgdamas nuo žmonių spūsties ir triukšmingų reikalų, jis panūdo ieškotis ramybės su Hartmanu iš Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597, ten kartą, kai jie visi sėdėjo drauge, atėjo viena.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59967"></a>
 - t-002
+  global_id: t-59967
   teiginys: 'Hartmanas iš Heldrungeno buvo didysis magistras, broliu tapęs prieš 1237 m. ir miręs 1282 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59968"></a>
 - t-003
+  global_id: t-59968
   teiginys: 'Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus dvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus.'
   pagrindžia:
     - c-003

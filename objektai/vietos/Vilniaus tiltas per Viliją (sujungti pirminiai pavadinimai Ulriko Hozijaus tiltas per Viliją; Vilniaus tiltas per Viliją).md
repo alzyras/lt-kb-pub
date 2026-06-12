@@ -26,32 +26,44 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
 
 ## Teiginiai
 
+<a id="claim-t-174243"></a>
 - t-001
+  global_id: t-174243
   teiginys: 'Ulrikas Hozijus įvykdė karaliaus pavedimą: per Viliją pastatė mūrinį tiltą, o po jo mirties darbus užbaigė sūnus Jonas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-174244"></a>
 - t-002
+  global_id: t-174244
   teiginys: '1536 m. Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-174245"></a>
 - t-003
+  global_id: t-174245
   teiginys: 'Siekiant apsaugoti Vilniaus tilto muitą, buvo uždrausta statyti kitus tiltus per Viliją tarp Bistryčios ir Kernavės.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-174246"></a>
 - t-004
+  global_id: t-174246
   teiginys: '1529 m. Albertas Goštautas gavo karaliaus leidimą priešais Žemutinės Vilniaus pilies vartus nutiesti tiltą per Viliją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-174247"></a>
 - t-005
+  global_id: t-174247
   teiginys: 'Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-174248"></a>
 - t-006
+  global_id: t-174248
   teiginys: 'Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.'
   pagrindžia:
     - c-005

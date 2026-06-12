@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40756"></a>
 - t-001
+  global_id: t-40756
   teiginys: 'XVIII a. Lietuvos kariuomenės gvardijos pėstininkų karininkų ringrafas buvo nešiojamas ant krūtinės ir turėjo Vytį.'
   pagrindžia:
     - c-001

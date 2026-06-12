@@ -26,12 +26,16 @@ Jo organas anksčiau buvo „Žvaigždė" ir „Draugas", nuo 1917 metų tapo �
 
 ## Teiginiai
 
+<a id="claim-t-44102"></a>
 - t-001
+  global_id: t-44102
   teiginys: '„Žvaigždė“ ir „Draugas“ anksčiau buvo organai, o nuo 1917 m. organu tapo „Garsas“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-44103"></a>
 - t-002
+  global_id: t-44103
   teiginys: 'Susivienijimas Lietuvių Amerikoje ėmė leisti savo organą „Tėvynę“.'
   pagrindžia:
     - c-001

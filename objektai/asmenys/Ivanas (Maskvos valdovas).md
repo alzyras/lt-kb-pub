@@ -6,44 +6,46 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Ivanas (Maskvos valdovas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad ivanas (Maskvos valdovas) įsakęs Vilniaus vyskupui Vaitiekui Taborui ir P a sk elb ia A le k sa n d - Smolensko Juozapui Soltarui karą nui ne kartą raginti Eleną pereiti į Romos tikėjimą; ligi šiol rūmuose nesanti pastatyta Elenos reikalams koplyčia; rusai verčiami atsisakyti prosenelių tikėjimo ir todėl kai kurie, norėdami išvengti šitokios nuodėmės, ieškosi prieglobsčio Maskvoje. Kojelavičius teigia, kad išvengė nelaisvės ar mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va lavičius, Teodoras Nemyra, Bogdanas Maskevičius; šie garsūs pulkų vadai, sužeisti ir beveik visai išsekę, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš. Kojelavičius teigia, kad sutiko ir priėmė maskvėnus pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas Točinskis ir Mikalojus Konča, o vedė derybas tokie orūs vyrai, kaip Vilniaus vaivada.
+Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų nuskriausti jo globon paimti asmenys ar jų tėvonijos. Ivano įsakymu į nelaisvę atvestas Konstantinas buvo kankinamas ir surakintas grandinėmis. Andrejus Kurbskis su šeima persikėlė į Lietuvą, nes nepakentė Ivano žiaurumo.
 
 ## Teiginiai
 
+<a id="claim-t-185944"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad ivanas (Maskvos valdovas) įsakęs Vilniaus vyskupui Vaitiekui Taborui ir P a sk elb ia A le k sa n d - Smolensko Juozapui Soltarui karą nui ne kartą raginti Eleną pereiti į Romos tikėjimą; ligi šiol rūmuose nesanti pastatyta Elenos reikalams koplyčia; rusai verčiami atsisakyti prosenelių tikėjimo ir todėl kai kurie, norėdami išvengti šitokios nuodėmės, ieškosi prieglobsčio Maskvoje.'
+  global_id: t-185944
+  teiginys: 'Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų nuskriausti jo globon paimti asmenys ar jų tėvonijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185945"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad išvengė nelaisvės ar mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va lavičius, Teodoras Nemyra, Bogdanas Maskevičius; šie garsūs pulkų vadai, sužeisti ir beveik visai išsekę, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš.'
+  global_id: t-185945
+  teiginys: 'Ivano įsakymu į nelaisvę atvestas Konstantinas buvo kankinamas ir surakintas grandinėmis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185947"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad sutiko ir priėmė maskvėnus pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas Točinskis ir Mikalojus Konča, o vedė derybas tokie orūs vyrai, kaip Vilniaus vaivada.'
+  global_id: t-185947
+  teiginys: 'Andrejus Kurbskis su šeima persikėlė į Lietuvą, nes nepakentė Ivano žiaurumo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185948"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad mat šis, nepakęsdamas Ivano žiau rumo, kartu su visa šeimyna šiek tiek anksčiau buvo persikėlęs į Lietuvą.'
+  global_id: t-185948
+  teiginys: 'Karalius žadėjo atiduoti Andrejų tik tada, jei Ivanas grąžintų kunigaikščius su jų šeimomis ir tėvonijomis.'
   pagrindžia:
     - c-004
-
-- t-005
-  teiginys: 'Kojelavičius teigia, kad kad jie galop patys suprastų, kokie neprotingi jų reikalavimai, karalius pažadėjo atiduoti Andrejų, bet tada, kai Ivanas savo ruožtu karaliui grą žinsiąs kunigaikščius Lengvenaičius, Glinskius, Belskius, Trubeckojus, Odojevskius, Masalskius ir kitus su viso.'
-  pagrindžia:
-    - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad ivanas (Maskvos valdovas) įsakęs Vilniaus vyskupui Vaitiekui Taborui ir P a sk elb ia A le k sa n d - Smolensko Juozapui Soltarui karą nui ne kartą raginti Eleną pereiti į Romos tikėjimą; ligi šiol rūmuose nesanti pastatyta Elenos reikalams koplyčia; rusai verčiami atsisakyti prosenelių tikėjimo ir todėl kai kurie, norėdami išvengti šitokios nuodėmės, ieškosi prieglobsčio Maskvoje.'
+  santrauka: 'Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų nuskriausti jo globon paimti asmenys ar jų tėvonijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Juk jis įsakęs Vilniaus vys­
@@ -74,7 +76,7 @@ Kojelavičius teigia, kad ivanas (Maskvos valdovas) įsakęs Vilniaus vyskupui V
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad išvengė nelaisvės ar mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va lavičius, Teodoras Nemyra, Bogdanas Maskevičius; šie garsūs pulkų vadai, sužeisti ir beveik visai išsekę, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš.'
+  santrauka: 'Ivano įsakymu į nelaisvę atvestas Konstantinas buvo kankinamas ir surakintas grandinėmis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Išvengė nelaisvės ar
@@ -97,33 +99,7 @@ Kojelavičius teigia, kad ivanas (Maskvos valdovas) įsakęs Vilniaus vyskupui V
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad sutiko ir priėmė maskvėnus pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas Točinskis ir Mikalojus Konča, o vedė derybas tokie orūs vyrai, kaip Vilniaus vaivada.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Sutiko ir priėmė
-    maskvėnus pataurininkis Mikalojus Kiška, stalininkas
-    Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir
-    Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas To-
-    činskis ir Mikalojus Konča, o vedė derybas tokie orūs
-    vyrai, kaip Vilniaus vaivada Mikalojus Radvila, Trakų
-    kaštelionas Jurgis Chodkevičius, Bresto vaivada Jurgis
-    Tiškevičius, maršalai Eustachijus Valavičius ir Jonas
-    Simkovičius, iždininkas Mikalojus Naruševičius, Lietu­
-    vos raštininkas Mykolas Garaburda. Kai prieita prie
-    pagrindinio derybų klausimo, maskvėnai atkakliausiai
-    pareikalavo amžinam Maskvos valdymui perduoti tai,
-    ką didysis kunigaikštis esąs užėmęs. Karalius turįs vi­
-    siškai atsisakyti Livonijos, pasitraukti iš Ūlos, Sokolo,
-    Jezeriščės, Usviatų, išduoti perbėgėlį Andrejų Kurbskį
-    su visais palydovais.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Kojelavičius teigia, kad mat šis, nepakęsdamas Ivano žiau rumo, kartu su visa šeimyna šiek tiek anksčiau buvo persikėlęs į Lietuvą.'
+  santrauka: 'Andrejus Kurbskis su šeima persikėlė į Lietuvą, nes nepakentė Ivano žiaurumo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat šis, nepakęsdamas Ivano žiau­
@@ -139,10 +115,10 @@ Kojelavičius teigia, kad ivanas (Maskvos valdovas) įsakęs Vilniaus vyskupui V
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-005
-  santrauka: 'Kojelavičius teigia, kad kad jie galop patys suprastų, kokie neprotingi jų reikalavimai, karalius pažadėjo atiduoti Andrejų, bet tada, kai Ivanas savo ruožtu karaliui grą žinsiąs kunigaikščius Lengvenaičius, Glinskius, Belskius, Trubeckojus, Odojevskius, Masalskius ir kitus su viso.'
+- c-004
+  santrauka: 'Karalius žadėjo atiduoti Andrejų tik tada, jei Ivanas grąžintų kunigaikščius su jų šeimomis ir tėvonijomis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lietuvos istorija
@@ -170,4 +146,14 @@ Kojelavičius teigia, kad ivanas (Maskvos valdovas) įsakęs Vilniaus vyskupui V
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/tėvonija]]
+- [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]

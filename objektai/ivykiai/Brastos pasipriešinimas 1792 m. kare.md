@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20173"></a>
 - t-001
+  global_id: t-20173
   teiginys: '1792 m. liepos pabaigoje gynyba telkėsi prie Brastos, kai liepos 24 d. atėjo žinia apie Stanislovo Augusto kapituliaciją ir prisijungimą prie Targovicos konfederacijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-20174"></a>
 - t-002
+  global_id: t-20174
   teiginys: 'LDK kariuomenė, stokodama pasirengimo ir patirdama vadovavimo sunkumų, pasipriešino prie Myro ir Brastoje, o paskui atsitraukė prie Varšuvos.'
   pagrindžia:
     - c-002

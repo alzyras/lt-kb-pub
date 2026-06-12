@@ -17,12 +17,16 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
 
 ## Teiginiai
 
+<a id="claim-t-05716"></a>
 - t-001
+  global_id: t-05716
   teiginys: 'Mickevičius buvo poetas, kurio raštai draugijos būrelyje jau tada keldavo nepaprastą entuziazmą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-05717"></a>
 - t-002
+  global_id: t-05717
   teiginys: 'Adomas Mickevičius buvo ištremtas į Rusiją, kai jau buvo mokytojas Kaune ir palaikė glaudžius ryšius su studentais.'
   pagrindžia:
     - c-001

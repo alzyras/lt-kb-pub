@@ -19,17 +19,23 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 
 ## Teiginiai
 
+<a id="claim-t-86120"></a>
 - t-001
+  global_id: t-86120
   teiginys: 'Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86121"></a>
 - t-002
+  global_id: t-86121
   teiginys: 'Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86122"></a>
 - t-003
+  global_id: t-86122
   teiginys: 'Siekiant apsaugoti Vilniaus tilto muitą, buvo uždrausta statyti kitus tiltus per Viliją tarp Bistryčios ir Kernavės.'
   pagrindžia:
     - c-002

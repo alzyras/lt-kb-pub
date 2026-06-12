@@ -27,7 +27,9 @@ Dundulienė: Žemdirbystė Lietuvoje (nuo seniausia laiku iki 1917 metu) (1963)^
 
 ## Teiginiai
 
+<a id="claim-t-30896"></a>
 - t-001
+  global_id: t-30896
   teiginys: 'P. Dundulienė rašė Lietuvos žemdirbystės istorijos klausimais ir 1963 m. paskelbė veikalą „Žemdirbystė Lietuvoje“.'
   pagrindžia:
     - c-001

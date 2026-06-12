@@ -23,7 +23,9 @@ Sokolovski, Dr.
 
 ## Teiginiai
 
+<a id="claim-t-36113"></a>
 - t-001
+  global_id: t-36113
   teiginys: 'Dr. Pr. Aug. Sokolovskio „Dzieje Polski“ antrasis tomas buvo išleistas Varšuvoje 1900 m.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-32186"></a>
 - t-001
+  global_id: t-32186
   teiginys: 'IX a. pirmoje pusėje per Gudijos plotus į Lietuvą atėjo dalis žodžių.'
   pagrindžia:
     - c-001

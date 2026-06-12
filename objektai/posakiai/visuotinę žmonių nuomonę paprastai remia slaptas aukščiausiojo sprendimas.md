@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad aptemdė vestuvių džiaugsmą visuotinis žmonių nepritarimas, o Rusioje — baisus pralaimėjimas, kurį, pasak žmonių, siuntęs dan gus, nes niekas neabejojo, kad ir dangus smerkė tai, ką atmetė lyg susitarę žmonės.
+Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino posakiu, kad visuotinę žmonių nuomonę remia slaptas aukščiausiojo sprendimas.
 
 ## Teiginiai
 
+<a id="claim-t-185473"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad aptemdė vestuvių džiaugsmą visuotinis žmonių nepritarimas, o Rusioje — baisus pralaimėjimas, kurį, pasak žmonių, siuntęs dan gus, nes niekas neabejojo, kad ir dangus smerkė tai, ką atmetė lyg susitarę žmonės.'
+  global_id: t-185473
+  teiginys: 'Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino posakiu, kad visuotinę žmonių nuomonę remia slaptas aukščiausiojo sprendimas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad aptemdė vestuvių džiaugsmą visuotinis žmonių nepritarimas, o Rusioje — baisus pralaimėjimas, kurį, pasak žmonių, siuntęs dan gus, nes niekas neabejojo, kad ir dangus smerkė tai, ką atmetė lyg susitarę žmonės.'
+  santrauka: 'Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino posakiu, kad visuotinę žmonių nuomonę remia slaptas aukščiausiojo sprendimas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai Edigejus siaubė
@@ -41,3 +42,9 @@ Kojelavičius teigia, kad aptemdė vestuvių džiaugsmą visuotinis žmonių nep
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Edigejus]]
+- [[objektai/asmenys/Elžbieta]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai pasiuntinys išvyko, jis Įsiv e ržia į D o b ry n ę ir nedelsdamas įsakė pulkams ją u žim a traukti į Lenkiją. Kojelavičius teigia, kad kadangi karalius labiau troško taikos nei karo, kryžiuočiai, pasirodžius taikos prošvaistėms, be didelio vargo pasiekė, kad jis, išleidęs iš rankų progą sėkmingai užbaigti karą, sutiko sudaryti paliaubas, kurios turėjo trukti ligi kitų metų birželio.
+Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį. Karalius sutiko su kryžiuočiais sudaryti paliaubas, kurios turėjo trukti iki kitų metų birželio.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185601"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai pasiuntinys išvyko, jis Įsiv e ržia į D o b ry n ę ir nedelsdamas įsakė pulkams ją u žim a traukti į Lenkiją.'
+  global_id: t-185601
+  teiginys: 'Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185602"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kadangi karalius labiau troško taikos nei karo, kryžiuočiai, pasirodžius taikos prošvaistėms, be didelio vargo pasiekė, kad jis, išleidęs iš rankų progą sėkmingai užbaigti karą, sutiko sudaryti paliaubas, kurios turėjo trukti ligi kitų metų birželio.'
+  global_id: t-185602
+  teiginys: 'Karalius sutiko su kryžiuočiais sudaryti paliaubas, kurios turėjo trukti iki kitų metų birželio.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai pasiuntinys išvyko, jis Įsiv e ržia į D o b ry n ę ir nedelsdamas įsakė pulkams ją u žim a traukti į Lenkiją.'
+  santrauka: 'Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai pasiuntinys išvyko, jis
@@ -66,7 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kadangi karalius labiau troško taikos nei karo, kryžiuočiai, pasirodžius taikos prošvaistėms, be didelio vargo pasiekė, kad jis, išleidęs iš rankų progą sėkmingai užbaigti karą, sutiko sudaryti paliaubas, kurios turėjo trukti ligi kitų metų birželio.'
+  santrauka: 'Karalius sutiko su kryžiuočiais sudaryti paliaubas, kurios turėjo trukti iki kitų metų birželio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tą rude­
@@ -86,3 +89,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

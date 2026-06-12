@@ -22,7 +22,9 @@ Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blo
 
 ## Teiginiai
 
+<a id="claim-t-86798"></a>
 - t-001
+  global_id: t-86798
   teiginys: '1746 m. Kazimieras ir Mykolas Vežbickiai nupirko sklypus Užupyje su Kauno jėzuitų kolegijos pastatais.'
   pagrindžia:
     - c-001

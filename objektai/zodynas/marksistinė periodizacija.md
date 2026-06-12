@@ -39,14 +39,18 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
 
 ## Teiginiai
 
+<a id="claim-t-05598"></a>
 - t-001
+  global_id: t-05598
   teiginys: 'Sovietiniai istorikai Lietuvos istoriją skirstė pagal marksistinę periodizaciją.'
   pagrindžia:
     - c-001
     - c-002
     - c-003
 
+<a id="claim-t-05599"></a>
 - t-002
+  global_id: t-05599
   teiginys: 'Marksistinė Lietuvos istorijos periodizacija feodalizmo epochą skirstė į valstybės susidarymo ir baudžiavos įsigalėjimo laikotarpius.'
   pagrindžia:
     - c-001

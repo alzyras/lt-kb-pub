@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-77807"></a>
 - t-001
+  global_id: t-77807
   teiginys: '1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų balsais priėmė pagrindinį Žemės reformos įstatymą.'
   pagrindžia:
     - c-001

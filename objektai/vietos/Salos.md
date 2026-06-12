@@ -18,7 +18,9 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
 
 ## Teiginiai
 
+<a id="claim-t-42117"></a>
 - t-001
+  global_id: t-42117
   teiginys: 'Liudvikos Gedgaudienės-Didžiulienės atsiminimuose minima, kad sukilėlių pajėgos buvo telkiamos Salų miestelyje.'
   pagrindžia:
     - c-001

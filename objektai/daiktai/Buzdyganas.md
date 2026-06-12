@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40700"></a>
 - t-001
+  global_id: t-40700
   teiginys: 'Buzdyganas XVII a. pabaigoje - XVIII a. buvo ATR tautinės kavalerijos karininkų valdžios ženklas.'
   pagrindžia:
     - c-001

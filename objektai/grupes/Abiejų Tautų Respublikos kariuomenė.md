@@ -17,7 +17,9 @@ ATR kariuomenės pratęsė Europos riterių atakos tradiciją, o Vakarų Europoj
 
 ## Teiginiai
 
+<a id="claim-t-40843"></a>
 - t-001
+  global_id: t-40843
   teiginys: 'ATR kariuomenės XVII a. pratęsė Europos riterių atakos tradiciją, kai Vakarų Europoje pralaužiamosios kavalerijos atakos nebebuvo naudojamos.'
   pagrindžia:
     - c-001

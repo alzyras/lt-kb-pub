@@ -55,37 +55,51 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-13466"></a>
 - t-001
+  global_id: t-13466
   teiginys: 'LAF aktyvistai rinko žinias iš sovietų valdomos Lietuvos ir siuntė instrukcijas, o karinė LAF dalis bendradarbiavo su Abveru.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-13467"></a>
 - t-002
+  global_id: t-13467
   teiginys: 'LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23307"></a>
 - t-003
+  global_id: t-23307
   teiginys: 'Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis dėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą, būsimo sukilimo detales.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-24553"></a>
 - t-004
+  global_id: t-24553
   teiginys: 'Daugumą visose profesijose šalyje sudarė lietuviai, tačiau žydų verslininkai dominavo eksporte ir importe, be to, žydai sudarė 83 proc.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-24554"></a>
 - t-005
+  global_id: t-24554
   teiginys: 'LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-26625"></a>
 - t-006
+  global_id: t-26625
   teiginys: 'Lietuvių aktyvistų frontas rinko žinias iš sovietų valdomos Lietuvos ir siuntė instrukcijas iš Vokietijos.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-26626"></a>
 - t-007
+  global_id: t-26626
   teiginys: 'Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų susidariusią Lietuvių nacionalistų partiją).'
   pagrindžia:
     - c-004

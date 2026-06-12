@@ -12,29 +12,32 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad abi šalys susitarė apsvarstyti visą reikalą Racionže. Kojelavičius teigia, kad karaliaus Vladislovo vyskupo pasiūlytoje su tartyje buvo surašytos štai šitokios sąlygos: Vytautas kryžiuočiams užleisiąs amžinai valdyti Žemaitiją, kara lius Jogaila sumokėsiąs keturiasdešimt tūkstančių flori nų, kryžiuočiai atiduosią lenkams Dobrynę, abi.
+Jogaila ir kryžiuočiai susitarė taikos reikalą svarstyti Racionže, kur atvyko Jogaila, Vytautas ir magistras Jungingenas. Racionžo sutartyje Vytautas turėjo užleisti kryžiuočiams Žemaitiją, Jogaila sumokėti 40 tūkst. florinų, o kryžiuočiai atiduoti lenkams Dobrynę.
 
 ## Teiginiai
 
+<a id="claim-t-186316"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad abi šalys susitarė apsvarstyti visą reikalą Racionže.'
+  global_id: t-186316
+  teiginys: 'Jogaila ir kryžiuočiai susitarė taikos reikalą svarstyti Racionže, kur atvyko Jogaila, Vytautas ir magistras Jungingenas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186317"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad karaliaus Vladislovo vyskupo pasiūlytoje su tartyje buvo surašytos štai šitokios sąlygos: Vytautas kryžiuočiams užleisiąs amžinai valdyti Žemaitiją, kara lius Jogaila sumokėsiąs keturiasdešimt tūkstančių flori nų, kryžiuočiai atiduosią lenkams Dobrynę, abi.'
+  global_id: t-186317
+  teiginys: 'Racionžo sutartyje Vytautas turėjo užleisti kryžiuočiams Žemaitiją, Jogaila sumokėti 40 tūkst. florinų, o kryžiuočiai atiduoti lenkams Dobrynę.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad abi šalys susitarė apsvarstyti visą reikalą Racionže.'
+  santrauka: 'Jogaila ir kryžiuočiai susitarė taikos reikalą svarstyti Racionže, kur atvyko Jogaila, Vytautas ir magistras Jungingenas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gavęs ži­
@@ -56,7 +59,7 @@ Kojelavičius teigia, kad abi šalys susitarė apsvarstyti visą reikalą Racion
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad karaliaus Vladislovo vyskupo pasiūlytoje su tartyje buvo surašytos štai šitokios sąlygos: Vytautas kryžiuočiams užleisiąs amžinai valdyti Žemaitiją, kara lius Jogaila sumokėsiąs keturiasdešimt tūkstančių flori nų, kryžiuočiai atiduosią lenkams Dobrynę, abi.'
+  santrauka: 'Racionžo sutartyje Vytautas turėjo užleisti kryžiuočiams Žemaitiją, Jogaila sumokėti 40 tūkst. florinų, o kryžiuočiai atiduoti lenkams Dobrynę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat Vytautas, gal

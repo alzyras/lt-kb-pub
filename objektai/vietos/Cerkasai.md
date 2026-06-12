@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41640"></a>
 - t-001
+  global_id: t-41640
   teiginys: 'XVI a. vidurio Kanevo pilies padavime sakoma, kad Gediminas įkūrė Kanevą ir Cerkasus.'
   pagrindžia:
     - c-001

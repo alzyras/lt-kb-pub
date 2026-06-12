@@ -24,7 +24,9 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 
 ## Teiginiai
 
+<a id="claim-t-30554"></a>
 - t-001
+  global_id: t-30554
   teiginys: 'Adomas Bremenietis 1072-1076 m. veikalo „Gesta Hammaburgensis ecclesiae pontificum“ ketvirtoje knygoje pateikė daugiau žinių apie prūsus.'
   pagrindžia:
     - c-001

@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39158"></a>
 - t-001
+  global_id: t-39158
   teiginys: '1655 m. Švedija paskelbė karą ATR ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183679"></a>
 - t-002
+  global_id: t-183679
   teiginys: '1655 m. Švedija paskelbė karą Abiejų Tautų Respublikai ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos.'
   pagrindžia:
     - c-002

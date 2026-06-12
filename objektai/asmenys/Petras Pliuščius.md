@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87927"></a>
 - t-001
+  global_id: t-87927
   teiginys: 'Petras Pliuščius 1620 m. buvo Vilniaus burmistras nuo katalikų.'
   pagrindžia:
     - c-001

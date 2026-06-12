@@ -23,7 +23,9 @@ Krotka nauka 0 kosach i pikach, Warszawa, 1794.
 
 ## Teiginiai
 
+<a id="claim-t-39923"></a>
 - t-001
+  global_id: t-39923
   teiginys: 'P. Aignerio „Krotka nauka o kosach i pikach“ 1794 m. Varšuvoje išleista sukilėlių mokymui skirtu cirkuliaru.'
   pagrindžia:
     - c-001

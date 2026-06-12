@@ -28,12 +28,16 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 
 ## Teiginiai
 
+<a id="claim-t-60151"></a>
 - t-001
+  global_id: t-60151
   teiginys: 'Dusburgietis teigia, kad per apgulą ir bėgant žuvo daug prūsų, daug buvo mirtinai sužeista, jų vadas Kaltis taip pat krito nukautas kalaviju, nes bėgdami pėstininkai susidūrė su raiteliais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60152"></a>
 - t-002
+  global_id: t-60152
   teiginys: 'Kaltis buvo paskirtas pėstininkų, paliktų Traupeino pilies apgulai, vadu.'
   pagrindžia:
     - c-001

@@ -18,12 +18,16 @@ Kartu su jais vyko taip pat žymus lenkas Paulius Vladimiri, būrys dvariškių 
 
 ## Teiginiai
 
+<a id="claim-t-35261"></a>
 - t-001
+  global_id: t-35261
   teiginys: 'Paulius Vladimiri vyko kartu su Lietuvos delegacija į visuotinį Bažnyčios susirinkimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-35262"></a>
 - t-002
+  global_id: t-35262
   teiginys: 'Paulius Vladimiri rašte išdėstė Lietuvai žalingą Ordino politiką, siekusią lietuvius krikštyti kardu ir ugnimi.'
   pagrindžia:
     - c-001

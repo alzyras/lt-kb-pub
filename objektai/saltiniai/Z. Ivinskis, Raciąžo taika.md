@@ -26,7 +26,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-32011"></a>
 - t-001
+  global_id: t-32011
   teiginys: '„Raciąžo taika“ nurodyta „Lietuvių enciklopedijos“ 24 tome, 315-316 puslapiuose.'
   pagrindžia:
     - c-001

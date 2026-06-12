@@ -18,27 +18,37 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 
 ## Teiginiai
 
+<a id="claim-t-97232"></a>
 - t-001
+  global_id: t-97232
   teiginys: 'Wulfstanas pasakojo apie prūsų laidojimo papročius ir teigė, kad aisčiai mokėjo išlaikyti užšaldytus lavonus vasarą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-97233"></a>
 - t-002
+  global_id: t-97233
   teiginys: 'Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-97234"></a>
 - t-003
+  global_id: t-97234
   teiginys: 'Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai didelė, o joje esą daug medaus ir žuvies.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-97235"></a>
 - t-004
+  global_id: t-97235
   teiginys: 'Tas žinias jis sako gavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose lankęsis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97236"></a>
 - t-005
+  global_id: t-97236
   teiginys: 'Panašios lenktynės Prūsuose yra paliudytos dar XVI-XVII amž. Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai didelė, o joje esą daug medaus ir žuvies.'
   pagrindžia:
     - c-002

@@ -17,7 +17,9 @@ Gaidys ir Viesulas turėjo tik pistalietus. [...].Gaidys apsiginklavo automatu, 
 
 ## Teiginiai
 
+<a id="claim-t-40115"></a>
 - t-001
+  global_id: t-40115
   teiginys: 'Partizanas Gaidys turėjo tik pistoletą.'
   pagrindžia:
     - c-001

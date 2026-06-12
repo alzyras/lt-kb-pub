@@ -10,7 +10,6 @@ tags:
   - ordinas
   - vieta
 ---
-
 # Gotesverderis
 
 ## Santrauka
@@ -19,13 +18,17 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02460"></a>
 - t-001
+  global_id: t-02460
   teiginys: 'Gotesverderis buvo viena iš prie Kauno daug kartų statytų ir vėl sugriautų Ordino pilių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184958"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad šią naują pilį, esančią per vieną mylią nuo Kauno, pavadino Gotesverderiu.'
+  global_id: t-184958
+  teiginys: 'Kryžiuočiai prie Nemuno, beveik priešais Kauną, pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.'
   pagrindžia:
     - c-002
 
@@ -49,7 +52,7 @@ tags:
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad šią naują pilį, esančią per vieną mylią nuo Kauno, pavadino Gotesverderiu.'
+  santrauka: 'Kryžiuočiai prie Nemuno, beveik priešais Kauną, pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat kryžiuočiai, nusiaubę arčiau Prūsijos esan­

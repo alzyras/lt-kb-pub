@@ -27,12 +27,16 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
 
 ## Teiginiai
 
+<a id="claim-t-35334"></a>
 - t-001
+  global_id: t-35334
   teiginys: 'Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius II valdė Didžiąją Maskvos kunigaikštiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-35335"></a>
 - t-002
+  global_id: t-35335
   teiginys: 'Vosylius II, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su kitais valdovais ir didikais.'
   pagrindžia:
     - c-002

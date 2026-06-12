@@ -17,7 +17,9 @@ Kiekvienas toksai šaukimas buvo vadinamas visuotiniu bajorijos stojimu.
 
 ## Teiginiai
 
+<a id="claim-t-03225"></a>
 - t-001
+  global_id: t-03225
   teiginys: 'Visuotiniu bajorijos stojimu buvo vadinamas šaukimas, kai sveiki bajorai turėjo eiti į karo tarnybą ir vestis tarnų.'
   pagrindžia:
     - c-001

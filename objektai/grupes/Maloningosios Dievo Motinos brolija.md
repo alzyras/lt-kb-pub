@@ -24,7 +24,9 @@ Toje pat Dievo Kūno koplyčioje 1589 metų liepos 29 d. buvo paskelbta Maloning
 
 ## Teiginiai
 
+<a id="claim-t-86808"></a>
 - t-001
+  global_id: t-86808
   teiginys: '1589 m. liepos 29 d. Dievo Kūno koplyčioje buvo paskelbtas Maloningosios Dievo Motinos brolijos įkūrimas.'
   pagrindžia:
     - c-001

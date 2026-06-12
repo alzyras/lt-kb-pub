@@ -18,7 +18,9 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
 
 ## Teiginiai
 
+<a id="claim-t-40066"></a>
 - t-001
+  global_id: t-40066
   teiginys: 'Kunigaikštis Bazilijus Serebrianas vadovavo iš Smolensko pajudėjusiai grupei.'
   pagrindžia:
     - c-001

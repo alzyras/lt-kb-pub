@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31722"></a>
 - t-001
+  global_id: t-31722
   teiginys: 'J. Jakšto „Dlugošas apie Žalgirio mūšį“ 1960 m. išspausdintas TaPr I tomo 2 numeryje, p. 165–181.'
   pagrindžia:
     - c-001

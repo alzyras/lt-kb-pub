@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-100233"></a>
 - t-001
+  global_id: t-100233
   teiginys: 'J. Ochmańskio „Biskupstwo wileńskie w średniowieczu. Ustrój i uposażenie“ išleista Poznanėje 1972 m.'
   pagrindžia:
     - c-001

@@ -26,12 +26,16 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
 
 ## Teiginiai
 
+<a id="claim-t-58558"></a>
 - t-001
+  global_id: t-58558
   teiginys: 'Ilienburgas buvo vėlesnis Gilgenburgas, dabartinis Dąbrównas, sąsmaukoje tarp dviejų ežerų senoje Sasnos žemėje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58559"></a>
 - t-002
+  global_id: t-58559
   teiginys: 'Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas, jo šviesybės Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras,— miestą prie Ilienburgo [Ilijos] pilies595.'
   pagrindžia:
     - c-002

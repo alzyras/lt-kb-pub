@@ -19,7 +19,9 @@ Jo pirmoji žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė. Ma
 
 ## Teiginiai
 
+<a id="claim-t-35217"></a>
 - t-001
+  global_id: t-35217
   teiginys: 'Vytauto pirmoji žmona Marija buvo Rusijos kunigaikštytė ir, anot šaltinio, veikiausiai stačiatikė.'
   pagrindžia:
     - c-001

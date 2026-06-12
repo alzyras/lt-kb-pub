@@ -17,7 +17,9 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
 
 ## Teiginiai
 
+<a id="claim-t-41710"></a>
 - t-001
+  global_id: t-41710
   teiginys: 'Lietuvių kariai granatomis ir šūviais privertė bolševikus iš Eigulių kaimo skubiai trauktis į Juodikio mišką.'
   pagrindžia:
     - c-001

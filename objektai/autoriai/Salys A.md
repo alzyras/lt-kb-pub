@@ -19,12 +19,16 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
 
 ## Teiginiai
 
+<a id="claim-t-64844"></a>
 - t-001
+  global_id: t-64844
   teiginys: 'Dusburgietis teigia, kad asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64846"></a>
 - t-002
+  global_id: t-64846
   teiginys: 'Dusburgietis teigia, kad manoma, kad vardas atėjęs iš Lietuvos (Salys A., Skalva, p. 537), bet Semboje buvusi Ragayne (GAO, p. 137, plg.'
   pagrindžia:
     - c-001

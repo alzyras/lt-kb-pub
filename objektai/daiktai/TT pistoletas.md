@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40773"></a>
 - t-001
+  global_id: t-40773
   teiginys: 'Sausio įvykių metu ATAS darbuotojas, ginkluotas TT pistoletu, saugojo AT rūmuose.'
   pagrindžia:
     - c-001

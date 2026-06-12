@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-35971"></a>
 - t-001
+  global_id: t-35971
   teiginys: 'Lietuvos bažnytinė provincija buvo įkurta 1926 m. balandžio 4 d. popiežiaus Pijaus XI bule „Gens Lithuanorum“.'
   pagrindžia:
     - c-001

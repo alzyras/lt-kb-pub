@@ -25,7 +25,9 @@ Navickaitė-Kuncienė, O.
 
 ## Teiginiai
 
+<a id="claim-t-30746"></a>
 - t-001
+  global_id: t-30746
   teiginys: 'K. Navickas 1964 m. paskelbė darbą apie XIII–XIV a. Vilniaus gyventojų apavą.'
   pagrindžia:
     - c-001

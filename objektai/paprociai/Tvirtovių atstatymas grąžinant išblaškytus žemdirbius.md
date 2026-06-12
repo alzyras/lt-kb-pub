@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Tvirtovių atstatymas grąžinant išblaškytus žemdirbius
 
 ## Santrauka
 
-Kojelavičius teigia, kad labiausiai vis dėlto lietu vius kamavo tai, kad, sugriovus pilis, žemdirbiai vie nas po kito palikdavo kaimus, be to, priešas leisda vosi vis toliau į Lietuvos gilumą. Kojelavičius teigia, kad iš pradžių Ragainės komtūras išsklaidė dar bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė pradėtą pilį.
+Lietuviai siekė atstatyti tvirtoves, kad sutramdytų priešą ir susigrąžintų nuolatinės grėsmės išblaškytus žemdirbius. Ragainės komtūras išsklaidė Kauno tvirtovę atstatinėjusius darbininkus ir išardė pradėtą pilį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -36,20 +35,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185908"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad labiausiai vis dėlto lietu vius kamavo tai, kad, sugriovus pilis, žemdirbiai vie nas po kito palikdavo kaimus, be to, priešas leisda vosi vis toliau į Lietuvos gilumą.'
+  global_id: t-185908
+  teiginys: 'Lietuviai siekė atstatyti tvirtoves, kad sutramdytų priešą ir susigrąžintų nuolatinės grėsmės išblaškytus žemdirbius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185909"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad iš pradžių Ragainės komtūras išsklaidė dar bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė pradėtą pilį.'
+  global_id: t-185909
+  teiginys: 'Ragainės komtūras išsklaidė Kauno tvirtovę atstatinėjusius darbininkus ir išardė pradėtą pilį.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad labiausiai vis dėlto lietu vius kamavo tai, kad, sugriovus pilis, žemdirbiai vie nas po kito palikdavo kaimus, be to, priešas leisda vosi vis toliau į Lietuvos gilumą.'
+  santrauka: 'Lietuviai siekė atstatyti tvirtoves, kad sutramdytų priešą ir susigrąžintų nuolatinės grėsmės išblaškytus žemdirbius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vėliau su permaininga
@@ -73,7 +76,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad iš pradžių Ragainės komtūras išsklaidė dar bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė pradėtą pilį.'
+  santrauka: 'Ragainės komtūras išsklaidė Kauno tvirtovę atstatinėjusius darbininkus ir išardė pradėtą pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kita vertus, priešas irgi iš pas­
@@ -94,3 +97,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Lietuviai]]

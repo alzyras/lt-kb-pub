@@ -26,12 +26,16 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
 
 ## Teiginiai
 
+<a id="claim-t-36164"></a>
 - t-001
+  global_id: t-36164
   teiginys: '1420 m. pradžioje Breslave buvo sušauktas Vokietijos kunigaikščių ir kurfiurstų suvažiavimas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-36165"></a>
 - t-002
+  global_id: t-36165
   teiginys: '1420 m. Breslavo suvažiavime Zigmantas Liuksemburgietis patvirtino 1411 m. Torno sutartį.'
   pagrindžia:
     - c-001

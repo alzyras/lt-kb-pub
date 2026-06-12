@@ -19,7 +19,9 @@ Livonijos Ordinas puolė dar Vytautą, pavy­ dėdamas jam popiežiaus suteikto 
 
 ## Teiginiai
 
+<a id="claim-t-36853"></a>
 - t-001
+  global_id: t-36853
   teiginys: 'Livonijos Ordinas puolė Vytautą, pavydėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo kraštuose.'
   pagrindžia:
     - c-001

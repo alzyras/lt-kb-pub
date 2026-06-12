@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-80643"></a>
 - t-001
+  global_id: t-80643
   teiginys: '1945 m. gegužės 16 dienos mūšyje dalyvavo apie 90 partizanų NKVD pajėgos Partizanus kalniškės miške puolė 1-ojo Pabaltijo fronto NKvp kariuomenės 220-asis Kutuzovo ordino pulkas.'
   pagrindžia:
     - c-001

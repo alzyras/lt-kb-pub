@@ -22,17 +22,23 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 
 ## Teiginiai
 
+<a id="claim-t-170874"></a>
 - t-001
+  global_id: t-170874
   teiginys: 'Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-170876"></a>
 - t-002
+  global_id: t-170876
   teiginys: 'Vakarų Europos XVI a. religinį nepakantumą simbolizavo 1572 m. Baltramiejaus naktis Paryžiuje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183639"></a>
 - t-003
+  global_id: t-183639
   teiginys: 'Įvairiais duomenimis, 1945 m. Vakarų Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst.'
   pagrindžia:
     - c-003

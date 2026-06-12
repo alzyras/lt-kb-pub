@@ -47,12 +47,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87041"></a>
 - t-001
+  global_id: t-87041
   teiginys: 'Dabartinė Šv. Onos bažnyčia prie bernardinų buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87042"></a>
 - t-002
+  global_id: t-87042
   teiginys: 'Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos atminimui.'
   pagrindžia:
     - c-002

@@ -16,7 +16,9 @@ Dusburgietis teigia, kad sarkis, Sareka) Šaumburgas Šenenbergas, Šenburgas, �
 
 ## Teiginiai
 
+<a id="claim-t-91899"></a>
 - t-001
+  global_id: t-91899
   teiginys: 'Dusburgietis teigia, kad sarkis, Sareka) Šaumburgas Šenenbergas, Šenburgas, Šenbergas Šenenzė (Schonense, vėliau Schönsee, dab.'
   pagrindžia:
     - c-001

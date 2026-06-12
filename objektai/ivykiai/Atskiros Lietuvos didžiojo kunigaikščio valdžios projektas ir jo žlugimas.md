@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35820"></a>
 - t-001
+  global_id: t-35820
   teiginys: 'Po Vygunto mirties Vytautas gavo Vilnių ir įvedė nemažai radikalių pokyčių lietuvių-rusų žemių valdyme.'
   pagrindžia:
     - c-001

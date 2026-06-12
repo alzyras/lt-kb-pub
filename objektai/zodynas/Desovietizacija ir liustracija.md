@@ -16,7 +16,9 @@ Visuomenėje virė diskusijos dėl tų, kurie uoliai talkino naciams ir sovietam
 
 ## Teiginiai
 
+<a id="claim-t-21988"></a>
 - t-001
+  global_id: t-21988
   teiginys: 'Atkūrus nepriklausomybę desovietizacijos ir liustracijos klausimai Lietuvoje buvo sprendžiami lėtai.'
   pagrindžia:
     - c-001

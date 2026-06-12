@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-32046"></a>
 - t-001
+  global_id: t-32046
   teiginys: 'Žemaičių ribos Nevėžio aukštupyje buvo pratęstos Mūšos upe, Smardonės upeliu ir Apaščios ežeru ties dabartiniais Biržais.'
   pagrindžia:
     - c-001

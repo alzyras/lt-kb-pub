@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66449"></a>
 - t-001
+  global_id: t-66449
   teiginys: 'Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais sutapo Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos ūkį, pradžia.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66450"></a>
 - t-002
+  global_id: t-66450
   teiginys: 'Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.'
   pagrindžia:
     - c-001

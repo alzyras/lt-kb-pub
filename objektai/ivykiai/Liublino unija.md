@@ -43,32 +43,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-169833"></a>
 - t-001
+  global_id: t-169833
   teiginys: 'Chodkevičius Liublino seime 1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos prijungimo prie Lenkijos – idėją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169834"></a>
 - t-002
+  global_id: t-169834
   teiginys: 'Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino unijos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per ašaras, LDK atstovai priėmė, tačiau šio.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169835"></a>
 - t-003
+  global_id: t-169835
   teiginys: 'Liublino unijos nauda pasireiškė jau netrukus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-169836"></a>
 - t-004
+  global_id: t-169836
   teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-169838"></a>
 - t-005
+  global_id: t-169838
   teiginys: 'Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš Liublino.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169839"></a>
 - t-006
+  global_id: t-169839
   teiginys: 'Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos, kartu unijos.'
   pagrindžia:
     - c-004

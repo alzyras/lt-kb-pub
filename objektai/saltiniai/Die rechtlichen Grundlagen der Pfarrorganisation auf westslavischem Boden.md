@@ -31,7 +31,9 @@ Rechtsgeschich­ te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 4
 
 ## Teiginiai
 
+<a id="claim-t-31662"></a>
 - t-001
+  global_id: t-31662
   teiginys: 'H. F. Schmido „Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem Boden“ išleista Veimare 1938 m.'
   pagrindžia:
     - c-001

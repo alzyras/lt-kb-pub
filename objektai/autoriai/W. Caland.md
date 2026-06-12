@@ -24,7 +24,9 @@ Caland, W.
 
 ## Teiginiai
 
+<a id="claim-t-31058"></a>
 - t-001
+  global_id: t-31058
   teiginys: 'W. Caland parašė darbą „Die vorgeschichtlichen baltischen Totengebräuche“, paskelbtą ARW 1914 m.'
   pagrindžia:
     - c-001

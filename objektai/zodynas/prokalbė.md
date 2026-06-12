@@ -16,7 +16,9 @@ Todėl iš visų indoeuropiečių kalbų slavų kalbos yra artimiausios baltų k
 
 ## Teiginiai
 
+<a id="claim-t-28604"></a>
 - t-001
+  global_id: t-28604
   teiginys: 'Baltų ir slavų prokalbės išriedėjo iš dviejų artimų indoeuropiečių prokalbės tarmių.'
   pagrindžia:
     - c-001

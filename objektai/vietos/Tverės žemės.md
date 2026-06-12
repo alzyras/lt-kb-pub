@@ -16,7 +16,9 @@ Ilgai žygiavę miškais lietuviai pasiekė tankiai gyvenamas Tverės žemes.
 
 ## Teiginiai
 
+<a id="claim-t-42214"></a>
 - t-001
+  global_id: t-42214
   teiginys: 'Ilgai žygiavę miškais lietuviai pasiekė tankiai gyvenamas Tverės žemes.'
   pagrindžia:
     - c-001

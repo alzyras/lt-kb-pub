@@ -18,7 +18,9 @@ Vainą ir „vengrų“ pėstininkų rotmistrą Kurovičių.
 
 ## Teiginiai
 
+<a id="claim-t-39781"></a>
 - t-001
+  global_id: t-39781
   teiginys: 'Breslaujos seniūnas M. Vaina buvo nužudytas kartu su M. P. Sapiega ir rotmistru Kurovičiumi.'
   pagrindžia:
     - c-001

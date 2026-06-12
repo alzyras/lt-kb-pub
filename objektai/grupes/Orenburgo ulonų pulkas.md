@@ -16,7 +16,9 @@ Tuo pat metu pasigirdo ir sukilėlių (lenkų) 1-ojo ulonų pulko eskadronų vad
 
 ## Teiginiai
 
+<a id="claim-t-38991"></a>
 - t-001
+  global_id: t-38991
   teiginys: 'Sukilėlių 1-ojo ulonų pulko ataka perkirto ir išsklaidė Orenburgo ulonų pulką.'
   pagrindžia:
     - c-001

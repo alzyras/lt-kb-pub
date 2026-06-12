@@ -26,82 +26,114 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 
 ## Teiginiai
 
+<a id="claim-t-89155"></a>
 - t-001
+  global_id: t-89155
   teiginys: 'Dusburgietis teigia, kad apie karą su pagudėnais ir Elbingo pilies pastatymą Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra pagudėnus.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-89156"></a>
 - t-002
+  global_id: t-89156
   teiginys: 'Dusburgietis teigia, kad be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo taika.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-89157"></a>
 - t-003
+  global_id: t-89157
   teiginys: '1274 m. pagudėnai kartu su varmiais, notangais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-89158"></a>
 - t-004
+  global_id: t-89158
   teiginys: 'Dusburgietis teigia, kad apie vienos pilaitės užkariavimą Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją įsibrovė ir, pagavę bei išžudę visus žmones.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89159"></a>
 - t-005
+  global_id: t-89159
   teiginys: 'Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį 1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami nusileisti, paslėpė.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-89160"></a>
 - t-006
+  global_id: t-89160
   teiginys: 'Dusburgietis teigia, kad apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie Pagudės kilmingieji, tiesa, vos.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-89161"></a>
 - t-007
+  global_id: t-89161
   teiginys: 'Pagudėnai gyveno prūsų žemėje į šiaurės rytus nuo Pamedės, vakaruose siekusioje dabartinio Elbingo apylinkes, o rytuose Alnos upę.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-89162"></a>
 - t-008
+  global_id: t-89162
   teiginys: 'Prūsams vėl atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89163"></a>
 - t-009
+  global_id: t-89163
   teiginys: 'Dusburgietis teigia, kad tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau priėmė Kristaus tikėjimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89164"></a>
 - t-010
+  global_id: t-89164
   teiginys: 'Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai pradėjo įtikinėti krikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-89165"></a>
 - t-011
+  global_id: t-89165
   teiginys: 'Tų pačių metų rudenį broliai vėl įsiveržė į Pagudės žemę, ją nusiaubė ir daugelį pagudėnų paėmė į nelaisvę arba nukovė.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-89166"></a>
 - t-012
+  global_id: t-89166
   teiginys: 'Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-89168"></a>
 - t-013
+  global_id: t-89168
   teiginys: 'Dusburgietis teigia, kad tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus ir juos išsivarė į nelaisvę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89169"></a>
 - t-014
+  global_id: t-89169
   teiginys: 'Dusburgietis teigia, kad nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-89170"></a>
 - t-015
+  global_id: t-89170
   teiginys: 'Dusburgietis teigia, kad apie Veklico pilies ir vienos pilaitės sugriovimą Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę, antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė visus krikščionis, kuriuos ten.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-89171"></a>
 - t-016
+  global_id: t-89171
   teiginys: 'Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.'
   pagrindžia:
     - c-014

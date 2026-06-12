@@ -24,7 +24,9 @@ Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­ no žemes atvykdavo 
 
 ## Teiginiai
 
+<a id="claim-t-86825"></a>
 - t-001
+  global_id: t-86825
   teiginys: '1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis.'
   pagrindžia:
     - c-001

@@ -22,7 +22,9 @@ Ožasiai fo} Svyroneéliai 6 Šemetas oje, Kiauneliškio geležinkelio stoties i
 
 ## Teiginiai
 
+<a id="claim-t-41780"></a>
 - t-001
+  global_id: t-41780
   teiginys: '1951 m. kovo 19 d. MGB vidaus kariuomenės kariai puolė partizanų žemines Kiauneliškio geležinkelio stoties apylinkėse.'
   pagrindžia:
     - c-001

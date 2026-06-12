@@ -28,12 +28,16 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
 
 ## Teiginiai
 
+<a id="claim-t-32803"></a>
 - t-001
+  global_id: t-32803
   teiginys: 'Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-32804"></a>
 - t-002
+  global_id: t-32804
   teiginys: 'Poliublininiai laikai tapo laikotarpiu, kuriame istorikas ieškojo lietuvių ir nuo 1931 m. skelbė straipsnius periodikoje.'
   pagrindžia:
     - c-002

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Psiolas
 
 ## Santrauka
 
-Kojelavičius teigia, kad nesutikdami jokio pasiprieši nimo, nuniokojo tolesnes že mes ir be mūšio persikėlė per Psiolo ir Sulos upes.
+Pulkai, nesutikdami pasipriešinimo, nuniokojo tolesnes žemes ir be mūšio persikėlė per Psiolo ir Sulos upes.
 
 ## Teiginiai
 
+<a id="claim-t-185297"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad nesutikdami jokio pasiprieši nimo, nuniokojo tolesnes že mes ir be mūšio persikėlė per Psiolo ir Sulos upes.'
+  global_id: t-185297
+  teiginys: 'Pulkai, nesutikdami pasipriešinimo, nuniokojo tolesnes žemes ir be mūšio persikėlė per Psiolo ir Sulos upes.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad nesutikdami jokio pasiprieši nimo, nuniokojo tolesnes že mes ir be mūšio persikėlė per Psiolo ir Sulos upes.'
+  santrauka: 'Pulkai, nesutikdami pasipriešinimo, nuniokojo tolesnes žemes ir be mūšio persikėlė per Psiolo ir Sulos upes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Leidęsi iš čia Skitijos

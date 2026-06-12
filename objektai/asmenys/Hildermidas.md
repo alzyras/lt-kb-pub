@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Hildermidas
 
 ## Santrauka
 
-Kojelavičius teigia, kad toliau ■— grafas Hildermidas, škotas, sūnus tėvo, kuris, gelbėdamas ka ralių, paaukojo gyvybę.
+Grafas Hildermidas buvo škotas ir sūnus vyro, kuris paaukojo gyvybę gelbėdamas karalių.
 
 ## Teiginiai
 
+<a id="claim-t-186211"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad toliau ■— grafas Hildermidas, škotas, sūnus tėvo, kuris, gelbėdamas ka ralių, paaukojo gyvybę.'
+  global_id: t-186211
+  teiginys: 'Grafas Hildermidas buvo škotas ir sūnus vyro, kuris paaukojo gyvybę gelbėdamas karalių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad toliau ■— grafas Hildermidas, škotas, sūnus tėvo, kuris, gelbėdamas ka ralių, paaukojo gyvybę.'
+  santrauka: 'Grafas Hildermidas buvo škotas ir sūnus vyro, kuris paaukojo gyvybę gelbėdamas karalių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Greta jo įsitai­

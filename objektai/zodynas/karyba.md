@@ -18,17 +18,23 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
 
 ## Teiginiai
 
+<a id="claim-t-42465"></a>
 - t-001
+  global_id: t-42465
   teiginys: 'Karybos raida leidinyje aptariama kartu su to meto politiniais, kariniais įvykiais ir ginkluotės raida.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-42466"></a>
 - t-002
+  global_id: t-42466
   teiginys: 'Karybos raidos tendencijos leidinyje aptariamos kartu su ginkluotės raida ir regiono geopolitiniu kontekstu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183713"></a>
 - t-003
+  global_id: t-183713
   teiginys: 'Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius, karybos ir ginkluotės raidą.'
   pagrindžia:
     - c-002

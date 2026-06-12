@@ -19,7 +19,9 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 
 ## Teiginiai
 
+<a id="claim-t-30259"></a>
 - t-001
+  global_id: t-30259
   teiginys: 'Hanulis buvo Jogailai nusipelnęs svarbus patarėjas ir minėtas visose trijose Jogailos bei Skirgailos vardu sudarytose sutartyse.'
   pagrindžia:
     - c-001

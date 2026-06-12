@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62256"></a>
 - t-001
+  global_id: t-62256
   teiginys: 'Dusburgietis teigia, kad apie Elbingo pilies ir miesto puolimą Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei brolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto, ketindamas užimti.'
   pagrindžia:
     - c-001

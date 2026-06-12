@@ -18,12 +18,16 @@ Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironi
 
 ## Teiginiai
 
+<a id="claim-t-19315"></a>
 - t-001
+  global_id: t-19315
   teiginys: 'Po J. Stalino mirties atšilimo laikotarpiu buvo reabilituotas lietuvių literatūros klasikas Vincas Krėvė-Mickevičius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-19316"></a>
 - t-002
+  global_id: t-19316
   teiginys: 'Iš bibliotekų buvo pašalintos Vinco Krėvės-Mickevičiaus ir kitų žymių lietuvių rašytojų knygos.'
   pagrindžia:
     - c-001

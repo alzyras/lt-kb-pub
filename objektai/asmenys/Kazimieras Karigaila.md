@@ -40,52 +40,72 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 
 ## Teiginiai
 
+<a id="claim-t-54975"></a>
 - t-001
+  global_id: t-54975
   teiginys: 'Karigaila kovėsi su Vytautu, žemaičiais, Derbio kunigaikščiu ir anglų pėstininkais Vilniaus puolimo metu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54976"></a>
 - t-002
+  global_id: t-54976
   teiginys: 'Karigaila, vadinamas vyriausiuoju vadu, žuvo bėgdamas į Aukštutinę pilį.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-54977"></a>
 - t-003
+  global_id: t-54977
   teiginys: 'Viena versija Kazimierą Karigailą vadina tikru karaliaus broliu ir teigia, kad po nužudymo nuo kūno buvo atskirta jo galva.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54978"></a>
 - t-004
+  global_id: t-54978
   teiginys: 'Kita versija teigia, kad kunigaikštis Karigaila buvo kareivių neatpažintas nukautas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-173188"></a>
 - t-005
+  global_id: t-173188
   teiginys: 'Kazimieras Karigaila buvo nužudytas, o jo galva atskirta nuo kūno ir išniekinta karaliaus paniekinimui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-173189"></a>
 - t-006
+  global_id: t-173189
   teiginys: 'Kazimieras Karigaila žuvo mūšio lauke, bėgdamas gelbėtis į Aukštutinę pilį ir priešų neatpažintas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-173190"></a>
 - t-007
+  global_id: t-173190
   teiginys: '1396 m. Vytauto privilegija Kazimierui Karigailai, kaip mirusiam jo broliui, numatė kasdienes skaitytines mišias.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-173192"></a>
 - t-008
+  global_id: t-173192
   teiginys: 'Kazimieras Karigaila buvo palaidotas katedroje, šalia vėliau iškilmingai palaidoto mirusiojo.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-173193"></a>
 - t-009
+  global_id: t-173193
   teiginys: 'Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-173194"></a>
 - t-010
+  global_id: t-173194
   teiginys: 'Ordino pareigūno laiške teigta, kad Karigaila buvo nukautas kareivių neatpažintas, o apie jo žūtį sužinota penktą dieną.'
   pagrindžia:
     - c-003

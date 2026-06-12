@@ -17,7 +17,9 @@ III s k y r i u s Rusijos imperijos valdoma Lietuva (1795–1915) „Iš tikrųj
 
 ## Teiginiai
 
+<a id="claim-t-20842"></a>
 - t-001
+  global_id: t-20842
   teiginys: 'Lietuvių kalba apibūdinama kaip sulaukusi daugiau aukščiausių pagyrimų nei bet kuri kita pasaulio kalba.'
   pagrindžia:
     - c-001

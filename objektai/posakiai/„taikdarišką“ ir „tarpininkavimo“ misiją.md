@@ -24,12 +24,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-78929"></a>
 - t-001
+  global_id: t-78929
   teiginys: '1715 m., rusų paskatinta, susidarė prieš karalių Augustą 1 nukreipta Tarnogrodo konfederacija, ji tapo pretekstu į šalį įvesti Rusijos kariuomenę, kuri turėjo atlikti „taikdarišką“ ir „tarpininkavimo“ misiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78930"></a>
 - t-002
+  global_id: t-78930
   teiginys: 'Rusų paskatinta Tarnogrodo konfederacija tapo pretekstu į šalį įvesti Rusijos kariuomenę, turėjusią atlikti „taikdarišką“ ir „tarpininkavimo“ misiją.'
   pagrindžia:
     - c-001

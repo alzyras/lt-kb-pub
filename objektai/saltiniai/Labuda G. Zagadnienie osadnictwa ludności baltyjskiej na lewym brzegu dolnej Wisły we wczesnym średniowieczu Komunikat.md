@@ -23,7 +23,9 @@ Dusburgietis teigia, kad labuda G.
 
 ## Teiginiai
 
+<a id="claim-t-61125"></a>
 - t-001
+  global_id: t-61125
   teiginys: 'G. Labudos publikacija apie baltų gyventojų apgyvendinimą kairiajame žemutinės Vyslos krante išspausdinta 1979 m. „Konferencja pomorska“ leidinyje.'
   pagrindžia:
     - c-001

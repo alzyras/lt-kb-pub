@@ -26,17 +26,23 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 
 ## Teiginiai
 
+<a id="claim-t-66060"></a>
 - t-001
+  global_id: t-66060
   teiginys: 'Romanovų dinastijos pradžia 1613 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66061"></a>
 - t-002
+  global_id: t-66061
   teiginys: 'Romanovų vyriškoji linija išmirė jau XVIII amžiuje, bet carai Romanovais vadinosi iki pat galo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66062"></a>
 - t-003
+  global_id: t-66062
   teiginys: 'Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją, buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos partneriams realizuoti savą tautinį idealą.'
   pagrindžia:
     - c-002

@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-32380"></a>
 - t-001
+  global_id: t-32380
   teiginys: 'Žemaičiuose ribos nuo Vaišvilčių kaimo buvo pratęstos Mūšos upe, Smardonės upeliu ir Apaščios ežeru iki Pskovo valdų.'
   pagrindžia:
     - c-001

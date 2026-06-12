@@ -20,40 +20,47 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 
 ## Teiginiai
 
+<a id="claim-t-95214"></a>
 - t-001
-  teiginys: 'Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė vienkiemiais XIX amž.'
+  global_id: t-95214
+  teiginys: 'Užnemunėje, citatoje tapatinamoje su Suvalkų kraštu, kaimai XIX a. išsiskirstė vienkiemiais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-95215"></a>
 - t-002
+  global_id: t-95215
   teiginys: 'Suvalkų kraštas: lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose srityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž. vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-95216"></a>
 - t-003
+  global_id: t-95216
   teiginys: 'Dabartinis Suvalkų kraštas buvo kryžiuočių pasienio didžiulės girios dalis.'
-  pagrindžia:
-    - c-005
-
-- t-004
-  teiginys: 'Suvalkų kraštas: užnemunė Prūsų karalystėje. Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytprūsiais. Jos visos buvo padalintos į Plocko ir Balstogės departamentus. Lietuviškoji Užnemunė priklausė Balstogės departamentui.'
-  pagrindžia:
-    - c-006
-
-- t-005
-  teiginys: 'Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais (Wildnis), pro kuriuos į Prūsiją ėjo tik du keliai^2 ), o Lietuvai priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto dvarų juose buvo mažiau.'
-  pagrindžia:
-    - c-003
-
-- t-006
-  teiginys: 'Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti.'
   pagrindžia:
     - c-004
 
-- t-007
-  teiginys: 'Jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti.'
+<a id="claim-t-95217"></a>
+- t-004
+  global_id: t-95217
+  teiginys: 'Suvalkų kraštas: užnemunė Prūsų karalystėje. Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytprūsiais. Jos visos buvo padalintos į Plocko ir Balstogės departamentus. Lietuviškoji Užnemunė priklausė Balstogės departamentui.'
+  pagrindžia:
+    - c-005
+
+<a id="claim-t-95219"></a>
+- t-005
+  global_id: t-95219
+  teiginys: 'Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais (Wildnis), pro kuriuos į Prūsiją ėjo tik du keliai^2 ), o Lietuvai priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto dvarų juose buvo mažiau.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-95220"></a>
+- t-006
+  global_id: t-95220
+  teiginys: 'Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -76,24 +83,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     - t-002
 
 - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo tarpu ordino
-    vadovybę paėmęs komtūras Henrikas von Plauenas
-    suskubo surinkti jėgų, ir sąjungininkams nebepasisekė paimti
-    Marijenburgo; ypač nepasisekė dėl to, kad Vytautas, dėl gerai
-    nežinomų priežasčių, netrukus su savo kariuomene grįžo namo.
-    Jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
-    nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko
-    daugiau nesitikėjo gauti. Jam pasitraukus, turėjo atsitraukti ir
-    Jogaila.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lietuvos kunigaikščio būstinės. Suvalkų kraštas
@@ -107,7 +96,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   pagrindžia:
     - t-005
 
-- c-004
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Sąjungininkų kariuomenė tik
@@ -125,7 +114,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   pagrindžia:
     - t-006
 
-- c-005
+- c-004
   santrauka: 'Dabartinis Suvalkų kraštas buvo kryžiuočių pasienio didžiulės girios dalis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -143,7 +132,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   pagrindžia:
     - t-003
 
-- c-006
+- c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Užnemunė Prūsų karalystėje.** Prūsija per trečiąjį padalinimą

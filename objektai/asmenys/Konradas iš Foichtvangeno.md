@@ -28,22 +28,30 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 
 ## Teiginiai
 
+<a id="claim-t-59992"></a>
 - t-001
+  global_id: t-59992
   teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-59993"></a>
 - t-002
+  global_id: t-59993
   teiginys: 'Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno dievui atsidavusi moteris, brolio Konrado iš Foichtvangeno354, vėliau tapusio Teutonų ordino didžiuoju magistru, sesuo, kuriai pasirodęs viešpats apreiškė regėjime šį pralaimėjimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59994"></a>
 - t-003
+  global_id: t-59994
   teiginys: 'Konradas iš Foichtvangeno atsisakė pareigybės Prūsijoje ir pasiliko vienos Livonijos žemės magistru.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59995"></a>
 - t-004
+  global_id: t-59995
   teiginys: 'Dusburgietis teigia, kad tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko į Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras, ir, išvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir paguodė.'
   pagrindžia:
     - c-001

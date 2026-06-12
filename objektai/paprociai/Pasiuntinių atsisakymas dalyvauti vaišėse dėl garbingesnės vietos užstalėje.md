@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Pasiuntinių atsisakymas dalyvauti vaišėse dėl garbingesnės vietos užstalėje
 
 ## Santrauka
 
-Kojelavičius teigia, kad k r o k u v o je Leidęsi į Krokuvą, ten jie ir užbaigė savo pasiuntinybės reikalus, tačiau atsisakė dalyvauti karaliaus surengtose vaišėse, nenorėdami čia varžytis dėl garbingesnės vie tos užstalėje su popiežiaus, imperatoriaus bei vengrų karaliaus.
+Maskvos pasiuntiniai Krokuvoje atsisakė dalyvauti karaliaus vaišėse, nenorėdami varžytis dėl garbingesnės vietos užstalėje su kitais pasiuntiniais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185881"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad k r o k u v o je Leidęsi į Krokuvą, ten jie ir užbaigė savo pasiuntinybės reikalus, tačiau atsisakė dalyvauti karaliaus surengtose vaišėse, nenorėdami čia varžytis dėl garbingesnės vie tos užstalėje su popiežiaus, imperatoriaus bei vengrų karaliaus.'
+  global_id: t-185881
+  teiginys: 'Maskvos pasiuntiniai Krokuvoje atsisakė dalyvauti karaliaus vaišėse, nenorėdami varžytis dėl garbingesnės vietos užstalėje su kitais pasiuntiniais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad k r o k u v o je Leidęsi į Krokuvą, ten jie ir užbaigė savo pasiuntinybės reikalus, tačiau atsisakė dalyvauti karaliaus surengtose vaišėse, nenorėdami čia varžytis dėl garbingesnės vie tos užstalėje su popiežiaus, imperatoriaus bei vengrų karaliaus.'
+  santrauka: 'Maskvos pasiuntiniai Krokuvoje atsisakė dalyvauti karaliaus vaišėse, nenorėdami varžytis dėl garbingesnės vietos užstalėje su kitais pasiuntiniais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Netru­
@@ -61,3 +62,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Vengrai]]
+- [[objektai/grupes/Maskvos pasiuntiniai]]

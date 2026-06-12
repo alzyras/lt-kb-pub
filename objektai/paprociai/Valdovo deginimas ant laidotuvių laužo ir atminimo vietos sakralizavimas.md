@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Valdovo deginimas ant laidotuvių laužo ir atminimo vietos sakralizavimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad pagal genties papročius valdovą su degino ant laidotuvių laužo.
+Pagal genties papročius valdovas buvo sudegintas ant laidotuvių laužo, o jo pelenų vieta laikyta šventenybe.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185898"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pagal genties papročius valdovą su degino ant laidotuvių laužo.'
+  global_id: t-185898
+  teiginys: 'Pagal genties papročius valdovas buvo sudegintas ant laidotuvių laužo, o jo pelenų vieta laikyta šventenybe.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pagal genties papročius valdovą su degino ant laidotuvių laužo.'
+  santrauka: 'Pagal genties papročius valdovas buvo sudegintas ant laidotuvių laužo, o jo pelenų vieta laikyta šventenybe.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pagal genties papročius valdovą su­
@@ -55,3 +56,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Boleslovas]]
+- [[objektai/grupes/Lenkai]]

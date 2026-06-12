@@ -28,43 +28,59 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
 
 ## Teiginiai
 
+<a id="claim-t-40515"></a>
 - t-001
+  global_id: t-40515
   teiginys: 'Čekijos karaliui Vladislovui Jogailaičiui pavyko iškovoti Vengrijos sostą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40516"></a>
 - t-002
+  global_id: t-40516
   teiginys: 'Lenkijos karalius Vladislovas Jogailaitis suteikė Žygimantui Kęstutaičiui prašytą pagalbą prieš žygį į Trakus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40517"></a>
 - t-003
+  global_id: t-40517
   teiginys: '1435 m. gruodžio 31 d. sudaryta Bresto (Kujavy) taika tarp Lenkijos karaliaus Vladislovo Jogailaičio, Lietuvos didžiojo kunigaikščio Žygimanto Kęstutaičio ir Vokiečių-kryžiuočių ordino didžiojo magistro Rusdorfo, atstovaujančio Ordino žemėms Prūsijoje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184857"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad jonas nepritarė jų troškimui, nes gerai žinojo, kad seime buvo ginčų ir skirtingų nuomonių, mat dau gelis rėmė jo brolį Vladislovą.'
+  global_id: t-184857
+  teiginys: 'Vengrijos seime daugelis rėmė Jono brolį Vladislovą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184858"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad tačiau Vladislovas tuojau pat po pergalės per pasiuntinius pasiūlė broliui tartis dėl san tarvės sudarymo.'
+  global_id: t-184858
+  teiginys: 'Po pergalės Vladislovas per pasiuntinius pasiūlė broliui tartis dėl santarvės.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184859"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad galop visų, o ypač Vladislovo, Vengrijos karaliaus, pastangomis lenkai, vengrai, če kai, lietuviai ir valachai sudarė sutartis, kuriomis ne tik valdovai, bet ir visos jų karalystės bei žemės pa žadėjo viena kitą ginti, kai prasidės karas prieš turkus.'
+  global_id: t-184859
+  teiginys: 'Vladislovo pastangomis lenkai, vengrai, čekai, lietuviai ir valachai sudarė tarpusavio gynybos sutartis prieš karą su turkais.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-184860"></a>
 - t-008
-  teiginys: 'Kojelavičius teigia, kad valdovas, jau ir anksčiau karaliaus Vladislovo atkakliai raginamas nu sileisti, pranešė apie viską vienam didikui.'
+  global_id: t-184860
+  teiginys: 'Karalius Vladislovas atkakliai ragino valdovą nusileisti.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-184861"></a>
 - t-009
-  teiginys: 'Kojelavičius teigia, kad imperatorius, karalius Vladislovas bei jo duktė Ona at važiavo važiuoti, o Žygimantas ir Liudvikas raiti at jojo.'
+  global_id: t-184861
+  teiginys: 'Į valdovų susitikimą karalius Vladislovas ir jo duktė Ona atvažiavo važiuoti.'
   pagrindžia:
     - c-009
 
@@ -181,7 +197,7 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad jonas nepritarė jų troškimui, nes gerai žinojo, kad seime buvo ginčų ir skirtingų nuomonių, mat dau gelis rėmė jo brolį Vladislovą.'
+  santrauka: 'Vengrijos seime daugelis rėmė Jono brolį Vladislovą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     P a k v ie č ia m a s į V en -
@@ -209,7 +225,7 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad tačiau Vladislovas tuojau pat po pergalės per pasiuntinius pasiūlė broliui tartis dėl san tarvės sudarymo.'
+  santrauka: 'Po pergalės Vladislovas per pasiuntinius pasiūlė broliui tartis dėl santarvės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sumuštas vos ne vos paspruko iš
@@ -227,7 +243,7 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-006
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad galop visų, o ypač Vladislovo, Vengrijos karaliaus, pastangomis lenkai, vengrai, če kai, lietuviai ir valachai sudarė sutartis, kuriomis ne tik valdovai, bet ir visos jų karalystės bei žemės pa žadėjo viena kitą ginti, kai prasidės karas prieš turkus.'
+  santrauka: 'Vladislovo pastangomis lenkai, vengrai, čekai, lietuviai ir valachai sudarė tarpusavio gynybos sutartis prieš karą su turkais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to Lietuvos Didžiosios Kunigaikštystės
@@ -246,7 +262,7 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-007
 
 - c-008
-  santrauka: 'Kojelavičius teigia, kad valdovas, jau ir anksčiau karaliaus Vladislovo atkakliai raginamas nu sileisti, pranešė apie viską vienam didikui.'
+  santrauka: 'Karalius Vladislovas atkakliai ragino valdovą nusileisti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pasiuntęs per ištikimą savo giminaitį laišką ka­
@@ -267,7 +283,7 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-008
 
 - c-009
-  santrauka: 'Kojelavičius teigia, kad imperatorius, karalius Vladislovas bei jo duktė Ona at važiavo važiuoti, o Žygimantas ir Liudvikas raiti at jojo.'
+  santrauka: 'Į valdovų susitikimą karalius Vladislovas ir jo duktė Ona atvažiavo važiuoti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kiekvienas apsistojo
@@ -289,3 +305,21 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   statusas: verified
   pagrindžia:
     - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
+- [[objektai/asmenys/Liudvikas]]
+- [[objektai/grupes/Valachai]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Lenkai]]

@@ -21,42 +21,58 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 
 ## Teiginiai
 
+<a id="claim-t-113890"></a>
 - t-001
+  global_id: t-113890
   teiginys: 'Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, nurodė nedelsiant pradėti žygį jam užkirsti kelią.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-113891"></a>
 - t-002
+  global_id: t-113891
   teiginys: 'Šuiskis pajudėjo sausio 23 d. Apie tai Lietuvos didysis etmonas Mykolas Radvila Rudasis žvalgų buvo greitai informuotas, pats jis tuo metu buvo tik apie 100 km nuo Polocko, Lukomlyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-113892"></a>
 - t-003
+  global_id: t-113892
   teiginys: 'Mikalojus Radvila Rudasis buvo greitai informuotas apie P. Šuiskio žygį iš Polocko ir tuo metu buvo Lukomlyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-113893"></a>
 - t-004
+  global_id: t-113893
   teiginys: 'Mikalojus Radvila Rudasis užstojo Vilniaus pirklius ir gyventojus, prašydamas karaliaus atidėti muitus iki būsimo seimo.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-113894"></a>
 - t-005
+  global_id: t-113894
   teiginys: 'Apie Biržus gyvenantys evangelikai reformatai yra tiesioginiai kalvinistinės reformacijos, kuriai po Radvilos Juodojo mirties vadovavo jo pusbrolis Mikalojus Radvila Rudasis, palikuonys.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-113895"></a>
 - t-006
+  global_id: t-113895
   teiginys: 'Mikalojus Radvila Rudasis galėjo turėti tik nuo 4 iki 6 tūkstančių raitelių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-113896"></a>
 - t-007
+  global_id: t-113896
   teiginys: 'Mikalojus Radvila Rudasis buvo Dubingių ir Biržų kunigaikštis, Vilniaus vaivada, LDK vyriausiasis kancleris, Mozyriaus ir Lydos seniūnas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-113897"></a>
 - t-008
+  global_id: t-113897
   teiginys: 'Mikalojus Radvila Rudasis galėjo turėti nuo 4 iki 6 tūkstančių raitelių.'
   pagrindžia:
     - c-002

@@ -16,12 +16,16 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
 
 ## Teiginiai
 
+<a id="claim-t-23500"></a>
 - t-001
+  global_id: t-23500
   teiginys: 'Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23501"></a>
 - t-002
+  global_id: t-23501
   teiginys: 'Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos pripažinimą Brazilijoje iki 1967 m.'
   pagrindžia:
     - c-002

@@ -18,12 +18,16 @@ Todėl nei bajorų nei didžiojo kunigaikščio dvaruose (vadinamuosiuose domenu
 
 ## Teiginiai
 
+<a id="claim-t-02979"></a>
 - t-001
+  global_id: t-02979
   teiginys: 'Domenuose, tai yra bajorų ir didžiojo kunigaikščio dvaruose, valstiečiams dar nereikėjo daug dirbti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-02980"></a>
 - t-002
+  global_id: t-02980
   teiginys: 'Lietuvoje buvo daugybė didžiojo kunigaikščio dvarų, vadintų domenais, todėl Kazimieras iš jos gaudavo daug pajamų.'
   pagrindžia:
     - c-001

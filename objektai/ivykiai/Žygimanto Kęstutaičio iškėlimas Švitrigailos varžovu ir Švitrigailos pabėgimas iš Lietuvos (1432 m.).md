@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Žygimanto Kęstutaičio iškėlimas Švitrigailos varžovu ir Švitrigailos pabėgimas iš Lietuvos (1432 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad žygimantas, beveik be kovos laimėjęs karą, paėmė be kraujo praliejimo į savo rankas Vilnių, Tra kus, Gardiną bei visas kitas Lietuvos pilis ir, pasiun tęs Joną Nemiravičių, pareiškė karaliui pagarbą ir pranešė, kad Boleslovas išvytas iš Lietuvos.
+Švitrigaila paspruko į Smolenską, o Žygimantas Kęstutaitis be kraujo praliejimo perėmė Vilnių, Trakus, Gardiną ir kitas Lietuvos pilis.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185845"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad žygimantas, beveik be kovos laimėjęs karą, paėmė be kraujo praliejimo į savo rankas Vilnių, Tra kus, Gardiną bei visas kitas Lietuvos pilis ir, pasiun tęs Joną Nemiravičių, pareiškė karaliui pagarbą ir pranešė, kad Boleslovas išvytas iš Lietuvos.'
+  global_id: t-185845
+  teiginys: 'Švitrigaila paspruko į Smolenską, o Žygimantas Kęstutaitis be kraujo praliejimo perėmė Vilnių, Trakus, Gardiną ir kitas Lietuvos pilis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad žygimantas, beveik be kovos laimėjęs karą, paėmė be kraujo praliejimo į savo rankas Vilnių, Tra kus, Gardiną bei visas kitas Lietuvos pilis ir, pasiun tęs Joną Nemiravičių, pareiškė karaliui pagarbą ir pranešė, kad Boleslovas išvytas iš Lietuvos.'
+  santrauka: 'Švitrigaila paspruko į Smolenską, o Žygimantas Kęstutaitis be kraujo praliejimo perėmė Vilnių, Trakus, Gardiną ir kitas Lietuvos pilis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nu­
@@ -64,3 +65,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Boleslovas]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]

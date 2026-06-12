@@ -22,7 +22,9 @@ Klimo, LIETUVIŲ KALBOS SINTAKSĖ.
 
 ## Teiginiai
 
+<a id="claim-t-96070"></a>
 - t-001
+  global_id: t-96070
   teiginys: 'Klimo, LIETUVIŲ KALBOS SINTAKSĖ.'
   pagrindžia:
     - c-001

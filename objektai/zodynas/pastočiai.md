@@ -27,18 +27,24 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
 
 ## Teiginiai
 
+<a id="claim-t-72714"></a>
 - t-001
+  global_id: t-72714
   teiginys: 'Bajorai buvo atleisti nuo pastočių, pilių statymo ir remontavimo, didžiojo kunigaikščio pievų pjovimo bei sidabrinės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72715"></a>
 - t-002
+  global_id: t-72715
   teiginys: 'Atleidimas nuo pastočių ir kitų prievolių nepalengvino bajorų valstiečių būklės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72716"></a>
 - t-003
-  teiginys: 'Jau Zigmantas bajorų valstiečius buvo atleidęs (1434 m.) nuo mokesčių javais; dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remontavimo, nuo pareigos piauti didžiojo kunigaikščio dvarų pievas ir pagaliau nuo piniginio mokesčio.'
+  global_id: t-72716
+  teiginys: 'Bajorų valstiečiai buvo atleisti nuo pastočių, pilių statymo ir remontavimo, didžiojo kunigaikščio pievų pjovimo bei piniginio mokesčio.'
   pagrindžia:
     - c-001
 

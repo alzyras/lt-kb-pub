@@ -16,7 +16,9 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
 
 ## Teiginiai
 
+<a id="claim-t-01413"></a>
 - t-001
+  global_id: t-01413
   teiginys: 'Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.'
   pagrindžia:
     - c-001

@@ -19,12 +19,16 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
 
 ## Teiginiai
 
+<a id="claim-t-86482"></a>
 - t-001
+  global_id: t-86482
   teiginys: 'Po pirmųjų Magdeburgo teisių suteikimo nežinoma, kokių miesto valdymo pokyčių ar laisvių gyventojams buvo duota.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86483"></a>
 - t-002
+  global_id: t-86483
   teiginys: '78 Šio veikalo kitame tome įdėsime Lentelę, rodančią, kokiais laikais Lietuvos miestams buvo suteiktos Magdeburgo teisės.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Netrukus, tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­ dž
 
 ## Teiginiai
 
+<a id="claim-t-86606"></a>
 - t-001
+  global_id: t-86606
   teiginys: 'Vilniuje Vytautas iš Vilniaus vyskupo Andriaus Važilo gavo patepimą tapti Lietuvos didžiuoju kunigaikščiu.'
   pagrindžia:
     - c-001

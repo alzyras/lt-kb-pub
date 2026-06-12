@@ -26,7 +26,9 @@ Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis
 
 ## Teiginiai
 
+<a id="claim-t-60289"></a>
 - t-001
+  global_id: t-60289
   teiginys: 'Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo žmonių krito kovoje262.'
   pagrindžia:
     - c-001

@@ -19,22 +19,30 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
 
 ## Teiginiai
 
+<a id="claim-t-72757"></a>
 - t-001
+  global_id: t-72757
   teiginys: 'Lietuvos sritinės kunigaikštystės buvo laikomos ne kunigaikščio nuosava valstybe, o administracine apygarda.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72758"></a>
 - t-002
+  global_id: t-72758
   teiginys: 'Lietuvos sritinės kunigaikštystės buvo laikomos ne tiek jas gavusio kunigaikščio nuosava valstybe, kiek administracine apygarda.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72759"></a>
 - t-003
+  global_id: t-72759
   teiginys: 'Lietuvos sritinės kunigaikštystės buvo nepastovios: kunigaikščiai galėjo būti kilnojami, o jų sritys keičiamos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-72760"></a>
 - t-004
+  global_id: t-72760
   teiginys: 'Tik Lietuvos feodalizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis.'
   pagrindžia:
     - c-002

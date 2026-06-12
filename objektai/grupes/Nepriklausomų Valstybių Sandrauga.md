@@ -17,7 +17,9 @@ Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valst
 
 ## Teiginiai
 
+<a id="claim-t-19957"></a>
 - t-001
+  global_id: t-19957
   teiginys: 'Iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valstybių Sandraugą, pirmiausia Rusiją.'
   pagrindžia:
     - c-001

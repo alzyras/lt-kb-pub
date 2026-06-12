@@ -19,7 +19,9 @@ Wierzbowski), ar Didįjį Reformų (Ketverių metų) seimą (W.
 
 ## Teiginiai
 
+<a id="claim-t-31014"></a>
 - t-001
+  global_id: t-31014
   teiginys: 'T. Wierzbowskis tyrinėjo Edukacinę Komisiją bendruose Respublikos istorijos rėmuose.'
   pagrindžia:
     - c-001

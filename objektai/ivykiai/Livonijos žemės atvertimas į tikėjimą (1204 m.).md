@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62381"></a>
 - t-001
+  global_id: t-62381
   teiginys: 'Dusburgietis teigia, kad apie Livonijos žemės atvertimą į tikėjimą 1204 viešpaties metais Livonija, Rygos provincijos žemė, buvo atversta popiežiaus Inocento rūpesčiu į Kristaus tikėjimą (Ptol.'
   pagrindžia:
     - c-001

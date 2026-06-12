@@ -23,7 +23,9 @@ Ivinskis : Senovės lietuvių religijos bibliografija, Kaunas 1938 (atsp. iš So
 
 ## Teiginiai
 
+<a id="claim-t-31918"></a>
 - t-001
+  global_id: t-31918
   teiginys: 'Z. Ivinskio „Senovės lietuvių religijos bibliografija“ išleista Kaune 1938 m. kaip atspaudas iš „Soter“ 1935–1937 m.'
   pagrindžia:
     - c-001

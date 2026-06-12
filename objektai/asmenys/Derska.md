@@ -11,7 +11,6 @@ tags:
   - pilis
   - valstybė
 ---
-
 # Derska
 
 ## Santrauka
@@ -20,18 +19,24 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
 
 ## Teiginiai
 
+<a id="claim-t-60100"></a>
 - t-001
+  global_id: t-60100
   teiginys: 'Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai taip įsiteikė broliams, kad šie jiems sugrąžino paimtas į nelaisvę jų žmonas ir vaikus; šitai nepatiko nei.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60101"></a>
 - t-002
+  global_id: t-60101
   teiginys: 'Dusburgietis teigia, kad derska, įsiteikę broliams, nuskubėjo pasitikti lietuvių kariuomenės ir ten, papasakoję savo tėvynainiams [bartams], kas dėjosi Gardino pilyje bei jo valsčiuje, be to, kaip jie pelnė brolių palankumą, išžudė lietuvius, o visą grobį išsigabeno į Pagudę, kur ir.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184690"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad tą pralaimėjimą jie pa tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos, kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje, vildamiesi, jog už naują išdavystę kryžiuočiai jiems atleis jų ankstesnį nusikaltimą.'
+  global_id: t-184690
+  teiginys: 'Prūsų didikas Derska, pabėgęs iš Prūsijos, gyveno Lietuvoje ir tikėjosi kryžiuočių atleidimo už naują išdavystę.'
   pagrindžia:
     - c-003
 
@@ -77,7 +82,7 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad tą pralaimėjimą jie pa tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos, kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje, vildamiesi, jog už naują išdavystę kryžiuočiai jiems atleis jų ankstesnį nusikaltimą.'
+  santrauka: 'Prūsų didikas Derska, pabėgęs iš Prūsijos, gyveno Lietuvoje ir tikėjosi kryžiuočių atleidimo už naują išdavystę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu keletas kitų lietuvių būrių
@@ -95,3 +100,12 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Bartai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Numa]]
+- [[objektai/asmenys/Ditrichas (Sembos fogtas)]]

@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75340"></a>
 - t-001
+  global_id: t-75340
   teiginys: '1939 m. pasaulinei parodai Niujorke svarbiausi Lietuvos istorijos įvykiai buvo parodyti monumentaliose dailininkų drobėse.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75341"></a>
 - t-002
+  global_id: t-75341
   teiginys: '1939 m. pasaulinei parodai Niujorke parengtame Lietuvos skyriuje svarbiausi Lietuvos istorijos įvykiai buvo parodyti monumentaliose žymių dailininkų drobėse.'
   pagrindžia:
     - c-001

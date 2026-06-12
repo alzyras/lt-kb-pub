@@ -18,12 +18,16 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
 
 ## Teiginiai
 
+<a id="claim-t-78925"></a>
 - t-001
+  global_id: t-78925
   teiginys: 'Bychoveco kronikoje rašyta, kad LDK daliniai taip suspaudė totorius, jog šie negalėjo „nei akių, nei rankos pakelti prieš lietuvių kariuomenę“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78926"></a>
 - t-002
+  global_id: t-78926
   teiginys: 'Gavusi erdvės įsibėgėjimui, dar kartą smogė dešinioji lietuvių kolona.'
   pagrindžia:
     - c-002

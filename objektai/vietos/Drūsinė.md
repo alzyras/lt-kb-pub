@@ -19,12 +19,16 @@ Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vid
 
 ## Teiginiai
 
+<a id="claim-t-58542"></a>
 - t-001
+  global_id: t-58542
   teiginys: 'Drūsinė XIII a. vidurio dokumentuose minima kaip Drusnie arba Drusa, o apie 890 m. Vulfstanas vietovardį užrašė kaip Truso.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58543"></a>
 - t-002
+  global_id: t-58543
   teiginys: 'Dusburgietis teigia, kad tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.'
   pagrindžia:
     - c-002

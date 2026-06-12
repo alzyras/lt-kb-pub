@@ -25,27 +25,37 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
 
 ## Teiginiai
 
+<a id="claim-t-50694"></a>
 - t-001
+  global_id: t-50694
   teiginys: 'Lietuvių bajorų aktas leido jiems spausti Vytautą, jei jis nesilaikytų unijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-50695"></a>
 - t-002
+  global_id: t-50695
   teiginys: 'Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-50696"></a>
 - t-003
+  global_id: t-50696
   teiginys: 'Vytauto laikais lietuvių bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų bei luominės savivokos bruožų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-50697"></a>
 - t-004
+  global_id: t-50697
   teiginys: 'Pirmą kartą pabėgęs pas Ordiną Vytautas sulaukė nemažai bajorų iš Lietuvos ir Žemaičių paramos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-50698"></a>
 - t-005
+  global_id: t-50698
   teiginys: 'Lietuvių bajorija valstybės reikaluose gavo balsą, anksčiau priklausiusį valdovui.'
   pagrindžia:
     - c-002

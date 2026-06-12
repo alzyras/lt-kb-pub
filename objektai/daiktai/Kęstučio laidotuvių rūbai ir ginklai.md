@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87112"></a>
 - t-001
+  global_id: t-87112
   teiginys: 'Per Kęstučio laidotuves Vilniuje kartu su jo palaikais buvo sudeginti rūbai, ginklai, žirgai, medžiokliniai šunys ir paukščiai.'
   pagrindžia:
     - c-001

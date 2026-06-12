@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-32024"></a>
 - t-001
+  global_id: t-32024
   teiginys: 'P. Šležo redaguotas leidinys „Vytautas Didysis“ išleistas Kaune 1930 m.'
   pagrindžia:
     - c-001

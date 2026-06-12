@@ -17,7 +17,9 @@ Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv.
 
 ## Teiginiai
 
+<a id="claim-t-99916"></a>
 - t-001
+  global_id: t-99916
   teiginys: 'Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv.'
   pagrindžia:
     - c-001

@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jogailos paleidimas į Krėvą ir jo kontrpuolimas užimant Vilnių bei Trakus
 
 ## Santrauka
 
-Kojelavičius teigia, kad kad, jam išvykus, nekiltų kokių sąmyšių, jis įsakė Jogailai kuo skubiausiai sutelkti Vitebsko karius ir nedelsiant iš žygiuoti į stovyklą, manydamas, jog šis, pagalbos tei kimo dingstimi išviliotas iš Lietuvos, nesusigalvos kelti P a sin a u d o jęs karu p.
+Jogaila, sutelkęs kariuomenę, netikėtai pasuko į Vilnių, užėmė pilis ir po to vedė kariuomenę į Trakus prieš Vytautą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185706"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kad, jam išvykus, nekiltų kokių sąmyšių, jis įsakė Jogailai kuo skubiausiai sutelkti Vitebsko karius ir nedelsiant iš žygiuoti į stovyklą, manydamas, jog šis, pagalbos tei kimo dingstimi išviliotas iš Lietuvos, nesusigalvos kelti P a sin a u d o jęs karu p.'
+  global_id: t-185706
+  teiginys: 'Jogaila, sutelkęs kariuomenę, netikėtai pasuko į Vilnių, užėmė pilis ir po to vedė kariuomenę į Trakus prieš Vytautą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kad, jam išvykus, nekiltų kokių sąmyšių, jis įsakė Jogailai kuo skubiausiai sutelkti Vitebsko karius ir nedelsiant iš žygiuoti į stovyklą, manydamas, jog šis, pagalbos tei kimo dingstimi išviliotas iš Lietuvos, nesusigalvos kelti P a sin a u d o jęs karu p.'
+  santrauka: 'Jogaila, sutelkęs kariuomenę, netikėtai pasuko į Vilnių, užėmė pilis ir po to vedė kariuomenę į Trakus prieš Vytautą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kad, jam
@@ -70,3 +71,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Hanulas]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/zodynas/žygūnai]]

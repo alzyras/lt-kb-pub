@@ -25,7 +25,9 @@ Tačiau šis Statutas tarnavo išim­ tinai tik šlėktų luomui, nes miestui ku
 
 ## Teiginiai
 
+<a id="claim-t-86777"></a>
 - t-001
+  global_id: t-86777
   teiginys: 'Pirmasis Lietuvos Statutas tarnavo išimtinai šlėktų luomui, nes miestui buvo garantuojamos Magdeburgo teisės.'
   pagrindžia:
     - c-001

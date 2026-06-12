@@ -26,7 +26,9 @@ Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zig
 
 ## Teiginiai
 
+<a id="claim-t-87916"></a>
 - t-001
+  global_id: t-87916
   teiginys: 'Limantas 1388 m. Lucke dalyvavo kaip Lietuvos kareivis arba bajoras tarp patikimų liudytojų.'
   pagrindžia:
     - c-001

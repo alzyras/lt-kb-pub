@@ -21,105 +21,130 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Kazimieras Jogailaitis
 
 ## Santrauka
 
 Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.). Kazimiero karaliavimas Lenkijoje ir jo santykiai su.
 
-## Ryšiai
-
-### Teminiai klasteriai
-- valdovas
-
-### Susiję objektai
-- [[objektai/zodynas/pereinamasis laikotarpis]]
-
 ## Teiginiai
 
+<a id="claim-t-82504"></a>
 - t-001
+  global_id: t-82504
   teiginys: 'Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus miestiečius nuo muito visoje Lietuvoje.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-82505"></a>
 - t-002
+  global_id: t-82505
   teiginys: 'Kazimiero karaliavimas Lenkijoje ir jo santykiai su.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-82506"></a>
 - t-003
+  global_id: t-82506
   teiginys: 'Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-82507"></a>
 - t-004
-  teiginys: 'Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.'
+  global_id: t-82507
+  teiginys: 'A. Šapokos redaguotoje „Lietuvos istorijoje“ Kazimiero Jogailaičio laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-82508"></a>
 - t-005
-  teiginys: 'Palengva kilo nepasitenkinimas ordino valdžia net pačioje jo valstybėje, ir 1454 m. sukilę miestai, bajorija ir vyskupai pasidavė Lenkų karaliui Kazimierui.'
+  global_id: t-82508
+  teiginys: '1454 m. prieš Ordino valdžią sukilę miestai, bajorija ir vyskupai pasidavė Lenkijos karaliui Kazimierui Jogailaičiui.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-82509"></a>
 - t-006
+  global_id: t-82509
   teiginys: 'Kazimieras Jogailaitis mirė 1492 metų birželio 7 dieną, susirgęs kelyje iš Vilniaus į Trakus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82511"></a>
 - t-007
+  global_id: t-82511
   teiginys: 'Kazimieras Jogailaitis 1441 metais Brastoje išleista privilegija atnaujino Vilniui Magdeburgo teises.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82512"></a>
 - t-008
+  global_id: t-82512
   teiginys: 'Kazimieras Jogailaitis turėjo 6 sūnus ir 5 dukteris.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-82513"></a>
 - t-009
+  global_id: t-82513
   teiginys: 'Nuo Kazimiero Jogailaičio Lietuvos valdovais buvo renkami Jogailos palikuonys, todėl jo šeima jautėsi turinti sosto paveldėjimo teisių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-82514"></a>
 - t-010
-  teiginys: 'Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.).'
+  global_id: t-82514
+  teiginys: 'Kazimieras Jogailaitis 1440 m. buvo išrinktas didžiuoju Lietuvos kunigaikščiu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-82515"></a>
 - t-011
-  teiginys: 'Kazimieras tą pažadėjo savo privilegijoje ir priesaikoje.'
+  global_id: t-82515
+  teiginys: 'Kazimieras Jogailaitis privilegijoje ir priesaikoje pažadėjo, kad Podolė ir Voluinė bus pripažintos Lietuvai.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184749"></a>
 - t-012
-  teiginys: 'Kojelavičius teigia, kad patekęs į tokią ne aiškią padėtį, jis, be galo išsi gandęs ir nė nemėginęs bėgti, nes šitaip dar labiau bū tų pabloginęs savo padėtį, nušoko nuo žirgo ir, puolęs Kazimierui po kojų, jį pasveikino kaip Lietuvos didįjį kunigaikštį bei nuolankiai paprašė.'
+  global_id: t-184749
+  teiginys: 'Kazimieras Jogailaitis priėmė po kojų puolusį prašytoją, pažadėjo jam malonę ir leido laisvai toliau žygiuoti.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-184750"></a>
 - t-013
-  teiginys: 'Kojelavičius teigia, kad štai todėl jie sumanė pasinaudoti lenkų lengvapėdišku mu, nors pastarieji tikėjosi iš jų visai ko kito: lietuvių N o rs len k a i p riešin a si, p a k e lia m a s V iln iu je L ietu vo s d id žiu o ju k u n igaikščiu luomai nulydėjo Kazimierą į šv.'
+  global_id: t-184750
+  teiginys: 'Vilniaus šv. Stanislovo katedroje maršalas paskelbė Kazimierą Jogailaitį Lietuvos didžiuoju kunigaikščiu.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-184751"></a>
 - t-014
-  teiginys: 'Kojelavičius teigia, kad kazimieras Jogailaitis paliko čia vietininku Andrių Sakavičių.'
+  global_id: t-184751
+  teiginys: 'Kazimieras Jogailaitis, užėmęs Smolensko pilį, paliko joje vietininku Andrių Sakavičių.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-184752"></a>
 - t-015
-  teiginys: 'Kojelavičius teigia, kad štai todėl Kazimieras, dar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė į Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį karą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų žemių.'
+  global_id: t-184752
+  teiginys: 'Kazimieras Jogailaitis skubiai patraukė į Severską, atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-184753"></a>
 - t-016
-  teiginys: 'Kojelavičius teigia, kad lietuviams tikrai buvo pavo jinga maskvėnų sėkmė, toks smarkus jų augimas kai mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi seniai mėgdamas ramybę, po senovei vengė karo.'
+  global_id: t-184753
+  teiginys: 'Karalius Kazimieras Jogailaitis, mėgdamas ramybę, vengė karo su maskvėnais ir teisinosi paliaubomis su Vasiljevičiumi.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-184754"></a>
 - t-017
-  teiginys: 'Kojelavičius teigia, kad kazimieras Jogailaitis ryžtingiau nei bet kada anksčiau pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai pavaduoti karalių karo stovykloje.'
+  global_id: t-184754
+  teiginys: 'Kazimieras Jogailaitis įsitraukė į karą dėl Podolės ir nurodė sūnui Jonui Olbrachtui pavaduoti karalių karo stovykloje.'
   pagrindžia:
     - c-017
 
@@ -179,6 +204,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-006
 
 - c-003
+  santrauka: 'Kazimieras Jogailaitis 1440 m. buvo išrinktas didžiuoju Lietuvos kunigaikščiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jogaila 174
@@ -212,6 +238,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-009
 
 - c-005
+  santrauka: 'Kazimieras Jogailaitis privilegijoje ir priesaikoje pažadėjo, kad Podolė ir Voluinė bus pripažintos Lietuvai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Išleisdami Kazimierą į Lenkiją, lietuviai buvo gavę lenkų
@@ -256,6 +283,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-008
 
 - c-008
+  santrauka: 'A. Šapokos redaguotoje „Lietuvos istorijoje“ Kazimiero Jogailaičio laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bažnyčios suvažiavimas Bazely ir bažnytinės unijos
@@ -307,6 +335,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-003
 
 - c-010
+  santrauka: '1454 m. prieš Ordino valdžią sukilę miestai, bajorija ir vyskupai pasidavė Lenkijos karaliui Kazimierui Jogailaičiui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Ordino galas.** Po Tanenbergo mūšio ordinas pradėjo nykti.
@@ -334,7 +363,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-002
 
 - c-012
-  santrauka: 'Kojelavičius teigia, kad patekęs į tokią ne aiškią padėtį, jis, be galo išsi gandęs ir nė nemėginęs bėgti, nes šitaip dar labiau bū tų pabloginęs savo padėtį, nušoko nuo žirgo ir, puolęs Kazimierui po kojų, jį pasveikino kaip Lietuvos didįjį kunigaikštį bei nuolankiai paprašė.'
+  santrauka: 'Kazimieras Jogailaitis priėmė po kojų puolusį prašytoją, pažadėjo jam malonę ir leido laisvai toliau žygiuoti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Patekęs į tokią ne­
@@ -366,7 +395,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-012
 
 - c-013
-  santrauka: 'Kojelavičius teigia, kad štai todėl jie sumanė pasinaudoti lenkų lengvapėdišku mu, nors pastarieji tikėjosi iš jų visai ko kito: lietuvių N o rs len k a i p riešin a si, p a k e lia m a s V iln iu je L ietu vo s d id žiu o ju k u n igaikščiu luomai nulydėjo Kazimierą į šv.'
+  santrauka: 'Vilniaus šv. Stanislovo katedroje maršalas paskelbė Kazimierą Jogailaitį Lietuvos didžiuoju kunigaikščiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lenkams prieš­
@@ -393,7 +422,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-013
 
 - c-014
-  santrauka: 'Kojelavičius teigia, kad kazimieras Jogailaitis paliko čia vietininku Andrių Sakavičių.'
+  santrauka: 'Kazimieras Jogailaitis, užėmęs Smolensko pilį, paliko joje vietininku Andrių Sakavičių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nepakęsda­
@@ -412,7 +441,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-014
 
 - c-015
-  santrauka: 'Kojelavičius teigia, kad štai todėl Kazimieras, dar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė į Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį karą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų žemių.'
+  santrauka: 'Kazimieras Jogailaitis skubiai patraukė į Severską, atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­
@@ -447,7 +476,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-015
 
 - c-016
-  santrauka: 'Kojelavičius teigia, kad lietuviams tikrai buvo pavo jinga maskvėnų sėkmė, toks smarkus jų augimas kai mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi seniai mėgdamas ramybę, po senovei vengė karo.'
+  santrauka: 'Karalius Kazimieras Jogailaitis, mėgdamas ramybę, vengė karo su maskvėnais ir teisinosi paliaubomis su Vasiljevičiumi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tverė turėjo labai galingas karo
@@ -466,7 +495,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - t-016
 
 - c-017
-  santrauka: 'Kojelavičius teigia, kad kazimieras Jogailaitis ryžtingiau nei bet kada anksčiau pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai pavaduoti karalių karo stovykloje.'
+  santrauka: 'Kazimieras Jogailaitis įsitraukė į karą dėl Podolės ir nurodė sūnui Jonui Olbrachtui pavaduoti karalių karo stovykloje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai
@@ -498,3 +527,34 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   statusas: verified
   pagrindžia:
     - t-017
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/pereinamasis laikotarpis]]
+- [[objektai/asmenys/Elžbieta]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
+- [[objektai/grupes/Vilniaus prastuomenė]]
+- [[objektai/zodynas/globėjas]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/ponų įsigalėjimo laikotarpis]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija|Žemaičių kunigaikštystės privilegija (privilegija)]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
+- [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/ivykiai/Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.)]]
+- [[objektai/ivykiai/Skitų įsiveržimas į Lenkiją ir Kazimiero įsitraukimas į karą dėl Podolės (1488 m.)]]
+- [[objektai/posakiai/Ugnimi ir kalaviju]]
+- [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
+- [[objektai/zodynas/prekymečiai ir turgūs]]

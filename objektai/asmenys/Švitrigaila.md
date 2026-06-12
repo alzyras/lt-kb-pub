@@ -29,267 +29,341 @@ periodo_grupes:
 
 Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausias Jogailos brolis ir Julijonos sūnus, įsišeimininkavęs Vitebske, vėliau grįžęs pas Vytautą ir vėl įsivėlęs į sąmokslus su ordinu. Jis siejamas su Boleslovo krikšto vardu, Briansko bei Severijos valdymu ir įkalinimu Kremenetse. Papildomai akcentuojamas jo maištas Vitebske, bėgimai į Vengriją, Maskvą ir pas Ordiną, pretenzijos į Lietuvą po Vorsklos ir Podolijos perdavimas.
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/ivykiai/1432 m. perversmas ir Zigmanto Kęstutaičio iškėlimas]]
-- [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
-- [[objektai/grupes/Gediminaičių šeima]]
-- [[objektai/ivykiai/Herasimo sąmokslas ir sudeginimas ant laužo]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
-- [[objektai/grupes/Jogailos palikuonys]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
-- [[objektai/asmenys/Sofija Vytautaitė]]
-- [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
-- [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
-- [[objektai/asmenys/Vyguntas]]
-- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
-- [[objektai/grupes/Čekijos husitai]]
-- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]
-- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]
-- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
-- [[objektai/ivykiai/Švitrigailos paskelbimas didžiuoju Lietuvos kunigaikščiu]]
-
 ## Teiginiai
 
+<a id="claim-t-179687"></a>
 - t-001
+  global_id: t-179687
   teiginys: 'Švitrigaila kartu su Jogaila, Vytautu, Karigaila, Vygandu ir lietuvių didikais priėmė katalikų tikėjimą.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-179688"></a>
 - t-002
+  global_id: t-179688
   teiginys: 'Po Vorsklos pralaimėjimo Švitrigaila pareiškė pretenzijas į Lietuvą, o ramybės dėlei jam buvo atiduota Podolija ir kiti Rusios plotai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-179690"></a>
 - t-003
+  global_id: t-179690
   teiginys: 'Švitrigaila vėl pabėgo iš Lietuvos: šį kartą į Maskvą, pas totorius ir galiausiai pas Ordiną.'
   pagrindžia:
     - c-032
 
+<a id="claim-t-179692"></a>
 - t-004
+  global_id: t-179692
   teiginys: 'Švitrigaila, nieko nelaimėjęs prie Vilniaus, prikalbino Livonijos ordino riterius drauge pulti Vitebską.'
   pagrindžia:
     - c-036
 
+<a id="claim-t-179693"></a>
 - t-005
+  global_id: t-179693
   teiginys: 'Pajutęs Vytauto susilpnėjimą, Švitrigaila pareiškė pretenzijas į Lietuvą.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-179694"></a>
 - t-006
+  global_id: t-179694
   teiginys: 'Švitrigaila, nieko nepešęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską.'
   pagrindžia:
     - c-036
 
+<a id="claim-t-179695"></a>
 - t-007
+  global_id: t-179695
   teiginys: '1402 m. pradžioje Ordinas Marienburge priglaudė iš Podolės pabėgusį Vytauto priešą Švitrigailą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-179696"></a>
 - t-008
+  global_id: t-179696
   teiginys: 'Didysis magistras apstatė Švitrigailą savo parankiniais, siekdamas silpninti Lietuvos ir Lenkijos vienybę.'
   pagrindžia:
     - c-021
 
+<a id="claim-t-179697"></a>
 - t-009
+  global_id: t-179697
   teiginys: 'Švitrigaila su didžiuoju magistru turėjo nutraukti Vilniaus apgultį, kai vienuolis išdavė jų sumanymą pilies įgulai.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-179698"></a>
 - t-010
+  global_id: t-179698
   teiginys: 'Petras pranešė, kad Švitrigaila išvaduotas iš nelaisvės ir yra laisvėje.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-179699"></a>
 - t-011
+  global_id: t-179699
   teiginys: 'Švitrigaila sukilo, užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską.'
   pagrindžia:
     - c-028
 
+<a id="claim-t-179700"></a>
 - t-012
+  global_id: t-179700
   teiginys: '1382 m. Dubysos sutarčių aktams pritarė Jogailos motina Julijona ir broliai, tarp jų Švitrigaila.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-179701"></a>
 - t-013
+  global_id: t-179701
   teiginys: 'Per Švitrigailos sąjungas prekyba išsiplėtė iki atokiausių Vokietijos žemių.'
   pagrindžia:
     - c-022
 
+<a id="claim-t-179702"></a>
 - t-014
+  global_id: t-179702
   teiginys: 'Švitrigaila su sūnėnu Maskvos kunigaikščiu Jurgiu išvengė sutriuškinimo po nesėkmės ties Ukmerge.'
   pagrindžia:
     - c-024
 
+<a id="claim-t-179703"></a>
 - t-015
+  global_id: t-179703
   teiginys: 'Švitrigaila kartu su Jogaila, Vytautu, Jogailos broliais ir daugeliu lietuvių didikų priėmė katalikų tikėjimą Krokuvoje.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-179704"></a>
 - t-016
+  global_id: t-179704
   teiginys: '1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje.'
   pagrindžia:
     - c-023
 
+<a id="claim-t-179705"></a>
 - t-017
+  global_id: t-179705
   teiginys: 'Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę.'
   pagrindžia:
     - c-030
 
+<a id="claim-t-179706"></a>
 - t-018
+  global_id: t-179706
   teiginys: 'Dinaburgo komtūras pranešė Livonijos magistrui, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-179707"></a>
 - t-019
+  global_id: t-179707
   teiginys: 'Po sėkmingo žygio Švitrigaila sudarė ilgalaikes paliaubas su karaliumi.'
   pagrindžia:
     - c-020
 
+<a id="claim-t-179708"></a>
 - t-020
+  global_id: t-179708
   teiginys: 'Švitrigailai buvo pavesta valdyti Podoliją, o šaltinyje jis vadinamas pavojingiausiu Vytauto priešininku.'
   pagrindžia:
     - c-031
 
+<a id="claim-t-179709"></a>
 - t-021
+  global_id: t-179709
   teiginys: 'Švitrigaila ir Žygimantas buvo Vytauto politikos tęsėjai.'
   pagrindžia:
     - c-035
 
+<a id="claim-t-179710"></a>
 - t-022
+  global_id: t-179710
   teiginys: 'Švitrigaila buvo tarp Jogailos brolių, pritarusių jo sutarčių su Ordinais įsipareigojimams.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-179712"></a>
 - t-023
+  global_id: t-179712
   teiginys: 'Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-179713"></a>
 - t-024
+  global_id: t-179713
   teiginys: 'Po dvylikos metų paliaubų tarp karaliaus ir didžiojo magistro Švitrigailos jėgos Lietuvoje apsilpo.'
   pagrindžia:
     - c-034
 
+<a id="claim-t-179715"></a>
 - t-026
+  global_id: t-179715
   teiginys: '1395 m. Švitrigaila su kryžiuočių pulku ir magistru Konradu Jungingenu įsibrovė į Lietuvą ir nusiaubė vietoves prie Gardino.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-179716"></a>
 - t-027
+  global_id: t-179716
   teiginys: 'Švitrigaila buvo priverstas nusilenkti Vytautui, po to pasiųstas Jogailai į Krokuvą, bet netrukus pabėgo į Vengriją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-179717"></a>
 - t-028
+  global_id: t-179717
   teiginys: 'Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu išvyko pas magistrą į Marienburgą.'
   pagrindžia:
     - c-033
 
+<a id="claim-t-179718"></a>
 - t-029
+  global_id: t-179718
   teiginys: 'Švitrigaila su iš Didžiojo Naugardo atsiųstais bojarinais sudarė sutartį dėl abipusio saugumo ir prekybos laisvės.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-179719"></a>
 - t-030
+  global_id: t-179719
   teiginys: 'Švitrigailos bandymas užimti Vilnių žlugo, kai vienuolis išdavė jo sumanymą pilies įgulos vadui.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-179720"></a>
 - t-031
+  global_id: t-179720
   teiginys: 'Lenkijos valdantieji sluoksniai Švitrigailai siūlė net Lenkijos vainiką arba valdyti Lietuvą, bet ryšyje su Lenkija.'
   pagrindžia:
     - c-026
 
+<a id="claim-t-179721"></a>
 - t-032
+  global_id: t-179721
   teiginys: 'Švitrigaila manė, kad po kunigaikštienės mirties Jogaila jį paskirs Vitebsko valdytoju.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-179722"></a>
 - t-033
+  global_id: t-179722
   teiginys: 'Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu nuvyko pas magistrą į Marienburgą.'
   pagrindžia:
     - c-033
 
+<a id="claim-t-179723"></a>
 - t-034
+  global_id: t-179723
   teiginys: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
   pagrindžia:
     - c-025
 
+<a id="claim-t-179724"></a>
 - t-035
+  global_id: t-179724
   teiginys: '1430 m. lapkričio 7 d. buvo sudarytos paliaubos tarp Lenkijos karaliaus Jogailos ir jo brolio, Lietuvos didžiojo kunigaikščio Švitrigailos.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-179725"></a>
 - t-036
+  global_id: t-179725
   teiginys: 'Švitrigaila, tikrasis Algirdo sūnus, turėjo pirmenybę į Lietuvos didžiojo kunigaikščio sostą.'
   pagrindžia:
     - c-031
 
+<a id="claim-t-179726"></a>
 - t-037
+  global_id: t-179726
   teiginys: 'Šiuos pirmuosius Žygimanto potvarkius Vytauto soste nutraukė ketinantis grįžti Švitrigaila.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-179727"></a>
 - t-038
+  global_id: t-179727
   teiginys: 'Dar neįsitvirtinus Vytautui, Švitrigaila išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-179728"></a>
 - t-039
+  global_id: t-179728
   teiginys: 'Per galingas Švitrigailos sąjungas prekyba išsiplėtė net iki atokiausių Vokietijos žemių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-179729"></a>
 - t-040
+  global_id: t-179729
   teiginys: 'Švitrigailos valdymo metais Vilniaus monetų kalykla kaldino lietuviškus grašius ir pusgrašius.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-179731"></a>
 - t-042
+  global_id: t-179731
   teiginys: 'Įniršęs Švitrigaila priekaištavo Jogailai dėl Podolės ir įkalino jį su palyda pilyje.'
   pagrindžia:
     - c-029
 
+<a id="claim-t-179732"></a>
 - t-043
+  global_id: t-179732
   teiginys: 'Švitrigaila, įsižeidęs dėl Vytauto iškėlimo, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-179733"></a>
 - t-044
+  global_id: t-179733
   teiginys: 'Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-179734"></a>
 - t-045
+  global_id: t-179734
   teiginys: '1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o jis pats pabėgo į Polocką.'
   pagrindžia:
     - c-037
 
+<a id="claim-t-184896"></a>
 - t-046
-  teiginys: 'Kojelavičius teigia, kad netekęs valdžios Kazimieras Skirgaila pyko dėl patirtų nuostolių ir gėdijosi dėl ne sėkmių, Boleslovą Švitrigailą kamavo nepasitenkinusios viltys: metais artimiausias Skirgailai, jis turėjo teisę pirmas paveldėti valdžią.'
+  global_id: t-184896
+  teiginys: 'Boleslovą Švitrigailą kamavo neišsipildžiusios viltys, nes po Skirgailos jis turėjo teisę pirmas paveldėti valdžią.'
   pagrindžia:
     - c-038
 
+<a id="claim-t-184897"></a>
 - t-047
-  teiginys: 'Kojelavičius teigia, kad per du mėnep u o la V iln ių sius Konradas išmėgino viso kiausias priemones, kurių, puldami miestus, paprastai imasi visi patyrę vadai, ta čiau nesėkmingai, todėl Švitrigaila nutarė griebtis ap gaulės.'
+  global_id: t-184897
+  teiginys: 'Konradui du mėnesius nesėkmingai puolus Vilnių, Švitrigaila nutarė miesto puolime griebtis apgaulės.'
   pagrindžia:
     - c-039
 
+<a id="claim-t-184898"></a>
 - t-048
-  teiginys: 'Kojelavičius teigia, kad tuo metu jau galima buvo manyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau nerimo Švitrigaila.'
+  global_id: t-184898
+  teiginys: 'Švitrigaila nuolat kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą.'
   pagrindžia:
     - c-040
 
+<a id="claim-t-184899"></a>
 - t-049
-  teiginys: 'Kojelavičius teigia, kad š vitrig a ila p e re in a į L ivo n i ją Vis dėlto Švitrigaila visai ką kita turėjo galvoje ir kuo ki tu rūpinosi.'
+  global_id: t-184899
+  teiginys: 'Švitrigaila matė, kad karai ir plėšikiški antpuoliai naudingi tik kryžiuočiams, o jis pats lieka nuskurdęs tremtinys.'
   pagrindžia:
     - c-041
 
+<a id="claim-t-184900"></a>
 - t-050
-  teiginys: 'Kojelavičius teigia, kad atsi dūręs laisvėje, Švitrigaila pabėgo pas imperatorių Zig mantą, vėliau, tarpininkaujant imperatoriui bei karaliui Jogailai, vargais negalais susitaikė su Vytautu.'
+  global_id: t-184900
+  teiginys: 'Ištrūkęs į laisvę Švitrigaila pabėgo pas imperatorių Zigmantą, o vėliau susitaikė su Vytautu.'
   pagrindžia:
     - c-042
 
@@ -1080,7 +1154,7 @@ periodo_grupes:
     - t-045
 
 - c-038
-  santrauka: 'Kojelavičius teigia, kad netekęs valdžios Kazimieras Skirgaila pyko dėl patirtų nuostolių ir gėdijosi dėl ne sėkmių, Boleslovą Švitrigailą kamavo nepasitenkinusios viltys: metais artimiausias Skirgailai, jis turėjo teisę pirmas paveldėti valdžią.'
+  santrauka: 'Boleslovą Švitrigailą kamavo neišsipildžiusios viltys, nes po Skirgailos jis turėjo teisę pirmas paveldėti valdžią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai karalius išvyko
@@ -1102,7 +1176,7 @@ periodo_grupes:
     - t-046
 
 - c-039
-  santrauka: 'Kojelavičius teigia, kad per du mėnep u o la V iln ių sius Konradas išmėgino viso kiausias priemones, kurių, puldami miestus, paprastai imasi visi patyrę vadai, ta čiau nesėkmingai, todėl Švitrigaila nutarė griebtis ap gaulės.'
+  santrauka: 'Konradui du mėnesius nesėkmingai puolus Vilnių, Švitrigaila nutarė miesto puolime griebtis apgaulės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tikrai žinoma, kad tais metais
@@ -1132,7 +1206,7 @@ periodo_grupes:
     - t-047
 
 - c-040
-  santrauka: 'Kojelavičius teigia, kad tuo metu jau galima buvo manyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau nerimo Švitrigaila.'
+  santrauka: 'Švitrigaila nuolat kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo metu jau galima buvo
@@ -1154,7 +1228,7 @@ periodo_grupes:
     - t-048
 
 - c-041
-  santrauka: 'Kojelavičius teigia, kad š vitrig a ila p e re in a į L ivo n i ją Vis dėlto Švitrigaila visai ką kita turėjo galvoje ir kuo ki tu rūpinosi.'
+  santrauka: 'Švitrigaila matė, kad karai ir plėšikiški antpuoliai naudingi tik kryžiuočiams, o jis pats lieka nuskurdęs tremtinys.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Taigi atsargesni Vy­
@@ -1180,7 +1254,7 @@ periodo_grupes:
     - t-049
 
 - c-042
-  santrauka: 'Kojelavičius teigia, kad atsi dūręs laisvėje, Švitrigaila pabėgo pas imperatorių Zig mantą, vėliau, tarpininkaujant imperatoriui bei karaliui Jogailai, vargais negalais susitaikė su Vytautu.'
+  santrauka: 'Ištrūkęs į laisvę Švitrigaila pabėgo pas imperatorių Zigmantą, o vėliau susitaikė su Vytautu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jį netrukus paleido rusų sąmokslininkai, nu­
@@ -1198,3 +1272,129 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-050
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/1432 m. perversmas ir Zigmanto Kęstutaičio iškėlimas]]
+- [[objektai/grupes/Gediminaičių šeima]]
+- [[objektai/ivykiai/Herasimo sąmokslas ir sudeginimas ant laužo]]
+- [[objektai/grupes/Jogailos palikuonys]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
+- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
+- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
+- [[objektai/grupes/Čekijos husitai]]
+- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]
+- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]
+- [[objektai/ivykiai/Švitrigailos paskelbimas didžiuoju Lietuvos kunigaikščiu]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
+- [[objektai/asmenys/Eugenijus IV]]
+- [[objektai/grupes/Husitai]]
+- [[objektai/asmenys/Jaroslavas]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Julijona (Algirdo žmona)]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/bojarinai]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/paliaubos]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/August von Kotzebue]]
+- [[objektai/asmenys/Bomannas]]
+- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
+- [[objektai/grupes/Didžiojo Naugardo bojarinai]]
+- [[objektai/ivykiai/Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje]]
+- [[objektai/asmenys/Dmitrijus Kaributas]]
+- [[objektai/asmenys/Fridrichas fon Bebirsteynas]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/daiktai/Iždo ir pilių raktai]]
+- [[objektai/asmenys/Jurgis Lengvenaitis]]
+- [[objektai/paprociai/Kameneco viršininko skyrimas tik iš lenkų tautybės žmonių]]
+- [[objektai/ivykiai/Karas tarp Švitrigailos ir Žygimanto Kęstutaičio]]
+- [[objektai/ivykiai/Karo su Prūsija pradžia ir dvejų metų paliaubos per popiežiaus legatą]]
+- [[objektai/asmenys/Konradas (Vroclavo vyskupas)]]
+- [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas]]
+- [[objektai/asmenys/Lengvenis Algirdaitis]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]
+- [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/daiktai/Medžių užtvaros kelyje]]
+- [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
+- [[objektai/grupes/Moldovos kunigaikščiai]]
+- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
+- [[objektai/posakiai/O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė]]
+- [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]]
+- [[objektai/paprociai/Pabaisko pergalės įamžinimas vietovardžiais ir bažnyčios fundacija]]
+- [[objektai/paprociai/Pasalos rengimas kelią užverčiant prikirstais medžiais]]
+- [[objektai/grupes/Podolės bajorai]]
+- [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]
+- [[objektai/grupes/Pskovo respublika]]
+- [[objektai/daiktai/Rittersverderio pilis ir laikini įtvirtinimai]]
+- [[objektai/grupes/Seradzo lenkų seimas|Seradzo lenkų seimas (seimas)]]
+- [[objektai/grupes/Silezijos ir Vroclavo gyventojai]]
+- [[objektai/grupes/Smolensko pulkai]]
+- [[objektai/asmenys/Sofija (Švitrigailos žmona)]]
+- [[objektai/asmenys/Sofija Vytautaitė]]
+- [[objektai/ivykiai/Susitarimas dėl Podolės valdymo ir Teodoro Sanguškos paskyrimas Severesko kunigaikščiu]]
+- [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/grupes/Vilniaus magistratas]]
+- [[objektai/daiktai/Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje]]
+- [[objektai/asmenys/Vyguntas]]
+- [[objektai/posakiai/homo furiosus, ac crapula infamis]]
+- [[objektai/zodynas/konsiliumas]]
+- [[objektai/zodynas/lietuviški grašiai, pusgrašiai ir rubliai]]
+- [[objektai/zodynas/prastuomenė]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Čekų ir Silezijos savanoriai]]
+- [[objektai/ivykiai/Švitrigailos Vitebsko žemės užėmimas]]
+- [[objektai/grupes/Švitrigailos šalininkai]]
+- [[objektai/zodynas/šinkorystė propinacija]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- [[objektai/grupes/Žygimanto šalininkai]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/asmenys/Andrius Algirdaitis]]
+- [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
+- [[objektai/asmenys/Jonas Švitrigaila]]
+- [[objektai/ivykiai/Kryžiuočių antpuolis į Lietuvą ir Žemaitiją (1396 m.)]]
+- [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
+- [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]
+- [[objektai/grupes/Lenkijos bajorai]]
+- [[objektai/asmenys/Mykolas (Švitrigailos sūnus)]]
+- [[objektai/ivykiai/Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)]]
+- [[objektai/ivykiai/Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)]]
+- [[objektai/ivykiai/Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis]]
+- [[objektai/ivykiai/Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė]]
+- [[objektai/ivykiai/Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.)]]
+- [[objektai/ivykiai/Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.)]]
+- [[objektai/ivykiai/Žygimanto Kęstutaičio iškėlimas Švitrigailos varžovu ir Švitrigailos pabėgimas iš Lietuvos (1432 m.)]]
+- [[objektai/ivykiai/Švitrigailos ir Konrado Jungingeno žygis į Lietuvą (1394 m.)]]

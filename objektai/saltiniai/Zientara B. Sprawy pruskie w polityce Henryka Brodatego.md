@@ -22,7 +22,9 @@ Dusburgietis teigia, kad zientara B.
 
 ## Teiginiai
 
+<a id="claim-t-61382"></a>
 - t-001
+  global_id: t-61382
   teiginys: 'B. Zientaros straipsnis „Sprawy pruskie w polityce Henryka Brodatego“ paskelbtas 1976 m. ZHPB 41 tomo 4 sąsiuvinyje.'
   pagrindžia:
     - c-001

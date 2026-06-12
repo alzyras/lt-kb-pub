@@ -27,22 +27,30 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
 
 ## Teiginiai
 
+<a id="claim-t-43757"></a>
 - t-001
+  global_id: t-43757
   teiginys: 'Pagal 1466 m. Torno taiką Lenkijai atiteko Elbingas, Marijenburgas ir visa Varmijos vyskupystė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-43758"></a>
 - t-002
+  global_id: t-43758
   teiginys: 'Gedimino laikais kryžiuočiai pasistatė Bajerburgo ir Marijenburgo pilis ir paslinko dar arčiau Lietuvos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-43759"></a>
 - t-003
-  teiginys: 'Tuo būdu ordino centras pasidarė Marijenburgas.'
+  global_id: t-43759
+  teiginys: '1309 m. didžiajam magistrui persikėlus į Prūsus, Marijenburgas tapo ordino centru.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-43760"></a>
 - t-004
+  global_id: t-43760
   teiginys: 'Nuo 1309 m. Marijenburgas buvo Kryžiuočių ordino magistro būstinė.'
   pagrindžia:
     - c-004
@@ -79,6 +87,7 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
     - t-002
 
 - c-003
+  santrauka: '1309 m. didžiajam magistrui persikėlus į Prūsus, Marijenburgas tapo ordino centru.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O kai XIII amž. gale

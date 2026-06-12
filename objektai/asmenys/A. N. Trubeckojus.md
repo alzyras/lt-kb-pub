@@ -18,7 +18,9 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
 
 ## Teiginiai
 
+<a id="claim-t-39979"></a>
 - t-001
+  global_id: t-39979
   teiginys: 'Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. užėmus miestą visi miestiečiai buvo išžudyti) ir žygiavo į Lietuvos gilumą, Minsko link.'
   pagrindžia:
     - c-001

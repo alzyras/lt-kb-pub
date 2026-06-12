@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20534"></a>
 - t-001
+  global_id: t-20534
   teiginys: '1769 m. nugriuvo Vilniaus katedros bokštas, tuo pačiu metu pasviro ir Vilniaus rotušės bokštas.'
   pagrindžia:
     - c-001

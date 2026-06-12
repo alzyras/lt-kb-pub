@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Prabangūs šermenys ir iškilmingos laidotuvės nužudytam valdovui
 
 ## Santrauka
 
-Kojelavičius teigia, kad luomai, susirinkę į Tra kus, nutarė, pasiūlius Goštautui bei Kęsgailai, surengti kuo puikiausias šermenis Žygimantui.
+Trakuose susirinkę luomai, Goštautui ir Kęsgailai pasiūlius, nutarė surengti kuo puikiausias šermenis Žygimantui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185922"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad luomai, susirinkę į Tra kus, nutarė, pasiūlius Goštautui bei Kęsgailai, surengti kuo puikiausias šermenis Žygimantui.'
+  global_id: t-185922
+  teiginys: 'Trakuose susirinkę luomai, Goštautui ir Kęsgailai pasiūlius, nutarė surengti kuo puikiausias šermenis Žygimantui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad luomai, susirinkę į Tra kus, nutarė, pasiūlius Goštautui bei Kęsgailai, surengti kuo puikiausias šermenis Žygimantui.'
+  santrauka: 'Trakuose susirinkę luomai, Goštautui ir Kęsgailai pasiūlius, nutarė surengti kuo puikiausias šermenis Žygimantui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sklido gandai, kad jis netikėtai užpuolė
@@ -57,3 +58,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Kęsgaila]]
+- [[objektai/ivykiai/Žygimanto Kęstutaičio šermenys ir laidotuvės Vilniuje (1440 m.)]]

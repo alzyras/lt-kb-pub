@@ -19,17 +19,23 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
 
 ## Teiginiai
 
+<a id="claim-t-59988"></a>
 - t-001
+  global_id: t-59988
   teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino didįjį magistrą Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis magistras, mirė liepos 24 dieną, o palaidotas Markburge.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59990"></a>
 - t-002
+  global_id: t-59990
   teiginys: 'Dusburgietis teigia, kad šį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas buvo susitepęs paleistuvystės nuodėme.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59991"></a>
 - t-003
+  global_id: t-59991
   teiginys: 'Dusburgietis teigia, kad konradas (Tiuringijos landgrafas) kreipėsi į jo šventenybę popiežių, kuriam ir išpažino visas savo nuodėmes.'
   pagrindžia:
     - c-001

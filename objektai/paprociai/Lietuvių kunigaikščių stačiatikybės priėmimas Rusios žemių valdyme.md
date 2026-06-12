@@ -47,32 +47,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75373"></a>
 - t-001
+  global_id: t-75373
   teiginys: 'Senrusių žemėse lietuviai atrado bažnytinę sistemą ir raštiją, kurių patys neturėjo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75374"></a>
 - t-002
+  global_id: t-75374
   teiginys: 'Lietuvos valstybei užėmus senrusių žemes, jų vietininkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75375"></a>
 - t-003
+  global_id: t-75375
   teiginys: 'Priėmę stačiatikių tikėjimą lietuvių kunigaikščiai kūrėsi Rusios žemėse, kurios buvo jungiamos prie Lietuvos valstybės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75376"></a>
 - t-004
+  global_id: t-75376
   teiginys: 'Vaišelga priėmė stačiatikių tikėjimą, o jo valdytas Naugardukas buvo jungiamas prie Lietuvos valstybės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75377"></a>
 - t-005
+  global_id: t-75377
   teiginys: 'Lietuvai užėmus senrusių žemes, jų vietininkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75378"></a>
 - t-006
+  global_id: t-75378
   teiginys: 'Rusios žemėse lietuviai rado bažnytinę sistemą ir raštiją, kurių patys neturėjo.'
   pagrindžia:
     - c-001

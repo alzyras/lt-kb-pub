@@ -47,17 +47,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-182858"></a>
 - t-001
+  global_id: t-182858
   teiginys: 'Esą Vytautas reikalavęs chaną jam paklusti ir savo piniguose mušti Vytauto ženklą^33.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183690"></a>
 - t-002
+  global_id: t-183690
   teiginys: 'Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo - visos Ordos pinigus žymėti Vytauto ženklu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183691"></a>
 - t-003
+  global_id: t-183691
   teiginys: 'Edigėjus skelbėsi amžiumi vyresniu, todėl reikalavo Vytauto klusnumo ir atsakydamas į ankstesnį Vytauto reikalavimą, pareikalavo Lietuvos pinigus žymėti Ordos ženklais.'
   pagrindžia:
     - c-003

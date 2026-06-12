@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39293"></a>
 - t-001
+  global_id: t-39293
   teiginys: 'Vienvamzdis medžioklinis šautuvas kapsuline spyna buvo perdarytas iš titnaginio šautuvo.'
   pagrindžia:
     - c-001

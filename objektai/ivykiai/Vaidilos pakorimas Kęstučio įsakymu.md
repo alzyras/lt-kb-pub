@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86960"></a>
 - t-001
+  global_id: t-86960
   teiginys: 'Kęstutis įsakė pakarti Vaidilą, laikydamas jį karo kurstytoju.'
   pagrindžia:
     - c-001

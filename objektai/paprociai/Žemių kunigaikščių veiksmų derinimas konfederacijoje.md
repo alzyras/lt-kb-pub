@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54375"></a>
 - t-001
+  global_id: t-54375
   teiginys: 'Voluinės ir Lietuvos kunigaikščių sutartyje Mindaugas buvo paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54376"></a>
 - t-002
+  global_id: t-54376
   teiginys: '1219 m. Voluinės ir Lietuvos kunigaikščių sutartis buvo sudaryta ir dėl plėšiamųjų žygių į Lenkiją.'
   pagrindžia:
     - c-001

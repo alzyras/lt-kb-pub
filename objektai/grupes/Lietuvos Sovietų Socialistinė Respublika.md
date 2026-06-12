@@ -22,12 +22,16 @@ LSSR Lietuvos Sovietų Socialistinė Respublika. Sudarius marionetinę vyriausyb
 
 ## Teiginiai
 
+<a id="claim-t-74781"></a>
 - t-001
+  global_id: t-74781
   teiginys: 'Sudarius marionetinę vyriausybę netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Respublika.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74783"></a>
 - t-002
+  global_id: t-74783
   teiginys: '1940 VI 15 realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuoja ir aneksuoja Lietuvos Respubliką.'
   pagrindžia:
     - c-001

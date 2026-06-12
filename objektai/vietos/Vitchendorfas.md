@@ -17,7 +17,9 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
 
 ## Teiginiai
 
+<a id="claim-t-58749"></a>
 - t-001
+  global_id: t-58749
   teiginys: 'Vitchendorfas buvo kaimas Saksonijoje.'
   pagrindžia:
     - c-001

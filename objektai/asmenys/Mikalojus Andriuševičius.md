@@ -16,7 +16,9 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
 
 ## Teiginiai
 
+<a id="claim-t-87783"></a>
 - t-001
+  global_id: t-87783
   teiginys: 'Mikalojus Andriuševičius buvo Lietuvos Didžiosios Kunigaikštystės arklidininkas ir tarybos narys.'
   pagrindžia:
     - c-001

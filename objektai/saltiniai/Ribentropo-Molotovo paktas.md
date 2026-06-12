@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-39932"></a>
 - t-001
+  global_id: t-39932
   teiginys: '1939 m. Stalinas ir Hitleris susitarė pasidalinti Vidurio Europą (Ribentropo-Molotovo paktas).'
   pagrindžia:
     - c-001

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad labuda G.
 
 ## Teiginiai
 
+<a id="claim-t-61124"></a>
 - t-001
+  global_id: t-61124
   teiginys: 'G. Labudos „Studia nad annalistyką pomorską z XIII—XV w.“ paskelbta 1955 m. Torunės leidinyje „Zapiski Towarzystwa Naukowego w Toruniu“.'
   pagrindžia:
     - c-001

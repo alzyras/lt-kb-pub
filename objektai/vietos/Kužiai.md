@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-38499"></a>
 - t-001
+  global_id: t-38499
   teiginys: 'Geležinkelio linija Kretinga-Kužiai, jungusi Klaipėdą ir Šiaulius, buvo baigta tiesti 1936 m.'
   pagrindžia:
     - c-001

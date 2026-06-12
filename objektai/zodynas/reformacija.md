@@ -29,17 +29,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-77786"></a>
 - t-001
+  global_id: t-77786
   teiginys: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-77787"></a>
 - t-002
+  global_id: t-77787
   teiginys: '1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma viena iš reikšmingiausių Naujųjų amžių apraiškų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77788"></a>
 - t-003
+  global_id: t-77788
   teiginys: 'Kulvietis, pasinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės interesų lygį ir taip.'
   pagrindžia:
     - c-002

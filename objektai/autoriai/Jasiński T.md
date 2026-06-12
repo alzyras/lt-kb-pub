@@ -27,7 +27,9 @@ Dusburgietis teigia, kad liz- ‘pailsėti’ — MPKP, 2, p. 31), kurios ieško
 
 ## Teiginiai
 
+<a id="claim-t-60719"></a>
 - t-001
+  global_id: t-60719
   teiginys: 'T. Jasińskis Lisske lokalizavo saloje prie Senosios Torunės.'
   pagrindžia:
     - c-001

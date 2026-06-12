@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-21217"></a>
 - t-001
+  global_id: t-21217
   teiginys: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
   pagrindžia:
     - c-001

@@ -25,12 +25,16 @@ leidinio „Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsi
 
 ## Teiginiai
 
+<a id="claim-t-75459"></a>
 - t-001
+  global_id: t-75459
   teiginys: 'Leidinį „Lietuvos diplomatija nuo 1990 m. kovo 11“ 2001 m. Vilniuje išleido Lietuvos užsienio reikalų ministerija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75460"></a>
 - t-002
+  global_id: t-75460
   teiginys: 'Leidinys „Lietuvos diplomatija nuo 1990 m. kovo 11“ išleistas Vilniuje Lietuvos užsienio reikalų ministerijos 2001 m.'
   pagrindžia:
     - c-001

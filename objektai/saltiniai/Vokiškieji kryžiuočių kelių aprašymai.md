@@ -24,22 +24,30 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
 
 ## Teiginiai
 
+<a id="claim-t-60930"></a>
 - t-001
+  global_id: t-60930
   teiginys: 'Dusburgietis teigia, kad taigi įtikimiau jį būtų lokalizuoti į rytus nuo Viduklės, kur, kaip rašoma kryžiuočių kelių aprašymuose, buvęs lant Wayke (Weg.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60931"></a>
 - t-002
+  global_id: t-60931
   teiginys: 'XIV a. pabaigos kryžiuočių kelių į Lietuvą aprašymuose Sešuvis vadintas Sessow, Sassow ir panašiomis formomis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60932"></a>
 - t-003
+  global_id: t-60932
   teiginys: 'Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kauno) aprašyme figūruoja vedlys iš Nerwekiten, o toliau minimas kelias czu Kattow (SRP, 2, p. 683).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60933"></a>
 - t-004
+  global_id: t-60933
   teiginys: 'Vokiškuose kryžiuočių kelių aprašymuose Ragainė minima formomis Rangith, Rangnit, Rangnith, Rangit ir Ragnit.'
   pagrindžia:
     - c-004

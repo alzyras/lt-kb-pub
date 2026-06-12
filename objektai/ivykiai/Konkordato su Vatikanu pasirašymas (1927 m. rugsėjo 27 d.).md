@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20230"></a>
 - t-001
+  global_id: t-20230
   teiginys: '1927 m. rugsėjo 27 d. A. Voldemaras Romoje pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Tik jų įpėdiniai iki pat 1918 m. (Jurgio Matulaičio paskyrimas) jau nebesir�
 
 ## Teiginiai
 
+<a id="claim-t-30318"></a>
 - t-001
+  global_id: t-30318
   teiginys: 'Jurgis Matulaitis buvo paskirtas 1918 m., kai baigėsi laikotarpis, kuriuo įpėdiniai nebesirūpino lietuvių kalbos teisėmis.'
   pagrindžia:
     - c-001

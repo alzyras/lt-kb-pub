@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-80752"></a>
 - t-001
+  global_id: t-80752
   teiginys: '139, „LIETUVOS TOTORIAI“, Lietuvos kariuomenė svetimšalių akimis xvI-xvIII a., p. 151.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-80754"></a>
 - t-002
+  global_id: t-80754
   teiginys: '131, „HUSARAI“, Lietuvos kariuomenė svetimšalių akimis xvI-xVIII a., p. 104-107.'
   pagrindžia:
     - c-001

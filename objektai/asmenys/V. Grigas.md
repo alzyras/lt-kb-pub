@@ -16,7 +16,9 @@ Grigo vadovaujama lengvosios artilerijos 1-oji baterija (4 patrankos).
 
 ## Teiginiai
 
+<a id="claim-t-80744"></a>
 - t-001
+  global_id: t-80744
   teiginys: 'Grigo vadovaujama lengvosios artilerijos 1-oji baterija (4 patrankos).'
   pagrindžia:
     - c-001

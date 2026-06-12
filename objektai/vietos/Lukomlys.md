@@ -16,7 +16,9 @@ Apie tai Lietuvos didysis etmonas Mykolas Radvila Rudasis žvalgų buvo greitai 
 
 ## Teiginiai
 
+<a id="claim-t-41891"></a>
 - t-001
+  global_id: t-41891
   teiginys: 'Mykolas Radvila Rudasis buvo Lukomlyje, apie 100 km nuo Polocko, kai žvalgai jį informavo apie maskvėnų pajėgas.'
   pagrindžia:
     - c-001

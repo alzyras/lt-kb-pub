@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59455"></a>
 - t-001
+  global_id: t-59455
   teiginys: 'Dusburgietis teigia, kad po to, kai jie ėmė trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių žūties, leidosi jų persekioti su tūkstančiu ir aštuoniais šimtais vyrų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59456"></a>
 - t-002
+  global_id: t-59456
   teiginys: 'Vytenis su 800 vyrų per Sekmines įsiveržė į Lenkiją, užpuolė Lenčicos dvasininkus ir išsivarė daug belaisvių.'
   pagrindžia:
     - c-002

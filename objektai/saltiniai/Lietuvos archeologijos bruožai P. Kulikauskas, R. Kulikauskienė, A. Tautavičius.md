@@ -23,7 +23,9 @@ Dusburgietis teigia, kad lietuvos archeologijos bruožai / P.
 
 ## Teiginiai
 
+<a id="claim-t-61138"></a>
 - t-001
+  global_id: t-61138
   teiginys: 'P. Kulikausko, R. Kulikauskienės ir A. Tautavičiaus „Lietuvos archeologijos bruožai“ išleisti Vilniuje 1961 m.'
   pagrindžia:
     - c-001

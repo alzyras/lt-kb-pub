@@ -33,12 +33,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01246"></a>
 - t-001
-  teiginys: 'Po Vytauto, iki Aleksandro laikų, Lietuvoje pinigai vėl nebebuvo kalami.'
+  global_id: t-01246
+  teiginys: 'Po Vytauto iki Aleksandro laikų Lietuvoje pinigai nebebuvo kalami, o apyvartoje naudoti svetimi pinigai, daugiausia Prahos skatikai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01247"></a>
 - t-002
+  global_id: t-01247
   teiginys: 'Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o dešimt pinigėlių buvo lygūs vienam skatikui.'
   pagrindžia:
     - c-002
@@ -46,6 +50,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Vytauto iki Aleksandro laikų Lietuvoje pinigai nebebuvo kalami, o apyvartoje naudoti svetimi pinigai, daugiausia Prahos skatikai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaributo

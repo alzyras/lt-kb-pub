@@ -16,7 +16,9 @@ Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė rotmi
 
 ## Teiginiai
 
+<a id="claim-t-40228"></a>
 - t-001
+  global_id: t-40228
   teiginys: 'Birželio 2–3 d. Kristupas Radvila Perkūnas pasiuntė rotmistrą Joną Sicinskį su daliniu smogti K. Carlsono Gyllenhielmo kariams.'
   pagrindžia:
     - c-001

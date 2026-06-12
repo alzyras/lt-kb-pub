@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-31973"></a>
 - t-001
+  global_id: t-31973
   teiginys: 'Z. Ivinskio straipsnis „Vytautas Did.“ paskelbtas Lietuvių enciklopedijos 34 tome, p. 376-379.'
   pagrindžia:
     - c-001

@@ -25,17 +25,23 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
 
 ## Teiginiai
 
+<a id="claim-t-82730"></a>
 - t-001
+  global_id: t-82730
   teiginys: '1365 m. Survila, artimas Kęstučio sūnaus Butauto giminaitis, pabėgo ir Karaliaučiuje buvo pakrikštytas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-82731"></a>
 - t-002
+  global_id: t-82731
   teiginys: '1365 m. Vinrichas Kniprodė Karaliaučiuje pakrikštijo Survilą ir Butautą, pasinaudojęs jų pabėgimu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82732"></a>
 - t-003
+  global_id: t-82732
   teiginys: 'Survila 1365 m. liepos 25 d. kartu su Butautu pabėgo į Karaliaučių.'
   pagrindžia:
     - c-001

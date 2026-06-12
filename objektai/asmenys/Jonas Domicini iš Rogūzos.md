@@ -17,7 +17,9 @@ At­ sirado ir savanoris važiuoti į Lietuvą — kardinolas Jonas Do­ micini 
 
 ## Teiginiai
 
+<a id="claim-t-35146"></a>
 - t-001
+  global_id: t-35146
   teiginys: 'Kardinolas Jonas Domicini iš Rogūzos pasisiūlė vykti į Lietuvą, o jam į pagalbą buvo paskirti dar du vyskupai.'
   pagrindžia:
     - c-001

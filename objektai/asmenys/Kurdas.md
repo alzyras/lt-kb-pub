@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kurdas
 
 ## Santrauka
 
-Kojelavičius teigia, kad kurdas buvo sustojęs Mozyriaus krašte prie Okuniovkos upės, iš čia jis iš siuntė kelis pulkus plėšikauti, pagrindines kariuome nės jėgas pasilikęs stovykloje.
+Kurdas buvo sustojęs Mozyriaus krašte prie Okuniovkos upės ir iš ten pasiuntė kelis pulkus plėšikauti.
 
 ## Teiginiai
 
+<a id="claim-t-186059"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kurdas buvo sustojęs Mozyriaus krašte prie Okuniovkos upės, iš čia jis iš siuntė kelis pulkus plėšikauti, pagrindines kariuome nės jėgas pasilikęs stovykloje.'
+  global_id: t-186059
+  teiginys: 'Kurdas buvo sustojęs Mozyriaus krašte prie Okuniovkos upės ir iš ten pasiuntė kelis pulkus plėšikauti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kurdas buvo sustojęs Mozyriaus krašte prie Okuniovkos upės, iš čia jis iš siuntė kelis pulkus plėšikauti, pagrindines kariuome nės jėgas pasilikęs stovykloje.'
+  santrauka: 'Kurdas buvo sustojęs Mozyriaus krašte prie Okuniovkos upės ir iš ten pasiuntė kelis pulkus plėšikauti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tad lenkdamasis pulkų, siautėjančių po kraštą,

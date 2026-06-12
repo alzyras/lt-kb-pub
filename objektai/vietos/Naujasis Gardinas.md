@@ -18,12 +18,16 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
 
 ## Teiginiai
 
+<a id="claim-t-36430"></a>
 - t-001
+  global_id: t-36430
   teiginys: 'Magistras įsakė netoli Gardino pastatyti Naująjį Gardiną ir Metenburgą, kuriuose buvo įkurdintos kryžiuočių įgulos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-36431"></a>
 - t-002
+  global_id: t-36431
   teiginys: 'Vytautas atsigręžė prieš Naująjį Gardiną ir Meteną, o šios pilys buvo sunaikintos iki pamatų.'
   pagrindžia:
     - c-001

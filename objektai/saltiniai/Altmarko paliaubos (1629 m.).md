@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-02129"></a>
 - t-001
+  global_id: t-02129
   teiginys: '1629 m. sudarytos Altmarko paliaubos baigėsi 1635 m., todėl reikėjo ruoštis naujam karui arba rūpintis jų pratęsimu.'
   pagrindžia:
     - c-001

@@ -26,17 +26,23 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 
 ## Teiginiai
 
+<a id="claim-t-71978"></a>
 - t-001
+  global_id: t-71978
   teiginys: 'Valkavisko apskritis buvo įtraukta į Lietuvos teritorijos projektą, grindžiamą „Lithuania Propria“ ribomis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71979"></a>
 - t-002
+  global_id: t-71979
   teiginys: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71980"></a>
 - t-003
+  global_id: t-71980
   teiginys: 'Budikidas ir jo brolis Budivydas 1289 m. taikai palaikyti perleido Valkaviską Haličo-Volinijos kunigaikščiams.'
   pagrindžia:
     - c-001

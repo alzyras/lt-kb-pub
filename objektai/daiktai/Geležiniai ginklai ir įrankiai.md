@@ -46,12 +46,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-47810"></a>
 - t-001
+  global_id: t-47810
   teiginys: 'Patobulėjo ginklų, įrankių ir papuošalų formos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-47811"></a>
 - t-002
+  global_id: t-47811
   teiginys: 'Iš žymiai pigesnės geležies tada buvo galima pasigaminti ginklų (iečių, kirvių) bei įrankių (dalgių, piautuvų, peilių, ylų ir kt.).'
   pagrindžia:
     - c-001

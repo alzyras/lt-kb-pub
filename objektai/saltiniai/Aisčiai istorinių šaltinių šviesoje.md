@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31614"></a>
 - t-001
+  global_id: t-31614
   teiginys: 'J. Puzino straipsnis „Aisčiai istorinių šaltinių šviesoje“ 1948 m. paskelbtas žurnalo „Aidai“ 12 numeryje.'
   pagrindžia:
     - c-001

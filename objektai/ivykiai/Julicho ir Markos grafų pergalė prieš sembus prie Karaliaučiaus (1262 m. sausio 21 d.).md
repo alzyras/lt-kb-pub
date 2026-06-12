@@ -41,22 +41,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66571"></a>
 - t-001
+  global_id: t-66571
   teiginys: 'Dusburgietis teigia, kad prisiėjo tam reikalui pasikviesti į talką visus Karaliaučiaus brolius bei jų ginklanešius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66572"></a>
 - t-002
+  global_id: t-66572
   teiginys: 'Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria kariuomene.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66573"></a>
 - t-003
+  global_id: t-66573
   teiginys: 'Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai; vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas, atbėgo su kruvinu kalaviju rankose pranešti apie pasalą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66574"></a>
 - t-004
+  global_id: t-66574
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašauta ši pergalė Šį sembų sutriuškinimą išpranašavo vienas prūsas, taip tvirtai nusakydamas Karaliaučiaus broliams ateitį, kad rodėsi, jog kažkokia dvasia jį skatinanti guldyti galvą už šiuos jo žodžius: švento Vincento.'
   pagrindžia:
     - c-001

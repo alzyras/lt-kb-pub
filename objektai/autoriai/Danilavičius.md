@@ -18,7 +18,9 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
 
 ## Teiginiai
 
+<a id="claim-t-35432"></a>
 - t-001
+  global_id: t-35432
   teiginys: 'Danilavičius ir Koneczny šią sutartį laikė falsifikatu, nors Prochaska ją priėmė kaip autentišką.'
   pagrindžia:
     - c-001

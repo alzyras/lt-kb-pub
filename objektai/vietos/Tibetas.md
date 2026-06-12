@@ -18,7 +18,9 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
 
 ## Teiginiai
 
+<a id="claim-t-36597"></a>
 - t-001
+  global_id: t-36597
   teiginys: 'Sveno Hedino kelionė į Tibetą buvo aprašyta kaip kelionė į Azijos širdį ir kovos su vietos tautomis.'
   pagrindžia:
     - c-001

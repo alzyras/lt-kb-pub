@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Romuntas
 
 ## Santrauka
 
-Kojelavičius teigia, kad kiti metai Giliginui tapo lemtingi: mirė sosto įpėdinis jo sūnus Romuntas.
+Romuntas buvo Giliginio sūnus ir sosto įpėdinis.
 
 ## Teiginiai
 
+<a id="claim-t-186160"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kiti metai Giliginui tapo lemtingi: mirė sosto įpėdinis jo sūnus Romuntas.'
+  global_id: t-186160
+  teiginys: 'Romuntas buvo Giliginio sūnus ir sosto įpėdinis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kiti metai Giliginui tapo lemtingi: mirė sosto įpėdinis jo sūnus Romuntas.'
+  santrauka: 'Romuntas buvo Giliginio sūnus ir sosto įpėdinis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vargu ar tuo skai­
@@ -42,3 +43,9 @@ Kojelavičius teigia, kad kiti metai Giliginui tapo lemtingi: mirė sosto įpėd
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Giliginas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/globėjo titulas laikinas valdytojas]]

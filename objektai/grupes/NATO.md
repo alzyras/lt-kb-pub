@@ -23,17 +23,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-19949"></a>
 - t-001
+  global_id: t-19949
   teiginys: '2004 m. Lietuva tapo visateise demokratinių NATO ir ES valstybių šeimos nare.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-19950"></a>
 - t-002
+  global_id: t-19950
   teiginys: '2004 m. Lietuva tapo ES ir NATO nare.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183173"></a>
 - t-003
+  global_id: t-183173
   teiginys: 'Ir dar labai svarbu žinoti – 2004 m. Lietuva tapo ES ir NATO nare.'
   pagrindžia:
     - c-002
@@ -86,7 +92,6 @@ amziai:
 - [[objektai/ivykiai/JAV prezidento Džordžo Bušo kalba Vilniuje dėl Lietuvos saugumo (2002 m. lapkričio 23 d.)]]
 - [[objektai/zodynas/Kolektyvinės savigynos teisė]]
 - [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
-- [[objektai/grupes/Lietuvos luomai]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
 - [[objektai/ivykiai/Lietuvos pasiūlymas vadovauti Goro provincijos atkūrimo grupei Afganistane (2004 m. pabaiga)]]
 - [[objektai/ivykiai/Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)]]

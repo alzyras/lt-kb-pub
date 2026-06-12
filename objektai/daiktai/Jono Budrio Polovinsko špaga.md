@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40721"></a>
 - t-001
+  global_id: t-40721
   teiginys: 'Jono Budrio Polovinsko špaga buvo siejama su Klaipėdos sukilimo vadu ir Vytauto Didžiojo karo muziejumi.'
   pagrindžia:
     - c-001

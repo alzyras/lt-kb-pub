@@ -19,7 +19,9 @@ i Kol istorikai neįstengė rasti patiki­ mos išvados apie lietuvių tautos ki
 
 ## Teiginiai
 
+<a id="claim-t-88082"></a>
 - t-001
+  global_id: t-88082
   teiginys: 'Thunmano tyrinėjimus ir prielaidas apie lietuvių tautos kilmę Balinskis laikė panašiausiais į tiesą.'
   pagrindžia:
     - c-001

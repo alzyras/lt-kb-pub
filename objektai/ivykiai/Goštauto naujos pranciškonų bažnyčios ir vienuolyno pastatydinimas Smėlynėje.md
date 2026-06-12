@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86947"></a>
 - t-001
+  global_id: t-86947
   teiginys: 'Goštautas Smėlynėje, netoli Vingrių šaltinių, pastatydino mūrinę pranciškonų bažnyčią ir vienuolyną.'
   pagrindžia:
     - c-001

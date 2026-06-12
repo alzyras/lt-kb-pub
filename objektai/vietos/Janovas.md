@@ -17,7 +17,9 @@ Byševskis jau buvo Janove, jis gavo Karo tarybos prie karaliaus nurodymą vykti
 
 ## Teiginiai
 
+<a id="claim-t-41741"></a>
 - t-001
+  global_id: t-41741
   teiginys: 'Liepos 22 d. Janove buvęs A. Byševskis gavo Karo tarybos prie karaliaus nurodymą neleisti Rusijos kariuomenei persikelti per Bugą šiauriau.'
   pagrindžia:
     - c-001

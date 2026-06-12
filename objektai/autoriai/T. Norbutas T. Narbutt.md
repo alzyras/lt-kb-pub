@@ -17,7 +17,9 @@ T. Norbutas T. Narbutt: taip pat universiteto įtakoje kiek vėliau Lydos bajora
 
 ## Teiginiai
 
+<a id="claim-t-64855"></a>
 - t-001
+  global_id: t-64855
   teiginys: 'Lydos bajoras T. Norbutas parašė pirmąją didžiulę devynių tomų Lietuvos istoriją.'
   pagrindžia:
     - c-001

@@ -48,7 +48,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59552"></a>
 - t-001
+  global_id: t-59552
   teiginys: 'Dusburgietis teigia, kad 1248 m. vietovė jau vadinama Culmense (UBC, 1, 1, Nr. 18, p. 7), 1251 m. čia įkuriama Kulmo vyskupijos katedra ir miestas Culmense (PUB, 1, 1, Nr. 250, p. 180; UBC, 1, 1, Nr. 29, p. 16—18); vėlesniuose dokumentuose figūruoja Culmense (1276 m., PUB, 1, 2, Nr..'
   pagrindžia:
     - c-001

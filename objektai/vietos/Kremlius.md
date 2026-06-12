@@ -52,7 +52,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-46783"></a>
 - t-001
+  global_id: t-46783
   teiginys: 'Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Titas Livijus
 
 ## Santrauka
 
-Kojelavičius teigia, kad nebūda mas humanistas, jis sekė antikiniais istorikais, ypač Titu Livijumi.
+Albertas Vijūkas-Kojelavičius sekė antikiniais istorikais, ypač Titu Livijumi.
 
 ## Teiginiai
 
+<a id="claim-t-186289"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad nebūda mas humanistas, jis sekė antikiniais istorikais, ypač Titu Livijumi.'
+  global_id: t-186289
+  teiginys: 'Albertas Vijūkas-Kojelavičius sekė antikiniais istorikais, ypač Titu Livijumi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad nebūda mas humanistas, jis sekė antikiniais istorikais, ypač Titu Livijumi.'
+  santrauka: 'Albertas Vijūkas-Kojelavičius sekė antikiniais istorikais, ypač Titu Livijumi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Būtų buvę ne­

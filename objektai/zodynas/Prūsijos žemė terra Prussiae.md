@@ -19,12 +19,16 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (ter
 
 ## Teiginiai
 
+<a id="claim-t-58920"></a>
 - t-001
+  global_id: t-58920
   teiginys: 'Dusburgietis teigia, kad tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58921"></a>
 - t-002
+  global_id: t-58921
   teiginys: 'Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių, atskirų žemių.'
   pagrindžia:
     - c-002

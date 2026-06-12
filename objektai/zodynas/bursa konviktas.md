@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86518"></a>
 - t-001
+  global_id: t-86518
   teiginys: '2mo: kad tie namai būtų vadinami Valerijono bursomis.'
   pagrindžia:
     - c-001

@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių
 
 ## Santrauka
 
-Kojelavičius teigia, kad pripetės žiotyse įrengęs ka ro stovyklą, jis išsiuntė galybę būrių krašto niokoti. Kojelavičius teigia, kad pirmiausia Erdvilas leido savie siems, pavargusiems iš kelionės, šiek tiek giriose pa silsėti, po to, kiek leido tamsa ir ankščia, išrikiavo ka rius kautynėms, galop prieš pat aušrą, baisiai šaukda mi ir smarkiai puldami, jie įsiveržė į stovyklą. Kojelavičius teigia, kad galop nugalėję lietuviai išvijo barbarus iš stovyklos: galybė priešų krito mūšyje, kur kas dau giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri gėrusių Dnepro ir Pripetės duburiuose.
+Kaidanas įrengė karo stovyklą prie Pripetės žiočių ir išsiuntė daug būrių krašto niokoti. Erdvilas leido kariams pailsėti giriose, prieš aušrą juos išrikiavo kautynėms ir įsiveržė į Kaidano stovyklą. Lietuviai išvijo Kaidano karius iš stovyklos, daug jų nukovė mūšyje ir persekiojo bėgančius prie Dnepro bei Pripetės.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,25 +26,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185564"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pripetės žiotyse įrengęs ka ro stovyklą, jis išsiuntė galybę būrių krašto niokoti.'
+  global_id: t-185564
+  teiginys: 'Kaidanas įrengė karo stovyklą prie Pripetės žiočių ir išsiuntė daug būrių krašto niokoti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185565"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad pirmiausia Erdvilas leido savie siems, pavargusiems iš kelionės, šiek tiek giriose pa silsėti, po to, kiek leido tamsa ir ankščia, išrikiavo ka rius kautynėms, galop prieš pat aušrą, baisiai šaukda mi ir smarkiai puldami, jie įsiveržė į stovyklą.'
+  global_id: t-185565
+  teiginys: 'Erdvilas leido kariams pailsėti giriose, prieš aušrą juos išrikiavo kautynėms ir įsiveržė į Kaidano stovyklą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185566"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad galop nugalėję lietuviai išvijo barbarus iš stovyklos: galybė priešų krito mūšyje, kur kas dau giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri gėrusių Dnepro ir Pripetės duburiuose.'
+  global_id: t-185566
+  teiginys: 'Lietuviai išvijo Kaidano karius iš stovyklos, daug jų nukovė mūšyje ir persekiojo bėgančius prie Dnepro bei Pripetės.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pripetės žiotyse įrengęs ka ro stovyklą, jis išsiuntė galybę būrių krašto niokoti.'
+  santrauka: 'Kaidanas įrengė karo stovyklą prie Pripetės žiočių ir išsiuntė daug būrių krašto niokoti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kaidanas, pasiuntiniams per
@@ -67,7 +72,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad pirmiausia Erdvilas leido savie siems, pavargusiems iš kelionės, šiek tiek giriose pa silsėti, po to, kiek leido tamsa ir ankščia, išrikiavo ka rius kautynėms, galop prieš pat aušrą, baisiai šaukda mi ir smarkiai puldami, jie įsiveržė į stovyklą.'
+  santrauka: 'Erdvilas leido kariams pailsėti giriose, prieš aušrą juos išrikiavo kautynėms ir įsiveržė į Kaidano stovyklą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu Erdvilas, vesdamas lietuvių ir žemaičių ka­
@@ -90,7 +95,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad galop nugalėję lietuviai išvijo barbarus iš stovyklos: galybė priešų krito mūšyje, kur kas dau giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri gėrusių Dnepro ir Pripetės duburiuose.'
+  santrauka: 'Lietuviai išvijo Kaidano karius iš stovyklos, daug jų nukovė mūšyje ir persekiojo bėgančius prie Dnepro bei Pripetės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tiesa, kai buvę toliau
@@ -119,3 +124,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Kalavijai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/barbarai]]
+- [[objektai/asmenys/Kaidanas]]
+- [[objektai/zodynas/Adynos|adynos]]

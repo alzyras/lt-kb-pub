@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87101"></a>
 - t-001
+  global_id: t-87101
   teiginys: 'Il Prie jo buvo įkurta Puškarnia, tai yra, anuometinės artilerijos įrangos bei amunicijos dirbtuvė.'
   pagrindžia:
     - c-001

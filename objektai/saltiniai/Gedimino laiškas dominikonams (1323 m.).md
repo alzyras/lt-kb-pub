@@ -25,12 +25,16 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
 
 ## Teiginiai
 
+<a id="claim-t-88185"></a>
 - t-001
+  global_id: t-88185
   teiginys: 'Gedimino laiške dominikonams rašoma, kad valdovas pasiuntė popiežiui Jonui laišką dėl krikšto ir laukė jo pasiuntinių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88186"></a>
 - t-002
+  global_id: t-88186
   teiginys: 'Gedimino laiške dominikonams Saksonijos magistrui ir priorams nurodyta perskaičius ir nurašius laišką kuo greičiau siųsti toliau.'
   pagrindžia:
     - c-001

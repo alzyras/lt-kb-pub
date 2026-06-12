@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02566"></a>
 - t-001
+  global_id: t-02566
   teiginys: 'Lotzenburgas buvo viena iš Lietuvai artimesnių pilių, įkurta apie 1340 m.'
   pagrindžia:
     - c-001

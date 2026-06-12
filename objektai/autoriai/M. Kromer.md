@@ -16,7 +16,9 @@ Kromerio kronikos.
 
 ## Teiginiai
 
+<a id="claim-t-30838"></a>
 - t-001
+  global_id: t-30838
   teiginys: 'M. Kromerio kronika buvo tarp XVI a. išspausdintų lenkų kronikų, naudotų Lietuvos istorijos pasakojimui.'
   pagrindžia:
     - c-001

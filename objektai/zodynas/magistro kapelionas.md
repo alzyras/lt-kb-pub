@@ -18,7 +18,9 @@ Dusburgietis teigia, kad kronikos autorius, politiniai ir ideologiniai uždavini
 
 ## Teiginiai
 
+<a id="claim-t-58915"></a>
 - t-001
+  global_id: t-58915
   teiginys: 'Dusburgietis teigia, kad kronikos autorius, politiniai ir ideologiniai uždaviniai Dusburgiečio dedikacija kronikos pradžioje rodo, kad jis buvęs Kryžiuočių ordino brolis — kunigas, vėliau, galimas daiktas, magistro kapelionas.'
   pagrindžia:
     - c-001

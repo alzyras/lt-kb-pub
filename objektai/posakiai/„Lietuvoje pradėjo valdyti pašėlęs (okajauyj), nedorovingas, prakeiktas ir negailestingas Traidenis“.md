@@ -22,17 +22,23 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
 
 ## Teiginiai
 
+<a id="claim-t-97299"></a>
 - t-001
+  global_id: t-97299
   teiginys: 'Cituojama kronika Traidenį vadino pašėlusiu, nedorovingu, prakeiktu ir negailestingu Lietuvos valdovu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97300"></a>
 - t-002
+  global_id: t-97300
   teiginys: 'Prie 1270 m. ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis ».'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97301"></a>
 - t-003
+  global_id: t-97301
   teiginys: 'Traidenis apibūdintas kaip pašėlęs, nedorovingas, prakeiktas ir negailestingas Lietuvos valdovas.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK
 
 ## Teiginiai
 
+<a id="claim-t-19771"></a>
 - t-001
+  global_id: t-19771
   teiginys: 'Napoleonas leido Vilniuje įkurti jo pareigūnų prižiūrimą Laikinąją LDK vyriausybę.'
   pagrindžia:
     - c-001

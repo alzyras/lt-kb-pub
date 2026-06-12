@@ -30,7 +30,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-07810"></a>
 - t-001
+  global_id: t-07810
   teiginys: 'Senieji lietuviai paprastai gėrė vandenį, midų, alų, sulą ir girą.'
   pagrindžia:
     - c-001

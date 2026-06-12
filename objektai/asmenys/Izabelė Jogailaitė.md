@@ -27,7 +27,9 @@ Ir ši iki šiol neap­ rūpinta kraičiu dėl karų ir kitų šiais laikais mum
 
 ## Teiginiai
 
+<a id="claim-t-87696"></a>
 - t-001
+  global_id: t-87696
   teiginys: 'Izabelė Jogailaitė buvo karalaitė ir Vengrijos karalienė, kuriai buvo atiduotas kraitis.'
   pagrindžia:
     - c-001

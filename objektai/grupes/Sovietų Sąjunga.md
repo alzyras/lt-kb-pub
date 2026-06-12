@@ -26,37 +26,51 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
 
 ## Teiginiai
 
+<a id="claim-t-74921"></a>
 - t-001
+  global_id: t-74921
   teiginys: 'Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74922"></a>
 - t-002
+  global_id: t-74922
   teiginys: '1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-74923"></a>
 - t-003
+  global_id: t-74923
   teiginys: 'Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso pasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m. vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi tariamai demokratinį valdymą (oficialiai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-74924"></a>
 - t-004
+  global_id: t-74924
   teiginys: 'Reali aukščiausioji valdžia atiteko ne šalyje likusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kartu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-74925"></a>
 - t-005
+  global_id: t-74925
   teiginys: '1944 m. vasarą sovietų kariuomenė, išstūmusi nacistinę Vokietiją, antrą kartą okupavo Lietuvą, Latviją ir Estiją.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-74926"></a>
 - t-006
+  global_id: t-74926
   teiginys: 'Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74927"></a>
 - t-007
+  global_id: t-74927
   teiginys: '1940 VI 15 realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuoja ir aneksuoja Lietuvos Respubliką.'
   pagrindžia:
     - c-003

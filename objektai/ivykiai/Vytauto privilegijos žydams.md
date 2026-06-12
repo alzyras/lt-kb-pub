@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66996"></a>
 - t-001
+  global_id: t-66996
   teiginys: 'Vytautas žydams suteikė privilegijų, savivaldybę, tikėjimo laisvę ir jų gyvybės bei turto apsaugą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66997"></a>
 - t-002
+  global_id: t-66997
   teiginys: 'Vytauto laikais buvo tik trys žydų bendruomenės, — Brastoje, Gardine ir Trakuose, — vėliau jų atsirado visame krašte.'
   pagrindžia:
     - c-001

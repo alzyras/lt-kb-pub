@@ -27,12 +27,16 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
 
 ## Teiginiai
 
+<a id="claim-t-86570"></a>
 - t-001
+  global_id: t-86570
   teiginys: 'Gedimino laiške nurodyta, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86571"></a>
 - t-002
+  global_id: t-86571
   teiginys: 'Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyventojams teisės normas ir anų amžių neįmantriam protui vėliau parašytus įstatymus.'
   pagrindžia:
     - c-002

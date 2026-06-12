@@ -33,12 +33,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66609"></a>
 - t-001
+  global_id: t-66609
   teiginys: '1899 m. Federacijos įkurta „Motinėlė“ šelpė lietuvius moksleivius ir skyrė stipendijas studentams Amerikos bei Europos universitetuose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66610"></a>
 - t-002
+  global_id: t-66610
   teiginys: '1912 m. Federacija Čikagoje sušaukė pirmąjį lietuvių moksleivių suvažiavimą ir įkūrė Amerikos lietuvių R. katalikų moksleivių susivienijimą.'
   pagrindžia:
     - c-001

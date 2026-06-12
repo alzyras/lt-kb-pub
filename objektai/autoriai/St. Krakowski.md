@@ -24,7 +24,9 @@ Krakowski : Korjatowicze i sprawa Podolska w XIV w.
 
 ## Teiginiai
 
+<a id="claim-t-30990"></a>
 - t-001
+  global_id: t-30990
   teiginys: 'St. Krakowskis tiksliai įvertino ginčą dėl Karijotaičių ir Podolės klausimo XIV a. naujausioje lenkų istoriografijoje.'
   pagrindžia:
     - c-001

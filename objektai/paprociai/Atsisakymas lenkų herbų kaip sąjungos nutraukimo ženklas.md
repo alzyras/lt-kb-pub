@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Atsisakymas lenkų herbų kaip sąjungos nutraukimo ženklas
 
 ## Santrauka
 
-Kojelavičius teigia, kad daugelis žymių didikų atsisakė lenkų herbų, norėdami tuo parodyti, jog nutraukia se nąją sąjungą su lenkais.
+Daugelis žymių didikų atsisakė lenkų herbų, norėdami parodyti, kad nutraukia senąją sąjungą su lenkais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185910"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad daugelis žymių didikų atsisakė lenkų herbų, norėdami tuo parodyti, jog nutraukia se nąją sąjungą su lenkais.'
+  global_id: t-185910
+  teiginys: 'Daugelis žymių didikų atsisakė lenkų herbų, norėdami parodyti, kad nutraukia senąją sąjungą su lenkais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad daugelis žymių didikų atsisakė lenkų herbų, norėdami tuo parodyti, jog nutraukia se nąją sąjungą su lenkais.'
+  santrauka: 'Daugelis žymių didikų atsisakė lenkų herbų, norėdami parodyti, kad nutraukia senąją sąjungą su lenkais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai žinia apie šį įsibrovimą pasiekė Bres­
@@ -52,3 +53,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]

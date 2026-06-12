@@ -29,7 +29,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39773"></a>
 - t-001
+  global_id: t-39773
   teiginys: 'Laurencijus Bojeris 1606 m. poemoje „Karolomachija“ aprašė lietuvių pergalę Salaspilio, arba Kircholmo, mūšyje.'
   pagrindžia:
     - c-001

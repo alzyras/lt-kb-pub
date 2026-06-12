@@ -16,12 +16,16 @@ sulatvinimas: ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sula
 
 ## Teiginiai
 
+<a id="claim-t-70339"></a>
 - t-001
+  global_id: t-70339
   teiginys: 'sulatvinimas: ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sulat- vėja.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70340"></a>
 - t-002
+  global_id: t-70340
   teiginys: 'Apskritai stoka lietuviškų mokyklų ir savos inteligentijos, mišros vedybos ir bažnyčių sulatvinimas labai mažina lietuvių skaičių Latvijoje.'
   pagrindžia:
     - c-002

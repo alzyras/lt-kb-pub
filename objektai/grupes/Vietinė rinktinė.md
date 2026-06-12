@@ -26,37 +26,51 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
 
 ## Teiginiai
 
+<a id="claim-t-66256"></a>
 - t-001
+  global_id: t-66256
   teiginys: 'Įstojo į Vietinę rinktinę, 1944 m. kovo mėn.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-66257"></a>
 - t-002
+  global_id: t-66257
   teiginys: 'Vietinės rinktinės daliniai Vilnijoje susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66258"></a>
 - t-003
+  global_id: t-66258
   teiginys: 'Vietinės rinktinės kariai neketino kariauti Vokietijos pusėje ir ėmė skirstytis su ginklais bei amunicija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66259"></a>
 - t-004
+  global_id: t-66259
   teiginys: 'Vokiečių valdžia pritarė lietuvių siūlymui sukurti Vietinę rinktinę, vadovaujamą lietuvių karininkų ir veikiančią tik Lietuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66260"></a>
 - t-005
+  global_id: t-66260
   teiginys: 'Vokiečiams pamėginus priversti Vietinės rinktinės karius vykti į Rytų frontą, šie apsiginklavę skirstėsi namo.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-183193"></a>
 - t-006
+  global_id: t-183193
   teiginys: 'Vokiečiai pareikalavo, kad rinktinė taptų jiems pavaldi.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-183194"></a>
 - t-007
+  global_id: t-183194
   teiginys: 'Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais.'
   pagrindžia:
     - c-007

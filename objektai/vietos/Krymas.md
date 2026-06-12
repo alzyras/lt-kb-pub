@@ -15,7 +15,6 @@ tags:
 amziai:
   - 'XIV'
 ---
-
 # Krymas
 
 ## Santrauka
@@ -24,13 +23,17 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
 
 ## Teiginiai
 
+<a id="claim-t-36338"></a>
 - t-001
+  global_id: t-36338
   teiginys: 'Vytautas savo valdžion paėmė Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184994"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad jie čia pasisamdė penkis šimtus raitelių, ku riuos turėjo vestis į Krymą per Lietuvos žemes.'
+  global_id: t-184994
+  teiginys: 'Kafos gyventojai pasisamdė penkis šimtus raitelių, kuriuos turėjo vestis į Krymą per Lietuvos žemes.'
   pagrindžia:
     - c-002
 
@@ -51,7 +54,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad jie čia pasisamdė penkis šimtus raitelių, ku riuos turėjo vestis į Krymą per Lietuvos žemes.'
+  santrauka: 'Kafos gyventojai pasisamdė penkis šimtus raitelių, kuriuos turėjo vestis į Krymą per Lietuvos žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius Ka-

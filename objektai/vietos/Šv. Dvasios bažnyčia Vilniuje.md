@@ -18,17 +18,23 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 
 ## Teiginiai
 
+<a id="claim-t-86054"></a>
 - t-001
+  global_id: t-86054
   teiginys: 'Prieglaudos sklypo riba buvo žymima nuo vartų, esančių iš gatvės priešais Šv. Dvasios bažnyčios kapinių vartus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86055"></a>
 - t-002
+  global_id: t-86055
   teiginys: 'Šventosios Trejybės prieglaudai plėsti ketinta supirkti Šv. Dvasios bažnyčios namelius ir du namelius priešais bažnyčią.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86056"></a>
 - t-003
+  global_id: t-86056
   teiginys: 'Ulrikas Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę.'
   pagrindžia:
     - c-002

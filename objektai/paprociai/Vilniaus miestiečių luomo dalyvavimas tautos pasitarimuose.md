@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87287"></a>
 - t-001
+  global_id: t-87287
   teiginys: 'Vilniaus klestėjimas ir Magdeburgo teisės paskatino Vytautą leisti miestiečių luomui dalyvauti tautos pasitarimuose.'
   pagrindžia:
     - c-001

@@ -25,7 +25,6 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
-
 # Pinskas
 
 ## Santrauka
@@ -34,58 +33,80 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 
 ## Teiginiai
 
+<a id="claim-t-180412"></a>
 - t-001
+  global_id: t-180412
   teiginys: 'Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-180413"></a>
 - t-002
+  global_id: t-180413
   teiginys: 'Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo kunigaikštijos, t.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-180414"></a>
 - t-003
+  global_id: t-180414
   teiginys: 'Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-180415"></a>
 - t-004
-  teiginys: 'Vyriausias sūnus, Manv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algirdas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.'
+  global_id: t-180415
+  teiginys: 'Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-180416"></a>
 - t-005
+  global_id: t-180416
   teiginys: 'Jaunutis pabėgo kartu su jam palankiu broliu Narimantu, Pinsko kunigaikščiu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-180417"></a>
 - t-006
+  global_id: t-180417
   teiginys: 'Pinsko kunigaikštystė buvo prijungta prie Lietuvos kartu su Turovo kunigaikštyste.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-180418"></a>
 - t-007
+  global_id: t-180418
   teiginys: 'Narimantas, Pinsko kunigaikštis, po Kęstučio 1345 m. puolimo ieškojo prieglobsčio pas totorių chaną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-180419"></a>
 - t-008
+  global_id: t-180419
   teiginys: 'Valdymo pabaigoje Pinskas buvo tarp vietų, kuriose dar liko atskiros kunigaikštystės.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-180420"></a>
 - t-009
+  global_id: t-180420
   teiginys: 'Pinske atsirado jėzuitų kolegija, funduota kanclerio Alberto Stanislovo Radvilos.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-180422"></a>
 - t-010
+  global_id: t-180422
   teiginys: 'Vietą savo stovyklavietei jie pasirinko prie Klecko miesto, kuris dar 1503 m. buvo jų sunaikintas ir nekėlė pavojaus, o stovėdamas ant kelių, vedančių į Pinską, Vilnių, Nesvyžių ir Slucką, buvo itin geras punktas išpuoliams, kuriuos totoriai vykdė pasiskirstę.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-185085"></a>
 - t-011
-  teiginys: 'Kojelavičius teigia, kad polesė — baltarusių gyvenama te ritorija, kurios žymiausi miestai — Turovas, Pinskas, David Gorodokas.'
+  global_id: t-185085
+  teiginys: 'Pinskas minimas kaip vienas žymiausių baltarusių gyvenamos Polesės miestų.'
   pagrindžia:
     - c-010
 
@@ -176,6 +197,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     - t-008
 
 - c-006
+  santrauka: 'Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mirdamas jis paliko 7 sūnus.
@@ -256,7 +278,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     - t-002
 
 - c-010
-  santrauka: 'Kojelavičius teigia, kad polesė — baltarusių gyvenama te ritorija, kurios žymiausi miestai — Turovas, Pinskas, David Gorodokas.'
+  santrauka: 'Pinskas minimas kaip vienas žymiausių baltarusių gyvenamos Polesės miestų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     3 „Lietuvos istorijos" I tome A. Kojelavičius daugelyje atvejų

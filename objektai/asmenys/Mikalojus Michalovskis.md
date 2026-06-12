@@ -18,7 +18,9 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 
 ## Teiginiai
 
+<a id="claim-t-87918"></a>
 - t-001
+  global_id: t-87918
   teiginys: 'Sandomiro vaivada Mikalojus Michalovskis, karaliaus ir Lenkijos senato siųstas į Vilnių, grasino Vytautui karu, jei šis neatsisakys savo sumanymo.'
   pagrindžia:
     - c-001

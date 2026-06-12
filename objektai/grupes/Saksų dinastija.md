@@ -27,17 +27,23 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 
 ## Teiginiai
 
+<a id="claim-t-20000"></a>
 - t-001
+  global_id: t-20000
   teiginys: 'Valdant Saksų dinastijai 1697–1763 m. Lietuva tapo Šiaurės karo tarp Rusijos ir Švedijos kovų arena.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-20001"></a>
 - t-002
+  global_id: t-20001
   teiginys: 'Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislovas Augustas Poniatovskis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183180"></a>
 - t-003
+  global_id: t-183180
   teiginys: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
   pagrindžia:
     - c-002

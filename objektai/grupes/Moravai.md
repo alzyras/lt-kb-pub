@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-34360"></a>
 - t-001
+  global_id: t-34360
   teiginys: 'Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.'
   pagrindžia:
     - c-001

@@ -19,12 +19,16 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
 
 ## Teiginiai
 
+<a id="claim-t-42320"></a>
 - t-001
+  global_id: t-42320
   teiginys: 'Rugsėjo 4 d. lietuviai pasiekė Dauguvos ir Volgos upių vandenskyrą, kur ilsėjosi ir išsižvalgė apylinkes.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-42321"></a>
 - t-002
+  global_id: t-42321
   teiginys: 'Radvilos pajėgos, perėjusios Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link.'
   pagrindžia:
     - c-001

@@ -26,7 +26,9 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
 
 ## Teiginiai
 
+<a id="claim-t-26445"></a>
 - t-001
+  global_id: t-26445
   teiginys: 'Jascha Heifetzas buvo 1901 m. Vilniuje gimęs ir smuiko mokęsis virtuozas.'
   pagrindžia:
     - c-001

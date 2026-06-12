@@ -17,7 +17,9 @@ Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus krašto lenkų kom
 
 ## Teiginiai
 
+<a id="claim-t-22029"></a>
 - t-001
+  global_id: t-22029
   teiginys: 'Lietuvos valdžiai terminuotai įvedus tiesioginį valdymą Vilniaus ir Šalčininkų rajonuose, santykiai su Lenkija nepablogėjo.'
   pagrindžia:
     - c-001

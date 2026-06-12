@@ -19,7 +19,9 @@ Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams nusiaubus Li
 
 ## Teiginiai
 
+<a id="claim-t-21485"></a>
 - t-001
+  global_id: t-21485
   teiginys: '1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę.'
   pagrindžia:
     - c-001

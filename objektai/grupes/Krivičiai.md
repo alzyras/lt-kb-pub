@@ -17,7 +17,9 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
 
 ## Teiginiai
 
+<a id="claim-t-31222"></a>
 - t-001
+  global_id: t-31222
   teiginys: 'Krivičiai Dniepro ir Dauguvos aukštupiuose gyveno gana žemame kultūros laipsnyje.'
   pagrindžia:
     - c-001

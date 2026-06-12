@@ -28,7 +28,9 @@ ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhielmas (Carl Carlson Gyllen
 
 ## Teiginiai
 
+<a id="claim-t-40260"></a>
 - t-001
+  global_id: t-40260
   teiginys: 'Karina Nilsdotter buvo Karolio Carlsono Gyllenhielmo motina.'
   pagrindžia:
     - c-001

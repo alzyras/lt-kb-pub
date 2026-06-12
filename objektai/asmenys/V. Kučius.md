@@ -24,7 +24,9 @@ Kučiui panaudojus spec.
 
 ## Teiginiai
 
+<a id="claim-t-40488"></a>
 - t-001
+  global_id: t-40488
   teiginys: '1949 m. spalio 24 d. MGB agentas V. Kučius panaudojo specialius preparatus „Neptun-20“ prieš partizanų suėmimą.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ Lietuvių Bendruomenė 18 Juodoji jūra 22, 23, 94, 99, 240, 257, 262, 282, 297,
 
 ## Teiginiai
 
+<a id="claim-t-99909"></a>
 - t-001
+  global_id: t-99909
   teiginys: 'Lietuvių Bendruomenė 18 Juodoji jūra 22, 23, 94, 99, 240, 257, 262, 282, 297, 310, 311, 315, 318 Juodoji Rusia (Rusija) 125, 164, 172, 178, 197, 201, 245, 297 Jūra, upė 171, 180, 212, 219, 332, 333, 359 Jurbarkas (ir pilis) 183, 274, 330 Jurgaičiai 105, 109.'
   pagrindžia:
     - c-001

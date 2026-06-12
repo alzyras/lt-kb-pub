@@ -29,58 +29,80 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 
 ## Teiginiai
 
+<a id="claim-t-122421"></a>
 - t-001
+  global_id: t-122421
   teiginys: 'Apsirūpinus artilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai buvo siuntinėjami po Ukrainos pilis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-122422"></a>
 - t-002
+  global_id: t-122422
   teiginys: 'Karališkųjų muitinių valdytojai Ukrainoje naujais mokesčiais bandė varžyti iš Vilniaus gabenamų prekių prekybą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-122423"></a>
 - t-003
+  global_id: t-122423
   teiginys: '1919 m. pavasarį Lenkijos kariuomenė kovojo Ukrainoje prie Lvovo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-122424"></a>
 - t-004
+  global_id: t-122424
   teiginys: 'Kaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie pasirodė apie trečio tūkstantmečio pr.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-122425"></a>
 - t-005
+  global_id: t-122425
   teiginys: 'Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą praleisti paskutinių senatvės dienų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-122426"></a>
 - t-006
+  global_id: t-122426
   teiginys: '1595 m. Ukrainoje, vadovaudamas kuopai, pasižymėjo malšindamas kazokų sukilimą.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-122427"></a>
 - t-007
+  global_id: t-122427
   teiginys: 'Švitrigaila po prieglobsčio Vitebske nusigavo į Ukrainą praleisti paskutinių savo senatvės dienų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-122428"></a>
 - t-008
+  global_id: t-122428
   teiginys: 'Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas ir didžiausias kazokų priešas.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-122429"></a>
 - t-009
+  global_id: t-122429
   teiginys: 'Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183096"></a>
 - t-011
+  global_id: t-183096
   teiginys: 'Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas ir didžiausias kazokų priešas.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-185168"></a>
 - t-012
-  teiginys: 'Kojelavičius teigia, kad iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio navo Ukrainos prijungimą prie Lenkijos, pripažino ka ralių ir bendrą seimą jungtinės valstybės suverenu, užtikrino žemės nuosavybės ir žemėvaldos teisę tik šlėktų luomo nariams, o politines teises — tik.'
+  global_id: t-185168
+  teiginys: 'Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos.'
   pagrindžia:
     - c-010
 
@@ -243,7 +265,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     - t-011
 
 - c-010
-  santrauka: 'Kojelavičius teigia, kad iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio navo Ukrainos prijungimą prie Lenkijos, pripažino ka ralių ir bendrą seimą jungtinės valstybės suverenu, užtikrino žemės nuosavybės ir žemėvaldos teisę tik šlėktų luomo nariams, o politines teises — tik.'
+  santrauka: 'Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio­

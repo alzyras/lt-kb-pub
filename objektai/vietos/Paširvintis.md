@@ -17,7 +17,9 @@ Tuomet lietuviai, tiltu perėję Širvintos upę, atakavo prie Paširvinčio dva
 
 ## Teiginiai
 
+<a id="claim-t-42020"></a>
 - t-001
+  global_id: t-42020
   teiginys: 'Prie Paširvinčio dvaro lietuviai atakavo lenkų artilerijos būrį, kurio karininkas buvo nušautas, o artileristai išsibėgiojo.'
   pagrindžia:
     - c-001

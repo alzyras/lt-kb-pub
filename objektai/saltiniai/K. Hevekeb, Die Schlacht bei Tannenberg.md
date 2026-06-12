@@ -26,7 +26,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31757"></a>
 - t-001
+  global_id: t-31757
   teiginys: 'K. Hevekebo „Die Schlacht bei Tannenberg“ 1906 m. buvo apginta kaip disertacija Berlyne.'
   pagrindžia:
     - c-001

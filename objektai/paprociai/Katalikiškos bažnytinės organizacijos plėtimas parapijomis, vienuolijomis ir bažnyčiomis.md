@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54247"></a>
 - t-001
+  global_id: t-54247
   teiginys: 'Katalikiška bažnytinė organizacija plėtėsi kuriant parapijas ir statant bažnyčias net toli nuo vyskupijų centrų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54248"></a>
 - t-002
+  global_id: t-54248
   teiginys: 'Katalikiška bažnytinė organizacija plėsta kuriant parapijas ir statant bažnyčias net toli nuo vyskupijų centrų.'
   pagrindžia:
     - c-001

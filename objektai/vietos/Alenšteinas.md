@@ -26,12 +26,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-51349"></a>
 - t-001
+  global_id: t-51349
   teiginys: 'Kariuomenės taryba nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-51350"></a>
 - t-002
+  global_id: t-51350
   teiginys: 'Žygio planuotojai nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą.'
   pagrindžia:
     - c-001

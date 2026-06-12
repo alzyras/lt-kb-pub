@@ -16,7 +16,9 @@ Baranovskio brigada atakuoja 2-ojo pėst.
 
 ## Teiginiai
 
+<a id="claim-t-40892"></a>
 - t-001
+  global_id: t-40892
   teiginys: 'Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių.'
   pagrindžia:
     - c-001

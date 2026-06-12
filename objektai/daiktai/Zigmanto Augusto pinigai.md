@@ -38,17 +38,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-65011"></a>
 - t-001
+  global_id: t-65011
   teiginys: 'Zigmantas Augustas apie 1565 m. Tikocine pradėjo kalti lenkiškos vertės pinigus, bet dėl nepasitenkinimo darbą nutraukė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65012"></a>
 - t-002
+  global_id: t-65012
   teiginys: 'Zigmanto Augusto laikais Lietuvoje buvo nukalta daug įvairių pinigų, tarp jų obolių, denarų, skatikų, talerių ir dukatų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-65013"></a>
 - t-003
+  global_id: t-65013
   teiginys: 'Visuose Zigmanto Augusto piniguose buvo įrašas „Moneta magni ducatus Lithuaniae“.'
   pagrindžia:
     - c-003

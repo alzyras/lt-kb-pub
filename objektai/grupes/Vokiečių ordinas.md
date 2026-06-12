@@ -31,37 +31,51 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
 
 ## Teiginiai
 
+<a id="claim-t-182835"></a>
 - t-001
+  global_id: t-182835
   teiginys: 'Vokiečių ordino magistrui uždraudus į Lietuvą įvežti druską, Vytautas liepė vokiečių pirkliams iki Sekminių išvykti iš Lietuvos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182837"></a>
 - t-002
+  global_id: t-182837
   teiginys: 'Vokiečių ordinas turėjo didelę įtaką Vytauto laikų prekybai, nes per jo žemes ėjo svarbūs keliai į Vakarų Europą ir Dancigą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182838"></a>
 - t-003
+  global_id: t-182838
   teiginys: 'Vokiečių ordinui draudžiant į Lietuvą įvežti ginklus ir arklius, Vytautas jų gaudavo iš Rygos ir Krokuvos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-182839"></a>
 - t-004
+  global_id: t-182839
   teiginys: 'Grabovo suvažiavime Vytautas pareikalavo, kad Vokiečių ordinas atlygintų už paimtas prekes ir nužudytų pirklių šeimoms.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183198"></a>
 - t-005
+  global_id: t-183198
   teiginys: 'Tai padaryti trukdė Vokiečių ordinas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-183199"></a>
 - t-006
+  global_id: t-183199
   teiginys: 'Po Žalgirio mūšio pagrindinė Vytauto konflikto su Vokiečių ordinu priežastis liko Žemaitija.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-183200"></a>
 - t-007
+  global_id: t-183200
   teiginys: 'Siekti karūnacijos Vytautas pradėjo išsprendęs savo politikos prioritetą – 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir grėsmės Lietuvai nebekėlė.'
   pagrindžia:
     - c-006

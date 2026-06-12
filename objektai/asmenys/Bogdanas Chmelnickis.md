@@ -14,29 +14,32 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Bogdanas Chmelnickis
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai 1648 m. Bogdano Chmelnickio vadovaujami suki lę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti savo valstybę, Lietuvos ir Lenkijos feodalai su šlėk tomis slopino juos, panaudodami ne tik jungtinės vals tybės, bet ir savo valdų privačią kariuomenę. Kojelavičius teigia, kad 14 Rusios baudžiauninkų sukilimu autorius vadina ukrainiečių sukilimą, vadovautą Bogdano Chmelnickio.
+1648 m. Bogdano Chmelnickio vadovaujami sukilę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti savo valstybę. Kojelavičius Bogdano Chmelnickio vadovautą ukrainiečių sukilimą vadino Rusios baudžiauninkų sukilimu.
 
 ## Teiginiai
 
+<a id="claim-t-186099"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai 1648 m. Bogdano Chmelnickio vadovaujami suki lę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti savo valstybę, Lietuvos ir Lenkijos feodalai su šlėk tomis slopino juos, panaudodami ne tik jungtinės vals tybės, bet ir savo valdų privačią kariuomenę.'
+  global_id: t-186099
+  teiginys: '1648 m. Bogdano Chmelnickio vadovaujami sukilę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti savo valstybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186100"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad 14 Rusios baudžiauninkų sukilimu autorius vadina ukrainiečių sukilimą, vadovautą Bogdano Chmelnickio.'
+  global_id: t-186100
+  teiginys: 'Kojelavičius Bogdano Chmelnickio vadovautą ukrainiečių sukilimą vadino Rusios baudžiauninkų sukilimu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai 1648 m. Bogdano Chmelnickio vadovaujami suki lę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti savo valstybę, Lietuvos ir Lenkijos feodalai su šlėk tomis slopino juos, panaudodami ne tik jungtinės vals tybės, bet ir savo valdų privačią kariuomenę.'
+  santrauka: '1648 m. Bogdano Chmelnickio vadovaujami sukilę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti savo valstybę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio­
@@ -60,7 +63,7 @@ Kojelavičius teigia, kad kai 1648 m. Bogdano Chmelnickio vadovaujami suki lę u
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad 14 Rusios baudžiauninkų sukilimu autorius vadina ukrainiečių sukilimą, vadovautą Bogdano Chmelnickio.'
+  santrauka: 'Kojelavičius Bogdano Chmelnickio vadovautą ukrainiečių sukilimą vadino Rusios baudžiauninkų sukilimu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš to aiškėja,
@@ -74,3 +77,14 @@ Kojelavičius teigia, kad kai 1648 m. Bogdano Chmelnickio vadovaujami suki lę u
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltarusiai]]
+- [[objektai/zodynas/Baudžiava]]
+- [[objektai/grupes/Ukrainiečiai]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/zodynas/unija]]

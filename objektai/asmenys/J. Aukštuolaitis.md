@@ -16,7 +16,9 @@ Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuo
 
 ## Teiginiai
 
+<a id="claim-t-40151"></a>
 - t-001
+  global_id: t-40151
   teiginys: 'J. Aukštuolaitis vadovavo Tauragėje besikūrusiam Žemaičių batalionui, kuris netrukus buvo išformuotas.'
   pagrindžia:
     - c-001

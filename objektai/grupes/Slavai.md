@@ -28,43 +28,59 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 
 ## Teiginiai
 
+<a id="claim-t-89225"></a>
 - t-001
+  global_id: t-89225
   teiginys: 'Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pačios indoeuropiečių, arba arijų, tautų grupės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89226"></a>
 - t-002
+  global_id: t-89226
   teiginys: 'Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyvenama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešingai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į rytus ir apėmė plačias rytų slavų žemes.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-89227"></a>
 - t-003
+  global_id: t-89227
   teiginys: 'Vėliau, I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi rytinių baltų asimiliaciją.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-89228"></a>
 - t-004
+  global_id: t-89228
   teiginys: 'Slavų ekspansija artėjo prie Lietuvos žemių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89229"></a>
 - t-005
+  global_id: t-89229
   teiginys: 'Dusburgietis teigia, kad (Skomantburg) Skorpiono žvaigždynas Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas) Skronaitė (Scroneyte, Scroneiten), p. Skuodas Skuomantai Slavija slavai vakarų slavai (kašubai) slaviškos žemės Slina (Ślina), u.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89230"></a>
 - t-006
+  global_id: t-89230
   teiginys: 'Manoma, kad jei ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos vardas būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-89231"></a>
 - t-007
+  global_id: t-89231
   teiginys: 'Dusburgietis teigia, kad skuodas Skuomantai Slavija slavai vakarų slavai (kašubai) slaviškos žemės Slina (Ślina), u.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89232"></a>
 - t-008
-  teiginys: 'Todėl, kai Karolis pasiekė slavus, jo agentai sužinojo, kad už slavų gyvena dar lietuviai.'
+  global_id: t-89232
+  teiginys: 'Karolio Didžiojo agentai, pasiekę slavus, sužinojo, kad už slavų gyvena lietuviai.'
   pagrindžia:
     - c-002
 
@@ -86,6 +102,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-001
 
 - c-002
+  santrauka: 'Karolio Didžiojo agentai, pasiekę slavus, sužinojo, kad už slavų gyvena lietuviai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmasis lietuvių vardą yra
@@ -173,7 +190,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - t-003
 
 - c-007
-  santrauka: 'Todėl, kai Karolis pasiekė slavus, jo agentai sužinojo, kad už slavų gyvena dar lietuviai.'
+  santrauka: 'Karolio Didžiojo agentai, pasiekę slavus, sužinojo, kad už slavų gyvena lietuviai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kurdamas savo

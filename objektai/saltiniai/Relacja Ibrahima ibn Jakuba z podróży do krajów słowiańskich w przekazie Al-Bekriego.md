@@ -22,7 +22,9 @@ Dusburgietis teigia, kad [Ibrahim ibn Jákūb].
 
 ## Teiginiai
 
+<a id="claim-t-61269"></a>
 - t-001
+  global_id: t-61269
   teiginys: 'T. Kowalskis parengė „Relacja Ibrahima ibn Jakuba z podróży do krajów słowiańskich w przekazie Al-Bekriego“, išleistą Krokuvoje 1946 m.'
   pagrindžia:
     - c-001

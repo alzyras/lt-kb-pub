@@ -17,7 +17,9 @@ Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su r
 
 ## Teiginiai
 
+<a id="claim-t-40307"></a>
 - t-001
+  global_id: t-40307
   teiginys: 'Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti.'
   pagrindžia:
     - c-001

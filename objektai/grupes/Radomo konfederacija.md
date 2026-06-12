@@ -18,12 +18,16 @@ Radomo konfederacija. Tada konfederacija iš Radomo buvo perkelta į Varšuvą, 
 
 ## Teiginiai
 
+<a id="claim-t-66046"></a>
 - t-001
+  global_id: t-66046
   teiginys: 'Radomo konfederacija 1767 m. buvo sudaryta Rusijos kariuomenės apsuptame Radome.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66047"></a>
 - t-002
+  global_id: t-66047
   teiginys: 'Radomo konfederacija iš Radomo buvo perkelta į Varšuvą, kur gyveno Repninas.'
   pagrindžia:
     - c-002

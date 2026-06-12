@@ -17,12 +17,16 @@ Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.
 
 ## Teiginiai
 
+<a id="claim-t-34311"></a>
 - t-001
+  global_id: t-34311
   teiginys: 'Dėl nedraugiškų žygių Lenkijos atžvilgiu Vytautas buvo įtarinėjamas neištikimybe ir separatizmu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184248"></a>
 - t-002
+  global_id: t-184248
   teiginys: 'Dėl nedraugiškų žygių Lenkijos atžvilgiu Vytautas Krokuvoje buvo pradėtas įtarinėti neištikimybe ir separatizmu.'
   pagrindžia:
     - c-002

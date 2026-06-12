@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87043"></a>
 - t-001
+  global_id: t-87043
   teiginys: 'Surašius, persvėrus ir įvertinus Akademinės vaistinės medžiagas, jų vertė buvo mažesnė 28 707 auksinais ir 12 grašių.'
   pagrindžia:
     - c-001

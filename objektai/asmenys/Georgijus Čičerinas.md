@@ -17,7 +17,9 @@ Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos interesus Vilniuj
 
 ## Teiginiai
 
+<a id="claim-t-18915"></a>
 - t-001
+  global_id: t-18915
   teiginys: 'Georgijaus Čičerino nota prie pakto patvirtino Lietuvos interesus Vilniuje ir Maskvos poziciją dėl Lietuvos teritorinio suverenumo.'
   pagrindžia:
     - c-001

@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66600"></a>
 - t-001
+  global_id: t-66600
   teiginys: 'Karolio XII įžengimas į Lietuvą ir Žemaitijos, Kauno, Vilniaus užėmimas (1702 m.): su ta kariuomene ir suor- ganizuotais bajorijos būriais (konfederacijomis) jie puolė šve- dus ir Sapiegas. Iki pat karo pabaigos vieni kitus naikino, te- riojo kraštą, galutinai nelaimėdami nei vieni nei kiti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66601"></a>
 - t-002
+  global_id: t-66601
   teiginys: '1702 m. Karolis XII su kariuomene užėmė Žemaitiją, Kauną ir Vilnių, paskui nužygiavo į Lenkiją.'
   pagrindžia:
     - c-001

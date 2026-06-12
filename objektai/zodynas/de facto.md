@@ -24,17 +24,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-75544"></a>
 - t-001
+  global_id: t-75544
   teiginys: 'Tačiau pilietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija 1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama tas valstybes ir sustiprindama jų pozicijas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75545"></a>
 - t-002
+  global_id: t-75545
   teiginys: 'Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos masinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių susirinko prie laikinosios sostinės Kauno.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75546"></a>
 - t-003
+  global_id: t-75546
   teiginys: 'Tais metais de facto Lietuvą pripažino Norvegija, Latvija, Suomija, 1920 m. – Prancūzija (gegužės 11 d.) ir Lenkija (liepos 4 d.).'
   pagrindžia:
     - c-001

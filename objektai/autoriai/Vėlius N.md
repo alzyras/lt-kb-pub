@@ -26,17 +26,23 @@ Dusburgietis teigia, kad 1-oje pusėje Įsrutiės ir kitose lietuviškose Rytpr�
 
 ## Teiginiai
 
+<a id="claim-t-60563"></a>
 - t-001
+  global_id: t-60563
   teiginys: 'N. Vėlius cituojamas kaip šaltinis apie XVII a. pirmos pusės Rytprūsių burtininkus ir pas juos ėjusius žmones.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60564"></a>
 - t-002
+  global_id: t-60564
   teiginys: 'Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J., Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89; Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės baltų..., p. 221—223, 234.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60565"></a>
 - t-003
+  global_id: t-60565
   teiginys: 'Dusburgietis teigia, kad legendiniai kunigaikščiai sietini su žyniauti gebėjusių asmenų gimine (Vėlius N., Senovės baltų..., p. 226—229), ši tradicija, atrodo, išliko ir vėliau, tačiau kunigaikščių-vadų ir žynių funkcijos vis labiau diferencijavosi.'
   pagrindžia:
     - c-002

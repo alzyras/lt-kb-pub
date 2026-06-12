@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41708"></a>
 - t-001
+  global_id: t-41708
   teiginys: '1435 m. spalį smogta Livonijai dar kartą, kai žemaičiai Kurše sudegino Durbės pilį.'
   pagrindžia:
     - c-001

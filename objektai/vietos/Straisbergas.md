@@ -18,7 +18,6 @@ tags:
 amziai:
   - 'XIII'
 ---
-
 # Straisbergas
 
 ## Santrauka
@@ -27,13 +26,17 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
 
 ## Teiginiai
 
+<a id="claim-t-58731"></a>
 - t-001
+  global_id: t-58731
   teiginys: 'Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo 29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus gyventojus ir vieną kunigą, o moteris bei.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185157"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad be kitos priešui padarytos žalos, apiplėšė Straisbergo miestą rugsėjo pabaigoje per šventą Mykolą: žuvo daugybė žmonių, gausiai susirinkusių į bažnyčias.'
+  global_id: t-185157
+  teiginys: 'Rugsėjo pabaigoje per šventą Mykolą lietuviai apiplėšė Straisbergą, kur bažnyčiose žuvo daugybė susirinkusių žmonių.'
   pagrindžia:
     - c-002
 
@@ -58,7 +61,7 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad be kitos priešui padarytos žalos, apiplėšė Straisbergo miestą rugsėjo pabaigoje per šventą Mykolą: žuvo daugybė žmonių, gausiai susirinkusių į bažnyčias.'
+  santrauka: 'Rugsėjo pabaigoje per šventą Mykolą lietuviai apiplėšė Straisbergą, kur bažnyčiose žuvo daugybė susirinkusių žmonių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šis žygis iš pradžių labai se­

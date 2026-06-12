@@ -28,87 +28,121 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-172913"></a>
 - t-001
+  global_id: t-172913
   teiginys: 'Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-172914"></a>
 - t-002
+  global_id: t-172914
   teiginys: 'Strijkovskis neužsiminė apie tariamą Goštauto vienuolystę ir vyskupystę, todėl ši aplinkybė tekste atmetama.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-172916"></a>
 - t-004
+  global_id: t-172916
   teiginys: 'Stryjkowskis nurodė, kad Švitrigaila piliai užimti pasinaudojo rusų vienuolių, vadintų čiornais, išdavyste.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-172920"></a>
 - t-007
+  global_id: t-172920
   teiginys: 'Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-172922"></a>
 - t-009
+  global_id: t-172922
   teiginys: 'Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-172927"></a>
 - t-014
+  global_id: t-172927
   teiginys: 'Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimą, Goštautas pastatydino Šv. Petro bažnyčią.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-172928"></a>
 - t-015
+  global_id: t-172928
   teiginys: '7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-172930"></a>
 - t-017
+  global_id: t-172930
   teiginys: 'Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-172931"></a>
 - t-018
+  global_id: t-172931
   teiginys: 'Strijkovskis užsiminė apie mūšį, po kurio prie Sudervėlės upelio liko lietuvių sumuštų kryžiuočių kapavietė.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-172932"></a>
 - t-019
+  global_id: t-172932
   teiginys: 'Strijkovskis plačiai aprašė gudrybes, kurių Kęstutis ėmėsi puldamas Vilnių.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-172933"></a>
 - t-020
+  global_id: t-172933
   teiginys: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-172935"></a>
 - t-022
+  global_id: t-172935
   teiginys: 'Strijkovskis teigė, kad Gedimino palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-172936"></a>
 - t-023
+  global_id: t-172936
   teiginys: 'Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors šis tapatinimas laikomas klaidingu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-172937"></a>
 - t-024
+  global_id: t-172937
   teiginys: 'Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-172940"></a>
 - t-027
+  global_id: t-172940
   teiginys: 'Strijkovskis klydo teigdamas, kad miškas lietuviškai vadinamas lauku ir iš šio žodžio kilo Lukiškių pavadinimas.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-172941"></a>
 - t-028
+  global_id: t-172941
   teiginys: 'Strijkovskis, aprašydamas Vilniaus apgultį, teigė, kad Mikalojus Moskorovskis su lenkais narsiai gynė Aukštutinę pilį.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-172942"></a>
 - t-029
+  global_id: t-172942
   teiginys: 'Strijkovskis prie Vilniaus apsupties metu nukautųjų priskyrė Narimantą ir pateikė Długoszo pasakojimą apie jo mirtį.'
   pagrindžia:
     - c-013

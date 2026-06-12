@@ -25,27 +25,37 @@ Visa tai ėjo Lietuvos ir Lenkijos teisių sulyginimo (coaequatio iurium) šūki
 
 ## Teiginiai
 
+<a id="claim-t-02228"></a>
 - t-001
+  global_id: t-02228
   teiginys: '1697 m. coaequatio iurium įstatymas nustatė, kad Lietuvos teismų sprendimai turi būti rašomi lenkų, o ne senąja kanceliarine gudų kalba.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-02229"></a>
 - t-002
-  teiginys: 'Coaequatio iurium įstatymas buvo naujas Lietuvos ir Lenkijos suartėjimo įrodymas.'
+  global_id: t-02229
+  teiginys: 'A. Šapokos redaguotoje „Lietuvos istorijoje“ coaequatio iurium įstatymas laikomas nauju Lietuvos ir Lenkijos suartėjimo įrodymu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-02230"></a>
 - t-003
+  global_id: t-02230
   teiginys: 'Kancleriui nesipriešinant, vieni Sapiegos nepajėgė apginti ministerių teisių, ir coaequatio iurium įstatymas buvo priimtas elekciniame seime (1697 m.).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-02231"></a>
 - t-004
+  global_id: t-02231
   teiginys: '1697 m. coaequatio iurium įstatymu Lietuvos teismuose buvo panaikinta gudų kalba, o oficialūs raštai pradėti rašyti lenkiškai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-02232"></a>
 - t-005
+  global_id: t-02232
   teiginys: 'Lietuvos ir Lenkijos teisių sulyginimo įstatymu siekta suvienodinti Lietuvos ir Lenkijos ministerių teises.'
   pagrindžia:
     - c-004
@@ -84,6 +94,7 @@ Visa tai ėjo Lietuvos ir Lenkijos teisių sulyginimo (coaequatio iurium) šūki
     - t-004
 
 - c-003
+  santrauka: 'A. Šapokos redaguotoje „Lietuvos istorijoje“ coaequatio iurium įstatymas laikomas nauju Lietuvos ir Lenkijos suartėjimo įrodymu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik Bažnyčia dar ilgai tebevartojo

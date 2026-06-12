@@ -27,7 +27,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87842"></a>
 - t-001
+  global_id: t-87842
   teiginys: 'Raina Sluščianka buvo Martyno Paleckio žmona ir sutarties su miestu dėl stiklo liejyklos bei stiklo supirkimo dalyvė.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Mackevičius, 1934 m. L I E T U V O S I S T O R I J A 52 ceremonija neįvyko –
 
 ## Teiginiai
 
+<a id="claim-t-77825"></a>
 - t-001
+  global_id: t-77825
   teiginys: 'Lenkijos ponų taryba privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo ceremonijos.'
   pagrindžia:
     - c-001

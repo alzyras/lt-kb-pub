@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-100051"></a>
 - t-001
+  global_id: t-100051
   teiginys: '299 Goštautas, Kriavo seniūnas 365, 368, 377 Goštautas Putras 258 Goštautas, Veliuonos pilies vadas 251 Gotlandas 101, 107, 115, 184, 227 Gotteswerderio pilis 252, 329, 347 Göttingen 90 Götz von Selle 90 Grabovo derybos 348 Graikija 102 Grajevo ež.'
   pagrindžia:
     - c-001

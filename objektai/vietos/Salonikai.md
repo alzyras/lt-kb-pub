@@ -17,7 +17,9 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
 
 ## Teiginiai
 
+<a id="claim-t-21793"></a>
 - t-001
+  global_id: t-21793
   teiginys: 'XVIII–XIX a. sandūroje Salonikai minimi tarp pirmojo žydų pasaulinių kultūros centrų dešimtuko miestų.'
   pagrindžia:
     - c-001

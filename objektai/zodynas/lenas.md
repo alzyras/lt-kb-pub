@@ -3,7 +3,6 @@ tipas: zodyno_irasas
 pavadinimas: 'lenas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,14 +18,17 @@ Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo pris
 
 ## Teiginiai
 
+<a id="claim-t-70204"></a>
 - t-001
-  teiginys: 'Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Lenkijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vytauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vytauto tiesioginei valdžiai atiteko tik rytinė.'
+  global_id: t-70204
+  teiginys: 'Pašalinus Karijotaitį, vidurinė Podolės dalis kaip lenas buvo atiduota valdyti Vytauto šalininkui Spytkui iš Melštyno.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pašalinus Karijotaitį, vidurinė Podolės dalis kaip lenas buvo atiduota valdyti Vytauto šalininkui Spytkui iš Melštyno.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu tiesioginei Vytauto valdžiai atiteko ir ši,
@@ -44,7 +46,7 @@ Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo pris
     - t-001
 
 - c-002
-  santrauka: 'Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Lenkijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vytauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vytauto tiesioginei valdžiai atiteko tik rytinė.'
+  santrauka: 'Pašalinus Karijotaitį, vidurinė Podolės dalis kaip lenas buvo atiduota valdyti Vytauto šalininkui Spytkui iš Melštyno.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš visų čia suminėtų sri-

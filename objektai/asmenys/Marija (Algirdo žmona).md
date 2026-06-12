@@ -27,12 +27,16 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87545"></a>
 - t-001
+  global_id: t-87545
   teiginys: 'Marija buvo Tverės kunigaikštytė ir Algirdo žmona.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87546"></a>
 - t-002
+  global_id: t-87546
   teiginys: 'Marija, Algirdo žmona, globojo į Vilnių atvykstančius rusinus ir siekė lietuviams pagonims skleisti graikų apeigų krikščionybę.'
   pagrindžia:
     - c-002

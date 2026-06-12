@@ -16,12 +16,16 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
 
 ## Teiginiai
 
+<a id="claim-t-173016"></a>
 - t-001
+  global_id: t-173016
   teiginys: 'Vytauto valdytos Lietuvos dominijos, žemės, turtai ir kunigaikštijos turėjo tekti Jogailai, jo įpėdiniams, karūnai ir Lenkijos karalystei.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-173017"></a>
 - t-002
+  global_id: t-173017
   teiginys: 'Dokumente numatyta, kad po Vytauto mirties Didžioji Lietuvos Kunigaikštystė ir jos dominijos turi tekti Jogailai ir Lenkijai.'
   pagrindžia:
     - c-002

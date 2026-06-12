@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Maskvos valdovo karo paskelbimas Aleksandrui
 
 ## Santrauka
 
-Kojelavičius teigia, kad be reikalo, tarė, minimos čia su tartys, kurios, tiek kartų Aleksandro sulaužytos, seniai neturinčios jokios vertės.
+Maskvos valdovas paskelbė Aleksandrui karą, kaltindamas jį sutarčių laužymu ir Elenos spaudimu pereiti į Romos tikėjimą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185749"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad be reikalo, tarė, minimos čia su tartys, kurios, tiek kartų Aleksandro sulaužytos, seniai neturinčios jokios vertės.'
+  global_id: t-185749
+  teiginys: 'Maskvos valdovas paskelbė Aleksandrui karą, kaltindamas jį sutarčių laužymu ir Elenos spaudimu pereiti į Romos tikėjimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad be reikalo, tarė, minimos čia su tartys, kurios, tiek kartų Aleksandro sulaužytos, seniai neturinčios jokios vertės.'
+  santrauka: 'Maskvos valdovas paskelbė Aleksandrui karą, kaltindamas jį sutarčių laužymu ir Elenos spaudimu pereiti į Romos tikėjimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šis, labiau
@@ -62,3 +63,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+- [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/daiktai/Taurės]]
+- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
+- [[objektai/zodynas/Romos tikėjimas]]

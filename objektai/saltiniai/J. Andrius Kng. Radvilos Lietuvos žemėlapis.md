@@ -25,7 +25,9 @@ Andrius : Kng.
 
 ## Teiginiai
 
+<a id="claim-t-31715"></a>
 - t-001
+  global_id: t-31715
   teiginys: 'J. Andriaus „Kng. Radvilos Lietuvos žemėlapis“ paskelbtas žurnalo „Aidai“ 1952 m. 10 numeryje, p. 445–448.'
   pagrindžia:
     - c-001

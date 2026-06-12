@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-28843"></a>
 - t-001
+  global_id: t-28843
   teiginys: '1944 m. Lietuvą vėl okupavus rusams, buvo prievarta primestas marksistinis Lietuvos praeities supratimas.'
   pagrindžia:
     - c-001

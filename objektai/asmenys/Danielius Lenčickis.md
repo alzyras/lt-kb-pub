@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87648"></a>
 - t-001
+  global_id: t-87648
   teiginys: '1581 m. užpulti reformatų maldos namai ir spaustuvė, buvusi Danieliaus Lenčickio žinioje.'
   pagrindžia:
     - c-001

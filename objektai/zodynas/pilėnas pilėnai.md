@@ -30,42 +30,58 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 
 ## Teiginiai
 
+<a id="claim-t-58797"></a>
 - t-001
+  global_id: t-58797
   teiginys: 'Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir dūmais pranešė kaimyniniams stabmeldžiams.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-58798"></a>
 - t-002
+  global_id: t-58798
   teiginys: 'Didysis magistras Anonas pažadėjo aprūpinti Starkenbergo pilėnus viskuo, kas buvo reikalinga piliai ginti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58799"></a>
 - t-003
+  global_id: t-58799
   teiginys: 'Dusburgietis teigia, kad šitai išvydę, pilėnai, pasičiupę ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58800"></a>
 - t-004
+  global_id: t-58800
   teiginys: 'Dusburgietis teigia, kad apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras, patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis pilėnas, vardu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58802"></a>
 - t-005
+  global_id: t-58802
   teiginys: 'Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir panoro, išsižadėjęs stabų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-58803"></a>
 - t-006
+  global_id: t-58803
   teiginys: 'Dusburgietis teigia, kad trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai buvo taip gerai apsišarvavę, kad jų, kopiančių į sienas, pilėnai nestengė sulaikyti nei ietimis, nei kalavijais, nei kokiais kitais ginklais.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-58804"></a>
 - t-007
+  global_id: t-58804
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-58805"></a>
 - t-008
+  global_id: t-58805
   teiginys: 'Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti.'
   pagrindžia:
     - c-007

@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66565"></a>
 - t-001
+  global_id: t-66565
   teiginys: 'Susitaręs su Jogaila, Vytautas sudegino Jurbarką, Naująjį Marijenburgą ir Naująjį Bajerburgą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66566"></a>
 - t-002
+  global_id: t-66566
   teiginys: 'Pirmojo Vytauto žygio metu jo pusėje buvo kryžiuočių kariuomenė ir keli tūkstančiai žemaičių.'
   pagrindžia:
     - c-002

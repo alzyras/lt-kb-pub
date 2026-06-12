@@ -24,48 +24,53 @@ amziai:
   - 'XVI'
   - 'XXI'
 ---
-
 # Lietuvos Didžioji Kunigaikštystė
 
 ## Santrauka
 
 Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas. Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės. Už Lietuvos ribų Lietuvos bajorai laikyti tiesiog lenkais.
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas]]
-
 ## Teiginiai
 
+<a id="claim-t-169699"></a>
 - t-001
+  global_id: t-169699
   teiginys: '1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169700"></a>
 - t-002
+  global_id: t-169700
   teiginys: 'Prieš mūšį 1564 m. pradžioje, iš Maskvos į Vilnių dar nespėjus parvykti pasiuntiniams su žinia, kad dėl paliaubų susitarti nepavyko, į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės - po kelias dešimtis tūkstančių karių, kariuomenės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169702"></a>
 - t-003
+  global_id: t-169702
   teiginys: '1840 m. panaikintas Lietuvos Statutas, o teismų sistema surusinta.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-169703"></a>
 - t-004
+  global_id: t-169703
   teiginys: 'Žygimantas Augustas, pasigailėjęs Lietuvos Didžiosios Kunigaikštystės pavaldinių, paskelbė lietuviškos monetos vertės taisyklę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183155"></a>
 - t-005
+  global_id: t-183155
   teiginys: 'Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184560"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad lenkai, at skirai pasitarę, atsakė, kad esanti vienui viena veiks minga priemonė šiam ginčui baigti, būtent nutarti, jog ateityje Podolė priklausysianti lygiomis teisėmis ir len kams, ir lietuviams.'
+  global_id: t-184560
+  teiginys: 'Lenkai siūlė panaikinti Lietuvos Didžiosios Kunigaikštystės ir Lietuvos pareigybių vardus.'
   pagrindžia:
     - c-006
 
@@ -184,7 +189,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad lenkai, at skirai pasitarę, atsakė, kad esanti vienui viena veiks minga priemonė šiam ginčui baigti, būtent nutarti, jog ateityje Podolė priklausysianti lygiomis teisėmis ir len kams, ir lietuviams.'
+  santrauka: 'Lenkai siūlė panaikinti Lietuvos Didžiosios Kunigaikštystės ir Lietuvos pareigybių vardus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lenkai, at­
@@ -204,3 +209,25 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   statusas: verified
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Bazilius (Vasilius) II]]
+- [[objektai/grupes/Edukacinė Komisija]]
+- [[objektai/asmenys/Fulvio Ruggieri]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/grupes/Rygos vyskupija]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/daiktai/Monetos]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/grupes/Lietuvos ponų taryba]]
+- [[objektai/grupes/Livonijos konfederacija]]
+- [[objektai/zodynas/rusinimas Vakarų Rusija Šiaurės Vakarų kraštas|rusinimas Vakarų Rusija Šiaurės Vakarų kraštas (kraštas)]]
+- [[objektai/ivykiai/Žygimanto Augusto generalinio potvarkio dėl lietuviškų monetų paskelbimas (1572 m. kovo 26 d.)]]

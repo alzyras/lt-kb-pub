@@ -49,40 +49,52 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-182715"></a>
 - t-001
+  global_id: t-182715
   teiginys: 'Personalinės unijos laikotarpiu Lietuvą ir Lenkiją valdė tie patys valdovai, nors valstybės liko atskiros.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-182716"></a>
 - t-002
+  global_id: t-182716
   teiginys: 'Su nedidelėmis išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir Lenkija, nors valstybės buvo atskiros.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182717"></a>
 - t-003
+  global_id: t-182717
   teiginys: 'Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-182718"></a>
 - t-004
+  global_id: t-182718
   teiginys: 'Savotiškos personalinės unijos reikalavo lietuviai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-182968"></a>
 - t-005
-  teiginys: 'Kad būtų galima to išvengti, darant uniją daugiausia dėmesio ir buvo kreipiama į susitarimą dėl bendro valdovo.'
+  global_id: t-182968
+  teiginys: 'Darant uniją daugiausia dėmesio buvo skiriama susitarimui dėl bendro valdovo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-182969"></a>
 - t-006
-  teiginys: 'Abidvi pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl formalumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje ar pereis į realinę.'
+  global_id: t-182969
+  teiginys: 'Lietuviai ir lenkai sutiko turėti bendrą valdovą, bet nesutarė, ar valstybės liks personalinėje unijoje, ar pereis į realinę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Abidvi pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl formalumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje ar pereis į realinę.'
+  santrauka: 'Lietuviai ir lenkai sutiko turėti bendrą valdovą, bet nesutarė, ar valstybės liks personalinėje unijoje, ar pereis į realinę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Abidvi
@@ -171,7 +183,7 @@ Nenurodyta
     - t-001
 
 - c-006
-  santrauka: 'Kad būtų galima to išvengti, darant uniją daugiausia dėmesio ir buvo kreipiama į susitarimą dėl bendro valdovo.'
+  santrauka: 'Darant uniją daugiausia dėmesio buvo skiriama susitarimui dėl bendro valdovo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kad būtų galima to išvengti, darant uniją daugiausia dėmesio

@@ -19,7 +19,9 @@ Tarp Lietuvos didikų buvo: Žemai­ čių seniūnas Mykolas Skirgaila ir Trakų
 
 ## Teiginiai
 
+<a id="claim-t-87802"></a>
 - t-001
+  global_id: t-87802
   teiginys: 'Mykolas Skirgaila buvo Žemaičių seniūnas, sutartyje paminėtas tarp Lietuvos didikų.'
   pagrindžia:
     - c-001

@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20524"></a>
 - t-001
+  global_id: t-20524
   teiginys: 'Lito susiejimas su JAV doleriu laikytas vienu išmintingiausių atsikūrusios Lietuvos ekonominės politikos sprendimų.'
   pagrindžia:
     - c-001

@@ -26,12 +26,16 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 
 ## Teiginiai
 
+<a id="claim-t-70246"></a>
 - t-001
+  global_id: t-70246
   teiginys: 'Pirmieji Ordino broliai vaizduojami kaip pasirengę ginti tikėjimą kare su netikėliais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70247"></a>
 - t-002
+  global_id: t-70247
   teiginys: 'Dusburgietis Ordino brolius vaizduoja kaip pasirengusius ginti tikėjimą kare su `netikėliais`.'
   pagrindžia:
     - c-001
@@ -175,8 +179,8 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - [[objektai/asmenys/Ulrichas Bajeris]]
 - [[objektai/ivykiai/Ulricho Bajerio žygis į Sūduvą]]
 - [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]
-- [[objektai/asmenys/Vimaras [Gneomiras]]]
-- [[objektai/asmenys/Vojakas [Vojachas]]]
+- [Vimaras [Gneomiras]](/objektai/asmenys/Vimaras%20%5BGneomiras%5D)
+- [Vojakas [Vojachas]](/objektai/asmenys/Vojakas%20%5BVojachas%5D)
 - [[objektai/asmenys/Volkvinas]]
 - [[objektai/ivykiai/Vytenio žygis į Lenkiją ir Lenčicos žudynės]]
 - [[objektai/asmenys/Vytenis]]

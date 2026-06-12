@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lietuvos senatorių laiškas Maskvos didikams dėl Ivano titulo
 
 ## Santrauka
 
-Kojelavičius teigia, kad taip pat ir žymiausi lietuvių senatoriai laišku kreipėsi į Maskvos didikus, ragindami neleisti kuni gaikščiui prisiimti naujo titulo, bet nesusilaukė jokio atsakymo.
+Lietuvos senatoriai laišku ragino Maskvos didikus neleisti kunigaikščiui prisiimti naujo titulo, bet atsakymo nesulaukė.
 
 ## Teiginiai
 
+<a id="claim-t-186339"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad taip pat ir žymiausi lietuvių senatoriai laišku kreipėsi į Maskvos didikus, ragindami neleisti kuni gaikščiui prisiimti naujo titulo, bet nesusilaukė jokio atsakymo.'
+  global_id: t-186339
+  teiginys: 'Lietuvos senatoriai laišku ragino Maskvos didikus neleisti kunigaikščiui prisiimti naujo titulo, bet atsakymo nesulaukė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad taip pat ir žymiausi lietuvių senatoriai laišku kreipėsi į Maskvos didikus, ragindami neleisti kuni gaikščiui prisiimti naujo titulo, bet nesusilaukė jokio atsakymo.'
+  santrauka: 'Lietuvos senatoriai laišku ragino Maskvos didikus neleisti kunigaikščiui prisiimti naujo titulo, bet atsakymo nesulaukė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nieko nepasiekę, pasiun­

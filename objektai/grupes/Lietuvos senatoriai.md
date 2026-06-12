@@ -24,7 +24,9 @@ Iš antrojo laiško, rašyto tik vienam Radvilai iš Torunės 1576 metų gruodž
 
 ## Teiginiai
 
+<a id="claim-t-86761"></a>
 - t-001
+  global_id: t-86761
   teiginys: '1576 m. Lietuvos senatoriai sutiko, kad Žygimanto Augusto nustatyti muitai būtų renkami krašto sienų gynybos išlaidoms.'
   pagrindžia:
     - c-001
@@ -65,3 +67,4 @@ Iš antrojo laiško, rašyto tik vienam Radvilai iš Torunės 1576 metų gruodž
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas]]

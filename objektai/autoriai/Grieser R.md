@@ -18,7 +18,9 @@ Dusburgietis teigia, kad žodis dažnai apibūdina gyvenvietę iki miesto privil
 
 ## Teiginiai
 
+<a id="claim-t-60708"></a>
 - t-001
+  global_id: t-60708
   teiginys: 'R. Grieseris aiškino, kad žodis dažnai apibūdina gyvenvietę iki miesto privilegijos suteikimo.'
   pagrindžia:
     - c-001

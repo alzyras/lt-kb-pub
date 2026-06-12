@@ -26,7 +26,9 @@ Jau tada bekovodamas su Ordinu Lenkų kara­ lius Vladislovas Łokietka sau tink
 
 ## Teiginiai
 
+<a id="claim-t-35327"></a>
 - t-001
+  global_id: t-35327
   teiginys: '1325 m. Vladislovas Łokietka sudarė sutartį su Gedimino valdoma Lietuva, kurią sutvirtino Aldonos ir Kazimiero jungtuvės.'
   pagrindžia:
     - c-001

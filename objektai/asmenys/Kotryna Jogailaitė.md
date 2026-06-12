@@ -19,17 +19,23 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
 
 ## Teiginiai
 
+<a id="claim-t-87399"></a>
 - t-001
+  global_id: t-87399
   teiginys: 'Kotryna Jogailaitė Vilniuje susituokė su Suomijos kunigaikščiu Jonu, vėliau tapusiu Švedijos karaliumi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87400"></a>
 - t-002
+  global_id: t-87400
   teiginys: 'Kotryna Jogailaitė, Švedijos karalienė, buvo paskelbta viena iš valdų, dvarų ir kito turto paveldėtojų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87401"></a>
 - t-003
+  global_id: t-87401
   teiginys: 'Karalaitė Ona turėjo dalį jai perduoto turto atiduoti Kotrynai Jogailaitei, Švedijos karalienei.'
   pagrindžia:
     - c-002

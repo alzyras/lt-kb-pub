@@ -18,7 +18,9 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
 
 ## Teiginiai
 
+<a id="claim-t-86308"></a>
 - t-001
+  global_id: t-86308
   teiginys: 'Rosytė minima tarp Livonijos pilių kartu su Marienhausenu, Lutzenu, Švarcenburgu, Dinaburgu ir kitomis pilimis.'
   pagrindžia:
     - c-001

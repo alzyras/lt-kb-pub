@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20241"></a>
 - t-001
+  global_id: t-20241
   teiginys: '1946 m. buvo uždarytos kunigų seminarijos Vilniuje, Telšiuose ir Vilkaviškyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183232"></a>
 - t-002
+  global_id: t-183232
   teiginys: 'Visi kunigai sekami, registruojama, kas pas kunigą užeina, pamokslai aprašomi.'
   pagrindžia:
     - c-001

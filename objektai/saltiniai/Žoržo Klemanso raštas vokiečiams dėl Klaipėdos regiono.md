@@ -17,7 +17,9 @@ Prancūzija Žoržo B.
 
 ## Teiginiai
 
+<a id="claim-t-21333"></a>
 - t-001
+  global_id: t-21333
   teiginys: 'Žoržo Klemanso rašte vokiečiams aiškinta, kad Klaipėdos regionas visada buvo lietuviškas, o Klaipėdos uostas – vienintelis Lietuvos išėjimas į jūrą.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
 
 ## Teiginiai
 
+<a id="claim-t-62600"></a>
 - t-001
+  global_id: t-62600
   teiginys: 'Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija, apie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi — pietuose; viena sukosi kaip įprasta, kita—.'
   pagrindžia:
     - c-001

@@ -18,7 +18,6 @@ amziai:
   - 'XX'
   - 'XXI'
 ---
-
 # Mozyrius
 
 ## Santrauka
@@ -27,23 +26,31 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 
 ## Teiginiai
 
+<a id="claim-t-68717"></a>
 - t-001
+  global_id: t-68717
   teiginys: 'Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio tempą pasileido tiesiai vakarų kryptimi Mozyriaus ir Slucko link.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-68718"></a>
 - t-002
+  global_id: t-68718
   teiginys: 'Maišto vadui pavyko užimti tik Mozyrių ir Turovą, o Sluckas ir Minskas jam nepasidavė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-68719"></a>
 - t-003
+  global_id: t-68719
   teiginys: 'Maišto vadui pavyko užimti Mozyrių ir Turovą, bet Sluckas ir Minskas jam nepasidavė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185052"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad jo sumany mą lydėjo sėkmė, jis išplėšė iš priešo rankų Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.'
+  global_id: t-185052
+  teiginys: 'Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.'
   pagrindžia:
     - c-003
 
@@ -88,7 +95,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad jo sumany mą lydėjo sėkmė, jis išplėšė iš priešo rankų Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.'
+  santrauka: 'Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Skirman­

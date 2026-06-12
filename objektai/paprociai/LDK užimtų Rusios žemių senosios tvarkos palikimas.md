@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54268"></a>
 - t-001
+  global_id: t-54268
   teiginys: 'LDK užimtose Rusios žemėse lietuvių kunigaikščiai iš pradžių palikdavo senąsias kunigaikštijų struktūras.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54269"></a>
 - t-002
+  global_id: t-54269
   teiginys: 'LDK užimtuose kraštuose lietuviai iš pradžių nekeisdavo susiklosčiusios tvarkos ir palikdavo senąsias kunigaikštijų struktūras.'
   pagrindžia:
     - c-001

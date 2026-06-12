@@ -41,22 +41,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75117"></a>
 - t-001
+  global_id: t-75117
   teiginys: 'Kovo 17 d. Varšuva įteikė Lietuvai ultimatumą, reikalaudama užmegzti diplomatinius santykius ir be išlygų atsakyti teigiamai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75118"></a>
 - t-002
+  global_id: t-75118
   teiginys: 'Nors tūkstančiai karštakošių Lenkijos miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“), oficialiąją Varšuvą rezultatai tenkino.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75119"></a>
 - t-003
+  global_id: t-75119
   teiginys: 'Po Lenkijos ultimatumo Lietuva turėjo apsikeisti pasiuntinybėmis, įsteigti konsulatą Vilniuje ir paleisti „Vilniui vaduoti sąjungą“.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75120"></a>
 - t-004
+  global_id: t-75120
   teiginys: 'Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti santykius.'
   pagrindžia:
     - c-002

@@ -27,12 +27,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-47947"></a>
 - t-001
+  global_id: t-47947
   teiginys: 'Vytauto žodžiais, bajorai, neturėję kuo joti ar apsišarvuoti, turėjo parduoti žmoną ir vaikus, „kad tik be arklio nebūtų“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-47948"></a>
 - t-002
+  global_id: t-47948
   teiginys: 'Ir tiems bajorams, kurių luomą Vytautas taip rėmė dovanojimais, stojimas karan su savo arkliu ir ginklais buvo geležinis įstatymas ; o kurie neturėjo kuo joti ar apsišarvoti, paties Vytauto žodžiais, turėjo parduoti žmoną ir vaikus, « kad tik be arklio nebūtų.'
   pagrindžia:
     - c-001

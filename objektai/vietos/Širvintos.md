@@ -26,12 +26,16 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
 
 ## Teiginiai
 
+<a id="claim-t-172059"></a>
 - t-001
+  global_id: t-172059
   teiginys: 'Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-172060"></a>
 - t-002
+  global_id: t-172060
   teiginys: 'Visas respublikonų pajėgas ketinta sujungti prie Širvintų.'
   pagrindžia:
     - c-002

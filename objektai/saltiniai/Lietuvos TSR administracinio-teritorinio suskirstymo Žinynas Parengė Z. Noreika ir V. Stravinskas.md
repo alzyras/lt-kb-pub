@@ -22,7 +22,9 @@ Dusburgietis teigia, kad lietuvos TSR administracinio-teritorinio suskirstymo Ž
 
 ## Teiginiai
 
+<a id="claim-t-61141"></a>
 - t-001
+  global_id: t-61141
   teiginys: 'Z. Noreikos ir V. Stravinsko parengto „Lietuvos TSR administracinio-teritorinio suskirstymo žinyno“ antra dalis išleista Vilniuje 1976 m.'
   pagrindžia:
     - c-001

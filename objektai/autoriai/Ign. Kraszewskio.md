@@ -18,7 +18,9 @@ Kraszewskio apysaka «Kunigas ».
 
 ## Teiginiai
 
+<a id="claim-t-29338"></a>
 - t-001
+  global_id: t-29338
   teiginys: 'Ign. Kraszewskio apysaka „Kunigas“ XIX a. tautinio atgimimo laikotarpiu lietuviams darė stiprų įspūdį.'
   pagrindžia:
     - c-001

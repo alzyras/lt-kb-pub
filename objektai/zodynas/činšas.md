@@ -28,39 +28,53 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 
 ## Teiginiai
 
+<a id="claim-t-82131"></a>
 - t-001
+  global_id: t-82131
   teiginys: 'Činšininkas citatoje aiškinamas kaip duoklininkas, tai yra duoklę mokantis valstietis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-82132"></a>
 - t-002
+  global_id: t-82132
   teiginys: 'Vytautas ir Ordinas pasižadėjo iš kito krašto nepriiminėti činšą mokančių valstiečių.'
   pagrindžia:
-    - c-005
     - c-002
+    - c-005
 
+<a id="claim-t-82133"></a>
 - t-003
+  global_id: t-82133
   teiginys: '1632 m. Akademijos rektorius Frizijus Valerijono bursai mokėjo 400 auksinų iš 800 auksinų metinio činšo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82135"></a>
 - t-004
+  global_id: t-82135
   teiginys: '1632 m. Akademijos rektorius Frizijus iš 800 auksinų metinio činšo Valerijono bursai mokėjo 400 auksinų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82136"></a>
 - t-005
+  global_id: t-82136
   teiginys: 'Šis činšas buvo mokamas vienuolika metų, bet paskui liautasi mokėti, ir kapitula su kunigaikščiu Kristupu pradėjo teismo procesą dėl Filipovo namo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-82137"></a>
 - t-006
+  global_id: t-82137
   teiginys: 'Karalienė teigė, kad Lietuva jai turi mokėti činšą, nes Jogaila kraštą jai atidavė kaip vestuvinę dovaną.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-182992"></a>
 - t-007
-  teiginys: 'Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama mokėti palyginti labai mažą činšą (bajoriškųjų valstiečių būklė buvo daug sunkesnė).'
+  global_id: t-182992
+  teiginys: 'Po sukilimo valdžia konfiskuotų dvarų žemę išdalino valstiečiams ir reikalavo mokėti palyginti mažą činšą.'
   pagrindžia:
     - c-007
 
@@ -179,7 +193,7 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
     - t-005
 
 - c-007
-  santrauka: 'Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama mokėti palyginti labai mažą činšą (bajoriškųjų valstiečių būklė buvo daug sunkesnė).'
+  santrauka: 'Po sukilimo valdžia konfiskuotų dvarų žemę išdalino valstiečiams ir reikalavo mokėti palyginti mažą činšą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik po sukilimo konfiskuotose ba-

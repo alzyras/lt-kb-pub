@@ -18,7 +18,9 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
 
 ## Teiginiai
 
+<a id="claim-t-87859"></a>
 - t-001
+  global_id: t-87859
   teiginys: 'Stanislovas Jonas Da Vaina buvo paminėtas tarp valdovo tarybos narių ir pareigūnų, dalyvavusių rašto patvirtinime.'
   pagrindžia:
     - c-001

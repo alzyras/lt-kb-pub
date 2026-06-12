@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62675"></a>
 - t-001
+  global_id: t-62675
   teiginys: 'Gedėdami išlikę žmonės suplėšė savo drabužius, apsivilko ašutinėmis ir buvo apimti didelės baimės.'
   pagrindžia:
     - c-002

@@ -19,22 +19,30 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
 
 ## Teiginiai
 
+<a id="claim-t-86441"></a>
 - t-001
+  global_id: t-86441
   teiginys: 'Aplink pilį stovėję pastatai buvo atskirti žiogriais, arba statinių tvoromis, tarp jų plytėjo daržai ir pievos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86442"></a>
 - t-002
+  global_id: t-86442
   teiginys: 'Kreivosios pilies apsauginę juostą sudarė aukšta statinių tvora, Vilnios vandenys ir Gedimino laikais iškasta perkasa.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86443"></a>
 - t-003
+  global_id: t-86443
   teiginys: 'Vilniaus miesto centro aikštė buvo apstatyta prekijų krautuvėlėmis ir nuo kryžiuočių antpuolių apjuosta statinių tvoromis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-86444"></a>
 - t-004
+  global_id: t-86444
   teiginys: 'Žemutinės pilies pastatai buvo daugiausia mediniai, apjuosti aukštais bokštais ir palisadais.'
   pagrindžia:
     - c-003

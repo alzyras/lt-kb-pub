@@ -21,7 +21,6 @@ amziai:
   - 'XX'
   - 'XXI'
 ---
-
 # Viena
 
 ## Santrauka
@@ -30,44 +29,59 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 
 ## Teiginiai
 
+<a id="claim-t-91445"></a>
 - t-001
+  global_id: t-91445
   teiginys: 'Manoma, kad studijų lygis senajame universitete nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-91446"></a>
 - t-002
+  global_id: t-91446
   teiginys: 'Dusburgietis teigia, kad kaip ir anksčiau mūsų minėtas (Henriko iš Hohenlohės) taip ir šis „Pranešimas...“ aptiktas Vokiečių ordino archyve Vienoje, XVI a.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-91447"></a>
 - t-003
-  teiginys: 'Po sąjungos su Austrija turkai ją užpuolė ir pasiekė net Vieną.'
+  global_id: t-91447
+  teiginys: 'Po sąjungos su Austrija turkai puolė Austriją ir pasiekė Vieną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-91448"></a>
 - t-004
+  global_id: t-91448
   teiginys: '1683 m. Sapiega, vykdamas vaduoti Vienos, neskubėjo su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-91449"></a>
 - t-005
+  global_id: t-91449
   teiginys: 'Iliustracijų šaltinių sąrašas SANTRUMPOS GAM - Genocido aukų muziejus, Vilnius KAM - Krašto apsaugos ministerijos archyvas, Vilnius KMW - Kunsthistorishen Museum, Wien (Vienos meno muziejus) LCvA - Lietuvos centrinis valstybinis archyvas, Vilnius LDM -.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-91450"></a>
 - t-006
+  global_id: t-91450
   teiginys: 'Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-185176"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad maksimilijonas nepaprastai troško karalių pri imti ir pavaišinti Vienoje, karaliaus rūmuose, tačiau tam prieštaravo Vladislovas, kadangi vengrai, kažkuo nepasitikėdami, to nenorėjo.'
+  global_id: t-185176
+  teiginys: 'Maksimilijonas norėjo priimti ir pavaišinti Žygimantą Vienos karaliaus rūmuose, tačiau tam prieštaravo Vladislovas.'
   pagrindžia:
     - c-007
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po sąjungos su Austrija turkai puolė Austriją ir pasiekė Vieną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     didatūrą į sostą. Bet nepasisekė nė čia. Padarius sąjungą su
@@ -179,7 +193,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
     - t-001
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad maksimilijonas nepaprastai troško karalių pri imti ir pavaišinti Vienoje, karaliaus rūmuose, tačiau tam prieštaravo Vladislovas, kadangi vengrai, kažkuo nepasitikėdami, to nenorėjo.'
+  santrauka: 'Maksimilijonas norėjo priimti ir pavaišinti Žygimantą Vienos karaliaus rūmuose, tačiau tam prieštaravo Vladislovas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žygimantą supo lenkų, lietuvių bei rusų

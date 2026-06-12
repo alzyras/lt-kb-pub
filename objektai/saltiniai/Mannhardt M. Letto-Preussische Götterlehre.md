@@ -22,7 +22,9 @@ Dusburgietis teigia, kad mannhardt M.
 
 ## Teiginiai
 
+<a id="claim-t-61155"></a>
 - t-001
+  global_id: t-61155
   teiginys: 'M. Mannhardto „Letto-Preussische Götterlehre“ išleista Rygoje 1936 m.'
   pagrindžia:
     - c-001

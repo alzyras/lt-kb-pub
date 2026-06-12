@@ -16,7 +16,9 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
 
 ## Teiginiai
 
+<a id="claim-t-74020"></a>
 - t-001
+  global_id: t-74020
   teiginys: 'Ščarą su Jaselda sujungė 7,5 mylios ilgio kanalas, vėliau vadintas Oginskio kanalu.'
   pagrindžia:
     - c-001

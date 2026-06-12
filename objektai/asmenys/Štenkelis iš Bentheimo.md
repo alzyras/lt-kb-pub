@@ -17,7 +17,9 @@ Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė
 
 ## Teiginiai
 
+<a id="claim-t-60476"></a>
 - t-001
+  global_id: t-60476
   teiginys: 'Štenkelis iš Bentheimo Pokarviuose įsiveržė į notangų rikiuotę ir grįždamas buvo nukautas.'
   pagrindžia:
     - c-001

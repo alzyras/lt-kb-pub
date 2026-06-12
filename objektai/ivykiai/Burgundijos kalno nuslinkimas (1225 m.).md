@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62229"></a>
 - t-001
+  global_id: t-62229
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip Burgundijoje dėl žemės drebėjimo kalnas nuslinko į kitą vietą 1225 viešpaties metais Burgundijoje, Druskos kalnuose, vienas kalnas dėl žemės drebėjimo atsiskyrė nuo kitų kalnų ir nuslinko prie kalnų kitoje pusėje, užvertė visą slėnį ir nuslėgė.'
   pagrindžia:
     - c-001

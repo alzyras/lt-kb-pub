@@ -16,7 +16,9 @@ Cetuchinas savo vadovaujamą grupę nuvedė pas bolševikus, liepęs nešaudyti,
 
 ## Teiginiai
 
+<a id="claim-t-40154"></a>
 - t-001
+  global_id: t-40154
   teiginys: 'Cetuchinas savo vadovaujamą grupę nuvedė pas bolševikus, liepęs nešaudyti, o vėliau tiesiog įsakydamas jiems pasiduoti.'
   pagrindžia:
     - c-001

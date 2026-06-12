@@ -18,7 +18,9 @@ Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos kar
 
 ## Teiginiai
 
+<a id="claim-t-60412"></a>
 - t-001
+  global_id: t-60412
   teiginys: 'Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus.'
   pagrindžia:
     - c-001

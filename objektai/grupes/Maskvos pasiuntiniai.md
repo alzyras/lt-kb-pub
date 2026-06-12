@@ -23,7 +23,9 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
 
 ## Teiginiai
 
+<a id="claim-t-86810"></a>
 - t-001
+  global_id: t-86810
   teiginys: 'Aleksandras Vilniuje prisiekė iš Maskvos atvykusių pasiuntinių akivaizdoje.'
   pagrindžia:
     - c-001
@@ -65,6 +67,7 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/asmenys/Rapolovska]]
 - [[objektai/asmenys/Vaitiekus Taboras|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]
+- [[objektai/paprociai/Pasiuntinių atsisakymas dalyvauti vaišėse dėl garbingesnės vietos užstalėje]]
 - [[objektai/grupes/Lietuvos pasiuntiniai Maskvoje]]
 - [[objektai/asmenys/Petras Białas]]
 - [[objektai/asmenys/Stanislovas Goštautas]]

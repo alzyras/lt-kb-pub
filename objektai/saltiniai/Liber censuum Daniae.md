@@ -22,7 +22,9 @@ Dusburgietis teigia, kad tai rodo Liber censuum Daniae žemių sąrašas, sudary
 
 ## Teiginiai
 
+<a id="claim-t-61129"></a>
 - t-001
+  global_id: t-61129
   teiginys: 'Dusburgietis teigia, kad tai rodo Liber censuum Daniae žemių sąrašas, sudarytas greičiausiai 1231 m. (SRP, 1, p. 737; Powierski J., Stosunki.., p. 139).'
   pagrindžia:
     - c-001

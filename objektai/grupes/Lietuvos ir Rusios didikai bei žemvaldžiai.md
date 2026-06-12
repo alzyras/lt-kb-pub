@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86803"></a>
 - t-001
+  global_id: t-86803
   teiginys: 'Vytauto sušaukti Lietuvos ir Rusios didikai pareiškė esą laisvi ir neprivalantys mokėti duoklės Lenkijai.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ Pagaliau 1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas
 
 ## Teiginiai
 
+<a id="claim-t-02987"></a>
 - t-001
+  global_id: t-02987
   teiginys: '1704 m. Karolis privertė sušaukti elekcinį seimą, kuris Stanislovą Leščinskį paskelbė karaliumi.'
   pagrindžia:
     - c-001

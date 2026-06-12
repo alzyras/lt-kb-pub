@@ -29,7 +29,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01760"></a>
 - t-001
+  global_id: t-01760
   teiginys: '1377 m., prieš pat Algirdo mirtį, Ordino kariuomenė pasiekė Vilnių ir Trakus.'
   pagrindžia:
     - c-001

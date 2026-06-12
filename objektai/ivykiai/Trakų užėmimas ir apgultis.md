@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-100045"></a>
 - t-001
+  global_id: t-100045
   teiginys: 'Surinkęs Žemaičiuose gausų būrį kovotojų (yra minimi 3.000), Kęstutaitis kartu su magistru Zollneriu traukė per Lietuvą prie Skirgailos valdomų Trakų.'
   pagrindžia:
     - c-001

@@ -24,17 +24,23 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
 
 ## Teiginiai
 
+<a id="claim-t-79415"></a>
 - t-001
+  global_id: t-79415
   teiginys: 'Vasario 9 d. priešakiniai pulko daliniai, susišaudę su lietuvių husarų žvalgais, užėmė netoli Prienų esantį Jiezną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79416"></a>
 - t-002
+  global_id: t-79416
   teiginys: 'Pralaimėjimas Jiezne ir nesėkmė pietinėje Lietuvoje prie Nemuno galutinai sužlugdė bolševikų planus užimti Kauną - laikinąją Lietuvos sostinę ir nutraukti Lietuvos valstybės egzistavimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-79417"></a>
 - t-003
+  global_id: t-79417
   teiginys: 'Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio.'
   pagrindžia:
     - c-001

@@ -44,52 +44,72 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-23325"></a>
 - t-001
+  global_id: t-23325
   teiginys: 'E. Galvanauskas nusistatė užimti Klaipėdos kraštą jėga, nes nemanė, kad Lietuva jį gaus per Tautų Sąjungą ar Ambasadorių konferenciją.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-23327"></a>
 - t-002
+  global_id: t-23327
   teiginys: 'Žygis į Klaipėdą buvo pristatytas kaip vietinis sukilimas; susišaudymuose žuvo 16 lietuvių ir du prancūzai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-23328"></a>
 - t-003
+  global_id: t-23328
   teiginys: '1923 m. sausio 17 d. VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-23329"></a>
 - t-004
+  global_id: t-23329
   teiginys: '1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23330"></a>
 - t-005
+  global_id: t-23330
   teiginys: 'Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-26644"></a>
 - t-007
+  global_id: t-26644
   teiginys: '1923 m. sausio 6 d. Šilutėje sudarytas Vyriausias Mažosios Lietuvos gelbėjimo komitetas (VMLGK) po trijų dienų paprašė Lietuvos ateiti į pagalbą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-26645"></a>
 - t-008
+  global_id: t-26645
   teiginys: 'Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-26646"></a>
 - t-009
+  global_id: t-26646
   teiginys: '1923 m. sausio 17 d. VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-26841"></a>
 - t-010
+  global_id: t-26841
   teiginys: 'VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-26842"></a>
 - t-011
+  global_id: t-26842
   teiginys: 'Lietuvai liko sukilimo inscenizacijos scenarijus.'
   pagrindžia:
     - c-004

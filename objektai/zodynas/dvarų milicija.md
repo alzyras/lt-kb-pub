@@ -16,13 +16,17 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
 
 ## Teiginiai
 
+<a id="claim-t-02981"></a>
 - t-001
+  global_id: t-02981
   teiginys: 'Dvarų milicija buvo didikų atsivesta samdyta kariuomenė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182942"></a>
 - t-002
-  teiginys: 'Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.'
+  global_id: t-182942
+  teiginys: 'Sapiegų priešininkai atsivedė samdytos kariuomenės - savo dvarų milicijos.'
   pagrindžia:
     - c-002
 
@@ -43,7 +47,7 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
     - t-001
 
 - c-002
-  santrauka: 'Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.'
+  santrauka: 'Sapiegų priešininkai atsivedė samdytos kariuomenės - savo dvarų milicijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau Sapiegų priešų jėgos

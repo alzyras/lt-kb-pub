@@ -24,7 +24,9 @@ Nors paktas minėjo Lietuvos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kai
 
 ## Teiginiai
 
+<a id="claim-t-21156"></a>
 - t-001
+  global_id: t-21156
   teiginys: 'Nors paktas minėjo Lietuvos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kaip bazinius dvišalių santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos nepriklausomybei.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Tai buvęs Vilniaus Universiteto profeso­ rius, o dabar Kijeve vadovaujantis Te
 
 ## Teiginiai
 
+<a id="claim-t-88426"></a>
 - t-001
+  global_id: t-88426
   teiginys: 'Ignacas Danilavičius perdavė Balińskiui svarbius užrašus apie mažiau žinomas Vilniaus miesto privilegijas.'
   pagrindžia:
     - c-001

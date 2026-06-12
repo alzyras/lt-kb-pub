@@ -25,12 +25,16 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
 
 ## Teiginiai
 
+<a id="claim-t-67580"></a>
 - t-001
+  global_id: t-67580
   teiginys: 'XVIII a. visos konstitucijos buvo surinktos ir išspausdintos aštuonių tomų rinkinyje „Volumina Legum“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67581"></a>
 - t-002
+  global_id: t-67581
   teiginys: '= Volumina legum, 6 t., Petersburg 1859.'
   pagrindžia:
     - c-001

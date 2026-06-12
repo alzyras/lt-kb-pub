@@ -17,17 +17,23 @@ Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kun
 
 ## Teiginiai
 
+<a id="claim-t-03077"></a>
 - t-001
+  global_id: t-03077
   teiginys: 'Oginskis, pasitaręs su žymesniaisiais Lietuvos ponais, įteikė konkrečius pasiūlymus ir naują memorialą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-03078"></a>
 - t-002
+  global_id: t-03078
   teiginys: '1811 m. carui buvo įteiktas memorialas dėl autonomiškos valstybės sudarymo iš buvusių Lietuvos Didžiosios Kunigaikštijos žemių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182960"></a>
 - t-003
+  global_id: t-182960
   teiginys: 'Pagaliau Oginskis, pasitaręs su žymesniaisiais Lietuvos ponais, įteikė konkrečius pasiūlymus ir naują memorialą.'
   pagrindžia:
     - c-003

@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-36478"></a>
 - t-001
+  global_id: t-36478
   teiginys: 'Peremišlio kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikštėlių žemėse.'
   pagrindžia:
     - c-001

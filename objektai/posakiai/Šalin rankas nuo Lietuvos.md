@@ -20,12 +20,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-13511"></a>
 - t-001
+  global_id: t-13511
   teiginys: '1991 m. kovą daugiau nei 200 tūkst. demonstracijoje dalyvavusių maskviečių skandavo „Šalin rankas nuo Lietuvos“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-13512"></a>
 - t-002
+  global_id: t-13512
   teiginys: '1991 m. kovą Maskvos demonstracijoje kartu su „Šalin rankas nuo Lietuvos“ skambėjo šūkis „Gorbačiovai, atsistatydink!“.'
   pagrindžia:
     - c-001

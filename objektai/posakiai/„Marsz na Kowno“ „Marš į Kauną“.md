@@ -23,22 +23,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-26650"></a>
 - t-001
+  global_id: t-26650
   teiginys: '1938 m. Lenkijos ultimatumo Lietuvai kontekste Lenkijos miestų gatvėse skanduota „Marsz na Kowno“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-26902"></a>
 - t-002
+  global_id: t-26902
   teiginys: 'Lenkijos miestų gatvėse tūkstančiai žmonių skandavo „Marsz na Kowno“ („Marš į Kauną“), nors oficialiąją Varšuvą ultimatumo rezultatai tenkino.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-104218"></a>
 - t-003
+  global_id: t-104218
   teiginys: '„Marsz na Kowno“ („Marš į Kauną“) Lenkijos miestų gatvėse skanduotas po to, kai 1938 m. kovo 19 d. Lietuva priėmė Lenkijos ultimatumą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-104219"></a>
 - t-004
+  global_id: t-104219
   teiginys: 'Nors tūkstančiai karštakošių Lenkijos miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“), oficialiąją Varšuvą rezultatai tenkino.'
   pagrindžia:
     - c-001

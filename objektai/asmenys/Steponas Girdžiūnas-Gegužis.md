@@ -24,7 +24,9 @@ GirdžiūnuiGegužiui ir kitiems LLA organizatoriams pavyko sukurti Žaliosios g
 
 ## Teiginiai
 
+<a id="claim-t-40446"></a>
 - t-001
+  global_id: t-40446
   teiginys: '1945 m. vasarį Steponas Girdžiūnas-Gegužis tapo pirmuoju 3-iosios Šiaurės LLA apygardos vadu.'
   pagrindžia:
     - c-001

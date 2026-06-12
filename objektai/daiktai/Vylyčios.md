@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08348"></a>
 - t-001
+  global_id: t-08348
   teiginys: 'Perūno atvaizde rankoje buvo vylyčios.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08349"></a>
 - t-002
+  global_id: t-08349
   teiginys: 'Kareiviui į kapą dėjo vylyčias kartu su kitais ginklais ir įrankiais.'
   pagrindžia:
     - c-002

@@ -25,7 +25,9 @@ Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, B
 
 ## Teiginiai
 
+<a id="claim-t-96040"></a>
 - t-001
+  global_id: t-96040
   teiginys: 'Patirgas buvo vyriausias Kęstučio sūnus ir 1348-1365 m. laikotarpiu lydėjo Algirdo bei Kęstučio žygius.'
   pagrindžia:
     - c-001

@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad neti kėtai užpuolęs Podolę, jis netruko ją sugrąžinti Boles lovui.
+Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185840"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad neti kėtai užpuolęs Podolę, jis netruko ją sugrąžinti Boles lovui.'
+  global_id: t-185840
+  teiginys: 'Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad neti kėtai užpuolęs Podolę, jis netruko ją sugrąžinti Boles lovui.'
+  santrauka: 'Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sėkmingai susiklostė Fiodorui žygio pradžia,
@@ -56,3 +57,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Fiodoras]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Fiodoras Ostrogiškis]]
+- [[objektai/asmenys/Švitrigaila]]

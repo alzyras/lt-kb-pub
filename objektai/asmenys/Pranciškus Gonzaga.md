@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Pranciškus Gonzaga
 
 ## Santrauka
 
-Kojelavičius teigia, kad mirus Pranciškui Gonzagai, Mantujos kunigaikščiui, ši našlavo tėvo Ferdinando rūmuose.
+Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.
 
 ## Teiginiai
 
+<a id="claim-t-186249"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mirus Pranciškui Gonzagai, Mantujos kunigaikščiui, ši našlavo tėvo Ferdinando rūmuose.'
+  global_id: t-186249
+  teiginys: 'Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mirus Pranciškui Gonzagai, Mantujos kunigaikščiui, ši našlavo tėvo Ferdinando rūmuose.'
+  santrauka: 'Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalienė patarė
@@ -43,3 +44,8 @@ Kojelavičius teigia, kad mirus Pranciškui Gonzagai, Mantujos kunigaikščiui, 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]

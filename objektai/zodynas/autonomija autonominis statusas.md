@@ -19,22 +19,30 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
 
 ## Teiginiai
 
+<a id="claim-t-70093"></a>
 - t-001
+  global_id: t-70093
   teiginys: 'Lietuva Paryžiuje turėjo aiškintis ir dėl vidaus politikos klausimų, atrėmė kaltinimus Lietuvos Tarybai dėl provokiškos politikos, pažadėjo plačią kultūrinę autonomiją žydams, tautinėms mažumoms, aiškinosi dėl numatomos žemės reformos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70094"></a>
 - t-002
+  global_id: t-70094
   teiginys: 'Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Vilniuje subūrė lietuvius į politikos centrą, nusivylusį tuo, jog nei Rusija, nei Vokietija nežada Lietuvai net autonomijos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-70095"></a>
 - t-003
+  global_id: t-70095
   teiginys: 'Ar Varšuva nebūtų diktavusi Vilnijos kantono (ar autonomijos) lenkams savo politikos?'
   pagrindžia:
     - c-004
 
+<a id="claim-t-70096"></a>
 - t-004
+  global_id: t-70096
   teiginys: 'Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą.'
   pagrindžia:
     - c-002

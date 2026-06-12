@@ -17,7 +17,9 @@ Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negę
 
 ## Teiginiai
 
+<a id="claim-t-59137"></a>
 - t-001
+  global_id: t-59137
   teiginys: 'Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį.'
   pagrindžia:
     - c-001

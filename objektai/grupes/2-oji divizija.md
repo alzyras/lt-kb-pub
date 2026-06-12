@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-38929"></a>
 - t-001
+  global_id: t-38929
   teiginys: '2-ajai divizijai buvo numatyta gynybinė pozicija nuo Dimitravo ežero per Meros upę ir Augustavo kanalą iki Nemuno.'
   pagrindžia:
     - c-001

@@ -16,17 +16,23 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
 
 ## Teiginiai
 
+<a id="claim-t-72057"></a>
 - t-001
-  teiginys: 'Rusai tuo tarpu atgabeno į Lietuvą daugiau savo kariuomenės, ir Dembinskiui nebeįmanoma buvo kariauti.'
+  global_id: t-72057
+  teiginys: 'Rusams atgabenus į Lietuvą daugiau kariuomenės, Dembinskio rinktinei tapo nebeįmanoma kariauti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72058"></a>
 - t-002
+  global_id: t-72058
   teiginys: 'Dembinskis su savo rinktine prasimušė iki Varšuvos, kur buvo iškilmingai sutiktas ir paskirtas Varšuvos gubernatoriumi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72059"></a>
 - t-003
+  global_id: t-72059
   teiginys: 'Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (apie 3.500 karių).'
   pagrindžia:
     - c-002

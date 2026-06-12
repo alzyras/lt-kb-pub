@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01773"></a>
 - t-001
+  global_id: t-01773
   teiginys: '1889 m. buvo įkurta pirmoji lietuviškoji parapija.'
   pagrindžia:
     - c-001

@@ -16,12 +16,16 @@ Gubernija buvo administracijos vienetas, valdomas gubernatoriaus ir gubernijos v
 
 ## Teiginiai
 
+<a id="claim-t-70151"></a>
 - t-001
+  global_id: t-70151
   teiginys: 'Kiekviena gubernija buvo suskirstyta į apskritis, kuriose buvo atskiri valdininkai ir teismai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70152"></a>
 - t-002
+  global_id: t-70152
   teiginys: 'Gubernija buvo administracijos vienetas, valdomas gubernatoriaus ir gubernijos valdybos.'
   pagrindžia:
     - c-001

@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40704"></a>
 - t-001
+  global_id: t-40704
   teiginys: 'JAV buvo gaminamas kulkosvaidžio prototipas - daugiavamzdė Gatlingo sistema.'
   pagrindžia:
     - c-001

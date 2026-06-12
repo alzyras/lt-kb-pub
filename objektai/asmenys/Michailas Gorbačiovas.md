@@ -28,57 +28,79 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 
 ## Teiginiai
 
+<a id="claim-t-101677"></a>
 - t-001
+  global_id: t-101677
   teiginys: 'Gorbačiovas buvo izoliuotas Kryme, tačiau kovai prieš komunistinius perversmininkus vadovauti ėmė neseniai išrinktas Rusijos respublikos prezidentas Borisas Jelcinas, po demokratijos idėjomis sutelkęs Rusijos žmones, jis sugebėjo priversti kapituliuoti.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-101678"></a>
 - t-002
+  global_id: t-101678
   teiginys: 'Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galiojimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101679"></a>
 - t-003
+  global_id: t-101679
   teiginys: '1991 m. kovą Maskvos demonstracijoje daugiau nei 200 tūkst. dalyvių skandavo šūkius prieš Gorbačiovą ir už Lietuvą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-101680"></a>
 - t-004
+  global_id: t-101680
   teiginys: 'KGB numeriais pažymėjo eisenos lyderius VI s k y r i u s DAINUOJANTI REVOLIUCIJA SU SĄJŪDŽIU UŽ LIETUVĄ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar Gruzijoje, spengė tyla – pilki LKP CK pirmieji.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-101681"></a>
 - t-005
+  global_id: t-101681
   teiginys: 'Gorbačiovo reformoms, o jį patį nuvers „vanagai“.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-101682"></a>
 - t-006
+  global_id: t-101682
   teiginys: 'Gorbačiovu priešakyje ir primygtinai reikalavo atšaukti Kovo 11 Aktą.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-101683"></a>
 - t-007
+  global_id: t-101683
   teiginys: 'Gorbačiovas ultimatyviai pareikalavo „nedelsiant ir visiškai atkurti sSRS ir Lietuvos ssR konstitucijų galiojimą“.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-101684"></a>
 - t-008
+  global_id: t-101684
   teiginys: '1991 m. kovą Michailas Gorbačiovas Maskvos demonstracijoje sulaukė daugiau nei 200 tūkst. dalyvių raginimo atsistatydinti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-101685"></a>
 - t-009
+  global_id: t-101685
   teiginys: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje LKP vadovybė laikėsi pasyviai.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-101686"></a>
 - t-010
+  global_id: t-101686
   teiginys: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje visuomenės nepasitenkinimas didėjo, kol ji pati ėmėsi iniciatyvos.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-101687"></a>
 - t-011
+  global_id: t-101687
   teiginys: 'Gorbačiovo įvaizdis, subliuško „gorbimanija“.'
   pagrindžia:
     - c-008

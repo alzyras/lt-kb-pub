@@ -20,7 +20,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Vaclovas
 
 ## Santrauka
@@ -29,18 +28,24 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
 
 ## Teiginiai
 
+<a id="claim-t-28976"></a>
 - t-001
+  global_id: t-28976
   teiginys: 'Vaclovas už savo sprendimą iš kryžiuočių gavo keliasdešimt tūkstančių vengriškų raudonųjų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-28977"></a>
 - t-002
+  global_id: t-28977
   teiginys: 'Tarpininkaujant Vaclovui, 1409 m. spalio 8 d. buvo sudarytos paliaubos iki 1410 m. birželio 24 d.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184851"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad ramybė liovėsi, kai mirė Vanka, arba Vaclovas, Mazovijos kunigaikštis (vedęs Algirdo seserį).'
+  global_id: t-184851
+  teiginys: 'Vaclovas, dar vadintas Vanka, buvo Mazovijos kunigaikštis ir Algirdo sesers vyras.'
   pagrindžia:
     - c-003
 
@@ -71,7 +76,7 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
     - t-001
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad ramybė liovėsi, kai mirė Vanka, arba Vaclovas, Mazovijos kunigaikštis (vedęs Algirdo seserį).'
+  santrauka: 'Vaclovas, dar vadintas Vanka, buvo Mazovijos kunigaikštis ir Algirdo sesers vyras.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi tyli ir metraš­
@@ -92,3 +97,21 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Butrimas]]
+- [[objektai/asmenys/Cibulka]]
+- [[objektai/grupes/Daukšių būrys]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]
+- [[objektai/grupes/Valimantaičiai]]
+- [[objektai/asmenys/Vengrijos Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/zodynas/paliaubos]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Vaclovas Čekietis]]
+- [[objektai/ivykiai/Lietuvių žygis į Mazoviją ir pralaimėjimas prie Narevo (1336-1337 m.)]]

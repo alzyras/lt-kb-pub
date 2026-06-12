@@ -16,7 +16,9 @@ Bełch, St.
 
 ## Teiginiai
 
+<a id="claim-t-29306"></a>
 - t-001
+  global_id: t-29306
   teiginys: 'St. J. Bełchas 1956 m. paskelbė darbą „Falkenberg“ ir 1965 m. Londone išleistą veikalą apie Pauliaus Vladimiri doktriną.'
   pagrindžia:
     - c-001

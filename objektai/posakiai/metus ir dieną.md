@@ -17,7 +17,9 @@ O jeigu savo teisėjui užstatą parodytų po metų arba jeigu užstatas pas žy
 
 ## Teiginiai
 
+<a id="claim-t-86864"></a>
 - t-001
+  global_id: t-86864
   teiginys: 'O jeigu savo teisėjui užstatą parodytų po metų arba jeigu užstatas pas žydą būtų metus ir dieną, tam laikui praėjus, jau neprivalo prieš nieką dėl to atsakyti.'
   pagrindžia:
     - c-001

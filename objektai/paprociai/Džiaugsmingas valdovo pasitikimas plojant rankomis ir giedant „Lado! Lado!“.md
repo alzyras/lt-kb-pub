@@ -30,12 +30,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-09541"></a>
 - t-001
+  global_id: t-09541
   teiginys: 'Vilniuje Algirdą džiaugsmingai pasitiko žmonės, senovės papročiu plodami rankomis ir giedodami „Lado! Lado!“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-09542"></a>
 - t-002
+  global_id: t-09542
   teiginys: 'Vilniuje Algirdą pasitikę žmonės plojo rankomis ir giedojo „Lado! Lado!“.'
   pagrindžia:
     - c-001

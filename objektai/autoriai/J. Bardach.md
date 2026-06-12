@@ -24,7 +24,9 @@ Bardach, J.
 
 ## Teiginiai
 
+<a id="claim-t-30660"></a>
 - t-001
+  global_id: t-30660
   teiginys: 'J. Bardach knygoje apie Lietuvos Didžiosios Kunigaikštystės santvarką ir teisę paskelbė darbą „Akt w Krewie“.'
   pagrindžia:
     - c-001

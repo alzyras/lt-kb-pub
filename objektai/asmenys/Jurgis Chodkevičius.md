@@ -18,7 +18,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Jurgis Chodkevičius
 
 ## Santrauka
@@ -27,13 +26,17 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87742"></a>
 - t-001
+  global_id: t-87742
   teiginys: 'Jurgis Chodkevičius 1575 m. Vilniuje padėjo ir globojo spaustuvininką Petrą Timofejevą Mstislavliškį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184746"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad seimo pradžioje, kai pradė jo dalyti pareigybes, Jurgį Chodkevičių paskyrė vy riausiuoju kunigaikščio miegamojo prižiūrėtoju, kurį žmonės vadina Lietuvos Didžiosios Kunigaikštystės archikamerarij ūmi.'
+  global_id: t-184746
+  teiginys: 'Bresto seimo pradžioje Jurgis Chodkevičius paskirtas Lietuvos Didžiosios Kunigaikštystės archikamerarijumi.'
   pagrindžia:
     - c-002
 
@@ -72,7 +75,7 @@ periodo_grupes:
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad seimo pradžioje, kai pradė jo dalyti pareigybes, Jurgį Chodkevičių paskyrė vy riausiuoju kunigaikščio miegamojo prižiūrėtoju, kurį žmonės vadina Lietuvos Didžiosios Kunigaikštystės archikamerarij ūmi.'
+  santrauka: 'Bresto seimo pradžioje Jurgis Chodkevičius paskirtas Lietuvos Didžiosios Kunigaikštystės archikamerarijumi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius
@@ -92,3 +95,12 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Chodkevičiai]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/archikamerarijus]]
+- [[objektai/ivykiai/Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę|Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę (seimas)]]
+- [[objektai/grupes/Mamoničių giminė]]

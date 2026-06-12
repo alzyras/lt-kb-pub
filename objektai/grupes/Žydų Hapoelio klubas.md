@@ -24,7 +24,9 @@ susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji
 
 ## Teiginiai
 
+<a id="claim-t-75087"></a>
 - t-001
+  global_id: t-75087
   teiginys: '1935 m. Žydų Hapoelio klubo jaunieji sportininkai žygiavo Kauno centrine gatve.'
   pagrindžia:
     - c-001

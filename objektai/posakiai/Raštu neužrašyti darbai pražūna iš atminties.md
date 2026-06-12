@@ -31,17 +31,23 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
 
 ## Teiginiai
 
+<a id="claim-t-54781"></a>
 - t-001
+  global_id: t-54781
   teiginys: 'Privilegijos vertime žmonių darbų neišnykimas iš atminties siejamas su jų įamžinimu raštais ir patikimų liudininkų parašais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54782"></a>
 - t-002
+  global_id: t-54782
   teiginys: '1536 m. privilegijos įžangoje teigiama, kad raštu neužrašyti darbai lengvai pražūna žmonių atmintyje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-54783"></a>
 - t-003
+  global_id: t-54783
   teiginys: 'Privilegijos įžangoje teigiama, kad raštai įamžina valdovų valdymo metu nuveiktus darbus.'
   pagrindžia:
     - c-001

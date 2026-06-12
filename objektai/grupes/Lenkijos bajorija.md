@@ -25,7 +25,9 @@ Jogailos ir Vytauto duotas uniją tvirtinąs aktas pašaukė Lietuvos bajoriją 
 
 ## Teiginiai
 
+<a id="claim-t-34373"></a>
 - t-001
+  global_id: t-34373
   teiginys: '1413 m. Jogailos ir Vytauto unijos aktas numatė Lietuvos ir Lenkijos bajorijų pasitarimus dėl valstybės reikalų.'
   pagrindžia:
     - c-001

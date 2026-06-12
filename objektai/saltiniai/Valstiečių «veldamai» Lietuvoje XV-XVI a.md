@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31959"></a>
 - t-001
+  global_id: t-31959
   teiginys: '„Valstiečiai «veldamai» Lietuvoje XV-XVI a.“ išspausdintas AkMD 4 tome 1958 m., p. 113-126.'
   pagrindžia:
     - c-001

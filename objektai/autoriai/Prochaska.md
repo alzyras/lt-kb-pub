@@ -19,7 +19,9 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
 
 ## Teiginiai
 
+<a id="claim-t-35473"></a>
 - t-001
+  global_id: t-35473
   teiginys: 'Prochaska, vadinamas dideliu Vytauto epochos žinovu, dokumentą priėmė kaip autentišką.'
   pagrindžia:
     - c-001

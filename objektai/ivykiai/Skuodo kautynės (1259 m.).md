@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-28863"></a>
 - t-001
+  global_id: t-28863
   teiginys: 'Skuodo laukuose žemaičiai sumušė juos persekiojusį Kuldingos komtūrą Bernhardą von Hareną, žuvo 33 riteriai.'
   pagrindžia:
     - c-001

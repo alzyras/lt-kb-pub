@@ -16,7 +16,9 @@ Dusburgietis teigia, kad neilgai trukus, kai komtūras, sutvarkęs visus savo re
 
 ## Teiginiai
 
+<a id="claim-t-59098"></a>
 - t-001
+  global_id: t-59098
   teiginys: 'Dusburgietis teigia, kad neilgai trukus, kai komtūras, sutvarkęs visus savo reikalus, plaukė pro šalį, šis niekingas išdavikas graudžiu balsu pradėjo šaukti ir prašyti, kad jį priimtų į laivą, kad jo sielą, Kristaus krauju atpirktą, išvaduotų iš velnio vergovės.'
   pagrindžia:
     - c-001

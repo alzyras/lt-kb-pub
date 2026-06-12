@@ -27,7 +27,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31835"></a>
 - t-001
+  global_id: t-31835
   teiginys: 'M. Jučo „Žalgirio mūšis“ buvo išleistas Vilniuje 1959 m.'
   pagrindžia:
     - c-001

@@ -25,12 +25,16 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
 
 ## Teiginiai
 
+<a id="claim-t-69972"></a>
 - t-001
+  global_id: t-69972
   teiginys: 'Gavusi iš savo žvalgų informaciją, jog nuo Žiežmarių iki Alytaus nebuvo nei lietuvių, nei vokiečių dalinių, bolševikų karinė vadovybė 1919 m. vasario pradžioje ryžosi pradėti Kauno puolimą iš pietų pusės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-69973"></a>
 - t-002
+  global_id: t-69973
   teiginys: 'Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.'
   pagrindžia:
     - c-002

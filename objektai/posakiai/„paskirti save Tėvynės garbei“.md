@@ -16,7 +16,9 @@ Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėv
 
 ## Teiginiai
 
+<a id="claim-t-20932"></a>
 - t-001
+  global_id: t-20932
   teiginys: 'Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei ir šis priesakas tapo tūkstančių jaunuolių ir merginų siekiu.'
   pagrindžia:
     - c-001

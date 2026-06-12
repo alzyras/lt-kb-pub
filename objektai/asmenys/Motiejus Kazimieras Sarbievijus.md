@@ -16,7 +16,9 @@ Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angl
 
 ## Teiginiai
 
+<a id="claim-t-19157"></a>
 - t-001
+  global_id: t-19157
   teiginys: 'Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose.'
   pagrindžia:
     - c-001

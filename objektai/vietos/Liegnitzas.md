@@ -23,7 +23,9 @@ Ir iš menkų šaltinių nuotrupų yra įmanoma šiek tiek įžvelgti, jog Minda
 
 ## Teiginiai
 
+<a id="claim-t-32305"></a>
 - t-001
+  global_id: t-32305
   teiginys: 'Prie Liegnitzo Silezijoje 1241 m. vokiečių ir Silezijos kunigaikščiai sulaikė tolesnį totorių veržimąsi į Europą.'
   pagrindžia:
     - c-001

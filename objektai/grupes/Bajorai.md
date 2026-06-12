@@ -27,57 +27,79 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 
 ## Teiginiai
 
+<a id="claim-t-169559"></a>
 - t-001
+  global_id: t-169559
   teiginys: 'Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukilimus – 1830–1831 m. ir 1863–1864 m.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-169560"></a>
 - t-002
+  global_id: t-169560
   teiginys: 'Nušalinta nuo politinės valdžios bajorija viešpatavo socialiniame visuomenės gyvenime, o bajorų luomas Lenkijoje ir Lietuvoje buvo santykinai kur kas gausesnis nei bet kur kitur Europoje ir sudarė apie 6,5 proc.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-169561"></a>
 - t-003
+  global_id: t-169561
   teiginys: 'Bajorai buvo vienintelis privilegijuotas visuomenės luomas, turėjęs politines teises ir siuntęs atstovus į Seimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169562"></a>
 - t-004
+  global_id: t-169562
   teiginys: 'Bajorai prarado savo valstybę, bet gavo rusų bajorų teises ir tapo privilegijuotais imperijos valdiniais.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-169563"></a>
 - t-005
+  global_id: t-169563
   teiginys: 'Bajorai turėjo savivaldą gubernijos ir apskrities lygmeniu, vadinamuosius seimelius, kurie vykdė pagalbines valdžios aparato funkcijas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-169564"></a>
 - t-006
+  global_id: t-169564
   teiginys: 'LDK bajorai turėjo dvilypį tautinį mentalitetą ir vadino save sykiu lietuviais ir lenkais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169565"></a>
 - t-007
+  global_id: t-169565
   teiginys: 'Bajorai dvarininkai sudarė tik ketvirtadalį vietos bajorų luomo, o dauguma buvo mažažemiai ir bežemiai bajorai.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-169566"></a>
 - t-008
+  global_id: t-169566
   teiginys: 'Seimas pirmą kartą bandė miestiečiams suteikti beveik lygias teises su bajorais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-169567"></a>
 - t-009
+  global_id: t-169567
   teiginys: 'Žinoma, bajorai savo valstybę prarado, bet gavo rusų bajorų teises ir tapo privilegijuotais imperijos valdiniais.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-169568"></a>
 - t-010
+  global_id: t-169568
   teiginys: 'Lietuvoje politinėmis teisėmis naudojosi tik bajorų luomas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183120"></a>
 - t-011
+  global_id: t-183120
   teiginys: 'Tačiau politinėmis teisėmis naudojosi tik bajorų luomas (bet net XIX a.'
   pagrindžia:
     - c-010
@@ -576,18 +598,25 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - [[objektai/autoriai/Augustinas Mieleckis Rotundas]]
 - [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane]]
+- [[objektai/posakiai/Esąs tik vienas būdas suteikti valstybei saugią ramybę]]
 - [[objektai/asmenys/Gregoras Kierdėjus]]
 - [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
 - [[objektai/paprociai/Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams|Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams (krikštas)]]
 - [[objektai/asmenys/Jurgis Galminas]]
 - [[objektai/asmenys/Jurgis Gedgaudas]]
 - [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
+- [[objektai/asmenys/Konstantinas Ostrogiškis]]
 - [[objektai/asmenys/Kurovičius]]
 - [[objektai/grupes/Lenkijos bajorai]]
+- [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/asmenys/Mikalojus Sepienskis]]
 - [[objektai/ivykiai/Napoleono karo kampanija Rusijos imperijos gilumoje]]
 - [[objektai/paprociai/Naujai krikštytų lietuvių bajorų privilegijavimas]]
+- [[objektai/paprociai/Padėkos pamaldos už karinę pergalę]]
 - [[objektai/grupes/Prancūziškoji partija]]
+- [[objektai/ivykiai/Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.)]]
 - [[objektai/zodynas/baudžiavinė epocha]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/viečė]]
 - [[objektai/zodynas/visuotinis bajorijos stojimas]]

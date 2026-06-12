@@ -24,7 +24,9 @@ Dusburgietis teigia, kad toeppen M.
 
 ## Teiginiai
 
+<a id="claim-t-61317"></a>
 - t-001
+  global_id: t-61317
   teiginys: 'M. Toeppeno „Historisch-comparative Geographie von Preussen“ išleista Gotha mieste 1858 m.'
   pagrindžia:
     - c-001

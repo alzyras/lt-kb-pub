@@ -17,7 +17,9 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
 
 ## Teiginiai
 
+<a id="claim-t-02662"></a>
 - t-001
+  global_id: t-02662
   teiginys: 'Paragvajaus atstovai buvo tarp penkių valstybių atstovų, gynusių Pabaltijo valstybių priėmimą.'
   pagrindžia:
     - c-001

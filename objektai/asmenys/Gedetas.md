@@ -18,7 +18,9 @@ Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs 
 
 ## Teiginiai
 
+<a id="claim-t-60285"></a>
 - t-001
+  global_id: t-60285
   teiginys: 'Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs didelę galią bei daug turtų, Kimenavos sūduvių vadas, jau nebegalėjo atsispirti dažniems bei smarkiems brolių antpuoliams, su savo namais bei šeimyna ir su tūkstančiu penkiais šimtais vyrų bei moterų jis.'
   pagrindžia:
     - c-001

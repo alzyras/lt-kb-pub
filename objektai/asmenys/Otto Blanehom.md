@@ -19,7 +19,9 @@ Saremas brolis Otto (Blanehom).
 
 ## Teiginiai
 
+<a id="claim-t-87815"></a>
 - t-001
+  global_id: t-87815
   teiginys: 'Saremas brolis Otto (Blanehom).'
   pagrindžia:
     - c-001

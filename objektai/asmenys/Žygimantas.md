@@ -9,9 +9,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - šeima
 ---
-
 # Žygimantas
 
 ## Santrauka
@@ -20,40 +18,47 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-184380"></a>
 - t-001
+  global_id: t-184380
   teiginys: 'Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184381"></a>
 - t-002
+  global_id: t-184381
   teiginys: 'Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu Žygimantu ir Švitrigaila, pasisekė pabėgti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184905"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad žygimantas drąsiai pavarė žirgą į upę ir, vienur briste brisdamas, kitur plaukte plaukdamas, pirmas nusigavo į kitą krantą, pervesdamas be jokių nuostolių visus raitelius.'
+  global_id: t-184905
+  teiginys: 'Karalius Žygimantas pirmas perbrido ir perplaukė upę, be nuostolių pervesdamas visus raitelius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184906"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad žygimantas, netekęs vilties pasiekti taikos, kuo greičiausiai išsiuntė skitams pagal sutartį paža dėtą atlyginimą, manydamas, kad šie privers priešą likti savo žemėje.'
+  global_id: t-184906
+  teiginys: 'Žygimantas, praradęs viltį sudaryti taiką, išsiuntė skitams sutartą atlygį, kad šie sulaikytų priešą jo žemėje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184907"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad žygiuojan čią į priekį kariuomenę sustabdė žinia, jog karalius Žygimantas prie Borisovo su trisdešimt tūkstančių rink tinių karių įkūrė stovyklą.'
+  global_id: t-184907
+  teiginys: 'Karalius Žygimantas prie Borisovo įkūrė stovyklą su trisdešimt tūkstančių rinktinių karių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184908"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad žygimantas paprašė leisti laisvai sugrįžti į Maskvą tiems pirkliams ir žygūnams, kurie buvo sulaikyti, kai maskvėnai suėmė karališkuosius teisėjus.'
+  global_id: t-184908
+  teiginys: 'Žygimantas paprašė leisti į Maskvą grįžti pirkliams ir žygūnams, sulaikytiems po karališkųjų teisėjų suėmimo.'
   pagrindžia:
     - c-006
-
-- t-007
-  teiginys: 'Kojelavičius teigia, kad žygimantas davė pradžią garsiai šeimai, pelniusiai šlovę taikos darbais bei karo žygiais ir aukščiausiomis pareigybėmis.'
-  pagrindžia:
-    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -89,7 +94,7 @@ tags:
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad žygimantas drąsiai pavarė žirgą į upę ir, vienur briste brisdamas, kitur plaukte plaukdamas, pirmas nusigavo į kitą krantą, pervesdamas be jokių nuostolių visus raitelius.'
+  santrauka: 'Karalius Žygimantas pirmas perbrido ir perplaukė upę, be nuostolių pervesdamas visus raitelius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vėliau nušuoliavo prie upės ir iš užpakalio
@@ -108,7 +113,7 @@ tags:
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad žygimantas, netekęs vilties pasiekti taikos, kuo greičiausiai išsiuntė skitams pagal sutartį paža dėtą atlyginimą, manydamas, kad šie privers priešą likti savo žemėje.'
+  santrauka: 'Žygimantas, praradęs viltį sudaryti taiką, išsiuntė skitams sutartą atlygį, kad šie sulaikytų priešą jo žemėje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tačiau Vasilijus, negalėda­
@@ -132,7 +137,7 @@ tags:
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad žygiuojan čią į priekį kariuomenę sustabdė žinia, jog karalius Žygimantas prie Borisovo su trisdešimt tūkstančių rink tinių karių įkūrė stovyklą.'
+  santrauka: 'Karalius Žygimantas prie Borisovo įkūrė stovyklą su trisdešimt tūkstančių rinktinių karių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Prie Smolensko įkūręs stovyklą ir pasilikęs čia su dvi­
@@ -158,7 +163,7 @@ tags:
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad žygimantas paprašė leisti laisvai sugrįžti į Maskvą tiems pirkliams ir žygūnams, kurie buvo sulaikyti, kai maskvėnai suėmė karališkuosius teisėjus.'
+  santrauka: 'Žygimantas paprašė leisti į Maskvą grįžti pirkliams ir žygūnams, sulaikytiems po karališkųjų teisėjų suėmimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Galop jis pa­
@@ -181,29 +186,182 @@ tags:
   pagrindžia:
     - t-006
 
-- c-007
-  santrauka: 'Kojelavičius teigia, kad žygimantas davė pradžią garsiai šeimai, pelniusiai šlovę taikos darbais bei karo žygiais ir aukščiausiomis pareigybėmis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ne mažiau
-    bėdų Maskvos kunigaikštystei pridarė galingi didikai,
-    pradėję nesutarti ir žiauriai vienas kitą persekioti; kai
-    varžovai nusiaubė kelias priešingos grupuotės šeimas,
-    kunigaikštis Simonas Belskis ir Ivanas Liackis, neapsi­
-    kęsdami su šitokiu gyvenimu,
-    M a sk v o s d id ik a i p e r-
-    pasiprašė su visais turtais
-    ein a  į L ie tu v ą
-    karaliaus Žygimanto prieg­
-    laudos.
-    Karalius
-    maloniai
-    juos Vilniuje priėmė ir apdovanojo didelėmis valdo­
-    mis. Liackiui atiteko Želudokas ir Aukštadvaris, jis davė
-    pradžią garsiai šeimai, pelniusiai šlovę taikos darbais
-    bei karo žygiais ir aukščiausiomis pareigybėmis.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-007
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Saulė]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/daiktai/Aleksandro laikų Vilniaus monetos ir kalyklos metalai]]
+- [[objektai/daiktai/Antspaudai]]
+- [[objektai/daiktai/Antspaudai ir pergamentiniai privilegijų originalai]]
+- [[objektai/zodynas/Augsburgo Augustino tikėjimas]]
+- [[objektai/ivykiai/Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.)]]
+- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
+- [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
+- [[objektai/grupes/Dievo Kūno arkibrolija]]
+- [[objektai/grupes/Dominikonų ordinas]]
+- [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/daiktai/Dryžuotos gūnios ir dovanos ant kupranugarių]]
+- [[objektai/asmenys/Eugenijus IV]]
+- [[objektai/asmenys/Firstenbergas (Livonijos ordino magistras)]]
+- [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]
+- [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
+- [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
+- [[objektai/asmenys/Grigalius Chodkevičius]]
+- [[objektai/autoriai/Gurnickis]]
+- [[objektai/paprociai/Itališkos mados perėmimas Lietuvos diduomenėje]]
+- [[objektai/asmenys/Jonas (Suomijos kunigaikštis)]]
+- [[objektai/asmenys/Jonas Chodkevičius]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Karaimai]]
+- [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]
+- [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
+- [[objektai/ivykiai/Karas tarp Švitrigailos ir Žygimanto Kęstutaičio]]
+- [[objektai/posakiai/Koks Lenkijai buvo Kazimieras Didysis, tokiu Lietuvai tapo Žygimantas Senasis]]
+- [[objektai/asmenys/Kotryna Jogailaitė]]
+- [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]
+- [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]
+- [[objektai/asmenys/Kunzas Lochneris]]
+- [[objektai/asmenys/Laurynas Zaremba]]
+- [[objektai/grupes/Lenkijos senatas]]
+- [[objektai/grupes/Lenkų senatas]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
+- [[objektai/grupes/Lietuvos ponų taryba]]
+- [[objektai/grupes/Lietuvos senatoriai]]
+- [[objektai/paprociai/Lietuvos valdovų reikalų sprendimas Trakuose vietoj sostinės Vilniaus]]
+- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/asmenys/Liudvikas (Čekijos karalius)]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/ivykiai/Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika]]
+- [[objektai/zodynas/Magdeburgo teisė]]
+- [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/asmenys/Mahometas Aminas]]
+- [[objektai/asmenys/Maksimilijonas I]]
+- [[objektai/grupes/Maloningosios Dievo Motinos brolija]]
+- [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
+- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
+- [[objektai/posakiai/O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė]]
+- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
+- [[objektai/daiktai/Pabaisko fundacijos privilegijos pergamentas ir antspaudai]]
+- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas]]
+- [[objektai/paprociai/Politinių susitarimų tvirtinimas valstybiniais aktais, parašais ir antspaudais]]
+- [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]
+- [[objektai/paprociai/Prabangūs šermenys ir iškilmingos laidotuvės nužudytam valdovui]]
+- [[objektai/posakiai/Praemissa er corde considerantes devoto]]
+- [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]
+- [[objektai/zodynas/Puškarnia]]
+- [[objektai/grupes/Radvilų giminė]]
+- [[objektai/posakiai/Raštu neužrašyti darbai pražūna iš atminties]]
+- [[objektai/daiktai/Reformatų didieji maldos namai prie Šv. Mykolo bažnyčios]]
+- [[objektai/asmenys/Romanas Sanguška]]
+- [[objektai/daiktai/Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai]]
+- [[objektai/ivykiai/Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)]]
+- [[objektai/asmenys/Sofija (Švitrigailos žmona)]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/paprociai/Svetimšalių pirklių prekyba per Vilniaus pirklius]]
+- [[objektai/posakiai/Tai ne tas kelias, Maloningasis Pone]]
+- [[objektai/posakiai/Tartari, longe sunt Lituanis inferiores viribus]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Trakų žydai]]
+- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/grupes/Valerijono Bursos studentų bendrija]]
+- [[objektai/posakiai/Vardan Viešpaties Amen Amžinai dalykų atminčiai]]
+- [[objektai/grupes/Varmės kapitula]]
+- [[objektai/ivykiai/Varšuvos konfederacija]]
+- [[objektai/posakiai/Viešpaties vardu Amen]]
+- [[objektai/paprociai/Viešų miesto paslaugų pelno skyrimas Vilniaus iždui]]
+- [[objektai/grupes/Vilniaus akademijos kolegija]]
+- [[objektai/daiktai/Vilniaus ginklų liejyklos pabūklai, bombos ir amunicija]]
+- [[objektai/grupes/Vilniaus gyventojai]]
+- [[objektai/grupes/Vilniaus jėzuitų kolegija]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/grupes/Vilniaus magistratas]]
+- [[objektai/paprociai/Vilniaus magistrato mišri taryba ir metinė pajamų ataskaita]]
+- [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
+- [[objektai/paprociai/Vilniaus miestiečių bylinėjimasis pagal Magdeburgo teisę]]
+- [[objektai/daiktai/Vilniaus miestiečių gynybinė ginkluotė]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]
+- [[objektai/paprociai/Vilniaus padienininkų rinkimasis prie rotušės]]
+- [[objektai/daiktai/Vilniaus pilies Puškarnia, artilerijos įranga, amunicija ir dirbtinės ugnys]]
+- [[objektai/grupes/Vilniaus pirkliai]]
+- [[objektai/daiktai/Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės]]
+- [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
+- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]
+- [[objektai/grupes/Vokiečių amatininkai Vilniuje]]
+- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/Wielkierz Wilkirz Willkühren]]
+- [[objektai/zodynas/arkibrolija arkikonfratrija]]
+- [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai]]
+- [[objektai/zodynas/artilerijos pasala]]
+- [[objektai/zodynas/disidentai reformatai reformatoriai]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/gurguolė]]
+- [[objektai/zodynas/indiktas]]
+- [[objektai/posakiai/ius Teutonicum quod Magdeburiense dicitur denuo darnus]]
+- [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai]]
+- [[objektai/zodynas/miesto magistrato pareigybės]]
+- [[objektai/zodynas/miesto sargyba ir policija]]
+- [[objektai/zodynas/muitas thelonea]]
+- [[objektai/zodynas/poliublininis laikotarpis]]
+- [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
+- [[objektai/zodynas/prekymečiai ir turgūs]]
+- [[objektai/zodynas/sufraganas kleras arkipresbiteris]]
+- [[objektai/zodynas/supirkinėtojai ir padienininkai]]
+- [[objektai/zodynas/trečias grūdas]]
+- [[objektai/zodynas/vaitas]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Čekijos husitai]]
+- [[objektai/daiktai/Šakutė]]
+- [[objektai/grupes/Šv. Jono brolija]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/grupes/Švitrigailos šalininkai]]
+- [[objektai/zodynas/šinkorystė propinacija]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija]]
+- [[objektai/ivykiai/Žygimanto Augusto generalinio potvarkio dėl lietuviškų monetų paskelbimas (1572 m. kovo 26 d.)]]
+- [[objektai/posakiai/Žygimanto Augusto laikai Vilniui buvo aukso amžius]]
+- [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai]]
+- [[objektai/ivykiai/Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių|Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių (privilegija)]]
+- [[objektai/ivykiai/Žygimanto Kęstutaičio nužudymas per Verbų sekmadienį (1440 m.)]]
+- [[objektai/ivykiai/Žygimanto Kęstutaičio pakėlimas Lietuvos didžiuoju kunigaikščiu (1432 m.)]]
+- [[objektai/ivykiai/Žygimanto Kęstutaičio šermenys ir laidotuvės Vilniuje (1440 m.)]]
+- [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos]]
+- [[objektai/daiktai/Žygimanto Senojo kalavijas su Lietuvos ir Lenkijos herbais]]
+- [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]
+- [[objektai/grupes/Žygimanto šalininkai]]
+- [[objektai/posakiai/„Jūsų Didybės įsakyti mes čia su didžiu skausmu...“]]
+- [[objektai/posakiai/„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“]]
+- [[objektai/posakiai/Ab alio expectes alteri quod feceris]]
+- [[objektai/ivykiai/Augusto santuokos su Barbora Radvilaite atskleidimas ir kilęs pasipriešinimas]]
+- [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/asmenys/Elžbieta]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/asmenys/Jonas Hanulaitis]]
+- [[objektai/paprociai/Pabaisko pergalės įamžinimas vietovardžiais ir bažnyčios fundacija]]
+- [[objektai/daiktai/Patranka Hidra]]
+- [[objektai/daiktai/Vilniaus vandentiekio vamzdžiai ir kanalai]]
+- [[objektai/zodynas/mansionieriai]]
+- [[objektai/zodynas/sambrūzdis]]
+- [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]
+- [[objektai/ivykiai/Žygimanto II mirtis]]
+- [[objektai/ivykiai/Žygimanto Kęstutaičio iškėlimas Švitrigailos varžovu ir Švitrigailos pabėgimas iš Lietuvos (1432 m.)]]
+- [[objektai/ivykiai/Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus]]
+- [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl erezijos, jurisdikcijos ir prievolių suteikimas (1542 m.)]]
+- [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl jurisdikcijos ir prievolių suteikimas (1542 m.)]]
+- [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
+- [[objektai/ivykiai/Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)]]

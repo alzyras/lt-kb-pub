@@ -26,17 +26,23 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
 
 ## Teiginiai
 
+<a id="claim-t-58457"></a>
 - t-001
+  global_id: t-58457
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena ir.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58458"></a>
 - t-002
+  global_id: t-58458
   teiginys: 'Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigimą 1245 viešpaties metais tas pats popiežius sušaukė Lione suvažiavimą, kur nutarė švęsti švenčiausiosios mergelės Marijos gimimo oktavas (Ptol.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58459"></a>
 - t-003
+  global_id: t-58459
   teiginys: 'Dusburgietis teigia, kad apie Liono sinodą ir apie kardinolo Bonaventūros bei Tomo Akviniečio mirtį 1274 viešpaties metais Grigalius X, popiežius, norėdamas padėti šventajai žemei, sušaukė Lione sinodą, kuriame graikai sugrįžo į šventosios bažnyčios vienybę, o keli totorių.'
   pagrindžia:
     - c-003

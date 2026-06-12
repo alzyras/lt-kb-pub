@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)
 
 ## Santrauka
 
-Kojelavičius teigia, kad šiek tiek pažygiavus, žvalgai pra nešė, jog didelės priešo jėgos tikrai įsitvirtinusios abie juose Vedrošos krantuose, o dalis raitelių, atsiskyrusių nuo kitų jėgų ir išsirikiavusių kautynių tvarka plyna me lauke, už dviejų mylių laukianti atvykstančių lietu. Kojelavičius teigia, kad šitaip pakliuvo į nelaisvę \ žymiausi senatoriai ir karvedžiai Konstantinas, Ostrogo kunigaikštis, Stanislovas Kiška, Smolensko vaiva da, Grigalius Astikas, Lietuvos maršalas, Litavaras Chreptavičius, Naugarduko vaivada, Mikalojus Gleba-j vičius, Mikalojus. Kojelavičius teigia, kad išvengė nelaisvės ar mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va lavičius, Teodoras Nemyra, Bogdanas Maskevičius; šie garsūs pulkų vadai, sužeisti ir beveik visai išsekę, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš.
+Prieš Vedrošos mūšį žvalgai pranešė, kad priešo jėgos įsitvirtinusios abiejuose Vedrošos krantuose. Vedrošos mūšyje į nelaisvę pateko Konstantinas Ostrogiškis, Stanislovas Kiška, Grigalius Astikas, Litavaras Chreptavičius, Mikalojus Glebavičius ir Mikalojus Zenovjevičius. Po Vedrošos mūšio nelaisvės ar mirties išvengė Ivanas Jacyničius, Jurgis Valavičius, Teodoras Nemyra ir Bogdanas Maskevičius.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,25 +26,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185539"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad šiek tiek pažygiavus, žvalgai pra nešė, jog didelės priešo jėgos tikrai įsitvirtinusios abie juose Vedrošos krantuose, o dalis raitelių, atsiskyrusių nuo kitų jėgų ir išsirikiavusių kautynių tvarka plyna me lauke, už dviejų mylių laukianti atvykstančių lietu.'
+  global_id: t-185539
+  teiginys: 'Prieš Vedrošos mūšį žvalgai pranešė, kad priešo jėgos įsitvirtinusios abiejuose Vedrošos krantuose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185540"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad šitaip pakliuvo į nelaisvę \ žymiausi senatoriai ir karvedžiai Konstantinas, Ostrogo kunigaikštis, Stanislovas Kiška, Smolensko vaiva da, Grigalius Astikas, Lietuvos maršalas, Litavaras Chreptavičius, Naugarduko vaivada, Mikalojus Gleba-j vičius, Mikalojus.'
+  global_id: t-185540
+  teiginys: 'Vedrošos mūšyje į nelaisvę pateko Konstantinas Ostrogiškis, Stanislovas Kiška, Grigalius Astikas, Litavaras Chreptavičius, Mikalojus Glebavičius ir Mikalojus Zenovjevičius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185541"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad išvengė nelaisvės ar mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va lavičius, Teodoras Nemyra, Bogdanas Maskevičius; šie garsūs pulkų vadai, sužeisti ir beveik visai išsekę, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš.'
+  global_id: t-185541
+  teiginys: 'Po Vedrošos mūšio nelaisvės ar mirties išvengė Ivanas Jacyničius, Jurgis Valavičius, Teodoras Nemyra ir Bogdanas Maskevičius.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad šiek tiek pažygiavus, žvalgai pra nešė, jog didelės priešo jėgos tikrai įsitvirtinusios abie juose Vedrošos krantuose, o dalis raitelių, atsiskyrusių nuo kitų jėgų ir išsirikiavusių kautynių tvarka plyna me lauke, už dviejų mylių laukianti atvykstančių lietu.'
+  santrauka: 'Prieš Vedrošos mūšį žvalgai pranešė, kad priešo jėgos įsitvirtinusios abiejuose Vedrošos krantuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šiek tiek pažygiavus, žvalgai pra­
@@ -67,7 +72,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad šitaip pakliuvo į nelaisvę \ žymiausi senatoriai ir karvedžiai Konstantinas, Ostrogo kunigaikštis, Stanislovas Kiška, Smolensko vaiva da, Grigalius Astikas, Lietuvos maršalas, Litavaras Chreptavičius, Naugarduko vaivada, Mikalojus Gleba-j vičius, Mikalojus.'
+  santrauka: 'Vedrošos mūšyje į nelaisvę pateko Konstantinas Ostrogiškis, Stanislovas Kiška, Grigalius Astikas, Litavaras Chreptavičius, Mikalojus Glebavičius ir Mikalojus Zenovjevičius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Galingas priešas, tu­
@@ -106,7 +111,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad išvengė nelaisvės ar mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va lavičius, Teodoras Nemyra, Bogdanas Maskevičius; šie garsūs pulkų vadai, sužeisti ir beveik visai išsekę, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš.'
+  santrauka: 'Po Vedrošos mūšio nelaisvės ar mirties išvengė Ivanas Jacyničius, Jurgis Valavičius, Teodoras Nemyra ir Bogdanas Maskevičius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Išvengė nelaisvės ar
@@ -127,3 +132,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/asmenys/Ivanas]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/asmenys/Stanislovas]]
+- [[objektai/asmenys/Teodoras]]
+- [[objektai/asmenys/Bogdanas Maskevičius]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/asmenys/Teodoras Nemyra]]
+- [[objektai/asmenys/Ivanas (Maskvos valdovas)]]

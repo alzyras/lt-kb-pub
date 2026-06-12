@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-100224"></a>
 - t-001
+  global_id: t-100224
   teiginys: '(”) Wilhelm de Machaut i jego wiadomości do dziejów Polski i Litwy w XIV w., KH, t.'
   pagrindžia:
     - c-001

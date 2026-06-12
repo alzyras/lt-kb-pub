@@ -24,7 +24,9 @@ Mykolą paskirtas Ordino didžiuoju maršalu, 1387 metais per Apreiški­ mo Mar
 
 ## Teiginiai
 
+<a id="claim-t-86586"></a>
 - t-001
+  global_id: t-86586
   teiginys: 'Konradas Valenrodas 1387 metais tapo Ordino didžiuoju komtūru, arba arkikomtūru.'
   pagrindžia:
     - c-001

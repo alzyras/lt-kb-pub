@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31890"></a>
 - t-001
+  global_id: t-31890
   teiginys: 'Pr. Papée veikalo „Polska i Litwa na przełomie wieków średnich“ pirmoji dalis išleista Krokuvoje 1904 m.'
   pagrindžia:
     - c-001

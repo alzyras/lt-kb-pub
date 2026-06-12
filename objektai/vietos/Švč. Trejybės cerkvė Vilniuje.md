@@ -27,12 +27,16 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
 
 ## Teiginiai
 
+<a id="claim-t-86134"></a>
 - t-001
+  global_id: t-86134
   teiginys: 'Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spaso) bažnyčia ir penktuosius - nuo Pilies.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86135"></a>
 - t-002
+  global_id: t-86135
   teiginys: 'Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės 48 Karalienė Elena mirė Vilniuje 1513 gavusi iš vyro, 1510 metais jai skyrė metais, palaidota graikų apeigų kopdalį Švč.'
   pagrindžia:
     - c-002

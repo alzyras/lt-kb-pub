@@ -26,7 +26,6 @@ amziai:
   - 'XI'
   - 'XXI'
 ---
-
 # Semba
 
 ## Santrauka
@@ -35,78 +34,108 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 
 ## Teiginiai
 
+<a id="claim-t-182828"></a>
 - t-001
+  global_id: t-182828
   teiginys: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-182830"></a>
 - t-002
+  global_id: t-182830
   teiginys: '1324 m. Ragainės komtūras Tomas Aldenburgas su 400 žmonių iš Sembos ir Natangos netikėtai užpuolė Gedimino pilies papilį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183808"></a>
 - t-003
+  global_id: t-183808
   teiginys: 'Rugpjūtį lietuviai niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėn.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-183809"></a>
 - t-004
+  global_id: t-183809
   teiginys: 'Tai sužinoję lietuviai persekiojo priešą, įsiveržė į Sembą, niokojo priešo teritoriją.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184198"></a>
 - t-005
+  global_id: t-184198
   teiginys: 'Dusburgietis teigia, kad apie karo su sembais rezultatų atspėjimą Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau jį ištirti, nusiuntė į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą, maloniai jį priėmė, aprodydami visą jų.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184199"></a>
 - t-006
+  global_id: t-184199
   teiginys: 'Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-184200"></a>
 - t-007
+  global_id: t-184200
   teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nusiaubimą Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami mūsų aprašytais ir neaprašytais smūgiais, didžiai krimtosi ir degė prieš juos neapsakomu įtūžiu, todėl pradėjo tartis, kaip būtų galima atkeršyti už.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-184201"></a>
 - t-008
+  global_id: t-184201
   teiginys: 'Dusburgietis teigia, kad juos išvydęs, magistras labai nudžiugo ir įsakė jiems žygiuoti link Sembos žemės512.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-184202"></a>
 - t-009
+  global_id: t-184202
   teiginys: 'Dusburgietis teigia, kad tada jiems paskyrė vedlį ir įsakė nedelsiant keliauti į Sembos žemę.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-184203"></a>
 - t-010
+  global_id: t-184203
   teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nusiaubimą Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į Sembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis, o grobio išsigabeno palyginti nedaug, nes broliai iš.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-184399"></a>
 - t-011
+  global_id: t-184399
   teiginys: 'Nuterioję Sembą, lietuviai susirinko ties Rudavos bažnytkaimiu į šiaurę nuo Karaliaučiaus.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-184400"></a>
 - t-012
+  global_id: t-184400
   teiginys: '1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185130"></a>
 - t-013
-  teiginys: 'Kojelavičius teigia, kad tenai, nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies tas, čekų karaliaus Otokaro visai neseniai įkurtas.'
+  global_id: t-185130
+  teiginys: 'Nusiaubus Sembą, buvo apsuptas neseniai čekų karaliaus Otokaro įkurtas Karaliaučiaus miestas.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-185131"></a>
 - t-014
-  teiginys: 'Kojelavičius teigia, kad kita vokie čių kariuomenė, vedama grafo Barbio, niokojo Sembą ir Žemaitijos pasienius; ji taip pat buvo prūsų sutriuš kinta per pačią šventosios Agnetės šventę.'
+  global_id: t-185131
+  teiginys: 'Grafo Barbio vedama vokiečių kariuomenė niokojo Sembą ir Žemaitijos pasienius, bet buvo prūsų sutriuškinta.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-185132"></a>
 - t-015
-  teiginys: 'Kojelavičius teigia, kad že maičiai, gal norėdami su kry- 1308 m e ta i žiuočiais kariauti ne savo Ž em a ičių ž y g is į Prūžemėje, o Prūsijoje, gal troksiją šdami priešą nukamuoti nuo latiniais grobikiškais antpuo liais, smarkiai nusiaubė Sembos žemę.'
+  global_id: t-185132
+  teiginys: 'Žemaičiai, Mansto ir Sudargo vedami, su penkių tūkstančių vyrų kariuomene smarkiai nusiaubė Sembos žemę.'
   pagrindžia:
     - c-015
 
@@ -344,7 +373,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - t-011
 
 - c-013
-  santrauka: 'Kojelavičius teigia, kad tenai, nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies tas, čekų karaliaus Otokaro visai neseniai įkurtas.'
+  santrauka: 'Nusiaubus Sembą, buvo apsuptas neseniai čekų karaliaus Otokaro įkurtas Karaliaučiaus miestas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     105
@@ -367,7 +396,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - t-013
 
 - c-014
-  santrauka: 'Kojelavičius teigia, kad kita vokie čių kariuomenė, vedama grafo Barbio, niokojo Sembą ir Žemaitijos pasienius; ji taip pat buvo prūsų sutriuš kinta per pačią šventosios Agnetės šventę.'
+  santrauka: 'Grafo Barbio vedama vokiečių kariuomenė niokojo Sembą ir Žemaitijos pasienius, bet buvo prūsų sutriuškinta.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     ## Puslapis 106
@@ -388,7 +417,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - t-014
 
 - c-015
-  santrauka: 'Kojelavičius teigia, kad že maičiai, gal norėdami su kry- 1308 m e ta i žiuočiais kariauti ne savo Ž em a ičių ž y g is į Prūžemėje, o Prūsijoje, gal troksiją šdami priešą nukamuoti nuo latiniais grobikiškais antpuo liais, smarkiai nusiaubė Sembos žemę.'
+  santrauka: 'Žemaičiai, Mansto ir Sudargo vedami, su penkių tūkstančių vyrų kariuomene smarkiai nusiaubė Sembos žemę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš rusų šaltinių žinome, kad tais

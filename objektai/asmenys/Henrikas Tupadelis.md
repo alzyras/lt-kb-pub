@@ -18,7 +18,9 @@ Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino 
 
 ## Teiginiai
 
+<a id="claim-t-60138"></a>
 - t-001
+  global_id: t-60138
   teiginys: 'Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas, ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus] piliai padegti.'
   pagrindžia:
     - c-001

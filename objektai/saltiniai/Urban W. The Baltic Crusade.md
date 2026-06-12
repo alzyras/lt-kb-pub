@@ -22,7 +22,9 @@ Dusburgietis teigia, kad urban W.
 
 ## Teiginiai
 
+<a id="claim-t-61329"></a>
 - t-001
+  global_id: t-61329
   teiginys: 'W. Urbano „The Baltic Crusade“ išleista Northern Illinois University Press leidykloje De Kalbe 1975 m.'
   pagrindžia:
     - c-001

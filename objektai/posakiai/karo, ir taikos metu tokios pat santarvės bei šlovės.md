@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # karo, ir taikos metu tokios pat santarvės bei šlovės
 
 ## Santrauka
 
-Kojelavičius teigia, kad rūmų maršalas, para ginęs vieną bei kitą siekti ir karo, ir taikos metu tokios pat santarvės bei šlovės, kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją bei lazdą.
+Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu.
 
 ## Teiginiai
 
+<a id="claim-t-185477"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad rūmų maršalas, para ginęs vieną bei kitą siekti ir karo, ir taikos metu tokios pat santarvės bei šlovės, kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją bei lazdą.'
+  global_id: t-185477
+  teiginys: 'Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad rūmų maršalas, para ginęs vieną bei kitą siekti ir karo, ir taikos metu tokios pat santarvės bei šlovės, kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją bei lazdą.'
+  santrauka: 'Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sukvietus Kernavėje didikų sueigą, Germanto
@@ -44,3 +45,11 @@ Kojelavičius teigia, kad rūmų maršalas, para ginęs vieną bei kitą siekti 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Germantas]]
+- [[objektai/asmenys/Giliginas]]
+- [[objektai/asmenys/Trobius]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/paprociai/Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą]]

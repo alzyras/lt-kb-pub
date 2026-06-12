@@ -16,7 +16,9 @@ O juk iš tokių emigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimus
 
 ## Teiginiai
 
+<a id="claim-t-19105"></a>
 - t-001
+  global_id: t-19105
   teiginys: 'Leonardo Coheno motina buvo kilusi iš Lietuvos emigrantų.'
   pagrindžia:
     - c-001

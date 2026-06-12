@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20232"></a>
 - t-001
+  global_id: t-20232
   teiginys: 'Brutalus rusų valdžios elgesys per Kražių įvykius sukėlė dalies rusų visuomenės pasipiktinimą ir Vatikano protestą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183228"></a>
 - t-002
+  global_id: t-183228
   teiginys: 'Du įvykiai turėjo nemažą įtaką lietuvių tautinio sąmoningumo formavimuisi.'
   pagrindžia:
     - c-001

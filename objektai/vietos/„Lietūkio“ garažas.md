@@ -16,12 +16,16 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
 
 ## Teiginiai
 
+<a id="claim-t-69974"></a>
 - t-001
+  global_id: t-69974
   teiginys: 'Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba bandančių nusiplauti sovietmečio nuodėmes lietuvių – tokie dalyvavo SD inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje, 27 – Kauno „Lietūkio“ garaže, nors SD.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-69975"></a>
 - t-002
+  global_id: t-69975
   teiginys: '1941 m. birželio 27 d. „Lietūkio“ garaže vyko žydų žudynės.'
   pagrindžia:
     - c-001

@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77964"></a>
 - t-001
+  global_id: t-77964
   teiginys: 'Lietuvoje lietuvių valstiečiai ir žydų pirkliai buvo ūkiškai priklausomi vieni nuo kitų.'
   pagrindžia:
     - c-001

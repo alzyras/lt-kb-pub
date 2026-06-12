@@ -18,12 +18,16 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
 
 ## Teiginiai
 
+<a id="claim-t-58848"></a>
 - t-001
+  global_id: t-58848
   teiginys: 'Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vieškelio, ir tą malūną sutvirtino nelyginant pilį, palikdami jame du brolius ir daug ginklanešių jam saugoti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58849"></a>
 - t-002
+  global_id: t-58849
   teiginys: 'Dusburgietis teigia, kad iII, 24 — per pontem. Čia minimas prie Baigos per vandenis, pelkę ėjęs grįstas kelias, greičiausiai panašus į garsias žemaičių kūlgrindas (Kšivickis L., Žemaičių..., p. 60—72).'
   pagrindžia:
     - c-001

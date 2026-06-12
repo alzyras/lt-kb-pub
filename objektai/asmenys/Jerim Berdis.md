@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jerim Berdis
 
 ## Santrauka
 
-Kojelavičius teigia, kad kerim Berdis, sutelkęs stiprią kariuome nę, sutiko atvykstantį ir, stojęs į mūšį, išsklaidė jo dalinius, o patį brolį nužudė.
+Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, nepaisydamas brolio likimo ir kraujo praliejimo.
 
 ## Teiginiai
 
+<a id="claim-t-186046"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kerim Berdis, sutelkęs stiprią kariuome nę, sutiko atvykstantį ir, stojęs į mūšį, išsklaidė jo dalinius, o patį brolį nužudė.'
+  global_id: t-186046
+  teiginys: 'Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, nepaisydamas brolio likimo ir kraujo praliejimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kerim Berdis, sutelkęs stiprią kariuome nę, sutiko atvykstantį ir, stojęs į mūšį, išsklaidė jo dalinius, o patį brolį nužudė.'
+  santrauka: 'Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, nepaisydamas brolio likimo ir kraujo praliejimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kerim Berdis, sutelkęs stiprią kariuome­
@@ -38,3 +39,7 @@ Kojelavičius teigia, kad kerim Berdis, sutelkęs stiprią kariuome nę, sutiko 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]

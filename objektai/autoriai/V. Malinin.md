@@ -24,7 +24,9 @@ Malinin: Starec Eleazarova monastyrja Filofej, Kiev 1901, Priloženija 45p.).
 
 ## Teiginiai
 
+<a id="claim-t-31037"></a>
 - t-001
+  global_id: t-31037
   teiginys: 'V. Malinin parašė 1901 m. Kijeve išleistą darbą „Starec Eleazarova monastyrja Filofej“.'
   pagrindžia:
     - c-001

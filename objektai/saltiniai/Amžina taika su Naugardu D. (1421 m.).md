@@ -24,7 +24,9 @@ Vy­ tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­ kais pr
 
 ## Teiginiai
 
+<a id="claim-t-36033"></a>
 - t-001
+  global_id: t-36033
   teiginys: 'Ordinas 1421 metais sudarė amžiną taiką su Didžiuoju Naugardu.'
   pagrindžia:
     - c-001

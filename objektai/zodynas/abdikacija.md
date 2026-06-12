@@ -33,7 +33,9 @@ Vartojama politinės teisės ir valdovo statuso kontekste.
 
 ## Teiginiai
 
+<a id="claim-t-23430"></a>
 - t-001
+  global_id: t-23430
   teiginys: 'Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisakymo) aktas.'
   pagrindžia:
     - c-001

@@ -30,17 +30,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86421"></a>
 - t-001
+  global_id: t-86421
   teiginys: 'Rašytas Vilniuje, sausio 13 dieną, Il indikte.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86422"></a>
 - t-002
+  global_id: t-86422
   teiginys: 'Vilniuje rašytas dokumentas datuotas 1533 m. spalio 23 d., 7 indiktu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86423"></a>
 - t-003
+  global_id: t-86423
   teiginys: 'Karaliaus Kazimiero sutartis su Pskovu Vilniuje datuota 1440 m. gruodžio 30 d., 4 indiktu.'
   pagrindžia:
     - c-002

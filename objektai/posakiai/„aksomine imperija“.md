@@ -16,7 +16,9 @@ Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“.
 
 ## Teiginiai
 
+<a id="claim-t-20878"></a>
 - t-001
+  global_id: t-20878
   teiginys: 'Lietuvos didvalstybė kartais vadinama „aksomine imperija“, nes LDK pakraščių priklausomybė svyravo tarp siuzereniteto ir hegemonijos.'
   pagrindžia:
     - c-001

@@ -23,7 +23,9 @@ Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.
 
 ## Teiginiai
 
+<a id="claim-t-88468"></a>
 - t-001
+  global_id: t-88468
   teiginys: 'Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.'
   pagrindžia:
     - c-001

@@ -17,12 +17,16 @@ Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol 
 
 ## Teiginiai
 
+<a id="claim-t-42453"></a>
 - t-001
+  global_id: t-42453
   teiginys: 'Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol į mūšį neįsitraukė pagrindinės lenkų pajėgos, nes priešingu atveju būtų pavojingai atidengtas lietuvių sąjungininkų dešinysis flangas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-42454"></a>
 - t-002
+  global_id: t-42454
   teiginys: 'Lenkų rezervas pradėjo apeiti kryžiuočius kairėje iš jų dešiniojo flango.'
   pagrindžia:
     - c-002

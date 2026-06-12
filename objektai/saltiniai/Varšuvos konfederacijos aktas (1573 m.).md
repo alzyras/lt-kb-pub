@@ -17,12 +17,16 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
 
 ## Teiginiai
 
+<a id="claim-t-67555"></a>
 - t-001
+  global_id: t-67555
   teiginys: 'Renkamas karalium jis prisiekė laikytis 1573 metų Varšuvos konfederacijos, kuri garantavo, kad dėl tikėjimo niekas nebus persekiojamas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67556"></a>
 - t-002
+  global_id: t-67556
   teiginys: 'Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uoliai saugojo 1573 metų Varšuvos konfederacijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas buvo iškeikęs visus tos konfederacijos gynėjus.'
   pagrindžia:
     - c-002

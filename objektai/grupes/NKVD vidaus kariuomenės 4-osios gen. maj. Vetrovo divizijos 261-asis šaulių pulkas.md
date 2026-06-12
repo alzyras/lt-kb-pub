@@ -23,12 +23,16 @@ NKVD pajėgos NKVD vidaus kariuomenės 4-osios gen. “ Mūšis 1945 m. kovo pra
 
 ## Teiginiai
 
+<a id="claim-t-78391"></a>
 - t-001
+  global_id: t-78391
   teiginys: '1945 m. kovo pradžioje NKVD divizija puolė Pušaloto, Pasvalio ir Žaliosios girios partizanus Panevėžio apskrityje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78393"></a>
 - t-002
+  global_id: t-78393
   teiginys: 'NKVD vidaus kariuomenės 4-osios gen. maj. Vetrovo divizijos 261-asis šaulių pulkas veikė kartu su vadinamuoju specialiuoju daliniu.'
   pagrindžia:
     - c-001

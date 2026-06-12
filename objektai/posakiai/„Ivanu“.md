@@ -23,12 +23,16 @@ Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžin
 
 ## Teiginiai
 
+<a id="claim-t-78927"></a>
 - t-001
+  global_id: t-78927
   teiginys: 'Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžininkai pavadino „Ivanu“, nes pirmą kartą Lietuvos istorijoje beveik visą jos teritoriją buvo užėmusios priešų kariuomenės ir Lietuva buvo beveik praradusi valstybingumą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78928"></a>
 - t-002
+  global_id: t-78928
   teiginys: 'Laikotarpį, kai priešų kariuomenės buvo užėmusios beveik visą Lietuvą ir ji beveik prarado valstybingumą, amžininkai pavadino „Ivanu“.'
   pagrindžia:
     - c-002

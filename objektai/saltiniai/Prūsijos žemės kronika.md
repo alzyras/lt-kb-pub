@@ -33,37 +33,51 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 
 ## Teiginiai
 
+<a id="claim-t-176237"></a>
 - t-001
+  global_id: t-176237
   teiginys: 'Šilainiai, Raudonė, Kejėnai RŪSTUS DIEVO ŽMONIŲ LIKIMAS Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-176238"></a>
 - t-002
+  global_id: t-176238
   teiginys: 'Mikalojus iš Jarošino, versdamas Dusburgo kroniką į vokiečių kalbą, pridėjo nemažai savo papildymų ir paaiškinimų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176239"></a>
 - t-003
+  global_id: t-176239
   teiginys: 'Petras Dusburgas Prūsijos žemės kronikoje nurodė Žemaitijoje buvus net 70 tokių „karaliukų“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176240"></a>
 - t-004
+  global_id: t-176240
   teiginys: 'Petro Dusburgiečio „Prūsijos žemės kronikoje“ rašoma, kad 1311 m. Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-176241"></a>
 - t-005
+  global_id: t-176241
   teiginys: 'Mikalojus iš Jarošino, versdamas Dusburgo kroniką iš lotynų į vokiečių kalbą, pridėjo papildymų ir paaiškinimų nuo savęs.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176242"></a>
 - t-006
+  global_id: t-176242
   teiginys: 'Petro Dusburgiečio „Prūsijos žemės kronikoje“ rašoma, kad 1292 m. Pukuveras pasiuntė Vytenį su kariuomene į Lenkiją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-176243"></a>
 - t-007
+  global_id: t-176243
   teiginys: 'Prūsijos žemės kronikoje minima tik Dobrynės kunigaikštystė, o kitame dokumente nurodoma ir kaimyninė Kulmo žemė.'
   pagrindžia:
     - c-006

@@ -31,17 +31,23 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
 
 ## Teiginiai
 
+<a id="claim-t-82031"></a>
 - t-001
+  global_id: t-82031
   teiginys: 'Nikono metraštyje aprašyti Mėlynųjų Vandenų įvykiai, siejami su Algirdo žygiu į Mėlynuosius Vandenis ir Baltąją pakrantę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-82032"></a>
 - t-002
+  global_id: t-82032
   teiginys: 'Balińskis manė, kad Voskresensko metraštininkas galėjo žinoti ką nors tikra apie Gedimino kilmę, nes rašė praėjus vos amžiui po Jogailos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82033"></a>
 - t-003
+  global_id: t-82033
   teiginys: 'Balińskis įdėjo visą Nikono metraščio vietą, kurioje kalbama apie tariamus Vilniaus kunigaikščius.'
   pagrindžia:
     - c-001

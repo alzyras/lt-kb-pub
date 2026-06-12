@@ -16,13 +16,17 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-66402"></a>
 - t-001
+  global_id: t-66402
   teiginys: 'Žuvėdai buvo sugriovę Palangą, todėl žemaičiai siekė atnaujinti Šventosios uostą ir ten įkurti naują pilį.'
   pagrindžia:
     - c-002
     - c-003
 
+<a id="claim-t-66404"></a>
 - t-002
+  global_id: t-66404
   teiginys: 'Žuvėdai 1700 m. išvertė Gintės žinyčią, ieškodami joje paslėptų lobių.'
   pagrindžia:
     - c-001

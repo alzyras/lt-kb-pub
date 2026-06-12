@@ -22,7 +22,9 @@ Dusburgietis teigia, kad włodarski В.
 
 ## Teiginiai
 
+<a id="claim-t-61373"></a>
 - t-001
+  global_id: t-61373
   teiginys: 'B. Włodarskio straipsnis „Problem jaćwiński w stosunkach polsko-ruskich“ paskelbtas Torunėje 1959 m.'
   pagrindžia:
     - c-001

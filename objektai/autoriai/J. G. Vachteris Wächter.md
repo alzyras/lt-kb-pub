@@ -17,7 +17,9 @@ Vachterio G loss. Ūkiniai prie jų priklausantys pastatai (des Königes Hof)a t
 
 ## Teiginiai
 
+<a id="claim-t-88010"></a>
 - t-001
+  global_id: t-88010
   teiginys: 'Ūkiniai prie jų priklausantys pastatai (des Königes Hof)a taip pat Vilniuje sudegė kartu su daugybe javų ir kitų a Hof, area, domus, regia, universus Wächter i, Gloss, germ. Čia aiškiai principis comitatus - praedium cum pastarąja prasme; juk folwark -.'
   pagrindžia:
     - c-001

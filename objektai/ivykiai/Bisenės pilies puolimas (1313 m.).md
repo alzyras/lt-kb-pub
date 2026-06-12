@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62208"></a>
 - t-001
+  global_id: t-62208
   teiginys: 'Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie, kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Liet
 
 ## Teiginiai
 
+<a id="claim-t-02629"></a>
 - t-001
+  global_id: t-02629
   teiginys: 'Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos prekybą.'
   pagrindžia:
     - c-001

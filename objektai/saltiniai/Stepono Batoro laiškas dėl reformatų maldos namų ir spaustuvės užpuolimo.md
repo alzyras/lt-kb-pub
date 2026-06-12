@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88478"></a>
 - t-001
+  global_id: t-88478
   teiginys: '1581 metais viešosios rimties drumstėjai užpuolė reformatų maldos namus ir Danieliaus Lenčickio prižiūrėtą spaustuvę.'
   pagrindžia:
     - c-001

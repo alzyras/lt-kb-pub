@@ -16,12 +16,16 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
 
 ## Teiginiai
 
+<a id="claim-t-22217"></a>
 - t-001
+  global_id: t-22217
   teiginys: 'XV–XVI a. Lietuvos Metrikos rusėnų kalboje vartotos lietuviškos ūkio sąvokos, tarp jų „litovka“, „doilida“, „jevje“ ir „sviren“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183443"></a>
 - t-002
+  global_id: t-183443
   teiginys: 'Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuviškos tokios to meto ūkio sąvokos: dalgio tipas „litovka“, dailidė („doilida“) ar jauja („jevje“), svirnas („sviren“), kluonas („klunia“), aruodas („orud“), priemenė („primen“).'
   pagrindžia:
     - c-002

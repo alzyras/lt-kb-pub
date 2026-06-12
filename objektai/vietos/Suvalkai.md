@@ -26,17 +26,23 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
 
 ## Teiginiai
 
+<a id="claim-t-182781"></a>
 - t-001
+  global_id: t-182781
   teiginys: 'Pasinaudodami tuo švedai ir brandendburgiečiai, surinkę papildomas pajėgas, pasivijo lietuvius ties Pilypavu (netoli Suvalkų) ir juos sumušė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183091"></a>
 - t-002
+  global_id: t-183091
   teiginys: 'Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183638"></a>
 - t-003
+  global_id: t-183638
   teiginys: 'Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, Suvalkų ir Gardino gubernijose, dalis Kuršo.'
   pagrindžia:
     - c-003

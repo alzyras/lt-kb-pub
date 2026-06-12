@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59395"></a>
 - t-001
+  global_id: t-59395
   teiginys: 'Per pirmąjį Medininkų valsčiaus apiplėšimą užpuolikai nusiaubė valsčių, nužudė arba paėmė į nelaisvę septynis šimtus žmonių ir grįžo su grobiu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59396"></a>
 - t-002
+  global_id: t-59396
   teiginys: 'Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du.'
   pagrindžia:
     - c-001

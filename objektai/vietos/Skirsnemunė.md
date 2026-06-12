@@ -29,37 +29,51 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
 
 ## Teiginiai
 
+<a id="claim-t-80132"></a>
 - t-001
+  global_id: t-80132
   teiginys: 'Šis vedė derybas ir pasirašė sutartį su Ordinu (kryžiuočių ir Livonijos šakomis), „Romos karaliaus garbei“ 1431 m. birželio 19 d., Skirsnemunėje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-80134"></a>
 - t-002
+  global_id: t-80134
   teiginys: 'Gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-80135"></a>
 - t-003
+  global_id: t-80135
   teiginys: 'Dėl vandens seklumo jie nuo Skirsnemunės nebegalėjo toliau plaukti, o Jogaila iš Dubysos žiočių salos, kur buvo atvykęs vėl su visa savo gimine, nutarė nesijudinti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-80136"></a>
 - t-004
+  global_id: t-80136
   teiginys: 'Skirsnemunėje Švitrigaila sudarė sąjungą su ordinu ir sutiko atiduoti kryžiuočiams Palangą bei pajūrio ruožą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-80137"></a>
 - t-005
-  teiginys: 'Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės pilis (šią pastarąją netrukus turėjo vėl sugriauti, nes sunku buvo ją atlaikyti).'
+  global_id: t-80137
+  teiginys: 'Kryžiuočiai prie Nemuno kiek vėliau pasistatė Skirsnemunės pilį, bet netrukus turėjo ją sugriauti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-80138"></a>
 - t-006
+  global_id: t-80138
   teiginys: '1409 m. nuo Skirsnemunės pradėtos deginti kryžiuočių pilys, o kryžiuočiai buvo išvyti iš Žemaičių.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-80139"></a>
 - t-007
+  global_id: t-80139
   teiginys: 'Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
   pagrindžia:
     - c-004
@@ -102,6 +116,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
     - t-001
 
 - c-003
+  santrauka: 'Kryžiuočiai prie Nemuno kiek vėliau pasistatė Skirsnemunės pilį, bet netrukus turėjo ją sugriauti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kryžiuočiai, atslinkę prie Nemuno, tuojau

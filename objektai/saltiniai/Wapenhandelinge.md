@@ -22,7 +22,9 @@ Wapenhandelinge, 1607 (pirmasis leidimas).
 
 ## Teiginiai
 
+<a id="claim-t-39940"></a>
 - t-001
+  global_id: t-39940
   teiginys: 'Jacobo de Gheyno „Wapenhandelinge“ pirmasis leidimas pasirodė 1607 m.'
   pagrindžia:
     - c-001

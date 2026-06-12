@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-91912"></a>
 - t-001
+  global_id: t-91912
   teiginys: 'Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie brolį Heidenreichą, Kulmo vyskupą Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas432.'
   pagrindžia:
     - c-001

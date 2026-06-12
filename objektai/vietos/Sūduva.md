@@ -28,37 +28,51 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 
 ## Teiginiai
 
+<a id="claim-t-175421"></a>
 - t-001
+  global_id: t-175421
   teiginys: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-175422"></a>
 - t-002
+  global_id: t-175422
   teiginys: 'Dusburgietis teigia, kad suvalkų apylinkės (Vygrių ežerynas) buvo centrinė jotvingių (sūduvių) teritorijos plačiąja prasme dalis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-175424"></a>
 - t-003
+  global_id: t-175424
   teiginys: 'Ordinas turėjo tuojau paimti vakarinį Sūduvos ruožą ir Žemaičių dalį nuo Raudonės įtekėjimo į Nemuną iki Klaipėdos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-175425"></a>
 - t-004
+  global_id: t-175425
   teiginys: 'Melno sutartimi Lietuva iš Sūduvos girių laimėjo daugiau, negu Vytautas buvo užleidęs Ordinui Salyno taika 1398 metais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-175427"></a>
 - t-005
+  global_id: t-175427
   teiginys: 'Ordinas primygtinai savinosi visą didžiąją Sūduvos dykrą, persimetusią į Nemuno dešiniąją pusę ir nusidriekusią per visą vakarų Žemaitiją.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-175428"></a>
 - t-006
+  global_id: t-175428
   teiginys: 'Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-175430"></a>
 - t-007
+  global_id: t-175430
   teiginys: 'Melno sutartimi Lietuva iš Sūduvos girių laimėjo daugiau, negu Vytautas buvo užleidęs Ordinui Salyno taika.'
   pagrindžia:
     - c-002

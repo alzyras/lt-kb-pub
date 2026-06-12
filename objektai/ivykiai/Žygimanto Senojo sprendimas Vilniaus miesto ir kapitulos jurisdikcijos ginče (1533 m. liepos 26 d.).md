@@ -41,22 +41,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86885"></a>
 - t-001
+  global_id: t-86885
   teiginys: '1533 m. sprendimas leido kapitulos valdiniams antradieniais ir penktadieniais gabenti duoną į Vilniaus turgų ir ją parduoti.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-86886"></a>
 - t-002
+  global_id: t-86886
   teiginys: 'Vilniaus miesto tarėjai reikalavo atleisti miestą nuo, jų teigimu, naujai kapitulos pasisavintos jurisdikcijos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86887"></a>
 - t-003
+  global_id: t-86887
   teiginys: '1533 m. Žygimantą Senąjį pasiekė Vilniaus miesto tarybos ir Vilniaus katedros kapitulos ginčas dėl kapitulos jurisdikcijos miesto gyventojams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86888"></a>
 - t-004
+  global_id: t-86888
   teiginys: 'Žygimantas Senasis nusprendė, kad Vilniaus katedros kapitula gali naudotis jurisdikcija ir ekskomunikacijos teise savo asmenų bei valdinių bylose.'
   pagrindžia:
     - c-001

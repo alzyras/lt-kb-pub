@@ -17,7 +17,9 @@ Pačią Pskovo pilį jis apjuosė akmens mūrais, kurie ligi šiol tebevadinami 
 
 ## Teiginiai
 
+<a id="claim-t-32489"></a>
 - t-001
+  global_id: t-32489
   teiginys: 'Pskovo pilis buvo apjuosta akmens mūrais, kurie vadinti Daumanto sienomis.'
   pagrindžia:
     - c-001

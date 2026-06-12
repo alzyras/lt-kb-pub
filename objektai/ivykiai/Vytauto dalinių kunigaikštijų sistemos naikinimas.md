@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-45457"></a>
 - t-001
+  global_id: t-45457
   teiginys: 'Vytauto politikoje svarbiausia socialinė permaina buvo žemvaldžių riterių sluoksnio kūrimas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45459"></a>
 - t-003
+  global_id: t-45459
   teiginys: 'Vytauto laikų permainos Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Didžiuoju.'
   pagrindžia:
     - c-001

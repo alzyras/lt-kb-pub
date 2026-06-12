@@ -23,13 +23,17 @@ Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
 
+<a id="claim-t-70051"></a>
 - t-001
+  global_id: t-70051
   teiginys: 'Žodis „stigavoja“ citatose vartojamas pasakų ir senovės raštininkų liudijimams nusakyti.'
   pagrindžia:
     - c-002
     - c-003
 
+<a id="claim-t-70052"></a>
 - t-002
+  global_id: t-70052
   teiginys: '`Stigavoja` čia reiškia „rodo“ arba „patvirtina“.'
   pagrindžia:
     - c-001

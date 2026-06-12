@@ -47,17 +47,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87057"></a>
 - t-001
+  global_id: t-87057
   teiginys: 'Otono Didžiojo laikais daugelis Italijos miestų apsitvėrė mūro sienomis, saugodamiesi vengrų ir saracėnų antpuolių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87058"></a>
 - t-002
+  global_id: t-87058
   teiginys: 'Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87059"></a>
 - t-003
+  global_id: t-87059
   teiginys: 'Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.'
   pagrindžia:
     - c-001

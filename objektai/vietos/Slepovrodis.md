@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Slepovrodis
 
 ## Santrauka
 
-Kojelavičius teigia, kad gediminas, pasilsėjęs čia, kol artimiausios pi lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida vė nugalėtojui, patraukė į Severską.
+Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasidavė nugalėtojui.
 
 ## Teiginiai
 
+<a id="claim-t-185305"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad gediminas, pasilsėjęs čia, kol artimiausios pi lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida vė nugalėtojui, patraukė į Severską.'
+  global_id: t-185305
+  teiginys: 'Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasidavė nugalėtojui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad gediminas, pasilsėjęs čia, kol artimiausios pi lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida vė nugalėtojui, patraukė į Severską.'
+  santrauka: 'Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasidavė nugalėtojui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Visi luo­

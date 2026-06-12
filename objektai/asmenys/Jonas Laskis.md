@@ -19,7 +19,9 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
 
 ## Teiginiai
 
+<a id="claim-t-87725"></a>
 - t-001
+  global_id: t-87725
   teiginys: 'Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas Laskis.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
 
 ## Teiginiai
 
+<a id="claim-t-34797"></a>
 - t-001
+  global_id: t-34797
   teiginys: '1415 m. Lvovo arkivyskupas Jonas buvo Lietuvos ir Lenkijos vyskupų delegacijos į Konstanciją narys.'
   pagrindžia:
     - c-001

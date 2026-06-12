@@ -24,7 +24,9 @@ Užrašas ant pritvirtintos prie buožės lentelės: „Šitas Šautuvas yra 5 p
 
 ## Teiginiai
 
+<a id="claim-t-41480"></a>
 - t-001
+  global_id: t-41480
   teiginys: 'Ant prie buožės pritvirtintos lentelės buvo užrašyta: „Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų“.'
   pagrindžia:
     - c-001

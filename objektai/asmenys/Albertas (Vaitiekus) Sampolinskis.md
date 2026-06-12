@@ -17,7 +17,9 @@ Juos papildė Lenkijos karalystės pinigais suverbuoti žmonės ir lenkų riteri
 
 ## Teiginiai
 
+<a id="claim-t-39991"></a>
 - t-001
+  global_id: t-39991
   teiginys: 'Albertas (Vaitiekus) Sampolinskis vadovavo karaliaus dvarionims jungtinėje lietuvių ir lenkų kariuomenėje.'
   pagrindžia:
     - c-001

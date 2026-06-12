@@ -26,7 +26,9 @@ Nepaisant gana kritiško požiūrio į istorijos šaltinius, M. Tačiau jaučiam
 
 ## Teiginiai
 
+<a id="claim-t-88309"></a>
 - t-001
+  global_id: t-88309
   teiginys: 'J. I. Kraševskio 1840–1842 m. išleista Vilniaus miesto istorija chronologiškai nušvietė miesto raidą iki 1750 m.'
   pagrindžia:
     - c-001

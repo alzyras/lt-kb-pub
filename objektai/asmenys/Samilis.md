@@ -18,12 +18,16 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
 
 ## Teiginiai
 
+<a id="claim-t-60203"></a>
 - t-001
+  global_id: t-60203
   teiginys: 'Dusburgietis teigia, kad šitai sužinoję, prūsai įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies, tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams, ten jis, ilgesnį laiką pasirgęs, galop pagijo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60204"></a>
 - t-002
+  global_id: t-60204
   teiginys: 'Pamedės kilmingasis Samilis, Tusino tėvas, padėjo badaujančiai Kristburgo piliai ir slapta gerbė tikėjimą bei brolius.'
   pagrindžia:
     - c-001

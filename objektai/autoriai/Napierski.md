@@ -24,17 +24,23 @@ periodo_grupes: []
 
 ## Teiginiai
 
+<a id="claim-t-88002"></a>
 - t-001
+  global_id: t-88002
   teiginys: 'Napierskio veikale, aukščiau ne sykį cituotame Index Codicis Hist.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-88003"></a>
 - t-002
+  global_id: t-88003
   teiginys: 'Dr. Napierskis patvirtino nuorašo perrašymo teisingumą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88004"></a>
 - t-003
+  global_id: t-88004
   teiginys: 'Napierskis perdavė dviejų dokumentų nuorašus ir buvo Livonijos dokumentų rinkinio nuorodos autorius.'
   pagrindžia:
     - c-002

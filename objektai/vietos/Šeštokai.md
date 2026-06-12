@@ -17,12 +17,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-42358"></a>
 - t-001
+  global_id: t-42358
   teiginys: 'Šie batalionai išsikrovė Šeštokų geležinkelio stotyje ir po žygio ilsėjosi gražioje pievoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-42359"></a>
 - t-002
+  global_id: t-42359
   teiginys: 'Rugsėjo 10 d. šarvuotas traukinys „Gediminas“ iš Kauno per Varėną ir Alytų nuvyko į Šeštokus.'
   pagrindžia:
     - c-001

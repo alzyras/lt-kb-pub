@@ -24,7 +24,9 @@ Johansen, Eine Riga-Wisby-Urkunde des 13.
 
 ## Teiginiai
 
+<a id="claim-t-30007"></a>
 - t-001
+  global_id: t-30007
   teiginys: 'P. Johanseno „Eine Riga-Wisby-Urkunde des 13. Jahrhunderts“ paskelbta 1958 m. leidinio „Zeitschr. des Vereins für Lübekische Geschichte und Altertumskunde“ 38 tome, p. 99-107.'
   pagrindžia:
     - c-001

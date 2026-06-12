@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Bajoriškųjų lengvatų suteikimas paliečiant petį kardu
 
 ## Santrauka
 
-Kojelavičius teigia, kad vienas kitam pareiškę savo prielankumą ir pasikalbėję it du geri bičiuliai, nes norėjo, kad kuo daugiau žmonių patirtų, koks nuo širdus jųdviejų susitikimas, abu valdovai suteikė ba joriškųjų lengvatų išgarsėjusiems karo žygiais lenkams, lietuviams bei.
+Aleksandras ir Šich Achmetas bajoriškųjų lengvatų suteikė karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams, lengvai paliesdami jų petį kardu.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185911"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vienas kitam pareiškę savo prielankumą ir pasikalbėję it du geri bičiuliai, nes norėjo, kad kuo daugiau žmonių patirtų, koks nuo širdus jųdviejų susitikimas, abu valdovai suteikė ba joriškųjų lengvatų išgarsėjusiems karo žygiais lenkams, lietuviams bei.'
+  global_id: t-185911
+  teiginys: 'Aleksandras ir Šich Achmetas bajoriškųjų lengvatų suteikė karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams, lengvai paliesdami jų petį kardu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vienas kitam pareiškę savo prielankumą ir pasikalbėję it du geri bičiuliai, nes norėjo, kad kuo daugiau žmonių patirtų, koks nuo širdus jųdviejų susitikimas, abu valdovai suteikė ba joriškųjų lengvatų išgarsėjusiems karo žygiais lenkams, lietuviams bei.'
+  santrauka: 'Aleksandras ir Šich Achmetas bajoriškųjų lengvatų suteikė karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams, lengvai paliesdami jų petį kardu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Aleksandras Šich Achmetą priėmė su didele
@@ -63,3 +64,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/asmenys/Šich Achmetas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/bajoriškosios lengvatos]]

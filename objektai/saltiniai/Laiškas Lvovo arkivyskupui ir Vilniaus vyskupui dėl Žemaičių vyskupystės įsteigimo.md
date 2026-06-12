@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Laiškas Lvovo arkivyskupui ir Vilniaus vyskupui dėl Žemaičių vyskupystės įsteigimo
 
 ## Santrauka
 
-Kojelavičius teigia, kad s k ita i n io k o ja R usią Tuo metu sugrįžo iš baž nytinio suvažiavimo pasiun tiniai, taip sutvarkę reikalus, kaip norėjo karalius, be to, parsivežu laišką, kuriuo Lvovo arkivyskupui ir Vil niaus vyskupui patikėta uždavinys įsteigti Žemaičių vys kupystę.
+Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta įsteigti Žemaičių vyskupystę.
 
 ## Teiginiai
 
+<a id="claim-t-186335"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad s k ita i n io k o ja R usią Tuo metu sugrįžo iš baž nytinio suvažiavimo pasiun tiniai, taip sutvarkę reikalus, kaip norėjo karalius, be to, parsivežu laišką, kuriuo Lvovo arkivyskupui ir Vil niaus vyskupui patikėta uždavinys įsteigti Žemaičių vys kupystę.'
+  global_id: t-186335
+  teiginys: 'Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta įsteigti Žemaičių vyskupystę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad s k ita i n io k o ja R usią Tuo metu sugrįžo iš baž nytinio suvažiavimo pasiun tiniai, taip sutvarkę reikalus, kaip norėjo karalius, be to, parsivežu laišką, kuriuo Lvovo arkivyskupui ir Vil niaus vyskupui patikėta uždavinys įsteigti Žemaičių vys kupystę.'
+  santrauka: 'Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta įsteigti Žemaičių vyskupystę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vy­

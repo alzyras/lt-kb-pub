@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-26395"></a>
 - t-001
+  global_id: t-26395
   teiginys: 'Rugsėjo 16 d. pradėtas leisti laikraštis „Atgimimas“, kurį redagavo Romualdas Ozolas.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Smakauskas, 1828 m. 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y
 
 ## Teiginiai
 
+<a id="claim-t-82382"></a>
 - t-001
+  global_id: t-82382
   teiginys: 'Tokią privilegiją Grigalius XIII bule aprobavo.'
   pagrindžia:
     - c-001

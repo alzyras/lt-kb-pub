@@ -25,7 +25,9 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
 
 ## Teiginiai
 
+<a id="claim-t-87865"></a>
 - t-001
+  global_id: t-87865
   teiginys: 'Stanislovas Šumskis priklausė 1830 m. rudenį Vilniuje susikūrusiam sukilimo centriniam komitetui.'
   pagrindžia:
     - c-001

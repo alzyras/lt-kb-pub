@@ -17,12 +17,16 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 
 ## Teiginiai
 
+<a id="claim-t-19691"></a>
 - t-001
+  global_id: t-19691
   teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183131"></a>
 - t-002
+  global_id: t-183131
   teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.'
   pagrindžia:
     - c-002

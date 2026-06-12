@@ -16,12 +16,16 @@ Baronas — RUSIŠKAI LIETUVIŠKAS ŽODYNAS. Autoriaus su­ naudota žodžiams a
 
 ## Teiginiai
 
+<a id="claim-t-36108"></a>
 - t-001
+  global_id: t-36108
   teiginys: '„Rusiškai lietuviško žodyno“ autorius žodžiams aiškinti naudojo daug lietuviškų raštų, o rusiškiems žodžiams nustatyti rėmėsi Dalio žodynu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-36109"></a>
 - t-002
+  global_id: t-36109
   teiginys: 'J. Barono „Rusiškai lietuviškas žodynas“ turėjo 575 puslapius ir kainavo 10 litų vietoj ankstesnių 15 litų.'
   pagrindžia:
     - c-001

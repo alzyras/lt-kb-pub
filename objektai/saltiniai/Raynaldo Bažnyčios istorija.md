@@ -16,7 +16,9 @@ Pagaliau Raynoldo Bažny­ čios istorija ir paskesni vėliau Lietu­ voje vieš
 
 ## Teiginiai
 
+<a id="claim-t-88328"></a>
 - t-001
+  global_id: t-88328
   teiginys: 'Raynaldo Bažnyčios istorija aiškino kai kuriuos Gedimino valdymo ir politikos aspektus.'
   pagrindžia:
     - c-001

@@ -17,12 +17,16 @@ Maždaug tuo pat metu, kai buvo išmatuota žemė, buvo padaryta ir didžiojo ku
 
 ## Teiginiai
 
+<a id="claim-t-70149"></a>
 - t-001
+  global_id: t-70149
   teiginys: 'girių revizija: anksčiau pats miškas neduodavo jokios naudos. Bet XVI amž. pradžioje jau buvo galima jį eksportuoti. Kurį laiką buvo įvesta medžių išvežimo monopolija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70150"></a>
 - t-002
+  global_id: t-70150
   teiginys: 'Maždaug tuo pat metu, kai buvo išmatuota žemė, buvo padaryta ir didžiojo kunigaikščio girių revizija.'
   pagrindžia:
     - c-002

@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-91911"></a>
 - t-001
+  global_id: t-91911
   teiginys: 'Dusburgietis teigia, kad kartą, jam pasilikus su kitais prie minėtųjų laivų, atplaukė penkiais laivais ginkluoti prūsai; kai jie priplaukė su savo laivais arčiau, kėsindamiesi sunaikinti mūsiškius, brolis Ulrichas pagriebė savo laivo stiebą ir pradėjo daužyti jų laivus, o tiek jų.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Bolševikų diktatūra SSRS, Benito Musolinio (Benito Mussolini) atėjimas į va
 
 ## Teiginiai
 
+<a id="claim-t-18850"></a>
 - t-001
+  global_id: t-18850
   teiginys: 'Benito Musolinio atėjimas į valdžią Italijoje skatino veikti nepatenkintuosius Seimo valdymu Lietuvoje.'
   pagrindžia:
     - c-001

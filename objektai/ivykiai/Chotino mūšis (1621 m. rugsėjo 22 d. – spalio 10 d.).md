@@ -41,17 +41,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-41268"></a>
 - t-001
+  global_id: t-41268
   teiginys: 'Po Chotino mūšio Turkija pasirašė paliaubas, o 1623 m. taika atstatė sieną palei Dniestrą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41269"></a>
 - t-002
+  global_id: t-41269
   teiginys: 'Chotino mūšis buvo gynybinio mūšio pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-41270"></a>
 - t-003
+  global_id: t-41270
   teiginys: 'Chotino mūšis tapo paskutine legendinio Lietuvos karvedžio Jono Karolio Chodkevičiaus pasiekta pergale.'
   pagrindžia:
     - c-002

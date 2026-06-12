@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35833"></a>
 - t-001
+  global_id: t-35833
   teiginys: '1382 m. liepos 6 d. Jogaila su Vokiečių ordino magistru sudarė puolimo sutartį prieš Kęstutį ir jo sūnus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-35834"></a>
 - t-002
+  global_id: t-35834
   teiginys: '1382 m. sutartis rodė, kad Jogaila užmezgė dar artimesnius santykius su Vokiečių ordinu.'
   pagrindžia:
     - c-001

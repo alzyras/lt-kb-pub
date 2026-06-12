@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lietuvos Naugardukas
 
 ## Santrauka
 
-Kojelavičius teigia, kad padėjus daug pastangų, Vytautui galop pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.
+Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.
 
 ## Teiginiai
 
+<a id="claim-t-185268"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad padėjus daug pastangų, Vytautui galop pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.'
+  global_id: t-185268
+  teiginys: 'Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad padėjus daug pastangų, Vytautui galop pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.'
+  santrauka: 'Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi

@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87118"></a>
 - t-001
+  global_id: t-87118
   teiginys: 'Rykai į Vilnių patekdavo iš Lenkijos ir Livonijos.'
   pagrindžia:
     - c-001

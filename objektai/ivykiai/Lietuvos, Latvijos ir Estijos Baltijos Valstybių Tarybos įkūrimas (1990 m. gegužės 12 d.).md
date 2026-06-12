@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20391"></a>
 - t-001
+  global_id: t-20391
   teiginys: 'Lietuva, Latvija ir Estija įkūrė Baltijos Valstybių Tarybą bendrai užsienio politikos pozicijai rengti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183259"></a>
 - t-002
+  global_id: t-183259
   teiginys: '1990 m. gegužės 12 d. Lietuva, Latvija ir Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra užsienio politikos pozicija.'
   pagrindžia:
     - c-002

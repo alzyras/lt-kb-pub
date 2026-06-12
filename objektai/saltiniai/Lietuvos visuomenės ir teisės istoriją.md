@@ -22,7 +22,9 @@ Jį reikia laikyti pirmuoju lietuvių teisės istoriku, nes, sekdamas St.
 
 ## Teiginiai
 
+<a id="claim-t-31826"></a>
 - t-001
+  global_id: t-31826
   teiginys: '1920 m. buvo išleista „Lietuvos visuomenės ir teisės istorija“.'
   pagrindžia:
     - c-001

@@ -23,7 +23,9 @@ Ivinskis, Z.
 
 ## Teiginiai
 
+<a id="claim-t-32015"></a>
 - t-001
+  global_id: t-32015
   teiginys: 'Z. Ivinskio straipsnis „Vytautas Didysis istorinėje literatūroje“ paskelbtas „Athenaeum“ 1930 m., I tomo 2 sąsiuvinyje, p. 190–212.'
   pagrindžia:
     - c-001

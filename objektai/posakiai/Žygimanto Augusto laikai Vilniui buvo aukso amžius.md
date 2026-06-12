@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86876"></a>
 - t-001
+  global_id: t-86876
   teiginys: 'Žygimanto Augusto laikai Vilniui buvo aukso amžius, o jo mirtis - visuotinio sielvarto ir sunkios netekties diena.'
   pagrindžia:
     - c-001

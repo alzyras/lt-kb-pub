@@ -19,7 +19,9 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 
 ## Teiginiai
 
+<a id="claim-t-18754"></a>
 - t-001
+  global_id: t-18754
   teiginys: 'Adalbertas 997 m. vykdė misiją Prūsijoje.'
   pagrindžia:
     - c-001

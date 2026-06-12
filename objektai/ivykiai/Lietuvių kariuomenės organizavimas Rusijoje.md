@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66678"></a>
 - t-001
+  global_id: t-66678
   teiginys: 'Po revoliucijos Rusijoje lietuviai pradėjo telkti lietuvius karininkus ir kareivius į atskiras kariuomenės dalis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66679"></a>
 - t-002
+  global_id: t-66679
   teiginys: 'Iš tikrųjų lietuviams karininkams buvo pasisekę suorganizuoti net kelis tokiuos lietuviškus batalijonus (Vitebske, Smolenske, Rovnoje — Ukrainoje, — Sibire ir kt.).'
   pagrindžia:
     - c-001

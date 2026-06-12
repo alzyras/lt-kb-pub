@@ -16,7 +16,9 @@ O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinim
 
 ## Teiginiai
 
+<a id="claim-t-19114"></a>
 - t-001
+  global_id: t-19114
   teiginys: 'Louis Washkansky buvo iš litvakų kilęs Christiaano Barnardo 1967 m. atliktos pirmosios žmogaus širdies persodinimo operacijos pacientas.'
   pagrindžia:
     - c-001

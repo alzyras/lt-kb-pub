@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-20052"></a>
 - t-001
+  global_id: t-20052
   teiginys: '1991 m. pabaigoje Lietuva priimta į JT specializuotas įstaigas, tarp jų UNESCO, Švietimo, mokslo ir kultūros organizaciją.'
   pagrindžia:
     - c-001

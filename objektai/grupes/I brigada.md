@@ -23,7 +23,9 @@ Lietuvių pajėgos Veikiančioji Lietuvos kariuomenė buvo pertvarkyta į dvi br
 
 ## Teiginiai
 
+<a id="claim-t-40889"></a>
 - t-001
+  global_id: t-40889
   teiginys: 'I brigada pradėjo puolimą ir turėjo pralaužti bolševikų gynybą Galminių-Bružų-Naujasodės linijoje.'
   pagrindžia:
     - c-001

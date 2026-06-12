@@ -44,12 +44,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54228"></a>
 - t-001
+  global_id: t-54228
   teiginys: 'Kitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į kariuomenę, imtis organizuoti lokalinę savivaldą – tai paskatino Lietuvos kaimus ir miestelius visiškai perimti į savo rankas valsčių savivaldybes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54229"></a>
 - t-002
+  global_id: t-54229
   teiginys: 'Rezoliucijos ragino nemokėti valdžiai mokesčių, neiti į kariuomenę ir organizuoti vietos savivaldą.'
   pagrindžia:
     - c-001

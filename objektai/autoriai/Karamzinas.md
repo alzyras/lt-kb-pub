@@ -16,12 +16,16 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
 
 ## Teiginiai
 
+<a id="claim-t-55009"></a>
 - t-001
+  global_id: t-55009
   teiginys: 'Balinskis teigė, kad Karamzinas Lietuvos istorijos įvykius dėstė gana paviršutiniškai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81928"></a>
 - t-002
+  global_id: t-81928
   teiginys: 'Karamzinas Mindaugo kilmės įrodymus laikė visiškais paistalais, nebent būtų priimtos didelės chronologinės klaidos.'
   pagrindžia:
     - c-002

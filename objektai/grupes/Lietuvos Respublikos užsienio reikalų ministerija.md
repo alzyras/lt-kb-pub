@@ -27,17 +27,23 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
 
 ## Teiginiai
 
+<a id="claim-t-65772"></a>
 - t-001
+  global_id: t-65772
   teiginys: 'Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65773"></a>
 - t-002
+  global_id: t-65773
   teiginys: 'Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-65774"></a>
 - t-003
+  global_id: t-65774
   teiginys: 'Lietuva skubiai formavo savo ginkluotąsias pajėgas, kūrė diplomatinę tarnybą, pradėjo steigti ambasadas tose šalyse, kur jų nebuvo.'
   pagrindžia:
     - c-002

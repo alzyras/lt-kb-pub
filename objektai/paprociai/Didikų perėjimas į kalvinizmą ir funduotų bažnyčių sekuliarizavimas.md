@@ -46,17 +46,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54226"></a>
 - t-001
+  global_id: t-54226
   teiginys: 'XVI a. šeštajame–septintajame dešimtmetyje beveik visi didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183306"></a>
 - t-002
-  teiginys: 'XVI a. šeštajame-septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias.'
-  pagrindžia:
-    - c-001
-
-- t-003
+  global_id: t-183306
   teiginys: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
   pagrindžia:
     - c-001
@@ -83,7 +82,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
     - t-001
 
 ## Ryšiai

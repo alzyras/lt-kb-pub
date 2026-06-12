@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-34569"></a>
 - t-001
+  global_id: t-34569
   teiginys: '1402 m. žemaičiai išsiuntinėjo savo skundą imperijos kunigaikščiams ir popiežiui.'
   pagrindžia:
     - c-001

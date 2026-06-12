@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66509"></a>
 - t-001
+  global_id: t-66509
   teiginys: 'Dusburgietis teigia, kad šitaip broliai ir maldininkai sugrįžo namo, parsivarydami tūkstantį šešis šimtus priešo žirgų, parsiveždami daugybę kitoniško 293 Popiežiaus legatu Prūsijoje Opicas iš Mesanos, dab.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66511"></a>
 - t-002
+  global_id: t-66511
   teiginys: 'Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, Sventopelkas sutelkė didelę kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo brolių palapinės, pririšdamas savo kovos žirgus.'
   pagrindžia:
     - c-002

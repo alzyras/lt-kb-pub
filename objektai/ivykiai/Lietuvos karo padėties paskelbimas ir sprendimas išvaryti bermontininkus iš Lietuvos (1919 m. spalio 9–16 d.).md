@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-41309"></a>
 - t-001
+  global_id: t-41309
   teiginys: '1919 m. spalio 9 d. Lietuvos vyriausybė paskelbė visoje šalyje karo padėtį, o spalio 16 d. priėmė sprendimą jėga išvaryti bermontininkus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41310"></a>
 - t-002
+  global_id: t-41310
   teiginys: 'Lietuvos konfliktas su bermontininkais labai pablogino santykius su Vokietija, nes didelę dalį Bermonto pajėgų sudarė vokiečių savanoriai.'
   pagrindžia:
     - c-002

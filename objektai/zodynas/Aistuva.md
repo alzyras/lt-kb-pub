@@ -14,12 +14,16 @@ atnaujinta: ''
 
 ## Teiginiai
 
+<a id="claim-t-11666"></a>
 - t-001
+  global_id: t-11666
   teiginys: 'Žodis „Aistuva“ aiškinamas kaip kadaise reiškęs pakraštinę žemę ir buvęs lietuviškų tautų protėvynė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-11667"></a>
 - t-002
+  global_id: t-11667
   teiginys: 'Kazimieras Jaunius ir Kazimieras Būga žodį „aesti“ kildino iš žodžio „Aistuva“.'
   pagrindžia:
     - c-001

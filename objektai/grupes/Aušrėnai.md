@@ -16,7 +16,9 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
 
 ## Teiginiai
 
+<a id="claim-t-07831"></a>
 - t-001
+  global_id: t-07831
   teiginys: 'Aušrėnais vadinti žemaičiai, kurie, pasak seno rašytojo, dirbo žemę ir augino javus bei vaisius.'
   pagrindžia:
     - c-002

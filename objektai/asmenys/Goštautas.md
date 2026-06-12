@@ -19,60 +19,67 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Goštautas (vyskupas, XV a.)
 
 ## Santrauka
 
 Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vilniuje ir vieną Nau­ garduke, o Algirdui viešpataujant, vienas didikas Goštautas apgyvendino Vilniuje dar 12 pranciškonų ir įkūrė jiems vie­ nuolyną.
 
-## Ryšiai
-
-### Teminiai klasteriai
-- [[temos/didikas]]
-
-### Susiję objektai
-- [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]
-
 ## Teiginiai
 
+<a id="claim-t-113785"></a>
 - t-001
+  global_id: t-113785
   teiginys: 'Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-113786"></a>
 - t-002
+  global_id: t-113786
   teiginys: 'Jogaila išlaisvino Voluinėje į nelaisvę paimtą lietuvių didiką Goštautą ir pasiuntė jį Švitrigailai į Vilnių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-113787"></a>
 - t-003
+  global_id: t-113787
   teiginys: 'Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-113788"></a>
 - t-004
+  global_id: t-113788
   teiginys: 'Goštautas kai kurių autorių laikytas Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir pirmuoju Vilniaus vyskupu.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-113789"></a>
 - t-005
+  global_id: t-113789
   teiginys: 'Jogaila išlaisvino Voluinėje į nelaisvę paimtus lietuvių didikus Rumbautą ir Goštautą ir atsiuntė juos Švitrigailai į Vilnių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184707"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad vytautas pats ėmėsi šio uždavinio: pasikvietęs į palydovus didikus Goštautą, Rumbaudą bei Radvilą, jis išvyko pas imperatorių.'
+  global_id: t-184707
+  teiginys: 'Vytautas, vykdamas pas imperatorių, pasikvietė į palydovus didikus Goštautą, Rumbaudą ir Radvilą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184708"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad į Korčino seimą Vytautas iš pradžių nusiuntė Vil niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.'
+  global_id: t-184708
+  teiginys: 'Vytautas į Korčino seimą iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184709"></a>
 - t-008
-  teiginys: 'Kojelavičius teigia, kad kadangi šis išdrįsęs nepaklusti Lietuvos kunigaikš čiui, pastarasis jį sumušęs, o Podolę pavertęs savo val da, paskirdamas vietininku Goštautą.'
+  global_id: t-184709
+  teiginys: 'Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku.'
   pagrindžia:
     - c-007
 
@@ -204,7 +211,7 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad vytautas pats ėmėsi šio uždavinio: pasikvietęs į palydovus didikus Goštautą, Rumbaudą bei Radvilą, jis išvyko pas imperatorių.'
+  santrauka: 'Vytautas, vykdamas pas imperatorių, pasikvietė į palydovus didikus Goštautą, Rumbaudą ir Radvilą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto buvo pamato būgštauti, kad jie gali
@@ -228,7 +235,7 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     - t-006
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad į Korčino seimą Vytautas iš pradžių nusiuntė Vil niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.'
+  santrauka: 'Vytautas į Korčino seimą iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to prasidėjo ilgos tarpusavio rietenos, kurias
@@ -249,7 +256,7 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     - t-007
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad kadangi šis išdrįsęs nepaklusti Lietuvos kunigaikš čiui, pastarasis jį sumušęs, o Podolę pavertęs savo val da, paskirdamas vietininku Goštautą.'
+  santrauka: 'Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mirus Konstantinui Karijotaičiui, Podolės kuni­
@@ -273,3 +280,58 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
   statusas: verified
   pagrindžia:
     - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Kazimieras Didysis]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
+- [[objektai/asmenys/Liubartas]]
+- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
+- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
+- [[objektai/daiktai/Pilys]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/asmenys/Rumbaudas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/pakancleris]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]
+- [[objektai/daiktai/Goštauto liepa]]
+- [[objektai/ivykiai/Grabovo derybos]]
+- [[objektai/ivykiai/Kriavo aktas]]
+- [[objektai/ivykiai/Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.)]]
+- [[objektai/asmenys/Petras Goštautas]]
+- [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
+- [[objektai/grupes/Vilniaus prastuomenė]]
+- [[objektai/zodynas/stabmeldžių apeigos]]
+- [[objektai/ivykiai/Šv. Pranciškaus ordino brolių nukankinimas Vilniuje]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/ivykiai/Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės]]
+- [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]]
+- [[objektai/ivykiai/Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje]]
+- [[objektai/grupes/Lietuvos pasiuntiniai Maskvoje]]
+- [[objektai/asmenys/Mykolas Goštautas]]
+- [[objektai/daiktai/Vilijos tiltas su pirklų būdelėmis ir stoginėmis]]
+- [[objektai/ivykiai/Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.)]]
+- [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/regula]]
+- [[objektai/asmenys/Radvila]]

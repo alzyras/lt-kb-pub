@@ -28,7 +28,9 @@ Oersdorf : Der Deutsche Orden im Zeitalter der 'polnisch-litauischen Union.
 
 ## Teiginiai
 
+<a id="claim-t-31657"></a>
 - t-001
+  global_id: t-31657
   teiginys: 'H. Oersdorfo Der Deutsche Orden im Zeitalter der polnisch-litauischen Union apėmė didžiojo magistro Konrado Zöllnerio 1382–1390 m. tarnybą.'
   pagrindžia:
     - c-001

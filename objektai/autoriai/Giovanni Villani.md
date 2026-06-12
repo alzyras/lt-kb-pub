@@ -27,7 +27,9 @@ Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų
 
 ## Teiginiai
 
+<a id="claim-t-88057"></a>
 - t-001
+  global_id: t-88057
   teiginys: 'Giovanni Villani nurodytas kaip šaltinis apie anglų bombardų panaudojimą 1346 m. rugpjūčio 26 d. mūšyje prie Kreši.'
   pagrindžia:
     - c-001

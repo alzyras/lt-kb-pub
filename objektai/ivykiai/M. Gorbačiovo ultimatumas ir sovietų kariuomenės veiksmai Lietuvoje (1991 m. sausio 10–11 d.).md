@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20409"></a>
 - t-001
+  global_id: t-20409
   teiginys: 'Sovietų kariuomenė ir specialios paskirties būriai „Alfa“ turėjo įsikišti į „pilietinį konfliktą“ ir nuversti teisėtą Lietuvos valdžią.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183263"></a>
 - t-002
+  global_id: t-183263
   teiginys: '1991 m. sausio 10 d. M. Gorbačiovas ultimatyviai pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą.'
   pagrindžia:
     - c-001

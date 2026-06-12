@@ -28,17 +28,23 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-93283"></a>
 - t-001
+  global_id: t-93283
   teiginys: 'Gregorijus Cemblakas buvo numatytas Focijaus vieton ir laikytas unijos su Katalikų Bažnyčia šalininku.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-93284"></a>
 - t-002
+  global_id: t-93284
   teiginys: 'Naugarduko susirinkimas paskyrė Gregorijų Cemblaką Kijevo metropolitu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-93285"></a>
 - t-003
+  global_id: t-93285
   teiginys: 'Totorių puldinėjimų metu Gregorijus Cemblakas turėjo iš savo sostinės persikelti į Vilnių.'
   pagrindžia:
     - c-002

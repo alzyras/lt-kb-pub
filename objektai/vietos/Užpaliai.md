@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-38157"></a>
 - t-001
+  global_id: t-38157
   teiginys: 'Po Svėdasų užėmimo P. Genys užėmė Užpalius, o 1919 m. birželio 5 d. - Antalieptę.'
   pagrindžia:
     - c-001

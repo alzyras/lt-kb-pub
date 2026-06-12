@@ -18,7 +18,9 @@ Il, p. 353 ir kt.) yra žinomi Gedimino laiškai tik dominikonų ordinui, Mažes
 
 ## Teiginiai
 
+<a id="claim-t-88055"></a>
 - t-001
+  global_id: t-88055
   teiginys: 'Dreyerio veikale buvo paskelbtas Gedimino laiškas Šiaurės Vokietijos pajūrio miestams.'
   pagrindžia:
     - c-001

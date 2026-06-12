@@ -19,14 +19,17 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 
 ## Teiginiai
 
+<a id="claim-t-03055"></a>
 - t-001
-  teiginys: 'Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšiai tarp jų stiprėjo, ir jungtinių apylinkių karo vadai tapo nuolatiniais valdovais — kunigaikščiais.'
+  global_id: t-03055
+  teiginys: 'Laikinos apylinkių sąjungos ilgainiui sustiprėjo, o jų karo vadai tapo nuolatiniais valdovais – kunigaikščiais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Laikinos apylinkių sąjungos ilgainiui sustiprėjo, o jų karo vadai tapo nuolatiniais valdovais – kunigaikščiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Anų laikų svetimšaliai juos vadin-
@@ -88,7 +91,6 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
-- [[objektai/ivykiai/Gedimino karas Volynėje Vladimiro apsiaustis, kunigaikščio žūtis ir Lucko, Drohičino bei Bresto užėmimas (1319-1320 m.)]]
 - [[objektai/ivykiai/Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)]]
 - [[objektai/paprociai/Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje]]
 - [[objektai/asmenys/Gedūnas]]
@@ -190,7 +192,6 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/grupes/Maskvos kunigaikštystė]]
-- [[objektai/grupes/Maskvos kunigaikščio reprezentacinis pulkas]]
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/grupes/Mazovijos kunigaikščiai]]
 - [[objektai/asmenys/Mengu Timūras]]
@@ -387,6 +388,8 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
 - [[objektai/grupes/Apaštalų Sostas]]
 - [[objektai/grupes/Aukso orda]]
+- [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]
+- [[objektai/paprociai/Ištikimybės pasižadėjimas valdovui ir jo įpėdiniams]]
 - [[objektai/ivykiai/Jogailos išvykimas iš Vilniaus į Krokuvą (1385 m. pabaiga)]]
 - [[objektai/grupes/Jogailos palikuonys]]
 - [[objektai/grupes/Karaimai]]
@@ -397,14 +400,22 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]
 - [[objektai/grupes/Moldovos kunigaikščiai]]
 - [[objektai/grupes/Okos aukštupio kunigaikščiai]]
+- [[objektai/paprociai/Pakėlimas į kunigaikščius su įprastinėmis apeigomis]]
 - [[objektai/paprociai/Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių]]
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
+- [[objektai/grupes/Seversko kunigaikščiai]]
+- [[objektai/paprociai/Skitų belaisvių tarnybos ir pragyvenimo praktikos Lietuvoje]]
 - [[objektai/grupes/Slucko kunigaikščiai]]
+- [[objektai/asmenys/Vaitiekus Kiočka]]
+- [[objektai/ivykiai/Vasiljevičiaus ir Andrejaus skverbimasis į Lietuvos valdas bei derybos dėl žalos (1487 m.)]]
 - [[objektai/ivykiai/Vokiečių ordino pasikvietimas pagalbon prieš prūsus]]
+- [[objektai/ivykiai/Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas]]
 - [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]
+- [[objektai/asmenys/Zemovitas]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/zodynas/diarchija]]
 - [[objektai/zodynas/lėnininkai]]
 - [[objektai/grupes/Švitrigailos šalininkai]]
 - [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]
+- [[objektai/zodynas/žygūnai]]
 - [[objektai/posakiai/„Mindaugo Lietuvą“]]

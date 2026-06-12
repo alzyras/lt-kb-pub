@@ -16,7 +16,9 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
 
 ## Teiginiai
 
+<a id="claim-t-41186"></a>
 - t-001
+  global_id: t-41186
   teiginys: 'Vakarų Lietuvos (Jūros) srities partizanų atstovai ir vadai pakeliui į suvažiavimą susitiko su Pietų Lietuvos (Nemuno) partizanų atstovais.'
   pagrindžia:
     - c-001

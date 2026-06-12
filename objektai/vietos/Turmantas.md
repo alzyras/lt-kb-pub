@@ -17,17 +17,23 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
 
 ## Teiginiai
 
+<a id="claim-t-80249"></a>
 - t-001
+  global_id: t-80249
   teiginys: 'Batalionui buvo įsakyta užimti svarbią Turmanto geležinkelio stotį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-80250"></a>
 - t-002
+  global_id: t-80250
   teiginys: 'Kaunamojo poveikio spindulys - apie 10 m. Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė užėmusi liniją Aukštakalnis-Salakas-Kiemionys ir turėjo pulti Turmanto kryptimi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-80251"></a>
 - t-003
+  global_id: t-80251
   teiginys: 'Kariuomenės dalinys, laikęs liniją Aukštakalnis-Salakas-Kiemionys, turėjo pulti Turmanto kryptimi.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Skabeika
 
 ## Santrauka
 
-Kojelavičius teigia, kad paaiškinęs, jog netrukus visai sutems, Skabeika jiems tą vakarą neleido išlipti iš vežimų.
+Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų vežimų.
 
 ## Teiginiai
 
+<a id="claim-t-186161"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad paaiškinęs, jog netrukus visai sutems, Skabeika jiems tą vakarą neleido išlipti iš vežimų.'
+  global_id: t-186161
+  teiginys: 'Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų vežimų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad paaiškinęs, jog netrukus visai sutems, Skabeika jiems tą vakarą neleido išlipti iš vežimų.'
+  santrauka: 'Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų vežimų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šven­
@@ -39,3 +40,8 @@ Kojelavičius teigia, kad paaiškinęs, jog netrukus visai sutems, Skabeika jiem
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Žygimanto Kęstutaičio nužudymas per Verbų sekmadienį (1440 m.)]]
+- [[objektai/daiktai/Vežimai]]

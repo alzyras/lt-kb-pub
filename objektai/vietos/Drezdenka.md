@@ -19,7 +19,9 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 
 ## Teiginiai
 
+<a id="claim-t-99921"></a>
 - t-001
+  global_id: t-99921
   teiginys: 'Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasienio punktai (Drezdenka ir Santoko pilis Dobrine), turį priklausyti kryžiuočiams.'
   pagrindžia:
     - c-001

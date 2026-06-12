@@ -43,18 +43,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62708"></a>
 - t-001
+  global_id: t-62708
   teiginys: 'Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-62709"></a>
 - t-002
+  global_id: t-62709
   teiginys: 'Po pergalės trečdalis kovoje laimėto grobio buvo atiduodamas kriviui, kuris tą dalį sudegindavo kaip padėkos auką dievams.'
   pagrindžia:
     - c-003
     - c-001
 
+<a id="claim-t-62710"></a>
 - t-003
+  global_id: t-62710
   teiginys: 'Dusburgietis teigia, kad po pergalės jie aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį atiduodami minėtajam kriviui, kuris tą dalį degino.'
   pagrindžia:
     - c-003

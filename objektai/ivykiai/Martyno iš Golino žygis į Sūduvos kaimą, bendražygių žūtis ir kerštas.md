@@ -33,13 +33,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62873"></a>
 - t-001
+  global_id: t-62873
   teiginys: 'Dusburgietis teigia, kad tas Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas ar išsivarydamas į nelaisvę žmones.'
   pagrindžia:
     - c-002
     - c-001
 
+<a id="claim-t-62874"></a>
 - t-002
+  global_id: t-62874
   teiginys: 'Dusburgietis teigia, kad sūduviai dėl to labai džiaugėsi, tuo tarpu susikrimtęs Martynas ilgokai daužėsi po mišką, kol sušaukė savo išsklaidytus bendrus; kadangi visi jų ginklai buvo pagrobti, jis slaptomis, priešams miegant, vieną po kito išvogė jų skydus, kalavijus bei ietis, o.'
   pagrindžia:
     - c-002

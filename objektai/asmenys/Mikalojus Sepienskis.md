@@ -26,7 +26,9 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
 
 ## Teiginiai
 
+<a id="claim-t-29043"></a>
 - t-001
+  global_id: t-29043
   teiginys: '1415 m. į Konstancą atsiųstiems 60 pakrikštytų žemaičių bajorų vadovavo ir Vytauto sekretorius lenkas Mikalojus Sepienskis.'
   pagrindžia:
     - c-001

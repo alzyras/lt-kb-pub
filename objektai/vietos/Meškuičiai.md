@@ -16,7 +16,9 @@ Užvirė jami bermontininkai ypač atkaklios kautynės, Tą pačią lapkričio 2
 
 ## Teiginiai
 
+<a id="claim-t-38624"></a>
 - t-001
+  global_id: t-38624
   teiginys: 'Lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių.'
   pagrindžia:
     - c-001

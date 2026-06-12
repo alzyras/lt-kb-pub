@@ -27,22 +27,30 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 
 ## Teiginiai
 
+<a id="claim-t-85897"></a>
 - t-001
+  global_id: t-85897
   teiginys: 'Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85898"></a>
 - t-002
+  global_id: t-85898
   teiginys: 'Kalnas, ant kurio stovėjo Aukštutinė pilis, nuslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-85899"></a>
 - t-003
+  global_id: t-85899
   teiginys: 'Pagal sapno aiškinimą Gediminas ant Tauro kalno pastatydino Vilniaus Aukštutinę mūro pilį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85900"></a>
 - t-004
+  global_id: t-85900
   teiginys: 'Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.'
   pagrindžia:
     - c-003

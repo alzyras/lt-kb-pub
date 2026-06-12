@@ -29,67 +29,93 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 
 ## Teiginiai
 
+<a id="claim-t-84366"></a>
 - t-001
+  global_id: t-84366
   teiginys: 'Mikalojus Kristupas Radvila Našlaitėlis 1582 m. Nesvyžiuje įkūrė jėzuitų kolegiją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-84367"></a>
 - t-002
+  global_id: t-84367
   teiginys: 'Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-84368"></a>
 - t-003
+  global_id: t-84368
   teiginys: 'Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino 1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-84369"></a>
 - t-004
+  global_id: t-84369
   teiginys: 'Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-84370"></a>
 - t-005
+  global_id: t-84370
   teiginys: 'Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-84371"></a>
 - t-006
+  global_id: t-84371
   teiginys: 'Nesvyžius ir Olyka Voluinėje buvo vienos Radvilų šeimos šakos centrai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-84372"></a>
 - t-007
+  global_id: t-84372
   teiginys: 'Vietą savo stovyklavietei jie pasirinko prie Klecko miesto, kuris dar 1503 m. buvo jų sunaikintas ir nekėlė pavojaus, o stovėdamas ant kelių, vedančių į Pinską, Vilnių, Nesvyžių ir Slucką, buvo itin geras punktas išpuoliams, kuriuos totoriai vykdė pasiskirstę.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-84373"></a>
 - t-008
+  global_id: t-84373
   teiginys: 'Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko dvasia.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-84374"></a>
 - t-009
+  global_id: t-84374
   teiginys: 'Nesvyžiaus Radvilų liejykloje 1602 m. buvo nulieta patranka su Radvilų herbu ir užrašu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-84375"></a>
 - t-010
+  global_id: t-84375
   teiginys: 'Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės architektūros manifestu paprastai laikoma Vilniaus Šv.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-84376"></a>
 - t-011
+  global_id: t-84376
   teiginys: 'Myro pilis prie Nesvyžiaus laikoma viena iš gotikinių LDK cerkvių stiliaus analogijų rezidencijų architektūroje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-84377"></a>
 - t-012
+  global_id: t-84377
   teiginys: 'Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Europos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvoje, tai yra europinės reikšmės riba.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-84378"></a>
 - t-013
+  global_id: t-84378
   teiginys: 'Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti Radvilų Nesvyžiaus archyvu.'
   pagrindžia:
     - c-004

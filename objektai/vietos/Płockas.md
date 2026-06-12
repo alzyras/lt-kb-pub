@@ -22,7 +22,9 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 
 ## Teiginiai
 
+<a id="claim-t-32492"></a>
 - t-001
+  global_id: t-32492
   teiginys: 'Gediminas išleido savo dukterį už Płocko Vankos ir laiškuose į Lietuvą kviečiamiems vakariečiams rekomendavo kelią per Mozūriją.'
   pagrindžia:
     - c-001

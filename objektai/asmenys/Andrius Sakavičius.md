@@ -6,34 +6,39 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Andrius Sakavičius
 
 ## Santrauka
 
-Kojelavičius teigia, kad mat neseniai, vykdamas į Lietuvą, Goštautas Smolenske paliko vietininku Andrių Sakavičių. Kojelavičius teigia, kad pirmą antpuolį Sakavičius nesunkiai atrėmė atvėręs var tus ir paleidęs prieš užpuolėjus raituosius ietininkus. Kojelavičius teigia, kad ne per griežtai nubaudęs maištininkus, jis paliko čia vietininku Andrių Sakavičių.
+Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietininku. Andrius Sakavičius atrėmė pirmą smolenskiečių antpuolį, atvėręs vartus ir paleidęs prieš užpuolėjus raituosius ietininkus. Kazimieras, užėmęs pilį ir ne per griežtai nubaudęs maištininkus, paliko Andrių Sakavičių vietininku.
 
 ## Teiginiai
 
+<a id="claim-t-186032"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mat neseniai, vykdamas į Lietuvą, Goštautas Smolenske paliko vietininku Andrių Sakavičių.'
+  global_id: t-186032
+  teiginys: 'Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietininku.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186033"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad pirmą antpuolį Sakavičius nesunkiai atrėmė atvėręs var tus ir paleidęs prieš užpuolėjus raituosius ietininkus.'
+  global_id: t-186033
+  teiginys: 'Andrius Sakavičius atrėmė pirmą smolenskiečių antpuolį, atvėręs vartus ir paleidęs prieš užpuolėjus raituosius ietininkus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-186034"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad ne per griežtai nubaudęs maištininkus, jis paliko čia vietininku Andrių Sakavičių.'
+  global_id: t-186034
+  teiginys: 'Kazimieras, užėmęs pilį ir ne per griežtai nubaudęs maištininkus, paliko Andrių Sakavičių vietininku.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mat neseniai, vykdamas į Lietuvą, Goštautas Smolenske paliko vietininku Andrių Sakavičių.'
+  santrauka: 'Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietininku.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pasibaigus seimui, iš­
@@ -59,7 +64,7 @@ Kojelavičius teigia, kad mat neseniai, vykdamas į Lietuvą, Goštautas Smolens
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad pirmą antpuolį Sakavičius nesunkiai atrėmė atvėręs var tus ir paleidęs prieš užpuolėjus raituosius ietininkus.'
+  santrauka: 'Andrius Sakavičius atrėmė pirmą smolenskiečių antpuolį, atvėręs vartus ir paleidęs prieš užpuolėjus raituosius ietininkus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     G o šta u tą  siunčia m al-
@@ -81,7 +86,7 @@ Kojelavičius teigia, kad mat neseniai, vykdamas į Lietuvą, Goštautas Smolens
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad ne per griežtai nubaudęs maištininkus, jis paliko čia vietininku Andrių Sakavičių.'
+  santrauka: 'Kazimieras, užėmęs pilį ir ne per griežtai nubaudęs maištininkus, paliko Andrių Sakavičių vietininku.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Visuomet kariuomenė sėkmingai
@@ -104,3 +109,8 @@ Kojelavičius teigia, kad mat neseniai, vykdamas į Lietuvą, Goštautas Smolens
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Smolenskiečiai]]

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinim�
 
 ## Teiginiai
 
+<a id="claim-t-58887"></a>
 - t-001
+  global_id: t-58887
   teiginys: 'Dusburgietis teigia, kad apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų smarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino; nukovę 38 žmones.'
   pagrindžia:
     - c-001

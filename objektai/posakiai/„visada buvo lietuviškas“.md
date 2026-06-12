@@ -19,7 +19,9 @@ Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų
 
 ## Teiginiai
 
+<a id="claim-t-77859"></a>
 - t-001
+  global_id: t-77859
   teiginys: 'Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į jūrą.'
   pagrindžia:
     - c-001

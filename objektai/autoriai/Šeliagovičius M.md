@@ -24,7 +24,9 @@ Dusburgietis teigia, kad šeliagovičius M.
 
 ## Teiginiai
 
+<a id="claim-t-60833"></a>
 - t-001
+  global_id: t-60833
   teiginys: 'Šeliagovičius M. 1984 m. žurnale „Mokslas ir gyvenimas“ paskelbė straipsnį „Senovės baltų atgarsis“.'
   pagrindžia:
     - c-001

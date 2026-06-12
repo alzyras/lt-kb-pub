@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31523"></a>
 - t-001
+  global_id: t-31523
   teiginys: 'Nuolatiniai susidūrimai karuose su vakarų Europos riteriais Kęstutį išmokė riteriškų papročių, kurių jis griežtai laikėsi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-31524"></a>
 - t-002
+  global_id: t-31524
   teiginys: 'Priešų kronikos pabrėžė Kęstučio riteriškas ypatybes, taurius papročius ir kovos meną.'
   pagrindžia:
     - c-001

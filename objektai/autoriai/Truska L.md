@@ -17,12 +17,16 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
 
 ## Teiginiai
 
+<a id="claim-t-19483"></a>
 - t-001
+  global_id: t-19483
   teiginys: 'L. Truska parašė knygą „Antanas Smetona ir jo laikai“, išleistą Vilniuje 1996 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-19484"></a>
 - t-002
+  global_id: t-19484
   teiginys: 'L. Truska kartu su D. Blažyte-Baužiene ir M. Tamošaičiu parašė leidinį „Lietuvos Seimo istorija: XX–XXI a. pradžia“.'
   pagrindžia:
     - c-001

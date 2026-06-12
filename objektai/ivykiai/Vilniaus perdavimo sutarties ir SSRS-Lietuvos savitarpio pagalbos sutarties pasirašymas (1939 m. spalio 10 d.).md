@@ -40,27 +40,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75296"></a>
 - t-001
+  global_id: t-75296
   teiginys: 'Jo kelionės išvakarėse pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žingsnis, nes kritinėje situacijoje sąlygų kariuomenei padidinti galėjo nebebūti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75297"></a>
 - t-002
+  global_id: t-75297
   teiginys: '1939 m. spalio 10 d., agresyviai spaudžiant J. Stalinui ir V. Molotovui, pasirašyta Vilniaus perdavimo ir SSRS-Lietuvos savitarpio pagalbos sutartis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75298"></a>
 - t-003
+  global_id: t-75298
   teiginys: 'Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75299"></a>
 - t-004
+  global_id: t-75299
   teiginys: 'Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi ir apie 0,5 mln. gyventojų, bet turėjo įsileisti sovietų karines bazes.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75300"></a>
 - t-005
+  global_id: t-75300
   teiginys: 'Spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio pagalbos, Vilniaus perdavimo ir dalies Lietuvos teritorijos perdavimo Vokietijai sutartis.'
   pagrindžia:
     - c-001

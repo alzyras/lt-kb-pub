@@ -27,7 +27,9 @@ Dusburgietis teigia, kad karolis, Prancūzijos karaliaus brolis, buvo smarkiai s
 
 ## Teiginiai
 
+<a id="claim-t-60353"></a>
 - t-001
+  global_id: t-60353
   teiginys: 'Dusburgietis teigia, kad karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.'
   pagrindžia:
     - c-001

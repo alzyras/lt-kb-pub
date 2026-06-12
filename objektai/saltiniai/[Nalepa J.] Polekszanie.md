@@ -22,7 +22,9 @@ Dusburgietis teigia, kad [Nalepa J.] Polekszanie.—SSS, 1970, t.
 
 ## Teiginiai
 
+<a id="claim-t-61194"></a>
 - t-001
+  global_id: t-61194
   teiginys: 'J. Nalepos straipsnis „Polekszanie“ publikuotas SSS 1970 m. 4 tomo 1 dalyje.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Uždrausdamas bajoro valstiečiams išsikelti, perduo­ damas juos ir teismo at�
 
 ## Teiginiai
 
+<a id="claim-t-32761"></a>
 - t-001
+  global_id: t-32761
   teiginys: 'Kazimiero 1447 m. privilegija, apribojusi bajorų valstiečių išsikėlimą ir perdavusi juos pono valdžion, padėjo pagrindą baudžiavinei epochai.'
   pagrindžia:
     - c-001

@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-25169"></a>
 - t-001
+  global_id: t-25169
   teiginys: 'Pramonės ir prekybos rūmų Kaune architektas buvo V. Landsbergis-Žemkalnis; objektas datuojamas 1938 m.'
   pagrindžia:
     - c-001

@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lauras
 
 ## Santrauka
 
-Kojelavičius teigia, kad sunkiai užgavo Laurui (žmonės jį va dino Rimantu) širdį žinia apie tėvo nužudymą, tačiau, kai jis išgirdo, jog niekingas brolio žudikas trokšta — nelyginant atlyginimo už nusikaltimą — valdžios, jo skausmas pavirto pykčiu; tokia didelė buvo jo rūs tybė, jog. Kojelavičius teigia, kad sutelkęs jėgas, Lauras bemat patraukė į priešą: kol dar degė krūtinėse pirmykštis ryžtas, jis, nuspren dęs mūšio lauke grumtis dėl valdžios, nenorėjo, kad jo šalininkų įkarštį atšaldytų varžovų įkalbinėjimai ar ba kad, atidėliojant kovą, priešas gautų laiko.
+Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienuolyną ir pradėjo vadovauti karui prieš Daumantą. Lauras po sutelktų pajėgų patraukė prieš Daumantą, mūšyje įgijo persvarą ir nukovė Daumantą.
 
 ## Teiginiai
 
+<a id="claim-t-186007"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad sunkiai užgavo Laurui (žmonės jį va dino Rimantu) širdį žinia apie tėvo nužudymą, tačiau, kai jis išgirdo, jog niekingas brolio žudikas trokšta — nelyginant atlyginimo už nusikaltimą — valdžios, jo skausmas pavirto pykčiu; tokia didelė buvo jo rūs tybė, jog.'
+  global_id: t-186007
+  teiginys: 'Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienuolyną ir pradėjo vadovauti karui prieš Daumantą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186008"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad sutelkęs jėgas, Lauras bemat patraukė į priešą: kol dar degė krūtinėse pirmykštis ryžtas, jis, nuspren dęs mūšio lauke grumtis dėl valdžios, nenorėjo, kad jo šalininkų įkarštį atšaldytų varžovų įkalbinėjimai ar ba kad, atidėliojant kovą, priešas gautų laiko.'
+  global_id: t-186008
+  teiginys: 'Lauras po sutelktų pajėgų patraukė prieš Daumantą, mūšyje įgijo persvarą ir nukovė Daumantą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad sunkiai užgavo Laurui (žmonės jį va dino Rimantu) širdį žinia apie tėvo nužudymą, tačiau, kai jis išgirdo, jog niekingas brolio žudikas trokšta — nelyginant atlyginimo už nusikaltimą — valdžios, jo skausmas pavirto pykčiu; tokia didelė buvo jo rūs tybė, jog.'
+  santrauka: 'Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienuolyną ir pradėjo vadovauti karui prieš Daumantą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl, kuo greičiausiai sutelkęs Rusioje
@@ -58,7 +61,7 @@ Kojelavičius teigia, kad sunkiai užgavo Laurui (žmonės jį va dino Rimantu) 
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad sutelkęs jėgas, Lauras bemat patraukė į priešą: kol dar degė krūtinėse pirmykštis ryžtas, jis, nuspren dęs mūšio lauke grumtis dėl valdžios, nenorėjo, kad jo šalininkų įkarštį atšaldytų varžovų įkalbinėjimai ar ba kad, atidėliojant kovą, priešas gautų laiko.'
+  santrauka: 'Lauras po sutelktų pajėgų patraukė prieš Daumantą, mūšyje įgijo persvarą ir nukovė Daumantą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sutelkęs jėgas, Lauras bemat patraukė į priešą:
@@ -80,3 +83,7 @@ Kojelavičius teigia, kad sunkiai užgavo Laurui (žmonės jį va dino Rimantu) 
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/maršalas]]

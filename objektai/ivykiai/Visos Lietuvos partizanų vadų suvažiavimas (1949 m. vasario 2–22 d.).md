@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20551"></a>
 - t-001
+  global_id: t-20551
   teiginys: 'Jonas Žemaitis-Vytautas buvo išrinktas LLKS Tarybos prezidiumo pirmininku ir gavo aukščiausią partizanų generolo laipsnį.'
   pagrindžia:
     - c-001

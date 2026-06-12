@@ -17,22 +17,30 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-75583"></a>
 - t-001
+  global_id: t-75583
   teiginys: 'Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta nebeatsekama.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75584"></a>
 - t-002
+  global_id: t-75584
   teiginys: 'Šio leidimo komentare `Romovė`, `Romuva`, `Romow`, `Rômowe` ir `Romava` siejamos su prūsų, lietuvių ir kitų baltų religiniu kulto centru.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75585"></a>
 - t-003
+  global_id: t-75585
   teiginys: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75586"></a>
 - t-004
+  global_id: t-75586
   teiginys: 'Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.'
   pagrindžia:
     - c-004

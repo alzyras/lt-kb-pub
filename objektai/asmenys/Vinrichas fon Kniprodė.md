@@ -28,7 +28,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-80702"></a>
 - t-001
+  global_id: t-80702
   teiginys: 'Visam žygiui vadovavo pats didysis Ordino magistras Vinrichas fon Kniprodė.'
   pagrindžia:
     - c-001

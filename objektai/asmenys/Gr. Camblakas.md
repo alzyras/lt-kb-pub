@@ -16,7 +16,9 @@ Camblakas.
 
 ## Teiginiai
 
+<a id="claim-t-30257"></a>
 - t-001
+  global_id: t-30257
   teiginys: 'Metropolitas Gr. Camblakas Konstancos susirinkime Vytauto vardu rūpestingai kėlė aptariamą klausimą.'
   pagrindžia:
     - c-001

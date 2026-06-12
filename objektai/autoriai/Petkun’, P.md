@@ -24,7 +24,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-30924"></a>
 - t-001
+  global_id: t-30924
   teiginys: 'P. Petkunas 1928 m. Kijeve paskelbė darbą apie Lietuvos Didžiosios Kunigaikštystės rytinę sieną XV a. ketvirtajame dešimtmetyje.'
   pagrindžia:
     - c-001

@@ -40,17 +40,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-45532"></a>
 - t-001
+  global_id: t-45532
   teiginys: 'Ūkininkai pradėjo kooperuotis, kūrėsi pieno perdirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-45533"></a>
 - t-002
+  global_id: t-45533
   teiginys: 'Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45534"></a>
 - t-003
+  global_id: t-45534
   teiginys: 'Pieno perdirbimo bendrovės įsigijo modernią įrangą ir šaldytuvus, o pieno ir mėsos produktų eksportas didėjo.'
   pagrindžia:
     - c-001

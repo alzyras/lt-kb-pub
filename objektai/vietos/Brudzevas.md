@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Brudzevas
 
 ## Santrauka
 
-Kojelavičius teigia, kad kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino, Lauryną Zarembą ir kitus.
+Krokuvos vaivada Jarandas iš Brudzevo buvo įtrauktas į senato pasiuntinybę, išsiųstą į Lietuvą dėl Žygimanto pakėlimo.
 
 ## Teiginiai
 
+<a id="claim-t-185282"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino, Lauryną Zarembą ir kitus.'
+  global_id: t-185282
+  teiginys: 'Krokuvos vaivada Jarandas iš Brudzevo buvo įtrauktas į senato pasiuntinybę, išsiųstą į Lietuvą dėl Žygimanto pakėlimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino, Lauryną Zarembą ir kitus.'
+  santrauka: 'Krokuvos vaivada Jarandas iš Brudzevo buvo įtrauktas į senato pasiuntinybę, išsiųstą į Lietuvą dėl Žygimanto pakėlimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atidėlioti šį

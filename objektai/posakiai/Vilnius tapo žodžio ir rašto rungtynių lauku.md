@@ -31,12 +31,16 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 
 ## Teiginiai
 
+<a id="claim-t-54498"></a>
 - t-001
+  global_id: t-54498
   teiginys: 'Stepono Batoro laikais jėzuitų ir protestantų polemika pavertė Vilnių žodžio ir rašto rungtynių lauku.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54499"></a>
 - t-002
+  global_id: t-54499
   teiginys: 'Vilniaus kaip žodžio ir rašto rungtynių lauko vaizdinys siejamas su jėzuitų ir disidentų kova dėl įtakos Lietuvoje.'
   pagrindžia:
     - c-001

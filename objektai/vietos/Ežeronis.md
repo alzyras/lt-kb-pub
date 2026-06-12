@@ -19,14 +19,17 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02439"></a>
 - t-001
-  teiginys: '2) Lietuvos siena eina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta Suvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios, toliau vėl Nemunu ligi Beržūnės, o nuo čia.'
+  global_id: t-02439
+  teiginys: 'Projekte Lietuvos siena nuo Druskininkų turėjo eiti per Ežeronis ligi Volios.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Projekte Lietuvos siena nuo Druskininkų turėjo eiti per Ežeronis ligi Volios.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     20 d., kaip

@@ -48,47 +48,65 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-92967"></a>
 - t-001
+  global_id: t-92967
   teiginys: 'Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-92968"></a>
 - t-002
+  global_id: t-92968
   teiginys: '1919 m. gegužės viduryje Lietuvos kariuomenė turėjo apie 200 kardų, tai yra raitelių.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-92969"></a>
 - t-003
+  global_id: t-92969
   teiginys: '1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-92970"></a>
 - t-004
+  global_id: t-92970
   teiginys: 'Sibiro batalijone penki karininkai ir trys kareiviai buvo nurengti ir pusplikiai sukapoti kardais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-92971"></a>
 - t-005
+  global_id: t-92971
   teiginys: 'Žvalgas, pamatęs smarkai atjojantį raitelį žvilgančiu kardu rankoje, atsigulė griovyje.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-92972"></a>
 - t-006
+  global_id: t-92972
   teiginys: 'Kautynės pirmiausia prasidėjo ietimis, o vėliau buvo naudojami kirviai, kardai ir kiti ginklai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-92973"></a>
 - t-007
+  global_id: t-92973
   teiginys: 'Tuojau po to žiauraus darbo ta pati bajorija užkapojo kardais bandžiusį pabėgti belaisvį Voiną ir jį gynusį Kuravičių.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-92974"></a>
 - t-008
+  global_id: t-92974
   teiginys: 'Valkininkuose bajorų minia kardais sukapojo Mykolą Sapiegą ir dar du belaisvius.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-92975"></a>
 - t-009
+  global_id: t-92975
   teiginys: 'Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė į Valkininkus.'
   pagrindžia:
     - c-004
@@ -274,7 +292,6 @@ Nenurodyta
 - [[objektai/grupes/Kardo rinktinė]]
 - [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/grupes/Klevo kuopa]]
-- [[objektai/asmenys/Konstantinas Ostrogiškis]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Kryžius ant kardo galo]]
@@ -293,6 +310,7 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/regimentorius]]
+- [[objektai/paprociai/Bajoriškųjų lengvatų suteikimas paliečiant petį kardu]]
 - [[objektai/grupes/Livonijos kunigaikštystė]]
 - [[objektai/daiktai/Pistoletas]]
 - [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]

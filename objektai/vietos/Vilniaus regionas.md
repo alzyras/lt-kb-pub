@@ -23,7 +23,9 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
 
 ## Teiginiai
 
+<a id="claim-t-26334"></a>
 - t-001
+  global_id: t-26334
   teiginys: 'Grasinant Lietuvai siūlyta iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar mini Lietuvos SSR.'
   pagrindžia:
     - c-001

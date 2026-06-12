@@ -24,7 +24,9 @@ Dusburgietis teigia, kad zurkalowski E.
 
 ## Teiginiai
 
+<a id="claim-t-60830"></a>
 - t-001
+  global_id: t-60830
   teiginys: 'Zurkalowski E. paskelbė darbą apie tai, į kuriuos metus datuotina sembų surengta Klaipėdos apgultis.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Mikalojus Naruševičius
 
 ## Santrauka
 
-Kojelavičius teigia, kad sutiko ir priėmė maskvėnus pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas Točinskis ir Mikalojus Konča, o vedė derybas tokie orūs vyrai, kaip Vilniaus vaivada.
+Iždininkas Mikalojus Naruševičius dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.
 
 ## Teiginiai
 
+<a id="claim-t-186151"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad sutiko ir priėmė maskvėnus pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas Točinskis ir Mikalojus Konča, o vedė derybas tokie orūs vyrai, kaip Vilniaus vaivada.'
+  global_id: t-186151
+  teiginys: 'Iždininkas Mikalojus Naruševičius dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad sutiko ir priėmė maskvėnus pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas Točinskis ir Mikalojus Konča, o vedė derybas tokie orūs vyrai, kaip Vilniaus vaivada.'
+  santrauka: 'Iždininkas Mikalojus Naruševičius dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius
@@ -52,3 +53,16 @@ Kojelavičius teigia, kad sutiko ir priėmė maskvėnus pataurininkis Mikalojus 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/zodynas/Pataurininkis]]
+- [[objektai/grupes/Valavičiai]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/kaštelionas]]
+- [[objektai/zodynas/stalininkas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]
+- [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas]]
+- [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas]]

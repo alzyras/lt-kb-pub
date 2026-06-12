@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86546"></a>
 - t-001
+  global_id: t-86546
   teiginys: 'Prieglaudos sklypo plotis nuo bažnyčios sklypo į viršų buvo nurodytas kaip 20 sprindžių arba 7 uolektys.'
   pagrindžia:
     - c-001

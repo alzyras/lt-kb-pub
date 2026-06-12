@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jonas Černinas
 
 ## Santrauka
 
-Kojelavičius teigia, kad čekui Jonui Černinui Aleksandras pavedė nusisamdyti Čekijoje bei Vo kietijoje didelius algininkų būrius.
+Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti didelius algininkų būrius.
 
 ## Teiginiai
 
+<a id="claim-t-186219"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad čekui Jonui Černinui Aleksandras pavedė nusisamdyti Čekijoje bei Vo kietijoje didelius algininkų būrius.'
+  global_id: t-186219
+  teiginys: 'Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti didelius algininkų būrius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad čekui Jonui Černinui Aleksandras pavedė nusisamdyti Čekijoje bei Vo kietijoje didelius algininkų būrius.'
+  santrauka: 'Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti didelius algininkų būrius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nau­
@@ -38,3 +39,7 @@ Kojelavičius teigia, kad čekui Jonui Černinui Aleksandras pavedė nusisamdyti
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/algininkai]]

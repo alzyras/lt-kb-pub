@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-80666"></a>
 - t-001
+  global_id: t-80666
   teiginys: 'Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-80667"></a>
 - t-002
+  global_id: t-80667
   teiginys: 'Abi kariuomenės Salaspilio mūšis 1605 m. rugsėjo 27 d. Antrasis etapas nepajudėjusios išstovėjo iki vidudienio.'
   pagrindžia:
     - c-002

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Svyrių pilis (pilis)
 
 ## Santrauka
 
-Kojelavičius teigia, kad daumantui buvo duota Utenos kuni gaikštystė: kurie ne kurie šaltiniai mini, jog jis įkūrė Svyrių pilį, o Svyrių kunigaikščių giminė buvusi pa vadinta jo vardu.
+Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyrių pilį.
 
 ## Teiginiai
 
+<a id="claim-t-185310"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad daumantui buvo duota Utenos kuni gaikštystė: kurie ne kurie šaltiniai mini, jog jis įkūrė Svyrių pilį, o Svyrių kunigaikščių giminė buvusi pa vadinta jo vardu.'
+  global_id: t-185310
+  teiginys: 'Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyrių pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad daumantui buvo duota Utenos kuni gaikštystė: kurie ne kurie šaltiniai mini, jog jis įkūrė Svyrių pilį, o Svyrių kunigaikščių giminė buvusi pa vadinta jo vardu.'
+  santrauka: 'Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyrių pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Giedriui buvo

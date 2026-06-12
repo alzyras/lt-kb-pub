@@ -18,7 +18,9 @@ Iš danų karaliaus Valdemaro IV-jo nupirkus Estiją, Livonijoje ordinas rubeži
 
 ## Teiginiai
 
+<a id="claim-t-30406"></a>
 - t-001
+  global_id: t-30406
   teiginys: 'Iš Danijos karaliaus Valdemaro IV Ordinas nupirko Estiją.'
   pagrindžia:
     - c-001

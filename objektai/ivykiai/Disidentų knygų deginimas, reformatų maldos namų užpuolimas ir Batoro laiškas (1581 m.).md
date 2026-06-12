@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86943"></a>
 - t-001
+  global_id: t-86943
   teiginys: 'Steponas Batoras iš stovyklos parašytame laiške pasmerkė sumaištį ir pareiškė prisiekęs valstybėje saugoti laisvę.'
   pagrindžia:
     - c-001

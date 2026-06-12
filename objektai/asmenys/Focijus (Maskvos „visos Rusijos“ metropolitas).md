@@ -28,47 +28,65 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
 
 ## Teiginiai
 
+<a id="claim-t-93198"></a>
 - t-001
+  global_id: t-93198
   teiginys: 'Lietuvos stačiatikių vyskupai apskundė Focijų Vytautui, kaltindami jį bažnytinių turtų išvežimu į Maskvą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-93199"></a>
 - t-002
+  global_id: t-93199
   teiginys: 'Focijus savo rezidencija pasirinko Maskvą, nors Vytautas reikalavo, kad jis apsigyventų Kijeve.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-93200"></a>
 - t-003
+  global_id: t-93200
   teiginys: '1408 m. Konstantinopolio patriarchas metropolitu paskyrė Maskvos kandidatą graiką Focijų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-93201"></a>
 - t-004
+  global_id: t-93201
   teiginys: 'Po Cemblako mirties Vytautas susitaikė su Maskvos „visos Rusijos“ metropolitu Focijumi.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-93202"></a>
 - t-005
+  global_id: t-93202
   teiginys: 'Focijus siuntė Lietuvos stačiatikiams raštus, kuriuose kaltino Gregorijų Cemblaką ir reikalavo jį ištremti iš Lietuvos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-93204"></a>
 - t-007
+  global_id: t-93204
   teiginys: 'Focijus Lietuvos stačiatikiams siuntė raštus, kuriuose kaltino Gregorijų Cemblaką ir reikalavo jį ištremti iš Lietuvos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-93205"></a>
 - t-008
+  global_id: t-93205
   teiginys: '1421 m. Vytautas pripažino Maskvos Focijų Kijevo metropolitu.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-93206"></a>
 - t-009
+  global_id: t-93206
   teiginys: 'Po Gregorijaus Cemblako mirties Vytautas 1421 m. pripažino Maskvos Focijų Kijevo metropolitu.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-93207"></a>
 - t-010
+  global_id: t-93207
   teiginys: 'Po Gregorijaus Cemblako mirties Vytautas susitaikė su Maskvos metropolitu Focijumi, o Kijevo metropolija nebuvo atnaujinta.'
   pagrindžia:
     - c-003

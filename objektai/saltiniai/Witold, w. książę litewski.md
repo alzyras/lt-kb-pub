@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31990"></a>
 - t-001
+  global_id: t-31990
   teiginys: 'J. Kochanowskio veikalas „Witold, w. książę litewski“ išleistas 1900 m. Lvove.'
   pagrindžia:
     - c-001

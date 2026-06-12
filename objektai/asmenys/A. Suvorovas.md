@@ -18,7 +18,9 @@ Suvorovo vadovaujamai Rusijos kariuomenei imtis veiksmų.
 
 ## Teiginiai
 
+<a id="claim-t-18745"></a>
 - t-001
+  global_id: t-18745
   teiginys: 'A. Suvorovas vadovavo Rusijos kariuomenei, kuriai įvykiai tapo pretekstu imtis veiksmų prieš sukilimą.'
   pagrindžia:
     - c-001

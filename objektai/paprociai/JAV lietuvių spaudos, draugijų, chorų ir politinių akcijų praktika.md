@@ -45,17 +45,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67095"></a>
 - t-001
+  global_id: t-67095
   teiginys: 'JAV lietuviai leido laikraščius, kūrė chorus, finansiškai rėmė Lietuvos kultūrinį gyvenimą ir rengė politines akcijas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67096"></a>
 - t-002
+  global_id: t-67096
   teiginys: 'Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet masiškiausia ekonominė emigracija nuo 1868 m. vyko į JAV.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67097"></a>
 - t-003
+  global_id: t-67097
   teiginys: 'JAV lietuviai leido lietuviškus laikraščius, kūrė chorus, rėmė Lietuvos kultūrą ir rengė politines akcijas.'
   pagrindžia:
     - c-001

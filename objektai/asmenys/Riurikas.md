@@ -17,7 +17,9 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
 
 ## Teiginiai
 
+<a id="claim-t-87845"></a>
 - t-001
+  global_id: t-87845
   teiginys: 'Riurikas su variagais, autoriaus nuomone, į Rusiją galėjo būti atblokštas Petro Olai „Danų kronikoje“ aprašyto įvykio.'
   pagrindžia:
     - c-001

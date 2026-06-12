@@ -24,19 +24,24 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 
 ## Teiginiai
 
+<a id="claim-t-181255"></a>
 - t-001
-  teiginys: 'Tokios pat mokyklėlės liko Biržuose ir Slucke.'
+  global_id: t-181255
+  teiginys: 'Švedų antplūdžio metu sunykus protestantų mokykloms, Biržuose liko silpna mokyklėlė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183001"></a>
 - t-002
-  teiginys: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
+  global_id: t-183001
+  teiginys: 'Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Švedų antplūdžio metu sunykus protestantų mokykloms, Biržuose liko silpna mokyklėlė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kultūrinės pro-
@@ -51,7 +56,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - t-001
 
 - c-002
-  santrauka: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
+  santrauka: 'Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pats

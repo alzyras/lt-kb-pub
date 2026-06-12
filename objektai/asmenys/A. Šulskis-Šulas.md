@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-39987"></a>
 - t-001
+  global_id: t-39987
   teiginys: 'A. Šulskis-Šulas vadovavo Žaliosios girios Panevėžio rinktinės grupei pietrytinėje girios dalyje Subačiaus valsčiuje.'
   pagrindžia:
     - c-001

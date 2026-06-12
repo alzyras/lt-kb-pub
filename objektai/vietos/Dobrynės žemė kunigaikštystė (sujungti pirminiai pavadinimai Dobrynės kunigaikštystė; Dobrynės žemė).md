@@ -26,17 +26,23 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
 
 ## Teiginiai
 
+<a id="claim-t-86044"></a>
 - t-001
+  global_id: t-86044
   teiginys: 'Užimtame Dobrynės mieste žuvo apie du tūkstančius gyventojų, o kunigaikštystėje buvo plėšiami ir deginami kaimai bei bažnyčios.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86045"></a>
 - t-002
+  global_id: t-86045
   teiginys: '1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86046"></a>
 - t-003
+  global_id: t-86046
   teiginys: 'Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos.'
   pagrindžia:
     - c-003

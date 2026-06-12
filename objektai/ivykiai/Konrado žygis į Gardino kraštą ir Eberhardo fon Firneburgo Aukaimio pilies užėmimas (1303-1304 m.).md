@@ -13,12 +13,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad grafas Verneris fon Hoinbergas ir Adolfas fon Vintimelis bei kiti Reino krašto didikai kaip tik buvo atvykę į Prūsiją. Kojelavičius teigia, kad atvykus šiems pagalbinin kams, magistras Konradas, atgavęs drąsą, dviem žygio voromis įsiveržė į Lietuvą ir žiauriai nuniokojo visą Gardino kraštą.
+Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto didikai atvyko į Prūsiją kaip pagalbininkai. Atvykus Reino krašto pagalbininkams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -34,20 +33,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185716"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad grafas Verneris fon Hoinbergas ir Adolfas fon Vintimelis bei kiti Reino krašto didikai kaip tik buvo atvykę į Prūsiją.'
+  global_id: t-185716
+  teiginys: 'Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto didikai atvyko į Prūsiją kaip pagalbininkai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185717"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad atvykus šiems pagalbinin kams, magistras Konradas, atgavęs drąsą, dviem žygio voromis įsiveržė į Lietuvą ir žiauriai nuniokojo visą Gardino kraštą.'
+  global_id: t-185717
+  teiginys: 'Atvykus Reino krašto pagalbininkams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad grafas Verneris fon Hoinbergas ir Adolfas fon Vintimelis bei kiti Reino krašto didikai kaip tik buvo atvykę į Prūsiją.'
+  santrauka: 'Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto didikai atvyko į Prūsiją kaip pagalbininkai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Trumpą atokvėpį vis dėlto nutraukė nauji ant­
@@ -67,7 +70,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad atvykus šiems pagalbinin kams, magistras Konradas, atgavęs drąsą, dviem žygio voromis įsiveržė į Lietuvą ir žiauriai nuniokojo visą Gardino kraštą.'
+  santrauka: 'Atvykus Reino krašto pagalbininkams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atvykus šiems pagalbinin­
@@ -94,3 +97,15 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis (didikas)]]
+- [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas (didikas)]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Konradas]]

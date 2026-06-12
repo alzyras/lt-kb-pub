@@ -26,12 +26,16 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
 
 ## Teiginiai
 
+<a id="claim-t-84712"></a>
 - t-001
+  global_id: t-84712
   teiginys: 'Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš senovės lietuvių Romuvų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-84714"></a>
 - t-002
+  global_id: t-84714
   teiginys: 'Po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai galėjo būti perkelti iš Romainių į Vilnių.'
   pagrindžia:
     - c-002

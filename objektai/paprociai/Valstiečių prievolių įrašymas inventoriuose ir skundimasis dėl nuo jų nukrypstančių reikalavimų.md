@@ -31,7 +31,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-02042"></a>
 - t-001
+  global_id: t-02042
   teiginys: 'Valstiečiai galėjo skųstis, jei seniūnas nesilaikė nustatytų prievolių ir reikalavo daugiau.'
   pagrindžia:
     - c-001

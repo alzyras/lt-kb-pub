@@ -19,22 +19,30 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 
 ## Teiginiai
 
+<a id="claim-t-74512"></a>
 - t-001
+  global_id: t-74512
   teiginys: 'Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietuvon, lietuvių kariuomenė talkino lenkams, o lenkų –.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74513"></a>
 - t-002
+  global_id: t-74513
   teiginys: 'Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-74514"></a>
 - t-003
+  global_id: t-74514
   teiginys: 'Lenkijos valstybės taryba greta monarcho įkūnijo Lenkijos valstybingumą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74515"></a>
 - t-004
+  global_id: t-74515
   teiginys: 'Bendrąjį valdovą Krokuvoje supo Lenkijos valstybės taryba.'
   pagrindžia:
     - c-003

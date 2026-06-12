@@ -19,7 +19,9 @@ Daugiausia buvo varginama Kulmijos šalis.
 
 ## Teiginiai
 
+<a id="claim-t-95916"></a>
 - t-001
+  global_id: t-95916
   teiginys: 'Daugiausia buvo varginama Kulmijos šalis.'
   pagrindžia:
     - c-001

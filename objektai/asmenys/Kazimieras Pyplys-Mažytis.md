@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19059"></a>
 - t-001
+  global_id: t-19059
   teiginys: '1947 m. pabaigoje Kazimieras Pyplys-Mažytis ir Juozas Lukša-Skirmantas į laisvąjį pasaulį nugabeno partizanų dokumentus.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvo
 
 ## Teiginiai
 
+<a id="claim-t-86526"></a>
 - t-001
+  global_id: t-86526
   teiginys: 'Aleksandrui kelerius metus sirgus, iš Krokuvos atvyko Motiejus iš Blonios, vadintas fiziku arba rūmų daktaru.'
   pagrindžia:
     - c-001

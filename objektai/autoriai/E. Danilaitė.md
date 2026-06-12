@@ -25,12 +25,16 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
 
 ## Teiginiai
 
+<a id="claim-t-30590"></a>
 - t-001
+  global_id: t-30590
   teiginys: 'E. Danilaitė 1964 m. paskelbė darbą „Brūkšniuotosios keramikos gyvenvietė vakarų Lietuvoje“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-30591"></a>
 - t-002
+  global_id: t-30591
   teiginys: 'E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.'
   pagrindžia:
     - c-001

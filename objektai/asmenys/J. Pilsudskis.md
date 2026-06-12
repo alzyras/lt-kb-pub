@@ -28,37 +28,51 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 
 ## Teiginiai
 
+<a id="claim-t-108750"></a>
 - t-001
+  global_id: t-108750
   teiginys: 'Pilsudskis motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-108751"></a>
 - t-002
+  global_id: t-108751
   teiginys: 'J. Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-108753"></a>
 - t-003
+  global_id: t-108753
   teiginys: 'Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija“).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-108754"></a>
 - t-004
+  global_id: t-108754
   teiginys: '1927 m. gruodžio 10 d. Ženevoje J. Pilsudskis Augustinui Voldemarui uždavė klausimą „Karas ar taika?“.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-108755"></a>
 - t-005
+  global_id: t-108755
   teiginys: 'Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl 1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą laiką išnaudojo Lietuvą, politinė unija XVI a.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-108756"></a>
 - t-006
+  global_id: t-108756
   teiginys: 'Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-183534"></a>
 - t-007
+  global_id: t-183534
   teiginys: 'Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis.'
   pagrindžia:
     - c-007

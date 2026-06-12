@@ -23,7 +23,9 @@ Tuo pat laiku (1382 birželio gale) kryžiuočiai įsiveržę Lietuvon ir sunaik
 
 ## Teiginiai
 
+<a id="claim-t-32154"></a>
 - t-001
+  global_id: t-32154
   teiginys: '1382 m. birželio pabaigoje kryžiuočiai Kauno apylinkėje prie Neries sunaikino Eigulių pilį.'
   pagrindžia:
     - c-001

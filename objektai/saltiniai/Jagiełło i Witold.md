@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31737"></a>
 - t-001
+  global_id: t-31737
   teiginys: 'P. Koneczny veikalo „Jagiełło i Witold“ I tomas buvo išleistas Lvove 1893 m.'
   pagrindžia:
     - c-001

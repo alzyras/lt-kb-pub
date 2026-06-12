@@ -20,22 +20,30 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
 
 ## Teiginiai
 
+<a id="claim-t-113372"></a>
 - t-001
+  global_id: t-113372
   teiginys: 'Vyriausiasis Lietuvos tribunolas buvo įkurtas 1581 m. ir su mažais pakeitimais išliko iki Lietuvos nepriklausomybės pabaigos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-113373"></a>
 - t-002
-  teiginys: 'Tribunole pirmininkaudavo iš tų pačių deputatų renkamas pirmininkas, vadinamas tribunolo maršalka.'
+  global_id: t-113373
+  teiginys: 'Vyriausiajame Lietuvos tribunole pirmininkaudavo iš deputatų renkamas tribunolo maršalka.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-113374"></a>
 - t-003
+  global_id: t-113374
   teiginys: '1785 m. kovo 14 d. Vyriausiasis Lietuvos tribunolas Vilniuje pavedė Pabaisko bažnyčios fundacijos privilegiją įrašyti į Tribunolo viešąsias knygas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-113375"></a>
 - t-004
+  global_id: t-113375
   teiginys: 'Steponui Batorui 1578 m. Lenkijoje įkūrus bajorijos renkamą tribunolą, netrukus toks tribunolas buvo įsteigtas ir Lietuvoje.'
   pagrindžia:
     - c-004
@@ -43,6 +51,7 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vyriausiajame Lietuvos tribunole pirmininkaudavo iš deputatų renkamas tribunolo maršalka.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tribunole pirmininkaudavo iš tų pačių deputatų renkamas

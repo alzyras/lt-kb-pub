@@ -19,7 +19,9 @@ Kadangi Viešpats Dievas vakar, prieš pirmą valandą nakties, paėmė mums iš
 
 ## Teiginiai
 
+<a id="claim-t-86579"></a>
 - t-001
+  global_id: t-86579
   teiginys: 'Valdovas mirė penktąją ligos, medikų akte įvardytos febri sincopi interna, dieną.'
   pagrindžia:
     - c-001

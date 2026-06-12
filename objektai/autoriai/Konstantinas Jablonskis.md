@@ -23,17 +23,23 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 
 ## Teiginiai
 
+<a id="claim-t-179506"></a>
 - t-001
+  global_id: t-179506
   teiginys: 'Konstantinas Jablonskis 1960 m. suredagavo ir išleido 1529 m. Lietuvos Statutą „Statut Velikogo Knjažestva Litovskogo“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-179507"></a>
 - t-002
+  global_id: t-179507
   teiginys: 'Konstantinas Jablonskis sudarė pirmąjį rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-179508"></a>
 - t-003
+  global_id: t-179508
   teiginys: 'Konstantinas Jablonskis iš senosios Lietuvos valstybės raštinių kalbos išrinko 299 lietuviškus žodžius ir 1941 m. išleido šaltinių ištraukų rinkinį.'
   pagrindžia:
     - c-003

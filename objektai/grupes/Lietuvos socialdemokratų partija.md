@@ -28,27 +28,37 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
 
 ## Teiginiai
 
+<a id="claim-t-169729"></a>
 - t-001
+  global_id: t-169729
   teiginys: '1927 m. rugsėjo 8–9 d. ginkluotos socialdemokratų grupės surengė pučus keliose apskrityse.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169731"></a>
 - t-002
+  global_id: t-169731
   teiginys: 'Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo 29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP).'
   pagrindžia:
     - c-004
 
+<a id="claim-t-169732"></a>
 - t-003
+  global_id: t-169732
   teiginys: 'Katalikiškame krašte tai nebuvo sensacija, nes tikinčios moterys balsavo už kunigų partiją, be to, Katalikų bažnyčia, dvasininkai ėjo su aiškiais antilenkiškais šūkiais ir, kas dar svarbiau, žadėjo nacionalizuoti arba apkarpyti dvarus ir išdalyti žemę.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-169733"></a>
 - t-004
+  global_id: t-169733
   teiginys: 'Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė – valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tautinių mažumų atstovai Seime.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169734"></a>
 - t-005
+  global_id: t-169734
   teiginys: 'Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos kompromisas, labiau į parlamentinį valdymą orientuota sistema, nes prezidentinei valdymo formai nepritarta.'
   pagrindžia:
     - c-001

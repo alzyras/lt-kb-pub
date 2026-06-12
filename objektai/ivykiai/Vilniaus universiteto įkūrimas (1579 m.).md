@@ -49,42 +49,58 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-45450"></a>
 - t-001
+  global_id: t-45450
   teiginys: 'Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-45451"></a>
 - t-002
+  global_id: t-45451
   teiginys: 'Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų, senesni už jį buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-45452"></a>
 - t-003
+  global_id: t-45452
   teiginys: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-45453"></a>
 - t-004
+  global_id: t-45453
   teiginys: 'Naujoji mokykla vadinosi Academia et Universitas Vilnensis Societatis Iesu, arba Vilniaus Jėzaus draugijos akademija ir universitetas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-45454"></a>
 - t-005
+  global_id: t-45454
   teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-45455"></a>
 - t-006
+  global_id: t-45455
   teiginys: 'Vilniaus universiteto kūrimąsi skatino aukštosios mokyklos poreikis ir reformacijos bei kontrreformacijos konkurencija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-45456"></a>
 - t-007
+  global_id: t-45456
   teiginys: 'Valstybės remiami jėzuitai sukūrė kolegijų tinklą, kurio viršūnėje buvo 1579 m. įkurtas Vilniaus universitetas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183284"></a>
 - t-008
+  global_id: t-183284
   teiginys: 'Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzuitais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą.'
   pagrindžia:
     - c-006

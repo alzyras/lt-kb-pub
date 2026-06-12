@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02958"></a>
 - t-001
+  global_id: t-02958
   teiginys: 'Klaipėdos kraštas prie Lietuvos valstybės buvo priskirtas suteikiant jam autonominį režimą.'
   pagrindžia:
     - c-001

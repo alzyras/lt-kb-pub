@@ -42,32 +42,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75265"></a>
 - t-001
+  global_id: t-75265
   teiginys: '1991 m. sausio 12-osios vakarą žmonės rinkosi budėti prie parlamento, Lietuvos radijo ir televizijos bei televizijos bokšto.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-75266"></a>
 - t-002
+  global_id: t-75266
   teiginys: 'Sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones primindamas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad ši sovietų kariuomenės agresija būtų sustabdyta.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75267"></a>
 - t-003
+  global_id: t-75267
   teiginys: 'Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-75268"></a>
 - t-004
+  global_id: t-75268
   teiginys: 'Sausio 13-osios herojai minimi tarp XX a. Lietuvos įnašą į Europos istoriją simbolizuojančių veikėjų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75269"></a>
 - t-005
+  global_id: t-75269
   teiginys: 'Laidojant sausio 13-osios aukas, solidarumo su Lietuva varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir kitose Europos šalyse.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75270"></a>
 - t-006
+  global_id: t-75270
   teiginys: '1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje.'
   pagrindžia:
     - c-002

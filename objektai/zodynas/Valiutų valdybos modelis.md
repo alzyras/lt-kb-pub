@@ -16,7 +16,9 @@ Nuo 1993 m. vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl naciona
 
 ## Teiginiai
 
+<a id="claim-t-22031"></a>
 - t-001
+  global_id: t-22031
   teiginys: 'Pagal 1994 m. pradėtą taikyti valiutų valdybos modelį litas buvo susietas su JAV doleriu santykiu 4 litai už 1 dolerį.'
   pagrindžia:
     - c-001

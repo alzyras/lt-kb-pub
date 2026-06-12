@@ -27,7 +27,9 @@ Talkininkų kryžiuočių liko tik keletas, tarp jų žuvo tarnaudami senajai T�
 
 ## Teiginiai
 
+<a id="claim-t-39652"></a>
 - t-001
+  global_id: t-39652
   teiginys: 'Tomas Survila žuvo tarnaudamas senajai Tėvynei kaip vienas iš dviejų lietuvių kryžiuočių.'
   pagrindžia:
     - c-001

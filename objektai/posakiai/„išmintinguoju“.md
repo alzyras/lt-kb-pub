@@ -17,7 +17,9 @@ Net savo priešų Mindaugas buvo vadinamas išmintinguoju.
 
 ## Teiginiai
 
+<a id="claim-t-77845"></a>
 - t-001
+  global_id: t-77845
   teiginys: 'Net savo priešų Mindaugas buvo vadinamas išmintinguoju.'
   pagrindžia:
     - c-001

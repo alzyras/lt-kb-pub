@@ -29,32 +29,44 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
 
 ## Teiginiai
 
+<a id="claim-t-75681"></a>
 - t-001
+  global_id: t-75681
   teiginys: 'Brazauskas nusiuntė NATO generaliniam sekretoriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pageidauja tapti šios organizacijos nare.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75682"></a>
 - t-002
+  global_id: t-75682
   teiginys: 'Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą, ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus arkikatedrą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75683"></a>
 - t-003
+  global_id: t-75683
   teiginys: 'Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas metropolitas Audrys Juozas Bačkis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75684"></a>
 - t-004
+  global_id: t-75684
   teiginys: '2003 m. Atėnuose Lietuvos prezidentas Algirdas Brazauskas pasirašė stojimo į Europos Sąjungą sutartį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75685"></a>
 - t-005
+  global_id: t-75685
   teiginys: 'Per 1992 m. Seimo rinkimus A. Brazausko vadovaujama LDDP gavo daugumą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-75686"></a>
 - t-006
+  global_id: t-75686
   teiginys: 'Pirminė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo sėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d. Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respublikos prezidentas Algirdas Brazauskas ir.'
   pagrindžia:
     - c-002

@@ -24,7 +24,9 @@ Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir
 
 ## Teiginiai
 
+<a id="claim-t-78152"></a>
 - t-001
+  global_id: t-78152
   teiginys: 'Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį su SSRS.'
   pagrindžia:
     - c-001

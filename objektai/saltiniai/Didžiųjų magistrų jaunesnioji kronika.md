@@ -25,17 +25,23 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
 
 ## Teiginiai
 
+<a id="claim-t-60950"></a>
 - t-001
+  global_id: t-60950
   teiginys: 'Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Preroch ir Corant (Lettouwen Preroch ende Corant — SRP, 5, p. 67) arba tris pasiuntinius, kurių vardai: Lettouwe, Preroch, Corant.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60951"></a>
 - t-002
+  global_id: t-60951
   teiginys: 'Dusburgietis teigia, kad vėlesnėje didžiojo magistro kronikoje Skomantas vadinamas lietuvių vadu (der Letouwen hoiftman — SRP, 5, p. 110).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60952"></a>
 - t-003
+  global_id: t-60952
   teiginys: 'Naujoji didžiojo magistro kronika patikslina, kad minima pilis buvo Cenauwe.'
   pagrindžia:
     - c-001

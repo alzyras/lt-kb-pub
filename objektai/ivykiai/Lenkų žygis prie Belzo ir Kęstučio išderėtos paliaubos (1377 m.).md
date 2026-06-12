@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad netoli Sandomiro (čia susirinko visi kovon pašaukti bajorai) padalijo karius žygio voro mis: vienus, vedamus SendziL en kų ž y g is p rie š lievojaus iš Šubino, pasiuntė tu v iu s pulti Chelmo, o kitus — domiro žemių bajoriją-—pats nuvedė prie Belzo. Kojelavičius teigia, kad buvęs priešas ir kurs tęs karą, jis kaip draugas atvyko į karaliaus stovyk lą, pasidarė taikos skelbėju bei susitarimo tarpininku ir sustabdė grėsmingą karą susitaręs sudaryti paliaubas šitokiomis sąlygomis: Kęstutis, sugrįžęs pas savuosius, paleisiąs.
+Prie Sandomiro sutelkta lenkų kariuomenė buvo padalyta: Sendzivojus iš Šubino pasiųstas pulti Chelmo, o karalius nuvedė pajėgas prie Belzo. Kęstutis atvyko į karaliaus stovyklą kaip tarpininkas ir sustabdė karą, susitaręs dėl paliaubų sąlygų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185738"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad netoli Sandomiro (čia susirinko visi kovon pašaukti bajorai) padalijo karius žygio voro mis: vienus, vedamus SendziL en kų ž y g is p rie š lievojaus iš Šubino, pasiuntė tu v iu s pulti Chelmo, o kitus — domiro žemių bajoriją-—pats nuvedė prie Belzo.'
+  global_id: t-185738
+  teiginys: 'Prie Sandomiro sutelkta lenkų kariuomenė buvo padalyta: Sendzivojus iš Šubino pasiųstas pulti Chelmo, o karalius nuvedė pajėgas prie Belzo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185739"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad buvęs priešas ir kurs tęs karą, jis kaip draugas atvyko į karaliaus stovyk lą, pasidarė taikos skelbėju bei susitarimo tarpininku ir sustabdė grėsmingą karą susitaręs sudaryti paliaubas šitokiomis sąlygomis: Kęstutis, sugrįžęs pas savuosius, paleisiąs.'
+  global_id: t-185739
+  teiginys: 'Kęstutis atvyko į karaliaus stovyklą kaip tarpininkas ir sustabdė karą, susitaręs dėl paliaubų sąlygų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad netoli Sandomiro (čia susirinko visi kovon pašaukti bajorai) padalijo karius žygio voro mis: vienus, vedamus SendziL en kų ž y g is p rie š lievojaus iš Šubino, pasiuntė tu v iu s pulti Chelmo, o kitus — domiro žemių bajoriją-—pats nuvedė prie Belzo.'
+  santrauka: 'Prie Sandomiro sutelkta lenkų kariuomenė buvo padalyta: Sendzivojus iš Šubino pasiųstas pulti Chelmo, o karalius nuvedė pajėgas prie Belzo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Netoli Sandomiro (čia susirinko visi
@@ -71,7 +74,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad buvęs priešas ir kurs tęs karą, jis kaip draugas atvyko į karaliaus stovyk lą, pasidarė taikos skelbėju bei susitarimo tarpininku ir sustabdė grėsmingą karą susitaręs sudaryti paliaubas šitokiomis sąlygomis: Kęstutis, sugrįžęs pas savuosius, paleisiąs.'
+  santrauka: 'Kęstutis atvyko į karaliaus stovyklą kaip tarpininkas ir sustabdė karą, susitaręs dėl paliaubų sąlygų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Surado išeitį iš bemaž
@@ -96,3 +99,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]

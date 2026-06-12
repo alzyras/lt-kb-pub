@@ -19,12 +19,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19972"></a>
 - t-001
+  global_id: t-19972
   teiginys: '„Raudonieji“ savo propagandoje ne tik lenkų, bet ir lietuvių bei baltarusių kalbomis žadėjo valstiečiams laisvę ir nuosavybės teisę į visą jų dirbamą žemę be jokių išpirkų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-19973"></a>
 - t-002
+  global_id: t-19973
   teiginys: '„Raudonieji“ – prodemokratiškai nusiteikęs bajorų jaunimas, tikėjęs, kad pavyks įtraukti į sukilimą valstiečius, kuriuos, anot jų, turėjo nuvilti caro paskelbta baudžiavos naikinimo tvarka.'
   pagrindžia:
     - c-001

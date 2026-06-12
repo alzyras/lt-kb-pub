@@ -24,12 +24,16 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-19223"></a>
 - t-001
+  global_id: t-19223
   teiginys: 'Silvestras Valiūnas buvo vienas Žemaitijoje gyvenusių inteligentų, pradėjusių rašyti poeziją žemaitiškai arba lietuviškai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183566"></a>
 - t-002
+  global_id: t-183566
   teiginys: 'Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas).'
   pagrindžia:
     - c-001

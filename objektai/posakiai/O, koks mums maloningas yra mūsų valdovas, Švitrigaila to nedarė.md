@@ -25,7 +25,9 @@ Visi kalba: „O, koks mums maloningas yra mūsų valdovas, Švitrigaila to ne­
 
 ## Teiginiai
 
+<a id="claim-t-86867"></a>
 - t-001
+  global_id: t-86867
   teiginys: 'Posakiu „O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė“ miestiečiai gyrė Žygimanto suteiktas garantijas.'
   pagrindžia:
     - c-001

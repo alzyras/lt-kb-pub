@@ -24,17 +24,23 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
 
 ## Teiginiai
 
+<a id="claim-t-22193"></a>
 - t-001
+  global_id: t-22193
   teiginys: 'Kolūkietis be kolūkio vadovybės leidimo negalėjo išsikelti, o menką atlygį už darbadienius papildydavo pajamomis iš 0,6 ha sodybinio sklypo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-22194"></a>
 - t-002
+  global_id: t-22194
   teiginys: 'Varu į kolūkius varomi valstiečiai menkai uždirbo, nesistengė sąžiningai dirbti ir, nepaisydami bausmių, pradėjo vogti iš kolūkių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183435"></a>
 - t-003
+  global_id: t-183435
   teiginys: 'Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 proc., o metų pabaigoje – jau 62 proc.'
   pagrindžia:
     - c-002

@@ -16,7 +16,9 @@ Jis pastojo turkams kelią Dniestro paupy, ties Chocimu.
 
 ## Teiginiai
 
+<a id="claim-t-02393"></a>
 - t-001
+  global_id: t-02393
   teiginys: '1621 m. ties Chocimu lenkų ir lietuvių stovykla atsilaikė prieš turkus, ir turkai pasitraukė.'
   pagrindžia:
     - c-001

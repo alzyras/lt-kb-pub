@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-77795"></a>
 - t-001
+  global_id: t-77795
   teiginys: 'Filosemitu vadintas Antanas Smetona stabdė raginimus apriboti žydus ir pareiškė, kad Lietuvoje vietos užteks visiems.'
   pagrindžia:
     - c-001

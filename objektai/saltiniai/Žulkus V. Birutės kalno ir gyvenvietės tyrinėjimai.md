@@ -24,7 +24,9 @@ Dusburgietis teigia, kad 16— Žulkus V.
 
 ## Teiginiai
 
+<a id="claim-t-61402"></a>
 - t-001
+  global_id: t-61402
   teiginys: 'V. Žulkaus „Birutės kalno ir gyvenvietės tyrinėjimai“ paskelbta leidinyje „Archeologiniai tyrinėjimai Lietuvoje 1982 ir 1983 metais“.'
   pagrindžia:
     - c-001

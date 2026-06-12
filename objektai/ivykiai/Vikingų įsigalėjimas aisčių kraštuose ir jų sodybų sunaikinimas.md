@@ -33,12 +33,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66949"></a>
 - t-001
+  global_id: t-66949
   teiginys: 'Vikingai pasiekė aisčių gyvenamus kraštus ir jų pajūriuose įsteigė savo kolonijų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66950"></a>
 - t-002
+  global_id: t-66950
   teiginys: 'Vikingų įsigalėjimas aisčių kraštuose buvo neilgas, nes X amžiuje visos jų sodybos buvo sugriautos.'
   pagrindžia:
     - c-001

@@ -36,12 +36,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40717"></a>
 - t-001
+  global_id: t-40717
   teiginys: 'Didelis graižtvinių šautuvų kiekis buvo pagrindinis laikotarpio veiksnys kovos lauke.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183683"></a>
 - t-002
+  global_id: t-183683
   teiginys: 'Didelis graižtvinių šautuvų kiekis buvo pagrindinis laikotarpio kovos lauko veiksnys.'
   pagrindžia:
     - c-002

@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19015"></a>
 - t-001
+  global_id: t-19015
   teiginys: '1947 m. pabaigoje Juozas Lukša-Skirmantas per geležinę uždangą į laisvąjį pasaulį nugabeno partizanų dokumentus ir kitą svarbią medžiagą.'
   pagrindžia:
     - c-001

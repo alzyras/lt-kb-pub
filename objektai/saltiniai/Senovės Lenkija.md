@@ -23,12 +23,16 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 
 ## Teiginiai
 
+<a id="claim-t-88331"></a>
 - t-001
+  global_id: t-88331
   teiginys: 'Vienas iš trijų veikalo „Senovės Lenkija“ tomų skirtas LDK istoriniam topografiniam aprašymui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88332"></a>
 - t-002
+  global_id: t-88332
   teiginys: 'Michałas Balińskis Varšuvoje parašė enciklopedinį leidinį „Senovės Lenkija“.'
   pagrindžia:
     - c-001

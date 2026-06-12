@@ -16,7 +16,9 @@ i Papée, Fr.
 
 ## Teiginiai
 
+<a id="claim-t-30617"></a>
 - t-001
+  global_id: t-30617
   teiginys: 'Fr. Papée su St. Smolka parengė veikalą „Władysław Jagiełło“.'
   pagrindžia:
     - c-001

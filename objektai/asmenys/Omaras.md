@@ -19,7 +19,9 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 
 ## Teiginiai
 
+<a id="claim-t-60397"></a>
 - t-001
+  global_id: t-60397
   teiginys: 'Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to, kai imperatorius Heraklijus pasitraukė iš šventosios žemės, vienas arabų kunigaikštis, vardu Omaras, trečias Mahometo karalystės paveldėtojas, žiauriai įsiveržė į Šventąją žemę bei ją visą užėmė, ir šitaip.'
   pagrindžia:
     - c-001

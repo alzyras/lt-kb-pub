@@ -24,7 +24,9 @@ Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilni
 
 ## Teiginiai
 
+<a id="claim-t-88516"></a>
 - t-001
+  global_id: t-88516
   teiginys: '1432 m. rugsėjo 23 d. Žygimantas suteikė Vilniaus miestiečiams teisę prekiauti ir be muitų gabenti prekes Lietuvos žemėje.'
   pagrindžia:
     - c-001

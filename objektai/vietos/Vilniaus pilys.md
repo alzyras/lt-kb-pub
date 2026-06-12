@@ -27,27 +27,37 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-85965"></a>
 - t-001
+  global_id: t-85965
   teiginys: 'Po gaisrų karalius atstatė Vilniaus pilį iš griuvėsių ir pavertė ją patogiais savo apartamentais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-85966"></a>
 - t-002
+  global_id: t-85966
   teiginys: '1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-85967"></a>
 - t-003
+  global_id: t-85967
   teiginys: '1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85968"></a>
 - t-004
+  global_id: t-85968
   teiginys: 'Savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje25.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85969"></a>
 - t-005
+  global_id: t-85969
   teiginys: 'Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.'
   pagrindžia:
     - c-001

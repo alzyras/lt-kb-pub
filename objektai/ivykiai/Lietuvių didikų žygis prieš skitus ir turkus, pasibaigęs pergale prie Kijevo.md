@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo
 
 ## Santrauka
 
-Kojelavičius teigia, kad ostrogiškis, gavęs žinią, kad skitai bei turkai patraukė į žygį Podolėn ir Pogorėn su trisdešimt keturiais tūkstančiais karių, skubiai įspėjo susitarimo dalyvius apie pavojų. Kojelavičius teigia, kad pas Ostrogiškį atžygia vo Slucko kunigaikštis Jurgis, kunigaikštis Fiodoras Sanguška, Jurgis Radvila, Jonas bei Aleksandras Kaributaičiai, Višnioveco kunigaikščiai, Čartorysko ku nigaikštis Aleksandras, Kijevo vaivada Andrius Nemiravičius, Čerkasų seniūnas.
+Ostrogiškis, sužinojęs apie skitų ir turkų žygį į Podolę ir Pogorę, skubiai įspėjo susitarimo dalyvius apie pavojų. Ostrogiškis su sąjungininkais už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185604"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad ostrogiškis, gavęs žinią, kad skitai bei turkai patraukė į žygį Podolėn ir Pogorėn su trisdešimt keturiais tūkstančiais karių, skubiai įspėjo susitarimo dalyvius apie pavojų.'
+  global_id: t-185604
+  teiginys: 'Ostrogiškis, sužinojęs apie skitų ir turkų žygį į Podolę ir Pogorę, skubiai įspėjo susitarimo dalyvius apie pavojų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185605"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad pas Ostrogiškį atžygia vo Slucko kunigaikštis Jurgis, kunigaikštis Fiodoras Sanguška, Jurgis Radvila, Jonas bei Aleksandras Kaributaičiai, Višnioveco kunigaikščiai, Čartorysko ku nigaikštis Aleksandras, Kijevo vaivada Andrius Nemiravičius, Čerkasų seniūnas.'
+  global_id: t-185605
+  teiginys: 'Ostrogiškis su sąjungininkais už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad ostrogiškis, gavęs žinią, kad skitai bei turkai patraukė į žygį Podolėn ir Pogorėn su trisdešimt keturiais tūkstančiais karių, skubiai įspėjo susitarimo dalyvius apie pavojų.'
+  santrauka: 'Ostrogiškis, sužinojęs apie skitų ir turkų žygį į Podolę ir Pogorę, skubiai įspėjo susitarimo dalyvius apie pavojų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ostrogiškis,
@@ -66,7 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad pas Ostrogiškį atžygia vo Slucko kunigaikštis Jurgis, kunigaikštis Fiodoras Sanguška, Jurgis Radvila, Jonas bei Aleksandras Kaributaičiai, Višnioveco kunigaikščiai, Čartorysko ku nigaikštis Aleksandras, Kijevo vaivada Andrius Nemiravičius, Čerkasų seniūnas.'
+  santrauka: 'Ostrogiškis su sąjungininkais už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pas Ostrogiškį atžygia­
@@ -91,3 +94,15 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Eustachijus (raštininkas)]]
+- [[objektai/asmenys/Eustachijus Daškevičius]]
+- [[objektai/asmenys/Fiodoras]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/žygis]]

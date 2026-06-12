@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Cimbarka
 
 ## Santrauka
 
-Kojelavičius teigia, kad iš ten sugrįžęs į Vilnių, iš leido už Mazovijos kunigaikščio Zemovito savo sese rį Aleksandrą, kuri tam pagimdė Cimbarką, vėliau Austrijos erchercogo Ernesto žmoną, Fridricho Trečio jo, Romos imperatoriaus, motiną.
+Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau tapusi Austrijos erchercogo Ernesto žmona.
 
 ## Teiginiai
 
+<a id="claim-t-186192"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad iš ten sugrįžęs į Vilnių, iš leido už Mazovijos kunigaikščio Zemovito savo sese rį Aleksandrą, kuri tam pagimdė Cimbarką, vėliau Austrijos erchercogo Ernesto žmoną, Fridricho Trečio jo, Romos imperatoriaus, motiną.'
+  global_id: t-186192
+  teiginys: 'Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau tapusi Austrijos erchercogo Ernesto žmona.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad iš ten sugrįžęs į Vilnių, iš leido už Mazovijos kunigaikščio Zemovito savo sese rį Aleksandrą, kuri tam pagimdė Cimbarką, vėliau Austrijos erchercogo Ernesto žmoną, Fridricho Trečio jo, Romos imperatoriaus, motiną.'
+  santrauka: 'Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau tapusi Austrijos erchercogo Ernesto žmona.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sako, tuo žygiu trisdešimt tūks­
@@ -58,3 +59,9 @@ Kojelavičius teigia, kad iš ten sugrįžęs į Vilnių, iš leido už Mazovijo
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/zodynas/žygis]]

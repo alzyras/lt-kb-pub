@@ -16,7 +16,9 @@ Dusburgietis teigia, kad berlyno karališkosios bibliotekos Kodekse greta kitų 
 
 ## Teiginiai
 
+<a id="claim-t-61052"></a>
 - t-001
+  global_id: t-61052
   teiginys: 'Dusburgietis teigia, kad berlyno karališkosios bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.'
   pagrindžia:
     - c-001

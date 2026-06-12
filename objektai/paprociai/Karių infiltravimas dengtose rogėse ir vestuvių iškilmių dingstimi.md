@@ -45,17 +45,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87211"></a>
 - t-001
+  global_id: t-87211
   teiginys: 'Strijkovskis ir Kojalavičius rašė, kad Vytautas kelionę į Vilnių dangstė sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku dingstimi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87212"></a>
 - t-002
+  global_id: t-87212
   teiginys: 'Vytauto žmonės dengtose rogėse pateko į Žemutinę pilį, bet Sudimantas, perspėtas gyventojų, sutrukdė mėginimą užimti Vilnių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183825"></a>
 - t-003
+  global_id: t-183825
   teiginys: 'Vytauto ginkluoti žmonės dengtose rogėse pasiekė pilį, tačiau Sudimantas, perspėtas gyventojų, sužlugdė Vilniaus užėmimo planą.'
   pagrindžia:
     - c-001

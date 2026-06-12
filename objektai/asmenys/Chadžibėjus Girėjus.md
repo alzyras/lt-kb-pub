@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Chadžibėjus Girėjus
 
 ## Santrauka
 
-Kojelavičius teigia, kad didžiulę į tris dalis padalytą kariuomenę vedė trys kunigaikščiai: Kutlubugas sultanas, Chadžibėjus Girėjus ir Dimitras sultanas.
+Chadžibėjus Girėjus buvo vienas iš trijų kunigaikščių, vedusių į tris dalis padalytą kariuomenę prie Mėlynųjų Vandenų.
 
 ## Teiginiai
 
+<a id="claim-t-186190"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad didžiulę į tris dalis padalytą kariuomenę vedė trys kunigaikščiai: Kutlubugas sultanas, Chadžibėjus Girėjus ir Dimitras sultanas.'
+  global_id: t-186190
+  teiginys: 'Chadžibėjus Girėjus buvo vienas iš trijų kunigaikščių, vedusių į tris dalis padalytą kariuomenę prie Mėlynųjų Vandenų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad didžiulę į tris dalis padalytą kariuomenę vedė trys kunigaikščiai: Kutlubugas sultanas, Chadžibėjus Girėjus ir Dimitras sultanas.'
+  santrauka: 'Chadžibėjus Girėjus buvo vienas iš trijų kunigaikščių, vedusių į tris dalis padalytą kariuomenę prie Mėlynųjų Vandenų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pražygiavęs Kanevą ir Čerka­
@@ -38,3 +39,7 @@ Kojelavičius teigia, kad didžiulę į tris dalis padalytą kariuomenę vedė t
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

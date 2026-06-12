@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad drucko kunigaikščiai, pirmųjų Rusios valdo vų palikuonys, kurie šių neramumų pradžioje mažai klausė Vytauto ir atvirai rėmė Švitrigailą, po staigaus antpuolio sutriuškinti, supraS u tra m d o rusų didito, jog kur kas geriau mal kus dauti Vytautą — kad ir ne. Kojelavičius teigia, kad taip pat ir Jurijus Sviatoslavovičius, Smolensko valdovas, nors ir elgėsi kaip neabejotinas priešas, kol Vytautas dar nebuvo atvykęs, tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne draugiškus jausmus ir prijungė, puoselėdamas tam tik rus sumanymus.
+Vytautas greitai užėmė Oršą, patraukė į Drucką ir privertė Drucko kunigaikščius prisiekti ištikimybę jam bei jo įpėdiniams. Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, prijungė Smolensko pajėgas prie Vytauto žygio į Vitebską.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185666"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad drucko kunigaikščiai, pirmųjų Rusios valdo vų palikuonys, kurie šių neramumų pradžioje mažai klausė Vytauto ir atvirai rėmė Švitrigailą, po staigaus antpuolio sutriuškinti, supraS u tra m d o rusų didito, jog kur kas geriau mal kus dauti Vytautą — kad ir ne.'
+  global_id: t-185666
+  teiginys: 'Vytautas greitai užėmė Oršą, patraukė į Drucką ir privertė Drucko kunigaikščius prisiekti ištikimybę jam bei jo įpėdiniams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185667"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad taip pat ir Jurijus Sviatoslavovičius, Smolensko valdovas, nors ir elgėsi kaip neabejotinas priešas, kol Vytautas dar nebuvo atvykęs, tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne draugiškus jausmus ir prijungė, puoselėdamas tam tik rus sumanymus.'
+  global_id: t-185667
+  teiginys: 'Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, prijungė Smolensko pajėgas prie Vytauto žygio į Vitebską.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad drucko kunigaikščiai, pirmųjų Rusios valdo vų palikuonys, kurie šių neramumų pradžioje mažai klausė Vytauto ir atvirai rėmė Švitrigailą, po staigaus antpuolio sutriuškinti, supraS u tra m d o rusų didito, jog kur kas geriau mal kus dauti Vytautą — kad ir ne.'
+  santrauka: 'Vytautas greitai užėmė Oršą, patraukė į Drucką ir privertė Drucko kunigaikščius prisiekti ištikimybę jam bei jo įpėdiniams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautui ir pačiam rūpėjo šis karas, nes troško, kad
@@ -72,7 +75,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad taip pat ir Jurijus Sviatoslavovičius, Smolensko valdovas, nors ir elgėsi kaip neabejotinas priešas, kol Vytautas dar nebuvo atvykęs, tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne draugiškus jausmus ir prijungė, puoselėdamas tam tik rus sumanymus.'
+  santrauka: 'Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, prijungė Smolensko pajėgas prie Vytauto žygio į Vitebską.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Taip pat ir Jurijus Svia-
@@ -95,3 +98,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jurijus]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/žygis]]

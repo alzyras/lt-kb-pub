@@ -17,7 +17,9 @@ Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą sa
 
 ## Teiginiai
 
+<a id="claim-t-20939"></a>
 - t-001
+  global_id: t-20939
   teiginys: 'Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą savivaldą vadino „savismauga“.'
   pagrindžia:
     - c-001

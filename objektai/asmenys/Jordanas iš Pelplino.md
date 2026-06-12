@@ -25,7 +25,9 @@ Katherine, du originalai (XI, Nr. 19, 20) ir nuorašas (LII, Spinta Nr. 1), kur�
 
 ## Teiginiai
 
+<a id="claim-t-87529"></a>
 - t-001
+  global_id: t-87529
   teiginys: 'Pelplino abatas Jordanas 1324 m. dalyvavo rengiant Mažesniųjų brolių laiško nuorašą.'
   pagrindžia:
     - c-001

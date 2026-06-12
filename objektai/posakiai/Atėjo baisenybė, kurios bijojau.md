@@ -22,7 +22,9 @@ Dusburgietis teigia, kad apie ketvirtąją atskalūnybę ir apie tai, kaip už j
 
 ## Teiginiai
 
+<a id="claim-t-59083"></a>
 - t-001
+  global_id: t-59083
   teiginys: 'Dusburgietis teigia, kad apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama 1286 viešpaties metais brolis Ditrichas, Sembos fogtas, galėjo taip sakyti, kaip kadaise bylojęs Jobas: „Atėjo baisenybė, kurios bijojau“, mat bartai, ką tik atgavę brolių palankumą, ir.'
   pagrindžia:
     - c-001

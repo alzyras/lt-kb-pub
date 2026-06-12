@@ -23,7 +23,9 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 
 ## Teiginiai
 
+<a id="claim-t-41483"></a>
 - t-001
+  global_id: t-41483
   teiginys: 'Lietuvos metraštis liudija, kad rugsėjo 1 d. Lietuva pasodino Žygimantą Kęstutaitį didžiuoju kunigaikščiu Vilniuje ir Trakuose.'
   pagrindžia:
     - c-001

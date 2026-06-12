@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88406"></a>
 - t-001
+  global_id: t-88406
   teiginys: '1564 m. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Antrojo Lietuvos Statuto galios.'
   pagrindžia:
     - c-001

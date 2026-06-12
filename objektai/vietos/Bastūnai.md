@@ -16,7 +16,9 @@ Galiausiai spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos 
 
 ## Teiginiai
 
+<a id="claim-t-80602"></a>
 - t-001
+  global_id: t-80602
   teiginys: 'Galiausiai spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau - palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.'
   pagrindžia:
     - c-001

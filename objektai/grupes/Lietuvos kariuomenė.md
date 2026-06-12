@@ -32,62 +32,86 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 
 ## Teiginiai
 
+<a id="claim-t-182738"></a>
 - t-001
+  global_id: t-182738
   teiginys: 'Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuolatinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji žmonės - kariai, galintys bet kada stoti į tarnybą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-182741"></a>
 - t-002
+  global_id: t-182741
   teiginys: 'LDK didysis etmonas Karolis Chodkevičius, matydamas jau išsirikiavusius priešo karius, išvedė į mūšio lauką ir savo kariuomenę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-182742"></a>
 - t-003
+  global_id: t-182742
   teiginys: 'Visuotinio šaukimo metu didesniąją visos kariuomenės dalį sudarydavo iš pavietų į savo vėliavas susirinkę bajorai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182743"></a>
 - t-004
+  global_id: t-182743
   teiginys: 'Kristupas Radvila Perkūnas Lietuvos kariuomenei vadovavo Kunigaikštis Kristupas Radvila Perkūnas (1547-1603 m.).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183157"></a>
 - t-005
+  global_id: t-183157
   teiginys: 'Kova dėl Livonijos daugiausia buvo suinteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko uostą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-183158"></a>
 - t-006
+  global_id: t-183158
   teiginys: 'Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje), turinti 3 tūkst.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-183159"></a>
 - t-007
+  global_id: t-183159
   teiginys: 'Kovose gimę Lietuvos kariuomenės savanorių pulkai, partizanai mūšiuose dėl nepriklausomybės prarado 1 444 žmones, tačiau apgynė kraštą ir išstūmė iš jo svetimas kariuomenes.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-183160"></a>
 - t-008
+  global_id: t-183160
   teiginys: 'Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polovinskas) nustebo, jog kadriniai Lietuvos kariuomenės karininkai, kovoję prieš lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį, nes...'
   pagrindžia:
     - c-008
 
+<a id="claim-t-183161"></a>
 - t-009
+  global_id: t-183161
   teiginys: '1939 m. rugsėjo 17 d. Lietuvos prezidentui paskelbus dalinę mobilizaciją, Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-183162"></a>
 - t-010
+  global_id: t-183162
   teiginys: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).'
   pagrindžia:
     - c-010
 
+<a id="claim-t-184332"></a>
 - t-011
+  global_id: t-184332
   teiginys: 'Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-184333"></a>
 - t-012
+  global_id: t-184333
   teiginys: 'Vytauto kariuomenė buvo stipriai išretinta ne tik Žalgirio kautynėse, bet ir prie Marienburgo prasidėjusių ligų^35.'
   pagrindžia:
     - c-012

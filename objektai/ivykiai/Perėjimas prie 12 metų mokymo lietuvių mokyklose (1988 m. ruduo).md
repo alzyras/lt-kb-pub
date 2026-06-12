@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20443"></a>
 - t-001
+  global_id: t-20443
   teiginys: 'Pokariu okupuotoje Lietuvoje išliko 11 klasių vidurinis mokymas, nors visoje SSRS buvo įvesta unifikuota 10 metų sistema.'
   pagrindžia:
     - c-001

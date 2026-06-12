@@ -19,7 +19,9 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
 
 ## Teiginiai
 
+<a id="claim-t-87624"></a>
 - t-001
+  global_id: t-87624
   teiginys: 'Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.'
   pagrindžia:
     - c-001

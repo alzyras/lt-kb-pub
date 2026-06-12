@@ -16,12 +16,16 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 
 ## Teiginiai
 
+<a id="claim-t-01471"></a>
 - t-001
+  global_id: t-01471
   teiginys: 'Vilniuje įkurta švietimo draugija „Rytas“ buvo viena iš trijų ypatingą reikšmę turėjusių švietimo draugijų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182921"></a>
 - t-002
+  global_id: t-182921
   teiginys: 'Vilniuje veikęs „Rytas“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų.'
   pagrindžia:
     - c-002

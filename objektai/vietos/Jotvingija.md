@@ -26,12 +26,16 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
 
 ## Teiginiai
 
+<a id="claim-t-68020"></a>
 - t-001
+  global_id: t-68020
   teiginys: 'Vytautas rašte Zigmantui teigė, kad Sūdavija su Jotvingija, arba Dzūkija, yra lietuvių kraštai, dėl kurių ginčo negali kilti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-68021"></a>
 - t-002
+  global_id: t-68021
   teiginys: '1279 m. per badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių.'
   pagrindžia:
     - c-002

@@ -16,12 +16,16 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
 
 ## Teiginiai
 
+<a id="claim-t-40033"></a>
 - t-001
+  global_id: t-40033
   teiginys: 'Savanoris Antanas Šukys, mokydamasis Kauno Karužų mokykloje, prisiminė, kaip buvo renkami kariai per Jiezną besiveržusiai Raudonajai armijai sulaikyti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183728"></a>
 - t-002
+  global_id: t-183728
   teiginys: 'Antanas Šukys staiga pasijuto blogai, | ir skausmai spaudė jam krūtinę.'
   pagrindžia:
     - c-002

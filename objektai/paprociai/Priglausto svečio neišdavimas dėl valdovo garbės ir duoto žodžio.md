@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Priglausto svečio neišdavimas dėl valdovo garbės ir duoto žodžio
 
 ## Santrauka
 
-Kojelavičius teigia, kad valachų valdovas atsakė, kad nei jo paties orumas, nei duotas žodis neleidžią šito padaryti, tai yra išduoti pri glaustą svečią, pažadėjęs vis dėlto taip viską patvarky ti, kad Mykolas kuo greičiausiai apleistų Valachiją.
+Valachų valdovas atsisakė išduoti priglaustą Mykolą, nes jo orumas ir duotas žodis neleido perduoti svečio lenkams.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185923"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad valachų valdovas atsakė, kad nei jo paties orumas, nei duotas žodis neleidžią šito padaryti, tai yra išduoti pri glaustą svečią, pažadėjęs vis dėlto taip viską patvarky ti, kad Mykolas kuo greičiausiai apleistų Valachiją.'
+  global_id: t-185923
+  teiginys: 'Valachų valdovas atsisakė išduoti priglaustą Mykolą, nes jo orumas ir duotas žodis neleido perduoti svečio lenkams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad valachų valdovas atsakė, kad nei jo paties orumas, nei duotas žodis neleidžią šito padaryti, tai yra išduoti pri glaustą svečią, pažadėjęs vis dėlto taip viską patvarky ti, kad Mykolas kuo greičiausiai apleistų Valachiją.'
+  santrauka: 'Valachų valdovas atsisakė išduoti priglaustą Mykolą, nes jo orumas ir duotas žodis neleido perduoti svečio lenkams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip pasielgus, iš tiesų jį pradėta
@@ -55,3 +56,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/grupes/Valachai]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/Lenkai]]

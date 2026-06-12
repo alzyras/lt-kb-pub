@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08342"></a>
 - t-001
+  global_id: t-08342
   teiginys: 'Ubladėje buvo duonkepis kakalys, kuriame kepdavo duoną, pyragus, žuvis ir mėsas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08343"></a>
 - t-002
+  global_id: t-08343
   teiginys: 'Šalip ubladės buvo kamarėlė, kurioje laikydavo miltų ruošimo įrankius ir pačius miltus.'
   pagrindžia:
     - c-002

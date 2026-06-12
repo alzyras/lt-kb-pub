@@ -19,7 +19,9 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
 
 ## Teiginiai
 
+<a id="claim-t-87491"></a>
 - t-001
+  global_id: t-87491
   teiginys: 'Vytautas sumušė Dmitrijų Kaributą prie Nedokudovo, užėmė Seversko Naugardą ir suėmęs kunigaikštį uždarė Vilniaus Aukštutinėje pilyje.'
   pagrindžia:
     - c-001

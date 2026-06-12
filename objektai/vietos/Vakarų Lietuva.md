@@ -27,12 +27,16 @@ Tačiau jie ## Puslapis 235 LIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA 1949
 
 ## Teiginiai
 
+<a id="claim-t-42238"></a>
 - t-001
+  global_id: t-42238
   teiginys: 'Pakeliui į suvažiavimą susitiko Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183814"></a>
 - t-002
+  global_id: t-183814
   teiginys: 'Kęstučio apygardos vadu, 1951 m. Vakarų Lietuvos (Jūros) srities vadu.'
   pagrindžia:
     - c-002

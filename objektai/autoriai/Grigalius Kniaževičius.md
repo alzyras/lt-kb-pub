@@ -24,7 +24,9 @@ Tos dotacijos Vil­ niaus vyskupijai nuorašo vertimas iš lotynų kalbos, atlik
 
 ## Teiginiai
 
+<a id="claim-t-88058"></a>
 - t-001
+  global_id: t-88058
   teiginys: 'Grigalius Kniaževičius iš lotynų kalbos išvertė Vilniaus vyskupijos dotacijos nuorašą, išspausdintą 1822 m. „Dzieje dobroczynności“.'
   pagrindžia:
     - c-001

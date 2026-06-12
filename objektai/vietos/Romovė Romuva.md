@@ -16,17 +16,23 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
 
 ## Teiginiai
 
+<a id="claim-t-58475"></a>
 - t-001
+  global_id: t-58475
   teiginys: 'Romovė, arba Romuva, Dusburgiečio duomenimis buvo prūsų, lietuvių ir kitų baltų religinio kulto centras.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58476"></a>
 - t-002
+  global_id: t-58476
   teiginys: 'Dusburgietis teigia, kad ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės resp. Romuvos vieta apskritai nebeatsekama.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58477"></a>
 - t-003
+  global_id: t-58477
   teiginys: 'Dusburgietis teigia, kad aprašyta Romovė resp. Romuva — autentiškas faktas.'
   pagrindžia:
     - c-003

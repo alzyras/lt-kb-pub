@@ -17,7 +17,9 @@ Gedimi­ nas narsiai gynėsi, bet krito pakirstas kryžiuočio Tilemanno Zunpach
 
 ## Teiginiai
 
+<a id="claim-t-87868"></a>
 - t-001
+  global_id: t-87868
   teiginys: 'Kryžiuotis Tilemannas Zunpachas, šaulių vadas, ugniniu šūviu mirtinai sužeidė Gediminą.'
   pagrindžia:
     - c-001

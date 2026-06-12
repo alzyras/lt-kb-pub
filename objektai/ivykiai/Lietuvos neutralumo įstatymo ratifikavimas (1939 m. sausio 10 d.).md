@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-45375"></a>
 - t-001
+  global_id: t-45375
   teiginys: 'Neutralumo politika ir Molotovo–Ribentropo paktas Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos narių saugumo, trijų Baltijos šalių užsienio reikalų ministrai 1938 m. vasarą nutarė neleisti užsienio kariuomenėms kirsti jų.'
   pagrindžia:
     - c-001

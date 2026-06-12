@@ -27,17 +27,23 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
 
 ## Teiginiai
 
+<a id="claim-t-63395"></a>
 - t-001
+  global_id: t-63395
   teiginys: '1410 m. liepos 15 d. Griunvaldo apylinkėse Lietuvos kariuomenė su sąjungininkais lenkais sutriuškino Kryžiuočių ordiną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-63397"></a>
 - t-002
+  global_id: t-63397
   teiginys: 'NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS p. 16-17, Žalgirio mūšio inscenizacija, Griunvaldas, Lenkija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183019"></a>
 - t-003
+  global_id: t-183019
   teiginys: 'Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.'
   pagrindžia:
     - c-004

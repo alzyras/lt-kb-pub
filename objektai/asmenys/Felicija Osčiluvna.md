@@ -17,7 +17,9 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
 
 ## Teiginiai
 
+<a id="claim-t-87668"></a>
 - t-001
+  global_id: t-87668
   teiginys: 'Našlė Felicija Osčiluvna buvo tarp parapijoje gyvenusių bajorų, privalėjusių bažnyčiai mokėti dešimtinę.'
   pagrindžia:
     - c-001

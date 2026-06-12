@@ -17,7 +17,9 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
 
 ## Teiginiai
 
+<a id="claim-t-18924"></a>
 - t-001
+  global_id: t-18924
   teiginys: 'LDK didysis maršalas Ignotas Potockis buvo vienas iš trijų Lietuvos atstovų, balsavusių už priešinimąsi.'
   pagrindžia:
     - c-001

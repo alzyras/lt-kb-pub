@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-31974"></a>
 - t-001
+  global_id: t-31974
   teiginys: '„Vytautas Didysis ... jo jaunystė“ paskelbtas Lietuvių enciklopedijos 34 tome, 373-376 puslapiuose.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius
 
 ## Teiginiai
 
+<a id="claim-t-100068"></a>
 - t-001
+  global_id: t-100068
   teiginys: 'Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius Cibulka.'
   pagrindžia:
     - c-001

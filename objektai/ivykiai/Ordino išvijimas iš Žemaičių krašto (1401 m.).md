@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-95972"></a>
 - t-001
+  global_id: t-95972
   teiginys: '1401 m. Vytautas išvijo Ordiną iš Žemaičių krašto ir sutrukdė jo siekiui sausuma sujungti abu Ordinus.'
   pagrindžia:
     - c-001

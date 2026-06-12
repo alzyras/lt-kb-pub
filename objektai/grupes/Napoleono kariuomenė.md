@@ -25,22 +25,30 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
 
 ## Teiginiai
 
+<a id="claim-t-43515"></a>
 - t-001
+  global_id: t-43515
   teiginys: 'Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo į Vilnių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-43516"></a>
 - t-002
+  global_id: t-43516
   teiginys: 'Napoleono kariuomenės likučiai atslinko į Lietuvą išbadėję ir nuskurę, pakeliui viską plėšdami.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-43517"></a>
 - t-003
+  global_id: t-43517
   teiginys: 'Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono globoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-43518"></a>
 - t-004
+  global_id: t-43518
   teiginys: 'Paskelbęs karą, Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo į Vilnių.'
   pagrindžia:
     - c-004

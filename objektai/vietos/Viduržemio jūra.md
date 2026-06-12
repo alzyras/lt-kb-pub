@@ -20,17 +20,23 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 
 ## Teiginiai
 
+<a id="claim-t-77438"></a>
 - t-001
+  global_id: t-77438
   teiginys: 'Po didžiųjų geografinių atradimų ir turkų ekspansijos Viduržemio jūra prarado ekonominę svarbą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183104"></a>
 - t-002
-  teiginys: 'Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris.'
+  global_id: t-183104
+  teiginys: 'Seniausiais laikais lietuviai upėmis pasiekdavo Viduržemio pajūrį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183105"></a>
 - t-003
+  global_id: t-183105
   teiginys: 'Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu prarado reikšmę Europai.'
   pagrindžia:
     - c-003
@@ -52,7 +58,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
     - t-001
 
 - c-002
-  santrauka: 'Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris.'
+  santrauka: 'Seniausiais laikais lietuviai upėmis pasiekdavo Viduržemio pajūrį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Prekyba.** Seniausiais laikais lietuviai prekiavo su skandina-

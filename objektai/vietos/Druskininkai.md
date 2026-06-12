@@ -27,7 +27,9 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
 
 ## Teiginiai
 
+<a id="claim-t-170325"></a>
 - t-001
+  global_id: t-170325
   teiginys: 'Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).'
   pagrindžia:
     - c-001

@@ -29,90 +29,117 @@ periodo_grupes:
 
 Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“ Greitai ## Puslapis 69 Žygimanto Kęstutaičio valPo pralaimėjimo Lietuvai yr A \ Vidinė politinė kova. Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galėjo didžiausias lietuvių jėgas“, gavęs prašytos pagalbos iš Lenkijos karaliaus Vladislovo Jogailaičio, ėjo į Trakus. Didysis kunigaikštis Žygimantas Kęstutaitis pergalei atminti pastatė parapinę bažnyčią (1436- 1440 m.), kuri daug kartų perstatyta ir šiandien tebestovi Pabaiske.
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
-
 ## Teiginiai
 
+<a id="claim-t-114099"></a>
 - t-001
+  global_id: t-114099
   teiginys: 'Žygimantas Kęstutaitis įsakė Švitrigailos pasiuntinius valkioti gatvėmis ir paskandinti.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-114100"></a>
 - t-002
+  global_id: t-114100
   teiginys: 'Žygimantas Kęstutaitis žudė jam įtartinus asmenis ir ištisas šeimas, prieš tai juos apiplėšęs.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-114101"></a>
 - t-003
+  global_id: t-114101
   teiginys: '1432 m. rugsėjo 23 d. Žygimantas Kęstutaitis leido Vilniaus miestiečiams prekiauti ir gabenti prekes be muitų Lietuvos žemėje.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-114102"></a>
 - t-004
+  global_id: t-114102
   teiginys: '1440 m. balandį sąmokslininkai Trakų pilyje nužudė Žygimantą Kęstutaitį, o jo sūnų Mykolą ištrėmė.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-114103"></a>
 - t-005
+  global_id: t-114103
   teiginys: 'Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-114105"></a>
 - t-007
+  global_id: t-114105
   teiginys: 'Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galėjo didžiausias lietuvių jėgas“, gavęs prašytos pagalbos iš Lenkijos karaliaus Vladislovo Jogailaičio, ėjo į Trakus.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-114106"></a>
 - t-008
+  global_id: t-114106
   teiginys: 'Žygimantas Kęstutaitis Pabaisko mūšio lauke pastatė parapijos bažnyčią ir pavadino per jį tekantį upelį Viktorija.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-114107"></a>
 - t-009
+  global_id: t-114107
   teiginys: 'Žygimantas Kęstutaitis Pabaisko pergalės atminimui mūšio lauką pavadino Pabaisku ir pastatė parapijos bažnyčią.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-114108"></a>
 - t-010
+  global_id: t-114108
   teiginys: 'Didysis kunigaikštis Žygimantas Kęstutaitis pergalei atminti pastatė parapinę bažnyčią (1436- 1440 m.), kuri daug kartų perstatyta ir šiandien tebestovi Pabaiske.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-114110"></a>
 - t-011
+  global_id: t-114110
   teiginys: '1440 m. balandį Žygimantas Kęstutaitis buvo sąmokslininkų nužudytas Trakų pilyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184915"></a>
 - t-012
-  teiginys: 'Kojelavičius teigia, kad kai Žygimantas, išvykęs iš Seversko, pasiekė Lietuvą, neraginami suplaukė pas jį didikai bei bajo rai, iš kurių netrukus susidarė tikra kariuomenė.'
+  global_id: t-184915
+  teiginys: 'Žygimantui Kęstutaičiui atvykus iš Seversko į Lietuvą, prie jo neraginami rinkosi didikai ir bajorai.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-184916"></a>
 - t-013
-  teiginys: 'Kojelavičius teigia, kad žygimantas, beveik be kovos laimėjęs karą, paėmė be kraujo praliejimo į savo rankas Vilnių, Tra kus, Gardiną bei visas kitas Lietuvos pilis ir, pasiun tęs Joną Nemiravičių, pareiškė karaliui pagarbą ir pranešė, kad Boleslovas išvytas iš Lietuvos.'
+  global_id: t-184916
+  teiginys: 'Žygimantas Kęstutaitis beveik be kovos perėmė Vilnių, Trakus, Gardiną ir kitas Lietuvos pilis.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-184917"></a>
 - t-014
-  teiginys: 'Kojelavičius teigia, kad k e t v i r t a k n y g a APIE LIETUVIŲ PRAEITĮ, KAI VALDĖ ŽYGIMANTAS I KĘSTUTAITIS Ž y g im a n ta s K ąstu - ta itis ta m tik ro m is są ly g o m is ta m p a Lie- 1432 m e ta i Karaliaus pasiuntiniai ne daug vargo, kol įtikino Žygi mantą sutikti su.'
+  global_id: t-184917
+  teiginys: '1432 m. Žygimantas Kęstutaitis sutiko su sąlygomis, kuriomis tapo Lietuvos didžiuoju kunigaikščiu.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-184918"></a>
 - t-015
-  teiginys: 'Kojelavičius teigia, kad stanislovo katedroje Vilniuje paskelbė susirinku siems žmonėms popiežiaus raštą, kuriuo Žygimantas bei visi Lietuvos Didžiosios Kunigaikštystės gyventojai buvo atleidžiami nuo priesaikos, prieš metus duotos Boleslovui.'
+  global_id: t-184918
+  teiginys: 'Vilniaus Šv. Stanislovo katedroje Žygimantas Kęstutaitis buvo atleistas nuo Boleslovui duotos priesaikos.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-184919"></a>
 - t-016
-  teiginys: 'Kojelavičius teigia, kad visi tikėjo, jog puiki pergalė atneš taiką; taip ir būtų atsitikę, jeigu Žygimantas, nors kovos lauke jau pralieta pakankamai kraujo, nebūtų suteikęs tėvynei dar daugiau skausmo savo gal kartais ir reikalingu, ir teisingu, bet tarp žmonių nekenčiamu žiaurumu.'
+  global_id: t-184919
+  teiginys: 'Kojelavičius Žygimanto Kęstutaičio elgesį po pergalės vertina kaip tarp žmonių nekenčiamą žiaurumą.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-184920"></a>
 - t-017
-  teiginys: 'Kojelavičius teigia, kad jonas su keliais vyrais n u žu d o v a ld o v ą įsiveržė į valdovo miegamąjį ir, apkaltinęs dėl didikų žu dynių ir dėl smurto, kurio ketino griebtis šaukdamas sei mą, nutvėrė tuo metu, kai Žygimantas bandė kažką sa kyti, jį už sprando ir partrenkė ant žemės.'
+  global_id: t-184920
+  teiginys: 'Jonas su keliais vyrais įsiveržė į Žygimanto Kęstutaičio miegamąjį, partrenkė valdovą ir prisidėjo prie jo nužudymo.'
   pagrindžia:
     - c-016
 
@@ -332,7 +359,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - t-010
 
 - c-011
-  santrauka: 'Kojelavičius teigia, kad kai Žygimantas, išvykęs iš Seversko, pasiekė Lietuvą, neraginami suplaukė pas jį didikai bei bajo rai, iš kurių netrukus susidarė tikra kariuomenė.'
+  santrauka: 'Žygimantui Kęstutaičiui atvykus iš Seversko į Lietuvą, prie jo neraginami rinkosi didikai ir bajorai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat Boleslovas dėl tiesiog neįtikimo žiauru­
@@ -354,7 +381,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - t-012
 
 - c-012
-  santrauka: 'Kojelavičius teigia, kad žygimantas, beveik be kovos laimėjęs karą, paėmė be kraujo praliejimo į savo rankas Vilnių, Tra kus, Gardiną bei visas kitas Lietuvos pilis ir, pasiun tęs Joną Nemiravičių, pareiškė karaliui pagarbą ir pranešė, kad Boleslovas išvytas iš Lietuvos.'
+  santrauka: 'Žygimantas Kęstutaitis beveik be kovos perėmė Vilnių, Trakus, Gardiną ir kitas Lietuvos pilis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Čia šiaip ne taip
@@ -377,7 +404,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - t-013
 
 - c-013
-  santrauka: 'Kojelavičius teigia, kad k e t v i r t a k n y g a APIE LIETUVIŲ PRAEITĮ, KAI VALDĖ ŽYGIMANTAS I KĘSTUTAITIS Ž y g im a n ta s K ąstu - ta itis ta m tik ro m is są ly g o m is ta m p a Lie- 1432 m e ta i Karaliaus pasiuntiniai ne daug vargo, kol įtikino Žygi mantą sutikti su.'
+  santrauka: '1432 m. Žygimantas Kęstutaitis sutiko su sąlygomis, kuriomis tapo Lietuvos didžiuoju kunigaikščiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     ## Puslapis 441
@@ -428,7 +455,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - t-014
 
 - c-014
-  santrauka: 'Kojelavičius teigia, kad stanislovo katedroje Vilniuje paskelbė susirinku siems žmonėms popiežiaus raštą, kuriuo Žygimantas bei visi Lietuvos Didžiosios Kunigaikštystės gyventojai buvo atleidžiami nuo priesaikos, prieš metus duotos Boleslovui.'
+  santrauka: 'Vilniaus Šv. Stanislovo katedroje Žygimantas Kęstutaitis buvo atleistas nuo Boleslovui duotos priesaikos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Stanislovo katedroje
@@ -451,7 +478,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - t-015
 
 - c-015
-  santrauka: 'Kojelavičius teigia, kad visi tikėjo, jog puiki pergalė atneš taiką; taip ir būtų atsitikę, jeigu Žygimantas, nors kovos lauke jau pralieta pakankamai kraujo, nebūtų suteikęs tėvynei dar daugiau skausmo savo gal kartais ir reikalingu, ir teisingu, bet tarp žmonių nekenčiamu žiaurumu.'
+  santrauka: 'Kojelavičius Žygimanto Kęstutaičio elgesį po pergalės vertina kaip tarp žmonių nekenčiamą žiaurumą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Keturi tūkstančiai vyrų pateko
@@ -481,7 +508,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - t-016
 
 - c-016
-  santrauka: 'Kojelavičius teigia, kad jonas su keliais vyrais n u žu d o v a ld o v ą įsiveržė į valdovo miegamąjį ir, apkaltinęs dėl didikų žu dynių ir dėl smurto, kurio ketino griebtis šaukdamas sei mą, nutvėrė tuo metu, kai Žygimantas bandė kažką sa kyti, jį už sprando ir partrenkė ant žemės.'
+  santrauka: 'Jonas su keliais vyrais įsiveržė į Žygimanto Kęstutaičio miegamąjį, partrenkė valdovą ir prisidėjo prie jo nužudymo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jonas su keliais vyrais
@@ -505,3 +532,40 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   statusas: verified
   pagrindžia:
     - t-017
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Boleslovas]]
+- [[objektai/asmenys/Daugirdas]]
+- [[objektai/autoriai/Kotzebue]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/knechtas]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/posakiai/„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“]]
+- [[objektai/ivykiai/Žygimanto Kęstutaičio iškėlimas Švitrigailos varžovu ir Švitrigailos pabėgimas iš Lietuvos (1432 m.)]]
+- [[objektai/ivykiai/Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)]]
+- [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
+- [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
+- [[objektai/paprociai/Pabaisko pergalės įamžinimas vietovardžiais ir bažnyčios fundacija]]

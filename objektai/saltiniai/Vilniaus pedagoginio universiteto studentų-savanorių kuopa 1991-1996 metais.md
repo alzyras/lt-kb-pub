@@ -25,7 +25,9 @@ Vilniaus pedagoginio universiteto studentų-savanorių kuopa 1991-1996 metais, V
 
 ## Teiginiai
 
+<a id="claim-t-39939"></a>
 - t-001
+  global_id: t-39939
   teiginys: 'A. Daugirdo „Vilniaus pedagoginio universiteto studentų-savanorių kuopa 1991-1996 metais“ išleista Vilniuje 2011 m.'
   pagrindžia:
     - c-001

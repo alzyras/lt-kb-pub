@@ -16,7 +16,9 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. A. Žemaičio vadovaujamą
 
 ## Teiginiai
 
+<a id="claim-t-39988"></a>
 - t-001
+  global_id: t-39988
   teiginys: 'Netoli Birštono Zaskevičiaus kariai susitiko karin. A. Žemaičio vadovaujamą 1-ojo pėstininkų pulko 2-ąją kuopą, vykusią paremti Jiezno puolimo. Visi kartu jie grįžo į Prienus.'
   pagrindžia:
     - c-001

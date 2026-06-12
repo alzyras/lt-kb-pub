@@ -19,13 +19,17 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 
 ## Teiginiai
 
+<a id="claim-t-63148"></a>
 - t-001
+  global_id: t-63148
   teiginys: 'Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuolė į lauką, buvusį tarp miesto ir malūno, smarkiai juos užpuolė, daugybę nukovė ar mirtinai sužeidė; kai jau tikėjosi juos visus iki vieno išžudę, staiga iš pasalų iššoko prūsai ir išmušė visus brolius bei.'
   pagrindžia:
     - c-001
     - c-003
 
+<a id="claim-t-63149"></a>
 - t-002
+  global_id: t-63149
   teiginys: 'Dusburgietis teigia, kad po to priešai priartėjo prie Marienverderio miesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė žūties, pabėgdami į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji buvo arba paimti į nelaisvę, arba.'
   pagrindžia:
     - c-004

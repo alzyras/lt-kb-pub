@@ -17,7 +17,9 @@ Nebebuvo laiko slėptis, reikėjo ruoštis gynybai.
 
 ## Teiginiai
 
+<a id="claim-t-41457"></a>
 - t-001
+  global_id: t-41457
   teiginys: 'Nebebuvo laiko slėptis, reikėjo ruoštis gynybai.'
   pagrindžia:
     - c-001

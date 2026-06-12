@@ -30,7 +30,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-09544"></a>
 - t-001
+  global_id: t-09544
   teiginys: 'Podolėje paskirti atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
   pagrindžia:
     - c-001

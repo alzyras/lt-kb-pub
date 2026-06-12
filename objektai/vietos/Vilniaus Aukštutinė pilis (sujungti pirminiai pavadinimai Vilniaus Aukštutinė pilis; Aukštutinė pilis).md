@@ -27,37 +27,51 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 
 ## Teiginiai
 
+<a id="claim-t-85844"></a>
 - t-001
+  global_id: t-85844
   teiginys: 'Jogailos laikų Vilniaus miesto plane Aukštutinė pilis nurodyta ant Tauro kalno.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-85845"></a>
 - t-002
+  global_id: t-85845
   teiginys: 'Pagal sapno aiškinimą Gediminas ant Tauro kalno pastatydino Aukštutinę mūro pilį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85846"></a>
 - t-003
+  global_id: t-85846
   teiginys: 'Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85847"></a>
 - t-004
+  global_id: t-85847
   teiginys: 'Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-85848"></a>
 - t-005
+  global_id: t-85848
   teiginys: 'Aukštutinėje tvirtovėje užsidarė lenkai, kuriems vadovavo Karūnos pakancleris Mikalojus Moskoževskis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85849"></a>
 - t-006
+  global_id: t-85849
   teiginys: 'Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-85850"></a>
 - t-007
+  global_id: t-85850
   teiginys: 'Kalnas, ant kurio stovėjo Aukštutinė pilis, nuslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
   pagrindžia:
     - c-005

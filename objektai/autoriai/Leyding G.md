@@ -26,7 +26,9 @@ Dusburgietis teigia, kad see, lyginame su 1401 m. dokumentų Colmen/Kaelmen (GAO
 
 ## Teiginiai
 
+<a id="claim-t-60743"></a>
 - t-001
+  global_id: t-60743
   teiginys: 'G. Leydingas pateikė Kölmsee ir Kolm formas ežero vardui Osos aukštupyje apibūdinti.'
   pagrindžia:
     - c-001

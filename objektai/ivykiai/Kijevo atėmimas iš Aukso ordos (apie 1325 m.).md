@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62824"></a>
 - t-001
+  global_id: t-62824
   teiginys: 'Dusburgietis teigia, kad apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ O kurie dalyvavo, tai buvo daugiausia mozūrai ir Spyteko iš Melštino vadovauj
 
 ## Teiginiai
 
+<a id="claim-t-35745"></a>
 - t-001
+  global_id: t-35745
   teiginys: 'Spyteko iš Melštino vadovaujami podoliečiai dalyvavo Vytauto kariuomenės žygyje kartu su mozūrais.'
   pagrindžia:
     - c-001

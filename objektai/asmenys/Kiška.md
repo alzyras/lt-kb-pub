@@ -19,7 +19,9 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
 
 ## Teiginiai
 
+<a id="claim-t-87755"></a>
 - t-001
+  global_id: t-87755
   teiginys: 'Krymo totoriams priartėjus prie Lydos, Aleksandras pavedė kariuomenei vadovauti etmonui Kiškai ir kunigaikščiui Glinskiui.'
   pagrindžia:
     - c-001

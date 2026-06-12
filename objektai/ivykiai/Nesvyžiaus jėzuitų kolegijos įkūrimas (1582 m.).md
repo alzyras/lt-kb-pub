@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01759"></a>
 - t-001
+  global_id: t-01759
   teiginys: 'Mikalojus Kristupas Radvila Našlaitėlis 1582 m. Nesvyžiuje, buvusiame kalvinų centre, įkūrė jėzuitų kolegiją.'
   pagrindžia:
     - c-001

@@ -20,7 +20,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-06877"></a>
 - t-001
+  global_id: t-06877
   teiginys: 'Gediminas teigė, kad Lietuva nekariauja su krikščionybe, o tik gina savo laisvę.'
   pagrindžia:
     - c-001

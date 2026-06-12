@@ -16,7 +16,9 @@ Dalevskiui, K.
 
 ## Teiginiai
 
+<a id="claim-t-40451"></a>
 - t-001
+  global_id: t-40451
   teiginys: 'T. Dalevskiui buvo įvykdyta egzekucija kartu su B. Kolyška, Z. Sierakausku, K. Kalinausku, A. Mackevičiumi ir kitais.'
   pagrindžia:
     - c-001

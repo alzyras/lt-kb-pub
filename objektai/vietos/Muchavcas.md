@@ -17,15 +17,12 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
 
 ## Teiginiai
 
+<a id="claim-t-02613"></a>
 - t-001
+  global_id: t-02613
   teiginys: 'Karaliaus lėšomis iškastas kanalas sujungė Pripetės intaką Piną su Bugo intaku Muchavcu.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką Piną su Bugo intaku Muchavcu.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -45,7 +42,7 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
     - t-001
 
 - c-002
-  santrauka: 'Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką Piną su Bugo intaku Muchavcu.'
+  santrauka: 'Karaliaus lėšomis iškastas kanalas sujungė Pripetės intaką Piną su Bugo intaku Muchavcu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jį iškasė savo lėšomis hetmonas

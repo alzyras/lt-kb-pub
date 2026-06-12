@@ -23,7 +23,9 @@ Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 
 
 ## Teiginiai
 
+<a id="claim-t-36508"></a>
 - t-001
+  global_id: t-36508
   teiginys: 'Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 1000 rublių už belaisvius.'
   pagrindžia:
     - c-001

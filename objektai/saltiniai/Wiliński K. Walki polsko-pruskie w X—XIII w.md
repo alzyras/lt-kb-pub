@@ -22,7 +22,9 @@ Dusburgietis teigia, kad wiliński K.
 
 ## Teiginiai
 
+<a id="claim-t-61368"></a>
 - t-001
+  global_id: t-61368
   teiginys: 'K. Wilińskio straipsnis apie lenkų ir prūsų kovas X-XIII a. paskelbtas 1984 m. Lodzės universiteto istorijos leidinyje.'
   pagrindžia:
     - c-001

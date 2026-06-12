@@ -17,12 +17,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-67421"></a>
 - t-001
+  global_id: t-67421
   teiginys: 'K. Kantrimo 1822 m. projektas numatė Vilniaus universitete įkurti lietuvių kalbos katedrą, tačiau nebuvo įgyvendintas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67422"></a>
 - t-002
+  global_id: t-67422
   teiginys: 'K. Kantrimas memoriale kuratoriui Čartoriskiui rašė, kad didesnėje lietuviškųjų gubernijų dalyje kaimiečiai kalbėjo lietuviškai.'
   pagrindžia:
     - c-001

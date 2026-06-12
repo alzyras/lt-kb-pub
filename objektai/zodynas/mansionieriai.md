@@ -19,12 +19,16 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 
 ## Teiginiai
 
+<a id="claim-t-86537"></a>
 - t-001
+  global_id: t-86537
   teiginys: 'Žygimantas Augustas prie Šv. Onos bažnyčios ketino funduoti kleboniją ir namus mansionieriams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86538"></a>
 - t-002
+  global_id: t-86538
   teiginys: 'Karalaitės buvo įpareigotos aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje ir du mansionierius.'
   pagrindžia:
     - c-001

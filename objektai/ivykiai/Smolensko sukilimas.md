@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66898"></a>
 - t-001
+  global_id: t-66898
   teiginys: 'Pirmučiausia nuo Vytauto atsimetė Smolenskas (jo vietininkas buvo užmuštas, ir grįžo senasis Smolensko kunigaikštis Jurgis).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66899"></a>
 - t-002
+  global_id: t-66899
   teiginys: 'Po Smolensko atsiėmimo tuo metu buvo išvengta karo su Maskva ir Pskovu, kuris taip pat rengėsi karui dėl Smolensko.'
   pagrindžia:
     - c-001

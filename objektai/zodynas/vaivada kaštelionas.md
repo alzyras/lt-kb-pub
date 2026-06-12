@@ -25,7 +25,9 @@ Lenkijos pavyz­ džiu sekant, unijos aktu įvestos vaivados ir kašteliono tarn
 
 ## Teiginiai
 
+<a id="claim-t-86623"></a>
 - t-001
+  global_id: t-86623
   teiginys: 'Po Horodlės unijos akto Lietuvoje pagal Lenkijos pavyzdį buvo įvestos vaivados ir kašteliono tarnybos, apibrėžus jų pareigas.'
   pagrindžia:
     - c-001

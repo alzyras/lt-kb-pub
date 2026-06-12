@@ -19,18 +19,24 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
 
 ## Teiginiai
 
+<a id="claim-t-03003"></a>
 - t-001
+  global_id: t-03003
   teiginys: 'Ordino laikais tik Mažoji Lietuva išvengė germanizacijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-03004"></a>
 - t-002
+  global_id: t-03004
   teiginys: 'Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje ir nespėjo suvokietinti visų lietuvių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-03005"></a>
 - t-003
-  teiginys: 'Naujas lietuviškasis sąjūdis, kuris truko iki pat mūsų laikų, ten prasidėjo tik XIX amž., kai su germanizacijos pastangomis jau ėmė kovoti pasauliniai lietuviai inteligentai.'
+  global_id: t-03005
+  teiginys: 'XIX a. Mažojoje Lietuvoje prasidėjo naujas lietuviškasis sąjūdis, kovojęs su germanizacijos pastangomis.'
   pagrindžia:
     - c-002
 
@@ -52,6 +58,7 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
     - t-001
 
 - c-002
+  santrauka: 'XIX a. Mažojoje Lietuvoje prasidėjo naujas lietuviškasis sąjūdis, kovojęs su germanizacijos pastangomis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Rašto leidimą, pirmą kartą paskelbė Duonelaičio

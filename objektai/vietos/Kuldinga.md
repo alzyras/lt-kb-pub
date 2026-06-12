@@ -16,12 +16,16 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
 
 ## Teiginiai
 
+<a id="claim-t-28379"></a>
 - t-001
+  global_id: t-28379
   teiginys: 'Kuldingos komtūras Bernhardas von Haren Skuodo laukuose pastojo kelią su grobiu grįžtantiems žemaičiams, bet buvo sumuštas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184390"></a>
 - t-002
+  global_id: t-184390
   teiginys: 'Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu grįžtantiems žemaičiams Skuodo laukuose pastojo kelią, šie persekiotojus sumušė.'
   pagrindžia:
     - c-002

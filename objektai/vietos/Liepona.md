@@ -17,7 +17,9 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
 
 ## Teiginiai
 
+<a id="claim-t-32306"></a>
 - t-001
+  global_id: t-32306
   teiginys: 'Sūduvos dykroje siena buvo nužymėta visu Lieponos paupiu iki Širvintos upės ir jos krantu iki įtekėjimo į Šešupę.'
   pagrindžia:
     - c-001

@@ -26,22 +26,30 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 
 ## Teiginiai
 
+<a id="claim-t-40166"></a>
 - t-001
+  global_id: t-40166
   teiginys: 'J. Variakojo vadovaujamas Panevėžio batalionas saugojo Klovainių-Rozalimo ruožą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-40167"></a>
 - t-002
+  global_id: t-40167
   teiginys: '1918 m. gruodžio 29 d. Panevėžio srities apsaugos viršininku paskirtas J. Variakojis organizavo savanorių būrį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-40168"></a>
 - t-003
+  global_id: t-40168
   teiginys: 'J. Variakojis pasiuntė pustrečios kuopos su dviem kulkosvaidžiais užimti miestą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40169"></a>
 - t-004
+  global_id: t-40169
   teiginys: 'Iki 1919 m. kovo pabaigos J. Variakojo vadovaujamas Panevėžio srities apsaugos būrys išaugo ir sustiprėjo.'
   pagrindžia:
     - c-001

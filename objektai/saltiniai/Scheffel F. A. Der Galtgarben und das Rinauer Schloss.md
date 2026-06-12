@@ -22,7 +22,9 @@ Dusburgietis teigia, kad scheffel F.
 
 ## Teiginiai
 
+<a id="claim-t-61285"></a>
 - t-001
+  global_id: t-61285
   teiginys: 'F. A. Scheffelio „Der Galtgarben und das Rinauer Schloss“ paskelbtas 1934 m. leidinyje „Mitteilungen des Vereins für die Geschichte von Ost- u. West-pr.“'
   pagrindžia:
     - c-001

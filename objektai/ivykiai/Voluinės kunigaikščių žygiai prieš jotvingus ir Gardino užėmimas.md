@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66982"></a>
 - t-001
+  global_id: t-66982
   teiginys: 'Tuo būdu XIII amž. pradžioje, kai Mindaugas pradėjo kurti Lietuvos valstybę, Voluinės kunigaikštijos siena ėjo aukščiau Gardino ir nyko kažkur miškuose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66983"></a>
 - t-002
+  global_id: t-66983
   teiginys: 'Voluinės kunigaikščiams geriau sekėsi kariauti su jotvingais, ir iki XIII amž. pradžios jie jau buvo paėmę net Gardiną.'
   pagrindžia:
     - c-002

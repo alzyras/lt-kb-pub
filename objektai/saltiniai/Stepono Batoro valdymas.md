@@ -27,7 +27,9 @@ Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­ kilmingai įvesdinta
 
 ## Teiginiai
 
+<a id="claim-t-88340"></a>
 - t-001
+  global_id: t-88340
   teiginys: '1581 m. Vilniuje iškilmingai įvesdintas Lietuvos Tribunolas išlaisvino karalių nuo varginančių pareigų.'
   pagrindžia:
     - c-001

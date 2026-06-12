@@ -31,12 +31,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87402"></a>
 - t-001
+  global_id: t-87402
   teiginys: '1586 m. Lietuvos Ponų Tarybos laiškas Kristupui Radvilai pranešė apie karaliaus Stepono Batoro mirtį ir galimą kariuomenės maištą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87403"></a>
 - t-002
+  global_id: t-87403
   teiginys: '1586 m. atviras Lietuvos Ponų Tarybos laiškas Kristupui Radvilai įpareigojo Vilniuje parinkti namus čiaušui Ibrahimui.'
   pagrindžia:
     - c-001

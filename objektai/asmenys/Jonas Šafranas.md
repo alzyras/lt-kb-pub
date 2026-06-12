@@ -17,7 +17,9 @@ Būdamas pilnas nemalonės naujiems karūnos politikos vai­ rininkams, kancleri
 
 ## Teiginiai
 
+<a id="claim-t-35160"></a>
 - t-001
+  global_id: t-35160
   teiginys: 'Kancleris Jonas Šafranas buvo vienas iš karūnos politikos vairininkų, dariusių kliūčių Vytauto siekimams.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Dusburgietis teigia, kad apie vieną stebuklą Šioje kariuomenėje buvo vienas 
 
 ## Teiginiai
 
+<a id="claim-t-60464"></a>
 - t-001
+  global_id: t-60464
   teiginys: 'Vengrų karvedžiui Vilhelmui naktį pasirodė Švenčiausioji Mergelė ir įspėjo jį pasitraukti iš siaubiamos žemės.'
   pagrindžia:
     - c-001

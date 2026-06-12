@@ -25,7 +25,9 @@ Ir kai Jogaila 1417 m. be jo ir jo didžiūnų ži­ nios bei valios vedė Elžb
 
 ## Teiginiai
 
+<a id="claim-t-35056"></a>
 - t-001
+  global_id: t-35056
   teiginys: 'Jogaila 1417 m. vedė Elžbietą Granauskaitę be Vytauto ir jo didžiūnų žinios bei valios.'
   pagrindžia:
     - c-001

@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Pisimantas
 
 ## Santrauka
 
-Kojelavičius teigia, kad pirmiausia jis ap žiūrėjo lietuvių karius, po to atsikvietė pagalbon iš šiaurinės Rusios brolių Liubarto ir Pisimanto pulkus. Kojelavičius teigia, kad šiame mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Pisimantas bei Liubartas, Treniotos broliai.
+Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių Liubarto ir Pisimanto pulkai. Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi.
 
 ## Teiginiai
 
+<a id="claim-t-186158"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pirmiausia jis ap žiūrėjo lietuvių karius, po to atsikvietė pagalbon iš šiaurinės Rusios brolių Liubarto ir Pisimanto pulkus.'
+  global_id: t-186158
+  teiginys: 'Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių Liubarto ir Pisimanto pulkai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186159"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad šiame mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Pisimantas bei Liubartas, Treniotos broliai.'
+  global_id: t-186159
+  teiginys: 'Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pirmiausia jis ap žiūrėjo lietuvių karius, po to atsikvietė pagalbon iš šiaurinės Rusios brolių Liubarto ir Pisimanto pulkus.'
+  santrauka: 'Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių Liubarto ir Pisimanto pulkai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl imanti šviesti
@@ -48,7 +51,7 @@ Kojelavičius teigia, kad pirmiausia jis ap žiūrėjo lietuvių karius, po to a
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad šiame mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Pisimantas bei Liubartas, Treniotos broliai.'
+  santrauka: 'Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mažai vis dėlto ką pe­
@@ -82,3 +85,12 @@ Kojelavičius teigia, kad pirmiausia jis ap žiūrėjo lietuvių karius, po to a
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Treniota]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/asmenys/Liubartas]]

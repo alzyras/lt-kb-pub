@@ -25,12 +25,16 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
 
 ## Teiginiai
 
+<a id="claim-t-36761"></a>
 - t-001
+  global_id: t-36761
   teiginys: 'Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Christmemelio salą ir ten sustojo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-36762"></a>
 - t-002
+  global_id: t-36762
   teiginys: 'Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. laivu nuvyko iki Christmemelio salos.'
   pagrindžia:
     - c-002

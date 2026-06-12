@@ -19,12 +19,16 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
 
 ## Teiginiai
 
+<a id="claim-t-86474"></a>
 - t-001
+  global_id: t-86474
   teiginys: '1582 m. Vilniuje klierikų seminarijos mokymas ir valdymas buvo patikėti Vilniaus Jėzaus draugijos kolegijai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86475"></a>
 - t-002
+  global_id: t-86475
   teiginys: 'Vilniaus seminarijai prašyta karaliaus Stepono globos ir gynybos, kad ji galėtų nuolat gyvuoti ir klestėti.'
   pagrindžia:
     - c-001

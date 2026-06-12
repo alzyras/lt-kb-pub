@@ -25,12 +25,16 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-63404"></a>
 - t-001
+  global_id: t-63404
   teiginys: 'Adolfas Ramanauskas-Vanagas 1956 m. buvo suimtas, žiauriai kankintas ir kitais metais sušaudytas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63405"></a>
 - t-002
+  global_id: t-63405
   teiginys: 'Puolimo sėkmę nulėmė išnaudotas netikėtumo faktorius, Vanagas vėliau įtarė, kad informacija apie rengiamą puolimą (dėl kai kurių žemesnės grandies vadų netinkamo paslapčių saugojimo) galėjo pasiekti priešą, tačiau sovietai atmetė partizanų puolimo galimybę.'
   pagrindžia:
     - c-001

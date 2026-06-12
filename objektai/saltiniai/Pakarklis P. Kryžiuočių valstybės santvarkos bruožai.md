@@ -23,7 +23,9 @@ Dusburgietis teigia, kad pakarklis P.
 
 ## Teiginiai
 
+<a id="claim-t-61211"></a>
 - t-001
+  global_id: t-61211
   teiginys: 'P. Pakarklio „Kryžiuočių valstybės santvarkos bruožai“ išleistas 1948 m.'
   pagrindžia:
     - c-001

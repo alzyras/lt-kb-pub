@@ -28,57 +28,79 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 
 ## Teiginiai
 
+<a id="claim-t-101665"></a>
 - t-001
+  global_id: t-101665
   teiginys: 'Pagal Juzefą Pilsudskį Vilnių turėjo užimti ne Lenkijos kariuomenė, o Liucjano Želigovskio daliniai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-101666"></a>
 - t-002
+  global_id: t-101666
   teiginys: 'Juzefas Pilsudskis rėmė buvusios dvilypės Lenkijos ir Lietuvos valstybės atkūrimą, įsivaizduodamas ją kaip federaciją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-101667"></a>
 - t-003
+  global_id: t-101667
   teiginys: 'Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-101669"></a>
 - t-004
+  global_id: t-101669
   teiginys: 'Pilsudskio šalininkai buvo ryžtingos kovos pirmiausia prieš Rusiją šalininkai, nevengę ir teroristinių veiksmų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-101670"></a>
 - t-005
+  global_id: t-101670
   teiginys: 'Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl 1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą laiką išnaudojo Lietuvą, politinė unija XVI a.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101671"></a>
 - t-006
+  global_id: t-101671
   teiginys: 'Pilsudskis motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-101672"></a>
 - t-007
+  global_id: t-101672
   teiginys: 'Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija“).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-101673"></a>
 - t-008
+  global_id: t-101673
   teiginys: '1927 m. gruodžio 10 d. Ženevoje Juzefas Pilsudskis Augustinui Voldemarui uždavė klausimą „Karas ar taika?“.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-101674"></a>
 - t-009
+  global_id: t-101674
   teiginys: 'Juzefas Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-101675"></a>
 - t-010
+  global_id: t-101675
   teiginys: 'Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-101676"></a>
 - t-011
+  global_id: t-101676
   teiginys: 'Juzefas Pilsudskis Ženevoje A. Voldemarui uždavė klausimą „Karas ar taika?“.'
   pagrindžia:
     - c-009

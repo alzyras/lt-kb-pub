@@ -18,7 +18,9 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 
 ## Teiginiai
 
+<a id="claim-t-02939"></a>
 - t-001
+  global_id: t-02939
   teiginys: 'Žemaičių vyskupystė 1849 m. buvo padidinta, prie jos prijungus 93 Vilniaus vyskupystės parapijas.'
   pagrindžia:
     - c-001

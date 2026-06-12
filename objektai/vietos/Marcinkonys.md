@@ -16,12 +16,16 @@ Rugsėjo 24 d. lenkai užima Marcinkonis ir atkerta atsitraukimo kelią į šiau
 
 ## Teiginiai
 
+<a id="claim-t-41896"></a>
 - t-001
+  global_id: t-41896
   teiginys: 'Rugsėjo 24 d. lenkai užėmė Marcinkonis ir atkirtо atsitraukimo kelią į šiaurę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41897"></a>
 - t-002
+  global_id: t-41897
   teiginys: 'Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose ir žygiavo Marcinkonių link.'
   pagrindžia:
     - c-001

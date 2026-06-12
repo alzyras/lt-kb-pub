@@ -18,7 +18,9 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
 
 ## Teiginiai
 
+<a id="claim-t-36124"></a>
 - t-001
+  global_id: t-36124
   teiginys: 'Zigmanto pakviesti Vienos universiteto profesoriai pareiškė nuomonę apie Romos karaliaus teisę karūnuoti kitus.'
   pagrindžia:
     - c-001

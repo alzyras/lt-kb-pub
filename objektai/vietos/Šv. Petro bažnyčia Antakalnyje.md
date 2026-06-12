@@ -16,12 +16,16 @@ Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Stri
 
 ## Teiginiai
 
+<a id="claim-t-86130"></a>
 - t-001
+  global_id: t-86130
   teiginys: 'Pagal padavimus Goštautas pastatydino Šv. Petro bažnyčią Antakalnyje pagonių šventyklos vietoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86131"></a>
 - t-002
+  global_id: t-86131
   teiginys: 'Šv. Petro bažnyčia Antakalnyje tikriausiai pastatyta Vladislovo Jogailos laikais pagonių šventovės vietoje.'
   pagrindžia:
     - c-001

@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-41271"></a>
 - t-001
+  global_id: t-41271
   teiginys: 'Lenkų pajėgos prie Giedraičių patyrė didelių nuostolių, tačiau ir lietuvių nuostoliai buvo nemenki, žuvo 15 karių ir keli karininkai, apie 60 buvo sužeista, apie 70 dingo be žinios.'
   pagrindžia:
     - c-001

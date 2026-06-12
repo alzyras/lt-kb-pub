@@ -19,7 +19,9 @@ Nuo XIII amž. pabaigos ordino kronikininkai jau laikė Nevėžį Žemaičių ir
 
 ## Teiginiai
 
+<a id="claim-t-32741"></a>
 - t-001
+  global_id: t-32741
   teiginys: 'Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos.'
   pagrindžia:
     - c-001

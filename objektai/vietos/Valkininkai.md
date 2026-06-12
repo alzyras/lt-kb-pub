@@ -26,12 +26,16 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
 
 ## Teiginiai
 
+<a id="claim-t-181533"></a>
 - t-001
+  global_id: t-181533
   teiginys: '1700 m. lapkričio 19-24 d. Valkininkuose vyko respublikonų bajorijos suvažiavimas, priėmęs Valkininkų nutarimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-181535"></a>
 - t-002
+  global_id: t-181535
   teiginys: 'Mūšio padariniai Nugalėtojai su belaisviais ir visais trofėjais - 8 patrankom ir apie šimtu gurguolės vežimų vakare grįžo į Valkininkus.'
   pagrindžia:
     - c-002

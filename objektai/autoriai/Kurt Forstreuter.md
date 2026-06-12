@@ -16,7 +16,9 @@ Forstreuter ir kt.) tuos laiškus tarė esant rygiečių falsifikatais, arba ben
 
 ## Teiginiai
 
+<a id="claim-t-100101"></a>
 - t-001
+  global_id: t-100101
   teiginys: 'Forstreuter ir kt.) tuos laiškus tarė esant rygiečių falsifikatais, arba bent stipriai įtartinais.'
   pagrindžia:
     - c-001

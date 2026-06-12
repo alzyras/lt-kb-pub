@@ -41,17 +41,23 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
 
 ## Teiginiai
 
+<a id="claim-t-55711"></a>
 - t-001
+  global_id: t-55711
   teiginys: 'Po nesėkmingo Sizditės pilies puolimo Henriko kariuomenė patraukė į pilies apylinkes ir dar kartą jas nusiaubė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55712"></a>
 - t-002
+  global_id: t-55712
   teiginys: '1314 m. apie vasario 2 d. Henrikas dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55713"></a>
 - t-003
+  global_id: t-55713
   teiginys: '1314 m. sausio pradžioje keli lietuviai naktį įsibrovė į Henriko stovyklą ir nužudė keturis vyrus.'
   pagrindžia:
     - c-002

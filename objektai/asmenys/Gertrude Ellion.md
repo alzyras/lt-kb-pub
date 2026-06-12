@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-18916"></a>
 - t-001
+  global_id: t-18916
   teiginys: 'Gertrude Ellion 1988 m. gavo medicinos ir fiziologijos srities Nobelio premiją, o jos tėvas vaikystėje emigravo iš Lietuvos į JAV.'
   pagrindžia:
     - c-001

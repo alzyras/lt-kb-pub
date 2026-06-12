@@ -29,18 +29,24 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
 
 ## Teiginiai
 
+<a id="claim-t-114097"></a>
 - t-001
+  global_id: t-114097
   teiginys: 'Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-114098"></a>
 - t-002
+  global_id: t-114098
   teiginys: '1422 m. Vytautas išsiuntė savo sūnėną Žygimantą Kaributaitį į Prahą kaip čekų pageidaujamą valdovą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184914"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad kol dar žinia apie šį susitarimą nebuvo pasie kusi Lietuvos, kunigaikštis Žygimantas Kaributaitis, staiga įsiveržęs į Prūsiją, užėmė tris miestus su tvirto vėmis ir nuniokojo aplinkines žemes.'
+  global_id: t-184914
+  teiginys: 'Žygimantas Kaributaitis, nežinodamas apie paliaubas, įsiveržė į Prūsiją, užėmė tris miestus su tvirtovėmis ir nuniokojo apylinkes.'
   pagrindžia:
     - c-004
 
@@ -112,7 +118,7 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad kol dar žinia apie šį susitarimą nebuvo pasie kusi Lietuvos, kunigaikštis Žygimantas Kaributaitis, staiga įsiveržęs į Prūsiją, užėmė tris miestus su tvirto vėmis ir nuniokojo aplinkines žemes.'
+  santrauka: 'Žygimantas Kaributaitis, nežinodamas apie paliaubas, įsiveržė į Prūsiją, užėmė tris miestus su tvirtovėmis ir nuniokojo apylinkes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi karalius
@@ -135,3 +141,17 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/daiktai/Dryžuotos gūnios ir dovanos ant kupranugarių]]

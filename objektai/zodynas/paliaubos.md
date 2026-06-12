@@ -29,43 +29,59 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 
 ## Teiginiai
 
+<a id="claim-t-70263"></a>
 - t-001
+  global_id: t-70263
   teiginys: 'Jau derybų metu lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link, tarytum ten būtų buvę rusų bolševikų.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-70264"></a>
 - t-002
+  global_id: t-70264
   teiginys: '1409 m. Ordino kariuomenė buvo išvyta iš Lenkijos, o netrukus sudarytos vienerių metų paliaubos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-70265"></a>
 - t-003
+  global_id: t-70265
   teiginys: 'Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliaubas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70266"></a>
 - t-004
+  global_id: t-70266
   teiginys: 'Tačiau paliaubų pasiūlymo Sovietų Rusija nepriėmė, ir karas tęsėsi lenkų nenaudai.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-70267"></a>
 - t-005
+  global_id: t-70267
   teiginys: 'Jogaila ir Vytautas pratęsė paliaubas su Ordinu iki 1410 m. birželio 24 d. ir ėmė ruoštis dideliam žygiui.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-70268"></a>
 - t-006
+  global_id: t-70268
   teiginys: 'Spalio 6 d. prasideda paliaubos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70269"></a>
 - t-007
+  global_id: t-70269
   teiginys: 'Vytautas sudarė paliaubų sutartį su Livonijos ordino šaka, ir ji nedalyvavo Tanenbergo mūšyje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184632"></a>
 - t-009
-  teiginys: 'Kojelavičius teigia, kad v asiliju i Z aborovskiui, k u ris k araliau s v a rd u n u sisk u n d ė dėl d arom ų skriaudų, Iv an as atsakė, k ad U sviatai bei Ū la jo rankose, k ad čia staty ti pilis jam v isai n ed rau d žia paliaubos, o V oronečą k araliau s žm onės p astatė p aliau.'
+  global_id: t-184632
+  teiginys: 'Ivanas atsakė Vasilijui Zaborovskiui, kad paliaubos nedraudžia jam statyti pilių prie Usviatų ir Ūlos.'
   pagrindžia:
     - c-009
 
@@ -185,7 +201,7 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     - t-008
 
 - c-009
-  santrauka: 'Kojelavičius teigia, kad v asiliju i Z aborovskiui, k u ris k araliau s v a rd u n u sisk u n d ė dėl d arom ų skriaudų, Iv an as atsakė, k ad U sviatai bei Ū la jo rankose, k ad čia staty ti pilis jam v isai n ed rau d žia paliaubos, o V oronečą k araliau s žm onės p astatė p aliau.'
+  santrauka: 'Ivanas atsakė Vasilijui Zaborovskiui, kad paliaubos nedraudžia jam statyti pilių prie Usviatų ir Ūlos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     P rie U sviatų ir
@@ -204,3 +220,44 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
   statusas: verified
   pagrindžia:
     - t-009
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/paliaubos]]
+
+### Susiję objektai
+- [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Vaclovas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/zodynas/telefonograma]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Andriejus (Vilniaus vyskupas)]]
+- [[objektai/asmenys/Andrius Algirdaitis]]
+- [[objektai/zodynas/Arkikomtūras]]
+- [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]
+- [[objektai/ivykiai/Jogailos paliaubos su Livonijos magistru Rygoje (1380 m. kovo 26 d.)]]
+- [[objektai/ivykiai/Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.)]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
+- [[objektai/zodynas/Paliaubos induciae]]
+- [[objektai/ivykiai/Rygos pirklių prekybos teisė Lietuvoje (1253 m.)]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/ivykiai/Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.)]]
+- [[objektai/ivykiai/Trakų paliaubos (1379 m. rugsėjo 29 d.)]]
+- [[objektai/ivykiai/Veliuonos susitikimas dėl taikos ir karo su kryžiuočiais atsinaujinimas (1418 m.)]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Ivanas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/1379 m. Trakų 10 metų paliaubos su ordinu]]
+- [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
+- [[objektai/ivykiai/1582 m. sausio 15 d. 10 metų karo paliaubos su Maskva]]
+- [[objektai/asmenys/Vaclovas Pragiečius]]
+- [[objektai/ivykiai/Maskvėnų paliaubų pažeidimai prie Usviatų ir Stanislovo Paco atsakomasis žygis]]
+- [[objektai/ivykiai/Želigovskio smurtas (1920 m. spalio 8–9 d.)]]

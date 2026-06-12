@@ -16,7 +16,9 @@ Radavičius, A.
 
 ## Teiginiai
 
+<a id="claim-t-40163"></a>
 - t-001
+  global_id: t-40163
   teiginys: 'J. Radavičius buvo paskirtas vienu iš batalionų vadų.'
   pagrindžia:
     - c-001

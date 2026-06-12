@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-25321"></a>
 - t-001
+  global_id: t-25321
   teiginys: '„Čiurlionis Vilniuje“ 2010 m. išleistas Vilniuje, o leidinį sudarė S. Urbonas.'
   pagrindžia:
     - c-001

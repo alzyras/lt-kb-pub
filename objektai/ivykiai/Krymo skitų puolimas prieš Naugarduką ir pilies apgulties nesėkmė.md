@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė (pilis)
 
 ## Santrauka
 
-Kojelavičius teigia, kad palikę Slucką, barbarai patraukė į Naugarduką. Kojelavičius teigia, kad priešas, įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai teliams vytis bėgančiuosius, o su kitais apgulė pilį.
+Palikę Slucką, Krymo skitai patraukė į Naugarduką, kur tuo metu didikai tarėsi dėl santykių su karaliumi. Krymo skitai įžengė į tuščią Naugarduką, pasiuntė lengvai ginkluotus raitelius vytis bėgančiųjų ir su kitais kariais apgulė pilį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185722"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad palikę Slucką, barbarai patraukė į Naugarduką.'
+  global_id: t-185722
+  teiginys: 'Palikę Slucką, Krymo skitai patraukė į Naugarduką, kur tuo metu didikai tarėsi dėl santykių su karaliumi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185723"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad priešas, įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai teliams vytis bėgančiuosius, o su kitais apgulė pilį.'
+  global_id: t-185723
+  teiginys: 'Krymo skitai įžengė į tuščią Naugarduką, pasiuntė lengvai ginkluotus raitelius vytis bėgančiųjų ir su kitais kariais apgulė pilį.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad palikę Slucką, barbarai patraukė į Naugarduką.'
+  santrauka: 'Palikę Slucką, Krymo skitai patraukė į Naugarduką, kur tuo metu didikai tarėsi dėl santykių su karaliumi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Palikę
@@ -59,7 +62,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad priešas, įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai teliams vytis bėgančiuosius, o su kitais apgulė pilį.'
+  santrauka: 'Krymo skitai įžengė į tuščią Naugarduką, pasiuntė lengvai ginkluotus raitelius vytis bėgančiųjų ir su kitais kariais apgulė pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Priešas,
@@ -78,3 +81,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/daiktai/Vytis]]
+- [[objektai/zodynas/barbarai]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/vaivada]]

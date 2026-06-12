@@ -16,7 +16,9 @@ APŠAUDYMAS ŠRAPNELE Viršila Antanas Šukys pasakoja apie lenkų | artilerijos
 
 ## Teiginiai
 
+<a id="claim-t-41503"></a>
 - t-001
+  global_id: t-41503
   teiginys: 'Antanas Šukys pasakojo, kaip jo vadovaujama kuopa kontratakavo lenkų pajėgas ruože tarp Seinų ir Gibų.'
   pagrindžia:
     - c-001

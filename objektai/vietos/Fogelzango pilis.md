@@ -17,17 +17,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-72890"></a>
 - t-001
+  global_id: t-72890
   teiginys: '1230 m. pirmieji ordino atstovai Prūsų pasienyje pasistatė Fogelzango pilį.'
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Čia jie gavo iš Konrado žemių su Niešavos pilaite, o patys pasistatė Fogelzango pilį.'
-  pagrindžia:
-    - c-001
-
+<a id="claim-t-72892"></a>
 - t-003
+  global_id: t-72892
   teiginys: 'Pirmieji ordino atstovai Prūsų pasienyje gavo Konrado žemių su Niešavos pilaite ir pasistatė Fogelzango pilį.'
   pagrindžia:
     - c-001

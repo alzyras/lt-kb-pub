@@ -16,7 +16,9 @@ Balzeris.
 
 ## Teiginiai
 
+<a id="claim-t-30875"></a>
 - t-001
+  global_id: t-30875
   teiginys: 'O. Balzeris buvo teisės istorikas ir svarbių šaltinių, tarp jų „Corpus iuris polonici“, leidėjas.'
   pagrindžia:
     - c-001

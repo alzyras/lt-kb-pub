@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai Prūsijos pasieniuose dėjosi šitokie dalykai, Vyte nis, gal paskatinus, o gal tik pritarus pačiam Mazovi jos kunigaikščiui Boleslovui, šiam pavaldžiomis žemė mis, nedarydamas čia jokių V y te n is n io k o ja K ueibių, nuvedė kariuomenę į ja v iją Lenkiją.
+Vytenis per Mazovijos kunigaikščiui Boleslovui pavaldžias žemes nuvedė kariuomenę į Lenkiją, nuniokojo Kujaviją ir išsigabeno gausų grobį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185837"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai Prūsijos pasieniuose dėjosi šitokie dalykai, Vyte nis, gal paskatinus, o gal tik pritarus pačiam Mazovi jos kunigaikščiui Boleslovui, šiam pavaldžiomis žemė mis, nedarydamas čia jokių V y te n is n io k o ja K ueibių, nuvedė kariuomenę į ja v iją Lenkiją.'
+  global_id: t-185837
+  teiginys: 'Vytenis per Mazovijos kunigaikščiui Boleslovui pavaldžias žemes nuvedė kariuomenę į Lenkiją, nuniokojo Kujaviją ir išsigabeno gausų grobį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai Prūsijos pasieniuose dėjosi šitokie dalykai, Vyte nis, gal paskatinus, o gal tik pritarus pačiam Mazovi jos kunigaikščiui Boleslovui, šiam pavaldžiomis žemė mis, nedarydamas čia jokių V y te n is n io k o ja K ueibių, nuvedė kariuomenę į ja v iją Lenkiją.'
+  santrauka: 'Vytenis per Mazovijos kunigaikščiui Boleslovui pavaldžias žemes nuvedė kariuomenę į Lenkiją, nuniokojo Kujaviją ir išsigabeno gausų grobį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vė­
@@ -69,3 +70,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Vytenis]]

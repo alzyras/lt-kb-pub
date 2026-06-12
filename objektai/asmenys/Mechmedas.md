@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Mechmedas
 
 ## Santrauka
 
-Kojelavičius teigia, kad reikėjo skubėti, kol Mechmedas, turkų valdovas, neužkariavo kaimyninių kraštų ir neperkėlė karo į Europos gilumą: pasak Liudviko, jis iš paskutiniųjų rengėsi kariauti prieš krikščionių pasaulį.
+Pasak Liudviko, turkų valdovas Mechmedas rengėsi kariauti prieš krikščionių pasaulį.
 
 ## Teiginiai
 
+<a id="claim-t-186147"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad reikėjo skubėti, kol Mechmedas, turkų valdovas, neužkariavo kaimyninių kraštų ir neperkėlė karo į Europos gilumą: pasak Liudviko, jis iš paskutiniųjų rengėsi kariauti prieš krikščionių pasaulį.'
+  global_id: t-186147
+  teiginys: 'Pasak Liudviko, turkų valdovas Mechmedas rengėsi kariauti prieš krikščionių pasaulį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad reikėjo skubėti, kol Mechmedas, turkų valdovas, neužkariavo kaimyninių kraštų ir neperkėlė karo į Europos gilumą: pasak Liudviko, jis iš paskutiniųjų rengėsi kariauti prieš krikščionių pasaulį.'
+  santrauka: 'Pasak Liudviko, turkų valdovas Mechmedas rengėsi kariauti prieš krikščionių pasaulį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Rytų imperijos gyventojai,

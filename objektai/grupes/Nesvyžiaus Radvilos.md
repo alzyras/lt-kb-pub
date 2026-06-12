@@ -16,7 +16,9 @@ Po Jonušo Radvilos mirties Kėdainiai nebeturėjo pono.
 
 ## Teiginiai
 
+<a id="claim-t-01426"></a>
 - t-001
+  global_id: t-01426
   teiginys: 'Po Boguslovo Radvilos mirties 1669 m. protestantų Radvilų dvarai galiausiai atiteko katalikams Nesvyžiaus Radviloms.'
   pagrindžia:
     - c-001

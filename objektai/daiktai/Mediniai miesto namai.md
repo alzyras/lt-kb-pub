@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87084"></a>
 - t-001
+  global_id: t-87084
   teiginys: 'Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė gaisrą, per kurį sudegė didelė miesto dalis.'
   pagrindžia:
     - c-001

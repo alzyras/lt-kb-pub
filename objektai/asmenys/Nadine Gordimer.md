@@ -26,12 +26,16 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-101698"></a>
 - t-001
+  global_id: t-101698
   teiginys: 'Nadine Gordimer buvo Pietų Afrikos Respublikos romanistė ir 1991 m. Nobelio literatūros premijos laureatė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101699"></a>
 - t-002
+  global_id: t-101699
   teiginys: 'Nadine Gordimer buvo Pietų Afrikos Respublikos romanistė, kurios tėvas buvo kilęs iš Lietuvos.'
   pagrindžia:
     - c-001

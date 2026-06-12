@@ -24,7 +24,9 @@ Dusburgietis teigia, kad kai kurie Dusburgiečio kronikos fragmentai buvo verči
 
 ## Teiginiai
 
+<a id="claim-t-61136"></a>
 - t-001
+  global_id: t-61136
   teiginys: 'Dusburgietis teigia, kad kai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalbą.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Dusburgietis teigia, kad olivos kronikoje — Kirsburg (SRP, 5, p. 600), Kirsber
 
 ## Teiginiai
 
+<a id="claim-t-61262"></a>
 - t-001
+  global_id: t-61262
   teiginys: 'Prūsijos trumpojoje eiliuotojoje kronikoje Kristburgo vardas pateiktas forma „Kirsburg“.'
   pagrindžia:
     - c-001

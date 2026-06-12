@@ -17,7 +17,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
 
 ## Teiginiai
 
+<a id="claim-t-88324"></a>
 - t-001
+  global_id: t-88324
   teiginys: 'Petro Olai Danų kronikoje pasakojama, kad apie 880 m. Danijoje dėl nederliaus įsakyta ištremti kas trečią žmogų.'
   pagrindžia:
     - c-001

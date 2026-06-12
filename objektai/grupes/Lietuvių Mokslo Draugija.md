@@ -25,31 +25,41 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
 
 ## Teiginiai
 
+<a id="claim-t-74628"></a>
 - t-001
+  global_id: t-74628
   teiginys: 'Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija, plėtojusi etninių lietuvių tautinį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-74629"></a>
 - t-002
-  teiginys: 'Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas.'
+  global_id: t-74629
+  teiginys: '1907 m. Vilniuje įkurta Lietuvių Mokslo Draugija siekė tirti lietuvių tautą, jos kultūrą ir kelti lietuviškąjį mokslą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-74630"></a>
 - t-003
+  global_id: t-74630
   teiginys: 'Abi draugijos daug dėmesio skyrė praeičiai, LDK paveldui, bet Lietuvių draugija ypač orientavosi į lietuvių kalbos ir etninės kultūros tyrimus, mokyklinių vadovėlių lietuvių mokykloms rengimą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-74631"></a>
 - t-004
+  global_id: t-74631
   teiginys: 'Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizacijos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-74632"></a>
 - t-005
+  global_id: t-74632
   teiginys: '1915–1922 m. Lietuvių Mokslo Draugija leido vadovėlius tik ką įsikūrusioms lietuviškoms mokykloms.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -89,6 +99,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     - t-005
 
 - c-003
+  santrauka: '1907 m. Vilniuje įkurta Lietuvių Mokslo Draugija siekė tirti lietuvių tautą, jos kultūrą ir kelti lietuviškąjį mokslą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po 1905 m. revoliucijos palengvėjo

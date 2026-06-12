@@ -17,7 +17,9 @@ Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markv
 
 ## Teiginiai
 
+<a id="claim-t-60383"></a>
 - t-001
+  global_id: t-60383
   teiginys: 'Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė viename lauke ir 25 iš jų nukovė.'
   pagrindžia:
     - c-001

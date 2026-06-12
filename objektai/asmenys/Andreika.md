@@ -16,7 +16,9 @@ Jogailos pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes i�
 
 ## Teiginiai
 
+<a id="claim-t-35023"></a>
 - t-001
+  global_id: t-35023
   teiginys: 'Jogailos pasiuntinys Andreika atvykęs pas Vytautą prašė nukelti iškilmes į kitą dieną.'
   pagrindžia:
     - c-001

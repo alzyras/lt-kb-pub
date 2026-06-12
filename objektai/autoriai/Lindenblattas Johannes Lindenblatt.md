@@ -29,32 +29,44 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
 
 ## Teiginiai
 
+<a id="claim-t-87975"></a>
 - t-001
+  global_id: t-87975
   teiginys: 'Vilno ipso die Sanctae Priscae Virginis 67 et martyris anno D-ni 1401 [Lietuvos Lindenblatt Jahrbücher, p. 147.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87976"></a>
 - t-002
+  global_id: t-87976
   teiginys: 'Lindenblattas išsaugojo smulkias Vilniaus apgulties aplinkybes, nežinomas lietuvių metraštininkams.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-87977"></a>
 - t-003
+  global_id: t-87977
   teiginys: 'Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87978"></a>
 - t-004
+  global_id: t-87978
   teiginys: '45 Lindenblatto kronikos leidėjai Visevaldės pilį vadina Vižemais.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-87979"></a>
 - t-005
+  global_id: t-87979
   teiginys: 'Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87980"></a>
 - t-006
+  global_id: t-87980
   teiginys: 'Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Nerye ir Neria.'
   pagrindžia:
     - c-004

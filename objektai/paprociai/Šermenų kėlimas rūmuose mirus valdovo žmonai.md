@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Šermenų kėlimas rūmuose mirus valdovo žmonai
 
 ## Santrauka
 
-Kojelavičius teigia, kad tuo laiku mirė Mindaugui žmona; šeimy nos moterų sutvarkyti ir mirusiai šermenų iškelti į rū mus atvyko pakviesta Daumanto, Nalšios kunigaikš čio, žmona, karalienės sesuo.
+Mirus Mindaugo žmonai, į rūmus buvo pakviesta Daumanto žmona sutvarkyti šeimynos moterų ir iškelti mirusiajai šermenis.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185927"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tuo laiku mirė Mindaugui žmona; šeimy nos moterų sutvarkyti ir mirusiai šermenų iškelti į rū mus atvyko pakviesta Daumanto, Nalšios kunigaikš čio, žmona, karalienės sesuo.'
+  global_id: t-185927
+  teiginys: 'Mirus Mindaugo žmonai, į rūmus buvo pakviesta Daumanto žmona sutvarkyti šeimynos moterų ir iškelti mirusiajai šermenis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tuo laiku mirė Mindaugui žmona; šeimy nos moterų sutvarkyti ir mirusiai šermenų iškelti į rū mus atvyko pakviesta Daumanto, Nalšios kunigaikš čio, žmona, karalienės sesuo.'
+  santrauka: 'Mirus Mindaugo žmonai, į rūmus buvo pakviesta Daumanto žmona sutvarkyti šeimynos moterų ir iškelti mirusiajai šermenis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vargu ar prislėgti
@@ -60,3 +61,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- [[objektai/zodynas/stabmeldžiai]]
+- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]

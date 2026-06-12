@@ -25,7 +25,9 @@ Semkowicz, W.
 
 ## Teiginiai
 
+<a id="claim-t-30979"></a>
 - t-001
+  global_id: t-30979
   teiginys: 'W. Semkowiczius parašė darbą „Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi“, paskelbtą 1930 m.'
   pagrindžia:
     - c-001

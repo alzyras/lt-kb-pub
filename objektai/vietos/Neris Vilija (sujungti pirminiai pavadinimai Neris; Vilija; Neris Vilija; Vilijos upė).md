@@ -32,117 +32,163 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
 
 ## Teiginiai
 
+<a id="claim-t-85740"></a>
 - t-001
+  global_id: t-85740
   teiginys: 'Gedimino pastatydinta mūro tvirtovė stovėjo ant kalno ties vieta, kur Vilnelė įteka į Viliją.'
   pagrindžia:
     - c-022
 
+<a id="claim-t-85741"></a>
 - t-002
+  global_id: t-85741
   teiginys: '1547 m. privilegijoje fabrikui skirtas sklypas apibūdintas kaip esantis už Vilijos upės prie Vilniaus miesto.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-85742"></a>
 - t-003
+  global_id: t-85742
   teiginys: '1492 m. Aleksandras garantavo Vilniaus miestiečiams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-85743"></a>
 - t-004
+  global_id: t-85743
   teiginys: '1536 m. Žygimantas Senasis suteikė Ulrikui Hozijui teisę pastatyti tiltą per Viliją vietoj nepatogios perkėlos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-85744"></a>
 - t-005
+  global_id: t-85744
   teiginys: 'Kryžiuočių archyve esančiame sename Lietuvos kelių aprašyme minima Nerige yra dabartinė Vilija.'
   pagrindžia:
     - c-023
 
+<a id="claim-t-85745"></a>
 - t-006
+  global_id: t-85745
   teiginys: 'Perkėlimai plaustais per Viliją buvo uždrausti tarp Verkių kaimo ir Vilniaus kapitulai priklausiusio Panerių kaimo.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-85746"></a>
 - t-007
+  global_id: t-85746
   teiginys: 'Vilija galėjo būti vadinama Nerimi arba Neria dėl gilios vagos ir aukštų smėlingų pakrančių.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-85747"></a>
 - t-008
+  global_id: t-85747
   teiginys: 'Nuo 1556 m. Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos tapo reformos šalininkų prieglobsčiu ir mokykla.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-85748"></a>
 - t-009
+  global_id: t-85748
   teiginys: '1390 m. Vladislovo Jogailos privilegijoje, kuria Vilniaus kapitulai dovanoti Paneriai, Vilija pavadinta Vigilia.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-85749"></a>
 - t-010
+  global_id: t-85749
   teiginys: 'Žemiau Vilniaus Vilijos pakrantėse gyvenę lietuviai kaimiečiai šią upę vadino Nerimi.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-85750"></a>
 - t-011
+  global_id: t-85750
   teiginys: 'Kitoje Vilijos pusėje, prie Visevaldės pilies netoli senojo Kauno, buvo įrengta Skirgailos stovykla.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-85751"></a>
 - t-012
+  global_id: t-85751
   teiginys: 'Pasakojime apie Vilniaus įkūrimą Gediminas atvyko į Šventaragio slėnį, kur Vilnios upė įteka į Viliją.'
   pagrindžia:
     - c-020
 
+<a id="claim-t-85752"></a>
 - t-013
+  global_id: t-85752
   teiginys: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-85753"></a>
 - t-014
+  global_id: t-85753
   teiginys: 'Prie Vilniaus buvusi perkėla per Viliją kėlė LDK valdiniams ir kitiems žmonėms sunkumų, išlaidų ir nepatogumų.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-85754"></a>
 - t-015
+  global_id: t-85754
   teiginys: '25 Latopisiec Litewski, leidžiamas p. D an i 1 o v i č i a u s, 1.45 pasakoja, kad tas mūšis vykęs prie Vilijos upės: ties Horodoku, vietovėje, vadinamoje Weyiszczuszki.'
   pagrindžia:
     - c-021
 
+<a id="claim-t-85755"></a>
 - t-016
+  global_id: t-85755
   teiginys: 'Totorių vartų pavadinimas siejamas su vieta, kur slėnyje į Viliją įtekėjo Vingrių šaltinis.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-85756"></a>
 - t-017
+  global_id: t-85756
   teiginys: '5 Žodį Vilija, jeigu jo kilmės imtume ieškoti lietuvių kalboje, galima tarti kilus nuo Wiloju [vilioju] - gundau, arba nuo Wilius [vylius] - klasta, tad tokiu atveju Vilija reikštų Vilioklė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85757"></a>
 - t-018
+  global_id: t-85757
   teiginys: 'Visiškai baigėsi parakas, o artėjanti žiema grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti atgal į Prūsiją.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-85758"></a>
 - t-019
+  global_id: t-85758
   teiginys: 'Vilnius buvo įsikūręs dviejų upių, Vilijos arba Neries ir Vilnios, santakoje.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-85759"></a>
 - t-020
+  global_id: t-85759
   teiginys: 'Vilniaus pirklių vytinėms buvo leista laisvai plaukioti Vilijos upe.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85760"></a>
 - t-021
+  global_id: t-85760
   teiginys: 'Dabartinio Antakalnio užuomazgos buvo trobos, išsidėsčiusios palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-85761"></a>
 - t-022
+  global_id: t-85761
   teiginys: 'Iš Žemutinės pilies vakarinių vartų kelias ėjo per Vilnią ir Vingrių upokšnį link kelto per Viliją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85762"></a>
 - t-023
+  global_id: t-85762
   teiginys: 'Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
   pagrindžia:
     - c-008

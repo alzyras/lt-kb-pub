@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77926"></a>
 - t-001
+  global_id: t-77926
   teiginys: 'Nors valdžia ir žandarai knygnešius gaudė ir baudė dar Knygnešys.'
   pagrindžia:
     - c-001

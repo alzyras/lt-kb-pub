@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Andrius Mackevičius
 
 ## Santrauka
 
-Kojelavičius teigia, kad pasiuntinybę sudarė maršalas Motiejus Kločka, žirgininkas Vasilijus Bogdanovičius Čižas ir slap tosios karaliaus tarybos narys Andrius Mackevičius.
+Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.
 
 ## Teiginiai
 
+<a id="claim-t-186094"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pasiuntinybę sudarė maršalas Motiejus Kločka, žirgininkas Vasilijus Bogdanovičius Čižas ir slap tosios karaliaus tarybos narys Andrius Mackevičius.'
+  global_id: t-186094
+  teiginys: 'Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pasiuntinybę sudarė maršalas Motiejus Kločka, žirgininkas Vasilijus Bogdanovičius Čižas ir slap tosios karaliaus tarybos narys Andrius Mackevičius.'
+  santrauka: 'Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Esą valachams visi keliai at­
@@ -50,3 +51,13 @@ Kojelavičius teigia, kad pasiuntinybę sudarė maršalas Motiejus Kločka, žir
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Motiejus]]
+- [[objektai/grupes/Valachai]]
+- [[objektai/asmenys/Vasilijus]]
+- [[objektai/zodynas/legatai]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/žirgininkas]]
+- [[objektai/asmenys/Motiejus Kločka]]

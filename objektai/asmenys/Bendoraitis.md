@@ -16,7 +16,9 @@ Bendoraitis apsisuko kelis kartus ore ir nukrito.
 
 ## Teiginiai
 
+<a id="claim-t-40067"></a>
 - t-001
+  global_id: t-40067
   teiginys: 'Po sviedinio sprogimo skyrininkas Bendoraitis buvo išmestas aukščiau telefono stulpų ir nukrito.'
   pagrindžia:
     - c-001

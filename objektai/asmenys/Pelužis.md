@@ -20,7 +20,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Pelužis
 
 ## Santrauka
@@ -29,28 +28,38 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 
 ## Teiginiai
 
+<a id="claim-t-90002"></a>
 - t-001
+  global_id: t-90002
   teiginys: 'Pelužis su Karaliaučiaus komtūro paskirtais vyrais užpuolė savo viešpaties sodybą ir nužudė 70 kunigaikščių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90003"></a>
 - t-002
+  global_id: t-90003
   teiginys: 'Dusburgietis teigia, kad iII, 235), sukilimą prūsai galėjo rengti 1289 m. Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-90004"></a>
 - t-003
+  global_id: t-90004
   teiginys: 'Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184817"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad pelužis, lengvai patikėjęs patarimu, apie viską pra nešė Albertui ton Meisenuį, Karaliaučiaus komtūrui, kuris parėmė sumanymą.'
+  global_id: t-184817
+  teiginys: 'Pelužis apie sumanymą pranešė Karaliaučiaus komtūrui Albertui fon Meisenui, kuris jį parėmė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184818"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad iš kryžiuo čių jie gavo vos dvidešimt riterių, labai narsių ir stip rių, vedamų Martyno Golino ir Konrado Divelio, be to, į būrį papildomai paėmė kuriuos ne kuriuos mik lesnius Pelužio dvariškius.'
+  global_id: t-184818
+  teiginys: 'Pelužio būrys buvo papildytas keliais miklesniais jo dvariškiais ir dvidešimčia kryžiuočių riterių.'
   pagrindžia:
     - c-004
 
@@ -97,7 +106,7 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad pelužis, lengvai patikėjęs patarimu, apie viską pra nešė Albertui ton Meisenuį, Karaliaučiaus komtūrui, kuris parėmė sumanymą.'
+  santrauka: 'Pelužis apie sumanymą pranešė Karaliaučiaus komtūrui Albertui fon Meisenui, kuris jį parėmė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tegu su kariais netikėtai pasirodąs, iš pa­
@@ -115,7 +124,7 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     - t-004
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad iš kryžiuo čių jie gavo vos dvidešimt riterių, labai narsių ir stip rių, vedamų Martyno Golino ir Konrado Divelio, be to, į būrį papildomai paėmė kuriuos ne kuriuos mik lesnius Pelužio dvariškius.'
+  santrauka: 'Pelužio būrys buvo papildytas keliais miklesniais jo dvariškiais ir dvidešimčia kryžiuočių riterių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš kryžiuo­
@@ -136,3 +145,19 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   statusas: verified
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/Ordino brolis]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/ivykiai/Pelužio antpuolis per Lietuvos didikų puotą (1286 m.)]]
+- [[objektai/asmenys/Stavimėlas]]
+- [[objektai/asmenys/Konradas, vardu Divelis]]
+- [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]
+- [[objektai/paprociai/Vestuvių puotos girtavimas iki užmigimo]]

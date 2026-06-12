@@ -32,22 +32,30 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
 
 ## Teiginiai
 
+<a id="claim-t-60925"></a>
 - t-001
+  global_id: t-60925
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų 540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p. 156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60926"></a>
 - t-002
+  global_id: t-60926
   teiginys: 'Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ryšį su Mindaugu, nes 1262 m. žygį (jis datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60928"></a>
 - t-003
+  global_id: t-60928
   teiginys: 'Dusburgietis teigia, kad apie nuostabų brolių išsigelbėjimą vieno žygio metu 537 1292 m. žygis (SRP, 2, p. 155; Regesta Lithuaniae..., p. 144).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60929"></a>
 - t-004
+  global_id: t-60929
   teiginys: '„Regesta Lithuaniae“ pirmą tomą parengė H. Paszkiewiczius, jis išleistas Varšuvoje 1930 m.'
   pagrindžia:
     - c-004

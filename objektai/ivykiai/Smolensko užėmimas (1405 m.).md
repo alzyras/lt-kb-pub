@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35877"></a>
 - t-001
+  global_id: t-35877
   teiginys: '1405 m. Vytautas su didele kariuomene ir artilerija užpuolė Smolenską, o miestas buvo paimtas padedant lietuvių šalininkams.'
   pagrindžia:
     - c-001

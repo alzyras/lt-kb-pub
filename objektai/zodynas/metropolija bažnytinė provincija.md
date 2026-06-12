@@ -19,7 +19,9 @@ Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją, 
 
 ## Teiginiai
 
+<a id="claim-t-22230"></a>
 - t-001
+  global_id: t-22230
   teiginys: 'Po Žalgirio mūšio Lietuvoje bandyta steigti atskirą katalikų bažnytinę provinciją.'
   pagrindžia:
     - c-001

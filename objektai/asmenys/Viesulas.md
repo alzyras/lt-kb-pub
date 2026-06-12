@@ -17,7 +17,9 @@ Gaidys ir Viesulas turėjo tik pistalietus.
 
 ## Teiginiai
 
+<a id="claim-t-39666"></a>
 - t-001
+  global_id: t-39666
   teiginys: 'Viesulas ir Gaidys turėjo tik pistoletus.'
   pagrindžia:
     - c-001

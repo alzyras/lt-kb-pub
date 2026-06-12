@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Ripinas
 
 ## Santrauka
 
-Kojelavičius teigia, kad žiau riai nusiaubė Lipną ir Ripiną.
+Lipnas ir Ripinas buvo žiauriai nusiaubti per žygį, kai buvo užimta ir sudeginta Dobrynė.
 
 ## Teiginiai
 
+<a id="claim-t-185301"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad žiau riai nusiaubė Lipną ir Ripiną.'
+  global_id: t-185301
+  teiginys: 'Lipnas ir Ripinas buvo žiauriai nusiaubti per žygį, kai buvo užimta ir sudeginta Dobrynė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad žiau riai nusiaubė Lipną ir Ripiną.'
+  santrauka: 'Lipnas ir Ripinas buvo žiauriai nusiaubti per žygį, kai buvo užimta ir sudeginta Dobrynė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Užpuolęs

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad lasickis J.
 
 ## Teiginiai
 
+<a id="claim-t-61126"></a>
 - t-001
+  global_id: t-61126
   teiginys: 'J. Lasickio veikalas „Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus“ išleistas 1969 m.'
   pagrindžia:
     - c-001

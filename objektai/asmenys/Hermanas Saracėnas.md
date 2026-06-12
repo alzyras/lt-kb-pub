@@ -19,27 +19,37 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 
 ## Teiginiai
 
+<a id="claim-t-59920"></a>
 - t-001
+  global_id: t-59920
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tas pats brolis Hermanas, kai, priimtas į Teutonų ordiną, skubėjo ton vieton, kur turėjo būti jo įvilktuvės, užėjo viename lauke daug karių, susirinkusių į ietininkų turnyrą; vienas jų, jau apsiginklavęs ir raitas, liepė skelbti, ar rasis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-59921"></a>
 - t-002
+  global_id: t-59921
   teiginys: 'Hermanas Saracėnas iš Karaliaučiaus pilies rengėsi vykti į karą Kurše, kai, pasak pasakojimo, jam pasirodė Mergelė Marija.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-59922"></a>
 - t-003
+  global_id: t-59922
   teiginys: 'Dusburgietis teigia, kad tarp tų sielų jie abu matė dvi vėles pranašesnes nei kitos, tai buvo sielos brolio Hermano, vadinamo Saracėnu, ir kito brolio, vardu [..?] iš Glizbergo, kurį paminėjome, kalbėdami apie Kristburgo pilies statybą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59923"></a>
 - t-004
+  global_id: t-59923
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį Su šiuo broliu Hermanu, jau priimtu į Ordiną ir darančiu vieną dorovingą darbą po kito, švenčiausioji mergelė Marija ne kartą buvo kalbėjusi slaptai ir draugiškai, o vieną sykį švenčiausioji mergelė jam pasirodė nuliūdusiu veidu ir, kai jis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59924"></a>
 - t-005
+  global_id: t-59924
   teiginys: 'Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą Tuo metu Karaliaučiaus pilies brolių konvente gyveno brolis Hermanas, pravarde Saracėnas341, gimęs Švabijoje; dar būdamas pasaulietis, jis taip karštai pamilo švenčiausiąją mergelę Mariją, kad niekada niekam.'
   pagrindžia:
     - c-002

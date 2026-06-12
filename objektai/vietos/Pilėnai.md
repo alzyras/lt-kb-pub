@@ -18,7 +18,9 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
 
 ## Teiginiai
 
+<a id="claim-t-32452"></a>
 - t-001
+  global_id: t-32452
   teiginys: 'Kunigaikščio Margirio vadovaujama apgultos Pilėnų pilies įgula narsiai gynėsi.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Petras Pšonka
 
 ## Santrauka
 
-Kojelavičius teigia, kad štai todėl jie ir pasiun tė Pšonką, kuris, savo krašte galėdamas ramiai jaustis ir nieko nebijoti, turėjo surasti brastą.
+Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsiveržimą į Lenkijos gilumą.
 
 ## Teiginiai
 
+<a id="claim-t-186157"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad štai todėl jie ir pasiun tė Pšonką, kuris, savo krašte galėdamas ramiai jaustis ir nieko nebijoti, turėjo surasti brastą.'
+  global_id: t-186157
+  teiginys: 'Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsiveržimą į Lenkijos gilumą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad štai todėl jie ir pasiun tė Pšonką, kuris, savo krašte galėdamas ramiai jaustis ir nieko nebijoti, turėjo surasti brastą.'
+  santrauka: 'Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsiveržimą į Lenkijos gilumą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lietuviai ketino neti-
@@ -48,3 +49,7 @@ Kojelavičius teigia, kad štai todėl jie ir pasiun tė Pšonką, kuris, savo k
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

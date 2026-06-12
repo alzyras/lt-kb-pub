@@ -16,7 +16,9 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
 
 ## Teiginiai
 
+<a id="claim-t-19810"></a>
 - t-001
+  global_id: t-19810
   teiginys: 'JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą ir publikacijas užsienio kalbomis apie Lietuvą.'
   pagrindžia:
     - c-001

@@ -19,12 +19,16 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
 
 ## Teiginiai
 
+<a id="claim-t-88021"></a>
 - t-001
+  global_id: t-88021
   teiginys: 'Jerošinas teigė, kad Gediminas per pasiuntinius neigė savo valia siuntęs laiškus miestams, šalims ar popiežiui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88022"></a>
 - t-002
+  global_id: t-88022
   teiginys: 'Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.'
   pagrindžia:
     - c-001

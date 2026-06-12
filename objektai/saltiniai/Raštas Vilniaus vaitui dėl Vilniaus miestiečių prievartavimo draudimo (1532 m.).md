@@ -25,7 +25,9 @@ Kreipėsi į mus Vilniaus miesto burmistrai ir tarybos nariai ir visi miestieči
 
 ## Teiginiai
 
+<a id="claim-t-88207"></a>
 - t-001
+  global_id: t-88207
   teiginys: '1532 m. raštu Vilniaus vaitui įsakyta neužkrauti miestiečiams prievolių ir gerbti jų Magdeburgo teises.'
   pagrindžia:
     - c-001

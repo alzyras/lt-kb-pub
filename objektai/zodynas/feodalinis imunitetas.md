@@ -12,24 +12,25 @@ atnaujinta: ''
 amziai:
   - 'XVII'
 ---
-
 # feodalinis imunitetas
 
 ## Santrauka
 
-Kojelavičius teigia, kad žymesnieji buržuazinės istoriografijos atstovai, lai kydamiesi tokios didžiavalstybinės pažiūros, vadino Lietuvą valstybe, o uolų feodalinio imuniteto saugoji mą vaizdavo kaip valstybės ar net tautos reikalų gy nimą.
+Žymesnieji buržuazinės istoriografijos atstovai feodalinio imuniteto saugojimą vaizdavo kaip valstybės ar tautos reikalų gynimą.
 
 ## Teiginiai
 
+<a id="claim-t-185384"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad žymesnieji buržuazinės istoriografijos atstovai, lai kydamiesi tokios didžiavalstybinės pažiūros, vadino Lietuvą valstybe, o uolų feodalinio imuniteto saugoji mą vaizdavo kaip valstybės ar net tautos reikalų gy nimą.'
+  global_id: t-185384
+  teiginys: 'Žymesnieji buržuazinės istoriografijos atstovai feodalinio imuniteto saugojimą vaizdavo kaip valstybės ar tautos reikalų gynimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad žymesnieji buržuazinės istoriografijos atstovai, lai kydamiesi tokios didžiavalstybinės pažiūros, vadino Lietuvą valstybe, o uolų feodalinio imuniteto saugoji mą vaizdavo kaip valstybės ar net tautos reikalų gy nimą.'
+  santrauka: 'Žymesnieji buržuazinės istoriografijos atstovai feodalinio imuniteto saugojimą vaizdavo kaip valstybės ar tautos reikalų gynimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žymesnieji buržuazinės istoriografijos atstovai, lai­
@@ -52,3 +53,13 @@ Kojelavičius teigia, kad žymesnieji buržuazinės istoriografijos atstovai, la
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ukrainiečiai]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/zodynas/federacinė valstybė]]

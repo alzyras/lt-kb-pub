@@ -25,22 +25,30 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
 
 ## Teiginiai
 
+<a id="claim-t-67443"></a>
 - t-001
+  global_id: t-67443
   teiginys: 'Lietuvos metraštis Vytauto lūpomis aiškino, kad Jogailos žygis sukėlė Lietuvoje nepasitenkinimą dėl svetimųjų valdymo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67444"></a>
 - t-002
+  global_id: t-67444
   teiginys: 'Akmens amžiaus laikų pasakojimas remtas plačiausia Lietuvos Metraščio redakcija ir Motiejaus Stryjkovskio 1582 m. kronika.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67445"></a>
 - t-003
+  global_id: t-67445
   teiginys: '72, „PABAISKO MŪŠIS“, Lietuvos metraštis, p. 122-123.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-67447"></a>
 - t-004
+  global_id: t-67447
   teiginys: '79, „GROBIO UŽGROBIMAS“, Lietuvos metraštis, p. 173-175.'
   pagrindžia:
     - c-001

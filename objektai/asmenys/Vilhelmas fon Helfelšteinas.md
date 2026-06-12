@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-80724"></a>
 - t-001
+  global_id: t-80724
   teiginys: '1402 m. viduryje kryžiuočiai, vedami didžiojo komtūro Vilhelmo fon Helfelšteino, plaukdami Nemunu, Nerimi, patraukė į Vilnių.'
   pagrindžia:
     - c-001

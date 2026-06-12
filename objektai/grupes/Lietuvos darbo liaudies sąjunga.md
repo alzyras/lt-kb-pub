@@ -18,12 +18,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-77820"></a>
 - t-001
+  global_id: t-77820
   teiginys: 'Į vieną vietą leista iškelti vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-77821"></a>
 - t-002
+  global_id: t-77821
   teiginys: 'Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies seimą dalyvavo 95 proc.'
   pagrindžia:
     - c-001

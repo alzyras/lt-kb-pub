@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-30919"></a>
 - t-001
+  global_id: t-30919
   teiginys: 'P. Šmits 1926 m. Rygoje išleido darbą „Latviešu mitologija“.'
   pagrindžia:
     - c-001

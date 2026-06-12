@@ -22,7 +22,9 @@ Paliose veikę Varniškių ir „Muškietininkų“ būrių partizanai.
 
 ## Teiginiai
 
+<a id="claim-t-41192"></a>
 - t-001
+  global_id: t-41192
   teiginys: '1945 m. balandį Varniškių būrio partizanai veikė Paliose.'
   pagrindžia:
     - c-001

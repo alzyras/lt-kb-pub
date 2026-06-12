@@ -18,7 +18,9 @@ Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių 
 
 ## Teiginiai
 
+<a id="claim-t-36837"></a>
 - t-001
+  global_id: t-36837
   teiginys: 'Didesniuose ginčuose buvo nutarta kreiptis į popiežių kaip į superarbitrą.'
   pagrindžia:
     - c-001

@@ -6,56 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Seversko kunigaikščiai
 
 ## Santrauka
 
-Kojelavičius teigia, kad susirinko gausybė didikų, ypač daug — iš Seversko že mės, nes visus juos baugino Seversko ku n igaikšdėl pavojingo artumo kaimyčiai atsiskiria nuo ninės Maskvos galybė ir verL ie tu v o s tė labiau rūpintis valstybe, kuri iro, patirdama vieną nuo stolį po. Kojelavičius teigia, kad dėl šių priežasčių Severs ko kunigaikščiai, atsiskyrę nuo karaliaus bei Lietuvos, išdavė valstybę ir v isas savo valdas prijungė prie Mas kvos.
+Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstybę ir visas savo valdas prijungė prie Maskvos.
 
 ## Teiginiai
 
+<a id="claim-t-185437"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad susirinko gausybė didikų, ypač daug — iš Seversko že mės, nes visus juos baugino Seversko ku n igaikšdėl pavojingo artumo kaimyčiai atsiskiria nuo ninės Maskvos galybė ir verL ie tu v o s tė labiau rūpintis valstybe, kuri iro, patirdama vieną nuo stolį po.'
+  global_id: t-185437
+  teiginys: 'Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstybę ir visas savo valdas prijungė prie Maskvos.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Kojelavičius teigia, kad dėl šių priežasčių Severs ko kunigaikščiai, atsiskyrę nuo karaliaus bei Lietuvos, išdavė valstybę ir v isas savo valdas prijungė prie Mas kvos.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad susirinko gausybė didikų, ypač daug — iš Seversko že mės, nes visus juos baugino Seversko ku n igaikšdėl pavojingo artumo kaimyčiai atsiskiria nuo ninės Maskvos galybė ir verL ie tu v o s tė labiau rūpintis valstybe, kuri iro, patirdama vieną nuo stolį po.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Apie šiuos susitarimus karalius nieko nežinojo, mat
-    tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.
-    Susirinko gausybė didikų, ypač daug — iš Seversko že­
-    mės, nes visus juos baugino
-    Seversko
-    ku n igaikš-
-    dėl pavojingo artumo kaimy-
-    čiai
-    atsiskiria
-    nuo
-    ninės Maskvos galybė ir ver-
-    L ie tu v o s
-    tė labiau rūpintis valstybe,
-    kuri iro, patirdama vieną nuo­
-    stolį po kito. Visi ketino senate sutartinai paraginti ir
-    šiaip, ir taip išsisukinėjantį karalių rimtai susirūpinti
-    tos žemės gynyba.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kojelavičius teigia, kad dėl šių priežasčių Severs ko kunigaikščiai, atsiskyrę nuo karaliaus bei Lietuvos, išdavė valstybę ir v isas savo valdas prijungė prie Mas kvos.'
+  santrauka: 'Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstybę ir visas savo valdas prijungė prie Maskvos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mažai
@@ -76,4 +45,11 @@ Kojelavičius teigia, kad susirinko gausybė didikų, ypač daug — iš Seversk
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/kunigaikščiai]]

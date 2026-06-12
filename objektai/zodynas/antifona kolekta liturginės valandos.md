@@ -23,7 +23,9 @@ Dusburgietis teigia, kad todėl tas pats brolis Zigfridas, magistras, nutarė, k
 
 ## Teiginiai
 
+<a id="claim-t-58892"></a>
 - t-001
+  global_id: t-58892
   teiginys: '1309 m. magistras Zigfridas nurodė broliams vienuoliams po liturginių valandų giedoti antifoną ir kolektą.'
   pagrindžia:
     - c-001

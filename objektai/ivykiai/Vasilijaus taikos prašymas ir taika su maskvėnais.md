@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vasilijaus taikos prašymas ir taika su maskvėnais
 
 ## Santrauka
 
-Kojelavičius teigia, kad štai todėl Jonui Sapiegai, val dančiam karaliaus vardu ViT a ik a su m a sk v ė n a is tebską, buvo pavesta susitar ti su kunigaikščio Vasilijaus pasiuntiniais dėl taikos sąlygų. Kojelavičius teigia, kad pa skelbus taikos sąlygas, kai kas reiškė nepasitenkinimą paskutiniuoju susitarimo straipsniu.
+Jonui Sapiegai, karaliaus vardu valdžiusiam Vitebską, buvo pavesta tartis su Vasilijaus pasiuntiniais dėl taikos sąlygų. Paskelbus taikos su maskvėnais sąlygas, dalis žmonių reiškė nepasitenkinimą paskutiniuoju susitarimo straipsniu.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185780"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad štai todėl Jonui Sapiegai, val dančiam karaliaus vardu ViT a ik a su m a sk v ė n a is tebską, buvo pavesta susitar ti su kunigaikščio Vasilijaus pasiuntiniais dėl taikos sąlygų.'
+  global_id: t-185780
+  teiginys: 'Jonui Sapiegai, karaliaus vardu valdžiusiam Vitebską, buvo pavesta tartis su Vasilijaus pasiuntiniais dėl taikos sąlygų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185781"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad pa skelbus taikos sąlygas, kai kas reiškė nepasitenkinimą paskutiniuoju susitarimo straipsniu.'
+  global_id: t-185781
+  teiginys: 'Paskelbus taikos su maskvėnais sąlygas, dalis žmonių reiškė nepasitenkinimą paskutiniuoju susitarimo straipsniu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad štai todėl Jonui Sapiegai, val dančiam karaliaus vardu ViT a ik a su m a sk v ė n a is tebską, buvo pavesta susitar ti su kunigaikščio Vasilijaus pasiuntiniais dėl taikos sąlygų.'
+  santrauka: 'Jonui Sapiegai, karaliaus vardu valdžiusiam Vitebską, buvo pavesta tartis su Vasilijaus pasiuntiniais dėl taikos sąlygų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai todėl Jonui Sapiegai, val­
@@ -66,7 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad pa skelbus taikos sąlygas, kai kas reiškė nepasitenkinimą paskutiniuoju susitarimo straipsniu.'
+  santrauka: 'Paskelbus taikos su maskvėnais sąlygas, dalis žmonių reiškė nepasitenkinimą paskutiniuoju susitarimo straipsniu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nedelsiant turi būti grąžinta
@@ -86,3 +89,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/asmenys/Mykolas Glinskis]]
+- [[objektai/daiktai/Pilys]]
+- [[objektai/zodynas/beneficija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Maskvėnai]]

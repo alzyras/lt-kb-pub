@@ -22,7 +22,9 @@ Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Res
 
 ## Teiginiai
 
+<a id="claim-t-02130"></a>
 - t-001
+  global_id: t-02130
   teiginys: '1706 m. Augustas Altrandštate sudarė taiką su Karoliu, atsisakė Respublikos sosto ir pripažino Leščinskį karaliumi.'
   pagrindžia:
     - c-001

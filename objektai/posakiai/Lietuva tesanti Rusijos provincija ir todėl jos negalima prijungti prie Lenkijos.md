@@ -16,7 +16,9 @@ Tiek Aleksandras I, tiek Mikalojus I (1825— 1855 m.) visada atsakydavo, kad Li
 
 ## Teiginiai
 
+<a id="claim-t-02067"></a>
 - t-001
+  global_id: t-02067
   teiginys: 'Aleksandras I ir Mikalojus I atsakydavo, kad Lietuva esanti Rusijos provincija ir todėl jos negalima prijungti prie Lenkijos.'
   pagrindžia:
     - c-001

@@ -24,12 +24,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-39901"></a>
 - t-001
+  global_id: t-39901
   teiginys: 'Joannis Dlugosii Opera omnia leidinys, parengtas Aleksandro Przezdzieckio, 1877 m. išleistas Krokuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183701"></a>
 - t-002
+  global_id: t-183701
   teiginys: '5% „VYTAUTAS RIKIUOJA PULKUS“ Joannis Dlugosii Opera omnia..., p. 19-20.'
   pagrindžia:
     - c-002

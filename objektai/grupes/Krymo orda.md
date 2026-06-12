@@ -25,22 +25,30 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
 
 ## Teiginiai
 
+<a id="claim-t-86726"></a>
 - t-001
+  global_id: t-86726
   teiginys: 'Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86727"></a>
 - t-002
+  global_id: t-86727
   teiginys: '1506 m. rugpjūtį Lietuvos pajėgos ties Klecku pasiekė pergalę prieš gausius Krymo ordos karių būrius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86728"></a>
 - t-003
+  global_id: t-86728
   teiginys: 'Krymo chano sūnūs su 20 000 totorių, pakeliui plėšdami ir degindami, priartėjo prie Lydos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86729"></a>
 - t-004
+  global_id: t-86729
   teiginys: 'Krymo ir Nogajaus ordų pasiuntiniai už Vilniaus sienų laukė karaliaus, kai šis atvyko į Vilnių tvarkyti totorių reikalų.'
   pagrindžia:
     - c-004

@@ -18,7 +18,9 @@ Kovos veiksmai su raudonaisiais baigėsi jų išstūmimu iš Lietuvos 1919 m. va
 
 ## Teiginiai
 
+<a id="claim-t-18777"></a>
 - t-001
+  global_id: t-18777
   teiginys: 'Aleksandrui Kolčiakui formaliai buvo pavaldi Pavelo Bermonto-Avalovo vadovaujama rusų ir vokiečių kariuomenė.'
   pagrindžia:
     - c-001

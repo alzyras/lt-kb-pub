@@ -16,7 +16,9 @@ Pochilevyč, Lvovo univ.
 
 ## Teiginiai
 
+<a id="claim-t-29457"></a>
 - t-001
+  global_id: t-29457
   teiginys: 'D. Pochilevyč buvo Lvovo universiteto profesorius ir tyrinėjo Lietuvos, Gudijos bei Ukrainos kaimo ūkinius santykius.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
 
 ## Teiginiai
 
+<a id="claim-t-60425"></a>
 - t-001
+  global_id: t-60425
   teiginys: 'Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie staigūs karo žygyje būna teutonai, todėl, sugrįžęs pas savuosius, rado savo bei saviškių kiemus sudegintus, o visą savo ir saviškių šeimyną, be to, savo brolį, vardu Ringėlas, ir visus savo gimines išžudytus.'
   pagrindžia:
     - c-001

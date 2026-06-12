@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Burnaš Girėjus
 
 ## Santrauka
 
-Kojelavičius teigia, kad mengli Girėjaus kariai, veda mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža los.
+Burnaš Girėjus su Biti Girėjumi rugpjūčio viduryje užpuolė Slucką po Simono Olelkaičio mirties.
 
 ## Teiginiai
 
+<a id="claim-t-186189"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mengli Girėjaus kariai, veda mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža los.'
+  global_id: t-186189
+  teiginys: 'Burnaš Girėjus su Biti Girėjumi rugpjūčio viduryje užpuolė Slucką po Simono Olelkaičio mirties.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mengli Girėjaus kariai, veda mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža los.'
+  santrauka: 'Burnaš Girėjus su Biti Girėjumi rugpjūčio viduryje užpuolė Slucką po Simono Olelkaičio mirties.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mengli Girėjaus kariai, veda­
@@ -44,3 +45,7 @@ Kojelavičius teigia, kad mengli Girėjaus kariai, veda mi jo sūnų, nusiaubė 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką]]

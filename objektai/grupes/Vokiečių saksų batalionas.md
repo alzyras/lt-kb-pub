@@ -16,7 +16,9 @@ Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėži
 
 ## Teiginiai
 
+<a id="claim-t-41199"></a>
 - t-001
+  global_id: t-41199
   teiginys: 'Vokiečių saksų batalionas dengė Šeduvos-Panevėžio geležinkelio liniją.'
   pagrindžia:
     - c-001

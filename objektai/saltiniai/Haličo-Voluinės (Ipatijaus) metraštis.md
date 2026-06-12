@@ -25,12 +25,16 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
 
 ## Teiginiai
 
+<a id="claim-t-23395"></a>
 - t-001
+  global_id: t-23395
   teiginys: 'Haličo-Voluinės (Ipatijaus) metraštyje prie 1252 m. minimi keturi dievai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23396"></a>
 - t-002
+  global_id: t-23396
   teiginys: 'Haličo-Voluinės metraštyje prie 1252 m. minimi keturi dievai.'
   pagrindžia:
     - c-001

@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad p a k v ie č ia m a s į V en - Pirmiausia, rodos, šitai g iijo s sostą, b et appadarė vengrai, nes, mirus g au n am as Motiejui Korvinui, karštai jį pakvietė į savo karalystės sostą. Kojelavičius teigia, kad kadangi tėvas karštai reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis, gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa grįstas.
+Po Motiejaus Korvino mirties vengrai pakvietė Joną Olbrachtą į Vengrijos karalystės sostą. Tėvo raginamas ir gavęs iš jo karių, Jonas Olbrachtas išvyko į Vengriją, nors jo viltys pasirodė nepagrįstos.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185575"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad p a k v ie č ia m a s į V en - Pirmiausia, rodos, šitai g iijo s sostą, b et appadarė vengrai, nes, mirus g au n am as Motiejui Korvinui, karštai jį pakvietė į savo karalystės sostą.'
+  global_id: t-185575
+  teiginys: 'Po Motiejaus Korvino mirties vengrai pakvietė Joną Olbrachtą į Vengrijos karalystės sostą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185576"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kadangi tėvas karštai reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis, gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa grįstas.'
+  global_id: t-185576
+  teiginys: 'Tėvo raginamas ir gavęs iš jo karių, Jonas Olbrachtas išvyko į Vengriją, nors jo viltys pasirodė nepagrįstos.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad p a k v ie č ia m a s į V en - Pirmiausia, rodos, šitai g iijo s sostą, b et appadarė vengrai, nes, mirus g au n am as Motiejui Korvinui, karštai jį pakvietė į savo karalystės sostą.'
+  santrauka: 'Po Motiejaus Korvino mirties vengrai pakvietė Joną Olbrachtą į Vengrijos karalystės sostą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pa­
@@ -76,7 +79,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kadangi tėvas karštai reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis, gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa grįstas.'
+  santrauka: 'Tėvo raginamas ir gavęs iš jo karių, Jonas Olbrachtas išvyko į Vengriją, nors jo viltys pasirodė nepagrįstos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jonas nepritarė jų troškimui, nes gerai žinojo,
@@ -93,3 +96,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/asmenys/Jonas Olbrachtas]]

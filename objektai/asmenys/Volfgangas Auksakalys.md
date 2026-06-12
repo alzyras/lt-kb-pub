@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87887"></a>
 - t-001
+  global_id: t-87887
   teiginys: '24 Vilniuje Žygimanto Senojo laikais auksakalių būta daug ir turtingų.'
   pagrindžia:
     - c-001

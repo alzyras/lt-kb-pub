@@ -24,7 +24,9 @@ Dusburgietis teigia, kad lietuvių tautos istoriniai šaltiniai / Paruošė J.
 
 ## Teiginiai
 
+<a id="claim-t-61137"></a>
 - t-001
+  global_id: t-61137
   teiginys: 'J. Užpurvio parengti „Lietuvių tautos istoriniai šaltiniai“ išleisti Klaipėdoje 1938–1939 m.'
   pagrindžia:
     - c-001

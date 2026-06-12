@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-06864"></a>
 - t-001
+  global_id: t-06864
   teiginys: 'Naujos karinės grėsmės sąlygomis globos brolijos virto kariaujančiais riterių ordinais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-06865"></a>
 - t-002
+  global_id: t-06865
   teiginys: 'Po Jeruzalės išvadavimo didesniosios valstybės steigė brolijas maldininkams globoti kelionėse.'
   pagrindžia:
     - c-001

@@ -19,12 +19,16 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
 
 ## Teiginiai
 
+<a id="claim-t-70270"></a>
 - t-001
+  global_id: t-70270
   teiginys: 'Kęstutis su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius, kai šie nesitraukė ir naikino miestus bei apylinkes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70271"></a>
 - t-002
+  global_id: t-70271
   teiginys: 'Partizaniško karo metu Vytautas sunaikino kryžiuočių maisto atsargas, o Kęstučio ir Vytauto būriai puolė besitraukiančius kryžiuočius.'
   pagrindžia:
     - c-002

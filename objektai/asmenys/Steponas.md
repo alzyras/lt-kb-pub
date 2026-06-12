@@ -20,12 +20,16 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 
 ## Teiginiai
 
+<a id="claim-t-64124"></a>
 - t-001
+  global_id: t-64124
   teiginys: 'Dusburgietis teigia, kad apie didingus ženklus „Apaštalų darbuose“ (Apd 6, 8) pasakyta, kad „Steponas, pilnas malonės ir galios, darė žmonėse didžių stebuklingų ženklų“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64125"></a>
 - t-002
+  global_id: t-64125
   teiginys: 'Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.'
   pagrindžia:
     - c-001

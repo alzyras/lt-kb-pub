@@ -39,17 +39,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87024"></a>
 - t-001
+  global_id: t-87024
   teiginys: 'Visos tuometinės artilerijos karo mašinos ir ugniasvaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87025"></a>
 - t-002
+  global_id: t-87025
   teiginys: 'Vitoldus in duellando captum (Narimundum) et in arbore Wiqz per pedes in prato in quo bombardae pruthenicae constiterant, suspensum, sagittis Litucinorum, Tartarorum et Ruthenorum in cum jactis, crudelius quam utriusque conueniebat conditioni cruciavit.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87026"></a>
 - t-003
+  global_id: t-87026
   teiginys: 'Patrankų padariniai ir anglų lankininkų narsa bei sumanumas mūšiuose lėmė didelius Lietuvos patirtus smūgius.'
   pagrindžia:
     - c-001

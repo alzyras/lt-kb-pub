@@ -24,67 +24,93 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 
 ## Teiginiai
 
+<a id="claim-t-77017"></a>
 - t-001
+  global_id: t-77017
   teiginys: 'Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius, įsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne kurios žemiau aprašytos kovos vyko po karo su nadruviais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77018"></a>
 - t-002
+  global_id: t-77018
   teiginys: 'Po karo su nadruviais broliai nukreipė savo ginklus prieš skalvius, nes nadruviai gyveno toliau nuo Nemuno.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77019"></a>
 - t-003
+  global_id: t-77019
   teiginys: '1274 m. Ordino magistras ir broliai nukreipė ginklus prieš nadruvius, o daug kilmingų Nadruvos vyrų priėmė krikštą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-77020"></a>
 - t-004
+  global_id: t-77020
   teiginys: 'Po Tirsko pasidavimo daug galingų ir kilmingų Nadruvos vyrų su šeimynomis perėjo pas brolius ir buvo pakrikštyti.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-77021"></a>
 - t-005
+  global_id: t-77021
   teiginys: 'Dusburgietis teigia, kad antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei ankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva bei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-77022"></a>
 - t-006
+  global_id: t-77022
   teiginys: 'Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-77023"></a>
 - t-007
+  global_id: t-77023
   teiginys: 'Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-77024"></a>
 - t-008
+  global_id: t-77024
   teiginys: 'Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-77025"></a>
 - t-009
+  global_id: t-77025
   teiginys: '1274 m. magistras ir broliai nukreipė savo ginklus prieš nadruvius.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-77026"></a>
 - t-010
+  global_id: t-77026
   teiginys: 'Dusburgietis teigia, kad 1253—1259 m. Mindaugo dokumentai, kad ir kaip juos vertintume, liudija, kad tuo metu Dainava (plačiąja prasme), arba Jotvingija, taip pat Skalva, Nadruva tarptautinėje plotmėje buvo laikomos Lietuvos valdovo žemėmis (LUB, 1, Nr.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-77027"></a>
 - t-011
+  global_id: t-77027
   teiginys: 'Nadruva plytėjo į rytus ir pietryčius nuo Sembos, iki Šešupės vidupio, Vištyčio ežero ir Geldapės upės.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-77028"></a>
 - t-012
+  global_id: t-77028
   teiginys: '1253-1259 m. komentare Nadruva tarptautinėje plotmėje laikoma Lietuvos valdovo žeme.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-77029"></a>
 - t-013
+  global_id: t-77029
   teiginys: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha.'
   pagrindžia:
     - c-004

@@ -36,12 +36,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62179"></a>
 - t-001
+  global_id: t-62179
   teiginys: 'Dusburgietis teigia, kad žiūrint kas kaip įsitikinęs galėsiąs įsiteikti savo dievams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-62180"></a>
 - t-002
+  global_id: t-62180
   teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį.'
   pagrindžia:
     - c-001

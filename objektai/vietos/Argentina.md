@@ -17,7 +17,9 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
 
 ## Teiginiai
 
+<a id="claim-t-46505"></a>
 - t-001
+  global_id: t-46505
   teiginys: 'Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).'
   pagrindžia:
     - c-001

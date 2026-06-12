@@ -46,12 +46,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-41353"></a>
 - t-001
+  global_id: t-41353
   teiginys: '1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41354"></a>
 - t-002
+  global_id: t-41354
   teiginys: '1654 m. prasidėjo Rusijos ir Lenkijos-Lietuvos karas.'
   pagrindžia:
     - c-001

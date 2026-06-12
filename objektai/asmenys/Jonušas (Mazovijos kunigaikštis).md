@@ -6,34 +6,39 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jonušas (Mazovijos kunigaikštis)
 
 ## Santrauka
 
-Kojelavičius teigia, kad mat tuo metu paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol, nutaręs, jog dabar tinkama proga nebaudžiamam su laužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver žęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą. Kojelavičius teigia, kad smarkiai su stiprinęs Palenkę ir Polesę, įkurdinęs stiprias vokiečių karių įgulas Gardine, Suraže, Breste, Kamenece ir ki tose pilyse, pats su žmona, šeimyna, brangiaisiais in dais bei savo šalininkais paP abėga į M a z o v iją sitraukė į Mazoviją pas ku. Kojelavičius teigia, kad šitokia nuomonių įvairovė paskatino Mazovijos kunigaikštį Jonušą, trokšte trokš tantį sosto, vykti į Piotrkovą.
+Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą. Jonušas ir Zemovitas priėmė į Mazoviją pasitraukusį Vytautą, bet nesistengė suteikti jam deramos pagalbos. Mazovijos kunigaikštis Jonušas, siekdamas sosto, atvyko į Piotrkovą su tūkstantine raitelių palyda.
 
 ## Teiginiai
 
+<a id="claim-t-185986"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mat tuo metu paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol, nutaręs, jog dabar tinkama proga nebaudžiamam su laužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver žęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.'
+  global_id: t-185986
+  teiginys: 'Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185987"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad smarkiai su stiprinęs Palenkę ir Polesę, įkurdinęs stiprias vokiečių karių įgulas Gardine, Suraže, Breste, Kamenece ir ki tose pilyse, pats su žmona, šeimyna, brangiaisiais in dais bei savo šalininkais paP abėga į M a z o v iją sitraukė į Mazoviją pas ku.'
+  global_id: t-185987
+  teiginys: 'Jonušas ir Zemovitas priėmė į Mazoviją pasitraukusį Vytautą, bet nesistengė suteikti jam deramos pagalbos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185988"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad šitokia nuomonių įvairovė paskatino Mazovijos kunigaikštį Jonušą, trokšte trokš tantį sosto, vykti į Piotrkovą.'
+  global_id: t-185988
+  teiginys: 'Mazovijos kunigaikštis Jonušas, siekdamas sosto, atvyko į Piotrkovą su tūkstantine raitelių palyda.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mat tuo metu paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol, nutaręs, jog dabar tinkama proga nebaudžiamam su laužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver žęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.'
+  santrauka: 'Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po kelių dienų apgulos, sutikęs smarkų pasi­
@@ -55,7 +60,7 @@ Kojelavičius teigia, kad mat tuo metu paaiškėjo, kad Jonušas nesuteiks pagal
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad smarkiai su stiprinęs Palenkę ir Polesę, įkurdinęs stiprias vokiečių karių įgulas Gardine, Suraže, Breste, Kamenece ir ki tose pilyse, pats su žmona, šeimyna, brangiaisiais in dais bei savo šalininkais paP abėga į M a z o v iją sitraukė į Mazoviją pas ku.'
+  santrauka: 'Jonušas ir Zemovitas priėmė į Mazoviją pasitraukusį Vytautą, bet nesistengė suteikti jam deramos pagalbos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nieko nepešęs
@@ -84,7 +89,7 @@ Kojelavičius teigia, kad mat tuo metu paaiškėjo, kad Jonušas nesuteiks pagal
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad šitokia nuomonių įvairovė paskatino Mazovijos kunigaikštį Jonušą, trokšte trokš tantį sosto, vykti į Piotrkovą.'
+  santrauka: 'Mazovijos kunigaikštis Jonušas, siekdamas sosto, atvyko į Piotrkovą su tūkstantine raitelių palyda.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai dėl to sustiprėjo įtaka grupuotės, kuri
@@ -100,3 +105,14 @@ Kojelavičius teigia, kad mat tuo metu paaiškėjo, kad Jonušas nesuteiks pagal
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Jogailaičiai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/piastas]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/asmenys/Zemovitas]]
+- [[objektai/ivykiai/Jonušo antpuolis į Poleksiją ir pasienio pilių užėmimas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]

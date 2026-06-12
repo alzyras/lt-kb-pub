@@ -17,7 +17,9 @@ Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taik
 
 ## Teiginiai
 
+<a id="claim-t-26352"></a>
 - t-001
+  global_id: t-26352
   teiginys: 'Sausio 13 d. Vytautas Landsbergis prie parlamento susirinkusius žmones ragino nepasiduoti provokacijoms ir dainuoti.'
   pagrindžia:
     - c-001

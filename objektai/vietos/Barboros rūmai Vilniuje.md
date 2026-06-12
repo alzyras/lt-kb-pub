@@ -36,27 +36,37 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
 
 ## Teiginiai
 
+<a id="claim-t-55242"></a>
 - t-001
+  global_id: t-55242
   teiginys: 'Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55243"></a>
 - t-002
+  global_id: t-55243
   teiginys: 'Balińskio aprašymo metu Barboros rūmus priminė tik neužlygintų tvenkinių žymės ir vieta, kur buvo rūmai, sodai bei tvenkiniai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55244"></a>
 - t-003
+  global_id: t-55244
   teiginys: '1828 m. Barboros rūmų griuvėsiai buvo parduoti plytoms naujai statomam Kosobudžkio namui.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-83197"></a>
 - t-004
+  global_id: t-83197
   teiginys: 'Barboros rūmų griuvėsiai stovėjo Vilniuje tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-83199"></a>
 - t-006
+  global_id: t-83199
   teiginys: 'Iš Barboros rūmų buvo likusios tik neužlygintų tvenkinių žymės.'
   pagrindžia:
     - c-001

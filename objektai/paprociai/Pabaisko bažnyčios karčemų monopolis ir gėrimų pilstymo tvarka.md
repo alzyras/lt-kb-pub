@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87279"></a>
 - t-001
+  global_id: t-87279
   teiginys: 'Pabaisko bažnyčios fundacija nustatė, kad jos ribose negali būti kitų karčemų, išskyrus priklausančias Pabaisko bažnyčiai.'
   pagrindžia:
     - c-001

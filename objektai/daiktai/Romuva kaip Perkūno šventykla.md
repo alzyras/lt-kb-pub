@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87093"></a>
 - t-001
+  global_id: t-87093
   teiginys: 'Romuva buvo laikoma Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindine buveine.'
   pagrindžia:
     - c-001

@@ -27,17 +27,23 @@ Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokieč
 
 ## Teiginiai
 
+<a id="claim-t-86456"></a>
 - t-001
+  global_id: t-86456
   teiginys: 'Feodalinis valdymas nuo seno buvo įsitvirtinęs Lietuvoje, jai priklausiusioje Rusioje ir Livonijos vokiečių žemėse.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86457"></a>
 - t-002
+  global_id: t-86457
   teiginys: 'Nusistovėjus leninio valdymo principams, ankstyvasis Vilnius turėjo laikytis tokios pačios tvarkos kaip ir kitos vietovės.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86458"></a>
 - t-003
+  global_id: t-86458
   teiginys: 'Gedimino iškeltame Vilniuje, kaip ir visame krašte, buvo prigiję feodalinio valdymo principai.'
   pagrindžia:
     - c-001

@@ -23,12 +23,16 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
 
 ## Teiginiai
 
+<a id="claim-t-72033"></a>
 - t-001
-  teiginys: 'Tai buvo katalikiška ir tautiška organizacija, kuriai priklausė beveik visa mokslus einančioji jaunuomenė.'
+  global_id: t-72033
+  teiginys: 'Moksleivių aušrininkų organizacija atsirado iš jaunimo, susitelkusio apie žurnalą „Aušrinė“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72034"></a>
 - t-002
+  global_id: t-72034
   teiginys: 'Aušrininkų organizacija atsirado iš socialistinės pakraipos jaunimo, susitelkusio apie moksleivių žurnalą „Aušrinė“.'
   pagrindžia:
     - c-002
@@ -36,6 +40,7 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Moksleivių aušrininkų organizacija atsirado iš jaunimo, susitelkusio apie žurnalą „Aušrinė“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tai bu-

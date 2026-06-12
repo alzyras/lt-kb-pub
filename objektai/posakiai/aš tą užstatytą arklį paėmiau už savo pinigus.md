@@ -17,7 +17,9 @@ O jeigu koks žirgas pas žydą pasirodytų vogtas ir pas kokį krikš­ čionį
 
 ## Teiginiai
 
+<a id="claim-t-86853"></a>
 - t-001
+  global_id: t-86853
   teiginys: 'Formulė „aš tą užstatytą arklį paėmiau už savo pinigus“ buvo žydo priesaikos tekstas ginče dėl vogto žirgo.'
   pagrindžia:
     - c-001

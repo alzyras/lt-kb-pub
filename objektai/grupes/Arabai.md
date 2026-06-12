@@ -19,7 +19,9 @@ trumpas geografiškas ir istoriškas pa­ aiškinimas apie arabus, turkus, kurdu
 
 ## Teiginiai
 
+<a id="claim-t-35575"></a>
 - t-001
+  global_id: t-35575
   teiginys: 'Prie romano buvo pridėtas trumpas geografinis ir istorinis paaiškinimas apie arabus, turkus, kurdus ir kitas tauteles.'
   pagrindžia:
     - c-001

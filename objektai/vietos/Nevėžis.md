@@ -30,27 +30,37 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 
 ## Teiginiai
 
+<a id="claim-t-182771"></a>
 - t-001
+  global_id: t-182771
   teiginys: 'Naktį lenkai priartėja prie )— Lietuvių pajėgų išdėstymas ir puolimo kryptys Lenkų pajėgų išdėstyJ mas ir puolimo kryptys = = = =a Lietuvių atsitraukimo kryptys St | me me p> Lenkų atsitraukimo kryptys a || | Kėdainių ir ketina susprogdinti tiltą per Nevėžį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183062"></a>
 - t-002
-  teiginys: 'Nuo pasirašymo vietos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės.'
+  global_id: t-183062
+  teiginys: 'Salyno sutartimi Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184312"></a>
 - t-003
+  global_id: t-184312
   teiginys: 'Atiduodamas vokiečiams visą Žemaičių kraštą iki pat Nevėžio upės, Vytautas dar pažadėjo Ordinui Kauną.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184313"></a>
 - t-004
+  global_id: t-184313
   teiginys: '1398 m. Vytautas užrašė Ordinui Žemaičių kraštą iki Nevėžio upės.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184314"></a>
 - t-005
+  global_id: t-184314
   teiginys: '1398 m. Salyno sutartimi Vytautas užleido Ordinui visą Žemaitiją iki Nevėžio.'
   pagrindžia:
     - c-001
@@ -104,7 +114,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - t-001
 
 - c-003
-  santrauka: 'Nuo pasirašymo vietos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės.'
+  santrauka: 'Salyno sutartimi Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nuo pasirašymo vie-

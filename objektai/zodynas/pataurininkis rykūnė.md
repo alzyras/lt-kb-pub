@@ -17,7 +17,9 @@ Tas kalnas užslinko ant Manvydo rūmo (namo) ir daug nuostolių pridarė, jo pa
 
 ## Teiginiai
 
+<a id="claim-t-86605"></a>
 - t-001
+  global_id: t-86605
   teiginys: 'Tas kalnas užslinko ant Manvydo rūmo (namo) ir daug nuostolių pridarė, jo pataurininkis ir rykūnės (ozzerfie Mergel oberste Magd) buvo užpilti; dar nuošliaužos užvertė visas jo brangenybes.'
   pagrindžia:
     - c-001

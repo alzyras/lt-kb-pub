@@ -16,7 +16,9 @@ AK-47 automatika veikia dujų nuvedimo principu, kai dalis kulką iš vamzdžio 
 
 ## Teiginiai
 
+<a id="claim-t-38745"></a>
 - t-001
+  global_id: t-38745
   teiginys: 'AK-47 automatika veikia dujų nuvedimo principu, kai dalis kulką iš vamzdžio išstumiančių parako dujų grąžina spyną į galinę padėtį ir tokiu būdu leidžia kitam šoviniui iš dėtuvės patekti į šovinio lizdą.'
   pagrindžia:
     - c-001

@@ -26,32 +26,44 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
 
 ## Teiginiai
 
+<a id="claim-t-104204"></a>
 - t-001
+  global_id: t-104204
   teiginys: 'Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-104205"></a>
 - t-002
+  global_id: t-104205
   teiginys: 'Maskva patvirtino, kad sutartis su Lietuva tebegalioja ir Lietuva turi suverenias teises į Vilnių, kol neatsisakys suverenumo Lenkijos naudai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-104206"></a>
 - t-003
+  global_id: t-104206
   teiginys: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-104207"></a>
 - t-004
+  global_id: t-104207
   teiginys: 'Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo nacijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena, davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant, kur Taryba veda Lietuvą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-104208"></a>
 - t-005
+  global_id: t-104208
   teiginys: '„Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sistemos keitimą, o tautiniu klausimu pasisakyta atsargiai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-183470"></a>
 - t-007
+  global_id: t-183470
   teiginys: 'Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'
   pagrindžia:
     - c-007

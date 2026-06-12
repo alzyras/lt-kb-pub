@@ -44,27 +44,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-92955"></a>
 - t-001
+  global_id: t-92955
   teiginys: 'Ordino magistras prašė tuos du kardus priimti kaip pagalbą būsimam susirėmimui atvirame lauke.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-92956"></a>
 - t-002
+  global_id: t-92956
   teiginys: 'Įėjo Vengrijos ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem nuogais kardais nešini.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-92957"></a>
 - t-003
+  global_id: t-92957
   teiginys: 'Du nuogus kardus nešę pasiuntiniai buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-92958"></a>
 - t-004
+  global_id: t-92958
   teiginys: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-92959"></a>
 - t-005
+  global_id: t-92959
   teiginys: 'Kryžiuočių didžiojo magistro pasiuntiniai atnešė du kardus ir ragino su jais stoti į atvirą mūšį.'
   pagrindžia:
     - c-003

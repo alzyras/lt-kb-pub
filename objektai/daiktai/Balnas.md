@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08282"></a>
 - t-001
+  global_id: t-08282
   teiginys: 'Balnai buvo daromi iš vieno medžio, be šikšnų ir geležies, su medžio kilpomis.'
   pagrindžia:
     - c-002

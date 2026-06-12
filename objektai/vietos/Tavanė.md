@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-38653"></a>
 - t-001
+  global_id: t-38653
   teiginys: '1398 m. Vytautas prie Žemutinio Dniepro iš molio ir akmenų pastatė Tavanės pilį, pavadintą šv. Jono vardu.'
   pagrindžia:
     - c-001

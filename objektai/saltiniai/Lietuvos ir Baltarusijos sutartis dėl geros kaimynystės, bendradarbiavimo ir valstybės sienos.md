@@ -24,7 +24,9 @@ Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe – Balta
 
 ## Teiginiai
 
+<a id="claim-t-26496"></a>
 - t-001
+  global_id: t-26496
   teiginys: 'Lietuva su Baltarusija 1991 m. spalį pasirašė geros kaimynystės principų deklaraciją, o po ketverių metų – sutartį dėl sienos ir bendradarbiavimo.'
   pagrindžia:
     - c-001

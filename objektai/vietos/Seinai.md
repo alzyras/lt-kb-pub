@@ -26,7 +26,9 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
 
 ## Teiginiai
 
+<a id="claim-t-181449"></a>
 - t-001
+  global_id: t-181449
   teiginys: 'Savo ruožtu Lietuva nustojo teisės reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tautinių mažumų klausimas kartais dar kelia karštas diskusijas.'
   pagrindžia:
     - c-001

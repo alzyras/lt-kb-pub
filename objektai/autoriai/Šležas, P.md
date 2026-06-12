@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-31095"></a>
 - t-001
+  global_id: t-31095
   teiginys: 'P. Šležas 1937 m. leidinyje „Naujoji Romuva“ paskelbė darbą „Lietuvos krikštas“.'
   pagrindžia:
     - c-001

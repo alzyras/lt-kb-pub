@@ -25,12 +25,16 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
 
 ## Teiginiai
 
+<a id="claim-t-30193"></a>
 - t-001
+  global_id: t-30193
   teiginys: 'Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-30194"></a>
 - t-002
+  global_id: t-30194
   teiginys: 'Greičiausiai dėl artimų ryšių su Gediminu, Aleksandras su sūnumi totorių ordoje buvo nužudyti.'
   pagrindžia:
     - c-002

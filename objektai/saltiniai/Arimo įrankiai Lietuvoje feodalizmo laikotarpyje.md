@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31620"></a>
 - t-001
+  global_id: t-31620
   teiginys: 'P. Dundulienės „Arimo įrankiai Lietuvoje feodalizmo laikotarpyje“ paskelbtas VUMD 2 tome 1955 m., p. 148-168.'
   pagrindžia:
     - c-001

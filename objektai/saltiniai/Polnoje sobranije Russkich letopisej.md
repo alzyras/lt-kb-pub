@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-34925"></a>
 - t-001
+  global_id: t-34925
   teiginys: '„Polnoje sobranije Russkich letopisej“ XVII tomą 1907 m. Sankt Peterburge išleido Imperatoriškoji archeologijos komisija.'
   pagrindžia:
     - c-001

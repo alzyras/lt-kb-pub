@@ -25,7 +25,9 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
 
 ## Teiginiai
 
+<a id="claim-t-34796"></a>
 - t-001
+  global_id: t-34796
   teiginys: '1415 m. Breslavo vyskupas Jonas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.'
   pagrindžia:
     - c-001

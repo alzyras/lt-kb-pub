@@ -17,7 +17,9 @@ Dusburgietis teigia, kad prancūzijoje) Augustavas Augustino šv., augustinų or
 
 ## Teiginiai
 
+<a id="claim-t-62967"></a>
 - t-001
+  global_id: t-62967
   teiginys: 'Dusburgietis teigia, kad prancūzijoje) Augustavas Augustino šv., augustinų ordinas Aukaimis (Otekaym, Oukaym ir pan.'
   pagrindžia:
     - c-001

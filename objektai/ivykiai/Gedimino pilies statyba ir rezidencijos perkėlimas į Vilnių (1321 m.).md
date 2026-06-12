@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86892"></a>
 - t-001
+  global_id: t-86892
   teiginys: 'Gediminui įsakius ant kalno sumūryti pilį ir papėdėje pastatyti medinę tvirtovę, palei pilį kūrėsi nauji gyventojai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86893"></a>
 - t-002
+  global_id: t-86893
   teiginys: 'Gediminas įsakė pastatyti mūrinę pilį ant kalno prie Vilnelės ir Vilijos santakos ir iš Trakų perkėlė ten savo buveinę.'
   pagrindžia:
     - c-001

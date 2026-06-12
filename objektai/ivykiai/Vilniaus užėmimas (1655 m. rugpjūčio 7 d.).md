@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-41382"></a>
 - t-001
+  global_id: t-41382
   teiginys: '1655 m. rugpjūčio 7 d. po aršių kautynių Rusijos kariuomenė ir jos sąjungininkai kazokai užėmė Vilnių.'
   pagrindžia:
     - c-001

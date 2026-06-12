@@ -19,22 +19,30 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 
 ## Teiginiai
 
+<a id="claim-t-12584"></a>
 - t-001
+  global_id: t-12584
   teiginys: 'Seniūnas šiame tekste yra lenkiškas urėdas Lietuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-12585"></a>
 - t-002
+  global_id: t-12585
   teiginys: '1411 m. Vytautas pats paskyrė seniūną atgautai Žemaitijai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-12586"></a>
 - t-003
+  global_id: t-12586
   teiginys: 'Seniūnas turėjo teismo valdžią ir vietininko teises.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70326"></a>
 - t-004
+  global_id: t-70326
   teiginys: 'Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.'
   pagrindžia:
     - c-003
@@ -184,7 +192,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - [[objektai/daiktai/Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje]]
 - [[objektai/ivykiai/Vitebsko karo lauko seimas|Vitebsko karo lauko seimas (seimas)]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
-- [[objektai/asmenys/Zygfridas iš Da[he]nfeldo]]
+- [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
 - [[objektai/zodynas/indiktas]]
 - [[objektai/zodynas/krivis krivė krivaitis]]
 - [[objektai/posakiai/metus ir dieną]]
@@ -199,10 +207,13 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/posakiai/„Jūsų Didybės įsakyti mes čia su didžiu skausmu...“]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Hanulas]]
+- [[objektai/asmenys/Jurga (pasienio seniūnas)]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/asmenys/Stanislovas Goštautas]]
 - [[objektai/asmenys/Vaitiekus Janavičius]]
 - [[objektai/asmenys/Vaitiekus Narutavičius]]
+- [[objektai/paprociai/Valdų išpirkimas nuo antpuolių dovanomis per žygūnus]]
 - [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, pavaldumas seniūnui ir pilies saugojimo prievolė]]
 - [[objektai/ivykiai/Vilniui suteikiamos Magdeburgo teisės (1387 m.)]]
 - [[objektai/zodynas/pilies teismas|pilies teismas (pilis)]]

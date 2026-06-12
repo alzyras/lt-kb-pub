@@ -25,17 +25,23 @@ Eidintas A. Eidintas A., Senn A.
 
 ## Teiginiai
 
+<a id="claim-t-19391"></a>
 - t-001
+  global_id: t-19391
   teiginys: 'A. Eidintas parašė knygą „Antanas Smetona ir jo aplinka“, išleistą Vilniuje 2012 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-19392"></a>
 - t-002
+  global_id: t-19392
   teiginys: 'A. Eidintas, A. E. Sennas ir V. Žalys yra leidinio „Lithuania in European Politics“ autoriai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183342"></a>
 - t-003
+  global_id: t-183342
   teiginys: 'A. Eidintas kartu su A. E. Sennu ir V. Žaliu parengė leidinį „Lithuania in European politics“.'
   pagrindžia:
     - c-002

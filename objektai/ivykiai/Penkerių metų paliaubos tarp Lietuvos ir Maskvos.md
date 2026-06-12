@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Penkerių metų paliaubos tarp Lietuvos ir Maskvos
 
 ## Santrauka
 
-Kojelavičius teigia, kad vasilijus pri mygtinai reikalavo, kad ka raliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng viau galėsiąs tramdyti saviškius, jei šie susimanys be saiko ginčytis. Kojelavičius teigia, kad kadangi Maskvos didikai atkirto, kad ne gali būti nė kalbos apie šitokias sąlygas, pradėta derė tis dėl kitokių taikos formulių.
+Vasilijus reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185633"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vasilijus pri mygtinai reikalavo, kad ka raliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng viau galėsiąs tramdyti saviškius, jei šie susimanys be saiko ginčytis.'
+  global_id: t-185633
+  teiginys: 'Vasilijus reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Kojelavičius teigia, kad kadangi Maskvos didikai atkirto, kad ne gali būti nė kalbos apie šitokias sąlygas, pradėta derė tis dėl kitokių taikos formulių.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vasilijus pri mygtinai reikalavo, kad ka raliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng viau galėsiąs tramdyti saviškius, jei šie susimanys be saiko ginčytis.'
+  santrauka: 'Vasilijus reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta­
@@ -63,30 +59,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Kojelavičius teigia, kad kadangi Maskvos didikai atkirto, kad ne gali būti nė kalbos apie šitokias sąlygas, pradėta derė tis dėl kitokių taikos formulių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Šie ilgai
-    aiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­
-    džiai rūpinti taika, turįs taikytis tomis sąlygomis, ku­
-    riomis kitados buvusi sudaryta sutartis tarp jo senelio
-    Vasilijaus ir karaliaus Kazimiero, arba tomis, kurias
-    6 4 9
-
-    ## Puslapis 648
-
-    buvo sutarę karalius Aleksandras ir jo tėvas Ivanas
-    Vasiljevičius. Kadangi Maskvos didikai atkirto, kad ne­
-    gali būti nė kalbos apie šitokias sąlygas, pradėta derė­
-    tis dėl kitokių taikos formulių. Vis dėlto ir šie legatai
-    tiek pat tepešė, kiek ir ankstesnės pasiuntinybės, ka­
-    dangi maskvėnai nenorėjo grąžinti ne tik Smolensko
-    žemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po
-    ilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­
-    susitarus dėl taikos, išvykti iš Maskvos.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Vasilijus]]
+- [[objektai/zodynas/Miera|miera]]

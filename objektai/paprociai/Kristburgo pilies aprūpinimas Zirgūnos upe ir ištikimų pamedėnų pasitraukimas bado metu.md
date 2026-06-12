@@ -38,13 +38,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62688"></a>
 - t-001
+  global_id: t-62688
   teiginys: 'Dusburgietis teigia, kad ilgainiui pilyje vėl kilo toks baisus badas, kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie jų prisidėjusius, pasitraukti iš čia į kitas vietas, žadėdami palikti jiems visas teises bei laisves, kad galėtų ten.'
   pagrindžia:
     - c-001
     - c-003
 
+<a id="claim-t-62689"></a>
 - t-002
+  global_id: t-62689
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų.'
   pagrindžia:
     - c-002

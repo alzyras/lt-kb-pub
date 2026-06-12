@@ -16,12 +16,16 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
 
 ## Teiginiai
 
+<a id="claim-t-01027"></a>
 - t-001
+  global_id: t-01027
   teiginys: 'Diderot, miręs 1784 m., kartu su kitais autoriais buvo laikomas epochos dievaičiu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01028"></a>
 - t-002
+  global_id: t-01028
   teiginys: 'Diderot suorganizuota enciklopedija, apie kurią buvo suburtos visos žymiausios to meto pajėgos, kūrė naują pasaulėžiūrą.'
   pagrindžia:
     - c-001

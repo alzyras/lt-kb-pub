@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20594"></a>
 - t-001
+  global_id: t-20594
   teiginys: 'Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183293"></a>
 - t-002
+  global_id: t-183293
   teiginys: 'Lietuvoje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos Statutų teisine norma.'
   pagrindžia:
     - c-001

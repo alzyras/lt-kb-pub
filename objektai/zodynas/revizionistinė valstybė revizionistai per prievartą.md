@@ -17,12 +17,16 @@ Tačiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti V
 
 ## Teiginiai
 
+<a id="claim-t-22278"></a>
 - t-001
+  global_id: t-22278
   teiginys: 'Siekis atgauti Vilnių Lietuvą vedė į revizionistinių valstybių draugiją ir net grėsė nepriklausomybės praradimu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-22279"></a>
 - t-002
+  global_id: t-22279
   teiginys: 'Lietuviai tapo „revizionistais per prievartą“.'
   pagrindžia:
     - c-001

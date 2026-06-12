@@ -16,7 +16,9 @@ Keletą mokyklų turėjo pravoslavai (Vilniuje, Polocke, Minske). Pravoslavai: j
 
 ## Teiginiai
 
+<a id="claim-t-66040"></a>
 - t-001
+  global_id: t-66040
   teiginys: 'Keletą mokyklų turėjo pravoslavai (Vilniuje, Polocke, Minske).'
   pagrindžia:
     - c-001

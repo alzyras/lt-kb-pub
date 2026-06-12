@@ -18,7 +18,9 @@ Tačiau savo kai­ lius jie taip pelningai parduodavo, kad daugelis jų Vilniuje
 
 ## Teiginiai
 
+<a id="claim-t-86192"></a>
 - t-001
+  global_id: t-86192
   teiginys: 'Kailiadirbių namai Vilniaus turguje buvo pastatyti miesto lėšomis prie mūrinių krautuvių.'
   pagrindžia:
     - c-001

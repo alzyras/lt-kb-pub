@@ -19,7 +19,9 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
 
 ## Teiginiai
 
+<a id="claim-t-87485"></a>
 - t-001
+  global_id: t-87485
   teiginys: 'Dvasininkas Bertoldas buvo smurtu paimtas ir žiauriai nužudytas savo namuose Rygos mieste.'
   pagrindžia:
     - c-001

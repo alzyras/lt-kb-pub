@@ -17,7 +17,9 @@ Lenkijos - 7-asis pėstininkų pulkas, 1-asis, 2-asis ir 4-asis šaulių pulkai,
 
 ## Teiginiai
 
+<a id="claim-t-38997"></a>
 - t-001
+  global_id: t-38997
   teiginys: 'Panerių mūšyje Poznanės raitininkų eskadronai buvo tarp Lenkijos sukilėlių kariuomenės dalinių.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Čia paste
 
 ## Teiginiai
 
+<a id="claim-t-36272"></a>
 - t-001
+  global_id: t-36272
   teiginys: 'Ties Kauerniku sąjungininkai priėjo Drevencos upę ir pamatė, kad perėjimą saugo kryžiuočiai.'
   pagrindžia:
     - c-001

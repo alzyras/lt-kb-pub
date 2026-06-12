@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Gostininas
 
 ## Santrauka
 
-Kojelavičius teigia, kad pa kviesti Konrado, Čersko Mazovijos kunigaikščio, at ėmė iš Kujavijos kunigaikščio Vladislovo Gostininą ir, išžudę dalį įgulos, o dalį su kitu grobiu išsivarę į ne laisvę, atidavė apiplėštą pilį Konradui.
+Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį perdavė Konradui.
 
 ## Teiginiai
 
+<a id="claim-t-185325"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pa kviesti Konrado, Čersko Mazovijos kunigaikščio, at ėmė iš Kujavijos kunigaikščio Vladislovo Gostininą ir, išžudę dalį įgulos, o dalį su kitu grobiu išsivarę į ne laisvę, atidavė apiplėštą pilį Konradui.'
+  global_id: t-185325
+  teiginys: 'Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį perdavė Konradui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pa kviesti Konrado, Čersko Mazovijos kunigaikščio, at ėmė iš Kujavijos kunigaikščio Vladislovo Gostininą ir, išžudę dalį įgulos, o dalį su kitu grobiu išsivarę į ne laisvę, atidavė apiplėštą pilį Konradui.'
+  santrauka: 'Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį perdavė Konradui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vasarai įpusėjus, lietuviai galop sulaukė ramybės ir

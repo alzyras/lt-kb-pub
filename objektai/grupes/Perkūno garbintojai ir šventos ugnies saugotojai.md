@@ -25,7 +25,9 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
 
 ## Teiginiai
 
+<a id="claim-t-86768"></a>
 - t-001
+  global_id: t-86768
   teiginys: 'Apie 1345 metus Vilniaus prastuomenę galėjo pakiršinti Perkūno garbintojai ir šventos ugnies saugotojai.'
   pagrindžia:
     - c-001

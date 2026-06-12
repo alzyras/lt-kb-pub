@@ -20,27 +20,37 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
 
 ## Teiginiai
 
+<a id="claim-t-113659"></a>
 - t-001
+  global_id: t-113659
   teiginys: 'Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-113660"></a>
 - t-002
+  global_id: t-113660
   teiginys: 'Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-113661"></a>
 - t-003
+  global_id: t-113661
   teiginys: 'Veliuona kurį laiką buvo Žemaitijos pavieto centras.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-113662"></a>
 - t-004
+  global_id: t-113662
   teiginys: 'Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182966"></a>
 - t-006
+  global_id: t-182966
   teiginys: 'Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio skiriamas urėdas — pakamorė, kuris visas tokias bylas spręsdavo vietoje.'
   pagrindžia:
     - c-005

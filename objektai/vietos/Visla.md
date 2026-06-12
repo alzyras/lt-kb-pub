@@ -25,12 +25,16 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
 
 ## Teiginiai
 
+<a id="claim-t-36682"></a>
 - t-001
+  global_id: t-36682
   teiginys: '1422 m. rugsėjo 27 d. taika buvo sudaryta prie Melno ežero netoli Vislos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184323"></a>
 - t-002
+  global_id: t-184323
   teiginys: 'Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.'
   pagrindžia:
     - c-002

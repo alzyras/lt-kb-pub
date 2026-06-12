@@ -17,7 +17,9 @@ Kai kartą jam kažkas priminė jo didelį duosnumą dalinant toto­ riams žeme
 
 ## Teiginiai
 
+<a id="claim-t-95950"></a>
 - t-001
+  global_id: t-95950
   teiginys: 'Vytautas posakiu „gerumu galima ir laukinius žvėris sušvelninti“ aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusioje.'
   pagrindžia:
     - c-001

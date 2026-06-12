@@ -26,7 +26,9 @@ Vartojama istoriografiniame ir romantinės pasaulėžiūros aptarimo kontekste.
 
 ## Teiginiai
 
+<a id="claim-t-54812"></a>
 - t-001
+  global_id: t-54812
   teiginys: 'Vilniaus miesto istorijos rašymo tradicijos atsiradimas siejamas su locus geni akcentavimu romantinėje pasaulėžiūroje.'
   pagrindžia:
     - c-001

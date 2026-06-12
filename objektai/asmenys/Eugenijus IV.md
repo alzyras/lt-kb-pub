@@ -28,7 +28,9 @@ Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėlia
 
 ## Teiginiai
 
+<a id="claim-t-87661"></a>
 - t-001
+  global_id: t-87661
   teiginys: 'Popiežius Eugenijus IV 1434 m. spalio 20 d. laiške Žygimantui Kęstutaičiui užtarė Švitrigailos žmoną Sofiją.'
   pagrindžia:
     - c-001

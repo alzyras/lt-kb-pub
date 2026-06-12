@@ -16,7 +16,9 @@ Liepos 14 d. lietuviai atžygiavo į bendrą stovyklą prie Orinino, netoli Podo
 
 ## Teiginiai
 
+<a id="claim-t-41985"></a>
 - t-001
+  global_id: t-41985
   teiginys: 'Liepos 14 d. lietuviai atžygiavo į bendrą stovyklą prie Orinino, netoli Podolės Kameneco.'
   pagrindžia:
     - c-001

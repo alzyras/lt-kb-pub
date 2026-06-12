@@ -16,12 +16,16 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
 
 ## Teiginiai
 
+<a id="claim-t-40384"></a>
 - t-001
+  global_id: t-40384
   teiginys: 'Sužeidus Z. Sierakauską ir mjr. P. Vivulskį, sukilėlių veiksmai pakriko po dviejų valandų atkaklaus pasipriešinimo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40385"></a>
 - t-002
+  global_id: t-40385
   teiginys: 'P. Vivulskio dalgininkai stovėjo dešiniajame sparne kartu su dviem rezervinėmis 4-ojo bataliono kuopomis.'
   pagrindžia:
     - c-002

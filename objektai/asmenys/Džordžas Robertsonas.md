@@ -24,7 +24,9 @@ Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje Europos 
 
 ## Teiginiai
 
+<a id="claim-t-26439"></a>
 - t-001
+  global_id: t-26439
   teiginys: 'Džordžas Robertsonas 2000 m. gegužės 19 d. Vilniuje dalyvavo konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje.'
   pagrindžia:
     - c-001

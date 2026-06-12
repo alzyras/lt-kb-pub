@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77922"></a>
 - t-001
+  global_id: t-77922
   teiginys: 'Kaune laukiančią ore pasirodant lėktuvo kone šimtatūkstantinę minią žmonių gauta žinia pravirkdė.'
   pagrindžia:
     - c-001

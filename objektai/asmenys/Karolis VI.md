@@ -18,12 +18,16 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 
 ## Teiginiai
 
+<a id="claim-t-35184"></a>
 - t-001
+  global_id: t-35184
   teiginys: 'Ordino magistras Henrikas von Plauenas prašė Prancūzijos karaliaus Karolio VI pagalbos prieš Vytautą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184283"></a>
 - t-002
+  global_id: t-184283
   teiginys: 'Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI prašyti pagalbos prieš Vytautą.'
   pagrindžia:
     - c-002

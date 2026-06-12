@@ -32,23 +32,31 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
 
 ## Teiginiai
 
+<a id="claim-t-71508"></a>
 - t-001
+  global_id: t-71508
   teiginys: 'B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais XV amžiuje.'
   pagrindžia:
     - c-005
     - c-002
 
+<a id="claim-t-71509"></a>
 - t-002
+  global_id: t-71509
   teiginys: 'B. Dundulis parašė straipsnį Lietuvos TSR istorijos pirmasis tomas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71510"></a>
 - t-003
+  global_id: t-71510
   teiginys: 'B. Dundulis parašė Lietuvos konfliktas su ordinu dėl Žemaitijos sienų ir imperatoriaus atstovo B. Makros misija Lietuvoje 1413 m. bei Lietuvos kova prieš kryžiuočius Konstanco bažnytiniame susirinkime (1414-1418).'
   pagrindžia:
     - c-004
 
+<a id="claim-t-71511"></a>
 - t-004
+  global_id: t-71511
   teiginys: 'B. Dundulis parašė Lietuvos sąjunga su husitais.'
   pagrindžia:
     - c-003

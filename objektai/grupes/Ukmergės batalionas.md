@@ -16,7 +16,9 @@ Kubiliaus vadovaujamas Ukmergės batalionas, nepaisydamas smarkios priešo ugnie
 
 ## Teiginiai
 
+<a id="claim-t-39008"></a>
 - t-001
+  global_id: t-39008
   teiginys: 'J. Kubiliaus vadovaujamas Ukmergės batalionas išmušė bolševikus iš apkasų, užėmė kelis kaimus ir vėliau išstūmė rusus iš giluminių pozicijų.'
   pagrindžia:
     - c-001

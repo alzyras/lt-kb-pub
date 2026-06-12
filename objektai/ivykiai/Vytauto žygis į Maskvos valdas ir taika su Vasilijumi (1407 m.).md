@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad švi trigaila netrukus prie Okos Š vitrig a ila k o v o ja susijungė su skitų ir maskvėm a s k v ė n ų p u s ė je nų kariuomene ir, išdėstęs ka rius tarp pelkių sunkiai įvei kiamoje perėjoje, kuria Vytautas būtinai turėjo žygiuoli, užkirto jam kelią į tolesnes. Kojelavičius teigia, kad viską apgalvojęs, galop įsakė kavalerijos pul kų vadams paieškoti miškuose ir pelkėse neužkirstų pro peršų ir jomis pasileisti siaubti Vasilijaus valdų.
+Švitrigaila prie Okos susijungė su skitų ir maskvėnų kariuomene ir užkirto Vytautui kelią į Vasilijaus valdas. Vytautas įsakė kavalerijos vadams rasti neužkirstas properšas miškuose ir pelkėse bei siaubti Vasilijaus valdas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185668"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad švi trigaila netrukus prie Okos Š vitrig a ila k o v o ja susijungė su skitų ir maskvėm a s k v ė n ų p u s ė je nų kariuomene ir, išdėstęs ka rius tarp pelkių sunkiai įvei kiamoje perėjoje, kuria Vytautas būtinai turėjo žygiuoli, užkirto jam kelią į tolesnes.'
+  global_id: t-185668
+  teiginys: 'Švitrigaila prie Okos susijungė su skitų ir maskvėnų kariuomene ir užkirto Vytautui kelią į Vasilijaus valdas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185669"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad viską apgalvojęs, galop įsakė kavalerijos pul kų vadams paieškoti miškuose ir pelkėse neužkirstų pro peršų ir jomis pasileisti siaubti Vasilijaus valdų.'
+  global_id: t-185669
+  teiginys: 'Vytautas įsakė kavalerijos vadams rasti neužkirstas properšas miškuose ir pelkėse bei siaubti Vasilijaus valdas.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad švi trigaila netrukus prie Okos Š vitrig a ila k o v o ja susijungė su skitų ir maskvėm a s k v ė n ų p u s ė je nų kariuomene ir, išdėstęs ka rius tarp pelkių sunkiai įvei kiamoje perėjoje, kuria Vytautas būtinai turėjo žygiuoli, užkirto jam kelią į tolesnes.'
+  santrauka: 'Švitrigaila prie Okos susijungė su skitų ir maskvėnų kariuomene ir užkirto Vytautui kelią į Vasilijaus valdas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Patikrinęs prie
@@ -75,7 +78,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad viską apgalvojęs, galop įsakė kavalerijos pul kų vadams paieškoti miškuose ir pelkėse neužkirstų pro peršų ir jomis pasileisti siaubti Vasilijaus valdų.'
+  santrauka: 'Vytautas įsakė kavalerijos vadams rasti neužkirstas properšas miškuose ir pelkėse bei siaubti Vasilijaus valdas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Viską apgalvojęs, galop įsakė kavalerijos pul­
@@ -100,3 +103,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)]]

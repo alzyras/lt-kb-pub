@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių
 
 ## Santrauka
 
-Kojelavičius teigia, kad polocko rusai savo valstybės valdymą buvo perdavę ne vienam kunigaikščiui, bet tautai5; šitokių permainų priežastis buvo ta, kad per skitų karą buvo netekę teisėtų kunigaikščių. Kojelavičius teigia, kad tad trisdešimčiai senelių liau dis ir atidavė valdžią valstybėje; žmonės buvo kvie čiami varinio varpo dūžiais j sueigas aikštėje, kur vie šai svarstė bendrame pasitarime svarbiausius reikalus.
+Polocko rusai valstybės valdymą perdavė tautai, nes per skitų karą buvo netekę teisėtų kunigaikščių. Polocko liaudis perdavė valdžią trisdešimčiai senelių, o žmonės varinio varpo dūžiais buvo kviečiami į viešas sueigas aikštėje.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -36,20 +35,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185883"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad polocko rusai savo valstybės valdymą buvo perdavę ne vienam kunigaikščiui, bet tautai5; šitokių permainų priežastis buvo ta, kad per skitų karą buvo netekę teisėtų kunigaikščių.'
+  global_id: t-185883
+  teiginys: 'Polocko rusai valstybės valdymą perdavė tautai, nes per skitų karą buvo netekę teisėtų kunigaikščių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185884"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad tad trisdešimčiai senelių liau dis ir atidavė valdžią valstybėje; žmonės buvo kvie čiami varinio varpo dūžiais j sueigas aikštėje, kur vie šai svarstė bendrame pasitarime svarbiausius reikalus.'
+  global_id: t-185884
+  teiginys: 'Polocko liaudis perdavė valdžią trisdešimčiai senelių, o žmonės varinio varpo dūžiais buvo kviečiami į viešas sueigas aikštėje.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad polocko rusai savo valstybės valdymą buvo perdavę ne vienam kunigaikščiui, bet tautai5; šitokių permainų priežastis buvo ta, kad per skitų karą buvo netekę teisėtų kunigaikščių.'
+  santrauka: 'Polocko rusai valstybės valdymą perdavė tautai, nes per skitų karą buvo netekę teisėtų kunigaikščių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Erdvilui mirus, Naugarduko kunigaikštystę valdyti
@@ -67,7 +70,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad tad trisdešimčiai senelių liau dis ir atidavė valdžią valstybėje; žmonės buvo kvie čiami varinio varpo dūžiais j sueigas aikštėje, kur vie šai svarstė bendrame pasitarime svarbiausius reikalus.'
+  santrauka: 'Polocko liaudis perdavė valdžią trisdešimčiai senelių, o žmonės varinio varpo dūžiais buvo kviečiami į viešas sueigas aikštėje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Taigi verčiau sekite savo mokytojais graikais — ir jų
@@ -99,3 +102,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Graikai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/sueiga]]

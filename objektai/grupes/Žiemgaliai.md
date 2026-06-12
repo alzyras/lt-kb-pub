@@ -31,107 +31,149 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 
 ## Teiginiai
 
+<a id="claim-t-89339"></a>
 - t-001
+  global_id: t-89339
   teiginys: 'Žiemgaliai vėl sukilo nepakęsdami griežtos kryžiuočių valdžios.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-89340"></a>
 - t-002
+  global_id: t-89340
   teiginys: 'Traidenis varžėsi su Livonijos ordinu dėl žiemgalių žemės, kurią buvo pasidaliję kryžiuočiai ir Rygos arkivyskupas.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-89341"></a>
 - t-003
+  global_id: t-89341
   teiginys: 'Žiemgala minima tarp atskiras kalbas turėjusių duoklinių tautų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89342"></a>
 - t-004
+  global_id: t-89342
   teiginys: 'Ankstyvaisiais Viduramžiais Vakarų metraštininkai pradėjo minėti žiemgalius.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-89343"></a>
 - t-005
+  global_id: t-89343
   teiginys: '1259-1260 m. žiemą Žiemgaloje pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai negalėjo įveikti.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-89344"></a>
 - t-006
+  global_id: t-89344
   teiginys: 'Dusburgietis teigia, kad traidenis (1269—1282 m.), remdamas žiemgalius, telkė jėgas ir kovai Prūsijoje.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-89345"></a>
 - t-007
+  global_id: t-89345
   teiginys: 'Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę nuo Žagarės)^164 , jie pasistatė minėtą Dobę, kurią tuoj, sukilėliams talkininkaudami, puolė žemaičiai^165.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-89346"></a>
 - t-008
+  global_id: t-89346
   teiginys: 'Traidenis varžėsi su Livonijos ordinu dėl žiemgaliu žemės, kurią buvo pasidalinę kryžiuočiai ir Rygos arkivyskupas.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-89347"></a>
 - t-009
+  global_id: t-89347
   teiginys: 'Spindinčius metalo ginklus kronikininkai randa ir pas kuršius bei žiemgalius.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-89348"></a>
 - t-010
+  global_id: t-89348
   teiginys: 'Pietines žiemgalių ir sėlių sritis asimiliavo lietuviai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89349"></a>
 - t-011
+  global_id: t-89349
   teiginys: 'Žiemgaliai Nestoro „Povestyje“ minimi tarp rusams duoklę mokėjusių ir atskiras kalbas turėjusių tautų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89350"></a>
 - t-012
+  global_id: t-89350
   teiginys: 'Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89351"></a>
 - t-013
+  global_id: t-89351
   teiginys: 'Tuo metu, kai prūsai iš paskutiniųjų kovojo savo didžiąją kovą prieš kryžiuočius, vidaus nesutikimai Lietuvoje (1263-1270 m.) nesudarė šaliai išorinio pavojaus, juo labiau, kad ir Livonijoje buvo sukilusios tautos : estai, kuršiai, žiemgaliai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89352"></a>
 - t-014
+  global_id: t-89352
   teiginys: 'Kryžiuočiams nepavykus paimti žiemgalių Tervetės pilies, jie pasistatė Dobę, kurią puolė žemaičiai.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-89353"></a>
 - t-015
+  global_id: t-89353
   teiginys: 'Latvių ten atliktas asimiliacijos faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių sritis yra asimiliavę lietuviai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89354"></a>
 - t-016
+  global_id: t-89354
   teiginys: '1263-1270 m. Livonijoje prieš kryžiuočius buvo sukilę estai, kuršiai ir žiemgaliai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89355"></a>
 - t-017
+  global_id: t-89355
   teiginys: 'Tuomet žiemgaliai vėl sukilo, nepakęsdami kryžiuočių kietos valdžios.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-89356"></a>
 - t-018
+  global_id: t-89356
   teiginys: 'Kronikininkai mini spindinčius metalo ginklus pas žiemgalius ir kuršius.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-89357"></a>
 - t-019
+  global_id: t-89357
   teiginys: 'Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-89358"></a>
 - t-020
+  global_id: t-89358
   teiginys: 'Dusburgietis teigia, kad tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė kalavijuočiams padauguvyje27.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-182934"></a>
 - t-021
+  global_id: t-182934
   teiginys: 'Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą.'
   pagrindžia:
     - c-013

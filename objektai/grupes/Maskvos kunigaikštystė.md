@@ -29,42 +29,58 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 
 ## Teiginiai
 
+<a id="claim-t-92733"></a>
 - t-001
+  global_id: t-92733
   teiginys: 'Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-92734"></a>
 - t-002
+  global_id: t-92734
   teiginys: 'Didžioji Maskvos kunigaikštija, kurioje nuo 1425 m. viešpatavo Vytauto globojamas anūkas Vosylius, nerodė atsparumo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-92735"></a>
 - t-003
+  global_id: t-92735
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-92736"></a>
 - t-004
+  global_id: t-92736
   teiginys: 'Maskvos kunigaikščiams stiprėjant, politinė padėtis pamažu keitėsi Lietuvos nenaudai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-92737"></a>
 - t-005
+  global_id: t-92737
   teiginys: 'Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė užimti Didžiąją Maskvos kunigaikštiją ir valdyti visą Rusią.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-92738"></a>
 - t-006
+  global_id: t-92738
   teiginys: 'Rusų kronikos Vytautui priskyrė siekį, padėjus Tochtamyšui tapti chanu, pačiam įsitvirtinti Didžiojoje Maskvos kunigaikštystėje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-92740"></a>
 - t-008
+  global_id: t-92740
   teiginys: 'Maskvos kunigaikštija, kurioje viešpatavo nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos sūnus Vosylius, atsparumo nerodė.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-182909"></a>
 - t-009
+  global_id: t-182909
   teiginys: 'Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.'
   pagrindžia:
     - c-009

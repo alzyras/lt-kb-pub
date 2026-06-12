@@ -27,12 +27,16 @@ Nuo įkūrimo laikų ta bažnyčia buvo pavesta klebonams su suteiktais arkipres
 
 ## Teiginiai
 
+<a id="claim-t-86511"></a>
 - t-001
+  global_id: t-86511
   teiginys: 'Nuo įkūrimo Šv. Jono bažnyčia buvo pavesta klebonams, turėjusiems arkipresbiterių titulus ir kelis pagalbininkus kunigus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86512"></a>
 - t-002
+  global_id: t-86512
   teiginys: '1571 m. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.'
   pagrindžia:
     - c-002

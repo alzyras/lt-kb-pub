@@ -17,7 +17,9 @@ Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijo
 
 ## Teiginiai
 
+<a id="claim-t-21332"></a>
 - t-001
+  global_id: t-21332
   teiginys: 'Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.'
   pagrindžia:
     - c-001

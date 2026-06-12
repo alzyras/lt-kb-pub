@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35891"></a>
 - t-001
+  global_id: t-35891
   teiginys: '1424 m. Vytauto pasiųsta kariuomenė sumušė Užvolgio totorius, o Aukso Ordos chanu tapo Vytauto palaikomas Machmetas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184234"></a>
 - t-002
+  global_id: t-184234
   teiginys: '1424 m. Vytauto pasiųsta kariuomenė sumušė Užvolgio totorius, o Vytauto palaikomas Machmetas tapo Aukso Ordos chanu.'
   pagrindžia:
     - c-001

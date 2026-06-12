@@ -25,7 +25,9 @@ CHOTINO MŪŠIS 117 ## Puslapis 120 E -KURSO KUNIGAIKŠTYSTĖ S res Livontios KU
 
 ## Teiginiai
 
+<a id="claim-t-41477"></a>
 - t-001
+  global_id: t-41477
   teiginys: '1514 m. Rusijos užgrobtas Smolenskas buvo laikomas „vartais į Rusiją“ ir tapo Lietuvos bei Rusijos karinės konfrontacijos objektu.'
   pagrindžia:
     - c-001

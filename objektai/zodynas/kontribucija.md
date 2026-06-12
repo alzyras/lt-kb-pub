@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-181977"></a>
 - t-001
+  global_id: t-181977
   teiginys: 'Pasuko Kijevo link, paėmė iš jo 3000 rublių kontribucijos.'
   pagrindžia:
     - c-001

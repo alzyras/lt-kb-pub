@@ -25,7 +25,9 @@ Jungfer : Alt-Litauen , 1926).
 
 ## Teiginiai
 
+<a id="claim-t-31030"></a>
 - t-001
+  global_id: t-31030
   teiginys: 'V. Jungfer parengė vokišką santrauką „Alt-Litauen“.'
   pagrindžia:
     - c-001

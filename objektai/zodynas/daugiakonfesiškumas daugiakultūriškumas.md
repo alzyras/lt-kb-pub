@@ -19,12 +19,16 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
 
 ## Teiginiai
 
+<a id="claim-t-22098"></a>
 - t-001
+  global_id: t-22098
   teiginys: 'LDK daugiakonfesiškumą rodė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-22099"></a>
 - t-002
+  global_id: t-22099
   teiginys: 'Lenkijoje ir Lietuvoje tolerancijos ribos siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.'
   pagrindžia:
     - c-002

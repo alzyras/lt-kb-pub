@@ -33,123 +33,171 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 
 ## Teiginiai
 
+<a id="claim-t-169144"></a>
 - t-001
+  global_id: t-169144
   teiginys: 'Dusburgietis teigia, kad skalvių pilis Ragainėje buvo, manoma, piliakalnyje, esančiame per 2 km į pietryčius nuo dab.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-169145"></a>
 - t-002
+  global_id: t-169145
   teiginys: 'Pav., Ragainės komtūras vienu puolimu išsivedė 100 žmonių nelaisvėn.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169146"></a>
 - t-003
+  global_id: t-169146
   teiginys: 'Dusburgietis teigia, kad 1412 m. Lietuvos bajorai pareiškė kryžiuočių pasiuntiniams, jog Ragainė ir Karaliaučius kitados priklausę Lietuvai ir Lietuva vėl turinti juos atgauti, nes tai — Vytauto tėvonija40.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-169147"></a>
 - t-004
+  global_id: t-169147
   teiginys: 'Dusburgietis teigia, kad tyrinėtojai siejo Dusburgietį iš pradžių su Ragaine, po to su Karaliaučiumi.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-169148"></a>
 - t-005
+  global_id: t-169148
   teiginys: 'Dusburgietis teigia, kad ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m —Marienburgas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-169149"></a>
 - t-006
+  global_id: t-169149
   teiginys: 'Ordino pilis iš pradžių vadinta Landishute / Landeshute, o vėliau įsigalėjo baltiškasis Ragainės vardas.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-169150"></a>
 - t-007
+  global_id: t-169150
   teiginys: 'Skalviai prie Ragainės ant kalno turėjo pilį, kurią siaubė didelė rutėnų kariuomenė.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-169152"></a>
 - t-008
+  global_id: t-169152
   teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-169153"></a>
 - t-009
+  global_id: t-169153
   teiginys: 'Dusburgietis teigia, kad paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-169154"></a>
 - t-010
+  global_id: t-169154
   teiginys: '1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams teigė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-169155"></a>
 - t-011
+  global_id: t-169155
   teiginys: '1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-169156"></a>
 - t-012
+  global_id: t-169156
   teiginys: 'Dusburgietis teigia, kad apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie jo gyvenimą Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas Karaliaučiaus brolių komtūru.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-169157"></a>
 - t-013
+  global_id: t-169157
   teiginys: 'Tą pačią žiemą kryžiuočiai iš Ragainės du kartus ėjo „prieš stabmeldžius“, žudė, degino ir plėšė.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-169158"></a>
 - t-014
+  global_id: t-169158
   teiginys: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-169159"></a>
 - t-015
+  global_id: t-169159
   teiginys: 'Dusburgietis teigia, kad dievo ir švenčiausios panelės globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo į Ragainę (III, 333).'
   pagrindžia:
     - c-006
 
+<a id="claim-t-169160"></a>
 - t-016
+  global_id: t-169160
   teiginys: 'Dusburgietis teigia, kad apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių sudeginimą Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai, slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-169161"></a>
 - t-017
+  global_id: t-169161
   teiginys: 'Po Aukaimio užėmimo Draika buvo nuvestas į Ragainę ir čia pakrikštytas su visa šeimyna.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-169162"></a>
 - t-018
+  global_id: t-169162
   teiginys: 'Dusburgietis teigia, kad nuo 1289 m., kuriais buvo pastatyta Ragainės pilis (III, 235), kronikoje pasirodo daugiau smulkmenų, nurodomos įvykių dienos (142-ose III dalies skyreliuose, aprašančiuose karą prieš Lietuvą, 204 kartus jos pateiktos tiksliai), nors tarpais pasakomas tik metų.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-169163"></a>
 - t-019
+  global_id: t-169163
   teiginys: 'Ragainės komtūras Markvardas Salzbachas su 1600 raitelių prisidėjo prie Vytauto kariuomenės Kijeve.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-169164"></a>
 - t-020
+  global_id: t-169164
   teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užpuolimą 1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169165"></a>
 - t-021
-  teiginys: 'Tačiau ordinas Ragainėje juos sulaikė.'
+  global_id: t-169165
+  teiginys: '1409 m. Vokiečių ordinas Ragainėje sulaikė Jogailos Lietuvai siųstus javus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185118"></a>
 - t-023
-  teiginys: 'Kojelavičius teigia, kad kanonas, 1299 m e ta i Brandenburgo komtūras, su nemaža kariuomene įsibro vęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos bei Pieštvės papilyse namus, o po to, papildęs kariuo menę stipriu Ragainės būriu, nugabeno ją laivais į krašto gilumą.'
+  global_id: t-185118
+  teiginys: '1299 m. Brandenburgo komtūras Kanonas papildė kariuomenę stipriu Ragainės būriu ir laivais nuplukdė ją į Lietuvos gilumą.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-185119"></a>
 - t-024
-  teiginys: 'Kojelavičius teigia, kad rugpjūčio viduryje žemaičiai nuniokojo Ragainės ir Skalvių apylinkes.'
+  global_id: t-185119
+  teiginys: 'Rugpjūčio viduryje žemaičiai nuniokojo Ragainės ir Skalvių apylinkes.'
   pagrindžia:
     - c-020
 
+<a id="claim-t-185120"></a>
 - t-025
-  teiginys: 'Kojelavičius teigia, kad iš pradžių Ragainės komtūras išsklaidė dar bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė pradėtą pilį.'
+  global_id: t-185120
+  teiginys: 'Ragainės komtūras išsklaidė Kauno tvirtovę atstatinėjusius darbininkus ir išardė pradėtą pilį.'
   pagrindžia:
     - c-021
 
@@ -168,6 +216,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-002
 
 - c-002
+  santrauka: '1409 m. Vokiečių ordinas Ragainėje sulaikė Jogailos Lietuvai siųstus javus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tais pačiais 1409 m. Lietuvoje buvo nederlius. Jogaila, norė-
@@ -468,7 +517,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-012
 
 - c-019
-  santrauka: 'Kojelavičius teigia, kad kanonas, 1299 m e ta i Brandenburgo komtūras, su nemaža kariuomene įsibro vęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos bei Pieštvės papilyse namus, o po to, papildęs kariuo menę stipriu Ragainės būriu, nugabeno ją laivais į krašto gilumą.'
+  santrauka: '1299 m. Brandenburgo komtūras Kanonas papildė kariuomenę stipriu Ragainės būriu ir laivais nuplukdė ją į Lietuvos gilumą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kur kas didesnės sėkmės kitais metais susilaukė šeši
@@ -494,7 +543,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-023
 
 - c-020
-  santrauka: 'Kojelavičius teigia, kad rugpjūčio viduryje žemaičiai nuniokojo Ragainės ir Skalvių apylinkes.'
+  santrauka: 'Rugpjūčio viduryje žemaičiai nuniokojo Ragainės ir Skalvių apylinkes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kaip
@@ -519,7 +568,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-024
 
 - c-021
-  santrauka: 'Kojelavičius teigia, kad iš pradžių Ragainės komtūras išsklaidė dar bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė pradėtą pilį.'
+  santrauka: 'Ragainės komtūras išsklaidė Kauno tvirtovę atstatinėjusius darbininkus ir išardė pradėtą pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kita vertus, priešas irgi iš pas­

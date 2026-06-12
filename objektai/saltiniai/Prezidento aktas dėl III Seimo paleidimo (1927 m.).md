@@ -24,7 +24,9 @@ Pajaujo suėmimą, nepritarus vyriausybės deklaracijai, 1927 m. balandžio 12 d
 
 ## Teiginiai
 
+<a id="claim-t-21234"></a>
 - t-001
+  global_id: t-21234
   teiginys: '1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas, o nauji rinkimai neskelbti, teisinantis rengiamu plebiscitu.'
   pagrindžia:
     - c-001

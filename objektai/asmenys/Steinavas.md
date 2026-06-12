@@ -18,12 +18,16 @@ Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notang�
 
 ## Teiginiai
 
+<a id="claim-t-60208"></a>
 - t-001
+  global_id: t-60208
   teiginys: 'Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60209"></a>
 - t-002
+  global_id: t-60209
   teiginys: 'Dusburgietis teigia, kad tuo tarpu Steinavas nuvyko pas Karaliaučiaus komtūrą ir išdavė šią paslaptį, patardamas šiam traukti su savo kariuomene drauge su juo.'
   pagrindžia:
     - c-002

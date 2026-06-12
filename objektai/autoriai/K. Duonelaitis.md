@@ -21,17 +21,23 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
 
 ## Teiginiai
 
+<a id="claim-t-00045"></a>
 - t-001
+  global_id: t-00045
   teiginys: 'K. Duonelaitis vadintas didžiuoju Mažosios Lietuvos poetu ir skundėsi, kad kolonistai kraštą užkrėtė nedorybėmis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-00046"></a>
 - t-002
+  global_id: t-00046
   teiginys: 'Rėza 1818 m. pirmą kartą paskelbė K. Duonelaičio raštus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-00047"></a>
 - t-003
+  global_id: t-00047
   teiginys: 'Spaudos draudimo metu Amerikoje buvo išleisti K. Duonelaičio ir kitų žymesniųjų lietuvių autorių raštai.'
   pagrindžia:
     - c-002

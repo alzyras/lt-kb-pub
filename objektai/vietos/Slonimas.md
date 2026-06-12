@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86105"></a>
 - t-001
+  global_id: t-86105
   teiginys: 'Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mongolams, puolusiems Lietuvą.'
   pagrindžia:
     - c-001

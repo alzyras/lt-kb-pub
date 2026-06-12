@@ -19,7 +19,9 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
 
 ## Teiginiai
 
+<a id="claim-t-40301"></a>
 - t-001
+  global_id: t-40301
   teiginys: 'Kutlubuga buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų-kunigaikščių.'
   pagrindžia:
     - c-001

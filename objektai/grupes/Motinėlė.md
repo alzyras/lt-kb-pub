@@ -26,7 +26,9 @@ Taip antai, Federacijos įkurta (1899 m.) „Motinėlė", kuri, jos remiama, še
 
 ## Teiginiai
 
+<a id="claim-t-74052"></a>
 - t-001
+  global_id: t-74052
   teiginys: '1899 m. Federacijos įkurta „Motinėlė“ šelpė lietuvius moksleivius ir skyrė stipendijas studentams Amerikos bei Europos universitetuose.'
   pagrindžia:
     - c-001

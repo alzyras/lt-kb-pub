@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-26380"></a>
 - t-001
+  global_id: t-26380
   teiginys: '1979 m. rugpjūčio 23 d. LLL kreipėsi į JT Generalinę Asamblėją, reikalaudama dekolonizuoti tris Baltijos valstybes.'
   pagrindžia:
     - c-001

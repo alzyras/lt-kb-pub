@@ -28,7 +28,9 @@ Dundulis, B.
 
 ## Teiginiai
 
+<a id="claim-t-31624"></a>
 - t-001
+  global_id: t-31624
   teiginys: 'B. Dundulio „Žemaičių sukilimai prieš teutoniškuosius pavergėjus 1401 ir 1409 m.“ paskelbtas VUMD 6 tome 1955 m.'
   pagrindžia:
     - c-001

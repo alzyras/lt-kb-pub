@@ -25,7 +25,9 @@ Michelbertas (AkMD, t.
 
 ## Teiginiai
 
+<a id="claim-t-30843"></a>
 - t-001
+  global_id: t-30843
   teiginys: 'M. Michelbertas skelbė Rudaičių ir Veliuonos kapinynų duomenis ir rašė apie Romos monetų radinius Lietuvoje I-V a.'
   pagrindžia:
     - c-001

@@ -25,17 +25,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-23418"></a>
 - t-001
+  global_id: t-23418
   teiginys: '„Wiadomości literackie“ pradėjo eiti 1760 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23419"></a>
 - t-002
+  global_id: t-23419
   teiginys: '„Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23420"></a>
 - t-003
+  global_id: t-23420
   teiginys: 'Beveik vienu metu iškilo du nauji Lietuvos kultūros reiškiniai – 1759 m. išleistas pirmasis lietuvių kalbos elementorius, o 1760 m. pradėjo eiti pirmieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
 
 ## Teiginiai
 
+<a id="claim-t-22223"></a>
 - t-001
+  global_id: t-22223
   teiginys: 'Litviš buvo Lietuvoje susiformavusi jidiš kalbos tarmė, ilgainiui tapusi norminės jidiš kalbos pagrindu.'
   pagrindžia:
     - c-001

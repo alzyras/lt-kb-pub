@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lietuvių pagalba Konradui užimant Gostininą ir vėlesnis įsiveržimas į Mazoviją
 
 ## Santrauka
 
-Kojelavičius teigia, kad vasarai įpusėjus, lietuviai galop sulaukė ramybės ir netgi surengė vieną kitą žygį į svetimą kraštą. Kojelavičius teigia, kad žinoma, visada pavojinga telktis priešą į pa galbą, nes jis trumpą ginklų draugystę gali slaptai panau doti savo reikalams ir, išty ręs padėtį kaip draugas, vė liau kur kas saugiau veikti kaip priešas; šito susilaukė ir Konradas.
+Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį perdavė Konradui. Po Gostinino žygio lietuviai su didesnėmis pajėgomis grįžo į Konrado valdas ir iš sąjungininkų tapo priešais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185744"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vasarai įpusėjus, lietuviai galop sulaukė ramybės ir netgi surengė vieną kitą žygį į svetimą kraštą.'
+  global_id: t-185744
+  teiginys: 'Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį perdavė Konradui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185745"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad žinoma, visada pavojinga telktis priešą į pa galbą, nes jis trumpą ginklų draugystę gali slaptai panau doti savo reikalams ir, išty ręs padėtį kaip draugas, vė liau kur kas saugiau veikti kaip priešas; šito susilaukė ir Konradas.'
+  global_id: t-185745
+  teiginys: 'Po Gostinino žygio lietuviai su didesnėmis pajėgomis grįžo į Konrado valdas ir iš sąjungininkų tapo priešais.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vasarai įpusėjus, lietuviai galop sulaukė ramybės ir netgi surengė vieną kitą žygį į svetimą kraštą.'
+  santrauka: 'Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį perdavė Konradui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vasarai įpusėjus, lietuviai galop sulaukė ramybės ir
@@ -64,7 +67,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad žinoma, visada pavojinga telktis priešą į pa galbą, nes jis trumpą ginklų draugystę gali slaptai panau doti savo reikalams ir, išty ręs padėtį kaip draugas, vė liau kur kas saugiau veikti kaip priešas; šito susilaukė ir Konradas.'
+  santrauka: 'Po Gostinino žygio lietuviai su didesnėmis pajėgomis grįžo į Konrado valdas ir iš sąjungininkų tapo priešais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žinoma, visada
@@ -91,3 +94,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/posakiai/Ugnimi ir kalaviju]]
+- [[objektai/zodynas/žygis]]

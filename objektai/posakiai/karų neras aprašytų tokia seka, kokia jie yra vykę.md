@@ -18,7 +18,9 @@ Dusburgietis teigia, kad pastarojo pasakojimo pradžioje kronikininkas pažymi, 
 
 ## Teiginiai
 
+<a id="claim-t-59113"></a>
 - t-001
+  global_id: t-59113
   teiginys: 'Antrojo prūsų sukilimo karai aprašyti ne visada chronologine seka, nes daugelio įvykių laikas išblėso iš gyvųjų atminties.'
   pagrindžia:
     - c-001

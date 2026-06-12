@@ -16,13 +16,17 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
 
 ## Teiginiai
 
+<a id="claim-t-03041"></a>
 - t-001
+  global_id: t-03041
   teiginys: 'Bermontininkai nuginklavo ir išvaikė ten buvusias Lietuvos komendantūras, o paskui ėmė vieni šeimininkauti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182953"></a>
 - t-002
-  teiginys: 'Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias Lietuvos komendantūras ir ėmė vieni šeimininkauti.'
+  global_id: t-182953
+  teiginys: 'Bermontininkai nuginklavo ir išvaikė buvusias Lietuvos komendantūras, o paskui ėmė vieni šeimininkauti.'
   pagrindžia:
     - c-002
 
@@ -45,7 +49,7 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
     - t-001
 
 - c-002
-  santrauka: 'Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias Lietuvos komendantūras ir ėmė vieni šeimininkauti.'
+  santrauka: 'Bermontininkai nuginklavo ir išvaikė buvusias Lietuvos komendantūras, o paskui ėmė vieni šeimininkauti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos vyriau-

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Višniovecas
 
 ## Santrauka
 
-Kojelavičius teigia, kad išgarsėjęs daugybe žygių, jis Iš jo v e d a s a v o k ilm ę įkūrė Zbaražo ir Višnioveco V iš n io v e c o k u n igaikmiestus.
+Išgarsėjęs daugybe žygių, Dimitras įkūrė Zbaražo ir Višnioveco miestus.
 
 ## Teiginiai
 
+<a id="claim-t-185320"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad išgarsėjęs daugybe žygių, jis Iš jo v e d a s a v o k ilm ę įkūrė Zbaražo ir Višnioveco V iš n io v e c o k u n igaikmiestus.'
+  global_id: t-185320
+  teiginys: 'Išgarsėjęs daugybe žygių, Dimitras įkūrė Zbaražo ir Višnioveco miestus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad išgarsėjęs daugybe žygių, jis Iš jo v e d a s a v o k ilm ę įkūrė Zbaražo ir Višnioveco V iš n io v e c o k u n igaikmiestus.'
+  santrauka: 'Išgarsėjęs daugybe žygių, Dimitras įkūrė Zbaražo ir Višnioveco miestus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pasitenkinęs

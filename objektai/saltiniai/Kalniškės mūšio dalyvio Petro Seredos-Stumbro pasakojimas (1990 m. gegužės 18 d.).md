@@ -31,17 +31,23 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
 
 ## Teiginiai
 
+<a id="claim-t-78855"></a>
 - t-001
+  global_id: t-78855
   teiginys: '»---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD kariuomenė. Simno stribų prašymu mišką apsupo iš vakaro. Keletas partizanų išėjo į kaimą. Sugrįžę apie 24 val. pas ūkininką, miške radome pilna vyrų. Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai sukilo ir išėjo į savo vietas. Iš kaimo atbėgo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78856"></a>
 - t-002
+  global_id: t-78856
   teiginys: 'Petras Sereda-Stumbras pasakojo, kad NKVD kariuomenė Kalniškės mišką apsupo iš vakaro Simno stribų prašymu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78857"></a>
 - t-003
+  global_id: t-78857
   teiginys: 'Petras Sereda-Stumbras pasakojo, kad 1945 m. gegužės 16 d. Kalniškės miške apie 100 partizanų būrį apsupo NKVD kariuomenė.'
   pagrindžia:
     - c-002

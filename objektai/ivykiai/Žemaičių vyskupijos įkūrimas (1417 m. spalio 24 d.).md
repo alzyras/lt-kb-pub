@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-34526"></a>
 - t-001
+  global_id: t-34526
   teiginys: 'Varniuose Vytauto pastatyta bažnyčia buvo pašventinta Žemaičių vyskupijos katedra šv. Aleksandro vardu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-34527"></a>
 - t-002
+  global_id: t-34527
   teiginys: 'Žemaičių arba Medininkų vyskupija buvo įkurta 1417 m. spalio 24 d. kaip antroji Lietuvos vyskupija.'
   pagrindžia:
     - c-001

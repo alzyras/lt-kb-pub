@@ -25,17 +25,23 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
 
 ## Teiginiai
 
+<a id="claim-t-40632"></a>
 - t-001
+  global_id: t-40632
   teiginys: 'Juozas Daumantas aprašė Tauro apygardos partizanų 1945 m. Kalėdų apsilankymą pas ūkininką, pasibaigusį susišaudymu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40634"></a>
 - t-002
+  global_id: t-40634
   teiginys: 'Juozas Daumantas rašė apie stribus, sovietiniams okupantams talkinusius kolaborantus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183697"></a>
 - t-003
+  global_id: t-183697
   teiginys: 'STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinusius kolaborantus.'
   pagrindžia:
     - c-003

@@ -26,7 +26,9 @@ Lietuva žemėlapiuose.
 
 ## Teiginiai
 
+<a id="claim-t-45684"></a>
 - t-001
+  global_id: t-45684
   teiginys: '„Lietuva žemėlapiuose“ antrąjį papildytą leidimą sudarė A. Bieliūnienė ir kiti, jis išleistas Vilniuje 2011 m.'
   pagrindžia:
     - c-001

@@ -26,7 +26,9 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 
 ## Teiginiai
 
+<a id="claim-t-87929"></a>
 - t-001
+  global_id: t-87929
   teiginys: '1386 metais Plocko vyskupas Stanislovas su Kijevo vyskupu Mykolu pašventino Šv. Jono bažnyčią.'
   pagrindžia:
     - c-001

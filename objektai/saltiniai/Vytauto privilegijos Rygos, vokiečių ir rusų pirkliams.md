@@ -19,7 +19,9 @@ Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­ odą, toli buvo
 
 ## Teiginiai
 
+<a id="claim-t-88505"></a>
 - t-001
+  global_id: t-88505
   teiginys: 'Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams liudija jo rūpinimąsi prekyba Vilniuje ir visoje šalyje.'
   pagrindžia:
     - c-001

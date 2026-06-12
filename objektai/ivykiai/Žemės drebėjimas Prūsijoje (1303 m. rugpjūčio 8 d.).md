@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62549"></a>
 - t-001
+  global_id: t-62549
   teiginys: 'Dusburgietis teigia, kad apie žemės drebėjimą Prūsijos žemėje Tų pačių metų rugpjūčio 8 dieną, apie trečią valandą, visoje Prūsijoje drebėjo žemė.'
   pagrindžia:
     - c-001

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad stankiewicz J.
 
 ## Teiginiai
 
+<a id="claim-t-61297"></a>
 - t-001
+  global_id: t-61297
   teiginys: 'J. Stankiewicziaus „Twierdza Toruń“ publikuota 1972 m. ZHPB 37 tomo 4 sąsiuvinyje.'
   pagrindžia:
     - c-001

@@ -16,12 +16,16 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
 
 ## Teiginiai
 
+<a id="claim-t-91895"></a>
 - t-001
+  global_id: t-91895
   teiginys: 'Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-91896"></a>
 - t-002
+  global_id: t-91896
   teiginys: 'Dusburgietis teigia, kad , p. Žirgupė Žydai Žuvintas, ež.'
   pagrindžia:
     - c-001

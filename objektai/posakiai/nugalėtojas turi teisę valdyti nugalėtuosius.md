@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # nugalėtojas turi teisę valdyti nugalėtuosius
 
 ## Santrauka
 
-Kojelavičius teigia, kad lietuviai, net būdami pagonys, teisėtai valdę Rusios krikščionis (rutėnus, arba rusinus) — pravos lavus, nes buvo juos nukariavę.
+Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nugalėtojas turi teisę valdyti nugalėtuosius.
 
 ## Teiginiai
 
+<a id="claim-t-185479"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad lietuviai, net būdami pagonys, teisėtai valdę Rusios krikščionis (rutėnus, arba rusinus) — pravos lavus, nes buvo juos nukariavę.'
+  global_id: t-185479
+  teiginys: 'Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nugalėtojas turi teisę valdyti nugalėtuosius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad lietuviai, net būdami pagonys, teisėtai valdę Rusios krikščionis (rutėnus, arba rusinus) — pravos lavus, nes buvo juos nukariavę.'
+  santrauka: 'Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nugalėtojas turi teisę valdyti nugalėtuosius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lietuviai, net būdami pagonys, teisėtai valdę
@@ -36,3 +37,7 @@ Kojelavičius teigia, kad lietuviai, net būdami pagonys, teisėtai valdę Rusio
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

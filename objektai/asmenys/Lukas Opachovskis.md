@@ -28,7 +28,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87768"></a>
 - t-001
+  global_id: t-87768
   teiginys: '1563 m. Vilniaus burmistras Lukas Opachovskis atstovavo Lietuvos Didžiosios Kunigaikštystės miestams Karalystės seime Varšuvoje.'
   pagrindžia:
     - c-001

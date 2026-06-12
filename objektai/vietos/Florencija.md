@@ -25,17 +25,23 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 
 ## Teiginiai
 
+<a id="claim-t-83346"></a>
 - t-001
+  global_id: t-83346
   teiginys: '1434 m. spalio 20 d. popiežius Eugenijus IV iš Florencijos parašė Žygimantui Kęstutaičiui laišką dėl Sofijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-83347"></a>
 - t-002
+  global_id: t-83347
   teiginys: 'Popiežius Eugenijus IV 1434 m. spalio 20 d. iš Florencijos rašytame laiške užtarė Sofiją Žygimantui Kęstutaičiui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-83348"></a>
 - t-003
+  global_id: t-83348
   teiginys: 'Florencijoje galutinai susitarta dėl Bažnyčių unijos, kuri 1452 m. buvo paskelbta Konstantinopolyje.'
   pagrindžia:
     - c-002

@@ -19,7 +19,9 @@ Atėję prie Ukros upės kranto, sąjungininkai sustojo. Čia Vytautas ėmė tva
 
 ## Teiginiai
 
+<a id="claim-t-36634"></a>
 - t-001
+  global_id: t-36634
   teiginys: 'Prie Ukros upės sąjungininkai sustojo, o Vytautas pradėjo tvarkyti savo kariuomenę.'
   pagrindžia:
     - c-001

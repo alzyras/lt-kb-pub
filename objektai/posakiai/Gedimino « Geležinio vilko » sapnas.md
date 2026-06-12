@@ -25,17 +25,23 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 
 ## Teiginiai
 
+<a id="claim-t-97290"></a>
 - t-001
+  global_id: t-97290
   teiginys: 'Geležinio vilko legenda, be abejo, primena Romos vilkę, kai jau lietuviai buvo įsisąmoninę apie savo kilmę iš romėnų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-97291"></a>
 - t-002
+  global_id: t-97291
   teiginys: 'Nuo XIX a. Vilniaus įkūrimo legenda siejo miesto pradžią su Gedimino medžiokle ant Taurakalnio ir geležinio vilko sapnu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-97292"></a>
 - t-003
+  global_id: t-97292
   teiginys: 'Vilniaus įkūrimo legendoje Gediminas po medžioklės Šventaragio slėnyje susapnavo geležinį vilką, o sapną išaiškino Lizdeika.'
   pagrindžia:
     - c-001

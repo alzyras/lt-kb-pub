@@ -17,7 +17,9 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 
 ## Teiginiai
 
+<a id="claim-t-21342"></a>
 - t-001
+  global_id: t-21342
   teiginys: '1917 m. Berno konferencijoje lietuvių atstovai numatė reikalauti Alūkštos apskrities Kurše iki Dauguvos upės.'
   pagrindžia:
     - c-001

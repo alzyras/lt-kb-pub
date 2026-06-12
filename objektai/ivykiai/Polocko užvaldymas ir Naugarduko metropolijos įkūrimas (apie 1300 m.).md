@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31466"></a>
 - t-001
+  global_id: t-31466
   teiginys: 'Apie 1300 m. Polockas ilgam buvo prijungtas prie Lietuvos, nors po Mindaugo mirties buvo nuo jos atsipalaidavęs.'
   pagrindžia:
     - c-001

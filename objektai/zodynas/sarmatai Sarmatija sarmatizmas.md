@@ -12,24 +12,25 @@ atnaujinta: ''
 amziai:
   - 'XVII'
 ---
-
 # sarmatai Sarmatija sarmatizmas
 
 ## Santrauka
 
-Kojelavičius teigia, kad iš sarmatų save kildino Lenkijos šlėktos, tuo rem dami pažiūrą, kad būtent jų protėviai ir lėmė daugelio Europos tau tų istoriją.
+Lenkijos šlėktos kildino save iš sarmatų ir tuo rėmė pažiūrą apie savo protėvių įtaką Europos tautų istorijai.
 
 ## Teiginiai
 
+<a id="claim-t-185368"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad iš sarmatų save kildino Lenkijos šlėktos, tuo rem dami pažiūrą, kad būtent jų protėviai ir lėmė daugelio Europos tau tų istoriją.'
+  global_id: t-185368
+  teiginys: 'Lenkijos šlėktos kildino save iš sarmatų ir tuo rėmė pažiūrą apie savo protėvių įtaką Europos tautų istorijai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad iš sarmatų save kildino Lenkijos šlėktos, tuo rem dami pažiūrą, kad būtent jų protėviai ir lėmė daugelio Europos tau tų istoriją.'
+  santrauka: 'Lenkijos šlėktos kildino save iš sarmatų ir tuo rėmė pažiūrą apie savo protėvių įtaką Europos tautų istorijai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš sarmatų save kildino Lenkijos šlėktos, tuo rem­
@@ -49,3 +50,9 @@ Kojelavičius teigia, kad iš sarmatų save kildino Lenkijos šlėktos, tuo rem 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/šlėkta]]

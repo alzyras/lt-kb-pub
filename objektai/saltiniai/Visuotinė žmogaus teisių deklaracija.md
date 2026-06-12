@@ -16,7 +16,9 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
 
 ## Teiginiai
 
+<a id="claim-t-21316"></a>
 - t-001
+  global_id: t-21316
   teiginys: 'Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų žmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m. patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai jos nepaisė.'
   pagrindžia:
     - c-001

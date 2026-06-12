@@ -30,88 +30,122 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 
 ## Teiginiai
 
+<a id="claim-t-05200"></a>
 - t-001
+  global_id: t-05200
   teiginys: 'Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu baltų žemių jungėju.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05201"></a>
 - t-002
+  global_id: t-05201
   teiginys: 'Traidenis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I dukterį Liudmilą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-05202"></a>
 - t-003
+  global_id: t-05202
   teiginys: '1279 m. Płocko Boleslovas II vedė Traidenio dukrą Gaudimantę, per krikštą gavusią Sofijos vardą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-05203"></a>
 - t-004
+  global_id: t-05203
   teiginys: 'Traidenis buvo pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-90044"></a>
 - t-005
+  global_id: t-90044
   teiginys: 'Viename dokumente pasakojama, kad kunigaikštis Traidenis įsiveržė į Dobrynės žemę.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-90045"></a>
 - t-006
+  global_id: t-90045
   teiginys: 'Traidenis net kelis kartus skaudžiai sumušė Livonijos ordino kariuomenę ir ne kartą su savo kariuomene skersai ir išilgai išvaikščiojo ordino žemes, tačiau nepajėgė sugriauti jo galingų pilių.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-90046"></a>
 - t-007
+  global_id: t-90046
   teiginys: 'Dusburgietis teigia, kad traidenis (1269—1282 m.), remdamas žiemgalius, telkė jėgas ir kovai Prūsijoje.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-90047"></a>
 - t-008
+  global_id: t-90047
   teiginys: 'I1L Kunigaikštis Traidenis, kunigaikščio Dovydo Dovydavičiaus sūnus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-90048"></a>
 - t-009
+  global_id: t-90048
   teiginys: 'Pirmasis iškilo Kernavės kunigaikštis Traidenis.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-90050"></a>
 - t-010
+  global_id: t-90050
   teiginys: 'Viename dokumente pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-90051"></a>
 - t-011
+  global_id: t-90051
   teiginys: 'Traidenio dukra Gaudimantė 1279 m. ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-90052"></a>
 - t-012
+  global_id: t-90052
   teiginys: 'Pats Traidenis, pietuose atrėmęs priešo atakas, 1272 m. prie Vakarų Bugo, pasiuntęs ten gardiniečius, užėmė Drohičiną (dab.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-90055"></a>
 - t-013
+  global_id: t-90055
   teiginys: 'Dusburgietis teigia, kad 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III, 204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes, pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį po Ordino užnugarį.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-90056"></a>
 - t-014
+  global_id: t-90056
   teiginys: '1272 m. Traidenis, pasiuntęs gardiniečius, užėmė prie Vakarų Bugo buvusį Drohičiną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90058"></a>
 - t-015
+  global_id: t-90058
   teiginys: 'Žymus Lietuvos valdovas ir karo vadas Traidenis atkakliai gynė Lietuvą bei kitus baltus plačiuose frontuose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184844"></a>
 - t-017
-  teiginys: 'Kojelavičius teigia, kad mat tie, kurie vadinami jo sūnumis, buvo jau to kio amžiaus, kad jauniausias iš jų, Traidenis, Romuntui dar gyvam esant, vadovavo kariuomenei kaip vyriausiasis vadas.'
+  global_id: t-184844
+  teiginys: 'Kojelavičiaus pasakojime Traidenis dar Romuntui gyvam esant vadovavo kariuomenei kaip vyriausiasis vadas.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-184845"></a>
 - t-018
-  teiginys: 'Kojelavičius teigia, kad valdovo sūnus ar seserėnas Traidenis, pačiam Giliginui dar esant gyvam, išsivedė sutelkęs ir apgink lavęs asmeniškomis lėšomis trisdešimties tūkstančių kariuomenę iš Lietuvos ir Prūsijos: su trečdaliu kariuo menės jis nusiaubė Mazoviją, o su likusiais dviem.'
+  global_id: t-184845
+  teiginys: 'Traidenis, Giliginui dar gyvam esant, su trisdešimties tūkstančių kariuomene nusiaubė Mazoviją ir Kulmo žemę.'
   pagrindžia:
     - c-013
 
@@ -290,7 +324,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-013
 
 - c-012
-  santrauka: 'Kojelavičius teigia, kad mat tie, kurie vadinami jo sūnumis, buvo jau to kio amžiaus, kad jauniausias iš jų, Traidenis, Romuntui dar gyvam esant, vadovavo kariuomenei kaip vyriausiasis vadas.'
+  santrauka: 'Kojelavičiaus pasakojime Traidenis dar Romuntui gyvam esant vadovavo kariuomenei kaip vyriausiasis vadas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kaip tei­
@@ -313,7 +347,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-017
 
 - c-013
-  santrauka: 'Kojelavičius teigia, kad valdovo sūnus ar seserėnas Traidenis, pačiam Giliginui dar esant gyvam, išsivedė sutelkęs ir apgink lavęs asmeniškomis lėšomis trisdešimties tūkstančių kariuomenę iš Lietuvos ir Prūsijos: su trečdaliu kariuo menės jis nusiaubė Mazoviją, o su likusiais dviem.'
+  santrauka: 'Traidenis, Giliginui dar gyvam esant, su trisdešimties tūkstančių kariuomene nusiaubė Mazoviją ir Kulmo žemę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vargu ar galima patikėti, kad per
@@ -333,3 +367,45 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   statusas: verified
   pagrindžia:
     - t-018
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/asmenys/Giliginas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Nameisis]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Sūduviai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/asmenys/Šventaragis]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/daiktai/Apgulties mašinos]]
+- [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
+- [[objektai/grupes/Gudai]]
+- [[objektai/ivykiai/Kernavės susirinkimas ir Narimanto išrinkimas valdovu]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/ivykiai/Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.)]]
+- [[objektai/posakiai/Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/grupes/Mazovijos kunigaikščiai]]
+- [[objektai/ivykiai/Nameisio vadovaujamas Lietuvos žygis po Ordino užnugarį (1281 m.)]]
+- [[objektai/asmenys/Sirputis (Traidenio brolis)]]
+- [[objektai/ivykiai/Skomanto vadovaujamas sūduvių ir lietuvių žygis į Ordino valdas pavyslyje (1277 m.)]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/ivykiai/Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)]]
+- [[objektai/posakiai/Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/lietopisis]]
+- [[objektai/zodynas/lietopisis lietopisiai]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/tautiška politika]]
+- [[objektai/posakiai/„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“]]
+- [[objektai/posakiai/„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“]]
+- [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]
+- [[objektai/asmenys/Traidenis I]]

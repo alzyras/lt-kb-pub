@@ -25,12 +25,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-78114"></a>
 - t-001
+  global_id: t-78114
   teiginys: 'Tai bene žinomiausia tautinė Lietuvos valstybės ir lietuvių tautos istorija, padariusi ir tebedaranti įtaką ir dabartinėms kartoms.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78115"></a>
 - t-002
+  global_id: t-78115
   teiginys: '1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.'
   pagrindžia:
     - c-002

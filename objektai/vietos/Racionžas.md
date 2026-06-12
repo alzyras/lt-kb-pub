@@ -27,14 +27,17 @@ Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.
 
 ## Teiginiai
 
+<a id="claim-t-178158"></a>
 - t-001
-  teiginys: 'Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.'
+  global_id: t-178158
+  teiginys: '1404 m. Racionže buvo sudaryta nauja taika su Vokiečių ordinu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1404 m. Racionže buvo sudaryta nauja taika su Vokiečių ordinu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytautui buvo svarbu turėti laisvas rankas atsi-

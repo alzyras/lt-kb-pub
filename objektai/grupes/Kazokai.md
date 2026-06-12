@@ -26,32 +26,44 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-65304"></a>
 - t-001
+  global_id: t-65304
   teiginys: 'Bėgantį priešą pradėjo vytis ir kazokai, kurie, įsiveržę į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-65305"></a>
 - t-002
+  global_id: t-65305
   teiginys: 'Šio sparno jėga - reitarų sutelkta ugnis, husarų geležinis smūgis, Lietuvos totorių ir kazokų manevringumas persekiojant bėgantį priešą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-65306"></a>
 - t-003
+  global_id: t-65306
   teiginys: 'Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija atakavo atskirai įsikūrusių Ukrainos kazokų stovyklą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-65307"></a>
 - t-004
+  global_id: t-65307
   teiginys: '1906 m. pavasarį caro valdžia kazokų ir kariuomenės pastangomis atkūrė savo kiek pakoreguotą tvarką.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-65308"></a>
 - t-005
+  global_id: t-65308
   teiginys: '1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65309"></a>
 - t-006
+  global_id: t-65309
   teiginys: 'Kazokai buvo lengvoji raitija, kurios paskirtis buvo paremti husarus mūšyje ir naikinti jų sumuštus eskadronus.'
   pagrindžia:
     - c-005

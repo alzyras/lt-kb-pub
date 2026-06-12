@@ -26,7 +26,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-39909"></a>
 - t-001
+  global_id: t-39909
   teiginys: 'Salaspilio mūšis yra 2010 m. Vilniuje išleistas Pieterio Snayerso paveikslo parodos informacinis leidinys.'
   pagrindžia:
     - c-001

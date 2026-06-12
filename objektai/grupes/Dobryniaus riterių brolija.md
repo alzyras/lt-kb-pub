@@ -24,7 +24,9 @@ Bet jam nesisekė, ir jo įkurtoji Dobryniaus riterių brolija neturėjo jėgos.
 
 ## Teiginiai
 
+<a id="claim-t-99990"></a>
 - t-001
+  global_id: t-99990
   teiginys: 'Kristijono įkurtoji Dobryniaus riterių brolija neturėjo jėgos.'
   pagrindžia:
     - c-001

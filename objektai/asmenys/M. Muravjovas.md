@@ -29,22 +29,30 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 
 ## Teiginiai
 
+<a id="claim-t-78022"></a>
 - t-001
+  global_id: t-78022
   teiginys: 'Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, šis draudimas išplėstas į visą Rusijos imperijos teritoriją ir galiojo ligi 1904 m. pavasario.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78023"></a>
 - t-002
+  global_id: t-78023
   teiginys: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78024"></a>
 - t-003
+  global_id: t-78024
   teiginys: 'Muravjovo Koriko laikais XIX a.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78025"></a>
 - t-004
+  global_id: t-78025
   teiginys: 'Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vilniaus švietimo apygardos globėju.'
   pagrindžia:
     - c-004

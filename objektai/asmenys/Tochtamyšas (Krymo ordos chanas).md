@@ -27,7 +27,9 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 
 ## Teiginiai
 
+<a id="claim-t-35297"></a>
 - t-001
+  global_id: t-35297
   teiginys: 'Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą.'
   pagrindžia:
     - c-001

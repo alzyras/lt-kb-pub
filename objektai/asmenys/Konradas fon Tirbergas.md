@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Konradas fon Tirbergas
 
 ## Santrauka
 
-Kojelavičius teigia, kad mat šis, ki lęs iš Lietuvos didžiųjų ku nigaikščių, Treniotos ar Dau manto sūnus, persekiojamas L ie tu v a n io k o ja m a k ry žiu o č ių užšalęs Nemunas leidoleng vai persikelti ledu, įsiveržė į Lietuvą vedami magistro Konrado fon Tirbergo.
+Kryžiuočiai, vedami magistro Konrado fon Tirbergo, užšalus Nemunui ledu įsiveržė į Lietuvą.
 
 ## Teiginiai
 
+<a id="claim-t-186129"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mat šis, ki lęs iš Lietuvos didžiųjų ku nigaikščių, Treniotos ar Dau manto sūnus, persekiojamas L ie tu v a n io k o ja m a k ry žiu o č ių užšalęs Nemunas leidoleng vai persikelti ledu, įsiveržė į Lietuvą vedami magistro Konrado fon Tirbergo.'
+  global_id: t-186129
+  teiginys: 'Kryžiuočiai, vedami magistro Konrado fon Tirbergo, užšalus Nemunui ledu įsiveržė į Lietuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mat šis, ki lęs iš Lietuvos didžiųjų ku nigaikščių, Treniotos ar Dau manto sūnus, persekiojamas L ie tu v a n io k o ja m a k ry žiu o č ių užšalęs Nemunas leidoleng vai persikelti ledu, įsiveržė į Lietuvą vedami magistro Konrado fon Tirbergo.'
+  santrauka: 'Kryžiuočiai, vedami magistro Konrado fon Tirbergo, užšalus Nemunui ledu įsiveržė į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Taigi kai lietuviai įrudenėjus buvo užsi­
@@ -53,3 +54,10 @@ Kojelavičius teigia, kad mat šis, ki lęs iš Lietuvos didžiųjų ku nigaikš
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Treniota]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/žygis]]

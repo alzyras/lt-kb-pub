@@ -16,7 +16,9 @@ Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d
 
 ## Teiginiai
 
+<a id="claim-t-41747"></a>
 - t-001
+  global_id: t-41747
   teiginys: 'Spalio 28 d. čekistai buvo atvesti prie Šiaurės Rytų partizanų srities štabo bunkerio Jovaišų sodyboje.'
   pagrindžia:
     - c-001

@@ -20,7 +20,6 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
-
 # Rastenburgas
 
 ## Santrauka
@@ -29,18 +28,24 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-69144"></a>
 - t-001
+  global_id: t-69144
   teiginys: '1347 m. vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bartos žemę iki Girdavų pilies, apgulė Lunenburgą, sunaikino jo papilį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-69145"></a>
 - t-002
+  global_id: t-69145
   teiginys: 'Rastenburgo pilis buvo įkurta 1345 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185122"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad medžiodamas jis pats kartą vos nepakliuvo į kryžiuočių K araliu s išv e n g ia rankas, tik narsi jo palyda k ry ž iu o č ių pasalų vargais negalais išgelbėjo valdovą nuo pasalų, kurias surengė Rastenburgo komtūras vienoje tam reikalui tinkamoje vietoje.'
+  global_id: t-185122
+  teiginys: 'Rastenburgo komtūras surengė pasalas, į kurias medžiodamas vos nepakliuvo Veliuonoje pasilikęs karalius.'
   pagrindžia:
     - c-003
 
@@ -83,7 +88,7 @@ amziai:
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad medžiodamas jis pats kartą vos nepakliuvo į kryžiuočių K araliu s išv e n g ia rankas, tik narsi jo palyda k ry ž iu o č ių pasalų vargais negalais išgelbėjo valdovą nuo pasalų, kurias surengė Rastenburgo komtūras vienoje tam reikalui tinkamoje vietoje.'
+  santrauka: 'Rastenburgo komtūras surengė pasalas, į kurias medžiodamas vos nepakliuvo Veliuonoje pasilikęs karalius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pasibai­

@@ -19,7 +19,9 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
 
 ## Teiginiai
 
+<a id="claim-t-95915"></a>
 - t-001
+  global_id: t-95915
   teiginys: 'Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.'
   pagrindžia:
     - c-001

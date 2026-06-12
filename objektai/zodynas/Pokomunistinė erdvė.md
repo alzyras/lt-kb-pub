@@ -17,12 +17,16 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
 
 ## Teiginiai
 
+<a id="claim-t-70034"></a>
 - t-001
+  global_id: t-70034
   teiginys: 'Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia sugriuvusios SSRS teritorijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183453"></a>
 - t-002
+  global_id: t-183453
   teiginys: 'Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės.'
   pagrindžia:
     - c-002

@@ -17,7 +17,9 @@ Bona atsinešė iš Italijos įsitikinimus, kad valdovas turįs siekti valdžios
 
 ## Teiginiai
 
+<a id="claim-t-02946"></a>
 - t-001
+  global_id: t-02946
   teiginys: 'Bona iš Italijos atsinešė Machiavellio mokslui priskirtą įsitikinimą, kad valdovas turi siekti valdžios bet kokiomis priemonėmis.'
   pagrindžia:
     - c-001

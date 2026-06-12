@@ -16,7 +16,9 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
 
 ## Teiginiai
 
+<a id="claim-t-39668"></a>
 - t-001
+  global_id: t-39668
   teiginys: 'Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais.'
   pagrindžia:
     - c-001

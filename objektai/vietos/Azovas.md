@@ -7,12 +7,10 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - knyga
   - tauta
   - tikėjimas
   - vieta
 ---
-
 # Azovas
 
 ## Santrauka
@@ -21,13 +19,17 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
 
 ## Teiginiai
 
+<a id="claim-t-86169"></a>
 - t-001
+  global_id: t-86169
   teiginys: 'Vytautas prie Azovo buvo užėmęs ištisą ulusą ir jo žmonėms paliko teisę išpažinti senąjį tikėjimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184924"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad iš Kijevo su kariuomene tyliai patraukė į Azovą.'
+  global_id: t-184924
+  teiginys: 'Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą ir prie Azovo persikėlė per Doną.'
   pagrindžia:
     - c-002
 
@@ -58,7 +60,7 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad iš Kijevo su kariuomene tyliai patraukė į Azovą.'
+  santrauka: 'Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą ir prie Azovo persikėlė per Doną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šiek tiek užgaišęs Lietu­

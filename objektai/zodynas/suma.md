@@ -17,7 +17,9 @@ Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais 
 
 ## Teiginiai
 
+<a id="claim-t-58926"></a>
 - t-001
+  global_id: t-58926
   teiginys: 'Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė, kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos kiekvieną dieną turį skaityti evangeliją.'
   pagrindžia:
     - c-001
@@ -59,10 +61,8 @@ Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais 
 - [[objektai/zodynas/bursa konviktas]]
 - [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai]]
 - [[objektai/asmenys/Barbora iš Sulistrovskių Čechavičienė]]
-- [[objektai/asmenys/Jonas Kropidlas|Jonas Kropidlas (vyskupas)]]
 - [[objektai/asmenys/Laurynas Volskis]]
 - [[objektai/asmenys/Marcelis Suchodolskis]]
-- [[objektai/ivykiai/Meinhardo žygis į Lietuvą ir pasitraukimas dėl išduoto sumanymo (1292 m.)]]
 - [[objektai/asmenys/Stanislovas Goreckis]]
 - [[objektai/paprociai/Kasdienis evangelijos „Pradžioje buvo žodis“ skaitymas po sumos ir klūpojimas]]
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]

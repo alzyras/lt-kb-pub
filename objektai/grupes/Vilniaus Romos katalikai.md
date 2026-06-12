@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86831"></a>
 - t-001
+  global_id: t-86831
   teiginys: '1424 m. Vytauto Vilniui suteiktomis duoklių lengvatomis naudojosi tik Romos katalikų tikėjimą išpažinę miestiečiai.'
   pagrindžia:
     - c-001

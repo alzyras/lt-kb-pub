@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-06753"></a>
 - t-001
+  global_id: t-06753
   teiginys: 'Muštiniai buvo specialūs pailgi sidabro gabalai su pažymėtąja verte.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-06754"></a>
 - t-002
+  global_id: t-06754
   teiginys: 'Muštiniai buvo vartojami vėlesniais laikais kaip specialūs sidabro gabalai su pažymėtąja verte.'
   pagrindžia:
     - c-001

@@ -13,12 +13,10 @@ atnaujinta: ''
 tags:
   - dinastija
   - grupe
-  - teisinė-praktika
   - unija
 amziai:
   - 'XV'
 ---
-
 # Piastų dinastija
 
 ## Santrauka
@@ -27,13 +25,17 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
 
 ## Teiginiai
 
+<a id="claim-t-34363"></a>
 - t-001
+  global_id: t-34363
   teiginys: 'Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, kurie būtų kilę ne iš Piastų dinastijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184576"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad štai dėl to sustiprėjo įtaka grupuotės, kuri siūlė karaliaus sostą atimti iš Jogailaičių ir antrą kartą perduoti Piasto palikuonims.'
+  global_id: t-184576
+  teiginys: 'Sustiprėjo grupuotės įtaka, kuri siūlė karaliaus sostą atimti iš Jogailaičių ir antrą kartą perduoti Piasto palikuonims.'
   pagrindžia:
     - c-002
 
@@ -56,7 +58,7 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad štai dėl to sustiprėjo įtaka grupuotės, kuri siūlė karaliaus sostą atimti iš Jogailaičių ir antrą kartą perduoti Piasto palikuonims.'
+  santrauka: 'Sustiprėjo grupuotės įtaka, kuri siūlė karaliaus sostą atimti iš Jogailaičių ir antrą kartą perduoti Piasto palikuonims.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Antra vertus, Jono
@@ -72,3 +74,14 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/asmenys/Jadvyga]]
+- [[objektai/grupes/Jogailaičiai]]
+- [[objektai/zodynas/piastas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]

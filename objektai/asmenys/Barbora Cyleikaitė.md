@@ -18,7 +18,9 @@ Atvyko Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas su savo žm
 
 ## Teiginiai
 
+<a id="claim-t-35031"></a>
 - t-001
+  global_id: t-35031
   teiginys: 'Barbora Cyleikaitė atvyko su savo vyru Romos ciesoriumi Zigmantu ir buvo Jogailos antrosios žmonos giminaitė.'
   pagrindžia:
     - c-001

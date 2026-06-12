@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XVI'
 ---
-
 # Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje
 
 ## Santrauka
 
-Kojelavičius teigia, kad ilgai draugavęs ir dažnai susitikinėjęs, Augus tas nieku būdu nestengė nei Barboros atkakliai gina mos doros įveikti, nei vis smarkiau įsiplieskiančio širdies karščio nuslopinti, todėl netrukus su visomis krikščioniškomis apeigomis jiedu vienas kitam prisie.
+Augustas ir Barbora krikščioniškomis apeigomis prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -36,15 +35,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185891"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad ilgai draugavęs ir dažnai susitikinėjęs, Augus tas nieku būdu nestengė nei Barboros atkakliai gina mos doros įveikti, nei vis smarkiau įsiplieskiančio širdies karščio nuslopinti, todėl netrukus su visomis krikščioniškomis apeigomis jiedu vienas kitam prisie.'
+  global_id: t-185891
+  teiginys: 'Augustas ir Barbora krikščioniškomis apeigomis prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad ilgai draugavęs ir dažnai susitikinėjęs, Augus tas nieku būdu nestengė nei Barboros atkakliai gina mos doros įveikti, nei vis smarkiau įsiplieskiančio širdies karščio nuslopinti, todėl netrukus su visomis krikščioniškomis apeigomis jiedu vienas kitam prisie.'
+  santrauka: 'Augustas ir Barbora krikščioniškomis apeigomis prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat
@@ -77,3 +78,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/asmenys/Karolis]]
+- [[objektai/asmenys/Kęsgaila]]
+- [[objektai/asmenys/Augustas]]
+- [[objektai/ivykiai/Slapta Augusto ir Barboros Radvilaitės santuoka]]

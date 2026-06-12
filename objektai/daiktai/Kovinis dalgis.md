@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39184"></a>
 - t-001
+  global_id: t-39184
   teiginys: 'Mackevičius sutelkė kovai 150 dalgiais ir šautuvais ginkluotų vyrų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-39185"></a>
 - t-002
+  global_id: t-39185
   teiginys: 'Aprašytame sukilėlių būryje pusė kovotojų buvo ginkluoti dalgiais, o pusė - ietimis.'
   pagrindžia:
     - c-001

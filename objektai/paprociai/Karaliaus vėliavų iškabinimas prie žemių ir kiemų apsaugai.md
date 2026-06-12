@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62677"></a>
 - t-001
+  global_id: t-62677
   teiginys: 'Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių ir kiemų322, nes nesirasią tokio, kas, pastebėjęs karaliaus vėliavą, išdrįstų jį skriausti.'
   pagrindžia:
     - c-002

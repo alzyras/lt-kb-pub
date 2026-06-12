@@ -26,7 +26,9 @@ Dusburgietis teigia, kad voigt J.
 
 ## Teiginiai
 
+<a id="claim-t-61353"></a>
 - t-001
+  global_id: t-61353
   teiginys: 'J. Voigto „Geschichte Preussens“ sudarė 9 tomai, leisti Karaliaučiuje 1827–1838 m.'
   pagrindžia:
     - c-001

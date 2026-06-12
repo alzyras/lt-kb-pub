@@ -28,32 +28,44 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 
 ## Teiginiai
 
+<a id="claim-t-111944"></a>
 - t-001
+  global_id: t-111944
   teiginys: 'Mediniai rūmai ant aukšto mūrinio cokolio stovėjo ant kalvelės, puslankiu skalaujamos Merkio upės.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-111945"></a>
 - t-002
+  global_id: t-111945
   teiginys: 'Prie Merkio ant nedidelės aukštumėlės stovėjo du mažesni namai, kuriuose gyvendavo Žygimantas Senasis ir karalienė Bona.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-111946"></a>
 - t-003
+  global_id: t-111946
   teiginys: 'Želigovskio pajėgos su negausiomis lietuvių pajėgomis susidūrė ties Merkio upe.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-111947"></a>
 - t-004
+  global_id: t-111947
   teiginys: 'Prie Merkio, ant nedidelės aukštumėlės, stovėjo du mažesni, veikiausiai dviejų aukštų namai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-111948"></a>
 - t-005
+  global_id: t-111948
   teiginys: 'Pastatyti iš medžio ant aukšto mūrinio cokolio, stūksojo ant mažos kalvelės, puslankiu skalaujami veržlios Merkio upės srovės.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-111949"></a>
 - t-006
+  global_id: t-111949
   teiginys: 'Palei Merkį, Nemuną, Nerį, Ūlą ir Katrą gausiai aptikta mezolito įrankių.'
   pagrindžia:
     - c-005

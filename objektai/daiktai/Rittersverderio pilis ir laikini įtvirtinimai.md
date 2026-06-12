@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87033"></a>
 - t-001
+  global_id: t-87033
   teiginys: 'Didysis magistras, siekdamas atimti Vilnių iš Vytauto, vasarą už Nemuno ėmė statydinti ir stiprinti Rittersverderio pilį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87034"></a>
 - t-002
+  global_id: t-87034
   teiginys: 'Laikini įtvirtinimai buvo pastatyti iš statybai skirtų medžiagų, kad gintųsi, kol atvyks raiteliai.'
   pagrindžia:
     - c-001

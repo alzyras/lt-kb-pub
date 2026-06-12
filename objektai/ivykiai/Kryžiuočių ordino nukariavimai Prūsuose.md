@@ -35,42 +35,58 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66642"></a>
 - t-001
+  global_id: t-66642
   teiginys: 'Kryžiuočių ordino įstatai įpareigojo nuolat kariauti su Kristaus vardo priešais, o riteriai šį įžadą duodavo visam gyvenimui.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-66643"></a>
 - t-002
+  global_id: t-66643
   teiginys: 'Kryžiuočių ordino nukariavimai Prūsuose: be riterių, ordinas turėjo ir paprastų kareivių, vadinamų jų tarnais. Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus karus, ir ordinui į talką plaukdavo minios karių.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-66644"></a>
 - t-003
+  global_id: t-66644
   teiginys: 'Kryžiuočių ordinas į aisčių kraštą atsinešė Palestinoje naudotą kariavimo būdą ir 1231 m. pradėjo pulti aisčių gentis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66645"></a>
 - t-004
+  global_id: t-66645
   teiginys: 'Kryžiuočių ordino nukariavimai Prūsuose: todėl ordinas per 50 metų nukariavo visas aisčių gimines tarp Vyslos ir Nemuno ir, priėjęs Nemuną, susidūrė jau su vieninga Lietuvos valstybe, su kuria vėl pradėjo ilgą karą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66646"></a>
 - t-005
+  global_id: t-66646
   teiginys: 'Kryžiuočių ordino nukariavimai Prūsuose: tokiuo būdu kariaudamas, jis palengva stūmėsi vis gilyn į rytus ir į šiaurę. Kryžiuočių statomos pilys virsdavo naujos valstybės apygardų administraciniais centrais. Apie pilis buvo kurdinami iš Vokietijos atkviesti kolonistai. Jie buvo pirmieji vokietybės.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-66647"></a>
 - t-006
+  global_id: t-66647
   teiginys: 'Kryžiuočių ordino nukariavimuose kartu su karine ekspansija plito krikščionybė: buvo statomos bažnyčios ir vienuolynai, o prūsai krikštijami per prievartą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66648"></a>
 - t-007
+  global_id: t-66648
   teiginys: 'Vyskupui Kristijonui patekus į prūsų nelaisvę, ordinas pasirūpino, kad imperatorius ir popiežius pripažintų jam nukariaujamus Prūsų kraštus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-66649"></a>
 - t-008
+  global_id: t-66649
   teiginys: 'Kryžiuočių ordino nukariavimai Prūsuose: ir kai vyskupas grįžo iš nelaisvės, tai krašto valdovą atrado ordiną. Tiesa, ordinas vis dėlto sutiko užleisti vyskupams 1/3 visų savo žemių, tačiau neilgai naudojosi vyskupai ir tokia teise, kadangi netrukus vyskupais buvo skiriami vien tik ordino nariai..'
   pagrindžia:
     - c-001

@@ -13,12 +13,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Žemaičių žygis į Sembą (1308 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad že maičiai, gal norėdami su kry- 1308 m e ta i žiuočiais kariauti ne savo Ž em a ičių ž y g is į Prūžemėje, o Prūsijoje, gal troksiją šdami priešą nukamuoti nuo latiniais grobikiškais antpuo liais, smarkiai nusiaubė Sembos žemę.
+1308 m. žemaičiai smarkiai nusiaubė Sembos žemę, žygiuodami į Prūsiją su penkių tūkstančių vyrų kariuomene, vadovaujama Mansto ir Sudargo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -34,15 +33,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185843"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad že maičiai, gal norėdami su kry- 1308 m e ta i žiuočiais kariauti ne savo Ž em a ičių ž y g is į Prūžemėje, o Prūsijoje, gal troksiją šdami priešą nukamuoti nuo latiniais grobikiškais antpuo liais, smarkiai nusiaubė Sembos žemę.'
+  global_id: t-185843
+  teiginys: '1308 m. žemaičiai smarkiai nusiaubė Sembos žemę, žygiuodami į Prūsiją su penkių tūkstančių vyrų kariuomene, vadovaujama Mansto ir Sudargo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad že maičiai, gal norėdami su kry- 1308 m e ta i žiuočiais kariauti ne savo Ž em a ičių ž y g is į Prūžemėje, o Prūsijoje, gal troksiją šdami priešą nukamuoti nuo latiniais grobikiškais antpuo liais, smarkiai nusiaubė Sembos žemę.'
+  santrauka: '1308 m. žemaičiai smarkiai nusiaubė Sembos žemę, žygiuodami į Prūsiją su penkių tūkstančių vyrų kariuomene, vadovaujama Mansto ir Sudargo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Že­
@@ -74,3 +75,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Sudargas]]
+- [[objektai/grupes/Žemaičiai]]

@@ -24,7 +24,9 @@ Dusburgietis teigia, kad livländische Reimchronik / L.
 
 ## Teiginiai
 
+<a id="claim-t-61149"></a>
 - t-001
+  global_id: t-61149
   teiginys: 'L. Meyerio „Livländische Reimchronik“ išleista Paderborne 1876 m.'
   pagrindžia:
     - c-001

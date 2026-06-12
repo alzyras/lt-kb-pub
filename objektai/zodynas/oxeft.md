@@ -22,7 +22,9 @@ Notandum [pa­ žymėtina], kurios pro contigenti lucro [iš gaunamo pelno] skir
 
 ## Teiginiai
 
+<a id="claim-t-86603"></a>
 - t-001
+  global_id: t-86603
   teiginys: 'Oxeftas šaltinyje minimas kaip alaus statinė, kurią kas savaitę privalėta duoti kolegijos prefektui ir jo padėjėjui.'
   pagrindžia:
     - c-001

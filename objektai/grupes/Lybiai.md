@@ -19,20 +19,33 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 
 ## Teiginiai
 
+<a id="claim-t-96811"></a>
 - t-001
-  teiginys: 'Kai šituose kraštuose ėmė lankytis vokiečių pirkliai ir misijonieriai, tai pirmiausia jie susidūrė su lybiais.'
+  global_id: t-96811
+  teiginys: 'Vokiečių pirkliai ir misionieriai, pradėję lankytis lybių gyvenamuose kraštuose, pirmiausia susidūrė su lybiais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-96812"></a>
 - t-002
+  global_id: t-96812
   teiginys: 'XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-96813"></a>
 - t-003
+  global_id: t-96813
   teiginys: 'Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-182908"></a>
+- t-004
+  global_id: t-182908
+  teiginys: 'Lybiai gyveno dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajame jos žemupio krante.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -88,6 +101,7 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
     - t-002
 
 - c-004
+  santrauka: 'Vokiečių pirkliai ir misionieriai, pradėję lankytis lybių gyvenamuose kraštuose, pirmiausia susidūrė su lybiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Aisčiams jie visiškai ne giminės;
@@ -104,7 +118,7 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
     - t-001
 
 - c-005
-  santrauka: 'Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.'
+  santrauka: 'Lybiai gyveno dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajame jos žemupio krante.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet ne visa dabartinė Latvija buvo gyvenama

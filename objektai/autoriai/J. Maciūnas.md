@@ -24,7 +24,9 @@ Maciūno, TRUMPAS HIGIENOS VADOVĖLIS.
 
 ## Teiginiai
 
+<a id="claim-t-96052"></a>
 - t-001
+  global_id: t-96052
   teiginys: 'Maciūno, TRUMPAS HIGIENOS VADOVĖLIS.'
   pagrindžia:
     - c-001

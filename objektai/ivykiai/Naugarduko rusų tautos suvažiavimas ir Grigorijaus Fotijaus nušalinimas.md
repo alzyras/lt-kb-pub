@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Naugarduko rusų tautos suvažiavimas ir Grigorijaus Fotijaus nušalinimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad kadangi šias negeras naujoves vykdė ne paprasti žmonės, o žy mieji vyskupai, ypač tie, kurie kilę iš graikų, užkirsti kelią plintančiai blogybei buvo galima ne kitaip, kaip sukvietus viešą pačių ganytojų suvažiavimą.
+Vytautui pavyko Lietuvos Naugarduke sušaukti rusų tautos suvažiavimą ir pačiam jame dalyvauti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185820"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kadangi šias negeras naujoves vykdė ne paprasti žmonės, o žy mieji vyskupai, ypač tie, kurie kilę iš graikų, užkirsti kelią plintančiai blogybei buvo galima ne kitaip, kaip sukvietus viešą pačių ganytojų suvažiavimą.'
+  global_id: t-185820
+  teiginys: 'Vytautui pavyko Lietuvos Naugarduke sušaukti rusų tautos suvažiavimą ir pačiam jame dalyvauti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kadangi šias negeras naujoves vykdė ne paprasti žmonės, o žy mieji vyskupai, ypač tie, kurie kilę iš graikų, užkirsti kelią plintančiai blogybei buvo galima ne kitaip, kaip sukvietus viešą pačių ganytojų suvažiavimą.'
+  santrauka: 'Vytautui pavyko Lietuvos Naugarduke sušaukti rusų tautos suvažiavimą ir pačiam jame dalyvauti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi
@@ -53,3 +54,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Rusų tautos suvažiavimas Lietuvos Naugarduke]]
+- [[objektai/paprociai/Viešas ganytojų ir rusų tautos suvažiavimas religiniams ginčams spręsti]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

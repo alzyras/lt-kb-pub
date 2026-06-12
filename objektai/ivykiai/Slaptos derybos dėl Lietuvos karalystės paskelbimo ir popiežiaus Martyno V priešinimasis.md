@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Slaptos derybos dėl Lietuvos karalystės paskelbimo ir popiežiaus Martyno V priešinimasis
 
 ## Santrauka
 
-Kojelavičius teigia, kad mat imperatorius Zigmantas ir Vytautas jau kelerius metus slapta derėjosi dėl Lietuvos V y ta u ta s nori p a sk elkaralystės paskelbimo. Kojelavičius teigia, kad kai hti L ietu vą k a ra ly ste apie šias derybas pradėjo kalbėti kiti žmonės, viską su žinojo ir Romos kurija.
+Imperatorius Zigmantas ir Vytautas kelerius metus slapta derėjosi dėl Lietuvos paskelbimo karalyste. Popiežius Martynas V įspėjo Kulmo vyskupą neapvainikuoti Vytauto karaliaus vainiku ir nepakelti jo į Lietuvos karalius.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185642"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mat imperatorius Zigmantas ir Vytautas jau kelerius metus slapta derėjosi dėl Lietuvos V y ta u ta s nori p a sk elkaralystės paskelbimo.'
+  global_id: t-185642
+  teiginys: 'Imperatorius Zigmantas ir Vytautas kelerius metus slapta derėjosi dėl Lietuvos paskelbimo karalyste.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185643"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kai hti L ietu vą k a ra ly ste apie šias derybas pradėjo kalbėti kiti žmonės, viską su žinojo ir Romos kurija.'
+  global_id: t-185643
+  teiginys: 'Popiežius Martynas V įspėjo Kulmo vyskupą neapvainikuoti Vytauto karaliaus vainiku ir nepakelti jo į Lietuvos karalius.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mat imperatorius Zigmantas ir Vytautas jau kelerius metus slapta derėjosi dėl Lietuvos V y ta u ta s nori p a sk elkaralystės paskelbimo.'
+  santrauka: 'Imperatorius Zigmantas ir Vytautas kelerius metus slapta derėjosi dėl Lietuvos paskelbimo karalyste.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kartu
@@ -62,7 +65,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kai hti L ietu vą k a ra ly ste apie šias derybas pradėjo kalbėti kiti žmonės, viską su žinojo ir Romos kurija.'
+  santrauka: 'Popiežius Martynas V įspėjo Kulmo vyskupą neapvainikuoti Vytauto karaliaus vainiku ir nepakelti jo į Lietuvos karalius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai
@@ -98,3 +101,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/asmenys/imperatorius Zigmantas]]
+- [[objektai/asmenys/Martynas V]]
+- [[objektai/asmenys/Martynas iš Golino]]

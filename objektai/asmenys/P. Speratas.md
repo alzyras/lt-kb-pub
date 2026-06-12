@@ -25,7 +25,9 @@ Dusburgietis teigia, kad speratui priklausiusios knygos.
 
 ## Teiginiai
 
+<a id="claim-t-60403"></a>
 - t-001
+  global_id: t-60403
   teiginys: 'Pamedės vyskupui P. Speratui priklausė knyga, iš kurios 1540 m. pradėtas perrašinėti Karaliaučiaus bibliotekos tekstas.'
   pagrindžia:
     - c-001

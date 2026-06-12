@@ -25,7 +25,9 @@ Semkowicz, W.
 
 ## Teiginiai
 
+<a id="claim-t-31982"></a>
 - t-001
+  global_id: t-31982
   teiginys: 'W. Semkowicziaus darbas „Braterstwo szlachty polskiej z bojarstwem litewskim w unii horodelskiej 1413 r.“ buvo įtrauktas į rinkinį „PiL“.'
   pagrindžia:
     - c-001

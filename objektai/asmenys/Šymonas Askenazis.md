@@ -16,7 +16,9 @@ O vyriausiasis Lenkijos derybininkas Šymonas Askenazis (Szymon Askenazy) manė 
 
 ## Teiginiai
 
+<a id="claim-t-26469"></a>
 - t-001
+  global_id: t-26469
   teiginys: 'Šymonas Askenazis buvo vyriausiasis Lenkijos derybininkas ir ketino telktis į federacijos konceptą, apeidamas Vilniaus temą.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Dusburgietis teigia, kad noreika ir V.
 
 ## Teiginiai
 
+<a id="claim-t-60824"></a>
 - t-001
+  global_id: t-60824
   teiginys: 'Z. Noreika kartu su V. Stravinsku parengė Lietuvos TSR administracinio-teritorinio suskirstymo žinyno antrąją dalį.'
   pagrindžia:
     - c-001

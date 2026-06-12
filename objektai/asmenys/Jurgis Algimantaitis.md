@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jurgis Algimantaitis
 
 ## Santrauka
 
-Kojelavičius teigia, kad galop po karštų ginčų dauge lis nutarė rinkti į valdovus Alšėnų kunigaikščio Jurgio Algimantaičio pasiūlytą karaliaus Vladislovo brolį Kazi mierą.
+Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus Vladislovo brolį Kazimierą.
 
 ## Teiginiai
 
+<a id="claim-t-186223"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad galop po karštų ginčų dauge lis nutarė rinkti į valdovus Alšėnų kunigaikščio Jurgio Algimantaičio pasiūlytą karaliaus Vladislovo brolį Kazi mierą.'
+  global_id: t-186223
+  teiginys: 'Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus Vladislovo brolį Kazimierą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad galop po karštų ginčų dauge lis nutarė rinkti į valdovus Alšėnų kunigaikščio Jurgio Algimantaičio pasiūlytą karaliaus Vladislovo brolį Kazi mierą.'
+  santrauka: 'Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus Vladislovo brolį Kazimierą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kiti

@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-40261"></a>
 - t-001
+  global_id: t-40261
   teiginys: 'Švedų kunigaikštis Karolis vadovavo Revelio danų kariuomenei ir turėjo savo būrį.'
   pagrindžia:
     - c-001

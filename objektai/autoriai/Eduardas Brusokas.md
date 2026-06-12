@@ -18,7 +18,9 @@ Eduardas Brusokas (gimęs 1970 m.), Vilniaus universitete įgijo istorijos bakal
 
 ## Teiginiai
 
+<a id="claim-t-39843"></a>
 - t-001
+  global_id: t-39843
   teiginys: 'Eduardas Brusokas (gimęs 1970 m.), Vilniaus universitete įgijo istorijos bakalauro, Vytauto Didžiojo universitete - istorijos magistro laipsnį.'
   pagrindžia:
     - c-001

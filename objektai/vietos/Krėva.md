@@ -22,7 +22,6 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
-
 # Krėva
 
 ## Santrauka
@@ -31,73 +30,101 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
 
 ## Teiginiai
 
+<a id="claim-t-111655"></a>
 - t-001
+  global_id: t-111655
   teiginys: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-111656"></a>
 - t-002
+  global_id: t-111656
   teiginys: 'Kęstutis buvo perkeltas į Krėvą, uždarytas pilies bokšte ir penktą naktį pasmaugtas kelių budelių.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-111657"></a>
 - t-003
+  global_id: t-111657
   teiginys: 'Skirgaila iš Vilniaus nuvežė Kęstutį į Krėvės kalėjimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-111658"></a>
 - t-004
+  global_id: t-111658
   teiginys: 'Algirdas valdė Vitebską ir Krėvą, o Kęstutis valdė Žemaitiją dar jų tėvui esant gyvam.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-111659"></a>
 - t-005
+  global_id: t-111659
   teiginys: 'Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-111660"></a>
 - t-006
+  global_id: t-111660
   teiginys: 'Kęstutis buvo perkeltas į Krėvą, uždarytas pilies bokšte ir penktą naktį pasmaugtas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-111661"></a>
 - t-007
+  global_id: t-111661
   teiginys: 'Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir ten įkalintas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-111662"></a>
 - t-008
+  global_id: t-111662
   teiginys: 'Pirkliai lankė Lietuvos miestus, tarp jų Vilnių, Krėvą, Trakus ir Gardiną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-111663"></a>
 - t-009
+  global_id: t-111663
   teiginys: 'Vokiečių pirkliai lankė Krėvą ir kitus Lietuvos miestus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-111664"></a>
 - t-010
+  global_id: t-111664
   teiginys: 'Algirdas valdė Vitebską ir Krėvą, o Kęstutis viešpatavo Žemaitijoje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-111665"></a>
 - t-011
+  global_id: t-111665
   teiginys: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-183035"></a>
 - t-012
-  teiginys: 'Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kalėjime; Kęstutį netrukus išvežė į Krėvos pilį, o Vytautą paliko Vilniuje.'
+  global_id: t-183035
+  teiginys: 'Kęstutis po suėmimo buvo išvežtas į Krėvos pilį, kur po penkių dienų kalėjimo buvo nužudytas.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-184995"></a>
 - t-013
-  teiginys: 'Kojelavičius teigia, kad tą pačią naktį Jogaila, pamynęs draugystės bei giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje.'
+  global_id: t-184995
+  teiginys: 'Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį liepė nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-184996"></a>
 - t-014
-  teiginys: 'Kojelavičius teigia, kad vienas sargybinis kar tą įspėjo Oną, jog Vytautui gresianti mirtis, pridurdamas, kad Jogailos siųsti budeliai jau atvyko į Krėvą.'
+  global_id: t-184996
+  teiginys: 'Sargybinis įspėjo Oną, kad Vytautui gresia mirtis, nes Jogailos siųsti budeliai jau atvyko į Krėvą.'
   pagrindžia:
     - c-010
 
@@ -253,7 +280,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - t-001
 
 - c-008
-  santrauka: 'Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kalėjime; Kęstutį netrukus išvežė į Krėvos pilį, o Vytautą paliko Vilniuje.'
+  santrauka: 'Kęstutis po suėmimo buvo išvežtas į Krėvos pilį, kur po penkių dienų kalėjimo buvo nužudytas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tas pakvietė juos į Vilnių, kur abudu
@@ -269,7 +296,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - t-012
 
 - c-009
-  santrauka: 'Kojelavičius teigia, kad tą pačią naktį Jogaila, pamynęs draugystės bei giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje.'
+  santrauka: 'Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį liepė nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat nei geros savijautos,
@@ -299,7 +326,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - t-013
 
 - c-010
-  santrauka: 'Kojelavičius teigia, kad vienas sargybinis kar tą įspėjo Oną, jog Vytautui gresianti mirtis, pridurdamas, kad Jogailos siųsti budeliai jau atvyko į Krėvą.'
+  santrauka: 'Sargybinis įspėjo Oną, kad Vytautui gresia mirtis, nes Jogailos siųsti budeliai jau atvyko į Krėvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ši

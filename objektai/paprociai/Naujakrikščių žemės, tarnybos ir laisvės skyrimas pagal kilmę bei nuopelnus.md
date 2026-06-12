@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62695"></a>
 - t-001
+  global_id: t-62695
   teiginys: 'Dusburgietis teigia, kad aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei libera conferuntur], kad jis galėtų taip gyventi, kaip dera jo luomo žmogui; nekilmingasis turi tarnauti broliams taip, kaip to reikalauja po šiai dienai Prūsijoje išlikę.'
   pagrindžia:
     - c-002

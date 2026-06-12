@@ -33,22 +33,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66771"></a>
 - t-001
+  global_id: t-66771
   teiginys: '1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietiškumu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66772"></a>
 - t-002
+  global_id: t-66772
   teiginys: '1940 m. gegužės pabaigoje Maskva apkaltino Lietuvą sovietų bazių kareivių grobimu ir pakvietė į Maskvą premjerą Antaną Merkį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66773"></a>
 - t-003
+  global_id: t-66773
   teiginys: '1940 m. birželio 10 d. Kaune nutarta pasiųsti Juozą Urbšį į Maskvą, nes Antanui Merkiui nesisekė normalizuoti situacijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66774"></a>
 - t-004
+  global_id: t-66774
   teiginys: 'Tačiau 1940 m. gegužės pabaigoje sovietų žadėtas nesikišimas į vidaus reikalus baigėsi – Maskva viešai apkaltino Lietuvą grobiant iš sovietų bazių kareivius.'
   pagrindžia:
     - c-003

@@ -19,7 +19,9 @@ Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su vi
 
 ## Teiginiai
 
+<a id="claim-t-60366"></a>
 - t-001
+  global_id: t-60366
   teiginys: 'Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su visa šeimyna, pamaldų ir karo reikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų išgriovė ir išžudė brolius bei krikščionis.'
   pagrindžia:
     - c-001

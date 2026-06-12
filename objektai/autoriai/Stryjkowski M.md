@@ -16,12 +16,16 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
 
 ## Teiginiai
 
+<a id="claim-t-64851"></a>
 - t-001
+  global_id: t-64851
   teiginys: 'M. Stryjkowskis 1582 m. Karaliaučiuje paskelbė „Kronika polska, litewska, żmódzka i wszystkiej Rusi“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64852"></a>
 - t-002
+  global_id: t-64852
   teiginys: 'M. Stryjkowskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ pirmasis tomas išleistas Varšuvoje 1846 m.'
   pagrindžia:
     - c-001

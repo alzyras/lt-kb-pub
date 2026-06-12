@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02407"></a>
 - t-001
+  global_id: t-02407
   teiginys: 'Dniepro ir Desnos upyne buvo užimtos Briansko, Trubčevsko ir Naugardo Sieversko kunigaikštystės.'
   pagrindžia:
     - c-001

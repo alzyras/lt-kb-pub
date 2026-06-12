@@ -25,12 +25,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88203"></a>
 - t-001
+  global_id: t-88203
   teiginys: 'Mykolo Lietuvio veikale Kafa prie Juodosios jūros minima kaip svarbiausias Lietuvos prekybinis uostas, jungęs ją su Rytais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88204"></a>
 - t-002
+  global_id: t-88204
   teiginys: 'Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.'
   pagrindžia:
     - c-002

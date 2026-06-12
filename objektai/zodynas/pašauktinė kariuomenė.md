@@ -23,17 +23,23 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 
 ## Teiginiai
 
+<a id="claim-t-78905"></a>
 - t-001
+  global_id: t-78905
   teiginys: 'Artilerija to meto Lietuvos kariuomenėje dar nevaidino didesnio savarankiško vaidmens, bet buvo įprastas atributas, kuris mūšio lauke vis dėlto praversdavo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78906"></a>
 - t-002
+  global_id: t-78906
   teiginys: 'Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti tol, kol jos jau nebereikėdavo, nes po apiplėšimo totoriai stengdavosi pasitraukti kuo sparčiau.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78907"></a>
 - t-003
+  global_id: t-78907
   teiginys: 'XV a. pabaigoje ir XVI a. pradžioje Lietuvos karinės organizacijos pagrindą vis dar sudarė kilmingųjų pašauktinė raitelių kariuomenė.'
   pagrindžia:
     - c-003

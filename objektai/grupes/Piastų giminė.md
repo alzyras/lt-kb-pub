@@ -18,7 +18,9 @@ Piastų giminės karaliai bene energingiausiai prie to prisidėjo.
 
 ## Teiginiai
 
+<a id="claim-t-86816"></a>
 - t-001
+  global_id: t-86816
   teiginys: 'Piastų giminės karaliai bene energingiausiai prie to prisidėjo.'
   pagrindžia:
     - c-001

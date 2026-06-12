@@ -23,7 +23,9 @@ Dusburgietis teigia, kad kučinskas A.
 
 ## Teiginiai
 
+<a id="claim-t-61118"></a>
 - t-001
+  global_id: t-61118
   teiginys: 'A. Kučinsko „Kęstutis lietuvių tautos gynėjas“ išleista Marijampolėje 1938 m.'
   pagrindžia:
     - c-001

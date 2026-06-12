@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62885"></a>
 - t-001
+  global_id: t-62885
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis įsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-62886"></a>
 - t-002
+  global_id: t-62886
   teiginys: 'Dusburgietis teigia, kad šis, bemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino pilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada, kai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs.'
   pagrindžia:
     - c-001

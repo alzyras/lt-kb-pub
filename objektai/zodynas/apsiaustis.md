@@ -17,7 +17,9 @@ Pavėluota šios Ordino tvirtovės apsiaustis nedavė rezultatų.
 
 ## Teiginiai
 
+<a id="claim-t-38742"></a>
 - t-001
+  global_id: t-38742
   teiginys: 'Pavėluota Marienburgo, Ordino sostinės ir tvirtovės, apsiaustis nedavė rezultatų.'
   pagrindžia:
     - c-001

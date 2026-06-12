@@ -31,12 +31,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-32813"></a>
 - t-001
+  global_id: t-32813
   teiginys: 'Valstybingumu grįsta periodizacija laikoma vienašališkai politine, nes remiasi dinastiniais ir politiniais pasikeitimais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-32814"></a>
 - t-002
+  global_id: t-32814
   teiginys: 'Komunistiniai istorikai atmetė periodizaciją, kurios pagrindas buvo lietuvių tautos valstybingumo idėja.'
   pagrindžia:
     - c-002

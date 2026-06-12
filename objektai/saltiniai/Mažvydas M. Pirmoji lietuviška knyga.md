@@ -22,7 +22,9 @@ Dusburgietis teigia, kad mažvydas M.
 
 ## Teiginiai
 
+<a id="claim-t-61177"></a>
 - t-001
+  global_id: t-61177
   teiginys: 'M. Mažvydo „Pirmoji lietuviška knyga“ išleista 1974 m.'
   pagrindžia:
     - c-001

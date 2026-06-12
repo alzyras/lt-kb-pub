@@ -32,17 +32,23 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
 
 ## Teiginiai
 
+<a id="claim-t-26605"></a>
 - t-001
+  global_id: t-26605
   teiginys: 'Redaktoriaus žodyje Antanas Kulakauskas pristatomas kaip Vytauto Didžiojo universiteto profesorius, parašęs III skyrių apie lietuvių gyvenimą Rusijos imperijoje 1795-1915 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-26709"></a>
 - t-002
+  global_id: t-26709
   teiginys: 'Bibliografijoje Kulakauskas A. kartu su Aleksandravičiumi E. siejamas su veikalu „Carų valdžioje. Lietuva XIX amžiuje“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169887"></a>
 - t-003
+  global_id: t-169887
   teiginys: 'Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų.'
   pagrindžia:
     - c-003

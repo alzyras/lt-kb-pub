@@ -26,7 +26,9 @@ Dusburgietis teigia, kad p. 575; [Hennenberger C.] Der See..., p. 11; Henenberge
 
 ## Teiginiai
 
+<a id="claim-t-60722"></a>
 - t-001
+  global_id: t-60722
   teiginys: 'Dusburgietis teigia, kad p. 575; [Hennenberger C.] Der See..., p. 11; Henenbergerio, Ortelijaus 1595 m. žemėlapis— Jäger E., PrussiaKarten, pav. 217).'
   pagrindžia:
     - c-001

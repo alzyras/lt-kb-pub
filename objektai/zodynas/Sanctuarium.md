@@ -17,7 +17,9 @@ Pats miestelis dali­ jamas į aukštutinį ir žemutinį: pirmajame stovi aukš
 
 ## Teiginiai
 
+<a id="claim-t-86616"></a>
 - t-001
+  global_id: t-86616
   teiginys: 'Veliuonos aukštutinio miestelio gotikinės mūro bažnyčios mažesnioji dalis buvo vadinama Sanctuarium.'
   pagrindžia:
     - c-001

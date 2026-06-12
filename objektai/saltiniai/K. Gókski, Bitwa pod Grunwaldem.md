@@ -28,7 +28,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31754"></a>
 - t-001
+  global_id: t-31754
   teiginys: '„Bitwa pod Grunwaldem“ 1888 m. buvo paskelbta „Biblioteka Warszawska“ numeriuose 559–561.'
   pagrindžia:
     - c-001

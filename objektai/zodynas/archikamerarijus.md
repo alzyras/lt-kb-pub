@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # archikamerarijus
 
 ## Santrauka
 
-Kojelavičius teigia, kad seimo pradžioje, kai pradė jo dalyti pareigybes, Jurgį Chodkevičių paskyrė vy riausiuoju kunigaikščio miegamojo prižiūrėtoju, kurį žmonės vadina Lietuvos Didžiosios Kunigaikštystės archikamerarij ūmi.
+Seimo pradžioje Jurgis Chodkevičius buvo paskirtas vyriausiuoju kunigaikščio miegamojo prižiūrėtoju, vadintu archikamerarijumi.
 
 ## Teiginiai
 
+<a id="claim-t-185398"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad seimo pradžioje, kai pradė jo dalyti pareigybes, Jurgį Chodkevičių paskyrė vy riausiuoju kunigaikščio miegamojo prižiūrėtoju, kurį žmonės vadina Lietuvos Didžiosios Kunigaikštystės archikamerarij ūmi.'
+  global_id: t-185398
+  teiginys: 'Seimo pradžioje Jurgis Chodkevičius buvo paskirtas vyriausiuoju kunigaikščio miegamojo prižiūrėtoju, vadintu archikamerarijumi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad seimo pradžioje, kai pradė jo dalyti pareigybes, Jurgį Chodkevičių paskyrė vy riausiuoju kunigaikščio miegamojo prižiūrėtoju, kurį žmonės vadina Lietuvos Didžiosios Kunigaikštystės archikamerarij ūmi.'
+  santrauka: 'Seimo pradžioje Jurgis Chodkevičius buvo paskirtas vyriausiuoju kunigaikščio miegamojo prižiūrėtoju, vadintu archikamerarijumi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius
@@ -43,3 +44,12 @@ Kojelavičius teigia, kad seimo pradžioje, kai pradė jo dalyti pareigybes, Jur
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Augustas]]
+- [[objektai/grupes/Chodkevičiai]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/asmenys/Jurgis Chodkevičius]]
+- [[objektai/ivykiai/Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę|Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę (seimas)]]

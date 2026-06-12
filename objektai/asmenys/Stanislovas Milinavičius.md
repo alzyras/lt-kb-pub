@@ -17,7 +17,9 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
 
 ## Teiginiai
 
+<a id="claim-t-87860"></a>
 - t-001
+  global_id: t-87860
   teiginys: 'Stanislovas Milinavičius buvo parapijoje gyvenęs bajoras, kuriam buvo privaloma mokėti dešimtinę.'
   pagrindžia:
     - c-001

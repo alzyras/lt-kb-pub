@@ -19,12 +19,16 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
 
 ## Teiginiai
 
+<a id="claim-t-45767"></a>
 - t-001
+  global_id: t-45767
   teiginys: 'Versalio sutarties 28 straipsnis iš tiesų atribojo Klaipėdos kraštą nuo Vokietijos ir perdavė laikinai sąjungininkų kontrolei.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45768"></a>
 - t-002
+  global_id: t-45768
   teiginys: 'Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.'
   pagrindžia:
     - c-002

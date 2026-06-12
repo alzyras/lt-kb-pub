@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # žirgininkas
 
 ## Santrauka
 
-Kojelavičius teigia, kad išsiuntus laišką, netrukus išvyko ir pasiuntiniai Lu košius Garaburda, Lietuvos raštininkas, ir Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, bet nieko nepešė, nes maskvėnai atidėjo derybas, sakydamiesi lauksią didesnius įgaliojimus turinčių.
+Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda.
 
 ## Teiginiai
 
+<a id="claim-t-185418"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad išsiuntus laišką, netrukus išvyko ir pasiuntiniai Lu košius Garaburda, Lietuvos raštininkas, ir Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, bet nieko nepešė, nes maskvėnai atidėjo derybas, sakydamiesi lauksią didesnius įgaliojimus turinčių.'
+  global_id: t-185418
+  teiginys: 'Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad išsiuntus laišką, netrukus išvyko ir pasiuntiniai Lu košius Garaburda, Lietuvos raštininkas, ir Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, bet nieko nepešė, nes maskvėnai atidėjo derybas, sakydamiesi lauksią didesnius įgaliojimus turinčių.'
+  santrauka: 'Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Antra vertus, netrukus atvyksią į Maskvą jo įgalioti
@@ -42,3 +43,11 @@ Kojelavičius teigia, kad išsiuntus laišką, netrukus išvyko ir pasiuntiniai 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/asmenys/Andrius Mackevičius]]
+- [[objektai/asmenys/Motiejus Kločka]]

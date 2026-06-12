@@ -26,12 +26,16 @@ Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai.
 
 ## Teiginiai
 
+<a id="claim-t-67870"></a>
 - t-001
+  global_id: t-67870
   teiginys: 'Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67871"></a>
 - t-002
+  global_id: t-67871
   teiginys: 'Margaritos dieną (1260.VII.13) pietiniame Durbės ežero krante įvykęs susirėmimas baigėsi pagonių pergale.'
   pagrindžia:
     - c-001

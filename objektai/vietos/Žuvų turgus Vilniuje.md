@@ -25,7 +25,9 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
 
 ## Teiginiai
 
+<a id="claim-t-86322"></a>
 - t-001
+  global_id: t-86322
   teiginys: 'Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.'
   pagrindžia:
     - c-001

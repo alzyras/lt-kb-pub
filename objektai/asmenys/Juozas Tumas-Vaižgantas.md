@@ -18,12 +18,16 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 
 ## Teiginiai
 
+<a id="claim-t-63766"></a>
 - t-001
+  global_id: t-63766
   teiginys: 'Juozas Tumas-Vaižgantas tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63767"></a>
 - t-002
+  global_id: t-63767
   teiginys: 'Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jaunas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, tolerancijos ir geranoriškumo įsikūnijimas.'
   pagrindžia:
     - c-001

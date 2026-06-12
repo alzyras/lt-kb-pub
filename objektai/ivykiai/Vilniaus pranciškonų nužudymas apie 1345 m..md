@@ -48,17 +48,23 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
 
 ## Teiginiai
 
+<a id="claim-t-55145"></a>
 - t-001
+  global_id: t-55145
   teiginys: 'Apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną ir nužudė keturiolika vienuolių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55146"></a>
 - t-002
+  global_id: t-55146
   teiginys: 'Grzybowskio versijoje 1341 m. Vilniaus miestiečiai ir totoriai užpuolė naują pranciškonų vienuolyną ir nukankino 36 vienuolius bei Goštautą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-81828"></a>
 - t-003
+  global_id: t-81828
   teiginys: '1341 m. Vilniaus miestiečiai sukurstė totorius pulti pranciškonus ir kartu su jais naujame vienuolyne nukankino 36 vienuolius bei Goštautą.'
   pagrindžia:
     - c-002

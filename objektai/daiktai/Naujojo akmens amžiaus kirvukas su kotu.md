@@ -31,7 +31,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01224"></a>
 - t-001
+  global_id: t-01224
   teiginys: 'Naujojo akmens amžiaus kirvukas su kotu buvo rastas Kaune.'
   pagrindžia:
     - c-001

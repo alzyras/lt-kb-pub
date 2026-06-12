@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-29998"></a>
 - t-001
+  global_id: t-29998
   teiginys: 'O. Balzerio „Unja horodelska“ buvo išleista 1913 m.'
   pagrindžia:
     - c-001

@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67068"></a>
 - t-001
+  global_id: t-67068
   teiginys: 'Miesto atstovai išėję pasitikdavo valdovą ir atverdavo jam miesto vartus.'
   pagrindžia:
     - c-001

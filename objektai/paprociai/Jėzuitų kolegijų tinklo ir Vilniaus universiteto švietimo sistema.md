@@ -46,7 +46,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77950"></a>
 - t-001
+  global_id: t-77950
   teiginys: 'Epochos simboline pradžia galėtume laikyti 1569 m. jėzuitų ordino pasirodymą Lietuvoje.'
   pagrindžia:
     - c-001

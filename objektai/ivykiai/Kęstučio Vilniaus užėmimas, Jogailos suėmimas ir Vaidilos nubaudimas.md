@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kęstučio Vilniaus užėmimas, Jogailos suėmimas ir Vaidilos nubaudimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad be to, išsiuntė į miestą šešis šimtus pėstininkų, pasislėpuK ę stu tis u žim a V iišių vežimuose po šienu ar nių, su im a Jogailą, šiaudais.
+Kęstučio kariai užėmė Vilniaus pilis, apsupo valdovo rūmus ir suėmė Jogailą, Julijoną bei Mariją.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185733"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad be to, išsiuntė į miestą šešis šimtus pėstininkų, pasislėpuK ę stu tis u žim a V iišių vežimuose po šienu ar nių, su im a Jogailą, šiaudais.'
+  global_id: t-185733
+  teiginys: 'Kęstučio kariai užėmė Vilniaus pilis, apsupo valdovo rūmus ir suėmė Jogailą, Julijoną bei Mariją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad be to, išsiuntė į miestą šešis šimtus pėstininkų, pasislėpuK ę stu tis u žim a V iišių vežimuose po šienu ar nių, su im a Jogailą, šiaudais.'
+  santrauka: 'Kęstučio kariai užėmė Vilniaus pilis, apsupo valdovo rūmus ir suėmė Jogailą, Julijoną bei Mariją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     To­
@@ -68,3 +69,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

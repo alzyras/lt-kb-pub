@@ -23,7 +23,9 @@ Dusburgietis teigia, kad 1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į
 
 ## Teiginiai
 
+<a id="claim-t-58693"></a>
 - t-001
+  global_id: t-58693
   teiginys: 'Dusburgietis teigia, kad 1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas, pasiekė Frankfurtą prie Oderio (III, 361).'
   pagrindžia:
     - c-001

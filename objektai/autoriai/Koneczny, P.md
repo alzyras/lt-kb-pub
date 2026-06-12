@@ -24,7 +24,9 @@ Koneczny, P.
 
 ## Teiginiai
 
+<a id="claim-t-30762"></a>
 - t-001
+  global_id: t-30762
   teiginys: 'P. Koneczny 1893 m. Lvove išleido pirmąjį veikalo „Jagiełło i Witold“ tomą.'
   pagrindžia:
     - c-001

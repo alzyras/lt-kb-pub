@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67044"></a>
 - t-001
+  global_id: t-67044
   teiginys: 'XVIII a. bajorija ir didikai buvo įpratę pasipelnyti iš viešųjų reikalų, prie kurių prisidėdavo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67045"></a>
 - t-002
+  global_id: t-67045
   teiginys: 'Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose: užtat daugumas mokykloms skirtų pinigų žūdavo visokių agentų kišenėse, ir mokyklos pradėjo skursti.'
   pagrindžia:
     - c-002

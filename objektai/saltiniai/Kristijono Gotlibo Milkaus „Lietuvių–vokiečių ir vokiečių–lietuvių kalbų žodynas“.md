@@ -25,17 +25,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-101544"></a>
 - t-001
+  global_id: t-101544
   teiginys: 'Lietuvių kalba apibūdinta kaip gavusi daugiausia aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101545"></a>
 - t-002
+  global_id: t-101545
   teiginys: 'Kristijono Gotlibo Milkaus žodyno pratarmėje Immanuelis Kantas pabrėžė išskirtinius lietuvių kalbos pagyrimus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101546"></a>
 - t-003
+  global_id: t-101546
   teiginys: 'Immanuelio Kanto mintys apie lietuvių kalbą pateiktos Kristijono Gotlibo Milkaus žodyno pratarmėje.'
   pagrindžia:
     - c-001

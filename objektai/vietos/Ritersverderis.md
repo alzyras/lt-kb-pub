@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Ritersverderis
 
 ## Santrauka
 
-Kojelavičius teigia, kad nutaikęs progą, nuskubėjo į Marienbur gą, jam priklausomą pilį, ir netikėtai užpuolė gretimąjį Ritersverderį.
+Ritersverderis buvo netikėtai užpultas iš gretimos Marienburgo pilies ir užimtas palaužus gynėjų pasipriešinimą.
 
 ## Teiginiai
 
+<a id="claim-t-185272"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad nutaikęs progą, nuskubėjo į Marienbur gą, jam priklausomą pilį, ir netikėtai užpuolė gretimąjį Ritersverderį.'
+  global_id: t-185272
+  teiginys: 'Ritersverderis buvo netikėtai užpultas iš gretimos Marienburgo pilies ir užimtas palaužus gynėjų pasipriešinimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad nutaikęs progą, nuskubėjo į Marienbur gą, jam priklausomą pilį, ir netikėtai užpuolė gretimąjį Ritersverderį.'
+  santrauka: 'Ritersverderis buvo netikėtai užpultas iš gretimos Marienburgo pilies ir užimtas palaužus gynėjų pasipriešinimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Visiems narsiau­

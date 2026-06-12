@@ -41,13 +41,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62951"></a>
 - t-001
+  global_id: t-62951
   teiginys: 'Dusburgietis teigia, kad neilgai trukus broliai, pristigę maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi juos su daugybe karių, bet nestengė.'
   pagrindžia:
     - c-003
     - c-002
 
+<a id="claim-t-62952"></a>
 - t-002
+  global_id: t-62952
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Vizenburgo pilis Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio vieną paimti ir nusigabenti į pilį, o su ja.'
   pagrindžia:
     - c-001

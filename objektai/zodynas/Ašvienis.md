@@ -23,12 +23,16 @@ Vartojamos formos: `ašvienio`.
 
 ## Teiginiai
 
+<a id="claim-t-69978"></a>
 - t-001
+  global_id: t-69978
   teiginys: 'Ašvienio neturintis vargdienis galėjo išnuomoti dirvą ar pievą kitam ir gauti pusę javų ar šieno.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-69979"></a>
 - t-002
+  global_id: t-69979
   teiginys: '`Ašvienis` šiame tekste reiškia arklį ar kitą jojamąjį/ūkinį gyvulį.'
   pagrindžia:
     - c-001

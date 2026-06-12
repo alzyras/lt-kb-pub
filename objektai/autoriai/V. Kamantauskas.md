@@ -16,7 +16,9 @@ Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA.
 
 ## Teiginiai
 
+<a id="claim-t-96058"></a>
 - t-001
+  global_id: t-96058
   teiginys: 'Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Vykdant žemės reformą nyko senieji kaimai, žmonės kėlė savo sodybas į vi
 
 ## Teiginiai
 
+<a id="claim-t-77806"></a>
 - t-001
+  global_id: t-77806
   teiginys: 'Vykdant žemės reformą ir modernizuojant žemės ūkį Lietuvoje dingo trilaukė sėjomaina.'
   pagrindžia:
     - c-001

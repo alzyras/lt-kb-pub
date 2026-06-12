@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-42360"></a>
 - t-001
+  global_id: t-42360
   teiginys: 'Giedraičius gynęs 2-asis pulkas atsitraukė į Šešuolės ir Virintos upių liniją.'
   pagrindžia:
     - c-001

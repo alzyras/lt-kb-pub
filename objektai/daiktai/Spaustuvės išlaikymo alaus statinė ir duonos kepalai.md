@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87122"></a>
 - t-001
+  global_id: t-87122
   teiginys: 'Spaustuvės pelnas buvo skiriamas prefekto ir padėjėjo maitinimui, o kas savaitę dar reikėjo duoti alaus ir duonos kepalų.'
   pagrindžia:
     - c-001

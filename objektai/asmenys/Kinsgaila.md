@@ -17,7 +17,9 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
 
 ## Teiginiai
 
+<a id="claim-t-30330"></a>
 - t-001
+  global_id: t-30330
   teiginys: 'Kinsgaila buvo Ukmergės seniūnas ir vienas iš sąjungininkų pusės vadų.'
   pagrindžia:
     - c-001

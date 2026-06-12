@@ -18,7 +18,9 @@ Dienos pabaigoje, pasinaudoję tamsa dalis partizanų Jokubavo mišku sugebėjo 
 
 ## Teiginiai
 
+<a id="claim-t-41746"></a>
 - t-001
+  global_id: t-41746
   teiginys: 'Dienos pabaigoje dalis partizanų, pasinaudoję tamsa, Jokubavo mišku prasiveržė Pakruojo link.'
   pagrindžia:
     - c-001

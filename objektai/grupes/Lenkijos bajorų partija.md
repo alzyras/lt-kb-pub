@@ -25,19 +25,24 @@ Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Prancūz
 
 ## Teiginiai
 
+<a id="claim-t-74047"></a>
 - t-001
-  teiginys: 'Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti bajorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltindama išdavimu, buvo patraukusi į seimo teismą.'
+  global_id: t-74047
+  teiginys: 'Lenkijos bajorų partija kelis prancūziškosios partijos žmones apkaltino išdavimu ir patraukė į seimo teismą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74048"></a>
 - t-002
-  teiginys: 'Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti.'
+  global_id: t-74048
+  teiginys: 'Lenkijos bajorų partija buvo tarp karaliaus rėmėjų kartu su Pacų vadovaujama Lietuva.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkijos bajorų partija buvo tarp karaliaus rėmėjų kartu su Pacų vadovaujama Lietuva.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Prancūzijos kan-
@@ -53,6 +58,7 @@ Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Prancūz
     - t-002
 
 - c-002
+  santrauka: 'Lenkijos bajorų partija kelis prancūziškosios partijos žmones apkaltino išdavimu ir patraukė į seimo teismą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik abiem pusėm

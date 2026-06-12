@@ -18,12 +18,16 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
 
 ## Teiginiai
 
+<a id="claim-t-22111"></a>
 - t-001
+  global_id: t-22111
   teiginys: 'Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-22112"></a>
 - t-002
+  global_id: t-22112
   teiginys: 'Po J. Stalino mirties, atšilimo laikotarpiu, kultūriniame gyvenime imta nuolaidžiau vertinti tautinį kultūrinį palikimą.'
   pagrindžia:
     - c-002

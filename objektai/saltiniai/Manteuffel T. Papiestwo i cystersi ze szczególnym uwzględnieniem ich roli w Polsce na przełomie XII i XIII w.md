@@ -22,7 +22,9 @@ Dusburgietis teigia, kad manteuffel T.
 
 ## Teiginiai
 
+<a id="claim-t-61156"></a>
 - t-001
+  global_id: t-61156
   teiginys: 'T. Manteuffelio „Papiestwo i cystersi“ išleista Varšuvoje 1955 m.'
   pagrindžia:
     - c-001

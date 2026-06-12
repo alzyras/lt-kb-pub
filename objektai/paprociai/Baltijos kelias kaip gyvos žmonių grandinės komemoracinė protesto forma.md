@@ -52,12 +52,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-23361"></a>
 - t-001
+  global_id: t-23361
   teiginys: '1989 m. rugpjūčio 23 d. apie du milijonai lietuvių, latvių ir estų Baltijos kelyje susikibo rankomis į daugiau kaip 650 km gyvą žmonių grandinę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23362"></a>
 - t-002
+  global_id: t-23362
   teiginys: 'Baltijos kelio komemoraciniai ženklai buvo juodi gedulo kaspinai ir žvakutės.'
   pagrindžia:
     - c-001

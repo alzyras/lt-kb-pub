@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Veliuonos susitikimas dėl taikos ir karo su kryžiuočiais atsinaujinimas (1418 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad sugrįžti nuo tikėjimo reikalų prie vals tybės rūpesčių paragino Vytautą tai, kad netrukus turė jo baigtis dvejų metų paliaubos su kryžiuočiais. Kojelavičius teigia, kad pasibai gus susitikimui, karalius kurį laiką pasiliko Veliuono je, norėdamas pailsėti, nes netoliese buvo vietų, tinka mų medžioklei ir poilsiui.
+1418 m. Veliuonos susitikimas neatnešė taikos, nes kryžiuočiai atmetė siūlomas sąlygas ir reikalavo visos Žemaitijos. Po Veliuonos susitikimo karalius kurį laiką pasiliko Veliuonoje, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185782"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad sugrįžti nuo tikėjimo reikalų prie vals tybės rūpesčių paragino Vytautą tai, kad netrukus turė jo baigtis dvejų metų paliaubos su kryžiuočiais.'
+  global_id: t-185782
+  teiginys: '1418 m. Veliuonos susitikimas neatnešė taikos, nes kryžiuočiai atmetė siūlomas sąlygas ir reikalavo visos Žemaitijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185783"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad pasibai gus susitikimui, karalius kurį laiką pasiliko Veliuono je, norėdamas pailsėti, nes netoliese buvo vietų, tinka mų medžioklei ir poilsiui.'
+  global_id: t-185783
+  teiginys: 'Po Veliuonos susitikimo karalius kurį laiką pasiliko Veliuonoje, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad sugrįžti nuo tikėjimo reikalų prie vals tybės rūpesčių paragino Vytautą tai, kad netrukus turė jo baigtis dvejų metų paliaubos su kryžiuočiais.'
+  santrauka: '1418 m. Veliuonos susitikimas neatnešė taikos, nes kryžiuočiai atmetė siūlomas sąlygas ir reikalavo visos Žemaitijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sugrįžti nuo tikėjimo reikalų prie vals­
@@ -71,7 +74,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad pasibai gus susitikimui, karalius kurį laiką pasiliko Veliuono je, norėdamas pailsėti, nes netoliese buvo vietų, tinka mų medžioklei ir poilsiui.'
+  santrauka: 'Po Veliuonos susitikimo karalius kurį laiką pasiliko Veliuonoje, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pasibai­
@@ -95,3 +98,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/paliaubos]]

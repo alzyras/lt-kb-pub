@@ -18,7 +18,9 @@ Tada raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikine T
 
 ## Teiginiai
 
+<a id="claim-t-01363"></a>
 - t-001
+  global_id: t-01363
   teiginys: 'Raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikine Tautos Vyriausybe ir paskelbė sukilimą.'
   pagrindžia:
     - c-001

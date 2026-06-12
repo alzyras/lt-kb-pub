@@ -31,53 +31,73 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 
 ## Teiginiai
 
+<a id="claim-t-114293"></a>
 - t-001
-  teiginys: 'Esą, istorijoje žinomas romėnų karvedys Publijas Libonas, savo priešų persekiojamas, iš Italijos atbėgęs į Lietuvą ir čia sukūręs valstybę.'
+  global_id: t-114293
+  teiginys: 'Palemono legenda teigė, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir ten sukūrė valstybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-114294"></a>
 - t-002
+  global_id: t-114294
   teiginys: 'Pasakojime romėnų karvedys Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-114295"></a>
 - t-003
+  global_id: t-114295
   teiginys: '1939 m. Kaune Lietuva antrą kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė Italijoje iškovojo Europos čempionato sidabro medalius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-114296"></a>
 - t-004
+  global_id: t-114296
   teiginys: 'Iš Italijos kilęs de Senis papuošė Vilnių nuostabaus darbo meno kūriniais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-114297"></a>
 - t-005
+  global_id: t-114297
   teiginys: 'Aukštojo mokslo siekę ne dvasininkai vykdavo į Vokietijos, Italijos ir Prancūzijos universitetus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-114298"></a>
 - t-006
+  global_id: t-114298
   teiginys: 'Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-114299"></a>
 - t-007
+  global_id: t-114299
   teiginys: 'Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183020"></a>
 - t-008
-  teiginys: 'Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau buvo Italijoj.'
+  global_id: t-183020
+  teiginys: 'Dar prieš Konrado Mazoviečio pasiūlymą Kryžiuočių ordinui jo centras buvo Italijoje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-183021"></a>
 - t-009
-  teiginys: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
+  global_id: t-183021
+  teiginys: 'Aukštojo mokslo siekę nedvasininkai vykdavo į Vokietijos, Italijos ir Prancūzijos universitetus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184962"></a>
 - t-011
-  teiginys: 'Kojelavičius teigia, kad po ilgų ir karštų ginčų tais pačiais metais leista karalienei Bonai, negailėjuK a ra lic n ė B ona iššiai dovanų Lenkijos didiv y k s ta į Ita liją kams, išvykti į Italiją su vi somis brangenybėmis ir vi sais valdovės turtais.'
+  global_id: t-184962
+  teiginys: 'Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.'
   pagrindžia:
     - c-008
 
@@ -159,7 +179,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - t-004
 
 - c-005
-  santrauka: 'Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau buvo Italijoj.'
+  santrauka: 'Dar prieš Konrado Mazoviečio pasiūlymą Kryžiuočių ordinui jo centras buvo Italijoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Krikščionių būklė Mažojoj Azijoj buvo labai
@@ -209,7 +229,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - t-010
 
 - c-008
-  santrauka: 'Kojelavičius teigia, kad po ilgų ir karštų ginčų tais pačiais metais leista karalienei Bonai, negailėjuK a ra lic n ė B ona iššiai dovanų Lenkijos didiv y k s ta į Ita liją kams, išvykti į Italiją su vi somis brangenybėmis ir vi sais valdovės turtais.'
+  santrauka: 'Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi švedų valdovas atsisakė siūlomos sąjungos,

@@ -27,7 +27,9 @@ Dusburgietis teigia, kad varakauskas R.
 
 ## Teiginiai
 
+<a id="claim-t-61346"></a>
 - t-001
+  global_id: t-61346
   teiginys: 'R. Varakausko straipsnis apie lietuvių kovą su vokiškaisiais agresoriais Mindaugo laikotarpiu paskelbtas 1958 m.'
   pagrindžia:
     - c-001

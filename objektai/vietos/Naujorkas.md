@@ -25,12 +25,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-68772"></a>
 - t-001
+  global_id: t-68772
   teiginys: 'Naujorke buvo sušauktas Amerikos lietuvių seimas, kuriame susirinko apie 1 200 delegatų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-68773"></a>
 - t-002
+  global_id: t-68773
   teiginys: '13—14 d. Naujorke buvo sušauktas Amerikos lietuvių seimas, kuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Amerikos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklausomą Lietuvos valstybę.'
   pagrindžia:
     - c-001

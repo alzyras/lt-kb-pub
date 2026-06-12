@@ -26,7 +26,9 @@ Dieckmann Ch., Sužiedėlis S.
 
 ## Teiginiai
 
+<a id="claim-t-26479"></a>
 - t-001
+  global_id: t-26479
   teiginys: 'S. Sužiedėlis kartu su Ch. Dieckmannu parašė leidinį apie Lietuvos žydų persekiojimą ir masines žudynes 1941 m. vasarą ir rudenį.'
   pagrindžia:
     - c-001

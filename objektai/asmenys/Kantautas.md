@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kantautas
 
 ## Santrauka
 
-Kojelavičius teigia, kad išsižadėjęs pirmykščio sumanymo, valdovas nutarė sužinoti, ar žemaičiai su tiks, kad seniūnu būtų ne Daumantas, o Kantautas, gar sus visoje Žemaitijoje vyras bei Daumanto giminaitis.
+Žemaičiai mielai sutiko priimti Kantautą, visoje Žemaitijoje garsų Daumanto giminaitį, savo seniūnu.
 
 ## Teiginiai
 
+<a id="claim-t-186123"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad išsižadėjęs pirmykščio sumanymo, valdovas nutarė sužinoti, ar žemaičiai su tiks, kad seniūnu būtų ne Daumantas, o Kantautas, gar sus visoje Žemaitijoje vyras bei Daumanto giminaitis.'
+  global_id: t-186123
+  teiginys: 'Žemaičiai mielai sutiko priimti Kantautą, visoje Žemaitijoje garsų Daumanto giminaitį, savo seniūnu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad išsižadėjęs pirmykščio sumanymo, valdovas nutarė sužinoti, ar žemaičiai su tiks, kad seniūnu būtų ne Daumantas, o Kantautas, gar sus visoje Žemaitijoje vyras bei Daumanto giminaitis.'
+  santrauka: 'Žemaičiai mielai sutiko priimti Kantautą, visoje Žemaitijoje garsų Daumanto giminaitį, savo seniūnu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Juos nesunku paveikti gerumu, paskyrus į se­
@@ -46,3 +47,9 @@ Kojelavičius teigia, kad išsižadėjęs pirmykščio sumanymo, valdovas nutar�
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/grupes/Žemaičiai]]

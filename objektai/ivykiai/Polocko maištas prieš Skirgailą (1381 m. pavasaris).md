@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31465"></a>
 - t-001
+  global_id: t-31465
   teiginys: '1381 m. pavasarį Andriaus partija Polocke sukėlė atvirą maištą prieš Jogailos paskirtą Skirgailą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184341"></a>
 - t-002
+  global_id: t-184341
   teiginys: 'Prieš Polockan Jogailos paskirtą Skirgailą Andriaus partija sukėlė 1381 pavasarį atvirą maištą.'
   pagrindžia:
     - c-002

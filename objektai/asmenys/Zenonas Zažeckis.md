@@ -28,7 +28,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87891"></a>
 - t-001
+  global_id: t-87891
   teiginys: '1563 m. Vilniaus burmistras Zenonas Zažeckis atstovavo Lietuvos Didžiosios Kunigaikštystės miestams Varšuvos seime.'
   pagrindžia:
     - c-001

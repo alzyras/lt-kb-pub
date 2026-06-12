@@ -20,22 +20,30 @@ atnaujinta: ''
 
 ## Teiginiai
 
+<a id="claim-t-13517"></a>
 - t-001
+  global_id: t-13517
   teiginys: '„Descriptive Ethnology“ minima kaip britų mokslininko Robert Gordon Latham veikalas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-13518"></a>
 - t-002
+  global_id: t-13518
   teiginys: 'Leidinyje prie „Descriptive Ethnology“ pateikta lietuviška pavadinimo forma „Aprašomoji etnologija“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-23394"></a>
 - t-003
+  global_id: t-23394
   teiginys: 'VIDURIO EUROPOS DALIS „Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“ („Aprašomoji etnologija“).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-26659"></a>
 - t-004
+  global_id: t-26659
   teiginys: 'Alfonsas Eidintas, redaktorius Į v a d a s LIETUVA – VIDURIO EUROPOS DALIS „Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“.'
   pagrindžia:
     - c-001

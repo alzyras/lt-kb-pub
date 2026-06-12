@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-20906"></a>
 - t-001
+  global_id: t-20906
   teiginys: '1958 m. pasibaigus „atšilimui“, valdžia ribojo atlaidų lankymą Šiluvoje, miestelį blokuodama ir skelbdama neva „kiaulių marą“.'
   pagrindžia:
     - c-001

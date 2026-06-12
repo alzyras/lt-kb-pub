@@ -17,12 +17,16 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 
 ## Teiginiai
 
+<a id="claim-t-02409"></a>
 - t-001
+  global_id: t-02409
   teiginys: 'Sudarant Liublino uniją, Didlenkiai ir Mažlenkiai turėjo atskirus atstovų suvažiavimus, vadintus generaliniais seimeliais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183008"></a>
 - t-002
+  global_id: t-183008
   teiginys: 'Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.'
   pagrindžia:
     - c-002

@@ -18,7 +18,6 @@ tags:
 amziai:
   - 'XIII'
 ---
-
 # Pieštvė
 
 ## Santrauka
@@ -27,23 +26,31 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
 
 ## Teiginiai
 
+<a id="claim-t-58400"></a>
 - t-001
+  global_id: t-58400
   teiginys: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 metais Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės pilis ir iki pamatų sudegino jų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58401"></a>
 - t-002
+  global_id: t-58401
   teiginys: 'Dusburgietis teigia, kad pieštvės pilis buvo deš.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58402"></a>
 - t-003
+  global_id: t-58402
   teiginys: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginimą Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas, magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei gyventi neatsižadėjo, subūrė galybę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185084"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad tuo pačiu žygiu sugriovė Pieštvės ir Veliuo nos pilis: pirmąją išsigandę gynėjai atidavė be kovos, antrąją paėmė po keturias dienas užtrukusios apgulties.'
+  global_id: t-185084
+  teiginys: 'Kryžiuočiai tuo pačiu žygiu sugriovė Pieštvės ir Veliuonos pilis; Pieštvės gynėjai ją atidavė be kovos.'
   pagrindžia:
     - c-004
 
@@ -100,7 +107,7 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad tuo pačiu žygiu sugriovė Pieštvės ir Veliuo nos pilis: pirmąją išsigandę gynėjai atidavė be kovos, antrąją paėmė po keturias dienas užtrukusios apgulties.'
+  santrauka: 'Kryžiuočiai tuo pačiu žygiu sugriovė Pieštvės ir Veliuonos pilis; Pieštvės gynėjai ją atidavė be kovos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pagerbdami

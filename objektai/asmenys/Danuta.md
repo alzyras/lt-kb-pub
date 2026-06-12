@@ -28,12 +28,16 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
 
 ## Teiginiai
 
+<a id="claim-t-35045"></a>
 - t-001
+  global_id: t-35045
   teiginys: 'Danuta buvo Vytauto sesuo, nutekėjusi į Mozūriją, iš kurios katalikų svečiai lankydavosi Kęstučio dvare Trakuose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-35046"></a>
 - t-002
+  global_id: t-35046
   teiginys: 'Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama taip pat Marijos vardu.'
   pagrindžia:
     - c-001

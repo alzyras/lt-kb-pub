@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-87672"></a>
 - t-001
+  global_id: t-87672
   teiginys: 'Kalavijuočių riterių ordino magistras Frankas Kirskorffas žuvo mūšyje, kuriame žuvo daug livoniečių.'
   pagrindžia:
     - c-001

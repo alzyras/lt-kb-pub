@@ -19,12 +19,16 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 
 ## Teiginiai
 
+<a id="claim-t-86042"></a>
 - t-001
+  global_id: t-86042
   teiginys: 'Dinaburgas nurodytas kaip viena iš Livonijos pilių tarp aprašytų vietovių pavadinimų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86043"></a>
 - t-002
+  global_id: t-86043
   teiginys: 'Livoniae) TI, p. 136, N533 Dinaburgo komtūro pranešimas Livonijos magistrui apie Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie nuostolius, kokių per tai patyrė Vytautas.'
   pagrindžia:
     - c-001

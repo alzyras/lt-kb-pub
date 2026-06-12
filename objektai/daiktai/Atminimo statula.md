@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Atminimo statula
 
 ## Santrauka
 
-Kojelavičius teigia, kad toje pačioje vietoje pa garbiai užkasus pelenus, pastatė nelyginant atminimo statulą, kuri palikuonių buvo laikoma šventenybe, kaip, beje, ir visa vieta, ir kuriai iki pat Jogailos laikų bu vo atiduodama dieviškoji pagarba.
+Po Barkaus sudeginimo jo pelenų vietoje pastatyta atminimo statula iki Jogailos laikų buvo laikoma šventenybe.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185847"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad toje pačioje vietoje pa garbiai užkasus pelenus, pastatė nelyginant atminimo statulą, kuri palikuonių buvo laikoma šventenybe, kaip, beje, ir visa vieta, ir kuriai iki pat Jogailos laikų bu vo atiduodama dieviškoji pagarba.'
+  global_id: t-185847
+  teiginys: 'Po Barkaus sudeginimo jo pelenų vietoje pastatyta atminimo statula iki Jogailos laikų buvo laikoma šventenybe.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad toje pačioje vietoje pa garbiai užkasus pelenus, pastatė nelyginant atminimo statulą, kuri palikuonių buvo laikoma šventenybe, kaip, beje, ir visa vieta, ir kuriai iki pat Jogailos laikų bu vo atiduodama dieviškoji pagarba.'
+  santrauka: 'Po Barkaus sudeginimo jo pelenų vietoje pastatyta atminimo statula iki Jogailos laikų buvo laikoma šventenybe.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tėvui mirus, aukščiausią valdžią valsty­
@@ -59,3 +60,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Barkus]]

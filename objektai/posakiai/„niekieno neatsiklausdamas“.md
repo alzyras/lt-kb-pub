@@ -25,7 +25,9 @@ Vytauto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
 
 ## Teiginiai
 
+<a id="claim-t-77851"></a>
 - t-001
+  global_id: t-77851
   teiginys: 'Vytauto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas, kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu valdovu.'
   pagrindžia:
     - c-001

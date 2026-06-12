@@ -25,7 +25,9 @@ nežinomi didesni Lietuvos puolituose 1363 m. „Lietuva paėmė Korševą“ - 
 
 ## Teiginiai
 
+<a id="claim-t-41799"></a>
 - t-001
+  global_id: t-41799
   teiginys: '1363 m. Lietuva paėmė Korševą, miestą prie Sosnos upės, dešiniojo Dono intako.'
   pagrindžia:
     - c-001

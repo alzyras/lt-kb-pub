@@ -18,7 +18,9 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
 
 ## Teiginiai
 
+<a id="claim-t-36571"></a>
 - t-001
+  global_id: t-36571
   teiginys: 'Vytautas Žemaitijoje pastatė bažnyčias, tarp jų ir Senvarniuose.'
   pagrindžia:
     - c-001

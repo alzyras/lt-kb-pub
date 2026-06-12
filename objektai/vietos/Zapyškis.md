@@ -16,7 +16,9 @@ pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač
 
 ## Teiginiai
 
+<a id="claim-t-21933"></a>
 - t-001
+  global_id: t-21933
   teiginys: 'XV a. pabaigoje–XVI a. pirmame trečdalyje gotika pasiekė provinciją, įskaitant Kėdainius ir Zapyškį.'
   pagrindžia:
     - c-001

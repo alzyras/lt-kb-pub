@@ -27,22 +27,30 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 
 ## Teiginiai
 
+<a id="claim-t-68592"></a>
 - t-001
+  global_id: t-68592
   teiginys: 'Po mūšio prie Berezinos Napoleonas per Vilnių, Kauną, Marijampolę ir Varšuvą parskubėjo į Paryžių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-68593"></a>
 - t-002
+  global_id: t-68593
   teiginys: 'Paties autoriaus sulietuvinta: Mindaugas, Lietuvos karalius, Marijampolė 1932.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-68594"></a>
 - t-003
+  global_id: t-68594
   teiginys: 'Krasauskaitės pedagoginis darbas Marijampolėje trukdė jai tęsti istorinius tyrinėjimus tėvynėje ir emigracijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-68595"></a>
 - t-004
+  global_id: t-68595
   teiginys: ': Baltijos valstybių politinė geografija ; Lietuvos ribų problema, Kaunas-Marijampolė 1929 (vert.'
   pagrindžia:
     - c-002

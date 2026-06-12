@@ -19,7 +19,9 @@ Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovy
 
 ## Teiginiai
 
+<a id="claim-t-41945"></a>
 - t-001
+  global_id: t-41945
   teiginys: 'Lapkritį Gedimino kariuomenė, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę.'
   pagrindžia:
     - c-001

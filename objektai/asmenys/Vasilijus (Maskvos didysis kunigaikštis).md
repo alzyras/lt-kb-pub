@@ -19,12 +19,16 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
 
 ## Teiginiai
 
+<a id="claim-t-39662"></a>
 - t-001
+  global_id: t-39662
   teiginys: 'Prieš mūšį Sofijos Vytautaitės apsilankymas Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183765"></a>
 - t-002
+  global_id: t-183765
   teiginys: 'Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigaikštienės su vaikais lankymasis Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.'
   pagrindžia:
     - c-002

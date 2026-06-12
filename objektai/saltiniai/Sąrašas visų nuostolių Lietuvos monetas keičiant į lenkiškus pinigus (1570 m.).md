@@ -27,17 +27,23 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
 
 ## Teiginiai
 
+<a id="claim-t-88209"></a>
 - t-001
+  global_id: t-88209
   teiginys: 'Die 18 Augusti [rugpjūčio 18 dieną] Vilniuje Anno 1571 (1571 metais) 666 kapoms lietuviškomis monetomis išlaidos: 91 flor., 19 grašių, 6 liet.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-88210"></a>
 - t-002
+  global_id: t-88210
   teiginys: '1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo pakeistos į 164 auksinus ir 36 grašius lenkiškų pinigų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88211"></a>
 - t-003
+  global_id: t-88211
   teiginys: '1570 m. nuostolių sąraše nurodyta, kad už talerius, Lenkijoje vertintus po 30 grašių, Lietuvoje mokėta po 25 lietuviškus grašius.'
   pagrindžia:
     - c-002

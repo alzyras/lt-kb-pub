@@ -22,7 +22,9 @@ Labanoro giri- (e) 4 = Maišiagala eliškės i > S oe t; sk k ‘ KAUNAS Nunsiš
 
 ## Teiginiai
 
+<a id="claim-t-41847"></a>
 - t-001
+  global_id: t-41847
   teiginys: '1951 m. kovo 19 d. Labanoro girioje MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai puolė dvi partizanų žemines.'
   pagrindžia:
     - c-001

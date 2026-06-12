@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-95934"></a>
 - t-001
+  global_id: t-95934
   teiginys: 'Kazimiero laikų dokumente valstietis dėl kaimo mokesčių sakė nebeatsimenantis Algirdo, bet atsimenantis Vytautą.'
   pagrindžia:
     - c-001

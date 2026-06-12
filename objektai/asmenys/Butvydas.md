@@ -17,7 +17,9 @@ Butvydas įsitraukė į politinį gyvenimą ir, susidorojęs su Mindaugo prieša
 
 ## Teiginiai
 
+<a id="claim-t-78047"></a>
 - t-001
+  global_id: t-78047
   teiginys: 'Butvydas įsitraukė į politinį gyvenimą ir, susidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą.'
   pagrindžia:
     - c-001

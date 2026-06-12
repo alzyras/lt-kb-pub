@@ -29,7 +29,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-88493"></a>
 - t-001
+  global_id: t-88493
   teiginys: 'Vilniaus miesto planas Jogailos laikais žymėjo Aukštutinę pilį, Kreivąją pilį, Perkūno šventyklą, kelius, bažnyčias ir vienuolynus.'
   pagrindžia:
     - c-001

@@ -18,7 +18,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Jonas Olesnickis
 
 ## Santrauka
@@ -27,63 +26,87 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 
 ## Teiginiai
 
+<a id="claim-t-82428"></a>
 - t-001
+  global_id: t-82428
   teiginys: 'Jogaila Vilniaus seniūno pareigas pavedė Jonui Olesnickiui, kuris sustiprino abiejų pilių įgulas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-82429"></a>
 - t-002
+  global_id: t-82429
   teiginys: 'Olesnickis Vilniuje džiugiai sutiko atvykusį Vytautą, nes karalius jį jau buvo perspėjęs apie susitarimą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-82430"></a>
 - t-003
+  global_id: t-82430
   teiginys: 'Jonas Olesnickis 1390 m. pasirodė kaip kariuomenės vadas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82431"></a>
 - t-004
+  global_id: t-82431
   teiginys: 'Jogaila Vilniaus seniūno pareigas pavedė Jonui Olesnickiui, kuris gerokai sustiprino abiejų pilių įgulas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-82432"></a>
 - t-005
+  global_id: t-82432
   teiginys: 'Jonas Olesnickis su visa įgula netikėtai užpuolė vokiečius ir sudavė jiems skaudų smūgį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82433"></a>
 - t-006
+  global_id: t-82433
   teiginys: 'Jonas Olesnickis, gelbėdamas pilis, įsakė sudeginti likusius miesto namus ir gyventojus perkelti į Žemutinę pilį.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-82434"></a>
 - t-007
+  global_id: t-82434
   teiginys: 'Jis atvyksta į Vilnių, čia jį džiugiai sutinka Olesnickis, kuris karaliaus apie tą susitarimą jau buvo perspėtas49.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-82435"></a>
 - t-008
+  global_id: t-82435
   teiginys: 'Jonas Olesnickis, gelbėdamas Vilniaus pilis, įsakė sudeginti likusius miesto namus ir gyventojus perkelti į Žemutinę pilį.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-82436"></a>
 - t-009
+  global_id: t-82436
   teiginys: 'Jonas Olesnickis su įgula surengė netikėtą išpuolį prieš vokiečius ir sudavė jiems skaudų smūgį.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184739"></a>
 - t-010
-  teiginys: 'Kojelavičius teigia, kad jį pakeitė Jo nas Olesnickis, kaip reta kas išgarsėjęs Lenkijoje ir ka ro žygiais, ir protėvių kilmės senumu.'
+  global_id: t-184739
+  teiginys: 'Jonas Olesnickis pakeitė ankstesnį pareigūną ir buvo garsus Lenkijoje karo žygiais bei sena protėvių kilme.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-184740"></a>
 - t-011
-  teiginys: 'Kojelavičius teigia, kad olesnickis, gerai žinodamas, kad pirmieji karo žingsniai lemia visą tolimesnę sėkmę, bijojo, kad nepalaužtų savųjų narsumo, palikdamas vokiečių akiplėšišką karin gumą nesutramdytą.'
+  global_id: t-184740
+  teiginys: 'Jonas Olesnickis nutarė pulti priešą, kol šis dar nebuvo tinkamai sutvirtinęs stovyklos.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-184741"></a>
 - t-012
-  teiginys: 'Kojelavičius teigia, kad greitai sutvar kius tai, kas nereikalavo laiko, Vytautas pakeitė Skir gailą ir Olesnickis atsisakė Vilniaus seniūno pareigų.'
+  global_id: t-184741
+  teiginys: 'Vytautui pakeitus Skirgailą, Jonas Olesnickis atsisakė Vilniaus seniūno pareigų.'
   pagrindžia:
     - c-009
 
@@ -210,7 +233,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - t-006
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad jį pakeitė Jo nas Olesnickis, kaip reta kas išgarsėjęs Lenkijoje ir ka ro žygiais, ir protėvių kilmės senumu.'
+  santrauka: 'Jonas Olesnickis pakeitė ankstesnį pareigūną ir buvo garsus Lenkijoje karo žygiais bei sena protėvių kilme.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sunkūs, bemaž nuolatiniai
@@ -227,7 +250,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - t-010
 
 - c-008
-  santrauka: 'Kojelavičius teigia, kad olesnickis, gerai žinodamas, kad pirmieji karo žingsniai lemia visą tolimesnę sėkmę, bijojo, kad nepalaužtų savųjų narsumo, palikdamas vokiečių akiplėšišką karin gumą nesutramdytą.'
+  santrauka: 'Jonas Olesnickis nutarė pulti priešą, kol šis dar nebuvo tinkamai sutvirtinęs stovyklos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mergelės Marijos bažnyčią, plačioje aikštėje.
@@ -243,7 +266,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - t-011
 
 - c-009
-  santrauka: 'Kojelavičius teigia, kad greitai sutvar kius tai, kas nereikalavo laiko, Vytautas pakeitė Skir gailą ir Olesnickis atsisakė Vilniaus seniūno pareigų.'
+  santrauka: 'Vytautui pakeitus Skirgailą, Jonas Olesnickis atsisakė Vilniaus seniūno pareigų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šios sąlygos buvo įtrauk­
@@ -269,3 +292,15 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   statusas: verified
   pagrindžia:
     - t-012
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/apsiaustis]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/įgula]]

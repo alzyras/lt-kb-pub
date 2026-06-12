@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-80661"></a>
 - t-001
+  global_id: t-80661
   teiginys: '1947 m. įkūrus Algimanto apygardą, jis tapo jos vadu, 1948 m. Rytų Lietuvos srities vadu.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
 
 ## Teiginiai
 
+<a id="claim-t-59079"></a>
 - t-001
+  global_id: t-59079
   teiginys: 'Pasakojime apie Višogrudo pilies sugriovimą cituojamas Matatijo raginimas sūnums atsiminti tėvų darbus ir laimėti garbę.'
   pagrindžia:
     - c-001

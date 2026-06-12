@@ -23,7 +23,9 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 
 ## Teiginiai
 
+<a id="claim-t-01407"></a>
 - t-001
+  global_id: t-01407
   teiginys: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
   pagrindžia:
     - c-001

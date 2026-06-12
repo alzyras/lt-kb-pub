@@ -6,39 +6,39 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lietuvos luomai
 
 ## Santrauka
 
-Kojelavičius teigia, kad jis pasiūlė lietuvių luomams Vilniaus seime aptarti ir patvirtinti nutarimus, kuriuos jo atsto vai buvo priėmę Piotrkove. Kojelavičius teigia, kad štai todėl ir buvo pasiųsti į Piotrkovą Vil niaus vyskupas Vaitiekus Taboras, maršalas Jonas Zaberezinskis bei Lietuvos pataurininkis Mikalojus savo trijų brolių: ar Vladis- 5 69 Radvila, kurie atvyko į seimą čia balsuoti Lietuvos luo mų vardu, kaip numatyta. Kojelavičius teigia, kad karaliaus ir luomų vardu jam šitaip buvo atsa kyta.
+Aleksandras pasiūlė Lietuvos luomams Vilniaus seime aptarti ir patvirtinti Piotrkove priimtus nutarimus. Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila. Dažni skitų žygiai į Lietuvos gilumą paskatino luomus geriau sutvirtinti Vilnių.
 
 ## Teiginiai
 
+<a id="claim-t-185432"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad jis pasiūlė lietuvių luomams Vilniaus seime aptarti ir patvirtinti nutarimus, kuriuos jo atsto vai buvo priėmę Piotrkove.'
+  global_id: t-185432
+  teiginys: 'Aleksandras pasiūlė Lietuvos luomams Vilniaus seime aptarti ir patvirtinti Piotrkove priimtus nutarimus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185433"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad štai todėl ir buvo pasiųsti į Piotrkovą Vil niaus vyskupas Vaitiekus Taboras, maršalas Jonas Zaberezinskis bei Lietuvos pataurininkis Mikalojus savo trijų brolių: ar Vladis- 5 69 Radvila, kurie atvyko į seimą čia balsuoti Lietuvos luo mų vardu, kaip numatyta.'
+  global_id: t-185433
+  teiginys: 'Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185435"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad karaliaus ir luomų vardu jam šitaip buvo atsa kyta.'
+  global_id: t-185435
+  teiginys: 'Dažni skitų žygiai į Lietuvos gilumą paskatino luomus geriau sutvirtinti Vilnių.'
   pagrindžia:
     - c-003
-
-- t-004
-  teiginys: 'Kojelavičius teigia, kad dažni skitų žygiai į Lietuvos gilumą paskatino luomus geriau su tvirtinti Vilnių.'
-  pagrindžia:
-    - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad jis pasiūlė lietuvių luomams Vilniaus seime aptarti ir patvirtinti nutarimus, kuriuos jo atsto vai buvo priėmę Piotrkove.'
+  santrauka: 'Aleksandras pasiūlė Lietuvos luomams Vilniaus seime aptarti ir patvirtinti Piotrkove priimtus nutarimus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu Aleksandras, didžiai rūpindama­
@@ -57,7 +57,7 @@ Kojelavičius teigia, kad jis pasiūlė lietuvių luomams Vilniaus seime aptarti
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad štai todėl ir buvo pasiųsti į Piotrkovą Vil niaus vyskupas Vaitiekus Taboras, maršalas Jonas Zaberezinskis bei Lietuvos pataurininkis Mikalojus savo trijų brolių: ar Vladis- 5 69 Radvila, kurie atvyko į seimą čia balsuoti Lietuvos luo mų vardu, kaip numatyta.'
+  santrauka: 'Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nuo šio įžū­
@@ -98,27 +98,7 @@ Kojelavičius teigia, kad jis pasiūlė lietuvių luomams Vilniaus seime aptarti
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad karaliaus ir luomų vardu jam šitaip buvo atsa kyta.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Pakviestas į se­
-    nato posėdį, jis, be galo išraiškingai kalbėdamas, nusi­
-    skundė, kad, girdi, kovodamas už Lenkijos bei Lietu­
-    vos reikalus, buvęs priešo krašte nelyginant išduotas;
-    išeikvojęs visus turtus kariuomenei išlaikyti, dabar,
-    laužant duotą žodį, turįs kęsti smurtą, negalėdamas su­
-    silaukti nei laisvės, nei pagalbos kovoje prieš Krymo
-    skitus. Karaliaus ir luomų vardu jam šitaip buvo atsa­
-    kyta. Dėl visų negandų, kuriuos iki šiol esąs patyręs,
-    turįs kaltinti ne ką kitą, bet patį save, Šich Achmetą.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Kojelavičius teigia, kad dažni skitų žygiai į Lietuvos gilumą paskatino luomus geriau su tvirtinti Vilnių.'
+  santrauka: 'Dažni skitų žygiai į Lietuvos gilumą paskatino luomus geriau sutvirtinti Vilnių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po priešo niokojamo antpuolio
@@ -144,4 +124,28 @@ Kojelavičius teigia, kad jis pasiūlė lietuvių luomams Vilniaus seime aptarti
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/daiktai/Antspaudai]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Pataurininkis]]
+- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/ivykiai/Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas]]
+- [[objektai/ivykiai/Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.)]]
+- [[objektai/asmenys/Jonas Zaberezinskis]]
+- [[objektai/asmenys/Mikalojus Radvila]]
+- [[objektai/asmenys/Radvila]]
+- [[objektai/asmenys/Zaberezinskis]]
+- [[objektai/ivykiai/Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.)]]
+- [[objektai/ivykiai/Vilniaus seimas ir Belsko žemės atskyrimo aktas|Vilniaus seimas ir Belsko žemės atskyrimo aktas (seimas, XVI a.)]]
+- [[objektai/zodynas/luomas]]

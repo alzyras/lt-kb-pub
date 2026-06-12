@@ -24,7 +24,9 @@ Solikovskis, padėjęs ją pastatyti, niekada nebu­ vo Vilniaus, bet Lvovo arki
 
 ## Teiginiai
 
+<a id="claim-t-87856"></a>
 - t-001
+  global_id: t-87856
   teiginys: 'Solikovskis buvo Lvovo, o ne Vilniaus arkivyskupas, ir 1501 metais dar nebuvo gimęs.'
   pagrindžia:
     - c-001

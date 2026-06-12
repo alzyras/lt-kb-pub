@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Briansko užėmimas ir Seversko žemės perėjimas į Maskvos pusę
 
 ## Santrauka
 
-Kojelavičius teigia, kad sutelkę jėgas, visi kartu užpuolė Brianską ir dėl rusų klastingos išdavystės be vargo užėmė miestą, o netrukus prie išdavikų prisidėjo visa Seversko žemė — Černigovas, Starodubas, Naugardas ir Rylskas.
+Užpuolikai dėl rusų išdavystės be vargo užėmė Brianską, o netrukus prie jų prisidėjo visa Seversko žemė.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185699"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad sutelkę jėgas, visi kartu užpuolė Brianską ir dėl rusų klastingos išdavystės be vargo užėmė miestą, o netrukus prie išdavikų prisidėjo visa Seversko žemė — Černigovas, Starodubas, Naugardas ir Rylskas.'
+  global_id: t-185699
+  teiginys: 'Užpuolikai dėl rusų išdavystės be vargo užėmė Brianską, o netrukus prie jų prisidėjo visa Seversko žemė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad sutelkę jėgas, visi kartu užpuolė Brianską ir dėl rusų klastingos išdavystės be vargo užėmė miestą, o netrukus prie išdavikų prisidėjo visa Seversko žemė — Černigovas, Starodubas, Naugardas ir Rylskas.'
+  santrauka: 'Užpuolikai dėl rusų išdavystės be vargo užėmė Brianską, o netrukus prie jų prisidėjo visa Seversko žemė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žmonės, didžiai
@@ -58,3 +59,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Fiodoras]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Stanislovas]]

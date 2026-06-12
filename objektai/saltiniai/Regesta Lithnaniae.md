@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31902"></a>
 - t-001
+  global_id: t-31902
   teiginys: 'H. Paszkiewicziaus Regesta Lithnaniae I tomas išleistas Varšuvoje 1930 m. ir apima medžiagą iki 1315 m.'
   pagrindžia:
     - c-001

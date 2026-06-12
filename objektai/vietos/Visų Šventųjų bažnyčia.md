@@ -17,7 +17,9 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
 
 ## Teiginiai
 
+<a id="claim-t-21913"></a>
 - t-001
+  global_id: t-21913
   teiginys: 'Vilniaus Visų Šventųjų bažnyčioje sovietmečiu veikė Liaudies meno muziejus.'
   pagrindžia:
     - c-001

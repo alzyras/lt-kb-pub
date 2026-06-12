@@ -18,7 +18,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Dimitras Kaributas
 
 ## Santrauka
@@ -27,23 +26,31 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
 
 ## Teiginiai
 
+<a id="claim-t-50969"></a>
 - t-001
+  global_id: t-50969
   teiginys: 'Vytautas, pritariamas Jogailos, pirmiausia atėmė Sievero žemę iš Dimitro Kaributo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-50970"></a>
 - t-002
+  global_id: t-50970
   teiginys: 'Dimitras Kaributas valdė Sievero žemę, kurią Vytautas, pritariamas Jogailos, iš jo atėmė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184691"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad kad nuo tos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas Švitrigaila su nemaža įgula pasiliko Polocke, kitą ka riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į Severską — Dimitras Kaributas.'
+  global_id: t-184691
+  teiginys: 'Sutramdžius Rusią, Dimitras Kaributas buvo pasiųstas į Severską, kad iš tos pusės nekiltų naujų sąmyšių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184692"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad gal jie šitaip elgėsi iš anksto tarp savęs susita rę, gal kiekvienas viską darė savo galva, tačiau visi išdidžiai atšovė pasiuntiniams, jog nemokėsią, o ypač Dimitras, labiau už kitus nesitaikstantis su kito valdžia.'
+  global_id: t-184692
+  teiginys: 'Dimitras Kaributas atsisakė mokėti Vytauto pasiuntinių reikalautus pinigus į Lietuvos didžiojo kunigaikščio iždą.'
   pagrindžia:
     - c-003
 
@@ -70,7 +77,7 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
     - t-002
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kad nuo tos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas Švitrigaila su nemaža įgula pasiliko Polocke, kitą ka riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į Severską — Dimitras Kaributas.'
+  santrauka: 'Sutramdžius Rusią, Dimitras Kaributas buvo pasiųstas į Severską, kad iš tos pusės nekiltų naujų sąmyšių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po šios per­
@@ -95,7 +102,7 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
     - t-003
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad gal jie šitaip elgėsi iš anksto tarp savęs susita rę, gal kiekvienas viską darė savo galva, tačiau visi išdidžiai atšovė pasiuntiniams, jog nemokėsią, o ypač Dimitras, labiau už kitus nesitaikstantis su kito valdžia.'
+  santrauka: 'Dimitras Kaributas atsisakė mokėti Vytauto pasiuntinių reikalautus pinigus į Lietuvos didžiojo kunigaikščio iždą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas nutarė pirmiausia
@@ -119,3 +126,11 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
+- [[objektai/asmenys/Kaributas]]

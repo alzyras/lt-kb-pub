@@ -16,7 +16,9 @@ Jo veiksmuose dažnai pasireikšdavo didelis atsargu­ mas, kuris tačiau nevirs
 
 ## Teiginiai
 
+<a id="claim-t-95947"></a>
 - t-001
+  global_id: t-95947
   teiginys: 'Vytauto politika lyg koks didelis tinklas: jis jo akis tai suveda, tai paleidžia, tai naujai sumezga.'
   pagrindžia:
     - c-001

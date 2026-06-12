@@ -24,7 +24,9 @@ Kautynių metu iš bunkerio pavyko išsiveržti Juozui Kemekliui-Rokui, kuris pr
 
 ## Teiginiai
 
+<a id="claim-t-42005"></a>
 - t-001
+  global_id: t-42005
   teiginys: 'Kautynių metu iš bunkerio pavyko išsiveržti Juozui Kemekliui-Rokui, kuris prasiveržė per apsupimo žiedą ir atbėgo į Pamaleišio kaimo Juodelių sodybą.'
   pagrindžia:
     - c-001

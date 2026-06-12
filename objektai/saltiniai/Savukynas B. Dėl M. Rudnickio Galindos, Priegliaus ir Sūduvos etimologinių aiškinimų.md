@@ -22,7 +22,9 @@ Dusburgietis teigia, kad savukynas B.
 
 ## Teiginiai
 
+<a id="claim-t-61283"></a>
 - t-001
+  global_id: t-61283
   teiginys: 'B. Savukyno straipsnis „Dėl M. Rudnickio Galindos, Priegliaus ir Sūduvos etimologinių aiškinimų“ paskelbtas 1963 m.'
   pagrindžia:
     - c-001

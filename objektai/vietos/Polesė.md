@@ -9,7 +9,6 @@ atnaujinta: ''
 tags:
   - vieta
 ---
-
 # Polesė
 
 ## Santrauka
@@ -18,13 +17,17 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
 
 ## Teiginiai
 
+<a id="claim-t-28531"></a>
 - t-001
+  global_id: t-28531
   teiginys: 'Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo brolio Narimanto sūnus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185094"></a>
 - t-002
-  teiginys: 'Kojelavičius daugelyje atvejų neskyrė Polesės (lenk.'
+  global_id: t-185094
+  teiginys: 'Paaiškinime teigiama, kad Kojelavičius dažnai neskyrė Polesės nuo kaimyninės Palenkės, lenkiškai vadintos Poleksia.'
   pagrindžia:
     - c-002
 
@@ -46,7 +49,7 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius daugelyje atvejų neskyrė Polesės (lenk.'
+  santrauka: 'Paaiškinime teigiama, kad Kojelavičius dažnai neskyrė Polesės nuo kaimyninės Palenkės, lenkiškai vadintos Poleksia.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     3 „Lietuvos istorijos" I tome A. Kojelavičius daugelyje atvejų

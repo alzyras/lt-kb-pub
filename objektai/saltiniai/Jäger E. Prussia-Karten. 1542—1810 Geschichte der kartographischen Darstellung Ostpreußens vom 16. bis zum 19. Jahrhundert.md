@@ -25,7 +25,9 @@ Dusburgietis teigia, kad jäger E.
 
 ## Teiginiai
 
+<a id="claim-t-61090"></a>
 - t-001
+  global_id: t-61090
   teiginys: 'E. Jägerio „Prussia-Karten. 1542—1810“ 1982 m. išleido A. H. Konrad Verlag.'
   pagrindžia:
     - c-001

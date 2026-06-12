@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jonas Zaberezinskis
 
 ## Santrauka
 
-Kojelavičius teigia, kad karalius, supratęs, kad jo sumanymai visiems žinomi, sutiko parodyti malonę, patariamas to paties kancle rio, o labiausiai Jono iš Osvencimo, savo nuodėm klausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi ją, o kitus išvijo iš senato.
+Karalius atėmė iš Jono Zaberezinskio Trakų vaivadiją, kai paaiškėjo, kad jo sumanymai seime tapo žinomi.
 
 ## Teiginiai
 
+<a id="claim-t-186116"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad karalius, supratęs, kad jo sumanymai visiems žinomi, sutiko parodyti malonę, patariamas to paties kancle rio, o labiausiai Jono iš Osvencimo, savo nuodėm klausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi ją, o kitus išvijo iš senato.'
+  global_id: t-186116
+  teiginys: 'Karalius atėmė iš Jono Zaberezinskio Trakų vaivadiją, kai paaiškėjo, kad jo sumanymai seime tapo žinomi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad karalius, supratęs, kad jo sumanymai visiems žinomi, sutiko parodyti malonę, patariamas to paties kancle rio, o labiausiai Jono iš Osvencimo, savo nuodėm klausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi ją, o kitus išvijo iš senato.'
+  santrauka: 'Karalius atėmė iš Jono Zaberezinskio Trakų vaivadiją, kai paaiškėjo, kad jo sumanymai seime tapo žinomi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nieko nežinoda­
@@ -47,3 +48,8 @@ Kojelavičius teigia, kad karalius, supratęs, kad jo sumanymai visiems žinomi,
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/seimas]]
+- [[objektai/grupes/Lietuvos luomai]]

@@ -16,7 +16,9 @@ Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pa
 
 ## Teiginiai
 
+<a id="claim-t-35964"></a>
 - t-001
+  global_id: t-35964
   teiginys: 'Rusų kronikos Vytautui priskyrė susitarimą su Tochtamyšu: šis gausiąs Ordą, o Vytautas valdysiąs Didžiąją Maskvos kunigaikštiją ir visą Rusią.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, s
 
 ## Teiginiai
 
+<a id="claim-t-19496"></a>
 - t-001
+  global_id: t-19496
   teiginys: 'Zenonas Butkus recenzavo knygą „Lietuvos istorija“.'
   pagrindžia:
     - c-001

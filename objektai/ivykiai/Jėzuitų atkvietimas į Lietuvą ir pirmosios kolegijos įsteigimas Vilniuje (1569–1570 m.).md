@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01636"></a>
 - t-001
+  global_id: t-01636
   teiginys: '1570 m. jėzuitai Vilniuje įsteigė pirmąją kolegiją, o vėliau kolegijų atsirado ir kitose Lietuvos vietose.'
   pagrindžia:
     - c-001

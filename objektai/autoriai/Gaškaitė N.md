@@ -16,7 +16,9 @@ Gaškaitė N.
 
 ## Teiginiai
 
+<a id="claim-t-17715"></a>
 - t-001
+  global_id: t-17715
   teiginys: 'N. Gaškaitė parašė knygą „Pasipriešinimo istorija. 1944–1953 metai“, išleistą Vilniuje 2006 m.'
   pagrindžia:
     - c-001

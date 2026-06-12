@@ -28,17 +28,23 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
 
 ## Teiginiai
 
+<a id="claim-t-99302"></a>
 - t-001
+  global_id: t-99302
   teiginys: 'Varniuose Vytautas paskyrė Žemaičių vyskupo buveinę, o jo pastatyta bažnyčia pašventinta katedra.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-99304"></a>
 - t-002
+  global_id: t-99304
   teiginys: ', 1316 m. pradžioje kryžiuočiai plėšė Dubysos žemupį, paskui jie brovęs krašto gilumon iki Varnių; balandžio mėn.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-99305"></a>
 - t-003
+  global_id: t-99305
   teiginys: 'Jėzuitai Varniuose turėjo įsikūrę mažesnę mokyklą.'
   pagrindžia:
     - c-003

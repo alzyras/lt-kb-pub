@@ -24,7 +24,9 @@ Dusburgietis teigia, kad tumler M.
 
 ## Teiginiai
 
+<a id="claim-t-61328"></a>
 - t-001
+  global_id: t-61328
   teiginys: 'M. Tumlerio „Der Deutsche Orden im Werden, Wachsen und Wirken bis 1400“ išleista Vienoje 1954 m.'
   pagrindžia:
     - c-001

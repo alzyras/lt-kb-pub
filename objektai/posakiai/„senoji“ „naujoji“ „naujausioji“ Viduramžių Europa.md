@@ -16,7 +16,9 @@ Paprastai Viduramžių Europa tapatinama su Vakarų Europa.
 
 ## Teiginiai
 
+<a id="claim-t-20943"></a>
 - t-001
+  global_id: t-20943
   teiginys: 'Suomių, estų, latvių, prūsų ir lietuvių gyvenama Viduramžių Europa laikytina „naujausiąja“ Viduramžių Europa.'
   pagrindžia:
     - c-001

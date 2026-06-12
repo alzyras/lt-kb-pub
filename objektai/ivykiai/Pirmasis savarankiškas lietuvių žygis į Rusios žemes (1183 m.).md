@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20452"></a>
 - t-001
+  global_id: t-20452
   teiginys: 'Lietuvių genties iškilimas padėjo pagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valstybei.'
   pagrindžia:
     - c-001

@@ -27,12 +27,16 @@ Krašto padalinimas į pavietus ir vaivadijas.
 
 ## Teiginiai
 
+<a id="claim-t-69428"></a>
 - t-001
+  global_id: t-69428
   teiginys: 'Nuo XIII amž. pabaigos ordino kronikininkai jau laikė Nevėžį Žemaičių ir « Lietuvos » (Aukštaičių) skiriamąja siena, kuris vėliau tapo ilgiems laikams administracine upe tarp Trakų vaivadijos ir Žemaičių seniūnijos, ilgai išsaugojusios savo politines.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-69429"></a>
 - t-002
+  global_id: t-69429
   teiginys: 'Iš Trakų vaivadijos buvo išskirti Gardino, Kauno ir Upytės pavietai.'
   pagrindžia:
     - c-002

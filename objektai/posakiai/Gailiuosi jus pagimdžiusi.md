@@ -18,12 +18,16 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 
 ## Teiginiai
 
+<a id="claim-t-59092"></a>
 - t-001
+  global_id: t-59092
   teiginys: 'Nameda savo sūnums pasakė, kad gailisi juos pagimdžiusi, nes jie nenori ginti nei savo gyvybės, nei genties.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59093"></a>
 - t-002
+  global_id: t-59093
   teiginys: 'Namedos žodžiai „Gailiuosi jus pagimdžiusi“ paskatino jos sūnus ir kitus pilėnus stoti į mūšį.'
   pagrindžia:
     - c-002

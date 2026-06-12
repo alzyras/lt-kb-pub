@@ -17,7 +17,9 @@ Lig šiol svetimšaliai, kai kalbėdavo apie lietuvių kilmės tautas, vartodavo
 
 ## Teiginiai
 
+<a id="claim-t-02960"></a>
 - t-001
+  global_id: t-02960
   teiginys: 'Svetimšaliai lietuvių kilmės tautoms vadinti vartojo baltų tautų terminą.'
   pagrindžia:
     - c-001

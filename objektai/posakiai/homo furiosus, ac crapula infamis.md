@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86857"></a>
 - t-001
+  global_id: t-86857
   teiginys: 'Kojalavičius Švitrigailą apibūdino formule „homo furiosus, ac crapula infamis“, reiškiančia baisų žmogų ir begėdį girtuoklį.'
   pagrindžia:
     - c-001

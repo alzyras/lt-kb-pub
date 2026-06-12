@@ -16,7 +16,9 @@ Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija
 
 ## Teiginiai
 
+<a id="claim-t-58770"></a>
 - t-001
+  global_id: t-58770
   teiginys: 'Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija vokiečiai Volfenbiutelis Volferštorfas Volynė Vona, Vonė Vonbžeznas Vonsdorfas (Wohenstorph, Wünsdorf; Wonsdorff, Wansdorf — Unzatrapis) Vroclavas Vundenava, Vuntenovė (žr.'
   pagrindžia:
     - c-001

@@ -24,17 +24,23 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
 
 ## Teiginiai
 
+<a id="claim-t-79876"></a>
 - t-001
+  global_id: t-79876
   teiginys: 'Kęstutis Nevėžio žiočių Vyrgalės saloje statydino Naujojo Kauno pilį, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių ruožo gynybą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79877"></a>
 - t-002
+  global_id: t-79877
   teiginys: 'Kęstutis statydino Naujojo Kauno pilį Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79878"></a>
 - t-003
+  global_id: t-79878
   teiginys: '1363 m. balandį Ordino magistras su kariuomene atėjo prie pradėtos atstatinėti Naujojo Kauno pilies.'
   pagrindžia:
     - c-002

@@ -17,7 +17,9 @@ Leontovičių ir M.
 
 ## Teiginiai
 
+<a id="claim-t-30593"></a>
 - t-001
+  global_id: t-30593
   teiginys: 'E. I. Leontovičius buvo žymus teisės istorikas, palikęs studijų apie Lietuvos valstybės teisinius santykius ir institucijas.'
   pagrindžia:
     - c-001

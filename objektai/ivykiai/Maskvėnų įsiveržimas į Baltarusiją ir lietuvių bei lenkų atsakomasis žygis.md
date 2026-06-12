@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Maskvėnų įsiveržimas į Baltarusiją ir lietuvių bei lenkų atsakomasis žygis
 
 ## Santrauka
 
-Kojelavičius teigia, kad r advila, skubiai Lietuviai niokoja n u žy g iav ęs ligi O ršos, b et Maskvos vaidas n ie k u r n esu tik ęs priešo, įsi ren g ė sto v y k lą p rie D nepro, o v isą ra itiją n u siu n tė n io k o ti M askvos valdų. Kojelavičius teigia, kad sį uždavinį paLenkai atremia mastik ėjo tū k stan čiu i rin k tin ių kvėnus len k ų ra ite lių bei dviem šim tinėm s lietuvių, p rie jų p ri siju n g ė ir D avaina, Polocko v aiv ad a, su b ev e ik trim is šim tais nevien o d ai g in k lu o tų v yrų.
+Stanislovas Lesniovolskis su tūkstančiu rinktinių lenkų raitelių, dviem šimtinėmis lietuvių ir Davainos būriu susidūrė su 45 tūkstančiais priešų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,48 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185621"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad r advila, skubiai Lietuviai niokoja n u žy g iav ęs ligi O ršos, b et Maskvos vaidas n ie k u r n esu tik ęs priešo, įsi ren g ė sto v y k lą p rie D nepro, o v isą ra itiją n u siu n tė n io k o ti M askvos valdų.'
+  global_id: t-185621
+  teiginys: 'Stanislovas Lesniovolskis su tūkstančiu rinktinių lenkų raitelių, dviem šimtinėmis lietuvių ir Davainos būriu susidūrė su 45 tūkstančiais priešų.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Kojelavičius teigia, kad sį uždavinį paLenkai atremia mastik ėjo tū k stan čiu i rin k tin ių kvėnus len k ų ra ite lių bei dviem šim tinėm s lietuvių, p rie jų p ri siju n g ė ir D avaina, Polocko v aiv ad a, su b ev e ik trim is šim tais nevien o d ai g in k lu o tų v yrų.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad r advila, skubiai Lietuviai niokoja n u žy g iav ęs ligi O ršos, b et Maskvos vaidas n ie k u r n esu tik ęs priešo, įsi ren g ė sto v y k lą p rie D nepro, o v isą ra itiją n u siu n tė n io k o ti M askvos valdų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    K araly stės lau k o  e t­
-    m onui F lo rijo n u i Z ebžidovskiui įsak ė len k u s v esti į
-    Polocką, o M ik alo ju i R advilai tra u k ti su  lietu v iais link
-    Sm olensko.
-    R advila, skubiai
-    Lietuviai
-    niokoja
-    n u žy g iav ęs
-    ligi
-    O ršos,
-    b et
-    Maskvos vaidas
-    n ie k u r n esu tik ęs priešo, įsi­
-    ren g ė sto v y k lą p rie D nepro,
-    o v isą ra itiją  n u siu n tė n io k o ti M askvos valdų. N etoli
-    Sm olensko sm ogęs p riešu i stip rų  sm ūgį ir g av ęs a tsa k o ­
-    m ąjį, p atra u k ė į V iteb sk ą, o iš ten  —  į V eližo kraštą,
-    k u r n usiaubė visus kaim us ir sudegino V eližo m iestą.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kojelavičius teigia, kad sį uždavinį paLenkai atremia mastik ėjo tū k stan čiu i rin k tin ių kvėnus len k ų ra ite lių bei dviem šim tinėm s lietuvių, p rie jų p ri siju n g ė ir D avaina, Polocko v aiv ad a, su b ev e ik trim is šim tais nevien o d ai g in k lu o tų v yrų.'
+  santrauka: 'Stanislovas Lesniovolskis su tūkstančiu rinktinių lenkų raitelių, dviem šimtinėmis lietuvių ir Davainos būriu susidūrė su 45 tūkstančiais priešų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     S taig a ten  su­
@@ -92,4 +60,12 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Davaina]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Stanislovas]]
+- [[objektai/asmenys/Stanislovas Lesniovolskis]]

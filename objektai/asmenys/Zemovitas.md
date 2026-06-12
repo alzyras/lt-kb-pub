@@ -21,7 +21,6 @@ amziai:
 periodo_grupes:
   - 'viduramžiai'
 ---
-
 # Zemovitas
 
 ## Santrauka
@@ -30,18 +29,24 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
 
 ## Teiginiai
 
+<a id="claim-t-60471"></a>
 - t-001
+  global_id: t-60471
   teiginys: 'Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184894"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad mindaugas, susilaukęs paramos iš rusų, slaptai ir netikėtai didžiulių miškų takais įsibro vė Mazovijon: jis užklupo kunigaikštį Zemovitą bei jo sūnų Konradą, Jazdovo dvare nerūpestingai vasa ros karštymetyje gyvenančius su visa palyda.'
+  global_id: t-184894
+  teiginys: 'Mindaugas, padedamas rusų, įsibrovė į Mazoviją ir Jazdovo dvare užklupo kunigaikštį Zemovitą bei jo sūnų Konradą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184895"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad zemovitas netruko pajusti esąs nemalonus svečias: abudu nesistengė suteikti pabėgėliui deramos pagalbos; iškilo aikštėn jųdviejų baimė, nors ir slepiama: mat nenorėjo jiedu nei neramios Vytauto širdies užgauti, nei karaliaus įžeisti, rūpindamiesi, kad, kilus karui, patys vienaip ar kitaip išvengtų bėdos.'
+  global_id: t-184895
+  teiginys: 'Mazovijos kunigaikščiai Jonušas ir Zemovitas priėmė Vytautą, bet nesuteikė jam deramos pagalbos.'
   pagrindžia:
     - c-003
 
@@ -75,7 +80,7 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad mindaugas, susilaukęs paramos iš rusų, slaptai ir netikėtai didžiulių miškų takais įsibro vė Mazovijon: jis užklupo kunigaikštį Zemovitą bei jo sūnų Konradą, Jazdovo dvare nerūpestingai vasa ros karštymetyje gyvenančius su visa palyda.'
+  santrauka: 'Mindaugas, padedamas rusų, įsibrovė į Mazoviją ir Jazdovo dvare užklupo kunigaikštį Zemovitą bei jo sūnų Konradą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
@@ -102,7 +107,7 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad zemovitas netruko pajusti esąs nemalonus svečias: abudu nesistengė suteikti pabėgėliui deramos pagalbos; iškilo aikštėn jųdviejų baimė, nors ir slepiama: mat nenorėjo jiedu nei neramios Vytauto širdies užgauti, nei karaliaus įžeisti, rūpindamiesi, kad, kilus karui, patys vienaip ar kitaip išvengtų bėdos.'
+  santrauka: 'Mazovijos kunigaikščiai Jonušas ir Zemovitas priėmė Vytautą, bet nesuteikė jam deramos pagalbos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nieko nepešęs
@@ -129,3 +134,26 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Lietuvių ir rusų žygis į Mazoviją (1262 m.)]]
+- [[objektai/paprociai/Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas]]
+- [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]]
+- [[objektai/grupes/Mazovijos kunigaikščiai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Boleslovas]]
+- [[objektai/asmenys/Kazimieras (Konrado sūnus)]]
+- [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
+- [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]

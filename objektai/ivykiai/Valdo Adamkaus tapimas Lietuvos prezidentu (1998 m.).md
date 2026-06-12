@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-26405"></a>
 - t-001
+  global_id: t-26405
   teiginys: '1998 m. Valdas Adamkus, grįžęs iš JAV gyventi į Lietuvą, pakeitė Algirdą Brazauską prezidento poste.'
   pagrindžia:
     - c-001

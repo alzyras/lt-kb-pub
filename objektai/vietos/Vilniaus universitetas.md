@@ -18,27 +18,37 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
 
 ## Teiginiai
 
+<a id="claim-t-77454"></a>
 - t-001
+  global_id: t-77454
   teiginys: 'Šiauriausias katalikiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų universiteto reikšmė.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-77455"></a>
 - t-002
+  global_id: t-77455
   teiginys: 'Baroko epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus universitetą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-77456"></a>
 - t-003
+  global_id: t-77456
   teiginys: 'Manoma, kad senojo Vilniaus universiteto studijų lygis nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77457"></a>
 - t-004
+  global_id: t-77457
   teiginys: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-77458"></a>
 - t-005
+  global_id: t-77458
   teiginys: 'Senojo Vilniaus jėzuitų universiteto svarbiausia reikšmė buvo tai, kad jis buvo šiauriausias katalikiškas ir ryčiausias Europos universitetas.'
   pagrindžia:
     - c-003

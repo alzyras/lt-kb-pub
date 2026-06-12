@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Ištikimybė protėvių religijai ir papročiams
 
 ## Santrauka
 
-Kojelavičius teigia, kad piktadarystė — nusikaltimas prieš valstybę ir religiją, kaip moralės saugotoją. Kojelavičius teigia, kad tie lietuviai pagonys kilnūs, išmintingi ir narsūs, kurie buvo išti kimi protėvių religijai ir papročiams,— jie sukūrė Lie tuvos valstybę.
+Kojelavičiaus pasakojime protėvių religijai ir papročiams ištikimi lietuviai pagonys sukūrė Lietuvos valstybę. Kojelavičiaus pasakojime protėvių religijai ir papročiams ištikimi lietuviai pagonys sukūrė Lietuvos valstybę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,20 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185870"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad piktadarystė — nusikaltimas prieš valstybę ir religiją, kaip moralės saugotoją.'
+  global_id: t-185870
+  teiginys: 'Kojelavičiaus pasakojime protėvių religijai ir papročiams ištikimi lietuviai pagonys sukūrė Lietuvos valstybę.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Kojelavičius teigia, kad tie lietuviai pagonys kilnūs, išmintingi ir narsūs, kurie buvo išti kimi protėvių religijai ir papročiams,— jie sukūrė Lie tuvos valstybę.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad piktadarystė — nusikaltimas prieš valstybę ir religiją, kaip moralės saugotoją.'
+  santrauka: 'Kojelavičiaus pasakojime protėvių religijai ir papročiams ištikimi lietuviai pagonys sukūrė Lietuvos valstybę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Piktadarystė — nusikaltimas prieš
@@ -65,7 +61,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad tie lietuviai pagonys kilnūs, išmintingi ir narsūs, kurie buvo išti kimi protėvių religijai ir papročiams,— jie sukūrė Lie tuvos valstybę.'
+  santrauka: 'Kojelavičiaus pasakojime protėvių religijai ir papročiams ištikimi lietuviai pagonys sukūrė Lietuvos valstybę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tie lietuviai
@@ -81,3 +77,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Petras Skarga]]
+- [[objektai/zodynas/apostazija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/piktadarystė]]
+- [[objektai/zodynas/erezija]]

@@ -25,7 +25,9 @@ Mūrinius namus, kurie buvo skirti tos koplyčios paja­ moms, privilegijomis nu
 
 ## Teiginiai
 
+<a id="claim-t-88435"></a>
 - t-001
+  global_id: t-88435
   teiginys: 'Dievo Kūno koplyčiai skirtus mūrinius namus nuo mokesčių atleido Žygimantas III, Vladislovas IV ir Jonas Kazimieras.'
   pagrindžia:
     - c-001

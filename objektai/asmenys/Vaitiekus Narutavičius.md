@@ -27,7 +27,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87875"></a>
 - t-001
+  global_id: t-87875
   teiginys: 'Vaitiekus Narutavičius 1507 m. Melnike dalyvavo kaip rūmų maršalka ir Josvainių seniūnas.'
   pagrindžia:
     - c-001

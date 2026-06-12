@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-100077"></a>
 - t-001
+  global_id: t-100077
   teiginys: 'Šitaip pirmą kartą buvo įvykdytas prancūzų riterio Philippe de Mezières siūlymas — į kryžiaus žygį prieš krikščionybės priešus pritraukti ir lietuvius^26.'
   pagrindžia:
     - c-001

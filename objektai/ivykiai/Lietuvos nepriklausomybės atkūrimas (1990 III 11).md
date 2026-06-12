@@ -44,32 +44,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75162"></a>
 - t-001
+  global_id: t-75162
   teiginys: 'Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-75163"></a>
 - t-002
+  global_id: t-75163
   teiginys: '1990 m. kovo 11 d. Lietuvos Respublikos Aukščiausioji Taryba paskelbė Lietuvos nepriklausomybės atkūrimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75164"></a>
 - t-003
+  global_id: t-75164
   teiginys: '1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-75165"></a>
 - t-004
+  global_id: t-75165
   teiginys: '1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75166"></a>
 - t-005
+  global_id: t-75166
   teiginys: 'Sąjūdžio kandidatai, laikydamiesi savo rinkiminių pažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku išrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją Tarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75167"></a>
 - t-006
+  global_id: t-75167
   teiginys: 'Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šaltinis.'
   pagrindžia:
     - c-004

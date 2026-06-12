@@ -19,12 +19,16 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 
 ## Teiginiai
 
+<a id="claim-t-60010"></a>
 - t-001
+  global_id: t-60010
   teiginys: 'Dusburgietis teigia, kad druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant koks bailys pamatęs daugybę nukautųjų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60012"></a>
 - t-002
+  global_id: t-60012
   teiginys: 'Dusburgietis teigia, kad tuo tarpu stalininkas Druzigeris, su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo žemėje ir Lenkijoje kilo toks baisus krikščionių.'
   pagrindžia:
     - c-002

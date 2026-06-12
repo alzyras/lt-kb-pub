@@ -19,7 +19,9 @@ Jo krikštatėviu buvo Ragainės komtūras Vy­ gandas von Baldersheimas, dėl t
 
 ## Teiginiai
 
+<a id="claim-t-35339"></a>
 - t-001
+  global_id: t-35339
   teiginys: 'Ragainės komtūras Vygandas von Baldersheimas buvo Vytauto krikštatėvis, todėl Vytautas apsikrikštijo Vygando vardu.'
   pagrindžia:
     - c-001

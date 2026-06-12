@@ -17,7 +17,9 @@ Daugiau apie tai žinių yra įdėję: K u 1 c z y ń sk i Specimen Ecclesiae Ru
 
 ## Teiginiai
 
+<a id="claim-t-88475"></a>
 - t-001
+  global_id: t-88475
   teiginys: 'Daugiau apie tai žinių yra įdėję: K u 1 c z y ń sk i Specimen Ecclesiae Ruthenicae, Pars.'
   pagrindžia:
     - c-001

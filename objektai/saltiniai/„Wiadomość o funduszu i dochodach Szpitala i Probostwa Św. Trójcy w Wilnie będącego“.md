@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88519"></a>
 - t-001
+  global_id: t-88519
   teiginys: '„Wiadomość o funduszu i dochodach Szpitala i Probostwa Św. Trójcy w Wilnie będącego“ buvo duota 1789 m. rugsėjo 21 d.'
   pagrindžia:
     - c-001

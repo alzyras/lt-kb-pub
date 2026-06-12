@@ -26,7 +26,9 @@ Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuo
 
 ## Teiginiai
 
+<a id="claim-t-86619"></a>
 - t-001
+  global_id: t-86619
   teiginys: '1515 m. karalius leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą.'
   pagrindžia:
     - c-001

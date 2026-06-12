@@ -41,27 +41,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-171474"></a>
 - t-001
+  global_id: t-171474
   teiginys: 'Pergalės tarptautinė reikšmė Algirdo pajėgų žygis prieš totorius ir pergalė prie Mėlynųjų Vandenų sutvirtino Lietuvos pozicijas Kijevo žemėje ir pačiame Kijeve.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-171475"></a>
 - t-002
+  global_id: t-171475
   teiginys: 'Algirdas, sutelkęs lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-171477"></a>
 - t-003
+  global_id: t-171477
   teiginys: 'Algirdas 1363 m. rudenį nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-171478"></a>
 - t-004
+  global_id: t-171478
   teiginys: 'Strijkovskis) teigia, kad Algirdas, sutelkęs savo lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą, Čerkasus, ties Mėlynaisiais Vandenimis sumušęs totorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-171479"></a>
 - t-005
+  global_id: t-171479
   teiginys: 'Didžiausia tikimybė, kad Mėlynieji Vandenys, tai Siniuchos upė Pietų Ukrainoje, kairysis Pietinio Bugo intakas.'
   pagrindžia:
     - c-002

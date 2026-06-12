@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-45538"></a>
 - t-001
+  global_id: t-45538
   teiginys: 'Užsienyje gyvenantys lietuviai statė Romo Kalantos paminklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45539"></a>
 - t-002
+  global_id: t-45539
   teiginys: 'Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą.'
   pagrindžia:
     - c-002

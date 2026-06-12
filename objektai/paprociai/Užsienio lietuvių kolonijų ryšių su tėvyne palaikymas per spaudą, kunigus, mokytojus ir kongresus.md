@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77962"></a>
 - t-001
+  global_id: t-77962
   teiginys: 'Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.'
   pagrindžia:
     - c-001

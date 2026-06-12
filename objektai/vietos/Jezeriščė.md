@@ -16,7 +16,6 @@ tags:
 amziai:
   - 'XVI'
 ---
-
 # Jezeriščė
 
 ## Santrauka
@@ -25,13 +24,17 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-80616"></a>
 - t-001
+  global_id: t-80616
   teiginys: '1580 m. dalyvavo paimant Veližo, Didžiųjų Lukų, Usviatų, Jezeriščės tvirtoves.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184964"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad z ebžidovskis pro Polocką atžygiavo į Jezeriščę, q pask u i į N evelį.'
+  global_id: t-184964
+  teiginys: 'Zebžidovskis pro Polocką atžygiavo į Jezeriščę, o paskui patraukė į Nevelį.'
   pagrindžia:
     - c-002
 
@@ -53,7 +56,7 @@ amziai:
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad z ebžidovskis pro Polocką atžygiavo į Jezeriščę, q pask u i į N evelį.'
+  santrauka: 'Zebžidovskis pro Polocką atžygiavo į Jezeriščę, o paskui patraukė į Nevelį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     V is dėlto  n ep a jė g ė  užim ti pilies, p astaty to s p ato g io je

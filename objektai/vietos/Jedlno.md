@@ -19,7 +19,9 @@ Jedlnos nutarimai buvo priešingi ir Horodlės unijos ak­ tams, nes juose pasak
 
 ## Teiginiai
 
+<a id="claim-t-36255"></a>
 - t-001
+  global_id: t-36255
   teiginys: 'Jedlnos nutarimais lenkai išsirinko Jogailos įpėdinį be Vytauto ir lietuvių bajorų žinios bei pritarimo.'
   pagrindžia:
     - c-001

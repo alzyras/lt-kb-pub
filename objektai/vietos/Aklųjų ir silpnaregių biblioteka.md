@@ -23,7 +23,9 @@ Kai buvo užimti Lietuvos radijo ir televizijos pastatai, radijo laidų rengimas
 
 ## Teiginiai
 
+<a id="claim-t-41585"></a>
 - t-001
+  global_id: t-41585
   teiginys: 'Kai buvo užimti Lietuvos radijo ir televizijos pastatai, radijo laidų rengimas ir transliavimas buvo perkeltas į Aklųjų ir silpnaregių biblioteką, turėjusią visą reikiamą įrangą.'
   pagrindžia:
     - c-001

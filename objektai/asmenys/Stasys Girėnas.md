@@ -26,22 +26,30 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-64100"></a>
 - t-001
+  global_id: t-64100
   teiginys: '1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu „Pienocentro“ pastatas Kaune (apie 1938).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64102"></a>
 - t-002
+  global_id: t-64102
   teiginys: 'Sovietmečiu buvo leista rašyti apie S. Dariaus ir S. Girėno žygdarbį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-64103"></a>
 - t-003
+  global_id: t-64103
   teiginys: '1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas buvo pristatyti kaip modernūs jaunos nacijos didvyriai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183571"></a>
 - t-005
+  global_id: t-183571
   teiginys: '1935 m. gegužės 21–22 d. Feliksas Vaitkus sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.'
   pagrindžia:
     - c-005

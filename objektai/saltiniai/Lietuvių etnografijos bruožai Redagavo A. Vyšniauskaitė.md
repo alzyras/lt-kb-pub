@@ -22,7 +22,9 @@ Dusburgietis teigia, kad lietuvių etnografijos bruožai / Redagavo A.
 
 ## Teiginiai
 
+<a id="claim-t-61134"></a>
 - t-001
+  global_id: t-61134
   teiginys: 'A. Vyšniauskaitė redagavo 1964 m. išleistus „Lietuvių etnografijos bruožus“.'
   pagrindžia:
     - c-001

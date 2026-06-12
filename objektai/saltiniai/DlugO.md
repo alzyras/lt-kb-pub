@@ -24,12 +24,16 @@ Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis, perdėm buvo krit
 
 ## Teiginiai
 
+<a id="claim-t-97247"></a>
 - t-001
+  global_id: t-97247
   teiginys: 'KolLJ, 92 p. (^15) DlugO, XIII, 19 p. (^16) Kuczyński, Laskowski, Kolankowski ir kt.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-97248"></a>
 - t-002
+  global_id: t-97248
   teiginys: 'Dlugošas laikomas pagrindiniu 1409–1411 m. karo šaltiniu ir buvo labai kritiškas Jogailos bei Vytauto atžvilgiu.'
   pagrindžia:
     - c-001

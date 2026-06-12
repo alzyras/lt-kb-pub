@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-100117"></a>
 - t-001
+  global_id: t-100117
   teiginys: 'M. Kromero kronika šiame šaltinyje nurodyta 45 puslapyje.'
   pagrindžia:
     - c-001

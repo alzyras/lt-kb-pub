@@ -27,7 +27,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-39587"></a>
 - t-001
+  global_id: t-39587
   teiginys: '1345 m. sausį Vengrijos karalius Liudvikas atvyko į Prūsiją su kitais valdovais ir kilmingaisiais.'
   pagrindžia:
     - c-001

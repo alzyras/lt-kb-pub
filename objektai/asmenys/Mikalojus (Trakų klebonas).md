@@ -27,7 +27,9 @@ Mikalojus (Trakų klebonas) buvo nepa­ geidaujamas Vytauto, Apaštališkajam So
 
 ## Teiginiai
 
+<a id="claim-t-87917"></a>
 - t-001
+  global_id: t-87917
   teiginys: 'Vytautas Apaštališkajam Sostui siūlė Trakų koleginės bažnyčios kleboną Mikalojų į Vilniaus vyskupus.'
   pagrindžia:
     - c-001

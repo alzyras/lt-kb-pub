@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-99958"></a>
 - t-001
+  global_id: t-99958
   teiginys: '78-79 Valimantaičiai 368 Valimantaitis Kęsgailą 354 Valkaviskas (Vilkaviškis) 88, 125, 164, 215, 286 Valuinė 28, žr.'
   pagrindžia:
     - c-001

@@ -19,12 +19,16 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 
 ## Teiginiai
 
+<a id="claim-t-70429"></a>
 - t-001
+  global_id: t-70429
   teiginys: 'Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems kelio lietuviai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70430"></a>
 - t-002
+  global_id: t-70430
   teiginys: 'žygis: ordinas gebėjo kasmet suruošti į Lietuvą ne mažiau, kaip du žy- gius: vienas paprastai būdavo sausio ar vasario mėnesį, o antras — vasaros gale, dažniausiai rugpiūčio mėnesį.'
   pagrindžia:
     - c-002
@@ -100,7 +104,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/asmenys/Andriejus Šemiačičius]]
 - [[objektai/asmenys/Andrius Algirdaitis Polockietis]]
 - [[objektai/grupes/Anglai]]
-- [[objektai/autoriai/Atmesti paminėjimai]]
 - [[objektai/grupes/Aukso orda]]
 - [[objektai/ivykiai/Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
@@ -172,7 +175,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Karaimai]]
 - [[objektai/paprociai/Karaliaus vėliavų iškabinimas prie žemių ir kiemų apsaugai]]
-- [[objektai/ivykiai/Kariuomenės vedimas į Prūsiją ir lietuvių nubaudimas už šventvagystę (1410 m.)]]
 - [[objektai/paprociai/Kariuomenės žygis keliais skirtingais keliais]]
 - [[objektai/paprociai/Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose]]
 - [[objektai/autoriai/Karolis Zikaras]]
@@ -389,7 +391,7 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/ivykiai/Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę]]
-- [[objektai/asmenys/Zygfridas iš Da[he]nfeldo]]
+- [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
 - [[objektai/asmenys/Zöllneris]]
 - [[objektai/posakiai/apreikšti dievo darbus yra šlovinga]]
 - [[objektai/zodynas/ariergardas]]
@@ -454,14 +456,18 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon]]
 - [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon`]]
 - [[objektai/posakiai/„savaime visa Rusia turi priklausyti lietuviams“]]
+- [[objektai/asmenys/Avigenas]]
 - [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]
 - [[objektai/asmenys/Ediga]]
 - [[objektai/ivykiai/Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki]]
+- [[objektai/grupes/Gepidai]]
 - [[objektai/asmenys/Henrikas iš Lichtenšteino]]
 - [[objektai/posakiai/Hermanai, aš tave kviečiu į savo sūnaus puotą]]
+- [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]
 - [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]]
 - [[objektai/asmenys/Lengvenis Algirdaitis]]
 - [[objektai/autoriai/Lianskoronskij, V]]
+- [[objektai/ivykiai/Meinhardo žygis į Lietuvą ir pasitraukimas dėl išduoto sumanymo (1292 m.)]]
 - [[objektai/asmenys/Mergelė Marija]]
 - [[objektai/ivykiai/Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.)]]
 - [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
@@ -470,6 +476,8 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]]
 - [[objektai/grupes/Stepono Batoro vengrų kariuomenė]]
+- [[objektai/ivykiai/Treniotos žygis į Mazoviją (1264 m.)]]
+- [[objektai/ivykiai/Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas]]
 - [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara)]]
 - [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
 - [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]

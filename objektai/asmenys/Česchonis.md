@@ -19,7 +19,9 @@ dešinės Vilniaus miestiečio Česchonio namo apimdama mažesnių­ jų brolių
 
 ## Teiginiai
 
+<a id="claim-t-87896"></a>
 - t-001
+  global_id: t-87896
   teiginys: 'Česchonis buvo Vilniaus miestietis, kurio namas minėtas apibrėžiant Vilniaus miesto dalies ribas.'
   pagrindžia:
     - c-001

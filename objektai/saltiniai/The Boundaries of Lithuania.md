@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-26493"></a>
 - t-001
+  global_id: t-26493
   teiginys: 'Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m., buvo žemėlapis „Lituania Propria“.'
   pagrindžia:
     - c-001

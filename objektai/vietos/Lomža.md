@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lomža
 
 ## Santrauka
 
-Kojelavičius teigia, kad tik lapkričio mėnesį susirinko seimai: lenkų Parčeve, o lie tuvių Breste; kadangi nei vieni, nei kiti nenorėjo ke liauti į priešininkų šalį, po ilgų ginčų nutarė susitikti Lomžoje, tai yra pusiaukelėje tarp Parčevo ir Bresto.
+Lenkų ir lietuvių seimai po ilgų ginčų nutarė susitikti Lomžoje, pusiaukelėje tarp Parčevo ir Bresto.
 
 ## Teiginiai
 
+<a id="claim-t-185270"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tik lapkričio mėnesį susirinko seimai: lenkų Parčeve, o lie tuvių Breste; kadangi nei vieni, nei kiti nenorėjo ke liauti į priešininkų šalį, po ilgų ginčų nutarė susitikti Lomžoje, tai yra pusiaukelėje tarp Parčevo ir Bresto.'
+  global_id: t-185270
+  teiginys: 'Lenkų ir lietuvių seimai po ilgų ginčų nutarė susitikti Lomžoje, pusiaukelėje tarp Parčevo ir Bresto.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tik lapkričio mėnesį susirinko seimai: lenkų Parčeve, o lie tuvių Breste; kadangi nei vieni, nei kiti nenorėjo ke liauti į priešininkų šalį, po ilgų ginčų nutarė susitikti Lomžoje, tai yra pusiaukelėje tarp Parčevo ir Bresto.'
+  santrauka: 'Lenkų ir lietuvių seimai po ilgų ginčų nutarė susitikti Lomžoje, pusiaukelėje tarp Parčevo ir Bresto.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Negi galima buvo tikėtis santarvės ir vienybės,

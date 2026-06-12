@@ -19,17 +19,23 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 
 ## Teiginiai
 
+<a id="claim-t-90453"></a>
 - t-001
+  global_id: t-90453
   teiginys: 'Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus kelio iki Girmavos kaimo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90454"></a>
 - t-002
+  global_id: t-90454
   teiginys: 'Dusburgietis teigia, kad apie Girmavos valsčiaus nuniokojimą Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium, nors šį bei tą reikia pasakyti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90455"></a>
 - t-003
+  global_id: t-90455
   teiginys: 'Dusburgietis teigia, kad ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab.'
   pagrindžia:
     - c-002

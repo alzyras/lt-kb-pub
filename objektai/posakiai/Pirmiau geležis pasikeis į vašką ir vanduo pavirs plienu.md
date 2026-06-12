@@ -36,17 +36,23 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 
 ## Teiginiai
 
+<a id="claim-t-55190"></a>
 - t-001
+  global_id: t-55190
   teiginys: 'Gedimino laiško vertime pažado tvirtumas išreiškiamas formule, kad pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu, negu bus atšauktas ištartas žodis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55191"></a>
 - t-002
+  global_id: t-55191
   teiginys: 'Posakiu „Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu“ pabrėžta, kad duotas žodis nebus atšauktas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82144"></a>
 - t-003
+  global_id: t-82144
   teiginys: 'Posakiu „pirma geležis į vašką, o vanduo į plieną pavirs“ 1323 m. laiškuose teigta, kad duotas žodis nebus sulaužytas ar atšauktas.'
   pagrindžia:
     - c-002

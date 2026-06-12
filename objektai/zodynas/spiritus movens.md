@@ -17,7 +17,9 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 
 ## Teiginiai
 
+<a id="claim-t-22304"></a>
 - t-001
+  global_id: t-22304
   teiginys: '1896 m. pradėto leisti „Tėvynės sargo“ spiritus movens buvo jaunas kunigas Juozas Tumas-Vaižgantas.'
   pagrindžia:
     - c-001

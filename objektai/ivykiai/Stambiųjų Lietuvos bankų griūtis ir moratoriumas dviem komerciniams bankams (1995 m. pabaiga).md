@@ -32,7 +32,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66908"></a>
 - t-001
+  global_id: t-66908
   teiginys: 'Nors bankų veiklos sukrėtimai Lietuvoje, kaip ir kitose Vidurio ir Rytų Europos šalyse, turėjo ir teigiamų pasekmių: bankų sektorius sustiprėjo, išlikę bankai veikė apdairiau, sumažėjo blogų paskolų portfelis, sustiprėjo bankų priežiūra.'
   pagrindžia:
     - c-001

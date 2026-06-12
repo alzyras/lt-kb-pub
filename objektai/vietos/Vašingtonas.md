@@ -18,12 +18,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-21868"></a>
 - t-001
+  global_id: t-21868
   teiginys: '1999 m. balandį Vašingtone NATO vadovai pripažino Lietuvos pažangą ir patvirtino Narystės veiksmų planą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-21869"></a>
 - t-002
+  global_id: t-21869
   teiginys: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
   pagrindžia:
     - c-002

@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-24531"></a>
 - t-001
+  global_id: t-24531
   teiginys: 'Vilniuje buvo pašalintas Lenino paminklas.'
   pagrindžia:
     - c-001

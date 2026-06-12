@@ -16,7 +16,9 @@ Dusburgietis teigia, kad wróblewski R.
 
 ## Teiginiai
 
+<a id="claim-t-60821"></a>
 - t-001
+  global_id: t-60821
   teiginys: 'R. Wróblewskis 1970 m. Lodzėje paskelbė straipsnį apie jotvingių problemą Boleslovo Droviojo politikoje 1248–1264 m.'
   pagrindžia:
     - c-001

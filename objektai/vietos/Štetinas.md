@@ -18,7 +18,9 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 
 ## Teiginiai
 
+<a id="claim-t-174590"></a>
 - t-001
+  global_id: t-174590
   teiginys: 'Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų ir Štetinui.'
   pagrindžia:
     - c-001

@@ -36,12 +36,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54332"></a>
 - t-001
+  global_id: t-54332
   teiginys: 'Carinė valdžia uždarė nemažai katalikų vienuolynų, o 1839 m. likvidavo Unitų bažnyčią ir prievarta grąžino unitus į Rusų stačiatikių bažnyčią.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54333"></a>
 - t-002
+  global_id: t-54333
   teiginys: 'Caro valdžia uždarė nemažai katalikų vienuolynų, 1839 m. likvidavo Unitų bažnyčią ir prievarta grąžino unitus į stačiatikybę.'
   pagrindžia:
     - c-001

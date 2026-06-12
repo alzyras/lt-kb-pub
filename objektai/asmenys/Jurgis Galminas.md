@@ -26,7 +26,9 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
 
 ## Teiginiai
 
+<a id="claim-t-29024"></a>
 - t-001
+  global_id: t-29024
   teiginys: 'Jurgis Galminas buvo vienas iš Vytauto didikų, vadovavusių į Konstancą atsiųstiems pakrikštytiems Žemaičių bajorams.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-80761"></a>
 - t-001
+  global_id: t-80761
   teiginys: '1674 m. išleistoje Jokūbo Beneto poemoje „Viešpaties dešinės galybė“ buvo Chotino mūšio iliustracija.'
   pagrindžia:
     - c-001

@@ -24,12 +24,16 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
 
 ## Teiginiai
 
+<a id="claim-t-70260"></a>
 - t-001
+  global_id: t-70260
   teiginys: 'Lenkų karūnos pakancleriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami jo patarimo ir paramos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70262"></a>
 - t-002
+  global_id: t-70262
   teiginys: 'Vienas pakancleris pripažino, kad nepildytų net tėvo įsakymų, jei jie būtų nukreipti prieš Vytautą.'
   pagrindžia:
     - c-002

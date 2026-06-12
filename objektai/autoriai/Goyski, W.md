@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-30621"></a>
 - t-001
+  global_id: t-30621
   teiginys: 'W. Goyskis 1906 m. paskelbė darbą apie Lenkijos, Lietuvos ir Ordino santykius 1399-1404 m.'
   pagrindžia:
     - c-001

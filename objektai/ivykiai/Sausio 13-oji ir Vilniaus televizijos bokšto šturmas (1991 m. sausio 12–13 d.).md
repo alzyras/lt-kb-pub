@@ -42,27 +42,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-169852"></a>
 - t-001
+  global_id: t-169852
   teiginys: 'Įvykiai prie televizijos bokšto sukrėtė visą Lietuvą ir nuskambėjo po visą pasaulį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169853"></a>
 - t-002
+  global_id: t-169853
   teiginys: 'Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169855"></a>
 - t-003
+  global_id: t-169855
   teiginys: 'Sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones primindamas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad ši sovietų kariuomenės agresija būtų sustabdyta.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-169856"></a>
 - t-004
+  global_id: t-169856
   teiginys: '1991 m. sausio 13-osios naktį sovietų tankai ir šarvuočiai apsiautė Vilniaus televizijos bokštą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169857"></a>
 - t-005
+  global_id: t-169857
   teiginys: '1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje.'
   pagrindžia:
     - c-002

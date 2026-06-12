@@ -28,42 +28,58 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 
 ## Teiginiai
 
+<a id="claim-t-86704"></a>
 - t-001
+  global_id: t-86704
   teiginys: 'Mirdamas Knišine Žygimantas Augustas savo turtingą biblioteką atidavė Vilniaus jėzuitų kolegijai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86705"></a>
 - t-002
+  global_id: t-86705
   teiginys: 'Jono bažnyčios užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-86706"></a>
 - t-003
+  global_id: t-86706
   teiginys: 'Vilniaus Jėzaus draugijos kolegijai buvo patikėtas klierikų mokymas ir seminarijos valdymas.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-86707"></a>
 - t-004
+  global_id: t-86707
   teiginys: 'Jėzuitams perduotos knygos buvo apibūdintos kaip nemažas ir neprastas rinkinys.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86708"></a>
 - t-005
+  global_id: t-86708
   teiginys: 'Šv. Jono bažnyčios arkipresbiteris ir miesto magistratas priešinosi jėzuitų siekiui pastatą prijungti prie kolegijos.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-86709"></a>
 - t-006
+  global_id: t-86709
   teiginys: '1571 m. gruodžio 22 d. Apaštališkasis Sostas patvirtino parapijinės Šv. Jono bažnyčios inkorporavimą į Vilniaus jėzuitų kolegiją.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-86710"></a>
 - t-007
+  global_id: t-86710
   teiginys: 'Karalius balandžio 1 d. dekretais vyskupo Protasevičiaus funduotą Vilniaus jėzuitų kolegiją pakėlė iki universiteto laipsnio.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-86711"></a>
 - t-008
+  global_id: t-86711
   teiginys: '1571 m. Žygimantas Augustas Šv. Jono bažnyčią su visu turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.'
   pagrindžia:
     - c-001

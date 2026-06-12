@@ -19,12 +19,16 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
 
 ## Teiginiai
 
+<a id="claim-t-02205"></a>
 - t-001
+  global_id: t-02205
   teiginys: '„Lenko pasikalbėjime su lietuviu“ buvo ginčijami Ožechovskio tvirtinimai ir ginamos Lietuvos valstybės teisės gyventi savarankiškai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-02206"></a>
 - t-002
+  global_id: t-02206
   teiginys: '1564 m. mokslinti lietuviai paskelbė atsakymą Ožechovskiui knygutėje „Lenko pasikalbėjimu su lietuviu“.'
   pagrindžia:
     - c-002

@@ -16,12 +16,16 @@ Dusburgietis teigia, kad kai šitai vyko, ir vyrai, ir moterys paskutiniais žod
 
 ## Teiginiai
 
+<a id="claim-t-60088"></a>
 - t-001
+  global_id: t-60088
   teiginys: 'Dusburgietis teigia, kad šis Bansas norėjo viešai turėti dvi žmonas478; kadangi broliai jam šitai uždraudė, jis įniršęs beveik visus prūsus sukurstė atsimesti nuo krikščionybės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60089"></a>
 - t-002
+  global_id: t-60089
   teiginys: 'Dusburgietis teigia, kad kai šitai vyko, ir vyrai, ir moterys paskutiniais žodžiais keikė vieną sembą, vardu Bansas, Pabečių valsčiaus kamerarijų, tvirtindami, jog jis esąs šio baisaus nusikaltimo sumanytojas, skatintojas ir pradininkas.'
   pagrindžia:
     - c-001

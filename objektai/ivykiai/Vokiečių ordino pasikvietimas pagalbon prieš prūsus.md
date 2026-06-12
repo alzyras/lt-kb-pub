@@ -31,7 +31,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01860"></a>
 - t-001
+  global_id: t-01860
   teiginys: 'XIII a. pradžioje mozūrų kunigaikščiai pasikvietė kryžiuočius į pagalbą prieš prūsus.'
   pagrindžia:
     - c-001

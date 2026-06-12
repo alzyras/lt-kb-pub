@@ -19,7 +19,9 @@ Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvena
 
 ## Teiginiai
 
+<a id="claim-t-88485"></a>
 - t-001
+  global_id: t-88485
   teiginys: 'Valerijono Bursos studentams buvo duoti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.'
   pagrindžia:
     - c-001

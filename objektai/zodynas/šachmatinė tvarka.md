@@ -17,12 +17,16 @@ Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
 
 ## Teiginiai
 
+<a id="claim-t-38786"></a>
 - t-001
+  global_id: t-38786
   teiginys: 'Šachmatine tvarka šaudant vienu metu šaudydavo kas antras karys.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183720"></a>
 - t-002
+  global_id: t-183720
   teiginys: 'Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).'
   pagrindžia:
     - c-002

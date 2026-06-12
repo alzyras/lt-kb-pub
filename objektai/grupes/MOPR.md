@@ -16,7 +16,9 @@ narių svarbiausioje – Kauno LKP organizacijoje, daugumą komjaunime ir MOPR�
 
 ## Teiginiai
 
+<a id="claim-t-19938"></a>
 - t-001
+  global_id: t-19938
   teiginys: 'MOPR buvo iš Maskvos diriguojama tarptautinė organizacija revoliucionieriams remti, kurioje daugumą sudarė žydai.'
   pagrindžia:
     - c-001

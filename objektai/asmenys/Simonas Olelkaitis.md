@@ -6,34 +6,39 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Simonas Olelkaitis
 
 ## Santrauka
 
-Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal d a u ją paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais Algirdo proanūkį. Kojelavičius teigia, kad gerokai nesutarė tie, kurie, visaip meilindamiesi, tylomis medžiojo sau kitų balsus, ir tie, kurie atvirai siūlė Simoną Olelkaitį. Kojelavičius teigia, kad mirus Slucko kunigaikščiui Simonui Olelkaičiui, jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp jūčio viduryje užpuolė Slucką.
+Lietuvos didikai prašė karaliaus paskirti Slucko kunigaikštį Simoną Olelkaitį Lietuvos vietininku. Dalis Lietuvos didikų atvirai siūlė Simoną Olelkaitį valdovu. Slucko kunigaikštis Simonas Olelkaitis mirė prieš Biti Girėjaus ir Burnaš Girėjaus puolimą prieš Slucką.
 
 ## Teiginiai
 
+<a id="claim-t-186076"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal d a u ją paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais Algirdo proanūkį.'
+  global_id: t-186076
+  teiginys: 'Lietuvos didikai prašė karaliaus paskirti Slucko kunigaikštį Simoną Olelkaitį Lietuvos vietininku.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186077"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad gerokai nesutarė tie, kurie, visaip meilindamiesi, tylomis medžiojo sau kitų balsus, ir tie, kurie atvirai siūlė Simoną Olelkaitį.'
+  global_id: t-186077
+  teiginys: 'Dalis Lietuvos didikų atvirai siūlė Simoną Olelkaitį valdovu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-186078"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad mirus Slucko kunigaikščiui Simonui Olelkaičiui, jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp jūčio viduryje užpuolė Slucką.'
+  global_id: t-186078
+  teiginys: 'Slucko kunigaikštis Simonas Olelkaitis mirė prieš Biti Girėjaus ir Burnaš Girėjaus puolimą prieš Slucką.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal d a u ją paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais Algirdo proanūkį.'
+  santrauka: 'Lietuvos didikai prašė karaliaus paskirti Slucko kunigaikštį Simoną Olelkaitį Lietuvos vietininku.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kas be ko, jie visi neišpasakytai trokštą, kad
@@ -61,7 +66,7 @@ Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės j
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad gerokai nesutarė tie, kurie, visaip meilindamiesi, tylomis medžiojo sau kitų balsus, ir tie, kurie atvirai siūlė Simoną Olelkaitį.'
+  santrauka: 'Dalis Lietuvos didikų atvirai siūlė Simoną Olelkaitį valdovu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nė vienas nesiūlė atidėti šio
@@ -82,7 +87,7 @@ Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės j
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad mirus Slucko kunigaikščiui Simonui Olelkaičiui, jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp jūčio viduryje užpuolė Slucką.'
+  santrauka: 'Slucko kunigaikštis Simonas Olelkaitis mirė prieš Biti Girėjaus ir Burnaš Girėjaus puolimą prieš Slucką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mengli Girėjaus kariai, veda­
@@ -103,3 +108,11 @@ Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės j
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Lietuvos didikai]]
+- [[objektai/grupes/Vilniaus lietuvių seimas|Vilniaus lietuvių seimas (seimas, XV a.)]]
+- [[objektai/ivykiai/Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.)]]

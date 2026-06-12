@@ -20,7 +20,6 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
-
 # Krymo totoriai
 
 ## Santrauka
@@ -29,48 +28,66 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 
 ## Teiginiai
 
+<a id="claim-t-71638"></a>
 - t-001
+  global_id: t-71638
   teiginys: 'Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikęs chanas Devletberdi.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-71639"></a>
 - t-002
+  global_id: t-71639
   teiginys: '1427 m. pabaigoje Vytauto remiamas Machmetas pavaldė Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71640"></a>
 - t-003
+  global_id: t-71640
   teiginys: 'Po pergalės ties Prostkais totoriai pasitraukė iš lietuvių pajėgų kilus konfliktui dėl belaisvių, ypač B. Radvilos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-71641"></a>
 - t-004
+  global_id: t-71641
   teiginys: '1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo ir suėmė valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71642"></a>
 - t-005
+  global_id: t-71642
   teiginys: 'Krymo totorių - samdinių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71643"></a>
 - t-006
+  global_id: t-71643
   teiginys: 'Valdekas gavo žinią, kad šiauriau Prostkų per upę keliasi totoriai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184485"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad antra vertus, jam laiku buvę pranešta, kad jo uždavinys visomis jėgomis puldinėti Maskvos kuni gaikštystę, bet neliesti turkų pusiasalio, tiesa, atremiant visus įprastinius Krymo skitų antpuolius.'
+  global_id: t-184485
+  teiginys: 'Krymo skitų antpuoliai turėjo būti atremiami, tačiau turkų pusiasalis neturėjo būti liečiamas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184486"></a>
 - t-008
-  teiginys: 'Kojelavičius teigia, kad krymo skitai itin išdrąsėjo ir suįžūlėjo dėl to, kad jiems į pagalbą atėjo turkai, vedami Ibrahimo, kuris skitų išpuoliais grindė kelią turkų galybei.'
+  global_id: t-184486
+  teiginys: 'Krymo skitai išdrąsėjo, kai jiems į pagalbą atėjo Ibrahimo vedami turkai, skitų išpuoliais grindę kelią turkų galybei.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-184487"></a>
 - t-009
-  teiginys: 'Kojelavičius teigia, kad krymo skitai, netikėtai įsiveržę Dyklaukiais, kai lietuviai neturėjo sutelktos kariuomenės, apiplėšė dideles apygardas ir išsivežė gro bį.'
+  global_id: t-184487
+  teiginys: 'Krymo skitai netikėtai įsiveržė Dyklaukiais, apiplėšė dideles apygardas ir išsivežė grobį, kai lietuviai neturėjo sutelktos kariuomenės.'
   pagrindžia:
     - c-008
 
@@ -149,7 +166,7 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-001
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad antra vertus, jam laiku buvę pranešta, kad jo uždavinys visomis jėgomis puldinėti Maskvos kuni gaikštystę, bet neliesti turkų pusiasalio, tiesa, atremiant visus įprastinius Krymo skitų antpuolius.'
+  santrauka: 'Krymo skitų antpuoliai turėjo būti atremiami, tačiau turkų pusiasalis neturėjo būti liečiamas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tiesa, karalius jį iškvietęs iš vietų, kur gyveno jo pro­
@@ -168,7 +185,7 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-007
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad krymo skitai itin išdrąsėjo ir suįžūlėjo dėl to, kad jiems į pagalbą atėjo turkai, vedami Ibrahimo, kuris skitų išpuoliais grindė kelią turkų galybei.'
+  santrauka: 'Krymo skitai išdrąsėjo, kai jiems į pagalbą atėjo Ibrahimo vedami turkai, skitų išpuoliais grindę kelią turkų galybei.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     1527 m e ta i
@@ -199,7 +216,7 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-008
 
 - c-008
-  santrauka: 'Kojelavičius teigia, kad krymo skitai, netikėtai įsiveržę Dyklaukiais, kai lietuviai neturėjo sutelktos kariuomenės, apiplėšė dideles apygardas ir išsivežė gro bį.'
+  santrauka: 'Krymo skitai netikėtai įsiveržė Dyklaukiais, apiplėšė dideles apygardas ir išsivežė grobį, kai lietuviai neturėjo sutelktos kariuomenės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Priešai ir­
@@ -217,3 +234,28 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
   statusas: verified
   pagrindžia:
     - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Machmetas]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.)]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/grupes/Švedai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Kriavo aktas]]
+- [[objektai/asmenys/Mykolas Borisovičius Šeina]]
+- [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
+- [[objektai/asmenys/Vladislovas Vaza]]
+- [[objektai/asmenys/Devletberdi]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/asmenys/Ibrahimas]]
+- [[objektai/grupes/Krimo totoriai]]
+- [[objektai/zodynas/saar]]

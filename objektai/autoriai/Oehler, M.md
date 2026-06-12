@@ -16,7 +16,9 @@ Oehler, M.
 
 ## Teiginiai
 
+<a id="claim-t-30889"></a>
 - t-001
+  global_id: t-30889
   teiginys: 'M. Oehleris 1910 m. Elbinge paskelbė veikalą apie 1409-1411 m. karą tarp vokiečių ir Lenkijos-Lietuvos.'
   pagrindžia:
     - c-001

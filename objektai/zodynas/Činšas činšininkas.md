@@ -19,7 +19,9 @@ Ordino ir Vytauto santykiams buvo reikšminga, kai abi pusi pasižadėjo iš kit
 
 ## Teiginiai
 
+<a id="claim-t-99977"></a>
 - t-001
+  global_id: t-99977
   teiginys: 'Ordino ir Vytauto santykiams buvo reikšminga, kai abi pusi pasižadėjo iš kito krašto nepriiminėti činšą mokančių ir nelaisvu valstiečių.'
   pagrindžia:
     - c-001

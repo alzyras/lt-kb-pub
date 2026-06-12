@@ -47,7 +47,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87305"></a>
 - t-001
+  global_id: t-87305
   teiginys: 'Kronikų pasakojimu, XIII amžiuje kunigaikštis Germantas Šventaragio slėnyje įkurdino vaidilas, įrengė kunigaikščių kapavietes ir rengė dievų šlovinimus.'
   pagrindžia:
     - c-001

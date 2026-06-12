@@ -24,7 +24,9 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
 
 ## Teiginiai
 
+<a id="claim-t-86614"></a>
 - t-001
+  global_id: t-86614
   teiginys: 'Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: duodecem talenta cerae Pud dieta, de curia castri nostri Viln.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Grigorijus iš Polonos
 
 ## Santrauka
 
-Kojelavičius teigia, kad didžiai pasi keitus aplinkybėms, jo širdis ten palinko niekinti visa, kas žemiška, todėl, išpažinęs griežtesnių regulų gyve nimą pagal Grigorijaus iš Polonos mokslą, gyveno Galiče.
+Vaišvilkas Galiče gyveno pagal Grigorijaus iš Polonos mokytą griežtesnių regulų gyvenimą.
 
 ## Teiginiai
 
+<a id="claim-t-186205"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad didžiai pasi keitus aplinkybėms, jo širdis ten palinko niekinti visa, kas žemiška, todėl, išpažinęs griežtesnių regulų gyve nimą pagal Grigorijaus iš Polonos mokslą, gyveno Galiče.'
+  global_id: t-186205
+  teiginys: 'Vaišvilkas Galiče gyveno pagal Grigorijaus iš Polonos mokytą griežtesnių regulų gyvenimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad didžiai pasi keitus aplinkybėms, jo širdis ten palinko niekinti visa, kas žemiška, todėl, išpažinęs griežtesnių regulų gyve nimą pagal Grigorijaus iš Polonos mokslą, gyveno Galiče.'
+  santrauka: 'Vaišvilkas Galiče gyveno pagal Grigorijaus iš Polonos mokytą griežtesnių regulų gyvenimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vaišvilkas mat, pasipiktinęs savo tėvo Min­
@@ -44,3 +45,7 @@ Kojelavičius teigia, kad didžiai pasi keitus aplinkybėms, jo širdis ten pali
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/regula]]

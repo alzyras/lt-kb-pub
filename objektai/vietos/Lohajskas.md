@@ -22,7 +22,9 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
 
 ## Teiginiai
 
+<a id="claim-t-28396"></a>
 - t-001
+  global_id: t-28396
   teiginys: 'Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zaslavlis.'
   pagrindžia:
     - c-001

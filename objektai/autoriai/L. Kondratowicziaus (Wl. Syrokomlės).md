@@ -18,7 +18,9 @@ Kondratowicziaus (Wl.
 
 ## Teiginiai
 
+<a id="claim-t-54131"></a>
 - t-001
+  global_id: t-54131
   teiginys: 'XIX a. tautinio atgimimo laikotarpiu L. Kondratowicziaus poema „Margier“ lietuviams darė stiprų įspūdį.'
   pagrindžia:
     - c-001

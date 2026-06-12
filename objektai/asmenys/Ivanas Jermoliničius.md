@@ -19,7 +19,9 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
 
 ## Teiginiai
 
+<a id="claim-t-87694"></a>
 - t-001
+  global_id: t-87694
   teiginys: 'Ivanas Jermoliničius buvo Didžiojo Naugardo bojarinas, Vilniuje su Švitrigaila sudaręs saugumo ir prekybos sutartį.'
   pagrindžia:
     - c-001

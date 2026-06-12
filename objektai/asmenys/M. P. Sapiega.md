@@ -17,12 +17,16 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
 
 ## Teiginiai
 
+<a id="claim-t-40316"></a>
 - t-001
+  global_id: t-40316
   teiginys: 'LDK arklidininkas M. P. Sapiega vadovavo mūšio lauke likusiems pėstininkams, dragūnams ir raitarams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40317"></a>
 - t-002
+  global_id: t-40317
   teiginys: 'Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu su visa likusia kariuomene respublikonams.'
   pagrindžia:
     - c-002

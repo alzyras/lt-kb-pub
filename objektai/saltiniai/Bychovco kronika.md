@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-100152"></a>
 - t-001
+  global_id: t-100152
   teiginys: '(^11) PSRL, 17, 525 p. (Bychovco kronika).'
   pagrindžia:
     - c-001

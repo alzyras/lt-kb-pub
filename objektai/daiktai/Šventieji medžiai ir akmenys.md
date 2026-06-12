@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19618"></a>
 - t-001
+  global_id: t-19618
   teiginys: 'Lietuvoje daug vietovių, kalnų, miškų, medžių ir akmenų turi Perkūno vardą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183304"></a>
 - t-002
+  global_id: t-183304
   teiginys: 'Antai Lietuvoje daug objektų: vietovių, kalnų, miškų, medžių, akmenų, kurie turi Perkūno vardą.'
   pagrindžia:
     - c-001

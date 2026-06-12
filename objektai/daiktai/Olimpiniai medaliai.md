@@ -45,17 +45,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19574"></a>
 - t-001
+  global_id: t-19574
   teiginys: 'Tarptautinis olimpinis komitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių šakų sporto varžybose už savo šalį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-19575"></a>
 - t-002
+  global_id: t-19575
   teiginys: 'Barselonos olimpinėse žaidynėse buvo iškovotas pirmasis aukso medalis nepriklausomai Lietuvai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-19576"></a>
 - t-003
+  global_id: t-19576
   teiginys: 'Lietuvos vyrų krepšinio rinktinė 1992, 1996 ir 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius.'
   pagrindžia:
     - c-001

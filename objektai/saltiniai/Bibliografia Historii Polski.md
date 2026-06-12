@@ -22,12 +22,16 @@ Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparo
 
 ## Teiginiai
 
+<a id="claim-t-179571"></a>
 - t-001
+  global_id: t-179571
   teiginys: '„Bibliografia Historii Polski“ I tomo pirmoje dalyje pateikė rytų Europą liečiančių bibliografinių rinkinių ir specialių bibliografijų sąrašus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-179572"></a>
 - t-002
+  global_id: t-179572
   teiginys: 'Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparodo Lietuvos istorijai.'
   pagrindžia:
     - c-002

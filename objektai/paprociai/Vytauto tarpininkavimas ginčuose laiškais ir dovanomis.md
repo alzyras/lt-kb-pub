@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35960"></a>
 - t-001
+  global_id: t-35960
   teiginys: 'Vytautas ir po to savo vaidmens laikėsi: jis stengėsi laiškais ir dovanomis susikivirčijusias puses sutaikinti, tuo nors laikinai sustabdydamas ginklus.'
   pagrindžia:
     - c-001

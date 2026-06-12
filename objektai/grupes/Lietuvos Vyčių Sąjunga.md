@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-01397"></a>
 - t-001
+  global_id: t-01397
   teiginys: 'Lietuvos Vyčių Sąjunga telkė katalikų jaunimą, turėjo apie 100 kuopų ir leido laikraštį „Vytis“.'
   pagrindžia:
     - c-001

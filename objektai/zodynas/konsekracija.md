@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-93088"></a>
 - t-001
+  global_id: t-93088
   teiginys: 'Dėl būtinos konsekracijos kilo klausimas, kas turi teisę ją suteikti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-93089"></a>
 - t-002
+  global_id: t-93089
   teiginys: 'Konsekracija po karūnacijos buvo laikoma bažnytiniu aktu, kuris ne suteikia daugiau valdžios, o pašventina karūnaciją.'
   pagrindžia:
     - c-002

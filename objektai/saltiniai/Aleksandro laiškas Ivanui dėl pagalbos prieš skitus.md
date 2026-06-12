@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Aleksandro laiškas Ivanui dėl pagalbos prieš skitus
 
 ## Santrauka
 
-Kojelavičius teigia, kad tačiau pasklidę gandai apie Krymo chano Mengli Girėjaus sumanytą žygį į Ukrainą privertė Aleksan drą kartu su žmona dar kartą išsiųsti per Joną Drovą laišką Ivanui ir prašyti pagalbos prieš skitus.
+Gandai apie Mengli Girėjaus žygį į Ukrainą paskatino Aleksandrą su žmona per Joną Drovą vėl siųsti Ivanui laišką ir prašyti pagalbos prieš skitus.
 
 ## Teiginiai
 
+<a id="claim-t-186327"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tačiau pasklidę gandai apie Krymo chano Mengli Girėjaus sumanytą žygį į Ukrainą privertė Aleksan drą kartu su žmona dar kartą išsiųsti per Joną Drovą laišką Ivanui ir prašyti pagalbos prieš skitus.'
+  global_id: t-186327
+  teiginys: 'Gandai apie Mengli Girėjaus žygį į Ukrainą paskatino Aleksandrą su žmona per Joną Drovą vėl siųsti Ivanui laišką ir prašyti pagalbos prieš skitus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tačiau pasklidę gandai apie Krymo chano Mengli Girėjaus sumanytą žygį į Ukrainą privertė Aleksan drą kartu su žmona dar kartą išsiųsti per Joną Drovą laišką Ivanui ir prašyti pagalbos prieš skitus.'
+  santrauka: 'Gandai apie Mengli Girėjaus žygį į Ukrainą paskatino Aleksandrą su žmona per Joną Drovą vėl siųsti Ivanui laišką ir prašyti pagalbos prieš skitus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ko pasiekė ši pasiuntinybė, metraštininkai ne­

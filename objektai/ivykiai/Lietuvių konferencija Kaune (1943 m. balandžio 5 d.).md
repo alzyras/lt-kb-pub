@@ -40,17 +40,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75127"></a>
 - t-001
+  global_id: t-75127
   teiginys: 'Ja naciai siekė užsitikrinti lietuvių visuomenės paramą savo mobilizaciniams siekiams, suteikti jiems teisėtumo regimybę, o lietuvių veikėjai – išsaugoti tautą, išvengti represijų, išgauti iš Vokietijos didesnių politinių nuolaidų ir Lietuvos suverenumo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75128"></a>
 - t-002
+  global_id: t-75128
   teiginys: 'Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadinamąją Lietuvių konferenciją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75129"></a>
 - t-003
+  global_id: t-75129
   teiginys: 'Nors konferencijos dalyviai negailėjo aštrios kritikos okupacinei valdžiai, priimti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos darbo ir karo tarnybų struktūrose.'
   pagrindžia:
     - c-002

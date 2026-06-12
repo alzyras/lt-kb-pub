@@ -18,7 +18,9 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
 
 ## Teiginiai
 
+<a id="claim-t-20961"></a>
 - t-001
+  global_id: t-20961
   teiginys: 'Naciai manė, kad dėl rasinio ir kultūrinio pranašumo vokiečių tauta turi būti „viešpataujanti“ arba „ponų tauta“.'
   pagrindžia:
     - c-001

@@ -26,7 +26,9 @@ Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m.
 
 ## Teiginiai
 
+<a id="claim-t-26437"></a>
 - t-001
+  global_id: t-26437
   teiginys: 'Dovas Zaunius 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje narys.'
   pagrindžia:
     - c-001

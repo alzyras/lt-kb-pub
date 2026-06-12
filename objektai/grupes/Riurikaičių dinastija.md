@@ -27,27 +27,37 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
 
 ## Teiginiai
 
+<a id="claim-t-96865"></a>
 - t-001
+  global_id: t-96865
   teiginys: 'Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kunigaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui, Alšėnų kunigaikščiai.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-96866"></a>
 - t-002
+  global_id: t-96866
   teiginys: 'Smulkūs Riurikaičiai Lietuvos valdžioje buvo daliniai kunigaikščiai, bet ne savarankiški valdovai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-96867"></a>
 - t-003
+  global_id: t-96867
   teiginys: 'Tik Lietuvos daliniai kunigaikščiai, ar valdančiosios šeimos nariai, ar išsilaikiusieji smulkus Riurikaičiai, nebuvo savarankus valdovai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-96868"></a>
 - t-004
+  global_id: t-96868
   teiginys: 'Lietuvai užėmus Rusios žemes, ne visi Riurikaičių dinastijos kunigaikščiai buvo išstumti iš politinio gyvenimo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-96869"></a>
 - t-005
+  global_id: t-96869
   teiginys: 'Riurikaičių dinastijos išsibaigimas 1598 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų.'
   pagrindžia:
     - c-002

@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87157"></a>
 - t-001
+  global_id: t-87157
   teiginys: '1323 m. gegužės 26 d. Vilniuje rašytuose Gedimino laiškuose pavesta juos perskaičius siųsti toliau ir visur skelbti jų pranešimus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87158"></a>
 - t-002
+  global_id: t-87158
   teiginys: 'Jerošino teigimu, Rygos arkivyskupas ir miestiečiai pajūrio miestuose bei popiežiui platino žinią, kad Gediminas norėjęs krikštytis.'
   pagrindžia:
     - c-001

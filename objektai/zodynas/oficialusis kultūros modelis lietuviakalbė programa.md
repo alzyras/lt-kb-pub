@@ -29,12 +29,16 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 
 ## Teiginiai
 
+<a id="claim-t-77801"></a>
 - t-001
+  global_id: t-77801
   teiginys: 'Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalba sukurti oficialųjį kultūros modelį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77802"></a>
 - t-002
+  global_id: t-77802
   teiginys: 'Daukšos lietuviakalbė programa nebuvo įgyvendinta.'
   pagrindžia:
     - c-002

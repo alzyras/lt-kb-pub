@@ -18,7 +18,9 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
 
 ## Teiginiai
 
+<a id="claim-t-35195"></a>
 - t-001
+  global_id: t-35195
   teiginys: 'Kęsgaila buvo Žemaičių seniūnas.'
   pagrindžia:
     - c-001
@@ -48,3 +50,6 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
 - [[objektai/grupes/Valimantaičiai]]
 - [[objektai/ivykiai/Vedrošos kautynės]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Lietuvos didikai]]
+- [[objektai/paprociai/Prabangūs šermenys ir iškilmingos laidotuvės nužudytam valdovui]]
+- [[objektai/ivykiai/Žygimanto Kęstutaičio šermenys ir laidotuvės Vilniuje (1440 m.)]]

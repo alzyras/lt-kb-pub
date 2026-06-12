@@ -17,12 +17,16 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 
 ## Teiginiai
 
+<a id="claim-t-58640"></a>
 - t-001
+  global_id: t-58640
   teiginys: 'Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58641"></a>
 - t-002
+  global_id: t-58641
   teiginys: 'Dusburgietis teigia, kad d.—in monte Scrandonis, Jer.— ûf Schrandinberge — vėliau Srangenbergo piliakalnis (HE, p. 146; GAO, p. 163) į pietvakarius nuo Parteinių.'
   pagrindžia:
     - c-001

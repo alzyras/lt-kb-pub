@@ -46,12 +46,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-78682"></a>
 - t-001
+  global_id: t-78682
   teiginys: 'Buvo vertinamas dėl pati- 5 kimumo ir paprastos priežiūros 1945-1951 m. Vokiškas universalusis kulkosvaidis MG 34 (Maschinengewehr 34) Šovinys - 7,92x57 mm Mauser, 50/250 šovinių juosta, 50 arba 75 šovinių būgninė dėtuvė, šaudymo tempas — 800-900 šūvių per.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78683"></a>
 - t-002
+  global_id: t-78683
   teiginys: 'Vokiškas universalusis kulkosvaidis MG 34 naudojo 7,92x57 mm Mauser šovinį, šaudė 800-900 šūvių per minutę tempu ir be trikojo svėrė 12,1 kg.'
   pagrindžia:
     - c-002

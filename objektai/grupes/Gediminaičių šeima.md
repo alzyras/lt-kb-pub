@@ -19,18 +19,24 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
 
 ## Teiginiai
 
+<a id="claim-t-01322"></a>
 - t-001
+  global_id: t-01322
   teiginys: 'Gediminaičių šeimai nepatiko susitarimas, dėl kurio Vladislovas savo ir Zigmanto vardu pareiškė protestą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01323"></a>
 - t-002
+  global_id: t-01323
   teiginys: 'Gedimino šeimos šaka pasibaigė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182890"></a>
 - t-003
-  teiginys: 'Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksandro brolis, Čekų karalius Vladislovas, savo ir jaunesniojo brolio Zigmanto vardu net pareiškė protestą dėl to susitarimo.'
+  global_id: t-182890
+  teiginys: 'Valdančiajai Gediminaičių šeimai nepatiko susitarimas, dėl kurio Vladislovas savo ir Zigmanto vardu pareiškė protestą.'
   pagrindžia:
     - c-002
 

@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lešekas
 
 ## Santrauka
 
-Kojelavičius teigia, kad gandas apie baisų pralaimėjimą, pasiekęs Kroku vą, kur tuo metu tarėsi suvažiavę didikai, paskatino Lešeką nedelsiant griebtis ginklo; pasiuntęs į Sandomirą įsakymą, kad pasirengę kovai bajorai iš miestų ir kaimų kuo greičiausiai skubėtų jo pasitikti, pats. Kojelavičius teigia, kad lešekas, bijodamas, kad ši nevilties sužadinta stiprybė neiš stumtų jo sutrikusių karių iš užimtų pozicijų ir nesu ardytų mūšio pradžioje visos kautynių rikiuotės, metė prieš puolančius lietuvius Žegotą, Krokuvos vaivadą, kuris vedė prityrusių karių pulką ir.
+Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su turimais didikais leidosi persekioti priešą. Lešekas prieš puolančius lietuvius pasiuntė Krokuvos vaivadą Žegotą su prityrusių karių pulku ir rūmų raiteliais.
 
 ## Teiginiai
 
+<a id="claim-t-186061"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad gandas apie baisų pralaimėjimą, pasiekęs Kroku vą, kur tuo metu tarėsi suvažiavę didikai, paskatino Lešeką nedelsiant griebtis ginklo; pasiuntęs į Sandomirą įsakymą, kad pasirengę kovai bajorai iš miestų ir kaimų kuo greičiausiai skubėtų jo pasitikti, pats.'
+  global_id: t-186061
+  teiginys: 'Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su turimais didikais leidosi persekioti priešą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186062"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad lešekas, bijodamas, kad ši nevilties sužadinta stiprybė neiš stumtų jo sutrikusių karių iš užimtų pozicijų ir nesu ardytų mūšio pradžioje visos kautynių rikiuotės, metė prieš puolančius lietuvius Žegotą, Krokuvos vaivadą, kuris vedė prityrusių karių pulką ir.'
+  global_id: t-186062
+  teiginys: 'Lešekas prieš puolančius lietuvius pasiuntė Krokuvos vaivadą Žegotą su prityrusių karių pulku ir rūmų raiteliais.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad gandas apie baisų pralaimėjimą, pasiekęs Kroku vą, kur tuo metu tarėsi suvažiavę didikai, paskatino Lešeką nedelsiant griebtis ginklo; pasiuntęs į Sandomirą įsakymą, kad pasirengę kovai bajorai iš miestų ir kaimų kuo greičiausiai skubėtų jo pasitikti, pats.'
+  santrauka: 'Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su turimais didikais leidosi persekioti priešą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Len­
@@ -55,7 +58,7 @@ Kojelavičius teigia, kad gandas apie baisų pralaimėjimą, pasiekęs Kroku vą
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad lešekas, bijodamas, kad ši nevilties sužadinta stiprybė neiš stumtų jo sutrikusių karių iš užimtų pozicijų ir nesu ardytų mūšio pradžioje visos kautynių rikiuotės, metė prieš puolančius lietuvius Žegotą, Krokuvos vaivadą, kuris vedė prityrusių karių pulką ir.'
+  santrauka: 'Lešekas prieš puolančius lietuvius pasiuntė Krokuvos vaivadą Žegotą su prityrusių karių pulku ir rūmų raiteliais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Len­
@@ -89,3 +92,13 @@ Kojelavičius teigia, kad gandas apie baisų pralaimėjimą, pasiekęs Kroku vą
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/posakiai/Ugnimi ir kalaviju]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Lietuvių žygis į Sembą Prūsijoje]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/Lenkai]]

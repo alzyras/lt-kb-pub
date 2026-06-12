@@ -17,7 +17,9 @@ LDK kariuomenė turėjo daug sunkumų su karo vadais (kitaip nei Lenkijos kariuo
 
 ## Teiginiai
 
+<a id="claim-t-19045"></a>
 - t-001
+  global_id: t-19045
   teiginys: 'Juzefas Poniatovskis vadovavo Lenkijos kariuomenei Ukrainoje.'
   pagrindžia:
     - c-001

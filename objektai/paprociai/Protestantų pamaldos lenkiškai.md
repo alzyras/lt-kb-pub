@@ -36,12 +36,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67191"></a>
 - t-001
+  global_id: t-67191
   teiginys: 'Lietuvos protestantai suskato lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus tik tada, kai to griebėsi atsigavę katalikai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67192"></a>
 - t-002
+  global_id: t-67192
   teiginys: 'Jie kvietėsi į Lietuvą lenkų protestantų pamokslininkų, ir visos pamaldos iš pradžių buvo atliekamos vien lenkiškai.'
   pagrindžia:
     - c-001

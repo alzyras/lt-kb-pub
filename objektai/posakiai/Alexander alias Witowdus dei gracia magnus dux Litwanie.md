@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-95939"></a>
 - t-001
+  global_id: t-95939
   teiginys: 'Vytautas minėtame akte save titulavo „Alexander alias Witowdus dei gracia magnus dux Litwanie“.'
   pagrindžia:
     - c-001

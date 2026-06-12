@@ -22,7 +22,9 @@ Juču jis sudarė rinkinį «Lietuvos inventoriai XVII amž. » (1962).
 
 ## Teiginiai
 
+<a id="claim-t-31812"></a>
 - t-001
+  global_id: t-31812
   teiginys: 'Rinkinys „Lietuvos inventoriai XVII amž.“ buvo sudarytas drauge su M. Juču ir išleistas 1962 m.'
   pagrindžia:
     - c-001

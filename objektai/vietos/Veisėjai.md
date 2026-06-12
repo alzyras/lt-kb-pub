@@ -16,7 +16,9 @@ Pirmoji bažnyčia, į kurią buvo grąžintos lietuviškosios pamaldos, buvo Ve
 
 ## Teiginiai
 
+<a id="claim-t-02848"></a>
 - t-001
+  global_id: t-02848
   teiginys: 'Veisėjų bažnyčia buvo pirmoji, į kurią grąžintos lietuviškos pamaldos.'
   pagrindžia:
     - c-001

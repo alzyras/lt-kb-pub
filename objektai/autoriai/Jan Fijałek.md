@@ -25,7 +25,9 @@ Jan Fijałek 1415 mt.
 
 ## Teiginiai
 
+<a id="claim-t-35446"></a>
 - t-001
+  global_id: t-35446
   teiginys: 'Kunigas prof. dr. J. Fijałek teigė, kad žemaičių skundo „Propositio Samaytarum“ dar negalima skaityti sausomis akimis.'
   pagrindžia:
     - c-001

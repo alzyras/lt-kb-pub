@@ -23,12 +23,16 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Lukšio rinktinės 
 
 ## Teiginiai
 
+<a id="claim-t-41107"></a>
 - t-001
+  global_id: t-41107
   teiginys: 'Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta į Maironio rinktinę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41108"></a>
 - t-002
+  global_id: t-41108
   teiginys: '1952 m. Rytas vėl tapo P. Lukšio rinktinės vadu ir tais pačiais metais, bolševikų apsuptas, nusišovė.'
   pagrindžia:
     - c-001

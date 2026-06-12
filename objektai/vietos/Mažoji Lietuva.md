@@ -27,87 +27,121 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 
 ## Teiginiai
 
+<a id="claim-t-180285"></a>
 - t-001
+  global_id: t-180285
   teiginys: 'TAUTOS TAPSMAS Lietuva įgyja jūrų uostą – Klaipėdos prisijungimas T autinės valstybės prioritetas – lietuvių tauta, todėl nemažai dėmesio skirta Ryprūsiams, kur daug vietos gyventojų vartojo lietuvių kalbą, ėjo lietuviški laikraščiai, į tą sritį kažkada.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-180286"></a>
 - t-002
+  global_id: t-180286
   teiginys: 'Paradoksas – svetima valstybė, o lietuviškos raštijos kur kas daugiau nei pačioje Lietuvoje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-180287"></a>
 - t-003
+  global_id: t-180287
   teiginys: 'Šalia istorinės Lietuvos (buvusios LDK) sampratos vis stiprėjo modernioji, Lietuvos vardą siejanti su lietuvių kalbos vartojimu.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-180288"></a>
 - t-004
+  global_id: t-180288
   teiginys: 'Mažojoje Lietuvoje buvo uoliai platinamas protestantizmas ir spausdinamos lietuviškos protestantiškos knygos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-180289"></a>
 - t-005
+  global_id: t-180289
   teiginys: 'Dusburgietis teigia, kad tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje.—K., 1935.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-180290"></a>
 - t-006
+  global_id: t-180290
   teiginys: 'O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos Mažajai Lietuvai, tačiau rinkimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-180291"></a>
 - t-007
+  global_id: t-180291
   teiginys: 'Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Donelaičio poema „Metai“ (apie 1750).'
   pagrindžia:
     - c-005
 
+<a id="claim-t-180292"></a>
 - t-008
+  global_id: t-180292
   teiginys: 'Dusburgietis teigia, kad kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai.— K., 1940.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-180294"></a>
 - t-009
+  global_id: t-180294
   teiginys: 'Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelbta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas, esančias apie Nemuną – Didžiąją ir Mažąją (Rytų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-180295"></a>
 - t-010
+  global_id: t-180295
   teiginys: 'Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame buvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-180296"></a>
 - t-011
+  global_id: t-180296
   teiginys: 'Dusburgietis teigia, kad mažosios Lietuvos apgyvendinimas iki XVII amžiaus pabaigos.— Roma, 1970.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-180298"></a>
 - t-012
+  global_id: t-180298
   teiginys: 'Lietuvos Respublikos kūrėjai siekė prie Lietuvos prijungti Mažąją Lietuvą.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-180299"></a>
 - t-013
-  teiginys: 'Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius.'
+  global_id: t-180299
+  teiginys: 'Brandenburgo hercogams atitekusi ordino valstybė toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-180300"></a>
 - t-014
+  global_id: t-180300
   teiginys: 'Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva (visa kita Lietuva vėliau – atrodo, XIX a.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-180301"></a>
 - t-015
+  global_id: t-180301
   teiginys: 'Georgas Zauerveinas, kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-180302"></a>
 - t-016
-  teiginys: 'Lietuviškai protestantizmas tebuvo skelbiamas žmonių, atėjusių iš Mažosios Lietuvos; bet tas judėjimas buvo labai silpnas ir trumpas.'
+  global_id: t-180302
+  teiginys: 'Žmonių iš Mažosios Lietuvos lietuviškai skelbtas protestantizmas buvo silpnas ir trumpas judėjimas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-180303"></a>
 - t-017
+  global_id: t-180303
   teiginys: 'Pademonstruota vienybė su Mažąja Lietuva – Steigiamasis Seimas 1921 m. lapkričio 11 d. vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį.'
   pagrindžia:
     - c-013
@@ -131,6 +165,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     - t-004
 
 - c-002
+  santrauka: 'Žmonių iš Mažosios Lietuvos lietuviškai skelbtas protestantizmas buvo silpnas ir trumpas judėjimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuviškai protestantizmas tebuvo

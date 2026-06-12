@@ -6,34 +6,39 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # algininkai
 
 ## Santrauka
 
-Kojelavičius teigia, kad karalius KaK afos g y v e n to ja i iešzimieras jiems leido ir savo ko p a g a lb in in k ų Lenvaldomose žemėse pasitelkti k ijo je algininkų. Kojelavičius teigia, kad ga vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen kis tūkstančius algininkų bei didikų kariaunas ir ka rališkąsias vėliavas, o netrukus ir pats skubiai patrau kė paskui išsiųstąją kariuomenę sutelkęs pašauktinių bajorų jėgas ir valstybės viduje. Kojelavičius teigia, kad konstantinas su savaisiais įsitaisė dešiniajame sparne, o kairiajame — Mikalojus Kameneckis, rikiuo tės priekyje įsitvirtino algininkai, o į rezervą paskyrė būrius tų bajorų, kurie savo valia iš visur susirinko at remti pavojaus.
+Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algininkus įgulos tarnybai. Karalius, sužinojęs apie Minsko puolimą, iš pradžių pasiuntė į Minską penkis tūkstančius algininkų ir didikų kariaunas. Prieš mūšį algininkai įsitvirtino rikiuotės priekyje, kai Konstantinas stojo dešiniajame, o Mikalojus Kameneckis kairiajame sparne.
 
 ## Teiginiai
 
+<a id="claim-t-185363"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad karalius KaK afos g y v e n to ja i iešzimieras jiems leido ir savo ko p a g a lb in in k ų Lenvaldomose žemėse pasitelkti k ijo je algininkų.'
+  global_id: t-185363
+  teiginys: 'Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algininkus įgulos tarnybai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185364"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad ga vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen kis tūkstančius algininkų bei didikų kariaunas ir ka rališkąsias vėliavas, o netrukus ir pats skubiai patrau kė paskui išsiųstąją kariuomenę sutelkęs pašauktinių bajorų jėgas ir valstybės viduje.'
+  global_id: t-185364
+  teiginys: 'Karalius, sužinojęs apie Minsko puolimą, iš pradžių pasiuntė į Minską penkis tūkstančius algininkų ir didikų kariaunas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185365"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad konstantinas su savaisiais įsitaisė dešiniajame sparne, o kairiajame — Mikalojus Kameneckis, rikiuo tės priekyje įsitvirtino algininkai, o į rezervą paskyrė būrius tų bajorų, kurie savo valia iš visur susirinko at remti pavojaus.'
+  global_id: t-185365
+  teiginys: 'Prieš mūšį algininkai įsitvirtino rikiuotės priekyje, kai Konstantinas stojo dešiniajame, o Mikalojus Kameneckis kairiajame sparne.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad karalius KaK afos g y v e n to ja i iešzimieras jiems leido ir savo ko p a g a lb in in k ų Lenvaldomose žemėse pasitelkti k ijo je algininkų.'
+  santrauka: 'Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algininkus įgulos tarnybai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu vienas netikėtas įvy­
@@ -56,7 +61,7 @@ Kojelavičius teigia, kad karalius KaK afos g y v e n to ja i iešzimieras jiems
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad ga vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen kis tūkstančius algininkų bei didikų kariaunas ir ka rališkąsias vėliavas, o netrukus ir pats skubiai patrau kė paskui išsiųstąją kariuomenę sutelkęs pašauktinių bajorų jėgas ir valstybės viduje.'
+  santrauka: 'Karalius, sužinojęs apie Minsko puolimą, iš pradžių pasiuntė į Minską penkis tūkstančius algininkų ir didikų kariaunas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu Glinskis su savo ir maskvėnų pulkais už­
@@ -80,7 +85,7 @@ Kojelavičius teigia, kad karalius KaK afos g y v e n to ja i iešzimieras jiems
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad konstantinas su savaisiais įsitaisė dešiniajame sparne, o kairiajame — Mikalojus Kameneckis, rikiuo tės priekyje įsitvirtino algininkai, o į rezervą paskyrė būrius tų bajorų, kurie savo valia iš visur susirinko at remti pavojaus.'
+  santrauka: 'Prieš mūšį algininkai įsitvirtino rikiuotės priekyje, kai Konstantinas stojo dešiniajame, o Mikalojus Kameneckis kairiajame sparne.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šis tau­
@@ -98,3 +103,20 @@ Kojelavičius teigia, kad karalius KaK afos g y v e n to ja i iešzimieras jiems
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/zodynas/rezervas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/asmenys/Eustachijus Daškevičius]]
+- [[objektai/asmenys/Jonas Černinas]]
+- [[objektai/grupes/Kafos gyventojai]]
+- [[objektai/ivykiai/Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula]]
+- [[objektai/asmenys/Konstantinas Ostrogiškis]]
+- [[objektai/paprociai/Samdinių verbavimas krikščioniškose karalystėse įgulos tarnybai]]
+- [[objektai/ivykiai/Skitų sumušimas Volynėje ir prie Slučės]]

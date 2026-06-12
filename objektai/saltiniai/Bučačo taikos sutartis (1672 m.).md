@@ -31,7 +31,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-10475"></a>
 - t-001
+  global_id: t-10475
   teiginys: '1672 m. Turkija pradėjo karo veiksmus prieš Lenkiją ir privertė ją pasirašyti Bučačo taikos sutartį.'
   pagrindžia:
     - c-001

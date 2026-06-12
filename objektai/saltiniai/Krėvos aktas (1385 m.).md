@@ -27,7 +27,9 @@ Išeitis buvo 1385 m. sudaryta Krėvos sutartis su Lenkija, pagal kurią Lietuvo
 
 ## Teiginiai
 
+<a id="claim-t-183361"></a>
 - t-001
+  global_id: t-183361
   teiginys: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.'
   pagrindžia:
     - c-001

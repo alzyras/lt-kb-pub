@@ -16,7 +16,9 @@ Liekis Š.
 
 ## Teiginiai
 
+<a id="claim-t-17675"></a>
 - t-001
+  global_id: t-17675
   teiginys: 'Š. Liekis parašė veikalą „A State within a State?“ apie žydų autonomiją Lietuvoje 1918–1925 m.'
   pagrindžia:
     - c-001

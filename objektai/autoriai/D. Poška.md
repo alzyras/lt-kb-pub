@@ -17,17 +17,23 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 
 ## Teiginiai
 
+<a id="claim-t-05729"></a>
 - t-001
+  global_id: t-05729
   teiginys: 'D. Poška savo Baublyje įtaisė senienų muziejų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05730"></a>
 - t-002
+  global_id: t-05730
   teiginys: 'D. Poška savo Baublyje globojo lietuviškosios kultūros palaikus ir rašė žemaitiškai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-05731"></a>
 - t-003
+  global_id: t-05731
   teiginys: 'D. Poška ėmė rašyti žemaitišką žodyną ir tam tikslui rinko senas knygas.'
   pagrindžia:
     - c-002

@@ -16,7 +16,9 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 
 ## Teiginiai
 
+<a id="claim-t-18886"></a>
 - t-001
+  global_id: t-18886
   teiginys: 'Eric Clapton grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio sukurta gitara „Zemaitis“.'
   pagrindžia:
     - c-001

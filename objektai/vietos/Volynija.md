@@ -27,27 +27,37 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
 
 ## Teiginiai
 
+<a id="claim-t-120056"></a>
 - t-001
+  global_id: t-120056
   teiginys: 'Jogaila atidavė Vytautui Volyniją su Lucko ir Vladimiro kunigaikštijomis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-120057"></a>
 - t-002
+  global_id: t-120057
   teiginys: 'Vytauto laikais Krokuvos ir vokiečių pirkliai sausuma lankydavo Volynijos ir Podolijos miestus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-120058"></a>
 - t-003
+  global_id: t-120058
   teiginys: 'Vytauto laikais Volynijoje buvo gausu didžiojo kunigaikščio dvarų ir ūkio centrų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-120059"></a>
 - t-004
+  global_id: t-120059
   teiginys: '1384 m. pavasarį Jogaila siūlė Vytautui grąžinti tėviškę ir pridėti Volyniją su Lucku.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-120060"></a>
 - t-005
+  global_id: t-120060
   teiginys: 'Vytauto laikais Volynijos miestus sausumos keliais lankydavo Krokuvos ir vokiečių pirkliai.'
   pagrindžia:
     - c-001

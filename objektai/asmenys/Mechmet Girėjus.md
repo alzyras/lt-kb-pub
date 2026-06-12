@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Mechmet Girėjus
 
 ## Santrauka
 
-Kojelavičius teigia, kad kur kas smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus sūnus Mechmet Girėjus.
+Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir grįžo su dideliu grobiu.
 
 ## Teiginiai
 
+<a id="claim-t-186148"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kur kas smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus sūnus Mechmet Girėjus.'
+  global_id: t-186148
+  teiginys: 'Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir grįžo su dideliu grobiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kur kas smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus sūnus Mechmet Girėjus.'
+  santrauka: 'Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir grįžo su dideliu grobiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vaivada Goštautas, pilies seniūnas
@@ -43,3 +44,12 @@ Kojelavičius teigia, kad kur kas smarkiau ir plačiau nusiaubė Lietuvą Mengli
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Jonas Trizna]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]

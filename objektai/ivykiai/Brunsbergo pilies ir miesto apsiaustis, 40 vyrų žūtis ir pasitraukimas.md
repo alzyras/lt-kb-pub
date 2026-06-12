@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59288"></a>
 - t-001
+  global_id: t-59288
   teiginys: 'Per Brunsbergo pilies ir miesto apsiaustį prūsai visą dieną puolė, bet miestiečiai ir pilėnai pasipriešino, todėl užpuolikai pasitraukė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59289"></a>
 - t-002
+  global_id: t-59289
   teiginys: 'Dusburgietis teigia, kad kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų, kurie visi buvo priešo nukauti.'
   pagrindžia:
     - c-002

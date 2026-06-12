@@ -19,12 +19,16 @@ Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi: „atėjo vokieči
 
 ## Teiginiai
 
+<a id="claim-t-39934"></a>
 - t-001
+  global_id: t-39934
   teiginys: 'Rusų Maskvos sąvade rašoma, kad prie Vilniaus prieš Vytautą atėjo vokiečiai, įvyko didelis mūšis ir nugalėjo Lietuva.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183704"></a>
 - t-002
+  global_id: t-183704
   teiginys: 'Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi: „atėjo vokiečiai prie Vilniaus miesto prieš Vytautą, ir buvo tarp jų didelis mūšis ir nugalėjo Lietuva“.'
   pagrindžia:
     - c-002

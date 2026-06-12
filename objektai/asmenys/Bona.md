@@ -24,22 +24,30 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 
 ## Teiginiai
 
+<a id="claim-t-87467"></a>
 - t-001
+  global_id: t-87467
   teiginys: 'Karalienė Bona paprastai gyvendavo viename iš dviejų mažesnių namų prie Merkio.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-87468"></a>
 - t-002
+  global_id: t-87468
   teiginys: 'Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta klebonija tapo išties reikšmingiausia Žemaitijoje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87469"></a>
 - t-003
+  global_id: t-87469
   teiginys: 'Karalienė Bona Vytauto atminimą pagerbė marmuriniu antkapiniu paminklu didžiojo altoriaus dešinėje pusėje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87470"></a>
 - t-004
+  global_id: t-87470
   teiginys: 'Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus.'
   pagrindžia:
     - c-002

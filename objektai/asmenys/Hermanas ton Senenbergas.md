@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Hermanas ton Senenbergas
 
 ## Santrauka
 
-Kojelavičius teigia, kad priešui at remti magistro pasiųstas Hermanas ton Senenbergas, daugelyje mūšių narsumu bei sumanumu pasižymėjęs vyras, su menka kariauna padarė taip, kaip iš jo buvo pageidaujama: sulaikė užpuolikus, o vėliau, užpuolęs priešą, jį sumušė.
+Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuolikus ir vėliau sumušė priešą.
 
 ## Teiginiai
 
+<a id="claim-t-186210"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad priešui at remti magistro pasiųstas Hermanas ton Senenbergas, daugelyje mūšių narsumu bei sumanumu pasižymėjęs vyras, su menka kariauna padarė taip, kaip iš jo buvo pageidaujama: sulaikė užpuolikus, o vėliau, užpuolęs priešą, jį sumušė.'
+  global_id: t-186210
+  teiginys: 'Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuolikus ir vėliau sumušė priešą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad priešui at remti magistro pasiųstas Hermanas ton Senenbergas, daugelyje mūšių narsumu bei sumanumu pasižymėjęs vyras, su menka kariauna padarė taip, kaip iš jo buvo pageidaujama: sulaikė užpuolikus, o vėliau, užpuolęs priešą, jį sumušė.'
+  santrauka: 'Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuolikus ir vėliau sumušė priešą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pirmiausia jie užpuolė Kulmo
@@ -44,3 +45,9 @@ Kojelavičius teigia, kad priešui at remti magistro pasiųstas Hermanas ton Sen
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Hermanas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/magistras]]

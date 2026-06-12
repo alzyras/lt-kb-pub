@@ -25,7 +25,9 @@ Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant dideli�
 
 ## Teiginiai
 
+<a id="claim-t-86609"></a>
 - t-001
+  global_id: t-86609
   teiginys: '1429 metais pas Vytautą buvo atsiųsti Pskovo posadnikas Silvestras Levontjevičius ir vietininkas Parfėjus.'
   pagrindžia:
     - c-001

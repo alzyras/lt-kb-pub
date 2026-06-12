@@ -27,7 +27,9 @@ Jakubovskis : Tautiniai santykiai , Kaunas 1921. Jakubovskis : Tautybių santyki
 
 ## Teiginiai
 
+<a id="claim-t-30674"></a>
 - t-001
+  global_id: t-30674
   teiginys: 'J. Jakubovskio „Tautybių santykiai Lietuvoje prieš Liublino uniją“ išėjo Kaune 1921 m.'
   pagrindžia:
     - c-001

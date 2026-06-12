@@ -26,7 +26,9 @@ Ji buvo ištekėjusi už Mozūrijos (Čersko-Socliačevo) kunigaikščio «Traid
 
 ## Teiginiai
 
+<a id="claim-t-30401"></a>
 - t-001
+  global_id: t-30401
   teiginys: 'Traidenis I buvo Mozūrijos, Čersko ir Sochačevo kunigaikštis 1316-1341 m.'
   pagrindžia:
     - c-001

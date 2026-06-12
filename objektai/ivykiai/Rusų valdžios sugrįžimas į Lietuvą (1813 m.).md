@@ -32,12 +32,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66855"></a>
 - t-001
+  global_id: t-66855
   teiginys: 'Pasitraukus Napoleono kariuomenei, Lietuvoje tuojau buvo sugrąžinta senoji Rusijos valdžia.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66856"></a>
 - t-002
+  global_id: t-66856
   teiginys: 'Po Napoleono į Lietuvą atsitraukė jo kariuomenės likučiai, kurie pakeliui plėšė gyventojus.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
 
 ## Teiginiai
 
+<a id="claim-t-36584"></a>
 - t-001
+  global_id: t-36584
   teiginys: 'Liepos 11 d. sąjungininkai ėmė trauktis Lautenburgo ir Soldau link.'
   pagrindžia:
     - c-001

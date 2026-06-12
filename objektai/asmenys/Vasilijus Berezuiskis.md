@@ -19,7 +19,9 @@ Ant Volokolamsko tilto buvo mirtinai (lietuvio ietimi) sužeistas kunigaikštis 
 
 ## Teiginiai
 
+<a id="claim-t-39663"></a>
 - t-001
+  global_id: t-39663
   teiginys: 'Ant Volokolamsko tilto buvo mirtinai (lietuvio ietimi) sužeistas kunigaikštis Vasilijus Berezuiskis.'
   pagrindžia:
     - c-001

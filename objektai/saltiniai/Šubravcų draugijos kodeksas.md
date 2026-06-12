@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-88359"></a>
 - t-001
+  global_id: t-88359
   teiginys: 'Šubravcų draugijos kodekse nustatytos narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88360"></a>
 - t-002
+  global_id: t-88360
   teiginys: 'XII Šubravcų kodekso straipsnis reikalavo, kad draugijos narys kauptų biblioteką su visuotinės istorijos ir geografijos veikalais.'
   pagrindžia:
     - c-001

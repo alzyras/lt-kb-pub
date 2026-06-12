@@ -6,39 +6,46 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Mengli Girėjus
 
 ## Santrauka
 
-Kojelavičius teigia, kad mengli Girėjaus kariai, veda mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža los. Kojelavičius teigia, kad garsas apie šią pergalę plačiai paskli do, be kita ko, ir dėl to, kad mūšio lauke krito trys Mengli Girėjaus sūnūs bei žentas. Kojelavičius teigia, kad skitas Mengli Girėjus, pakviestas už mokamą atlyginimą į šį karo žygį, įsikūrė su kariais netoli karaliaus stovyklos, tačiau nepradėjo kovoti prieš maskvėnus, nors Ostrogiškis atkakliai reikalavo, kad įsibrautų į Maskvos kunigaikštystę, mat jis iš Maskvos.
+Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug žalos. Mūšio lauke krito trys Mengli Girėjaus sūnūs ir žentas, todėl garsas apie pergalę plačiai pasklido. Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus.
 
 ## Teiginiai
 
+<a id="claim-t-185936"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mengli Girėjaus kariai, veda mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža los.'
+  global_id: t-185936
+  teiginys: 'Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug žalos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185937"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad garsas apie šią pergalę plačiai paskli do, be kita ko, ir dėl to, kad mūšio lauke krito trys Mengli Girėjaus sūnūs bei žentas.'
+  global_id: t-185937
+  teiginys: 'Mūšio lauke krito trys Mengli Girėjaus sūnūs ir žentas, todėl garsas apie pergalę plačiai pasklido.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185938"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad skitas Mengli Girėjus, pakviestas už mokamą atlyginimą į šį karo žygį, įsikūrė su kariais netoli karaliaus stovyklos, tačiau nepradėjo kovoti prieš maskvėnus, nors Ostrogiškis atkakliai reikalavo, kad įsibrautų į Maskvos kunigaikštystę, mat jis iš Maskvos.'
+  global_id: t-185938
+  teiginys: 'Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185939"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad mengli Girėjus ketino užpulti tuos, kurie pirmieji suklups mūšyje.'
+  global_id: t-185939
+  teiginys: 'Mengli Girėjus ketino užpulti tą mūšio pusę, kuri pirmoji suklups.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mengli Girėjaus kariai, veda mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža los.'
+  santrauka: 'Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug žalos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Išklausė
@@ -54,7 +61,7 @@ Kojelavičius teigia, kad mengli Girėjaus kariai, veda mi jo sūnų, nusiaubė 
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad garsas apie šią pergalę plačiai paskli do, be kita ko, ir dėl to, kad mūšio lauke krito trys Mengli Girėjaus sūnūs bei žentas.'
+  santrauka: 'Mūšio lauke krito trys Mengli Girėjaus sūnūs ir žentas, todėl garsas apie pergalę plačiai pasklido.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lie­
@@ -73,7 +80,7 @@ Kojelavičius teigia, kad mengli Girėjaus kariai, veda mi jo sūnų, nusiaubė 
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad skitas Mengli Girėjus, pakviestas už mokamą atlyginimą į šį karo žygį, įsikūrė su kariais netoli karaliaus stovyklos, tačiau nepradėjo kovoti prieš maskvėnus, nors Ostrogiškis atkakliai reikalavo, kad įsibrautų į Maskvos kunigaikštystę, mat jis iš Maskvos.'
+  santrauka: 'Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pra­
@@ -95,10 +102,15 @@ Kojelavičius teigia, kad mengli Girėjaus kariai, veda mi jo sūnų, nusiaubė 
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad mengli Girėjus ketino užpulti tuos, kurie pirmieji suklups mūšyje.'
+  santrauka: 'Mengli Girėjus ketino užpulti tą mūšio pusę, kuri pirmoji suklups.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
-    Ne­
+    Skitas Mengli Girėjus, pakviestas už
+    mokamą atlyginimą į šį karo žygį, įsikūrė su kariais
+    netoli karaliaus stovyklos, tačiau nepradėjo kovoti
+    prieš maskvėnus, nors Ostrogiškis atkakliai reikalavo,
+    kad įsibrautų į Maskvos kunigaikštystę, mat jis iš
+    Maskvos valdovo irgi buvo gavęs nemaža pinigų. Ne­
     trūko barbarui sumanumo deramai pateisinti savo ne­
     veiklumą, nors, tiesą sakant, jis ketino užpulti tuos,
     kurie pirmieji suklups mūšyje. Konstantinui laimėjus
@@ -119,3 +131,11 @@ Kojelavičius teigia, kad mengli Girėjaus kariai, veda mi jo sūnų, nusiaubė 
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/ivykiai/Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/ivykiai/Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką]]

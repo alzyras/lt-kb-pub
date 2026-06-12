@@ -19,22 +19,30 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
 
 ## Teiginiai
 
+<a id="claim-t-19773"></a>
 - t-001
+  global_id: t-19773
   teiginys: '1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per užimtą radiją paskelbė apie Laikinąją vyriausybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-19774"></a>
 - t-002
+  global_id: t-19774
   teiginys: 'Laikinosios vyriausybės uždraudimas rodo, kad ji pirmiausia žiūrėjo lietuvių tautos interesų, buvo paskelbta prieš vokiečių vadovybės valią ir nebuvo nacių politinių intrigų darinys.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-19775"></a>
 - t-003
+  global_id: t-19775
   teiginys: '1941 m. birželio 23 d. sudarytos Laikinosios vyriausybės vadovu tapo literatūros dėstytojas Juozas Ambrazevičius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-19776"></a>
 - t-004
+  global_id: t-19776
   teiginys: 'Laikinoji vyriausybė realiai nevaldė padėties, nes negalėjo palaikyti ryšių su visu kraštu.'
   pagrindžia:
     - c-003

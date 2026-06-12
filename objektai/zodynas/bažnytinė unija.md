@@ -18,12 +18,16 @@ Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius
 
 ## Teiginiai
 
+<a id="claim-t-02963"></a>
 - t-001
+  global_id: t-02963
   teiginys: 'Bažnytinė unija sukiršino rytų apeigų unitus ir pravoslavus ir paruošė dirvą Maskvos įsikišimui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182938"></a>
 - t-002
+  global_id: t-182938
   teiginys: 'Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius (unitus su pravoslavais) ir paruošė dirvą vėlesnėms audroms ir Maskvos įsikišimui.'
   pagrindžia:
     - c-002

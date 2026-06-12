@@ -25,7 +25,9 @@ Nöbel : Michael Küchmeister.
 
 ## Teiginiai
 
+<a id="claim-t-31848"></a>
 - t-001
+  global_id: t-31848
   teiginys: 'W. Nöbelio veikalas „Michael Küchmeister. Hochmeister des Deutschen Ordens 1414-1422“ minimas kaip 1969 m. penktojo tomo publikacija.'
   pagrindžia:
     - c-001

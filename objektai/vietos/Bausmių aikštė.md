@@ -17,7 +17,9 @@ Aikštė, kur bausti nusikaltėliai.
 
 ## Teiginiai
 
+<a id="claim-t-86171"></a>
 - t-001
+  global_id: t-86171
   teiginys: 'Aikštė, kur bausti nusikaltėliai.'
   pagrindžia:
     - c-001

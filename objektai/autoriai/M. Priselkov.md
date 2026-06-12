@@ -25,12 +25,16 @@ Priselkova, Maskva 1950. Priselkov, M.
 
 ## Teiginiai
 
+<a id="claim-t-30846"></a>
 - t-001
+  global_id: t-30846
   teiginys: 'M. D. Priselkovas rekonstravo Troickajos metraštį, 1950 m. išleistą Maskvoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-30847"></a>
 - t-002
+  global_id: t-30847
   teiginys: 'M. Priselkovas kartu su M. Fasmeriu paskelbė darbą apie V. N. Beneševičiaus ištraukas iš XIV a. Rusios bažnyčios istorijos.'
   pagrindžia:
     - c-001

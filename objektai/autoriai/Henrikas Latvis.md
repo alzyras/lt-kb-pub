@@ -27,17 +27,23 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
 
 ## Teiginiai
 
+<a id="claim-t-171490"></a>
 - t-001
+  global_id: t-171490
   teiginys: 'Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją, nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-171491"></a>
 - t-002
+  global_id: t-171491
   teiginys: 'Henrikas Latvis priklauso XIII a. Livonijos šaltiniams, kurie liudija gerą pagonių lietuvių apsiginklavimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-171493"></a>
 - t-003
+  global_id: t-171493
   teiginys: 'Henrikas Latvis „Livonijos kronikoje“ aprašė Lietuvos valdžios siekį valdyti vietos krikščionių ir pagonių gentis.'
   pagrindžia:
     - c-001

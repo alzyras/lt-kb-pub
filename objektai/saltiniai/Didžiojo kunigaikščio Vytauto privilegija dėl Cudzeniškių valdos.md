@@ -18,7 +18,9 @@ Ducis Withowdi super bona Tudeniski [Didžiojo kunigaikščio Vytauto privilegij
 
 ## Teiginiai
 
+<a id="claim-t-88247"></a>
 - t-001
+  global_id: t-88247
   teiginys: 'Ducis Withowdi super bona Tudeniski [Didžiojo kunigaikščio Vytauto privilegija dėl Cudzeniškių valdos].'
   pagrindžia:
     - c-001

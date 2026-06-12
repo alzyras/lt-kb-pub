@@ -39,27 +39,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75404"></a>
 - t-001
+  global_id: t-75404
   teiginys: 'Vyskupas Motiejus Valančius savo pirmąjį inauguracinį pamokslą sakė ir lietuviškai, ir lenkiškai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75405"></a>
 - t-002
+  global_id: t-75405
   teiginys: 'Lietuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo bene pirmą kartą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75406"></a>
 - t-003
+  global_id: t-75406
   teiginys: 'M. Valančius ragino kunigus gerbti lietuviškai kalbančią liaudį, mokytis lietuvių kalbos, sakyti lietuviškus pamokslus ir steigti lietuviškas mokyklas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75407"></a>
 - t-004
+  global_id: t-75407
   teiginys: 'Pirmąjį inauguracinį pamokslą vyskupas M. Valančius sakė ir lietuviškai, ir lenkiškai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75408"></a>
 - t-005
+  global_id: t-75408
   teiginys: 'Motiejus Valančius rūpinosi, kad kunigai mokėtų lietuviškai, sakytų lietuviškus pamokslus ir prie bažnyčių steigtų lietuviškas mokyklas.'
   pagrindžia:
     - c-001

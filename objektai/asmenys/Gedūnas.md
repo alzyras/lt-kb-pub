@@ -19,17 +19,23 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
 
 ## Teiginiai
 
+<a id="claim-t-60016"></a>
 - t-001
+  global_id: t-60016
   teiginys: 'Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą, vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama Kandeimu, gerai žinojusį visą Sembos karių galią.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60017"></a>
 - t-002
+  global_id: t-60017
   teiginys: 'Dusburgietis teigia, kad gedūnas vis dėlto per daug delsė, nežinodamas, kokie staigūs karo žygyje būna teutonai, todėl, sugrįžęs pas savuosius, rado savo bei saviškių kiemus sudegintus, o visą savo ir saviškių šeimyną, be to, savo brolį, vardu Ringėlas, ir visus savo gimines išžudytus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60018"></a>
 - t-003
+  global_id: t-60018
   teiginys: 'Dusburgietis teigia, kad gedūnas atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.'
   pagrindžia:
     - c-001

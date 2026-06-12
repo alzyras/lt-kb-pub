@@ -47,12 +47,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-45465"></a>
 - t-001
+  global_id: t-45465
   teiginys: 'Alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45467"></a>
 - t-003
+  global_id: t-45467
   teiginys: 'Rusų kalba Rusijos imperijos priespaudos laikų švietimą lietuvių kalba vaizduojanti alegorinė skulptūra „Lietuvos mokykla 1864–1904“.'
   pagrindžia:
     - c-002

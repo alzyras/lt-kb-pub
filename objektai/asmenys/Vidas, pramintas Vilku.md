@@ -25,7 +25,9 @@ Tasai Dovilas ar Dovydas turėjo būti pir­ masis Vilniaus kunigaikštis, Vido,
 
 ## Teiginiai
 
+<a id="claim-t-87589"></a>
 - t-001
+  global_id: t-87589
   teiginys: 'Vidas, pramintas Vilku, buvo pirmojo Vilniaus kunigaikščio Dovilo arba Dovydo sūnus.'
   pagrindžia:
     - c-001

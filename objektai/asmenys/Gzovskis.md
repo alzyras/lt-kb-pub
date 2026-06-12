@@ -18,7 +18,9 @@ Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir p
 
 ## Teiginiai
 
+<a id="claim-t-87907"></a>
 - t-001
+  global_id: t-87907
   teiginys: 'Gzovskis saugojo karalienės Barboros apdarus, kurie vėliau turėjo būti perduoti karalaitei Onai.'
   pagrindžia:
     - c-001

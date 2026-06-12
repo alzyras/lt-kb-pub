@@ -17,7 +17,9 @@ Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
 
 ## Teiginiai
 
+<a id="claim-t-87748"></a>
 - t-001
+  global_id: t-87748
   teiginys: 'M. Balinskis skaitytojams pristatė Karolinos Praniauskaitės poeziją kartu su Žemaitijos kultūriniu sąjūdžiu.'
   pagrindžia:
     - c-001

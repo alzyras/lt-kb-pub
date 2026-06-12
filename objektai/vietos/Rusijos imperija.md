@@ -24,17 +24,23 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
 
 ## Teiginiai
 
+<a id="claim-t-47170"></a>
 - t-001
+  global_id: t-47170
   teiginys: '1905 m. pradžioje Rusijos sostinėje prasidėjusi socialinė demokratinė revoliucija netrukus pasiekė Lietuvos miestus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-47171"></a>
 - t-002
+  global_id: t-47171
   teiginys: 'Tačiau pirmasis visuotinis Rusijos imperijos gyventojų surašymas 1897 m. parodė, kad tarp etninių lietuvių mokančių skaityti yra bemaž pusė – 48 proc., o rusiškai iš jų tepaskaitė tik kas penktas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-47172"></a>
 - t-003
+  global_id: t-47172
   teiginys: 'Rusijos imperijos valdžia 40 metų laikėsi politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse, bet nepasiekė tikėtų rezultatų.'
   pagrindžia:
     - c-001

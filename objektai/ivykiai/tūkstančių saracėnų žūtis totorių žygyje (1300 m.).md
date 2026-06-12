@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59475"></a>
 - t-001
+  global_id: t-59475
   teiginys: 'Dusburgietis teigia, kad apie 200 tūkstančių saracėnų žūtį 1300 viešpaties metais totoriai, leidęsi į žygį iš savo sodybų, užpuolė saracėnus pirmiausia Kapadokijoje, po to Seleukijos, arba Antiochijos, žemėje, vėliau Didžiojoje bei Mažojoje Armėnijoje, o po to visoje žadėtoje žemėje.'
   pagrindžia:
     - c-001

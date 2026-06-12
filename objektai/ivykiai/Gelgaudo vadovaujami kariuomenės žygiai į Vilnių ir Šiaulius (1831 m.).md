@@ -35,27 +35,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66547"></a>
 - t-001
+  global_id: t-66547
   teiginys: 'Rusams atsiėmus Ukmergę, Jonavą ir Šiaulius, sukilėlių vadai nutarė pulti Šiaulius, bet nesėkmė dar labiau numušė nuotaiką.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66548"></a>
 - t-002
+  global_id: t-66548
   teiginys: 'Reguliariosios kariuomenės Lietuvoje likus tik Dembinskio rinktinei, Dembinskis prasimušė iki Varšuvos ir buvo paskirtas jos gubernatoriumi.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66549"></a>
 - t-003
+  global_id: t-66549
   teiginys: 'Po Gelgaudo nušovimo Rohlandas su savo būriu padėjo ginklus ir po kelių dienų perėjo į Prūsiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66550"></a>
 - t-004
+  global_id: t-66550
   teiginys: 'Gelgaudo vadovaujami kariuomenės žygiai į Vilnių ir Šiaulius (1831 m.): tada Kuršėnuose įvyko paskutinis vadų pa- sitarimas, kur pasirodė di- džiausia tarp jų nesantar- vė: vieni kitiems prikai- šiojo, kiekvienas norėjo vadovauti, bet nieko neveikė, tiktai paradavo ir puotavo. Krašto bajorija buvo labai nepatenkinta generolais..'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66551"></a>
 - t-005
+  global_id: t-66551
   teiginys: 'Po nesėkmingo Šiaulių puolimo Kuršėnuose įvykusiame vadų pasitarime generolai nutarė perskirti savo jėgas.'
   pagrindžia:
     - c-002

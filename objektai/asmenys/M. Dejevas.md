@@ -26,17 +26,23 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
 
 ## Teiginiai
 
+<a id="claim-t-40311"></a>
 - t-001
+  global_id: t-40311
   teiginys: 'Plk. M. Dejevas žuvo per ataką, kai priešą iš apdegusių pastatų apšaudė Užupio gyventojai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40312"></a>
 - t-002
+  global_id: t-40312
   teiginys: 'Dejevo daliniai mėgino įsiveržti į miestą per Bernardinų bokštą ir Spaso vartus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-40313"></a>
 - t-003
+  global_id: t-40313
   teiginys: 'Plk. M. Dejevas vadovavo B. Knorringo į Paupį pasiųstiems batalionams.'
   pagrindžia:
     - c-001

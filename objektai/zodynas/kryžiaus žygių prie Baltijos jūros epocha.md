@@ -25,7 +25,9 @@ Nuo tada prasidėjo kruvina kryžiaus žygių prie Baltijos jūros epocha, kurio
 
 ## Teiginiai
 
+<a id="claim-t-42475"></a>
 - t-001
+  global_id: t-42475
   teiginys: 'Kryžiaus žygių prie Baltijos jūros epocha prasidėjo 1202 m., dabartinėje Latvijos teritorijoje įsikūrus Kalavijuočių ordinui.'
   pagrindžia:
     - c-001

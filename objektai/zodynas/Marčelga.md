@@ -23,7 +23,9 @@ Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
 
+<a id="claim-t-07656"></a>
 - t-001
+  global_id: t-07656
   teiginys: 'Marčelga buvo jaunojo palydos vyresnysis arba gaspadorius, taip vadintas todėl, kad martavo marčią.'
   pagrindžia:
     - c-001

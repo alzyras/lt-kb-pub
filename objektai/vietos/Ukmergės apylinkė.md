@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-28484"></a>
 - t-001
+  global_id: t-28484
   teiginys: '1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Dusburgietis teigia, kad pakliuvo į nelaisvę ir brolis Oteris, tačiau neilgai
 
 ## Teiginiai
 
+<a id="claim-t-60398"></a>
 - t-001
+  global_id: t-60398
   teiginys: 'Dusburgietis teigia, kad pakliuvo į nelaisvę ir brolis Oteris, tačiau neilgai trukus jam pavyko stebuklingai išsigelbėti.'
   pagrindžia:
     - c-001

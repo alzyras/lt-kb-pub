@@ -24,7 +24,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-09681"></a>
 - t-001
+  global_id: t-09681
   teiginys: 'Bokšto gynėjams esant mažiau, žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę“.'
   pagrindžia:
     - c-001

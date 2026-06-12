@@ -18,12 +18,16 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
 
 ## Teiginiai
 
+<a id="claim-t-22235"></a>
 - t-001
+  global_id: t-22235
   teiginys: 'Lenkų organinis nacionalizmas etniniams lietuviams numatė etninės kultūrinės mažumos statusą Lenkijos valstybėje arba autonominėje Lenkijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183449"></a>
 - t-002
+  global_id: t-183449
   teiginys: 'Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kurių lyderis visų lenkų žemių mastu Romanas Dmovskis (Roman Dmowski) vadovavosi lenkų organinio nacionalizmo doktrina.'
   pagrindžia:
     - c-001

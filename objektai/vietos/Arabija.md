@@ -18,7 +18,9 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
 
 ## Teiginiai
 
+<a id="claim-t-34165"></a>
 - t-001
+  global_id: t-34165
   teiginys: 'Aprašyto keliautojo maršrutas driekėsi per Arabiją, Afriką ir Mezopotamiją.'
   pagrindžia:
     - c-001

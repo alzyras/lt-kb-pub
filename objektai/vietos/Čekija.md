@@ -19,7 +19,6 @@ amziai:
   - 'XV'
   - 'XXI'
 ---
-
 # Čekija
 
 ## Santrauka
@@ -28,23 +27,31 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-182878"></a>
 - t-001
+  global_id: t-182878
   teiginys: 'Su 5000-7000 vyrų jis nusiuntė Čekijon Jogailos brolio KaributoDimitro narsų sūnų Zigmantą Kaributaitį, ten vadinamą tiesiog « Kaributu ».'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184326"></a>
 - t-002
+  global_id: t-184326
   teiginys: 'Vytautas Didysis į Čekiją su kariuomene nusiuntė Zigmantą Kaributą padėti husitams kovoti su imperatoriumi Zigmantu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184408"></a>
 - t-003
+  global_id: t-184408
   teiginys: 'Vytautas galėjo įsikišti į husitų reikalus Čekijoje, kurią Zigmantas siekė paveldėti po Vaclovo mirties 1419 m.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185214"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad m at, m irus b ev aik iam V ladislovui, Čekijos karaliui, kurio seserį buvo vedęs, m anė, jog g im in y stės teisėmis galėsiąs tą karalystę pa imti sau arb a k u riam savo sūnui.'
+  global_id: t-185214
+  teiginys: 'Mirus bevaikiam Čekijos karaliui Vladislovui, Kazimieras manė galėsiąs giminystės teisėmis paimti Čekiją sau arba sūnui.'
   pagrindžia:
     - c-004
 
@@ -102,7 +109,7 @@ amziai:
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad m at, m irus b ev aik iam V ladislovui, Čekijos karaliui, kurio seserį buvo vedęs, m anė, jog g im in y stės teisėmis galėsiąs tą karalystę pa imti sau arb a k u riam savo sūnui.'
+  santrauka: 'Mirus bevaikiam Čekijos karaliui Vladislovui, Kazimieras manė galėsiąs giminystės teisėmis paimti Čekiją sau arba sūnui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     N ei

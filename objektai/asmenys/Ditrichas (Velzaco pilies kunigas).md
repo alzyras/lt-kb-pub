@@ -26,7 +26,9 @@ Dusburgietis teigia, kad apie vieną brolį Tais 1295 metais vienas negalės nuk
 
 ## Teiginiai
 
+<a id="claim-t-60264"></a>
 - t-001
+  global_id: t-60264
   teiginys: 'Dusburgietis teigia, kad apie vieną brolį Tais 1295 metais vienas negalės nukamuotas Velzaco pilies brolis, mirties akivaizdoje puolęs broliui kunigui Ditrichui ant krūtinės, ilgokai išbuvo ekstazėje ir pamatė daug nuostabių dalykų.'
   pagrindžia:
     - c-001

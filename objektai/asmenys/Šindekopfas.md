@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Šindekopfas
 
 ## Santrauka
 
-Kojelavičius teigia, kad su grįžęs po to į Prūsiją, paragino maršalą Šindekopfą, ne seniai sutelktos kariuomenės vadą, vėl žygiuoti į Lie tuvą— ir tam, kad nauja pilis būtų geriau ginama, ir tam, kad priešas, nuniokojus jo valdas, būtų toliau nustumtas. Kojelavičius teigia, kad nuliūdęs ir pasipiktinęs Šindekopfas patraukė su kariuomene prie Bajorų pilaitės ir netrukus ją už grobė.
+Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, kad būtų ginama nauja pilis ir nustumtas priešas. Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.
 
 ## Teiginiai
 
+<a id="claim-t-186090"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad su grįžęs po to į Prūsiją, paragino maršalą Šindekopfą, ne seniai sutelktos kariuomenės vadą, vėl žygiuoti į Lie tuvą— ir tam, kad nauja pilis būtų geriau ginama, ir tam, kad priešas, nuniokojus jo valdas, būtų toliau nustumtas.'
+  global_id: t-186090
+  teiginys: 'Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, kad būtų ginama nauja pilis ir nustumtas priešas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186091"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad nuliūdęs ir pasipiktinęs Šindekopfas patraukė su kariuomene prie Bajorų pilaitės ir netrukus ją už grobė.'
+  global_id: t-186091
+  teiginys: 'Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad su grįžęs po to į Prūsiją, paragino maršalą Šindekopfą, ne seniai sutelktos kariuomenės vadą, vėl žygiuoti į Lie tuvą— ir tam, kad nauja pilis būtų geriau ginama, ir tam, kad priešas, nuniokojus jo valdas, būtų toliau nustumtas.'
+  santrauka: 'Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, kad būtų ginama nauja pilis ir nustumtas priešas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Įkurdinęs čia
@@ -51,7 +54,7 @@ Kojelavičius teigia, kad su grįžęs po to į Prūsiją, paragino maršalą Š
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad nuliūdęs ir pasipiktinęs Šindekopfas patraukė su kariuomene prie Bajorų pilaitės ir netrukus ją už grobė.'
+  santrauka: 'Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat Algirdas ir Kęs­
@@ -75,3 +78,11 @@ Kojelavičius teigia, kad su grįžęs po to į Prūsiją, paragino maršalą Š
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/paprociai/Abipusis laisvėn paleistų belaisvių grąžinimas per taikos derybas]]
+- [[objektai/ivykiai/Bajorų pilaitės užėmimas ir belaisvių sudeginimas]]

@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86242"></a>
 - t-001
+  global_id: t-86242
   teiginys: 'Taurijos chanas Mendli Girėjus veikė prieš Aleksandrą ir nukreipė jo dėmesį į save.'
   pagrindžia:
     - c-001

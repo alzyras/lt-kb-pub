@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31530"></a>
 - t-001
+  global_id: t-31530
   teiginys: '1951 m. J. A. V. lietuvių kolonijose buvo dėmesingai švenčiama Mindaugo krikšto 700 metų sukaktis.'
   pagrindžia:
     - c-001

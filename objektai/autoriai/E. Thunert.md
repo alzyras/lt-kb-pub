@@ -18,7 +18,9 @@ Thunert, E.
 
 ## Teiginiai
 
+<a id="claim-t-30599"></a>
 - t-001
+  global_id: t-30599
   teiginys: 'E. Thunert 1886 m. paskelbė darbą apie 1410 m. Lenkijos ir Vokiečių ordino karą iki 1411 m. vasario.'
   pagrindžia:
     - c-001

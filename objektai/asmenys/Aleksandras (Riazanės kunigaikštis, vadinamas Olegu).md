@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)
 
 ## Santrauka
 
-Kojelavičius teigia, kad dimitrą su žmona bei vaikais išsiuntė į Vilnių, čia jį ilgam uždarė Aukštuti nėje pilyje, o į laisvę paleido, kai Aleksandras (žmonių vadinamas Olegu), Riazanės kunigaikštis, karštomis maldomis jį užstojo ir, davęs užstatą, laidavo jam Vy tauto palankumą.
+Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laidavo jam Vytauto palankumą.
 
 ## Teiginiai
 
+<a id="claim-t-186173"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad dimitrą su žmona bei vaikais išsiuntė į Vilnių, čia jį ilgam uždarė Aukštuti nėje pilyje, o į laisvę paleido, kai Aleksandras (žmonių vadinamas Olegu), Riazanės kunigaikštis, karštomis maldomis jį užstojo ir, davęs užstatą, laidavo jam Vy tauto palankumą.'
+  global_id: t-186173
+  teiginys: 'Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laidavo jam Vytauto palankumą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad dimitrą su žmona bei vaikais išsiuntė į Vilnių, čia jį ilgam uždarė Aukštuti nėje pilyje, o į laisvę paleido, kai Aleksandras (žmonių vadinamas Olegu), Riazanės kunigaikštis, karštomis maldomis jį užstojo ir, davęs užstatą, laidavo jam Vy tauto palankumą.'
+  santrauka: 'Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laidavo jam Vytauto palankumą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to, kai visas Se-
@@ -52,3 +53,7 @@ Kojelavičius teigia, kad dimitrą su žmona bei vaikais išsiuntė į Vilnių, 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]

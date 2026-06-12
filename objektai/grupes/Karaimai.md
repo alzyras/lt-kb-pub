@@ -28,42 +28,58 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 
 ## Teiginiai
 
+<a id="claim-t-120184"></a>
 - t-001
+  global_id: t-120184
   teiginys: 'Karaimai į Lietuvą atkeliavo iš rytų, o jų atvykimas šaltinyje siejamas su Vytauto valdymo laikais.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-120185"></a>
 - t-002
+  global_id: t-120185
   teiginys: 'Trakuose gyvenę karaimai vertėsi daržininkyste ir agurkus vežė į Vilniaus turgus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-120186"></a>
 - t-003
+  global_id: t-120186
   teiginys: 'Karaimų atvykimas į Lietuvą priskiriamas Vytauto viešpatavimo laikams.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-120187"></a>
 - t-004
+  global_id: t-120187
   teiginys: 'Karaimų etninė bendruomenė ir religija LDK buvo toleruojamos nuo XIV a. pabaigos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-120188"></a>
 - t-005
+  global_id: t-120188
   teiginys: 'Kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-120189"></a>
 - t-006
+  global_id: t-120189
   teiginys: 'Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-120190"></a>
 - t-007
+  global_id: t-120190
   teiginys: 'Per 1398 m. Vytauto žygį paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-183139"></a>
 - t-008
+  global_id: t-183139
   teiginys: 'Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.'
   pagrindžia:
     - c-007

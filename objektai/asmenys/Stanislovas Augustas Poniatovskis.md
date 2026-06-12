@@ -29,37 +29,51 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 
 ## Teiginiai
 
+<a id="claim-t-170087"></a>
 - t-001
+  global_id: t-170087
   teiginys: '1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-170088"></a>
 - t-002
+  global_id: t-170088
   teiginys: 'Stanislovas Augustas Poniatovskis buvo išrinktas LLV valdovu, o jo valdymo laikas 1764–1795 m. tapo permainų, reformų bandymų ir valstybės agonijos epocha.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-170089"></a>
 - t-003
+  global_id: t-170089
   teiginys: 'Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisakymo) aktas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-170092"></a>
 - t-004
+  global_id: t-170092
   teiginys: 'O prie Varšuvos viskas atsirėmė į Stanislovo Augusto poziciją, kuris taip ir nepasirodė fronte ir neišnaudojo visuotinės mobilizacijos, nesuformavo miestiečių milicijos.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-170093"></a>
 - t-005
+  global_id: t-170093
   teiginys: 'Stanislovo Augusto veiksmai su Rusijos ambasada Varšuvoje prisidėjo prie jo politinio fiasko 1795 metais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-170094"></a>
 - t-006
+  global_id: t-170094
   teiginys: 'Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdomame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-170095"></a>
 - t-007
+  global_id: t-170095
   teiginys: 'Istorija pasmerkė susitaikėlišką Stanislovo Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos kare su Rusija toli gražu nebuvo išsemtos.'
   pagrindžia:
     - c-006

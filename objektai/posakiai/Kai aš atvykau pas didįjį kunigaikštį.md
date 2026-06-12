@@ -25,7 +25,9 @@ Ta­ me laiške be kitų dalykų jisai rašo: „Kai aš atvykau pas didįjį ku
 
 ## Teiginiai
 
+<a id="claim-t-95941"></a>
 - t-001
+  global_id: t-95941
   teiginys: 'Henne, keliavęs su Vytautu, atvykęs pas didįjį kunigaikštį rado Vytautą ketvirtą kartą ilsintis kelionėje iš Trakų į Smolenską.'
   pagrindžia:
     - c-001

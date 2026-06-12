@@ -19,17 +19,23 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
 
 ## Teiginiai
 
+<a id="claim-t-87408"></a>
 - t-001
+  global_id: t-87408
   teiginys: 'Mikalojus Moskoževskis, išvargintas karo rūpesčių ir Skirgailos įnorių, grąžino karaliui Vilniaus seniūno pareigas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87409"></a>
 - t-002
+  global_id: t-87409
   teiginys: 'Mikalojus Moskoževskis gindamas pilį atakas atremdavo staigiais išpuoliais ir apsukriai taisydavo priešo padarytą žalą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87410"></a>
 - t-003
+  global_id: t-87410
   teiginys: 'Mikalojus Moskoževskis Aukštutinėje pilyje vadovavo lenkų gynybai ir penkias savaites atlaikė kryžiuočių antpuolius.'
   pagrindžia:
     - c-001

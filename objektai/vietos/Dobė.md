@@ -24,7 +24,9 @@ Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiem�
 
 ## Teiginiai
 
+<a id="claim-t-32137"></a>
 - t-001
+  global_id: t-32137
   teiginys: '1259-1260 m. žiemą Žiemgaloje buvo pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai negalėjo įveikti.'
   pagrindžia:
     - c-001

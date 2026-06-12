@@ -19,7 +19,9 @@ Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštut
 
 ## Teiginiai
 
+<a id="claim-t-87808"></a>
 - t-001
+  global_id: t-87808
   teiginys: 'Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.'
   pagrindžia:
     - c-001

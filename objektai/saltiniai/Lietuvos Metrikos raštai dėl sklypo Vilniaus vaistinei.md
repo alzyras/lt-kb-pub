@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88446"></a>
 - t-001
+  global_id: t-88446
   teiginys: 'Lietuvos Metrikos sąraše buvo raštai apie sklypą, kurį karalius Žygimantas apie 1510 m. nupirko Vilniaus vaistinės statybai.'
   pagrindžia:
     - c-001

@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40720"></a>
 - t-001
+  global_id: t-40720
   teiginys: 'Iž-54 buvo SSRS gamybos lygiavamzdis 12 kalibro dvivamzdis medžioklinis šautuvas, naudotas 1991 m. parlamento rūmų gynybos savanorio.'
   pagrindžia:
     - c-001

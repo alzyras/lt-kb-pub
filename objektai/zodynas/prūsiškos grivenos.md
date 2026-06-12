@@ -24,7 +24,9 @@ Tų anuomet garsių vaišių parengi­ mas ir žygio išlaidos, pasak kai kurių
 
 ## Teiginiai
 
+<a id="claim-t-86612"></a>
 - t-001
+  global_id: t-86612
   teiginys: '1392 m. Kauno iškilmių parengimas ir žygio išlaidos, pasak metraštininkų, siekė beveik 500 000 prūsiškų grivenų.'
   pagrindžia:
     - c-001

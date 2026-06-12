@@ -39,17 +39,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-45352"></a>
 - t-001
+  global_id: t-45352
   teiginys: 'Lietuvos sovietizacija 1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietuvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu okupuotos ir dvi gretimos Baltijos valstybės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-45353"></a>
 - t-002
+  global_id: t-45353
   teiginys: '1940 m. birželio 16 d. sovietų divizijos per Lietuvą atkirtusios Latviją ir Estiją nuo Vokietijos greitai okupavo abi Baltijos valstybes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45354"></a>
 - t-003
+  global_id: t-45354
   teiginys: '1940 m. birželio 16 d. sovietų divizijoms per Lietuvą atkirtus Latviją ir Estiją nuo Vokietijos, abi valstybės buvo greitai okupuotos.'
   pagrindžia:
     - c-001

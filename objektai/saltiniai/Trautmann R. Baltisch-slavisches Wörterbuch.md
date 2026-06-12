@@ -22,7 +22,9 @@ Dusburgietis teigia, kad trautmann R.
 
 ## Teiginiai
 
+<a id="claim-t-61324"></a>
 - t-001
+  global_id: t-61324
   teiginys: 'R. Trautmanno „Baltisch-slavisches Wörterbuch“ išleistas Göttingene 1923 m.'
   pagrindžia:
     - c-001

@@ -25,12 +25,16 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
 
 ## Teiginiai
 
+<a id="claim-t-86723"></a>
 - t-001
+  global_id: t-86723
   teiginys: 'Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86724"></a>
 - t-002
+  global_id: t-86724
   teiginys: 'IX amžiuje Rusioje variagais vadinti normanai iš Skandinavijos Baltijos pakrantėse siekė plėšikavimo ir prekybos.'
   pagrindžia:
     - c-001

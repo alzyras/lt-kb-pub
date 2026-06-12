@@ -41,22 +41,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75194"></a>
 - t-001
+  global_id: t-75194
   teiginys: 'Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir jo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės pamatus grindė LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75195"></a>
 - t-002
+  global_id: t-75195
   teiginys: 'Konstitucija skelbė Lietuvą demokratine respublika, kurios suverenitetas priklauso tautai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75196"></a>
 - t-003
+  global_id: t-75196
   teiginys: '1992 m. spalio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183257"></a>
 - t-004
+  global_id: t-183257
   teiginys: 'Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį.'
   pagrindžia:
     - c-004

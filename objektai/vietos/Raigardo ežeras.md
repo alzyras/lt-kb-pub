@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-32497"></a>
 - t-001
+  global_id: t-32497
   teiginys: 'Raigardo ežeras buvo perpus dalijamas aprašytos sienos linijos.'
   pagrindžia:
     - c-001

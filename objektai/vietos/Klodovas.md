@@ -19,7 +19,9 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
 
 ## Teiginiai
 
+<a id="claim-t-86198"></a>
 - t-001
+  global_id: t-86198
   teiginys: 'Turtinga Klodovo klebonija Gniezno diecezijoje buvo anksčiau duota naujajam Vilniaus vyskupui.'
   pagrindžia:
     - c-001

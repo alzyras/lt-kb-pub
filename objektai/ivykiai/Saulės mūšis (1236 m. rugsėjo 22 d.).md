@@ -42,48 +42,66 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-10287"></a>
 - t-001
+  global_id: t-10287
   teiginys: '1236 m. rugsėjį į Lietuvą įžengė didžiulės Kalavijuočių ordino ir Europos kryžininkų pajėgos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-10288"></a>
 - t-002
+  global_id: t-10288
   teiginys: 'Saulės žemėje lietuviai užmušė 50 ordino brolių ir daugybę tikratikių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-10289"></a>
 - t-003
+  global_id: t-10289
   teiginys: 'Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-10290"></a>
 - t-004
+  global_id: t-10290
   teiginys: '1236 m. pergalė Šiaulių žemėje buvo laikoma itin reikšminga Lietuvos ir viso regiono raidai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66877"></a>
 - t-005
-  teiginys: 'Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai.'
+  global_id: t-66877
+  teiginys: 'Saulės mūšis įvyko ties Šiauliais ir jį laimėjo lietuviai.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-66879"></a>
 - t-006
+  global_id: t-66879
   teiginys: 'Ivinskis Saulės mūšį lokalizuoja prie Saulės, Šiaulių srityje, ir datuoja 1236 m. rugsėjo 22 d.'
   pagrindžia:
     - c-007
     - c-008
 
+<a id="claim-t-66880"></a>
 - t-007
+  global_id: t-66880
   teiginys: '1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-66881"></a>
 - t-008
-  teiginys: 'Skaudžiai pralaimėję šitą mūšį, likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą.'
+  global_id: t-66881
+  teiginys: 'Po pralaimėto Saulės mūšio likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-66882"></a>
 - t-009
+  global_id: t-66882
   teiginys: '1236 m. rugsėjo 22 d. prie Saulės Vykinto vadovaujami būriai sumušė grįžtančius riterius; žuvo Volkevinas ir 48 riteriai.'
   pagrindžia:
     - c-008
@@ -160,6 +178,7 @@ Nenurodyta
     - t-004
 
 - c-005
+  santrauka: 'Saulės mūšis įvyko ties Šiauliais ir jį laimėjo lietuviai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ties Šiauliais įvyko didelis mūšis, kurį
@@ -233,6 +252,7 @@ Nenurodyta
     - t-009
 
 - c-009
+  santrauka: 'Po pralaimėto Saulės mūšio likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš visos jų kariuomenės, kaip rašo

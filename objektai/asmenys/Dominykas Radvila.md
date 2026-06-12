@@ -24,7 +24,9 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 
 ## Teiginiai
 
+<a id="claim-t-87655"></a>
 - t-001
+  global_id: t-87655
   teiginys: 'Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau įsigijo kaip nuosavybę.'
   pagrindžia:
     - c-001

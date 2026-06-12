@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Bidgoščius
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai pasidavė Bobrovnikai ir buvo išduotas Bidgoščius, po aštuonių dienų apsup ties užėmė Zlotoriją. Kojelavičius teigia, kad prie Radzejovo susijungusi kariuomenė pa traukė link Bidgoščiaus.
+Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties buvo užimta Zlotorija. Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus.
 
 ## Teiginiai
 
+<a id="claim-t-185259"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai pasidavė Bobrovnikai ir buvo išduotas Bidgoščius, po aštuonių dienų apsup ties užėmė Zlotoriją.'
+  global_id: t-185259
+  teiginys: 'Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties buvo užimta Zlotorija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185260"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad prie Radzejovo susijungusi kariuomenė pa traukė link Bidgoščiaus.'
+  global_id: t-185260
+  teiginys: 'Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai pasidavė Bobrovnikai ir buvo išduotas Bidgoščius, po aštuonių dienų apsup ties užėmė Zlotoriją.'
+  santrauka: 'Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties buvo užimta Zlotorija.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žiau­
@@ -44,7 +47,7 @@ Kojelavičius teigia, kad kai pasidavė Bobrovnikai ir buvo išduotas Bidgošči
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad prie Radzejovo susijungusi kariuomenė pa traukė link Bidgoščiaus.'
+  santrauka: 'Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mažosios Lenkijos bei Volynės ka­

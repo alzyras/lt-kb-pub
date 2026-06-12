@@ -17,7 +17,9 @@ Ir Rusijai ir lietuvių-lenkų respublikai Petro Didžiojo epocha, kuri sutapo s
 
 ## Teiginiai
 
+<a id="claim-t-31567"></a>
 - t-001
+  global_id: t-31567
   teiginys: 'Petro Didžiojo epocha sutapo su „saksų laikų“ pradžia ir lietuvių-lenkų respublikai reiškė visokeriopą silpnėjimą.'
   pagrindžia:
     - c-001

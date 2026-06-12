@@ -32,7 +32,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01945"></a>
 - t-001
+  global_id: t-01945
   teiginys: 'Per elekcijas lenkai paprastai susirinkdavo visi viritim, o lietuviai atsiųsdavo tik atstovus.'
   pagrindžia:
     - c-001

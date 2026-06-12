@@ -19,7 +19,9 @@ Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygand�
 
 ## Teiginiai
 
+<a id="claim-t-86219"></a>
 - t-001
+  global_id: t-86219
   teiginys: 'Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygandą, kad susirėmimas vykęs prie didelio Rudminne kaimo (das grosse dorf), mano, kad tai turėtų būti dabartinis Parudaminys, esantis nuo Vilniaus į pietvakarius.'
   pagrindžia:
     - c-001

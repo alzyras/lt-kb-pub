@@ -26,22 +26,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-181427"></a>
 - t-001
+  global_id: t-181427
   teiginys: 'Lemiamų kovų su bolševikais metu Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-181428"></a>
 - t-002
+  global_id: t-181428
   teiginys: '1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-181429"></a>
 - t-003
+  global_id: t-181429
   teiginys: 'Unitarinė, unifikacinė SSRS politika gerokai nusmukdė Latvijos ir Estijos lygį, bet leido pakilti Lietuvos lygiui, tad pagaliau visais parametrais pasivijome kaimynus ir gaminome tiek, kiek latviai ir estai kartu sudėjus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-181431"></a>
 - t-004
+  global_id: t-181431
   teiginys: 'ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
   pagrindžia:
     - c-002

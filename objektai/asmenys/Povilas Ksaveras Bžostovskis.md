@@ -23,17 +23,23 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
 
 ## Teiginiai
 
+<a id="claim-t-23214"></a>
 - t-001
+  global_id: t-23214
   teiginys: 'Povilas Ksaveras Bžostovskis 1769 m. įkūrė Paulavos respubliką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23215"></a>
 - t-002
+  global_id: t-23215
   teiginys: 'P. K. Bžostovskio įkurtos Paulavos respublikos įstatus 1791 m. patvirtino Ketverių metų seimas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-23216"></a>
 - t-003
+  global_id: t-23216
   teiginys: 'Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.'
   pagrindžia:
     - c-001

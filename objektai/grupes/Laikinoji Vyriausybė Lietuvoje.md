@@ -25,7 +25,9 @@ Lietuvoje analogišką manifestą 1863 m. vasario 1 d. paskelbė Lietuvos Provin
 
 ## Teiginiai
 
+<a id="claim-t-40980"></a>
 - t-001
+  global_id: t-40980
   teiginys: 'Lietuvoje analogišką manifestą 1863 m. vasario 1 d. paskelbė Lietuvos Provincijos komitetas, pasivadinęs Laikinąja Vyriausybe Lietuvoje.'
   pagrindžia:
     - c-001

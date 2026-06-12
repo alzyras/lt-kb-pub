@@ -41,27 +41,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-89398"></a>
 - t-001
+  global_id: t-89398
   teiginys: 'Dusburgietis teigia, kad vienas jų, būtent brolis Ditrichas iš Bernheimo, buvęs maršalas ir narsus vyras (jo krūtinėje plakė Ulikso širdis, o ranka buvo ne silpnesnė nei Hektoro), bei dar keturi broliai ir dvidešimt keturi ginklanešiai naktį (1242 gruodžio 3), šventos mergelės bei.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89399"></a>
 - t-002
+  global_id: t-89399
   teiginys: 'Perpasakodamas Sartovicų pilies užėmimą, Dusburgietis praleido šaltinio duomenis apie Ordino brolių plėšikavimą pilyje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89400"></a>
 - t-003
+  global_id: t-89400
   teiginys: 'Dusburgietis teigia, kad pakilę pasiėmė šią šventą relikviją ir džiūgaudami išėjo iš rūsio.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89401"></a>
 - t-004
+  global_id: t-89401
   teiginys: 'Brolis Ditrichas iš Sartovicų pilies išgabeno šv. Barboros relikvijas į Kulmą, kur jos buvo iškilmingai padėtos bažnyčioje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89402"></a>
 - t-005
+  global_id: t-89402
   teiginys: 'Dusburgietis teigia, kad šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta, tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.'
   pagrindžia:
     - c-002

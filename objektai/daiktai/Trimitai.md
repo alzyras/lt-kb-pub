@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-64996"></a>
 - t-001
+  global_id: t-64996
   teiginys: 'Trimitų balsas buvo lyginamas su variniais karo trūbais, o patys instrumentai dar minimi 1180 gudų raštuose.'
   pagrindžia:
     - c-001

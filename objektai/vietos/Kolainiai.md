@@ -9,7 +9,6 @@ atnaujinta: ''
 tags:
   - vieta
 ---
-
 # Kolainiai
 
 ## Santrauka
@@ -18,18 +17,24 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
 
 ## Teiginiai
 
+<a id="claim-t-02501"></a>
 - t-001
+  global_id: t-02501
   teiginys: 'Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183031"></a>
 - t-002
+  global_id: t-183031
   teiginys: 'Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo uždarytos, o Kražių mokykla perkelta į Kauną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184989"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad pirmiausia ėmėsi kariauti Meinhardas, Prūsijos magistras, apie balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos Nemuno pakrantėje esančią Lietuvos pilį.'
+  global_id: t-184989
+  teiginys: 'Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį prie Nemuno pakrantės arčiausiai Prūsijos.'
   pagrindžia:
     - c-002
 
@@ -54,7 +59,7 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad pirmiausia ėmėsi kariauti Meinhardas, Prūsijos magistras, apie balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos Nemuno pakrantėje esančią Lietuvos pilį.'
+  santrauka: 'Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį prie Nemuno pakrantės arčiausiai Prūsijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Už žalą, padarytą per šį niokojamą iš­

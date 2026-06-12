@@ -27,7 +27,9 @@ ir lenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­ džiu.
 
 ## Teiginiai
 
+<a id="claim-t-35039"></a>
 - t-001
+  global_id: t-35039
   teiginys: 'Boleslovo Maldingojo 1264 m. privilegijos buvo vienas iš pavyzdžių privilegijoms, pagal kurias žydai Lietuvoje gyveno ilgus šimtmečius.'
   pagrindžia:
     - c-001

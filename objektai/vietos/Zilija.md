@@ -18,7 +18,9 @@ Dusburgietis teigia, kad apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir 
 
 ## Teiginiai
 
+<a id="claim-t-58659"></a>
 - t-001
+  global_id: t-58659
   teiginys: 'Konradas iš Tirbergo su Ordino kariuomene įsiveržė į Sūduvos valsčių Ziliją ir jį nusiaubė.'
   pagrindžia:
     - c-001

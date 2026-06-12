@@ -25,7 +25,9 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
 
 ## Teiginiai
 
+<a id="claim-t-87816"></a>
 - t-001
+  global_id: t-87816
   teiginys: 'Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde.'
   pagrindžia:
     - c-001

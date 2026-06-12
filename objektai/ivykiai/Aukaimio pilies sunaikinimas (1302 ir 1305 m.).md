@@ -41,17 +41,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31406"></a>
 - t-001
+  global_id: t-31406
   teiginys: '1305 m. Svirtila išdavė Aukaimio pilį kryžiuočiams, kurie ją užėmė, išžudė rastus vyrus, o moteris ir vaikus paėmė į nelaisvę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-31407"></a>
 - t-002
+  global_id: t-31407
   teiginys: 'Riteriai 1302 ir 1305 m. du kartus paėmė ir sunaikino Aukaimio pilį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184337"></a>
 - t-003
+  global_id: t-184337
   teiginys: 'Tokiu būdu riteriai du kartu (1302 ir 1305) paėmė ir sunaikino Aukaimio pilį.'
   pagrindžia:
     - c-003

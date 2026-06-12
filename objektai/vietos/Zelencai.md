@@ -16,7 +16,9 @@ Birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė rusus, tačiau didel
 
 ## Teiginiai
 
+<a id="claim-t-42347"></a>
 - t-001
+  global_id: t-42347
   teiginys: 'Birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė rusus, bet spaudžiama didelių priešo pajėgų ATR kariuomenė traukėsi visu frontu.'
   pagrindžia:
     - c-001

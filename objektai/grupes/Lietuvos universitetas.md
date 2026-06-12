@@ -24,7 +24,9 @@ Laisvės sąlygomis sparčiai kilo švietimas, atsidarė naujų mokyklų, 1919 m
 
 ## Teiginiai
 
+<a id="claim-t-77829"></a>
 - t-001
+  global_id: t-77829
   teiginys: 'Laisvės sąlygomis sparčiai kilo švietimas, atsidarė naujų mokyklų, 1919 m. Lietuvoje jau veikė 1 036 mokyklos, jose buvo 45 540 mokinių, Aukštieji kursai Kaune netrukus peraugo į Lietuvos universitetą (atidarytas 1922 m. vasario 16 d.).'
   pagrindžia:
     - c-001

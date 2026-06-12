@@ -47,17 +47,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-93025"></a>
 - t-001
+  global_id: t-93025
   teiginys: 'Lietuvių bajorų aktas numatė, kad po Vytauto mirties lietuviai įgis teisę dalyvauti naujo kunigaikščio rinkimuose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-93026"></a>
 - t-002
+  global_id: t-93026
   teiginys: 'Lietuviai, mirus Vytautui, gavo teisę dalyvauti naujo kunigaikščio rinkimuose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-93027"></a>
 - t-003
+  global_id: t-93027
   teiginys: 'Lietuvių bajorų akte nustatyta, kad Jogailai mirus be įpėdinių Lenkija negalėtų rinktis karaliaus be Vytauto ir jo bajorų žinios.'
   pagrindžia:
     - c-002

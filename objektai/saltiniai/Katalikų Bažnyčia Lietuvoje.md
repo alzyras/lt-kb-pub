@@ -23,7 +23,9 @@ Aleknos «Katalikų Bažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šalt
 
 ## Teiginiai
 
+<a id="claim-t-31761"></a>
 - t-001
+  global_id: t-31761
   teiginys: 'A. Aleknos „Katalikų Bažnyčia Lietuvoje“ 1936 m. liudijo autoriaus gebėjimą kritiškai ir objektyviai vertinti šaltinius.'
   pagrindžia:
     - c-001

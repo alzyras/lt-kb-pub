@@ -26,12 +26,16 @@ Ivano Ganeckio rinktinėje buvo 5 kuopos pėstininkų, eskadronas ulonų, % eska
 
 ## Teiginiai
 
+<a id="claim-t-40145"></a>
 - t-001
+  global_id: t-40145
   teiginys: 'Ivano Ganeckio rinktinėje prieš Sierakausko sukilėlius buvo daugiau kaip 1500 karių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40146"></a>
 - t-002
+  global_id: t-40146
   teiginys: 'V. Nazimovas įsakė Ivanui Ganeckiui žygiuoti į Ukmergės apskritį Anykščių kryptimi ir sunaikinti ten susibūrusius sukilėlius.'
   pagrindžia:
     - c-002

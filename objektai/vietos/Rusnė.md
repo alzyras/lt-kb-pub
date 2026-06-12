@@ -18,7 +18,9 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 
 ## Teiginiai
 
+<a id="claim-t-32520"></a>
 - t-001
+  global_id: t-32520
   teiginys: 'Nustačius sieną, Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui trijų mylių atstumu nuo Nemuno ir marių.'
   pagrindžia:
     - c-001

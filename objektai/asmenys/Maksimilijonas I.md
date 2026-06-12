@@ -24,7 +24,9 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
 
 ## Teiginiai
 
+<a id="claim-t-40325"></a>
 - t-001
+  global_id: t-40325
   teiginys: 'Imperatorius Maksimilijonas I buvo sudaręs sąjungą su Maskva prieš Žygimantą Senąjį.'
   pagrindžia:
     - c-001

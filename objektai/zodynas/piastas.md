@@ -24,12 +24,16 @@ reikalavo atmesti „piasto" kandidatūrą (piastu tada buvo vadinamas kiekviena
 
 ## Teiginiai
 
+<a id="claim-t-52533"></a>
 - t-001
+  global_id: t-52533
   teiginys: 'Piastu tada buvo vadinamas kiekvienas kandidatas iš saviškių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-52534"></a>
 - t-002
+  global_id: t-52534
   teiginys: 'Elekcinio seimo metu piastu vadintas kiekvienas kandidatas iš saviškių.'
   pagrindžia:
     - c-001

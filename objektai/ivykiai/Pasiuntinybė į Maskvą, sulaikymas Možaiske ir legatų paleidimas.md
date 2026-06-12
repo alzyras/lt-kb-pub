@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad vasilijus pareiškė, kad tikrai trok štąs taikos, bet atsisakė tuo tikslu siųsti legatus. Kojelavičius teigia, kad karaliaus legatai jau keliavo namo, kai Maskvą pasiekė žinia, jog valachų pasiuntiniai sulai kyti ir nuvaryti į Vilnių, o Vasilijaus jiems priskirtas palydovas maskvėnas gavęs įsakymą grįžti į Maskvą. Kojelavičius teigia, kad štai todėl Vasilijus skubiai išsiuntė į Možaiską žygūną, įsakydamas tučtuojau pa leisti karaliaus legatus; netrukus jie laimingai ir su grįžo namo, neįžeisti tautos, kuri menkiausia proga be jokios gėdos galėjo pažeisti bet kurios tautos tei ses.
+Vasilijus pareiškė trokštantis taikos, bet atsisakė dėl jos siųsti legatus. Kai karaliaus legatai keliavo namo, Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą ir nuvarymą į Vilnių. Vasilijus išsiuntė žygūną į Možaiską ir įsakė tučtuojau paleisti karaliaus legatus, kurie netrukus grįžo namo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,25 +26,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185528"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vasilijus pareiškė, kad tikrai trok štąs taikos, bet atsisakė tuo tikslu siųsti legatus.'
+  global_id: t-185528
+  teiginys: 'Vasilijus pareiškė trokštantis taikos, bet atsisakė dėl jos siųsti legatus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185529"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad karaliaus legatai jau keliavo namo, kai Maskvą pasiekė žinia, jog valachų pasiuntiniai sulai kyti ir nuvaryti į Vilnių, o Vasilijaus jiems priskirtas palydovas maskvėnas gavęs įsakymą grįžti į Maskvą.'
+  global_id: t-185529
+  teiginys: 'Kai karaliaus legatai keliavo namo, Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą ir nuvarymą į Vilnių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185530"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad štai todėl Vasilijus skubiai išsiuntė į Možaiską žygūną, įsakydamas tučtuojau pa leisti karaliaus legatus; netrukus jie laimingai ir su grįžo namo, neįžeisti tautos, kuri menkiausia proga be jokios gėdos galėjo pažeisti bet kurios tautos tei ses.'
+  global_id: t-185530
+  teiginys: 'Vasilijus išsiuntė žygūną į Možaiską ir įsakė tučtuojau paleisti karaliaus legatus, kurie netrukus grįžo namo.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vasilijus pareiškė, kad tikrai trok štąs taikos, bet atsisakė tuo tikslu siųsti legatus.'
+  santrauka: 'Vasilijus pareiškė trokštantis taikos, bet atsisakė dėl jos siųsti legatus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vasilijus pareiškė, kad tikrai trok­
@@ -62,7 +67,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad karaliaus legatai jau keliavo namo, kai Maskvą pasiekė žinia, jog valachų pasiuntiniai sulai kyti ir nuvaryti į Vilnių, o Vasilijaus jiems priskirtas palydovas maskvėnas gavęs įsakymą grįžti į Maskvą.'
+  santrauka: 'Kai karaliaus legatai keliavo namo, Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą ir nuvarymą į Vilnių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Be to, sutarė teismų reikalus sutvarkyti iki
@@ -81,7 +86,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad štai todėl Vasilijus skubiai išsiuntė į Možaiską žygūną, įsakydamas tučtuojau pa leisti karaliaus legatus; netrukus jie laimingai ir su grįžo namo, neįžeisti tautos, kuri menkiausia proga be jokios gėdos galėjo pažeisti bet kurios tautos tei ses.'
+  santrauka: 'Vasilijus išsiuntė žygūną į Možaiską ir įsakė tučtuojau paleisti karaliaus legatus, kurie netrukus grįžo namo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Valachai buvę tik todėl pri­
@@ -105,3 +110,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Valachai]]
+- [[objektai/asmenys/Vasilijus]]
+- [[objektai/zodynas/legatai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/zodynas/žygūnas]]

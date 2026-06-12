@@ -29,12 +29,16 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
 
 ## Teiginiai
 
+<a id="claim-t-63621"></a>
 - t-001
+  global_id: t-63621
   teiginys: 'Henrikas VI buvo Anglijos karalius, kurio pasiuntinys Gilbert de Lannoy keliavo į Krymą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-63622"></a>
 - t-002
+  global_id: t-63622
   teiginys: 'Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras ir tamplierių ordino magistras, daugelis abiejų ordinų brolių ir.'
   pagrindžia:
     - c-003

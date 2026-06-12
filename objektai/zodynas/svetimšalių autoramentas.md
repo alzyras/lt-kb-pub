@@ -22,17 +22,23 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
 
 ## Teiginiai
 
+<a id="claim-t-78908"></a>
 - t-001
+  global_id: t-78908
   teiginys: 'Svetimšalių pėstinin- | kija daugiausia vadinta „vokiškąja“, jų pagrindą sudarė samdiniai iš vokiškų kraštų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78909"></a>
 - t-002
+  global_id: t-78909
   teiginys: 'Svetimšalių samdymas sistema tapo Vladislavo Vazos laikais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78910"></a>
 - t-003
+  global_id: t-78910
   teiginys: 'Svetimšalių regimentai, organizuoti Lietuvoje, pasirodė 1633 m. Regimentui vadovavo oberšteris (pulkininkas).'
   pagrindžia:
     - c-001

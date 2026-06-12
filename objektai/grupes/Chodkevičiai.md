@@ -24,17 +24,23 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 
 ## Teiginiai
 
+<a id="claim-t-19665"></a>
 - t-001
+  global_id: t-19665
   teiginys: '1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-19666"></a>
 - t-002
+  global_id: t-19666
   teiginys: '1605 m. prie Kirchholmo J. K. Chodkevičiaus vadovaujama LDK kariuomenė, turėjusi 3 tūkst. raitelių, nugalėjo 12 tūkst. švedų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183124"></a>
 - t-003
+  global_id: t-183124
   teiginys: 'Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje), turinti 3 tūkst.'
   pagrindžia:
     - c-003

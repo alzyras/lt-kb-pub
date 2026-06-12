@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88354"></a>
 - t-001
+  global_id: t-88354
   teiginys: 'Vytauto 1420 m. laiškas Romos imperatoriui Zigmantui minimas kaip patikimas šaltinis apie Lietuvos ir Žemaitijos tapatumą.'
   pagrindžia:
     - c-001

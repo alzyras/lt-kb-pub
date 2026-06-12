@@ -23,7 +23,9 @@ Dusburgietis teigia, kad rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijo
 
 ## Teiginiai
 
+<a id="claim-t-61267"></a>
 - t-001
+  global_id: t-61267
   teiginys: 'V. Abramavičius sudarė „Rankraščių rinkinius“, išleistus Vilniuje 1963 m.'
   pagrindžia:
     - c-001

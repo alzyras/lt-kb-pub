@@ -25,7 +25,9 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 
 ## Teiginiai
 
+<a id="claim-t-60437"></a>
 - t-001
+  global_id: t-60437
   teiginys: 'Spagerotė buvo vienas iš keturių prityrusių karių, kurių broliai neteko 1314 m. Sizditės pilies puolime.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-99998"></a>
 - t-001
+  global_id: t-99998
   teiginys: '27, 777-779 p. (^52) ĮVADAS kišką vertimą Žemaičių Vyskupystės, be kitko, teisingai pastebėjo apie šį veikalą: « Pasveikinti jį reikia su dėkingumu, kaip brangią žinių kasyklą (kopałnię)».'
   pagrindžia:
     - c-001

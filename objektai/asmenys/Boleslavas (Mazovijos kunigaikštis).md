@@ -26,7 +26,9 @@ Per viešpaties Mazovijos kunigaikščio Boleslavo kunigaikš­ tystę galės ki
 
 ## Teiginiai
 
+<a id="claim-t-87486"></a>
 - t-001
+  global_id: t-87486
   teiginys: '1323 m. laiške nurodyta, kad per Mazovijos kunigaikščio Boleslavo valdas buvo galima saugiai atvykti į Vilniuje valdomą žemę.'
   pagrindžia:
     - c-001

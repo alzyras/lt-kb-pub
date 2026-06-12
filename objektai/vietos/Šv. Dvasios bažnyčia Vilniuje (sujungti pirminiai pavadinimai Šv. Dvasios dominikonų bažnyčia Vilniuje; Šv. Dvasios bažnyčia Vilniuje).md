@@ -26,27 +26,37 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 
 ## Teiginiai
 
+<a id="claim-t-85988"></a>
 - t-001
+  global_id: t-85988
   teiginys: 'Šv. Dvasios dominikonų bažnyčioje buvo galima matyti karaliaus Aleksandro ir kunigo Korčiako portretus ant priešais stovinčių kolonų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-85989"></a>
 - t-002
+  global_id: t-85989
   teiginys: 'Hozijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos išlaidos, prie dominikonų Šv.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85990"></a>
 - t-003
+  global_id: t-85990
   teiginys: 'Prieglaudos sklypo riba buvo žymima nuo vartų, esančių iš gatvės priešais Šv. Dvasios bažnyčios kapinių vartus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-85991"></a>
 - t-004
+  global_id: t-85991
   teiginys: 'Šventosios Trejybės prieglaudai plėsti ketinta supirkti Šv. Dvasios bažnyčios namelius ir du namelius priešais bažnyčią.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85992"></a>
 - t-005
+  global_id: t-85992
   teiginys: '1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.'
   pagrindžia:
     - c-003

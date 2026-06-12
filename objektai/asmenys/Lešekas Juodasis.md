@@ -23,7 +23,9 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
 
 ## Teiginiai
 
+<a id="claim-t-87765"></a>
 - t-001
+  global_id: t-87765
   teiginys: 'Lešekas Juodasis Krokuvai suteikė svarbias privilegijas ir sustiprino miestą geriausiomis mūro sienomis.'
   pagrindžia:
     - c-001

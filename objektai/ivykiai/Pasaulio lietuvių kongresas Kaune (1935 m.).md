@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20439"></a>
 - t-001
+  global_id: t-20439
   teiginys: '1935 m. Pasaulio lietuvių kongresas Kaune sulaukė 3 000 delegatų ir svečių iš 19 valstybių.'
   pagrindžia:
     - c-001

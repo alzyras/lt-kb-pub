@@ -25,7 +25,9 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 
 ## Teiginiai
 
+<a id="claim-t-61072"></a>
 - t-001
+  global_id: t-61072
   teiginys: 'Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojęs ir imperatoriaus Fridricho II 1226 m. aukso bulę, o Konrado ir Ordino sutartis nušvietęs pagal Ordino 1230 m.'
   pagrindžia:
     - c-001

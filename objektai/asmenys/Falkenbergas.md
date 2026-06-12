@@ -17,7 +17,9 @@ Vienas iš kryžiuočių, Falkenbergas, stengėsi dar Vok.
 
 ## Teiginiai
 
+<a id="claim-t-34787"></a>
 - t-001
+  global_id: t-34787
   teiginys: 'Kryžiuotis Falkenbergas mėgino padėti Vokiečių ordinui, išleisdamas Jogailą šmeižiančią knygą.'
   pagrindžia:
     - c-001

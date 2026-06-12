@@ -28,18 +28,24 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-182509"></a>
 - t-001
+  global_id: t-182509
   teiginys: 'Sukilėliai planavo užimti Palangos ir Liepojos uostus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182510"></a>
 - t-002
+  global_id: t-182510
   teiginys: 'Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Šventosios.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185078"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad štai todėl Livoni jos kariai pasuko prie Baltijos jūros, tikėdamiesi, kad apie Palangą, smėlėtame pajūryje, bus rečiau medžių ir lygesnis kelias.'
+  global_id: t-185078
+  teiginys: 'Livonijos kariai pasuko prie Baltijos jūros, tikėdamiesi apie Palangą rasti retesnių medžių ir lygesnį kelią.'
   pagrindžia:
     - c-003
 
@@ -80,7 +86,7 @@ amziai:
     - t-003
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad štai todėl Livoni jos kariai pasuko prie Baltijos jūros, tikėdamiesi, kad apie Palangą, smėlėtame pajūryje, bus rečiau medžių ir lygesnis kelias.'
+  santrauka: 'Livonijos kariai pasuko prie Baltijos jūros, tikėdamiesi apie Palangą rasti retesnių medžių ir lygesnį kelią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu

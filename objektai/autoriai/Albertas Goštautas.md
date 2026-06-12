@@ -18,7 +18,9 @@ Statutas, paruoštas vadovaujant kancleriui Albertui Goštautui, buvo taisomas k
 
 ## Teiginiai
 
+<a id="claim-t-01011"></a>
 - t-001
+  global_id: t-01011
   teiginys: 'Kancleriui Albertui Goštautui vadovaujant paruoštas Statutas buvo taisomas kelių komisijų.'
   pagrindžia:
     - c-001

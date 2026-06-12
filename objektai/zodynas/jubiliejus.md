@@ -23,7 +23,9 @@ Dusburgietis teigia, kad apie jubiliejaus metų indulgenciją Tais pačiais meta
 
 ## Teiginiai
 
+<a id="claim-t-58906"></a>
 - t-001
+  global_id: t-58906
   teiginys: 'Dusburgietis teigia, kad apie jubiliejaus metų indulgenciją Tais pačiais metais buvo jubiliejus, ir jo šventenybė Bonifacas, popiežius, suteikė visišką nuodėmių at leidimą kiekvienam, kas lanko šventųjų Petro be Pauliaus, apaštalų, slenksčius (Ptol.'
   pagrindžia:
     - c-001

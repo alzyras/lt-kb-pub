@@ -27,27 +27,37 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 
 ## Teiginiai
 
+<a id="claim-t-35089"></a>
 - t-001
+  global_id: t-35089
   teiginys: 'Hennė pranešė apie 1427 m. Vytauto kelionę per rytinį valstybės pakraštį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-35090"></a>
 - t-002
+  global_id: t-35090
   teiginys: 'Hennė buvo įžymiausias Vytauto juokdarys ir kartu vokiečių agentas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-35091"></a>
 - t-003
+  global_id: t-35091
   teiginys: 'Hennė keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184260"></a>
 - t-004
+  global_id: t-184260
   teiginys: 'Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo, sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo Henne, drauge ir vokiečių agentas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184261"></a>
 - t-005
+  global_id: t-184261
   teiginys: 'Vytauto autoritetą rytuose liudija jo juokdario, Ordino agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę — ekspediciją savo valstybės rytiniu pakraščiu 1427 met.'
   pagrindžia:
     - c-005

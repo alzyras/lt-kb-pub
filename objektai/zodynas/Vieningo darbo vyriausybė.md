@@ -16,7 +16,9 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
 
 ## Teiginiai
 
+<a id="claim-t-22033"></a>
 - t-001
+  global_id: t-22033
   teiginys: 'Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos partijos gavo po dvi ministrų vietas.'
   pagrindžia:
     - c-001

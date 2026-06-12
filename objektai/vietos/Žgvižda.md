@@ -18,7 +18,9 @@ Per pusantros mylios nuo Rūdninkų Mendzižečės link stūksojo nuostabiai gra
 
 ## Teiginiai
 
+<a id="claim-t-86289"></a>
 - t-001
+  global_id: t-86289
   teiginys: 'Žgvižda buvo Rūdninkų girios dalis, nuo Rūdninkų nutolusi apie pusantros mylios Miedzyrzeczo link.'
   pagrindžia:
     - c-001

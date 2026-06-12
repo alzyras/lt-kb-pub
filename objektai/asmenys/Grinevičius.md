@@ -16,7 +16,9 @@ O atvedė rusų kariuomenę toks Grinevičius iš Medikonių kaimo.
 
 ## Teiginiai
 
+<a id="claim-t-80715"></a>
 - t-001
+  global_id: t-80715
   teiginys: 'O atvedė rusų kariuomenę toks Grinevičius iš Medikonių kaimo.'
   pagrindžia:
     - c-001

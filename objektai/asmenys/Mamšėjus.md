@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-40326"></a>
 - t-001
+  global_id: t-40326
   teiginys: '1279 m. pradžioje Mamšėjus vadovavo Nogajaus pasiųstai kariuomenei prieš Traidenio Lietuvą.'
   pagrindžia:
     - c-001

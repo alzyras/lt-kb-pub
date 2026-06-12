@@ -39,13 +39,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62724"></a>
 - t-001
+  global_id: t-62724
   teiginys: 'Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai daryti atgailą, o kadangi jie plakėsi rykštėmis, vokiškai juos vadino Geyseler [saviplakiais].'
   pagrindžia:
     - c-001
     - c-002
 
+<a id="claim-t-62725"></a>
 - t-002
+  global_id: t-62725
   teiginys: 'Dusburgietis teigia, kad kai dar buvo pasaulietis, jis kartą smarkiai puolė Friclaro miestą, todėl vėliau, norėdamas įstoti į vienuolius, darė atgailą ir rodė nusižeminimą, atsiteisdamas už šitokią piktadarybę, taigi ėjo minėtajame mieste su procesija basomis ir plika galva, puolė.'
   pagrindžia:
     - c-003

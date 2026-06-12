@@ -27,7 +27,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87561"></a>
 - t-001
+  global_id: t-87561
   teiginys: 'Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos.'
   pagrindžia:
     - c-001

@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54331"></a>
 - t-001
+  global_id: t-54331
   teiginys: 'Lietuvių genties iškilimą lėmė vyrų gausumas karo žygiuose, o šis iškilimas padėjo pagrindus būsimai Lietuvos valstybei.'
   pagrindžia:
     - c-001

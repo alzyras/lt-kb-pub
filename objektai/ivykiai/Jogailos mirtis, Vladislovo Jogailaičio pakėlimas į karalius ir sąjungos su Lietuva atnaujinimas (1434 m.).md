@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Jogailos mirtis, Vladislovo Jogailaičio pakėlimas į karalius ir sąjungos su Lietuva atnaujinimas (1434 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad pasikvie tęs karalystės didikus, jis paprašė, kad, rinkdami sosto įpėdinį, neaplenktų sūnaus Vladislovo.
+Prieš mirtį Jogaila pasikvietė karalystės didikus ir paprašė, kad rinkdami sosto įpėdinį jie neaplenktų jo sūnaus Vladislovo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185522"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pasikvie tęs karalystės didikus, jis paprašė, kad, rinkdami sosto įpėdinį, neaplenktų sūnaus Vladislovo.'
+  global_id: t-185522
+  teiginys: 'Prieš mirtį Jogaila pasikvietė karalystės didikus ir paprašė, kad rinkdami sosto įpėdinį jie neaplenktų jo sūnaus Vladislovo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pasikvie tęs karalystės didikus, jis paprašė, kad, rinkdami sosto įpėdinį, neaplenktų sūnaus Vladislovo.'
+  santrauka: 'Prieš mirtį Jogaila pasikvietė karalystės didikus ir paprašė, kad rinkdami sosto įpėdinį jie neaplenktų jo sūnaus Vladislovo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ga­
@@ -59,3 +60,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

@@ -16,7 +16,9 @@ Raudonarmiečiai bėgo plūsdami savo vadovybę ir reikalaudami tuoj pat juos ve
 
 ## Teiginiai
 
+<a id="claim-t-41476"></a>
 - t-001
+  global_id: t-41476
   teiginys: 'Raudonarmiečiai bėgo plūsdami savo vadovybę ir reikalaudami tuoj pat juos vesti į Vilnių, o iš ten — „traukiniais į Maskvą“.'
   pagrindžia:
     - c-001

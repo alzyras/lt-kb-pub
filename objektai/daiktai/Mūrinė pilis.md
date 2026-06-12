@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87115"></a>
 - t-001
+  global_id: t-87115
   teiginys: 'Gediminas įsakė pastatyti mūrinę pilį ant paaukštinto kalno Vilnelės ir Vilijos santakoje.'
   pagrindžia:
     - c-001

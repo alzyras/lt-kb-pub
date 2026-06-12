@@ -18,7 +18,9 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
 
 ## Teiginiai
 
+<a id="claim-t-87609"></a>
 - t-001
+  global_id: t-87609
   teiginys: 'Albertas Skvemevita per įgaliotinius reikalavo, kad kaltinamasis pripažintų civilinę teisę ir paklustų auksakalių cechui.'
   pagrindžia:
     - c-001

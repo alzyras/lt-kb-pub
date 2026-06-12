@@ -31,22 +31,30 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 
 ## Teiginiai
 
+<a id="claim-t-23258"></a>
 - t-001
+  global_id: t-23258
   teiginys: 'Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado autorius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-23259"></a>
 - t-002
+  global_id: t-23259
   teiginys: 'Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23260"></a>
 - t-003
+  global_id: t-23260
   teiginys: 'T. Korsakas žuvo ginant Varšuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-26732"></a>
 - t-005
+  global_id: t-26732
   teiginys: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
   pagrindžia:
     - c-002

@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87086"></a>
 - t-001
+  global_id: t-87086
   teiginys: 'Čia buvo pirmykštė gyvenvietė, kurios vardas paskui buvo duotas ten išaugusiam miestui, pagaliau nuo tos tvirtovės prie Vilnios palei krantą pažemiais tęsėsi trobelės iki pat Vilijos.'
   pagrindžia:
     - c-001

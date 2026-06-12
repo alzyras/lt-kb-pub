@@ -16,12 +16,16 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
 
 ## Teiginiai
 
+<a id="claim-t-41824"></a>
 - t-001
+  global_id: t-41824
   teiginys: 'Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pasitraukė Subačiaus kryptimi ir įsitvirtino Kupiškyje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41825"></a>
 - t-002
+  global_id: t-41825
   teiginys: 'Galiausiai bolševikai gegužės 30-31 d. atsitraukė ir iš Kupiškio.'
   pagrindžia:
     - c-001

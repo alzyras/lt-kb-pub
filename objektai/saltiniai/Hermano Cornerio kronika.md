@@ -25,12 +25,16 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 
 ## Teiginiai
 
+<a id="claim-t-88187"></a>
 - t-001
+  global_id: t-88187
   teiginys: 'Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Kornerio (Chron.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88188"></a>
 - t-002
+  global_id: t-88188
   teiginys: 'Hermano Cornerio kronikoje rašoma, kad Vilniaus miestiečiai buvo palankesni Jogailai negu Kęstučiui.'
   pagrindžia:
     - c-002

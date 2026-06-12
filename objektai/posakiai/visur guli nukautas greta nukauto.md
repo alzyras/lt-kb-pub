@@ -17,7 +17,9 @@ Po mūšio Kitą dieną po kautynių Mykolas Radvila Rudasis laiške savo pusbro
 
 ## Teiginiai
 
+<a id="claim-t-39040"></a>
 - t-001
+  global_id: t-39040
   teiginys: 'Posakiu „visur guli nukautas greta nukauto“ Mykolas Radvila Rudasis apibūdino po kautynių persekioto priešo žūtis.'
   pagrindžia:
     - c-001

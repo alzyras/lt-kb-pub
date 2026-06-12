@@ -19,7 +19,9 @@ Jurgis Volazkavičius buvo šviesiausiojo valdovo pono Žygi­ manto, didžiojo 
 
 ## Teiginiai
 
+<a id="claim-t-87745"></a>
 - t-001
+  global_id: t-87745
   teiginys: 'Jurgiui Volazkavičiui pavesta ištirti Pabaisko bažnyčios pelną, pajamas ir su jos įkūrimu susijusius dalykus.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
 
 ## Teiginiai
 
+<a id="claim-t-19623"></a>
 - t-001
+  global_id: t-19623
   teiginys: '1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją.'
   pagrindžia:
     - c-001

@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77899"></a>
 - t-001
+  global_id: t-77899
   teiginys: '1988 m. birželio 3 d. Vilniuje Lietuvos mokslų akademijos salėje lietuvių inteligentų būrys įsteigė Lietuvos Persitvarkymo Sąjūdžio iniciatyvinę grupę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-77900"></a>
 - t-002
+  global_id: t-77900
   teiginys: 'Ją sudarė 35 visoje Lietuvoje žinomi inteligentai.'
   pagrindžia:
     - c-001

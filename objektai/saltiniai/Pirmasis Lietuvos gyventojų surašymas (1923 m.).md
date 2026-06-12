@@ -25,12 +25,16 @@ Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsėjo 17 d. pirm
 
 ## Teiginiai
 
+<a id="claim-t-21228"></a>
 - t-001
+  global_id: t-21228
   teiginys: 'Lietuvoje kaime gyveno 84 proc. gyventojų, o lietuviai sudarė 91 proc. kaimo gyventojų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183380"></a>
 - t-002
+  global_id: t-183380
   teiginys: 'Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo 2 028 971 (be Vilniaus ir Klaipėdos kraštų).'
   pagrindžia:
     - c-001

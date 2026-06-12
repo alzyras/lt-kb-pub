@@ -25,14 +25,17 @@ Todėl, pavyzdžiui, 1926—1929 m., emigracijos bendrovėms gabenant mūsų tau
 
 ## Teiginiai
 
+<a id="claim-t-74024"></a>
 - t-001
-  teiginys: 'Todėl, pavyzdžiui, 1926—1929 m., emigracijos bendrovėms gabenant mūsų tautiečius į įvairius kraštus, daugiausia į Pietų Ameriką, daugelis važiavusių buvo labai išnaudojami ir nuvažiavę pakliuvo į sunkias gyvenimo sąlygas, veltui nuvežtieji turėjo atidirbti.'
+  global_id: t-74024
+  teiginys: '1926–1929 m. emigracijos bendrovės vežė lietuvius daugiausia į Pietų Ameriką, kur daugelis patyrė išnaudojimą ir sunkias gyvenimo sąlygas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1926–1929 m. emigracijos bendrovės vežė lietuvius daugiausia į Pietų Ameriką, kur daugelis patyrė išnaudojimą ir sunkias gyvenimo sąlygas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pagaliau ir Lietuvoje susirūpinta savo emigracijos reikalais:
@@ -53,4 +56,5 @@ Todėl, pavyzdžiui, 1926—1929 m., emigracijos bendrovėms gabenant mūsų tau
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Lietuvių emigracijos tvarkymo reforma (1920–1929 m.)]]

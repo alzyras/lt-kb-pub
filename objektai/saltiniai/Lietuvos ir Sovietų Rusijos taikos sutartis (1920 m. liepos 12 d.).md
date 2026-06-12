@@ -27,52 +27,72 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-75461"></a>
 - t-001
+  global_id: t-75461
   teiginys: 'Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75462"></a>
 - t-002
+  global_id: t-75462
   teiginys: '1920 m. liepos 12 d. Taikos sutartis su Sovietų Rusija buvo Lietuvos diplomatijos laimėjimas mezgant santykius su Rusija ir Lenkija.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-75463"></a>
 - t-003
+  global_id: t-75463
   teiginys: 'Maskva patvirtino, kad sutartis su Lietuva tebegalioja ir kad Lietuva turi suverenias teises į Vilnių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75464"></a>
 - t-004
+  global_id: t-75464
   teiginys: '1920 m. pradžioje Lietuva sutiko pradėti derybas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75466"></a>
 - t-005
+  global_id: t-75466
   teiginys: 'Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m. Rygos sutartį ėjo į rytus nuo Lietuvos–Sovietų Rusijos sienos, nubrėžtos pagal 1920 m. Maskvos taikos sutartį tarp Lietuvos ir Sovietų Rusijos.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-75468"></a>
 - t-006
+  global_id: t-75468
   teiginys: 'Pagal abiejų tų sutarčių punktus dėl Vilniaus turėjo susitarti Lietuva ir Lenkija.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-75469"></a>
 - t-007
+  global_id: t-75469
   teiginys: '1920 m. liepą Vilnių Lietuvai perdavė bolševikai, o ne lenkai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75470"></a>
 - t-008
+  global_id: t-75470
   teiginys: 'Tad Vilnių Lietuvai perdavė ne lenkai, o bolševikai.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-75471"></a>
 - t-009
+  global_id: t-75471
   teiginys: 'Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedraugiškas aktas“ prieš Lietuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183368"></a>
 - t-011
+  global_id: t-183368
   teiginys: 'Lietuviai sutiko įrašyti, kad Lietuva ir Sovietų Rusija niekada nebuvo karo padėtyje.'
   pagrindžia:
     - c-008

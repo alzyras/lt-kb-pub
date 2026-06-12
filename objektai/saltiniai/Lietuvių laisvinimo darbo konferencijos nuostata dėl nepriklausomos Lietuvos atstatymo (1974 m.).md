@@ -23,7 +23,9 @@ Jos siekė veikti išvien ir pasitarnauti Lietuvos laisvės bylai tarptautiniu m
 
 ## Teiginiai
 
+<a id="claim-t-23497"></a>
 - t-001
+  global_id: t-23497
   teiginys: '1974 m. lietuvių laisvinimo darbo konferencija patvirtino nuostatą siekti nepriklausomos Lietuvos atstatymo, remiantis lietuvių tautos valia.'
   pagrindžia:
     - c-001

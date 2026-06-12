@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01814"></a>
 - t-001
+  global_id: t-01814
   teiginys: 'Po triukšmingo 1930 m. Susivienijimo Lietuvių Amerikoje seimo komunistai įkūrė Amerikos Lietuvių Darbininkų Susivienijimą.'
   pagrindžia:
     - c-001

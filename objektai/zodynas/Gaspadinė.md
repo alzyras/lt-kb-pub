@@ -23,7 +23,9 @@ Vartojamos formos: `gaspadinę`, `viešne`, `viešnė`.
 
 ## Teiginiai
 
+<a id="claim-t-70005"></a>
 - t-001
+  global_id: t-70005
   teiginys: '`Gaspadinė` šiame tekste reiškia vestuvių šeimininkę ar vaišių tvarkytoją.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-87780"></a>
 - t-001
+  global_id: t-87780
   teiginys: 'Mikalojus sutartyje buvo nurodytas kaip Medininkų, arba Žemaitijos, vyskupas nominatas tarp kunigaikščių ir prelatų.'
   pagrindžia:
     - c-001

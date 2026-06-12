@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-34519"></a>
 - t-001
+  global_id: t-34519
   teiginys: '1428 m. vasarą Vytautas surengė didelį žygį į Naugardą, sutelkęs daug kunigaikščių ir kariuomenės iš Lenkijos bei Rusijos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-34520"></a>
 - t-002
+  global_id: t-34520
   teiginys: 'Naugardas pripažino Vytauto suverenitetą ir mokėjo jam duoklę.'
   pagrindžia:
     - c-001

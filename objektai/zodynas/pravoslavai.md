@@ -16,17 +16,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-11775"></a>
 - t-001
+  global_id: t-11775
   teiginys: 'Pravoslavai priklausė Konstantinopolio patriarchatui ir kadaise buvo valdomi Kijevo metropolito.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-11776"></a>
 - t-002
+  global_id: t-11776
   teiginys: 'Pravoslavų nepasitenkinimas paskatino Vytautą iškelti rytų ir vakarų bažnyčių unijos idėją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-11777"></a>
 - t-003
+  global_id: t-11777
   teiginys: 'Pravoslavai yra vėlyvesnis graikų tikybos žmonių pavadinimas.'
   pagrindžia:
     - c-001

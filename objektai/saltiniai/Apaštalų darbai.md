@@ -17,7 +17,9 @@ Dusburgietis teigia, kad apie didingus ženklus „Apaštalų darbuose“ (Apd 6
 
 ## Teiginiai
 
+<a id="claim-t-61046"></a>
 - t-001
+  global_id: t-61046
   teiginys: 'Dusburgietis teigia, kad apie didingus ženklus „Apaštalų darbuose“ (Apd 6, 8) pasakyta, kad „Steponas, pilnas malonės ir galios, darė žmonėse didžių stebuklingų ženklų“.'
   pagrindžia:
     - c-001

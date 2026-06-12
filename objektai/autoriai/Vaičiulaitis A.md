@@ -25,7 +25,9 @@ Dusburgietis teigia, kad vaičiulaitis A.
 
 ## Teiginiai
 
+<a id="claim-t-60807"></a>
 - t-001
+  global_id: t-60807
   teiginys: 'A. Vaičiulaitis parašė straipsnį „Vidurinių amžių poetas Machaut Lietuvoj“.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 
 ## Teiginiai
 
+<a id="claim-t-20844"></a>
 - t-001
+  global_id: t-20844
   teiginys: 'Posakyje Lietuva vadinama kraštu, kuriame labai pavojinga gyventi mažai tautai.'
   pagrindžia:
     - c-001

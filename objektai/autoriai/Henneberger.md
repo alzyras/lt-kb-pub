@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-88024"></a>
 - t-001
+  global_id: t-88024
   teiginys: '7; iš ten buvo perimta vėlesnių kronikininkų, būtent, Henneberger, p. 282.'
   pagrindžia:
     - c-001

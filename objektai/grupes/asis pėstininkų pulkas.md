@@ -17,12 +17,16 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 
 ## Teiginiai
 
+<a id="claim-t-80634"></a>
 - t-001
+  global_id: t-80634
   teiginys: 'Tos dienos vakare, nežiūrint itin atkaklaus bolševikų pasipriešinimo, parėmus 1-ojo pėstininkų pulko batalionui, pavyko užimti šią stotį, o taip pat ir senus Pirmojo pasaulinio karo laikų vokiečių apkasus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-80635"></a>
 - t-002
+  global_id: t-80635
   teiginys: 'Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų žvalgų komanda, du raitelių eskadronai ir karin.'
   pagrindžia:
     - c-002

@@ -22,22 +22,30 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
 
 ## Teiginiai
 
+<a id="claim-t-26654"></a>
 - t-001
+  global_id: t-26654
   teiginys: 'Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“ planą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-26906"></a>
 - t-002
+  global_id: t-26906
   teiginys: 'Formulė „nuo jūros iki jūros“ nusako teritorinę projekciją nuo Baltijos iki Juodosios jūros.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75620"></a>
 - t-003
+  global_id: t-75620
   teiginys: 'Lietuvos pripažinimo reikalai nejudėjo į priekį, daugybė durų jai buvo užtrenktos, nes Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“ (nuo Baltijos iki Juodosios) planą, ypač Rusijos iširimo atveju.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75621"></a>
 - t-004
+  global_id: t-75621
   teiginys: 'Prancūzijos remtas didelės Lenkijos „nuo jūros iki jūros“ planas stabdė Lietuvos tarptautinio pripažinimo reikalus.'
   pagrindžia:
     - c-001

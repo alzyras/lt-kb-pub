@@ -19,12 +19,16 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
 
 ## Teiginiai
 
+<a id="claim-t-58862"></a>
 - t-001
+  global_id: t-58862
   teiginys: 'Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje. Būdamas pasauliečiu, jis garsėjo kaip baisus žiauruolis, didelis grobikas ir piktadarys. Kartą vakarėjant jis išvydo link jo atjojant juodų juodžiausiu žirgu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58863"></a>
 - t-002
+  global_id: t-58863
   teiginys: 'Dusburgietis teigia, kad šitaip atgavęs laisvę, jis, atvykęs į Prūsijos kraštą, davė įžadus Teutonų ordinui; kaip anksčiau, būdamas pasauliečiu, pranoko savo bendrus piktadarybėmis, taip dabar, būdamas vienuolyne, pralenkė kitus brolius dorybėmis. Vieną kartą, sunkios negalės.'
   pagrindžia:
     - c-002

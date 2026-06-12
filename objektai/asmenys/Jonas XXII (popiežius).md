@@ -27,12 +27,16 @@ Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs raginimą krikštyti
 
 ## Teiginiai
 
+<a id="claim-t-97447"></a>
 - t-001
+  global_id: t-97447
   teiginys: '1317 m. popiežius Jonas XXII paragino Gediminą krikštytis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-97448"></a>
 - t-002
+  global_id: t-97448
   teiginys: 'Popiežius Jonas XXII 1317 m. ragino Gediminą krikštytis.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Adamkavičiaus vadovaujamas Kauno batalionas.
 
 ## Teiginiai
 
+<a id="claim-t-40092"></a>
 - t-001
+  global_id: t-40092
   teiginys: 'Plk. ltn. E. Adamkavičius vadovavo Kauno batalionui Varnionių-Daugėlaičių-Šiaulėnų atkarpoje.'
   pagrindžia:
     - c-001

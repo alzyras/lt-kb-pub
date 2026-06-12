@@ -44,12 +44,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-175142"></a>
 - t-001
+  global_id: t-175142
   teiginys: 'Didysis magistras Verneris papildė Ordino statutą prierašais apie pamaldumą, maldas, brolių poreikių ribojimą ir bendruomenės drausmę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-175143"></a>
 - t-002
+  global_id: t-175143
   teiginys: 'Dusburgietis teigia, kad vernerio prierašuose pabrėžiama, jog jie skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.'
   pagrindžia:
     - c-001

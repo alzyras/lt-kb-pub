@@ -36,17 +36,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-13535"></a>
 - t-001
+  global_id: t-13535
   teiginys: 'Lietuvos Respublika lenkiškoje Lietuvos sampratoje buvo vadinama Kauno Lietuva.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-23422"></a>
 - t-002
+  global_id: t-23422
   teiginys: 'Remiantis tokia lenkiška Lietuvos samprata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-26941"></a>
 - t-003
+  global_id: t-26941
   teiginys: 'Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.'
   pagrindžia:
     - c-001

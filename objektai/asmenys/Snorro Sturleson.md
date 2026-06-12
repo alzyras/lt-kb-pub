@@ -27,12 +27,16 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
 
 ## Teiginiai
 
+<a id="claim-t-87575"></a>
 - t-001
+  global_id: t-87575
   teiginys: 'Įdedame čia trumpą žinutę apie tą Snorro ir jo darbus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87576"></a>
 - t-002
+  global_id: t-87576
   teiginys: 'Islandų keliautojas Snorro, vykdamas per Europos šiaurę, prie Vilniaus ir Trakų rado savo genties naujakurių.'
   pagrindžia:
     - c-001

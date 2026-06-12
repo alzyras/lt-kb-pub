@@ -23,7 +23,9 @@ periodo_grupes: []
 
 ## Teiginiai
 
+<a id="claim-t-87777"></a>
 - t-001
+  global_id: t-87777
   teiginys: '1632 m. sausio 2 d. Akademijos rektorius Frizijus iš Žemaičių vyskupo Merkelio Geišos Eljaševičiaus nupirko mūrinį namą.'
   pagrindžia:
     - c-001

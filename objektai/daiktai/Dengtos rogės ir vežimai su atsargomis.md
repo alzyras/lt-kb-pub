@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87074"></a>
 - t-001
+  global_id: t-87074
   teiginys: 'Metraštininkai pasakojo, kad į Vilnių atvažiavo 300 įvairios žvėrienos prikrautų vežimų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87075"></a>
 - t-002
+  global_id: t-87075
   teiginys: 'Vytautas į Vilnių pirmiausia pasiuntė daug dengtų rogių su atsargomis ir jose paslėptais ginkluotais žmonėmis.'
   pagrindžia:
     - c-002

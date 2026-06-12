@@ -26,22 +26,30 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 
 ## Teiginiai
 
+<a id="claim-t-104193"></a>
 - t-001
+  global_id: t-104193
   teiginys: 'Lietuvoje sukilimas prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios paskelbto rekrutų ėmimo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-104194"></a>
 - t-002
+  global_id: t-104194
   teiginys: 'Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-104195"></a>
 - t-003
+  global_id: t-104195
   teiginys: '1863–1864 metų sukilimas 1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-104196"></a>
 - t-004
+  global_id: t-104196
   teiginys: '1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas.'
   pagrindžia:
     - c-001

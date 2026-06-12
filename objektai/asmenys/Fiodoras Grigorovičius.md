@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Fiodoras Grigorovičius
 
 ## Santrauka
 
-Kojelavičius teigia, kad aleksandro pasiuntiniai Stanislovas Strumila Petravičius, Smolensko vietininkas, ir Fiodoras Grigorovičius, Lietuvos raštininkas, ryžtingai derėjosi su Ivanu, reikalaudami atlyginti skriaudas.
+Lietuvos raštininkas Fiodoras Grigorovičius su Stanislovu Strumila Petravičiumi derėjosi su Ivanu dėl skriaudų atlyginimo.
 
 ## Teiginiai
 
+<a id="claim-t-186201"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad aleksandro pasiuntiniai Stanislovas Strumila Petravičius, Smolensko vietininkas, ir Fiodoras Grigorovičius, Lietuvos raštininkas, ryžtingai derėjosi su Ivanu, reikalaudami atlyginti skriaudas.'
+  global_id: t-186201
+  teiginys: 'Lietuvos raštininkas Fiodoras Grigorovičius su Stanislovu Strumila Petravičiumi derėjosi su Ivanu dėl skriaudų atlyginimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad aleksandro pasiuntiniai Stanislovas Strumila Petravičius, Smolensko vietininkas, ir Fiodoras Grigorovičius, Lietuvos raštininkas, ryžtingai derėjosi su Ivanu, reikalaudami atlyginti skriaudas.'
+  santrauka: 'Lietuvos raštininkas Fiodoras Grigorovičius su Stanislovu Strumila Petravičiumi derėjosi su Ivanu dėl skriaudų atlyginimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sutelkę jėgas, visi kartu užpuolė
@@ -43,3 +44,9 @@ Kojelavičius teigia, kad aleksandro pasiuntiniai Stanislovas Strumila Petravič
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/daiktai/Taurės]]
+- [[objektai/zodynas/vietininkas]]

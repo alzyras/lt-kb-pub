@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Mantvila Gimbutaitis
 
 ## Santrauka
 
-Kojelavičius teigia, kad su sitarę Zivinbudas ir Mantvila Gimbutaitis, Žemaitijos ku nigaikštis, nusprendė pasi naudoti svetima pergale ir užpulti dar neatsigavusį nuo smūgio priešą.
+Mantvila Gimbutaitis ir Zivinbudas susitarė pulti nuo smūgio neatsigavusį priešą ir sutelkė abiejų genčių jėgas.
 
 ## Teiginiai
 
+<a id="claim-t-186236"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad su sitarę Zivinbudas ir Mantvila Gimbutaitis, Žemaitijos ku nigaikštis, nusprendė pasi naudoti svetima pergale ir užpulti dar neatsigavusį nuo smūgio priešą.'
+  global_id: t-186236
+  teiginys: 'Mantvila Gimbutaitis ir Zivinbudas susitarė pulti nuo smūgio neatsigavusį priešą ir sutelkė abiejų genčių jėgas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad su sitarę Zivinbudas ir Mantvila Gimbutaitis, Žemaitijos ku nigaikštis, nusprendė pasi naudoti svetima pergale ir užpulti dar neatsigavusį nuo smūgio priešą.'
+  santrauka: 'Mantvila Gimbutaitis ir Zivinbudas susitarė pulti nuo smūgio neatsigavusį priešą ir sutelkė abiejų genčių jėgas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šis rusų pralaimėjimas lietuviams suteikė
@@ -43,3 +44,8 @@ Kojelavičius teigia, kad su sitarę Zivinbudas ir Mantvila Gimbutaitis, Žemait
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]

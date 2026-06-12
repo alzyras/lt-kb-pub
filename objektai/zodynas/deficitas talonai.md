@@ -16,12 +16,16 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
 
 ## Teiginiai
 
+<a id="claim-t-70104"></a>
 - t-001
+  global_id: t-70104
   teiginys: 'Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės buvo apytuštės, trūko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų, ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, televizorius, be to.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183407"></a>
 - t-002
+  global_id: t-183407
   teiginys: 'Šaipantis iš komandinės, planinės ekonomikos neefektyvumo niūriai juokauta, kad jeigu Sacharos dykumoje būtų įvestas socializmas, netrukus ten atsirastų smėlio deficitas...'
   pagrindžia:
     - c-002

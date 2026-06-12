@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-31640"></a>
 - t-001
+  global_id: t-31640
   teiginys: 'CDPr III tomo 134 numeris nurodytas 180 puslapyje.'
   pagrindžia:
     - c-001

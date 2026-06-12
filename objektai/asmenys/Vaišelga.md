@@ -28,17 +28,23 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-82777"></a>
 - t-001
+  global_id: t-82777
   teiginys: 'Vaišelga buvo vienintelis kunigaikštis, atsisakęs kunigaikštijos ir tapęs vienuoliu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82778"></a>
 - t-002
+  global_id: t-82778
   teiginys: 'Vaišelga nuvyko į Sinajaus kalną, ten pasikrikštijo, tapo vienuoliu, po trejų metų grįžo pas Mindaugą ir įkūrė vienuolyną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183573"></a>
 - t-003
+  global_id: t-183573
   teiginys: '1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis.'
   pagrindžia:
     - c-002

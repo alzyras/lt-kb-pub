@@ -27,7 +27,9 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
 
 ## Teiginiai
 
+<a id="claim-t-30211"></a>
 - t-001
+  global_id: t-30211
   teiginys: 'Abatas Bernardas 1324 m. vasarop su vyskupu Baltramiejumi atvyko iš Avinjono į Rygą kaip popiežiaus legatas.'
   pagrindžia:
     - c-001

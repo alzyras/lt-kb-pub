@@ -17,7 +17,9 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
 
 ## Teiginiai
 
+<a id="claim-t-35009"></a>
 - t-001
+  global_id: t-35009
   teiginys: 'Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.'
   pagrindžia:
     - c-001

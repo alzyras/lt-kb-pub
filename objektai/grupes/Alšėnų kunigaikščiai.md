@@ -19,12 +19,16 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
 
 ## Teiginiai
 
+<a id="claim-t-74068"></a>
 - t-001
+  global_id: t-74068
   teiginys: 'Alšėnų kunigaikščiai, turėję tėvonijų valstybės branduolyje ir nepriklausę Gediminaičių dinastijai, priėmė stačiatikybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74069"></a>
 - t-002
+  global_id: t-74069
   teiginys: 'Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.'
   pagrindžia:
     - c-002

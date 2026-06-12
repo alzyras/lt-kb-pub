@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87069"></a>
 - t-001
+  global_id: t-87069
   teiginys: 'Akademijos spaustuvė nuo kiekvienos naujai išspausdintos knygos turėjo duoti po vieną egzempliorių Lietuvos kancleriams ir Viešajai bibliotekai.'
   pagrindžia:
     - c-001

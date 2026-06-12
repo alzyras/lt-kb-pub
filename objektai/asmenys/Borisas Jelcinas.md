@@ -18,17 +18,23 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
 
 ## Teiginiai
 
+<a id="claim-t-63519"></a>
 - t-001
+  global_id: t-63519
   teiginys: '1991 m. liepos 29 d. Borisas Jelcinas ir Vytautas Landsbergis pasirašė sutartį, kuri įsigaliojo po metų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63520"></a>
 - t-002
+  global_id: t-63520
   teiginys: 'Gorbačiovas buvo izoliuotas Kryme, tačiau kovai prieš komunistinius perversmininkus vadovauti ėmė neseniai išrinktas Rusijos respublikos prezidentas Borisas Jelcinas, po demokratijos idėjomis sutelkęs Rusijos žmones, jis sugebėjo priversti kapituliuoti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-63521"></a>
 - t-003
+  global_id: t-63521
   teiginys: 'Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nepasiduoti reakcijos jėgoms.'
   pagrindžia:
     - c-001

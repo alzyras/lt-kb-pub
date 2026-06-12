@@ -16,7 +16,9 @@ Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai 
 
 ## Teiginiai
 
+<a id="claim-t-42085"></a>
 - t-001
+  global_id: t-42085
   teiginys: 'Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai sukilo ir išėjo į savo vietas.'
   pagrindžia:
     - c-001

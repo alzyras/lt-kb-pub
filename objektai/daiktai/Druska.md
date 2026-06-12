@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31104"></a>
 - t-001
+  global_id: t-31104
   teiginys: 'Druska buvo vienas būtiniausių dalykų, kuriuos Lietuva per Rygą gabendavosi iš Vakarų.'
   pagrindžia:
     - c-001

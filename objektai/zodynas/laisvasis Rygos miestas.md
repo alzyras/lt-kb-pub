@@ -17,12 +17,16 @@ Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- t
 
 ## Teiginiai
 
+<a id="claim-t-70202"></a>
 - t-001
+  global_id: t-70202
   teiginys: '1298 m. praturtėjęs laisvasis Rygos miestas kartu su arkivyskupu priešinosi Livonijos ordinui ir pasikvietė Vytenį į talką.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70203"></a>
 - t-002
+  global_id: t-70203
   teiginys: 'Laisvasis Rygos miestas buvo laikomas krikščionišku miestu, kurį spaudė savo galybės siekęs ordinas.'
   pagrindžia:
     - c-001

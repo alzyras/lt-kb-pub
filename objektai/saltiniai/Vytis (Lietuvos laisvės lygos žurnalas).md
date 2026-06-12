@@ -16,7 +16,9 @@ LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m
 
 ## Teiginiai
 
+<a id="claim-t-18008"></a>
 - t-001
+  global_id: t-18008
   teiginys: 'LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.'
   pagrindžia:
     - c-001

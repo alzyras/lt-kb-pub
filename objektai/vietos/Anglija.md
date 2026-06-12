@@ -29,47 +29,65 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 
 ## Teiginiai
 
+<a id="claim-t-111491"></a>
 - t-001
+  global_id: t-111491
   teiginys: 'Rugpjūtį, baigus karinę parengtį Prūsijoje, į žygį atvyko savanorių iš Anglijos ir Prancūzijos.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-111492"></a>
 - t-002
+  global_id: t-111492
   teiginys: 'Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-111493"></a>
 - t-003
+  global_id: t-111493
   teiginys: 'Apie 350 000 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-111494"></a>
 - t-004
+  global_id: t-111494
   teiginys: 'Ispanijos galybės saulėlydį ženklino Nenugalimosios armados nesėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra, žygio Ispanija nekartojo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-111495"></a>
 - t-005
+  global_id: t-111495
   teiginys: 'Anglija Lietuvą pripažino 1922 m. gruodžio 20 d. kartu su Prancūzija, Italija ir Japonija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-111496"></a>
 - t-006
+  global_id: t-111496
   teiginys: 'Rugpjūtį, pasibaigus pasirengimui mūšiams Prūsijoje, atvyko savanorių iš Anglijos ir Prancūzijos.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-111497"></a>
 - t-007
+  global_id: t-111497
   teiginys: 'Derbio grafas Henrikas vadovavo Gdansko uoste išsilaipinusiems lankininkams ir vėliau, kaip Henrikas IV, paveldėjo Anglijos sostą.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-111498"></a>
 - t-008
+  global_id: t-111498
   teiginys: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-111499"></a>
 - t-009
+  global_id: t-111499
   teiginys: 'Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui, Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į.'
   pagrindžia:
     - c-002

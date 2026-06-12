@@ -28,12 +28,16 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
 
 ## Teiginiai
 
+<a id="claim-t-69561"></a>
 - t-001
+  global_id: t-69561
   teiginys: 'Viduklės srities atstovai kartu su kitų šešių Žemaičių aukštumos sričių atstovais darė taiką su Vytautu ir Ordinu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-69562"></a>
 - t-002
+  global_id: t-69562
   teiginys: '1416 m. Vytautas Viduklėje pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių.'
   pagrindžia:
     - c-001

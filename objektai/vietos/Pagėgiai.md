@@ -17,17 +17,23 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
 
 ## Teiginiai
 
+<a id="claim-t-41996"></a>
 - t-001
+  global_id: t-41996
   teiginys: 'Kalmantavičiaus-Bajoro vadovaujama sukilėlių grupė be pasipriešinimo užėmė Pagėgius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41997"></a>
 - t-002
+  global_id: t-41997
   teiginys: 'Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir Šilutės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41998"></a>
 - t-003
+  global_id: t-41998
   teiginys: 'Sausio 14 d. iš Pagėgių atvyko dalis II ir III grupių sukilėlių pagrindinėms pajėgoms sustiprinti.'
   pagrindžia:
     - c-003

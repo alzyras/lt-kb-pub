@@ -24,47 +24,65 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 
 ## Teiginiai
 
+<a id="claim-t-91223"></a>
 - t-001
+  global_id: t-91223
   teiginys: 'Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais patraukė su šimtine brolių bei maldininkų žygin ir, apiplėšęs Pagudės žemę, pasuko namo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo, pasisuko.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-91224"></a>
 - t-002
+  global_id: t-91224
   teiginys: 'Dusburgietis teigia, kad dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237 viešpaties įsikūnijimo metais į Pagudės žemę, į tą salą, kuri, pasak kai kurių, esanti Elbingo upės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-91225"></a>
 - t-003
+  global_id: t-91225
   teiginys: 'Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo (III, 192).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-91226"></a>
 - t-004
+  global_id: t-91226
   teiginys: 'Dusburgietis teigia, kad magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius, subūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė, plėsdami ir degindami, žudydami vyrus, o moteris bei vaikus išsivarydami į.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-91227"></a>
 - t-005
+  global_id: t-91227
   teiginys: 'Dusburgietis teigia, kad apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie Pagudės kilmingieji, tiesa, vos.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-91228"></a>
 - t-006
+  global_id: t-91228
   teiginys: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-91229"></a>
 - t-007
+  global_id: t-91229
   teiginys: 'Dusburgietis teigia, kad apie karą su pagudėnais ir Elbingo pilies pastatymą Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra pagudėnus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-91230"></a>
 - t-008
+  global_id: t-91230
   teiginys: 'Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-91231"></a>
 - t-009
+  global_id: t-91231
   teiginys: 'Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu Drūzo (Elbingo) uostu.'
   pagrindžia:
     - c-004

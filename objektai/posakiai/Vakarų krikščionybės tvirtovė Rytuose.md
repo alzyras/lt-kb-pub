@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-80665"></a>
 - t-001
+  global_id: t-80665
   teiginys: '@ Mėgindamas gelbėti situaciją, Švedijos karalius siunčia į ataką pagrindine švedų Vakarų krikščionybės tvirtovė Rytuose ir besikaunantiems priešo kariams atrodė, kad lietuviams į pagalbą atskuba pastiprinimas.'
   pagrindžia:
     - c-001

@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-26406"></a>
 - t-001
+  global_id: t-26406
   teiginys: 'Nuo 1896 m. leistas „Tėvynės sargas“ tapo populiariausiu katalikiškos pakraipos leidiniu.'
   pagrindžia:
     - c-001

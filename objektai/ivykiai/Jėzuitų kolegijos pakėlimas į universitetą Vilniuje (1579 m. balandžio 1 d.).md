@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54451"></a>
 - t-001
+  global_id: t-54451
   teiginys: 'Vyskupo Protasevičiaus funduotą jėzuitų kolegiją karalius pakėlė iki universiteto laipsnio, o tai patvirtino balandžio 1-ą dieną išleisti dekretai.'
   pagrindžia:
     - c-001

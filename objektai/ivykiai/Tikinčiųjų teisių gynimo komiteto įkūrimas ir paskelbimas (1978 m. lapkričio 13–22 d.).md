@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20519"></a>
 - t-001
+  global_id: t-20519
   teiginys: '1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-20520"></a>
 - t-002
+  global_id: t-20520
   teiginys: 'Komitetas siekė katalikams lygių teisių su ateistais, atkreipė dėmesį į tikinčiųjų diskriminavimo faktus, prašė padėti apginti tikinčiųjų teises.'
   pagrindžia:
     - c-002

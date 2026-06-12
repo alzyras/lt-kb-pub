@@ -34,17 +34,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-89362"></a>
 - t-001
+  global_id: t-89362
   teiginys: 'Dusburgietis teigia, kad tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau priėmė Kristaus tikėjimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89363"></a>
 - t-002
+  global_id: t-89363
   teiginys: 'Dusburgietis teigia, kad į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomenė leidosi bėgti“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89364"></a>
 - t-003
+  global_id: t-89364
   teiginys: 'Dusburgietis teigia, kad vieną gražią dieną Elbingo broliai su saujele ginklanešių traukė įkandin didelės prūsų kariuomenės, prisiplėšusios grobio jų valdomose apygardose [in districtu].'
   pagrindžia:
     - c-002

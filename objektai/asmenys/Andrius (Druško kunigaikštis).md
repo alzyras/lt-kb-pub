@@ -27,7 +27,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87622"></a>
 - t-001
+  global_id: t-87622
   teiginys: 'Druško kunigaikščio Andriaus sūnūs valdė Blušą prie Svisločės upės.'
   pagrindžia:
     - c-001

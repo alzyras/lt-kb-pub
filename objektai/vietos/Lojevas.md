@@ -19,17 +19,23 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
 
 ## Teiginiai
 
+<a id="claim-t-41881"></a>
 - t-001
+  global_id: t-41881
   teiginys: 'Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio tempą pasileido tiesiai vakarų kryptimi Mozyriaus ir Slucko link.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-41882"></a>
 - t-002
+  global_id: t-41882
   teiginys: 'V. Gosievskis sudegintame Lojeve užėmė patogias pozicijas ir įsakė supilti pylimą Podobailos stovyklai apšaudyti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41883"></a>
 - t-003
+  global_id: t-41883
   teiginys: 'Lojevo miestas, esantis kitoje (dešinėje) upės pusėje, buvo sudegintas, kad priešui nebūtų kur įsitvirtinti.'
   pagrindžia:
     - c-001

@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66984"></a>
 - t-001
+  global_id: t-66984
   teiginys: 'Vyriausiasis Lietuvos tribunolas buvo svarstytas keliuose Lietuvos seimuose ir galutinai įkurtas 1581 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66985"></a>
 - t-002
+  global_id: t-66985
   teiginys: 'Tribunolo teisėjais buvo visų seimelių renkami bajorijos atstovai.'
   pagrindžia:
     - c-002

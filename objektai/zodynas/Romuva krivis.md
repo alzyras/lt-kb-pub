@@ -17,12 +17,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-77804"></a>
 - t-001
+  global_id: t-77804
   teiginys: 'Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77805"></a>
 - t-002
+  global_id: t-77805
   teiginys: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
   pagrindžia:
     - c-002

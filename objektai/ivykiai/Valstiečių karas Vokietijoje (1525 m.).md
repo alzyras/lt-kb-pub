@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XVI'
 ---
-
 # Valstiečių karas Vokietijoje (1525 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad gvagninis užsiminė ir apie 1525 m. valstiečių karą Vokietijoje; pažymėdamas, kad valstiečiai sukilo prieš savo baž-: nytinius bei pasaulietinius ponus ir išžudė nemaža vys kupų ir ponų.
+A. Gvagninis 1525 m. valstiečių karą Vokietijoje siejo su valstiečių sukilimu prieš bažnytinius ir pasaulietinius ponus.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185777"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad gvagninis užsiminė ir apie 1525 m. valstiečių karą Vokietijoje; pažymėdamas, kad valstiečiai sukilo prieš savo baž-: nytinius bei pasaulietinius ponus ir išžudė nemaža vys kupų ir ponų.'
+  global_id: t-185777
+  teiginys: 'A. Gvagninis 1525 m. valstiečių karą Vokietijoje siejo su valstiečių sukilimu prieš bažnytinius ir pasaulietinius ponus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad gvagninis užsiminė ir apie 1525 m. valstiečių karą Vokietijoje; pažymėdamas, kad valstiečiai sukilo prieš savo baž-: nytinius bei pasaulietinius ponus ir išžudė nemaža vys kupų ir ponų.'
+  santrauka: 'A. Gvagninis 1525 m. valstiečių karą Vokietijoje siejo su valstiečių sukilimu prieš bažnytinius ir pasaulietinius ponus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     A. Gvagninis
@@ -59,3 +60,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Aleksandras Gvagninis]]
+- [[objektai/autoriai/Liuteris]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]

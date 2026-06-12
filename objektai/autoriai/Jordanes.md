@@ -18,7 +18,9 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 
 ## Teiginiai
 
+<a id="claim-t-30717"></a>
 - t-001
+  global_id: t-30717
   teiginys: 'Jordanes 551 m. veikale „De origine actibusque Getharum“ Aesti minėjo kaip taikingą tautą, gyvenusią ilgame pajūrio ruože į rytus.'
   pagrindžia:
     - c-001

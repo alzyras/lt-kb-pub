@@ -24,24 +24,32 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
 
 ## Teiginiai
 
+<a id="claim-t-65268"></a>
 - t-001
+  global_id: t-65268
   teiginys: 'Seniausia kalnėnų uždanga laikytos neišžengiamos girios, o vėliau tarpgiriai buvo kamšomi pilimis nuo neprietelių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-65270"></a>
 - t-002
+  global_id: t-65270
   teiginys: 'Senovės kalnėnai ir žemaičiai karo žygiuose turėjo šunį ir žirgą, o kautynėse naudojo raitelius ir pėstininkus.'
   pagrindžia:
     - c-001
     - c-002
     - c-003
 
+<a id="claim-t-65271"></a>
 - t-003
+  global_id: t-65271
   teiginys: 'Kalnėnai, traukdami į karę, kartu su žirgu vedėsi ir šunį, kuris mažomis rogėmis vežė įkaitį, karo padargą ir grįžtant grobį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65272"></a>
 - t-004
+  global_id: t-65272
   teiginys: 'Kalnėnai, nors kariavo jodami, turėjo ir paslėptus pėsčiuosius, kuriuos jodino dvisėdais.'
   pagrindžia:
     - c-002

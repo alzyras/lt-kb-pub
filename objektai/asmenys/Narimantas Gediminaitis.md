@@ -19,17 +19,23 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
 
 ## Teiginiai
 
+<a id="claim-t-40368"></a>
 - t-001
+  global_id: t-40368
   teiginys: 'Narimantas Gediminaitis valdė Orechovą, svarbų punktą Ladogos paežerėje prie Nevos ištakų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-40369"></a>
 - t-002
+  global_id: t-40369
   teiginys: 'Narimantas Gediminaitis valdė Orechovą, svarbų strateginį punktą Ladogos paežerėje prie Nevos ištakų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40370"></a>
 - t-003
+  global_id: t-40370
   teiginys: 'Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė Lietuvos 40 tūkstančių“, kad buvo nukautas „kunigaikštis Narimantas Gediminaitis (Algirdo ir Kęstučio brolis), o su juo kunigaikščių ir vaivadų, ir Lietuvos daugybė“.'
   pagrindžia:
     - c-001

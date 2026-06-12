@@ -44,12 +44,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-45535"></a>
 - t-001
+  global_id: t-45535
   teiginys: 'Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d. Mergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-45536"></a>
 - t-002
+  global_id: t-45536
   teiginys: '1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė laikė plakatą, reikalaujantį ne LSSR, o LR – Lietuvos Respublikos.'
   pagrindžia:
     - c-001

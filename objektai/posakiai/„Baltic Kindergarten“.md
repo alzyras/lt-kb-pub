@@ -18,7 +18,9 @@ Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo
 
 ## Teiginiai
 
+<a id="claim-t-20837"></a>
 - t-001
+  global_id: t-20837
   teiginys: 'Jauni Lietuvos diplomatai dėl jaunumo, entuziazmo ir netradicinių žingsnių užsitarnavo Vakarų diplomatų epitetą „Baltic Kindergarten“.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Sanokas
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai Edigejus siaubė Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su Elžbieta ir iškėlė vestuvių puotą, kurioje dalyvavo ir Leopoldas, Austrijos erchercogas.
+Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Austrijos erchercogas Leopoldas.
 
 ## Teiginiai
 
+<a id="claim-t-185303"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai Edigejus siaubė Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su Elžbieta ir iškėlė vestuvių puotą, kurioje dalyvavo ir Leopoldas, Austrijos erchercogas.'
+  global_id: t-185303
+  teiginys: 'Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Austrijos erchercogas Leopoldas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai Edigejus siaubė Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su Elžbieta ir iškėlė vestuvių puotą, kurioje dalyvavo ir Leopoldas, Austrijos erchercogas.'
+  santrauka: 'Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Austrijos erchercogas Leopoldas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius, padrąsintas Vytauto tylėjimo, nu­

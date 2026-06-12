@@ -17,7 +17,9 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
 
 ## Teiginiai
 
+<a id="claim-t-100015"></a>
 - t-001
+  global_id: t-100015
   teiginys: 'Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.'
   pagrindžia:
     - c-001

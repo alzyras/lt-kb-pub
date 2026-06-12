@@ -26,12 +26,16 @@ Režimui sąmoningai keliant žemės mokesčius valstiečiams, didinant pyliavų
 
 ## Teiginiai
 
+<a id="claim-t-22088"></a>
 - t-001
+  global_id: t-22088
   teiginys: '1949 m., režimui didinant mokesčius ir pyliavas, daugiau kaip pusė Lietuvos valstiečių įsiskolino valstybei už pieną ir mėsą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183405"></a>
 - t-002
+  global_id: t-183405
   teiginys: 'Režimui sąmoningai keliant žemės mokesčius valstiečiams, didinant pyliavų normas, 1949 m. daugiau kaip pusė visų Lietuvos valstiečių įsiskolino valstybei už pieną ir mėsą, tokie ūkiai aprašyti, o jų savininkai nuteisti.'
   pagrindžia:
     - c-002

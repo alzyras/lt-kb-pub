@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad todėl ėmė skatin ti Tautvilą: jam, krikščioniui valdovui, jis perduodąs iš tėvo paveldėtas teises į Lietuvą, be to, maldaująs, kad nenurimtų neatkeršijęs Treniotai už tiek daug pik tadarybių, kad tėvui Mindaugui paaukotų jo žudiko kraują.
+Tautvilo sąmokslą prieš Treniotą išdavė klastingas Polocko dvariškis, todėl valdovas jį skubiai užgniaužė.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185830"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad todėl ėmė skatin ti Tautvilą: jam, krikščioniui valdovui, jis perduodąs iš tėvo paveldėtas teises į Lietuvą, be to, maldaująs, kad nenurimtų neatkeršijęs Treniotai už tiek daug pik tadarybių, kad tėvui Mindaugui paaukotų jo žudiko kraują.'
+  global_id: t-185830
+  teiginys: 'Tautvilo sąmokslą prieš Treniotą išdavė klastingas Polocko dvariškis, todėl valdovas jį skubiai užgniaužė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad todėl ėmė skatin ti Tautvilą: jam, krikščioniui valdovui, jis perduodąs iš tėvo paveldėtas teises į Lietuvą, be to, maldaująs, kad nenurimtų neatkeršijęs Treniotai už tiek daug pik tadarybių, kad tėvui Mindaugui paaukotų jo žudiko kraują.'
+  santrauka: 'Tautvilo sąmokslą prieš Treniotą išdavė klastingas Polocko dvariškis, todėl valdovas jį skubiai užgniaužė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip susiklosčius jo gyvenimui, jis neturėjo
@@ -62,3 +63,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- [[objektai/asmenys/Tautvilas]]
+- [[objektai/asmenys/Treniota]]

@@ -19,7 +19,9 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
 
 ## Teiginiai
 
+<a id="claim-t-86025"></a>
 - t-001
+  global_id: t-86025
   teiginys: 'Molėtų kaimas prie Vilniaus buvo vienas iš valdų, iškilmingu aktu dovanotų Vilniaus vyskupui.'
   pagrindžia:
     - c-001

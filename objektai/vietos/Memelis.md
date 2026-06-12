@@ -19,7 +19,9 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
 
 ## Teiginiai
 
+<a id="claim-t-86152"></a>
 - t-001
+  global_id: t-86152
   teiginys: 'Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą ir jį sudegino.'
   pagrindžia:
     - c-001

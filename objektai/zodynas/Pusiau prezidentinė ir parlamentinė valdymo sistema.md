@@ -17,7 +17,9 @@ Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yr
 
 ## Teiginiai
 
+<a id="claim-t-22020"></a>
 - t-001
+  global_id: t-22020
   teiginys: 'Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, bet valdymo sistema liko labiau orientuota į parlamentinį valdymą.'
   pagrindžia:
     - c-001

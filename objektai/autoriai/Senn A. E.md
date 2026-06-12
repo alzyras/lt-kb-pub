@@ -26,12 +26,16 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
 
 ## Teiginiai
 
+<a id="claim-t-64847"></a>
 - t-001
+  global_id: t-64847
   teiginys: 'Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European politics. The Years of the First Republic, 1918–1940. New York, 1997.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64848"></a>
 - t-002
+  global_id: t-64848
   teiginys: 'Senn A. E. Lietuvos valstybės atkūrimas 1918–1920. Vilnius, 1992. Senn A. E. Bundanti Lietuva. Vilnius, 1992. Senn A. E. Gorbačiovo nesėkmė Lietuvoje, 1997.'
   pagrindžia:
     - c-001

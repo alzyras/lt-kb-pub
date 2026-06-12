@@ -41,32 +41,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66810"></a>
 - t-001
+  global_id: t-66810
   teiginys: 'Priešas Pabaisko apylinkėse atsitraukė į patogesnes pozicijas, bet lietuvių-lenkų kariuomenė jį smogė ir perskėlė pusiau.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66811"></a>
 - t-002
+  global_id: t-66811
   teiginys: 'Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą, pasibaigusį 1435 m. Pabaisko mūšiu, o jame dalyvavęs Livonijos ordinas buvo visiškai susilpnintas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66812"></a>
 - t-003
+  global_id: t-66812
   teiginys: '1435 m. rugsėjo 1 d. prie Ukmergės, prie Šventosios upės, įvyko mūšis, kuriame Žygimantas ir jo sūnus Mykolas sumušė Švitrigailos pajėgas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66813"></a>
 - t-004
+  global_id: t-66813
   teiginys: 'Pabaisko mūšyje Švitrigailos ir Ordino kariuomenė palūžo ir bėgo, o daug žmonių pateko į nelaisvę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66814"></a>
 - t-005
+  global_id: t-66814
   teiginys: 'Pabaisko mūšyje žuvo Livonijos magistras Kerskorfas ir maršalas Nesselrodė, o mūšis buvo lyginamas su Tanenbergo-Žalgirio kautynėmis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-66815"></a>
 - t-006
+  global_id: t-66815
   teiginys: 'Žygimantas Kęstutaitis pergalei Pabaiske atminti pastatė parapinę bažnyčią.'
   pagrindžia:
     - c-006

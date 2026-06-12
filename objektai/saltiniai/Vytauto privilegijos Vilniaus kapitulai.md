@@ -29,22 +29,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88212"></a>
 - t-001
+  global_id: t-88212
   teiginys: '1411 m. Trakuose rašyta Vytauto privilegija Vilniaus kapitulai mainais už Vechatnicos kaimą suteikė valdas Krėvos ir Svisločiaus apylinkėse.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-88213"></a>
 - t-002
+  global_id: t-88213
   teiginys: 'Antrąja privilegija Vytautas Vilniaus katedrai skyrė Dragimino ir Dragiminiškių kaimus, pievą prie Žižmos ir nausėdžius.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-88214"></a>
 - t-003
+  global_id: t-88214
   teiginys: '1412 m. ketvirtoji Vytauto privilegija Vilniaus kapitulai buvo rašyta Trakuose antradienį prieš Kristaus Kūno šventę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88215"></a>
 - t-004
+  global_id: t-88215
   teiginys: '1407 m. Vilniuje rašyta Vytauto privilegija Vilniaus kapitulai Liubarų kaimą suteikė mainais už anksčiau dovanotą Jaryničių kaimą.'
   pagrindžia:
     - c-001

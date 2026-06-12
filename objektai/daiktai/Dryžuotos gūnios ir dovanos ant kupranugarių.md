@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87109"></a>
 - t-001
+  global_id: t-87109
   teiginys: 'Totorių chanas Jedigėjus Vytautui siųsdavo kupranugarius, apdengtus dryžuotomis gūniomis ir apkrautus dovanomis.'
   pagrindžia:
     - c-001

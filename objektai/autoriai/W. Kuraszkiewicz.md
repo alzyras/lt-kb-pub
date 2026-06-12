@@ -24,7 +24,9 @@ Kuraszkiewicz, W.
 
 ## Teiginiai
 
+<a id="claim-t-31064"></a>
 - t-001
+  global_id: t-31064
   teiginys: 'W. Kuraszkiewiczius 1955 m. Varšuvoje paskelbė darbą apie spėjamą jotvingių pėdsaką Palenkėje.'
   pagrindžia:
     - c-001

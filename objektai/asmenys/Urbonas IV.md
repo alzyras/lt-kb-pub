@@ -15,7 +15,6 @@ tags:
   - asmuo
   - karalius
   - popiežius
-  - šventė
 amziai:
   - 'XIII'
   - 'XIV'
@@ -30,18 +29,24 @@ Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpat
 
 ## Teiginiai
 
+<a id="claim-t-60216"></a>
 - t-001
+  global_id: t-60216
   teiginys: 'Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpaties metais Urbonas IV, popiežius, įsteigė Kristaus kūno šventę, kurią vėliau, 1310 metais, patvirtino visuotiniame Vieno susirinkime popiežius Klemensas V (Ptol.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60217"></a>
 - t-002
+  global_id: t-60217
   teiginys: 'Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 viešpaties metais tas pats Urbonas, popiežius, atidavė Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui, Sicilijos karalystę, kurią Manfredas buvo užgrobęs, norėdamas ją iš jo atimti (Mart.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184850"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad iš M a z o v ijo s į PrūNors Urbonas IV, Romos posiją piežius, prieš metus ir buvo išleidęs raštą, rimtai ragin damas ir karalių, ir kryžiuočių riterius laikytis taikos, tačiau Celneris su džiaugsmu nutarė nepraleisti pro gos pradėti karą.'
+  global_id: t-184850
+  teiginys: 'Urbonas IV buvo išleidęs raštą, kuriuo ragino karalių ir kryžiuočių riterius laikytis taikos.'
   pagrindžia:
     - c-003
 
@@ -81,7 +86,7 @@ Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpat
     - t-003
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad iš M a z o v ijo s į PrūNors Urbonas IV, Romos posiją piežius, prieš metus ir buvo išleidęs raštą, rimtai ragin damas ir karalių, ir kryžiuočių riterius laikytis taikos, tačiau Celneris su džiaugsmu nutarė nepraleisti pro gos pradėti karą.'
+  santrauka: 'Urbonas IV buvo išleidęs raštą, kuriuo ragino karalių ir kryžiuočių riterius laikytis taikos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šiedu vis dėlto Vytautą taip
@@ -115,3 +120,8 @@ Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpat
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/paprociai/Kristaus kūno šventės šventimas]]

@@ -25,7 +25,9 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
 
 ## Teiginiai
 
+<a id="claim-t-86584"></a>
 - t-001
+  global_id: t-86584
   teiginys: 'Bombarda buvo Vokietijoje neseniai išrastas ir Lietuvoje dar nežinomas šaunamasis ginklas.'
   pagrindžia:
     - c-001

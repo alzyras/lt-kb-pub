@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62543"></a>
 - t-001
+  global_id: t-62543
   teiginys: 'Dusburgietis teigia, kad apie Štarkenbergo pilies užgrobimą ir daugybės brolių bei krikščionių žūtį Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.'
   pagrindžia:
     - c-001

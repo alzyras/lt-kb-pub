@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87083"></a>
 - t-001
+  global_id: t-87083
   teiginys: '1396 metais pilies kalno nuošliaužos užslinko ant Manvydo rūmų, o Aukštutinės pilies mūrai nuostolių nepatyrė.'
   pagrindžia:
     - c-001

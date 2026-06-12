@@ -24,7 +24,9 @@ Dusburgietis teigia, kad nepokupnas A.
 
 ## Teiginiai
 
+<a id="claim-t-60848"></a>
 - t-001
+  global_id: t-60848
   teiginys: 'A. Nepokupnas 1983 m. paskelbė darbą „Baltai slavų giminaičiai“.'
   pagrindžia:
     - c-001

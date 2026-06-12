@@ -17,12 +17,16 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
 
 ## Teiginiai
 
+<a id="claim-t-94046"></a>
 - t-001
+  global_id: t-94046
   teiginys: 'Jis tai atliko per lenkų Gniezno arkivyskupą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-94047"></a>
 - t-002
+  global_id: t-94047
   teiginys: '1415 m. į Konstanciją siųstoje Lietuvos ir Lenkijos vyskupų delegacijoje dalyvavo Gniezno arkivyskupas Mikalojus.'
   pagrindžia:
     - c-001

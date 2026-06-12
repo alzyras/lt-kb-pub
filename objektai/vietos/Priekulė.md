@@ -22,7 +22,9 @@ Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta �
 
 ## Teiginiai
 
+<a id="claim-t-42043"></a>
 - t-001
+  global_id: t-42043
   teiginys: 'Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta į Kretingą.'
   pagrindžia:
     - c-001

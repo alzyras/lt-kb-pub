@@ -19,7 +19,9 @@ sieną, pabėgo ir pasislėpė pas didįRus., 1.168, ir K a r a m z i n: M cmopi
 
 ## Teiginiai
 
+<a id="claim-t-87851"></a>
 - t-001
+  global_id: t-87851
   teiginys: 'Maskvos kunigaikštis Simonas buvo valdovas, pas kurį pabėgęs Jaunutis pasislėpė ir priėmė graikų apeigų tikėjimą.'
   pagrindžia:
     - c-001

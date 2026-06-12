@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu
 
 ## Santrauka
 
-Kojelavičius teigia, kad kernavėje buvo sukviestas susirinkimas, ten susirinko galybė diduomenės. Kojelavičius teigia, kad susirinkime ir ta, ir kita ša lis be galo triukšmavo, užsipuldinėdama viena kitą.
+Kernavėje sukviestame susirinkime susirinko daug diduomenės, o lietuviai rėmė Vaišvilko išrinkimą valdovu. Kernavės susirinkime dėl Vaišvilko valdžios abi ginčo pusės triukšmavo ir užsipuldinėjo viena kitą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185589"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kernavėje buvo sukviestas susirinkimas, ten susirinko galybė diduomenės.'
+  global_id: t-185589
+  teiginys: 'Kernavėje sukviestame susirinkime susirinko daug diduomenės, o lietuviai rėmė Vaišvilko išrinkimą valdovu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185590"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad susirinkime ir ta, ir kita ša lis be galo triukšmavo, užsipuldinėdama viena kitą.'
+  global_id: t-185590
+  teiginys: 'Kernavės susirinkime dėl Vaišvilko valdžios abi ginčo pusės triukšmavo ir užsipuldinėjo viena kitą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kernavėje buvo sukviestas susirinkimas, ten susirinko galybė diduomenės.'
+  santrauka: 'Kernavėje sukviestame susirinkime susirinko daug diduomenės, o lietuviai rėmė Vaišvilko išrinkimą valdovu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kernavėje buvo sukviestas susirinkimas,
@@ -60,7 +63,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad susirinkime ir ta, ir kita ša lis be galo triukšmavo, užsipuldinėdama viena kitą.'
+  santrauka: 'Kernavės susirinkime dėl Vaišvilko valdžios abi ginčo pusės triukšmavo ir užsipuldinėjo viena kitą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Susirinkime ir ta, ir kita ša­
@@ -78,3 +81,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Naugardukiečiai]]
+- [[objektai/asmenys/Treniota]]
+- [[objektai/grupes/Žemaičiai]]

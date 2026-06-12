@@ -16,7 +16,9 @@ Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angl
 
 ## Teiginiai
 
+<a id="claim-t-21665"></a>
 - t-001
+  global_id: t-21665
   teiginys: 'Oksfordo daktarai rėmėsi Martyno Smigleckio „Logika“ (1618 m.), vienu iš Vilniaus universiteto profesorių veikalų, pasiekusių protestantiškąją Angliją.'
   pagrindžia:
     - c-001

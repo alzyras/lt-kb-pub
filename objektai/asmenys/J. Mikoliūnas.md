@@ -16,12 +16,16 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
 
 ## Teiginiai
 
+<a id="claim-t-40159"></a>
 - t-001
+  global_id: t-40159
   teiginys: 'J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių, šautuvų ugnimi sustabdė priešo puolimą prie Kėdainių-Šėtos vieškelio.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40160"></a>
 - t-002
+  global_id: t-40160
   teiginys: 'J. Mikoliūno kairioji vora turėjo per Nabutiškius pulti šiaurinį Petraičių kaimo pakraštį ir veržtis toliau į Šėtą.'
   pagrindžia:
     - c-002

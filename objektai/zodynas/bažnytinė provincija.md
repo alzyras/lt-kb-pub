@@ -25,33 +25,45 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 
 ## Teiginiai
 
+<a id="claim-t-70098"></a>
 - t-001
+  global_id: t-70098
   teiginys: 'Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstancijos susirinkimo eigą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70099"></a>
 - t-002
+  global_id: t-70099
   teiginys: 'Vytautas siekė sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70100"></a>
 - t-003
+  global_id: t-70100
   teiginys: 'Vytautas norėjo iš pirmųjų trijų vyskupijų sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-70101"></a>
 - t-004
+  global_id: t-70101
   teiginys: 'Ši provincija turėjo užbaigti bažnytinį Lietuvos gyvenimo tvarkymą ir suteikti daugiau savarankiškumo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182936"></a>
 - t-005
-  teiginys: 'Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausimas.'
+  global_id: t-182936
+  teiginys: 'Lietuvos bažnytinės provincijos klausimas buvo visiškai nesutvarkytas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-182937"></a>
 - t-006
-  teiginys: 'Todėl, užmezgus oficialinius santykius su Vatikanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lietuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuotasis Vilniaus kraštas.'
+  global_id: t-182937
+  teiginys: 'Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti atskirą Lietuvos bažnytinę provinciją su Vilniaus kraštu.'
   pagrindžia:
     - c-005
 
@@ -112,7 +124,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     - t-003
 
 - c-004
-  santrauka: 'Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausimas.'
+  santrauka: 'Lietuvos bažnytinės provincijos klausimas buvo visiškai nesutvarkytas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     10).
@@ -130,7 +142,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     - t-005
 
 - c-005
-  santrauka: 'Todėl, užmezgus oficialinius santykius su Vatikanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lietuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuotasis Vilniaus kraštas.'
+  santrauka: 'Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti atskirą Lietuvos bažnytinę provinciją su Vilniaus kraštu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada kilo pavojus, kad bent okupuo-

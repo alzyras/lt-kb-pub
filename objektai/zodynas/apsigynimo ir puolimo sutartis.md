@@ -22,12 +22,16 @@ Kauno taika Vytautui buvo apsigynimo ir puolimo sutartis, nepraradusi vertės ir
 
 ## Teiginiai
 
+<a id="claim-t-70088"></a>
 - t-001
+  global_id: t-70088
   teiginys: 'Kauno taika Vytautui buvo apsigynimo ir puolimo sutartis, nepraradusi vertės ir naudinga jo rytų politikai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70090"></a>
 - t-002
+  global_id: t-70090
   teiginys: 'Kauno taika, kaip apsigynimo ir puolimo sutartis, Vytautui buvo naudinga politikai rytuose.'
   pagrindžia:
     - c-001

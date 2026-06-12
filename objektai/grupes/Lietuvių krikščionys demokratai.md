@@ -22,12 +22,16 @@ Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą caro vald�
 
 ## Teiginiai
 
+<a id="claim-t-74626"></a>
 - t-001
+  global_id: t-74626
   teiginys: 'Vyskupijoje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenkų nacionalizmo doktrina, matę Lenkijos valstybę kuo platesnėje buvusios LLV teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stiprinimu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74627"></a>
 - t-002
+  global_id: t-74627
   teiginys: 'Lietuvių krikščionims demokratams padėjo lojalumas caro valdžiai, todėl caro administracija jų veiklai didesnių kliūčių nestatė.'
   pagrindžia:
     - c-001

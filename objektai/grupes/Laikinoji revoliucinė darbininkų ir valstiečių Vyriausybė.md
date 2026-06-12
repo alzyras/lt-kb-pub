@@ -22,7 +22,9 @@ Tada Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų 
 
 ## Teiginiai
 
+<a id="claim-t-31260"></a>
 - t-001
+  global_id: t-31260
   teiginys: 'Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. manifestu paskelbė Tarybų valdžią Lietuvoje.'
   pagrindžia:
     - c-001

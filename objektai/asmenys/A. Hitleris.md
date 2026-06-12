@@ -27,32 +27,44 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
 
 ## Teiginiai
 
+<a id="claim-t-75628"></a>
 - t-001
+  global_id: t-75628
   teiginys: 'Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75629"></a>
 - t-002
+  global_id: t-75629
   teiginys: 'Hitleris ir iš teatro balkono pasakė kalbą džiūgaujantiems vietos vokiečiams.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75630"></a>
 - t-003
+  global_id: t-75630
   teiginys: 'Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75631"></a>
 - t-004
+  global_id: t-75631
   teiginys: '1939 m. kovo 23 d. Adolfą Hitlerį Klaipėdoje sveikino vietos vokiečių nacių simpatikai ir SA smogikai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75632"></a>
 - t-005
+  global_id: t-75632
   teiginys: '1933 m. A. Hitleris atėjo į valdžią Vokietijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75633"></a>
 - t-006
+  global_id: t-75633
   teiginys: 'Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo pseudoidėjų įgyvendinimo gali išnaikinti pusę Europos.'
   pagrindžia:
     - c-005

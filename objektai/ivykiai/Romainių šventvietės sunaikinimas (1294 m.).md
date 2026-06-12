@@ -43,12 +43,16 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
 
 ## Teiginiai
 
+<a id="claim-t-55130"></a>
 - t-001
+  global_id: t-55130
   teiginys: '1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55131"></a>
 - t-002
+  global_id: t-55131
   teiginys: 'Po Romainių sunaikinimo Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais galėjo būti perkelti į Vilnių.'
   pagrindžia:
     - c-001

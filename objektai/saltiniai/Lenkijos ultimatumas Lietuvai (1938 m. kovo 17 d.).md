@@ -25,17 +25,23 @@ Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie admi
 
 ## Teiginiai
 
+<a id="claim-t-21106"></a>
 - t-001
+  global_id: t-21106
   teiginys: '1938 m. kovo 17 d. Lenkija įteikė Lietuvai ultimatumą, reikalaudama užmegzti diplomatinius santykius ir grasindama karu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-21107"></a>
 - t-002
+  global_id: t-21107
   teiginys: 'Kovo 19 d. Lietuva priėmė Lenkijos ultimatumą, nes jis nelietė Vilniaus pripažinimo Lenkijai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183362"></a>
 - t-003
+  global_id: t-183362
   teiginys: 'Kadangi Vilniaus pripažinimo Lenkijai ultimatumas nelietė, kovo 19 dieną Lietuva ultimatumą priėmė.'
   pagrindžia:
     - c-002

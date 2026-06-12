@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XVII'
 ---
-
 # Jėzuitų ordino narių raštų cenzūra ir viršininkų aprobata prieš spausdinimą
 
 ## Santrauka
 
-Kojelavičius teigia, kad šviesiausiosios Tavo Aukštybės nevertas tarnas A lb e r ta s V iįū k a s-K o je la v ič iu s iš Jėzaus draugijos GERBIAMOJO TĖVO PROVINCIJOLO LEIDIMAS Aš, žemiau pasirašęs Jėzaus draugijos Lietuvos pro vincijos viršininkas, remdamasis galia, kurią šiuo rei.
+Jėzaus draugijos Lietuvos provincijos viršininkas leido spausdinti Alberto Vijūko-Kojelavičiaus Lietuvos istorijos antrą dalį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -36,15 +35,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185873"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad šviesiausiosios Tavo Aukštybės nevertas tarnas A lb e r ta s V iįū k a s-K o je la v ič iu s iš Jėzaus draugijos GERBIAMOJO TĖVO PROVINCIJOLO LEIDIMAS Aš, žemiau pasirašęs Jėzaus draugijos Lietuvos pro vincijos viršininkas, remdamasis galia, kurią šiuo rei.'
+  global_id: t-185873
+  teiginys: 'Jėzaus draugijos Lietuvos provincijos viršininkas leido spausdinti Alberto Vijūko-Kojelavičiaus Lietuvos istorijos antrą dalį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad šviesiausiosios Tavo Aukštybės nevertas tarnas A lb e r ta s V iįū k a s-K o je la v ič iu s iš Jėzaus draugijos GERBIAMOJO TĖVO PROVINCIJOLO LEIDIMAS Aš, žemiau pasirašęs Jėzaus draugijos Lietuvos pro vincijos viršininkas, remdamasis galia, kurią šiuo rei.'
+  santrauka: 'Jėzaus draugijos Lietuvos provincijos viršininkas leido spausdinti Alberto Vijūko-Kojelavičiaus Lietuvos istorijos antrą dalį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šviesiausiosios Tavo Aukštybės
@@ -85,3 +86,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Antspaudas]]
+- [[objektai/asmenys/Jonas]]

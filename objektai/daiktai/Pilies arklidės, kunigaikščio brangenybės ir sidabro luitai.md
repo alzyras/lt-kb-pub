@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87116"></a>
 - t-001
+  global_id: t-87116
   teiginys: 'Nuo ugnies, įsiliepsnojusios pilies kieme, kunigaikščio arklidėse, kilo toks baisus gaisras, kad, be Žemutinės pilies ir Katedros, ištisai visas miestas sudegė.'
   pagrindžia:
     - c-001

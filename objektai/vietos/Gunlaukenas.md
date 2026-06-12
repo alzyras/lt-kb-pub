@@ -16,7 +16,9 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
 
 ## Teiginiai
 
+<a id="claim-t-36252"></a>
 - t-001
+  global_id: t-36252
   teiginys: 'Gunlaukeno apskritis buvo priskirta pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebepuldinėti.'
   pagrindžia:
     - c-001

@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją
 
 ## Santrauka
 
-Kojelavičius teigia, kad vienas sargybinis kar tą įspėjo Oną, jog Vytautui gresianti mirtis, pridurdamas, kad Jogailos siųsti budeliai jau atvyko į Krėvą. Kojelavičius teigia, kad tuo tar pu Jogaila, užkirtęs, kaip jis manė, kelią vidaus ne santarvei, nukreipė jėgas prieš išorinį priešą, norėda mas jį išvyti iš Poleksijos, kurią Jonušas, Mazovijos kunigaikštis, kilus nesutarimams tarp Lietuvos valdo vų, buvo neseniai atėmęs iš lietuvių.
+Krėvoje vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir Jogailos siųsti budeliai jau atvyko. Jogaila nukreipė jėgas į Poleksiją, kurią Mazovijos kunigaikštis Jonušas neseniai buvo atėmęs iš lietuvių.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185542"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vienas sargybinis kar tą įspėjo Oną, jog Vytautui gresianti mirtis, pridurdamas, kad Jogailos siųsti budeliai jau atvyko į Krėvą.'
+  global_id: t-185542
+  teiginys: 'Krėvoje vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir Jogailos siųsti budeliai jau atvyko.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185543"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad tuo tar pu Jogaila, užkirtęs, kaip jis manė, kelią vidaus ne santarvei, nukreipė jėgas prieš išorinį priešą, norėda mas jį išvyti iš Poleksijos, kurią Jonušas, Mazovijos kunigaikštis, kilus nesutarimams tarp Lietuvos valdo vų, buvo neseniai atėmęs iš lietuvių.'
+  global_id: t-185543
+  teiginys: 'Jogaila nukreipė jėgas į Poleksiją, kurią Mazovijos kunigaikštis Jonušas neseniai buvo atėmęs iš lietuvių.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vienas sargybinis kar tą įspėjo Oną, jog Vytautui gresianti mirtis, pridurdamas, kad Jogailos siųsti budeliai jau atvyko į Krėvą.'
+  santrauka: 'Krėvoje vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir Jogailos siųsti budeliai jau atvyko.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vienas sargybinis kar­
@@ -71,7 +74,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad tuo tar pu Jogaila, užkirtęs, kaip jis manė, kelią vidaus ne santarvei, nukreipė jėgas prieš išorinį priešą, norėda mas jį išvyti iš Poleksijos, kurią Jonušas, Mazovijos kunigaikštis, kilus nesutarimams tarp Lietuvos valdo vų, buvo neseniai atėmęs iš lietuvių.'
+  santrauka: 'Jogaila nukreipė jėgas į Poleksiją, kurią Mazovijos kunigaikštis Jonušas neseniai buvo atėmęs iš lietuvių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tiesą sakant,
@@ -101,3 +104,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/daiktai/Drabužiai]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/budeliai]]

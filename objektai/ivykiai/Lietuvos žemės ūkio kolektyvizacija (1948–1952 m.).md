@@ -42,17 +42,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75228"></a>
 - t-001
+  global_id: t-75228
   teiginys: 'Ekonomikos susovietinimas Unifikuodami visų sovietinių respublikų gyvenimą, sovietai atkakliai naikino privatinę nuosavybę visose ekonomikos šakose, tad žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75229"></a>
 - t-002
+  global_id: t-75229
   teiginys: '1948 m. pavasarį kolektyvinių ūkių organizavimas Lietuvos kaime sukėlė didelį pasipriešinimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75230"></a>
 - t-003
+  global_id: t-75230
   teiginys: 'Pagal naują tvarką į valstybinį žemės fondą buvo paimta likusi be šeimininkų, taip pat pasitraukusiųjų į Vakarus ar repatrijavusiųjų į Lenkiją žemė, į žemės fondą taip pat perduota konfiskuota partizanų ir tremtinių žemė.'
   pagrindžia:
     - c-001

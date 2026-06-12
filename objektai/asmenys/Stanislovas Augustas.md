@@ -26,7 +26,9 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
 
 ## Teiginiai
 
+<a id="claim-t-87857"></a>
 - t-001
+  global_id: t-87857
   teiginys: 'Stanislovas Augustas suteikė privilegiją, dėl kurios Akademijos spaustuvė turėjo karališkosios vardą.'
   pagrindžia:
     - c-001

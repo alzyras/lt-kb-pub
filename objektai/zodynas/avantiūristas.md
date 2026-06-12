@@ -23,7 +23,9 @@ Jeigu iki tol Vytautas atrodė nepastovus, besiblaškantis, avantiūristas, tai 
 
 ## Teiginiai
 
+<a id="claim-t-36768"></a>
 - t-001
+  global_id: t-36768
   teiginys: 'Iki 1392 m. Vytautas atrodė nepastovus avantiūristas, o nuo 1392 m. virto rimtu valdovu monarchu.'
   pagrindžia:
     - c-001

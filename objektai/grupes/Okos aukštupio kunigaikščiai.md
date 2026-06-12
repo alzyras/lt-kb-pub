@@ -18,12 +18,16 @@ Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais,
 
 ## Teiginiai
 
+<a id="claim-t-34361"></a>
 - t-001
+  global_id: t-34361
   teiginys: 'Vytautas siekė Okos aukštupio kunigaikščius paimti savo valdžion arba turėti jiems didelę įtaką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184224"></a>
 - t-002
+  global_id: t-184224
   teiginys: 'Okos aukštupio kunigaikščiai buvo tarp rytų jėgų, kurioms Vytautas siekė primesti valdžią arba bent turėti didelę įtaką.'
   pagrindžia:
     - c-002

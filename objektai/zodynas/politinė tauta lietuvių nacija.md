@@ -19,7 +19,9 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 
 ## Teiginiai
 
+<a id="claim-t-22247"></a>
 - t-001
+  global_id: t-22247
   teiginys: 'Lietuvos metraščiuose Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai sieti savo kilmę su Palemono tradicija.'
   pagrindžia:
     - c-001

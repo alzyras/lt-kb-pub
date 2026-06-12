@@ -17,7 +17,9 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 
 ## Teiginiai
 
+<a id="claim-t-32174"></a>
 - t-001
+  global_id: t-32174
   teiginys: 'Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Gegužkalnį kartu su Kvėdarna, Gedimino pilimi bei Aukaimiu.'
   pagrindžia:
     - c-001

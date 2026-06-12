@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad visuotinę taiką nutraukė naujojo turkų tirono Bajazito puolimas. Kojelavičius teigia, kad ten paskelbus, jog Ste poną bei Valachi ją karalystė imanti į savo globą, nu siuntė į pagalbą tris tūkstančius rinktinės jaunuome nės.
+1485 m. Bajazitas pradėjo karą prieš Valachijos valdovą Steponą ir užėmė kelis Dakijos miestus. Karalius paskelbė Steponą ir Valachiją savo globotiniais ir nusiuntė jiems tris tūkstančius rinktinių karių.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185693"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad visuotinę taiką nutraukė naujojo turkų tirono Bajazito puolimas.'
+  global_id: t-185693
+  teiginys: '1485 m. Bajazitas pradėjo karą prieš Valachijos valdovą Steponą ir užėmė kelis Dakijos miestus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185694"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad ten paskelbus, jog Ste poną bei Valachi ją karalystė imanti į savo globą, nu siuntė į pagalbą tris tūkstančius rinktinės jaunuome nės.'
+  global_id: t-185694
+  teiginys: 'Karalius paskelbė Steponą ir Valachiją savo globotiniais ir nusiuntė jiems tris tūkstančius rinktinių karių.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad visuotinę taiką nutraukė naujojo turkų tirono Bajazito puolimas.'
+  santrauka: '1485 m. Bajazitas pradėjo karą prieš Valachijos valdovą Steponą ir užėmė kelis Dakijos miestus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kitais metais jie palydėjo seno­
@@ -74,7 +77,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad ten paskelbus, jog Ste poną bei Valachi ją karalystė imanti į savo globą, nu siuntė į pagalbą tris tūkstančius rinktinės jaunuome nės.'
+  santrauka: 'Karalius paskelbė Steponą ir Valachiją savo globotiniais ir nusiuntė jiems tris tūkstančius rinktinių karių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitai sužino­
@@ -89,3 +92,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Bajazitas]]

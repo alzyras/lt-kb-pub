@@ -26,7 +26,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-32353"></a>
 - t-001
+  global_id: t-32353
   teiginys: '1291 m. kryžiuočiai nepaėmė Junigėdos, bet netoliese sunaikino Mederabos pilį.'
   pagrindžia:
     - c-001

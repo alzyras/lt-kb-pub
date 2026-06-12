@@ -27,7 +27,9 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
 
 ## Teiginiai
 
+<a id="claim-t-60459"></a>
 - t-001
+  global_id: t-60459
   teiginys: 'Vargulis, Noliubės giminaitis, broliams pritarus išėjo į priekį ir įspėjo Noliubę dėl nepaklusnumo.'
   pagrindžia:
     - c-001

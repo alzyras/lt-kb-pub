@@ -19,17 +19,23 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
 
 ## Teiginiai
 
+<a id="claim-t-91359"></a>
 - t-001
+  global_id: t-91359
   teiginys: 'Dusburgietis teigia, kad kai galop visi krikščionys ir prūsai jau gulėjo nukauti, sargybinis, kuris buvo pririštas prie medžio, sutraukė raiščius, nuėjo į kovos vietą, surado čia Martyną, smarkiai sužeistą, bet dar gyvą, įkėlė jį į vežimą ir nuvežė į Rudino pilį, vesdamasis drauge.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-91360"></a>
 - t-002
+  global_id: t-91360
   teiginys: 'Dusburgietis teigia, kad apie Rudino brolių kovą ir tenykščio miesto sugriovimą Vargu ar kas stengtų išsamiai aprašyti bei papasakoti, kiek vargų antrosios atskalūnybės metais patyrė Rudino broliai bei miestiečiai, gindami krikščionių tikėjimą nuo prūsų, nes šiomis vietomis prūsai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-91361"></a>
 - t-003
+  global_id: t-91361
   teiginys: 'Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės arba paimti į nelaisvę, arba išžudyti.'
   pagrindžia:
     - c-003

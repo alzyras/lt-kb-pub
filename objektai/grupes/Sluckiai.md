@@ -17,12 +17,16 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 
 ## Teiginiai
 
+<a id="claim-t-20013"></a>
 - t-001
+  global_id: t-20013
   teiginys: 'Sluckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183182"></a>
 - t-002
+  global_id: t-183182
   teiginys: 'Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.'
   pagrindžia:
     - c-001

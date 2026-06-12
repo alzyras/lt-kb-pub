@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Valdovo rinkimas bendru balsavimu ir bendruomenės valia
 
 ## Santrauka
 
-Kojelavičius teigia, kad mirus jų valdovui, bendru balsavimu buvo išrinktas Palemonas.
+Mirus lietuvių valdovui, bendru balsavimu buvo išrinktas Palemonas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185902"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mirus jų valdovui, bendru balsavimu buvo išrinktas Palemonas.'
+  global_id: t-185902
+  teiginys: 'Mirus lietuvių valdovui, bendru balsavimu buvo išrinktas Palemonas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mirus jų valdovui, bendru balsavimu buvo išrinktas Palemonas.'
+  santrauka: 'Mirus lietuvių valdovui, bendru balsavimu buvo išrinktas Palemonas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip ne­
@@ -54,3 +55,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Palemonas]]
+- [[objektai/grupes/Lietuviai]]

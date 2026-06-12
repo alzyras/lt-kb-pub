@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-03034"></a>
 - t-001
+  global_id: t-03034
   teiginys: 'Knechtai buvo riterių tarnai, gyvenę dvaruose kaip laisvi ūkininkai, mokėję mokesčius, padėję statyti pilis ir ėję į karą.'
   pagrindžia:
     - c-001

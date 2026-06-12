@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą
 
 ## Santrauka
 
-Kojelavičius teigia, kad valdovo sūnus ar seserėnas Traidenis, pačiam Giliginui dar esant gyvam, išsivedė sutelkęs ir apgink lavęs asmeniškomis lėšomis trisdešimties tūkstančių kariuomenę iš Lietuvos ir Prūsijos: su trečdaliu kariuo menės jis nusiaubė Mazoviją, o su likusiais dviem. Kojelavičius teigia, kad traideniui su didžiuliu grobiu pasitraukus iš priešų krašto, beveik jo pėdomis įsiveržė čia naujas priešas ir vėl nusiaubė viską ugnimi ir kalaviju.
+Traidenis su trečdaliu savo kariuomenės nusiaubė Mazoviją, o su likusiais dviem trečdaliais puolė Kulmo žemę. Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185647"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad valdovo sūnus ar seserėnas Traidenis, pačiam Giliginui dar esant gyvam, išsivedė sutelkęs ir apgink lavęs asmeniškomis lėšomis trisdešimties tūkstančių kariuomenę iš Lietuvos ir Prūsijos: su trečdaliu kariuo menės jis nusiaubė Mazoviją, o su likusiais dviem.'
+  global_id: t-185647
+  teiginys: 'Traidenis su trečdaliu savo kariuomenės nusiaubė Mazoviją, o su likusiais dviem trečdaliais puolė Kulmo žemę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185648"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad traideniui su didžiuliu grobiu pasitraukus iš priešų krašto, beveik jo pėdomis įsiveržė čia naujas priešas ir vėl nusiaubė viską ugnimi ir kalaviju.'
+  global_id: t-185648
+  teiginys: 'Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad valdovo sūnus ar seserėnas Traidenis, pačiam Giliginui dar esant gyvam, išsivedė sutelkęs ir apgink lavęs asmeniškomis lėšomis trisdešimties tūkstančių kariuomenę iš Lietuvos ir Prūsijos: su trečdaliu kariuo menės jis nusiaubė Mazoviją, o su likusiais dviem.'
+  santrauka: 'Traidenis su trečdaliu savo kariuomenės nusiaubė Mazoviją, o su likusiais dviem trečdaliais puolė Kulmo žemę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vargu ar galima patikėti, kad per
@@ -62,7 +65,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad traideniui su didžiuliu grobiu pasitraukus iš priešų krašto, beveik jo pėdomis įsiveržė čia naujas priešas ir vėl nusiaubė viską ugnimi ir kalaviju.'
+  santrauka: 'Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po atkaklios apsiausties užėmęs
@@ -78,3 +81,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Giliginas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Skomantas]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/asmenys/Šventaragis]]
+- [[objektai/grupes/Sūduviai]]
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]

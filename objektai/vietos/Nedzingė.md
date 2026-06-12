@@ -16,12 +16,16 @@ DVIEJŲ KAPITONŲ PASIKALBĖJIMAS Po nesėkmingo lenkų mėginimo pralaužti lie
 
 ## Teiginiai
 
+<a id="claim-t-41968"></a>
 - t-001
+  global_id: t-41968
   teiginys: 'Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie jų prijojo lenkų parlamentaras.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183795"></a>
 - t-002
+  global_id: t-183795
   teiginys: 'DVIEJŲ KAPITONŲ PASIKALBĖJIMAS Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lietuvių pozicijų prijojo lenkų parlamentaras.'
   pagrindžia:
     - c-002

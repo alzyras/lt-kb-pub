@@ -26,17 +26,23 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
 
 ## Teiginiai
 
+<a id="claim-t-117889"></a>
 - t-001
+  global_id: t-117889
   teiginys: 'Vinrichas von Kniprodė 1351–1382 m. buvo Vokiečių ordino magistras.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-117890"></a>
 - t-002
+  global_id: t-117890
   teiginys: 'Vinricho von Kniprodės valdymo laikais Prūsų ordino valstybė Europoje kėlė nusistebėjimą ir pasigėrėjimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-117891"></a>
 - t-003
+  global_id: t-117891
   teiginys: 'Vinrichas von Kniprodė 1351–1382 m. turėjo Ordino magistro valdžią ir buvo laikomas veikliu bei energingu vokiečiu.'
   pagrindžia:
     - c-001

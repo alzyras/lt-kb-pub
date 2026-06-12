@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20440"></a>
 - t-001
+  global_id: t-20440
   teiginys: 'Po 1929 m. gegužę įvykdyto studentų eserų pasikėsinimo į A. Voldemaro gyvybę rugsėjį turėjo atsistatydinti ir premjeras.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
 
 ## Teiginiai
 
+<a id="claim-t-86799"></a>
 - t-001
+  global_id: t-86799
   teiginys: 'Kiršenšteinų giminė, vėliau gavusi pilietybę, keletą šimtmečių valdė Raudonės pilį.'
   pagrindžia:
     - c-001

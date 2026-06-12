@@ -16,7 +16,9 @@ Kai ant Dniepro saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą 
 
 ## Teiginiai
 
+<a id="claim-t-36026"></a>
 - t-001
+  global_id: t-36026
   teiginys: 'Vytautas prie Dniepro atrėmė, kad reikia kariauti, nes pergalė reikštų triumfą prieš šaltį ir totorius.'
   pagrindžia:
     - c-001

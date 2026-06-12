@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54378"></a>
 - t-001
+  global_id: t-54378
   teiginys: '„Raudonieji“ savo propagandoje ne tik lenkų, bet ir lietuvių bei baltarusių kalbomis žadėjo valstiečiams laisvę ir nuosavybės teisę į visą jų dirbamą žemę be jokių išpirkų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54379"></a>
 - t-002
+  global_id: t-54379
   teiginys: 'Lenkijos sukilėlių vadovybė, bijodama Lietuvos „raudonųjų“ radikalumo, sukilimo Lietuvoje vadovavimą pavedė „baltiesiems“.'
   pagrindžia:
     - c-001

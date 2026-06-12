@@ -18,7 +18,9 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 
 ## Teiginiai
 
+<a id="claim-t-02874"></a>
 - t-001
+  global_id: t-02874
   teiginys: '1849 m. prie Žemaičių vyskupystės buvo priskirtos 93 Vilniaus vyskupystės parapijos.'
   pagrindžia:
     - c-001

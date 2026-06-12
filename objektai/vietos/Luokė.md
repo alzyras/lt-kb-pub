@@ -22,7 +22,9 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
 
 ## Teiginiai
 
+<a id="claim-t-36374"></a>
 - t-001
+  global_id: t-36374
   teiginys: '1416 m. Vytautas Luokėje pastatė vieną iš aštuonių parapijinių bažnyčių.'
   pagrindžia:
     - c-001

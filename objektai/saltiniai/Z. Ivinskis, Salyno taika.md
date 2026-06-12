@@ -27,12 +27,16 @@ Ivinskis : Salyno taika, LE, t. — Ivinskis, Z.
 
 ## Teiginiai
 
+<a id="claim-t-32013"></a>
 - t-001
+  global_id: t-32013
   teiginys: 'Z. Ivinskio „Salyno taika“ nurodyta „Lietuvių enciklopedijos“ 26 tome, 351-353 puslapiuose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-32014"></a>
 - t-002
+  global_id: t-32014
   teiginys: '„Salyno taika“ nurodyta „Lietuvių enciklopedijos“ 26 tome, 351 puslapyje.'
   pagrindžia:
     - c-001

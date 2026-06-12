@@ -27,7 +27,9 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
 
 ## Teiginiai
 
+<a id="claim-t-172039"></a>
 - t-001
+  global_id: t-172039
   teiginys: 'Nubrėžtos sienos ėjo pro Vištyčio ežerą į Leipūnos upę.'
   pagrindžia:
     - c-001

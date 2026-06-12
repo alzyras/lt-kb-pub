@@ -24,7 +24,9 @@ Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo a
 
 ## Teiginiai
 
+<a id="claim-t-32102"></a>
 - t-001
+  global_id: t-32102
   teiginys: 'Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo autentiškumo nėra keliama abejonių, yra minima Dainava (Denowe, Deynowe, Dainowe).'
   pagrindžia:
     - c-001

@@ -26,12 +26,16 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 
 ## Teiginiai
 
+<a id="claim-t-63188"></a>
 - t-001
+  global_id: t-63188
   teiginys: 'Dusburgietis teigia, kad prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63189"></a>
 - t-002
+  global_id: t-63189
   teiginys: 'Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23, Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija) 1219 m.'
   pagrindžia:
     - c-001

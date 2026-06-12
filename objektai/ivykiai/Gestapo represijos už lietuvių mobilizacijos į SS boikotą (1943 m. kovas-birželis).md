@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20193"></a>
 - t-001
+  global_id: t-20193
   teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovą Lietuvoje suėmė 46 visuomenės veikėjus, išvežė juos į Štuthofą ir uždarė Kauno bei Vilniaus universitetus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-20194"></a>
 - t-002
+  global_id: t-20194
   teiginys: '1943 m. lietuvių pogrindis boikotavo vokiečių okupacinės valdžios agitaciją lietuviams stoti į SS batalioną.'
   pagrindžia:
     - c-001

@@ -26,12 +26,16 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 
 ## Teiginiai
 
+<a id="claim-t-43877"></a>
 - t-001
+  global_id: t-43877
   teiginys: 'Danams atiteko Saremos, arba Eželio, vyskupystė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-43878"></a>
 - t-002
+  global_id: t-43878
   teiginys: 'Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė.'
   pagrindžia:
     - c-001

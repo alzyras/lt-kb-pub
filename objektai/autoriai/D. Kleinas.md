@@ -16,12 +16,16 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
 
 ## Teiginiai
 
+<a id="claim-t-01020"></a>
 - t-001
+  global_id: t-01020
   teiginys: 'Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi giesmių knygas, kurios ėjo pagrindu vėlesnėms lietuvių liuterionių giesmynų laidoms.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01021"></a>
 - t-002
+  global_id: t-01021
   teiginys: '1666 m. pasirodė D. Kleino giesmynas.'
   pagrindžia:
     - c-002

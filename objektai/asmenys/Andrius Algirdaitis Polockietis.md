@@ -27,17 +27,23 @@ Tverės kunigaikštis puolė Dmitrovą, o tuo metu Kęstutis ir Andrius Algirdai
 
 ## Teiginiai
 
+<a id="claim-t-40018"></a>
 - t-001
+  global_id: t-40018
   teiginys: 'Andrius Algirdaitis Polockietis su Kęstučiu ir Vytautu Kęstutaičiu puolė Perejeslavlį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40019"></a>
 - t-002
+  global_id: t-40019
   teiginys: 'Andrius Algirdaitis Polockietis žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183726"></a>
 - t-003
+  global_id: t-183726
   teiginys: 'Mūšyje žuvo keliasdešimt (kartais nurodoma net 74) žymių Lietuvos kunigaikščių: Andrius Algirdaitis Polockietis, Dmitrijus Algirdaitis Brenskietis, Dimitrijus (Voluinietis Karijotaitis), (LDK karo vadai, vadovavę ir 1380 m. Kulikovo mūšyje sumušant Aukso.'
   pagrindžia:
     - c-001

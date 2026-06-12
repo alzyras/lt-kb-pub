@@ -17,17 +17,23 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 
 ## Teiginiai
 
+<a id="claim-t-41632"></a>
 - t-001
+  global_id: t-41632
   teiginys: 'Buktos (Žaliosios) miške veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko partizanų būriai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41633"></a>
 - t-002
+  global_id: t-41633
   teiginys: 'S. Staniškis-Litas įsakė Dzūkų būriui trauktis į Buktos (Žaliosios) miško ir Palių pakraštį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41634"></a>
 - t-003
+  global_id: t-41634
   teiginys: 'Remiantis KGB duomenimis, liepos 15 d., vykdant operaciją Buktos (Žaliosios) miške bei Daukšių kaime, žuvo partizanai Juozas Pūkas ir Motiejus Overa.'
   pagrindžia:
     - c-003

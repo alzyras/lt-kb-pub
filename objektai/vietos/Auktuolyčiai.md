@@ -23,12 +23,16 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 
 ## Teiginiai
 
+<a id="claim-t-58523"></a>
 - t-001
+  global_id: t-58523
   teiginys: 'Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus tas pat brolis Ditrichas, fogtas, magistro įsakytas, atžygiavo į Nadruvos valsčių, vardu Katava461, pasiėmęs nemaža brolių, 150 raitelių bei daugybę pėstininkų, kurie plaukė laivais, ir, išdėstęs tinkamose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58524"></a>
 - t-002
+  global_id: t-58524
   teiginys: 'Auktuolyčių pilis buvo Katavos, arba Katinavos, valsčiaus centras.'
   pagrindžia:
     - c-001

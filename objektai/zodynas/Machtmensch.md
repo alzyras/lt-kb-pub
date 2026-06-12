@@ -16,7 +16,9 @@ Kaip ten bebūtų, žinome viena, kad jis buvo pilna to žodžio prasme „Macht
 
 ## Teiginiai
 
+<a id="claim-t-34303"></a>
 - t-001
+  global_id: t-34303
   teiginys: 'Vytautas apibūdinamas kaip „Machtmensch“, siejamas su garbės ir valdžios troškimu.'
   pagrindžia:
     - c-001

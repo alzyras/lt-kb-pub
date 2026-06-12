@@ -17,7 +17,9 @@ Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovič
 
 ## Teiginiai
 
+<a id="claim-t-87628"></a>
 - t-001
+  global_id: t-87628
   teiginys: 'Asianas Abrahimovičius buvo paskirtas vertėju Turkijos imperatoriaus čiaušui Ibrahimui, kuriam leista kurį laiką gyventi Vilniuje.'
   pagrindžia:
     - c-001

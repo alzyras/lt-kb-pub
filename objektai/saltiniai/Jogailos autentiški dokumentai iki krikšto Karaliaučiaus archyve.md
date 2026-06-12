@@ -18,7 +18,9 @@ Netgi kai kuriuose Jogailos au­ tentiškuose dokumentuose, rašytuose prieš jo
 
 ## Teiginiai
 
+<a id="claim-t-88431"></a>
 - t-001
+  global_id: t-88431
   teiginys: 'Iki krikšto rašytuose Jogailos autentiškuose dokumentuose Karaliaučiaus archyve Vilnius vadintas Vylne ir Velne.'
   pagrindžia:
     - c-001

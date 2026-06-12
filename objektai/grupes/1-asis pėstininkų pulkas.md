@@ -16,17 +16,23 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 
 ## Teiginiai
 
+<a id="claim-t-78158"></a>
 - t-001
+  global_id: t-78158
   teiginys: 'Tos dienos vakare, nežiūrint itin atkaklaus bolševikų pasipriešinimo, parėmus 1-ojo pėstininkų pulko batalionui, pavyko užimti šią stotį, o taip pat ir senus Pirmojo pasaulinio karo laikų vokiečių apkasus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78159"></a>
 - t-002
+  global_id: t-78159
   teiginys: 'Dešiniąją koloną sudarė du 1-ojo pėstininkų pulko batalionai, raitųjų žvalgų komanda, du raitelių eskadronai ir M. Pečiulionio vadovaujama 4-oji baterija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78160"></a>
 - t-003
+  global_id: t-78160
   teiginys: '1-asis pėstininkų pulkas naktį iš 23 į 24 d. palei Zarasų plentą nesėkmingai puolė „Bružų poziciją“.'
   pagrindžia:
     - c-003

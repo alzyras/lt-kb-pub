@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62860"></a>
 - t-001
+  global_id: t-62860
   teiginys: 'Dusburgietis teigia, kad nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn.'
   pagrindžia:
     - c-001

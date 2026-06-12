@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-35968"></a>
 - t-001
+  global_id: t-35968
   teiginys: 'Vienas kronikininkas Vytautą ir jo tėvynę apibūdino kaip gyvenusius didelėje garbėje ir šlovėje.'
   pagrindžia:
     - c-001

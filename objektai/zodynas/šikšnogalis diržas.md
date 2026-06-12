@@ -18,7 +18,9 @@ Dusburgietis teigia, kad kai jie pabeldė į vartus, juos apakino jų pačių ne
 
 ## Teiginiai
 
+<a id="claim-t-58932"></a>
 - t-001
+  global_id: t-58932
   teiginys: 'Dusburgietis teigia, kad kai jie pabeldė į vartus, juos apakino jų pačių nedorybė, ir jie nestengė pamatyti prieš akis kabančio šikšnogalio, arba diržo, kurį patraukus kad ir mažuoju pirštu, pilies vartai būtų atsivėrę ir, savaime aišku, jie būtų iš pamatų šią pilį išgriovę.'
   pagrindžia:
     - c-001

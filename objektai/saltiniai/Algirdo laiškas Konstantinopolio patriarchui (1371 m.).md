@@ -26,12 +26,16 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
 
 ## Teiginiai
 
+<a id="claim-t-67350"></a>
 - t-001
+  global_id: t-67350
   teiginys: 'Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams rex; Algirdas laiškuose Bizantijos imperijai – bazileus).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67351"></a>
 - t-002
+  global_id: t-67351
   teiginys: 'Taip liko neįgyvendintos Algirdo išsakytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o Vilnius nevirto „antruoju Kijevu“.'
   pagrindžia:
     - c-002

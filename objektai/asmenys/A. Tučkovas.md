@@ -16,7 +16,9 @@ Tučkovui, vadovavusiam rusų artilerijos parkui Poguliankoje (dabartinės J.
 
 ## Teiginiai
 
+<a id="claim-t-39984"></a>
 - t-001
+  global_id: t-39984
   teiginys: 'A. Tučkovui pavyko atsitraukti su įgulos likučiais iš rusų artilerijos parko Poguliankoje.'
   pagrindžia:
     - c-001

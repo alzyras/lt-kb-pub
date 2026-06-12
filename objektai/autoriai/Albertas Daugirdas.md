@@ -30,17 +30,23 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
 
 ## Teiginiai
 
+<a id="claim-t-40588"></a>
 - t-001
+  global_id: t-40588
   teiginys: 'Albertas Daugirdas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie AT rūmų gynybos ruožus bendraautoris.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40589"></a>
 - t-002
+  global_id: t-40589
   teiginys: 'Albertas Daugirdas 1971 m. gimė ir baigė Vilniaus pedagoginio universiteto Istorijos fakultetą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40590"></a>
 - t-003
+  global_id: t-40590
   teiginys: 'Albertas Daugirdas buvo AT gynybos dalyvis ir tyrė 1944–1953 m. rezistencinių kovų bei 1991 m. pasipriešinimo genezę.'
   pagrindžia:
     - c-002

@@ -17,12 +17,16 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
 
 ## Teiginiai
 
+<a id="claim-t-19935"></a>
 - t-001
+  global_id: t-19935
   teiginys: 'Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-19936"></a>
 - t-002
+  global_id: t-19936
   teiginys: 'MGB-KGB agentai smogikai terorui ir rezistentų naikinimui naudojo rezistencijos atributiką bei uniformas, kankino pasipriešinimo dalyvius.'
   pagrindžia:
     - c-002

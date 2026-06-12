@@ -25,17 +25,23 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
 
 ## Teiginiai
 
+<a id="claim-t-110001"></a>
 - t-001
+  global_id: t-110001
   teiginys: 'Sovietams kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ji buvo išmesta iš Tautų Sąjungos kaip agresorė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-110002"></a>
 - t-002
+  global_id: t-110002
   teiginys: 'Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183870"></a>
 - t-003
+  global_id: t-183870
   teiginys: 'Vilniuje buvo palaiminta Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoka.'
   pagrindžia:
     - c-003

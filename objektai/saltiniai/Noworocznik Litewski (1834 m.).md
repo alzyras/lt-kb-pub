@@ -23,7 +23,9 @@ Onos bažnytėlę, pa­ teikta Noworocznik Litewski, 1834 m., 298 ## Puslapis 31
 
 ## Teiginiai
 
+<a id="claim-t-88318"></a>
 - t-001
+  global_id: t-88318
   teiginys: 'Noworocznik Litewski 1834 m. buvo pateikta žinia apie Šv. Onos bažnytėlę.'
   pagrindžia:
     - c-001

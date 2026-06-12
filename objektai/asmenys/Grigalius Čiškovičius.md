@@ -18,7 +18,9 @@ Pirkliai reikalą išdėstė per įgaliotinius: Eustachijų Sidorovičių ir Gri
 
 ## Teiginiai
 
+<a id="claim-t-87682"></a>
 - t-001
+  global_id: t-87682
   teiginys: 'Grigalius Čiškovičius buvo vienas iš įgaliotinių, per kuriuos Vilniaus graikų tikėjimo pirkliai išdėstė skundą.'
   pagrindžia:
     - c-001

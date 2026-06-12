@@ -16,7 +16,9 @@ O valdžios olimpe įsitvirtinus Leonidui Brežnevui, sustiprėjus revanšistin�
 
 ## Teiginiai
 
+<a id="claim-t-19107"></a>
 - t-001
+  global_id: t-19107
   teiginys: 'Leonidui Brežnevui įsitvirtinus valdžioje, Maskvoje sustiprėjo stalininės jėgos ir valdymas vėl buvo sugriežtintas.'
   pagrindžia:
     - c-001

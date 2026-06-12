@@ -18,22 +18,30 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
 
 ## Teiginiai
 
+<a id="claim-t-89604"></a>
 - t-001
+  global_id: t-89604
   teiginys: 'Pratarmėje pirmųjų Ordino brolių veikla Prūsijoje apibūdinta žodžiais, kad per juos „stebuklų padarė aukščiausias dievas“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89605"></a>
 - t-002
+  global_id: t-89605
   teiginys: 'Dusburgietis teigia, kad jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie, atsisakę kilmingų titulų, prabangių drabužių ir kt., nuolankiai dirbo paprasčiausius darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89606"></a>
 - t-003
+  global_id: t-89606
   teiginys: 'Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89607"></a>
 - t-004
+  global_id: t-89607
   teiginys: 'Dusburgietis daugybe pavyzdžių bando parodyti, kad dievas padedąs kovojantiems broliams.'
   pagrindžia:
     - c-003

@@ -29,7 +29,9 @@ Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pasta
 
 ## Teiginiai
 
+<a id="claim-t-87764"></a>
 - t-001
+  global_id: t-87764
   teiginys: 'Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 
 ## Teiginiai
 
+<a id="claim-t-40878"></a>
 - t-001
+  global_id: t-40878
   teiginys: 'Edvardo Lajaus būrys veikė Žuvinto paliose ir Buktos, dar vadintame Žaliuoju, miške.'
   pagrindžia:
     - c-001

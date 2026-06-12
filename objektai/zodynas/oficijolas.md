@@ -18,7 +18,9 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
 
 ## Teiginiai
 
+<a id="claim-t-86600"></a>
 - t-001
+  global_id: t-86600
   teiginys: 'Vilniaus miesto gyventojus anksčiau paprastai iškviesdavo, teisdavo ir ekskomunikuodavo Vilniaus vyskupas, vikaras arba oficijolas.'
   pagrindžia:
     - c-001

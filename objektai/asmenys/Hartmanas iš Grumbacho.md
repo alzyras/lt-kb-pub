@@ -19,7 +19,9 @@ Dusburgietis teigia, kad apie brolį Harimaną, Prūsijos magistrą Brolis Hartm
 
 ## Teiginiai
 
+<a id="claim-t-60300"></a>
 - t-001
+  global_id: t-60300
   teiginys: 'Dusburgietis teigia, kad apie brolį Harimaną, Prūsijos magistrą Brolis Hartmanas iš Grumbacho, penktas Prūsijos žemės magistras, vadovavo trejus metus342.'
   pagrindžia:
     - c-001

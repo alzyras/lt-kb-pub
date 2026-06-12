@@ -31,7 +31,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01897"></a>
 - t-001
+  global_id: t-01897
   teiginys: 'Vytautui mirus, Lietuvos bajorija savo didžiuoju kunigaikščiu paskelbė jauniausiąjį Jogailos brolį, Švitrigailą.'
   pagrindžia:
     - c-001

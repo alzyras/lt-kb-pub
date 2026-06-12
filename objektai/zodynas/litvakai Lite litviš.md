@@ -19,22 +19,30 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 
 ## Teiginiai
 
+<a id="claim-t-26549"></a>
 - t-001
+  global_id: t-26549
   teiginys: 'Lietuvoje susiformavusi jidiš kalbos tarmė litviš ilgainiui tapo norminės jidiš kalbos pagrindu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-26550"></a>
 - t-002
+  global_id: t-26550
   teiginys: 'Kai kurių vertinimu, kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK erdvės kilę žydai, vadinęsi litvakais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-26551"></a>
 - t-003
+  global_id: t-26551
   teiginys: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183446"></a>
 - t-004
+  global_id: t-183446
   teiginys: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
   pagrindžia:
     - c-003

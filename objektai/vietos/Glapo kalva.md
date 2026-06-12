@@ -18,12 +18,16 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
 
 ## Teiginiai
 
+<a id="claim-t-58554"></a>
 - t-001
+  global_id: t-58554
   teiginys: 'Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58555"></a>
 - t-002
+  global_id: t-58555
   teiginys: 'Glapo kalva, vėliau vadinta Rollbergu, buvo į vakarus nuo pilies, dabartinės Kaliningrado centrinės aikštės vakaruose.'
   pagrindžia:
     - c-002

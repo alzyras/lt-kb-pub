@@ -23,12 +23,16 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
 
 ## Teiginiai
 
+<a id="claim-t-58606"></a>
 - t-001
+  global_id: t-58606
   teiginys: 'XVI a. J. Bretkūnui žinotuose pasakojimuose vieta prie Auksinės netoli Norkyčių kadaise buvo laikoma vaidilos globoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58607"></a>
 - t-002
+  global_id: t-58607
   teiginys: 'Senieji Norkyčiai buvo Auksinės vingyje, 6–7 km žemiau minimos vietos, o vėliau gyvenvietė perkelta 2 km į šiaurę.'
   pagrindžia:
     - c-002

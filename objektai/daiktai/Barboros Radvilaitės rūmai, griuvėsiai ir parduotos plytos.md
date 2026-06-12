@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87018"></a>
 - t-001
+  global_id: t-87018
   teiginys: 'Barboros Radvilaitės rūmų griuvėsiai stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos, kol 1828 m. buvo parduoti plytoms.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87019"></a>
 - t-002
+  global_id: t-87019
   teiginys: 'Barboros Radvilaitės rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
   pagrindžia:
     - c-002

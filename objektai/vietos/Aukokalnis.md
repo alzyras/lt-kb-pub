@@ -25,12 +25,16 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
 
 ## Teiginiai
 
+<a id="claim-t-34166"></a>
 - t-001
+  global_id: t-34166
   teiginys: 'Aukokalnis buvo ties dabartine Betygala, o nuo jo pradėtas apaštalavimo darbas Žemaitijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184299"></a>
 - t-002
+  global_id: t-184299
   teiginys: '1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.'
   pagrindžia:
     - c-002

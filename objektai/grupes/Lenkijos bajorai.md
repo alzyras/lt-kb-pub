@@ -19,7 +19,9 @@ Tačiau kai ši jo nelaisvė gana ilgai užsi­ tęsė, apie tai pasklido žinia
 
 ## Teiginiai
 
+<a id="claim-t-86800"></a>
 - t-001
+  global_id: t-86800
   teiginys: 'Lenkijos bajorai Varkoje nutarė siųsti pasiuntinius pas Švitrigailą reikalauti išlaisvinti karalių.'
   pagrindžia:
     - c-001
@@ -52,4 +54,6 @@ Tačiau kai ši jo nelaisvė gana ilgai užsi­ tęsė, apie tai pasklido žinia
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Švitrigaila]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/ivykiai/Vilniaus-Radomo susitarimas]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

@@ -27,12 +27,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-67276"></a>
 - t-001
+  global_id: t-67276
   teiginys: 'Kovoje padėjo budrumas ir geras miško pažinimas, iki kiekvieno kelmo ir krūmelio.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67277"></a>
 - t-002
+  global_id: t-67277
   teiginys: 'Mums kovoje padėjo tik mūsų budrumas ir tai, kad gerai žinojome mišką - kiekvieną kelmą, kiekvieną krūmelį.'
   pagrindžia:
     - c-001

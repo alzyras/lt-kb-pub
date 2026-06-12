@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-39905"></a>
 - t-001
+  global_id: t-39905
   teiginys: 'Leidinys „Užduotis: Krašto apsaugos savanorių pajėgos“ 2001 m. išleistas Vilniuje.'
   pagrindžia:
     - c-001

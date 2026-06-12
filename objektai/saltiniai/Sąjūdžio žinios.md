@@ -16,7 +16,9 @@ LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūd
 
 ## Teiginiai
 
+<a id="claim-t-21273"></a>
 - t-001
+  global_id: t-21273
   teiginys: '„Sąjūdžio žinios“ buvo LPS biuletenis, greta kurio nuo rugsėjo 16 d. pradėtas leisti laikraštis „Atgimimas“.'
   pagrindžia:
     - c-001

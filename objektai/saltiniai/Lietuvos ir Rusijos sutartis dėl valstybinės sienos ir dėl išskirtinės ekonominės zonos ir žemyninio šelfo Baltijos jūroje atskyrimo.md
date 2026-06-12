@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-78151"></a>
 - t-001
+  global_id: t-78151
   teiginys: '1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės sienos ir Baltijos jūros zonų atskyrimo.'
   pagrindžia:
     - c-001

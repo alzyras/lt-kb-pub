@@ -25,12 +25,16 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
 
 ## Teiginiai
 
+<a id="claim-t-86459"></a>
 - t-001
+  global_id: t-86459
   teiginys: 'Iš Didžiojo Naugardo į Vilnių pasiųsti bojarinai Ivanas Jermoliničius ir Chariničius su Švitrigaila sudarė taikos sutartį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86460"></a>
 - t-002
+  global_id: t-86460
   teiginys: 'Didžioji kunigaikštytė Elena į Vilnių atvyko lydima bojarinų Simono Rapolovskio, Mykolo Rusalkos ir Prokopo Zinovjevičiaus.'
   pagrindžia:
     - c-002

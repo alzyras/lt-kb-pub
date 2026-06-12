@@ -26,7 +26,9 @@ Tai Rygiškiu Jono redaguotas mokyklinis rašto darbu rinkinėlis įvairiomis te
 
 ## Teiginiai
 
+<a id="claim-t-96044"></a>
 - t-001
+  global_id: t-96044
   teiginys: 'Rygiškių Jonas redagavo „Pasakėčias“, skirtas kalbos ir literatūros mokslui.'
   pagrindžia:
     - c-001

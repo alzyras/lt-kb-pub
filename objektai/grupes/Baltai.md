@@ -27,62 +27,86 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 
 ## Teiginiai
 
+<a id="claim-t-96076"></a>
 - t-001
+  global_id: t-96076
   teiginys: 'Dusburgietis teigia, kad romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,— prūsų, lietuvių ir kitų baltų religinio kulto centras.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-96077"></a>
 - t-002
+  global_id: t-96077
   teiginys: 'Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-96078"></a>
 - t-003
+  global_id: t-96078
   teiginys: 'Dusburgietis teigia, kad mindaugas norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės baltų žemės (Livonija ir Prūsija).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-96080"></a>
 - t-004
+  global_id: t-96080
   teiginys: 'Kronikoje vaizduojamu laikotarpiu prūsai, lietuviai ir latviai priskiriami baltams, siejamiems kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-96081"></a>
 - t-005
+  global_id: t-96081
   teiginys: 'Dusburgietis teigia, kad 186 Manoma, kad politinė ir etninė baltų (Pamedės prūsų) ir Pamario slavų riba ėjusi XII—XIII a.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-96083"></a>
 - t-006
+  global_id: t-96083
   teiginys: 'XIII-XIV a. pirmos pusės šaltinių analizė sieja baltų religiją su antropomorfine dievybe, panašia į krikščioniškąjį Dievą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-96084"></a>
 - t-007
+  global_id: t-96084
   teiginys: 'Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M., Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83).'
   pagrindžia:
     - c-011
 
+<a id="claim-t-96085"></a>
 - t-008
+  global_id: t-96085
   teiginys: 'Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-96086"></a>
 - t-009
+  global_id: t-96086
   teiginys: 'I s k y r i u s SENOJI LIETUVA SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, gyvenusių arba gyvenančių Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-96087"></a>
 - t-010
+  global_id: t-96087
   teiginys: 'Dusburgietis teigia, kad taigi Lietuvos pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-96088"></a>
 - t-011
+  global_id: t-96088
   teiginys: 'Dusburgietis teigia, kad dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos tarsi pilys: Tušemlios piliakalnyje aukštutinėje padneprėje (Третьяков П.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-183122"></a>
 - t-012
+  global_id: t-183122
   teiginys: 'Baltų gentys pradėjo formuotis III tūkstantmečio pr.'
   pagrindžia:
     - c-012

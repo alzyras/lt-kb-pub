@@ -16,7 +16,9 @@ To siekė ir Jogaila, tarpininkaujant abiejų seseriai, Mozūrijos kunigaikštie
 
 ## Teiginiai
 
+<a id="claim-t-39998"></a>
 - t-001
+  global_id: t-39998
   teiginys: 'Mozūrijos kunigaikštienė Aleksandra, Jogailos ir Švitrigailos sesuo, tarpininkavo Jogailai.'
   pagrindžia:
     - c-001

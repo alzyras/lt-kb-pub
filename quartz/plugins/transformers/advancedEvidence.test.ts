@@ -6,6 +6,7 @@ const markdown = `# Objektas
 
 ## Teiginiai
 - id: t-001
+  global_id: t-00042
   teiginys: Testinis teiginys
   pagrindžia:
     - c-001
@@ -24,7 +25,11 @@ describe("AdvancedEvidence transformer", () => {
     const transformed = plugin.textTransform?.({} as any, markdown) ?? markdown
 
     assert.match(transformed, /data-claim-row="true"/)
+    assert.match(transformed, /id="claim-t-00042"/)
+    assert.match(transformed, /data-global-claim-id="t-00042"/)
+    assert.match(transformed, /href="#claim-t-00042"/)
     assert.match(transformed, /data-supporting-ids="c-001"/)
+    assert.doesNotMatch(transformed, /global_id: t-00042/)
     assert.match(transformed, /data-citation-entry="true"/)
     assert.match(transformed, /data-citation-id="c-001"/)
     assert.match(transformed, /data-citation-source-title="Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties \(1978 m\.\)"/)

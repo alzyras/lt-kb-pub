@@ -19,12 +19,16 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
 
 ## Teiginiai
 
+<a id="claim-t-19968"></a>
 - t-001
+  global_id: t-19968
   teiginys: 'Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-19969"></a>
 - t-002
+  global_id: t-19969
   teiginys: 'Vokiečių ordino valstybė vėliau pasivadino Prūsijos hercogija, o dar vėliau – Prūsijos karalija.'
   pagrindžia:
     - c-001

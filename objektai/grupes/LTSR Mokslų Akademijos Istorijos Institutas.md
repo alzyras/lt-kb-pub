@@ -24,7 +24,9 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
 
 ## Teiginiai
 
+<a id="claim-t-31259"></a>
 - t-001
+  global_id: t-31259
   teiginys: 'LTSR Mokslų Akademijos Istorijos Institutas kas dvejus metus leido knygas „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“.'
   pagrindžia:
     - c-001

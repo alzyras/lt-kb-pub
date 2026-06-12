@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-78134"></a>
 - t-001
+  global_id: t-78134
   teiginys: '1895 m. išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis.'
   pagrindžia:
     - c-001

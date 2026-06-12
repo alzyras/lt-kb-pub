@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19033"></a>
 - t-001
+  global_id: t-19033
   teiginys: 'Jurgis Šaulys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.'
   pagrindžia:
     - c-001

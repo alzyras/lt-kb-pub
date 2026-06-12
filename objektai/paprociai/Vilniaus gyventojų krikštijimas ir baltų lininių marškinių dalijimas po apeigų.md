@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87232"></a>
 - t-001
+  global_id: t-87232
   teiginys: '11, apie Antakalnį pasakodamas, Tas Vilniaus, kaip jis atrodęs Vladisrašo: quern locum vulgari lingua, Antlovo Jogailos laikais, aprašymas paakalnie, id est, antemontanum dicimus remtas ne tik Strijkovskio, Kojelavi- [tą vietą liaudies kalba Antakalniu, čiaus.'
   pagrindžia:
     - c-001

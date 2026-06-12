@@ -25,27 +25,37 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
 
 ## Teiginiai
 
+<a id="claim-t-73348"></a>
 - t-001
+  global_id: t-73348
   teiginys: 'Ostrogiškis smarkiai sumušė Maskvos kariuomenę ties Orša.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-73349"></a>
 - t-002
+  global_id: t-73349
   teiginys: 'Oršoje įsteigta jėzuitų kolegija buvo karaliaus Zigmanto fundacija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-73350"></a>
 - t-003
+  global_id: t-73350
   teiginys: 'Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-73351"></a>
 - t-004
+  global_id: t-73351
   teiginys: 'K. Ostrogiškis ties Orša smarkiai sumušė Maskvos kariuomenę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-73352"></a>
 - t-005
+  global_id: t-73352
   teiginys: 'Lietuvos hetmonas Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis.'
   pagrindžia:
     - c-004

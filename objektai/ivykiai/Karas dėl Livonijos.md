@@ -30,7 +30,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01639"></a>
 - t-001
+  global_id: t-01639
   teiginys: 'Kai Livonija Pasvaly padarė su Lietuva sutartį (1557 m.), Jonas IV tuojau paskelbė Livonijai karą; 1559 m. Livonijai pasidavus Zigmantui Augustui, Lietuva stojo jos ginti.'
   pagrindžia:
     - c-001

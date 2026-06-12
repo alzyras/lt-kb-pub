@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01850"></a>
 - t-001
+  global_id: t-01850
   teiginys: 'Rusai iš Vilniaus į Maskvą išvežė brangius ponų rūmų baldus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01851"></a>
 - t-002
+  global_id: t-01851
   teiginys: '1655 m. rusams užėmus Vilnių, miestas buvo apiplėštas ir sudegintas, o gaisras jame siautė 17 dienų.'
   pagrindžia:
     - c-002

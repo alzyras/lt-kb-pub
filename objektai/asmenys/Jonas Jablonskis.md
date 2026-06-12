@@ -25,7 +25,9 @@ Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavi
 
 ## Teiginiai
 
+<a id="claim-t-26448"></a>
 - t-001
+  global_id: t-26448
   teiginys: 'Kalbininkas Jonas Jablonskis 1912 m. Vilniuje dalyvavo Lietuvių mokslo draugijos suvažiavime.'
   pagrindžia:
     - c-001

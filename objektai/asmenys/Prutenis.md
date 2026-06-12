@@ -17,7 +17,9 @@ Dusburgietis teigia, kad iI, p. 216); kitur Prūsijos pradžia siejama su Pruten
 
 ## Teiginiai
 
+<a id="claim-t-60419"></a>
 - t-001
+  global_id: t-60419
   teiginys: 'Vienoje XV a. tradicijoje Prūsijos pradžia buvo siejama su Pruteniu ir Videvučiu.'
   pagrindžia:
     - c-001

@@ -23,52 +23,72 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 
 ## Teiginiai
 
+<a id="claim-t-65933"></a>
 - t-001
+  global_id: t-65933
   teiginys: 'Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-65934"></a>
 - t-002
+  global_id: t-65934
   teiginys: 'Dusburgietis teigia, kad septinta — Nadruva197, kurioje [gyveno] nadruviai.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-65935"></a>
 - t-003
+  global_id: t-65935
   teiginys: 'Dusburgietis teigia, kad tepenas, remdamasis įvairiais rašytiniais šaltiniais, priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-65936"></a>
 - t-004
+  global_id: t-65936
   teiginys: 'Dusburgietis teigia, kad tarp pagoniškam kultui skirtų Nadruvos regionų išsiskiria, kaip matėme, Katinavos apylinkės, kur Katinavos kalva nadruvių buvo laikoma šventa.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-65937"></a>
 - t-005
+  global_id: t-65937
   teiginys: 'Dusburgietis teigia, kad viduryje Nadruva priklausė, atrodo, Mindaugo Lietuvai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-65938"></a>
 - t-006
+  global_id: t-65938
   teiginys: 'Dusburgietis teigia, kad šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65939"></a>
 - t-007
+  global_id: t-65939
   teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių, skalvių ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui ir broliams (jie mat būgštavo, kad dėl tos.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-65940"></a>
 - t-008
+  global_id: t-65940
   teiginys: 'Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai užpuolė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-65941"></a>
 - t-009
+  global_id: t-65941
   teiginys: 'Dusburgietis teigia, kad katinavos kalva nadruvių buvo laikoma šventa (Pratorius M., Deliciae..., kn.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-65942"></a>
 - t-010
+  global_id: t-65942
   teiginys: 'Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su visomis savo šeimynomis ir, krikšto.'
   pagrindžia:
     - c-007

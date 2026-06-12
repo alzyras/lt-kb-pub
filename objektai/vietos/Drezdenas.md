@@ -19,7 +19,9 @@ Kai per septynerių metų karą Prūsų kariuomenė užėmė Drezdeną, kur buvo
 
 ## Teiginiai
 
+<a id="claim-t-02421"></a>
 - t-001
+  global_id: t-02421
   teiginys: 'Per Septynerių metų karą Prūsų kariuomenė užėmė Drezdeną, kuriame buvo karaliaus perkelta Lenkijos ir Lietuvos pinigų kalykla.'
   pagrindžia:
     - c-001

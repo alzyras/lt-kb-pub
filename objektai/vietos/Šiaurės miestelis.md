@@ -17,7 +17,9 @@ Trečioji grupė, prasidėjus Aukščiausiosios Tarybos šturmui, turėjo pulti 
 
 ## Teiginiai
 
+<a id="claim-t-42370"></a>
 - t-001
+  global_id: t-42370
   teiginys: 'Trečioji grupė, prasidėjus Aukščiausiosios Tarybos šturmui, turėjo pulti Šiaurės miestelį.'
   pagrindžia:
     - c-001

@@ -29,12 +29,16 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
 
 ## Teiginiai
 
+<a id="claim-t-125066"></a>
 - t-001
+  global_id: t-125066
   teiginys: 'Vasario 16 d. Santarvės šalių atstovai po ilgų derybų pripažino Klaipėdos kraštą Lietuvai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-125067"></a>
 - t-002
+  global_id: t-125067
   teiginys: 'Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investicijoms arba turėti tiek kariuomenės divizijų, kiek Vokietija, deja...'
   pagrindžia:
     - c-002

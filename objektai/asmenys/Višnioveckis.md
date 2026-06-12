@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Višnioveckis
 
 ## Santrauka
 
-Kojelavičius teigia, kad be kitų skitų padarytų žmonėms bei valstybei nuostolių, didžiulį sielvartą sukėlė tai, kad paėmė ir išvežė į Skitiją kunigaikštį Višnioveckį, jo žmoną bei visą šeimy ną.
+Skitai paėmė kunigaikštį Višnioveckį, jo žmoną ir visą šeimyną ir išvežė juos į Skitiją.
 
 ## Teiginiai
 
+<a id="claim-t-186170"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad be kitų skitų padarytų žmonėms bei valstybei nuostolių, didžiulį sielvartą sukėlė tai, kad paėmė ir išvežė į Skitiją kunigaikštį Višnioveckį, jo žmoną bei visą šeimy ną.'
+  global_id: t-186170
+  teiginys: 'Skitai paėmė kunigaikštį Višnioveckį, jo žmoną ir visą šeimyną ir išvežė juos į Skitiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad be kitų skitų padarytų žmonėms bei valstybei nuostolių, didžiulį sielvartą sukėlė tai, kad paėmė ir išvežė į Skitiją kunigaikštį Višnioveckį, jo žmoną bei visą šeimy ną.'
+  santrauka: 'Skitai paėmė kunigaikštį Višnioveckį, jo žmoną ir visą šeimyną ir išvežė juos į Skitiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo metu į Lietuvą įsibro-
@@ -55,3 +56,7 @@ Kojelavičius teigia, kad be kitų skitų padarytų žmonėms bei valstybei nuos
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/skitai]]

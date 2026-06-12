@@ -27,12 +27,16 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
 
 ## Teiginiai
 
+<a id="claim-t-54795"></a>
 - t-001
+  global_id: t-54795
   teiginys: 'Laisvieji imperijos miestai vėliau dalyvavo imperijos valdyme ir tapo galingi bei savarankiški.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54796"></a>
 - t-002
+  global_id: t-54796
   teiginys: 'Laisvųjų imperijos miestų pradžia siejama su imperatorių miestams teikta globa ir privilegijomis.'
   pagrindžia:
     - c-001

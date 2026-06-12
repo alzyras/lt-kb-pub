@@ -52,12 +52,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-20823"></a>
 - t-001
+  global_id: t-20823
   teiginys: 'Vytauto jubiliejinių renginių svarbiausia mintis buvo tautos vienybė ir žinia, kad Lietuva yra sena istorinė valstybė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-20824"></a>
 - t-002
+  global_id: t-20824
   teiginys: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.'
   pagrindžia:
     - c-001

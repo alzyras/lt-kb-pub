@@ -36,12 +36,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67130"></a>
 - t-001
+  global_id: t-67130
   teiginys: 'Žmogžudystės nesantarvė jų žemėje baigdavosi tik tada, kai nužudytojo tėvai nužudydavo patį žudiką arba jo giminaitį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67131"></a>
 - t-002
+  global_id: t-67131
   teiginys: 'Prūsų prigimtinėje teisėje buvęs taliono principas davė pagrindo kalbėti apie kraujo kerštą nusikaltėliui ir jo giminėms.'
   pagrindžia:
     - c-002

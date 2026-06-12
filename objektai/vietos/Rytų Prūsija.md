@@ -24,22 +24,30 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
 
 ## Teiginiai
 
+<a id="claim-t-170843"></a>
 - t-001
+  global_id: t-170843
   teiginys: 'Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmečio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prūsijos, lietuvių vadinamos Mažąja Lietuva, nevaldė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-170844"></a>
 - t-002
+  global_id: t-170844
   teiginys: 'Tačiau Versalyje Lietuvos delegacija iškėlė Rytų Prūsijos (kurioje tarp pusės milijono vokiečių gyveno iki 100 000 lietuvių) teritorijos perdavimo Lietuvai ir išėjimo į Baltijos jūrą per Klaipėdą klausimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-170846"></a>
 - t-003
+  global_id: t-170846
   teiginys: 'Kaltinamieji teigė, kad nurodymus jiems davė Rytų Prūsijos oberprezidentas Ėrichas Kochas ir kiti nacių atstovai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-170847"></a>
 - t-004
+  global_id: t-170847
   teiginys: '11 minučių ir įveikę 6 411 km, antrą tuo metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katastrofą tuometinėje Rytų Prūsijoje.'
   pagrindžia:
     - c-002

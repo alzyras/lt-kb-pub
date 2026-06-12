@@ -44,17 +44,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-55031"></a>
 - t-001
+  global_id: t-55031
   teiginys: 'Šventaragio slėnyje buvęs aukuras buvo skirtas mirusiųjų kūnams deginti pagal lietuvių pagonių papročius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55032"></a>
 - t-002
+  global_id: t-55032
   teiginys: 'Lotyniškas žodis „rogus“ reiškė aukurą, skirtą mirusiųjų kūnams deginti ir laidoti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-81841"></a>
 - t-003
+  global_id: t-81841
   teiginys: 'Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių tarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį, išaugino Lietuvai nemažame savo vaikų būryje didelį vyrą — Vytautą.'
   pagrindžia:
     - c-001

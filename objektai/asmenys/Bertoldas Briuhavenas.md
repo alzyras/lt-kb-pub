@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Bertoldas Briuhavenas
 
 ## Santrauka
 
-Kojelavičius teigia, kad bertoldas negalėjo leisti, kad iš jo atimamas toks patogus kelias, todėl, su kariuomene užpuolęs darbininkus, jis stengėsi iš ardyti visus įrenginius; kadangi lietuviai, iš anksto ti kėdamiesi šitokių veiksmų, laikė netoliese paslėptus karių būrius, tykančius.
+Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įrenginius, bet antpuolis buvo atremtas.
 
 ## Teiginiai
 
+<a id="claim-t-186098"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad bertoldas negalėjo leisti, kad iš jo atimamas toks patogus kelias, todėl, su kariuomene užpuolęs darbininkus, jis stengėsi iš ardyti visus įrenginius; kadangi lietuviai, iš anksto ti kėdamiesi šitokių veiksmų, laikė netoliese paslėptus karių būrius, tykančius.'
+  global_id: t-186098
+  teiginys: 'Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įrenginius, bet antpuolis buvo atremtas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad bertoldas negalėjo leisti, kad iš jo atimamas toks patogus kelias, todėl, su kariuomene užpuolęs darbininkus, jis stengėsi iš ardyti visus įrenginius; kadangi lietuviai, iš anksto ti kėdamiesi šitokių veiksmų, laikė netoliese paslėptus karių būrius, tykančius.'
+  santrauka: 'Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įrenginius, bet antpuolis buvo atremtas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Bertoldas negalėjo
@@ -46,3 +47,10 @@ Kojelavičius teigia, kad bertoldas negalėjo leisti, kad iš jo atimamas toks p
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Kryžiuočių žygis į Junigedos apylinkes ir Kolainių pilies sudeginimas (1291 m.)]]

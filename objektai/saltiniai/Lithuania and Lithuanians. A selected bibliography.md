@@ -22,7 +22,9 @@ Balys : Lithuania and Lithuanians.
 
 ## Teiginiai
 
+<a id="claim-t-31828"></a>
 - t-001
+  global_id: t-31828
   teiginys: 'J. Balio „Lithuania and Lithuanians. A selected bibliography“ išleista Niujorke 1961 m.'
   pagrindžia:
     - c-001

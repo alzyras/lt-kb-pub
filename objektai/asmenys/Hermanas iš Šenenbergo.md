@@ -28,7 +28,9 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
 
 ## Teiginiai
 
+<a id="claim-t-60327"></a>
 - t-001
+  global_id: t-60327
   teiginys: 'Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru brolį Hermaną iš Šenenbergo480, prityrusį karvedį, kuris jiems pradėjo drąsiai priešintis: kiekvieną kartą, kai sūduviai su nedidele kariuomene įsibraudavo į Kulmo žemę, jis su savo ginklanešiais drąsiai jiems.'
   pagrindžia:
     - c-001

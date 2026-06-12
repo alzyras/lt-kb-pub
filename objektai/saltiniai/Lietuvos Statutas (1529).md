@@ -22,7 +22,9 @@ Kad bitininkystė dar ir vėliau buvo svarbi ūkio šaka, rodo randami nuostatai
 
 ## Teiginiai
 
+<a id="claim-t-31805"></a>
 - t-001
+  global_id: t-31805
   teiginys: 'Kad bitininkystė dar ir vėliau buvo svarbi ūkio šaka, rodo randami nuostatai apie bites ir bitininkų teises Lietuvos Statute (1529).'
   pagrindžia:
     - c-001

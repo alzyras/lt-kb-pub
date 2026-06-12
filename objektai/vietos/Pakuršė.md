@@ -16,7 +16,9 @@ Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos so
 
 ## Teiginiai
 
+<a id="claim-t-02650"></a>
 - t-001
+  global_id: t-02650
   teiginys: 'Kai kurios Pakuršės lietuviškos sodybos, buvusios Kuršo gubernijoje, buvo priskirtos prie Lietuvos.'
   pagrindžia:
     - c-001

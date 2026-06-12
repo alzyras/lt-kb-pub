@@ -22,7 +22,9 @@ Dusburgietis teigia, kad remeika J.
 
 ## Teiginiai
 
+<a id="claim-t-61270"></a>
 - t-001
+  global_id: t-61270
   teiginys: 'J. Remeikos „Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai“ išleista Kaune 1940 m.'
   pagrindžia:
     - c-001

@@ -17,17 +17,23 @@ Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvo
 
 ## Teiginiai
 
+<a id="claim-t-22025"></a>
 - t-001
+  global_id: t-22025
   teiginys: 'Klaipėdos klausimu Lietuva gynė status quo, nors Vilniaus klausimu reikalavo sienų revizijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-22026"></a>
 - t-002
+  global_id: t-22026
   teiginys: '1939 m. pradžioje britams ir prancūzams negarantuojant Klaipėdos status quo, Lietuva be pagalbos nebegalėjo jos išlaikyti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183465"></a>
 - t-003
+  global_id: t-183465
   teiginys: 'Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvos tikslai akivaizdžiai pjovėsi tarpusavyje: Vilniaus klausimu Lietuva reikalavo sienų revizijų, o Klaipėdos klausimu kovėsi už esamą padėtį – status quo.'
   pagrindžia:
     - c-003

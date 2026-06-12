@@ -28,12 +28,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-10441"></a>
 - t-001
+  global_id: t-10441
   teiginys: '1411 m. Torunės taikoje Žemaitija Vytautui ir Jogailai atiteko „iki gyvos galvos“.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67269"></a>
 - t-002
+  global_id: t-67269
   teiginys: 'Formulė „iki gyvos Vytauto ir Jogailos galvos“ reiškė Žemaičių atsisakymą iki Vytauto ir Jogailos mirties.'
   pagrindžia:
     - c-001

@@ -24,12 +24,16 @@ Elenos skulptūros ant katedros frontono.
 
 ## Teiginiai
 
+<a id="claim-t-19354"></a>
 - t-001
+  global_id: t-19354
   teiginys: 'Šv. Elenos skulptūra buvo ant katedros frontono.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183578"></a>
 - t-002
+  global_id: t-183578
   teiginys: 'Elenos skulptūros ant katedros frontono.'
   pagrindžia:
     - c-001

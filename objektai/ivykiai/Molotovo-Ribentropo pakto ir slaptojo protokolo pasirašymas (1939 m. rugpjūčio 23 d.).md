@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20426"></a>
 - t-001
+  global_id: t-20426
   teiginys: '1939 m. rugpjūčio 23 d. Vokietija ir SSRS slaptuoju protokolu pasidalijo regioną įtakos sferomis.'
   pagrindžia:
     - c-001

@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-21104"></a>
 - t-001
+  global_id: t-21104
   teiginys: '1918 m. lapkričio 2 d. Taryba priėmė Laikinąją konstituciją, pagal kurią pati tapo įstatymų leidimo organu.'
   pagrindžia:
     - c-001

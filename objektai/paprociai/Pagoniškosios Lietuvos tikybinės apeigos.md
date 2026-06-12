@@ -32,7 +32,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01998"></a>
 - t-001
+  global_id: t-01998
   teiginys: 'Susidūrę su lietuviais, svetimieji pastebėdavo šventuosius miškus, amžinąsias ugnis, dievų vardus ir tikybines apeigas.'
   pagrindžia:
     - c-001

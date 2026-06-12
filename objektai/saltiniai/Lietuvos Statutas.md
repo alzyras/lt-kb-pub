@@ -19,27 +19,37 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-67448"></a>
 - t-001
+  global_id: t-67448
   teiginys: 'Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešinosi lenkų bandymams gauti vietą Lietuvoje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-67449"></a>
 - t-002
+  global_id: t-67449
   teiginys: 'Alberto Goštauto vadovaujamas Lietuvos Statutas iki 1529 m. buvo baigtas ir Zigmanto II patvirtintas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67451"></a>
 - t-003
+  global_id: t-67451
   teiginys: 'Antroji Lietuvos Statuto laida buvo naujai perredaguota.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-67452"></a>
 - t-004
+  global_id: t-67452
   teiginys: 'Seime, derybų pradžioje, lietuviai rėmėsi savo naujuoju statutu, kuriuo karalius pasižadėjo išsaugoti Lietuvos sienų neliečiamybę, šaukti jos seimus ir neduoti jokiems svetimšaliams urėdų Lietuvoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67453"></a>
 - t-005
+  global_id: t-67453
   teiginys: 'Į jį buvo įtraukti ir senieji nuostatai, kad Lietuvos urėdais negalį būti skiriami jokie svetimšaliai.'
   pagrindžia:
     - c-001

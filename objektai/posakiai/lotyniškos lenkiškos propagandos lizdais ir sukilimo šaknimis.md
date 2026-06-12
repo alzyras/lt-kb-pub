@@ -17,7 +17,9 @@ Nebuvo aplenkti nė vienuolynai: juos paskelbė „lotyniškos lenkiškos propag
 
 ## Teiginiai
 
+<a id="claim-t-02092"></a>
 - t-001
+  global_id: t-02092
   teiginys: 'Vienuolynai buvo paskelbti „lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis“.'
   pagrindžia:
     - c-001

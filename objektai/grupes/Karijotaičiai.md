@@ -28,27 +28,37 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 
 ## Teiginiai
 
+<a id="claim-t-171341"></a>
 - t-001
+  global_id: t-171341
   teiginys: 'Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo Algirdo brolio Karijoto, valdančio Lietuvos Naugarduką, sūnūs - trys broliai Karijotaičiai, leidus Algirdui, su Lietuvos žemės pagalba, patraukė į Podolės žemę (Mažoji Podolė tarp.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-171342"></a>
 - t-002
+  global_id: t-171342
   teiginys: 'Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-171343"></a>
 - t-003
+  global_id: t-171343
   teiginys: 'Algirdo remiami Karijotaičiai, įsitvirtinę Mažojoje Podolėje, vietiniams gyventojams pritariant, organizavo šio krašto gynybą nuo totorių puolimų bei grobimų, statė minėtas Smotričo, Bakotos, Kameneco pilis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-171344"></a>
 - t-004
+  global_id: t-171344
   teiginys: 'Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Karijoto trijų sūnų - Karijotaičių vadovaujamų karių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184327"></a>
 - t-005
+  global_id: t-184327
   teiginys: 'Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę Podolėje.'
   pagrindžia:
     - c-001

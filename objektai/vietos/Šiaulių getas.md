@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-21943"></a>
 - t-001
+  global_id: t-21943
   teiginys: 'Apie 50 tūkst. žydų laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, kur jie išnaudoti kaip pigi darbo jėga.'
   pagrindžia:
     - c-001

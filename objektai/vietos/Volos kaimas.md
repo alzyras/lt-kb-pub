@@ -19,7 +19,9 @@ Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvarka: buvo nutarta
 
 ## Teiginiai
 
+<a id="claim-t-02892"></a>
 - t-001
+  global_id: t-02892
   teiginys: 'Karaliaus elekcija turėjo vykti lauke tarp Varšuvos ir Volos kaimo, joje dalyvauti ir balsuoti galėjo kiekvienas bajoras.'
   pagrindžia:
     - c-001

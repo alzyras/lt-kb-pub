@@ -16,7 +16,9 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
 
 ## Teiginiai
 
+<a id="claim-t-35152"></a>
 - t-001
+  global_id: t-35152
   teiginys: 'Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.'
   pagrindžia:
     - c-001

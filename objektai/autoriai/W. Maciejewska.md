@@ -24,7 +24,9 @@ Maciejewska, W.
 
 ## Teiginiai
 
+<a id="claim-t-31067"></a>
 - t-001
+  global_id: t-31067
   teiginys: 'W. Maciejewska parašė darbą apie Lenkijos karalienę Jadvygą.'
   pagrindžia:
     - c-001

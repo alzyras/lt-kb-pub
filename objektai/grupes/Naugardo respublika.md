@@ -23,7 +23,9 @@ Ilgą laiką panašiai buvo ir su Naugardo respublika, nors Algirdas siekė ją 
 
 ## Teiginiai
 
+<a id="claim-t-31324"></a>
 - t-001
+  global_id: t-31324
   teiginys: 'Algirdas siekė priversti Naugardo respubliką paklusti, tačiau prieš jo mirtį joje įsigalėjo Maskvos įtaka.'
   pagrindžia:
     - c-001

@@ -44,33 +44,45 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 
 ## Teiginiai
 
+<a id="claim-t-54943"></a>
 - t-001
+  global_id: t-54943
   teiginys: 'Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis.'
   pagrindžia:
     - c-001
     - c-003
 
+<a id="claim-t-54944"></a>
 - t-002
+  global_id: t-54944
   teiginys: 'Andrius buvo Algirdo ir Julijonos sūnus, gimęs iš antros Algirdo santuokos su Vitebsko kunigaikštyte Julijona.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-54945"></a>
 - t-003
+  global_id: t-54945
   teiginys: 'Andrius buvo nuolatinis Dmitrijaus Doniškio bendražygis ir dalyvavo kovose prieš totorius, prisidėdamas prie pergalės Kulikovo lauke.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-54946"></a>
 - t-004
+  global_id: t-54946
   teiginys: 'Andrius, Algirdo sūnus, skiriamas nuo išgalvoto Andriaus Vaidoto; jis žuvo prie Vorsklos 1399 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82220"></a>
 - t-005
+  global_id: t-82220
   teiginys: 'Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir kovėsi su juo prieš totorius Kulikovo mūšyje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-82221"></a>
 - t-006
+  global_id: t-82221
   teiginys: 'Andrius Algirdaitis buvo Jogailai pavaldus Polocko kunigaikštis, linkęs į Kęstučio pusę.'
   pagrindžia:
     - c-004

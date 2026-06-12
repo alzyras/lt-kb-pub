@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-09548"></a>
 - t-001
+  global_id: t-09548
   teiginys: 'XVI a. antrojoje pusėje pėstininkai ir artilerija pradėti rikiuoti tarp sunkiosios kavalerijos centro ir lengvosios kavalerijos sparnų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-09550"></a>
 - t-002
+  global_id: t-09550
   teiginys: 'XV a. pabaigoje - XVI a. pradžioje Lietuvoje ir Lenkijoje susiformavo ilgam tradicine tapusi kovinė rikiuotė.'
   pagrindžia:
     - c-001

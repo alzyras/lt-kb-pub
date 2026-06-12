@@ -16,7 +16,9 @@ Pav., lieka dar labai ginčytinas klausimas, ar Vytauto motina Birutė buvo vaid
 
 ## Teiginiai
 
+<a id="claim-t-34283"></a>
 - t-001
+  global_id: t-34283
   teiginys: 'Vytauto motinos Birutės vaidilutės statusas laikytas ginčytinu, nes ano meto šaltiniai apie tai nutyli.'
   pagrindžia:
     - c-001

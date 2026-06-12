@@ -26,17 +26,23 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
 
 ## Teiginiai
 
+<a id="claim-t-86002"></a>
 - t-001
+  global_id: t-86002
   teiginys: 'Gediminas 1337 m. birželio 15 d. su kariuomene sustojo ties Bajerburgu, siekdamas išvyti priešais Veliuoną įsikūrusius kryžiuočius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86003"></a>
 - t-002
+  global_id: t-86003
   teiginys: 'Bajerburgas vėliau vadintas Raudone, nes pilies sienos buvo sumūrytos iš raudonų plytų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86004"></a>
 - t-003
+  global_id: t-86004
   teiginys: 'Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.'
   pagrindžia:
     - c-002

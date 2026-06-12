@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62787"></a>
 - t-001
+  global_id: t-62787
   teiginys: 'Dusburgietis teigia, kad ), padėjo lietuvių kariuomenei naikinti kryžiuočių pilis (III, 253— 1293 m.), be kita ko, siekė (1337 m.) padėti Gedimino kariuomenei, kuri stengėsi likviduoti naują Ordino agresijos židinį, įkurtą prie Nemuno šalia Veliuonos,— Bajerburgą36.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Dusburgietis teigia, kad blažienei, filol.
 
 ## Teiginiai
 
+<a id="claim-t-60701"></a>
 - t-001
+  global_id: t-60701
   teiginys: 'G. Blažienė teikė dalykinių patarimų rengiant Petro Dusburgiečio kronikos leidimą spaudai.'
   pagrindžia:
     - c-001

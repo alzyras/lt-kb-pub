@@ -25,7 +25,9 @@ Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropi
 
 ## Teiginiai
 
+<a id="claim-t-99915"></a>
 - t-001
+  global_id: t-99915
   teiginys: 'Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropiecą, Mstislavlį ir kt.'
   pagrindžia:
     - c-001

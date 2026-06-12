@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # erezija
 
 ## Santrauka
 
-Kojelavičius teigia, kad tie, kurie, priėmę krikščionybę, nuo jos atsimetė arba, prisidėję prie erezijų, sukėlė vidinius vaidus, silp nino monarcho valdžią ir griovė Žečpospolitą, kaip daug kartų yra sakęs Petras Skarga.
+Petras Skarga sakė, kad nuo krikščionybės atsimetę ar prie erezijų prisidėję žmonės silpnino monarcho valdžią ir griovė Žečpospolitą.
 
 ## Teiginiai
 
+<a id="claim-t-185402"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tie, kurie, priėmę krikščionybę, nuo jos atsimetė arba, prisidėję prie erezijų, sukėlė vidinius vaidus, silp nino monarcho valdžią ir griovė Žečpospolitą, kaip daug kartų yra sakęs Petras Skarga.'
+  global_id: t-185402
+  teiginys: 'Petras Skarga sakė, kad nuo krikščionybės atsimetę ar prie erezijų prisidėję žmonės silpnino monarcho valdžią ir griovė Žečpospolitą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tie, kurie, priėmę krikščionybę, nuo jos atsimetė arba, prisidėję prie erezijų, sukėlė vidinius vaidus, silp nino monarcho valdžią ir griovė Žečpospolitą, kaip daug kartų yra sakęs Petras Skarga.'
+  santrauka: 'Petras Skarga sakė, kad nuo krikščionybės atsimetę ar prie erezijų prisidėję žmonės silpnino monarcho valdžią ir griovė Žečpospolitą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tie lietuviai
@@ -39,3 +40,17 @@ Kojelavičius teigia, kad tie, kurie, priėmę krikščionybę, nuo jos atsimet�
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Petras Skarga]]
+- [[objektai/zodynas/apostazija]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]
+- [[objektai/grupes/Tamplierių ordinas]]
+- [[objektai/ivykiai/Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)]]
+- [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]
+- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
+- [[objektai/grupes/Husitai]]
+- [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams]]

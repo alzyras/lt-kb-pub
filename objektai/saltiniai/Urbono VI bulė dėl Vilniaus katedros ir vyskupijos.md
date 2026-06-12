@@ -27,12 +27,16 @@ Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigian
 
 ## Teiginiai
 
+<a id="claim-t-88343"></a>
 - t-001
+  global_id: t-88343
   teiginys: 'Tačiau Vilniaus diecezijos senųjų turto doVilnensis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88344"></a>
 - t-002
+  global_id: t-88344
   teiginys: '1389 m. pabaigoje Poznanės vyskupas Dobrogostas Vilniuje paskelbė popiežiaus Urbono VI bulę.'
   pagrindžia:
     - c-001

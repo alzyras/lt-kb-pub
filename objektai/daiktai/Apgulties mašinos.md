@@ -44,12 +44,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-179463"></a>
 - t-001
+  global_id: t-179463
   teiginys: '1278 m. nesėkmingai apguldamas Daugpilį Traidenis naudojo keturias akmenims svaidyti skirtas apgulties mašinas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-179464"></a>
 - t-002
+  global_id: t-179464
   teiginys: 'Jai užimti, be kitų karo pabūklų, turėjo pasidarę aštuoniolika svaidomųjų mašinų ir pilį apgulę laikė penkias savaites.'
   pagrindžia:
     - c-001

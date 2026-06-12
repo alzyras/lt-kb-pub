@@ -16,17 +16,23 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 
 ## Teiginiai
 
+<a id="claim-t-22130"></a>
 - t-001
+  global_id: t-22130
   teiginys: 'Pirmą nacių okupacijos savaitę SD einzatsgrupės pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-22131"></a>
 - t-002
+  global_id: t-22131
   teiginys: 'Einzatsgrupės terorą organizavo taip, kad pirmieji pogromai ir „apsivalymo“ akcijos atrodytų vykdomi vietinių gyventojų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183419"></a>
 - t-003
+  global_id: t-183419
   teiginys: 'Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir keli tūkstančiai jų sunaikinti per vadinamąsias „valymo operacijas“, kurias pradėjo atvykusios SD Einzatsgruppen – operatyviniai būriai.'
   pagrindžia:
     - c-003

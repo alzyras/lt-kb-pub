@@ -26,7 +26,9 @@ Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje 
 
 ## Teiginiai
 
+<a id="claim-t-30785"></a>
 - t-001
+  global_id: t-30785
   teiginys: 'L. Vladimirovas parašė straipsnių apie caro valdžios kultūros ir švietimo politiką Lietuvoje, bibliotekų istoriją ir lietuvių kultūros-švietimo draugijas.'
   pagrindžia:
     - c-001

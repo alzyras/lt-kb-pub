@@ -22,7 +22,9 @@ Dusburgietis teigia, kad zinkevičius Z.
 
 ## Teiginiai
 
+<a id="claim-t-61386"></a>
 - t-001
+  global_id: t-61386
   teiginys: 'Z. Zinkevičiaus „Lietuvių kalbos istorijos“ pirmasis tomas „Lietuvių kalbos kilmė“ išleistas Vilniuje 1984 m.'
   pagrindžia:
     - c-001

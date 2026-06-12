@@ -26,7 +26,9 @@ Jai vadovavo lietuvis karininkas Auglys.
 
 ## Teiginiai
 
+<a id="claim-t-40047"></a>
 - t-001
+  global_id: t-40047
   teiginys: 'Jai vadovavo lietuvis karininkas Auglys.'
   pagrindžia:
     - c-001

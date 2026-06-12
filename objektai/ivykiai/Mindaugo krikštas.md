@@ -46,22 +46,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66791"></a>
 - t-001
+  global_id: t-66791
   teiginys: 'Mindaugas apsikrikštijo; apkrikštijo ir daug savo didikų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66792"></a>
 - t-002
+  global_id: t-66792
   teiginys: 'Mindaugo krikštas ir karalystė pagoniškos Lietuvos istorijoje liko tik epizodas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66793"></a>
 - t-003
+  global_id: t-66793
   teiginys: 'Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183265"></a>
 - t-004
+  global_id: t-183265
   teiginys: 'Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.'
   pagrindžia:
     - c-003

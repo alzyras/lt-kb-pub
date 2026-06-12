@@ -18,7 +18,9 @@ Vireliūno, KRAŠTO MOKSLO VADOVĖLIS.
 
 ## Teiginiai
 
+<a id="claim-t-12238"></a>
 - t-001
+  global_id: t-12238
   teiginys: 'Vireliūno, KRAŠTO MOKSLO VADOVĖLIS.'
   pagrindžia:
     - c-001

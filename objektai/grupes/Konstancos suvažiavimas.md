@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Konstancos suvažiavimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad s k ita i n io k o ja R usią Tuo metu sugrįžo iš baž nytinio suvažiavimo pasiun tiniai, taip sutvarkę reikalus, kaip norėjo karalius, be to, parsivežu laišką, kuriuo Lvovo arkivyskupui ir Vil niaus vyskupui patikėta uždavinys įsteigti Žemaičių vys kupystę.
+Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę.
 
 ## Teiginiai
 
+<a id="claim-t-185441"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad s k ita i n io k o ja R usią Tuo metu sugrįžo iš baž nytinio suvažiavimo pasiun tiniai, taip sutvarkę reikalus, kaip norėjo karalius, be to, parsivežu laišką, kuriuo Lvovo arkivyskupui ir Vil niaus vyskupui patikėta uždavinys įsteigti Žemaičių vys kupystę.'
+  global_id: t-185441
+  teiginys: 'Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad s k ita i n io k o ja R usią Tuo metu sugrįžo iš baž nytinio suvažiavimo pasiun tiniai, taip sutvarkę reikalus, kaip norėjo karalius, be to, parsivežu laišką, kuriuo Lvovo arkivyskupui ir Vil niaus vyskupui patikėta uždavinys įsteigti Žemaičių vys kupystę.'
+  santrauka: 'Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vy­
@@ -52,3 +53,9 @@ Kojelavičius teigia, kad s k ita i n io k o ja R usią Tuo metu sugrįžo iš b
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Drabužiai]]
+- [[objektai/zodynas/vyskupystė]]
+- [[objektai/ivykiai/Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.)]]

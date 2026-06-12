@@ -38,17 +38,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-97017"></a>
 - t-001
+  global_id: t-97017
   teiginys: 'Vėliausiai 1322 m. Gediminas jau buvo perkėlęs savo sostinę į Vilnių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-97018"></a>
 - t-002
+  global_id: t-97018
   teiginys: 'Vilniaus įkūrimo legenda taip įaugo į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio vilko » sapno yra nebeįsivaizduojama.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184338"></a>
 - t-003
+  global_id: t-184338
   teiginys: 'Gediminas Vilniun jau buvo perkėlęs savo sostinę^15.'
   pagrindžia:
     - c-003

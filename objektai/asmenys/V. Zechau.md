@@ -16,7 +16,9 @@ Zechau. Zechau ir lietuvių 1-ojo pėst.
 
 ## Teiginiai
 
+<a id="claim-t-40494"></a>
 - t-001
+  global_id: t-40494
   teiginys: 'V. Zechau buvo 18-ojo vokiečių saksų pėstininkų pulko vadas.'
   pagrindžia:
     - c-001

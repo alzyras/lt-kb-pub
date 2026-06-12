@@ -24,7 +24,9 @@ Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pra
 
 ## Teiginiai
 
+<a id="claim-t-61327"></a>
 - t-001
+  global_id: t-61327
   teiginys: 'Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pratęsti iki 1337 m.)98 bei į Vieną patekusi 87 Пашуто В.'
   pagrindžia:
     - c-001

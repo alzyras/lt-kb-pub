@@ -25,12 +25,16 @@ Dziebzykbay-Rogalski, T.
 
 ## Teiginiai
 
+<a id="claim-t-97228"></a>
 - t-001
+  global_id: t-97228
   teiginys: 'T. Dziebzykbay-Rogalski 1964 m. paskelbė publikaciją „Z badań nad niektórymi zagadnieniami typologicznymi Jaćwingów“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97229"></a>
 - t-002
+  global_id: t-97229
   teiginys: 'T. Dziebzykbay-Rogalski 1964 m. paskelbė darbą apie kai kuriuos jotvingių tipologijos klausimus.'
   pagrindžia:
     - c-001

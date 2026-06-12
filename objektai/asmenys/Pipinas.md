@@ -19,17 +19,23 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
 
 ## Teiginiai
 
+<a id="claim-t-59996"></a>
 - t-001
+  global_id: t-59996
   teiginys: 'Dusburgietis teigia, kad vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis plėšikavimu: kiekvienas krikščionis, išdrįsęs išeiti iš pilies, būdavo paimamas į nelaisvę arba nužudomas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59998"></a>
 - t-002
+  global_id: t-59998
   teiginys: 'Dusburgietis teigia, kad neilgai trukus jis išdavė savo seserėną Pipiną broliams, kurie jį, pririštą, prie arklio uodegos, nuvilko iki Torunės ir ten po medžiu pakorė221.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59999"></a>
 - t-003
+  global_id: t-59999
   teiginys: 'Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi, jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po medžiu pakartas.'
   pagrindžia:
     - c-002

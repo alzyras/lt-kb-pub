@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86973"></a>
 - t-001
+  global_id: t-86973
   teiginys: 'Gediminas 1337 m. žuvo mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.'
   pagrindžia:
     - c-001

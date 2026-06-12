@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-35006"></a>
 - t-001
+  global_id: t-35006
   teiginys: 'Codex epistolaris Vitoldi Magni Ducis Lithvan apima 1376-1430 m. medžiagą ir buvo parengtas A. Prochaskos.'
   pagrindžia:
     - c-001

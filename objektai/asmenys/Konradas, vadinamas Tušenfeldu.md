@@ -18,7 +18,9 @@ Dusburgietis teigia, kad ten žuvo nukautas brolis Konradas, vadinamas Tušenfel
 
 ## Teiginiai
 
+<a id="claim-t-60370"></a>
 - t-001
+  global_id: t-60370
   teiginys: 'Dusburgietis teigia, kad ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.'
   pagrindžia:
     - c-001

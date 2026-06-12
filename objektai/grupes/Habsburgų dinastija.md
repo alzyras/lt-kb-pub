@@ -17,7 +17,9 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
 
 ## Teiginiai
 
+<a id="claim-t-19699"></a>
 - t-001
+  global_id: t-19699
   teiginys: 'XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija buvo pagrindinė Habsburgų dinastijos konkurentė.'
   pagrindžia:
     - c-001

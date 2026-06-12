@@ -16,7 +16,9 @@ atstovas RL sričiai Henrikas DanilevičiusVidmantas, Aloyzas Žilys-Žirnis ir 
 
 ## Teiginiai
 
+<a id="claim-t-40134"></a>
 - t-001
+  global_id: t-40134
   teiginys: 'Po nelygios kovos su okupantų kariuomene nusišovė LLKS vadovybės specialusis atstovas RL sričiai Henrikas Danilevičius-Vidmantas.'
   pagrindžia:
     - c-001

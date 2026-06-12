@@ -18,7 +18,9 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
 
 ## Teiginiai
 
+<a id="claim-t-36295"></a>
 - t-001
+  global_id: t-36295
   teiginys: 'Į Vytauto suvažiavimą atvyko ir Kazanės pasiuntiniai.'
   pagrindžia:
     - c-001

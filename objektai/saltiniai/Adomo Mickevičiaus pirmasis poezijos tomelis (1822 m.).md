@@ -23,12 +23,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-20996"></a>
 - t-001
+  global_id: t-20996
   teiginys: '1822 m. Vilniuje išėjo pirmasis Adomo Mickevičiaus poezijos tomelis, o vėliau poetas pagarsėjo visoje Europoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183352"></a>
 - t-002
+  global_id: t-183352
   teiginys: '1822 m. Vilniuje išėjo pirmasis Adomo Mickevičiaus poezijos tomelis, o vėliau jo poezija pagarsėjo visoje Europoje.'
   pagrindžia:
     - c-001

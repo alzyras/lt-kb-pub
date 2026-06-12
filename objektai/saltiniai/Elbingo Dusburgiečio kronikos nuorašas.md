@@ -16,7 +16,9 @@ Dusburgietis teigia, kad torunės nuorašo pagrindu padarytas ir Elbingo nuoraš
 
 ## Teiginiai
 
+<a id="claim-t-61068"></a>
 - t-001
+  global_id: t-61068
   teiginys: 'Dusburgietis teigia, kad torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.'
   pagrindžia:
     - c-001

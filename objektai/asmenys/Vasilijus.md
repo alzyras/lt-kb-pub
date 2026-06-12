@@ -6,39 +6,46 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vasilijus
 
 ## Santrauka
 
-Kojelavičius teigia, kad vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos. Kojelavičius teigia, kad kunigaikštis Vasilijus, gavęs ži nią apie pralaimėjimą, paliko prie Smolensko savo ka riuomenę ir persigandęs pabėgo į Maskvą. Kojelavičius teigia, kad apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta nislovo Daugirdo, susitarė su T a ik o s d e r y b o s su Vasilijumi tęsti pradėtas taim a sk v ė n a is kos derybas.
+Vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos. Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę prie Smolensko ir pabėgo į Maskvą. Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.
 
 ## Teiginiai
 
+<a id="claim-t-185976"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos.'
+  global_id: t-185976
+  teiginys: 'Vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185977"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kunigaikštis Vasilijus, gavęs ži nią apie pralaimėjimą, paliko prie Smolensko savo ka riuomenę ir persigandęs pabėgo į Maskvą.'
+  global_id: t-185977
+  teiginys: 'Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę prie Smolensko ir pabėgo į Maskvą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185978"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta nislovo Daugirdo, susitarė su T a ik o s d e r y b o s su Vasilijumi tęsti pradėtas taim a sk v ė n a is kos derybas.'
+  global_id: t-185978
+  teiginys: 'Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185979"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad galop ir viena, ir kita šalis sutiko su šešerių me tų paliaubomis šitokiomis sąlygomis: Vasilijus, pasi laikydamas Smolenską, atsisako Smolensko didžiojo kunigaikščio titulo, o karaliaus pasiuntiniai sutinka ti tuluoti Maskvos didįjį kunigaikštį didžiuoju.'
+  global_id: t-185979
+  teiginys: 'Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos.'
+  santrauka: 'Vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai todėl, rūpestingai pagydy­
@@ -54,7 +61,7 @@ Kojelavičius teigia, kad vasilijus įsakė surakinti Glinskį grandinėmis ir i
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kunigaikštis Vasilijus, gavęs ži nią apie pralaimėjimą, paliko prie Smolensko savo ka riuomenę ir persigandęs pabėgo į Maskvą.'
+  santrauka: 'Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę prie Smolensko ir pabėgo į Maskvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Surengęs stovykloje kareiviškas pamaldas ir pa­
@@ -73,7 +80,7 @@ Kojelavičius teigia, kad vasilijus įsakė surakinti Glinskį grandinėmis ir i
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta nislovo Daugirdo, susitarė su T a ik o s d e r y b o s su Vasilijumi tęsti pradėtas taim a sk v ė n a is kos derybas.'
+  santrauka: 'Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta­
@@ -97,7 +104,7 @@ Kojelavičius teigia, kad vasilijus įsakė surakinti Glinskį grandinėmis ir i
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad galop ir viena, ir kita šalis sutiko su šešerių me tų paliaubomis šitokiomis sąlygomis: Vasilijus, pasi laikydamas Smolenską, atsisako Smolensko didžiojo kunigaikščio titulo, o karaliaus pasiuntiniai sutinka ti tuluoti Maskvos didįjį kunigaikštį didžiuoju.'
+  santrauka: 'Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kad šitokiam tvirtini­
@@ -122,3 +129,30 @@ Kojelavičius teigia, kad vasilijus įsakė surakinti Glinskį grandinėmis ir i
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/zodynas/legatai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/senatas]]
+- [[objektai/zodynas/žygūnas]]
+- [[objektai/asmenys/Andrius Mackevičius]]
+- [[objektai/asmenys/Jonas Gornostajus]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/grupes/Mazovijos kunigaikščiai]]
+- [[objektai/asmenys/Motiejus Kločka]]
+- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
+- [[objektai/asmenys/Ovčina]]
+- [[objektai/ivykiai/Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas]]
+- [[objektai/ivykiai/Penkerių metų paliaubos tarp Lietuvos ir Maskvos]]
+- [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]
+- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
+- [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]
+- [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)]]
+- [[objektai/zodynas/globėjas]]
+- [[objektai/paprociai/Pasienio kelių saugojimas ir keleivių kratymas]]
+- [[objektai/paprociai/Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius]]
+- [[objektai/asmenys/Vasilijus Čartoriskis]]
+- [[objektai/posakiai/daugiau nebelieti krikščionių kraujo]]
+- [[objektai/ivykiai/Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas]]

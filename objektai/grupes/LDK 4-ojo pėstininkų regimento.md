@@ -17,7 +17,9 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
 
 ## Teiginiai
 
+<a id="claim-t-40976"></a>
 - t-001
+  global_id: t-40976
   teiginys: 'Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos LDK 4-ojo pėstininkų regimento kuopos.'
   pagrindžia:
     - c-001

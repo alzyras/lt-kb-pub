@@ -31,7 +31,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-45776"></a>
 - t-001
+  global_id: t-45776
   teiginys: 'Daukantas įkalbino savo kraštietį Motiejų Valančių (1801– 1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos istoriją lietuviškai.'
   pagrindžia:
     - c-001

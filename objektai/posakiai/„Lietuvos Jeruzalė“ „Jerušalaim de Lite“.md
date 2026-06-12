@@ -24,17 +24,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-26648"></a>
 - t-001
+  global_id: t-26648
   teiginys: 'XVII–XVIII a. Vilniaus kaip „Lietuvos Jeruzalės“ idėja siejama su jo lyginimu su Krokuvos, Liublino ir Lvovo žydų kultūros centrais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-26900"></a>
 - t-002
+  global_id: t-26900
   teiginys: 'XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“ (Jerušalaim de Lite).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67312"></a>
 - t-003
+  global_id: t-67312
   teiginys: 'XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“, nes tapo žydų gyvenimo pastovumo ir kultūros klestėjimo simboliu.'
   pagrindžia:
     - c-002

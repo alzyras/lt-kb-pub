@@ -16,7 +16,9 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose.
 
 ## Teiginiai
 
+<a id="claim-t-41800"></a>
 - t-001
+  global_id: t-41800
   teiginys: 'Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose.'
   pagrindžia:
     - c-001

@@ -16,12 +16,16 @@ Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio minist
 
 ## Teiginiai
 
+<a id="claim-t-78055"></a>
 - t-001
+  global_id: t-78055
   teiginys: 'Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabinetas, o premjeru tapo Vladas Mironas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78056"></a>
 - t-002
+  global_id: t-78056
   teiginys: 'Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.'
   pagrindžia:
     - c-001

@@ -28,12 +28,16 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
 
 ## Teiginiai
 
+<a id="claim-t-69545"></a>
 - t-001
+  global_id: t-69545
   teiginys: '1582 m. paliaubų sutartimi caras atsisakė Livonijos, Polocko ir Veližo, o jam grąžinti tik Didieji Lukai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-69546"></a>
 - t-002
+  global_id: t-69546
   teiginys: 'Batoro planą Lietuvos lauko etmonas Kristupas Radvila Perkūnas, iki pagrindinėms pajėgoms pradedant žygį į Pskovą, turėjo saugoti pasienį su Rusija ir imituoti įsiveržimą į Rusijos teritoriją tarp Veližo ir Smolensko ir kuo ilgiau išlaikyti įtampą šiame ruože.'
   pagrindžia:
     - c-001

@@ -28,27 +28,37 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
 
 ## Teiginiai
 
+<a id="claim-t-59944"></a>
 - t-001
+  global_id: t-59944
   teiginys: 'Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą Brolis Poponas iš Osternos, antras Prūsų žemės magistras, išbuvo vadovu septynerius metus, o atsisakęs pareigų 1241, sugrįžo į Vokietijos kraštą, kur vėliau buvo išrinktas didžiuoju magistru265.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-59945"></a>
 - t-002
+  global_id: t-59945
   teiginys: 'Dusburgietis teigia, kad apie brolį Poponą, šeštą Teutonų namų ordino didįjį magistrą Tuo metu Teutonų namų ordino VI didžiuoju magistru buvo brolis Poponas iš Osternos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59946"></a>
 - t-003
+  global_id: t-59946
   teiginys: 'Dusburgietis teigia, kad kai šitai buvo padaryta, 1244 atvyko brolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59947"></a>
 - t-004
+  global_id: t-59947
   teiginys: 'Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus laivus; priartėjęs prie Santyro, jis ten išvydo.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-59948"></a>
 - t-005
+  global_id: t-59948
   teiginys: 'Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo.'
   pagrindžia:
     - c-001

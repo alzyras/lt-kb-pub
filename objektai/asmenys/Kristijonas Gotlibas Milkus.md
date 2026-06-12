@@ -26,12 +26,16 @@ Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvi
 
 ## Teiginiai
 
+<a id="claim-t-63850"></a>
 - t-001
+  global_id: t-63850
   teiginys: 'Immanuelio Kanto tekstas apie lietuvių kalbą buvo išspausdintas Kristijono Gotlibo Milkaus lietuvių ir vokiečių kalbų žodyno pratarmėje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-63851"></a>
 - t-002
+  global_id: t-63851
   teiginys: 'Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodyno“ pratarmės.'
   pagrindžia:
     - c-001

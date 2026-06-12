@@ -25,17 +25,23 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
 
 ## Teiginiai
 
+<a id="claim-t-40042"></a>
 - t-001
+  global_id: t-40042
   teiginys: 'AT gynėjas Arvydas Pocius vėliau tapo generolu leitenantu ir Lietuvos kariuomenės vadu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-40043"></a>
 - t-002
+  global_id: t-40043
   teiginys: 'AT gynėjas Arvydas Pocius 1991 m. rugpjūčio pučo metu buvo ginkluotas pistoletu-kulkosvaidžiu PPS.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183731"></a>
 - t-004
+  global_id: t-183731
   teiginys: 'Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais UŽDUOTIS AT gynėjas Arvydas Pocius, vėliau tapęs generolu leitenantu, Lietuvos kariuomenės vadu, pasakoja apie AT gynybą.'
   pagrindžia:
     - c-003

@@ -24,7 +24,9 @@ pozicijų signatūras : J. Balys : Lithuania and Lithuanians. A selected bibliog
 
 ## Teiginiai
 
+<a id="claim-t-30659"></a>
 - t-001
+  global_id: t-30659
   teiginys: 'J. Balys 1961 m. Niujorke paskelbė rinktinę bibliografiją „Lithuania and Lithuanians“.'
   pagrindžia:
     - c-001

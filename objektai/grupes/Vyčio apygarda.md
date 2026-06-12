@@ -29,12 +29,16 @@ VYČIO APYGARDOS vadas Alfonsas Smetona-Žygaudas (1915-1950), buvęs policinink
 
 ## Teiginiai
 
+<a id="claim-t-41203"></a>
 - t-001
+  global_id: t-41203
   teiginys: '1948 m. Alfonsas Smetona-Žygaudas tapo Vyčio apygardos vadu po Jono Krištaponio ir Danieliaus Vitelio-Briedžio žūties.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41204"></a>
 - t-002
+  global_id: t-41204
   teiginys: '1950 m. panaikinus Algimanto apygardą, Žaliosios rinktinės kovotojai buvo įtraukti į Vyčio apygardą.'
   pagrindžia:
     - c-002

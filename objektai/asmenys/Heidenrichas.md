@@ -18,7 +18,9 @@ Dusburgietis teigia, kad šitai matė ir viešai skelbė brolis Heidenrichas, to
 
 ## Teiginiai
 
+<a id="claim-t-60302"></a>
 - t-001
+  global_id: t-60302
   teiginys: 'Dusburgietis teigia, kad šitai matė ir viešai skelbė brolis Heidenrichas, tos pačios pilies kunigas, kuris tuo metu pasislėpęs meldėsi viename koplyčios kampelyje.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Tai buvo Raketijos ir Liubavo raitųjų emvedistų susitikimas, baigus apsupimo 
 
 ## Teiginiai
 
+<a id="claim-t-80610"></a>
 - t-001
+  global_id: t-80610
   teiginys: 'Tai buvo Raketijos ir Liubavo raitųjų emvedistų susitikimas, baigus apsupimo žiedą.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Suleimanas
 
 ## Santrauka
 
-Kojelavičius teigia, kad esą visų didžiausi pasaulyje valdovai, būtent ir Romos imperatorius, ir Rytų sulto nas, tituluoją Maskvos didįjį kunigaikštį caru, kaip rodo Maksimilijono bei Suleimano laiškai, adresuoti Va silijui Vasiljevičiui.
+Maskvos didikai teigė, kad Suleimano laiškas Vasilijui Vasiljevičiui titulavo Maskvos didįjį kunigaikštį caru.
 
 ## Teiginiai
 
+<a id="claim-t-186258"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad esą visų didžiausi pasaulyje valdovai, būtent ir Romos imperatorius, ir Rytų sulto nas, tituluoją Maskvos didįjį kunigaikštį caru, kaip rodo Maksimilijono bei Suleimano laiškai, adresuoti Va silijui Vasiljevičiui.'
+  global_id: t-186258
+  teiginys: 'Maskvos didikai teigė, kad Suleimano laiškas Vasilijui Vasiljevičiui titulavo Maskvos didįjį kunigaikštį caru.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad esą visų didžiausi pasaulyje valdovai, būtent ir Romos imperatorius, ir Rytų sulto nas, tituluoją Maskvos didįjį kunigaikštį caru, kaip rodo Maksimilijono bei Suleimano laiškai, adresuoti Va silijui Vasiljevičiui.'
+  santrauka: 'Maskvos didikai teigė, kad Suleimano laiškas Vasilijui Vasiljevičiui titulavo Maskvos didįjį kunigaikštį caru.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Maskvos didikų vardu atsakė to miesto vy­

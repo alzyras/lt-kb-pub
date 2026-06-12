@@ -16,17 +16,23 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
 
 ## Teiginiai
 
+<a id="claim-t-22283"></a>
 - t-001
+  global_id: t-22283
   teiginys: 'Lietuvoje laikraščiai imti dubliuoti rusų kalba, leista daug rusų literatūros, vaidintos pjesės ir pradėta taikyti dvikalbystė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-22284"></a>
 - t-002
+  global_id: t-22284
   teiginys: 'Po J. Stalino mirties ir Nikitos Chruščiovo pasmerkto Stalino kulto rusinimas susilpnėjo, o valdžia labiau pasitikėjo vietiniais lietuviais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183462"></a>
 - t-003
+  global_id: t-183462
   teiginys: 'Lietuvoje visi laikraščiai imti dubliuoti ir rusų kalba, leista daug rusų literatūros kūrinių, vaidinta pjesių, visur pradėta taikyti dvikalbystę.'
   pagrindžia:
     - c-003

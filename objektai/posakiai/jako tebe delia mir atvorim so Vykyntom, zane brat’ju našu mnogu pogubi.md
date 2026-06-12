@@ -24,7 +24,9 @@ Kada buvo bandoma į sąjungą (koaliciją) prieš Mindaugą ir Vykintą Įtrauk
 
 ## Teiginiai
 
+<a id="claim-t-31559"></a>
 - t-001
+  global_id: t-31559
   teiginys: 'Posakis „jako tebe delia mir atvorim so Vykyntom, zane brat’ju našu mnogu pogubi“ Ipatijaus kronikoje siejamas su 1248 m. Rygos vyskupo laišku Danieliui Romanaičiui.'
   pagrindžia:
     - c-001

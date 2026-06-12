@@ -19,7 +19,9 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 
 ## Teiginiai
 
+<a id="claim-t-60235"></a>
 - t-001
+  global_id: t-60235
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totorių Taip pat tuo metu Almimolinas, saracėnų valdovas, atvyko su begaline gausybe karių į Ispaniją ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį.'
   pagrindžia:
     - c-001

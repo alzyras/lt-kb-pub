@@ -24,12 +24,16 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
 
 ## Teiginiai
 
+<a id="claim-t-20990"></a>
 - t-001
+  global_id: t-20990
   teiginys: 'Atkuriant valstybę reikėjo atkurti paskutinės nepriklausomos Lietuvos konstitucijos galiojimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183351"></a>
 - t-002
+  global_id: t-183351
   teiginys: 'Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.'
   pagrindžia:
     - c-002

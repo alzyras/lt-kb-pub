@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20566"></a>
 - t-001
+  global_id: t-20566
   teiginys: 'Masinėms žudynėms vykdyti sukonstruotas mechanizmas – rugpjūčio 16-ąją lietuvių policijos departamento direktorius Vytautas Reivytis slaptu raštu Nr. 3 įsakė sulaikyti visus žydus ir juos sutelkti tam numatytose vietose.'
   pagrindžia:
     - c-001

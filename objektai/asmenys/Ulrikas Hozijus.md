@@ -28,37 +28,51 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 
 ## Teiginiai
 
+<a id="claim-t-87362"></a>
 - t-001
+  global_id: t-87362
   teiginys: 'Hozijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos išlaidos, prie dominikonų Šv.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87363"></a>
 - t-002
+  global_id: t-87363
   teiginys: 'Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-87364"></a>
 - t-003
+  global_id: t-87364
   teiginys: 'Ulrikas Hozijus ragino pastatyti tiltą per Vilijos upę ir gavo pavedimą jį nutiesti savo lėšomis.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-87365"></a>
 - t-004
+  global_id: t-87365
   teiginys: '1515 m. karalius leido Ulrikui Hozijui, Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, savo lėšomis statyti malūną.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-87366"></a>
 - t-005
+  global_id: t-87366
   teiginys: 'Ulrikui Hozijui 1536 m. rugpjūčio 6 d. buvo suteikta teisė rinkti muitą iš praeivių tiltu per Vilijos upę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87367"></a>
 - t-006
+  global_id: t-87367
   teiginys: 'Ulrikas Hozijus greitai ir rūpestingai pastatė tiltą per Vilijos upę prie Vilniaus savo didelėmis lėšomis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-87368"></a>
 - t-007
+  global_id: t-87368
   teiginys: 'Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemažai pajamų karaliaus iždui.'
   pagrindžia:
     - c-003

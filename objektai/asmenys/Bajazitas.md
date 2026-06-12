@@ -18,7 +18,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Bajazitas
 
 ## Santrauka
@@ -27,13 +26,17 @@ Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (p
 
 ## Teiginiai
 
+<a id="claim-t-40062"></a>
 - t-001
+  global_id: t-40062
   teiginys: 'Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (prancūzai, vengrai, vokiečiai, britai, italai, čekai ir kiti), kovoję be vieningos vadovybės, buvo sutriuškinti Osmanų imperijos sultono Bajazito kariuomenės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184671"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad antra vertus, visi žinojo, kad po Bajazito sutriuš kinimo skitų vardas turkams kelia didžiausią siaubą.'
+  global_id: t-184671
+  teiginys: 'Po Bajazito sutriuškinimo skitų vardas, pasak Kojelavičiaus, turkams kėlė didžiausią siaubą.'
   pagrindžia:
     - c-002
 
@@ -62,7 +65,7 @@ Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (p
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad antra vertus, visi žinojo, kad po Bajazito sutriuš kinimo skitų vardas turkams kelia didžiausią siaubą.'
+  santrauka: 'Po Bajazito sutriuškinimo skitų vardas, pasak Kojelavičiaus, turkams kėlė didžiausią siaubą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tačiau tuo metu niekas nenorėjo pir­
@@ -77,3 +80,12 @@ Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (p
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Vorsklos katastrofa]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/ivykiai/Popiežiaus ir imperatoriaus mėginimas per Liudviką įtraukti skitus į karą su turkais (1465 m.)]]
+- [[objektai/ivykiai/Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)]]

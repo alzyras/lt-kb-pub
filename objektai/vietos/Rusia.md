@@ -27,17 +27,23 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
 
 ## Teiginiai
 
+<a id="claim-t-85942"></a>
 - t-001
+  global_id: t-85942
   teiginys: 'Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85943"></a>
 - t-002
+  global_id: t-85943
   teiginys: '1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85945"></a>
 - t-003
+  global_id: t-85945
   teiginys: 'Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.'
   pagrindžia:
     - c-002

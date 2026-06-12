@@ -22,7 +22,9 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
 
 ## Teiginiai
 
+<a id="claim-t-21265"></a>
 - t-001
+  global_id: t-21265
   teiginys: 'Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 dienos manifestu deklaravo Sovietų Lietuvą.'
   pagrindžia:
     - c-001

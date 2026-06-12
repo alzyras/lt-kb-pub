@@ -49,7 +49,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39209"></a>
 - t-001
+  global_id: t-39209
   teiginys: 'Po 1877 -1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė suvokė, kad vienu šoviniu užtaisomi šautuvai yra pasenę (Turkijos kariuomenė jau naudojo daugiašūvius šautuvus) ir nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas.'
   pagrindžia:
     - c-001

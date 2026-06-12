@@ -17,7 +17,9 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 
 ## Teiginiai
 
+<a id="claim-t-58602"></a>
 - t-001
+  global_id: t-58602
   teiginys: 'Po Pakimos nusiaubimo Konrado iš Tirbergo Jaunesniojo kariuomenė vakare perėjo užšalusį Nagutino ežerą.'
   pagrindžia:
     - c-001

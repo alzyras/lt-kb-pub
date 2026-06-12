@@ -18,7 +18,9 @@ Tiergard’as reiškė tą pačią nuomonę.
 
 ## Teiginiai
 
+<a id="claim-t-30266"></a>
 - t-001
+  global_id: t-30266
   teiginys: 'Ordino prokuratorius J. Tiergard’as Romoje informavo vyriausią magistrą apie Vytauto pretenzijas į Klaipėdą.'
   pagrindžia:
     - c-001

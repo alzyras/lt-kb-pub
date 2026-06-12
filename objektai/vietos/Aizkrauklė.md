@@ -18,12 +18,16 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
 
 ## Teiginiai
 
+<a id="claim-t-67604"></a>
 - t-001
+  global_id: t-67604
   teiginys: 'XII–XIII a. sąvartoje latvių gyvenama sritis dešiniajame Dauguvos krante driekėsi nuo Aizkrauklės iki Burtnieko ežero.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67605"></a>
 - t-002
+  global_id: t-67605
   teiginys: 'Dusburgietis teigia, kad aizkrauklė (buv.'
   pagrindžia:
     - c-001

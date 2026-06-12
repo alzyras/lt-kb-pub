@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40693"></a>
 - t-001
+  global_id: t-40693
   teiginys: 'Armatūros nuopjova, įstatyta į guminę žarną, datuojama 1991 m.'
   pagrindžia:
     - c-001

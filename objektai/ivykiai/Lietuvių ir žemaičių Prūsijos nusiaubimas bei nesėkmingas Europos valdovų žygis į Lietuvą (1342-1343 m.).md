@@ -13,12 +13,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Lietuvių ir žemaičių Prūsijos nusiaubimas bei nesėkmingas Europos valdovų žygis į Lietuvą (1342-1343 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad pasinaudoję ta proga, surengė žygį lietuviai ir žemaičiai, gal patys šitai sugalvoję ar prisiminę senas skriaudas, o gal lenkų paskaP rū sija sia u b ia m a lietinti.
+Lietuviai ir žemaičiai įsiveržė į menkai saugomą Prūsiją, beveik visą kraštą nusiaubė ir pavertė pelenais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -34,15 +33,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185742"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pasinaudoję ta proga, surengė žygį lietuviai ir žemaičiai, gal patys šitai sugalvoję ar prisiminę senas skriaudas, o gal lenkų paskaP rū sija sia u b ia m a lietinti.'
+  global_id: t-185742
+  teiginys: 'Lietuviai ir žemaičiai įsiveržė į menkai saugomą Prūsiją, beveik visą kraštą nusiaubė ir pavertė pelenais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pasinaudoję ta proga, surengė žygį lietuviai ir žemaičiai, gal patys šitai sugalvoję ar prisiminę senas skriaudas, o gal lenkų paskaP rū sija sia u b ia m a lietinti.'
+  santrauka: 'Lietuviai ir žemaičiai įsiveržė į menkai saugomą Prūsiją, beveik visą kraštą nusiaubė ir pavertė pelenais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pasinaudoję ta proga, surengė žygį lietuviai ir
@@ -67,3 +68,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Žemaičiai]]

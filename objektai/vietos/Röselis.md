@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02735"></a>
 - t-001
+  global_id: t-02735
   teiginys: 'Röselio pilis priskiriama prie Lietuvai artimesnių pilių ir nurodoma įkurta 1337 m.'
   pagrindžia:
     - c-001

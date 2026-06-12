@@ -39,17 +39,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75252"></a>
 - t-001
+  global_id: t-75252
   teiginys: 'Sąjūdininkai buvo pasiryžę skelbti Lietuvos valstybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75253"></a>
 - t-002
+  global_id: t-75253
   teiginys: 'Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11– 13 d.).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75254"></a>
 - t-003
+  global_id: t-75254
   teiginys: 'Per spaudimą Lietuvai grasinta Klaipėdos kraštą prijungti prie RSSFR Kaliningrado srities, o Vilniaus regione sukurti autonomiją.'
   pagrindžia:
     - c-002

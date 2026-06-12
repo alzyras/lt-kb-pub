@@ -29,47 +29,65 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
 
 ## Teiginiai
 
+<a id="claim-t-60852"></a>
 - t-001
+  global_id: t-60852
   teiginys: 'Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Wonsdorff ir Wansdorf.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-60853"></a>
 - t-002
+  global_id: t-60853
   teiginys: 'Olivos kronikoje Cristburgo pavadinimas pateikiamas formomis Kirsburg ir Kirsberg.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-60854"></a>
 - t-003
+  global_id: t-60854
   teiginys: 'Dusburgietis teigia, kad 167 D.— edificavit; Olivos kronika — tradidit illis (SRP, 1, p. 676) — jiems perdavė.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-60855"></a>
 - t-004
+  global_id: t-60855
   teiginys: 'Dusburgietis teigia, kad senesnėje Olivos kronikoje: generatio [...] Bogatini (SRP, 1, p. 680).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60856"></a>
 - t-005
+  global_id: t-60856
   teiginys: 'Dusburgietis teigia, kad 280 Kautynės įvyko 1243 (1242?) m. birželio 15 d. Senojoje Olivos kronikoje (joje įrašyti originalūs Olivos papildymai bei Pamedės tradicija — PKD, p. 100—101) aiškiai pasakyta, jog tuo metu Sventopelkas buvo sudaręs su Ordinu paliaubas (factae fuerunt.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-60857"></a>
 - t-006
+  global_id: t-60857
   teiginys: 'Dusburgietis teigia, kad 330 D.— Tirsko (III, 175), Jer — Tirske, Dirske; Olivos kronika— Kirske (SRP, 5, p. 602), Kirsko (SRP, 1, p. 685).'
   pagrindžia:
     - c-005
 
+<a id="claim-t-60858"></a>
 - t-007
+  global_id: t-60858
   teiginys: 'Senojoje Olivos kronikoje aiškiau aprašytas Dusburgiečio minimas Pamedės niokojimas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60860"></a>
 - t-008
+  global_id: t-60860
   teiginys: 'J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60861"></a>
 - t-009
+  global_id: t-60861
   teiginys: 'Olivos kronikoje Renseno ežeras minimas lotyniška forma „ad lacum qui dicitur Rensin“.'
   pagrindžia:
     - c-008

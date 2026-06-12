@@ -19,12 +19,16 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
 
 ## Teiginiai
 
+<a id="claim-t-03237"></a>
 - t-001
+  global_id: t-03237
   teiginys: 'Krašte buvo daug žirgynų, nes kunigaikščiui karo reikalams reikėjo arklių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-03238"></a>
 - t-002
+  global_id: t-03238
   teiginys: 'Netoli Kauno buvo žirgynas, kuriame auginta 800 arklių.'
   pagrindžia:
     - c-001

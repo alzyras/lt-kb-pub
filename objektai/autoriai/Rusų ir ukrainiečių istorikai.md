@@ -18,32 +18,44 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
 
 ## Teiginiai
 
+<a id="claim-t-47895"></a>
 - t-001
+  global_id: t-47895
   teiginys: 'E. I. Leontovičius ir M. F. Vladimirskis-Budanovas buvo teisės istorikai, tyrę Lietuvos valstybės teisinius santykius ir institucijas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-47897"></a>
 - t-002
+  global_id: t-47897
   teiginys: 'Ukrainiečių istorikai M. Hruševskis ir V. Zaikinas rašė Lietuvos Didžiosios Kunigaikštystės istorijos temomis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-47898"></a>
 - t-003
+  global_id: t-47898
   teiginys: 'M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo Kijevo žemės istoriją ir jos užvaldymą Lietuvos kunigaikščių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-47899"></a>
 - t-004
+  global_id: t-47899
   teiginys: 'M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo senovės Kijevo žemės istoriją iki mongolų laikų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-47900"></a>
 - t-005
+  global_id: t-47900
   teiginys: 'Rusų ir ukrainiečių istorikai davė naujų tyrinėjimų apie Lietuvos, Gudijos ir Ukrainos (t.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-47901"></a>
 - t-006
+  global_id: t-47901
   teiginys: 'Odesos universiteto istorikas V. V. Antonovičius iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties.'
   pagrindžia:
     - c-004

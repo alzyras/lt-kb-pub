@@ -16,7 +16,9 @@ Dusburgietis teigia, kad vaitkunskienė L., Sidabras..., p. 10 ir kt.
 
 ## Teiginiai
 
+<a id="claim-t-60806"></a>
 - t-001
+  global_id: t-60806
   teiginys: 'Dusburgietis teigia, kad vaitkunskienė L., Sidabras..., p. 10 ir kt.'
   pagrindžia:
     - c-001

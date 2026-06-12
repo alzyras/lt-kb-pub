@@ -11,7 +11,6 @@ atnaujinta: ''
 tags:
   - asmuo
 ---
-
 # Julijona (Vytauto žmona)
 
 ## Santrauka
@@ -20,108 +19,150 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
 
 ## Teiginiai
 
+<a id="claim-t-113831"></a>
 - t-001
+  global_id: t-113831
   teiginys: 'Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už atsiųstus gėrimus.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-113832"></a>
 - t-002
+  global_id: t-113832
   teiginys: 'Vytauto žmona Julijona, Algimanto Alšėniškio duktė, išpažino graikų apeigų tikėjimą ir turėjo koplyčią Trakų pilyje.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-113833"></a>
 - t-003
+  global_id: t-113833
   teiginys: '1426 m. sirgusi didžioji kunigaikštienė Julijona iš Pauliaus Rusdorfo gavo dovanų atsiųstų gydomųjų gėrimų.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-113834"></a>
 - t-004
+  global_id: t-113834
   teiginys: 'Algimanto Alšėniškio duktė Julijona išpažino graikų apeigų tikėjimą ir Trakų pilyje turėjo koplyčią.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-113835"></a>
 - t-005
+  global_id: t-113835
   teiginys: 'Antroji jo žmona Ona pradžioj taip pat buvusi stačiatikė, tik paskui pasidarė labai uoli katalikė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-113836"></a>
 - t-006
+  global_id: t-113836
   teiginys: '1426 m. Julijona jau metus sirgo, o ligai paūmėjus, pasak laiško, visiškai negalėjo valgyti.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-113837"></a>
 - t-007
+  global_id: t-113837
   teiginys: '1426 m. Julijona iš didžiojo magistro Pauliaus Rusdorfo gavo jai atsiųstų gydomųjų gėrimų.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-113838"></a>
 - t-008
+  global_id: t-113838
   teiginys: 'Nors Niurnbergo auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai, Lucko suvažiavimas.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-113839"></a>
 - t-009
+  global_id: t-113839
   teiginys: 'Pasiligojusi Vytauto žmona Julijona buvo apsistojusi kunigaikščių kaime Memitz prie Vilniaus.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-113840"></a>
 - t-010
+  global_id: t-113840
   teiginys: '1426 m. Julijona jau metus sirgo, o jos liga buvo taip paūmėjusi, kad ji visiškai negalėjo valgyti.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-113841"></a>
 - t-011
+  global_id: t-113841
   teiginys: 'Nenusileisti jį ypač įkalbinėjo jo bajorai ir pati Julijona^5 ).'
   pagrindžia:
     - c-008
 
+<a id="claim-t-113842"></a>
 - t-012
+  global_id: t-113842
   teiginys: 'Kunigaikštienė Julijona gailiai apraudojo mirusį Vytautą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-113843"></a>
 - t-013
+  global_id: t-113843
   teiginys: 'Karūnacijos vilčių žlugimo metu Julijona ypač ragino Vytautą nenusileisti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-113844"></a>
 - t-014
+  global_id: t-113844
   teiginys: 'Vytauto trečios žmonos vardas buvo Julijona.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-113845"></a>
 - t-015
+  global_id: t-113845
   teiginys: 'Julijona gailiai apraudojo mirusį Vytautą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-113846"></a>
 - t-016
+  global_id: t-113846
   teiginys: 'Julijona ypač įkalbinėjo Vytautą nenusileisti.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-113847"></a>
 - t-017
+  global_id: t-113847
   teiginys: 'Istorikai nurodo, kad trečiosios Vytauto žmonos vardas buvo Julijona.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-113848"></a>
 - t-018
+  global_id: t-113848
   teiginys: 'Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-113849"></a>
 - t-019
+  global_id: t-113849
   teiginys: 'Po Vytauto mirties jį apraudojo jo žmona kunigaikštienė Julijona.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184744"></a>
 - t-020
-  teiginys: 'Kojelavičius teigia, kad nutaręs sutelkti didesnę kariuomenę, Vytautas patraukė į Trakus ir čia, mirus jo žmonai Onai, nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
+  global_id: t-184744
+  teiginys: 'Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-184745"></a>
 - t-021
-  teiginys: 'Kojelavičius teigia, kad todėl Petras, Vilniaus vyskupas, labai atkakliai priešinosi šiai santuokai, kad nebūtų pa žeisti dievo bei žmonių įstatymai.'
+  global_id: t-184745
+  teiginys: 'Kojelavičius vaizduoja Vilniaus vyskupą Petrą kaip atkakliai prieštaravusį Vytauto ir Julijonos santuokai, nes ji esą pažeidė Dievo ir žmonių įstatymus.'
   pagrindžia:
     - c-015
 
@@ -424,7 +465,7 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - t-018
 
 - c-014
-  santrauka: 'Kojelavičius teigia, kad nutaręs sutelkti didesnę kariuomenę, Vytautas patraukė į Trakus ir čia, mirus jo žmonai Onai, nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
+  santrauka: 'Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to ir viena, ir kita šalis puldinėjo
@@ -440,7 +481,7 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - t-020
 
 - c-015
-  santrauka: 'Kojelavičius teigia, kad todėl Petras, Vilniaus vyskupas, labai atkakliai priešinosi šiai santuokai, kad nebūtų pa žeisti dievo bei žmonių įstatymai.'
+  santrauka: 'Vilniaus vyskupas Petras atkakliai priešinosi Vytauto ir Julijonos santuokai, kad nebūtų pažeisti dievo bei žmonių įstatymai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl Petras, Vilniaus vyskupas,
@@ -464,3 +505,44 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   statusas: verified
   pagrindžia:
     - t-021
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Augustas]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Graikai]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Lucko suvažiavimas]]
+- [[objektai/asmenys/Motiejus]]
+- [[objektai/asmenys/Rusdorfas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Vladislovas Lokietka]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/barbarai]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/indiktas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Julijona (Algirdo žmona)]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/paprociai/Graikų apeigų koplyčios laikymas Trakų pilyje]]
+- [[objektai/autoriai/Johannes Voigt Foigtas]]
+- [[objektai/asmenys/Jonas Kropidlas|Jonas Kropidlas (vyskupas)]]
+- [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
+- [[objektai/asmenys/Ona (Vytauto žmona)]]
+- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
+- [[objektai/ivykiai/Vytauto ir Julijonos santuoka]]

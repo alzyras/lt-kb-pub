@@ -16,7 +16,9 @@ Gaida, Arkiv.
 
 ## Teiginiai
 
+<a id="claim-t-29394"></a>
 - t-001
+  global_id: t-29394
   teiginys: 'Pr. Gaida rengė spaudai Arkivyskupo T. Matulionio gyvenimą.'
   pagrindžia:
     - c-001

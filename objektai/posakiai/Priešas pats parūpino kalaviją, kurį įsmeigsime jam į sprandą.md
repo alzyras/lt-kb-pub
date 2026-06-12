@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Priešas pats parūpino kalaviją, kurį įsmeigsime jam į sprandą
 
 ## Santrauka
 
-Kojelavičius teigia, kad priešas pats parūpino kalaviją, kurį įsmeigsime jam į sprandą".
+Karalius priėmė kovos ženklą ir pasakė, kad priešas pats parūpino kalaviją, kuris bus įsmeigtas jam į sprandą.
 
 ## Teiginiai
 
+<a id="claim-t-185480"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad priešas pats parūpino kalaviją, kurį įsmeigsime jam į sprandą".'
+  global_id: t-185480
+  teiginys: 'Karalius priėmė kovos ženklą ir pasakė, kad priešas pats parūpino kalaviją, kuris bus įsmeigtas jam į sprandą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad priešas pats parūpino kalaviją, kurį įsmeigsime jam į sprandą".'
+  santrauka: 'Karalius priėmė kovos ženklą ir pasakė, kad priešas pats parūpino kalaviją, kuris bus įsmeigtas jam į sprandą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ramiai karalius išklausė

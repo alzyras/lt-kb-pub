@@ -6,34 +6,39 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Liudvikas (Torunės komtūras)
 
 ## Santrauka
 
-Kojelavičius teigia, kad karaliaus sumanymus sugriauti padėjo ir Torunės komtūras, kryžiuočių pa siųstas pas Boleslovą: jis iš paskutiniųjų kurstė tarp brolių nesantaiką, be galo naudingą jo ordinui, ir, paža dėjęs rimtą pagalbą, skatino Švitrigailą nesibaiminti karo su lenkais. Kojelavičius teigia, kad dėl šių iškilmių didžiai susikrimto Liudvikas, Toninės komtūras, kuris su trimis savo draugais, kryžiuočių ordino riteriais, gy veno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš tikrųjų uoliai eidamas žvalgo pareigas. Kojelavičius teigia, kad valstybės ištarme buvo įsakyta Liudvikui kaip priešui kartu su savo draugais kuo greičiausiai išsinešdinti iš Lietuvos.
+Torunės komtūras Liudvikas kurstė brolių nesantaiką ir skatino Švitrigailą nebijoti karo su lenkais. Liudvikas, Torunės komtūras, gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas. Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos kaip priešams.
 
 ## Teiginiai
 
+<a id="claim-t-186063"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad karaliaus sumanymus sugriauti padėjo ir Torunės komtūras, kryžiuočių pa siųstas pas Boleslovą: jis iš paskutiniųjų kurstė tarp brolių nesantaiką, be galo naudingą jo ordinui, ir, paža dėjęs rimtą pagalbą, skatino Švitrigailą nesibaiminti karo su lenkais.'
+  global_id: t-186063
+  teiginys: 'Torunės komtūras Liudvikas kurstė brolių nesantaiką ir skatino Švitrigailą nebijoti karo su lenkais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186064"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad dėl šių iškilmių didžiai susikrimto Liudvikas, Toninės komtūras, kuris su trimis savo draugais, kryžiuočių ordino riteriais, gy veno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš tikrųjų uoliai eidamas žvalgo pareigas.'
+  global_id: t-186064
+  teiginys: 'Liudvikas, Torunės komtūras, gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-186065"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad valstybės ištarme buvo įsakyta Liudvikui kaip priešui kartu su savo draugais kuo greičiausiai išsinešdinti iš Lietuvos.'
+  global_id: t-186065
+  teiginys: 'Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos kaip priešams.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad karaliaus sumanymus sugriauti padėjo ir Torunės komtūras, kryžiuočių pa siųstas pas Boleslovą: jis iš paskutiniųjų kurstė tarp brolių nesantaiką, be galo naudingą jo ordinui, ir, paža dėjęs rimtą pagalbą, skatino Švitrigailą nesibaiminti karo su lenkais.'
+  santrauka: 'Torunės komtūras Liudvikas kurstė brolių nesantaiką ir skatino Švitrigailą nebijoti karo su lenkais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Išpuikęs ir pasipūtęs, jis įstengė su­
@@ -57,7 +62,7 @@ Kojelavičius teigia, kad karaliaus sumanymus sugriauti padėjo ir Torunės komt
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad dėl šių iškilmių didžiai susikrimto Liudvikas, Toninės komtūras, kuris su trimis savo draugais, kryžiuočių ordino riteriais, gy veno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš tikrųjų uoliai eidamas žvalgo pareigas.'
+  santrauka: 'Liudvikas, Torunės komtūras, gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tada Žygimantas pagal senus papročius
@@ -83,7 +88,7 @@ Kojelavičius teigia, kad karaliaus sumanymus sugriauti padėjo ir Torunės komt
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad valstybės ištarme buvo įsakyta Liudvikui kaip priešui kartu su savo draugais kuo greičiausiai išsinešdinti iš Lietuvos.'
+  santrauka: 'Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos kaip priešams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto lėmė ne jo, o blaiviau galvojan­
@@ -96,3 +101,14 @@ Kojelavičius teigia, kad karaliaus sumanymus sugriauti padėjo ir Torunės komt
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/senatas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/grupes/Lenkijos senatas]]
+- [[objektai/grupes/Lenkų senatas]]
+- [[objektai/ivykiai/Žygimanto Kęstutaičio pakėlimas Lietuvos didžiuoju kunigaikščiu (1432 m.)]]

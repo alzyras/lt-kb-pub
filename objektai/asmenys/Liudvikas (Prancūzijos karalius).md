@@ -28,12 +28,16 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
 
 ## Teiginiai
 
+<a id="claim-t-60049"></a>
 - t-001
+  global_id: t-60049
   teiginys: 'Dusburgietis teigia, kad apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą 1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos karalių (Ptol.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60050"></a>
 - t-002
+  global_id: t-60050
   teiginys: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'
   pagrindžia:
     - c-001

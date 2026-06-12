@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-26662"></a>
 - t-001
+  global_id: t-26662
   teiginys: '1599 m. Mikalojus Daukša išleido „Postilę“, kurios pratarmėje ragino Lietuvos visuomenę kurti raštiją lietuvių kalba.'
   pagrindžia:
     - c-001

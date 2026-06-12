@@ -24,7 +24,9 @@ Ta­ da visa tai paėmė į savo valdžią - ir jo auksą, ir jo turtus, ir jo �
 
 ## Teiginiai
 
+<a id="claim-t-87511"></a>
 - t-001
+  global_id: t-87511
   teiginys: 'Hanulas autentiškame 1385 m. Vladislovo Jogailos laiške vadinamas Hanka, Vilniaus seniūnu.'
   pagrindžia:
     - c-001

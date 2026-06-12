@@ -25,7 +25,9 @@ Il priede išsamią žinią apie Lieje, kur aiškiai pasakyta: ius Teutonituvos 
 
 ## Teiginiai
 
+<a id="claim-t-86859"></a>
 - t-001
+  global_id: t-86859
   teiginys: 'Il priede išsamią žinią apie Lieje, kur aiškiai pasakyta: ius Teutonituvos didžiųjų kunigaikščių mecum quod Magdeburiense dicitur denuo džioklės namus Rūdninkuose.'
   pagrindžia:
     - c-001

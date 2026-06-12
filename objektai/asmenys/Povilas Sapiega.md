@@ -26,22 +26,30 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
 
 ## Teiginiai
 
+<a id="claim-t-79152"></a>
 - t-001
+  global_id: t-79152
   teiginys: 'Povilas Sapiega vadovavo bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79153"></a>
 - t-002
+  global_id: t-79153
   teiginys: 'Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklaravusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai, vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos, Kristupo ir Mykolo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-79154"></a>
 - t-003
+  global_id: t-79154
   teiginys: 'Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79155"></a>
 - t-004
+  global_id: t-79155
   teiginys: 'Lietuvos didžiojo etmono Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną, ilgainiui Rusijos kariuomenė buvo iš Lietuvos išstumta.'
   pagrindžia:
     - c-002

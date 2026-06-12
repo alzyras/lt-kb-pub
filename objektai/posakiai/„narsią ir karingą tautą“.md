@@ -18,7 +18,9 @@ Bizantijos šaltiniai apie jokį lietuvių taikumą neužsimena – atvirkščia
 
 ## Teiginiai
 
+<a id="claim-t-20921"></a>
 - t-001
+  global_id: t-20921
   teiginys: 'Bizantijos šaltiniai lietuvius apibūdino kaip „narsią ir karingą tautą“, o ne kaip taikius.'
   pagrindžia:
     - c-001

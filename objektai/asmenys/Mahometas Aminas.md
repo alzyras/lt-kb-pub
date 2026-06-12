@@ -17,7 +17,9 @@ Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis L
 
 ## Teiginiai
 
+<a id="claim-t-40324"></a>
 - t-001
+  global_id: t-40324
   teiginys: 'Kazanės chanas Mahometas Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą.'
   pagrindžia:
     - c-001

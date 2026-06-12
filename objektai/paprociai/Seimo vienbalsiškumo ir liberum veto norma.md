@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77952"></a>
 - t-001
+  global_id: t-77952
   teiginys: 'Pagal liberum veto teisę bajoriškojo parlamento – Seimo sprendimai turėjo būti priimami vienu balsu, o tai ypač kontrastavo su Vakarų Europos absoliutistinėmis santvarkomis ir trukdė stiprinti bei centralizuoti valstybę.'
   pagrindžia:
     - c-001

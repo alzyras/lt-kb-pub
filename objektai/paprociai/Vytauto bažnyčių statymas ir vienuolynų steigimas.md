@@ -45,17 +45,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35956"></a>
 - t-001
+  global_id: t-35956
   teiginys: 'Vytautas per savo valdymą pastatė apie 35 bažnyčias įvairiose Lietuvos valstybės vietose.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-35958"></a>
 - t-002
+  global_id: t-35958
   teiginys: 'Įkurtąsias bažnyčias ir vyskupų katedras Vytautas gausiai apdovanojo žemėmis, javais ir pinigais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-35959"></a>
 - t-003
+  global_id: t-35959
   teiginys: 'Vytautas Lietuvoje statė ne tik bažnyčias, bet ir vienuolynus.'
   pagrindžia:
     - c-001

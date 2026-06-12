@@ -25,7 +25,9 @@ Dusburgietis teigia, kad powierski J.
 
 ## Teiginiai
 
+<a id="claim-t-61239"></a>
 - t-001
+  global_id: t-61239
   teiginys: 'J. Powierskio veikalas apie Vloclaveko vyskupijos Ostrovico ir Golubo valdas 1235–1308 m. išleistas Gdanske 1977 m.'
   pagrindžia:
     - c-001

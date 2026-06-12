@@ -16,17 +16,23 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
 
 ## Teiginiai
 
+<a id="claim-t-62620"></a>
 - t-001
+  global_id: t-62620
   teiginys: 'Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kronika yra arba jos 1-oji 1326 m. redakcija (2-oji 1326 m. ir 3-oji 1326—1330 m. redakcijos neišliko), arba neišlikusios 1-osios 1326 m. redakcijos cenzūruotas antrininkas94.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-62621"></a>
 - t-002
+  global_id: t-62621
   teiginys: 'J. Venta parašė darbą „Kronika“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-62622"></a>
 - t-003
+  global_id: t-62622
   teiginys: 'J. Venta 1980 m. paskelbė darbą apie Petro Dusburgiečio kroniką ir Oliavos kronikoje pateiktą Vokiečių ordino istoriją.'
   pagrindžia:
     - c-002

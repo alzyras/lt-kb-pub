@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66454"></a>
 - t-001
+  global_id: t-66454
   teiginys: 'Dusburgietis teigia, kad apie didelį krikščionių kraujo praliejimą Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66455"></a>
 - t-002
+  global_id: t-66455
   teiginys: 'Dusburgietis teigia, kad apie antrąją prūsų atskalūnybę, kuri truko 15 metų Tais pačiais metais (1260, rugsėjo 20 d.), švento Mato, apaštalo bei evangelisto, 355 Volradų giminė buvo žinoma Vestfalijoje.'
   pagrindžia:
     - c-002

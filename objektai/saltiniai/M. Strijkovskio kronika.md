@@ -34,87 +34,121 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 
 ## Teiginiai
 
+<a id="claim-t-55220"></a>
 - t-001
+  global_id: t-55220
   teiginys: 'Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińskio teigimu, suklydo dėl datos ir praleido kai kurias aplinkybes.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-55221"></a>
 - t-002
+  global_id: t-55221
   teiginys: 'Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, įskaitant persirengusių karių pasiuntimą į miestą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55222"></a>
 - t-003
+  global_id: t-55222
   teiginys: 'Balińskis teigia, kad Strijkovskis ir Kojelavičius supainiojo Andrių, Algirdo sūnų, su Vaidotu, Kęstučio sūnumi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55223"></a>
 - t-004
+  global_id: t-55223
   teiginys: 'Strijkovskio kronikoje Vilniaus įkūrimas priskiriamas Gediminui ir siejamas su medžiokle Šventaragio slėnyje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-55224"></a>
 - t-005
+  global_id: t-55224
   teiginys: 'Vilniaus įkūrimo pasakojime Lizdeika geležinio vilko sapną aiškina kaip būsimos pilies ir Lietuvos sostinės ženklą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-55225"></a>
 - t-006
+  global_id: t-55225
   teiginys: 'Karaliaučiaus leidimo Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors Balińskis tai vadino tiesai prieštaraujančia klaida.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-55226"></a>
 - t-007
+  global_id: t-55226
   teiginys: 'Strijkovskis Narimantą priskyrė prie apgulties metu nukautųjų ir perpasakojo Długoszo sukurtą jo mirties istoriją.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-172991"></a>
 - t-008
+  global_id: t-172991
   teiginys: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-172992"></a>
 - t-009
+  global_id: t-172992
   teiginys: 'M. Strijkovskio kronika Gotfrido Lindeno Vilniaus apgultį datavo metais per vėlai ir praleido dalį aplinkybių.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-172993"></a>
 - t-010
+  global_id: t-172993
   teiginys: 'M. Strijkovskio kronikoje Andrius Algirdaitis supainiotas su Vaidotu Kęstutaičiu, todėl atsirado išgalvotas Andrius Vaidotas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-172995"></a>
 - t-012
+  global_id: t-172995
   teiginys: 'M. Strijkovskio kronika mini, kad Vytautas paskleidė gandą apie atvykimą į Vilnių rengti Ringailės ir Mazovijos kunigaikščio Henriko vestuvių.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-172997"></a>
 - t-014
+  global_id: t-172997
   teiginys: 'Strijkovskio kronikoje Vilniaus įkūrimas pasakojamas kaip XIV amžiaus įvykis.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-173001"></a>
 - t-018
+  global_id: t-173001
   teiginys: 'Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajorijos knyga.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-173003"></a>
 - t-020
+  global_id: t-173003
   teiginys: 'Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, remdamasis Długoszo pramanytu pasakojimu.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-173004"></a>
 - t-021
+  global_id: t-173004
   teiginys: 'Strijkovskio kronika), kt.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-173005"></a>
 - t-022
+  global_id: t-173005
   teiginys: '7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-173006"></a>
 - t-023
+  global_id: t-173006
   teiginys: 'M. Strijkovskio kronika plačiai aprašė Kęstučio gudrybes puolant Vilnių.'
   pagrindžia:
     - c-008

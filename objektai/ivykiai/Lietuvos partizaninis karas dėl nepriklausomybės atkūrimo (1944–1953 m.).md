@@ -46,32 +46,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75174"></a>
 - t-001
+  global_id: t-75174
   teiginys: 'Užimant Grupė Lietuvos partizanų 1947 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75175"></a>
 - t-002
+  global_id: t-75175
   teiginys: 'Karas po karo – ginkluota rezistencija Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75176"></a>
 - t-003
+  global_id: t-75176
   teiginys: '1944–1953 m. MGB organai sunaikino 2 353 Lietuvos partizanų grupes, nukovė 20 000 partizanų ir suėmė 19 000 žmonių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75177"></a>
 - t-004
+  global_id: t-75177
   teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75178"></a>
 - t-005
+  global_id: t-75178
   teiginys: 'Pereita prie įprasto partizaninio karo taktikos: pasalų organizavimo, sovietinių pareigūnų ir šnipų naikinimo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-75179"></a>
 - t-006
+  global_id: t-75179
   teiginys: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai.'
   pagrindžia:
     - c-002

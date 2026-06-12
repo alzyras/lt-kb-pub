@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Daugelio dievų garbinimas ir Perkūno šlovinimas amžinąja ugnimi
 
 ## Santrauka
 
-Kojelavičius teigia, kad iš Lietuvos krikšto aprašymo matyti, kad bajorų ir kunigaikščių pagonybė pa sireiškė tuo, kad prietaringai garbino daugelį dievų ir Perkūną šlo vino amžinąja ugnimi.
+Lietuvos krikšto aprašyme bajorų ir kunigaikščių pagonybė siejama su daugelio dievų garbinimu ir Perkūno šlovinimu amžinąja ugnimi.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185914"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad iš Lietuvos krikšto aprašymo matyti, kad bajorų ir kunigaikščių pagonybė pa sireiškė tuo, kad prietaringai garbino daugelį dievų ir Perkūną šlo vino amžinąja ugnimi.'
+  global_id: t-185914
+  teiginys: 'Lietuvos krikšto aprašyme bajorų ir kunigaikščių pagonybė siejama su daugelio dievų garbinimu ir Perkūno šlovinimu amžinąja ugnimi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad iš Lietuvos krikšto aprašymo matyti, kad bajorų ir kunigaikščių pagonybė pa sireiškė tuo, kad prietaringai garbino daugelį dievų ir Perkūną šlo vino amžinąja ugnimi.'
+  santrauka: 'Lietuvos krikšto aprašyme bajorų ir kunigaikščių pagonybė siejama su daugelio dievų garbinimu ir Perkūno šlovinimu amžinąja ugnimi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lietuvių pagonybės ir antikinės stabmel­
@@ -53,3 +54,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/pagonybė]]

@@ -25,12 +25,16 @@ Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnav
 
 ## Teiginiai
 
+<a id="claim-t-36766"></a>
 - t-001
+  global_id: t-36766
   teiginys: 'Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnavimui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-36767"></a>
 - t-002
+  global_id: t-36767
   teiginys: 'Vytauto nepasisekęs apsikarūnavimas siejamas su 1398 m. jo ir Jogailos pastangomis gauti sutikimą Romoje.'
   pagrindžia:
     - c-001

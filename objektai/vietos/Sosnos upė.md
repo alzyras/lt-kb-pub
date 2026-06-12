@@ -19,7 +19,9 @@ Vakaruose miestą prie Sosnos upės, dešiniojo Dono tęsėsi diplomatinė kova,
 
 ## Teiginiai
 
+<a id="claim-t-42158"></a>
 - t-001
+  global_id: t-42158
   teiginys: 'Korševas buvo miestas prie Sosnos upės, dešiniojo Dono intako, netoli totorių stepių valdų.'
   pagrindžia:
     - c-001

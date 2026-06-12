@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20299"></a>
 - t-001
+  global_id: t-20299
   teiginys: 'Lietuva ir ES pasirašė prekybos, komercinio ir ekonominio bendradarbiavimo sutartį ir priėmė deklaraciją dėl politinio dialogo.'
   pagrindžia:
     - c-001

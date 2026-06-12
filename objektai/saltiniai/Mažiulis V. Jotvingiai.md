@@ -22,7 +22,9 @@ Dusburgietis teigia, kad mažiulis V.
 
 ## Teiginiai
 
+<a id="claim-t-61167"></a>
 - t-001
+  global_id: t-61167
   teiginys: 'V. Mažiulio straipsnis „Jotvingiai“ paskelbtas MG 1966 m. Nr. 1, p. 32–33.'
   pagrindžia:
     - c-001

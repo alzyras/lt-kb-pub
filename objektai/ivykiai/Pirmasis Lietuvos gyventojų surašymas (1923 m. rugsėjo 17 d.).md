@@ -43,17 +43,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-23353"></a>
 - t-001
+  global_id: t-23353
   teiginys: '1923 m. rugsėjo 17 d. įvyko pirmasis Lietuvos gyventojų surašymas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23354"></a>
 - t-002
+  global_id: t-23354
   teiginys: 'Surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23355"></a>
 - t-003
+  global_id: t-23355
   teiginys: 'Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo 2 028 971 (be Vilniaus ir Klaipėdos kraštų).'
   pagrindžia:
     - c-001

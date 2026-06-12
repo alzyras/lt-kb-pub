@@ -23,7 +23,9 @@ Wojsko powstania Košciuszkowskiego, Warszawa, 1987.
 
 ## Teiginiai
 
+<a id="claim-t-39910"></a>
 - t-001
+  global_id: t-39910
   teiginys: 'L. Ratajczyko ir J. Teodorczyko „Wojsko powstania Kościuszkowskiego“ išleista Varšuvoje 1987 m.'
   pagrindžia:
     - c-001

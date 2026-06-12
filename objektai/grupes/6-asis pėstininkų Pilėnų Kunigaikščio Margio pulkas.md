@@ -18,12 +18,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-40826"></a>
 - t-001
+  global_id: t-40826
   teiginys: 'Pervedus į lenkų frontą visą 6-ąjį pėstininkų pulką, jo kariai ir vadas Vidugirių kaime susitiko su pulko I batalionu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40827"></a>
 - t-002
+  global_id: t-40827
   teiginys: 'Batalionas ankstyvą popietį pasiekė Aukštadvarį ir išsirikiavo prieš 6-ojo pėstininkų Pilėnų Kunigaikščio Margio pulko štabą.'
   pagrindžia:
     - c-001

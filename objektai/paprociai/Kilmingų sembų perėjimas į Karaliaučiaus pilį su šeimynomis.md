@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62129"></a>
 - t-001
+  global_id: t-62129
   teiginys: 'Dusburgietis teigia, kad apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių Nė šis smarkus sukrėtimas neįvarė sembams proto ir nepaskatino jų sugrįžti į šventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš viešpaties rykštę ir.'
   pagrindžia:
     - c-001

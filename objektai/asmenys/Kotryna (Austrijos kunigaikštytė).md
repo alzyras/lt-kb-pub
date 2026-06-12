@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kotryna (Austrijos kunigaikštytė)
 
 ## Santrauka
 
-Kojelavičius teigia, kad karalienė patarė nenutraukti giminystės su Austrijos karališkąja šeima ir paprašyti pirmosios žmonos sesers Kotrynos rankos.
+Karalienė motina patarė karaliui prašyti Austrijos kunigaikštytės Kotrynos rankos, kad nenutrūktų giminystė su Austrijos karališkąja šeima.
 
 ## Teiginiai
 
+<a id="claim-t-186132"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad karalienė patarė nenutraukti giminystės su Austrijos karališkąja šeima ir paprašyti pirmosios žmonos sesers Kotrynos rankos.'
+  global_id: t-186132
+  teiginys: 'Karalienė motina patarė karaliui prašyti Austrijos kunigaikštytės Kotrynos rankos, kad nenutrūktų giminystė su Austrijos karališkąja šeima.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad karalienė patarė nenutraukti giminystės su Austrijos karališkąja šeima ir paprašyti pirmosios žmonos sesers Kotrynos rankos.'
+  santrauka: 'Karalienė motina patarė karaliui prašyti Austrijos kunigaikštytės Kotrynos rankos, kad nenutrūktų giminystė su Austrijos karališkąja šeima.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius

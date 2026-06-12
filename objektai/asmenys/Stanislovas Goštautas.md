@@ -27,12 +27,16 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
 
 ## Teiginiai
 
+<a id="claim-t-87477"></a>
 - t-001
+  global_id: t-87477
   teiginys: '1494 m. balandžio 18 d. Maskvoje Žemaičių seniūnas Stanislovas Goštautas pasirašė amžinos taikos sutartį su caru.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87479"></a>
 - t-002
+  global_id: t-87479
   teiginys: '1542 metais Vilniuje Naugarduko vaivada Stanislovas Goštautas dalyvavo patvirtinant raštą valdovo antspaudu.'
   pagrindžia:
     - c-001

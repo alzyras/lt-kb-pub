@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vilhelmas (Rygos arkivyskupas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad šventvagiškiems Fiurstenbergo darbams kaip beįmanydamas priešinosi Brandenburgo markgrafas bei Rygos arkivyskupas Vilhelmas. Kojelavičius teigia, kad paleidęs seimą liepos pabaigoje, atvirai užpuolė arkivyskupo valdas ir nelyginant koks priešas smarkiai nusiaubė.
+Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyčios turtus ir dvasininkų valdas. Užpuolus arkivyskupo valdas, Vilhelmas pasitraukė su rinktinių vyrų kariauna į Kuoknesę.
 
 ## Teiginiai
 
+<a id="claim-t-186085"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad šventvagiškiems Fiurstenbergo darbams kaip beįmanydamas priešinosi Brandenburgo markgrafas bei Rygos arkivyskupas Vilhelmas.'
+  global_id: t-186085
+  teiginys: 'Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyčios turtus ir dvasininkų valdas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186086"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad paleidęs seimą liepos pabaigoje, atvirai užpuolė arkivyskupo valdas ir nelyginant koks priešas smarkiai nusiaubė.'
+  global_id: t-186086
+  teiginys: 'Užpuolus arkivyskupo valdas, Vilhelmas pasitraukė su rinktinių vyrų kariauna į Kuoknesę.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad šventvagiškiems Fiurstenbergo darbams kaip beįmanydamas priešinosi Brandenburgo markgrafas bei Rygos arkivyskupas Vilhelmas.'
+  santrauka: 'Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyčios turtus ir dvasininkų valdas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neil­
@@ -51,7 +54,7 @@ Kojelavičius teigia, kad šventvagiškiems Fiurstenbergo darbams kaip beįmanyd
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad paleidęs seimą liepos pabaigoje, atvirai užpuolė arkivyskupo valdas ir nelyginant koks priešas smarkiai nusiaubė.'
+  santrauka: 'Užpuolus arkivyskupo valdas, Vilhelmas pasitraukė su rinktinių vyrų kariauna į Kuoknesę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Paleidęs seimą liepos pabaigoje, atvirai užpuolė
@@ -72,3 +75,8 @@ Kojelavičius teigia, kad šventvagiškiems Fiurstenbergo darbams kaip beįmanyd
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/seimas]]

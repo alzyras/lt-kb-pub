@@ -19,7 +19,9 @@ Lapkričio 21 d. į frontą atvykusi Tautų Sąjungos kontrolės komisija pareik
 
 ## Teiginiai
 
+<a id="claim-t-41161"></a>
 - t-001
+  global_id: t-41161
   teiginys: 'Lapkričio 21 d. į frontą atvykusi Tautų Sąjungos kontrolės komisija pareikalavo nutraukti karo veiksmus.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Judeničas spalį pradėjo Petrogrado puolimą ir pareikalavo, kad Bermontas par
 
 ## Teiginiai
 
+<a id="claim-t-39790"></a>
 - t-001
+  global_id: t-39790
   teiginys: 'N. Judeničas spalį pradėjo Petrogrado puolimą ir pareikalavo, kad Bermontas paremtų šią operaciją.'
   pagrindžia:
     - c-001

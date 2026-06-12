@@ -46,7 +46,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87171"></a>
 - t-001
+  global_id: t-87171
   teiginys: '1407 m. Vytautas Vilniaus kapitulai mainais už anksčiau dovanotą Jaryničių kaimą atidavė Liubarų kaimą.'
   pagrindžia:
     - c-001

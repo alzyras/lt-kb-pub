@@ -29,22 +29,30 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 
 ## Teiginiai
 
+<a id="claim-t-75651"></a>
 - t-001
+  global_id: t-75651
   teiginys: 'Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą ištikimybės priesaiką.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75652"></a>
 - t-002
+  global_id: t-75652
   teiginys: 'Aleksandras I nutarė nekeršyti jam priesaiką sulaužiusiai Lietuvos bajorijai, todėl padėtis iš esmės liko nepakitusi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75653"></a>
 - t-003
+  global_id: t-75653
   teiginys: 'Aleksandras I buvo asmeninis Adomo Jurgio Čartoriskio draugas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183518"></a>
 - t-005
+  global_id: t-183518
   teiginys: 'Lietuvos bajorija reiškė pageidavimus prisijungti prie šio darinio, tačiau Aleksandras I nesutiko.'
   pagrindžia:
     - c-003
@@ -120,3 +128,4 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/švietimo apygarda]]
 - [[objektai/posakiai/Lietuva tesanti Rusijos provincija ir todėl jos negalima prijungti prie Lenkijos]]
+- [[objektai/posakiai/Lietuvos reikalų neleidusi sutvarkyti laiko stoka]]

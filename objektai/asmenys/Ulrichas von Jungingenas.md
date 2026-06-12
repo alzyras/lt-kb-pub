@@ -29,17 +29,23 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
 
 ## Teiginiai
 
+<a id="claim-t-182864"></a>
 - t-001
+  global_id: t-182864
   teiginys: 'Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184285"></a>
 - t-002
+  global_id: t-184285
   teiginys: 'Tų vėliavų priešaky jojo pats didysis magistras Ulrichas von Jungingenas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184286"></a>
 - t-003
+  global_id: t-184286
   teiginys: 'Ulrichas von Jungingenas nukrito nuo arklio ir mirė.'
   pagrindžia:
     - c-003

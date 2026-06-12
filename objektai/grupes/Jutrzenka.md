@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19727"></a>
 - t-001
+  global_id: t-19727
   teiginys: 'Jutrzenka buvo lenkų kultūros organizacija, padėjusi švietimui ir gavusi pinigų iš Lenkijos.'
   pagrindžia:
     - c-001

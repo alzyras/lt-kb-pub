@@ -27,7 +27,9 @@ Puzyna, autorius disertacijos apie Švitrigailą, davė eilę studijų genealogi
 
 ## Teiginiai
 
+<a id="claim-t-30698"></a>
 - t-001
+  global_id: t-30698
   teiginys: 'J. Puzyna 1930 m. paskelbė darbą „Korjat i Korjatowicze“, o 1936 m. pasirodė jo papildymai.'
   pagrindžia:
     - c-001

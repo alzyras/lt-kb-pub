@@ -27,12 +27,16 @@ Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo pasiu
 
 ## Teiginiai
 
+<a id="claim-t-41484"></a>
 - t-001
+  global_id: t-41484
   teiginys: 'Prijojęs prie Maskvos miesto sienos, Algirdas atrėmė į ją ietį ir priminė, kad lietuvių ietis stovėjo prie Maskvos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41485"></a>
 - t-002
+  global_id: t-41485
   teiginys: 'Algirdas Maskvos valdovo pasiuntiniui pareiškė, kad per Velykas atrems savo ietį į Maskvos Kremliaus sieną.'
   pagrindžia:
     - c-001

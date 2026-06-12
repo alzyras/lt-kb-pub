@@ -22,7 +22,9 @@ Dusburgietis teigia, kad pollakówna M.
 
 ## Teiginiai
 
+<a id="claim-t-61232"></a>
 - t-001
+  global_id: t-61232
   teiginys: 'M. Pollakównos straipsnis apie Petro Dusburgiečio kronikos cenzūravimą paskelbtas 1970 m. Poznanėje išleistame rinkinyje, p. 127–134.'
   pagrindžia:
     - c-001

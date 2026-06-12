@@ -16,7 +16,9 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 
 ## Teiginiai
 
+<a id="claim-t-20056"></a>
 - t-001
+  global_id: t-20056
   teiginys: 'XVI a. Valavičiai buvo priskirti prie įtakingų rusėnų giminių, laikiusių save LDK piliečiais.'
   pagrindžia:
     - c-001
@@ -47,7 +49,6 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 - [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]
 - [[objektai/asmenys/Eustachijus Valavičius]]
 - [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas]]
-- [[objektai/asmenys/Ivanas (Maskvos valdovas)]]
 - [[objektai/asmenys/Mikalojus Albrechtas Radvila]]
 - [[objektai/asmenys/Mikalojus Naruševičius]]
 - [[objektai/asmenys/Mikalojus Radvila]]
@@ -55,5 +56,6 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 - [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas]]
 - [[objektai/zodynas/urėdas]]
 - [[objektai/grupes/Rusėnai]]
+- [[objektai/asmenys/Jurgis Valavičius]]
 - [[objektai/zodynas/manu proprio M.P]]
 - [[objektai/grupes/Tiškevičiai]]

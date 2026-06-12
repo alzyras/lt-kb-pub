@@ -17,7 +17,9 @@ Kronikininko žodžiais, «Vytautas ėmė smarkiai bijoti, kad karaliui (Jogaila
 
 ## Teiginiai
 
+<a id="claim-t-31553"></a>
 - t-001
+  global_id: t-31553
   teiginys: 'Kronikininkas teigė, kad Vytautas bijojo būti nuverstas nuo sosto, jei Jogaila paimtų visą Prūsiją.'
   pagrindžia:
     - c-001

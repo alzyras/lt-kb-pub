@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Slėpimasis miškų tankmėse su brangesniais daiktais per antpuolius
 
 ## Santrauka
 
-Kojelavičius teigia, kad vis dėlto žmonių ne daug žuvo, nes gyventojai, palikę namus priešų valiai, patys su visais brangesniais daiktais išsislapstė miškų tankmėse.
+Per kryžiuočių antpuolį Žemaitijoje gyventojai paliko namus ir su brangesniais daiktais pasislėpė miškų tankmėse.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185925"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vis dėlto žmonių ne daug žuvo, nes gyventojai, palikę namus priešų valiai, patys su visais brangesniais daiktais išsislapstė miškų tankmėse.'
+  global_id: t-185925
+  teiginys: 'Per kryžiuočių antpuolį Žemaitijoje gyventojai paliko namus ir su brangesniais daiktais pasislėpė miškų tankmėse.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vis dėlto žmonių ne daug žuvo, nes gyventojai, palikę namus priešų valiai, patys su visais brangesniais daiktais išsislapstė miškų tankmėse.'
+  santrauka: 'Per kryžiuočių antpuolį Žemaitijoje gyventojai paliko namus ir su brangesniais daiktais pasislėpė miškų tankmėse.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai lietuviai niokojo kryžiuočių kraštą,
@@ -56,3 +57,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/magistras]]

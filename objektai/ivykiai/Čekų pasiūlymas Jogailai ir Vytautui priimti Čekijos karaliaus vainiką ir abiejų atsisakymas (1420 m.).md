@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad žinodami, kad pastarojo Č ek a i siūlo karaliaus v a in ik ą Jog a ila i ir V y ta u tu i šiaurėje bei rytuose ir paska tino kaimynus čekus, atsikra čius teisėto valdovo valdžios, pasisiūlyti į valdinius. Kojelavičius teigia, kad jogaila, ilgai neužlaikydaIr vien a s, ir k ita s atmas pasiuntinių, čia pat atvim eta rai pareiškė esąs patenkintas ta valdžia, kurią gavęs iš die vo, nieko neskriausdamas, o svetimų valdų visai ne trokštas. Kojelavičius teigia, kad rodėsi, jog jie kalba tei singai, jog tai, ką jie siūlo, tikrai naudinga, tačiau ka ralius po senovei atsikalbinėjo; Vytautas, kur kas la biau už jį trokšdamas šlovės ir karaliaus vainiko, ilgą laiką dvejojo, nežinodamas, ar priimti, ar atmesti jų pasiūlymus.
+Čekai, tikėdamiesi Jogailos ir Vytauto paramos prieš imperatorių Zigmantą, pasiūlė jiems Čekijos karaliaus vainiką. Kojelavičius perteikia Jogailos atsakymą čekų pasiuntiniams, kad jis esą patenkintas Dievo duota valdžia ir netrokšta svetimų valdų. Vytautas ilgai dvejojo dėl čekų pasiūlymo priimti karaliaus vainiką, bet nuodugniau apsvarstęs padėtį jį atmetė.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,25 +32,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185675"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad žinodami, kad pastarojo Č ek a i siūlo karaliaus v a in ik ą Jog a ila i ir V y ta u tu i šiaurėje bei rytuose ir paska tino kaimynus čekus, atsikra čius teisėto valdovo valdžios, pasisiūlyti į valdinius.'
+  global_id: t-185675
+  teiginys: 'Čekai, tikėdamiesi Jogailos ir Vytauto paramos prieš imperatorių Zigmantą, pasiūlė jiems Čekijos karaliaus vainiką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185676"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad jogaila, ilgai neužlaikydaIr vien a s, ir k ita s atmas pasiuntinių, čia pat atvim eta rai pareiškė esąs patenkintas ta valdžia, kurią gavęs iš die vo, nieko neskriausdamas, o svetimų valdų visai ne trokštas.'
+  global_id: t-185676
+  teiginys: 'Kojelavičius perteikia Jogailos atsakymą čekų pasiuntiniams, kad jis esą patenkintas Dievo duota valdžia ir netrokšta svetimų valdų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185677"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad rodėsi, jog jie kalba tei singai, jog tai, ką jie siūlo, tikrai naudinga, tačiau ka ralius po senovei atsikalbinėjo; Vytautas, kur kas la biau už jį trokšdamas šlovės ir karaliaus vainiko, ilgą laiką dvejojo, nežinodamas, ar priimti, ar atmesti jų pasiūlymus.'
+  global_id: t-185677
+  teiginys: 'Vytautas ilgai dvejojo dėl čekų pasiūlymo priimti karaliaus vainiką, bet nuodugniau apsvarstęs padėtį jį atmetė.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad žinodami, kad pastarojo Č ek a i siūlo karaliaus v a in ik ą Jog a ila i ir V y ta u tu i šiaurėje bei rytuose ir paska tino kaimynus čekus, atsikra čius teisėto valdovo valdžios, pasisiūlyti į valdinius.'
+  santrauka: 'Čekai, tikėdamiesi Jogailos ir Vytauto paramos prieš imperatorių Zigmantą, pasiūlė jiems Čekijos karaliaus vainiką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai paaiškėjo,
@@ -89,7 +94,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad jogaila, ilgai neužlaikydaIr vien a s, ir k ita s atmas pasiuntinių, čia pat atvim eta rai pareiškė esąs patenkintas ta valdžia, kurią gavęs iš die vo, nieko neskriausdamas, o svetimų valdų visai ne trokštas.'
+  santrauka: 'Jogaila čekų pasiuntiniams pareiškė esąs patenkintas Dievo duota valdžia ir netrokštantis svetimų valdų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jogaila,
@@ -111,7 +116,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad rodėsi, jog jie kalba tei singai, jog tai, ką jie siūlo, tikrai naudinga, tačiau ka ralius po senovei atsikalbinėjo; Vytautas, kur kas la biau už jį trokšdamas šlovės ir karaliaus vainiko, ilgą laiką dvejojo, nežinodamas, ar priimti, ar atmesti jų pasiūlymus.'
+  santrauka: 'Vytautas ilgai dvejojo dėl čekų pasiūlymo priimti karaliaus vainiką, bet nuodugniau apsvarstęs padėtį jį atmetė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Prisi­
@@ -135,3 +140,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

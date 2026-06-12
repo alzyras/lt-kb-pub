@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-41380"></a>
 - t-001
+  global_id: t-41380
   teiginys: 'Per Vilniaus išvadavimą A. Nelepcos vadovaujama apie 30 karių grupė puolė Pacų rūmus.'
   pagrindžia:
     - c-001

@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08331"></a>
 - t-001
+  global_id: t-08331
   teiginys: 'Vyriausias kunigas į šventą ugnį mėtydavo smilkalus.'
   pagrindžia:
     - c-001

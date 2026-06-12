@@ -27,7 +27,9 @@ Iš Pskovo buvo atvykę Livonijon 200 karių kaip kalavijuočių ordino sąjungi
 
 ## Teiginiai
 
+<a id="claim-t-28730"></a>
 - t-001
+  global_id: t-28730
   teiginys: 'Iš Pskovo į Livoniją atvyko 200 karių kaip Kalavijuočių ordino sąjungininkai kariauti prieš „bedieviškąją Lietuvą“.'
   pagrindžia:
     - c-001

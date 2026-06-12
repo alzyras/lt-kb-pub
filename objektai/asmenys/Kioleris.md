@@ -16,7 +16,9 @@ Kiolerio vadovaujama kolona turėjo pulti bolševikus palei plentą Leliūnai-Ut
 
 ## Teiginiai
 
+<a id="claim-t-39767"></a>
 - t-001
+  global_id: t-39767
   teiginys: 'Kiolerio vadovaujama kolona turėjo pulti bolševikus palei plentą Leliūnai-Utena.'
   pagrindžia:
     - c-001

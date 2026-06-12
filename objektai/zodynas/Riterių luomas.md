@@ -26,17 +26,23 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
 
 ## Teiginiai
 
+<a id="claim-t-55269"></a>
 - t-001
+  global_id: t-55269
   teiginys: 'Kryžiaus karų poveikis sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55270"></a>
 - t-002
+  global_id: t-55270
   teiginys: 'Riterių luomas apibūdintas kaip garbingiausioji viduramžių institucija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82096"></a>
 - t-003
+  global_id: t-82096
   teiginys: 'Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos.'
   pagrindžia:
     - c-002

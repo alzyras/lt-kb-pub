@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-38926"></a>
 - t-001
+  global_id: t-38926
   teiginys: 'Spalio 26 d. 13-asis ulonų pulkas apėjo kairįjį lietuvių I divizijos flangą ir prasiveržė iki Ukmergės prieigų.'
   pagrindžia:
     - c-001

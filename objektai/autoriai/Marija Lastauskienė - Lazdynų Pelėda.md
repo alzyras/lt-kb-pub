@@ -16,7 +16,9 @@ Marija Lastauskienė - Lazdynų Pelėda.
 
 ## Teiginiai
 
+<a id="claim-t-34879"></a>
 - t-001
+  global_id: t-34879
   teiginys: 'Marija Lastauskienė buvo siejama su Lazdynų Pelėdos vardu ir apysaka „Radybos“.'
   pagrindžia:
     - c-001

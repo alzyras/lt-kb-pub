@@ -18,12 +18,16 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
 
 ## Teiginiai
 
+<a id="claim-t-02077"></a>
 - t-001
+  global_id: t-02077
   teiginys: 'Draugija statuto 1 paragrafe įrašė tikslą mokslui surinkti ir išsaugoti kalbos, istorijos, tautosakos ir panašius duomenis apie Lietuvą ir lietuvius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-02078"></a>
 - t-002
+  global_id: t-02078
   teiginys: 'Draugija nesirūpino kelti lietuvybės, o rinko ir saugojo mokslo reikalams lietuviškosios kultūros palaikus.'
   pagrindžia:
     - c-001

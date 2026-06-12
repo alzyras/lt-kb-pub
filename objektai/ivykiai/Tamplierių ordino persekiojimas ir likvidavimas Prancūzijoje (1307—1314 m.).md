@@ -46,12 +46,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62933"></a>
 - t-001
+  global_id: t-62933
   teiginys: 'Dusburgietis teigia, kad neseniai Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo Teutonų ordinas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-62934"></a>
 - t-002
+  global_id: t-62934
   teiginys: 'Dusburgietis teigia, kad 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291 m.) įsikūrusių šioje žemėje, procesas.'
   pagrindžia:
     - c-002

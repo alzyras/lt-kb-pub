@@ -24,7 +24,9 @@ Taigi, drįstume teigti, kad bent jau iki Jogailos tapsmo Lenkijos karaliumi 138
 
 ## Teiginiai
 
+<a id="claim-t-77856"></a>
 - t-001
+  global_id: t-77856
   teiginys: 'Iki Jogailos tapsmo Lenkijos karaliumi 1386 m. Lietuva gali būti vadinama „savotiška arba nesistemine karalyste“.'
   pagrindžia:
     - c-001

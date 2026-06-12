@@ -16,14 +16,17 @@ Jis buvo leidžiamas tam tikslui, kad užkirstų kelią tuo metu lietuvių tarpe
 
 ## Teiginiai
 
+<a id="claim-t-74027"></a>
 - t-001
-  teiginys: 'Jis buvo leidžiamas tam tikslui, kad užkirstų kelią tuo metu lietuvių tarpe plintančioms, Prūsų karalystėje įsigalėjusioms revoliucinėms idėjoms; todėl jis palaikė prūsiškąjį patriotizmą ir monarchizmą.'
+  global_id: t-74027
+  teiginys: '1849–1880 m. leistas „Keleivis“ palaikė prūsiškąjį patriotizmą ir monarchizmą, priešindamasis revoliucinėms idėjoms.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1849–1880 m. leistas „Keleivis“ palaikė prūsiškąjį patriotizmą ir monarchizmą, priešindamasis revoliucinėms idėjoms.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daugiau

@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-18757"></a>
 - t-001
+  global_id: t-18757
   teiginys: '1902 m. Adomas Jakštas-Dambrauskas lenkiškai išleido knygelę apie jaunosios lietuvių kartos siekius ir programą.'
   pagrindžia:
     - c-001

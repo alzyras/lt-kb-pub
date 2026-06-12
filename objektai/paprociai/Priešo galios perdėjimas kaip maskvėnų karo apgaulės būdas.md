@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas
 
 ## Santrauka
 
-Kojelavičius teigia, kad šitai išgirdęs, Konstantinas patraukė link priešo su savo kariais, ku rių čia turėjo ne daugiau kaip tris tūkstančius penkis \ ¡šimtus vyrų. Kojelavičius teigia, kad štai todėl ir pamanė, jog maskvėnai įprastu būdu dedasi esą stipresni nei iš tikrųjų, todėl Konstantinas įsakė savo kariuomenei traukti link priešo.
+Konstantinas su maždaug 3500 karių patraukė link priešo, išgirdęs belaisvių pasakojimus apie padidėjusias maskvėnų jėgas. Kojelavičius maskvėnų tvirtinimus apie padidėjusias pajėgas laikė įprastu būdu dėtis stipresniems, nei jie buvo iš tikrųjų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,20 +29,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185885"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad šitai išgirdęs, Konstantinas patraukė link priešo su savo kariais, ku rių čia turėjo ne daugiau kaip tris tūkstančius penkis \ ¡šimtus vyrų.'
+  global_id: t-185885
+  teiginys: 'Konstantinas su maždaug 3500 karių patraukė link priešo, išgirdęs belaisvių pasakojimus apie padidėjusias maskvėnų jėgas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185886"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad štai todėl ir pamanė, jog maskvėnai įprastu būdu dedasi esą stipresni nei iš tikrųjų, todėl Konstantinas įsakė savo kariuomenei traukti link priešo.'
+  global_id: t-185886
+  teiginys: 'Kojelavičius maskvėnų tvirtinimus apie padidėjusias pajėgas laikė įprastu būdu dėtis stipresniems, nei jie buvo iš tikrųjų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad šitai išgirdęs, Konstantinas patraukė link priešo su savo kariais, ku rių čia turėjo ne daugiau kaip tris tūkstančius penkis \ ¡šimtus vyrų.'
+  santrauka: 'Konstantinas su maždaug 3500 karių patraukė link priešo, išgirdęs belaisvių pasakojimus apie padidėjusias maskvėnų jėgas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitai išgirdęs,
@@ -68,7 +71,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad štai todėl ir pamanė, jog maskvėnai įprastu būdu dedasi esą stipresni nei iš tikrųjų, todėl Konstantinas įsakė savo kariuomenei traukti link priešo.'
+  santrauka: 'Kojelavičius maskvėnų tvirtinimus apie padidėjusias pajėgas laikė įprastu būdu dėtis stipresniems, nei jie buvo iš tikrųjų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai todėl ir pamanė,
@@ -86,3 +89,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/grupes/Maskvėnai]]

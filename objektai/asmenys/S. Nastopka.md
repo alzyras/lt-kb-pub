@@ -16,17 +16,23 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
 
 ## Teiginiai
 
+<a id="claim-t-40411"></a>
 - t-001
+  global_id: t-40411
   teiginys: 'S. Nastopkos vadovaujama 1-oji pėstininkų divizija įžengė į bolševikų paliktą Vilnių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40412"></a>
 - t-002
+  global_id: t-40412
   teiginys: 'S. Nastopkos vadovaujamos 11-osios brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40413"></a>
 - t-003
+  global_id: t-40413
   teiginys: 'Rugpjūčio 23 d., atleidus gen. S. Nastopką iš armijos vado pareigų, armijos vadu paskirtas plk. ltn. K. Ladyga.'
   pagrindžia:
     - c-003

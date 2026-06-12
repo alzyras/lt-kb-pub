@@ -18,7 +18,9 @@ Dusburgietis teigia, kad baueris86. Dusburgietis teigia, kad 95—119; Bauer H.
 
 ## Teiginiai
 
+<a id="claim-t-60605"></a>
 - t-001
+  global_id: t-60605
   teiginys: 'H. Baueris XX a. ketvirtajame dešimtmetyje aptarė kai kuriuos Dusburgiečio kronikos klausimus.'
   pagrindžia:
     - c-001

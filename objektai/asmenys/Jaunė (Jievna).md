@@ -24,7 +24,9 @@ Greičiausia jungiančiu veiksniu tuo laikotarpiu bus buvusi taip pat Vilniuje s
 
 ## Teiginiai
 
+<a id="claim-t-34795"></a>
 - t-001
+  global_id: t-34795
   teiginys: 'Gedimino našlė Jaunė tikriausiai buvo jungiantis veiksnys, kai Vilniuje gyveno kartu su Jaunučiu.'
   pagrindžia:
     - c-001

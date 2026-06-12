@@ -26,7 +26,9 @@ Statybininkų šalmai ir dujokaukės - gautos Vilniaus miesto tarybos | | Lietuv
 
 ## Teiginiai
 
+<a id="claim-t-40315"></a>
 - t-001
+  global_id: t-40315
   teiginys: 'Sovietų konstruktorius M. Kalašnikovas 1947 m. sukūrė automatinį šautuvą AK-47.'
   pagrindžia:
     - c-001

@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, imperatoriaus Karolio V — grafą Leonardą ir karaliaus Ferdinando — Zigmantą Herberšteiną. Kojelavičius teigia, kad galop ir viena, ir kita šalis sutiko su šešerių me tų paliaubomis šitokiomis sąlygomis: Vasilijus, pasi laikydamas Smolenską, atsisako Smolensko didžiojo kunigaikščio titulo, o karaliaus pasiuntiniai sutinka ti tuluoti Maskvos didįjį kunigaikštį didžiuoju.
+Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, grafo Leonardo ir Zigmanto Herberšteino pasiuntinybes. Per šešerių metų paliaubas Vasilijus pasilaikė Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185544"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, imperatoriaus Karolio V — grafą Leonardą ir karaliaus Ferdinando — Zigmantą Herberšteiną.'
+  global_id: t-185544
+  teiginys: 'Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, grafo Leonardo ir Zigmanto Herberšteino pasiuntinybes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185545"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad galop ir viena, ir kita šalis sutiko su šešerių me tų paliaubomis šitokiomis sąlygomis: Vasilijus, pasi laikydamas Smolenską, atsisako Smolensko didžiojo kunigaikščio titulo, o karaliaus pasiuntiniai sutinka ti tuluoti Maskvos didįjį kunigaikštį didžiuoju.'
+  global_id: t-185545
+  teiginys: 'Per šešerių metų paliaubas Vasilijus pasilaikė Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, imperatoriaus Karolio V — grafą Leonardą ir karaliaus Ferdinando — Zigmantą Herberšteiną.'
+  santrauka: 'Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, grafo Leonardo ir Zigmanto Herberšteino pasiuntinybes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pirmoji pasiuntinybė patraukė į Možaiską
@@ -57,7 +60,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad galop ir viena, ir kita šalis sutiko su šešerių me tų paliaubomis šitokiomis sąlygomis: Vasilijus, pasi laikydamas Smolenską, atsisako Smolensko didžiojo kunigaikščio titulo, o karaliaus pasiuntiniai sutinka ti tuluoti Maskvos didįjį kunigaikštį didžiuoju.'
+  santrauka: 'Per šešerių metų paliaubas Vasilijus pasilaikė Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kad šitokiam tvirtini­
@@ -82,3 +85,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/zodynas/legatai]]
+- [[objektai/zodynas/senatas]]
+- [[objektai/asmenys/Vasilijus]]

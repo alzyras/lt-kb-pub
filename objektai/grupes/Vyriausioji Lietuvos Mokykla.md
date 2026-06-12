@@ -17,18 +17,24 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
 
 ## Teiginiai
 
+<a id="claim-t-72656"></a>
 - t-001
+  global_id: t-72656
   teiginys: 'Vyriausiojoje Lietuvos Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72657"></a>
 - t-002
+  global_id: t-72657
   teiginys: 'Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus akademija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72658"></a>
 - t-003
-  teiginys: 'Pirmiausia Lietuvoje ir Lenkijoje buvo padaryta po vieną vyriausiąją mokyklą, kuriai priklausė visų kitų krašto mokyklų priežiūra.'
+  global_id: t-72658
+  teiginys: 'Vyriausiajai Lietuvos Mokyklai priklausė visų kitų Lietuvos krašto mokyklų priežiūra.'
   pagrindžia:
     - c-003
 
@@ -64,6 +70,7 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
     - t-002
 
 - c-003
+  santrauka: 'Vyriausiajai Lietuvos Mokyklai priklausė visų kitų Lietuvos krašto mokyklų priežiūra.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmiausia Lietuvoje ir Lenkijoje

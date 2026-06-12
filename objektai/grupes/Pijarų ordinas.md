@@ -18,32 +18,44 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
 
 ## Teiginiai
 
+<a id="claim-t-72601"></a>
 - t-001
+  global_id: t-72601
   teiginys: 'Pijarų ordinas išlaikė ypač daug mokyklų, kurių Edukacinė Komisija neperėmė, bet prižiūrėjo jų mokymą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-72602"></a>
 - t-002
-  teiginys: 'Ypač dėl šito jėzuitų prisitaikymo prie naujųjų reikalavimų, jų mokyklos nenustojo klestėjusios, ir pijarų mokyklos nebegalėjo su jomis konkuruoti (pijarų mokyklų buvo daug mažiau, negu jėzuitų).'
+  global_id: t-72602
+  teiginys: 'Pijarų mokyklos nebegalėjo konkuruoti su jėzuitų mokyklomis, nes jėzuitai prisitaikė prie naujųjų reikalavimų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72603"></a>
 - t-003
+  global_id: t-72603
   teiginys: 'Pijarai, niekuo daugiau neužsiimdami, kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzuitai stengėsi visur apsigyventi.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-72604"></a>
 - t-004
+  global_id: t-72604
   teiginys: 'XVIII a. į Lietuvą atsikraustęs Pijarų ordinas rūpinosi jaunuomenės auklėjimu ir kūrė dievobaimingąsias mokyklas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72605"></a>
 - t-005
+  global_id: t-72605
   teiginys: 'Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-72606"></a>
 - t-006
+  global_id: t-72606
   teiginys: 'Pijarai, kaip ir jėzuitai, steigė savo mokyklas iš atskirų didžiūnų ir bajorijos fundacijų.'
   pagrindžia:
     - c-004
@@ -51,6 +63,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pijarų mokyklos nebegalėjo konkuruoti su jėzuitų mokyklomis, nes jėzuitai prisitaikė prie naujųjų reikalavimų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ypač dėl šito jėzuitų prisitaikymo prie naujųjų reika-

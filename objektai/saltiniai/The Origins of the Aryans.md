@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-21284"></a>
 - t-001
+  global_id: t-21284
   teiginys: 'Isaacas Tayloras veikale „The Origins of the Aryans“ spėliojo, kad arijų kalbos lopšys galėjo būti lietuvių apgyventoje teritorijoje.'
   pagrindžia:
     - c-001

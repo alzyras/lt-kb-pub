@@ -23,7 +23,9 @@ Dusburgietis teigia, kad kolankowski L.
 
 ## Teiginiai
 
+<a id="claim-t-61099"></a>
 - t-001
+  global_id: t-61099
   teiginys: 'L. Kolankowskio straipsnis „Litwini a Prusacy“ paskelbtas 1931 m. Lvove išleistame V visuotinio lenkų istorikų suvažiavimo leidinyje.'
   pagrindžia:
     - c-001

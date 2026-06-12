@@ -27,7 +27,9 @@ IV, p. 68, rašo, kad anglų kronikininkas Walsinghamas savo kronikoje 1390 m. V
 
 ## Teiginiai
 
+<a id="claim-t-88085"></a>
 - t-001
+  global_id: t-88085
   teiginys: 'IV, p. 68, rašo, kad anglų kronikininkas Walsinghamas savo kronikoje 1390 m. Vilniaus užėmimo garbę priskiria Derbio grafui, o užmuštų ir sužeistų lietuvių nurodo buvus apie 4 000.'
   pagrindžia:
     - c-001

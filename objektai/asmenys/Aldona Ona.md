@@ -25,7 +25,9 @@ Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą Aldoną Oną su Lo
 
 ## Teiginiai
 
+<a id="claim-t-39997"></a>
 - t-001
+  global_id: t-39997
   teiginys: 'Aldona Ona 1325 m. buvo ištekinta už Lenkijos sosto įpėdinio Kazimiero, Lokietkos sūnaus.'
   pagrindžia:
     - c-001

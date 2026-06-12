@@ -17,7 +17,9 @@ Balinskis atsakė į jo laišką „Kreipimasis į tautiečius", kuriame lietuvi
 
 ## Teiginiai
 
+<a id="claim-t-88313"></a>
 - t-001
+  global_id: t-88313
   teiginys: 'Mikalojus Akelaitis laiške „Kreipimasis į tautiečius“ reikalavo lietuvių liaudžiai suteikti pilietinio ir kultūrinio ugdymo teises.'
   pagrindžia:
     - c-001

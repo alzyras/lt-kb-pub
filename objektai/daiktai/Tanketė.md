@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40775"></a>
 - t-001
+  global_id: t-40775
   teiginys: 'Plentų kryžkelėje pasirodė tanketė, kuri atidengė ugnį į miestelį.'
   pagrindžia:
     - c-001

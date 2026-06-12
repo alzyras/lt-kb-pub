@@ -24,7 +24,9 @@ Dusburgietis teigia, kad varakauskas R.
 
 ## Teiginiai
 
+<a id="claim-t-61348"></a>
 - t-001
+  global_id: t-61348
   teiginys: 'R. Varakausko straipsnis apie vokiečių feodalų agresiją į Rytinį Pabaltijį XIII a. I ketvirtyje paskelbtas 1957 m.'
   pagrindžia:
     - c-001

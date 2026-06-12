@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad štai dabar Narimantas su Traideniu pirmą kartą susirūpino šiomis žemėmis, nutarę ne L ietu via i atsiim a kiišpuoliais priešą niokoti, bet ta d o s len k ų u žg ro b tą išvyti lenkus ir vėl ten atjo tv in g ių šalį kurti senąsias lietuvių teises. Kojelavičius teigia, kad išlikę jotvingiai, iš seno ne kęsdami lenkų, patys nuo jų atsimetė: vos tik pamatė lietuvių kariuomenę, jie at- 1281 m e ta i sižadėjo krikščionių tikėjimo bei lenkų ir prisidėjo prie lietuvių.
+Narimantas ir Traidenis nusprendė išvyti lenkus iš jotvingių žemių ir atkurti ten senąsias lietuvių teises. 1281 metais išlikę jotvingiai, pamatę lietuvių kariuomenę, atsimetė nuo lenkų ir prisidėjo prie lietuvių.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185740"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad štai dabar Narimantas su Traideniu pirmą kartą susirūpino šiomis žemėmis, nutarę ne L ietu via i atsiim a kiišpuoliais priešą niokoti, bet ta d o s len k ų u žg ro b tą išvyti lenkus ir vėl ten atjo tv in g ių šalį kurti senąsias lietuvių teises.'
+  global_id: t-185740
+  teiginys: 'Narimantas ir Traidenis nusprendė išvyti lenkus iš jotvingių žemių ir atkurti ten senąsias lietuvių teises.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185741"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad išlikę jotvingiai, iš seno ne kęsdami lenkų, patys nuo jų atsimetė: vos tik pamatė lietuvių kariuomenę, jie at- 1281 m e ta i sižadėjo krikščionių tikėjimo bei lenkų ir prisidėjo prie lietuvių.'
+  global_id: t-185741
+  teiginys: '1281 metais išlikę jotvingiai, pamatę lietuvių kariuomenę, atsimetė nuo lenkų ir prisidėjo prie lietuvių.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad štai dabar Narimantas su Traideniu pirmą kartą susirūpino šiomis žemėmis, nutarę ne L ietu via i atsiim a kiišpuoliais priešą niokoti, bet ta d o s len k ų u žg ro b tą išvyti lenkus ir vėl ten atjo tv in g ių šalį kurti senąsias lietuvių teises.'
+  santrauka: 'Narimantas ir Traidenis nusprendė išvyti lenkus iš jotvingių žemių ir atkurti ten senąsias lietuvių teises.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai
@@ -74,7 +77,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad išlikę jotvingiai, iš seno ne kęsdami lenkų, patys nuo jų atsimetė: vos tik pamatė lietuvių kariuomenę, jie at- 1281 m e ta i sižadėjo krikščionių tikėjimo bei lenkų ir prisidėjo prie lietuvių.'
+  santrauka: '1281 metais išlikę jotvingiai, pamatę lietuvių kariuomenę, atsimetė nuo lenkų ir prisidėjo prie lietuvių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Išlikę jotvingiai, iš seno ne­
@@ -99,3 +102,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
+- [[objektai/zodynas/apostazija]]

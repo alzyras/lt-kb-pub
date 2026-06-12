@@ -25,7 +25,9 @@ Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreik�
 
 ## Teiginiai
 
+<a id="claim-t-86856"></a>
 - t-001
+  global_id: t-86856
   teiginys: 'Gediminui priskirtas pareiškimas teigė, kad jis nori gyventi ir mirti išpažindamas savo tėvų tikėjimą.'
   pagrindžia:
     - c-001

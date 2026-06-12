@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad kitais metais, kai Vytenis abu luomus sukvietė į pasi- 1305 m e ta i tarimą, Sembos vyskupystės V y te n is p e rse k io ja fogtas Pilypas fon Bolandas, k ry žiu o č iu s g ro b ik u s pasinaudojęs progą, kad bu vo išvykę kunigaikščiai ir bajorai, nusiaubė. Kojelavičius teigia, kad jau kry žiuočiai buvo pasitraukę iš krašto, kai Vytenis neti kėtai užpuolė nebesisaugančių priešų ariergardą; ko vėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku rios kitos priežasties, ar dėl to, kad ir vienos, ir kitos kariuomenės dydis buvo.
+1305 m. Pilypas fon Bolandas, pasinaudojęs kunigaikščių ir bajorų išvykimu, nusiaubė Lietuvos pasienio kaimiečius. Vytenis su 1500 raitelių netikėtai užpuolė iš Lietuvos pasitraukusių kryžiuočių ariergardą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185670"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kitais metais, kai Vytenis abu luomus sukvietė į pasi- 1305 m e ta i tarimą, Sembos vyskupystės V y te n is p e rse k io ja fogtas Pilypas fon Bolandas, k ry žiu o č iu s g ro b ik u s pasinaudojęs progą, kad bu vo išvykę kunigaikščiai ir bajorai, nusiaubė.'
+  global_id: t-185670
+  teiginys: '1305 m. Pilypas fon Bolandas, pasinaudojęs kunigaikščių ir bajorų išvykimu, nusiaubė Lietuvos pasienio kaimiečius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185671"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad jau kry žiuočiai buvo pasitraukę iš krašto, kai Vytenis neti kėtai užpuolė nebesisaugančių priešų ariergardą; ko vėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku rios kitos priežasties, ar dėl to, kad ir vienos, ir kitos kariuomenės dydis buvo.'
+  global_id: t-185671
+  teiginys: 'Vytenis su 1500 raitelių netikėtai užpuolė iš Lietuvos pasitraukusių kryžiuočių ariergardą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kitais metais, kai Vytenis abu luomus sukvietė į pasi- 1305 m e ta i tarimą, Sembos vyskupystės V y te n is p e rse k io ja fogtas Pilypas fon Bolandas, k ry žiu o č iu s g ro b ik u s pasinaudojęs progą, kad bu vo išvykę kunigaikščiai ir bajorai, nusiaubė.'
+  santrauka: '1305 m. Pilypas fon Bolandas, pasinaudojęs kunigaikščių ir bajorų išvykimu, nusiaubė Lietuvos pasienio kaimiečius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kitais metais, kai Vytenis
@@ -77,7 +80,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad jau kry žiuočiai buvo pasitraukę iš krašto, kai Vytenis neti kėtai užpuolė nebesisaugančių priešų ariergardą; ko vėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku rios kitos priežasties, ar dėl to, kad ir vienos, ir kitos kariuomenės dydis buvo.'
+  santrauka: 'Vytenis su 1500 raitelių netikėtai užpuolė iš Lietuvos pasitraukusių kryžiuočių ariergardą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai valdovui
@@ -99,3 +102,15 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Pilypas]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/fogtas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/vyskupystė]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/ariergardas]]

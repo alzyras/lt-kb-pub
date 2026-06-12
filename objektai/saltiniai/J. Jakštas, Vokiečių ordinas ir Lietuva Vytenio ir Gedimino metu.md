@@ -25,7 +25,9 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
 
 ## Teiginiai
 
+<a id="claim-t-60984"></a>
 - t-001
+  global_id: t-60984
   teiginys: 'Dusburgietis teigia, kad gedimino sutartis su Ordinu rodo, kad Lietuvos valstybės lietuviškosios žemės susidėjo iš dviejų dalių: Aukštaičių ir Žemaičių (Łowmiański H., Studja..., 2, p. 69— 70; Jakštas J., Vokiečių ordinas..., p. 141; plg.'
   pagrindžia:
     - c-001

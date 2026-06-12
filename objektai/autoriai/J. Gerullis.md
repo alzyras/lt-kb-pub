@@ -24,7 +24,9 @@ Gerullis, J.: Zur Sprache der Sudauer-Jätwinger, Festschrift für Ad. Bezzenber
 
 ## Teiginiai
 
+<a id="claim-t-30671"></a>
 - t-001
+  global_id: t-30671
   teiginys: 'J. Gerullis parašė darbą „Zur Sprache der Sudauer-Jätwinger“, išspausdintą 1921 m. Getingene.'
   pagrindžia:
     - c-001

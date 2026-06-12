@@ -22,7 +22,9 @@ Didysis X Lietuvos užsienio politikoje.
 
 ## Teiginiai
 
+<a id="claim-t-78146"></a>
 - t-001
+  global_id: t-78146
   teiginys: 'Didysis X Lietuvos užsienio politikoje.'
   pagrindžia:
     - c-001

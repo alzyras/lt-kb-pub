@@ -18,7 +18,9 @@ Pasiunčia ir Vytautui perspėjantį laišką, kad jis nenutrauktų unijos ir ni
 
 ## Teiginiai
 
+<a id="claim-t-36100"></a>
 - t-001
+  global_id: t-36100
   teiginys: 'Vytautas perspėtas nenutraukti unijos ir nieko nedaryti nepasitarus su popiežiumi.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86229"></a>
 - t-001
+  global_id: t-86229
   teiginys: '1581 m. viešosios rimties drumstėjai Vilniuje užpuolė reformatų maldos namus ir Danieliaus Lenčickio prižiūrimą spaustuvę.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Mykolas Brenšteinas^1 ), remdamasis įvairiomis kroniko­ mis, mano, kad Vytaut
 
 ## Teiginiai
 
+<a id="claim-t-34880"></a>
 - t-001
+  global_id: t-34880
   teiginys: 'Mykolas Brenšteinas, remdamasis kronikomis, manė, kad Vytauto laikų pabaigoje lietuvių artilerija jau buvo nemenka.'
   pagrindžia:
     - c-001

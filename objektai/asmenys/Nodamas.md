@@ -11,7 +11,6 @@ tags:
   - tikėjimas
   - upė
 ---
-
 # Nodamas
 
 ## Santrauka
@@ -20,18 +19,24 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
 
 ## Teiginiai
 
+<a id="claim-t-60395"></a>
 - t-001
+  global_id: t-60395
   teiginys: 'Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats, apsirengęs moteriškais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184807"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad tarp kitų ten buvo ir Nodamas, jaunas, narsus ir labai stiprus karys; jis pažadėjo vadui padėti, tegu tik kiti jį ryžtingai paremia: jis iš tiesų padarysiąs, kad jie galės ne tik susikauti, bet ir nugalėti.'
+  global_id: t-184807
+  teiginys: 'Nodamas pažadėjo vadui padėti surengti gudrybę, kuri leistų susikauti su priešu ir jį nugalėti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184808"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad todėl jie priplaukė prie kranto, ketindami tą tariamą moterį paimti į laivą, tačiau Nodamas, staiga prišokęs prie vandens, suriko, kviesdamasis bendrinin kus, ir taip tvirtai nutvėrė už laivo, kad irkluotojai ne įstengė jo pajudinti, kol nesubėgo iš pasalų.'
+  global_id: t-184808
+  teiginys: 'Nodamas, persirengęs moterimi, priviliojo kryžiuočius prie kranto ir sulaikė jų laivą, kol atskubėjo pasalos kariai.'
   pagrindžia:
     - c-003
 
@@ -58,7 +63,7 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad tarp kitų ten buvo ir Nodamas, jaunas, narsus ir labai stiprus karys; jis pažadėjo vadui padėti, tegu tik kiti jį ryžtingai paremia: jis iš tiesų padarysiąs, kad jie galės ne tik susikauti, bet ir nugalėti.'
+  santrauka: 'Nodamas pažadėjo vadui padėti surengti gudrybę, kuri leistų susikauti su priešu ir jį nugalėti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto jis sušaukė įgulą ir visus para­
@@ -85,7 +90,7 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad todėl jie priplaukė prie kranto, ketindami tą tariamą moterį paimti į laivą, tačiau Nodamas, staiga prišokęs prie vandens, suriko, kviesdamasis bendrinin kus, ir taip tvirtai nutvėrė už laivo, kad irkluotojai ne įstengė jo pajudinti, kol nesubėgo iš pasalų.'
+  santrauka: 'Nodamas, persirengęs moterimi, priviliojo kryžiuočius prie kranto ir sulaikė jų laivą, kol atskubėjo pasalos kariai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kryžiuočiai
@@ -106,3 +111,18 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas iš Vienos]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/ivykiai/Karine klasta paimamas kryžiuočių laivas]]
+- [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]
+- [[objektai/asmenys/Ernekė]]
+- [[objektai/asmenys/Surminas]]

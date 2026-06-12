@@ -29,7 +29,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31979"></a>
 - t-001
+  global_id: t-31979
   teiginys: 'W. Goyskio „Wzajemne stosunki Polski, Litwy i Zakonu w latach 1399-1404“ paskelbtas 1906 m. „Przewodnik naukowy i literacki“ 34 tome.'
   pagrindžia:
     - c-001

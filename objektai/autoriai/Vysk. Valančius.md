@@ -16,7 +16,9 @@ Valančiaus, VAIKŲ KNYGELĖ.
 
 ## Teiginiai
 
+<a id="claim-t-96060"></a>
 - t-001
+  global_id: t-96060
   teiginys: 'Valančiaus, VAIKŲ KNYGELĖ.'
   pagrindžia:
     - c-001

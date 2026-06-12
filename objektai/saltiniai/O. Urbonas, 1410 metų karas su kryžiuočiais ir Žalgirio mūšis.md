@@ -26,7 +26,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31871"></a>
 - t-001
+  global_id: t-31871
   teiginys: 'O. Urbono „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“ išleido „Kario“ leidykla Brukline.'
   pagrindžia:
     - c-001

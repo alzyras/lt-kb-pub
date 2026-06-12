@@ -24,7 +24,9 @@ auksinų sumą, iš minėto pardavimo sudariusi, kuri 1759 metų balandžio 22 d
 
 ## Teiginiai
 
+<a id="claim-t-87630"></a>
 - t-001
+  global_id: t-87630
   teiginys: '1759 m. balandžio 22 d. pas Barborą iš Sulistrovskių Čechavičienę buvo investuota 4000 lenkų auksinų spaustuvės suma.'
   pagrindžia:
     - c-001

@@ -19,22 +19,30 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
 
 ## Teiginiai
 
+<a id="claim-t-83305"></a>
 - t-001
+  global_id: t-83305
   teiginys: 'Sąjungininkai nutarė apeiti Drevencos upę pro Alenšteiną, kad tolimesniu keliu pasiektų Marienburgą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-83306"></a>
 - t-002
+  global_id: t-83306
   teiginys: 'Sąjungininkai priėjo Drevencos upę ties Kauerniku ir rado kryžiuočių saugomą perėjimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-83307"></a>
 - t-003
+  global_id: t-83307
   teiginys: 'Plėšikautojų būrys per Drevencą įsiveržė į Brodnicos apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184303"></a>
 - t-005
+  global_id: t-184303
   teiginys: 'Sąjungininkai priėjo Drevencos upę ties Kauerniku.'
   pagrindžia:
     - c-004

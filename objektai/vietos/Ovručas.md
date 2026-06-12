@@ -16,7 +16,6 @@ tags:
 amziai:
   - 'XIV'
 ---
-
 # Ovručas
 
 ## Santrauka
@@ -25,13 +24,17 @@ Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą
 
 ## Teiginiai
 
+<a id="claim-t-36470"></a>
 - t-001
+  global_id: t-36470
   teiginys: '1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185075"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad žiemą telkė kariuomenę ir rūpinosi tiekikantraudami laukė, kuria kryptimi smogs naują smū gį, sutraukta Gedimino kariuomenė perėjo Vladimiro ir Lucko žemes, nedarydama čia, sąjungininkų valdo se, niekam skriaudų ir priartėjo prie Ovručo.'
+  global_id: t-185075
+  teiginys: 'Gedimino kariuomenė perėjo Vladimiro ir Lucko žemes, nedarydama sąjungininkams skriaudų, ir priartėjo prie Ovručo.'
   pagrindžia:
     - c-002
 
@@ -51,7 +54,7 @@ Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad žiemą telkė kariuomenę ir rūpinosi tiekikantraudami laukė, kuria kryptimi smogs naują smū gį, sutraukta Gedimino kariuomenė perėjo Vladimiro ir Lucko žemes, nedarydama čia, sąjungininkų valdo se, niekam skriaudų ir priartėjo prie Ovručo.'
+  santrauka: 'Gedimino kariuomenė perėjo Vladimiro ir Lucko žemes, nedarydama sąjungininkams skriaudų, ir priartėjo prie Ovručo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Išsiuntęs kariuomenę į žiemos stovyklą,

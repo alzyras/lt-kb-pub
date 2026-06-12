@@ -25,7 +25,9 @@ Stankus, J. — Stankus, J.
 
 ## Teiginiai
 
+<a id="claim-t-30701"></a>
 - t-001
+  global_id: t-30701
   teiginys: 'J. Stankus 1970 m. paskelbė darbą „Geležinių įrankių gamybos technologija Lietuvoje IX-XIII amžiais“.'
   pagrindžia:
     - c-001

@@ -50,12 +50,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-13281"></a>
 - t-001
+  global_id: t-13281
   teiginys: 'Baltijos kelio gedulo kaspinai ir žvakutės priminė aukas ir didelių netekčių skausmą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-13282"></a>
 - t-002
+  global_id: t-13282
   teiginys: 'Baltijos kelyje plevėsavo juodi gedulo kaspinai ir degė žvakutės.'
   pagrindžia:
     - c-001

@@ -17,12 +17,16 @@ Gi atsargusis Tigras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulko
 
 ## Teiginiai
 
+<a id="claim-t-40464"></a>
 - t-001
+  global_id: t-40464
   teiginys: 'Tigras buvo ginkluotas vokišku MG 36 kulkosvaidžiu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40465"></a>
 - t-002
+  global_id: t-40465
   teiginys: 'Tigras pirmaisiais šūviais nukovė tris NKGB dalinio vadus: Kruglovą, Marcinkevičių ir dar vieną rusų karininką.'
   pagrindžia:
     - c-002

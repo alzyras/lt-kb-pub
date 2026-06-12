@@ -6,54 +6,67 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # žygūnas
 
 ## Santrauka
 
-Kojelavičius teigia, kad u 5 Išleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil kui nuodugniai papasakoti apie diduomenės bei tau tos prielankumą ir pakviesti jį perimti tėvo paliktos valdžios. Kojelavičius teigia, kad kai kara lius, pasiuntęs žygūną, parei kalavo nelaužyti susitarimo ir nedaryti skriaudų, šie atrėžė, jog elgtasi jų teisingai ir teisėtai, nes atėmė tai, ką karalius siuntė stabmeldžių tautai, kovojančiai prieš krikščionis. Kojelavičius teigia, kad jedlnioje sukvietė lenkų seimą, kuris nu tarė, jog reikia pastatyti ginkluotas saugas visuose ke liuose Lenkijos pasienyje ir uoliai žiūrėti, kad ir impera toriaus, ir Vytauto žygūnai negalėtų prasmukti nei į vie ną, nei į kitą pusę.
+Į Pinską išsiųsti žygūnai turėjo pakviesti vienuolį Vaišvilką perimti tėvo paliktą valdžią. Karalius per žygūną pareikalavo, kad kryžiuočiai nelaužytų susitarimo ir nedarytų skriaudų. Jedlnioje lenkų seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai neprasmuktų nė viena kryptimi.
 
 ## Teiginiai
 
+<a id="claim-t-185331"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad u 5 Išleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil kui nuodugniai papasakoti apie diduomenės bei tau tos prielankumą ir pakviesti jį perimti tėvo paliktos valdžios.'
+  global_id: t-185331
+  teiginys: 'Į Pinską išsiųsti žygūnai turėjo pakviesti vienuolį Vaišvilką perimti tėvo paliktą valdžią.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185332"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kai kara lius, pasiuntęs žygūną, parei kalavo nelaužyti susitarimo ir nedaryti skriaudų, šie atrėžė, jog elgtasi jų teisingai ir teisėtai, nes atėmė tai, ką karalius siuntė stabmeldžių tautai, kovojančiai prieš krikščionis.'
+  global_id: t-185332
+  teiginys: 'Karalius per žygūną pareikalavo, kad kryžiuočiai nelaužytų susitarimo ir nedarytų skriaudų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185333"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad jedlnioje sukvietė lenkų seimą, kuris nu tarė, jog reikia pastatyti ginkluotas saugas visuose ke liuose Lenkijos pasienyje ir uoliai žiūrėti, kad ir impera toriaus, ir Vytauto žygūnai negalėtų prasmukti nei į vie ną, nei į kitą pusę.'
+  global_id: t-185333
+  teiginys: 'Jedlnioje lenkų seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai neprasmuktų nė viena kryptimi.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185334"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad vos k araliu s šitai sužinojo, b em at išsiuntė kuo skubiausiai žygūnus, kurie išvykstantiems tu rė jo pranešti, jog storžievis už neapdairumą nubaus tas mirtimi.'
+  global_id: t-185334
+  teiginys: 'Karalius skubiai išsiuntė žygūnus pranešti iš Vilniaus išvykusiems kunigaikščiams, kad durininkas už neapdairumą bus nubaustas mirtimi.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-185335"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad aleksandras kol kas laikėsi nuomonės, jog tirono įsiūtį galima numalšinti per pasiunti-l nius, todėl liepė Trakų vaivadai Zaberezinskiui šitai pi atsakyti Ivano žygūnui.'
+  global_id: t-185335
+  teiginys: 'Aleksandras pavedė Trakų vaivadai Zaberezinskiui atsakyti Ivano žygūnui dėl mėginimo numalšinti Ivano įsiūtį per pasiuntinius.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-185336"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad glinskis, nepaprastai trokšdamas šios žemės, ėmėsi uždavinio, jis sugalvojo griebtis klas tingos gudrybės: nusiuntė būrį savo slaptų žygūnų, ku rie, nešykštėdami nei dovanų, nei pažadų, įniko vi saip kurstyti įgulą, o po to ir bajorus ir galop palaužė jų.'
+  global_id: t-185336
+  teiginys: 'Glinskis nusiuntė slaptų žygūnų būrį, kad dovanomis ir pažadais kurstytų įgulą bei bajorus ir palaužtų jų ištikimybę.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-185337"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad dėda masis jo žygūnu, lenkų bajoras Trepka, mokėjęs italų bei vengrų kalbas, išvyko kelionėn, pasižadėjęs akis į akį pranešti Glinskiui karaliaus valią.'
+  global_id: t-185337
+  teiginys: 'Lenkų bajoras Trepka, dėdamasis Pisono žygūnu, išvyko pranešti Glinskiui karaliaus valios.'
   pagrindžia:
     - c-007
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad u 5 Išleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil kui nuodugniai papasakoti apie diduomenės bei tau tos prielankumą ir pakviesti jį perimti tėvo paliktos valdžios.'
+  santrauka: 'Į Pinską išsiųsti žygūnai turėjo pakviesti vienuolį Vaišvilką perimti tėvo paliktą valdžią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Taigi visuotiniame
@@ -80,7 +93,7 @@ Kojelavičius teigia, kad u 5 Išleido į Pinską žygūnus, turėjusius vienuol
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kai kara lius, pasiuntęs žygūną, parei kalavo nelaužyti susitarimo ir nedaryti skriaudų, šie atrėžė, jog elgtasi jų teisingai ir teisėtai, nes atėmė tai, ką karalius siuntė stabmeldžių tautai, kovojančiai prieš krikščionis.'
+  santrauka: 'Karalius per žygūną pareikalavo, kad kryžiuočiai nelaužytų susitarimo ir nedarytų skriaudų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Užgrobę visus grūdus,
@@ -106,7 +119,7 @@ Kojelavičius teigia, kad u 5 Išleido į Pinską žygūnus, turėjusius vienuol
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad jedlnioje sukvietė lenkų seimą, kuris nu tarė, jog reikia pastatyti ginkluotas saugas visuose ke liuose Lenkijos pasienyje ir uoliai žiūrėti, kad ir impera toriaus, ir Vytauto žygūnai negalėtų prasmukti nei į vie ną, nei į kitą pusę.'
+  santrauka: 'Jedlnioje lenkų seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai neprasmuktų nė viena kryptimi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tačiau ligai išgy­
@@ -127,7 +140,7 @@ Kojelavičius teigia, kad u 5 Išleido į Pinską žygūnus, turėjusius vienuol
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad vos k araliu s šitai sužinojo, b em at išsiuntė kuo skubiausiai žygūnus, kurie išvykstantiems tu rė jo pranešti, jog storžievis už neapdairumą nubaus tas mirtimi.'
+  santrauka: 'Karalius skubiai išsiuntė žygūnus pranešti iš Vilniaus išvykusiems kunigaikščiams, kad durininkas už neapdairumą bus nubaustas mirtimi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žymiausias iš jų, nekreipdamas dėmesio į men­
@@ -150,7 +163,7 @@ Kojelavičius teigia, kad u 5 Išleido į Pinską žygūnus, turėjusius vienuol
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad aleksandras kol kas laikėsi nuomonės, jog tirono įsiūtį galima numalšinti per pasiunti-l nius, todėl liepė Trakų vaivadai Zaberezinskiui šitai pi atsakyti Ivano žygūnui.'
+  santrauka: 'Aleksandras pavedė Trakų vaivadai Zaberezinskiui atsakyti Ivano žygūnui dėl mėginimo numalšinti Ivano įsiūtį per pasiuntinius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš tikrųjų
@@ -177,7 +190,7 @@ Kojelavičius teigia, kad u 5 Išleido į Pinską žygūnus, turėjusius vienuol
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad glinskis, nepaprastai trokšdamas šios žemės, ėmėsi uždavinio, jis sugalvojo griebtis klas tingos gudrybės: nusiuntė būrį savo slaptų žygūnų, ku rie, nešykštėdami nei dovanų, nei pažadų, įniko vi saip kurstyti įgulą, o po to ir bajorus ir galop palaužė jų.'
+  santrauka: 'Glinskis nusiuntė slaptų žygūnų būrį, kad dovanomis ir pažadais kurstytų įgulą bei bajorus ir palaužtų jų ištikimybę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai todėl ir kreipėsi į jį,
@@ -199,7 +212,7 @@ Kojelavičius teigia, kad u 5 Išleido į Pinską žygūnus, turėjusius vienuol
     - t-006
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad dėda masis jo žygūnu, lenkų bajoras Trepka, mokėjęs italų bei vengrų kalbas, išvyko kelionėn, pasižadėjęs akis į akį pranešti Glinskiui karaliaus valią.'
+  santrauka: 'Lenkų bajoras Trepka, dėdamasis Pisono žygūnu, išvyko pranešti Glinskiui karaliaus valios.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo metu popiežiaus
@@ -220,3 +233,27 @@ Kojelavičius teigia, kad u 5 Išleido į Pinską žygūnus, turėjusius vienuol
   statusas: verified
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Ivanas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/asmenys/Zaberezinskis]]
+- [[objektai/zodynas/popiežiaus legatas]]
+- [[objektai/zodynas/stabmeldžiai]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/žygūnai]]
+- [[objektai/paprociai/Abipusis laisvėn paleistų belaisvių grąžinimas per taikos derybas]]
+- [[objektai/ivykiai/Kryžiuočių karo ultimatumas Lietuvai ir Lenkijai (1409 m.)]]
+- [[objektai/asmenys/Vasilijus]]
+- [[objektai/asmenys/Pisonas]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas]]
+- [[objektai/asmenys/Trepka]]

@@ -28,17 +28,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-68240"></a>
 - t-001
+  global_id: t-68240
   teiginys: 'Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII delegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais ginčais perkelti į to popiežiaus kviečiamą bažnytinį susirinkimą Konstancoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-68241"></a>
 - t-002
+  global_id: t-68241
   teiginys: 'Iš tolimo ir beveik nežinomo krašto pasirodymas delegacijos, kuri 1415.XII.4 d. buvo iškilmingai priimta Konstancos katedroje (kur vyko posėdžiai), atkreipė susirinkimo dėmesį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-68242"></a>
 - t-003
+  global_id: t-68242
   teiginys: 'G. Camblako ekumeninės mišios Konstanco katedroje paliko tokį įspūdį, kad buvo išsamiai vaizduojamos kronikose.'
   pagrindžia:
     - c-001

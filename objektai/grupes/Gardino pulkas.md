@@ -22,12 +22,16 @@ Kaime buvo įsikūręs lenkų brigados ir Gardino pulko štabas, lauko artilerij
 
 ## Teiginiai
 
+<a id="claim-t-78168"></a>
 - t-001
+  global_id: t-78168
   teiginys: 'Kaime buvo įsikūręs lenkų brigados ir Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78169"></a>
 - t-002
+  global_id: t-78169
   teiginys: 'Lapkričio 18 d. pavakaryje pulko vadas Lenkų pajėgos Prieš lietuvius Širvintų apylinkėse veikė Gardino pulkas.'
   pagrindžia:
     - c-001

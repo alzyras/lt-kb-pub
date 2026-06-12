@@ -24,7 +24,9 @@ Prie kulkosvaidžio pritvirtintas užrašas: „Kulkosvydis, iš kurio šaudydam
 
 ## Teiginiai
 
+<a id="claim-t-39809"></a>
 - t-001
+  global_id: t-39809
   teiginys: 'Karužas Sidaravičius žuvo šaudydamas iš kulkosvaidžio, kuris du kartus buvo patekęs rusams ir vėl atimtas.'
   pagrindžia:
     - c-001

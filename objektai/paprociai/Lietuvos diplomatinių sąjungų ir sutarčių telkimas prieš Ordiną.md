@@ -47,18 +47,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62690"></a>
 - t-001
+  global_id: t-62690
   teiginys: 'Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėliau tapusiu imperatoriumi, 1323 m. popiežiaus kurija pradėjo prieš jį organizuoti koaliciją, į kurią įėjo Austrija, Vengrija ir Vengrijos sąjungininkė Lenkija.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-62691"></a>
 - t-002
+  global_id: t-62691
   teiginys: 'Dusburgietis teigia, kad ) bandė pasinaudoti Livonijos vidaus prieštaravimais: Lietuva drauge su Ryga kariavo ir vedė diplomatinę kovą prieš Ordiną, Lietuva gynė Rygą nuo Ordino, norėdama pralaužti Ordino vykdomą ekonominę Lietuvos blokadą.'
   pagrindžia:
     - c-001
     - c-002
 
+<a id="claim-t-62692"></a>
 - t-003
+  global_id: t-62692
   teiginys: 'Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam geros valios žmogui“, dominikonų ir pranciškonų ordinams51, turėjo platų tarptautinį atgarsį.'
   pagrindžia:
     - c-003

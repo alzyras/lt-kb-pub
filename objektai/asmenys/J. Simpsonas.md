@@ -16,7 +16,9 @@ Simpsono klausimą dėl požiūrio į federaciją su Rusija atsakė, kad „Liet
 
 ## Teiginiai
 
+<a id="claim-t-26443"></a>
 - t-001
+  global_id: t-26443
   teiginys: 'J. Simpsonas paklausė A. Voldemaro apie požiūrį į federaciją su Rusija.'
   pagrindžia:
     - c-001

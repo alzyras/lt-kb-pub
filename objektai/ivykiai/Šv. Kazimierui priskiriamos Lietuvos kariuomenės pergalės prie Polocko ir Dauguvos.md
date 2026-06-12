@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20576"></a>
 - t-001
+  global_id: t-20576
   teiginys: 'Tikėta, kad šv. Kazimieras 1518 m. padėjo Lietuvos kariuomenei prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183289"></a>
 - t-002
+  global_id: t-183289
   teiginys: 'Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti priešą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.'
   pagrindžia:
     - c-002

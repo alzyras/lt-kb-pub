@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Skitija
 
 ## Santrauka
 
-Kojelavičius teigia, kad jis įsakė Lietuvos maršalui Mikalojui Radvilai skubiai sutelkti Lietuvos žemėse didelę kariuo menę ir su ja palydėti Jerim Berdį į Skitiją.
+Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją.
 
 ## Teiginiai
 
+<a id="claim-t-185274"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad jis įsakė Lietuvos maršalui Mikalojui Radvilai skubiai sutelkti Lietuvos žemėse didelę kariuo menę ir su ja palydėti Jerim Berdį į Skitiją.'
+  global_id: t-185274
+  teiginys: 'Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad jis įsakė Lietuvos maršalui Mikalojui Radvilai skubiai sutelkti Lietuvos žemėse didelę kariuo menę ir su ja palydėti Jerim Berdį į Skitiją.'
+  santrauka: 'Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl ir Jerim Berdį iškilmingai paskelbė

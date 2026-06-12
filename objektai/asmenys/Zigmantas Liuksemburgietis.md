@@ -19,52 +19,72 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 
 ## Teiginiai
 
+<a id="claim-t-176871"></a>
 - t-001
+  global_id: t-176871
   teiginys: 'Zigmantas Liuksemburgietis Kėzmarke pasiūlė Vytautui karaliaus karūną ir visišką nepriklausomybę nuo Jogailos bei Lenkijos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176872"></a>
 - t-002
+  global_id: t-176872
   teiginys: 'Zigmantas Liuksemburgietis kurstė popiežių, ordinus, Hanzos miestus ir Vokietijos kunigaikščius kariauti su Vytautu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176873"></a>
 - t-003
+  global_id: t-176873
   teiginys: 'Zigmantas Liuksemburgietis 1420 m. Breslavo sprendimu priskyrė Ordinui ir Žemaitiją.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-176874"></a>
 - t-004
+  global_id: t-176874
   teiginys: 'Zigmantas Liuksemburgietis stengėsi perimti į savo rankas kryžiuočių ginčą su Lietuva ir Lenkija.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-176875"></a>
 - t-005
+  global_id: t-176875
   teiginys: 'Zigmantui Liuksemburgiečiui tapus Romos imperatoriumi, Lenkijai dar labiau padidėjo Lietuvos pagalbos poreikis, nes jis buvo sąjungoje su Ordinu.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-176876"></a>
 - t-006
+  global_id: t-176876
   teiginys: 'Lucke Zigmantas Liuksemburgietis pasiūlė Jogailai karūnuoti suvažiavimo šeimininką Vytautą.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-176877"></a>
 - t-007
+  global_id: t-176877
   teiginys: 'Zigmantas dažnai klausinėja Vytautą apie karūnacijos terminą ir skatina jį negaišt.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-176878"></a>
 - t-008
+  global_id: t-176878
   teiginys: 'Zigmantas Liuksemburgietis Lucke pasiūlė Jogailai karūnuoti Vytautą.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-176882"></a>
 - t-009
+  global_id: t-176882
   teiginys: 'Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184297"></a>
 - t-010
+  global_id: t-184297
   teiginys: 'Zigmantas Liuksemburgietis pabijojo, kad Vytautas neįsitvirtintų Čekijoje ir jos neperimtų.'
   pagrindžia:
     - c-009

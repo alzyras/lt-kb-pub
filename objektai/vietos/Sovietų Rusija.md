@@ -28,27 +28,37 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
 
 ## Teiginiai
 
+<a id="claim-t-77321"></a>
 - t-001
+  global_id: t-77321
   teiginys: 'Kovoti teko keliais frontais, nes dar viena šalis, Rusija, visuomet pretendavo į LDK palikimą ir Lietuvą, kaip jos sudedamąją dalį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77322"></a>
 - t-002
+  global_id: t-77322
   teiginys: 'Tačiau pilietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija 1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama tas valstybes ir sustiprindama jų pozicijas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77323"></a>
 - t-003
+  global_id: t-77323
   teiginys: 'PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-77324"></a>
 - t-004
+  global_id: t-77324
   teiginys: '1920 m. liepos 12 d. Taikos sutartis su Sovietų Rusija buvo laikoma dideliu Lietuvos diplomatijos laimėjimu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-77325"></a>
 - t-005
+  global_id: t-77325
   teiginys: 'Pralaimėjusi kovas dėl Zarasų ir patyrusi didelių nuostolių, Sovietų Rusija po kurio laiko pasiūlė taikos derybas.'
   pagrindžia:
     - c-004

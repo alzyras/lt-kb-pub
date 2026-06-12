@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-80695"></a>
 - t-001
+  global_id: t-80695
   teiginys: '184, Lietuvos kario ekipuotės komplektas, vDkM, Artūro Užgalio nuotr.'
   pagrindžia:
     - c-001

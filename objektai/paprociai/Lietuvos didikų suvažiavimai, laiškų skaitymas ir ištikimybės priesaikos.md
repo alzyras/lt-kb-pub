@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87215"></a>
 - t-001
+  global_id: t-87215
   teiginys: 'Vytautas sukvietė Lietuvos ir Rusios didikus į tarybą, liepė jiems skaityti laišką ir klausė dėl pavaldumo Lenkijai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87216"></a>
 - t-002
+  global_id: t-87216
   teiginys: 'Jogailos sukviestame Vilniaus suvažiavime Lietuvos ir Rusios didikai prisiekė ištikimybę ir pagalbą kovoje prieš bendrą priešą.'
   pagrindžia:
     - c-002

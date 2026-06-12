@@ -37,93 +37,129 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 
 ## Teiginiai
 
+<a id="claim-t-89819"></a>
 - t-001
+  global_id: t-89819
   teiginys: 'Hermanas iš Zalcos 1210-1239 m. vadovavo Teutonų ordinui ir buvo apibūdinamas kaip iškalbingas, mandagus bei išmintingas magistras.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-89820"></a>
 - t-002
+  global_id: t-89820
   teiginys: 'Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos žemė Tuo laiku brolis Folkvinas, antras Kristaus karių ordino magistras Livonijos žemėje, šešerius metus per garbingus pasiuntinius ragino brolį Hermaną iš Zalcos, Teutonų ordino didįjį magistrą, prijungti.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-89821"></a>
 - t-003
+  global_id: t-89821
   teiginys: 'Hermanui iš Zalcos popiežius padovanojo žiedą, o imperatorius suteikė teisę vėliavoje turėti karališkąsias imperijos insignijas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89822"></a>
 - t-004
+  global_id: t-89822
   teiginys: 'Kronikos pasakojime Hermanas iš Zalcos siekė sustiprinti Ordiną bent iki dešimties ginkluotų brolių riterių išlaikymo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-89823"></a>
 - t-005
+  global_id: t-89823
   teiginys: 'Dusburgietis Hermaną iš Zalcos vaizduoja kaip iškalbingą, mandagų, išmintingą, apdairų ir garbingą magistrą.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-89824"></a>
 - t-006
+  global_id: t-89824
   teiginys: 'Dusburgietis vaizduoja Hermaną kaip pagrindinį Ordino sustiprėjimo ir iškilimo veikėją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89825"></a>
 - t-007
+  global_id: t-89825
   teiginys: 'Dusburgietis teigia, kad turime pagrindo manyti, kad į išlikusią kopiją „Hermano“ vardas pakliuvo per klaidą.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-89826"></a>
 - t-008
+  global_id: t-89826
   teiginys: 'Dusburgietis teigia, kad Hermano vadovavimo metu Ordinas gavo privilegijų, žemių ir relikviją, o per ją Prūsijoje vyko stebuklai.'
   pagrindžia:
     - c-003
     - c-004
 
+<a id="claim-t-89827"></a>
 - t-009
+  global_id: t-89827
   teiginys: 'Dusburgietis teigia, kad hermanas iš Zalcos buvo iškalbingas, mandagus, išmintingas, apdairus, atsargus, o visi jo darbai rodo jį buvus garbingą.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-89828"></a>
 - t-010
+  global_id: t-89828
   teiginys: 'Dusburgietis teigia, kad Fridrichas II perleido Hermanui šventojo kryžiaus dalį, o šis ją nusiuntė į Elbingo pilį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89829"></a>
 - t-011
+  global_id: t-89829
   teiginys: 'Dusburgietis teigia, kad 5 Apie brolį Hermaną iš Zalcos, ketvirtą magistrą Ketvirtas magistras brolis Hermanas iš Zalcos (1210—1239) vadovavo daug metų, o mirė liepos 24 dieną ir palaidotas Barletoje158.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-89830"></a>
 - t-012
+  global_id: t-89830
   teiginys: 'Dusburgietis teigia, kad tada jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89831"></a>
 - t-013
+  global_id: t-89831
   teiginys: 'Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė, tvirtindamas, kad jam nieku būdu nedera.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-89832"></a>
 - t-014
+  global_id: t-89832
   teiginys: 'Dusburgietis teigia, kad hermanas iš Zalcos išrinktas magistru, jis, matydamas, koks silpnas esąs Ordinas, pareiškė pokalbyje su kai kuriais broliais, jog nepagailėtų ir vienos akies, kad tik Ordinas jo vadovavimo metais taip sustiprėtų, kad stengtų išlaikyti nors dešimt ginkluotų brolių riterių.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-89833"></a>
 - t-015
+  global_id: t-89833
   teiginys: 'Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė gegužės 20 dieną ir palaidotas Akone157.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-89834"></a>
 - t-016
+  global_id: t-89834
   teiginys: 'Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiežiumi buvo Inocentas IV, kuris pirmaisiais savo pontifikato metais, tai yra 1243 viešpaties metais, supratęs iš garsių brolio Hermano iš Zalcos, Teutonų ordino generalinio magistro267, pareiškimų, kad naujas.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-89835"></a>
 - t-017
+  global_id: t-89835
   teiginys: 'Dusburgietis teigia, kad leidėjai jį priskyrė Hermanui iš Zalcos111.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-89836"></a>
 - t-018
+  global_id: t-89836
   teiginys: 'Dusburgietis Hermano vadovavimo laiką sieja su Ordino privilegijų, dovanų ir valdų išplėtimu.'
   pagrindžia:
     - c-001

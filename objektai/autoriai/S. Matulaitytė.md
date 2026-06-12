@@ -25,7 +25,9 @@ Matulaitytė rašo apie astro­ nomijos mokslo įvedimą Vilniaus universitete X
 
 ## Teiginiai
 
+<a id="claim-t-30970"></a>
 - t-001
+  global_id: t-30970
   teiginys: 'S. Matulaitytė rašė apie astronomijos mokslo įvedimą Vilniaus universitete XVIII a. ir astronomijos observatorijos įsteigimą.'
   pagrindžia:
     - c-001

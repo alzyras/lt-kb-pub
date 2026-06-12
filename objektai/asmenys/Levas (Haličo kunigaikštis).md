@@ -19,7 +19,9 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
 
 ## Teiginiai
 
+<a id="claim-t-40306"></a>
 - t-001
+  global_id: t-40306
   teiginys: 'Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta.'
   pagrindžia:
     - c-001

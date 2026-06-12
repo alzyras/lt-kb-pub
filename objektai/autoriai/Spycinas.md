@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-30988"></a>
 - t-001
+  global_id: t-30988
   teiginys: 'Spycinas buvo proistorikas.'
   pagrindžia:
     - c-001

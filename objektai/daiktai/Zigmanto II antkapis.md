@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-65014"></a>
 - t-001
+  global_id: t-65014
   teiginys: 'Krokuvos katedroje esančiame Zigmanto II antkapyje Zigmantas II Senasis pavaizduotas kaip Lietuvos didysis kunigaikštis ir Lenkijos karalius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65015"></a>
 - t-002
+  global_id: t-65015
   teiginys: 'Zigmanto II antkapis Krokuvos katedroje.'
   pagrindžia:
     - c-002

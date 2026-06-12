@@ -17,7 +17,9 @@ Bona atsinešė iš Italijos įsitikinimus, kad valdovas turįs siekti valdžios
 
 ## Teiginiai
 
+<a id="claim-t-01108"></a>
 - t-001
+  global_id: t-01108
   teiginys: 'Machiavellio mokslu vadintas įsitikinimas, kad valdovas turi siekti valdžios nesiskaitydamas su priemonėmis.'
   pagrindžia:
     - c-001

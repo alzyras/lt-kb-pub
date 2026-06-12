@@ -19,7 +19,9 @@ Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Koloma
 
 ## Teiginiai
 
+<a id="claim-t-60131"></a>
 - t-001
+  global_id: t-60131
   teiginys: 'Totoriai, įsiveržę į Vengriją ir Lenkiją, mūšyje nukovė Henriką, Vroclavo kunigaikštį.'
   pagrindžia:
     - c-001

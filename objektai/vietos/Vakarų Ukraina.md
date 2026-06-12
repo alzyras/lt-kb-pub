@@ -16,7 +16,9 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
 
 ## Teiginiai
 
+<a id="claim-t-21854"></a>
 - t-001
+  global_id: t-21854
   teiginys: 'Mindaugo, Vytenio ir Gedimino laikais prie Lietuvos prijungtos rusėnų žemės apėmė dalį dabartinės Vakarų Ukrainos.'
   pagrindžia:
     - c-001

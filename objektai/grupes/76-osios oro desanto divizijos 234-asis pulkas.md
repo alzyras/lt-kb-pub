@@ -16,7 +16,9 @@ Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko
 
 ## Teiginiai
 
+<a id="claim-t-40829"></a>
 - t-001
+  global_id: t-40829
   teiginys: 'Į Vilnių buvo atskraidinti Pskovo 76-osios oro desanto divizijos 234-ojo pulko kariai su BMD-1 ir BMD-2 mašinomis.'
   pagrindžia:
     - c-001

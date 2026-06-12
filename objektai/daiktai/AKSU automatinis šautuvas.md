@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40686"></a>
 - t-001
+  global_id: t-40686
   teiginys: '1991 m. rugpjūčio pučo metu AT gynyboje vienas Mokomojo junginio karys buvo ginkluotas AKSU automatiniu šautuvu.'
   pagrindžia:
     - c-001

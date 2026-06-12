@@ -31,22 +31,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01893"></a>
 - t-001
+  global_id: t-01893
   teiginys: 'Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-01894"></a>
 - t-002
+  global_id: t-01894
   teiginys: 'Kunigaikštis Boleslovas išpirko nužudytų misijonierių lavonus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01895"></a>
 - t-003
+  global_id: t-01895
   teiginys: 'Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01896"></a>
 - t-004
+  global_id: t-01896
   teiginys: '997 m. balandžio 23 d. vietiniai gyventojai užpuolė misijonierius ir nužudė vyskupą Vaitiekų šventajame miške.'
   pagrindžia:
     - c-003

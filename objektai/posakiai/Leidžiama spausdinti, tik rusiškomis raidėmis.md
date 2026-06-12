@@ -20,7 +20,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-06875"></a>
 - t-001
+  global_id: t-06875
   teiginys: 'Cenzūra paprastai atsakydavo, kad spausdinti leidžiama tik rusiškomis raidėmis.'
   pagrindžia:
     - c-001

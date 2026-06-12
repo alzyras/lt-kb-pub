@@ -20,37 +20,51 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 
 ## Teiginiai
 
+<a id="claim-t-78943"></a>
 - t-001
-  teiginys: 'Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus.'
+  global_id: t-78943
+  teiginys: 'Augustas II su Petru I sudarė sutartį atimti iš Švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-78945"></a>
 - t-002
+  global_id: t-78945
   teiginys: 'Todėl Augustas 11 nusprendė išvyti iš Livonijos švedus ir ją užvaldyti.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-78946"></a>
 - t-003
-  teiginys: 'Norėdami tuo reikalu laimėti, žymesnieji bajorijos vadai net buvo pasirašę Augusto reikalaujamą raštą, kuriuo jie visos Lietuvos vardu atsižadėjo savo teisių rinktis valdovus ir paskelbė jį absoliutiškai valdančiu didžiuoju Lietuvos kunigaikščiu su.'
+  global_id: t-78946
+  teiginys: 'Žymesnieji bajorijos vadai Augusto II reikalautu raštu paskelbė jį paveldimai ir absoliučiai valdančiu Lietuvos didžiuoju kunigaikščiu.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-78947"></a>
 - t-004
+  global_id: t-78947
   teiginys: 'Augusto II siekius rėmė ir dalis Švedijos karaliaus Karolio x11 valdymu nepatenkintos Livonijos aristokratijos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78949"></a>
 - t-005
+  global_id: t-78949
   teiginys: 'Petro Didžiojo epocha, sutapusi su saksų laikų pradžia, atvėrė naują laikotarpį ir Augusto II valdymo kontekste.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78950"></a>
 - t-006
+  global_id: t-78950
   teiginys: 'Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį (1706 m.).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78953"></a>
 - t-007
+  global_id: t-78953
   teiginys: 'Dalis ATR aristokratijos reikanetgi pasiekė pergalę prie Darsūniškio, tačiau labiau sekėsi Švedijos bicingas Saksonijos kiurfiurstas Augustas 11 (Stiprusis).'
   pagrindžia:
     - c-007
@@ -112,6 +126,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - t-006
 
 - c-004
+  santrauka: 'Žymesnieji bajorijos vadai Augusto II reikalautu raštu paskelbė jį paveldimai ir absoliučiai valdančiu Lietuvos didžiuoju kunigaikščiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau bajorija suprato,
@@ -150,6 +165,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - t-002
 
 - c-006
+  santrauka: 'Augustas II su Petru I sudarė sutartį atimti iš Švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Karo pradžia. Kai Augustas II su Petru I padarė sutartį

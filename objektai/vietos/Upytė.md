@@ -27,12 +27,16 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 
 ## Teiginiai
 
+<a id="claim-t-69479"></a>
 - t-001
+  global_id: t-69479
   teiginys: 'Įvedant naujuosius teismus, iš Trakų vaivadijos buvo išskirti Gardino, Kauno ir Upytės pavietai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-69480"></a>
 - t-002
+  global_id: t-69480
   teiginys: 'Rugpjūčio pabaigoje į Žemaitiją paeiliui įsibrovė trys Livonijos daliniai, jie niokojo Upytės kraštą.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87760"></a>
 - t-001
+  global_id: t-87760
   teiginys: 'Kristupas Varševickis, jėzuitų rektorius, 1572 m. žiemą dalyvavo kapitulos susirinkime vyskupo rūmuose.'
   pagrindžia:
     - c-001

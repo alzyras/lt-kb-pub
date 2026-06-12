@@ -31,32 +31,44 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 
 ## Teiginiai
 
+<a id="claim-t-113193"></a>
 - t-001
+  global_id: t-113193
   teiginys: 'Pskovo ir Naugardo respublikose Vytauto įtaka buvo susilpnėjusi, nes jos labiau šliejosi prie Livonijos ordino ir Maskvos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-113194"></a>
 - t-002
+  global_id: t-113194
   teiginys: 'Lietuvių būriai pasiekdavo turtingųjų Didžiojo Naugardo ir Pskovo respublikų plotus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-113195"></a>
 - t-003
+  global_id: t-113195
   teiginys: 'Naugardo ir Pskovo respublikas šiaurėje ir Aukso Ordos bei Krymo totorius pietuose Vytautas privertė nusilenkti savo galybei — mokėti jam duokles ir teikti dovanų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-113196"></a>
 - t-004
+  global_id: t-113196
   teiginys: 'Po Vytauto žygių Pskovo pasiuntiniai 1427 m. atvyko į Vilnių prašyti paleisti belaisvius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-113197"></a>
 - t-005
+  global_id: t-113197
   teiginys: 'Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir Maskvos, t.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-113198"></a>
 - t-006
+  global_id: t-113198
   teiginys: 'Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.'
   pagrindžia:
     - c-004

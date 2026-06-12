@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # daugiau nebelieti krikščionių kraujo
 
 ## Santrauka
 
-Kojelavičius teigia, kad neilgai trukus pasiuntęs tarpininką, jis pareiškė karaliui norįs su juo sudaryti taiką ir dėl to galįs atsiųsti didesnių įgaliojimų turinčius legatus, jeigu karalius sutinkąs daugiau nebelieti krikščionių kraujo.
+Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau nebelieti krikščionių kraujo.
 
 ## Teiginiai
 
+<a id="claim-t-185476"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad neilgai trukus pasiuntęs tarpininką, jis pareiškė karaliui norįs su juo sudaryti taiką ir dėl to galįs atsiųsti didesnių įgaliojimų turinčius legatus, jeigu karalius sutinkąs daugiau nebelieti krikščionių kraujo.'
+  global_id: t-185476
+  teiginys: 'Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau nebelieti krikščionių kraujo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad neilgai trukus pasiuntęs tarpininką, jis pareiškė karaliui norįs su juo sudaryti taiką ir dėl to galįs atsiųsti didesnių įgaliojimų turinčius legatus, jeigu karalius sutinkąs daugiau nebelieti krikščionių kraujo.'
+  santrauka: 'Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau nebelieti krikščionių kraujo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš dalies priešą sumušęs, iš dalies išvaikęs, Kiška, di­
@@ -55,3 +56,8 @@ Kojelavičius teigia, kad neilgai trukus pasiuntęs tarpininką, jis pareiškė 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Vasilijus]]

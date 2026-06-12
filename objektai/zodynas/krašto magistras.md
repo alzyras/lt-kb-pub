@@ -18,7 +18,9 @@ Todėl 1309 m. didysis magistras su visa taryba atsikėlė į Marijenburgą, ir 
 
 ## Teiginiai
 
+<a id="claim-t-70194"></a>
 - t-001
+  global_id: t-70194
   teiginys: 'Todėl 1309 m. didysis magistras su visa taryba atsikėlė į Marijenburgą, ir nuo to laiko vad. Prūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai didysis magistras.'
   pagrindžia:
     - c-001

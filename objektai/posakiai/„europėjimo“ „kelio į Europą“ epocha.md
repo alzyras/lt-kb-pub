@@ -18,7 +18,9 @@ Lietuva, apsikrikštijusi ir nugalėjusi Ordiną, pašalino 200 metų grėsmę s
 
 ## Teiginiai
 
+<a id="claim-t-20893"></a>
 - t-001
+  global_id: t-20893
   teiginys: 'Lietuva, apsikrikštijusi ir nugalėjusi Ordiną, pašalino 200 metų grėsmę savo egzistencijai ir perėjo į naują savo istorijos stadiją – „europėjimo“ arba „kelio į Europą“ epochą.'
   pagrindžia:
     - c-001

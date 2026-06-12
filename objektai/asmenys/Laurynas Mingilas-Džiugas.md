@@ -17,12 +17,16 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
 
 ## Teiginiai
 
+<a id="claim-t-79101"></a>
 - t-001
+  global_id: t-79101
   teiginys: 'Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79102"></a>
 - t-002
+  global_id: t-79102
   teiginys: 'Partizanas Laurynas Mingilas-Džiugas aprašė kautynes, per kurias iš vakarų ir šiaurinio kampo pasipylė automatinių ginklų serijos.'
   pagrindžia:
     - c-001

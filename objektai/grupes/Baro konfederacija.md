@@ -19,12 +19,16 @@ Radomo konfederacijos ir 1768 m. seimo metu Repninas jau perdaug aiškiai išėj
 
 ## Teiginiai
 
+<a id="claim-t-65085"></a>
 - t-001
+  global_id: t-65085
   teiginys: 'Baro konfederacija susidarė Podolės Baro miestelyje kovai su Rusijos priespauda ir už senąsias bajorų laisves.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65086"></a>
 - t-002
+  global_id: t-65086
   teiginys: 'Baro konfederacijos metu abiejų valstybių bajorija bendrai kovojo su Rusijos priespauda.'
   pagrindžia:
     - c-002

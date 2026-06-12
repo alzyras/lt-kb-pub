@@ -17,7 +17,9 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
 
 ## Teiginiai
 
+<a id="claim-t-22213"></a>
 - t-001
+  global_id: t-22213
   teiginys: 'Per rinkimų agitaciją valdžia viešai grasino, kad nebalsuosiantys asmenys yra „liaudies priešai“.'
   pagrindžia:
     - c-001

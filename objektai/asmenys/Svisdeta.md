@@ -14,7 +14,6 @@ tags:
   - asmuo
   - karas
   - tikėjimas
-  - šeima
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -28,13 +27,17 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
 
 ## Teiginiai
 
+<a id="claim-t-60443"></a>
 - t-001
+  global_id: t-60443
   teiginys: 'Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta ir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai palankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184839"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad tokio paties likimo ištikti skalvių di dikai Surbantas, Svisdeta ir Surdeta, atsidūrę bėdoje, persikraustė su savo turtais ir žmonėmis toliau į Lie tuvą.'
+  global_id: t-184839
+  teiginys: 'Skalvių didikas Svisdeta, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.'
   pagrindžia:
     - c-002
 
@@ -61,7 +64,7 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad tokio paties likimo ištikti skalvių di dikai Surbantas, Svisdeta ir Surdeta, atsidūrę bėdoje, persikraustė su savo turtais ir žmonėmis toliau į Lie tuvą.'
+  santrauka: 'Skalvių didikas Svisdeta, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tiesą sakant,
@@ -78,3 +81,8 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Skalviai]]
+- [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]

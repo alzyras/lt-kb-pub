@@ -25,7 +25,9 @@ Laimingasis Liangurga iš Krokuvos, Žygimanto Senojo liepos 5 d. privilegijos g
 
 ## Teiginiai
 
+<a id="claim-t-87914"></a>
 - t-001
+  global_id: t-87914
   teiginys: 'Laimingasis Liangurga iš Krokuvos, Žygimanto Senojo liepos 5 d. privilegijos galia - 1527 m.'
   pagrindžia:
     - c-001

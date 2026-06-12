@@ -17,7 +17,9 @@ Slupskis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­ šius.
 
 ## Teiginiai
 
+<a id="claim-t-86525"></a>
 - t-001
+  global_id: t-86525
   teiginys: 'Per poną Turčiną į Vilnių pasiųsta 80 filipkų, kurias karaliaus paliepimu iždas priėmė po vieną floriną.'
   pagrindžia:
     - c-001

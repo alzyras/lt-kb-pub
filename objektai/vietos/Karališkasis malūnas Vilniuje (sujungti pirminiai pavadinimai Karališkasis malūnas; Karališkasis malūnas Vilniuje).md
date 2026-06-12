@@ -29,12 +29,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86144"></a>
 - t-001
+  global_id: t-86144
   teiginys: '1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86145"></a>
 - t-002
+  global_id: t-86145
   teiginys: 'Bernardinams Vilniuje buvo atiduotas slėnis su namais ir pieva palei Vilnią prie Karališkojo malūno.'
   pagrindžia:
     - c-002

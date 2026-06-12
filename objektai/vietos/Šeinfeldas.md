@@ -24,7 +24,9 @@ Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drab
 
 ## Teiginiai
 
+<a id="claim-t-26300"></a>
 - t-001
+  global_id: t-26300
   teiginys: '1948 m. Šeinfeldo stovykloje Vokietijoje Lietuvos pabėgėliai rinkosi dalijamus drabužius.'
   pagrindžia:
     - c-001

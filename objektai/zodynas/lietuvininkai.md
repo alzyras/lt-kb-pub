@@ -25,17 +25,23 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
 
 ## Teiginiai
 
+<a id="claim-t-26547"></a>
 - t-001
+  global_id: t-26547
   teiginys: 'Lietuvius Vokiečių ordino valstybėje ilgainiui pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-26548"></a>
 - t-002
+  global_id: t-26548
   teiginys: 'Ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos; dalis siekė „laisvojo miesto“ statuso.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183442"></a>
 - t-003
+  global_id: t-183442
   teiginys: 'Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas)).'
   pagrindžia:
     - c-003

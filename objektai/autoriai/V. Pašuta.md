@@ -28,12 +28,16 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
 
 ## Teiginiai
 
+<a id="claim-t-60523"></a>
 - t-001
+  global_id: t-60523
   teiginys: 'Dusburgietis teigia, kad manyta, jog Dusburgiečio rutėnai — galbūt Galičo (SRP, 1, p. 133 — Töppen M.) ar Smolensko kunigaikščių rusai (Pašuta V., Lietuvos.., p. 306—307), nors rusų metraščiai tokios prielaidos neparemia.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60525"></a>
 - t-002
+  global_id: t-60525
   teiginys: 'V. Pašuta rašė apie prūsų tautos kovą, Lietuvos valstybės susidarymą ir revanšistus.'
   pagrindžia:
     - c-002

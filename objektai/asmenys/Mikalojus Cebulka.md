@@ -16,7 +16,9 @@ Vytautas kartu su karū­ nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo
 
 ## Teiginiai
 
+<a id="claim-t-35226"></a>
 - t-001
+  global_id: t-35226
   teiginys: 'Vytauto sekretorius Mikalojus Cebulka buvo pasiųstas kaip jo atstovas ir Zigmantui pareiškė Vytauto nepasitenkinimą.'
   pagrindžia:
     - c-001

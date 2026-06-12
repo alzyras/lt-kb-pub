@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40770"></a>
 - t-001
+  global_id: t-40770
   teiginys: 'Sovietų automatinis šautuvas AK-74 buvo 1974 m. sukurtas naujas Kalašnikovo automato variantas, naudojęs mažesnį šovinį.'
   pagrindžia:
     - c-001

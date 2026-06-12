@@ -17,7 +17,9 @@ Apie 830 m. Ka­ roliaus Didžiojo biografas Einhardas (Vita Caroli Magni) minė
 
 ## Teiginiai
 
+<a id="claim-t-31554"></a>
 - t-001
+  global_id: t-31554
   teiginys: 'Apie 830 m. Einhardas „Vita Caroli Magni“ pietiniame Baltijos krante minėjo slavus, aisčius ir kitas tautas.'
   pagrindžia:
     - c-001

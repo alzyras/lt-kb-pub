@@ -28,62 +28,86 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 
 ## Teiginiai
 
+<a id="claim-t-77132"></a>
 - t-001
+  global_id: t-77132
   teiginys: 'Septintąjį–aštuntąjį dešimtmetį Lietuvą kirto geležinkelis Peterburgas–Varšuva.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-77133"></a>
 - t-002
+  global_id: t-77133
   teiginys: 'Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet masiškiausia ekonominė emigracija nuo 1868 m. vyko į JAV.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-77134"></a>
 - t-003
+  global_id: t-77134
   teiginys: 'Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsisklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susiformavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos, gimnazijos, jaunimas ruoštas sugrįžimui į.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-77135"></a>
 - t-004
+  global_id: t-77135
   teiginys: '1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-77136"></a>
 - t-005
+  global_id: t-77136
   teiginys: '1797 m. sausio 26 d. Peterburgo konvencija patvirtino trečiąjį LLV padalijimą, panaikino valstybingumo likučius ir nubrėžė sienas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-77137"></a>
 - t-006
+  global_id: t-77137
   teiginys: 'Dvasinė akademija buvo perkelta į Sankt Peterburgą, o Medicinos-chirurgijos akademija uždaryta.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-77138"></a>
 - t-007
+  global_id: t-77138
   teiginys: 'Žinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės autonomijos Lietuvai suteikimo.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-77139"></a>
 - t-008
+  global_id: t-77139
   teiginys: 'Po dešimt metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peterburgą, o Medicinos-chirurgijos akademija uždaryta.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-77140"></a>
 - t-009
+  global_id: t-77140
   teiginys: 'Daliai lietuvių inteligentų pasitraukus į Peterburgą, likę Vilniuje ir Kaune suvokė, kad Vokietija planuoja aneksuoti okupuotas teritorijas, jas kolonizuoti ir germanizuoti.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-77141"></a>
 - t-010
+  global_id: t-77141
   teiginys: 'Peterburge telkėsi reformų opozicija, nes Jekaterina II ten susikvietė aršiausius reformų priešininkus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77142"></a>
 - t-011
+  global_id: t-77142
   teiginys: 'Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-77143"></a>
 - t-012
+  global_id: t-77143
   teiginys: 'Peterburge nebuvo rimtai svarstoma rezoliucija dėl politinės autonomijos suteikimo Lietuvai.'
   pagrindžia:
     - c-007

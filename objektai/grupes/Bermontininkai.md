@@ -25,17 +25,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-40866"></a>
 - t-001
+  global_id: t-40866
   teiginys: 'Bermontininkai buvo rusų monarchistų ir vokiečių organizuoti rusų bei vokiečių savanorių daliniai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40867"></a>
 - t-002
+  global_id: t-40867
   teiginys: '1919 m. spalio 9 d. Lietuvos vyriausybė paskelbė visoje šalyje karo padėtį, spalio 16 d. buvo priimtas sprendimas jėga išvaryti bermontininkus iš Lietuvos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-40868"></a>
 - t-003
+  global_id: t-40868
   teiginys: 'Bermontininkų rankose atsidūrė Šiaurės Lietuva, palaipsniui judėdami į pietus bermontininkai pasiekė net Raseinius.'
   pagrindžia:
     - c-002

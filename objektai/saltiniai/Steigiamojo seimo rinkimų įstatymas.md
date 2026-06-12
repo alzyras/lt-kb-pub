@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02285"></a>
 - t-001
+  global_id: t-02285
   teiginys: 'Steigiamojo seimo rinkimų įstatymas buvo paskelbtas 1919 m. lapkričio 20 d.'
   pagrindžia:
     - c-001

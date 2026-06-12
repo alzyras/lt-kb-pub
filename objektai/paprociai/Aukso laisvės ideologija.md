@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67042"></a>
 - t-001
+  global_id: t-67042
   teiginys: 'Aukso laisvės ideologija: laisvės ideologai matė netvarką, tačiau veto teisę laikė šventa: esą, tai visų bajoriškųjų laisvių perlas, saugotinas, kaip akies lėlytė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67043"></a>
 - t-002
+  global_id: t-67043
   teiginys: 'Aukso laisvės ideologai netvarką laikė Respublikos saugumo sąlyga, nes manė, kad tokia valstybė niekam nepavojinga.'
   pagrindžia:
     - c-001

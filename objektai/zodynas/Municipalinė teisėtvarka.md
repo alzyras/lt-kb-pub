@@ -35,17 +35,23 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
 
 ## Teiginiai
 
+<a id="claim-t-54792"></a>
 - t-001
+  global_id: t-54792
   teiginys: 'Teutonų teisė Lenkijos miestų kontekste siejama su atleidimu nuo duoklių, krašto teisės prievolių, sava teisėtvarka ir atskiru miesto valdymu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54793"></a>
 - t-002
+  global_id: t-54793
   teiginys: 'Municipaliniai liudijimai buvo miestų ir jų feodalinių valdovų taikos sutartys, kuriose miestai dažnai diktuodavo sąlygas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54794"></a>
 - t-003
+  global_id: t-54794
   teiginys: 'Kastilijoje municipaliniai nuostatai buvo žinomi jau nuo 1020 m. ir beveik šimtmečiu aplenkė Prancūzijos miestų teisėtvarką.'
   pagrindžia:
     - c-003

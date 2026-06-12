@@ -22,7 +22,9 @@ Dusburgietis teigia, kad vanagas A.
 
 ## Teiginiai
 
+<a id="claim-t-61343"></a>
 - t-001
+  global_id: t-61343
   teiginys: 'A. Vanago straipsnis apie K. Būgą kaip lietuvių onomastikos pradininką paskelbtas 1980 m. leidinyje „Iš lietuvių kalbotyros istorijos“.'
   pagrindžia:
     - c-001

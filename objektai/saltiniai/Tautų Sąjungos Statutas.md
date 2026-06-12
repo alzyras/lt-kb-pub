@@ -25,12 +25,16 @@ Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos n
 
 ## Teiginiai
 
+<a id="claim-t-75520"></a>
 - t-001
+  global_id: t-75520
   teiginys: 'Tautų Sąjungos Statuto 16 straipsnis galėjo reikalauti leisti užsienio kariuomenėms kirsti Baltijos valstybių teritoriją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75521"></a>
 - t-002
+  global_id: t-75521
   teiginys: 'Neutralumo politika ir Molotovo–Ribentropo paktas Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos narių saugumo, trijų Baltijos šalių užsienio reikalų ministrai 1938 m. vasarą nutarė neleisti užsienio kariuomenėms kirsti jų.'
   pagrindžia:
     - c-002

@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20405"></a>
 - t-001
+  global_id: t-20405
   teiginys: 'Abiejų Tautų Respublikos bendras Seimas buvo aukščiausia šalia valdovo valdžios institucija ir rinko karalių.'
   pagrindžia:
     - c-001

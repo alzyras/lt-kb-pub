@@ -49,32 +49,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-182843"></a>
 - t-001
+  global_id: t-182843
   teiginys: 'Cigala ir Rothas ragino Vytautą karūnuotis ir patarė kaldinti karūnas Vilniuje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182845"></a>
 - t-002
+  global_id: t-182845
   teiginys: 'Po ilgo pamokslo Olesnickis pasiūlė Vytautui Jogailos karūną.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-182847"></a>
 - t-003
+  global_id: t-182847
   teiginys: 'Vytautas laiške Zigmantui rašė, kad Zigmantas galėsiąs siųsti jam karūną tiesiog per Lenkiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183297"></a>
 - t-004
+  global_id: t-183297
   teiginys: 'Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš svetur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-183298"></a>
 - t-005
+  global_id: t-183298
   teiginys: 'Svarbiausias tikslas, kurio siekta krikštijantis, – karūna.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-183299"></a>
 - t-006
+  global_id: t-183299
   teiginys: 'Gerbti ir garbinti Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys, laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...'
   pagrindžia:
     - c-006

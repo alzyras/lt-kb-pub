@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-30898"></a>
 - t-001
+  global_id: t-30898
   teiginys: 'P. Girdzijauskienė 1955 m. paskelbė darbą „1905-1907 metų revoliucija Lietuvoje“.'
   pagrindžia:
     - c-001

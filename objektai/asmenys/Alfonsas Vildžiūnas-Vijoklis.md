@@ -24,7 +24,9 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
 
 ## Teiginiai
 
+<a id="claim-t-40007"></a>
 - t-001
+  global_id: t-40007
   teiginys: '1949 m. spalio 24 d. buvo suimtas Vytenio būrio partizanas Alfonsas Vildžiūnas-Vijoklis.'
   pagrindžia:
     - c-001

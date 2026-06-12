@@ -25,7 +25,9 @@ Lenkijos religinę toleranciją yra apibūdinę kaip neturinčią analogo Europo
 
 ## Teiginiai
 
+<a id="claim-t-26347"></a>
 - t-001
+  global_id: t-26347
   teiginys: 'Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip neturinčią analogo Europoje ir Lenkiją vadino didžiausiu Europos tolerancijos uostu.'
   pagrindžia:
     - c-001

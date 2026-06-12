@@ -35,17 +35,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75132"></a>
 - t-001
+  global_id: t-75132
   teiginys: 'Abi pusės pripažino Lietuvos interesus Vilniaus regione, tačiau jo sienų nedetalizavo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75133"></a>
 - t-002
+  global_id: t-75133
   teiginys: 'Sovietai taip pat nepatarė Lietuvai imti Vilniaus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75134"></a>
 - t-003
+  global_id: t-75134
   teiginys: 'Vokietijos ir Lenkijos karo metu voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių.'
   pagrindžia:
     - c-001

@@ -26,7 +26,9 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
 
 ## Teiginiai
 
+<a id="claim-t-70237"></a>
 - t-001
+  global_id: t-70237
   teiginys: 'Naujakrikščiai šiame šaltinyje vaizduojami kaip atskiras Ordino tvarkomas statusas.'
   pagrindžia:
     - c-002

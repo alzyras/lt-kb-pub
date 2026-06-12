@@ -18,7 +18,9 @@ Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su s
 
 ## Teiginiai
 
+<a id="claim-t-87503"></a>
 - t-001
+  global_id: t-87503
   teiginys: 'Geremferdenas, padedamas Vytauto, įveikė priešininkus ir atvyko į Vilnių būti pripažintas Lietuvos vasalu.'
   pagrindžia:
     - c-001

@@ -25,13 +25,17 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 
 ## Teiginiai
 
+<a id="claim-t-02290"></a>
 - t-001
+  global_id: t-02290
   teiginys: 'Targovicos konfederacija taip vadinama dėl vietos, kurioje buvo paskelbtas jos aktas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-02291"></a>
 - t-002
-  teiginys: 'Opozicionieriai, atvykę į Targovicos miestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos aktą.'
+  global_id: t-02291
+  teiginys: 'Reformų priešininkai Targovicos miestelyje Ukrainoje paskelbė konfederacijos aktą.'
   pagrindžia:
     - c-002
 
@@ -54,6 +58,7 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     - t-001
 
 - c-002
+  santrauka: 'Reformų priešininkai Targovicos miestelyje Ukrainoje paskelbė konfederacijos aktą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuojau visi didieji reformų priešininkai

@@ -41,37 +41,51 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-71034"></a>
 - t-001
+  global_id: t-71034
   teiginys: 'Leidinyje nurodoma, kad pilnas kronikos lietuviškas vertimas čia publikuojamas pirmą kartą.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-71035"></a>
 - t-002
+  global_id: t-71035
   teiginys: 'Leidinio pratarmėje nurodyta, kad didžiausia trečioji kronikos dalis skirta prūsų žemių užkariavimui ir kovai prieš Lietuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71036"></a>
 - t-003
+  global_id: t-71036
   teiginys: 'Įvade numatyta apibūdinti kronikos sukūrimo epochą, prūsų ir Lietuvos ryšius, rankraščius, autoriaus politinius bei ideologinius tikslus, kronikos šaltinius, tendenciją ir mokslinę svarbą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-71037"></a>
 - t-004
+  global_id: t-71037
   teiginys: 'Įžanginiame straipsnyje Petro iš Dusburgo „Prūsijos žemės kronika“ išskiriama kaip ypač svarbi tarp XIII-XIV a. kronikų ir siejama su unikaliomis žiniomis apie prūsus, lietuvius bei jų kovą iki 1330 m.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-71038"></a>
 - t-005
+  global_id: t-71038
   teiginys: 'Leidinyje nurodoma, kad M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė kronikos mokslinį leidimą originalo lotynų kalba.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-71039"></a>
 - t-006
+  global_id: t-71039
   teiginys: 'Leidinio pratarmėje kronika apibūdinama kaip oficialus Kryžiuočių ordino valstybės kūrinys.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71040"></a>
 - t-007
+  global_id: t-71040
   teiginys: 'Įžanginiame straipsnyje Petro iš Dusburgo kronika vadinama nepakeičiamai svarbia baltistikos ir lituanistikos mokslui dėl unikalių žinių apie vakarų baltų ir lietuvių istoriją.'
   pagrindžia:
     - c-003

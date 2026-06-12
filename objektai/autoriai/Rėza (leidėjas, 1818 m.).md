@@ -32,17 +32,23 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
 
 ## Teiginiai
 
+<a id="claim-t-11077"></a>
 - t-001
+  global_id: t-11077
   teiginys: 'Rėza buvo vienas iš lietuvių kalbos gynėjų per ginčą, kuriame lietuvių kalba buvo apginta.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-11078"></a>
 - t-002
+  global_id: t-11078
   teiginys: 'Rėza 1818 m. išleido Duonelaičio raštus, o 1825 m. - savo išgarsėjusį dainų rinkinį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-11079"></a>
 - t-003
+  global_id: t-11079
   teiginys: 'Rėza išleido trečią Šventojo Rašto leidimą, 1818 m. paskelbė Duonelaičio raštus ir 1825 m. išleido liaudies dainų rinkinį.'
   pagrindžia:
     - c-003

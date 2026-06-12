@@ -24,7 +24,9 @@ Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­ niūnas“, k
 
 ## Teiginiai
 
+<a id="claim-t-35228"></a>
 - t-001
+  global_id: t-35228
   teiginys: 'Mikalojus Maskoževskis 1389 m. buvo pasiųstas į Lietuvą ir vienus metus ėjo Vilniaus ir Lietuvos seniūno pareigas.'
   pagrindžia:
     - c-001

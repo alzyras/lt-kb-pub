@@ -17,7 +17,9 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79).
 
 ## Teiginiai
 
+<a id="claim-t-91935"></a>
 - t-001
+  global_id: t-91935
   teiginys: 'Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79).'
   pagrindžia:
     - c-001

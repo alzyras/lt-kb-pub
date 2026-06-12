@@ -31,7 +31,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01248"></a>
 - t-001
+  global_id: t-01248
   teiginys: 'Zigmanto Augusto antkapis yra Krokuvos katedroje.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Dusburgietis teigia, kad apie dviejų našlių ginčą dėl vieno vyro Po šio m
 
 ## Teiginiai
 
+<a id="claim-t-58918"></a>
 - t-001
+  global_id: t-58918
   teiginys: 'Dusburgietis teigia, kad apie dviejų našlių ginčą dėl vieno vyro Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi tame mūšyje buvo išžudyti, įpareigojo visas našles, suteikęs joms nuodėmių atleidimą, tekėti už savo tarnų, kad tikėjimo reikalas.'
   pagrindžia:
     - c-001

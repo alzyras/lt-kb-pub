@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35549"></a>
 - t-001
+  global_id: t-35549
   teiginys: '1382 m. birželio 12 d. Rygos pirklys Hanulo įteikė Jogailai Vilniaus pilies raktus.'
   pagrindžia:
     - c-001

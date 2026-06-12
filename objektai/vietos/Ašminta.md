@@ -22,7 +22,9 @@ Staliorių, Rugienių X AŠMINTOS SUSISPROGDINIMAS 1947 m. liepos 17 d. Prienų 
 
 ## Teiginiai
 
+<a id="claim-t-38441"></a>
 - t-001
+  global_id: t-38441
   teiginys: '1947 m. liepos 17 d. Ašmintos kaime MGB grupė apsupo partizanų bunkerį, kuriame slėpėsi 7 partizanai.'
   pagrindžia:
     - c-001

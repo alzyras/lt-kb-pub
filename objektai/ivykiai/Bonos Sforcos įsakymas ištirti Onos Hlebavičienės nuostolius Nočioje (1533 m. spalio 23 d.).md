@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86908"></a>
 - t-001
+  global_id: t-86908
   teiginys: '1533 m. spalio 23 d. Vilniuje surašytas raštas įpareigojo apžiūrėti Onos Hlebavičienės skundžiamus nuostolius.'
   pagrindžia:
     - c-001

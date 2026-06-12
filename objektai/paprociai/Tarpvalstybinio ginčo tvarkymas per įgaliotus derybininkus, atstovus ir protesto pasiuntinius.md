@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Tarpvalstybinio ginčo tvarkymas per įgaliotus derybininkus, atstovus ir protesto pasiuntinius
 
 ## Santrauka
 
-Kojelavičius teigia, kad norėdamas parodyti, jog jam visai nerūpi keisti esamos padėties, pasiūlė visą reikalą patikėti spręsti abiejų šalių atstovams.
+Vasiljevičius pasiūlė ginčą dėl žemių patikėti spręsti abiejų šalių atstovams.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185896"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad norėdamas parodyti, jog jam visai nerūpi keisti esamos padėties, pasiūlė visą reikalą patikėti spręsti abiejų šalių atstovams.'
+  global_id: t-185896
+  teiginys: 'Vasiljevičius pasiūlė ginčą dėl žemių patikėti spręsti abiejų šalių atstovams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad norėdamas parodyti, jog jam visai nerūpi keisti esamos padėties, pasiūlė visą reikalą patikėti spręsti abiejų šalių atstovams.'
+  santrauka: 'Vasiljevičius pasiūlė ginčą dėl žemių patikėti spręsti abiejų šalių atstovams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vasiljevičius tvirtino, kad nei jis pats, nei jo
@@ -57,3 +58,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]

@@ -25,17 +25,23 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
 
 ## Teiginiai
 
+<a id="claim-t-75995"></a>
 - t-001
+  global_id: t-75995
   teiginys: 'Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m. Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius, Liudvika.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75996"></a>
 - t-002
+  global_id: t-75996
   teiginys: 'Petras Kriaučiūnas buvo vienas iš lietuvių veikėjų, išėjusių iš tautiškoje dvasioje augusių mokinių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75997"></a>
 - t-003
+  global_id: t-75997
   teiginys: 'Petras Kriaučiūnas vienu metu mokė Marijampolės gimnazijoje kartu su V. Staniškiu ir J. Jasiulaičiu.'
   pagrindžia:
     - c-001

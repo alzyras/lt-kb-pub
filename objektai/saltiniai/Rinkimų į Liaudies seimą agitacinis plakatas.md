@@ -24,7 +24,9 @@ Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakat
 
 ## Teiginiai
 
+<a id="claim-t-78137"></a>
 - t-001
+  global_id: t-78137
   teiginys: 'Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakatas.'
   pagrindžia:
     - c-001

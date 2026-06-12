@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-30258"></a>
 - t-001
+  global_id: t-30258
   teiginys: 'Prancūzų poetas Guillaume de Machaut dalyvavo šiame žygyje ir 1357 m. jį paminėjo veikale „Confort d’Ami“.'
   pagrindžia:
     - c-001

@@ -49,42 +49,58 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 
 ## Teiginiai
 
+<a id="claim-t-54970"></a>
 - t-001
+  global_id: t-54970
   teiginys: 'Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūdinti kaip ištikimi, drąsūs ir pasiaukojami.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-54971"></a>
 - t-002
+  global_id: t-54971
   teiginys: 'Bekešas kare prieš Maskvos kunigaikštį prie Polocko rizikavo gyvybe ir vėliau vadovavo vengrų riteriams ties Velikije Lūki.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54972"></a>
 - t-003
+  global_id: t-54972
   teiginys: 'Už nuopelnus Gabrieliui Bekešui tėvonijos teise perduotas Alantos dvaras su Kristupiškių, Kirdeikiškių, Germaniškio ir Gelminiškio priklausiniais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54973"></a>
 - t-004
+  global_id: t-54973
   teiginys: 'Bekešo vaikams, palikuonims, paveldėtojams ir giminaičiams leista paveldimai valdyti suteiktas valdas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-54974"></a>
 - t-005
+  global_id: t-54974
   teiginys: 'Bekešui ir jo palikuonims leista plėtoti dovanotas valdas, bet už jas reikėjo vykdyti krašto karinę tarnybą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-82311"></a>
 - t-006
+  global_id: t-82311
   teiginys: 'Gabrieliui Bekešui po Astiko Varšuvos seime pagal paveldėjimo teisę buvo atiduotas Alantos dvaras.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-82312"></a>
 - t-007
+  global_id: t-82312
   teiginys: 'Gabrieliui Bekešui ir jo palikuonims buvo leista valdose naudoti derlių, statyti bažnyčias, mokyklas, smukles ir malūnus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-82313"></a>
 - t-008
+  global_id: t-82313
   teiginys: 'Gabrielius Bekešas Skornatas vadovavo karaliaus vengrų pulkams ir buvo įvertintas už ištikimą, drąsią bei pasiaukojamą tarnybą.'
   pagrindžia:
     - c-007

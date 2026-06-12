@@ -25,7 +25,9 @@ Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikę
 
 ## Teiginiai
 
+<a id="claim-t-21082"></a>
 - t-001
+  global_id: t-21082
   teiginys: 'Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su krikščioniškąja Livonija ir išlaikyti krikščionio valdovo statusą Vakaruose.'
   pagrindžia:
     - c-001

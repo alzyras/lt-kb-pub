@@ -18,12 +18,16 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
 
 ## Teiginiai
 
+<a id="claim-t-58642"></a>
 - t-001
+  global_id: t-58642
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis Pamedės žemėje buvo pilis, vardu Spitenbergas431, kurioje gyveno broliai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58643"></a>
 - t-002
+  global_id: t-58643
   teiginys: 'Spitenbergas buvo maža kryžiuočių pilis, kurios tikslesnė vieta Pamedėje nenustatyta.'
   pagrindžia:
     - c-001

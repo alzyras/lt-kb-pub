@@ -18,7 +18,9 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 
 ## Teiginiai
 
+<a id="claim-t-40615"></a>
 - t-001
+  global_id: t-40615
   teiginys: 'Gintautas Jakštys (gimęs 1971 m.), baigė Vilniaus pedagoginio universiteto Istorijos fakultetą.'
   pagrindžia:
     - c-001

@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31517"></a>
 - t-001
+  global_id: t-31517
   teiginys: 'Zigmanto teisininkų delegacija aiškino Vytautui, kad karaliaus vainikavimui popiežiaus sutikimas nereikalingas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-31518"></a>
 - t-002
+  global_id: t-31518
   teiginys: 'Zigmantas teigė, kad Vytautui karaliaus vainiką galėjo suteikti ir Romoje nevainikuotas imperatorius.'
   pagrindžia:
     - c-002

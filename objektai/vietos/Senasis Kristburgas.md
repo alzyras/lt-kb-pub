@@ -19,12 +19,16 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 
 ## Teiginiai
 
+<a id="claim-t-58632"></a>
 - t-001
+  global_id: t-58632
   teiginys: 'Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58633"></a>
 - t-002
+  global_id: t-58633
   teiginys: 'Senasis Kristburgas, vėliau vadintas Alt Christburgu, buvo senas pamedėnų centras.'
   pagrindžia:
     - c-001

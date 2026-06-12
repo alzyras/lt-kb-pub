@@ -25,12 +25,16 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 
 ## Teiginiai
 
+<a id="claim-t-51186"></a>
 - t-001
+  global_id: t-51186
   teiginys: 'Vienuolikmetė Jadvyga buvo sužieduota su Austrijos hercogu Vilhelmu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-51187"></a>
 - t-002
+  global_id: t-51187
   teiginys: 'Austrijos hercogas Vilhelmas buvo sužieduotas su vienuolikmete Jadvyga dar jos tėvui mirštant.'
   pagrindžia:
     - c-001
@@ -73,4 +77,5 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 - [[objektai/ivykiai/Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.)]]
 - [[objektai/paprociai/Visuotinis mokesčių uždėjimas pagal turto pajėgumą]]
 - [[objektai/zodynas/bažnytinė valstybė]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/asmenys/Vilhelmas (dekanas)]]

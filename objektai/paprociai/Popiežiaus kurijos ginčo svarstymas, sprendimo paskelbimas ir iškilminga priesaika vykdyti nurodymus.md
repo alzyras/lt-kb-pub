@@ -47,7 +47,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87180"></a>
 - t-001
+  global_id: t-87180
   teiginys: 'Popiežius su kardinolais viešoje konsistorijoje svarstė Rygos arkivyskupo ginčą su Livonijos ordinu ir paskelbė sprendimą.'
   pagrindžia:
     - c-001

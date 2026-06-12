@@ -19,7 +19,9 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
 
 ## Teiginiai
 
+<a id="claim-t-36733"></a>
 - t-001
+  global_id: t-36733
   teiginys: 'Sienos buvo pravestos Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.'
   pagrindžia:
     - c-001

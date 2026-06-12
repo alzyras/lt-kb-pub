@@ -25,7 +25,9 @@ Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą.
 
 ## Teiginiai
 
+<a id="claim-t-87894"></a>
 - t-001
+  global_id: t-87894
   teiginys: 'Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą.'
   pagrindžia:
     - c-001

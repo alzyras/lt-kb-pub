@@ -17,7 +17,9 @@ surašytas Ostromiro ir Turovo evangelijas.
 
 ## Teiginiai
 
+<a id="claim-t-21287"></a>
 - t-001
+  global_id: t-21287
   teiginys: 'Turovo evangelija buvo viena iš XI a. surašytų evangelijų, minimų greta Ostromiro evangelijos.'
   pagrindžia:
     - c-001

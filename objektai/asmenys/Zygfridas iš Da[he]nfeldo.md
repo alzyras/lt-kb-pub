@@ -27,7 +27,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-80728"></a>
 - t-001
+  global_id: t-80728
   teiginys: 'Zygfridas iš Da[he]nfeldo 1348 m. dalyvavo Strėvos mūšyje kaip Ordino maršalas.'
   pagrindžia:
     - c-001

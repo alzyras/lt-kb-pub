@@ -19,7 +19,9 @@ Dusburgietis teigia, kad jonas iš Hibelino sušakosiąs ir ateityje duosiąs ga
 
 ## Teiginiai
 
+<a id="claim-t-60346"></a>
 - t-001
+  global_id: t-60346
   teiginys: 'Jonas iš Hibelino buvo vienas iš Jeruzalės karalystės didikų, pritarusių siūlymui prašyti popiežiaus patvirtinti ligoninę.'
   pagrindžia:
     - c-001

@@ -14,24 +14,25 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Zemislovas
 
 ## Santrauka
 
-Kojelavičius teigia, kad tarp riterių ordino ir kunigaikščio Zemislovo, valdžiusio Kujaviją ir Lenčicą, prasidėjo vai dai ir ginkluoti susidūrimai.
+Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemislovo prasidėjo vaidai ir ginkluoti susidūrimai.
 
 ## Teiginiai
 
+<a id="claim-t-186268"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tarp riterių ordino ir kunigaikščio Zemislovo, valdžiusio Kujaviją ir Lenčicą, prasidėjo vai dai ir ginkluoti susidūrimai.'
+  global_id: t-186268
+  teiginys: 'Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemislovo prasidėjo vaidai ir ginkluoti susidūrimai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tarp riterių ordino ir kunigaikščio Zemislovo, valdžiusio Kujaviją ir Lenčicą, prasidėjo vai dai ir ginkluoti susidūrimai.'
+  santrauka: 'Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemislovo prasidėjo vaidai ir ginkluoti susidūrimai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu kilo neramu-
@@ -47,3 +48,8 @@ Kojelavičius teigia, kad tarp riterių ordino ir kunigaikščio Zemislovo, vald
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/žygis]]

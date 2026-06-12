@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Fridrichas (riteris)
 
 ## Santrauka
 
-Kojelavičius teigia, kad riteris Fridrichas, visuomet daręs viską, ko tik iš jo buvo reikalaujama šv.
+Riteris Fridrichas vykdė tai, ko iš jo buvo reikalaujama šv. Grigaliaus vardu.
 
 ## Teiginiai
 
+<a id="claim-t-186203"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad riteris Fridrichas, visuomet daręs viską, ko tik iš jo buvo reikalaujama šv.'
+  global_id: t-186203
+  teiginys: 'Riteris Fridrichas vykdė tai, ko iš jo buvo reikalaujama šv. Grigaliaus vardu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad riteris Fridrichas, visuomet daręs viską, ko tik iš jo buvo reikalaujama šv.'
+  santrauka: 'Riteris Fridrichas vykdė tai, ko iš jo buvo reikalaujama šv. Grigaliaus vardu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vestfalijos vėliavininkas Degenhar-
@@ -35,3 +36,9 @@ Kojelavičius teigia, kad riteris Fridrichas, visuomet daręs viską, ko tik iš
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/zodynas/vėliavininkas]]
+- [[objektai/asmenys/Fridrichas]]

@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86562"></a>
 - t-001
+  global_id: t-86562
   teiginys: 'Formulė manu proprio prie parašų reiškė, kad Eustachijus Valavičius pasirašė savo ranka.'
   pagrindžia:
     - c-001

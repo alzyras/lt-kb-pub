@@ -43,27 +43,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-97134"></a>
 - t-001
+  global_id: t-97134
   teiginys: 'Po 1557 m. valakų reformos lydimoji žemdirbystė Lietuvoje ėmė nykti, nors XVI-XVII a. aktuose žodis „lydimas“ dar dažnai minėtas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-97135"></a>
 - t-002
+  global_id: t-97135
   teiginys: 'Lydimoji žemdirbystė rėmėsi ugnies naudojimu, kai išskintame ir nudegintame miško sklype buvo daromas dirbamas laukas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97136"></a>
 - t-003
+  global_id: t-97136
   teiginys: 'Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo pradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė laisvės naudotis mišku ir daryti išdagas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-97137"></a>
 - t-004
+  global_id: t-97137
   teiginys: 'Lydimoji žemdirbystė rėmėsi miško sklypo išskynimu ir nudeginimu, kad jame būtų įrengtas dirbamas laukas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97138"></a>
 - t-005
+  global_id: t-97138
   teiginys: 'Po 1557 m. valakų reformos Lietuvoje lydimoji žemdirbystė ėmė nykti, nors XVI–XVII a. aktuose dar minėtas žodis „lydimas“.'
   pagrindžia:
     - c-002

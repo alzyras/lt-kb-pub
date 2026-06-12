@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-26360"></a>
 - t-001
+  global_id: t-26360
   teiginys: 'Posakis „Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins“ buvo įsiutusių karininkų perspėjimas Seimo nariui.'
   pagrindžia:
     - c-001

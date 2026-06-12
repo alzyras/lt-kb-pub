@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67251"></a>
 - t-001
+  global_id: t-67251
   teiginys: 'Žemaičiai 1564 m. savo namuose kepė sėtinius.'
   pagrindžia:
     - c-001

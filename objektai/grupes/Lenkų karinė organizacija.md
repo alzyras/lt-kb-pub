@@ -25,7 +25,9 @@ vyko įveikti destrukcijos planus – 1919 m. rugpjūtį lietuvių žvalgyba are
 
 ## Teiginiai
 
+<a id="claim-t-24839"></a>
 - t-001
+  global_id: t-24839
   teiginys: '1919 m. rugpjūtį lietuvių žvalgyba areštavo 200 Lenkų karinės organizacijos narių, planavusių perversmą.'
   pagrindžia:
     - c-001

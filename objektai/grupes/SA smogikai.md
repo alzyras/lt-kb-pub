@@ -22,7 +22,9 @@ Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos Adolfas
 
 ## Teiginiai
 
+<a id="claim-t-26345"></a>
 - t-001
+  global_id: t-26345
   teiginys: '1939 m. kovo 23 d. Klaipėdoje Adolfą Hitlerį sveikino vietos vokiečių nacių simpatikai ir SA smogikai.'
   pagrindžia:
     - c-001

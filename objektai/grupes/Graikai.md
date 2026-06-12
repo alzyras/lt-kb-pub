@@ -16,14 +16,17 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 
 ## Teiginiai
 
+<a id="claim-t-74060"></a>
 - t-001
-  teiginys: 'Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buvo sukūrę aukštą kultūrą, aisčiai galėjo turėti tik retų, atsitiktinių santykių (jie galėjo parduoti romėnų pirkliams nebent savo gražųjį gintarą).'
+  global_id: t-74060
+  teiginys: 'Graikai dar prieš Kristų Europos pietuose buvo sukūrę aukštą kultūrą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Graikai dar prieš Kristų Europos pietuose buvo sukūrę aukštą kultūrą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jūrininkyste ais-
@@ -119,4 +122,5 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - [[objektai/grupes/Šv. Bazilijaus ordinas]]
 - [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]
 - [[objektai/paprociai/Šventųjų sakramentų teikimas pagal graikų papročius]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/paprociai/Kailinių dėvėjimas žiemą ir vasarą, vasarą išvirkščius]]

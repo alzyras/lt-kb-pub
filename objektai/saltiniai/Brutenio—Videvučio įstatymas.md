@@ -17,7 +17,9 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
 
 ## Teiginiai
 
+<a id="claim-t-61055"></a>
 - t-001
+  global_id: t-61055
   teiginys: 'Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teisėje, vad. Brutenio—Videvučio (dėl vardo žr.'
   pagrindžia:
     - c-001

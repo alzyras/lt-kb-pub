@@ -17,7 +17,9 @@ Yra įrodyta, jog « Goliad’ » buvo toliausiai į rytus įsiterpusi baltiš­
 
 ## Teiginiai
 
+<a id="claim-t-32479"></a>
 - t-001
+  global_id: t-32479
   teiginys: 'Prie Protvos upės liko asimiliacijai atkirsta toliausiai į rytus įsiterpusi baltiškos kilmės Goliadės atplaiša.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Dusburgietis teigia, kad codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376�
 
 ## Teiginiai
 
+<a id="claim-t-61060"></a>
 - t-001
+  global_id: t-61060
   teiginys: 'Codex epistolaris Vitoldi Magni Ducis Lithuaniae apima 1376–1430 m. laiškus ir buvo išleistas Krokuvoje 1882 m.'
   pagrindžia:
     - c-001

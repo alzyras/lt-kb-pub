@@ -25,12 +25,16 @@ Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja i�
 
 ## Teiginiai
 
+<a id="claim-t-58628"></a>
 - t-001
+  global_id: t-58628
   teiginys: 'Dusburgietis teigia, kad nemunas — taip pat upė, prasidedanti Rusios valdose, o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo187.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58629"></a>
 - t-002
+  global_id: t-58629
   teiginys: 'Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja iš visų pusių Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.'
   pagrindžia:
     - c-002

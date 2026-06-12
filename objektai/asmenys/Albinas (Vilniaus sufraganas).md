@@ -19,7 +19,9 @@ Po Vilniaus sufragano Albino mirties ka­ pitula jo biblioteką atidavė jėzuit
 
 ## Teiginiai
 
+<a id="claim-t-87611"></a>
 - t-001
+  global_id: t-87611
   teiginys: 'Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.'
   pagrindžia:
     - c-001

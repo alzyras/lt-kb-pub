@@ -22,7 +22,9 @@ Pirmojo pasaulio lietuvių kongreso prezidiumas.
 
 ## Teiginiai
 
+<a id="claim-t-74054"></a>
 - t-001
+  global_id: t-74054
   teiginys: 'Pirmojo pasaulio lietuvių kongreso prezidiumas.'
   pagrindžia:
     - c-001

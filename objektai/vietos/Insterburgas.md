@@ -17,7 +17,9 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
 
 ## Teiginiai
 
+<a id="claim-t-36254"></a>
 - t-001
+  global_id: t-36254
   teiginys: 'Tamova buvo aukščiau Insterburgo, ruože, kuriame Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos.'
   pagrindžia:
     - c-001

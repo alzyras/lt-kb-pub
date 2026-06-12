@@ -20,7 +20,6 @@ amziai:
   - 'XV'
   - 'XXI'
 ---
-
 # Melnikas
 
 ## Santrauka
@@ -29,18 +28,24 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
 
 ## Teiginiai
 
+<a id="claim-t-68688"></a>
 - t-001
+  global_id: t-68688
   teiginys: 'Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų ir Melniku.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-68689"></a>
 - t-002
+  global_id: t-68689
   teiginys: 'Vytauto laikais Melnike, Palenkėje, imta statyti pilis rusėniškose LDK žemėse toli nuo etninės Lietuvos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185047"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  global_id: t-185047
+  teiginys: 'Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.'
   pagrindžia:
     - c-003
 
@@ -84,7 +89,7 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
     - t-001
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  santrauka: 'Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kurie, prisi-

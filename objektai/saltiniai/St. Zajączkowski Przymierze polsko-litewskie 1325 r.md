@@ -25,7 +25,9 @@ Zajączkowski, St.
 
 ## Teiginiai
 
+<a id="claim-t-31928"></a>
 - t-001
+  global_id: t-31928
   teiginys: 'St. Zajączkowskio „Przymierze polsko-litewskie 1325 r.“ paskelbta 1926 m. „Kwartalnik Historyczny“ 40 tome, 567-617 puslapiuose.'
   pagrindžia:
     - c-001

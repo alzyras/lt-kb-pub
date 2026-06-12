@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88465"></a>
 - t-001
+  global_id: t-88465
   teiginys: 'Popiežius Martynas V 1430 m. vasario 27 d. laiške imperatoriui Zigmantui ragino išlaisvinti Jogailą.'
   pagrindžia:
     - c-001

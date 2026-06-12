@@ -18,7 +18,9 @@ Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir
 
 ## Teiginiai
 
+<a id="claim-t-86271"></a>
 - t-001
+  global_id: t-86271
   teiginys: 'Smolnėnų turtas buvo dovanojamas kartu su visomis Čirčinsko žemėmis ir Čirčinsko žmonėmis.'
   pagrindžia:
     - c-001

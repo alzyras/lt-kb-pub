@@ -59,132 +59,184 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-13469"></a>
 - t-001
+  global_id: t-13469
   teiginys: 'Lietuvos Persitvarkymo Sąjūdis tapo pagrindine Lietuvos nepriklausomybę atkūrusia jėga.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-13470"></a>
 - t-002
+  global_id: t-13470
   teiginys: 'Sąjūdis apibūdinamas kaip tautos frontas, suvienijęs plačius Lietuvos visuomenės sluoksnius, o jo priekyje stovėjo mokslo ir kultūros inteligentija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-13471"></a>
 - t-003
+  global_id: t-13471
   teiginys: '1988 m. birželio 3 d. Vilniuje Lietuvos mokslų akademijos salėje įsteigta Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-13472"></a>
 - t-004
+  global_id: t-13472
   teiginys: 'Pradiniame etape Sąjūdis buvo siejamas su gorbačiovine perestroika, jo pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-13473"></a>
 - t-005
+  global_id: t-13473
   teiginys: 'Steigiant Lietuvos Persitvarkymo Sąjūdį sutarta nerinkti iniciatyvinės grupės vadovo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-13474"></a>
 - t-006
+  global_id: t-13474
   teiginys: '1988 m. birželio 10 d. Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė įsteigta Kaune, o liepos 6 d. – Klaipėdoje.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-13475"></a>
 - t-007
+  global_id: t-13475
   teiginys: '1988 m. spalio pabaigoje 1 200 Lietuvoje įregistruotų LPS grupių vienijo 300 000 narių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-13476"></a>
 - t-008
+  global_id: t-13476
   teiginys: '1988 m. spalio 22–23 d. Lietuvos Persitvarkymo Sąjūdžio steigiamajame suvažiavime dalyvavo 1 021 delegatas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-13477"></a>
 - t-009
+  global_id: t-13477
   teiginys: 'Per Lietuvos Persitvarkymo Sąjūdžio suvažiavimą išrinktas 220 narių seimas, o lapkričio 25 d. jo tarybos pirmininku išrinktas Vytautas Landsbergis.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-13478"></a>
 - t-010
+  global_id: t-13478
   teiginys: '1989 m. kovą rinkimus į SSRS Aukščiausiąją Tarybą triuškinamai laimėjo Lietuvos Persitvarkymo Sąjūdžio kandidatai.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-13479"></a>
 - t-011
+  global_id: t-13479
   teiginys: '1990 m. pradžioje LPS buvo viena iš dviejų pagrindinių Lietuvos SSR Aukščiausiosios Tarybos rinkimų kampanijos jėgų ir rengėsi nepriklausomybę atkurti parlamentiniu būdu.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-23308"></a>
 - t-012
+  global_id: t-23308
   teiginys: '1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.'
   pagrindžia:
     - c-022
 
+<a id="claim-t-23309"></a>
 - t-013
+  global_id: t-23309
   teiginys: 'Pradiniame etape Sąjūdis iš esmės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų etapais siejo tik laisvos Lietuvos siekis.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-23310"></a>
 - t-014
+  global_id: t-23310
   teiginys: 'Tokie jaunimo muzikos koncertų žygiai per Lietuvą vyko 1987, 1988 ir 1989 m. vasarą – jie buvo skirti LPS idėjoms skleisti ir išlaisvinti režimo įbaugintus žmones.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-24556"></a>
 - t-015
+  global_id: t-24556
   teiginys: 'Lietuvių inteligentų būrys 1988 m. birželio 3 d. Vilniuje Lietuvos mokslų akademijos salėje įsteigė Lietuvos Persitvarkymo Sąjūdžio (LPS) iniciatyvinę grupę.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-24557"></a>
 - t-016
+  global_id: t-24557
   teiginys: 'LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti laikraštis „Atgimimas“ (red. Romualdas Ozolas).'
   pagrindžia:
     - c-014
 
+<a id="claim-t-26801"></a>
 - t-017
+  global_id: t-26801
   teiginys: 'Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga, atkūrusia Lietuvos nepriklausomybę.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-26802"></a>
 - t-018
+  global_id: t-26802
   teiginys: 'O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoksnius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietuvos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija, kėlusi tautą visuotiniais, universaliais, pavergtai.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-26803"></a>
 - t-019
+  global_id: t-26803
   teiginys: 'Gorbačiovas, rungdamasis su senąja SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis, o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti Lietuvoje.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-26804"></a>
 - t-020
+  global_id: t-26804
   teiginys: 'LPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS iniciatyvinės grupės nariai.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-26805"></a>
 - t-021
+  global_id: t-26805
   teiginys: 'Sąjūdžio grupės pripažino Sąjūdžio iniciatyvinės grupės lyderystę, nors ją rinko tik vilniečiai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-26806"></a>
 - t-022
+  global_id: t-26806
   teiginys: 'Lietuva atsidūrė visuotinio dėmesio centre.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-26807"></a>
 - t-023
+  global_id: t-26807
   teiginys: 'Tų metų lapkritį visoje Lietuvoje vykusiuose susirinkimuose, mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms, kurios numatė ne plėsti respublikų suverenumą, o stiprinti centralizaciją, prieš tai surinkta 1,8 mln.'
   pagrindžia:
     - c-020
 
+<a id="claim-t-26808"></a>
 - t-024
+  global_id: t-26808
   teiginys: '1989 m. lietuvių tautinis išsivadavimas įgijo politinį pobūdį.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-26809"></a>
 - t-025
+  global_id: t-26809
   teiginys: '1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą kampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjūdis – tautinis judėjimas, ryžtingai ir atvirai skleidžiantis nepriklausomos Lietuvos valstybės atkūrimo idėją, ir.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-26810"></a>
 - t-026
+  global_id: t-26810
   teiginys: '1988–1990 m. Lietuvos Sąjūdžio kūrėjai prisidėjo prie Sovietų Sąjungos aneksijos įveikimo ir Nepriklausomybės atkūrimo.'
   pagrindžia:
     - c-021

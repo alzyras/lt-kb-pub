@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kryžiuočių žygis į Žemaitiją su Leopoldo parama ir Kęstučio atsakomasis antpuolis
 
 ## Santrauka
 
-Kojelavičius teigia, kad mat Aust rijos kunigaikštis Leopoldas tuo metu atvedė į Prūsiją didžiulę kariuomenę; šių jė gų remiami kryžiuočiai už puolė Žemaitiją ir, padaliję pulkus keturiomis žygio vo romis, nusiaubė visą kraštą. Kojelavičius teigia, kad nega lėdamas pasivyti traukiančių atgal kryžiuočių, jis nu vedė savo būrius niokoti priešo kaimų.
+Austrijos kunigaikščio Leopoldo pajėgų remiami kryžiuočiai užpuolė Žemaitiją ir, padaliję pulkus keturiomis voromis, nusiaubė kraštą. Kęstutis, negalėdamas pasivyti atsitraukiančių kryžiuočių, nuvedė savo būrius niokoti priešo kaimų Prūsijoje.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185728"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mat Aust rijos kunigaikštis Leopoldas tuo metu atvedė į Prūsiją didžiulę kariuomenę; šių jė gų remiami kryžiuočiai už puolė Žemaitiją ir, padaliję pulkus keturiomis žygio vo romis, nusiaubė visą kraštą.'
+  global_id: t-185728
+  teiginys: 'Austrijos kunigaikščio Leopoldo pajėgų remiami kryžiuočiai užpuolė Žemaitiją ir, padaliję pulkus keturiomis voromis, nusiaubė kraštą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185729"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad nega lėdamas pasivyti traukiančių atgal kryžiuočių, jis nu vedė savo būrius niokoti priešo kaimų.'
+  global_id: t-185729
+  teiginys: 'Kęstutis, negalėdamas pasivyti atsitraukiančių kryžiuočių, nuvedė savo būrius niokoti priešo kaimų Prūsijoje.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mat Aust rijos kunigaikštis Leopoldas tuo metu atvedė į Prūsiją didžiulę kariuomenę; šių jė gų remiami kryžiuočiai už puolė Žemaitiją ir, padaliję pulkus keturiomis žygio vo romis, nusiaubė visą kraštą.'
+  santrauka: 'Austrijos kunigaikščio Leopoldo pajėgų remiami kryžiuočiai užpuolė Žemaitiją ir, padaliję pulkus keturiomis voromis, nusiaubė kraštą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kęstutis, sugrįžęs į Lietuvą, kur paėmė į
@@ -73,7 +76,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad nega lėdamas pasivyti traukiančių atgal kryžiuočių, jis nu vedė savo būrius niokoti priešo kaimų.'
+  santrauka: 'Kęstutis, negalėdamas pasivyti atsitraukiančių kryžiuočių, nuvedė savo būrius niokoti priešo kaimų Prūsijoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Išžudę tuos, kurie netiko nei
@@ -100,3 +103,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Leopoldas]]
+- [[objektai/zodynas/vaidilutė]]
+- [[objektai/zodynas/žygis]]

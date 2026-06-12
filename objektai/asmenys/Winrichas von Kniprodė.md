@@ -17,7 +17,9 @@ Tuo pat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip pat jo
 
 ## Teiginiai
 
+<a id="claim-t-30470"></a>
 - t-001
+  global_id: t-30470
   teiginys: 'Winrichas von Kniprodė mirė tuo pat metu kaip ir jo maršalas Kuno von Hattensteinas, padėjęs Jogailai įveikti dėdę.'
   pagrindžia:
     - c-001

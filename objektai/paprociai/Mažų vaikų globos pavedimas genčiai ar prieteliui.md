@@ -30,7 +30,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-07792"></a>
 - t-001
+  global_id: t-07792
   teiginys: 'Mirštantis tėvas mažų vaikų globą pavedė artimiausiam genčiui arba didžiausiam prieteliui.'
   pagrindžia:
     - c-001

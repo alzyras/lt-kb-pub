@@ -36,22 +36,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-05339"></a>
 - t-001
+  global_id: t-05339
   teiginys: 'Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-05340"></a>
 - t-002
+  global_id: t-05340
   teiginys: 'Gedimino sūnūs vedė rusų kunigaikštytes arba priėmė stačiatikių tikėjimą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-05341"></a>
 - t-003
+  global_id: t-05341
   teiginys: 'Gediminaičių vedybos ir rusų papročių perėmimas davė pradžią vėlesnėms kunigaikščių giminėms.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-12427"></a>
 - t-004
+  global_id: t-12427
   teiginys: 'Dinastinėse vedybose valdovai vesdavo svetimų kraštų kunigaikštytes, vengdami giminystės ryšių su savo pavaldiniais.'
   pagrindžia:
     - c-001

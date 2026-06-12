@@ -24,7 +24,9 @@ LAM = Lietuvių Katalikų Mokslo Akademijos Metraštis, t.
 
 ## Teiginiai
 
+<a id="claim-t-31791"></a>
 - t-001
+  global_id: t-31791
   teiginys: '„Lietuvių Katalikų Mokslo Akademijos Metraščio“ 1-5 tomus 1965-1971 m. redagavo A. Liuima.'
   pagrindžia:
     - c-001

@@ -29,7 +29,9 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
 
 ## Teiginiai
 
+<a id="claim-t-78071"></a>
 - t-001
+  global_id: t-78071
   teiginys: 'Nuo Tacito aisčių paminėjimo iki Lietuvos vardo pasirodymo praėjo beveik tūkstantis metų.'
   pagrindžia:
     - c-001

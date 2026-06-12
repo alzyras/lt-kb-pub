@@ -16,7 +16,9 @@ Olszewski.
 
 ## Teiginiai
 
+<a id="claim-t-19401"></a>
 - t-001
+  global_id: t-19401
   teiginys: 'H. Olszewski parašė veikalą „O skutecznym rad sposobie“.'
   pagrindžia:
     - c-001

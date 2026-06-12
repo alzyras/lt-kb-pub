@@ -25,22 +25,30 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
 
 ## Teiginiai
 
+<a id="claim-t-88153"></a>
 - t-001
+  global_id: t-88153
   teiginys: '1323 metų gegužės 26 dieną Vilniuje rašytuose Gedimino laiškuose nurodyta juos skaityti, siųsti toliau ir viešai skelbti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88154"></a>
 - t-002
+  global_id: t-88154
   teiginys: 'Pasak cituojamos nuomonės, Rygos arkivyskupas slapta parašė laiškus Gedimino vardu ir išsiuntė juos popiežiui, miestams bei vienuoliams.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-88155"></a>
 - t-003
+  global_id: t-88155
   teiginys: 'Po šių paaiškinimų apie antspaudą visuose trijuose laiškuose yra ypatingas prakeiksmas tų, kurie nepatikėtų jį esant tikrai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-88156"></a>
 - t-004
+  global_id: t-88156
   teiginys: 'Balińskis laikėsi nuomonės, kad laiškas popiežiui ir laiškai ordinams bei Vokietijos miestams nebuvo parašyti Gedimino valia.'
   pagrindžia:
     - c-001

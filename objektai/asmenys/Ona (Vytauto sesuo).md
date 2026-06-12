@@ -19,7 +19,9 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
 
 ## Teiginiai
 
+<a id="claim-t-87810"></a>
 - t-001
+  global_id: t-87810
   teiginys: 'Vytauto sesuo Ona ištekėjo už vyresniojo Mazovijos kunigaikščio Jonušo per Vilniuje vykusias prašmatnias vestuves.'
   pagrindžia:
     - c-001

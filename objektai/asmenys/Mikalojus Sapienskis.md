@@ -18,12 +18,16 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
 
 ## Teiginiai
 
+<a id="claim-t-35229"></a>
 - t-001
+  global_id: t-35229
   teiginys: 'Mikalojus Sapienskis lenkų didikų susirinkime kalbėjo kaip Vytauto atstovas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-35230"></a>
 - t-002
+  global_id: t-35230
   teiginys: 'Mikalojus Sapienskis buvo Vytauto sekretorius arba kancleris.'
   pagrindžia:
     - c-001

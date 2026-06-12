@@ -16,7 +16,9 @@ Dusburgietis teigia, kad [Hollack E.] Vorgeschichtliche Übersichtskarte von Ost
 
 ## Teiginiai
 
+<a id="claim-t-61357"></a>
 - t-001
+  global_id: t-61357
   teiginys: '„Vorgeschichtliche Übersichtskarte von Ostpreussen“ Emil Hollack parengė Rytprūsių provincijos sąjungos pavedimu.'
   pagrindžia:
     - c-001

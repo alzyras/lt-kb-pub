@@ -23,12 +23,16 @@ Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis ant
 
 ## Teiginiai
 
+<a id="claim-t-58544"></a>
 - t-001
+  global_id: t-58544
   teiginys: 'Skomantas pasuko link Eimsučio pilies ir po veržlaus antpuolio ją užėmė, nukaudamas 40 jos sargybinių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58545"></a>
 - t-002
+  global_id: t-58545
   teiginys: 'Eimsučio pilis šaltinyje minima kaip castrum Hemsot, o jos vieta siejama su dabartine Pšečna netoli Kulmenzės.'
   pagrindžia:
     - c-002

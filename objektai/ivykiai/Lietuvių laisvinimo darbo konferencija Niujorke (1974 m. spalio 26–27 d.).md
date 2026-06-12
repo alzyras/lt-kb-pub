@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-23491"></a>
 - t-001
+  global_id: t-23491
   teiginys: '1974 m. spalio 26–27 d. Niujorke vykusi lietuvių laisvinimo darbo konferencija patvirtino nuostatą siekti nepriklausomos Lietuvos atstatymo.'
   pagrindžia:
     - c-001

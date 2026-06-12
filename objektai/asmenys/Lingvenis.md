@@ -19,7 +19,9 @@ Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijo
 
 ## Teiginiai
 
+<a id="claim-t-35201"></a>
 - t-001
+  global_id: t-35201
   teiginys: 'Lingvenis pritarė Jogailos sutartims su Ordinais dėl ketverių metų taikos, krikšto ir pusės Žemaitijos užleidimo.'
   pagrindžia:
     - c-001

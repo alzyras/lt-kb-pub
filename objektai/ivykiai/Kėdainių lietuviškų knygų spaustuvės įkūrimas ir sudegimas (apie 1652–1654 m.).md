@@ -36,12 +36,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01690"></a>
 - t-001
+  global_id: t-01690
   teiginys: 'Apie 1652 m. Jonušas Radvila Kėdainiuose įkūrė lietuviškoms knygoms skirtą spaustuvę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01691"></a>
 - t-002
+  global_id: t-01691
   teiginys: 'Kėdainių lietuviškų knygų spaustuvė veikė vos porą metų ir greičiausiai sudegė 1654 m.'
   pagrindžia:
     - c-002

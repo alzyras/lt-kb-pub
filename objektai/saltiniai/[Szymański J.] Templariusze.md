@@ -22,7 +22,9 @@ Dusburgietis teigia, kad [Szymański J.] Templariusze —SSS, Wrocław—Warszaw
 
 ## Teiginiai
 
+<a id="claim-t-61305"></a>
 - t-001
+  global_id: t-61305
   teiginys: 'J. Szymańskio straipsnis „Templariusze“ paskelbtas 1977 m. leidinio SSS šešto tomo pirmoje dalyje, 48-49 puslapiuose.'
   pagrindžia:
     - c-001

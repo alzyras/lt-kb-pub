@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31475"></a>
 - t-001
+  global_id: t-31475
   teiginys: '1396 m. rudenį Vytautas, pasisiūlęs tarpininkauti, užėmė Smolenską ir Smolensko leną Viazmą.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-80648"></a>
 - t-001
+  global_id: t-80648
   teiginys: '2-ojo pėstininkų pulko I batalionas prie Panevėžio rinktinės prisijungė jau išlaisvinus Panevėžį.'
   pagrindžia:
     - c-001

@@ -23,12 +23,16 @@ Pats ordinas Konstancoje pripažino Žemaičius telaikęs lyg slidų ungurį už
 
 ## Teiginiai
 
+<a id="claim-t-31568"></a>
 - t-001
+  global_id: t-31568
   teiginys: 'Ordinas Konstancoje pripažino Žemaičius laikęs lyg slidų ungurį už uodegos („sicut anguillam per caudam“).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184361"></a>
 - t-002
+  global_id: t-184361
   teiginys: 'Pats ordinas Konstancoje pripažino Žemaičius telaikęs lyg slidų ungurį už uodegos (« sicut anguillam per caudam »)^52.'
   pagrindžia:
     - c-002

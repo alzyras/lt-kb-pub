@@ -25,12 +25,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-101479"></a>
 - t-001
+  global_id: t-101479
   teiginys: '1839 m. likviduojama Unitų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-101480"></a>
 - t-002
+  global_id: t-101480
   teiginys: 'Antra vertus, tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendrijoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš Rusijos atsikeliantiems.'
   pagrindžia:
     - c-001

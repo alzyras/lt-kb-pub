@@ -19,7 +19,9 @@ Dusburgietis teigia, kad gardolfas sušakosiąs ir ateityje duosiąs gausybę va
 
 ## Teiginiai
 
+<a id="claim-t-60282"></a>
 - t-001
+  global_id: t-60282
   teiginys: 'Halberštato vyskupas Gardolfas buvo tarp Vokietijos dvasininkų ir didikų, svarstusių ką tik įsteigtos ligoninės ateitį.'
   pagrindžia:
     - c-001

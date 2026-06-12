@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20355"></a>
 - t-001
+  global_id: t-20355
   teiginys: '1991 m. rugsėjo 17 d. Lietuva priimta į Jungtines Tautas, o 1993 m. – į Europos Tarybą.'
   pagrindžia:
     - c-001

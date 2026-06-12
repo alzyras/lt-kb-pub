@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Orestas
 
 ## Santrauka
 
-Kojelavičius teigia, kad pirmiausia Otokaras, arba H e iu lų karai už jų Odoakras, herulų valdovas, tė v y n ė s pakviestas iš Germanuos pus brolio, Romos imperatoriaus Augustulo priešo, smarkiai užpuolė Ticiną ir, jį apsu pęs, paėmė į savo rankas, o sugautą Orestą, imperato riaus.
+Odoakras, užėmęs Ticiną, įkalino imperatoriaus Augustulo tėvą Orestą.
 
 ## Teiginiai
 
+<a id="claim-t-186243"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pirmiausia Otokaras, arba H e iu lų karai už jų Odoakras, herulų valdovas, tė v y n ė s pakviestas iš Germanuos pus brolio, Romos imperatoriaus Augustulo priešo, smarkiai užpuolė Ticiną ir, jį apsu pęs, paėmė į savo rankas, o sugautą Orestą, imperato riaus.'
+  global_id: t-186243
+  teiginys: 'Odoakras, užėmęs Ticiną, įkalino imperatoriaus Augustulo tėvą Orestą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pirmiausia Otokaras, arba H e iu lų karai už jų Odoakras, herulų valdovas, tė v y n ė s pakviestas iš Germanuos pus brolio, Romos imperatoriaus Augustulo priešo, smarkiai užpuolė Ticiną ir, jį apsu pęs, paėmė į savo rankas, o sugautą Orestą, imperato riaus.'
+  santrauka: 'Odoakras, užėmęs Ticiną, įkalino imperatoriaus Augustulo tėvą Orestą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl niekas neturėtų piktintis, jeigu aš rašydamas
@@ -55,3 +56,9 @@ Kojelavičius teigia, kad pirmiausia Otokaras, arba H e iu lų karai už jų Odo
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Herulai]]
+- [[objektai/grupes/Langobardai]]
+- [[objektai/ivykiai/Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.)]]

@@ -19,7 +19,9 @@ Jame krašto atstovai vienbalsiai priėmė Šilutės deklaraciją, kuria buvo nu
 
 ## Teiginiai
 
+<a id="claim-t-10550"></a>
 - t-001
+  global_id: t-10550
   teiginys: 'Jame krašto atstovai vienbalsiai priėmė Šilutės deklaraciją, kuria buvo nutarta autonomijos teisėmis prisijungti prie Lietuvos respublikos.'
   pagrindžia:
     - c-001

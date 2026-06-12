@@ -16,7 +16,9 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 
 ## Teiginiai
 
+<a id="claim-t-40904"></a>
 - t-001
+  global_id: t-40904
   teiginys: 'Juozo Pandeikos būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.'
   pagrindžia:
     - c-001

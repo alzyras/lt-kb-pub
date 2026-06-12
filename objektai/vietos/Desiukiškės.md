@@ -17,7 +17,9 @@ Kalavijas, rastas Desiukiškėse, yDKM, Artūro Užgalio nuotr.
 
 ## Teiginiai
 
+<a id="claim-t-38454"></a>
 - t-001
+  global_id: t-38454
   teiginys: 'Kalavijas, rastas Desiukiškėse, yDKM, Artūro Užgalio nuotr.'
   pagrindžia:
     - c-001

@@ -16,12 +16,16 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 
 ## Teiginiai
 
+<a id="claim-t-21334"></a>
 - t-001
+  global_id: t-21334
   teiginys: 'LV sudarė Žydų padėties nuostatus kaip deklaruojamo antisemitizmo priemonę ir siekė nuolaidų iš nacių Vokietijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183391"></a>
 - t-002
+  global_id: t-183391
   teiginys: 'Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėties nuostatų sudarymas, konclagerio steigimas VII forte) siekė nuolaidų iš nacių Vokietijos ir plaukė jos politikos farvateryje.'
   pagrindžia:
     - c-002

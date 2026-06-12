@@ -19,7 +19,9 @@ Visi klysta; nelaisvas buvo nuo klaidų ir Vytautas didžiulėj savo politikoj: 
 
 ## Teiginiai
 
+<a id="claim-t-36005"></a>
 - t-001
+  global_id: t-36005
   teiginys: 'Posakiu „juo didesnis žmogus, juo didesnes ir klaidas gali padaryti“ aiškinta, kad Vytautas savo politikoje nebuvo laisvas nuo klaidų.'
   pagrindžia:
     - c-001

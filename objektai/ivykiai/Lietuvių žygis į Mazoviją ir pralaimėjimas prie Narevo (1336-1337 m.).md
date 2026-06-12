@@ -13,12 +13,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Lietuvių žygis į Mazoviją ir pralaimėjimas prie Narevo (1336-1337 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad ramybė liovėsi, kai mirė Vanka, arba Vaclovas, Mazovijos kunigaikštis (vedęs Algirdo seserį).
+Mirus Mazovijos kunigaikščiui Vankai, arba Vaclovui, lietuviai 1336 m. lapkritį su didele kariuomene nuniokojo Mazoviją.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -34,15 +33,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185813"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad ramybė liovėsi, kai mirė Vanka, arba Vaclovas, Mazovijos kunigaikštis (vedęs Algirdo seserį).'
+  global_id: t-185813
+  teiginys: 'Mirus Mazovijos kunigaikščiui Vankai, arba Vaclovui, lietuviai 1336 m. lapkritį su didele kariuomene nuniokojo Mazoviją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad ramybė liovėsi, kai mirė Vanka, arba Vaclovas, Mazovijos kunigaikštis (vedęs Algirdo seserį).'
+  santrauka: 'Mirus Mazovijos kunigaikščiui Vankai, arba Vaclovui, lietuviai 1336 m. lapkritį su didele kariuomene nuniokojo Mazoviją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi tyli ir metraš­
@@ -63,3 +64,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vaclovas]]

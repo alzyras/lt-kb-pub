@@ -16,7 +16,9 @@ Kairioji vora puolimą pradėjo ## Puslapis 183 sėkmingai, tačiau ties Radikon
 
 ## Teiginiai
 
+<a id="claim-t-42075"></a>
 - t-001
+  global_id: t-42075
   teiginys: 'Ties Radikonių dvaru kairioji vora sutiko stiprų bolševikų pasipriešinimą, per kurį žuvo kolonos vadas.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Dusburgietis teigia, kad voigt J.
 
 ## Teiginiai
 
+<a id="claim-t-61352"></a>
 - t-001
+  global_id: t-61352
   teiginys: 'J. Voigto „Geschichte Marienburg“ išleista Karaliaučiuje 1824 m.'
   pagrindžia:
     - c-001

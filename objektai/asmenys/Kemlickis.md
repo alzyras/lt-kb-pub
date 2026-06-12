@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kemlickis
 
 ## Santrauka
 
-Kojelavičius teigia, kad lenkų ir rusų kovos likimas išsisprendė tada, kai begalinį narsumą parodė šimtininkas Kemlickis.
+Šimtininkas Kemlickis parodė didelę narsą mūšyje, nuo kurio priklausė lenkų ir rusų kovos baigtis.
 
 ## Teiginiai
 
+<a id="claim-t-186125"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad lenkų ir rusų kovos likimas išsisprendė tada, kai begalinį narsumą parodė šimtininkas Kemlickis.'
+  global_id: t-186125
+  teiginys: 'Šimtininkas Kemlickis parodė didelę narsą mūšyje, nuo kurio priklausė lenkų ir rusų kovos baigtis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad lenkų ir rusų kovos likimas išsisprendė tada, kai begalinį narsumą parodė šimtininkas Kemlickis.'
+  santrauka: 'Šimtininkas Kemlickis parodė didelę narsą mūšyje, nuo kurio priklausė lenkų ir rusų kovos baigtis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lenkams nė trupučio nepalengvė­
@@ -40,3 +41,9 @@ Kojelavičius teigia, kad lenkų ir rusų kovos likimas išsisprendė tada, kai 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės]]

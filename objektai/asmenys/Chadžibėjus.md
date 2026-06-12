@@ -19,7 +19,9 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
 
 ## Teiginiai
 
+<a id="claim-t-39502"></a>
 - t-001
+  global_id: t-39502
   teiginys: 'Chadžibėjus buvo vienas iš trijų vadų-kunigaikščių, kurių kariuomenė susirėmė su Lietuvos kariuomene.'
   pagrindžia:
     - c-001

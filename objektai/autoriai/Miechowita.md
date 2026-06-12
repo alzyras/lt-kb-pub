@@ -24,7 +24,9 @@ Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio ir M.
 
 ## Teiginiai
 
+<a id="claim-t-64760"></a>
 - t-001
+  global_id: t-64760
   teiginys: 'Miechowitos XVI a. išspausdinta kronika buvo tarp lenkų kronikų, pažįstamų Lietuvos Metraščio sąvadą rengusiam autoriui.'
   pagrindžia:
     - c-001

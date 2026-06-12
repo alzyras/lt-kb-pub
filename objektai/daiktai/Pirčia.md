@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08314"></a>
 - t-001
+  global_id: t-08314
   teiginys: 'Pirčioje buvo krosnis, plautai ir suolai, ant kurių pėrėsi su vantomis.'
   pagrindžia:
     - c-001

@@ -8,11 +8,10 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - knyga
   - krikštas
   - kunigaikštis
+  - pilis
 ---
-
 # Ona (Vytauto žmona)
 
 ## Santrauka
@@ -21,18 +20,24 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
 
 ## Teiginiai
 
+<a id="claim-t-87923"></a>
 - t-001
+  global_id: t-87923
   teiginys: 'Vytauto žmona Ona, Smolensko kunigaikštytė, išpažino graikų apeigų tikėjimą ir prieš Lietuvos krikštą turėjo koplyčią Trakų pilyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184810"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad lais vai prie jo prileidžiama tebuvo žmona Ona, kuri, lais va valia nutarusi dalytis su vyru likimo užkrautais var gais, čia jį ir palydėjo su dviem mergaitėmis.'
+  global_id: t-184810
+  teiginys: 'Ona laisva valia lydėjo į Krėvą saugomą Vytautą ir dalijosi su juo likimo vargais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184811"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad nutaręs sutelkti didesnę kariuomenę, Vytautas patraukė į Trakus ir čia, mirus jo žmonai Onai, nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
+  global_id: t-184811
+  teiginys: 'Vytautas po žmonos Onos mirties Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
   pagrindžia:
     - c-003
 
@@ -75,7 +80,7 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad lais vai prie jo prileidžiama tebuvo žmona Ona, kuri, lais va valia nutarusi dalytis su vyru likimo užkrautais var gais, čia jį ir palydėjo su dviem mergaitėmis.'
+  santrauka: 'Ona laisva valia lydėjo į Krėvą saugomą Vytautą ir dalijosi su juo likimo vargais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai
@@ -96,7 +101,7 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad nutaręs sutelkti didesnę kariuomenę, Vytautas patraukė į Trakus ir čia, mirus jo žmonai Onai, nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
+  santrauka: 'Vytautas po žmonos Onos mirties Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to ir viena, ir kita šalis puldinėjo
@@ -110,3 +115,15 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Graikai]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/barbarai]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/paprociai/Graikų apeigų koplyčios laikymas Trakų pilyje]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]

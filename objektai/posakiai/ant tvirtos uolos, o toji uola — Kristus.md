@@ -18,7 +18,9 @@ Dusburgietis teigia, kad pirmosios dalies įvade tvirtinama, kaip Kristus pastat
 
 ## Teiginiai
 
+<a id="claim-t-59072"></a>
 - t-001
+  global_id: t-59072
   teiginys: 'Teutonų ordino namų pagrindas vadinamas nesugriaunamu, nes jis pastatytas ant tvirtos uolos, kuri yra Kristus.'
   pagrindžia:
     - c-001

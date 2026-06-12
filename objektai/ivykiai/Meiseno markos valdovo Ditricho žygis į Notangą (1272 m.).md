@@ -41,13 +41,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-89382"></a>
 - t-001
+  global_id: t-89382
   teiginys: 'Dusburgietis teigia, kad kai šitai buvo padaryta, minėtasis kunigaikštis, eidamas garbingomis savo tėvo pėdomis, nelyginant bebaimis liūtas, kurio nebaugina jokios kovos, patraukė su savo kariuomene į priekį, nužygiuodamas Notangos žeme ligi Gerkynės prekyvietės408, kur išbuvo tris.'
   pagrindžia:
     - c-002
     - c-001
 
+<a id="claim-t-89383"></a>
 - t-002
+  global_id: t-89383
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas Kai 1272 viešpaties metais dievas aiškiai pamatė, kaip kamuojama jo tauta Prūsijos žemėje, ir panoro, atėjus tinkamam laikui, pasigailėti savo žmonių, atvyko į Prūsiją su daugybe karių.'
   pagrindžia:
     - c-002

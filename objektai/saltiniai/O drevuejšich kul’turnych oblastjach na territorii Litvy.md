@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31866"></a>
 - t-001
+  global_id: t-31866
   teiginys: 'R. Jablonskytė-Rimantienė straipsnį „O drevuejšich kul’turnych oblastjach na territorii Litvy“ paskelbė 1955 m. „Sovetskaja Etnografija“ 3 tome.'
   pagrindžia:
     - c-001

@@ -17,12 +17,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-22008"></a>
 - t-001
+  global_id: t-22008
   teiginys: 'Baigiantis pirmajam Kristaus epochos tūkstantmečiui milenaristinis sąjūdis apėmė krikščioniškąsias misijas ir naujų šalių krikštus Europoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183447"></a>
 - t-002
+  global_id: t-183447
   teiginys: 'Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės.'
   pagrindžia:
     - c-001

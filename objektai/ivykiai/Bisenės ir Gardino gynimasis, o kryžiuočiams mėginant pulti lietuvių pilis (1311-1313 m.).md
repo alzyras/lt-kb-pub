@@ -13,12 +13,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Bisenės ir Gardino gynimasis, o kryžiuočiams mėginant pulti lietuvių pilis (1311-1313 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad iš tos išdavystės išėjo visai kas kita, nei vy lėsi žvalgas, ji vos neužtraukė bėdos kryžiuočiams: mat, WQ jeigu sugautas kaimietis nebūtų pranešęs, jog ne toliese tyko Vytenis su karių būriais, kryžiuočiai, persikėlę per Nemuną, patys būtų pakliuvę į.
+Bisenės pilėnai narsiai atrėmė kryžiuočių puolimą ir privertė daug karių netekusį priešą pasitraukti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -34,15 +33,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185554"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad iš tos išdavystės išėjo visai kas kita, nei vy lėsi žvalgas, ji vos neužtraukė bėdos kryžiuočiams: mat, WQ jeigu sugautas kaimietis nebūtų pranešęs, jog ne toliese tyko Vytenis su karių būriais, kryžiuočiai, persikėlę per Nemuną, patys būtų pakliuvę į.'
+  global_id: t-185554
+  teiginys: 'Bisenės pilėnai narsiai atrėmė kryžiuočių puolimą ir privertė daug karių netekusį priešą pasitraukti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad iš tos išdavystės išėjo visai kas kita, nei vy lėsi žvalgas, ji vos neužtraukė bėdos kryžiuočiams: mat, WQ jeigu sugautas kaimietis nebūtų pranešęs, jog ne toliese tyko Vytenis su karių būriais, kryžiuočiai, persikėlę per Nemuną, patys būtų pakliuvę į.'
+  santrauka: 'Bisenės pilėnai narsiai atrėmė kryžiuočių puolimą ir privertė daug karių netekusį priešą pasitraukti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš tos išdavystės išėjo visai kas kita, nei vy­
@@ -70,3 +71,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Pilys]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/pilėnas]]

@@ -17,12 +17,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-23482"></a>
 - t-001
+  global_id: t-23482
   teiginys: '1831 m. birželį į Lietuvą buvo pasiųsta apie 12,6 tūkst. karių turėjusi reguliarioji Lenkijos karalystės kariuomenė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-23483"></a>
 - t-002
+  global_id: t-23483
   teiginys: 'Kai kurie Lenkijos karalystės kariuomenės daliniai prasiveržė atgal į Karalystės teritoriją, o kitų likučiai perėjo sieną su Prūsija.'
   pagrindžia:
     - c-001

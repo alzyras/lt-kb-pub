@@ -17,7 +17,9 @@ Dusburgietis teigia, kad prie Upytės Tvankstė, miškas Tvankstė, Tvanksta (Tu
 
 ## Teiginiai
 
+<a id="claim-t-58768"></a>
 - t-001
+  global_id: t-58768
   teiginys: 'Dusburgietis teigia, kad prie Upytės Tvankstė, miškas Tvankstė, Tvanksta (Tuwangste, Twangste), p. (žr.'
   pagrindžia:
     - c-001

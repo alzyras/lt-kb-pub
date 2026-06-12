@@ -18,7 +18,9 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
 
 ## Teiginiai
 
+<a id="claim-t-02863"></a>
 - t-001
+  global_id: t-02863
   teiginys: '1798 m. Prūsijos valdžia Vigriuose įsteigė atskirą, tiesiog popiežiui pavaldžią vyskupiją, 1818 m. perkeltą į Seinus.'
   pagrindžia:
     - c-001

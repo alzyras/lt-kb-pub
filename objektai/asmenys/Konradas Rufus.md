@@ -16,7 +16,9 @@ Dusburgietis teigia, kad tas brolis Ditrichas iš Ezbeko iš anksto išsipranaš
 
 ## Teiginiai
 
+<a id="claim-t-60368"></a>
 - t-001
+  global_id: t-60368
   teiginys: 'Dusburgietis teigia, kad tas brolis Ditrichas iš Ezbeko iš anksto išsipranašavo sau mirtį, kalbėdamasis su broliu Konradu Rufu, kuris jam žadėjo atiduoti savo žirgą, kai trauks atgal, o tas tarė: „Man pakanka savo žirgo, nes manęs netrukus gyvo nebematysi“.'
   pagrindžia:
     - c-001

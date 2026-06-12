@@ -38,17 +38,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54359"></a>
 - t-001
+  global_id: t-54359
   teiginys: 'M. Valančius, remdamasis kituose katalikiškuose kraštuose plitusiomis blaivybės idėjomis, inicijavo blaivybės sąjūdį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54360"></a>
 - t-002
+  global_id: t-54360
   teiginys: 'Motiejus Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybės idėjomis, inicijavo blaivybės sąjūdį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54361"></a>
 - t-003
+  global_id: t-54361
   teiginys: 'Po poros metų blaivybės brolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų.'
   pagrindžia:
     - c-002

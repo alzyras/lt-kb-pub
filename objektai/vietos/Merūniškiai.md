@@ -19,7 +19,9 @@ Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, 
 
 ## Teiginiai
 
+<a id="claim-t-32365"></a>
 - t-001
+  global_id: t-32365
   teiginys: 'Siena ėjo tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko Ordino pusėje.'
   pagrindžia:
     - c-001

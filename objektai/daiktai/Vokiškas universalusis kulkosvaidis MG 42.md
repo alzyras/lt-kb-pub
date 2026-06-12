@@ -44,12 +44,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39303"></a>
 - t-001
+  global_id: t-39303
   teiginys: 'Vokiškas universalusis kulkosvaidis MG 42 buvo sukurtas Antrojo pasaulinio karo metu kaip MG 34 pakaitalas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183689"></a>
 - t-002
+  global_id: t-183689
   teiginys: 'Partizanams vystant puolimą miestelyje juos iš cerkvės pasitiko kulkosvaidžio ugnis, vienam iš partizanų taiklia ugnimi pavyko jį nutildyti, bet tą pačią akimirką iš šalia esančios bažnyčios bokšto kulkosvaidžio ugnimi buvo nukauti ir sužeisti keli 232.'
   pagrindžia:
     - c-002

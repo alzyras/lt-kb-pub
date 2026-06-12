@@ -19,17 +19,23 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 
 ## Teiginiai
 
+<a id="claim-t-60025"></a>
 - t-001
+  global_id: t-60025
   teiginys: 'Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60026"></a>
 - t-002
+  global_id: t-60026
   teiginys: 'Sventopelkas paprašė atsiųsti Henriką iš Lichtenšteino ir jam išdėstė nusiskundimus broliais dėl įkaitu laikomo sūnaus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60027"></a>
 - t-003
+  global_id: t-60027
   teiginys: 'Dusburgietis teigia, kad šitai išvydęs, valdovas Henrikas iš Lichtenšteino staiga užgriuvo priešus ir sugrąžino į pirmykštę vietą atimtą grobį.'
   pagrindžia:
     - c-002

@@ -19,7 +19,9 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
 
 ## Teiginiai
 
+<a id="claim-t-86577"></a>
 - t-001
+  global_id: t-86577
   teiginys: 'Vidivarijų vardas, Jornandeso duotas tautai prie Vyslos žiočių, aiškintas kaip įvairių tautų sambūrio nomen sociale.'
   pagrindžia:
     - c-001

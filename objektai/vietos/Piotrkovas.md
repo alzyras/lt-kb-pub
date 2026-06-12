@@ -6,39 +6,46 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Piotrkovas
 
 ## Santrauka
 
-Kojelavičius teigia, kad l enkai pirmieji atvirai jį užsipuolė, reik alau d am i su šau k ti luom us į Piotrkovo seim ą. Kojelavičius teigia, kad kai gandas apie AleksandJ o n a s O lb ra ch ta s išro pakėlimą į sostą pasiekė re n k a m a s L en k ijo s Piotrkovą, lenkų seime kilo k a ra liu m i smarkių nesutarimų. Kojelavičius teigia, kad šitokia nuomonių įvairovė paskatino Mazovijos kunigaikštį Jonušą, trokšte trokš tantį sosto, vykti į Piotrkovą.
+Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl slaptų susitarimų su skitais. Kai gandas apie Aleksandro pakėlimą į sostą pasiekė Piotrkovą, lenkų seime kilo smarkių nesutarimų. Mazovijos kunigaikštis Jonušas, siekdamas sosto, dėl nuomonių įvairovės vyko į Piotrkovą.
 
 ## Teiginiai
 
+<a id="claim-t-185237"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad l enkai pirmieji atvirai jį užsipuolė, reik alau d am i su šau k ti luom us į Piotrkovo seim ą.'
+  global_id: t-185237
+  teiginys: 'Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl slaptų susitarimų su skitais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185238"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kai gandas apie AleksandJ o n a s O lb ra ch ta s išro pakėlimą į sostą pasiekė re n k a m a s L en k ijo s Piotrkovą, lenkų seime kilo k a ra liu m i smarkių nesutarimų.'
+  global_id: t-185238
+  teiginys: 'Kai gandas apie Aleksandro pakėlimą į sostą pasiekė Piotrkovą, lenkų seime kilo smarkių nesutarimų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185239"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad šitokia nuomonių įvairovė paskatino Mazovijos kunigaikštį Jonušą, trokšte trokš tantį sosto, vykti į Piotrkovą.'
+  global_id: t-185239
+  teiginys: 'Mazovijos kunigaikštis Jonušas, siekdamas sosto, dėl nuomonių įvairovės vyko į Piotrkovą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185240"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad nusivežė tad jį su savimi į Piotrkovą, į Lenkijos karalystės seimą, kuris, luomams pritariant, iš Mazovijos ir Prūsijos gau namas karaliaus pajamas paskyrė kunigaikščiui Augus tui.'
+  global_id: t-185240
+  teiginys: 'Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliaus pajamas iš Mazovijos ir Prūsijos.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad l enkai pirmieji atvirai jį užsipuolė, reik alau d am i su šau k ti luom us į Piotrkovo seim ą.'
+  santrauka: 'Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl slaptų susitarimų su skitais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Š tai dėl to ir lenkai, ir lie­
@@ -67,7 +74,7 @@ Kojelavičius teigia, kad l enkai pirmieji atvirai jį užsipuolė, reik alau d 
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kai gandas apie AleksandJ o n a s O lb ra ch ta s išro pakėlimą į sostą pasiekė re n k a m a s L en k ijo s Piotrkovą, lenkų seime kilo k a ra liu m i smarkių nesutarimų.'
+  santrauka: 'Kai gandas apie Aleksandro pakėlimą į sostą pasiekė Piotrkovą, lenkų seime kilo smarkių nesutarimų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Valstybėje kol kas svarbiausia buvo ranka ir
@@ -99,7 +106,7 @@ Kojelavičius teigia, kad l enkai pirmieji atvirai jį užsipuolė, reik alau d 
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad šitokia nuomonių įvairovė paskatino Mazovijos kunigaikštį Jonušą, trokšte trokš tantį sosto, vykti į Piotrkovą.'
+  santrauka: 'Mazovijos kunigaikštis Jonušas, siekdamas sosto, dėl nuomonių įvairovės vyko į Piotrkovą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai dėl to sustiprėjo įtaka grupuotės, kuri
@@ -117,7 +124,7 @@ Kojelavičius teigia, kad l enkai pirmieji atvirai jį užsipuolė, reik alau d 
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad nusivežė tad jį su savimi į Piotrkovą, į Lenkijos karalystės seimą, kuris, luomams pritariant, iš Mazovijos ir Prūsijos gau namas karaliaus pajamas paskyrė kunigaikščiui Augus tui.'
+  santrauka: 'Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliaus pajamas iš Mazovijos ir Prūsijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tėvas manė,

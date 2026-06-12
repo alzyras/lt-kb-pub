@@ -17,7 +17,9 @@ Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniek
 
 ## Teiginiai
 
+<a id="claim-t-60436"></a>
 - t-001
+  global_id: t-60436
   teiginys: 'Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.'
   pagrindžia:
     - c-001

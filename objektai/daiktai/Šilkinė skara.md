@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-34579"></a>
 - t-001
+  global_id: t-34579
   teiginys: 'Kunigaikštis Zigmantas autoriui padovanojo šilkinę skarą.'
   pagrindžia:
     - c-001

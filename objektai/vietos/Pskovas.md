@@ -35,278 +35,388 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 
 ## Teiginiai
 
+<a id="claim-t-178100"></a>
 - t-001
+  global_id: t-178100
   teiginys: 'Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-178102"></a>
 - t-002
+  global_id: t-178102
   teiginys: 'Vytautas siekė Pskovą, Naugardą, Maskvą, Tverę, Riazanę ir totorius paimti savo valdžion arba turėti jiems didelę įtaką.'
   pagrindžia:
     - c-027
 
+<a id="claim-t-178103"></a>
 - t-003
+  global_id: t-178103
   teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-178105"></a>
 - t-004
+  global_id: t-178105
   teiginys: 'Žinoma, kad 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.'
   pagrindžia:
     - c-028
 
+<a id="claim-t-178106"></a>
 - t-005
+  global_id: t-178106
   teiginys: 'Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.'
   pagrindžia:
     - c-037
 
+<a id="claim-t-178107"></a>
 - t-006
+  global_id: t-178107
   teiginys: 'Pskovas ir Didysis Naugardas anksčiau už Vilnių virto tankiai gyvenamomis ir turtingomis prekybinėmis gyvenvietėmis.'
   pagrindžia:
     - c-032
 
+<a id="claim-t-178108"></a>
 - t-007
+  global_id: t-178108
   teiginys: 'Kariaudamas su Pskovu, Vytautas pasitraukė tik miestui sutikus sumokėti 1000 rublių kontribucijos ir 450 rublių už belaisvius.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-178109"></a>
 - t-008
+  global_id: t-178109
   teiginys: 'Vytauto pastangos Pskove pastatyti savo vietininką sukėlė naują konfliktą su Maskva.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-178110"></a>
 - t-009
+  global_id: t-178110
   teiginys: 'Rugpjūčio pabaigoje jungtinės pajėgos pasiekė gerai įtvirtintą Pskovą.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-178111"></a>
 - t-010
+  global_id: t-178111
   teiginys: 'Į Vytauto suvažiavimą atvyko Pskovo kunigaikščiai ir kitų kraštų valdovų bei miestų atstovai.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-178112"></a>
 - t-011
+  global_id: t-178112
   teiginys: 'Grįžimas namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas – pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).'
   pagrindžia:
     - c-013
 
+<a id="claim-t-178113"></a>
 - t-012
+  global_id: t-178113
   teiginys: 'Kazimierui pasidalijus įtakos sritimis su Maskva, Pskovas ir Didysis Naugardas buvo palikti Maskvos įtakoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-178114"></a>
 - t-013
+  global_id: t-178114
   teiginys: '1411 metų pavasarį Polocke Pskovo pasiuntiniai atvyko pas Vytautą ir užmezgė taikingus santykius.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-178115"></a>
 - t-014
+  global_id: t-178115
   teiginys: 'Vytautas siekė paimti Pskovą, Naugardą, Maskvą, Tverį, Riazanę ir totorius savo valdžion arba turėti jiems didelę įtaką.'
   pagrindžia:
     - c-027
 
+<a id="claim-t-178116"></a>
 - t-015
+  global_id: t-178116
   teiginys: 'Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.'
   pagrindžia:
     - c-033
 
+<a id="claim-t-178117"></a>
 - t-016
+  global_id: t-178117
   teiginys: '1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bajorais sudarė sutartį su Švitrigaila.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-178118"></a>
 - t-017
+  global_id: t-178118
   teiginys: 'Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų.'
   pagrindžia:
     - c-035
 
+<a id="claim-t-178119"></a>
 - t-018
+  global_id: t-178119
   teiginys: 'Polocke pas Vytautą atvykę Pskovo pasiuntiniai užmezgė su juo taikingus santykius.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-178120"></a>
 - t-019
+  global_id: t-178120
   teiginys: '1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes.'
   pagrindžia:
     - c-036
 
+<a id="claim-t-178121"></a>
 - t-020
-  teiginys: 'Kai Stp. Batoras su svarbiausiomis jėgomis apgulė Pskovą, o mažesni jo kariuomenės būriai naikino tolimąsias rusų žemes, Posevinui tarpininkaujant, prasidėjo derybos.'
+  global_id: t-178121
+  teiginys: 'Steponui Batorui apgulus Pskovą, Posevinui tarpininkaujant prasidėjo derybos dėl karo pabaigos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-178122"></a>
 - t-021
+  global_id: t-178122
   teiginys: 'Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-178123"></a>
 - t-022
+  global_id: t-178123
   teiginys: 'Be to, Rusios miestai, būtent Pskovas ir Didysis Naugardas, atsidūrė kitokiose aplinkybėse.'
   pagrindžia:
     - c-026
 
+<a id="claim-t-178124"></a>
 - t-023
+  global_id: t-178124
   teiginys: 'Nors Salyno ir Raciąžo aktais Pskovas buvo buvęs garantuotas ordino įtakai, Vytautas su Pskovu 1409 m. vasarą padarė sau naudingą taiką.'
   pagrindžia:
     - c-022
 
+<a id="claim-t-178125"></a>
 - t-024
+  global_id: t-178125
   teiginys: 'Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.'
   pagrindžia:
     - c-024
 
+<a id="claim-t-178126"></a>
 - t-025
+  global_id: t-178126
   teiginys: 'Gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
   pagrindžia:
     - c-030
 
+<a id="claim-t-178127"></a>
 - t-026
+  global_id: t-178127
   teiginys: 'Vėlesniais Vytauto valdymo metais Vilniaus prekyba išsišakojo su Pskovu, Naugardu, Maskva ir kitais kraštais.'
   pagrindžia:
     - c-024
 
+<a id="claim-t-178128"></a>
 - t-027
+  global_id: t-178128
   teiginys: 'Steponas Batoras, susirūpinęs Pskovo apgultimi, iš stovyklos parašė laišką dėl taikos ir laisvės valstybėje.'
   pagrindžia:
     - c-023
 
+<a id="claim-t-178129"></a>
 - t-028
+  global_id: t-178129
   teiginys: 'Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
   pagrindžia:
     - c-030
 
+<a id="claim-t-178130"></a>
 - t-029
+  global_id: t-178130
   teiginys: 'Senyvo amžiaus Vytautas buvo priverstas kovoti su Pskovu ir Naugardu, keršydamas už Lietuvai patirtas skriaudas.'
   pagrindžia:
     - c-025
 
+<a id="claim-t-178132"></a>
 - t-031
+  global_id: t-178132
   teiginys: 'Mėginta šautuvus gaminti Gardine, tačiau vadovybė savais gamintojais nepasitikėjo Rusijos pajėgos Lietuviams puolant balandžio 23 d. Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas batalionas ir trys kompanijos (kuopos), Pskovo.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-178133"></a>
 - t-032
+  global_id: t-178133
   teiginys: 'Ordino reikalautos Žemaičių ribos buvo vedamos iki Pskovo respublikos valdų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-178134"></a>
 - t-033
+  global_id: t-178134
   teiginys: '1427 m. sėkmingas Vytauto žygis privertė Pskovo pasiuntinius atvykti į Vilnių dėl belaisvių paleidimo.'
   pagrindžia:
     - c-025
 
+<a id="claim-t-178135"></a>
 - t-034
+  global_id: t-178135
   teiginys: 'XI–XII a. Pskovo žemės minimos kaip šiaurės vakarų rusėnų koalicijos prieš Lietuvą dalis.'
   pagrindžia:
     - c-029
 
+<a id="claim-t-178136"></a>
 - t-035
+  global_id: t-178136
   teiginys: 'Pskovo apgultimi susirūpinęs Steponas Batoras iš stovyklos parašė laišką dėl taikos valstybėje saugojimo.'
   pagrindžia:
     - c-023
 
+<a id="claim-t-178137"></a>
 - t-036
+  global_id: t-178137
   teiginys: 'Pskoviečiai pasiuntė savo posadnikus Joachimą Pavlovičių ir Ivaną Sidorovičių perduoti Vytautui žadėto sidabro.'
   pagrindžia:
     - c-021
 
+<a id="claim-t-178138"></a>
 - t-037
+  global_id: t-178138
   teiginys: 'Pskovas buvo palankus Maskvai, kai ši privertė pasiduoti Lietuvos sąjungininkus Tverę ir Možaiską.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-178139"></a>
 - t-038
+  global_id: t-178139
   teiginys: 'Balandžio 23 d. Vilniuje buvusioje rusų įguloje buvo du Pskovo muškietininkų pulko batalionai.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-178140"></a>
 - t-039
+  global_id: t-178140
   teiginys: 'Žemaičiuose jos ėjo Nevėžio tėkme, o jo aukštupyje nuo Vaišvilčių kaimo buvo pratęstos (Mūšos upe, Smardonės upeliu, Apaščios ežeru, netoli dabartinių Biržų), paskui tiesiai į šiaurę iki Pskovo respublikos valdų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-178141"></a>
 - t-040
+  global_id: t-178141
   teiginys: 'Kariaudamas su Pskovu, Vytautas pasitraukė tik gavęs 1000 rublių kontribucijos ir dar 450 rublių už belaisvius.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-178142"></a>
 - t-041
+  global_id: t-178142
   teiginys: 'Pskoviečiai pasiuntė pas Vytautą posadnikus Joachimą Pavlovičių ir Ivaną Sidorovičių su pažadėtu sidabru.'
   pagrindžia:
     - c-021
 
+<a id="claim-t-178143"></a>
 - t-042
+  global_id: t-178143
   teiginys: 'Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.'
   pagrindžia:
     - c-031
 
+<a id="claim-t-178144"></a>
 - t-043
+  global_id: t-178144
   teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-178145"></a>
 - t-044
+  global_id: t-178145
   teiginys: 'Sutartis, Vilniuje sudaryta su Pskovu, likusiu Kazimiero globoje, gerokai praplėtė prekybinius šio turtingo miesto santykius su Lietuvos sostinė33.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-178146"></a>
 - t-045
+  global_id: t-178146
   teiginys: 'Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-178147"></a>
 - t-046
+  global_id: t-178147
   teiginys: 'Rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.'
   pagrindžia:
     - c-020
 
+<a id="claim-t-178148"></a>
 - t-047
+  global_id: t-178148
   teiginys: 'Pskovas buvo palankus Maskvai, kai ši pajungė Tverę ir Možaiską.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-178149"></a>
 - t-048
+  global_id: t-178149
   teiginys: 'Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi.'
   pagrindžia:
     - c-034
 
+<a id="claim-t-178150"></a>
 - t-049
+  global_id: t-178150
   teiginys: '1581 m. Pskovo puolimui buvo sutelkta apie 47 tūkst. karių, iš jų apie 23 tūkst. buvo iš LDK.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-178151"></a>
 - t-050
+  global_id: t-178151
   teiginys: 'Kariaudamas su Pskovu Vytautas pasitraukė tik tada, kai šis sutiko sumokėti 1000 rublių kontribuciją ir 450 rublių už belaisvius.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-178152"></a>
 - t-051
+  global_id: t-178152
   teiginys: 'Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).'
   pagrindžia:
     - c-008
 
+<a id="claim-t-178153"></a>
 - t-052
+  global_id: t-178153
   teiginys: 'Vilniuje sudaryta sutartis su Pskovu praplėtė šio miesto prekybinius santykius su Lietuvos sostine.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-178154"></a>
 - t-053
+  global_id: t-178154
   teiginys: '1449 m. Kazimiero ir Maskvos taikoje Pskovas buvo paliktas Maskvos įtakos sričiai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-178155"></a>
 - t-054
+  global_id: t-178155
   teiginys: 'Į Vytauto suvažiavimą atvyko ir Pskovo kunigaikščiai.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-178156"></a>
 - t-055
+  global_id: t-178156
   teiginys: 'MAŽOJI LEN r Krokuva NAUGARDAS Didysis Naugardas Pskovas Įprieš Lietuvą nukreiptą koaliciją įsijungia ir šiaurės vakarų rusėnai - Naugardo ir Pskovo žemės.'
   pagrindžia:
     - c-029
 
+<a id="claim-t-185116"></a>
 - t-058
-  teiginys: 'Kojelavičius teigia, kad šaltiniai pasakoja, jog, patekęs po to į Pskovą, jis gana sėkmingai vedė pskoviečių jėgas prieš Livoniją; jo tremtį Pskovas ligi šiol prisimena, nes vie na gynybinė siena vadinama statytojo Daumanto vardu.'
+  global_id: t-185116
+  teiginys: 'Pskove Daumantas sėkmingai vadovavo pskoviečių jėgoms prieš Livoniją, o viena gynybinė siena vadinta jo vardu.'
   pagrindžia:
     - c-040
 
@@ -346,6 +456,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-047
 
 - c-003
+  santrauka: 'Steponui Batorui apgulus Pskovą, Posevinui tarpininkaujant prasidėjo derybos dėl karo pabaigos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai Stp. Batoras su svarbiausiomis jėgomis apgulė Psko-
@@ -1048,7 +1159,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-005
 
 - c-038
-  santrauka: 'Kai Stp. Batoras su svarbiausiomis jėgomis apgulė Pskovą, o mažesni jo kariuomenės būriai naikino tolimąsias rusų žemes, Posevinui tarpininkaujant, prasidėjo derybos.'
+  santrauka: 'Steponui Batorui apgulus Pskovą, Posevinui tarpininkaujant prasidėjo derybos dėl karo pabaigos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Batorą; jis tikėjosi, kad
@@ -1082,7 +1193,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-057
 
 - c-040
-  santrauka: 'Kojelavičius teigia, kad šaltiniai pasakoja, jog, patekęs po to į Pskovą, jis gana sėkmingai vedė pskoviečių jėgas prieš Livoniją; jo tremtį Pskovas ligi šiol prisimena, nes vie na gynybinė siena vadinama statytojo Daumanto vardu.'
+  santrauka: 'Pskove Daumantas sėkmingai vadovavo pskoviečių jėgoms prieš Livoniją, o viena gynybinė siena vadinta jo vardu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi nė sienos nega­

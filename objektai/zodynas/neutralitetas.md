@@ -26,12 +26,16 @@ Lenkų ir rusų bolševikų kare Lietuva paskelbė neutralitetą ir rūpinosi ap
 
 ## Teiginiai
 
+<a id="claim-t-106803"></a>
 - t-001
+  global_id: t-106803
   teiginys: 'Lenkų ir rusų bolševikų kare Lietuva paskelbė neutralitetą ir rūpinosi apsaugoti tik savo Maskvos sutartimi su Rusija pripažintą teritoriją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-106804"></a>
 - t-002
+  global_id: t-106804
   teiginys: 'Po nesėkmingų Kalvarijos derybų lenkai apskundė Lietuvą Tautų Sąjungai, kaltindami ją sulaužius neutralitetą rusų ir lenkų kare.'
   pagrindžia:
     - c-002

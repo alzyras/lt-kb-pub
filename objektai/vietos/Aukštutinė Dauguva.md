@@ -16,7 +16,9 @@ Dauguvos bei Dniepro sričių gyventojai, kur menkiau už lietuvių buvo išsivy
 
 ## Teiginiai
 
+<a id="claim-t-34167"></a>
 - t-001
+  global_id: t-34167
   teiginys: 'Aukštutinės Dauguvos ir Dniepro sričių gyventojai mokesčius mokėjo laukinių žvėrių kailiukais ir medumi.'
   pagrindžia:
     - c-001

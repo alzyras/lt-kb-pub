@@ -22,7 +22,9 @@ Jonyno, kuris 1932 m. tapo ekstraordinariniu profesoriumi.
 
 ## Teiginiai
 
+<a id="claim-t-32779"></a>
 - t-001
+  global_id: t-32779
   teiginys: 'I. Jonynas 1932 m. tapo ekstraordinariniu profesoriumi.'
   pagrindžia:
     - c-001

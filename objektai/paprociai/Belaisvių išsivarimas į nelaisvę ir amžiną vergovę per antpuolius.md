@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62669"></a>
 - t-001
+  global_id: t-62669
   teiginys: 'Dusburgietis teigia, kad šitai pastebėję, prūsai smarkiai ir baisiai juos užpuolė, išžudė vyrus, o moteris bei vaikus išsivarė į amžiną nelaisvę.'
   pagrindžia:
     - c-001

@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-41089"></a>
 - t-001
+  global_id: t-41089
   teiginys: 'Vieną dieną po pietų dvylika Mokomosios kuopos vyrų, vadovaujamų vyresniojo puskarininkio, išvyko į žvalgybą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183664"></a>
 - t-002
+  global_id: t-183664
   teiginys: 'Dvylika Mokomosios kuopos vyrų išvyko į žvalgybą, kuriai vadovavo vyresnysis puskarininkis.'
   pagrindžia:
     - c-002

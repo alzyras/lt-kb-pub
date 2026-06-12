@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XVI'
 ---
-
 # Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika
 
 ## Santrauka
 
-Kojelavičius teigia, kad seimo darbe dalyvavo ir ordino magistras Ketleris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus kunigaikščio Mikalojaus Radvilos paraginti, nusprendė, kad Livonija sudaranti su Lietuva sąjungą ir pereinanti į Žygimanto Augusto, Lietuvos didžiojo.
+Ordino magistras Ketleris ir Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185748"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad seimo darbe dalyvavo ir ordino magistras Ketleris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus kunigaikščio Mikalojaus Radvilos paraginti, nusprendė, kad Livonija sudaranti su Lietuva sąjungą ir pereinanti į Žygimanto Augusto, Lietuvos didžiojo.'
+  global_id: t-185748
+  teiginys: 'Ordino magistras Ketleris ir Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad seimo darbe dalyvavo ir ordino magistras Ketleris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus kunigaikščio Mikalojaus Radvilos paraginti, nusprendė, kad Livonija sudaranti su Lietuva sąjungą ir pereinanti į Žygimanto Augusto, Lietuvos didžiojo.'
+  santrauka: 'Ordino magistras Ketleris ir Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Be to, išskyrė pinigų dvejų metų karo išlaidoms pa­
@@ -69,3 +70,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Radvilos]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Augustas]]

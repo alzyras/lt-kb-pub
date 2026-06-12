@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-38436"></a>
 - t-001
+  global_id: t-38436
   teiginys: 'P. Genys po Svėdasų ir Užpalių užėmimo ėmė Antalieptę birželio 5 d.'
   pagrindžia:
     - c-001

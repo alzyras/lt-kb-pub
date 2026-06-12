@@ -51,27 +51,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-55051"></a>
 - t-001
+  global_id: t-55051
   teiginys: 'Privilegijoje žydui leista užstatu priimti įvairius atneštus daiktus, išskyrus kruvinas skaras, šlapius drabužius ir bažnytinius rykus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55052"></a>
 - t-002
+  global_id: t-55052
   teiginys: 'Užstatų praradimo per gaisrą, vagystę ar jėgą atveju žydas galėjo išsiteisinti asmenine priesaika.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55053"></a>
 - t-003
+  global_id: t-55053
   teiginys: 'Po metų laikymo užstatą reikėjo parodyti teisėjui, o netinkamą užstatą buvo leidžiama parduoti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-55054"></a>
 - t-004
+  global_id: t-55054
   teiginys: 'Žirgus privilegijoje leista priimti užstatu tik dienai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-81859"></a>
 - t-005
+  global_id: t-81859
   teiginys: 'Trakų žydų privilegijoje leista užstatu priimti įvairius atneštus daiktus, išskyrus kruvinas skaras, šlapius drabužius ir bažnytinius rykus.'
   pagrindžia:
     - c-005
@@ -192,8 +202,8 @@ Nenurodyta
 - [[objektai/asmenys/Pekarskis]]
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]
-- [[objektai/asmenys/Vimaras [Gneomiras]]]
-- [[objektai/asmenys/Vojakas [Vojachas]]]
+- [Vimaras [Gneomiras]](/objektai/asmenys/Vimaras%20%5BGneomiras%5D)
+- [Vojakas [Vojachas]](/objektai/asmenys/Vojakas%20%5BVojachas%5D)
 - [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]
 - [[objektai/posakiai/aš tą užstatytą arklį paėmiau už savo pinigus]]
 - [[objektai/posakiai/metus ir dieną]]

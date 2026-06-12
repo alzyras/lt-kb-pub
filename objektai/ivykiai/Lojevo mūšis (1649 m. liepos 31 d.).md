@@ -38,22 +38,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-49171"></a>
 - t-001
+  global_id: t-49171
   teiginys: 'Lojevo mūšis buvo pirmoji svari kunigaikščio Jonušo Radvilos pergalė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-49172"></a>
 - t-002
+  global_id: t-49172
   teiginys: '1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-49173"></a>
 - t-003
+  global_id: t-49173
   teiginys: 'Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-49174"></a>
 - t-004
+  global_id: t-49174
   teiginys: 'Lojevo mūšis buvo pirmoji svari J. Radvilos pergalė, o žinia apie ją plačiai pasklido Europoje.'
   pagrindžia:
     - c-003

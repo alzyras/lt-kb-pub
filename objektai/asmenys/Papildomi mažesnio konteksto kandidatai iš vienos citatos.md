@@ -17,7 +17,9 @@ Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyz
 
 ## Teiginiai
 
+<a id="claim-t-87924"></a>
 - t-001
+  global_id: t-87924
   teiginys: 'Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyzdžiu kitiems?'
   pagrindžia:
     - c-001

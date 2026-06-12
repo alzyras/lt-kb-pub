@@ -42,37 +42,51 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
 
 ## Teiginiai
 
+<a id="claim-t-67236"></a>
 - t-001
+  global_id: t-67236
   teiginys: '1390–1392 m. Vytauto duotų Ordinui įkaitų sąraše minimi du kunigaikščiai – Jurgis ir Jonas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67237"></a>
 - t-002
+  global_id: t-67237
   teiginys: 'Dusburgietis teigia, kad kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-67238"></a>
 - t-003
+  global_id: t-67238
   teiginys: 'Po Jogailos krikšto ir iškilmių lenkai pareikalavo Vytauto, Skirgailos ir kitų kunigaikščių kaip įkaitų, kad būtų garantuotas Jogailos pažadų išpildymas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67239"></a>
 - t-004
+  global_id: t-67239
   teiginys: 'Dusburgietis teigia, kad pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja už brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir nuolankiai pasidavė krikščionių tikėjimui ir broliams.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-67241"></a>
 - t-005
+  global_id: t-67241
   teiginys: 'Dusburgietis teigia, kad štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais, matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė, davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-67242"></a>
 - t-006
+  global_id: t-67242
   teiginys: 'Magistras reikalavo, kad Vytautas duotų bajorų sūnus įkaitais ir išpildytų seniau Ordinui duotus pasižadėjimus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-67243"></a>
 - t-007
+  global_id: t-67243
   teiginys: '1383 m. žemaičiai, atsitraukdami nuo Vilniaus, davė vokiečiams savo įkaitus, nors jie buvo duoti ne nuo visų Žemaitijos sričių.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Tautinio autoramento pagrindu buvo formuojama sunkioji kavalerija - husarai, vid
 
 ## Teiginiai
 
+<a id="claim-t-42513"></a>
 - t-001
+  global_id: t-42513
   teiginys: 'Tautinio autoramento sunkioji kavalerija buvo formuojama iš husarų.'
   pagrindžia:
     - c-001

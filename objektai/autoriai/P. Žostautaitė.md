@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-30920"></a>
 - t-001
+  global_id: t-30920
   teiginys: 'P. Žostautaitė 1968 m. paskelbė darbą „Prūsijos lietuvių vokietinimas ir pasipriešinimas jam 1848-1914 m.“.'
   pagrindžia:
     - c-001

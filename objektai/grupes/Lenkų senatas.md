@@ -6,39 +6,46 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lenkų senatas
 
 ## Santrauka
 
-Kojelavičius teigia, kad vytautas, pasipiktinęs ne tiek dėl pralaimėjimo, kiek dėl P a sip ik tin ęs pasišalidrąsių kalbų, išėjo iš senato na posėdžio, o pasišalindamas at virai pagrasino, sakydamas, 14 4 1 9 jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa siryžęs pasiekti. Kojelavičius teigia, kad truputį vėliau į kelią leidosi kiti pasiuntiniai, kurie turėjo pa pasakoti senatui, kas ir kaip čia dėjosi, ir pareikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu. Kojelavičius teigia, kad kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino, Lauryną Zarembą ir kitus.
+Vytautas išėjo iš senato posėdžio ir pagrasino pasiekti savo tikslą nepaisydamas lenkų norų. Žygimanto pasiuntiniai turėjo pranešti senatui įvykius ir reikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu. Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu.
 
 ## Teiginiai
 
+<a id="claim-t-185428"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vytautas, pasipiktinęs ne tiek dėl pralaimėjimo, kiek dėl P a sip ik tin ęs pasišalidrąsių kalbų, išėjo iš senato na posėdžio, o pasišalindamas at virai pagrasino, sakydamas, 14 4 1 9 jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa siryžęs pasiekti.'
+  global_id: t-185428
+  teiginys: 'Vytautas išėjo iš senato posėdžio ir pagrasino pasiekti savo tikslą nepaisydamas lenkų norų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185429"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad truputį vėliau į kelią leidosi kiti pasiuntiniai, kurie turėjo pa pasakoti senatui, kas ir kaip čia dėjosi, ir pareikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu.'
+  global_id: t-185429
+  teiginys: 'Žygimanto pasiuntiniai turėjo pranešti senatui įvykius ir reikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185430"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino, Lauryną Zarembą ir kitus.'
+  global_id: t-185430
+  teiginys: 'Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185431"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad jis visaip sten gėsi iššniukštinėti, kas aptariama slaptuose senato po sėdžiuose, viliojo valdovą bei didikus, žadėdamas kry žiuočių palankumą, ir ėmėsi visų kitų priemonių, ku rios, jo galva, priverstų Žy gimantą netesėti, ką žadėjo lenkams, ir, ko gero.'
+  global_id: t-185431
+  teiginys: 'Liudvikas stengėsi sužinoti, kas svarstoma slaptuose senato posėdžiuose, ir siekė paveikti Žygimantą.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vytautas, pasipiktinęs ne tiek dėl pralaimėjimo, kiek dėl P a sip ik tin ęs pasišalidrąsių kalbų, išėjo iš senato na posėdžio, o pasišalindamas at virai pagrasino, sakydamas, 14 4 1 9 jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa siryžęs pasiekti.'
+  santrauka: 'Vytautas išėjo iš senato posėdžio ir pagrasino pasiekti savo tikslą nepaisydamas lenkų norų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas, pasipiktinęs ne tiek
@@ -68,7 +75,7 @@ Kojelavičius teigia, kad vytautas, pasipiktinęs ne tiek dėl pralaimėjimo, ki
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad truputį vėliau į kelią leidosi kiti pasiuntiniai, kurie turėjo pa pasakoti senatui, kas ir kaip čia dėjosi, ir pareikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu.'
+  santrauka: 'Žygimanto pasiuntiniai turėjo pranešti senatui įvykius ir reikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žygimantas, beveik be kovos laimėjęs karą,
@@ -91,7 +98,7 @@ Kojelavičius teigia, kad vytautas, pasipiktinęs ne tiek dėl pralaimėjimo, ki
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino, Lauryną Zarembą ir kitus.'
+  santrauka: 'Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atidėlioti šį
@@ -118,7 +125,7 @@ Kojelavičius teigia, kad vytautas, pasipiktinęs ne tiek dėl pralaimėjimo, ki
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad jis visaip sten gėsi iššniukštinėti, kas aptariama slaptuose senato po sėdžiuose, viliojo valdovą bei didikus, žadėdamas kry žiuočių palankumą, ir ėmėsi visų kitų priemonių, ku rios, jo galva, priverstų Žy gimantą netesėti, ką žadėjo lenkams, ir, ko gero.'
+  santrauka: 'Liudvikas stengėsi sužinoti, kas svarstoma slaptuose senato posėdžiuose, ir siekė paveikti Žygimantą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tada Žygimantas pagal senus papročius
@@ -142,3 +149,23 @@ Kojelavičius teigia, kad vytautas, pasipiktinęs ne tiek dėl pralaimėjimo, ki
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Boleslovas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/senatas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Konstantinas Karijotaitis]]
+- [[objektai/asmenys/Liudvikas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Jaranda iš Brudzevo|Jaranda iš Brudzevo (vyskupas)]]
+- [[objektai/asmenys/Jonas iš Lichino|Jonas iš Lichino (vyskupas)]]
+- [[objektai/asmenys/Laurynas Zaremba]]
+- [[objektai/grupes/Lenkijos senatas]]
+- [[objektai/asmenys/Liudvikas (Torunės komtūras)]]
+- [[objektai/asmenys/Zbignevas Olesnickis|Zbignevas Olesnickis (vyskupas)]]

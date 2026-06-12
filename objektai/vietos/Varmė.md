@@ -25,37 +25,51 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-91423"></a>
 - t-001
+  global_id: t-91423
   teiginys: 'Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-91424"></a>
 - t-002
+  global_id: t-91424
   teiginys: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-91426"></a>
 - t-003
+  global_id: t-91426
   teiginys: 'Varmės bažnyčios kapitula prašė pripažinti Fabijono paskyrimą dabartiniu Varmės vyskupu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-91427"></a>
 - t-004
+  global_id: t-91427
   teiginys: 'Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl gautos žinios apie taikos sutartį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-91428"></a>
 - t-005
+  global_id: t-91428
   teiginys: 'XIV a. buvo įkurti beveik visi Varmės miestai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-91429"></a>
 - t-006
+  global_id: t-91429
   teiginys: 'Varmės bažnyčios kapitula prašė pripažinti galiojančiu Fabijono paskyrimą Varmės vyskupu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-91430"></a>
 - t-007
+  global_id: t-91430
   teiginys: 'XIV amžiuje buvo įkurti beveik visi Varmės miestai.'
   pagrindžia:
     - c-002

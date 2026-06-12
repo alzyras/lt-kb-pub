@@ -17,7 +17,9 @@ Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus ir Krašto ap
 
 ## Teiginiai
 
+<a id="claim-t-77440"></a>
 - t-001
+  global_id: t-77440
   teiginys: 'Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai.'
   pagrindžia:
     - c-001

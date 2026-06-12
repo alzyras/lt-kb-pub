@@ -49,12 +49,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54741"></a>
 - t-001
+  global_id: t-54741
   teiginys: 'Vilniaus padienininkams nurodyta rinktis prie rotušės pagal Krokuvoje įvestos tvarkos pavyzdį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54742"></a>
 - t-002
+  global_id: t-54742
   teiginys: '1547 m. Vilniuje Žygimanto Augusto potvarkiu padienininkams nurodyta rinktis prie rotušės.'
   pagrindžia:
     - c-001

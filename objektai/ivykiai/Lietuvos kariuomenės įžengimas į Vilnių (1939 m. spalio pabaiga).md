@@ -38,17 +38,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75151"></a>
 - t-001
+  global_id: t-75151
   teiginys: 'Tik Vilniaus, Lietuvos kariuomenė įžengia į Vilnių (1939 m. spalio pabaiga).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75152"></a>
 - t-002
+  global_id: t-75152
   teiginys: 'Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75153"></a>
 - t-003
+  global_id: t-75153
   teiginys: 'Lietuvos kariuomenė įžengia į Vilnių (1939 m. spalio pabaiga).'
   pagrindžia:
     - c-001

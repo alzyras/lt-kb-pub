@@ -19,7 +19,9 @@ Sensacingiausias kelionių romanas. Prie romano pridėta: 1.
 
 ## Teiginiai
 
+<a id="claim-t-36792"></a>
 - t-001
+  global_id: t-36792
   teiginys: 'Prie kelionių romano buvo pridėtas geografinis ir istorinis paaiškinimas, žodynėlis ir kelionės žemėlapis.'
   pagrindžia:
     - c-001

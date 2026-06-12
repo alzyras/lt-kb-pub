@@ -35,22 +35,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66595"></a>
 - t-001
+  global_id: t-66595
   teiginys: '1918 m. katalikai ir tautininkai sušaukė Naujorke trečiąjį lietuvių seimą, kuriame dalyvavo apie 1.200 lietuviškųjų organizacijų atstovų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66596"></a>
 - t-002
+  global_id: t-66596
   teiginys: '1914 m. Filadelfijoje lietuvių ir ukrainiečių mitingas reikalavo palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66597"></a>
 - t-003
+  global_id: t-66597
   teiginys: 'Tuo reikalu dar 1916 m. Brukline įvyko katalikų ir tautininkų organizacijų atstovų suvažiavimas karo sunaikintos Lietuvos kūrimo reikalams apsvarstyti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66599"></a>
 - t-004
+  global_id: t-66599
   teiginys: 'Į katalikų 1916 m. suorganizuotą Tautos Tarybą tautininkai nėjo: jie suorganizavo savo Amerikos Lietuvių Tautinę Tarybą.'
   pagrindžia:
     - c-004

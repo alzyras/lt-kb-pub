@@ -24,37 +24,51 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 
 ## Teiginiai
 
+<a id="claim-t-109254"></a>
 - t-001
+  global_id: t-109254
   teiginys: 'Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti savo požiūrį į dipukus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-109255"></a>
 - t-002
+  global_id: t-109255
   teiginys: 'Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie 30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-109256"></a>
 - t-003
+  global_id: t-109256
   teiginys: 'Ji siekė išlaikyti Lietuvos valstybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prievartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-109257"></a>
 - t-004
+  global_id: t-109257
   teiginys: '1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-109258"></a>
 - t-005
+  global_id: t-109258
   teiginys: 'Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lietuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m. Rygoje tapo Europos čempionais.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-109259"></a>
 - t-006
+  global_id: t-109259
   teiginys: 'Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-109260"></a>
 - t-007
+  global_id: t-109260
   teiginys: 'JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios organizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasaulio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vyriausiasis Lietuvos išlaisvinimo komitetas.'
   pagrindžia:
     - c-005

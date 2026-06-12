@@ -19,7 +19,9 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
 
 ## Teiginiai
 
+<a id="claim-t-86756"></a>
 - t-001
+  global_id: t-86756
   teiginys: 'Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominikonų ordinui, Mažesniesiems troliams kei Siaurės Vokietijos pajūrio miestams, klastotę.'
   pagrindžia:
     - c-001

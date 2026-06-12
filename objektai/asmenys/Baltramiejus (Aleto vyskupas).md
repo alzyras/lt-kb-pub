@@ -27,7 +27,9 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
 
 ## Teiginiai
 
+<a id="claim-t-60245"></a>
 - t-001
+  global_id: t-60245
   teiginys: 'Popiežius Jonas XXII 1324 m. pasiuntė Aleto vyskupą Baltramiejų į Livoniją kaip legatą pakrikštyti lietuvių ir rusų karaliaus.'
   pagrindžia:
     - c-001

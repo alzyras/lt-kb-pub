@@ -18,7 +18,9 @@ Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę, kuri mums būtų 
 
 ## Teiginiai
 
+<a id="claim-t-02079"></a>
 - t-001
+  global_id: t-02079
   teiginys: 'Vytautas protestavo prieš numatomą neteisybę ir įspėjo lenkus dėl mėginimo atplėšti Palenkę, Voluinę ir Braclavą.'
   pagrindžia:
     - c-001

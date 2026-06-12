@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-42522"></a>
 - t-001
+  global_id: t-42522
   teiginys: '6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisiminė pulko karių susitikimą Vidugirių kaime.'
   pagrindžia:
     - c-001

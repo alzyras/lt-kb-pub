@@ -17,12 +17,16 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
 
 ## Teiginiai
 
+<a id="claim-t-03147"></a>
 - t-001
+  global_id: t-03147
   teiginys: 'Zebžidovskio rokošas buvo vidaus karas Lenkijoje, vykęs tuo metu, kai Lietuvoje buvo ką tik aprimęs karas su švedais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-03148"></a>
 - t-002
+  global_id: t-03148
   teiginys: '1608 m. pasibaigus rokošui, darbo netekę kareivių būriai nuvyko padėti apsimetėliui Dimitrijui II.'
   pagrindžia:
     - c-002

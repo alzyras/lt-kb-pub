@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-34956"></a>
 - t-001
+  global_id: t-34956
   teiginys: 'P. Šinkūno „Geografijos vadovėlis“ buvo skirtas IV pradžios mokyklos skyriui ir I vidurinės mokyklos klasei.'
   pagrindžia:
     - c-001

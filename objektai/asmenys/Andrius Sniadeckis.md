@@ -27,12 +27,16 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 
 ## Teiginiai
 
+<a id="claim-t-18807"></a>
 - t-001
+  global_id: t-18807
   teiginys: 'Andrius Sniadeckis buvo universitete dirbęs garsus chemikas ir biologas, kurio darbai buvo žinomi tarptautiniu mastu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183521"></a>
 - t-002
+  global_id: t-183521
   teiginys: 'Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Lelewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830), chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liudvigas Heinrichas Bojanus.'
   pagrindžia:
     - c-001

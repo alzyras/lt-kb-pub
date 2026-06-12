@@ -23,7 +23,9 @@ XVI ## Puslapis 17 MYKOLAS B A L I N S K I S niaus MIESTO ISTORIJA Haec omnia, q
 
 ## Teiginiai
 
+<a id="claim-t-88472"></a>
 - t-001
+  global_id: t-88472
   teiginys: 'Rotundas 1560 m. vasario 12 d. Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs.'
   pagrindžia:
     - c-001

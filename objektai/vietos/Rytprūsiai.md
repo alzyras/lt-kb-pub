@@ -25,12 +25,16 @@ Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tauti
 
 ## Teiginiai
 
+<a id="claim-t-69207"></a>
 - t-001
+  global_id: t-69207
   teiginys: 'Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi gauti gerus postus administracijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-69208"></a>
 - t-002
+  global_id: t-69208
   teiginys: 'Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumose įkurti kuopiniai kaimai (Haufendoerfer).'
   pagrindžia:
     - c-002

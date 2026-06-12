@@ -27,27 +27,37 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87379"></a>
 - t-001
+  global_id: t-87379
   teiginys: 'Zigmantas po nesėkmingų svarstymų išsiuntė pas Vytautą pasiuntinius su karūna.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-87380"></a>
 - t-002
+  global_id: t-87380
   teiginys: 'Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-87381"></a>
 - t-003
+  global_id: t-87381
   teiginys: 'Nors iš kailio nėrėsi imperatorius Zigmantas ir diJurgis Lengvenaitis (vert.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87382"></a>
 - t-004
+  global_id: t-87382
   teiginys: 'Imperatorius Zigmantas siekė sukiršinti Jogailą su Vytautu ir atskirti Lietuvą nuo Lenkijos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87383"></a>
 - t-005
+  global_id: t-87383
   teiginys: '1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos santykį.'
   pagrindžia:
     - c-003

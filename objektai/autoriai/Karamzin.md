@@ -27,7 +27,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-88071"></a>
 - t-001
+  global_id: t-88071
   teiginys: 'Karamzinas nurodė, kad Karaliaučiaus Kryžiuočių slaptajame archyve buvo Vytauto laiškų magistrui Rusdorfui.'
   pagrindžia:
     - c-001

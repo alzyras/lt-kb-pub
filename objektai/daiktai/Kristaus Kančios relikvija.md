@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-64943"></a>
 - t-001
+  global_id: t-64943
   teiginys: 'Maskvos kunigaikštienė iš Smolensko į Maskvą atsivežė dovanų ir dalį Kristaus Kančios relikvijos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64944"></a>
 - t-002
+  global_id: t-64944
   teiginys: 'Maskvos kunigaikštienė į Maskvą atsivežė ir dalį Kristaus Kančios relikvijos.'
   pagrindžia:
     - c-001

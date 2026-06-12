@@ -21,7 +21,6 @@ amziai:
   - 'XV'
   - 'XXI'
 ---
-
 # Šventaragio slėnis
 
 ## Santrauka
@@ -30,83 +29,115 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 
 ## Teiginiai
 
+<a id="claim-t-120081"></a>
 - t-001
+  global_id: t-120081
   teiginys: 'Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-120082"></a>
 - t-002
+  global_id: t-120082
   teiginys: 'Pasak Strijkovskio ir Kojelavičiaus, Gediminas po Trakų pilies įkūrimo medžiojo Šventaragio slėnyje.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-120083"></a>
 - t-003
+  global_id: t-120083
   teiginys: 'Tai buvo Šventaragio slėny prie pat pilies kalno.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-120084"></a>
 - t-004
+  global_id: t-120084
   teiginys: 'Šventaragio slėnyje tarp Vilijos ir Vilnelės degė lietuvių garbinta amžinoji ugnis Gabija.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-120085"></a>
 - t-005
+  global_id: t-120085
   teiginys: 'Balińskis Šventaragio vardą siejo su žodžiais „Šventas Ragas“ ir slėnio kyšuliu tarp Vilijos bei Vilnios.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-120086"></a>
 - t-006
+  global_id: t-120086
   teiginys: 'Šventaragio slėnyje, kur dabar stovi katedra, iki krikščionybės įvedimo degė amžinoji ugnis Gabija.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-120087"></a>
 - t-007
+  global_id: t-120087
   teiginys: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-120088"></a>
 - t-008
+  global_id: t-120088
   teiginys: 'Šventaragio slėnyje buvęs aukuras naudotas mirusiųjų kūnams deginti pagal lietuvių pagonių papročius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-120089"></a>
 - t-009
+  global_id: t-120089
   teiginys: 'Šventaragio slėnyje Germantas esą vertė miškus lydimais ir plėtė senovinę Vilniaus gyvenvietę Vilijos link.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-120090"></a>
 - t-010
+  global_id: t-120090
   teiginys: 'Šventaragio slėnis buvo laikomas reikšmingiausia Žemutinės pilies dalimi, kur degė lietuvių garbinta Gabija.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-120091"></a>
 - t-011
+  global_id: t-120091
   teiginys: 'Šventaragio slėnis buvo skirtas aukurui, ant kurio pagal lietuvių pagonių papročius degindavo mirusiųjų kūnus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-120092"></a>
 - t-012
+  global_id: t-120092
   teiginys: 'Šventaragio slėnyje, kur dabar stovi katedra, iki krikščionybės įvedimo degė amžinoji ugnis Gabija Perkūno garbei.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-120093"></a>
 - t-013
+  global_id: t-120093
   teiginys: 'Šventaragio slėnyje Gediminas susapnavęs sapną, kurį išaiškino vyriausias žynys Lizdeika.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-120094"></a>
 - t-014
+  global_id: t-120094
   teiginys: 'Šventaragio slėnio pavadinimas sietas su žodžiais „Šventas Ragas“ ir slėnio kyšuliu tarp Vilijos ir Vilnios.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-120095"></a>
 - t-015
+  global_id: t-120095
   teiginys: 'Pasakojama, kad Gediminas po Trakų pilies įkūrimo su palyda nusigavo į Šventaragio slėnį prie Vilnios žiočių.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-185217"></a>
 - t-016
-  teiginys: 'Kojelavičius teigia, kad skirgaila Šventaragio slėnyje surengė dėdei karališkas šermenis ir laidotu ves.'
+  global_id: t-185217
+  teiginys: 'Skirgaila Šventaragio slėnyje surengė savo dėdei karališkas šermenis ir laidotuves.'
   pagrindžia:
     - c-011
 
@@ -339,7 +370,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-005
 
 - c-011
-  santrauka: 'Kojelavičius teigia, kad skirgaila Šventaragio slėnyje surengė dėdei karališkas šermenis ir laidotu ves.'
+  santrauka: 'Skirgaila Šventaragio slėnyje surengė savo dėdei karališkas šermenis ir laidotuves.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ši­

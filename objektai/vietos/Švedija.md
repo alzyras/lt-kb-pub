@@ -32,88 +32,122 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 
 ## Teiginiai
 
+<a id="claim-t-122987"></a>
 - t-001
+  global_id: t-122987
   teiginys: '1654–1667 m. Lietuvą ir Lenkiją ištiko Rusijos ir Švedijos invazija, vadinama „tvanu“.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-122988"></a>
 - t-002
+  global_id: t-122988
   teiginys: 'Zigmanto Vazos karo dėl Švedijos sosto metu Livonija iki Dauguvos atiteko Švedijai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-122989"></a>
 - t-003
+  global_id: t-122989
   teiginys: '1581 m. Steponas Batoras iš Vilniaus išsiuntė pasiuntinybę į Švediją per Lauryną Goslickį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-122990"></a>
 - t-004
+  global_id: t-122990
   teiginys: 'Lietuvos auksas buvo pasisavintas tik iš Švedijos ir Šveicarijos bankų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-122991"></a>
 - t-005
+  global_id: t-122991
   teiginys: 'Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-122992"></a>
 - t-006
+  global_id: t-122992
   teiginys: 'Suomijos kunigaikštis Jonas, vėliau tapęs Švedijos karaliumi, Vilniuje vedė Kotryną Jogailaitę.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-122993"></a>
 - t-007
-  teiginys: 'Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.'
+  global_id: t-122993
+  teiginys: 'Zigmantui Vazai pradėjus karą dėl Švedijos sosto, Livonija iki Dauguvos upės atiteko Švedijai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-122994"></a>
 - t-008
+  global_id: t-122994
   teiginys: 'Daugelis brangenybių buvo išvežta į Maskvą ir į Švediją.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-122995"></a>
 - t-009
+  global_id: t-122995
   teiginys: 'ATR kariavo su Švedija 1600–1629 ir 1655–1660 metais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-122996"></a>
 - t-010
+  global_id: t-122996
   teiginys: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-122997"></a>
 - t-011
+  global_id: t-122997
   teiginys: '1581 metais iš Vilniaus buvo išsiųsta pasiuntinybė į Švediją per Lauryną Goslickį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-122998"></a>
 - t-012
+  global_id: t-122998
   teiginys: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-122999"></a>
 - t-013
+  global_id: t-122999
   teiginys: 'Švedija siekė viešpatauti Baltijos jūroje.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-123000"></a>
 - t-014
+  global_id: t-123000
   teiginys: 'Vilniuje buvo palaiminta Suomijos kunigaikščio Jono, vėliau tapusio Švedijos karaliumi, santuoka su Kotryna Jogailaite.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-123001"></a>
 - t-015
+  global_id: t-123001
   teiginys: 'Archeologiniai duomenys rodo apie 650 m. prasidėjusią didelę švedų ekspansiją iš Gotlando ir vidurio Švedijos.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-183113"></a>
 - t-016
-  teiginys: 'Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija.'
+  global_id: t-183113
+  teiginys: 'Apgynus Livoniją nuo Maskvos, dėl Livonijos netrukus prasidėjo apie 60 metų trukę karai su Švedija.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-185216"></a>
 - t-018
-  teiginys: 'Kojelavičius teigia, kad karalius, nutaręs ginklu atsikeršyti už skriau das, pakvietė į karo sąjungininkus Švedijos karalių.'
+  global_id: t-185216
+  teiginys: 'Švedijos karalius atsisakė siūlomos karo sąjungos, bijodamas galimo Maskvos puolimo.'
   pagrindžia:
     - c-014
 
@@ -319,7 +353,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - t-001
 
 - c-012
-  santrauka: 'Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija.'
+  santrauka: 'Apgynus Livoniją nuo Maskvos, dėl Livonijos netrukus prasidėjo apie 60 metų trukę karai su Švedija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Maskvos susilpnėjimas.** Šitomis paliaubomis pasibaigė
@@ -348,7 +382,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - t-017
 
 - c-014
-  santrauka: 'Kojelavičius teigia, kad karalius, nutaręs ginklu atsikeršyti už skriau das, pakvietė į karo sąjungininkus Švedijos karalių.'
+  santrauka: 'Švedijos karalius atsisakė siūlomos karo sąjungos, bijodamas galimo Maskvos puolimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neilgai trukus ten nu­

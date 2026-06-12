@@ -24,12 +24,16 @@ Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas
 
 ## Teiginiai
 
+<a id="claim-t-02167"></a>
 - t-001
-  teiginys: '1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas ir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi prižiūrėti jo vykdymą.'
+  global_id: t-02167
+  teiginys: '1778 ir 1780 m. seimuose gyventojų išlaidų normuojamasis įstatymas buvo pakartotas ir praplėstas, bet jo vykdymo priežiūra nenustatyta.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-02168"></a>
 - t-002
+  global_id: t-02168
   teiginys: '1776 m. seimas išleido gyventojų išlaidų normuojamąjį įstatymą, siekdamas sumažinti importą ir paremti savąją pramonę.'
   pagrindžia:
     - c-002
@@ -37,6 +41,7 @@ Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1778 ir 1780 m. seimuose gyventojų išlaidų normuojamasis įstatymas buvo pakartotas ir praplėstas, bet jo vykdymo priežiūra nenustatyta.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tad, norėdamas sumažinti im-

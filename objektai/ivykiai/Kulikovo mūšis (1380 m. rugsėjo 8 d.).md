@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86954"></a>
 - t-001
+  global_id: t-86954
   teiginys: 'Andrius Algirdaitis 1380 m. rugsėjo 8 d. Kulikovo lauke kovėsi prieš totorius ir daug prisidėjo prie pergalės.'
   pagrindžia:
     - c-001

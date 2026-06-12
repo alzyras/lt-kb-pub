@@ -22,7 +22,9 @@ Nasonov, A.
 
 ## Teiginiai
 
+<a id="claim-t-29741"></a>
 - t-001
+  global_id: t-29741
   teiginys: 'A. N. Nasonovo „Mongoly i Rus’. Istorija tatarskoj politiki na Rusi“ buvo išleista Maskvoje 1940 m.'
   pagrindžia:
     - c-001

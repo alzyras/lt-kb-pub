@@ -18,12 +18,16 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
 
 ## Teiginiai
 
+<a id="claim-t-02977"></a>
 - t-001
+  global_id: t-02977
   teiginys: 'Pijarai XVIII a. Lietuvoje kūrė dievobaimingąsias mokyklas, lotyniškai vadintas scholae piae.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-02978"></a>
 - t-002
+  global_id: t-02978
   teiginys: 'Pijarai, arba dievobaimingosios mokyklos, buvo pakviesti dėl dėmesio mokslui ir praktinio gyvenimo reikalams.'
   pagrindžia:
     - c-001

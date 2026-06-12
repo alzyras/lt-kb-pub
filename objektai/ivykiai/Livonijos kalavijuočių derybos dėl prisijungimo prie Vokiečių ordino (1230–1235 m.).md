@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-100039"></a>
 - t-001
+  global_id: t-100039
   teiginys: 'Salza pasiuntė į Livoniją du įgaliotinius ištirti kalavijuočių gyvenimą ir parengti jų priėmimo planą.'
   pagrindžia:
     - c-001

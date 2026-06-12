@@ -24,7 +24,9 @@ HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 1869, 211 p.
 
 ## Teiginiai
 
+<a id="claim-t-100111"></a>
 - t-001
+  global_id: t-100111
   teiginys: 'HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 1869, 211 p.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Juška : Mindaugo krikštas, Lux Christi 1951, 1 nr., 3-8 p. ; Mindaugas ir Liet
 
 ## Teiginiai
 
+<a id="claim-t-30510"></a>
 - t-001
+  global_id: t-30510
   teiginys: 'A. Juška 1951 m. paskelbė tekstus „Mindaugo krikštas“ ir „Mindaugas ir Lietuvos krikštas“.'
   pagrindžia:
     - c-001

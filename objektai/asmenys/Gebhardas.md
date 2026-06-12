@@ -27,7 +27,9 @@ Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos,
 
 ## Teiginiai
 
+<a id="claim-t-60283"></a>
 - t-001
+  global_id: t-60283
   teiginys: 'Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis 373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos punkto, svarbą Ordinui.'
   pagrindžia:
     - c-001

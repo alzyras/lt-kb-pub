@@ -49,27 +49,37 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
 
 ## Teiginiai
 
+<a id="claim-t-55034"></a>
 - t-001
+  global_id: t-55034
   teiginys: '1323 m. gegužės 26 d. datuotuose laiškuose antspaudas pateikiamas kaip rašto tikrumo ir pasitikėjimo patvirtinimo priemonė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55035"></a>
 - t-002
+  global_id: t-55035
   teiginys: 'Kryžiuočiai Gedimino antspaudą įmetė į ugnį, o jo tikrumą ginčijantys asmenys laiškuose buvo pasmerkti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81845"></a>
 - t-003
+  global_id: t-81845
   teiginys: 'Gediminas prie laiško pridėjo antspaudą, kurį buvo siuntęs popiežiui ir kurį kryžiuočiai įmetė į ugnį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-81846"></a>
 - t-004
+  global_id: t-81846
   teiginys: 'Gediminas savo karališkuoju antspaudu sutvirtino laišką, kuriame žadėjo pasiuntiniams nustatyti tarpusavio taiką.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-81847"></a>
 - t-005
+  global_id: t-81847
   teiginys: 'Kryžiuočiai sudegino Gedimino antspaudą, siekdami užgniaužti jo pradėtą darbą ir apdumti žmonėms akis.'
   pagrindžia:
     - c-002

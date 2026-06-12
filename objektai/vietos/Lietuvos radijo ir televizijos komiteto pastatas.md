@@ -16,7 +16,9 @@ nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietu
 
 ## Teiginiai
 
+<a id="claim-t-21564"></a>
 - t-001
+  global_id: t-21564
   teiginys: 'Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė Lietuvos radijo ir televizijos komiteto pastatą.'
   pagrindžia:
     - c-001

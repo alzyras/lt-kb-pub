@@ -24,7 +24,9 @@ Forstreuter, K.
 
 ## Teiginiai
 
+<a id="claim-t-31753"></a>
 - t-001
+  global_id: t-31753
   teiginys: 'K. Forstreuterio „Die Entwicklung der Grenze zwischen Preussen und Litauen seit 1422“ 1941 m. paskelbtas AF 18 tome, 50–70 puslapiuose.'
   pagrindžia:
     - c-001

@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62466"></a>
 - t-001
+  global_id: t-62466
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip pasidavė Naklo pilis ir buvo apiplėšta Pomeranijos žemė Apaštališkojo sosto legatas, nuolatos rūpindamasis tikėjimo reikalais ir dėl jų sielvartaudamas, be to, norėdamas tikėjimui padėti, o tikėjimo priešui Pomeranijos kunigaikščiui pakenkti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-62467"></a>
 - t-002
+  global_id: t-62467
   teiginys: 'Dusburgietis teigia, kad apie Sartovicų pilies apgulą ir devynių šimtų pomeranų žūtį Kai apie šiuos įvykius išgirdo minėtasis kunigaikštis, jis, nepaprastai irzdamas ir apie nieką kita negalvodamas, tik apie nuodingą kerštą, sušaukė visus Prūsijos žemės naujakrikščius, atsimetusius.'
   pagrindžia:
     - c-002

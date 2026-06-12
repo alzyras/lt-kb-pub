@@ -25,7 +25,9 @@ Elenos dieną, už šimtą kapų lietu­ viškų grašių ir dešimtį pūdų pi
 
 ## Teiginiai
 
+<a id="claim-t-86875"></a>
 - t-001
+  global_id: t-86875
   teiginys: 'Formulė „Vendimus abscedimus, et resignamus“ pavartota 1536 m. dominikonų sutartyje, kuria miestui parduotas Vingrių šaltinis.'
   pagrindžia:
     - c-001

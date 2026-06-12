@@ -17,7 +17,9 @@ Kričevskio vadovaujami kariai priversti atsitraukti į mišką, iš ten nusilei
 
 ## Teiginiai
 
+<a id="claim-t-38449"></a>
 - t-001
+  global_id: t-38449
   teiginys: 'M. Kričevskio vadovaujami kazokai atsitraukė prie Dniepro ir įsitvirtino stovykloje netoli Bragino.'
   pagrindžia:
     - c-001

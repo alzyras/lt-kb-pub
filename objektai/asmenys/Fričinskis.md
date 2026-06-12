@@ -19,7 +19,9 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
 
 ## Teiginiai
 
+<a id="claim-t-87677"></a>
 - t-001
+  global_id: t-87677
   teiginys: 'Pilaitė prie Vilniaus tuo metu priklausė buvusiam agronomijos instituto direktoriui Fričinskiui.'
   pagrindžia:
     - c-001

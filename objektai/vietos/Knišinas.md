@@ -27,17 +27,23 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
 
 ## Teiginiai
 
+<a id="claim-t-86020"></a>
 - t-001
+  global_id: t-86020
   teiginys: 'Mirdamas Knišine, Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86021"></a>
 - t-002
+  global_id: t-86021
   teiginys: 'Žygimantas Augustas mirė 1572 metų liepos 7 dieną Knišine, būdamas 52 metų amžiaus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86022"></a>
 - t-003
+  global_id: t-86022
   teiginys: '1576 m. valdžią perėmęs karalius Steponas Batoras nuvyko į Knišiną.'
   pagrindžia:
     - c-003

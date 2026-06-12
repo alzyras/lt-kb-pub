@@ -37,22 +37,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-64956"></a>
 - t-001
+  global_id: t-64956
   teiginys: 'Palei Lietuvos sieną Rytprūsiuose rasti kauliniai dirbiniai, įskaitant kaulinius ietgalius, priskiriami paleolito kultūrai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64958"></a>
 - t-002
+  global_id: t-64958
   teiginys: 'Mezolito stovyklavietėse Lietuvoje aptikta daug titnaginių ir kalninių įrankių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64960"></a>
 - t-003
-  teiginys: 'Lietuvos akmens amžiaus dirbiniai: 1—4 kauliniai harpūnai, 5—6 kauliniai durklai, 7—8 kauliniai kirvukai, 9 apskaldyto titnago įrankis, 10—12 akmens kirvukai, 13—15 titnaginiai iečių galai, 16—17 gintariniai amuletai, 18—22 gintariniai papuošalai, 23 puodas.'
+  global_id: t-64960
+  teiginys: 'Lietuvos akmens amžiaus dirbiniams priskirti kauliniai harpūnai ir durklai, titnaginiai įrankiai bei iečių galai, akmens kirvukai, gintariniai amuletai ir papuošalai, puodas ir grūdų trynimo akmuo.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-64961"></a>
 - t-004
+  global_id: t-64961
   teiginys: 'Lietuvos pajūryje rastos gintarinės žmonių ir gyvulių figūrėlės buvo nešiojamos magijos tikslais.'
   pagrindžia:
     - c-003
@@ -105,6 +113,7 @@ Nenurodyta
     - t-004
 
 - c-004
+  santrauka: 'Lietuvos akmens amžiaus dirbiniams priskirti kauliniai harpūnai ir durklai, titnaginiai įrankiai bei iečių galai, akmens kirvukai, gintariniai amuletai ir papuošalai, puodas ir grūdų trynimo akmuo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kr.) kultūrai yra charak-

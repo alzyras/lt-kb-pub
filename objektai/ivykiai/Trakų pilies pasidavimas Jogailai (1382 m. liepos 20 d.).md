@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35886"></a>
 - t-001
+  global_id: t-35886
   teiginys: '1382 m. liepos 20 d. Trakų pilies įgula pasidavė Jogailai, o pilyje buvo pastatyti jo kareiviai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-35887"></a>
 - t-002
+  global_id: t-35887
   teiginys: 'Skirgaila Trakų piliai ginti iš maršalkos gavo dovanų kelias dideles armotas.'
   pagrindžia:
     - c-002

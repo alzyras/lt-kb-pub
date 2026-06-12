@@ -19,7 +19,9 @@ Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą po
 
 ## Teiginiai
 
+<a id="claim-t-87928"></a>
 - t-001
+  global_id: t-87928
   teiginys: 'Pskoviečiai pasiuntė posadniką Silvestrą Levontjevičių pas Vytautą derėtis dėl belaisvių išpirkimo.'
   pagrindžia:
     - c-001

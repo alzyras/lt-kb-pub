@@ -27,7 +27,9 @@ Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­ burgo pilis, pastatydi
 
 ## Teiginiai
 
+<a id="claim-t-87684"></a>
 - t-001
+  global_id: t-87684
   teiginys: 'Bavarijos kunigaikštis Henrikas apie 1337 m. padėjo Ordinui pastatyti Bajerburgo pilį ir dalyvavo daugelyje žygių į Lietuvą.'
   pagrindžia:
     - c-001

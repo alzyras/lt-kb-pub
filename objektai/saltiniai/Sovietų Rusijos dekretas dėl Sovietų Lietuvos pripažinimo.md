@@ -16,12 +16,16 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 
 ## Teiginiai
 
+<a id="claim-t-75514"></a>
 - t-001
+  global_id: t-75514
   teiginys: 'Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 dienos manifestu deklaravo Sovietų Lietuvą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75515"></a>
 - t-002
+  global_id: t-75515
   teiginys: 'Vladimiro Lenino pasirašytu dekretu Sovietų Rusija pripažino Sovietų Lietuvą.'
   pagrindžia:
     - c-001

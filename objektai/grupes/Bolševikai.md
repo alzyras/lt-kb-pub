@@ -17,12 +17,16 @@ Bolševikai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko vo
 
 ## Teiginiai
 
+<a id="claim-t-01292"></a>
 - t-001
+  global_id: t-01292
   teiginys: 'Bolševikai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko vokiečių valdžioje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01293"></a>
 - t-002
+  global_id: t-01293
   teiginys: 'Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko kariauti su bolševikais ir su pasilikusiomis vokiečių kariuomenės dalimis.'
   pagrindžia:
     - c-002

@@ -16,7 +16,9 @@ Vienas iš jų pasakė: „Jūsų Karališkoji Didenybe, greičiau išvysite Dau
 
 ## Teiginiai
 
+<a id="claim-t-41452"></a>
 - t-001
+  global_id: t-41452
   teiginys: 'Posakiu teigta, kad karalius greičiau išvys Dauguvą aukštyn tekančią, negu lietuvius ir jų etmoną bėgančius iš kovos lauko.'
   pagrindžia:
     - c-001

@@ -26,7 +26,9 @@ Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos ša
 
 ## Teiginiai
 
+<a id="claim-t-62619"></a>
 - t-001
+  global_id: t-62619
   teiginys: 'Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.'
   pagrindžia:
     - c-001

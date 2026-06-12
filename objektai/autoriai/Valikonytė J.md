@@ -24,7 +24,9 @@ Dusburgietis teigia, kad valikonytė J.
 
 ## Teiginiai
 
+<a id="claim-t-60809"></a>
 - t-001
+  global_id: t-60809
   teiginys: 'J. Valikonytė parašė straipsnį apie dvigubą išpirką už moterį Lietuvos Didžiojoje Kunigaikštystėje.'
   pagrindžia:
     - c-001

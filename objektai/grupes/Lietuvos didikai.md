@@ -21,55 +21,60 @@ amziai:
   - 'XV'
   - 'XVI'
 ---
-
 # Lietuvos didikai
 
 ## Santrauka
 
 Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­ siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­ rėjo sutikti su tuo, kas buvo įvykę Liubline.
 
-## Ryšiai
-
-### Teminiai klasteriai
-- [[temos/didikas]]
-
-### Susiję objektai
-- [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
-
 ## Teiginiai
 
+<a id="claim-t-81459"></a>
 - t-001
+  global_id: t-81459
   teiginys: 'Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Vilniuje didino miesto iškilmingumą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81460"></a>
 - t-002
+  global_id: t-81460
   teiginys: 'Kazimiero valdymo laikotarpiu Vilniuje dažnai vyko Lietuvos didikų suvažiavimai ir pasitarimai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81461"></a>
 - t-003
+  global_id: t-81461
   teiginys: 'Lietuvos didikai po Liublino unijos išlaikė stiprią valstybingumo sąmonę ir nenorėjo sutikti su tuo, kas buvo įvykę Liubline.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184556"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad esąs tik vienas būdas suteikti valstybei saugią ramybę, tas pats, kuriuo pavyko išplėsti jos valdas, būtent iš rinkti tokį valdovą, kuris, neturėdamas kitų rūpesčių, nevaldydamas svetimų valstybių, asmeniškai rūpintųsi išsaugoti Lietuvos Didžiosios.'
+  global_id: t-184556
+  teiginys: 'Lietuvos didikai ir bajorai svarstė rinkti valdovą, kuris asmeniškai rūpintųsi Lietuvos Didžiosios Kunigaikštystės vientisumu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184557"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad pasiuntė kilmingiausius ir žymiausius didikus bro lius Mykolą bei Joną Kęsgailas, kurie ir turėjo kviesti Kazimierą į Brestą kuo greičiausiai perimti valdžios; jie kaip beįmanydami privalėjo raginti jaunikaitį, kad jis, lenkų patariamas, nesusimanytų delsti.'
+  global_id: t-184557
+  teiginys: 'Į Brestą kviesti Kazimiero buvo pasiųsti žymūs Lietuvos didikai broliai Mykolas ir Jonas Kęsgailos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184558"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad 1527 m e ta i L ietu vių d id ik a i su sa v o a sm en in ėm is k a ria u n o m is su m u ša sk itu s Kai nutilo ginklai Mask vos pasienyje, lietuvių didi kai, paskatinti Konstantino Ostrogiškio, susitarė savo jė gomis atremti skitus, kurie dažnai niokojo ne.'
+  global_id: t-184558
+  teiginys: '1527 m. Lietuvos didikai, Konstantino Ostrogiškio paskatinti, susitarė savo jėgomis atremti skitus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184559"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad kai žymiau sieji didikai jau buvo paža dėję savo balsus, apie spalio vidurį sušaukė Vilniuje luomų seimą.'
+  global_id: t-184559
+  teiginys: 'Kai žymiausieji didikai pažadėjo savo balsus, apie spalio vidurį Vilniuje buvo sušauktas luomų seimas.'
   pagrindžia:
     - c-006
 
@@ -117,7 +122,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - t-003
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad esąs tik vienas būdas suteikti valstybei saugią ramybę, tas pats, kuriuo pavyko išplėsti jos valdas, būtent iš rinkti tokį valdovą, kuris, neturėdamas kitų rūpesčių, nevaldydamas svetimų valstybių, asmeniškai rūpintųsi išsaugoti Lietuvos Didžiosios.'
+  santrauka: 'Lietuvos didikai ir bajorai svarstė rinkti valdovą, kuris asmeniškai rūpintųsi Lietuvos Didžiosios Kunigaikštystės vientisumu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Esąs tik vienas būdas suteikti valstybei saugią ramybę,
@@ -138,7 +143,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - t-004
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad pasiuntė kilmingiausius ir žymiausius didikus bro lius Mykolą bei Joną Kęsgailas, kurie ir turėjo kviesti Kazimierą į Brestą kuo greičiausiai perimti valdžios; jie kaip beįmanydami privalėjo raginti jaunikaitį, kad jis, lenkų patariamas, nesusimanytų delsti.'
+  santrauka: 'Į Brestą kviesti Kazimiero buvo pasiųsti žymūs Lietuvos didikai broliai Mykolas ir Jonas Kęsgailos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kiti parėmė šį siūlymą
@@ -162,7 +167,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - t-005
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad 1527 m e ta i L ietu vių d id ik a i su sa v o a sm en in ėm is k a ria u n o m is su m u ša sk itu s Kai nutilo ginklai Mask vos pasienyje, lietuvių didi kai, paskatinti Konstantino Ostrogiškio, susitarė savo jė gomis atremti skitus, kurie dažnai niokojo ne.'
+  santrauka: '1527 m. Lietuvos didikai, Konstantino Ostrogiškio paskatinti, susitarė savo jėgomis atremti skitus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atvykęs į Gdanską,
@@ -196,7 +201,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - t-006
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad kai žymiau sieji didikai jau buvo paža dėję savo balsus, apie spalio vidurį sušaukė Vilniuje luomų seimą.'
+  santrauka: 'Kai žymiausieji didikai pažadėjo savo balsus, apie spalio vidurį Vilniuje buvo sušauktas luomų seimas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai
@@ -216,3 +221,29 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   statusas: verified
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
+- [[objektai/daiktai/Ginklai]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/poliublininis laikotarpis]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/senatas]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Kęsgaila]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/ivykiai/Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.)]]
+- [[objektai/grupes/Lietuvos evangelikai reformatai]]
+- [[objektai/asmenys/Simonas Olelkaitis]]
+- [[objektai/posakiai/Esąs tik vienas būdas suteikti valstybei saugią ramybę]]
+- [[objektai/paprociai/Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje]]

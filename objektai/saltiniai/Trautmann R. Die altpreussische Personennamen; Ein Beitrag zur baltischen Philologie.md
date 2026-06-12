@@ -22,7 +22,9 @@ Dusburgietis teigia, kad trautmann R.
 
 ## Teiginiai
 
+<a id="claim-t-61325"></a>
 - t-001
+  global_id: t-61325
   teiginys: 'R. Trautmanno „Die altpreussische Personennamen; Ein Beitrag zur baltischen Philologie“ išleista Göttingene 1925 m.'
   pagrindžia:
     - c-001

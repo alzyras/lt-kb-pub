@@ -16,28 +16,25 @@ amziai:
 periodo_grupes:
   - 'XX a.'
 ---
-
 # Leonas Valkūnas
 
 ## Santrauka
 
 Leonas Valkūnas šiame leidime du kartus tiesiogiai nurodomas kaip „Lietuvos istorijos“ vertėjas iš lotynų kalbos.
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/grupes/Lotynai]]
-
 ## Teiginiai
 
+<a id="claim-t-184471"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad leonas Valkūnas šiame leidime nurodomas kaip „Lietuvos istorijos“ vertėjas iš lotynų kalbos.'
+  global_id: t-184471
+  teiginys: 'Leonas Valkūnas iš lotynų kalbos vertė šį „Lietuvos istorijos“ leidimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Leonas Valkūnas iš lotynų kalbos vertė šį „Lietuvos istorijos“ leidimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     BBK-63.3(2L)
@@ -64,3 +61,7 @@ Leonas Valkūnas šiame leidime du kartus tiesiogiai nurodomas kaip „Lietuvos 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lotynai]]

@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Dimitrijus
 
 ## Santrauka
 
-Kojelavičius teigia, kad mask vos kunigaikštis Dimitrijus Šemiaka sumušė tuo metu vyriausiąjį totorių valdovą Europoje ir Azijoje temniką Mama jų taip žiauriai, jog, pasak metraščių, per trylika gališkųjų mylių gulėjo šalia vienas kito už muštųjų lavonai. Kojelavičius teigia, kad dimitrijus sumokėsiąs ka reiviams algą, o vadui — karo išlaidas.
+Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir atsikratė totorių jungo. Dimitrijus sutiko sumokėti kareiviams algą, o karo vadui atlyginti karo išlaidas.
 
 ## Teiginiai
 
+<a id="claim-t-186105"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mask vos kunigaikštis Dimitrijus Šemiaka sumušė tuo metu vyriausiąjį totorių valdovą Europoje ir Azijoje temniką Mama jų taip žiauriai, jog, pasak metraščių, per trylika gališkųjų mylių gulėjo šalia vienas kito už muštųjų lavonai.'
+  global_id: t-186105
+  teiginys: 'Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir atsikratė totorių jungo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186106"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad dimitrijus sumokėsiąs ka reiviams algą, o vadui — karo išlaidas.'
+  global_id: t-186106
+  teiginys: 'Dimitrijus sutiko sumokėti kareiviams algą, o karo vadui atlyginti karo išlaidas.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mask vos kunigaikštis Dimitrijus Šemiaka sumušė tuo metu vyriausiąjį totorių valdovą Europoje ir Azijoje temniką Mama jų taip žiauriai, jog, pasak metraščių, per trylika gališkųjų mylių gulėjo šalia vienas kito už muštųjų lavonai.'
+  santrauka: 'Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir atsikratė totorių jungo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mask­
@@ -52,7 +55,7 @@ Kojelavičius teigia, kad mask vos kunigaikštis Dimitrijus Šemiaka sumušė tu
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad dimitrijus sumokėsiąs ka reiviams algą, o vadui — karo išlaidas.'
+  santrauka: 'Dimitrijus sutiko sumokėti kareiviams algą, o karo vadui atlyginti karo išlaidas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dimitrijus sumokėsiąs ka­
@@ -76,3 +79,15 @@ Kojelavičius teigia, kad mask vos kunigaikštis Dimitrijus Šemiaka sumušė tu
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Akademijos teatro įranga]]
+- [[objektai/daiktai/Altorius]]
+- [[objektai/daiktai/Ietis]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/viečė]]
+- [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]
+- [[objektai/ivykiai/Pirmoji Smolensko apgultis ir maskvėnų atsitraukimas]]
+- [[objektai/ivykiai/Trečioji Smolensko apgultis ir nesėkmingas Dimitrijaus bandymas]]
+- [[objektai/zodynas/metropolitas]]

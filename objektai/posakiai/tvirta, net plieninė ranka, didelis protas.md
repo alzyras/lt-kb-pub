@@ -16,7 +16,9 @@ Tam buvo reikalinga tvirta, net plieninė ran­ ka, didelis protas.
 
 ## Teiginiai
 
+<a id="claim-t-34432"></a>
 - t-001
+  global_id: t-34432
   teiginys: 'Kęstučio sūnus Vytautas turėjo tvirtą, net plieninę ranką ir didelį protą.'
   pagrindžia:
     - c-001

@@ -27,7 +27,9 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
 
 ## Teiginiai
 
+<a id="claim-t-88420"></a>
 - t-001
+  global_id: t-88420
   teiginys: 'Gedimino laiške šiaurės Vokietijos miestams ir Gotlando gyventojams nurodyta, kad į Vilnių atvykę kolonistai galės naudotis Rygos civiline teise.'
   pagrindžia:
     - c-001

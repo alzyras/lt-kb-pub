@@ -24,12 +24,16 @@ Jogaila su savo broliais ją priėmė Krėvos pilyje. Tenai Jogaila patvirtino v
 
 ## Teiginiai
 
+<a id="claim-t-46811"></a>
 - t-001
+  global_id: t-46811
   teiginys: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-46813"></a>
 - t-002
+  global_id: t-46813
   teiginys: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41522"></a>
 - t-001
+  global_id: t-41522
   teiginys: '1568 m. Gardino vaizdo fragmente vaizduojamas Gardinas 1567 m. čia vykusio seimo metu.'
   pagrindžia:
     - c-001

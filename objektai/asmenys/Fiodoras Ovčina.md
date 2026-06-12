@@ -14,29 +14,32 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Fiodoras Ovčina
 
 ## Santrauka
 
-Kojelavičius teigia, kad tiesa, tą karą jie pradėjo nei paskatinti, nei įsakyti valdovo, kuris, nė devynerių metų nesulaukęs, visai nesirūpino valstybės reikalais; juos sukurstė žiau rių žiauriausias žmogus Fiodoras Ovčina. Kojelavičius teigia, kad fiodoras Ovčina ir sukurstė klastingomis kalbomis karą prieš Lietuvą.
+Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivadinęs caro globėju, užgrobė valdžią. Fiodoras Ovčina klastingomis kalbomis sukurstė karą prieš Lietuvą.
 
 ## Teiginiai
 
+<a id="claim-t-186039"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tiesa, tą karą jie pradėjo nei paskatinti, nei įsakyti valdovo, kuris, nė devynerių metų nesulaukęs, visai nesirūpino valstybės reikalais; juos sukurstė žiau rių žiauriausias žmogus Fiodoras Ovčina.'
+  global_id: t-186039
+  teiginys: 'Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivadinęs caro globėju, užgrobė valdžią.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186040"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad fiodoras Ovčina ir sukurstė klastingomis kalbomis karą prieš Lietuvą.'
+  global_id: t-186040
+  teiginys: 'Fiodoras Ovčina klastingomis kalbomis sukurstė karą prieš Lietuvą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tiesa, tą karą jie pradėjo nei paskatinti, nei įsakyti valdovo, kuris, nė devynerių metų nesulaukęs, visai nesirūpino valstybės reikalais; juos sukurstė žiau rių žiauriausias žmogus Fiodoras Ovčina.'
+  santrauka: 'Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivadinęs caro globėju, užgrobė valdžią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po
@@ -67,10 +70,13 @@ Kojelavičius teigia, kad tiesa, tą karą jie pradėjo nei paskatinti, nei įsa
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad fiodoras Ovčina ir sukurstė klastingomis kalbomis karą prieš Lietuvą.'
+  santrauka: 'Fiodoras Ovčina klastingomis kalbomis sukurstė karą prieš Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
-    Šis, kaip
+    Tiesa, tą karą jie pradėjo nei paskatinti, nei
+    įsakyti valdovo, kuris, nė devynerių metų nesulaukęs,
+    visai nesirūpino valstybės reikalais; juos sukurstė žiau­
+    rių žiauriausias žmogus Fiodoras Ovčina. Šis, kaip
     esu minėjęs, sudorojo Mykolą Glinskį bei kitus didikus
     ir, caro globėju pasivadinęs, užgrobė visą valdžią, pa­
     likdamas gyviesiems Glinskio šalininkams Kolyčevui
@@ -85,3 +91,8 @@ Kojelavičius teigia, kad tiesa, tą karą jie pradėjo nei paskatinti, nei įsa
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/zodynas/globėjas]]

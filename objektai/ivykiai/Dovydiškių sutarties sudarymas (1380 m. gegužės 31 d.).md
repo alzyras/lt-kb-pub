@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54161"></a>
 - t-001
+  global_id: t-54161
   teiginys: 'Dovydiškių sutartimi pagoniškosios Kęstučio žemės buvo išskirtos ir paliktos tolesniems naikinimams.'
   pagrindžia:
     - c-001

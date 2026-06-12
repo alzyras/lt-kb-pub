@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86640"></a>
 - t-001
+  global_id: t-86640
   teiginys: 'Gedimino laiške nurodyta, kad visiems atvykėliams galiojo Rygos miesto teisė, nebent jiems būtų nustatyta geresnė teisė.'
   pagrindžia:
     - c-001

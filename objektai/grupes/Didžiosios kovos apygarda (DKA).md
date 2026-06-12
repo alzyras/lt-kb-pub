@@ -23,12 +23,16 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
 
 ## Teiginiai
 
+<a id="claim-t-40874"></a>
 - t-001
+  global_id: t-40874
   teiginys: 'Junginys, rugsėjį pavadintas Didžiosios kovos rinktine, vėliau tapo Didžiosios kovos apygarda.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40875"></a>
 - t-002
+  global_id: t-40875
   teiginys: '1946 m. Žaliam Velniui patekus į Juozo Markulio-Erelio pinkles, beveik visa Didžiosios kovos apygarda buvo sunaikinta.'
   pagrindžia:
     - c-001

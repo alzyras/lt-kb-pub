@@ -39,28 +39,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75368"></a>
 - t-001
+  global_id: t-75368
   teiginys: 'Viešas lietuvių kalbos vartojimas ir lietuviškų pamaldų reikalavimai bažnyčiose kėlė lenkiškai kalbančiųjų opoziciją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75369"></a>
 - t-002
+  global_id: t-75369
   teiginys: 'Būsimų tautininkų grupuotė apie „Vilties“ žurnalą kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75370"></a>
 - t-003
+  global_id: t-75370
   teiginys: 'Viešas kalbėjimas lietuviškai ir lietuviškų pamaldų reikalavimai bažnyčiose kėlė lenkiškai kalbančiųjų opoziciją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75371"></a>
 - t-004
+  global_id: t-75371
   teiginys: 'Krikščionys demokratai ir būsimi tautininkai kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
-  pagrindžia:
-    - c-002
-
-- t-005
-  teiginys: '„Vilties“ žurnalo aplinkos tautininkai kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   pagrindžia:
     - c-002
 

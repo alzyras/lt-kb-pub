@@ -44,12 +44,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87159"></a>
 - t-001
+  global_id: t-87159
   teiginys: 'Leonas Sapiega, vyskupas Bžostovskis, kanauninkas Vaišnarovičius ir kiti dovanotomis bei užrašytomis knygomis praturtino biblioteką.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87160"></a>
 - t-002
+  global_id: t-87160
   teiginys: '1623 m. Adrijanas Vežbickis įpareigojo Akademijos kolegiją iš Blonių valdos pajamų kasmet skirti po 100 auksinų knygoms įsigyti.'
   pagrindžia:
     - c-001

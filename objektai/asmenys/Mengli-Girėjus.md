@@ -17,12 +17,16 @@ Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas. Mengli-G
 
 ## Teiginiai
 
+<a id="claim-t-40331"></a>
 - t-001
+  global_id: t-40331
   teiginys: 'Mengli-Girėjus po totoriams fatališkai pasibaigusio mūšio pasiuntė į Vilnių pasiuntinį patvirtinti gegužę suderėtos taikos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183752"></a>
 - t-002
+  global_id: t-183752
   teiginys: 'Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.'
   pagrindžia:
     - c-002

@@ -29,7 +29,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-06874"></a>
 - t-001
+  global_id: t-06874
   teiginys: 'Melniko akte numatyta viena tauta, viena visuomenė, viena brolija, bendri seimai ir vienas visų renkamas karalius.'
   pagrindžia:
     - c-001

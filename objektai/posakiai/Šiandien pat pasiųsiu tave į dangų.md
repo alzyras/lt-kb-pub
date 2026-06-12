@@ -16,7 +16,9 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 
 ## Teiginiai
 
+<a id="claim-t-59171"></a>
 - t-001
+  global_id: t-59171
   teiginys: 'Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs brolį Henriką Ulenbušą, įtempiantį arbaletą375, pribėgo prie jo, sakydamas: „Šiandien pat pasiųsiu tave į dangų“, ir pervėrė jį savo ietimi, sunkiai sužeisdamas, nors toji žaizda vėliau ir užgijo.'
   pagrindžia:
     - c-001

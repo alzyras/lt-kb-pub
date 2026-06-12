@@ -25,7 +25,9 @@ Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Korner
 
 ## Teiginiai
 
+<a id="claim-t-88062"></a>
 - t-001
+  global_id: t-88062
   teiginys: 'Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Kornerio (Chron.'
   pagrindžia:
     - c-001

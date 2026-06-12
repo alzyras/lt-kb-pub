@@ -18,7 +18,9 @@ Jeigu tautos vertė, imant visą žmoniją, būtų matuojama kalbos grožiu, tai
 
 ## Teiginiai
 
+<a id="claim-t-78081"></a>
 - t-001
+  global_id: t-78081
   teiginys: 'Benjamin W. Dwightas „Moderniojoje filologijoje“ aukštino lietuvių kalbos grožį ir maloninių bei mažybinių žodžių gausą.'
   pagrindžia:
     - c-001

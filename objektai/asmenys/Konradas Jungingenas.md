@@ -26,7 +26,9 @@ Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir n
 
 ## Teiginiai
 
+<a id="claim-t-87535"></a>
 - t-001
+  global_id: t-87535
   teiginys: 'Konradas Jungingenas kartu su Švitrigaila įsibrovė į Lietuvą ir niokojo žemes nuo Gardino apylinkių iki Šalčininkų.'
   pagrindžia:
     - c-001

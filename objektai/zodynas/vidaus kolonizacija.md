@@ -24,7 +24,9 @@ Pagaliau pasibaigus karams su kryžiuo­ čiais (1422 m.—su Prūsų, 1435 m.�
 
 ## Teiginiai
 
+<a id="claim-t-32816"></a>
 - t-001
+  global_id: t-32816
   teiginys: 'Pasibaigus karams su kryžiuočiais, prasidėjo vidaus kolonizacija, ypač Sūduvos giriose.'
   pagrindžia:
     - c-001

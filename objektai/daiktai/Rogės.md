@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08324"></a>
 - t-001
+  global_id: t-08324
   teiginys: 'Žiemą važiuodavo važiuose, taip vadinamose rogėse, o ką vežė, tą vežė rogėse ir šlajose.'
   pagrindžia:
     - c-001

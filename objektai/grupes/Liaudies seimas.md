@@ -19,12 +19,16 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
 
 ## Teiginiai
 
+<a id="claim-t-19795"></a>
 - t-001
+  global_id: t-19795
   teiginys: 'Kadangi okupantų paskirtas Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo neteisėti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-19796"></a>
 - t-002
+  global_id: t-19796
   teiginys: 'Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.'
   pagrindžia:
     - c-001

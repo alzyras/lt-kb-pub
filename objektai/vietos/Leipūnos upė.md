@@ -19,7 +19,9 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
 
 ## Teiginiai
 
+<a id="claim-t-36351"></a>
 - t-001
+  global_id: t-36351
   teiginys: 'Vytauto nustatytos Žemaitijos ir Sūduvijos ribos ėjo pro Vištyčio ežerą į Leipūnos upę.'
   pagrindžia:
     - c-001

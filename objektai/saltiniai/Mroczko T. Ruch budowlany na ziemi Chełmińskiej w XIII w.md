@@ -22,7 +22,9 @@ Dusburgietis teigia, kad mroczko T.
 
 ## Teiginiai
 
+<a id="claim-t-61186"></a>
 - t-001
+  global_id: t-61186
   teiginys: 'T. Mroczko darbas „Ruch budowlany na ziemi Chełmińskiej w XIII w.“ paskelbtas 1974 m. leidinyje „Sztuka i ideologia XIII wieku“.'
   pagrindžia:
     - c-001

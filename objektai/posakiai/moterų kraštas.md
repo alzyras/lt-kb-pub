@@ -17,7 +17,9 @@ Apie tokią moterų «karalystę» kalbėjo ir Adomas Bremenietis, kuris šiaip 
 
 ## Teiginiai
 
+<a id="claim-t-28744"></a>
 - t-001
+  global_id: t-28744
   teiginys: 'Adomas Bremenietis minėjo moterų „karalystę“, nors rytinių baltų vardų apskritai nepaminėjo.'
   pagrindžia:
     - c-001

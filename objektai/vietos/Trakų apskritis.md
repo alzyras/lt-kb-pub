@@ -23,12 +23,16 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 
 ## Teiginiai
 
+<a id="claim-t-42201"></a>
 - t-001
+  global_id: t-42201
   teiginys: 'J. Misiūno maždaug 200 partizanų dalinys keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-42202"></a>
 - t-002
+  global_id: t-42202
   teiginys: 'Didžiosios kovos apygardoje buvo įkurtos dvi rinktinės: „A“ Trakų apskrityje ir „B“ Ukmergės apskrityje.'
   pagrindžia:
     - c-002

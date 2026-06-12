@@ -16,7 +16,9 @@ Buvo net svarbesnių javų (pav., linų) globėjų, lauksargių, kaukų, aitvar�
 
 ## Teiginiai
 
+<a id="claim-t-03062"></a>
 - t-001
+  global_id: t-03062
   teiginys: 'Buvo net svarbesnių javų (pav., linų) globėjų, lauksargių, kaukų, aitvarų ir kitokių dievybių.'
   pagrindžia:
     - c-001

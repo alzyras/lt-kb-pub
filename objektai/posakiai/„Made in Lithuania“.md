@@ -17,7 +17,9 @@ Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalsta
 
 ## Teiginiai
 
+<a id="claim-t-26359"></a>
 - t-001
+  global_id: t-26359
   teiginys: 'Lietuvos nusikaltėlių grupės emigracijoje terorizavo tautiečius, plėšė vietinius gyventojus ir platino „Made in Lithuania“ narkotines medžiagas.'
   pagrindžia:
     - c-001

@@ -22,12 +22,16 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
 
 ## Teiginiai
 
+<a id="claim-t-00008"></a>
 - t-001
+  global_id: t-00008
   teiginys: 'K. Masiliūno rūpesčiu buvo suburti penki žmonės, sutikę rašyti atskirus tautos gyvenimo laikotarpius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-00009"></a>
 - t-002
+  global_id: t-00009
   teiginys: 'K. Masiliūnas kartu su J. Tonkūnu rūpinosi bendradarbių rinkimu ir teikė paramą atliekamam darbui.'
   pagrindžia:
     - c-002

@@ -17,17 +17,23 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-83565"></a>
 - t-001
+  global_id: t-83565
   teiginys: '7-asis pulkas atsitraukė ir 18 d. ryte užėmė 1,5 km gynybos ruožą palei Širvintos ir Kertušos upes nuo Levainių dvaro iki Kačiniškių dvaro.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-83566"></a>
 - t-002
+  global_id: t-83566
   teiginys: 'Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios eina nuo Širvintos upės iki pat Šventosios ir yra juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės, kur prieš Skočiūnų dvarą upė Šešulka [Šešuolėlė] įteka į.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-83567"></a>
 - t-003
+  global_id: t-83567
   teiginys: 'Pabaisko parapijos ribos buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės.'
   pagrindžia:
     - c-001

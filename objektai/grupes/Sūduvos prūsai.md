@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Sūduvos prūsai
 
 ## Santrauka
 
-Kojelavičius teigia, kad dėl tos pačios priežasties valdovas neleido viešai teikti prūsams ko kios pagalbos prieš kryžiuo čius, tačiau nieko negalėjo padaryti, kad slapta į Prūsi ją nežygiuotų Žemaitijoje su telkta kariuomenė, remiama atskirų asmenų, tiesa, pavie niais būriais, be.
+Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir sustojo prie Liubavos.
 
 ## Teiginiai
 
+<a id="claim-t-185461"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad dėl tos pačios priežasties valdovas neleido viešai teikti prūsams ko kios pagalbos prieš kryžiuo čius, tačiau nieko negalėjo padaryti, kad slapta į Prūsi ją nežygiuotų Žemaitijoje su telkta kariuomenė, remiama atskirų asmenų, tiesa, pavie niais būriais, be.'
+  global_id: t-185461
+  teiginys: 'Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir sustojo prie Liubavos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad dėl tos pačios priežasties valdovas neleido viešai teikti prūsams ko kios pagalbos prieš kryžiuo čius, tačiau nieko negalėjo padaryti, kad slapta į Prūsi ją nežygiuotų Žemaitijoje su telkta kariuomenė, remiama atskirų asmenų, tiesa, pavie niais būriais, be.'
+  santrauka: 'Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir sustojo prie Liubavos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dėl tos pačios
@@ -53,3 +54,10 @@ Kojelavičius teigia, kad dėl tos pačios priežasties valdovas neleido viešai
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Vytis]]
+- [[objektai/zodynas/gurguolė]]
+- [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]

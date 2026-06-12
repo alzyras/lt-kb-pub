@@ -16,7 +16,9 @@ Savo įprastu temperamentingumu Vytautas kreipėsi prieš ordi­ ną tokiais žo
 
 ## Teiginiai
 
+<a id="claim-t-31931"></a>
 - t-001
+  global_id: t-31931
   teiginys: 'Vytautas į Ordiną kreipėsi teigdamas, kad kryžiuočiai yra svetimšaliai ir ateiviai.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
 
 ## Teiginiai
 
+<a id="claim-t-19876"></a>
 - t-001
+  global_id: t-19876
   teiginys: 'Nuo 1934 m. Lietuvos karo aviacijai vadovavęs Antanas Gustaitis sukonstravo ANBO lėktuvų seriją.'
   pagrindžia:
     - c-001

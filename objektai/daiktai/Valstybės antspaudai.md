@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19604"></a>
 - t-001
+  global_id: t-19604
   teiginys: 'LDK kancleris saugojo valstybės antspaudus ir prižiūrėjo, kad kanceliarijos raštai neprieštarautų valstybės įstatymams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183302"></a>
 - t-002
+  global_id: t-183302
   teiginys: 'Šis pareigūnas saugojo valstybės antspaudus, prižiūrėjo, kad didžiojo kunigaikščio kanceliarijoje nebūtų parengtas joks raštas, prieštaraująs valstybės įstatymams.'
   pagrindžia:
     - c-002

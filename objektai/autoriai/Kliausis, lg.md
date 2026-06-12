@@ -16,7 +16,9 @@ Kliausis, lg.
 
 ## Teiginiai
 
+<a id="claim-t-30758"></a>
 - t-001
+  global_id: t-30758
   teiginys: 'Ig. Kliausis 1929 m. Grace parengė disertaciją „Die Kirchenpolitik in Litauen unter Jogaila und Vytautas (1377-1421)“.'
   pagrindžia:
     - c-001

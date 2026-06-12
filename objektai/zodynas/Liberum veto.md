@@ -48,12 +48,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-168674"></a>
 - t-001
-  teiginys: 'Tatai vadinosi liberum veto, t.'
+  global_id: t-168674
+  teiginys: 'Liberum veto reiškė laisvojo pasipriešinimo teisę, dėl kurios daug seimų išsiskirstydavo nieko nenuveikę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-168675"></a>
 - t-002
+  global_id: t-168675
   teiginys: 'Kubala, Wojna Moskiewska (1910); — Wojna Szwecka (1913); — Pierwsze liberum veto (Szkice hist.'
   pagrindžia:
     - c-002
@@ -61,6 +65,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Liberum veto reiškė laisvojo pasipriešinimo teisę, dėl kurios daug seimų išsiskirstydavo nieko nenuveikę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pasipriešinimo teisė

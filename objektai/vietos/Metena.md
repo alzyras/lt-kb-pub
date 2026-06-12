@@ -23,7 +23,9 @@ Stai­ ga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie N
 
 ## Teiginiai
 
+<a id="claim-t-32366"></a>
 - t-001
+  global_id: t-32366
   teiginys: 'Sugrįžęs jis sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno - Naująjį Gardiną ir Meteną.'
   pagrindžia:
     - c-001

@@ -27,7 +27,9 @@ Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d
 
 ## Teiginiai
 
+<a id="claim-t-88314"></a>
 - t-001
+  global_id: t-88314
   teiginys: '„Kronika Lechitów i Polaków“ mini, kad 1253 m. Vitas buvo įšventintas pirmuoju Lietuvos vyskupu.'
   pagrindžia:
     - c-001

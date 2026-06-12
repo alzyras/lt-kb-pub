@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40742"></a>
 - t-001
+  global_id: t-40742
   teiginys: 'Atskirojo Marijampolės bataliono kariai ties Arnenhofu buvo ginkluoti šautuvais Mauser 98 su užmautais durtuvais.'
   pagrindžia:
     - c-001

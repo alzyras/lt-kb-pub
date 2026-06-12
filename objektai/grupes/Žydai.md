@@ -29,132 +29,184 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 
 ## Teiginiai
 
+<a id="claim-t-117381"></a>
 - t-001
+  global_id: t-117381
   teiginys: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-117382"></a>
 - t-002
+  global_id: t-117382
   teiginys: 'Nepriklausomoje Lietuvoje žydai galėjo tenkinti savo kultūrinius poreikius, bet su lietuviais gyveno daugiausia atskirai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-117383"></a>
 - t-003
+  global_id: t-117383
   teiginys: 'Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-117384"></a>
 - t-004
+  global_id: t-117384
   teiginys: 'Žydai Lietuvoje nuo seno nebuvo naujiena, nes galėjo laisvai atvykti per Lenkijos sieną arba iš rytų.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-117385"></a>
 - t-005
+  global_id: t-117385
   teiginys: 'Dešimt vietų Steigiamajame Seime gavo tautinės mažumos (6 žydai, 3 lenkai ir 1 vokietis).'
   pagrindžia:
     - c-010
 
+<a id="claim-t-117386"></a>
 - t-006
+  global_id: t-117386
   teiginys: 'Trakų žydai dar 1388 m. buvo gavę atskirą privilegiją, apibūdinusią jų elgseną krikščionių atžvilgiu.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-117387"></a>
 - t-007
+  global_id: t-117387
   teiginys: 'Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo, žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius poreikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susijusius gyvenimus.'
   pagrindžia:
     - c-021
 
+<a id="claim-t-117388"></a>
 - t-008
+  global_id: t-117388
   teiginys: 'Žydai – daugiapolė, pliuralistinė, politiškai susiskaidžiusi bendruomenė, turinti daugelį partijų ir organizacijų.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-117389"></a>
 - t-009
+  global_id: t-117389
   teiginys: 'Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsimokslinimui.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-117390"></a>
 - t-010
+  global_id: t-117390
   teiginys: 'Tai buvo žydai ir miestelėnų luomas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-117391"></a>
 - t-011
+  global_id: t-117391
   teiginys: 'Žydai Lietuvoje nuo seno galėjo atvykti tiek per Lenkijos sieną, tiek iš rytų pusės.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-117392"></a>
 - t-012
+  global_id: t-117392
   teiginys: 'Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miškus, įsijungė į antinacinę rezistenciją – sovietų partizanų būrius, kur, nepaisant susidūrimo su antisemitinėmis nuotaikomis, ėmėsi ginklo, daug Lietuvos žydų kovojo SSRS gilumoje suformuotoje.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-117393"></a>
 - t-013
+  global_id: t-117393
   teiginys: 'Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus.'
   pagrindžia:
     - c-020
 
+<a id="claim-t-117394"></a>
 - t-014
+  global_id: t-117394
   teiginys: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-117395"></a>
 - t-015
+  global_id: t-117395
   teiginys: 'Vytauto laikais Vilniaus žydai tarp savųjų garsėjo ne tik ištekliais, bet ir išsimokslinimu.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-117396"></a>
 - t-016
+  global_id: t-117396
   teiginys: 'Apskritai Lietuvos nepriklausomybę žydai parėmė, dalyvavo Lietuvos Tarybos veikloje, žydai savanoriai dalyvavo nepriklausomybės kovose.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-117397"></a>
 - t-017
+  global_id: t-117397
   teiginys: 'Trakų žydai 1388 m. buvo gavę privilegiją, apibrėžusią jų elgseną krikščionių atžvilgiu.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-117398"></a>
 - t-018
+  global_id: t-117398
   teiginys: 'Žydų bendruomenės (kahalai) taip pat buvo savivaldūs iki 1840 m., kai žydai buvo įtraukti į bendrąjį miestų valdymą.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-117399"></a>
 - t-019
+  global_id: t-117399
   teiginys: 'Lietuviai sudarė 82 proc., žydai 7, vokiečiai 4, lenkai 3, rusai 2,3 proc.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-117400"></a>
 - t-020
+  global_id: t-117400
   teiginys: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-117401"></a>
 - t-021
+  global_id: t-117401
   teiginys: 'Kai kuriose srityse žydai tvirtai dominavo – eksportavo daugiau arklių, kailių ir odų, miško medžiagos, o importe sudarė didžiąją dalį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-117402"></a>
 - t-022
+  global_id: t-117402
   teiginys: 'Sovietams kuriant naują administraciją žydai, ypač jaunimas, noriai pradėjęs kalbėti rusiškai, gavo postus valdžioje, įmonėse ir įstaigose, profesinėse sąjungose – žydai tapo matomi prosovietinėse demonstracijose, administracijoje, tarp politinių vadovų, ir.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-117403"></a>
 - t-023
+  global_id: t-117403
   teiginys: 'Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo su buvusios LDK arba Abiejų Tautų Respublikos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-117404"></a>
 - t-024
+  global_id: t-117404
   teiginys: 'Kuriant Izraelį reikšmingiausius vaidmenis atliko iš šios erdvės kilę žydai, vadinęsi litvakais.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-117405"></a>
 - t-025
+  global_id: t-117405
   teiginys: 'Pagal citatoje pateiktą gyventojų sudėtį žydai sudarė 7 proc. gyventojų.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-117406"></a>
 - t-026
+  global_id: t-117406
   teiginys: 'Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.'
   pagrindžia:
     - c-019

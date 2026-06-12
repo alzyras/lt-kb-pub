@@ -19,12 +19,16 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 
 ## Teiginiai
 
+<a id="claim-t-101623"></a>
 - t-001
+  global_id: t-101623
   teiginys: 'Šiame krašte buvo naikinamos nuo likusios Rusijos jį skyrusios institucijos ir neleista administracijoje vartoti lenkų kalbos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101624"></a>
 - t-002
+  global_id: t-101624
   teiginys: 'Po sukilimo caro valdžia buvusiose LDK žemėse vykdė „lenkų pradų naikinimo“ politiką, grįstą Rusijos „istorinio pirmumo teisės“ idėja.'
   pagrindžia:
     - c-001

@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77892"></a>
 - t-001
+  global_id: t-77892
   teiginys: 'Sudarant Antano Merkio vyriausybę prezidentas galėjo diktuoti jos darbus, todėl opozicijos deleguotas ministras turėjo vykdyti prezidento užduotis.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ Tebetvyranti įjungimo į Lenkiją grėsmė Lietuvos valstybei sukūrė apsuptie
 
 ## Teiginiai
 
+<a id="claim-t-20879"></a>
 - t-001
+  global_id: t-20879
   teiginys: 'Tebetvyranti įjungimo į Lenkiją grėsmė Lietuvos valstybei sukūrė apsupties mentalitetą, sustiprino lietuvių nacionalizmą, o jų politinėje sąmonėje antilenkiškumas iš politikos pamažu virto kone religija.'
   pagrindžia:
     - c-001

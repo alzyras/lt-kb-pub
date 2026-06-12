@@ -16,7 +16,9 @@ Po kelių mėnesių Ramanauskas-Vanagas buvo pakeltas į Merkio rinktinės vado 
 
 ## Teiginiai
 
+<a id="claim-t-41088"></a>
 - t-001
+  global_id: t-41088
   teiginys: 'Po kelių mėnesių Ramanauskas-Vanagas buvo pakeltas į Merkio rinktinės vado pareigas.'
   pagrindžia:
     - c-001

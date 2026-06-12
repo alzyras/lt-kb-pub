@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai Vilniuje susirinko lietuvių seimas, atvyko čia Lenkijos pasiuntiniai Stanislovas Ostrorogas, Kališo vaivada, ir Jonas Ritvianskis, karalystės maršalas. Kojelavičius teigia, kad anksčiau nei jie atkeliavo pats karalius, norėdamas asmeniškai aptramdyti priešingų grupuočių įniršį, ne paisant to, seimo posėdžiuose užvirė atkakli kova.
+Į Vilniuje susirinkusį lietuvių seimą atvyko Lenkijos pasiuntiniai Stanislovas Ostrorogas ir Jonas Ritvianskis. Vilniaus seime ginčas dėl Podolės istorijos ir teisių buvo atidėtas Parčevo seimui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185635"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai Vilniuje susirinko lietuvių seimas, atvyko čia Lenkijos pasiuntiniai Stanislovas Ostrorogas, Kališo vaivada, ir Jonas Ritvianskis, karalystės maršalas.'
+  global_id: t-185635
+  teiginys: 'Į Vilniuje susirinkusį lietuvių seimą atvyko Lenkijos pasiuntiniai Stanislovas Ostrorogas ir Jonas Ritvianskis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185636"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad anksčiau nei jie atkeliavo pats karalius, norėdamas asmeniškai aptramdyti priešingų grupuočių įniršį, ne paisant to, seimo posėdžiuose užvirė atkakli kova.'
+  global_id: t-185636
+  teiginys: 'Vilniaus seime ginčas dėl Podolės istorijos ir teisių buvo atidėtas Parčevo seimui.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai Vilniuje susirinko lietuvių seimas, atvyko čia Lenkijos pasiuntiniai Stanislovas Ostrorogas, Kališo vaivada, ir Jonas Ritvianskis, karalystės maršalas.'
+  santrauka: 'Į Vilniuje susirinkusį lietuvių seimą atvyko Lenkijos pasiuntiniai Stanislovas Ostrorogas ir Jonas Ritvianskis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gavo jie tik tokį atsakymą, kad
@@ -64,7 +67,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad anksčiau nei jie atkeliavo pats karalius, norėdamas asmeniškai aptramdyti priešingų grupuočių įniršį, ne paisant to, seimo posėdžiuose užvirė atkakli kova.'
+  santrauka: 'Vilniaus seime ginčas dėl Podolės istorijos ir teisių buvo atidėtas Parčevo seimui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Anksčiau nei jie atkeliavo pats karalius, norėdamas
@@ -82,3 +85,14 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Stanislovas]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/asmenys/Jonas Ritvianskis]]
+- [[objektai/asmenys/Stanislovas Ostrorogas]]

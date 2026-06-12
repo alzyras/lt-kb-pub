@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # prisiekdamas visomis šventenybėmis
 
 ## Santrauka
 
-Kojelavičius teigia, kad kaip atlyginimą už išdavystę, prisiekdamas visomis švente nybėmis, pažadėjo, kad jie paveldėsią miestus ir kraš tus, kurie bus nuo Lietuvos atplėšti.
+Maskvos valdovas Ivanas, prisiekdamas visomis šventenybėmis, žadėjo išdavikams nuo Lietuvos atplėštus miestus ir kraštus.
 
 ## Teiginiai
 
+<a id="claim-t-185481"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kaip atlyginimą už išdavystę, prisiekdamas visomis švente nybėmis, pažadėjo, kad jie paveldėsią miestus ir kraš tus, kurie bus nuo Lietuvos atplėšti.'
+  global_id: t-185481
+  teiginys: 'Maskvos valdovas Ivanas, prisiekdamas visomis šventenybėmis, žadėjo išdavikams nuo Lietuvos atplėštus miestus ir kraštus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kaip atlyginimą už išdavystę, prisiekdamas visomis švente nybėmis, pažadėjo, kad jie paveldėsią miestus ir kraš tus, kurie bus nuo Lietuvos atplėšti.'
+  santrauka: 'Maskvos valdovas Ivanas, prisiekdamas visomis šventenybėmis, žadėjo išdavikams nuo Lietuvos atplėštus miestus ir kraštus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dievobaimingas Aleksandro įstangas sužlugdė klas­
@@ -47,3 +48,9 @@ Kojelavičius teigia, kad kaip atlyginimą už išdavystę, prisiekdamas visomis
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Graikai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/graikų apeigos]]

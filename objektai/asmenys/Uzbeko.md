@@ -25,7 +25,9 @@ Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudes
 
 ## Teiginiai
 
+<a id="claim-t-30404"></a>
 - t-001
+  global_id: t-30404
   teiginys: 'Totorių chanas Uzbekas kėlė Teodorui baimę, todėl šis negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva.'
   pagrindžia:
     - c-001

@@ -19,12 +19,16 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
 
 ## Teiginiai
 
+<a id="claim-t-78962"></a>
 - t-001
+  global_id: t-78962
   teiginys: 'Strijkovskis) teigia, kad Algirdas, sutelkęs savo lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą, Čerkasus, ties Mėlynaisiais Vandenimis sumušęs totorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78963"></a>
 - t-002
+  global_id: t-78963
   teiginys: 'Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų, kurių kariuomenė susirėmė su Lietuvos kariuomene.'
   pagrindžia:
     - c-002

@@ -21,7 +21,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Konstantinas Ostrogiškis
 
 ## Santrauka
@@ -30,40 +29,47 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 
 ## Teiginiai
 
+<a id="claim-t-181590"></a>
 - t-001
+  global_id: t-181590
   teiginys: 'Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trejybės cerkvę ir įkurdino bazilijonus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183553"></a>
 - t-002
+  global_id: t-183553
   teiginys: 'Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184755"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad konstantinas Ostrogiškis pasiuntė į Smolenską lengvuosius dalinius, vedamus Konstantino, Ostrogo kunigaikščio, o K o n sta n tin a s O stio - pats su pagrindinėmis jėgog išk is traukia p rieš mis lėtai patraukė iš paskos, M a s k v ą šiek tiek stabtelėdamas iš pradžių Minske, o po to Borisove.'
+  global_id: t-184755
+  teiginys: 'Aleksandras pasiuntė Konstantino Ostrogiškio vedamus lengvuosius dalinius į Smolenską, o pats su pagrindinėmis jėgomis patraukė iš paskos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184757"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad konstantinas Ostrogiškis įtaisė karo stovyklą Obolcuose.'
+  global_id: t-184757
+  teiginys: 'Karalius, užbaigęs karą su Maskva, pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184758"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad karalius, užbaigęs ka rą su Maskva, dalį algininkų paleido, o su kitais pa siuntė į Volynę Konstantiną Ostrogiškį.'
+  global_id: t-184758
+  teiginys: 'Konstantinas Ostrogiškis įsakė lietuvių vėliavoms apsimestinai trauktis, tikėdamasis išardyti priešo raitelių rikiuotę.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184759"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad tuo metu Ostrogiškis įsakė lietuvių vėliavoms trauktis at gal, dedantis, kad ketina pasišalinti iš kovos lauko, būdamas tikras, kad priešo raiteliai paliks kovojančią rikiuotę.'
+  global_id: t-184759
+  teiginys: 'Po pergalės Konstantinas Ostrogiškis suskaičiavo belaisvius ir išsiuntė karaliui 380 žymiausių bajorų su laišku apie pergalę.'
   pagrindžia:
     - c-006
-
-- t-007
-  teiginys: 'Kojelavičius teigia, kad surengęs stovykloje kareiviškas pamaldas ir pa dėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis suskaičiavo belaisvius ir, atrinkęs tris šimtus aštuo niasdešimt žymiausių bajorų, išsiuntė juos karaliui su laišku apie pergalę.'
-  pagrindžia:
-    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -101,7 +107,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad konstantinas Ostrogiškis pasiuntė į Smolenską lengvuosius dalinius, vedamus Konstantino, Ostrogo kunigaikščio, o K o n sta n tin a s O stio - pats su pagrindinėmis jėgog išk is traukia p rieš mis lėtai patraukė iš paskos, M a s k v ą šiek tiek stabtelėdamas iš pradžių Minske, o po to Borisove.'
+  santrauka: 'Aleksandras pasiuntė Konstantino Ostrogiškio vedamus lengvuosius dalinius į Smolenską, o pats su pagrindinėmis jėgomis patraukė iš paskos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai Ivanas svarstė su
@@ -129,30 +135,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad konstantinas Ostrogiškis įtaisė karo stovyklą Obolcuose.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Išvengė nelaisvės ar
-    mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va­
-    lavičius, Teodoras Nemyra, Bogdanas Maskevičius; šie
-    garsūs pulkų vadai, sužeisti ir beveik visai išsekę, su
-    kardu rankoje prasiskynė kelią per ginkluotus būrius
-    ir paspruko iš pavojaus. Atvestas pas Ivaną, Konstan­
-    tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­
-    kinimus: ne tik kojas jam it vergui surakino grandinė­
-    mis, bet ir rankas užlaužė už nugaros ir nelyginant
-    raiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą
-    Aleksandras sužinojo prie Bobro upės; norėdamas su­
-    stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
-    se.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Kojelavičius teigia, kad karalius, užbaigęs ka rą su Maskva, dalį algininkų paleido, o su kitais pa siuntė į Volynę Konstantiną Ostrogiškį.'
+  santrauka: 'Karalius, užbaigęs karą su Maskva, pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto
@@ -172,10 +155,10 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-006
-  santrauka: 'Kojelavičius teigia, kad tuo metu Ostrogiškis įsakė lietuvių vėliavoms trauktis at gal, dedantis, kad ketina pasišalinti iš kovos lauko, būdamas tikras, kad priešo raiteliai paliks kovojančią rikiuotę.'
+- c-005
+  santrauka: 'Konstantinas Ostrogiškis įsakė lietuvių vėliavoms apsimestinai trauktis, tikėdamasis išardyti priešo raitelių rikiuotę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Paskui jį puolė visi kiti pulkai, o pir­
@@ -190,10 +173,10 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-007
-  santrauka: 'Kojelavičius teigia, kad surengęs stovykloje kareiviškas pamaldas ir pa dėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis suskaičiavo belaisvius ir, atrinkęs tris šimtus aštuo niasdešimt žymiausių bajorų, išsiuntė juos karaliui su laišku apie pergalę.'
+- c-006
+  santrauka: 'Po pergalės Konstantinas Ostrogiškis suskaičiavo belaisvius ir išsiuntė karaliui 380 žymiausių bajorų su laišku apie pergalę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Į nelaisvę pakliuvo
@@ -210,4 +193,20 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Graikai]]
+- [[objektai/grupes/Kazokai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/zodynas/algininkai]]
+- [[objektai/zodynas/gotika]]
+- [[objektai/zodynas/tėvonija]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Bazilijonų ordinas]]
+- [[objektai/paprociai/Padėkos pamaldos už karinę pergalę]]

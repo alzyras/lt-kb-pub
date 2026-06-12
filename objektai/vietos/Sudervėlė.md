@@ -19,7 +19,9 @@ To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuoči
 
 ## Teiginiai
 
+<a id="claim-t-86240"></a>
 - t-001
+  global_id: t-86240
   teiginys: 'Prie Sudervėlės upelio buvo pilkapis, laikytas lietuvių sumuštų kryžiuočių kapaviete.'
   pagrindžia:
     - c-001

@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-47838"></a>
 - t-001
+  global_id: t-47838
   teiginys: 'Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną dievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius rūpestingiau auginą, negu germanai: jūros pakraščiais ir krante jie renką gintarą, kurį vadiną « glesum ».'
   pagrindžia:
     - c-001
 
+<a id="claim-t-47839"></a>
 - t-002
+  global_id: t-47839
   teiginys: 'Tacitas rašė, kad prie Baltijos jūros gyvenę Aestii garbino dievų motiną ir nešiojo šernų amuletus.'
   pagrindžia:
     - c-001

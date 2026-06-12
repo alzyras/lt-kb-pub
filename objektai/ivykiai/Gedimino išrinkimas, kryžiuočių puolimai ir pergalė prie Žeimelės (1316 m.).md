@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad jo valdymo pradžia, Prūsijos bei Livonijos kryžiuočiams stojus į karą, buvo ne tik nerami, bet ir liūdna. Kojelavičius teigia, kad mat jis gal dėl to, kad uoliai tvarkė valstybės vidaus reikalus, negalėjo atremti iš orinių priešų antpuolių, o gal dėl to, kad rengėsi di desniam karui, nestojo į atvirą kovą su priešu, nors tuo metu vienoje pusėje kryžiuočiai, užėmę Jurbarko ir Kauno pilis. Kojelavičius teigia, kad kitų metų pradžioje kryžiuočiai, pasinaudodami pergale, pasiuntė skirtingais keliais skirtingas kariau nas krašto niokoti.
+Gedimino valdymo pradžia buvo nerami, nes į karą stojo Prūsijos ir Livonijos kryžiuočiai. Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą. 1316 m. pradžioje kryžiuočiai pasiuntė skirtingas kariaunas krašto niokoti ir nusiaubė Paštuvos, Medininkų bei Pagraudės valsčius.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,35 +32,45 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185488"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad jo valdymo pradžia, Prūsijos bei Livonijos kryžiuočiams stojus į karą, buvo ne tik nerami, bet ir liūdna.'
+  global_id: t-185488
+  teiginys: 'Gedimino valdymo pradžia buvo nerami, nes į karą stojo Prūsijos ir Livonijos kryžiuočiai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185489"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad mat jis gal dėl to, kad uoliai tvarkė valstybės vidaus reikalus, negalėjo atremti iš orinių priešų antpuolių, o gal dėl to, kad rengėsi di desniam karui, nestojo į atvirą kovą su priešu, nors tuo metu vienoje pusėje kryžiuočiai, užėmę Jurbarko ir Kauno pilis.'
+  global_id: t-185489
+  teiginys: 'Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185490"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad kitų metų pradžioje kryžiuočiai, pasinaudodami pergale, pasiuntė skirtingais keliais skirtingas kariau nas krašto niokoti.'
+  global_id: t-185490
+  teiginys: '1316 m. pradžioje kryžiuočiai pasiuntė skirtingas kariaunas krašto niokoti ir nusiaubė Paštuvos, Medininkų bei Pagraudės valsčius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185491"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad kai galop sutraukė visos jėgos, tada atvirai per Žemaitiją nužygiavo prie Žeimelės upelio, kur įrengė įtvirtintą stovyklą, iš kurios galėtų atremti priešą.'
+  global_id: t-185491
+  teiginys: 'Sutelkęs visas jėgas, Gediminas per Žemaitiją nužygiavo prie Žeimelės upelio ir įrengė įtvirtintą stovyklą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-185492"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad kai kryžiuočiai smarkiai užpuolė pirmąsias eiles, totoriai, neįpratę kovoti vienoje vietoje, nesitraukiant nė per žingsnį, išsisklaidė, kaip jų tautos kariai įpratę, puslan kiu ir tuo būdu išvengė ietininkų antpuolio.'
+  global_id: t-185492
+  teiginys: 'Žeimelės mūšyje Gedimino kariuomenės priekyje stovėję totoriai puslankiu išsisklaidė ir išvengė kryžiuočių ietininkų antpuolio.'
   pagrindžia:
     - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad jo valdymo pradžia, Prūsijos bei Livonijos kryžiuočiams stojus į karą, buvo ne tik nerami, bet ir liūdna.'
+  santrauka: 'Gedimino valdymo pradžia buvo nerami, nes į karą stojo Prūsijos ir Livonijos kryžiuočiai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     To­
@@ -104,7 +113,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad mat jis gal dėl to, kad uoliai tvarkė valstybės vidaus reikalus, negalėjo atremti iš orinių priešų antpuolių, o gal dėl to, kad rengėsi di desniam karui, nestojo į atvirą kovą su priešu, nors tuo metu vienoje pusėje kryžiuočiai, užėmę Jurbarko ir Kauno pilis.'
+  santrauka: 'Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat jis gal dėl to, kad uoliai
@@ -134,7 +143,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad kitų metų pradžioje kryžiuočiai, pasinaudodami pergale, pasiuntė skirtingais keliais skirtingas kariau nas krašto niokoti.'
+  santrauka: '1316 m. pradžioje kryžiuočiai pasiuntė skirtingas kariaunas krašto niokoti ir nusiaubė Paštuvos, Medininkų bei Pagraudės valsčius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis
@@ -160,7 +169,7 @@ Nenurodyta
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad kai galop sutraukė visos jėgos, tada atvirai per Žemaitiją nužygiavo prie Žeimelės upelio, kur įrengė įtvirtintą stovyklą, iš kurios galėtų atremti priešą.'
+  santrauka: 'Sutelkęs visas jėgas, Gediminas per Žemaitiją nužygiavo prie Žeimelės upelio ir įrengė įtvirtintą stovyklą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš tolo, iš pasalų kamavo priešą, bet at­
@@ -177,7 +186,7 @@ Nenurodyta
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad kai kryžiuočiai smarkiai užpuolė pirmąsias eiles, totoriai, neįpratę kovoti vienoje vietoje, nesitraukiant nė per žingsnį, išsisklaidė, kaip jų tautos kariai įpratę, puslan kiu ir tuo būdu išvengė ietininkų antpuolio.'
+  santrauka: 'Žeimelės mūšyje Gedimino kariuomenės priekyje stovėję totoriai puslankiu išsisklaidė ir išvengė kryžiuočių ietininkų antpuolio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dėjosi skatinąs žemaičių
@@ -196,3 +205,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/arklininkas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/įgula]]

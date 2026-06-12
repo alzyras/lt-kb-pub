@@ -25,7 +25,9 @@ Jo kū­ rinys, pavadintas Heimskringla, tai yra Pasaulis, arba tiksliau - Žem�
 
 ## Teiginiai
 
+<a id="claim-t-88079"></a>
 - t-001
+  global_id: t-88079
   teiginys: 'Peringskioeld 1697 m. Stokholme išleido „Heimskringlą“ islandų, švedų ir lotynų kalbomis.'
   pagrindžia:
     - c-001

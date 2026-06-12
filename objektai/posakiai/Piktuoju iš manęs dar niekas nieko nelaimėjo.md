@@ -20,7 +20,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-06880"></a>
 - t-001
+  global_id: t-06880
   teiginys: 'Vytautas maršalkai pareiškė, kad piktuoju iš jo dar niekas nieko nelaimėjo ir kad savo nusistatymo jis nekeičia.'
   pagrindžia:
     - c-001

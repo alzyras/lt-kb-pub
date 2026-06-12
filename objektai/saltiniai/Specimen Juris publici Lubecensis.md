@@ -18,7 +18,9 @@ Il, p. 353 ir kt.) yra žinomi Gedimino laiškai tik dominikonų ordinui, Mažes
 
 ## Teiginiai
 
+<a id="claim-t-88335"></a>
 - t-001
+  global_id: t-88335
   teiginys: 'Gedimino laiškas Šiaurės Vokietijos pajūrio miestams buvo įdėtas Dreyerio veikale „Specimen Juris publici Lubecensis“.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso pasaulio
 
 ## Teiginiai
 
+<a id="claim-t-22212"></a>
 - t-001
+  global_id: t-22212
   teiginys: '1940 m. vasarą Sovietų Sąjunga Baltijos valstybėse prievarta įvedė tariamai demokratinį valdymą, oficialiai vadintą „liaudies demokratija“.'
   pagrindžia:
     - c-001

@@ -19,12 +19,16 @@ Tegyvuoja gegužės 3 d. konstitucija!: vienas Vilniaus gimnazijos mokinys ant l
 
 ## Teiginiai
 
+<a id="claim-t-67285"></a>
 - t-001
+  global_id: t-67285
   teiginys: '1823 m. Vilniaus gimnazijos mokinys ant lentos užrašė šūkį „Tegyvuoja gegužės 3 d. konstitucija!“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67286"></a>
 - t-002
+  global_id: t-67286
   teiginys: 'Po šūkio „Tegyvuoja gegužės 3 d. konstitucija!“ užrašymo prasidėjo mokinių ir studentų kratos bei areštai.'
   pagrindžia:
     - c-001

@@ -24,12 +24,16 @@ Jau 1407 m. Žemaičiai vakarų krikščionims patiektame savo memoriale, kuris 
 
 ## Teiginiai
 
+<a id="claim-t-28750"></a>
 - t-001
+  global_id: t-28750
   teiginys: '1416 m. Konstancoje įteiktame „Žemaičių skunde“ išsamiai išvardytos ordino riterių skriaudos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184365"></a>
 - t-002
+  global_id: t-184365
   teiginys: 'Jau 1407 m. Žemaičiai vakarų krikščionims patiektame savo memoriale, kuris Konstancoje buvo ištisai paskelbtas, skundėsi kieta ordino priespauda ir jo žiaurumais.'
   pagrindžia:
     - c-002

@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-21021"></a>
 - t-001
+  global_id: t-21021
   teiginys: 'Baltijos valstybių santarvės ir bendradarbiavimo sutartis buvo susijusi su Baltijos Valstybių Tarybos įkūrimu.'
   pagrindžia:
     - c-001

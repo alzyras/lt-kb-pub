@@ -18,7 +18,9 @@ Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Ma
 
 ## Teiginiai
 
+<a id="claim-t-19317"></a>
 - t-001
+  global_id: t-19317
   teiginys: 'Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta Vinco Mykolaičio-Putino kūrinių.'
   pagrindžia:
     - c-001

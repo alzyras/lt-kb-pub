@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-18849"></a>
 - t-001
+  global_id: t-18849
   teiginys: '1427 m. Baziliui II buvo žygiuojama į Maskvą padėti, ir tam pakako vien jėgos demonstravimo.'
   pagrindžia:
     - c-001

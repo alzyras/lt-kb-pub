@@ -18,7 +18,9 @@ Stanislovo bažny­ čioje, deja, dėl kapitulos priekaištingo aplaidumo vėlia
 
 ## Teiginiai
 
+<a id="claim-t-86318"></a>
 - t-001
+  global_id: t-86318
   teiginys: 'Šv. Stanislovo bažnyčioje buvo pastatyti marmuriniai Elžbietos ir Barboros antkapiai, vėliau pražuvę Katedros griuvėsiuose.'
   pagrindžia:
     - c-001

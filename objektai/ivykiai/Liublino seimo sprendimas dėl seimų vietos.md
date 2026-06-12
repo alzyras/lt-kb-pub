@@ -30,7 +30,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01738"></a>
 - t-001
+  global_id: t-01738
   teiginys: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kitą Lenkijos miestą.'
   pagrindžia:
     - c-001

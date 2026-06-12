@@ -18,7 +18,9 @@ Normanų įtakos pėdsakų reikią ieškoti Lietuvos bajorkaimiuose — okolicos
 
 ## Teiginiai
 
+<a id="claim-t-28571"></a>
 - t-001
+  global_id: t-28571
   teiginys: 'Normanų įtakos pėdsakų Lietuvos bajorkaimiuose, okolicose, dar reikėjo gilesnio mokslinio pagrindimo.'
   pagrindžia:
     - c-001

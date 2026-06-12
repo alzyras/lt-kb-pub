@@ -17,7 +17,9 @@ Buvo valakai, kryžiuočių dalinys (100 riterių), vadovaujamas Ragainės komt�
 
 ## Teiginiai
 
+<a id="claim-t-39600"></a>
 - t-001
+  global_id: t-39600
   teiginys: 'Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje prie Kijevo.'
   pagrindžia:
     - c-001

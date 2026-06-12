@@ -26,12 +26,16 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-179498"></a>
 - t-001
+  global_id: t-179498
   teiginys: 'Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasinės visuomenės susidarymas Lietuvoje {Remiantis archeologinių kasinėjimų duomenimis ) (VUMD, t.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-179501"></a>
 - t-002
+  global_id: t-179501
   teiginys: 'P. Kulikauskas, R. Kulikauskienė ir A. Tautavičius 1961 m. išleido knygą „Lietuvos archeologijos bruožai“.'
   pagrindžia:
     - c-001

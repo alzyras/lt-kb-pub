@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # chanas caras
 
 ## Santrauka
 
-Kojelavičius teigia, kad štai todėl maloniai ir noriai priėmė Tochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu les iškilmes, uždėjo jam perlais bei brangakmeniais nu sagstytą kepurę, paskelbė Užvolgio skitų chanu (pap rastai vadinamu caru) ir pakėlė į valdovus.
+Vytautas Vilniuje paskelbė Tochtamyšą Užvolgio skitų chanu, paprastai vadinamu caru, ir pakėlė jį į valdovus.
 
 ## Teiginiai
 
+<a id="claim-t-185400"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad štai todėl maloniai ir noriai priėmė Tochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu les iškilmes, uždėjo jam perlais bei brangakmeniais nu sagstytą kepurę, paskelbė Užvolgio skitų chanu (pap rastai vadinamu caru) ir pakėlė į valdovus.'
+  global_id: t-185400
+  teiginys: 'Vytautas Vilniuje paskelbė Tochtamyšą Užvolgio skitų chanu, paprastai vadinamu caru, ir pakėlė jį į valdovus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad štai todėl maloniai ir noriai priėmė Tochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu les iškilmes, uždėjo jam perlais bei brangakmeniais nu sagstytą kepurę, paskelbė Užvolgio skitų chanu (pap rastai vadinamu caru) ir pakėlė į valdovus.'
+  santrauka: 'Vytautas Vilniuje paskelbė Tochtamyšą Užvolgio skitų chanu, paprastai vadinamu caru, ir pakėlė jį į valdovus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas, ne vieną
@@ -42,3 +43,11 @@ Kojelavičius teigia, kad štai todėl maloniai ir noriai priėmė Tochtamyšą,
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Tochtamyšas]]
+- [[objektai/ivykiai/Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.)]]

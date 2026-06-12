@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88494"></a>
 - t-001
+  global_id: t-88494
   teiginys: '„Vilniaus miesto privilegijų rinkinyje“ Dubinskis išspausdino karaliaus Stepono laiškus dėl kalendorinių ginčų.'
   pagrindžia:
     - c-001

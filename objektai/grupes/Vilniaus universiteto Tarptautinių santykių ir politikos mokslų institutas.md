@@ -17,7 +17,9 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
 
 ## Teiginiai
 
+<a id="claim-t-20076"></a>
 - t-001
+  global_id: t-20076
   teiginys: 'Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti Lietuvos istorijos veikalą.'
   pagrindžia:
     - c-001

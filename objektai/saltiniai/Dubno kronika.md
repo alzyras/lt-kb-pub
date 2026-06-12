@@ -19,7 +19,9 @@ Kučinskas: Kęstutis , 124-125 p. 260 ii skyrius: valstybės iškilimas mis; pa
 
 ## Teiginiai
 
+<a id="claim-t-100160"></a>
 - t-001
+  global_id: t-100160
   teiginys: 'Dubno kronikoje smulkiai užrašytos Kęstučio atliktos pagoniškos jaučio aukojimo apeigos.'
   pagrindžia:
     - c-001

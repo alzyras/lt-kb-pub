@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Eustachijus Daškevičius
 
 ## Santrauka
 
-Kojelavičius teigia, kad vis dėlto vienas kitas slaptai perbėgo į lietuvių stovyklą, be ki tų, ir senas kazokų vadas Eustachijus Daškevičius, pa garsėjęs pergalėmis prieš skitus.
+Senas kazokų vadas Eustachijus Daškevičius slaptai perbėgo į lietuvių stovyklą.
 
 ## Teiginiai
 
+<a id="claim-t-186199"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vis dėlto vienas kitas slaptai perbėgo į lietuvių stovyklą, be ki tų, ir senas kazokų vadas Eustachijus Daškevičius, pa garsėjęs pergalėmis prieš skitus.'
+  global_id: t-186199
+  teiginys: 'Senas kazokų vadas Eustachijus Daškevičius slaptai perbėgo į lietuvių stovyklą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vis dėlto vienas kitas slaptai perbėgo į lietuvių stovyklą, be ki tų, ir senas kazokų vadas Eustachijus Daškevičius, pa garsėjęs pergalėmis prieš skitus.'
+  santrauka: 'Senas kazokų vadas Eustachijus Daškevičius slaptai perbėgo į lietuvių stovyklą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitokie žmonės taip ilgai esti klusnūs, kaip
@@ -39,3 +40,10 @@ Kojelavičius teigia, kad vis dėlto vienas kitas slaptai perbėgo į lietuvių 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kazokai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/algininkai]]
+- [[objektai/ivykiai/Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo]]

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Žemutinis Naugardas
 
 ## Santrauka
 
-Kojelavičius teigia, kad vasilijus, ramus dėl lietuvių pasienio, išsiuntė sa vo kariuomenę prieš Kazanės skitus: Žemutinio Naugardo kunigaikštystėje įsirengęs vadavietę, asmeniš kai prižiūrėjo šį žygį.
+Vasilijus Žemutinio Naugardo kunigaikštystėje įsirengė vadavietę ir asmeniškai prižiūrėjo žygį prieš Kazanės skitus.
 
 ## Teiginiai
 
+<a id="claim-t-185324"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vasilijus, ramus dėl lietuvių pasienio, išsiuntė sa vo kariuomenę prieš Kazanės skitus: Žemutinio Naugardo kunigaikštystėje įsirengęs vadavietę, asmeniš kai prižiūrėjo šį žygį.'
+  global_id: t-185324
+  teiginys: 'Vasilijus Žemutinio Naugardo kunigaikštystėje įsirengė vadavietę ir asmeniškai prižiūrėjo žygį prieš Kazanės skitus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vasilijus, ramus dėl lietuvių pasienio, išsiuntė sa vo kariuomenę prieš Kazanės skitus: Žemutinio Naugardo kunigaikštystėje įsirengęs vadavietę, asmeniš kai prižiūrėjo šį žygį.'
+  santrauka: 'Vasilijus Žemutinio Naugardo kunigaikštystėje įsirengė vadavietę ir asmeniškai prižiūrėjo žygį prieš Kazanės skitus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gal juokais, gal

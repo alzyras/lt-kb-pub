@@ -18,23 +18,31 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 
 ## Teiginiai
 
+<a id="claim-t-01458"></a>
 - t-001
+  global_id: t-01458
   teiginys: 'Beveik visos didžiųjų ponų šeimos buvo tapusios protestantais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01459"></a>
 - t-002
+  global_id: t-01459
   teiginys: 'Protestantų mokyklos katalikams buvo laikomos pavojingiausiomis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01460"></a>
 - t-003
+  global_id: t-01460
   teiginys: 'Tik 1660 m. Lietuvos protestantų rūpesčiu Anglijoje buvo išspausdinta didelė dalis lietuviškai išverstos Biblijos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-182919"></a>
 - t-004
-  teiginys: 'Katalikams pačios pavojingosios buvo protestantų mokyklos.'
+  global_id: t-182919
+  teiginys: 'Katalikams pavojingiausios buvo protestantų didikų, o kai kur ir miestiečių steigiamos mokyklos.'
   pagrindžia:
     - c-004
 
@@ -82,7 +90,7 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
     - t-003
 
 - c-004
-  santrauka: 'Katalikams pačios pavojingosios buvo protestantų mokyklos.'
+  santrauka: 'Katalikams pavojingiausios buvo protestantų didikų, o kai kur ir miestiečių steigiamos mokyklos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visur

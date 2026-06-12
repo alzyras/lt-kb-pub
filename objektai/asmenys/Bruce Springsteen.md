@@ -16,7 +16,9 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 
 ## Teiginiai
 
+<a id="claim-t-18860"></a>
 - t-001
+  global_id: t-18860
   teiginys: 'Bruce Springsteenas grojo Tony’o Zemaicio sukurta gitara „Zemaitis“.'
   pagrindžia:
     - c-001

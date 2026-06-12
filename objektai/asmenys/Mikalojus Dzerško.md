@@ -26,7 +26,9 @@ Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų menų magistras, b
 
 ## Teiginiai
 
+<a id="claim-t-87784"></a>
 - t-001
+  global_id: t-87784
   teiginys: 'Mikalojus Dzerško, dar vadintas Dzerškavičiumi, buvo lietuvis, laisvųjų menų magistras ir vyskupas 1453-1462 m.'
   pagrindžia:
     - c-001

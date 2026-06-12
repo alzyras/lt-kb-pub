@@ -47,22 +47,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-55155"></a>
 - t-001
+  global_id: t-55155
   teiginys: 'M. Balinskis Varšuvos laikraštyje spausdino Laiškus, kuriuose nagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55156"></a>
 - t-002
+  global_id: t-55156
   teiginys: 'To meto Lenkijos laikraščiuose ir žurnaluose buvo spausdinama nemažai straipsnių apie socialinę-ekonominę padėtį ir kultūrinį gyvenimą į rytus nuo Nemuno.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81866"></a>
 - t-003
+  global_id: t-81866
   teiginys: 'XIX a. Lenkijos laikraščiai ir žurnalai spausdino straipsnius apie socialinę-ekonominę padėtį į rytus nuo Nemuno ir kultūrinį gyvenimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81867"></a>
 - t-004
+  global_id: t-81867
   teiginys: '„Laiškai nuo Kražantės upės kranto“ padeda suprasti XIX a. penktojo ir šeštojo dešimtmečių visuomeninį bei kultūrinį pagyvėjimą Lietuvoje ir Lenkijoje.'
   pagrindžia:
     - c-001

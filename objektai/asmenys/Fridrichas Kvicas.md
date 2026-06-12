@@ -29,22 +29,30 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
 
 ## Teiginiai
 
+<a id="claim-t-59957"></a>
 - t-001
+  global_id: t-59957
   teiginys: 'Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės ginklanešiais link Bisenės pilies irgi tuo laiku.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59958"></a>
 - t-002
+  global_id: t-59958
   teiginys: 'Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras, ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-59959"></a>
 - t-003
+  global_id: t-59959
   teiginys: '1323 metais Vėluvos valsčiuje lietuviai nužudė brolį Fridrichą Kvicą, vadintą drąsiu ir narsiu kariu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59960"></a>
 - t-004
+  global_id: t-59960
   teiginys: 'Fridrichas Kvicas su broliu Hartmanu ir 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė.'
   pagrindžia:
     - c-003

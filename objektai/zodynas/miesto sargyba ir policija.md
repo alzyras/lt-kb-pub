@@ -25,7 +25,9 @@ Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­ rėti šarvus, muškiet
 
 ## Teiginiai
 
+<a id="claim-t-86596"></a>
 - t-001
+  global_id: t-86596
   teiginys: '1522 m. Žygimanto įsakymu miesto sargyba ir policija buvo grąžinta magistratui, kuris turėjo išlaikyti 24 sargybinius.'
   pagrindžia:
     - c-001

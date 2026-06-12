@@ -17,7 +17,9 @@ Rugsėjo 15 d. turkų kariuomenė, vadovaujama Budos pašos Karakašo dar kartą
 
 ## Teiginiai
 
+<a id="claim-t-40257"></a>
 - t-001
+  global_id: t-40257
   teiginys: 'Rugsėjo 15 d. Budos pašos Karakašo vadovaujama turkų kariuomenė dar kartą bandė pulti, bet po vado sužeidimo pasitraukė.'
   pagrindžia:
     - c-001

@@ -18,17 +18,23 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
 
 ## Teiginiai
 
+<a id="claim-t-12598"></a>
 - t-001
+  global_id: t-12598
   teiginys: 'Pirmasis lenkų urėdas Lietuvoje vadinosi seniūnu ir buvo Jogailos 1386 m. į Vilnių atsiųstas Vilniaus seniūnas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-12599"></a>
 - t-002
+  global_id: t-12599
   teiginys: 'Vytauto laikais įvedami lenkiški urėdai žymi administracijos pertvarką.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70375"></a>
 - t-003
+  global_id: t-70375
   teiginys: 'Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.'
   pagrindžia:
     - c-003

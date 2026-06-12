@@ -18,12 +18,16 @@ Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algir
 
 ## Teiginiai
 
+<a id="claim-t-34718"></a>
 - t-001
+  global_id: t-34718
   teiginys: 'Maskvos kunigaikštis Dimitras puolė totorių galybę, kuri Vytauto laikais jau buvo žlugusi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184255"></a>
 - t-002
+  global_id: t-184255
   teiginys: 'Maskvos kunigaikštis Dimitras kartu su Algirdu puolė totorių galybę, kuri Vytauto laikais jau buvo nusilpusi.'
   pagrindžia:
     - c-002

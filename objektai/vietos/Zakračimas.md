@@ -17,7 +17,9 @@ Susijungusios lietuvių, rusų, totorių jėgos su lenkų kariuomene prie Zakra�
 
 ## Teiginiai
 
+<a id="claim-t-36715"></a>
 - t-001
+  global_id: t-36715
   teiginys: 'Prie Zakračimo prie Vislos susijungusios lietuvių, rusų, totorių ir lenkų jėgos padėjo nuniokoti Prūsus.'
   pagrindžia:
     - c-001

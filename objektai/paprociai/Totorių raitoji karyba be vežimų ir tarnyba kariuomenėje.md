@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87227"></a>
 - t-001
+  global_id: t-87227
   teiginys: 'Seniau totoriai vertėsi audinių ir siūlų prekyba.'
   pagrindžia:
     - c-001

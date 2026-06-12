@@ -22,7 +22,9 @@ Pasiruošimas operacijai Įvertinusi situaciją vyriausioji Lietuvos karinė vad
 
 ## Teiginiai
 
+<a id="claim-t-39018"></a>
 - t-001
+  global_id: t-39018
   teiginys: 'Vyriausioji Lietuvos karinė vadovybė 1919 m. rugpjūčio 23 d. įsakė pradėti puolimą visu frontu.'
   pagrindžia:
     - c-001

@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-28314"></a>
 - t-001
+  global_id: t-28314
   teiginys: 'Nuo 1949 m. J. Jakštas emigracijoje gyveno Clevelande ir produktyviai reiškėsi Lietuvos istorijos lauke.'
   pagrindžia:
     - c-001

@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31419"></a>
 - t-001
+  global_id: t-31419
   teiginys: 'Ieškodamas taikos su Vytautu, Jogaila veikė drauge su Skirgaila, kuris buvo didelis Kęstutaičio priešas.'
   pagrindžia:
     - c-001

@@ -41,17 +41,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20205"></a>
 - t-001
+  global_id: t-20205
   teiginys: '1936 m. rinkimuose kandidatus į Seimą galėjo siūlyti tautininkų kontroliuojamos savivaldybės, o ne visuomeninės organizacijos ar piliečių grupės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-20206"></a>
 - t-002
+  global_id: t-20206
   teiginys: 'Todėl 1936 m. vasarą vykę rinkimai nebuvo demokratiniai, o išrinktas IV Seimas vadintas „smetoniniu Seimu“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183225"></a>
 - t-003
+  global_id: t-183225
   teiginys: 'Dėl to atgaivinta Seimo institucija.'
   pagrindžia:
     - c-003

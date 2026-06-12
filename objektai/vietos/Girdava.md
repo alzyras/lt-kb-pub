@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02455"></a>
 - t-001
+  global_id: t-02455
   teiginys: 'Girdavos pilis buvo įkurta 1325 m.'
   pagrindžia:
     - c-001

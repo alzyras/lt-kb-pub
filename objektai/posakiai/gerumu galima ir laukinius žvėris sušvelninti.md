@@ -26,23 +26,24 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
 
 ## Teiginiai
 
+<a id="claim-t-67291"></a>
 - t-001
+  global_id: t-67291
   teiginys: 'Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67292"></a>
 - t-002
+  global_id: t-67292
   teiginys: 'Vytautas, išgirdęs priekaištą dėl dosnaus žemių dalijimo totoriams Lietuvoje ir Rusijoje, atsakė, kad gerumu galima sušvelninti ir laukinius žvėris.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67293"></a>
 - t-003
+  global_id: t-67293
   teiginys: 'Vytautas posakiu apie gerumu sušvelninamus laukinius žvėris aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.'
-  pagrindžia:
-    - c-002
-
-- t-004
-  teiginys: 'Vytautas, priminus jo dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje, atsakė, kad gerumu galima ir laukinius žvėris sušvelninti.'
   pagrindžia:
     - c-002
 

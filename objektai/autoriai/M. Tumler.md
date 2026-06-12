@@ -16,7 +16,9 @@ TuDO = Tumler, M.
 
 ## Teiginiai
 
+<a id="claim-t-30851"></a>
 - t-001
+  global_id: t-30851
   teiginys: 'M. Tumleris 1955 m. Vienoje išleido veikalą „Der Deutsche Orden im Werden, Wachsen und Wirken bis 1400“.'
   pagrindžia:
     - c-001

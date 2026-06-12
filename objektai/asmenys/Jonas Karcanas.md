@@ -26,7 +26,9 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 
 ## Teiginiai
 
+<a id="claim-t-87723"></a>
 - t-001
+  global_id: t-87723
   teiginys: 'Apie 1580 metus Jonas Karcanas globojo Vilniuje klestėjusią evangelikų reformatų Danieliaus iš Lenčicos spaustuvę.'
   pagrindžia:
     - c-001

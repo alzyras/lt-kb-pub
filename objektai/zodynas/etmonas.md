@@ -16,7 +16,9 @@ Greta didžiojo etmono M.
 
 ## Teiginiai
 
+<a id="claim-t-42451"></a>
 - t-001
+  global_id: t-42451
   teiginys: 'Kristupas Radvila vėliau tapo didžiuoju etmonu ir buvo vadinamas Perkūnu.'
   pagrindžia:
     - c-001

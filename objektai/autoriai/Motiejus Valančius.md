@@ -46,62 +46,87 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 
 ## Teiginiai
 
+<a id="claim-t-00055"></a>
 - t-001
-  teiginys: 'Valančius parašė „Žemaičių vyskupystę“.'
+  global_id: t-00055
+  teiginys: 'Motiejus Valančius 1848 m. parašė dviejų tomų istorinį veikalą „Žemaičių vyskupystė“.'
   pagrindžia:
     - c-001
+    - c-009
 
+<a id="claim-t-00056"></a>
 - t-002
-  teiginys: 'Vysk. Motiejus Valančius pats parašė daugybę knygučių.'
+  global_id: t-00056
+  teiginys: 'Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-00057"></a>
 - t-003
+  global_id: t-00057
   teiginys: 'Vysk. Motiejus Valančius išspausdino 1867—1869 m. knygutes spaudos kovai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-00058"></a>
 - t-004
+  global_id: t-00058
   teiginys: 'Vysk. Motiejus Valančius parašė ir kitas žinomas knygas bei knygeles.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-00059"></a>
 - t-005
+  global_id: t-00059
   teiginys: 'Spaudos draudimo metu Amerikoje buvo išleista ir Motiejaus Valančiaus raštų.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-00060"></a>
 - t-006
+  global_id: t-00060
   teiginys: 'Valančiaus raginimu daug kur atsirado slaptų mokyklų, kuriose mokyta iš draudžiamųjų knygų.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-00061"></a>
 - t-007
+  global_id: t-00061
   teiginys: 'Valančius vyskupavo 1850—1875 m., o jo raginama kunigija platino blaivybės brolijas.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-00062"></a>
 - t-008
+  global_id: t-00062
   teiginys: 'Valančiaus 1867—1869 m. knygutės buvo politinės brošiūros, kuriose pirmą kartą išdėstyta prieš rusų valdžią nukreipta lietuvių politinė programa.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-179551"></a>
 - t-009
+  global_id: t-179551
   teiginys: 'Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-179553"></a>
 - t-010
+  global_id: t-179553
   teiginys: 'Daukantas įkalbino savo kraštietį Motiejų Valančių (1801– 1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos istoriją lietuviškai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-179554"></a>
 - t-011
+  global_id: t-179554
   teiginys: 'Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-179555"></a>
 - t-012
+  global_id: t-179555
   teiginys: 'Sveikas pažiūras ir gana kritišką nusistatymą link šaltinių parodė Motiejus Valančius savo 2-jų tomų veikale « Žemaičių Vyskupystėje »^43.'
   pagrindžia:
     - c-009
@@ -109,6 +134,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Motiejus Valančius 1848 m. parašė dviejų tomų istorinį veikalą „Žemaičių vyskupystė“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmieji tikri, susipratę lietuviai, buvę aiškioje Vilniaus uni-
@@ -283,6 +309,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     - t-004
 
 - c-011
+  santrauka: 'Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš ten slapta knygos

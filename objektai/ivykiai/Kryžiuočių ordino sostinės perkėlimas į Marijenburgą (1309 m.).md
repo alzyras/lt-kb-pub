@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01685"></a>
 - t-001
+  global_id: t-01685
   teiginys: '1309 m. didysis magistras su taryba atsikėlė į Marijenburgą, kuris tapo Kryžiuočių ordino sostine.'
   pagrindžia:
     - c-001

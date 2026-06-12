@@ -16,7 +16,6 @@ amziai:
   - 'XVII'
   - 'XX'
 ---
-
 # Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
 
 ## Santrauka
@@ -40,29 +39,38 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-184452"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad j. Jurginio įvade nurodoma, kad pirmasis Kojelavičiaus istorijos tomas išėjo 1650 m. Gdanske, o antrasis 1669 m. Antverpene.'
+  global_id: t-184452
+  teiginys: 'Kojelavičiaus „Lietuvos istorijos“ pirmasis tomas išėjo 1650 m. Gdanske, o antrasis - 1669 m. Antverpene.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184453"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad j. Jurginio įvade teigiama, kad A. Kojelavičiaus istorija pakartotinių leidimų nesusilaukė.'
+  global_id: t-184453
+  teiginys: 'A. Kojelavičiaus istorija pakartotinių leidimų nesusilaukė.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184454"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad j. Jurginio įvade teigiama, kad Kojelavičiaus „Lietuvos istorija“ nėra originalus veikalas, nes kaip pagrindiniu žinių šaltiniu remiasi M. Strijkovskio kronika ir yra literatūriškai bei idėjiškai perdirbta.'
+  global_id: t-184454
+  teiginys: 'Juozas Jurginis įvade rašė, kad Kojelavičiaus „Lietuvos istorija“ nėra originalus veikalas ir remiasi M. Strijkovskio kronika.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184455"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad šis leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus jam parašė Juozas Jurginis.'
+  global_id: t-184455
+  teiginys: '1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Juozas Jurginis įvade rašė, kad Kojelavičiaus „Lietuvos istorija“ nėra originalus veikalas ir remiasi M. Strijkovskio kronika.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     A. Kojelavičius savo istoriją rašė pusamžiu vėliau
@@ -80,6 +88,7 @@ amziai:
     - t-003
 
 - c-002
+  santrauka: 'Kojelavičiaus „Lietuvos istorijos“ pirmasis tomas išėjo 1650 m. Gdanske, o antrasis - 1669 m. Antverpene.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     A. Kojelavičius nebegalėjo tikėtis tokio pasiseki­
@@ -93,6 +102,7 @@ amziai:
     - t-001
 
 - c-003
+  santrauka: '1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     BBK-63.3(2L)
@@ -121,6 +131,7 @@ amziai:
     - t-004
 
 - c-004
+  santrauka: 'A. Kojelavičiaus istorija pakartotinių leidimų nesusilaukė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     M. Strij­

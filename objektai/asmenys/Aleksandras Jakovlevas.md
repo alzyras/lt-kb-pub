@@ -17,7 +17,9 @@ LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lie
 
 ## Teiginiai
 
+<a id="claim-t-18776"></a>
 - t-001
+  global_id: t-18776
   teiginys: 'Aleksandras Jakovlevas LKP vadovybei pabrėžė, kad inteligentija yra liaudies savimonės išraiška.'
   pagrindžia:
     - c-001

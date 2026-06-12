@@ -19,12 +19,16 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 
 ## Teiginiai
 
+<a id="claim-t-75534"></a>
 - t-001
+  global_id: t-75534
   teiginys: 'Vilniaus konferencijos pagrindinė rezoliucija leido tikslinti santykius su Vokietija, jeigu tai nekenktų Lietuvos interesams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75535"></a>
 - t-002
+  global_id: t-75535
   teiginys: 'Konferencijoje dominavo kunigai – 66, valstiečiai – 65 ir inteligentai – 59.'
   pagrindžia:
     - c-001

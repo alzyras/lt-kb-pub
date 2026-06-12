@@ -18,12 +18,16 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
 
 ## Teiginiai
 
+<a id="claim-t-29017"></a>
 - t-001
+  global_id: t-29017
   teiginys: 'Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184374"></a>
 - t-002
+  global_id: t-184374
   teiginys: 'Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von Posilge.'
   pagrindžia:
     - c-002

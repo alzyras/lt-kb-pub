@@ -18,7 +18,9 @@ Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrant
 
 ## Teiginiai
 
+<a id="claim-t-58604"></a>
 - t-001
+  global_id: t-58604
   teiginys: 'Konradas pastatydino Noihauzą Kuršių nerijoje prie Sūriosios jūros, kad lietuviai netikėtai nesiveržtų į Sembą.'
   pagrindžia:
     - c-001

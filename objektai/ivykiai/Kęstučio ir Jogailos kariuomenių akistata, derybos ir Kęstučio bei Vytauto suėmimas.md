@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad kęstutis ži nojo, kad priešas vedasi didžiulę kariuomenę, kuriai jie neprilygsta nei ginkluote, nei karių skaičiumi. Kojelavičius teigia, kad derybos u ž los s to v y k lą , nugasitęsė ligi vakaro, labiau dėl b en a m a s į V iln ių to, kad buvo sąmoningai del siama, nei dėl to, kad susi tarti trukdė svarstomi klausimai. Kojelavičius teigia, kad ir Kęstutis, ir Vytautas, ir keli didikai, kurie ten buvo atlydėję kunigaikščius, pajuto, kur sukama, su prato, ką galvoja Jogaila, sakydamas tuos žodžius, ta čiau dabar jie galėjo tik smerkti savo aklą neapdairu mą, atvedusį juos į šias pasalas, nes nieko.
+Kęstutis žinojo, kad Jogailos kariuomenė pranoksta jo pajėgas ginkluote ir karių skaičiumi, bet vis tiek išrikiavo pulkus kovai. Jogailos ir Kęstučio derybos užsitęsė iki vakaro labiau dėl sąmoningo delsimo negu dėl svarstomų klausimų. Kęstutis, Vytautas ir juos atlydėję didikai suprato Jogailos ketinimus, bet priešų apsuptyje nedrįso priekaištauti dėl priesaikos sulaužymo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,30 +26,38 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185507"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kęstutis ži nojo, kad priešas vedasi didžiulę kariuomenę, kuriai jie neprilygsta nei ginkluote, nei karių skaičiumi.'
+  global_id: t-185507
+  teiginys: 'Kęstutis žinojo, kad Jogailos kariuomenė pranoksta jo pajėgas ginkluote ir karių skaičiumi, bet vis tiek išrikiavo pulkus kovai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185508"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad derybos u ž los s to v y k lą , nugasitęsė ligi vakaro, labiau dėl b en a m a s į V iln ių to, kad buvo sąmoningai del siama, nei dėl to, kad susi tarti trukdė svarstomi klausimai.'
+  global_id: t-185508
+  teiginys: 'Jogailos ir Kęstučio derybos užsitęsė iki vakaro labiau dėl sąmoningo delsimo negu dėl svarstomų klausimų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185509"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad ir Kęstutis, ir Vytautas, ir keli didikai, kurie ten buvo atlydėję kunigaikščius, pajuto, kur sukama, su prato, ką galvoja Jogaila, sakydamas tuos žodžius, ta čiau dabar jie galėjo tik smerkti savo aklą neapdairu mą, atvedusį juos į šias pasalas, nes nieko.'
+  global_id: t-185509
+  teiginys: 'Kęstutis, Vytautas ir juos atlydėję didikai suprato Jogailos ketinimus, bet priešų apsuptyje nedrįso priekaištauti dėl priesaikos sulaužymo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185510"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad tą pačią naktį Jogaila, pamynęs draugystės bei giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje.'
+  global_id: t-185510
+  teiginys: 'Tą pačią naktį Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kęstutis ži nojo, kad priešas vedasi didžiulę kariuomenę, kuriai jie neprilygsta nei ginkluote, nei karių skaičiumi.'
+  santrauka: 'Kęstutis žinojo, kad Jogailos kariuomenė pranoksta jo pajėgas ginkluote ir karių skaičiumi, bet vis tiek išrikiavo pulkus kovai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kęstutis ži­
@@ -75,7 +82,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad derybos u ž los s to v y k lą , nugasitęsė ligi vakaro, labiau dėl b en a m a s į V iln ių to, kad buvo sąmoningai del siama, nei dėl to, kad susi tarti trukdė svarstomi klausimai.'
+  santrauka: 'Jogailos ir Kęstučio derybos užsitęsė iki vakaro labiau dėl sąmoningo delsimo negu dėl svarstomų klausimų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Derybos u ž ­
@@ -103,7 +110,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad ir Kęstutis, ir Vytautas, ir keli didikai, kurie ten buvo atlydėję kunigaikščius, pajuto, kur sukama, su prato, ką galvoja Jogaila, sakydamas tuos žodžius, ta čiau dabar jie galėjo tik smerkti savo aklą neapdairu mą, atvedusį juos į šias pasalas, nes nieko.'
+  santrauka: 'Kęstutis, Vytautas ir juos atlydėję didikai suprato Jogailos ketinimus, bet priešų apsuptyje nedrįso priekaištauti dėl priesaikos sulaužymo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi susitarė dėl daugelio klausi­
@@ -128,7 +135,7 @@ Nenurodyta
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad tą pačią naktį Jogaila, pamynęs draugystės bei giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje.'
+  santrauka: 'Tą pačią naktį Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat nei geros savijautos,
@@ -156,3 +163,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/budeliai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

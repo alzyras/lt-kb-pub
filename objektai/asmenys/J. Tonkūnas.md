@@ -20,7 +20,9 @@ J. Tonkūnas minimas kaip švietimo ministeris, rūpinęsis veikalo bendradarbi�
 
 ## Teiginiai
 
+<a id="claim-t-00007"></a>
 - t-001
+  global_id: t-00007
   teiginys: 'J. Tonkūnas rūpinosi Lietuvos istorijos bendradarbių rinkimu ir teikė paramą atliekamam darbui.'
   pagrindžia:
     - c-001

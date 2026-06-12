@@ -26,18 +26,24 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 
 ## Teiginiai
 
+<a id="claim-t-47036"></a>
 - t-001
+  global_id: t-47036
   teiginys: 'Niurnbergas, 1741 m. vadinta „šauksmu tyruose“, nes vėlesni jo darbo tęsėjai nebekėlė tokių tikslų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-47037"></a>
 - t-002
+  global_id: t-47037
   teiginys: 'Nors Niurnbergo auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai, Lucko suvažiavimas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183063"></a>
 - t-003
-  teiginys: 'Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos narį (greičiausiai Kęstučio sūnų Patriką), kuris įtikino imperatorių, kad Lietuva tikrai krikštysis.'
+  global_id: t-183063
+  teiginys: 'Algirdas ir Kęstutis pasiuntė į Niurnbergą šeimos narį, kuris įtikino imperatorių, kad Lietuva krikštysis.'
   pagrindžia:
     - c-003
 
@@ -72,7 +78,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     - t-002
 
 - c-003
-  santrauka: 'Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos narį (greičiausiai Kęstučio sūnų Patriką), kuris įtikino imperatorių, kad Lietuva tikrai krikštysis.'
+  santrauka: 'Algirdas ir Kęstutis pasiuntė į Niurnbergą šeimos narį, kuris įtikino imperatorių, kad Lietuva krikštysis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Imperatorius parašė Algirdui

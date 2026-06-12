@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39089"></a>
 - t-001
+  global_id: t-39089
   teiginys: '1656 m. kilęs Žemaičių sukilimas padarė švedams daug nuostolių.'
   pagrindžia:
     - c-001

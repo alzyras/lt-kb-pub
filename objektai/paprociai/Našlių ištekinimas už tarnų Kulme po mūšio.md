@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62696"></a>
 - t-001
+  global_id: t-62696
   teiginys: 'Dusburgietis teigia, kad nutiko taip, kad dvi moterys, eidamos į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant kauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-62697"></a>
 - t-002
+  global_id: t-62697
   teiginys: 'Dusburgietis teigia, kad apie dviejų našlių ginčą dėl vieno vyro Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi tame mūšyje buvo išžudyti, įpareigojo visas našles, suteikęs joms nuodėmių atleidimą, tekėti už savo tarnų, kad tikėjimo reikalas.'
   pagrindžia:
     - c-003

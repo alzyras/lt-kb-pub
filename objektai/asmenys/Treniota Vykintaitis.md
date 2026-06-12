@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-40480"></a>
 - t-001
+  global_id: t-40480
   teiginys: 'Tikėtina, kad Treniota Vykintaitis vadovavo lietuvių kariuomenei Durbės mūšyje.'
   pagrindžia:
     - c-001

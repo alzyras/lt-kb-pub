@@ -25,22 +25,30 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
 
 ## Teiginiai
 
+<a id="claim-t-80128"></a>
 - t-001
+  global_id: t-80128
   teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-80129"></a>
 - t-002
+  global_id: t-80129
   teiginys: '1360 m. kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį Skalvos žemėje (netoli Tilžės), o kitą prie Nemuno žiočių — Ventės rage (Vindenburgą).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-80130"></a>
 - t-003
+  global_id: t-80130
   teiginys: 'Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir upės krante sunaikino kelias priešo pilaites (Kaustryčių ir kt.).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-80131"></a>
 - t-004
+  global_id: t-80131
   teiginys: 'Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius, įsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne kurios žemiau aprašytos kovos vyko po karo su nadruviais.'
   pagrindžia:
     - c-004

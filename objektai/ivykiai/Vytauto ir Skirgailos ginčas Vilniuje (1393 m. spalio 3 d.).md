@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-28877"></a>
 - t-001
+  global_id: t-28877
   teiginys: '1393 m. Vytauto ir Skirgailos ginčui spręsti Jogaila ir Jadvyga nuvyko į Vilnių.'
   pagrindžia:
     - c-001

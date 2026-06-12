@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86953"></a>
 - t-001
+  global_id: t-86953
   teiginys: 'XI a. Kryžiaus karai iš pradžių laikyti savotiškais žygiais, bet vėliau virto svarbiu Europos istorijos įvykiu.'
   pagrindžia:
     - c-001

@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87308"></a>
 - t-001
+  global_id: t-87308
   teiginys: 'Gardino seimas suteikė bajorystę Vilniaus miestiečiams, nepriekaištingai ėjusiems vaito, tarybos nario ar šuolininko pareigas magistrate.'
   pagrindžia:
     - c-001

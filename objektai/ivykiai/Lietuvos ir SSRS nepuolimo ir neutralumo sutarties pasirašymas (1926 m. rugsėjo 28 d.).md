@@ -43,22 +43,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-23337"></a>
 - t-001
+  global_id: t-23337
   teiginys: '1926 m. rugsėjo 28 d. Maskvoje pasirašyta Lietuvos ir SSRS nepuolimo ir neutralumo sutartis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23338"></a>
 - t-002
+  global_id: t-23338
   teiginys: 'Sutartyje SSRS patvirtino 1920 m. sutarties sąlygų tęstinumą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23339"></a>
 - t-003
+  global_id: t-23339
   teiginys: 'Georgijaus Čičerino nota prie pakto patvirtino Lietuvos interesus Vilniuje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23340"></a>
 - t-004
+  global_id: t-23340
   teiginys: 'Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį su SSRS.'
   pagrindžia:
     - c-001

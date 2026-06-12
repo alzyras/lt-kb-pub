@@ -16,7 +16,9 @@ Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkt
 
 ## Teiginiai
 
+<a id="claim-t-86194"></a>
 - t-001
+  global_id: t-86194
   teiginys: 'Apie 880 metus iš Danijos išvaryti tremtiniai persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
   pagrindžia:
     - c-001

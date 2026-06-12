@@ -16,7 +16,9 @@ Vadinamoji Ceklio sritis, kuri priskiriama Kuršiams, siekė ir dešinįjį Vent
 
 ## Teiginiai
 
+<a id="claim-t-32098"></a>
 - t-001
+  global_id: t-32098
   teiginys: 'Kuršiams priskiriama Ceklio sritis istorinių laikų pradžioje siekė dešinįjį Ventos krantą.'
   pagrindžia:
     - c-001

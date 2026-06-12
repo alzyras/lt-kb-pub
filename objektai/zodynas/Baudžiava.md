@@ -51,77 +51,107 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-108568"></a>
 - t-001
+  global_id: t-108568
   teiginys: 'Baudžiavos panaikinimo manifestas buvo paruoštas Petrapily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos imperijoje buvo panaikinta baudžiava, o valstiečiams duota teisė per 49 metus išsipirkti žemę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-108569"></a>
 - t-002
-  teiginys: 'Labai dažnai bajorai versdavo valstiečius pirkti tam tikrą kiekį degtinės, kaip kad, pav., vertė eiti baudžiavą ar mokėti mokesčius.'
+  global_id: t-108569
+  teiginys: 'Bajorai dažnai versdavo valstiečius eiti baudžiavą, mokėti mokesčius ir pirkti nustatytą kiekį degtinės.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-108570"></a>
 - t-003
+  global_id: t-108570
   teiginys: 'Po Napoleono sutriuškinimo Rusijoje drąsiau kelti valdžios reformavimo ir baudžiavos paveldo klausimai.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-108571"></a>
 - t-004
+  global_id: t-108571
   teiginys: 'Privilegija padėjo pamatą visuotinei baudžiavai, nes bajorų valstiečiai liko savo ponų valdžioje ir nebegalėjo išsikelti iš jų žemių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-108572"></a>
 - t-005
+  global_id: t-108572
   teiginys: 'Po 1447 m. privilegijos palengva prasidėjo tikroji baudžiava (žiūr.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-108573"></a>
 - t-006
+  global_id: t-108573
   teiginys: 'Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-108574"></a>
 - t-007
-  teiginys: 'Buvo tik nustatyta, kad nebegalima bus grąžinti į baudžiavą tų, kurie atleisti pačių dvarininkų.'
+  global_id: t-108574
+  teiginys: 'Į baudžiavą nebegalėjo būti grąžinti valstiečiai, kuriuos buvo atleidę patys dvarininkai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-108575"></a>
 - t-008
+  global_id: t-108575
   teiginys: 'Todėl sukilėlių būriuose, kuriems vadovavo vietiniai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas ir reikalavimas paleisti valstiečius iš baudžiavos.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-108576"></a>
 - t-009
+  global_id: t-108576
   teiginys: 'Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-108577"></a>
 - t-010
+  global_id: t-108577
   teiginys: '1861 m. vasario 19 d. manifestu baudžiava Rusijos imperijoje buvo panaikinta, paliekant valstiečiams teisę išsipirkti žemę per 49 metus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-108578"></a>
 - t-011
+  global_id: t-108578
   teiginys: '1447 m. privilegija padėjo pamatą visuotinei baudžiavai, palikdama bajorų valstiečius jų ponų valdžioje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-108579"></a>
 - t-012
+  global_id: t-108579
   teiginys: 'Valstiečiai ir toliau liko beteisiai baudžiauninkai, bet atleistųjų dvarininkai nebegalėjo grąžinti į baudžiavą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-108580"></a>
 - t-013
+  global_id: t-108580
   teiginys: 'Po 1447 m. privilegijos prasidėjo tikroji baudžiava, vis labiau apkraudama valstiečius mokesčiais ir darbais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-108581"></a>
 - t-014
+  global_id: t-108581
   teiginys: 'Privilegija padėjo pamatą visuotinei baudžiavai: bajorų valstiečiai liko ponų valdžioje ir nebegalėjo išsikelti iš jų žemių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-108583"></a>
 - t-016
+  global_id: t-108583
   teiginys: 'Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė politika.'
   pagrindžia:
     - c-007
@@ -213,6 +243,7 @@ Nenurodyta
     - t-008
 
 - c-006
+  santrauka: 'Bajorai dažnai versdavo valstiečius eiti baudžiavą, mokėti mokesčius ir pirkti nustatytą kiekį degtinės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tikro-

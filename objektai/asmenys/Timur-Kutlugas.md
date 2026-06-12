@@ -18,7 +18,9 @@ Timuras tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo vado 
 
 ## Teiginiai
 
+<a id="claim-t-30396"></a>
 - t-001
+  global_id: t-30396
   teiginys: 'Timur-Kutlugas derybomis siekė laimėti laiko, kol sulauks savo karo vado Edigos dalinių.'
   pagrindžia:
     - c-001

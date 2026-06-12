@@ -16,7 +16,9 @@ O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vla
 
 ## Teiginiai
 
+<a id="claim-t-18885"></a>
 - t-001
+  global_id: t-18885
   teiginys: 'Filosofas Emmanuelis Levinas gimė Kaune ir ten baigė gimnaziją.'
   pagrindžia:
     - c-001

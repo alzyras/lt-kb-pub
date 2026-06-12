@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-34300"></a>
 - t-001
+  global_id: t-34300
   teiginys: 'Lietuvos kultūrinimas, pradėtas dar Mindaugo laikais, esą būtų sumažinęs nutautėjimo nuostolius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184243"></a>
 - t-002
+  global_id: t-184243
   teiginys: 'Lietuvos kultūrinimas, pradėtas Mindaugo laikais, esą būtų sumažinęs nutautėjimo nuostolius.'
   pagrindžia:
     - c-002

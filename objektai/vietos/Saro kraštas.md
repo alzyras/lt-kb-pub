@@ -17,7 +17,9 @@ Plebiscitas Saro krašte ir jo prijungimas prie Vokietijos išgąsdino Lietuvos 
 
 ## Teiginiai
 
+<a id="claim-t-21795"></a>
 - t-001
+  global_id: t-21795
   teiginys: 'Plebiscitas Saro krašte ir jo prijungimas prie Vokietijos išgąsdino Lietuvos vadovus.'
   pagrindžia:
     - c-001

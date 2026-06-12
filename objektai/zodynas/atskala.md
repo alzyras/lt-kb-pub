@@ -12,29 +12,32 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # atskala
 
 ## Santrauka
 
-Kojelavičius teigia, kad mat jis pats buvo gavęs iš popiežiaus Martyno V laišką, kuriuo, kaip katalikiškojo krašto valdovas, buvo raginamas daugiau neremti husitų atskalos ir per Kari butaitį nepalaikyti čekų maišto. Kojelavičius teigia, kad jų atsimetimą nuo prosenelių tikėjimo karalius Augustas slėpė net ir Lietuvoje, ir štai dėl to pasklido apie jį žmonėse viso kių negerų kalbų, kad esąs perėjęs į liuteronų atskalą18.
+Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdovą, daugiau neremti husitų atskalos. Karaliui Augustui slepiant Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, pasklido gandai apie jo perėjimą į liuteronų atskalą.
 
 ## Teiginiai
 
+<a id="claim-t-185347"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mat jis pats buvo gavęs iš popiežiaus Martyno V laišką, kuriuo, kaip katalikiškojo krašto valdovas, buvo raginamas daugiau neremti husitų atskalos ir per Kari butaitį nepalaikyti čekų maišto.'
+  global_id: t-185347
+  teiginys: 'Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdovą, daugiau neremti husitų atskalos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185348"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad jų atsimetimą nuo prosenelių tikėjimo karalius Augustas slėpė net ir Lietuvoje, ir štai dėl to pasklido apie jį žmonėse viso kių negerų kalbų, kad esąs perėjęs į liuteronų atskalą18.'
+  global_id: t-185348
+  teiginys: 'Karaliui Augustui slepiant Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, pasklido gandai apie jo perėjimą į liuteronų atskalą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mat jis pats buvo gavęs iš popiežiaus Martyno V laišką, kuriuo, kaip katalikiškojo krašto valdovas, buvo raginamas daugiau neremti husitų atskalos ir per Kari butaitį nepalaikyti čekų maišto.'
+  santrauka: 'Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdovą, daugiau neremti husitų atskalos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sužinojo apie tai Vytautas ir gal savo noru, o gal —
@@ -68,7 +71,7 @@ Kojelavičius teigia, kad mat jis pats buvo gavęs iš popiežiaus Martyno V lai
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad jų atsimetimą nuo prosenelių tikėjimo karalius Augustas slėpė net ir Lietuvoje, ir štai dėl to pasklido apie jį žmonėse viso kių negerų kalbų, kad esąs perėjęs į liuteronų atskalą18.'
+  santrauka: 'Karaliui Augustui slepiant Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, pasklido gandai apie jo perėjimą į liuteronų atskalą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neteisėtu būdu įsigiję žemių ir dvarų, jie pa­
@@ -95,3 +98,21 @@ Kojelavičius teigia, kad mat jis pats buvo gavęs iš popiežiaus Martyno V lai
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Augustas]]
+- [[objektai/grupes/Husitai]]
+- [[objektai/asmenys/Kotryna]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Liuteronai]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/ivykiai/Dusburgiečio pasakojamas Tomo sūnaus prisikėlimas Brandenburgo pilyje (1322 m.)]]
+- [[objektai/asmenys/Flekenšteinas]]
+- [[objektai/asmenys/Gebhardas iš Manstfeldo]]
+- [[objektai/asmenys/Hertvigas iš Pokarvių]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Martynas V]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

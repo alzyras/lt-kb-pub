@@ -17,7 +17,9 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
 
 ## Teiginiai
 
+<a id="claim-t-41703"></a>
 - t-001
+  global_id: t-41703
   teiginys: 'Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių tuo metu kontroliuojamos Viznos apylinkes prie Narevo.'
   pagrindžia:
     - c-001

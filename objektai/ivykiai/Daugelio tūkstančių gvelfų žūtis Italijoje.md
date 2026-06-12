@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62765"></a>
 - t-001
+  global_id: t-62765
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip Italijoje žuvo daug tūkstančių gvelfų 1325 viešpaties metais Italijoje gibelinai nužudė daug tūkstančių gvelfų.'
   pagrindžia:
     - c-001

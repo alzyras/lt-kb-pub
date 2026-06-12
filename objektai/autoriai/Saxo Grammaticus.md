@@ -16,7 +16,9 @@ Iš XI-XII amž. danų šaltinių (Genealogia regum Danorum; Saxo Grammaticus) y
 
 ## Teiginiai
 
+<a id="claim-t-30977"></a>
 - t-001
+  global_id: t-30977
   teiginys: 'XI-XII a. danų šaltiniai, tarp jų Saxo Grammaticus, rodo, kad kuršiai ir sembai protarpiais mokėjo duoklę danams.'
   pagrindžia:
     - c-001

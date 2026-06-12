@@ -24,12 +24,16 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
 
 ## Teiginiai
 
+<a id="claim-t-25372"></a>
 - t-001
+  global_id: t-25372
   teiginys: 'Caro valdžia „lenkų suartinimo su rusais“ strategija siekė apsaugoti karalystės ne etninius lenkus nuo sulenkėjimo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183497"></a>
 - t-002
+  global_id: t-183497
   teiginys: 'Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir lietuvių „suartinimo“ su rusų kultūra gija.'
   pagrindžia:
     - c-002

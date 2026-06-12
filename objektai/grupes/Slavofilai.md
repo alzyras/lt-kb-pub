@@ -17,20 +17,33 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
 
 ## Teiginiai
 
+<a id="claim-t-72625"></a>
 - t-001
+  global_id: t-72625
   teiginys: 'Slavofilai skelbė, kad Didžiosios Lietuvos Kunigaikštijos žemės nuo seno buvusios rusų kultūros įtakoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72626"></a>
 - t-002
-  teiginys: 'Toks universiteto klestėjimas nepatiko rusams, ypač slavofilams, kurie kaip tik tuo metu Petrapily susiorganizavo į draugiją.'
+  global_id: t-72626
+  teiginys: 'Slavofilai Petrapilyje susiorganizavo į draugiją ir nepritarė universiteto klestėjimui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72627"></a>
 - t-003
+  global_id: t-72627
   teiginys: 'Slavofilams nepatiko Vilniaus universiteto klestėjimas, kai jis išgarsėjo kaip geriausia lenkų mokslo įstaiga.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-182924"></a>
+- t-004
+  global_id: t-182924
+  teiginys: 'Slavofilai reikalavo pakeisti visą Vilniaus apygardos švietimo sistemą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -71,7 +84,7 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
     - t-001
 
 - c-003
-  santrauka: 'Toks universiteto klestėjimas nepatiko rusams, ypač slavofilams, kurie kaip tik tuo metu Petrapily susiorganizavo į draugiją.'
+  santrauka: 'Slavofilai reikalavo pakeisti visą Vilniaus apygardos švietimo sistemą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Toks universiteto klestėjimas nepatiko rusams, ypač sla-

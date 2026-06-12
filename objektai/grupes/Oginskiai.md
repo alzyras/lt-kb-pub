@@ -16,7 +16,9 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 
 ## Teiginiai
 
+<a id="claim-t-19958"></a>
 - t-001
+  global_id: t-19958
   teiginys: 'XVI a. Oginskiai buvo viena iš įtakingų rusėnų kilmės giminių, laikiusių save LDK piliečiais.'
   pagrindžia:
     - c-001

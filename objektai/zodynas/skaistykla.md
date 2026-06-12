@@ -28,7 +28,9 @@ Dusburgietis teigia, kad laikinąja, būtent tol skaistykloje kentėti, kol tas 
 
 ## Teiginiai
 
+<a id="claim-t-58924"></a>
 - t-001
+  global_id: t-58924
   teiginys: 'Dusburgietis teigia, kad laikinąja, būtent tol skaistykloje kentėti, kol tas ar kitas jo giminaitis negrąžinsiąs minėtojo lauko.'
   pagrindžia:
     - c-001

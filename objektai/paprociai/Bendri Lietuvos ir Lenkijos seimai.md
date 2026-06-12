@@ -34,22 +34,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01934"></a>
 - t-001
+  global_id: t-01934
   teiginys: 'Susitarimu siekta įkurti jungtinę valstybę su bendru seimu, bendra valdovo rinkimo vieta, bendra apsauga ir bendrais pinigais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01935"></a>
 - t-002
+  global_id: t-01935
   teiginys: '1451 m. į Parčavos seimą lietuviai sutiko vykti tik tada, kai Kazimieras atvyko nuo sienos jų palydėti.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-01936"></a>
 - t-003
+  global_id: t-01936
   teiginys: 'Bendri Lietuvos ir Lenkijos seimai dažnai nieko neišspręsdavo ir pasibaigdavo triukšmingai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-01937"></a>
 - t-004
+  global_id: t-01937
   teiginys: 'Akte numatyti bendri seimai ir bendra karaliaus elekcija, tačiau jų vykdymo tvarka turėjo būti nustatyta vėliau.'
   pagrindžia:
     - c-002

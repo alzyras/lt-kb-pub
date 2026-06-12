@@ -17,7 +17,9 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 
 ## Teiginiai
 
+<a id="claim-t-18967"></a>
 - t-001
+  global_id: t-18967
   teiginys: 'Johanas Pėteris Frankas dirbo universitete, o jo darbai buvo žinomi tarptautiniu mastu.'
   pagrindžia:
     - c-001

@@ -25,12 +25,16 @@ Lietuva žemėlapiuose: = Lithuania on the map: paroda, Vilnius, 1999 09 26–19
 
 ## Teiginiai
 
+<a id="claim-t-45687"></a>
 - t-001
+  global_id: t-45687
   teiginys: '„Lietuva žemėlapiuose = Lithuania on the map“ buvo 1999 m. Vilniuje vykusios parodos katalogas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-45688"></a>
 - t-002
+  global_id: t-45688
   teiginys: 'Aldona Bieliūnienė ir kiti parengė leidinį „Lietuva žemėlapiuose = Lithuania on the map“.'
   pagrindžia:
     - c-002

@@ -18,7 +18,9 @@ Ciolką.
 
 ## Teiginiai
 
+<a id="claim-t-34827"></a>
 - t-001
+  global_id: t-34827
   teiginys: 'St. Ciolka buvo Vytauto proteguojamas kandidatas į Poznanės vyskupus.'
   pagrindžia:
     - c-001

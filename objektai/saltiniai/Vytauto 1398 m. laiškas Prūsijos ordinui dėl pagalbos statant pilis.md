@@ -25,7 +25,9 @@ Vy­ tautas viename laiške, tais metais da­ tuotame, kuriame žada Prūsijos o
 
 ## Teiginiai
 
+<a id="claim-t-88498"></a>
 - t-001
+  global_id: t-88498
   teiginys: '1398 m. laiške Vytautas žadėjo Prūsijos ordinui pagalbą statant dvi pilis.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Dusburgietis teigia, kad lietuvos TSR bibliografija.
 
 ## Teiginiai
 
+<a id="claim-t-61144"></a>
 - t-001
+  global_id: t-61144
   teiginys: '„Lietuvos TSR bibliografijos“ A serijos pirmasis tomas, apimantis 1547–1861 m., išleistas Vilniuje 1969 m.'
   pagrindžia:
     - c-001

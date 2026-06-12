@@ -24,7 +24,9 @@ Pranešimas apie jos mirtį yra 74 Livonijos ordino magistro laiške Degu i gne 
 
 ## Teiginiai
 
+<a id="claim-t-88301"></a>
 - t-001
+  global_id: t-88301
   teiginys: 'Pranešimas apie jos mirtį yra 74 Livonijos ordino magistro laiške Degu i gne sHistoiredes Huns.'
   pagrindžia:
     - c-001

@@ -22,12 +22,16 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 
 ## Teiginiai
 
+<a id="claim-t-38838"></a>
 - t-001
+  global_id: t-38838
   teiginys: 'Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-38839"></a>
 - t-002
+  global_id: t-38839
   teiginys: 'Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje.'
   pagrindžia:
     - c-002

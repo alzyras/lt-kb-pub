@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88346"></a>
 - t-001
+  global_id: t-88346
   teiginys: '„Valerianae Bursae Erectio et Provisio“ dokumentas buvo saugomas Vilniaus kapitulos archyve ir datuotas 1579 m.'
   pagrindžia:
     - c-001

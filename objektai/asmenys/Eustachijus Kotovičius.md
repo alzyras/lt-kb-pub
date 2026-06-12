@@ -27,7 +27,9 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
 
 ## Teiginiai
 
+<a id="claim-t-87663"></a>
 - t-001
+  global_id: t-87663
   teiginys: 'Vilniaus kanauninkas Eustachijus Kotovičius 1677 m. už 750 auksinų nusipirko mūrinį namą Bernardinų gatvėje.'
   pagrindžia:
     - c-001

@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01634"></a>
 - t-001
+  global_id: t-01634
   teiginys: 'Lenkams išrinkus Sobieskį, lietuviai pareiškė protestą ir, sustoję kitoje Vyslos pusėje, į elekcijos lauką neėjo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01635"></a>
 - t-002
+  global_id: t-01635
   teiginys: 'Prancūziškoji partija kandidatu į sostą iškėlė hetmoną Joną Sobieskį, kai paaiškėjo, kad Kondės išrinkti nepavyks.'
   pagrindžia:
     - c-001

@@ -29,12 +29,16 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 
 ## Teiginiai
 
+<a id="claim-t-64201"></a>
 - t-001
+  global_id: t-64201
   teiginys: 'Kauno pilies įgulai, kurią galėjo sudaryti 350-400 karių, vadovavo Kęstučio sūnus Vaidotas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64202"></a>
 - t-002
+  global_id: t-64202
   teiginys: 'Vaidotas, Kęstučio anūkas, po studijų Pragos universitete nuo 1401 m. tapo antruoju Krokuvos universiteto rektoriumi.'
   pagrindžia:
     - c-002

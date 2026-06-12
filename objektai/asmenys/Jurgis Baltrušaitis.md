@@ -18,7 +18,9 @@ Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Ma
 
 ## Teiginiai
 
+<a id="claim-t-19032"></a>
 - t-001
+  global_id: t-19032
   teiginys: 'Po J. Stalino mirties „atšilimo“ laikotarpiu buvo išspausdinta Jurgio Baltrušaičio kūrinių.'
   pagrindžia:
     - c-001

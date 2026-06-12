@@ -17,7 +17,9 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
 
 ## Teiginiai
 
+<a id="claim-t-31193"></a>
 - t-001
+  global_id: t-31193
   teiginys: 'Istorikų kolektyvas parengė bendrą lietuvių kovų su kryžiuočiais istoriją „Lietuvių karas su kryžiuočiais“.'
   pagrindžia:
     - c-001

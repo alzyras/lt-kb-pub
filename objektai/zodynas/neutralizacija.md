@@ -25,12 +25,16 @@ Kilus klausimui dėl Nemuno neutralizacijos ryšium su Lietuvos pripažinimu de 
 
 ## Teiginiai
 
+<a id="claim-t-70250"></a>
 - t-001
-  teiginys: 'Kilus klausimui dėl Nemuno neutralizacijos ryšium su Lietuvos pripažinimu de jure, Lietuvos vyriausybė vienoj iš savo notų Ambasadorių Konferencijai Paryžiuje atkreipė dėmesį į tai, kad dėl to nebūtų sunkenybės, jei didžiosios valstybės, remdamosi Versalio.'
+  global_id: t-70250
+  teiginys: 'Svarstant Nemuno neutralizaciją, Lietuvos vyriausybė Paryžiaus Ambasadorių Konferencijai pabrėžė Lietuvos teises ir interesus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70251"></a>
 - t-002
+  global_id: t-70251
   teiginys: 'Nemuno neutralizacijos klausimas kilo ryšium su Lietuvos pripažinimu de jure.'
   pagrindžia:
     - c-001

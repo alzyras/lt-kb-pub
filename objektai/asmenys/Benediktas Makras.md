@@ -27,12 +27,16 @@ patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą sav
 
 ## Teiginiai
 
+<a id="claim-t-93182"></a>
 - t-001
+  global_id: t-93182
   teiginys: 'Vytautas Didysis priėmė Benediktą Makrą, gausiai jį apdovanojo ir pakėlė į savo riterius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-93183"></a>
 - t-002
+  global_id: t-93183
   teiginys: '12 d. patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą savo komisarą Benediktą Makrą, kad tas ištirtų Žemaitijos sienas ir išspręstų kilusį dėl jų Vytauto ir Ordino ginčą.'
   pagrindžia:
     - c-002

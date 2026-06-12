@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-37193"></a>
 - t-001
+  global_id: t-37193
   teiginys: '1919 m. balandžio pradžioje Lietuvos karinė vadovybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti Vilnių ir pirmiau nei lenkai jį užimti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-37194"></a>
 - t-002
+  global_id: t-37194
   teiginys: '1919 m. balandžio 16–17 d. lenkai užėmė Lydą, o balandžio 19–21 d. po sunkių kovų užėmė Vilnių ir išstūmė iš jo bolševikus.'
   pagrindžia:
     - c-002

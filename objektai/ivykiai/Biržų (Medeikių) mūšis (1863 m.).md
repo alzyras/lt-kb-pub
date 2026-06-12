@@ -38,27 +38,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54155"></a>
 - t-001
+  global_id: t-54155
   teiginys: 'Biržų girios kautynės buvo didžiausios per 1863–1864 m. sukilimą, jose dalyvavo apie 1500 sukilėlių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54156"></a>
 - t-002
+  global_id: t-54156
   teiginys: 'Gegužės 7 d. prie Medeikių rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-54157"></a>
 - t-003
+  global_id: t-54157
   teiginys: '1863 m. gegužės 7 d. rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas Medeikiuose; sukilėliams mėginant apeiti rusus iš flangų, rusai buvo priversti atsitraukti.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-54158"></a>
 - t-004
+  global_id: t-54158
   teiginys: '1863 m. gegužės 8 d. atvykusios gausesnės rusų pajėgos užpuolė stovyklavusius sukilėlius; Z. Sierakauskas buvo sužeistas; pasipriešinimas ėmė silpti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-54159"></a>
 - t-005
+  global_id: t-54159
   teiginys: 'Biržų mūšyje gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
   pagrindžia:
     - c-001

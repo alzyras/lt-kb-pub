@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35916"></a>
 - t-001
+  global_id: t-35916
   teiginys: '1421 m. po Cemblako mirties Vytautas Kijevo metropolitu pripažino Maskvos Focijų ir prie bažnytinės unijos nebegrįžo.'
   pagrindžia:
     - c-001

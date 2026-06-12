@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-40973"></a>
 - t-001
+  global_id: t-40973
   teiginys: 'Gen. L. Želigovskis lapkričio 17 d. auštant pradėjo didžiąją ofenzyvą prieš lietuvių 1-osios pėstininkų divizijos barą.'
   pagrindžia:
     - c-001

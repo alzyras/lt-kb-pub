@@ -25,7 +25,9 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 
 ## Teiginiai
 
+<a id="claim-t-86137"></a>
 - t-001
+  global_id: t-86137
   teiginys: '1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.'
   pagrindžia:
     - c-001

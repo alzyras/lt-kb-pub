@@ -16,7 +16,9 @@ Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio ir M.
 
 ## Teiginiai
 
+<a id="claim-t-30826"></a>
 - t-001
+  global_id: t-30826
   teiginys: 'M. Bielskio kronika buvo tarp XVI a. išspausdintų lenkų kronikų, pažįstamų aptariamam autoriui.'
   pagrindžia:
     - c-001

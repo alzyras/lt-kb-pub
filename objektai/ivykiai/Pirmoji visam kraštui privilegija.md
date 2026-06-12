@@ -31,7 +31,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01774"></a>
 - t-001
+  global_id: t-01774
   teiginys: 'Jogailos duotoje privilegijoje visos teisės buvo pripažintos tik katalikams, o rytų apeigų krikščionys suvaržyti.'
   pagrindžia:
     - c-001

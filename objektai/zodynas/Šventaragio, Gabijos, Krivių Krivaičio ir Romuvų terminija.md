@@ -25,17 +25,23 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
 
 ## Teiginiai
 
+<a id="claim-t-86449"></a>
 - t-001
+  global_id: t-86449
   teiginys: 'Šventaragio slėnyje iki krikščionybės įvedimo degė Perkūno garbei skirta amžinoji ugnis, vadinta Gabija.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86451"></a>
 - t-002
+  global_id: t-86451
   teiginys: 'Šventaragio vardas aiškintas lietuviškais žodžiais „šventas ragas“, siejant juos su aukuru ir kyšuliu tarp Vilijos bei Vilnios.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86452"></a>
 - t-003
+  global_id: t-86452
   teiginys: 'Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis.'
   pagrindžia:
     - c-001

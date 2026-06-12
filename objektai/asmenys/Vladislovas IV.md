@@ -17,12 +17,16 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 
 ## Teiginiai
 
+<a id="claim-t-87592"></a>
 - t-001
+  global_id: t-87592
   teiginys: 'Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta klebonija tapo išties reikšmingiausia Žemaitijoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87593"></a>
 - t-002
+  global_id: t-87593
   teiginys: 'Vladislovas IV, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.'
   pagrindžia:
     - c-001

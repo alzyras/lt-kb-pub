@@ -18,7 +18,9 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 
 ## Teiginiai
 
+<a id="claim-t-20942"></a>
 - t-001
+  global_id: t-20942
   teiginys: 'A. Smetona ir A. Voldemaras pabrėžė stiprias prezidento galias ir neketino grįžti į „seimų laikus“, prilygintus netvarkai bei anarchijai.'
   pagrindžia:
     - c-001

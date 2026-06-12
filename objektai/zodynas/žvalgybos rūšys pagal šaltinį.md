@@ -16,7 +16,9 @@ k atvirų šaltinių žvalgybą (osINT), taktinę ri es bet baat " + Įtvirtinim
 
 ## Teiginiai
 
+<a id="claim-t-42534"></a>
 - t-001
+  global_id: t-42534
   teiginys: 'Žvalgyba apėmė atvirų šaltinių žvalgybą, taktinę žvalgybą ir iš gyventojų suplaukiančios informacijos apdorojimą.'
   pagrindžia:
     - c-001

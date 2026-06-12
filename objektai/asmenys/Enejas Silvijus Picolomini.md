@@ -19,7 +19,9 @@ Krašto viduje jis tapo absoliutišku valdovu, kurio supykinti bijodami valdinia
 
 ## Teiginiai
 
+<a id="claim-t-35060"></a>
 - t-001
+  global_id: t-35060
   teiginys: 'Enejas Silvijus Picolomini pasakojo, kad Vytauto valdiniai, bijodami jį supykinti, net patys ėjo kartis.'
   pagrindžia:
     - c-001

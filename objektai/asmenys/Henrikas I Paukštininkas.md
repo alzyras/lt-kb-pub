@@ -19,7 +19,9 @@ Vokietijos miestai, iki Ka­ rolio Didžiojo beveik nežinomi, vėliau, X amžiu
 
 ## Teiginiai
 
+<a id="claim-t-87688"></a>
 - t-001
+  global_id: t-87688
   teiginys: 'Valdant Henrikui I Paukštininkui, X a. Vokietijos miestai sustiprėjo tiek, kad sulaikydavo vengrų antpuolius.'
   pagrindžia:
     - c-001

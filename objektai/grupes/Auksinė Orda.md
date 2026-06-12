@@ -24,47 +24,65 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 
 ## Teiginiai
 
+<a id="claim-t-05238"></a>
 - t-001
+  global_id: t-05238
   teiginys: 'Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale silpnėjusi totorių valstybė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05239"></a>
 - t-002
+  global_id: t-05239
   teiginys: 'Vytautas žadėjo Tochtamišą pasodinti Aukso ordoje ir tikėjosi už tai įtakos Maskvoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-05240"></a>
 - t-003
+  global_id: t-05240
   teiginys: 'Lemiamasis Vytauto žygis, siekęs pasodinti Tochtamišą Aukso ordoje, baigėsi nesėkme.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-12353"></a>
 - t-004
+  global_id: t-12353
   teiginys: 'Aukso Orda šiame šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi totorių valstybė.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-12354"></a>
 - t-005
+  global_id: t-12354
   teiginys: 'Tamerlano smūgis išvijo Tochtamyšą, o Auksinėje Ordoje buvo pasodintas naujas valdovas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-12355"></a>
 - t-006
+  global_id: t-12355
   teiginys: 'Vytauto įtaka šiame pasakojime siejama ir su Aukso Orda.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-92025"></a>
 - t-007
+  global_id: t-92025
   teiginys: 'Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-92026"></a>
 - t-008
+  global_id: t-92026
   teiginys: 'Tų žygių išdavos buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas - Aglenas ir jo įpėdinis Kotlogas-Timuras.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-92027"></a>
 - t-009
+  global_id: t-92027
   teiginys: 'Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsigalėti Rytų Europoje ir valdyti rusų žemių plotus.'
   pagrindžia:
     - c-008

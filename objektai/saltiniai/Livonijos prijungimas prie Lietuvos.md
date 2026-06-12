@@ -29,7 +29,9 @@ Naudodamas Rygos archyvų medžiagą, jis ėmė tyrinėti iki tol Lietuvos istor
 
 ## Teiginiai
 
+<a id="claim-t-31834"></a>
 - t-001
+  global_id: t-31834
   teiginys: 'Sužiedėlis 1933 m. „Athenaeume“ paskelbė studiją „Livonijos prijungimas prie Lietuvos“.'
   pagrindžia:
     - c-001

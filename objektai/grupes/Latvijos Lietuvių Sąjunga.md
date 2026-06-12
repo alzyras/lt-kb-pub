@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-74046"></a>
 - t-001
+  global_id: t-74046
   teiginys: 'Latvijos Lietuvių Sąjunga tuo metu buvo viena iš Latvijos lietuvių organizacijų.'
   pagrindžia:
     - c-001

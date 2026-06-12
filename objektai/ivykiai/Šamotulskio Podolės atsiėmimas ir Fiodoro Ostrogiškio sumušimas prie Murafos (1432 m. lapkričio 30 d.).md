@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad fiodoras, su leng vąja rusų, valachų bei skitų raitija labiau linkęs pa salas rengti, nei stoti į atvirą kovą, vengė susidurti su Šamotulskiu akis į akį, tačiau, puldinėdamas iš tolo, vargino ir alino lenkus, Šamotulskis, patraukęs su pa grindinėmis jėgomis į. Kojelavičius teigia, kad len kams beliko įveikti Murafos upę, tekančią tankiomis 4 45 giriomis tarp žemų nendrėtų krantų. Kojelavičius teigia, kad lapkričio 30 d. jie kovojo maždaug už keturiasdešimties mylių nuo Lvovo.
+Fiodoras vengė atviros kovos su Šamotulskiu, o Šamotulskis žygiuodamas pirmyn be vargo atsiėmė kelias pilis ir priartėjo prie Braclavo. Prie Murafos lenkų kariuomenei teko įveikti per tankias girias tarp žemų nendrėtų krantų tekančią Murafos upę. 1432 m. lapkričio 30 d. Šamotulskio ir Fiodoro Ostrogiškio pajėgos kovojo maždaug už keturiasdešimties mylių nuo Lvovo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,25 +32,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185501"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad fiodoras, su leng vąja rusų, valachų bei skitų raitija labiau linkęs pa salas rengti, nei stoti į atvirą kovą, vengė susidurti su Šamotulskiu akis į akį, tačiau, puldinėdamas iš tolo, vargino ir alino lenkus, Šamotulskis, patraukęs su pa grindinėmis jėgomis į.'
+  global_id: t-185501
+  teiginys: 'Fiodoras vengė atviros kovos su Šamotulskiu, o Šamotulskis žygiuodamas pirmyn be vargo atsiėmė kelias pilis ir priartėjo prie Braclavo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185502"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad len kams beliko įveikti Murafos upę, tekančią tankiomis 4 45 giriomis tarp žemų nendrėtų krantų.'
+  global_id: t-185502
+  teiginys: 'Prie Murafos lenkų kariuomenei teko įveikti per tankias girias tarp žemų nendrėtų krantų tekančią Murafos upę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185503"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad lapkričio 30 d. jie kovojo maždaug už keturiasdešimties mylių nuo Lvovo.'
+  global_id: t-185503
+  teiginys: '1432 m. lapkričio 30 d. Šamotulskio ir Fiodoro Ostrogiškio pajėgos kovojo maždaug už keturiasdešimties mylių nuo Lvovo.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad fiodoras, su leng vąja rusų, valachų bei skitų raitija labiau linkęs pa salas rengti, nei stoti į atvirą kovą, vengė susidurti su Šamotulskiu akis į akį, tačiau, puldinėdamas iš tolo, vargino ir alino lenkus, Šamotulskis, patraukęs su pa grindinėmis jėgomis į.'
+  santrauka: 'Fiodoras vengė atviros kovos su Šamotulskiu, o Šamotulskis žygiuodamas pirmyn be vargo atsiėmė kelias pilis ir priartėjo prie Braclavo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Fiodoras, su leng­
@@ -81,7 +86,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad len kams beliko įveikti Murafos upę, tekančią tankiomis 4 45 giriomis tarp žemų nendrėtų krantų.'
+  santrauka: 'Prie Murafos lenkų kariuomenei teko įveikti per tankias girias tarp žemų nendrėtų krantų tekančią Murafos upę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Len­
@@ -106,7 +111,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad lapkričio 30 d. jie kovojo maždaug už keturiasdešimties mylių nuo Lvovo.'
+  santrauka: '1432 m. lapkričio 30 d. Šamotulskio ir Fiodoro Ostrogiškio pajėgos kovojo maždaug už keturiasdešimties mylių nuo Lvovo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lapkričio 30 d. jie kovojo
@@ -122,3 +127,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Fiodoras]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Valachai]]
+- [[objektai/zodynas/skitai]]

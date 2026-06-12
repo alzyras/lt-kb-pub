@@ -16,7 +16,9 @@ Dešinioji kolona energingu puolimu užėmė plane numatytus Jotvainių, Griniū
 
 ## Teiginiai
 
+<a id="claim-t-41736"></a>
 - t-001
+  global_id: t-41736
   teiginys: 'Dešinioji kolona energingu puolimu užėmė plane numatytus Jotvainių, Griniūnų ir Katinų kaimus.'
   pagrindžia:
     - c-001

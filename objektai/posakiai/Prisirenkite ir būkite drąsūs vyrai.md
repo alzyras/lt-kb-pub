@@ -25,7 +25,9 @@ Dusburgietis teigia, kad 58—59): „Prisirenkite ir būkite drąsūs vyrai, b�
 
 ## Teiginiai
 
+<a id="claim-t-59068"></a>
 - t-001
+  global_id: t-59068
   teiginys: 'Popiežius Grigalius IX ragino brolius į kovą žodžiais „Prisirenkite ir būkite drąsūs vyrai“.'
   pagrindžia:
     - c-001

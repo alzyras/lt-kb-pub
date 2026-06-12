@@ -28,17 +28,23 @@ Politinė ir karinė kunigaikščių grupė.
 
 ## Teiginiai
 
+<a id="claim-t-55065"></a>
 - t-001
+  global_id: t-55065
   teiginys: '1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55066"></a>
 - t-002
+  global_id: t-55066
   teiginys: 'Slonimas smarkiai pasipriešino 1272 m. Lietuvą puolusiems Haličo kunigaikščiams ir Nogajaus mongolams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-80832"></a>
 - t-003
+  global_id: t-80832
   teiginys: '1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą, o Slonimas jiems smarkiai pasipriešino.'
   pagrindžia:
     - c-001

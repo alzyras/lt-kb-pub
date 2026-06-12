@@ -16,17 +16,23 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-75540"></a>
 - t-001
+  global_id: t-75540
   teiginys: 'Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavusių žydų pirklių ir derliaus supirkėjų ir atvirkščiai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75541"></a>
 - t-002
+  global_id: t-75541
   teiginys: 'Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75542"></a>
 - t-003
+  global_id: t-75542
   teiginys: 'Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.'
   pagrindžia:
     - c-002

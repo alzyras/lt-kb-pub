@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-30329"></a>
 - t-001
+  global_id: t-30329
   teiginys: 'Lokietkos sūnus Kazimieras 1325 m. taikos sutartį sutvirtino vedybomis su Gedimino dukterimi Aldona.'
   pagrindžia:
     - c-001

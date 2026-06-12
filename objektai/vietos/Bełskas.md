@@ -25,7 +25,9 @@ Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąj
 
 ## Teiginiai
 
+<a id="claim-t-86008"></a>
 - t-001
+  global_id: t-86008
   teiginys: '1564 m. Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą.'
   pagrindžia:
     - c-001

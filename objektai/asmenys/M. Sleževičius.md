@@ -26,17 +26,23 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
 
 ## Teiginiai
 
+<a id="claim-t-79103"></a>
 - t-001
+  global_id: t-79103
   teiginys: 'M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J. Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta, kun. Dogelis, dr. A. Vileišis, P. Leonas, dr. J. Basanavičius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-79104"></a>
 - t-002
+  global_id: t-79104
   teiginys: 'Sleževičius pasveikino vyr.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79105"></a>
 - t-003
+  global_id: t-79105
   teiginys: 'Valstybės prezidentu buvo išrinktas d r. Kazys Grinius, o ministerių pirmininku buvo paskirtas valstiečių liaudininkų lyderis M. Sleževičius.'
   pagrindžia:
     - c-002

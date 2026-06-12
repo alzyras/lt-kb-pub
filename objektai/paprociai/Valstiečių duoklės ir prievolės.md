@@ -40,27 +40,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-05370"></a>
 - t-001
+  global_id: t-05370
   teiginys: 'Valstiečio santykis su valdomąja žeme tačiau pasunkėjo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97142"></a>
 - t-002
-  teiginys: 'Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais jau anksti mokėjo sidabrinę duoklę sidabriniais pinigais.'
+  global_id: t-97142
+  teiginys: 'Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais anksti mokėjo sidabrinę duoklę pinigais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-97143"></a>
 - t-003
-  teiginys: 'Vytauto laikais, daugumas valstiečių Lietuvoje dar buvo laisvieji ūkininkai.'
+  global_id: t-97143
+  teiginys: 'XV a. pradžioje, Vytauto laikais, dauguma Lietuvos valstiečių dar buvo laisvieji ūkininkai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-97144"></a>
 - t-004
+  global_id: t-97144
   teiginys: 'O nesant pinigų arba labai maža jų esant, valstiečiai ir mokesčius mokėjo savo ūkio produktais: javais, šienu, gyvuliais, kiaušiniais ir t.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-97145"></a>
 - t-005
+  global_id: t-97145
   teiginys: 'Be įvairių rinkliavų ir mokesčių, valstiečiai dar buvo verčiami statyti pilis, tiltus, tiesti kelius ir t.t.'
   pagrindžia:
     - c-003
@@ -85,6 +95,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'XV a. pradžioje, Vytauto laikais, dauguma Lietuvos valstiečių dar buvo laisvieji ūkininkai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     XV amžiaus pradžioje, t. y. Vytauto
@@ -122,7 +133,7 @@ Nenurodyta
     - t-005
 
 - c-004
-  santrauka: 'Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais jau anksti mokėjo sidabrinę duoklę sidabriniais pinigais.'
+  santrauka: 'Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais anksti mokėjo sidabrinę duoklę pinigais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai

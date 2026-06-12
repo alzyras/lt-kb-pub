@@ -16,7 +16,9 @@ Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvinin
 
 ## Teiginiai
 
+<a id="claim-t-21671"></a>
 - t-001
+  global_id: t-21671
   teiginys: 'Pranciškus Skorina baigė Paduvos universitetą ir ten įgijo medicinos daktaro laipsnį.'
   pagrindžia:
     - c-001

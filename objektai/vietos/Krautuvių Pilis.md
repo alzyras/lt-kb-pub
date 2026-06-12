@@ -19,17 +19,23 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-85936"></a>
 - t-001
+  global_id: t-85936
   teiginys: 'Ar išdaviko, ar priešo sumaniai padegta ugnis staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85937"></a>
 - t-002
+  global_id: t-85937
   teiginys: 'Krautuvių Pilyje susirinko keli tūkstančiai ginkluotų žmonių, vyresnieji ir prastuomenė, siekę ją ginti ir rasti prieglobstį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85938"></a>
 - t-003
+  global_id: t-85938
   teiginys: 'Krautuvių Pilyje slėpdavosi priemiesčių gyventojai ir pirkliai su prekėmis, todėl vokiečiai ją taip praminė.'
   pagrindžia:
     - c-002

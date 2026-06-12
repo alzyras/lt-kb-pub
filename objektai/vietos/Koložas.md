@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-99928"></a>
 - t-001
+  global_id: t-99928
   teiginys: 'Koložas buvo Gardino priemiestis.'
   pagrindžia:
     - c-001

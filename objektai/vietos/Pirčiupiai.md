@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-21706"></a>
 - t-001
+  global_id: t-21706
   teiginys: 'Nacių valdžios laikotarpiu kartais buvo sudeginami ištisi kaimai, tarp jų Pirčiupiai.'
   pagrindžia:
     - c-001

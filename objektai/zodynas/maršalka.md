@@ -19,12 +19,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-70233"></a>
 - t-001
+  global_id: t-70233
   teiginys: 'Tribunole pirmininkaudavo iš tų pačių deputatų renkamas pirmininkas, vadinamas tribunolo maršalka.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70234"></a>
 - t-002
+  global_id: t-70234
   teiginys: 'Žuvusiam maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuojau po mūšio; jam sugriuvus, ant tų pačių pamatų 1835 m. buvo šis pastatytas.'
   pagrindžia:
     - c-001

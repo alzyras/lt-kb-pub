@@ -26,22 +26,30 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
 
 ## Teiginiai
 
+<a id="claim-t-22359"></a>
 - t-001
+  global_id: t-22359
   teiginys: '„Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, todėl lietuvių kalba į švietimo įstaigas neįleista.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-22360"></a>
 - t-002
+  global_id: t-22360
   teiginys: 'Po abiejų sukilimų Rusijos imperijos politikoje lenkų klausimu sustiprėjo rusiškas nacionalizmas ir polonofobija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183488"></a>
 - t-003
+  global_id: t-183488
   teiginys: 'Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti jėga, neieškant konsensuso su vietos visuomene.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183489"></a>
 - t-004
+  global_id: t-183489
   teiginys: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
   pagrindžia:
     - c-002

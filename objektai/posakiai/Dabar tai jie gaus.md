@@ -20,12 +20,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-09656"></a>
 - t-001
+  global_id: t-09656
   teiginys: '„Dabar tai jie gaus“ buvo siejama su kareivių noru kuo greičiau atkeršyti už ankstesnę dieną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-09657"></a>
 - t-002
+  global_id: t-09657
   teiginys: '„Dabar tai jie gaus“ kareiviai kartojo pakilus ūpui po pro rinktinę pravažiavusių keturių vokiečių patrankų.'
   pagrindžia:
     - c-001

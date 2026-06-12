@@ -22,7 +22,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-06879"></a>
 - t-001
+  global_id: t-06879
   teiginys: 'Jogaila atsakė, kad jo brolis yra laisvas, o Lietuvos kunigaikščiai ir bajorai laisvi bei lygūs Lenkijos ponams.'
   pagrindžia:
     - c-001

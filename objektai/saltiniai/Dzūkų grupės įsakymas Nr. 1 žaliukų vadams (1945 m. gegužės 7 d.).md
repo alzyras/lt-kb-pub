@@ -30,12 +30,16 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
 
 ## Teiginiai
 
+<a id="claim-t-171528"></a>
 - t-001
+  global_id: t-171528
   teiginys: 'Dabar veikiantieji atskiri žaliukų daliniai vadinasi atatinkamai jų vadų slapyvardžio būriais, pav., Perkūno būrys, Šarūno būrys ir pan. [...].'
   pagrindžia:
     - c-002
 
+<a id="claim-t-171529"></a>
 - t-002
+  global_id: t-171529
   teiginys: 'Dzūkų grupės įsakymas Nr. 1 buvo skirtas vykdyti ir žinoti tik žaliukų dalinių vadams.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Dusburgietis teigia, kad mažoji lietuviškoji tarybinė enciklopedija.—T.
 
 ## Teiginiai
 
+<a id="claim-t-61176"></a>
 - t-001
+  global_id: t-61176
   teiginys: '„Mažoji lietuviškoji tarybinė enciklopedija“ išėjo trimis tomais 1966, 1968 ir 1971 m.'
   pagrindžia:
     - c-001

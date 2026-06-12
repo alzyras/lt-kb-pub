@@ -19,7 +19,9 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 
 ## Teiginiai
 
+<a id="claim-t-87471"></a>
 - t-001
+  global_id: t-87471
   teiginys: '1542 m. Vilniuje duotame rašte Lucko vyskupas Jurgis dalyvavo tarp išvardytų dignitorių ir pareigūnų.'
   pagrindžia:
     - c-001

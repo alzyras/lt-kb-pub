@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31708"></a>
 - t-001
+  global_id: t-31708
   teiginys: 'Ig. Skupskelio „Vytautas Didysis vokiečių literatūroje“ paskelbtas 1930 m. „Athenaeum“ I tome.'
   pagrindžia:
     - c-001

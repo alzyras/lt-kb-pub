@@ -19,7 +19,9 @@ Mikalojaus kapinių netoli Rūdninkų vartų, o kitoje pusėje - ligi Trakų kel
 
 ## Teiginiai
 
+<a id="claim-t-86231"></a>
 - t-001
+  global_id: t-86231
   teiginys: 'Mikalojaus kapinių netoli Rūdninkų vartų, o kitoje pusėje - ligi Trakų kelio, dovanodamas ten ir aikštes, ir namus, net su gyventojais11.'
   pagrindžia:
     - c-001

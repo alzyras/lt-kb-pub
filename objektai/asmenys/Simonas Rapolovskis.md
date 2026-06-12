@@ -27,7 +27,9 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
 
 ## Teiginiai
 
+<a id="claim-t-87852"></a>
 - t-001
+  global_id: t-87852
   teiginys: 'Kunigaikštis Simonas Rapolovskis lydėjo didžiąją kunigaikštytę Eleną, kai ji 1496 m. atvyko iš Maskvos į Vilnių.'
   pagrindžia:
     - c-001

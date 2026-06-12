@@ -24,7 +24,9 @@ Taigi: 180 ## Puslapis 197 Il KNYGA 1631 metais Akademijos kolegija, Dievo Kūno
 
 ## Teiginiai
 
+<a id="claim-t-88434"></a>
 - t-001
+  global_id: t-88434
   teiginys: 'Akademijos spaustuvė karališkąjį vardą turėjo dėl Augusto III ir Stanislovo Augusto suteiktų privilegijų.'
   pagrindžia:
     - c-001

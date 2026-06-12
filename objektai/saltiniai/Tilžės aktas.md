@@ -22,7 +22,9 @@ atnaujinta: ''
 
 ## Teiginiai
 
+<a id="claim-t-08892"></a>
 - t-001
+  global_id: t-08892
   teiginys: 'Tuometinė vokiečių valdžia ignoravo Tarybos nutarimą, vadinamą Tilžės aktu.'
   pagrindžia:
     - c-001

@@ -27,7 +27,9 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
 
 ## Teiginiai
 
+<a id="claim-t-60313"></a>
 - t-001
+  global_id: t-60313
   teiginys: 'Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 viešpaties metais brolis Henrikas iš Izenbergo, Karaliaučiaus komtūras, gavęs gerbiamojo vyro brolio Vernerio, didžiojo magistro, leidimą ir pritarimą,— to vyro, kuris itin rūpestingai ir uoliai ėjo jam patikėtas.'
   pagrindžia:
     - c-001

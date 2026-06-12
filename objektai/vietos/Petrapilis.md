@@ -25,23 +25,31 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 
 ## Teiginiai
 
+<a id="claim-t-68915"></a>
 - t-001
+  global_id: t-68915
   teiginys: 'Petras I Nevos paupyje pradėjo statyti būsimąją Rusijos sostinę Petrapilį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-68917"></a>
 - t-002
+  global_id: t-68917
   teiginys: 'Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-68918"></a>
 - t-003
+  global_id: t-68918
   teiginys: '1903 m. Petrapilyje buvo išleistas „Litovskaja Metrika“ teismo bylų knygų tomas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183072"></a>
 - t-004
-  teiginys: 'Ypač jiems padėjo artimi ryšiai su Petrapilio rūmais.'
+  global_id: t-183072
+  teiginys: 'Augusto III karaliavimo pabaigoje Čartoriskiai partijų kovose rėmėsi artimais ryšiais su Petrapilio rūmais.'
   pagrindžia:
     - c-004
 
@@ -92,7 +100,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - t-002
 
 - c-004
-  santrauka: 'Ypač jiems padėjo artimi ryšiai su Petrapilio rūmais.'
+  santrauka: 'Augusto III karaliavimo pabaigoje Čartoriskiai partijų kovose rėmėsi artimais ryšiais su Petrapilio rūmais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet Augusto III

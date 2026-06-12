@@ -24,12 +24,16 @@ PARTIZANŲ ĮVAIZDIS Juozas Daumantas savo prisiminimuose pasakoja apie vyravus�
 
 ## Teiginiai
 
+<a id="claim-t-40235"></a>
 - t-001
+  global_id: t-40235
   teiginys: 'Juozas Daumantas prisiminimuose aprašė Tauro apygardos partizanų susišaudymą per 1945 m. Kalėdas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183745"></a>
 - t-002
+  global_id: t-183745
   teiginys: 'Maksimaliai išvystyti sėkmę puolimo metu partizanams sutrukdė menka daugelio puolimo dalyvių patirtis tokio pobūdžio operacijose ir labai silpna koordinacija ŠAUDYMAS PER DURIS Juozas Daumantas savo prisiminimuose pasakoja apie Tauro apygardos partizanų.'
   pagrindžia:
     - c-002

@@ -19,12 +19,16 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
 
 ## Teiginiai
 
+<a id="claim-t-35148"></a>
 - t-001
+  global_id: t-35148
   teiginys: 'Kujavų vyskupas Jonas Kropidla Breslave imperatoriui Zigmantui pareiškė, kad karaliaus vardo vertas tik Vytautas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-35149"></a>
 - t-002
+  global_id: t-35149
   teiginys: 'Vloclavo vyskupas Jonas Kropidla buvo įsitraukęs į ginčą su Jogaila, kurį išsprendė Vytautas.'
   pagrindžia:
     - c-002

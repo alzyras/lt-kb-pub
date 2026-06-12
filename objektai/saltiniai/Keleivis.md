@@ -16,17 +16,23 @@ Centro valdžia, norėdama palaikyti šitą lietuvių prisirišimą, leido jiems
 
 ## Teiginiai
 
+<a id="claim-t-67427"></a>
 - t-001
+  global_id: t-67427
   teiginys: 'Centro valdžia Karaliaučiuje leido lietuvišką laikraštį „Keleivis“ nuo 1849 iki 1880 metų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67428"></a>
 - t-002
+  global_id: t-67428
   teiginys: '1849–1880 m. prof. Kuršaičio leistas „Keleivis“ turėjo daugiau įtakos visuomenei negu ankstesnis misijų laikraštis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67429"></a>
 - t-003
+  global_id: t-67429
   teiginys: '„Keleivio“ tikslas buvo išsaugoti lietuvių ištikimybę valdžiai ir valdančiajam sluoksniui.'
   pagrindžia:
     - c-003

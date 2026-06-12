@@ -31,52 +31,72 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
 
 ## Teiginiai
 
+<a id="claim-t-82984"></a>
 - t-001
+  global_id: t-82984
   teiginys: 'Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-82985"></a>
 - t-002
+  global_id: t-82985
   teiginys: 'Zigmantas mirė 1632 m., iškaraliavęs net 44 m.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-82986"></a>
 - t-003
+  global_id: t-82986
   teiginys: 'Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-82987"></a>
 - t-004
+  global_id: t-82987
   teiginys: '1598 m. Zigmantas Vaza 111 su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-82988"></a>
 - t-005
+  global_id: t-82988
   teiginys: 'Mūšis 1632 m. maskvėnai, pasinaudodami tuo, kad po Zigmanto Vazos mirties jo sūnus Vladislovas dar nebuvo įsitvirtinęs Lenkijos-Lietuvos soste, įsiveržė į Lietuvos teritoriją siekdami atgauti Smolenską.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-82989"></a>
 - t-006
+  global_id: t-82989
   teiginys: 'Zigmanto Vazos artimieji patarėjai buvo jėzuitai arba karšti katalikai; protestantų jis ne tik prie savęs neprisileido, bet net stengėsi jiems neduoti jokių aukštesnių vietų valstybėje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82991"></a>
 - t-007
+  global_id: t-82991
   teiginys: 'Zigmantas Vaza mirdamas paliko 5 sūnus ir 2 dukteris.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-82992"></a>
 - t-008
+  global_id: t-82992
   teiginys: 'Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-82993"></a>
 - t-009
+  global_id: t-82993
   teiginys: 'Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82994"></a>
 - t-010
+  global_id: t-82994
   teiginys: 'Zigmantas Vaza gavo sostą teturėdamas vos 21 m. Jis buvo Švedų karaliaus Jono III ir Zigmanto Augusto sesers Kotrynos vienintelis sūnus.'
   pagrindžia:
     - c-009

@@ -6,34 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lietuvos valdos Lietuva
 
 ## Santrauka
 
-Kojelavičius teigia, kad vargais negalais kariai įveikė šiuos sunkumus ir pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo. Kojelavičius teigia, kad tais pačiais metais mirė Vilniaus vyskupas Jokūbas, lietuvis, iš pranciškočiams rodėsi, jog jiems per maža neseniai atiduotos Že maitijos, dėl to puoselėjo viltį užgrobti visą Lietuvą. Kojelavičius teigia, kad lietuva juto baisią maisto sto ką.
+Sunkumus įveikę kariai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo. Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųsti į Prūsijos pasienį ir vežti grūdus į Lietuvą.
 
 ## Teiginiai
 
+<a id="claim-t-185242"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vargais negalais kariai įveikė šiuos sunkumus ir pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.'
+  global_id: t-185242
+  teiginys: 'Sunkumus įveikę kariai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185244"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad tais pačiais metais mirė Vilniaus vyskupas Jokūbas, lietuvis, iš pranciškočiams rodėsi, jog jiems per maža neseniai atiduotos Že maitijos, dėl to puoselėjo viltį užgrobti visą Lietuvą.'
+  global_id: t-185244
+  teiginys: 'Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųsti į Prūsijos pasienį ir vežti grūdus į Lietuvą.'
   pagrindžia:
     - c-002
-
-- t-003
-  teiginys: 'Kojelavičius teigia, kad lietuva juto baisią maisto sto ką.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vargais negalais kariai įveikė šiuos sunkumus ir pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.'
+  santrauka: 'Sunkumus įveikę kariai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Be to, jie negalėjo rasti neseniai nusiaubtuose kai­
@@ -54,25 +52,7 @@ Kojelavičius teigia, kad vargais negalais kariai įveikė šiuos sunkumus ir pa
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad tais pačiais metais mirė Vilniaus vyskupas Jokūbas, lietuvis, iš pranciškočiams rodėsi, jog jiems per maža neseniai atiduotos Že maitijos, dėl to puoselėjo viltį užgrobti visą Lietuvą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tais pačiais metais
-    mirė Vilniaus vyskupas Jokūbas, lietuvis, iš pranciško-
-    čiams rodėsi, jog jiems per maža neseniai atiduotos Že­
-    maitijos, dėl to puoselėjo viltį užgrobti visą Lietuvą.
-    Kodėl gi jie turėtų nurimti nepaėmę į savo rankas visų
-    Lietuvos žemių? Su tokiu įniršiu daugybę metų kovoję,
-    kol lietuvių padėtis buvusi tvirta, negi jie dabar sėdės
-    sudėję rankas, kai Lietuva beveik jau užkariauta?
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Kojelavičius teigia, kad lietuva juto baisią maisto sto ką.'
+  santrauka: 'Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųsti į Prūsijos pasienį ir vežti grūdus į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lietuva juto baisią maisto sto­
@@ -89,4 +69,4 @@ Kojelavičius teigia, kad vargais negalais kariai įveikė šiuos sunkumus ir pa
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

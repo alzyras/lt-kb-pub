@@ -26,17 +26,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-75612"></a>
 - t-001
+  global_id: t-75612
   teiginys: '„Idealioji Lietuva“ įsivaizduota kaip kultūrinė erdvė, kurioje filmus ir spektaklius kurtų Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75613"></a>
 - t-002
+  global_id: t-75613
   teiginys: 'O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pagalvoji, kiek dar tokių vardų slepia Lietuva?'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183492"></a>
 - t-003
+  global_id: t-183492
   teiginys: 'Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Robertas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), o juose vaidina seras John Gielgud (Džonas.'
   pagrindžia:
     - c-003

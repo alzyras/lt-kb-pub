@@ -23,12 +23,16 @@ Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuria
 
 ## Teiginiai
 
+<a id="claim-t-21317"></a>
 - t-001
+  global_id: t-21317
   teiginys: 'Vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto jį nudraskė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183388"></a>
 - t-002
+  global_id: t-183388
   teiginys: 'Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišaukimus nudraskė.'
   pagrindžia:
     - c-002

@@ -26,7 +26,9 @@ Kętrzyńskis atsidėjo Mindaugo donacinių dokumentų klausimui^127. Kętrzyńs
 
 ## Teiginiai
 
+<a id="claim-t-31065"></a>
 - t-001
+  global_id: t-31065
   teiginys: 'Kętrzyńskis atsidėjo Mindaugo donacinių dokumentų klausimui^127.'
   pagrindžia:
     - c-001

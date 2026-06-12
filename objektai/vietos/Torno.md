@@ -26,22 +26,30 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 
 ## Teiginiai
 
+<a id="claim-t-178211"></a>
 - t-001
+  global_id: t-178211
   teiginys: 'Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio prekybos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-178212"></a>
 - t-002
+  global_id: t-178212
   teiginys: 'Po Torno taikos Vytautas iš Jogailos gavo Podoliją ir pasiuntė jam 20 000 grašių kariuomenei apmokėti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-178213"></a>
 - t-003
+  global_id: t-178213
   teiginys: 'Prie Torno pilies 1411 m. vasario 1 d. buvo sudaryta taika, kai joje buvo užsidaręs didysis magistras.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-178215"></a>
 - t-004
+  global_id: t-178215
   teiginys: 'Atvykę prie Torno pilies, kur buvo užsidaręs pats didysis magistras, jiedu 1411.II.1 d. padarė taiką.'
   pagrindžia:
     - c-001

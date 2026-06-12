@@ -25,7 +25,9 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
 
 ## Teiginiai
 
+<a id="claim-t-99929"></a>
 - t-001
+  global_id: t-99929
   teiginys: '1230 m. Mozūrijos kunigaikštis Konradas kryžiuočiams užrašė Kulmiją.'
   pagrindžia:
     - c-001

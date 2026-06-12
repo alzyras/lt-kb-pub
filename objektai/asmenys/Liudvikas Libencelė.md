@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Liudvikas Libencelė
 
 ## Santrauka
 
-Kojelavičius teigia, kad nuo Liudviko Libencelės karių rankos tais pačiais metais krito dvi dešimt penki Aukaimio įgulos vyrai, neatsargiai nusi gavę į priešo žemę. Kojelavičius teigia, kad geriau sekėsi Liudvi kui Libencelei: jis užėmė Lietuvoje Kimelio pilį, kuri buvo daug kartų stipriomis jėgomis, bet nesėkmingai puldinėta, ir sumušė gardiniečius, drįsusius stoti su juo į kovą.
+Nuo Liudviko Libencelės karių žuvo dvidešimt penki Aukaimio įgulos vyrai, neatsargiai patekę į priešo žemę. Liudvikas Libencelė užėmė Lietuvoje Kimelio pilį ir sumušė su juo kovoti stojusius gardiniečius.
 
 ## Teiginiai
 
+<a id="claim-t-186145"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad nuo Liudviko Libencelės karių rankos tais pačiais metais krito dvi dešimt penki Aukaimio įgulos vyrai, neatsargiai nusi gavę į priešo žemę.'
+  global_id: t-186145
+  teiginys: 'Nuo Liudviko Libencelės karių žuvo dvidešimt penki Aukaimio įgulos vyrai, neatsargiai patekę į priešo žemę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186146"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad geriau sekėsi Liudvi kui Libencelei: jis užėmė Lietuvoje Kimelio pilį, kuri buvo daug kartų stipriomis jėgomis, bet nesėkmingai puldinėta, ir sumušė gardiniečius, drįsusius stoti su juo į kovą.'
+  global_id: t-186146
+  teiginys: 'Liudvikas Libencelė užėmė Lietuvoje Kimelio pilį ir sumušė su juo kovoti stojusius gardiniečius.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad nuo Liudviko Libencelės karių rankos tais pačiais metais krito dvi dešimt penki Aukaimio įgulos vyrai, neatsargiai nusi gavę į priešo žemę.'
+  santrauka: 'Nuo Liudviko Libencelės karių žuvo dvidešimt penki Aukaimio įgulos vyrai, neatsargiai patekę į priešo žemę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl jie priplaukė prie kranto, ketindami tą
@@ -53,7 +56,7 @@ Kojelavičius teigia, kad nuo Liudviko Libencelės karių rankos tais pačiais m
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad geriau sekėsi Liudvi kui Libencelei: jis užėmė Lietuvoje Kimelio pilį, kuri buvo daug kartų stipriomis jėgomis, bet nesėkmingai puldinėta, ir sumušė gardiniečius, drįsusius stoti su juo į kovą.'
+  santrauka: 'Liudvikas Libencelė užėmė Lietuvoje Kimelio pilį ir sumušė su juo kovoti stojusius gardiniečius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip atstumti, kryžiuo­
@@ -72,3 +75,9 @@ Kojelavičius teigia, kad nuo Liudviko Libencelės karių rankos tais pačiais m
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Laivai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/įgula]]

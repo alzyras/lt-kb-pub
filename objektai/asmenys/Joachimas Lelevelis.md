@@ -27,12 +27,16 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 
 ## Teiginiai
 
+<a id="claim-t-78033"></a>
 - t-001
+  global_id: t-78033
   teiginys: 'Po caro administracijos tyrimo politiškai nepatikimu laikytas Joachimas Lelevelis buvo pašalintas iš profesorių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78034"></a>
 - t-002
+  global_id: t-78034
   teiginys: 'Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Lelewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830), chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liudvigas Heinrichas Bojanus.'
   pagrindžia:
     - c-002

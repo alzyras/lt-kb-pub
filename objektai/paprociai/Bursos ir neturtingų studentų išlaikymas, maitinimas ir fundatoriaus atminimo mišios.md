@@ -47,7 +47,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87264"></a>
 - t-001
+  global_id: t-87264
   teiginys: 'Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius namus, vieną Bernardinų gatvėje, o du Vyskupų gatvėje, 1579 metų kovo 6 dieną, fundacijos teise, užrašė Akademijai ir Collegio, nustatydamas sąlygas: lmo: kad keliems studentams.'
   pagrindžia:
     - c-001

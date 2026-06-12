@@ -18,7 +18,9 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 
 ## Teiginiai
 
+<a id="claim-t-87475"></a>
 - t-001
+  global_id: t-87475
   teiginys: '1542 m. Vilniuje duotame rašte raikytojas Jurgis Astikaitis dalyvavo tarp Lietuvos Didžiosios Kunigaikštystės pareigūnų.'
   pagrindžia:
     - c-001

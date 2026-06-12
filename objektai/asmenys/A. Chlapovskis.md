@@ -16,12 +16,16 @@ Chlapovskis mėgino vyriausiąjį vadą generolą A. Chlapovskiui, kurio žinioj
 
 ## Teiginiai
 
+<a id="claim-t-39465"></a>
 - t-001
+  global_id: t-39465
   teiginys: 'A. Chlapovskiui buvo pavesta organizuoti sukilėlių kariuomenės atsitraukimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-39466"></a>
 - t-002
+  global_id: t-39466
   teiginys: 'Generolas Chlapovskis mėgino atkalbėti A. Gelgaudą nuo puolimo ir siūlė pasitraukti.'
   pagrindžia:
     - c-001

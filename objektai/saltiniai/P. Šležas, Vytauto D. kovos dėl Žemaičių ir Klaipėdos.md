@@ -27,7 +27,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31882"></a>
 - t-001
+  global_id: t-31882
   teiginys: 'P. Šležo „Vytauto D. kovos dėl Žemaičių ir Klaipėdos“ paskelbta 1932 m. leidinyje „NaR“, nr. 18, p. 409–412.'
   pagrindžia:
     - c-001

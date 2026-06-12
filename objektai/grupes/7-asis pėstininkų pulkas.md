@@ -17,7 +17,9 @@ Lietuvos - 2-asis pėstininkų pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
 
 ## Teiginiai
 
+<a id="claim-t-38934"></a>
 - t-001
+  global_id: t-38934
   teiginys: 'Panerių mūšyje Lenkijos sukilėlių pajėgoms priklausė 7-asis pėstininkų pulkas.'
   pagrindžia:
     - c-001

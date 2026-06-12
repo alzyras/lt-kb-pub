@@ -29,7 +29,9 @@ Naudodamas Rygos archyvų medžiagą, jis ėmė tyrinėti iki tol Lietuvos istor
 
 ## Teiginiai
 
+<a id="claim-t-31854"></a>
 - t-001
+  global_id: t-31854
   teiginys: 'Sužiedėlis 1936 m. „Athenaeume“ paskelbė studiją „Mykolo Radvilos pastangos prijungti Lietuvai Rygą“.'
   pagrindžia:
     - c-001

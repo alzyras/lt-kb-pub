@@ -23,7 +23,9 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
 
 ## Teiginiai
 
+<a id="claim-t-36567"></a>
 - t-001
+  global_id: t-36567
   teiginys: '1370 m. vasarį lietuviai mažais būreliais nusiaubė kelias Sambijos krašto sritis.'
   pagrindžia:
     - c-001

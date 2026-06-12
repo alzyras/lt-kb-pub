@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Arijonai
 
 ## Santrauka
 
-Kojelavičius teigia, kad agilulfui viešpataujant, 591 m eta i visa gentis perėjo į krikščio nybę: ir daugelis buvusių arijonų (šią sektą buvo priglaudę Germanijoje ir Panonijoje), ir žmonės, ligi tol buvę stabmeldžiais.
+Agilulfui viešpataujant, 591 m. daugelis buvusių arijonų kartu su stabmeldžiais perėjo į krikščionybę.
 
 ## Teiginiai
 
+<a id="claim-t-185456"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad agilulfui viešpataujant, 591 m eta i visa gentis perėjo į krikščio nybę: ir daugelis buvusių arijonų (šią sektą buvo priglaudę Germanijoje ir Panonijoje), ir žmonės, ligi tol buvę stabmeldžiais.'
+  global_id: t-185456
+  teiginys: 'Agilulfui viešpataujant, 591 m. daugelis buvusių arijonų kartu su stabmeldžiais perėjo į krikščionybę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad agilulfui viešpataujant, 591 m eta i visa gentis perėjo į krikščio nybę: ir daugelis buvusių arijonų (šią sektą buvo priglaudę Germanijoje ir Panonijoje), ir žmonės, ligi tol buvę stabmeldžiais.'
+  santrauka: 'Agilulfui viešpataujant, 591 m. daugelis buvusių arijonų kartu su stabmeldžiais perėjo į krikščionybę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to Italijoje
@@ -43,3 +44,7 @@ Kojelavičius teigia, kad agilulfui viešpataujant, 591 m eta i visa gentis per�
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/stabmeldžiai]]

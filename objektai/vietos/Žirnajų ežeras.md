@@ -18,7 +18,9 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
 
 ## Teiginiai
 
+<a id="claim-t-42409"></a>
 - t-001
+  global_id: t-42409
   teiginys: 'Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę ir toliau keliu Gelvonų link, einančiu per dabartinį Pabaiską, vakarine Žirnajų ežero pakrante.'
   pagrindžia:
     - c-001

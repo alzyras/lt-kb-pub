@@ -17,7 +17,9 @@ Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anks�
 
 ## Teiginiai
 
+<a id="claim-t-60460"></a>
 - t-001
+  global_id: t-60460
   teiginys: 'Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anksčiau minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų ordino broliams Prūsijoje.'
   pagrindžia:
     - c-001

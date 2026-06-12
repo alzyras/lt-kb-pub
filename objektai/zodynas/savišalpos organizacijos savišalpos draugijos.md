@@ -17,12 +17,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-70324"></a>
 - t-001
+  global_id: t-70324
   teiginys: 'Tai vietinės smulkios draugijos, kurios dažniausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai varyti kokį nors verslą (biznį).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70325"></a>
 - t-002
+  global_id: t-70325
   teiginys: 'Čia, be to, dar prieškariniais laikais buvo smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių skaičius į Argentiną atvyko dar XIX amž. gale.'
   pagrindžia:
     - c-002

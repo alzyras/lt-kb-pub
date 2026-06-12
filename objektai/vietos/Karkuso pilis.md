@@ -25,12 +25,16 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
 
 ## Teiginiai
 
+<a id="claim-t-58564"></a>
 - t-001
+  global_id: t-58564
   teiginys: 'Dusburgietis teigia, kad karkus, Karkuso resp. Karksio pilis Livonijoje (pietinėje Estijoje), į pietus nuo dab.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58565"></a>
 - t-002
+  global_id: t-58565
   teiginys: 'Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas.'
   pagrindžia:
     - c-002

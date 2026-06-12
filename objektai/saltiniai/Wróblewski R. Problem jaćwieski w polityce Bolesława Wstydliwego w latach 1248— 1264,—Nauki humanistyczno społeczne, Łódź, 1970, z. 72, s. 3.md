@@ -25,7 +25,9 @@ Dusburgietis teigia, kad wróblewski R.
 
 ## Teiginiai
 
+<a id="claim-t-61371"></a>
 - t-001
+  global_id: t-61371
   teiginys: 'R. Wróblewskio straipsnis apie jotvingių klausimą Boleslovo Droviojo politikoje 1248-1264 m. paskelbtas Lodzėje 1970 m.'
   pagrindžia:
     - c-001

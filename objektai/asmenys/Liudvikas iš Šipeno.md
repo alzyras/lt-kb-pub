@@ -24,7 +24,9 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
 
 ## Teiginiai
 
+<a id="claim-t-60379"></a>
 - t-001
+  global_id: t-60379
   teiginys: 'Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.'
   pagrindžia:
     - c-001

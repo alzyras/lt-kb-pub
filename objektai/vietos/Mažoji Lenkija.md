@@ -25,17 +25,23 @@ Mažoji Lenkija šiame šaltinyje minima ir kaip pietinės Lenkijos ponų erdvė
 
 ## Teiginiai
 
+<a id="claim-t-73259"></a>
 - t-001
-  teiginys: 'Dabar jiems atrodė, kad geriausia būtų Lenkijos karalium padaryti Jogailą — Lietuvą sulieti su Lenkija; tuo būdu ir visos tos žemės tuomet turėtų pasidaryti savos.'
+  global_id: t-73259
+  teiginys: 'Mažosios Lenkijos ponams atrodė, kad Jogailą padarius Lenkijos karaliumi ginčijamos žemės taptų savos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-73260"></a>
 - t-002
-  teiginys: 'Taip galvojo ponai tos Lenkijos dalies, kuri susiėjo su ginčijamomis žemėmis.'
+  global_id: t-73260
+  teiginys: 'Pietinės Lenkijos, vadinamos Mažąja Lenkija, ponai buvo susiję su ginčijamomis žemėmis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-73261"></a>
 - t-003
+  global_id: t-73261
   teiginys: 'Vytautas atkeldino benediktinus į Senuosius Trakus iš Mažosios Lenkijos.'
   pagrindžia:
     - c-003
@@ -43,6 +49,7 @@ Mažoji Lenkija šiame šaltinyje minima ir kaip pietinės Lenkijos ponų erdvė
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pietinės Lenkijos, vadinamos Mažąja Lenkija, ponai buvo susiję su ginčijamomis žemėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip galvojo ponai tos Lenkijos dalies,
@@ -59,6 +66,7 @@ Mažoji Lenkija šiame šaltinyje minima ir kaip pietinės Lenkijos ponų erdvė
     - t-002
 
 - c-002
+  santrauka: 'Mažosios Lenkijos ponams atrodė, kad Jogailą padarius Lenkijos karaliumi ginčijamos žemės taptų savos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dabar jiems

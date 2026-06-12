@@ -16,17 +16,23 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
 
 ## Teiginiai
 
+<a id="claim-t-40036"></a>
 - t-001
+  global_id: t-40036
   teiginys: 'Antonievičius buvo paskirtas vieno iš batalionų vadu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-40037"></a>
 - t-002
+  global_id: t-40037
   teiginys: 'Antonievičius kartu su D. Maleckiu užėmė pozicijas centre.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40038"></a>
 - t-003
+  global_id: t-40038
   teiginys: 'Majoras Antonievičius žuvo, kai sukilėliai dvi valandas atkakliai priešinosi.'
   pagrindžia:
     - c-002

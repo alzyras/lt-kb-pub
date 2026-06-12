@@ -26,32 +26,44 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 
 ## Teiginiai
 
+<a id="claim-t-65108"></a>
 - t-001
+  global_id: t-65108
   teiginys: 'Dusburgietis teigia, kad „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas, o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą, apie.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65109"></a>
 - t-002
+  global_id: t-65109
   teiginys: 'Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra vadinamieji Dobrynės broliai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-65110"></a>
 - t-003
+  global_id: t-65110
   teiginys: 'Dusburgietis teigia, kad 166 Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-65111"></a>
 - t-004
+  global_id: t-65111
   teiginys: 'Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau suprato, kad ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-65112"></a>
 - t-005
+  global_id: t-65112
   teiginys: 'Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei Dobrynės brolių pastangos, tačiau prūsai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-65113"></a>
 - t-006
+  global_id: t-65113
   teiginys: 'Dusburgietis teigia, kad 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.'
   pagrindžia:
     - c-005

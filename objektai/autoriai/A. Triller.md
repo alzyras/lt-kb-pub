@@ -16,7 +16,9 @@ Dusburgietis teigia, kad triller.—Marburg, 1961; Bd. 4 (1346—1351) /Н.
 
 ## Teiginiai
 
+<a id="claim-t-60668"></a>
 - t-001
+  global_id: t-60668
   teiginys: 'A. Triller kartu su H. Koeppenu parengė „Preussisches Urkundenbuch“ trečio tomo papildymus ir registrą.'
   pagrindžia:
     - c-001

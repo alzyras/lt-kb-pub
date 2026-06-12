@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-80649"></a>
 - t-001
+  global_id: t-80649
   teiginys: '(3-iajai divizijai: Vištyčio ež.- Rūdelė-Smalėnai-Klevai-Dimitravo ež., 2-ajai divizijai: Dimitravo ež.-Meros upėAugustavo kanalas-Nemunas.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
 
 ## Teiginiai
 
+<a id="claim-t-59158"></a>
 - t-001
+  global_id: t-59158
   teiginys: 'Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti jiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to, prisimindamas šiuos poeto žodžius: Pusę darbo padaro tasai, kas netrunka jo imtis — sutelkė savo žmones ir prieš.'
   pagrindžia:
     - c-001

@@ -45,17 +45,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54334"></a>
 - t-001
+  global_id: t-54334
   teiginys: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54335"></a>
 - t-002
+  global_id: t-54335
   teiginys: 'Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54336"></a>
 - t-003
+  global_id: t-54336
   teiginys: 'Nadruvoje minima Romuva ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.'
   pagrindžia:
     - c-002

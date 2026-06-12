@@ -22,7 +22,9 @@ Dusburgietis teigia, kad powierski J.
 
 ## Teiginiai
 
+<a id="claim-t-61247"></a>
 - t-001
+  global_id: t-61247
   teiginys: 'J. Powierskio straipsnis „Uwagi o starożytnych dziejach ziem pruskich“ paskelbtas 1976 m. ZHPB 41 tomo 4 sąsiuvinyje.'
   pagrindžia:
     - c-001

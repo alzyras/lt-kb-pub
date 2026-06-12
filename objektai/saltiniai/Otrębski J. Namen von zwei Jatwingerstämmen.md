@@ -22,7 +22,9 @@ Dusburgietis teigia, kad otrębski J.
 
 ## Teiginiai
 
+<a id="claim-t-61207"></a>
 - t-001
+  global_id: t-61207
   teiginys: 'J. Otrębskio „Namen von zwei Jatwingerstämmen“ 1963 m. publikuotas Berlyne leidinyje „Slawische Namenforschung“.'
   pagrindžia:
     - c-001

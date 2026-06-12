@@ -28,12 +28,16 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
 
 ## Teiginiai
 
+<a id="claim-t-36016"></a>
 - t-001
+  global_id: t-36016
   teiginys: 'Lenkai nedrįso pasipriešinti Vytautui, nes suprato, kad prieš vėją nepapūs ir jis buvo per galingas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-36017"></a>
 - t-002
+  global_id: t-36017
   teiginys: 'Lenkai nedrįso priešintis Vytautui, nes suprato, kad prieš vėją nepapūs, o Vytautas buvo per galingas.'
   pagrindžia:
     - c-001

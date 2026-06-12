@@ -16,7 +16,9 @@ Vikingai naudojo visas didžiąsias upes rytų Pabaltijo, kuris kartą yra pavad
 
 ## Teiginiai
 
+<a id="claim-t-32750"></a>
 - t-001
+  global_id: t-32750
   teiginys: 'Rytų Pabaltijui vieną kartą buvo pavartotas senasis terminas „Eistr“ „Saga Olafs konungs Tryggvasonar“ tekste.'
   pagrindžia:
     - c-001

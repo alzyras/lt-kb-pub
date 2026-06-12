@@ -16,7 +16,9 @@ Jablonskytė - Rimantienė pateikė duomenų apie seniausias akmens amžiaus sto
 
 ## Teiginiai
 
+<a id="claim-t-30938"></a>
 - t-001
+  global_id: t-30938
   teiginys: 'Jablonskytė - Rimantienė pateikė duomenų apie seniausias akmens amžiaus stovyklas Lietuvoje^98.'
   pagrindžia:
     - c-001

@@ -9,7 +9,6 @@ atnaujinta: ''
 tags:
   - asmuo
 ---
-
 # Grigalius Chodkevičius
 
 ## Santrauka
@@ -18,13 +17,17 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 
 ## Teiginiai
 
+<a id="claim-t-40125"></a>
 - t-001
+  global_id: t-40125
   teiginys: 'Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184710"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad iš lietuvių puošniausiai atrodė Radvila bei Grigalius Chodkevičius.'
+  global_id: t-184710
+  teiginys: 'Krokuvos vestuvėse iš lietuvių puošniausiai atrodė Radvila ir Grigalius Chodkevičius.'
   pagrindžia:
     - c-002
 
@@ -58,7 +61,7 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad iš lietuvių puošniausiai atrodė Radvila bei Grigalius Chodkevičius.'
+  santrauka: 'Krokuvos vestuvėse iš lietuvių puošniausiai atrodė Radvila ir Grigalius Chodkevičius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Liepos mėnesį Krokuvoje
@@ -77,3 +80,19 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Augustas]]
+- [[objektai/grupes/Chodkevičiai]]
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas Chodkevičius]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Radvila]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Kunzas Lochneris]]
+- [[objektai/asmenys/Romanas Sanguška]]

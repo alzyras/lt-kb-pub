@@ -27,96 +27,124 @@ periodo_grupes:
 
 verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos tėvas, 1510— 1514 m.Kijevo vaivada; 1522—1527 m Trakų, o 1527-1541 m. Vilniaus kaštelionas; 1521 — 1531 m. lauko (kiemo) hetmonas, 1531—1541 m. d. hetmonas. Jurgis Radvila 1582 m. įkūrė visiškai atskirą kunigų seminariją (joje turėjo būti 12 klierikų).
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/zodynas/koadjutorius]]
-- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
-
 ## Teiginiai
 
+<a id="claim-t-103037"></a>
 - t-001
+  global_id: t-103037
   teiginys: 'Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo mūrinį Goštautų namą priešais Šv. Jono bažnyčią.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-103038"></a>
 - t-002
+  global_id: t-103038
   teiginys: 'Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-103039"></a>
 - t-003
+  global_id: t-103039
   teiginys: 'Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams auklėti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-103040"></a>
 - t-004
+  global_id: t-103040
   teiginys: 'Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-103041"></a>
 - t-005
+  global_id: t-103041
   teiginys: 'Jurgis Radvila buvo vyskupas ir Mikalojaus Radvilos Juodojo sūnus.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-103043"></a>
 - t-007
+  global_id: t-103043
   teiginys: 'Jurgis Radvila, kardinolas ir buvęs Vilniaus bei Krokuvos vyskupas, mirė Romoje 1600 m.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-103044"></a>
 - t-008
+  global_id: t-103044
   teiginys: 'Paveikslo „Oršos mūšis“ fragmente matyti buože užsimojęs lauko etmonas Jurgis Radvila.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-103046"></a>
 - t-010
+  global_id: t-103046
   teiginys: 'Kunigaikščio ir Vilniaus vyskupo kardinolo Jurgio Radvilos lėšomis pastatyta Kardinalija iškilo tarp senų mūrinių namų ir medinių dvarų.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-103047"></a>
 - t-011
+  global_id: t-103047
   teiginys: 'Jurgio Radvilos lėšomis Vilniuje buvo pastatytas vienas didžiausių miesto namų, vadintas Kardinalija.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-103048"></a>
 - t-012
+  global_id: t-103048
   teiginys: '1582 m. dokumentą Jurgis Radvila pasirašė kaip Vilniaus vyskupas ir Olykos kunigaikštis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-103049"></a>
 - t-013
+  global_id: t-103049
   teiginys: 'Vilniaus vyskupas Jurgis Radvila 1582 m. sausio 11 d. Vilniuje pasirašė vyskupo seminarijos fundacijos aktą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-103051"></a>
 - t-015
+  global_id: t-103051
   teiginys: 'Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-103052"></a>
 - t-016
+  global_id: t-103052
   teiginys: 'Jiems vadovavo talentingas karvedys, jau pasižymėjęs kovose su totoriais ir vokiečių ordinu, tuometinis Kijevo vaivada ir LDK taurininkas Jurgis Radvila (vėliau tapęs LDK didžiuoju etmonu).'
   pagrindžia:
     - c-008
 
+<a id="claim-t-103053"></a>
 - t-017
+  global_id: t-103053
   teiginys: 'Jurgis Radvila paveikslo „Oršos mūšis“ fragmente vaizduojamas kaip buože užsimojęs lauko etmonas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-103054"></a>
 - t-018
+  global_id: t-103054
   teiginys: 'Jurgis Radvila, tuometinis Kijevo vaivada ir LDK taurininkas, vadovavo lietuvių pašauktiniams bajorams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-103055"></a>
 - t-019
+  global_id: t-103055
   teiginys: 'Jurgis Radvila buvo kardinolas, Inocento IX ir Klemenso VIII elektorius, Vilniaus ir vėliau Krokuvos vyskupas.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-184747"></a>
 - t-020
-  teiginys: 'Kojelavičius teigia, kad sverčovskis, lenkų kariuomenės vadas, metė prieš jį samdytinių hu sarų vėliavas, o Jurgis Radvila — lengvąją kavaleriją.'
+  global_id: t-184747
+  teiginys: 'Jurgis Radvila metė prieš Čeliadniną lengvąją kavaleriją.'
   pagrindžia:
     - c-013
 
@@ -421,7 +449,7 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
     - t-005
 
 - c-013
-  santrauka: 'Kojelavičius teigia, kad sverčovskis, lenkų kariuomenės vadas, metė prieš jį samdytinių hu sarų vėliavas, o Jurgis Radvila — lengvąją kavaleriją.'
+  santrauka: 'Jurgis Radvila metė prieš Čeliadniną lengvąją kavaleriją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Čeliadninas kaip ir anksčiau tebestovėjo su pa­
@@ -435,3 +463,37 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   statusas: verified
   pagrindžia:
     - t-020
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
+- [[objektai/zodynas/koadjutorius]]
+- [[objektai/asmenys/Augustas]]
+- [[objektai/zodynas/Cechas]]
+- [[objektai/grupes/Goštautai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Radvila]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Tridento Sinodas]]
+- [[objektai/posakiai/Viešpaties vardu Amen]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/zodynas/diecezija]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/fundacija]]
+- [[objektai/zodynas/samdytiniai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/tribunolas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/daiktai/Kardinalijos namų kompleksas]]
+- [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
+- [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]
+- [[objektai/zodynas/vyskupijos stalas, personatai ir beneficijos]]
+- [[objektai/paprociai/Kardinalijos koplyčios pamaldų laikymas]]

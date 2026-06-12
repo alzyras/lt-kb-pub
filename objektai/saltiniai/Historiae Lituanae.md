@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-31705"></a>
 - t-001
+  global_id: t-31705
   teiginys: 'Kojalavičius parašė dviejų tomų Historiae Lituanae ir dėl šio veikalo vėlesnėse kartose išryškėjo kaip žymus Lietuvos istorikas.'
   pagrindžia:
     - c-001

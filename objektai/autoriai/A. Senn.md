@@ -24,7 +24,9 @@ Senn, A. : On the Kinship between Slavic and Baltic , Slavonic and East European
 
 ## Teiginiai
 
+<a id="claim-t-30541"></a>
 - t-001
+  global_id: t-30541
   teiginys: 'A. Senn 1941 m. paskelbė straipsnį „On the Kinship between Slavic and Baltic“.'
   pagrindžia:
     - c-001

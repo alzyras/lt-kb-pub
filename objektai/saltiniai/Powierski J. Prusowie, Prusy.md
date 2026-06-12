@@ -16,7 +16,9 @@ Dusburgietis teigia, kad powierski J.
 
 ## Teiginiai
 
+<a id="claim-t-61242"></a>
 - t-001
+  global_id: t-61242
   teiginys: 'J. Powierskio tekstas „Prusowie, Prusy“ paskelbtas SSS 4 tomo 1 dalyje, 368–371 puslapiuose.'
   pagrindžia:
     - c-001

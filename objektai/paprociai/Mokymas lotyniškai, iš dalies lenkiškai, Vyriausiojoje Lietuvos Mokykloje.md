@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67171"></a>
 - t-001
+  global_id: t-67171
   teiginys: 'Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67172"></a>
 - t-002
+  global_id: t-67172
   teiginys: 'Daugumas dalykų tebebuvo dėstoma lotyniškai, tik kai kurie dalykai — lenkiškai (galutinai lenkų kalba čia buvo įvesta tik 1816 m., t.'
   pagrindžia:
     - c-002

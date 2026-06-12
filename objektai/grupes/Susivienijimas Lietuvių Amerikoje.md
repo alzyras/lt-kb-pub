@@ -18,17 +18,23 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-66148"></a>
 - t-001
+  global_id: t-66148
   teiginys: 'Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje vėliau buvo pavadintas Susivienijimu Lietuvių Amerikoje, tačiau jo vadovybė pasiliko katalikiškose rankose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66149"></a>
 - t-002
+  global_id: t-66149
   teiginys: 'Susivienijimas Lietuvių Amerikoje iš pradžių mažai rūpinosi tautinės sąmonės žadinimu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66150"></a>
 - t-003
+  global_id: t-66150
   teiginys: 'Susivienijimą Lietuvių Amerikoje sukūrė veikėjai, susigrupavę apie dr. Joną Šliūpą ir nepatenkinti pirmojo Susivienijimo katalikiška vadovybe.'
   pagrindžia:
     - c-003

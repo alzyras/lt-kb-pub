@@ -29,107 +29,149 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 
 ## Teiginiai
 
+<a id="claim-t-116726"></a>
 - t-001
+  global_id: t-116726
   teiginys: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-116727"></a>
 - t-002
+  global_id: t-116727
   teiginys: 'Dusburgietis teigia, kad šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-116728"></a>
 - t-003
+  global_id: t-116728
   teiginys: 'Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją, nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-116729"></a>
 - t-004
+  global_id: t-116729
   teiginys: 'Bažnyčios su dviem grakščiais, skirtingai dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruožu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-116730"></a>
 - t-005
+  global_id: t-116730
   teiginys: 'Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-116731"></a>
 - t-006
+  global_id: t-116731
   teiginys: 'Vytauto bažnytinėje politikoje bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-116732"></a>
 - t-007
+  global_id: t-116732
   teiginys: 'Testamente pareikšta ištikimybė Katalikų Bažnyčiai ir Romos tikėjimui, priimant išpažinties, Eucharistijos ir patepimo sakramentus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-116733"></a>
 - t-008
+  global_id: t-116733
   teiginys: 'Nuo 1387 m. LDK buvo katalikiška, tačiau apie 1500 m. joje veikė šešios stačiatikių vyskupijos.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-116734"></a>
 - t-009
+  global_id: t-116734
   teiginys: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-116735"></a>
 - t-010
+  global_id: t-116735
   teiginys: '1417 m. gegužės 13 d. popiežius Martynas V pavedė Vytautui ir Jogailai kurti bažnyčias, globoti kunigiją ir ginti tikėjimą Lietuvoje ir Rusijoje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-116736"></a>
 - t-011
+  global_id: t-116736
   teiginys: 'Vilniaus vyskupas Povilas tyrė Abraomo Kulviečio mokymą, kurį laikė Romos katalikų Bažnyčios pasmerktu.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-116737"></a>
 - t-012
+  global_id: t-116737
   teiginys: 'Vyskupas Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-116738"></a>
 - t-013
+  global_id: t-116738
   teiginys: 'Nesitaikstanti visuomenė Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-116739"></a>
 - t-014
+  global_id: t-116739
   teiginys: 'Sovietų valdžia siekė pakirsti katalikų dvasininkijos autoritetą, trukdė jaunuoliams mokytis kunigų seminarijoje.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-116740"></a>
 - t-015
+  global_id: t-116740
   teiginys: 'Vilniaus vyskupas Povilas teigė, kad Abraomas iš Kulvos nesilaikė vienybės su Romos katalikų Bažnyčia ir klaidino kitus.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-116741"></a>
 - t-016
+  global_id: t-116741
   teiginys: 'Mindaugas iš kunigo Kristijono sužinojo apie Katalikų Bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-116742"></a>
 - t-017
+  global_id: t-116742
   teiginys: 'Jei valdžia būtų leidusi lietuviškas pradžios mokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi diskriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į stačiatikybę, abėcėlė boikoto galėjo nesusilaukti.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-116743"></a>
 - t-018
+  global_id: t-116743
   teiginys: 'Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-116744"></a>
 - t-019
+  global_id: t-116744
   teiginys: 'Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač imperatoriumi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-116745"></a>
 - t-020
+  global_id: t-116745
   teiginys: 'Nors „Kronika“ skirta tikinčiajai visuomenei ir kėlė tik tikėjimo reikalus, ji virto Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu, mokė tvirtybės.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-182895"></a>
 - t-021
+  global_id: t-182895
   teiginys: 'Katalikų Bažnyčia Vakaruose pradėjo kovą su protestantizmu.'
   pagrindžia:
     - c-019

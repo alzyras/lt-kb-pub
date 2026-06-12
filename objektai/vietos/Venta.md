@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-32644"></a>
 - t-001
+  global_id: t-32644
   teiginys: 'Lietuva Žemaičiuose apėmė Ventos ir Minijos aukštupius.'
   pagrindžia:
     - c-001

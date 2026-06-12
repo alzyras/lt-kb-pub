@@ -26,22 +26,30 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 
 ## Teiginiai
 
+<a id="claim-t-58407"></a>
 - t-001
+  global_id: t-58407
   teiginys: 'Dusburgietis teigia, kad šventoji žemė ragina krikščionis ją išvaduoti Maldauju — išgirskite, visos krikščionių tautos, ir išvyskite skausmą, kurį apleista kenčiu, turėkite omenyje, kas man nutiko, pamatykite ir suvokite, kaip esu paniekinta, griebkitės ginklo bei skydo ir kilkite.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58408"></a>
 - t-002
+  global_id: t-58408
   teiginys: 'Dusburgietis teigia, kad po to daug karalių ir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę, tačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties viešpaties 1290 metais pagonys iš pamatų sugriovė Akono.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58409"></a>
 - t-003
+  global_id: t-58409
   teiginys: 'Dusburgietis teigia, kad dejonė dėl šventosios žemės apleidimo Šitaip tu, o šventa žadėtoji žeme, pamilta dievo ir pagerbta šventųjų angelų, žadinanti viso pasaulio nuostabą, viešpaties išrinktoji ir išskirtoji, nes tavimi jis akivaizdžiai puošė savo buvimą, o tavo vadavimo mums.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-58410"></a>
 - t-004
+  global_id: t-58410
   teiginys: 'Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to, kai imperatorius Heraklijus pasitraukė iš šventosios žemės, vienas arabų kunigaikštis, vardu Omaras, trečias Mahometo karalystės paveldėtojas, žiauriai įsiveržė į Šventąją žemę bei ją visą užėmė, ir šitaip.'
   pagrindžia:
     - c-003

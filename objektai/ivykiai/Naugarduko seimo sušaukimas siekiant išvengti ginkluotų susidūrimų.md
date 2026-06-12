@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Naugarduko seimo sušaukimas siekiant išvengti ginkluotų susidūrimų (seimas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad štai todėl, norėdamas išvengti gink luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats nuvyko į Lietuvą.
+Karalius, siekdamas išvengti ginkluotų susidūrimų, sušaukė Naugarduke seimą ir pats nuvyko į Lietuvą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185821"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad štai todėl, norėdamas išvengti gink luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats nuvyko į Lietuvą.'
+  global_id: t-185821
+  teiginys: 'Karalius, siekdamas išvengti ginkluotų susidūrimų, sušaukė Naugarduke seimą ir pats nuvyko į Lietuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad štai todėl, norėdamas išvengti gink luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats nuvyko į Lietuvą.'
+  santrauka: 'Karalius, siekdamas išvengti ginkluotų susidūrimų, sušaukė Naugarduke seimą ir pats nuvyko į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius ne be reikalo pradėjo būgštauti,
@@ -54,3 +55,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/seimas]]

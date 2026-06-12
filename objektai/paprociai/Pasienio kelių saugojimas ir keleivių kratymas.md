@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Pasienio kelių saugojimas ir keleivių kratymas
 
 ## Santrauka
 
-Kojelavičius teigia, kad vasilijus, nie kam nieko aiškiai nesakydamas, paliepė budriau sau goti visus pasienio kelius ir rūpestingai kratyti visų keleivių drabužius bei nešulius.
+Vasilijus įsakė budriau saugoti visus pasienio kelius ir rūpestingai kratyti visų keleivių drabužius bei nešulius.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185921"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vasilijus, nie kam nieko aiškiai nesakydamas, paliepė budriau sau goti visus pasienio kelius ir rūpestingai kratyti visų keleivių drabužius bei nešulius.'
+  global_id: t-185921
+  teiginys: 'Vasilijus įsakė budriau saugoti visus pasienio kelius ir rūpestingai kratyti visų keleivių drabužius bei nešulius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vasilijus, nie kam nieko aiškiai nesakydamas, paliepė budriau sau goti visus pasienio kelius ir rūpestingai kratyti visų keleivių drabužius bei nešulius.'
+  santrauka: 'Vasilijus įsakė budriau saugoti visus pasienio kelius ir rūpestingai kratyti visų keleivių drabužius bei nešulius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Didikai, būgštaudami,
@@ -61,3 +62,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Drabužiai]]
+- [[objektai/zodynas/popiežiaus legatas]]
+- [[objektai/asmenys/Vasilijus]]

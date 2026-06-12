@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-78730"></a>
 - t-001
+  global_id: t-78730
   teiginys: 'Dažniausiai nenaudodavo skydo, neretai jų kojos ir rankos būdavo neapsaugotos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78731"></a>
 - t-002
+  global_id: t-78731
   teiginys: 'Pėstininkai galėdavo būti apsaugoti žieduočio šarvų, tačiau dažniau apsaugai naudodavo tiesiog storos medžiagos pošarvį.'
   pagrindžia:
     - c-001

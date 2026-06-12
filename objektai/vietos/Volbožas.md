@@ -9,7 +9,6 @@ atnaujinta: ''
 tags:
   - vieta
 ---
-
 # Volbožas
 
 ## Santrauka
@@ -18,13 +17,17 @@ Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­ ską išvyko
 
 ## Teiginiai
 
+<a id="claim-t-95922"></a>
 - t-001
+  global_id: t-95922
   teiginys: 'Lenkijos kariuomenė susirinko į Volbožą ir birželio 26 d. išvyko į Červinską.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185205"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad mažosios Lenkijos bei Volynės ka riams paliepė rinktis į Volbožą, Didžiosios Lenkijos — į Lenčicą.'
+  global_id: t-185205
+  teiginys: 'Jogaila paliepė Mažosios Lenkijos ir Volynės kariams rinktis į Volbožą, o Didžiosios Lenkijos kariams - į Lenčicą.'
   pagrindžia:
     - c-002
 
@@ -46,7 +49,7 @@ Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­ ską išvyko
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad mažosios Lenkijos bei Volynės ka riams paliepė rinktis į Volbožą, Didžiosios Lenkijos — į Lenčicą.'
+  santrauka: 'Jogaila paliepė Mažosios Lenkijos ir Volynės kariams rinktis į Volbožą, o Didžiosios Lenkijos kariams - į Lenčicą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius Jogaila, matydamas tokią

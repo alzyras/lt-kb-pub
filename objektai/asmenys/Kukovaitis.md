@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kukovaitis
 
 ## Santrauka
 
-Kojelavičius teigia, kad živinbudas pa siuntė savo sūnų Kukovaitį su rinktine lietuvių bei žemaičių kariauna.
+Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui.
 
 ## Teiginiai
 
+<a id="claim-t-186133"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad živinbudas pa siuntė savo sūnų Kukovaitį su rinktine lietuvių bei žemaičių kariauna.'
+  global_id: t-186133
+  teiginys: 'Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad živinbudas pa siuntė savo sūnų Kukovaitį su rinktine lietuvių bei žemaičių kariauna.'
+  santrauka: 'Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Skir­
@@ -55,3 +56,10 @@ Kojelavičius teigia, kad živinbudas pa siuntė savo sūnų Kukovaitį su rinkt
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Žemaičiai]]

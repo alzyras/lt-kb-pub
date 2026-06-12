@@ -27,7 +27,9 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
 
 ## Teiginiai
 
+<a id="claim-t-31039"></a>
 - t-001
+  global_id: t-31039
   teiginys: 'V. Merkys pateikė daug duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir cechus XIX a. pabaigoje bei XX a. pradžioje.'
   pagrindžia:
     - c-001

@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vincentas iš Šamotulų
 
 ## Santrauka
 
-Kojelavičius teigia, kad karalius, norėdamas sustabdyti priešą, skubiai atvyko į Lvovą, o iš ten išsiuntė priešais Fiodorą Vin centą iš Šamotulų, Rusios vaivadą. Kojelavičius teigia, kad šamotulskis, atsidūręs dvigubame pavojuje, įsakė kuo greičiausiai suversti nuo perkėlos vežimus po ledu ir padaryti kelią kitiems būriams.
+Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą. Vincentas iš Šamotulų, atsidūręs dvigubame pavojuje, įsakė nuo perkėlos suversti vežimus po ledu.
 
 ## Teiginiai
 
+<a id="claim-t-186088"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad karalius, norėdamas sustabdyti priešą, skubiai atvyko į Lvovą, o iš ten išsiuntė priešais Fiodorą Vin centą iš Šamotulų, Rusios vaivadą.'
+  global_id: t-186088
+  teiginys: 'Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186089"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad šamotulskis, atsidūręs dvigubame pavojuje, įsakė kuo greičiausiai suversti nuo perkėlos vežimus po ledu ir padaryti kelią kitiems būriams.'
+  global_id: t-186089
+  teiginys: 'Vincentas iš Šamotulų, atsidūręs dvigubame pavojuje, įsakė nuo perkėlos suversti vežimus po ledu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad karalius, norėdamas sustabdyti priešą, skubiai atvyko į Lvovą, o iš ten išsiuntė priešais Fiodorą Vin centą iš Šamotulų, Rusios vaivadą.'
+  santrauka: 'Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neti­
@@ -49,7 +52,7 @@ Kojelavičius teigia, kad karalius, norėdamas sustabdyti priešą, skubiai atvy
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad šamotulskis, atsidūręs dvigubame pavojuje, įsakė kuo greičiausiai suversti nuo perkėlos vežimus po ledu ir padaryti kelią kitiems būriams.'
+  santrauka: 'Vincentas iš Šamotulų, atsidūręs dvigubame pavojuje, įsakė nuo perkėlos suversti vežimus po ledu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Prasidėjo smar­
@@ -62,3 +65,11 @@ Kojelavičius teigia, kad karalius, norėdamas sustabdyti priešą, skubiai atvy
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Valachai]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/vaivada]]

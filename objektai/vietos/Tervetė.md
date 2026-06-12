@@ -17,7 +17,9 @@ Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę 
 
 ## Teiginiai
 
+<a id="claim-t-32581"></a>
 - t-001
+  global_id: t-32581
   teiginys: 'Kryžiuočiams nepavyko paimti į šiaurę nuo Žagarės buvusios žiemgalių pilies Tervetės.'
   pagrindžia:
     - c-001

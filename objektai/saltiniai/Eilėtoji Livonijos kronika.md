@@ -19,7 +19,6 @@ amziai:
   - 'XIII'
   - 'XXI'
 ---
-
 # Eilėtoji Livonijos kronika
 
 ## Santrauka
@@ -28,38 +27,52 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
 
 ## Teiginiai
 
+<a id="claim-t-171530"></a>
 - t-001
+  global_id: t-171530
   teiginys: 'Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir beveik trečdalį kronikos skyrė Livonijos ordino santykiams su Lietuva.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-171531"></a>
 - t-002
+  global_id: t-171531
   teiginys: 'Lietuvių pajėgos Eiliuota Livonijos kronika, aprašydama Skuodo mūšį (1259 m.), mini žemaičius, bet vėliau, Durbės mūšio išvakarėse, prie Vartajų, Georgenburgo ir pačiame mūšyje — tik lietuvius arba „pagonis“.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-171532"></a>
 - t-003
+  global_id: t-171532
   teiginys: 'Eiliuotoji Livonijos kronika pasakoja, kad lietuvių kariuomenė susirinko galinga ir žygiuodama didėjo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-171533"></a>
 - t-004
+  global_id: t-171533
   teiginys: 'Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-171534"></a>
 - t-005
+  global_id: t-171534
   teiginys: 'Matyt, nutarę vengti lemiamo mūšio, Algirdas ir Dmitrijus sudarė taiką („Dievas išklausė jų maldų ir dovanojo taiką ir išsigelbėjimą nuo mirties“ - pažymi rusų metraštininkas), todėl kariuomenės patraukė LYGIAGREČIOS KOVOS SU KRYŽIUOČIAIS Žygis į Livoniją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184608"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad kai Jo k a ra i k a rtu su LiKurše patyrė abipusius prav o n ijo s ord in u laimėjimus ir Livonijos ma gistras Ditrichas, ir Mindau gas, Tautvilas, padedamas Livonijos ir Polocko pulkų, užpuolė savo dėdę pačioje Lietuvoje, kur, niekam ne pastojus kelio.'
+  global_id: t-184608
+  teiginys: 'Tautvilas, padedamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didžiulį grobį į Polocką.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184609"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad tais pačiais metais, kaip sako Livonijos metraštis, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, magistras žuvo su penkiasdešimčia šio ordino brolių.'
+  global_id: t-184609
+  teiginys: 'Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.'
   pagrindžia:
     - c-006
 
@@ -150,7 +163,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad kai Jo k a ra i k a rtu su LiKurše patyrė abipusius prav o n ijo s ord in u laimėjimus ir Livonijos ma gistras Ditrichas, ir Mindau gas, Tautvilas, padedamas Livonijos ir Polocko pulkų, užpuolė savo dėdę pačioje Lietuvoje, kur, niekam ne pastojus kelio.'
+  santrauka: 'Tautvilas, padedamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didžiulį grobį į Polocką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai
@@ -177,7 +190,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     - t-006
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad tais pačiais metais, kaip sako Livonijos metraštis, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, magistras žuvo su penkiasdešimčia šio ordino brolių.'
+  santrauka: 'Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėl­

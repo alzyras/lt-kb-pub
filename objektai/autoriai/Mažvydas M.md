@@ -24,12 +24,16 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
 
 ## Teiginiai
 
+<a id="claim-t-60614"></a>
 - t-001
+  global_id: t-60614
   teiginys: 'Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvydas M., Pirmoji lietuviška knyga, p. 104—105).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60615"></a>
 - t-002
+  global_id: t-60615
   teiginys: 'Dusburgietis teigia, kad mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M., Pirmoji.., p. 251, 257).'
   pagrindžia:
     - c-001

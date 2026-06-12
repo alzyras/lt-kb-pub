@@ -26,12 +26,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-113641"></a>
 - t-001
+  global_id: t-113641
   teiginys: 'Kryžininkai, gausiai suverbuoti kovai su Rytų Europą užplūdusiais totoriais, buvo įtraukti į kryžiaus karo akciją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-113642"></a>
 - t-002
+  global_id: t-113642
   teiginys: 'Konrado Valenrodo šlovė ir potraukis riterystei subūrė iš Europos šalių gausius kryžininkų pulkus žygiui į Lietuvą.'
   pagrindžia:
     - c-002

@@ -26,22 +26,30 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
 
 ## Teiginiai
 
+<a id="claim-t-86012"></a>
 - t-001
+  global_id: t-86012
   teiginys: 'Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-86013"></a>
 - t-002
+  global_id: t-86013
   teiginys: 'Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, suomių padermės atšakos, gyvenvietės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86014"></a>
 - t-003
+  global_id: t-86014
   teiginys: 'Švitrigaila įsakė sugautą Alšėnų kunigaikštį Vitebske nuo aukšto skardžio įmesti į Dviną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86015"></a>
 - t-004
+  global_id: t-86015
   teiginys: 'Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.'
   pagrindžia:
     - c-003

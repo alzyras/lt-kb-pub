@@ -25,7 +25,9 @@ Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d.
 
 ## Teiginiai
 
+<a id="claim-t-170309"></a>
 - t-001
+  global_id: t-170309
   teiginys: 'Įstojusi į Europos Sąjungą Lietuva galėjo Briuselyje reikšti savo poziciją įvairiais klausimais ir veikti ES sprendimus.'
   pagrindžia:
     - c-001

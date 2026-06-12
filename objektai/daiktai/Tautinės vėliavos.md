@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19602"></a>
 - t-001
+  global_id: t-19602
   teiginys: 'Nuo septintojo dešimtmečio iki okupacijos pabaigos antisovietinių grupių nariai keldavo tautines vėliavas.'
   pagrindžia:
     - c-001

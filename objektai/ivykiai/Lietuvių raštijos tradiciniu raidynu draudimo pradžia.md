@@ -43,17 +43,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-25042"></a>
 - t-001
+  global_id: t-25042
   teiginys: 'Valdžios mėginimas lietuvių raštijoje tradicinį lotyniškąjį raidyną pakeisti kirilika žlugo dėl boikoto.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-25044"></a>
 - t-002
+  global_id: t-25044
   teiginys: 'M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183237"></a>
 - t-003
+  global_id: t-183237
   teiginys: 'Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvikalbius elementorius, kuriuose būtų ir rusiškų.'
   pagrindžia:
     - c-003

@@ -26,17 +26,23 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
 
 ## Teiginiai
 
+<a id="claim-t-92500"></a>
 - t-001
+  global_id: t-92500
   teiginys: 'Lenkų bajorų dokumentas buvo beveik lietuvių bajorų akto nuorašas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-92501"></a>
 - t-002
+  global_id: t-92501
   teiginys: 'Lenkų bajorija jau anksčiau turėjo teisę dalyvauti naujo kunigaikščio elekcijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-92502"></a>
 - t-003
+  global_id: t-92502
   teiginys: '1413 m. Jogailos ir Vytauto unijos aktas numatė Lietuvos ir Lenkijos bajorijų pasitarimus dėl valstybės reikalų.'
   pagrindžia:
     - c-002

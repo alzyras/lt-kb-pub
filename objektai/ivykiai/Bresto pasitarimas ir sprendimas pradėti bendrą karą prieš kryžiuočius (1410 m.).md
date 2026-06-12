@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Bresto pasitarimas ir sprendimas pradėti bendrą karą prieš kryžiuočius (1410 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad ten jie nusprendė visomis jėgomis pradėti bendrą karą prieš kryžiuočius.
+Lietuvos Braste Jogaila, Vytautas ir skitų chanas nusprendė visomis jėgomis pradėti bendrą karą prieš kryžiuočius.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185697"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad ten jie nusprendė visomis jėgomis pradėti bendrą karą prieš kryžiuočius.'
+  global_id: t-185697
+  teiginys: 'Lietuvos Braste Jogaila, Vytautas ir skitų chanas nusprendė visomis jėgomis pradėti bendrą karą prieš kryžiuočius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad ten jie nusprendė visomis jėgomis pradėti bendrą karą prieš kryžiuočius.'
+  santrauka: 'Lietuvos Braste Jogaila, Vytautas ir skitų chanas nusprendė visomis jėgomis pradėti bendrą karą prieš kryžiuočius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Apskritai nieko gera
@@ -65,3 +66,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

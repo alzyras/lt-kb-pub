@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01801"></a>
 - t-001
+  global_id: t-01801
   teiginys: '1673 m. seime Lietuvos atstovai išreikalavo įstatymo, kad kas trečias seimas, kurio maršalka lietuvis, būtų šaukiamas Gardine.'
   pagrindžia:
     - c-001

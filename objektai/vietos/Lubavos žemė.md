@@ -25,17 +25,23 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
 
 ## Teiginiai
 
+<a id="claim-t-58664"></a>
 - t-001
+  global_id: t-58664
   teiginys: 'Dusburgietis teigia, kad dėl Lubavos žemės, tapusios vyskupo Kristijono valda, vėliau ginčijosi kryžiuočiai ir Konradas, teisių į šią žemę klausimas buvęs aktualus Hohenlohės reliacijos sudarymo metu (XIII a.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58665"></a>
 - t-002
+  global_id: t-58665
   teiginys: 'Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno, ir Lanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono valdžią.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58666"></a>
 - t-003
+  global_id: t-58666
   teiginys: 'Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes.'
   pagrindžia:
     - c-003

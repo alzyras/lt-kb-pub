@@ -16,7 +16,9 @@ Jėzuitas Konstantinas Širvydas 1629 m. išleido pamokslų rinkinį.
 
 ## Teiginiai
 
+<a id="claim-t-63309"></a>
 - t-001
+  global_id: t-63309
   teiginys: 'Jėzuitas Konstantinas Širvydas 1629 m. išleido pamokslų rinkinį.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
 
 ## Teiginiai
 
+<a id="claim-t-03226"></a>
 - t-001
+  global_id: t-03226
   teiginys: 'Vitingais buvo vadinami senųjų prūsų bajorai, pasidavę ordinui ir jam tarnavę.'
   pagrindžia:
     - c-001

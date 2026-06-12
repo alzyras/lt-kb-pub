@@ -32,7 +32,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20532"></a>
 - t-001
+  global_id: t-20532
   teiginys: 'Birželio 14 d. Vilnius buvo atiduotas be kovos, nors birželio 11 d. prie Myro dar vyko rimtesnės kautynės.'
   pagrindžia:
     - c-001

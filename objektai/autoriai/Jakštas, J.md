@@ -17,32 +17,37 @@ Jakštas, J.
 
 ## Teiginiai
 
+<a id="claim-t-71515"></a>
 - t-001
-  teiginys: 'J. Jakštas parašė „Naujausi Gedimino dinastijos kilmės tyrinėjimai“ ir su I. Jonynu paskelbė straipsnį „Gediminas“.'
-  pagrindžia:
-    - c-001
-
-- t-002
+  global_id: t-71515
   teiginys: 'J. Jakštas Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.'
   pagrindžia:
-    - c-001
+    - c-004
 
-- t-003
+<a id="claim-t-71516"></a>
+- t-002
+  global_id: t-71516
   teiginys: 'J. Jakštas 1960 m. paskelbė straipsnį „Dlugošas apie Žalgirio mūšį“.'
   pagrindžia:
     - c-001
 
-- t-004
+<a id="claim-t-71517"></a>
+- t-003
+  global_id: t-71517
   teiginys: 'J. Jakštas paskelbė studiją apie Vokiečių ordiną ir Lietuvą Vytenio bei Gedimino laikais ir nagrinėjo Jogailos bei Vytauto kovas su Ordinu.'
   pagrindžia:
-    - c-001
+    - c-003
 
-- t-005
+<a id="claim-t-71518"></a>
+- t-004
+  global_id: t-71518
   teiginys: 'J. Jakštas yra veikalo Vokiečių Ordinas ir Lietuva Vytenio ir Gedimino metu autorius.'
   pagrindžia:
-    - c-001
+    - c-002
 
-- t-006
+<a id="claim-t-71519"></a>
+- t-005
+  global_id: t-71519
   teiginys: 'J. Jakštas paskelbė darbus „Dlugošas apie Žalgirio mūšį“ ir „Žalgirio mūšis“.'
   pagrindžia:
     - c-001
@@ -61,8 +66,8 @@ Jakštas, J.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
-    - t-003
+    - t-005
+    - t-002
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -75,7 +80,7 @@ Jakštas, J.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -93,7 +98,7 @@ Jakštas, J.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -110,7 +115,7 @@ Jakštas, J.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

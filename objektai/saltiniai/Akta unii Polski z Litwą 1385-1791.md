@@ -25,7 +25,9 @@ AUPL = Akta unii Polski z Litwą 1385-1791, išl.
 
 ## Teiginiai
 
+<a id="claim-t-29704"></a>
 - t-001
+  global_id: t-29704
   teiginys: '„Akta unii Polski z Litwą 1385-1791“ išleido St. Kutrzeba ir Wł. Semkowiczius Krokuvoje 1932 m.'
   pagrindžia:
     - c-001

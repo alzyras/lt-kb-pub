@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-23464"></a>
 - t-001
+  global_id: t-23464
   teiginys: 'Religinėse manifestacijose maldininkai įsigydavo draustų religinių relikvijų ir nelegaliai išspausdintos religinės literatūros.'
   pagrindžia:
     - c-001

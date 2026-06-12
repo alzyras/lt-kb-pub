@@ -31,42 +31,58 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 
 ## Teiginiai
 
+<a id="claim-t-109172"></a>
 - t-001
+  global_id: t-109172
   teiginys: 'Lietuva, pagonybės atskirta nuo kitų Europos šalių, savo narsa atrėmė mongolų antpuolius ir priešinosi Prūsijos Kryžiuočių ordinui.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-109173"></a>
 - t-002
+  global_id: t-109173
   teiginys: 'Vilnius buvo vadinamas vienos galingiausių Šiaurės Europos šalių sostine ir svarbiausiu Lietuvos mokslo bei valdžios centru.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-109174"></a>
 - t-003
+  global_id: t-109174
   teiginys: 'Iš Prancūzijos kilusi srovė paplito po Europą ir paveikė Europos valdovus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-109175"></a>
 - t-004
+  global_id: t-109175
   teiginys: 'Petras I Didysis nukreipė Rusijos politinį veidą į Europą ir įvedė ją tarp pirmaeilių Europos galybių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-109176"></a>
 - t-005
+  global_id: t-109176
   teiginys: '1429 m., praėjus dvidešimt metų nuo Kėzmarko suvažiavimo, beveik užmirštas klausimas vėl sujudino Europą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-109177"></a>
 - t-006
+  global_id: t-109177
   teiginys: '1429 m. beveik užmirštas Vytauto karūnos klausimas vėl iškilo į viešumą ir sujudino Europą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-109178"></a>
 - t-007
+  global_id: t-109178
   teiginys: 'Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama sukurti bendrą Europos aukštojo mokslo erdvę.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-109179"></a>
 - t-008
+  global_id: t-109179
   teiginys: 'Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas.'
   pagrindžia:
     - c-003

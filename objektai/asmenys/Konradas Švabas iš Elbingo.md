@@ -19,7 +19,9 @@ Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš El
 
 ## Teiginiai
 
+<a id="claim-t-60369"></a>
 - t-001
+  global_id: t-60369
   teiginys: 'Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi šalys patyrė didelių nuostolių sužeistaisiais.'
   pagrindžia:
     - c-001

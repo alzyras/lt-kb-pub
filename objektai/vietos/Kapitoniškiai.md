@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-32197"></a>
 - t-001
+  global_id: t-32197
   teiginys: 'Tautavičius tyrinėjo pilkapius Kapitoniškiuose.'
   pagrindžia:
     - c-001

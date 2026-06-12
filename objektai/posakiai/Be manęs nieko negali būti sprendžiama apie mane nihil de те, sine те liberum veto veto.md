@@ -19,42 +19,58 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 
 ## Teiginiai
 
+<a id="claim-t-67258"></a>
 - t-001
+  global_id: t-67258
   teiginys: 'Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas laisvės pagrindu ir siejamas su liberum veto teise.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-67259"></a>
 - t-002
+  global_id: t-67259
   teiginys: 'Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto: tatai vadinosi liberum veto, t. y. laisvojo pasipriešinimo teisė.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-67260"></a>
 - t-003
+  global_id: t-67260
   teiginys: 'Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto: dėl jos daugybė seimų turėjo išsiskirstyti, nieko nenuveikę.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-67261"></a>
 - t-004
+  global_id: t-67261
   teiginys: 'Seime atsiradus atstovui, pasakiusiam „veto“, seimas turėdavo iširti.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-67262"></a>
 - t-005
+  global_id: t-67262
   teiginys: 'Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto: be to, netiesiogiai buvo apribotas ir liberum veto. Priimant seimo tvarkos įstatymą, veto panaikinimui pasipriešino Rusų atstovas Repninas. Bet neprityrusį atstovą Čartoriskiai ap.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-67263"></a>
 - t-006
+  global_id: t-67263
   teiginys: 'Kardinalinių teisių įstatyme liberum veto buvo paliktas nepaliestas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67264"></a>
 - t-007
+  global_id: t-67264
   teiginys: 'Čartoriskiai siekė panaikinti liberum veto, bet pasipriešinus Rusų ir Prūsų atstovams veto buvo paliktas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67265"></a>
 - t-008
+  global_id: t-67265
   teiginys: 'Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto: buvo palikta ir liberum veto, ir karalių elekcija ir bajorijos teisė neklausyti karaliaus, nevykdant pacta conventa punktų. Bet.'
   pagrindžia:
     - c-003

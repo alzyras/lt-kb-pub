@@ -27,7 +27,9 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 
 ## Teiginiai
 
+<a id="claim-t-60375"></a>
 - t-001
+  global_id: t-60375
   teiginys: 'Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.'
   pagrindžia:
     - c-001

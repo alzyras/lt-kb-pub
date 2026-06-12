@@ -19,7 +19,9 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
 
 ## Teiginiai
 
+<a id="claim-t-22231"></a>
 - t-001
+  global_id: t-22231
   teiginys: 'Po Brastos bažnytinės unijos Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, nuolat rezidavę Vilniuje.'
   pagrindžia:
     - c-001

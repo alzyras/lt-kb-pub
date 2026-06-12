@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40705"></a>
 - t-001
+  global_id: t-40705
   teiginys: 'Dujokaukės buvo gautos iš Vilniaus miesto tarybos.'
   pagrindžia:
     - c-001

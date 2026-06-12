@@ -16,7 +16,9 @@ Diderot suorganizuota enciklopedija, apie kurią buvo suburtos visos žymiausios
 
 ## Teiginiai
 
+<a id="claim-t-02154"></a>
 - t-001
+  global_id: t-02154
   teiginys: 'Diderot suorganizuota enciklopedija, apie kurią buvo suburtos visos žymiausios to meto pajėgos, kūrė naują pasaulėžiūrą.'
   pagrindžia:
     - c-001

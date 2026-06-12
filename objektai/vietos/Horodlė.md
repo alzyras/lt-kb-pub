@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-34186"></a>
 - t-001
+  global_id: t-34186
   teiginys: '1413 m. spalio 2 d. Jogaila sušaukė suvažiavimą Horodlės miestelyje prie Būgo upės.'
   pagrindžia:
     - c-001

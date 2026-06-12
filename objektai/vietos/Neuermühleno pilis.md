@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-99935"></a>
 - t-001
+  global_id: t-99935
   teiginys: '109 Neroma, kraštas 121 Neronas 93, 200 Nestoro kronika 103, 117, 118, 121 Nesvyžius 125 Neta, upė 326 Neuermühleno pilis 221-223 Neumarkas 237 Neuenburgo Vysk.'
   pagrindžia:
     - c-001

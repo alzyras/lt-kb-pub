@@ -25,7 +25,9 @@ Kuo rimčiausiai rengian­ tis žygiui į Livoniją, kai Vilniaus ginklų liejyk
 
 ## Teiginiai
 
+<a id="claim-t-86241"></a>
 - t-001
+  global_id: t-86241
   teiginys: '1579 m. rengiantis žygiui į Livoniją, rinktinės kariuomenės būriai Vilniaus gatvėmis traukė į stovyklą Svyre.'
   pagrindžia:
     - c-001

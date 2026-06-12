@@ -25,7 +25,9 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
 
 ## Teiginiai
 
+<a id="claim-t-87825"></a>
 - t-001
+  global_id: t-87825
   teiginys: '1494 m. balandžio 18 d. Petras Białas Maskvoje kaip Lietuvos pasiuntinys pasirašė amžinos taikos sutartį su caru.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
 
 ## Teiginiai
 
+<a id="claim-t-63207"></a>
 - t-001
+  global_id: t-63207
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 vienas tikėjimą bei tikinčiuosius rėmęs žmogus, vardu Girdavas, kurio palikuonys po šiai dienai vadinami Rendaliais, turėjo Bartos žemėje pilį, nuo jo vardo pavadintą Girdavai388.'
   pagrindžia:
     - c-001

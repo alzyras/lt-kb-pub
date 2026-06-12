@@ -19,17 +19,23 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 
 ## Teiginiai
 
+<a id="claim-t-75568"></a>
 - t-001
+  global_id: t-75568
   teiginys: 'Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75569"></a>
 - t-002
+  global_id: t-75569
   teiginys: 'Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo politiką, vadintą „lenkų pradų naikinimo“ politika.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75570"></a>
 - t-003
+  global_id: t-75570
   teiginys: 'Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika.'
   pagrindžia:
     - c-001

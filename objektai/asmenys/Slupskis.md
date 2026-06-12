@@ -16,7 +16,9 @@ Slupskis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­ šius.
 
 ## Teiginiai
 
+<a id="claim-t-87853"></a>
 - t-001
+  global_id: t-87853
   teiginys: 'Slupskis Brastoje davė 38 lietuviškus grašius palūkanų nuo filipkų.'
   pagrindžia:
     - c-001

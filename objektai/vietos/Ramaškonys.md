@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-42086"></a>
 - t-001
+  global_id: t-42086
   teiginys: '7-asis pulkas turėjo pulti Širvintas ir užimti liniją: Alionys-Puoriai-Ramaškonys-Šešuolėlių dvaras.'
   pagrindžia:
     - c-001

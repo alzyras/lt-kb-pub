@@ -39,17 +39,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59736"></a>
 - t-001
+  global_id: t-59736
   teiginys: 'Dusburgietis teigia, kad apie Skomanto, sūduvių vado, atsivertimą Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto, negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios žemę503 su visa šeimyna ir bičiuliais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59737"></a>
 - t-002
+  global_id: t-59737
   teiginys: 'Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59738"></a>
 - t-003
+  global_id: t-59738
   teiginys: 'Kimenavos sūduvių vadas Gedetas su savo namais, šeimyna ir 1500 vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.'
   pagrindžia:
     - c-001

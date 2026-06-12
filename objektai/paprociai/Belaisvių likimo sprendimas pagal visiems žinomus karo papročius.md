@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62671"></a>
 - t-001
+  global_id: t-62671
   teiginys: 'Dusburgietis teigia, kad nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos žmonės, tvirtindami, kad su jų belaisviais bus pasielgta taip, kaip reikalauja elgtis visiems žinomi karo papročiai.'
   pagrindžia:
     - c-001

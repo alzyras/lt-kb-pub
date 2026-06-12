@@ -22,7 +22,9 @@ Dusburgietis teigia, kad zajączkowski S.
 
 ## Teiginiai
 
+<a id="claim-t-61380"></a>
 - t-001
+  global_id: t-61380
   teiginys: 'S. Zajączkowskio straipsnis „Uwagi nad terytorialno-plemienną strukturą Jaćwieży“ paskelbtas 1966 m. Torunės leidinio ZHP 31 tomo 4 sąsiuvinyje.'
   pagrindžia:
     - c-001

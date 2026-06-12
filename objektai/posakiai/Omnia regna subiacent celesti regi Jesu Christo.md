@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86869"></a>
 - t-001
+  global_id: t-86869
   teiginys: '1323 metais rašo: omnia regna subiacent celesti regi Jesu Christo de quibus unum tenemus tanquam forma in materia vėl servus in domo [visos karalystės paklūsta dangiškajam karaliui Jėzui Kristui, kurių vieną turime materialiu pavidalu arba kaip tarnas.'
   pagrindžia:
     - c-001

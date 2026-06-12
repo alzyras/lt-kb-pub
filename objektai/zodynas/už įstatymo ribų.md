@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # už įstatymo ribų
 
 ## Santrauka
 
-Kojelavičius teigia, kad gal, palikę Italiją, šia kryptimi pasuko tie, kurie no rėjo išvengti savo likimo, o gal tie, kurie nugalėjusių priešų buvo paskelbti už įstatymo ribų; nieku būdu negaliu patikėti, kad čia būtų atvykę atsitiktiniai pasi klydėliai.
+Kojelavičius spėjo, kad iš Italijos galėjo pasitraukti žmonės, nugalėjusių priešų paskelbti už įstatymo ribų.
 
 ## Teiginiai
 
+<a id="claim-t-185414"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad gal, palikę Italiją, šia kryptimi pasuko tie, kurie no rėjo išvengti savo likimo, o gal tie, kurie nugalėjusių priešų buvo paskelbti už įstatymo ribų; nieku būdu negaliu patikėti, kad čia būtų atvykę atsitiktiniai pasi klydėliai.'
+  global_id: t-185414
+  teiginys: 'Kojelavičius spėjo, kad iš Italijos galėjo pasitraukti žmonės, nugalėjusių priešų paskelbti už įstatymo ribų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad gal, palikę Italiją, šia kryptimi pasuko tie, kurie no rėjo išvengti savo likimo, o gal tie, kurie nugalėjusių priešų buvo paskelbti už įstatymo ribų; nieku būdu negaliu patikėti, kad čia būtų atvykę atsitiktiniai pasi klydėliai.'
+  santrauka: 'Kojelavičius spėjo, kad iš Italijos galėjo pasitraukti žmonės, nugalėjusių priešų paskelbti už įstatymo ribų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Taigi iš tiesų galėjo ši-
@@ -46,3 +47,7 @@ Kojelavičius teigia, kad gal, palikę Italiją, šia kryptimi pasuko tie, kurie
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Herulai]]

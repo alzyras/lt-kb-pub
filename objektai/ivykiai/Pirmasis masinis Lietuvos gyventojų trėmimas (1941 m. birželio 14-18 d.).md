@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-110636"></a>
 - t-001
+  global_id: t-110636
   teiginys: 'Nematyta masinė deportacija sukrėtė Lietuvą, nes trėmimas buvo nukreiptas į fizinį šeimų naikinimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-110637"></a>
 - t-002
+  global_id: t-110637
   teiginys: '1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą – deportuota 17,5 tūkst.'
   pagrindžia:
     - c-002

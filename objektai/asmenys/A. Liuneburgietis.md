@@ -16,7 +16,9 @@ Liuneburgietis.
 
 ## Teiginiai
 
+<a id="claim-t-39696"></a>
 - t-001
+  global_id: t-39696
   teiginys: 'Švedų generolas A. Liuneburgietis žuvo per sumaištį švedų pėstininkų rikiuotėje.'
   pagrindžia:
     - c-001

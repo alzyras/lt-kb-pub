@@ -6,34 +6,39 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Konradas Celneris
 
 ## Santrauka
 
-Kojelavičius teigia, kad konradas Celneris pasitraukė pas Konradą Celnerį, Prūsijos magistrą. Kojelavičius teigia, kad čia, kaip ir vylėsi, Konradas Celneris, ordino magistras, visokerio pai parėmė jo sumanymus. Kojelavičius teigia, kad iš M a z o v ijo s į PrūNors Urbonas IV, Romos posiją piežius, prieš metus ir buvo išleidęs raštą, rimtai ragin damas ir karalių, ir kryžiuočių riterius laikytis taikos, tačiau Celneris su džiaugsmu nutarė nepraleisti pro gos pradėti karą.
+Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas geresnių pagalbininkų būsimam karui. Ordino magistras Konradas Celneris Prūsijoje visokeriopai parėmė Vytauto sumanymus. Konradas Celneris paskyrė Vytautui karių ir lėšų karui, tikėdamasis Lietuvoje išplėsti kryžiuočių valdas.
 
 ## Teiginiai
 
+<a id="claim-t-185989"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad konradas Celneris pasitraukė pas Konradą Celnerį, Prūsijos magistrą.'
+  global_id: t-185989
+  teiginys: 'Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas geresnių pagalbininkų būsimam karui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185990"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad čia, kaip ir vylėsi, Konradas Celneris, ordino magistras, visokerio pai parėmė jo sumanymus.'
+  global_id: t-185990
+  teiginys: 'Ordino magistras Konradas Celneris Prūsijoje visokeriopai parėmė Vytauto sumanymus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185991"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad iš M a z o v ijo s į PrūNors Urbonas IV, Romos posiją piežius, prieš metus ir buvo išleidęs raštą, rimtai ragin damas ir karalių, ir kryžiuočių riterius laikytis taikos, tačiau Celneris su džiaugsmu nutarė nepraleisti pro gos pradėti karą.'
+  global_id: t-185991
+  teiginys: 'Konradas Celneris paskyrė Vytautui karių ir lėšų karui, tikėdamasis Lietuvoje išplėsti kryžiuočių valdas.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad konradas Celneris pasitraukė pas Konradą Celnerį, Prūsijos magistrą.'
+  santrauka: 'Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas geresnių pagalbininkų būsimam karui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kaip sumanyta, taip ir padaryta: pavakaryje,
@@ -77,7 +82,7 @@ Kojelavičius teigia, kad konradas Celneris pasitraukė pas Konradą Celnerį, P
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad čia, kaip ir vylėsi, Konradas Celneris, ordino magistras, visokerio pai parėmė jo sumanymus.'
+  santrauka: 'Ordino magistras Konradas Celneris Prūsijoje visokeriopai parėmė Vytauto sumanymus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ne­
@@ -105,7 +110,7 @@ Kojelavičius teigia, kad konradas Celneris pasitraukė pas Konradą Celnerį, P
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad iš M a z o v ijo s į PrūNors Urbonas IV, Romos posiją piežius, prieš metus ir buvo išleidęs raštą, rimtai ragin damas ir karalių, ir kryžiuočių riterius laikytis taikos, tačiau Celneris su džiaugsmu nutarė nepraleisti pro gos pradėti karą.'
+  santrauka: 'Konradas Celneris paskyrė Vytautui karių ir lėšų karui, tikėdamasis Lietuvoje išplėsti kryžiuočių valdas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš M a z o v ijo s  į Prū-
@@ -127,3 +132,12 @@ Kojelavičius teigia, kad konradas Celneris pasitraukė pas Konradą Celnerį, P
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]

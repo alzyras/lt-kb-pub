@@ -17,7 +17,9 @@ Kita kryžiuočių pilis, vadinta Fridbergu (taikos kalnas), pastatyta tuo pat m
 
 ## Teiginiai
 
+<a id="claim-t-86019"></a>
 - t-001
+  global_id: t-86019
   teiginys: 'Fridbergu vadinta kryžiuočių pilis stovėjo už 2 mylių nuo Veliuonos žemyn Nemuno tėkme.'
   pagrindžia:
     - c-001

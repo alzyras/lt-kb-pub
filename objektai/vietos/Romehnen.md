@@ -17,7 +17,9 @@ Dusburgietis teigia, kad vėlesnė Romehnen Semboje (jos vak.
 
 ## Teiginiai
 
+<a id="claim-t-58718"></a>
 - t-001
+  global_id: t-58718
   teiginys: 'Dusburgietis teigia, kad vėlesnė Romehnen Semboje (jos vak.'
   pagrindžia:
     - c-001

@@ -14,24 +14,25 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Petras (Krokuvos vaivada)
 
 ## Santrauka
 
-Kojelavičius teigia, kad vado pavyzdžiu kariuomenė pasklido po visą 1266 m eta i riuomenę iš tos Lenkijos da lies, kuri jam priklausė, ir p u o la Š varn ą, ir šis pratylim i paskyrė vadu Petrą, Kroku vos vaivadą, ir įsakė plė šiant ir siaubiant užpulti lauką, po to prasidėjo ne.
+Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšiant ir siaubiant smogta Švarnui.
 
 ## Teiginiai
 
+<a id="claim-t-186155"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vado pavyzdžiu kariuomenė pasklido po visą 1266 m eta i riuomenę iš tos Lenkijos da lies, kuri jam priklausė, ir p u o la Š varn ą, ir šis pratylim i paskyrė vadu Petrą, Kroku vos vaivadą, ir įsakė plė šiant ir siaubiant užpulti lauką, po to prasidėjo ne.'
+  global_id: t-186155
+  teiginys: 'Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšiant ir siaubiant smogta Švarnui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vado pavyzdžiu kariuomenė pasklido po visą 1266 m eta i riuomenę iš tos Lenkijos da lies, kuri jam priklausė, ir p u o la Š varn ą, ir šis pratylim i paskyrė vadu Petrą, Kroku vos vaivadą, ir įsakė plė šiant ir siaubiant užpulti lauką, po to prasidėjo ne.'
+  santrauka: 'Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšiant ir siaubiant smogta Švarnui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vado pavyzdžiu kariuomenė pasklido po visą
@@ -74,3 +75,12 @@ Kojelavičius teigia, kad vado pavyzdžiu kariuomenė pasklido po visą 1266 m e
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Boleslovas]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/posakiai/Ugnimi ir kalaviju]]
+- [[objektai/zodynas/kunigaikščiai]]

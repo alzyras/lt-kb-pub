@@ -28,27 +28,37 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 
 ## Teiginiai
 
+<a id="claim-t-58337"></a>
 - t-001
+  global_id: t-58337
   teiginys: 'Dusburgietis teigia, kad lenkijos—TSRS sienos; Bartos šiaurinė dalis aprėpė Girdavų, dab.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58338"></a>
 - t-002
+  global_id: t-58338
   teiginys: 'Dusburgietis teigia, kad šaltiniuose skyrium nuo Prūsų minima ir Barta (ПСРЛ, т.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-58339"></a>
 - t-003
+  global_id: t-58339
   teiginys: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58340"></a>
 - t-004
+  global_id: t-58340
   teiginys: '1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtą Bartą ir kitas žemes.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-58341"></a>
 - t-005
+  global_id: t-58341
   teiginys: '1251 m. dokumente Barta minima kaip Didžioji ir Mažoji Barta, kurioje gyveno bartai arba bartėnai.'
   pagrindžia:
     - c-003

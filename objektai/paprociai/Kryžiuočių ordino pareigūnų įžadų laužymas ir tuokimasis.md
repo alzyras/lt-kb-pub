@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XVI'
 ---
-
 # Kryžiuočių ordino pareigūnų įžadų laužymas ir tuokimasis
 
 ## Santrauka
 
-Kojelavičius teigia, kad tuo metu Liuterio sekta, paplitusi Vokietijoje, rado galybę pasekėjų Prūsijoje, o kry žiuočių ordinas, išgarsėjęs žygiais prieš stabmeldžius, jau taip buvo ištižęs ir suiręs, kad aukščiausi ir že miausi pareigūnai, nieko neK ry žiu o č ių p a d ė tis.
+Prūsijoje kryžiuočių ordino aukščiausi ir žemiausi pareigūnai laužė Dievui duotus įžadus ir ėmė tuoktis.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -36,15 +35,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185919"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tuo metu Liuterio sekta, paplitusi Vokietijoje, rado galybę pasekėjų Prūsijoje, o kry žiuočių ordinas, išgarsėjęs žygiais prieš stabmeldžius, jau taip buvo ištižęs ir suiręs, kad aukščiausi ir že miausi pareigūnai, nieko neK ry žiu o č ių p a d ė tis.'
+  global_id: t-185919
+  teiginys: 'Prūsijoje kryžiuočių ordino aukščiausi ir žemiausi pareigūnai laužė Dievui duotus įžadus ir ėmė tuoktis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tuo metu Liuterio sekta, paplitusi Vokietijoje, rado galybę pasekėjų Prūsijoje, o kry žiuočių ordinas, išgarsėjęs žygiais prieš stabmeldžius, jau taip buvo ištižęs ir suiręs, kad aukščiausi ir že miausi pareigūnai, nieko neK ry žiu o č ių p a d ė tis.'
+  santrauka: 'Prūsijoje kryžiuočių ordino aukščiausi ir žemiausi pareigūnai laužė Dievui duotus įžadus ir ėmė tuoktis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Susitarė dėl ketverių
@@ -74,3 +75,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Liuteris]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

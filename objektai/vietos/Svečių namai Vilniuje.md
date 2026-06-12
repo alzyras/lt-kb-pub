@@ -19,22 +19,30 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 
 ## Teiginiai
 
+<a id="claim-t-85953"></a>
 - t-001
+  global_id: t-85953
   teiginys: 'Nauji Vilniaus svečių namai buvo pastatyti miesto lėšomis toje vietoje, kurioje jie stovėjo šaltinio rašymo metu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85954"></a>
 - t-002
+  global_id: t-85954
   teiginys: '44 Svečių namams skirta privilegija yra: D u b i ń s k i, 1.18.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-85955"></a>
 - t-003
+  global_id: t-85955
   teiginys: 'Aleksandras leido Vilniuje statyti svečių namus, nes rusų pirkliai mieste apsistodavo ir išvykdavo be prisistatymo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85956"></a>
 - t-004
+  global_id: t-85956
   teiginys: 'Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie savo atvykimą iškart pranešti pilininkui4 3 44.'
   pagrindžia:
     - c-002

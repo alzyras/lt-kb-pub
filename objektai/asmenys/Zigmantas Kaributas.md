@@ -27,27 +27,37 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
 
 ## Teiginiai
 
+<a id="claim-t-176865"></a>
 - t-001
+  global_id: t-176865
   teiginys: 'Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-176866"></a>
 - t-002
+  global_id: t-176866
   teiginys: 'Vytauto bajorai irgi dalyvavo kovose, kaip antai, kun. Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176867"></a>
 - t-003
+  global_id: t-176867
   teiginys: 'Vytautas pasiuntė savo sūnėną Zigmantą Kaributą į Čekiją vietininku su keliolika tūkstančių kareivių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176868"></a>
 - t-004
+  global_id: t-176868
   teiginys: 'Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-176869"></a>
 - t-005
+  global_id: t-176869
   teiginys: 'Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas.'
   pagrindžia:
     - c-004

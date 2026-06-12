@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62378"></a>
 - t-001
+  global_id: t-62378
   teiginys: '1314 m. spalio 21 d. Liudvikas iš Bavarijos ir Fridrichas Austrijietis dėl nesantarvės vienu metu buvo išrinkti Romos karaliais.'
   pagrindžia:
     - c-001

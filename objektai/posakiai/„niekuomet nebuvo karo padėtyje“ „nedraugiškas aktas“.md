@@ -19,12 +19,16 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
 
 ## Teiginiai
 
+<a id="claim-t-20927"></a>
 - t-001
+  global_id: t-20927
   teiginys: 'Lietuviai patenkino A. Jofės prašymą įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-20928"></a>
 - t-002
+  global_id: t-20928
   teiginys: 'Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedraugiškas aktas“ prieš Lietuvą.'
   pagrindžia:
     - c-002

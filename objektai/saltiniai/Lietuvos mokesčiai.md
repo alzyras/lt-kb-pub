@@ -24,7 +24,9 @@ Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit.
 
 ## Teiginiai
 
+<a id="claim-t-36077"></a>
 - t-001
+  global_id: t-36077
   teiginys: 'A. Veryhos-Darevskio „Lietuvos mokesčiai“ cituojami pagal 19 puslapį.'
   pagrindžia:
     - c-001

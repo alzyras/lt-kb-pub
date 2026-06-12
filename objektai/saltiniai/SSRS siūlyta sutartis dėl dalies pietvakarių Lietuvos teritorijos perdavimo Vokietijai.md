@@ -18,7 +18,9 @@ Urbšį pasirašyti savitarpio pagalbos sutartį, sutartį dėl Vilniaus ir Viln
 
 ## Teiginiai
 
+<a id="claim-t-21251"></a>
 - t-001
+  global_id: t-21251
   teiginys: 'Spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartį dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.'
   pagrindžia:
     - c-001

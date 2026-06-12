@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-41332"></a>
 - t-001
+  global_id: t-41332
   teiginys: '1660 m. gegužės 3 d. Lietuva ir Lenkija su Švedija pasirašė Olyvos taikos sutartį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41333"></a>
 - t-002
+  global_id: t-41333
   teiginys: '1660 m. Olyvos sutartimi buvo patvirtinta Prūsijos nepriklausomybė nuo Lenkijos.'
   pagrindžia:
     - c-001

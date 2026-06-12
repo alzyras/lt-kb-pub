@@ -25,7 +25,9 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 
 ## Teiginiai
 
+<a id="claim-t-87791"></a>
 - t-001
+  global_id: t-87791
   teiginys: 'Milonas buvo dvaro maršalka, dalyvavęs 1396 m. Vilniuje aktuotame dokumente.'
   pagrindžia:
     - c-001

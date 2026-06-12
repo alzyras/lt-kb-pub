@@ -23,7 +23,9 @@ Jie yra griežtai atsiriboję ir pasmerkę vad. «buržuazinę » istoriografij�
 
 ## Teiginiai
 
+<a id="claim-t-99979"></a>
 - t-001
+  global_id: t-99979
   teiginys: 'Jie yra griežtai atsiriboję ir pasmerkę vad. «buržuazinę » istoriografiją.'
   pagrindžia:
     - c-001

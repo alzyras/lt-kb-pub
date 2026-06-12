@@ -19,7 +19,9 @@ Juška: „Daug tą dieną žuvo mūsiškių, bet gal ne mažiau žuvo ir okupan
 
 ## Teiginiai
 
+<a id="claim-t-40156"></a>
 - t-001
+  global_id: t-40156
   teiginys: 'J. Juška prisiminė, kad tą dieną žuvo daug savųjų ir gal ne mažiau okupantų karių.'
   pagrindžia:
     - c-001

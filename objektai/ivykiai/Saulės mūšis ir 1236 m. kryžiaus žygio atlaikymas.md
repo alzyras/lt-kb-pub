@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77906"></a>
 - t-001
+  global_id: t-77906
   teiginys: 'Ši fatališka klaida daug kainuos lenkams ir lietuviams – Ordinas pajungė prūsus, o 1236 m. popiežius jau skelbia kryžiaus žygį prieš lietuvius.'
   pagrindžia:
     - c-001

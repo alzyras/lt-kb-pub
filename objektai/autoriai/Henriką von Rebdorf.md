@@ -25,7 +25,9 @@ Pagal kronikininką Henriką von Rebdorf 1358 m. liepos mėn.
 
 ## Teiginiai
 
+<a id="claim-t-30637"></a>
 - t-001
+  global_id: t-30637
   teiginys: 'Kronikininkas Henrikas von Rebdorfas rašė, kad 1358 m. liepą Lietuvos karalius pas imperatorių buvo atsiuntęs savo brolį.'
   pagrindžia:
     - c-001

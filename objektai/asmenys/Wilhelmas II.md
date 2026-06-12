@@ -17,7 +17,9 @@ Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijo
 
 ## Teiginiai
 
+<a id="claim-t-19344"></a>
 - t-001
+  global_id: t-19344
   teiginys: '1918 m. kovo 23 d. Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę.'
   pagrindžia:
     - c-001

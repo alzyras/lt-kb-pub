@@ -21,7 +21,6 @@ amziai:
   - 'XII'
   - 'XXI'
 ---
-
 # Ašmena
 
 ## Santrauka
@@ -30,118 +29,164 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 
 ## Teiginiai
 
+<a id="claim-t-176932"></a>
 - t-001
+  global_id: t-176932
   teiginys: 'Ašmena kadaise buvo kaimas, išaugęs šalia kunigaikščio dvaro.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-176933"></a>
 - t-002
+  global_id: t-176933
   teiginys: '1655 m. liepą Rusijos kariuomenė su kazokais sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176934"></a>
 - t-003
+  global_id: t-176934
   teiginys: 'Sąmokslininkai 1432 m. rugpjūčio 31 d. naktį užpuolė Švitrigailą Ašmenos dvare, kai jis vyko į derybas su lenkais Lietuvos Brastoje.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-176935"></a>
 - t-004
+  global_id: t-176935
   teiginys: 'Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vykdamas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-176936"></a>
 - t-005
+  global_id: t-176936
   teiginys: 'Ašmena priklausė Vilniui artimų sričių su pilimis grupei, įėjusiai į jam paskirtą žemių dalinį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176937"></a>
 - t-006
+  global_id: t-176937
   teiginys: '1385 metų rugpjūtį didžiojo magistro Konrado Ciolnerio Rotenšteino pajėgos nuniokojo žemes iki pat Ašmenos.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-176938"></a>
 - t-007
+  global_id: t-176938
   teiginys: 'Švitrigaila, remiamas Livonijos magistro ir totorių, vėl užėmė Ašmeną ir priartėjo prie Vilniaus.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-176939"></a>
 - t-008
+  global_id: t-176939
   teiginys: 'Švitrigaila savo dvare prie Ašmenos miesto turėjo tik nedidelę sargybą.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-176941"></a>
 - t-009
+  global_id: t-176941
   teiginys: 'Ašmenoje buvo sukviečiami vietiniai ir apylinkių žmonės, mokomi tikėjimo tiesų ir krikštijami.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-176942"></a>
 - t-010
+  global_id: t-176942
   teiginys: 'Švitrigaila buvojo savo dvare prie Ašmenos miesto ir turėjo prie savęs tik nedidelę sargybą.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-176943"></a>
 - t-011
+  global_id: t-176943
   teiginys: '1388 m. Lucke tarp liudytojų minimas Mangaila iš Ašmenos.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-176944"></a>
 - t-012
+  global_id: t-176944
   teiginys: 'Ašmena priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ukmerge ir Breslauja.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176945"></a>
 - t-013
+  global_id: t-176945
   teiginys: 'Dabartinė Ašmena anais laikais tebuvo kaimas, išaugęs šalia kunigaikščio dvaro.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-176946"></a>
 - t-014
+  global_id: t-176946
   teiginys: '1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176947"></a>
 - t-015
+  global_id: t-176947
   teiginys: 'Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-176948"></a>
 - t-016
+  global_id: t-176948
   teiginys: 'Dar 1385 m. vasarą Prūsų ordinas su didele kariuomene buvo nuėjęs iki Vilniaus ir Ašmenos.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-176949"></a>
 - t-017
-  teiginys: 'Vieno žygio metu kryžiuočiai buvo pasiekę net Vilnių ir Ašmeną, o kiek vėliau livoniškė ordino šaka su pasidavusiu jai Polocko kunigaikščiu Andrium padarė kitą žygį.'
+  global_id: t-176949
+  teiginys: 'Vieno žygio metu kryžiuočiai buvo pasiekę Vilnių ir Ašmeną.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-176950"></a>
 - t-018
+  global_id: t-176950
   teiginys: 'Apie rugpjūčio 28 d. Žygimantas įsiveržė į Švitrigailos dvarą Ašmenoje, bet jo ten neberado.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-176951"></a>
 - t-019
+  global_id: t-176951
   teiginys: 'Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176952"></a>
 - t-020
+  global_id: t-176952
   teiginys: 'Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-176953"></a>
 - t-021
+  global_id: t-176953
   teiginys: 'Prieš vyskupijos įkūrimą Jogaila rytų Lietuvoje aplankė Ašmeną, kur vietiniai žmonės buvo mokomi tikėjimo tiesų ir krikštijami.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-176954"></a>
 - t-022
+  global_id: t-176954
   teiginys: 'Apie rugpjūčio 28 d. Žygimantas slapta nužygiavo į Ašmeną ir įsiveržė į Švitrigailos dvarą, bet jo ten neberado.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184925"></a>
 - t-023
-  teiginys: 'Kojelavičius teigia, kad pranciškaus ordino vienuo liams iš pradžių Kaune, o vėliau Ašmenoje bažnyčią bei vienuolyną ir dosniai juos apdovanojo.'
+  global_id: t-184925
+  teiginys: 'Vytautas Ašmenoje pastatė šv. Pranciškaus ordino vienuoliams bažnyčią bei vienuolyną ir juos dosniai apdovanojo.'
   pagrindžia:
     - c-017
 
@@ -182,6 +227,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - t-012
 
 - c-003
+  santrauka: 'Vieno žygio metu kryžiuočiai buvo pasiekę Vilnių ir Ašmeną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vieno žygio metu kryžiuočiai buvo pasiekę net Vilnių ir Ašmeną,
@@ -477,7 +523,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - t-016
 
 - c-017
-  santrauka: 'Kojelavičius teigia, kad pranciškaus ordino vienuo liams iš pradžių Kaune, o vėliau Ašmenoje bažnyčią bei vienuolyną ir dosniai juos apdovanojo.'
+  santrauka: 'Vytautas Ašmenoje pastatė šv. Pranciškaus ordino vienuoliams bažnyčią bei vienuolyną ir juos dosniai apdovanojo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo metu

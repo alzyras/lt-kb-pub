@@ -16,7 +16,9 @@ Dusburgietis teigia, kad toppen M Einleitung.—SRP, 1, S.
 
 ## Teiginiai
 
+<a id="claim-t-61319"></a>
 - t-001
+  global_id: t-61319
   teiginys: 'M. Toppeno „Einleitung“ paskelbta SRP pirmojo tomo 3–20 puslapiuose.'
   pagrindžia:
     - c-001

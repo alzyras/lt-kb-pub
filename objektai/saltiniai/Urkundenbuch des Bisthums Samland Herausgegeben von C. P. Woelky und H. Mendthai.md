@@ -25,7 +25,9 @@ Dusburgietis teigia, kad urkundenbuch des Bisthums Samland / Herausgegeben von C
 
 ## Teiginiai
 
+<a id="claim-t-61331"></a>
 - t-001
+  global_id: t-61331
   teiginys: '„Urkundenbuch des Bisthums Samland“ parengė C. P. Woelky ir H. Mendthai, o leidinys išėjo Leipcige 1891 ir 1898 m.'
   pagrindžia:
     - c-001

@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39216"></a>
 - t-001
+  global_id: t-39216
   teiginys: 'Pėstininkų muškieta titnagine spyna, arba pėstininkų fuzėja, buvo 18 mm kalibro XVIII a. pabaigos Prūsijos ginklas.'
   pagrindžia:
     - c-001

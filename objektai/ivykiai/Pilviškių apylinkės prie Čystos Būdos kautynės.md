@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-41341"></a>
 - t-001
+  global_id: t-41341
   teiginys: 'Pirmosios sukilėlių kautynės su caro kariuomenės daliniais dabartinės Lietuvos teritorijoje įvyko 1863 m. vasario 2 d. Pilviškių apylinkėje prie Čystos Būdos.'
   pagrindžia:
     - c-001

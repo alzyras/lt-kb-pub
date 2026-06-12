@@ -17,7 +17,9 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
 
 ## Teiginiai
 
+<a id="claim-t-30477"></a>
 - t-001
+  global_id: t-30477
   teiginys: 'Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumbaudas, Kauno seniūnas Sungaila, Ukmergės — Kinsgaila ir kt.'
   pagrindžia:
     - c-001

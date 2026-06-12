@@ -14,24 +14,25 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Ibrahimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad krymo skitai itin išdrąsėjo ir suįžūlėjo dėl to, kad jiems į pagalbą atėjo turkai, vedami Ibrahimo, kuris skitų išpuoliais grindė kelią turkų galybei.
+Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuose prieš lietuvių žemes.
 
 ## Teiginiai
 
+<a id="claim-t-186112"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad krymo skitai itin išdrąsėjo ir suįžūlėjo dėl to, kad jiems į pagalbą atėjo turkai, vedami Ibrahimo, kuris skitų išpuoliais grindė kelią turkų galybei.'
+  global_id: t-186112
+  teiginys: 'Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuose prieš lietuvių žemes.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad krymo skitai itin išdrąsėjo ir suįžūlėjo dėl to, kad jiems į pagalbą atėjo turkai, vedami Ibrahimo, kuris skitų išpuoliais grindė kelią turkų galybei.'
+  santrauka: 'Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuose prieš lietuvių žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     1527 m e ta i
@@ -60,3 +61,11 @@ Kojelavičius teigia, kad krymo skitai itin išdrąsėjo ir suįžūlėjo dėl t
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Krymo totoriai]]

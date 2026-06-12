@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39253"></a>
 - t-001
+  global_id: t-39253
   teiginys: 'Iž-17 buvo SSRS gamybos lygiavamzdis 16 kalibro medžioklinis šautuvas, naudotas 1991 m. Aukščiausiosios Tarybos rūmuose budėjusių savanorių.'
   pagrindžia:
     - c-001

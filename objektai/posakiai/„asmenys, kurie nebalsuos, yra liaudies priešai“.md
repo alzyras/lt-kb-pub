@@ -17,17 +17,23 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
 
 ## Teiginiai
 
+<a id="claim-t-75603"></a>
 - t-001
+  global_id: t-75603
   teiginys: 'Per rinkimų agitaciją valdžia grasino, kad nebalsuosiantys asmenys yra „liaudies priešai“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75604"></a>
 - t-002
+  global_id: t-75604
   teiginys: 'Visos Lietuvos įstaigos, ypač NKVD, prisipildė atvykusių iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp Lietuvos ir likusios SSRS dalies dar buvo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75605"></a>
 - t-003
+  global_id: t-75605
   teiginys: 'Sovietų valdžia daugiau kaip 30 ha turėjusius ūkininkus laikė buožėmis ir „liaudies priešais“.'
   pagrindžia:
     - c-002

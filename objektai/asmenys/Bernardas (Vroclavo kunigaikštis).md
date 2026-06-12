@@ -27,7 +27,9 @@ Dusburgietis teigia, kad 1322 viešpaties metais atvyko į Prūsijos žemę garb
 
 ## Teiginiai
 
+<a id="claim-t-60249"></a>
 - t-001
+  global_id: t-60249
   teiginys: 'Dusburgietis teigia, kad 1322 viešpaties metais atvyko į Prūsijos žemę garbingi vyrai bei valdovai Bernardas, Vroclavo kunigaikštis, iš Lenkijos, grafas iš Geroldizekės, Reino grafų iš Julicho ir iš Vildenbergo pirmagimiai sūnūs, valdovas iš Lichtenbergo ir Plichto su savo broliu iš.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ Nazimovas balandžio pabaigoje įsakė gen.
 
 ## Teiginiai
 
+<a id="claim-t-40489"></a>
 - t-001
+  global_id: t-40489
   teiginys: 'V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį Anykščių kryptimi ir sunaikinti ten susibūrusius sukilėlius.'
   pagrindžia:
     - c-001

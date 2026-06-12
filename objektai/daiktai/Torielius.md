@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08336"></a>
 - t-001
+  global_id: t-08336
   teiginys: 'Viršaitis per apeigą duonos šmotelį padėjo ant torieliaus.'
   pagrindžia:
     - c-001

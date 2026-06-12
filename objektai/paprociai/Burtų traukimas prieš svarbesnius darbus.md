@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62672"></a>
 - t-001
+  global_id: t-62672
   teiginys: 'Dusburgietis teigia, kad artėdami jie metė — kaip reikalauja jų papročiai — burtus, kurie jiems nežadėjo sėkmės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-62673"></a>
 - t-002
+  global_id: t-62673
   teiginys: 'Dusburgietis teigia, kad prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs.'
   pagrindžia:
     - c-002

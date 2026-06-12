@@ -25,17 +25,23 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
 
 ## Teiginiai
 
+<a id="claim-t-29668"></a>
 - t-001
+  global_id: t-29668
   teiginys: '„Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae“ pradėtas spausdinti Vilniuje 1758 m. iš Motiejaus Dogelio surinktos archyvinės medžiagos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184352"></a>
 - t-002
+  global_id: t-184352
   teiginys: '„Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae“ 1758 m. pradėtas spausdinti Vilniuje iš Motiejaus Dogelio surinktos archyvinės medžiagos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184353"></a>
 - t-003
+  global_id: t-184353
   teiginys: 'Iki 1764 m. iš suplanuotų aštuonių „Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae“ tomų buvo išspausdinti trys.'
   pagrindžia:
     - c-003

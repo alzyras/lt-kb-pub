@@ -16,7 +16,9 @@ Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreika
 
 ## Teiginiai
 
+<a id="claim-t-30384"></a>
 - t-001
+  global_id: t-30384
   teiginys: 'Spytekas iš Melsztyno, Krokuvos vaivada ir Podolės valdytojas, žuvo prie Vorsklos.'
   pagrindžia:
     - c-001

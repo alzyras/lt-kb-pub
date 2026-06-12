@@ -17,7 +17,9 @@ Taigi Kęstučio dvaras buvo vie­ ta, kur daugiausia turėta žinių apie visus
 
 ## Teiginiai
 
+<a id="claim-t-36346"></a>
 - t-001
+  global_id: t-36346
   teiginys: 'Kęstučio dvaras buvo vieta, kur sukaupta daugiausia žinių apie visus kaimynus.'
   pagrindžia:
     - c-001

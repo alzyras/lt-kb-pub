@@ -16,13 +16,17 @@ Valstiečiai čia taip pat buvo geresnėje būklėje; daugelis jų iki pat rusų
 
 ## Teiginiai
 
+<a id="claim-t-03232"></a>
 - t-001
+  global_id: t-03232
   teiginys: 'Daugelis valstiečių iki pat rusų valdymo pradžios tebebuvo činšininkai, o ne baudžiauninkai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182993"></a>
 - t-002
-  teiginys: 'Valstiečiai čia taip pat buvo geresnėje būklėje; daugelis jų iki pat rusų valdymo pradžios tebebuvo činšininkai, o ne baudžiauninkai.'
+  global_id: t-182993
+  teiginys: 'Daugelis valstiečių iki rusų valdymo pradžios tebebuvo činšininkai, o ne baudžiauninkai.'
   pagrindžia:
     - c-002
 
@@ -45,7 +49,7 @@ Valstiečiai čia taip pat buvo geresnėje būklėje; daugelis jų iki pat rusų
     - t-001
 
 - c-002
-  santrauka: 'Valstiečiai čia taip pat buvo geresnėje būklėje; daugelis jų iki pat rusų valdymo pradžios tebebuvo činšininkai, o ne baudžiauninkai.'
+  santrauka: 'Daugelis valstiečių iki rusų valdymo pradžios tebebuvo činšininkai, o ne baudžiauninkai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau

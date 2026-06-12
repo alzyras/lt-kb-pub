@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87022"></a>
 - t-001
+  global_id: t-87022
   teiginys: 'Bernardinų bažnyčia dėl menkų pamatų grėsė griūtimi, todėl buvo iš naujo pamūryta prisidėjus Vilniaus vaivadai Mikalojui Radvilai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87023"></a>
 - t-002
+  global_id: t-87023
   teiginys: '1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį savo malūną, nes jo drebėjimas judino pastatų pamatus.'
   pagrindžia:
     - c-001

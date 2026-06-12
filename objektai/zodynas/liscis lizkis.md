@@ -25,7 +25,9 @@ Dusburgietis teigia, kad liscis, lizkis ‘stovykla, apsistojimo vieta’, iš p
 
 ## Teiginiai
 
+<a id="claim-t-58945"></a>
 - t-001
+  global_id: t-58945
   teiginys: 'Dusburgietis teigia, kad liscis, lizkis ‘stovykla, apsistojimo vieta’, iš pr.'
   pagrindžia:
     - c-001

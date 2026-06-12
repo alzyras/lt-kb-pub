@@ -24,7 +24,9 @@ Nepaprastas įvairaus maisto brangymetis 1547 me­ tais Vilniuje kilo dėl čion
 
 ## Teiginiai
 
+<a id="claim-t-86618"></a>
 - t-001
+  global_id: t-86618
   teiginys: '1547 m. potvarkis Vilniuje ribojo supirkinėtojus, kėlusius kainas, o padienininkams nurodė rinktis prie rotušės.'
   pagrindžia:
     - c-001

@@ -40,22 +40,30 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 
 ## Teiginiai
 
+<a id="claim-t-78877"></a>
 - t-001
+  global_id: t-78877
   teiginys: 'Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78878"></a>
 - t-002
+  global_id: t-78878
   teiginys: '1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78879"></a>
 - t-003
+  global_id: t-78879
   teiginys: '1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78880"></a>
 - t-004
+  global_id: t-78880
   teiginys: 'Podolėje atamanai duoklę atiduodavo atvykstantiems Ordos baskakams.'
   pagrindžia:
     - c-003

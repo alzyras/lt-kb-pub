@@ -43,22 +43,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75197"></a>
 - t-001
+  global_id: t-75197
   teiginys: '1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75198"></a>
 - t-002
+  global_id: t-75198
   teiginys: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75199"></a>
 - t-003
+  global_id: t-75199
   teiginys: 'Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75200"></a>
 - t-004
+  global_id: t-75200
   teiginys: 'Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   pagrindžia:
     - c-003

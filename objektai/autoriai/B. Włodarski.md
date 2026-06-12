@@ -25,7 +25,9 @@ Włodarski, B.
 
 ## Teiginiai
 
+<a id="claim-t-30572"></a>
 - t-001
+  global_id: t-30572
   teiginys: 'B. Włodarskis paskelbė darbus apie jotvingių problemą lenkų ir rusėnų santykiuose.'
   pagrindžia:
     - c-001

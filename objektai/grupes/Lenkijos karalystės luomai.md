@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lenkijos karalystės luomai
 
 ## Santrauka
 
-Kojelavičius teigia, kad luomų susirinkime jie trumpai, bet aiškiai išdėstė val dovo reikalavimus.
+Vytauto pasiuntiniai Korčino seime išdėstė Lenkijos karalystės luomams valdovo reikalavimus dėl vainikavimo.
 
 ## Teiginiai
 
+<a id="claim-t-185451"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad luomų susirinkime jie trumpai, bet aiškiai išdėstė val dovo reikalavimus.'
+  global_id: t-185451
+  teiginys: 'Vytauto pasiuntiniai Korčino seime išdėstė Lenkijos karalystės luomams valdovo reikalavimus dėl vainikavimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad luomų susirinkime jie trumpai, bet aiškiai išdėstė val dovo reikalavimus.'
+  santrauka: 'Vytauto pasiuntiniai Korčino seime išdėstė Lenkijos karalystės luomams valdovo reikalavimus dėl vainikavimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
@@ -40,3 +41,12 @@ Kojelavičius teigia, kad luomų susirinkime jie trumpai, bet aiškiai išdėst�
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/luomas]]

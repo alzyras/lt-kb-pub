@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87727"></a>
 - t-001
+  global_id: t-87727
   teiginys: '1529 metais Vilniaus burmistras Jonas Markovičius jūroje buvo vokiečių sulaikytas, paskui dėl to bylinėtasi.'
   pagrindžia:
     - c-001

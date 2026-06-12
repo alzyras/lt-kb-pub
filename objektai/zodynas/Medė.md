@@ -23,12 +23,16 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
 
 ## Teiginiai
 
+<a id="claim-t-70027"></a>
 - t-001
+  global_id: t-70027
   teiginys: 'Medininkais vadinti gyventojai tarp Nemuno, Ventos ir Nevėžio, nes jie gyveno didžiose medėse.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70028"></a>
 - t-002
+  global_id: t-70028
   teiginys: 'Medės Daukanto tekste vadinamos giriomis, buvusiomis į šiaurę nuo tyrų prie Tyrulės upės.'
   pagrindžia:
     - c-001

@@ -31,27 +31,37 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
 
 ## Teiginiai
 
+<a id="claim-t-55235"></a>
 - t-001
+  global_id: t-55235
   teiginys: 'Wremiennik Sofijski nurodomas kaip šaltinis dėl Šv. Mikalojaus bažnyčios Vilniuje egzistavimo 1347 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55236"></a>
 - t-002
+  global_id: t-55236
   teiginys: 'Sofijski Wremiennik minimas greta kitų šaltinių aiškinant Narimanto, Patriko ir Lengvenio valdžios seką Didžiajame Naugarde.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55237"></a>
 - t-003
+  global_id: t-55237
   teiginys: 'Sofijski Wremiennik rašo, kad vokiečių pulkai atėjo prie Vilniaus prieš Vytautą, kovėsi prie miesto ir buvo Lietuvos nugalėti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-55238"></a>
 - t-004
+  global_id: t-55238
   teiginys: 'Sofijski Wremiennik pateikia 1430 m. Trakų-Vilniaus suvažiavimo pas Vytautą dalyvių sąrašą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-82035"></a>
 - t-005
+  global_id: t-82035
   teiginys: 'Tas galingas didikas, paėmęs už žmoną Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir 18 Wremiennik Sofijski, p. 334.'
   pagrindžia:
     - c-005

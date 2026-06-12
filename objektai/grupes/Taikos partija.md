@@ -19,7 +19,9 @@ Iš to susidarė dvi partijos: karo ir taikos.
 
 ## Teiginiai
 
+<a id="claim-t-34367"></a>
 - t-001
+  global_id: t-34367
   teiginys: 'Taikos partija, atsižvelgdama į didelį totorių kariuomenės skaičių, ragino Vytautą sudaryti paliaubas.'
   pagrindžia:
     - c-001

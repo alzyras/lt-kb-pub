@@ -28,92 +28,128 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
 
 ## Teiginiai
 
+<a id="claim-t-173128"></a>
 - t-001
+  global_id: t-173128
   teiginys: 'Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasarį užpuolė Revelio žemę.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-173129"></a>
 - t-002
+  global_id: t-173129
   teiginys: '1314 m. Dovydas sudavė smūgį Ordino atsargoms po Naugarduko puolimo.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-173130"></a>
 - t-003
+  global_id: t-173130
   teiginys: '1324 m. kovo mėn. kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, o vėliau puolė ir Gardiną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-173131"></a>
 - t-004
+  global_id: t-173131
   teiginys: 'Dusburgietis teigia, kad apie 55 lietuvių žūtį 1319 metais Tais pačiais metais, kai dykrose smarkiai ištvino vandenys, Dovydas, Gardino pilininkas, su aštuoniais šimtais vyrų patraukė į karą ir, išdėstęs savo karius pasalose, pats su 80 vyrų įsibrovė į Prūsijos žemės valsčių, vardu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-173132"></a>
 - t-005
+  global_id: t-173132
   teiginys: 'Dusburgietis teigia, kad nieko šiuo antpuoliu nepešę, pasitraukė; kai priėjo vietą, kur buvo palikę saugas prie atsarginės žygio mantos, pamatė, kad Gardino pilininkas Dovydas573 nužudęs 30 vyrų ir pagrobęs pusantro tūkstančio arklių, duoną bei kitokį maistą ir visus kitus paliktus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-173133"></a>
 - t-006
+  global_id: t-173133
   teiginys: '1324 m. kovo mėnesį kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, vėliau puolė Gardiną, o tais metais tęsėsi abipusiai puldinėjimai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-173134"></a>
 - t-007
+  global_id: t-173134
   teiginys: '1324 m. lapkritį Gedimino kariuomenė, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-173136"></a>
 - t-008
+  global_id: t-173136
   teiginys: 'Dusburgietis teigia, kad apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų smarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino; nukovę 38 žmones.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-173137"></a>
 - t-009
+  global_id: t-173137
   teiginys: 'Dovydas, Gardino pilininkas, su 800 vyrų įsibrovė į Unzatrapį, sudegino kelis namus ir išsivarė belaisvių bei grobio.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-173138"></a>
 - t-010
+  global_id: t-173138
   teiginys: '1323 m. Dusburgietis Dovydui priskiria Revelio niokojimą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-173139"></a>
 - t-011
+  global_id: t-173139
   teiginys: 'Dusburgietis teigia, kad medininkų žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu, Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-173140"></a>
 - t-012
+  global_id: t-173140
   teiginys: '1323 m. Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę šiaurinėje Estijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-173141"></a>
 - t-013
+  global_id: t-173141
   teiginys: '1324 m. kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą ir puolė Gardiną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-173142"></a>
 - t-014
+  global_id: t-173142
   teiginys: '1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-173143"></a>
 - t-015
+  global_id: t-173143
   teiginys: '1324 m. Ordino būrys sudegino Dovydo dvarą.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-173144"></a>
 - t-016
+  global_id: t-173144
   teiginys: 'Dusburgietis teigia, kad apie Revelio, Danijos karaliaus žemės, nusiaubimą Tuo metu Dovydas, Gardino pilininkas, įsibrovė su lietuvių kariuomene į Revelį, Danijos karaliaus žemę, ir, neskaitant galybės kitų nuostolių, kurių pridarė šioje žemėje, degindamas bei plėšdamas, pagavo ir.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-173145"></a>
 - t-017
+  global_id: t-173145
   teiginys: 'Dusburgietis pasakoja, kad 1324 m. Gediminas pasiuntė Dovydą niokoti Mazovijos žemės.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-173146"></a>
 - t-018
+  global_id: t-173146
   teiginys: 'Dusburgietis teigia, kad jis mat patvarkė, kad Dovydas, jo pilininkas Gardine, įsibrovė su galinga kariuomene lapkričio 21 dieną į Mazovijos žemę ir, plėšdamas bei degindamas, nusiaubė Plocko vyskupo miestą, vardu Pultuskas, ir 130 šios vyskupystės bei Mazovijos kunigaikštystės.'
   pagrindžia:
     - c-009

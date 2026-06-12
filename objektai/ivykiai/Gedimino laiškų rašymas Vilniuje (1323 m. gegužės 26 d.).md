@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86974"></a>
 - t-001
+  global_id: t-86974
   teiginys: 'Gedimino laiškai dominikonams, pranciškonams ir Hanzos miestams buvo užfiksuoti 1323 m. notaro parengtame dokumente.'
   pagrindžia:
     - c-001

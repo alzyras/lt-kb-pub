@@ -25,7 +25,9 @@ Dusburgietis teigia, kad apie Konradino, imperatoriaus Fridricho II anūko, žū
 
 ## Teiginiai
 
+<a id="claim-t-60371"></a>
 - t-001
+  global_id: t-60371
   teiginys: 'Dusburgietis teigia, kad apie Konradino, imperatoriaus Fridricho II anūko, žūtį 1268 viešpaties metais anksčiau minėtasis Karolis, Sicilijos karalius, paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos kilmingųjų (Mart.'
   pagrindžia:
     - c-001

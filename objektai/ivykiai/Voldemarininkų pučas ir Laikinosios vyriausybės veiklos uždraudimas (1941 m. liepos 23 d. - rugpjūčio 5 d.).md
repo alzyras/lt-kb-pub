@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20563"></a>
 - t-001
+  global_id: t-20563
   teiginys: 'Liepos 23-iosios naktį naciai per gestapui paklususius voldemarininkus įvykdė pučą ir perėmė batalionų bei policijos vadovybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-20564"></a>
 - t-002
+  global_id: t-20564
   teiginys: '1941 m. rugsėjo 26 d., daugumai ministrų atsisakius tapti tarėjais, naciai uždarė LAF.'
   pagrindžia:
     - c-002

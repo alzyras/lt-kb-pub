@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31889"></a>
 - t-001
+  global_id: t-31889
   teiginys: '„Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleista Lvove 1929 m. ir daug rašo apie 1325 m. sutartį.'
   pagrindžia:
     - c-001

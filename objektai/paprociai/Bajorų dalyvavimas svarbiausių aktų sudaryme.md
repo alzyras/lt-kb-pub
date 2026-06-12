@@ -39,42 +39,42 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-05337"></a>
 - t-001
+  global_id: t-05337
   teiginys: '1401 m. Vilniaus susitarimuose išvardyti bajorai ir pareigūnai turėjo būti ne tik liudininkai, bet ir garantai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71791"></a>
 - t-002
+  global_id: t-71791
   teiginys: 'Horodlės suvažiavimo nutarimai buvo surašyti valdovų ir abiejų valstybių bajorų dokumentuose.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-71792"></a>
 - t-003
+  global_id: t-71792
   teiginys: '1401 m. Lietuvos bajorai atskiru aktu patvirtino sutartį su lenkais ir pasižadėjo jos laikytis.'
   pagrindžia:
     - c-004
 
-- t-004
-  teiginys: 'Taip antai, 1401 m. Lietuvos bajorai atskiru aktu patvirtino sutartį su Lenkais ir pasižadėjo jos laikytis (žiūr.'
-  pagrindžia:
-    - c-004
-
+<a id="claim-t-71795"></a>
 - t-005
+  global_id: t-71795
   teiginys: 'Visa tai buvo sutarta bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime Horodlėje.'
   pagrindžia:
-    - c-003
     - c-002
+    - c-003
     - c-005
 
+<a id="claim-t-71796"></a>
 - t-006
+  global_id: t-71796
   teiginys: '1401 m. Vilniaus susitarimuose Lietuvos bajorai pirmą kartą unijų istorijoje surašė atskirą aktą.'
   pagrindžia:
     - c-001
-
-- t-007
-  teiginys: 'Vilniaus susitarimuose (1401) pirmą kartą Lietuvos ir Lenkijos unijų istorijoje buvo surašytas Lietuvos bajorų aktas.'
-  pagrindžia:
-    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -127,6 +127,7 @@ Nenurodyta
     - t-005
 
 - c-004
+  santrauka: '1401 m. Lietuvos bajorai atskiru aktu patvirtino sutartį su lenkais ir pasižadėjo jos laikytis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip antai, 1401 m. Lietuvos bajorai atskiru aktu

@@ -29,17 +29,23 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
 
 ## Teiginiai
 
+<a id="claim-t-60953"></a>
 - t-001
+  global_id: t-60953
   teiginys: 'Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į šiaurės rytus nuo Gumbinės) rašęs, kad, jo nuomone, Romovė resp. Romuva galėjusi būti prie Biserkiemio (netoli Gumbinės) ant kalvos, tada vadintos Sidabro kalnu, kur aptinkama įvairių radinių, be kita ko —.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60954"></a>
 - t-002
+  global_id: t-60954
   teiginys: 'M. Prätoriaus „Deliciae“ siejama su pasakojimu, kad vieta prie Auksinės netoli Norkyčių kadaise buvo vaidilos globoje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60955"></a>
 - t-003
+  global_id: t-60955
   teiginys: 'Dusburgietis teigia, kad intakas Golba prie Narpiškių kaimo buvęs šventas (Pratorius M., Deliciae..., kn.'
   pagrindžia:
     - c-002

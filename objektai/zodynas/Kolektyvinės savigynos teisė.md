@@ -17,12 +17,16 @@ Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginklu
 
 ## Teiginiai
 
+<a id="claim-t-21996"></a>
 - t-001
+  global_id: t-21996
   teiginys: 'Kolektyvinės savigynos teisė reiškia, kad ginkluoto puolimo prieš vieną Aljanso narę atveju kitos narės ateina jai į pagalbą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183434"></a>
 - t-002
+  global_id: t-183434
   teiginys: 'Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginkluotam vienos iš Aljanso narių užpuolimui.'
   pagrindžia:
     - c-001

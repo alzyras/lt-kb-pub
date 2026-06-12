@@ -27,57 +27,79 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 
 ## Teiginiai
 
+<a id="claim-t-90720"></a>
 - t-001
+  global_id: t-90720
   teiginys: 'Dusburgietis teigia, kad apie daugybės pomeranų bei prūsų žūtį Pastačius Kristburgo pilį, sunerimo neišmintingi žmonės, naujakrikščiai ir Sventopelkas, ir susibaudę nutarė ją sunaikinti bei nušluoti, pabandžius pulti vienokiomis ar kitokiomis priemonėmis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-90721"></a>
 - t-002
+  global_id: t-90721
   teiginys: 'Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje 1324 viešpaties metais, kai račius Andrius kartą buvo vaišėse Prūsijos žemės Kristburgo pilyje, iš duonos, kurią dažė aluje, pradėjo varvėti kraujo lašai, o stalo bendrai, manydami.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-90722"></a>
 - t-003
+  global_id: t-90722
   teiginys: 'Dusburgietis teigia, kad pakeitę vietą, bet ne vardą, Jėzaus Kristaus garbei ir šlovei jie pastatė Kristburgo pilį toje vietoje, kur ji ir dabar tebėra304, sutvirtinę ją viskuo, kas reikalinga pilims ginti, ir palikę joje daug karių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-90723"></a>
 - t-004
+  global_id: t-90723
   teiginys: 'Dusburgietis teigia, kad kai jį mirusį ginklanešiai gabeno į Kristburgo pilį, moterys, kurias jis buvo išvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore virš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-90724"></a>
 - t-005
+  global_id: t-90724
   teiginys: 'Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patraukė į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms ilsintis, priartėjo prie pamedėnų pilies, stovėjusios tada toje vietoje, kuri dabar vadinama Senuoju Kristburgu, slapta įsibrovė į pilį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90725"></a>
 - t-006
+  global_id: t-90725
   teiginys: 'Dusburgietis teigia, kad traukdami atgal, jie pasiskirstė dviem būriais, vieną pasivijo Kristburgo broliai, nukovė 15 lietuvių ir atėmė iš jų 50 krikščionių.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-90726"></a>
 - t-007
+  global_id: t-90726
   teiginys: 'Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus, persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo pilies apylinkėse buvo.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-90727"></a>
 - t-008
+  global_id: t-90727
   teiginys: 'Dusburgietis teigia, kad galop jie susitarė visi drauge apsupti Kristburgo pilį ir tol nesitraukti, kol ji nebus sulyginta su žeme.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-90728"></a>
 - t-009
+  global_id: t-90728
   teiginys: 'Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90729"></a>
 - t-010
+  global_id: t-90729
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-90730"></a>
 - t-011
+  global_id: t-90730
   teiginys: 'Dusburgietis teigia, kad apie vienos pilaitės užkariavimą Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją įsibrovė ir, pagavę bei išžudę visus žmones.'
   pagrindžia:
     - c-003

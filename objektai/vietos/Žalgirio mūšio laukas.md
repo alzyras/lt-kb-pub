@@ -17,7 +17,9 @@ Dusburgietis teigia, kad dzežgonis) Žalgirio mūšio laukas (dab.
 
 ## Teiginiai
 
+<a id="claim-t-58755"></a>
 - t-001
+  global_id: t-58755
   teiginys: 'Dusburgietis teigia, kad dzežgonis) Žalgirio mūšio laukas (dab.'
   pagrindžia:
     - c-001

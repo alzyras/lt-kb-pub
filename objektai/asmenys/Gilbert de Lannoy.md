@@ -19,7 +19,9 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
 
 ## Teiginiai
 
+<a id="claim-t-35079"></a>
 - t-001
+  global_id: t-35079
   teiginys: 'Gilbert de Lannoy, Anglijos karaliaus Henriko VI pasiuntinys, važiavo į Krymą, į Kaffą.'
   pagrindžia:
     - c-001

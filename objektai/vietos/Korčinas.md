@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Korčinas
 
 ## Santrauka
 
-Kojelavičius teigia, kad į Korčino seimą Vytautas iš pradžių nusiuntė Vil niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
+Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.
 
 ## Teiginiai
 
+<a id="claim-t-185265"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad į Korčino seimą Vytautas iš pradžių nusiuntė Vil niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.'
+  global_id: t-185265
+  teiginys: 'Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad į Korčino seimą Vytautas iš pradžių nusiuntė Vil niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.'
+  santrauka: 'Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to prasidėjo ilgos tarpusavio rietenos, kurias

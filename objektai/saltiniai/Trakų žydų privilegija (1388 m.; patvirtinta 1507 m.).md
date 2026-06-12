@@ -31,12 +31,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-88111"></a>
 - t-001
+  global_id: t-88111
   teiginys: 'Supažindiname šiuo dabartiniu mūsų raštu, kam apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje kam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje stoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten gyvenančių, vardu vieną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88112"></a>
 - t-002
+  global_id: t-88112
   teiginys: '1388 m. Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Žygimantas Senasis ją patvirtino Melnyke.'
   pagrindžia:
     - c-002

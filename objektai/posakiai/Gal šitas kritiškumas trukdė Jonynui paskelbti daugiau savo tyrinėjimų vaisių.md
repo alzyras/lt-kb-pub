@@ -17,7 +17,9 @@ Lietu­ vos valstybės praeitį, jis nuolat savo tvirta logika parodė, kaip rei
 
 ## Teiginiai
 
+<a id="claim-t-100009"></a>
 - t-001
+  global_id: t-100009
   teiginys: 'Jonyno kritiškumas galėjo trukdyti jam paskelbti daugiau savo tyrinėjimų rezultatų.'
   pagrindžia:
     - c-001

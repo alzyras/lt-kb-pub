@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39304"></a>
 - t-001
+  global_id: t-39304
   teiginys: 'Kalavijas, rastas Desiukiškėse, yDKM, Artūro Užgalio nuotr.'
   pagrindžia:
     - c-001

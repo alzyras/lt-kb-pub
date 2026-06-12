@@ -19,7 +19,9 @@ Pasiuntiniai įteikė susirinkimui raštą (Proposicio Samay­ tarum), kuriame s
 
 ## Teiginiai
 
+<a id="claim-t-34984"></a>
 - t-001
+  global_id: t-34984
   teiginys: 'Proposicio Samaytarum pasiuntiniai skundėsi, kad Ordinas trukdė žemaičiams priimti katalikybę.'
   pagrindžia:
     - c-001

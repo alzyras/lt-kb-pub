@@ -17,12 +17,16 @@ Dusburgietis teigia, kad grunau rašė, jog Romovėje resp. Romuvoje augęs mil�
 
 ## Teiginiai
 
+<a id="claim-t-61004"></a>
 - t-001
+  global_id: t-61004
   teiginys: 'Dusburgietis teigia, kad 1, p. 187—189) įstatyme, pabrėžiama, kad niekas nesikreiptų į mūsų dievus be Krivio (Grunau ir vėlesni autoriai vadina jį Krivių Krivaičiu — manyta, kad šis dvigubas vardas atsirado dirbtinai; dabar galvojama, kad dvigubas vardas priklausė dviem minėtiems.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-61005"></a>
 - t-002
+  global_id: t-61005
   teiginys: 'Dusburgietis teigia, kad grunau rašė, jog Romovėje resp. Romuvoje augęs milžiniškas ąžuolas, kurio kamienas buvęs padalytas į tris lygias dalis, kiekvienoje jų — iškirstas langas ar uoksas, juose stovėję dievų trejybės stabai; Perkūno, Patulo ir Patrimpo.'
   pagrindžia:
     - c-001

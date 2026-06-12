@@ -18,17 +18,23 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
 
 ## Teiginiai
 
+<a id="claim-t-89993"></a>
 - t-001
+  global_id: t-89993
   teiginys: 'Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o pirmiausia — prieš Kvedenavos valsčių Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies, be to, pernelyg pasikliaujantis savo jėgomis, manė, jog.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89994"></a>
 - t-002
+  global_id: t-89994
   teiginys: 'Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuolių nukamuotas, priėmė tikėjimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89995"></a>
 - t-003
+  global_id: t-89995
   teiginys: 'Dusburgietis teigia, kad ilgainiui tas pats Noliubas, dažnų antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl savo įsitikinimų, ir dėl darbų.'
   pagrindžia:
     - c-002

@@ -26,7 +26,9 @@ LReim = Livländische Reimchronik, išl.
 
 ## Teiginiai
 
+<a id="claim-t-31833"></a>
 - t-001
+  global_id: t-31833
   teiginys: '„Livländische Reimchronik“ leidimą parengė Leo Meyeris, o jis buvo išleistas Paderborne 1876 m.'
   pagrindžia:
     - c-001

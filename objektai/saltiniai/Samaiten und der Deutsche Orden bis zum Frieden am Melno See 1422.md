@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31915"></a>
 - t-001
+  global_id: t-31915
   teiginys: 'R. Krumbholtzo „Samaiten und der Deutsche Orden bis zum Frieden am Melno See 1422“ išleistas Karaliaučiuje 1890 m.'
   pagrindžia:
     - c-001

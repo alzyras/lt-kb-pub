@@ -17,7 +17,9 @@ Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
 
 ## Teiginiai
 
+<a id="claim-t-61050"></a>
 - t-001
+  global_id: t-61050
   teiginys: 'Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius prūsus laikytis senosios tėvų religijos ir kovoti prieš Ordino agresiją (Barzdaitis J., Krikščionybės..., p. 20—21).'
   pagrindžia:
     - c-001

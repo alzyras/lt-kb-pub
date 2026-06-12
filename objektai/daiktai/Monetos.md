@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-71567"></a>
 - t-001
+  global_id: t-71567
   teiginys: 'Nuo Vytauto laikų Lietuvoje buvo kalamos monetos.'
   pagrindžia:
     - c-001

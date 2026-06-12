@@ -24,7 +24,9 @@ Janulaitis) prie naujos sistemos vos buvo toleruojami, Jablons­ kis, kuris (nuo
 
 ## Teiginiai
 
+<a id="claim-t-31289"></a>
 - t-001
+  global_id: t-31289
   teiginys: 'Tarybiniais metais Jablonskis pamažu tapo Lietuvos TSR Akademijos pilnateisiu nariu, akademiku.'
   pagrindžia:
     - c-001

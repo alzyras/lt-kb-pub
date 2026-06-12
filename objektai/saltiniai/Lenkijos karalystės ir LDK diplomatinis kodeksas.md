@@ -25,7 +25,9 @@ Vilniaus universiteto bibliotekoje, prie Diplomatinio koJekso) In Nomine Domini 
 
 ## Teiginiai
 
+<a id="claim-t-88315"></a>
 - t-001
+  global_id: t-88315
   teiginys: 'Vilniaus universiteto bibliotekoje, prie Diplomatinio koJekso) In Nomine Domini Amen.'
   pagrindžia:
     - c-001

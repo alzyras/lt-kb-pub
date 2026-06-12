@@ -25,7 +25,9 @@ Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiau
 
 ## Teiginiai
 
+<a id="claim-t-86772"></a>
 - t-001
+  global_id: t-86772
   teiginys: 'Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems dalyvaujant karūnuotis Lietuvos karaliumi.'
   pagrindžia:
     - c-001

@@ -20,7 +20,6 @@ amziai:
   - 'XIII'
   - 'XIV'
 ---
-
 # Volynė
 
 ## Santrauka
@@ -29,38 +28,52 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
 
 ## Teiginiai
 
+<a id="claim-t-58656"></a>
 - t-001
+  global_id: t-58656
   teiginys: 'Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23, Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija) 1219 m. sudarė sutartį su Volyne24, nes kilo pavojus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58657"></a>
 - t-002
+  global_id: t-58657
   teiginys: 'Dusburgietis teigia, kad gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324 m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185206"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad užėmęs Brianską ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis išplėtė lietuvių valdų ribas ligi Putivlio.'
+  global_id: t-185206
+  teiginys: 'Gediminas, užėmęs Brianską ir Perejeslavlį bei anksčiau užkariavęs Kijevą, Volynę ir didelę Seversko dalį, išplėtė lietuvių valdų ribas ligi Putivlio.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185207"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad mat, nors visą Belzo kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo lės kunigaikščiui Aleksandrui Narimantaičiui atidavė Volynę, tačiau abi šias žemes atidavė su ta sąlyga, kad aukščiausią galią į Rusią turėsiąs Lenkijos kara lius, o pilis, miestus bei.'
+  global_id: t-185207
+  teiginys: 'Kazimieras atidavė Volynę Aleksandrui Narimantaičiui su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-185208"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad karaliui išvykus, ir imperatorius, apsvarstęs su Vytautu svarbiausius klau simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai iš Volynės į Vengriją.'
+  global_id: t-185208
+  teiginys: 'Po Lucko suvažiavimo imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, patraukė iš Volynės į Vengriją.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-185209"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad visos Lietuvos valdos Volynėje buvo žiauriai nunioko tos, nepatyrė didesnių nuostolių lenkų įgulų ginamos gyvenvietės Podolėje.'
+  global_id: t-185209
+  teiginys: 'Visos Lietuvos valdos Volynėje buvo žiauriai nuniokotos, o lenkų įgulų ginamos gyvenvietės Podolėje didesnių nuostolių nepatyrė.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-185210"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad į seimą atvyko ir lenkų atstovai, kurie senato bei bajorų akivaizdoje rim čių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka ralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū tų vieną kartą sudaryta galutinė lenkų ir lietuvių są junga, vadinamoji.'
+  global_id: t-185210
+  teiginys: 'Vilniaus seime lenkų atstovai reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes prieš sudarant uniją.'
   pagrindžia:
     - c-007
 
@@ -98,7 +111,7 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad užėmęs Brianską ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis išplėtė lietuvių valdų ribas ligi Putivlio.'
+  santrauka: 'Gediminas, užėmęs Brianską ir Perejeslavlį bei anksčiau užkariavęs Kijevą, Volynę ir didelę Seversko dalį, išplėtė lietuvių valdų ribas ligi Putivlio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gediminas, pasilsėjęs čia, kol artimiausios pi­
@@ -118,7 +131,7 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad mat, nors visą Belzo kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo lės kunigaikščiui Aleksandrui Narimantaičiui atidavė Volynę, tačiau abi šias žemes atidavė su ta sąlyga, kad aukščiausią galią į Rusią turėsiąs Lenkijos kara lius, o pilis, miestus bei.'
+  santrauka: 'Kazimieras atidavė Volynę Aleksandrui Narimantaičiui su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kęstutis mė­
@@ -147,7 +160,7 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad karaliui išvykus, ir imperatorius, apsvarstęs su Vytautu svarbiausius klau simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai iš Volynės į Vengriją.'
+  santrauka: 'Po Lucko suvažiavimo imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, patraukė iš Volynės į Vengriją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atvykęs į Lenkiją, jis sukvie-
@@ -170,7 +183,7 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad visos Lietuvos valdos Volynėje buvo žiauriai nunioko tos, nepatyrė didesnių nuostolių lenkų įgulų ginamos gyvenvietės Podolėje.'
+  santrauka: 'Visos Lietuvos valdos Volynėje buvo žiauriai nuniokotos, o lenkų įgulų ginamos gyvenvietės Podolėje didesnių nuostolių nepatyrė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitai įvyko gal dėl to, kad per vėlai
@@ -187,7 +200,7 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
     - t-006
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad į seimą atvyko ir lenkų atstovai, kurie senato bei bajorų akivaizdoje rim čių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka ralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū tų vieną kartą sudaryta galutinė lenkų ir lietuvių są junga, vadinamoji.'
+  santrauka: 'Vilniaus seime lenkų atstovai reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes prieš sudarant uniją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Rugsėjo pabaigoje luomai susirinko Vilniuje į

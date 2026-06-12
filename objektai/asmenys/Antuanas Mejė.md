@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-24538"></a>
 - t-001
+  global_id: t-24538
   teiginys: 'Prancūzų kalbininkas Antuanas Mejė pabrėžė archajišką lietuvių valstiečių kalbos pobūdį.'
   pagrindžia:
     - c-001

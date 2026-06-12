@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-07857"></a>
 - t-001
+  global_id: t-07857
   teiginys: 'Žemlionys vadinti ir vyčiais, nes turėjo vyti priešus gindamiesi arba gyveno vietoje, neklajodami su gyvuliais.'
   pagrindžia:
     - c-001

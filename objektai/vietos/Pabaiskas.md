@@ -26,47 +26,65 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 
 ## Teiginiai
 
+<a id="claim-t-171924"></a>
 - t-001
+  global_id: t-171924
   teiginys: '1435 m. rugsėjo 1 d. mūšis įvyko prie kelio į Vilnių, ten, kur vėliau stovėjo Pabaisko parapijos bažnyčia.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-171925"></a>
 - t-002
+  global_id: t-171925
   teiginys: 'Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą, pasibaigusį 1435 m. Pabaisko mūšiu.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-171926"></a>
 - t-003
+  global_id: t-171926
   teiginys: 'Pabaiskas buvo parapijos kaimas, nutolęs nuo Vilniaus–Ukmergės pašto trakto per 2 varstus į kairę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-171927"></a>
 - t-004
+  global_id: t-171927
   teiginys: 'Pabaiske vietos žmonės dar prisiminė šioje vietoje vykusį garsų mūšį ir jame žuvusį priešo kunigaikštį ar riterį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-171928"></a>
 - t-005
+  global_id: t-171928
   teiginys: 'Šią kariuomenių išsidėstymo situaciją natūroje atitinka ne Žirnajos (kaip įprasta istoriografijoje), bet jos dešiniojo intako Vintaros, tekančios per dabartinį Pabaisko miestelį, padėtis.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-171929"></a>
 - t-006
+  global_id: t-171929
   teiginys: 'Žygimantas mūšio lauką pavadino Pabaisku ir toje vietoje pastatė parapijos bažnyčią.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-171930"></a>
 - t-007
+  global_id: t-171930
   teiginys: 'Pabaiskas buvo kalvota, bet atvira ir gana graži vietovė prie naujos mūrinės bažnyčios.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-171932"></a>
 - t-008
+  global_id: t-171932
   teiginys: 'Ties Pabaisku, netoli Ukmergės, Zigmanto sūnaus Mykolo vedama lietuvių ir lenkų kariuomenė pastojo kelią prie Šventosios.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-171933"></a>
 - t-009
+  global_id: t-171933
   teiginys: 'Žygimantas mūšio lauką pavadino Pabaisku, per jį tekantį upelį – Viktorija, ir toje vietoje pastatė parapijos bažnyčią.'
   pagrindžia:
     - c-001

@@ -26,7 +26,9 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 
 ## Teiginiai
 
+<a id="claim-t-60253"></a>
 - t-001
+  global_id: t-60253
   teiginys: 'Vyresnysis Dirsovijos grafas Boguslavas buvo tarp liudytojų, dalyvavusių apie 1226 ar 1230 m. patvirtinant žemių dovanojimą.'
   pagrindžia:
     - c-001

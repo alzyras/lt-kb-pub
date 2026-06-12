@@ -19,7 +19,9 @@ Tai buvęs Vilniaus Universiteto profeso­ rius, o dabar Kijeve vadovaujantis Te
 
 ## Teiginiai
 
+<a id="claim-t-88064"></a>
 - t-001
+  global_id: t-88064
   teiginys: 'Ignacas Danilavičius buvo buvęs Vilniaus universiteto profesorius ir Kijevo Teisės katedros vadovas.'
   pagrindžia:
     - c-001

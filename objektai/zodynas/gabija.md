@@ -16,7 +16,9 @@ Tai vadinamoji šventoji namų ugnelė, arba gabija.
 
 ## Teiginiai
 
+<a id="claim-t-02996"></a>
 - t-001
+  global_id: t-02996
   teiginys: 'Gabija vadinta šventąja namų ugnele.'
   pagrindžia:
     - c-001

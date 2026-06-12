@@ -24,12 +24,16 @@ Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusė
 
 ## Teiginiai
 
+<a id="claim-t-79490"></a>
 - t-001
+  global_id: t-79490
   teiginys: 'Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusėje driekėsi kalvotas mišrus Kalniškės miškas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79491"></a>
 - t-002
+  global_id: t-79491
   teiginys: 'Apie kilometrą už Krosnos Lazdijų link tęsiasi kalvotas, mišrus Kalniškės miškas, kuriame 1945 m. įvyko Kalniškės mūšis.'
   pagrindžia:
     - c-001

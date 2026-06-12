@@ -24,7 +24,9 @@ Kiek plačiau ordino priešą minėjo pir­ mosios Pabaltijyje vokiečių kronik
 
 ## Teiginiai
 
+<a id="claim-t-31783"></a>
 - t-001
+  global_id: t-31783
   teiginys: 'Latvijos Henriko kronika, surašyta 1225-1227 m., buvo viena pirmųjų Pabaltijo vokiečių kronikų, plačiau minėjusių ordino priešą.'
   pagrindžia:
     - c-001

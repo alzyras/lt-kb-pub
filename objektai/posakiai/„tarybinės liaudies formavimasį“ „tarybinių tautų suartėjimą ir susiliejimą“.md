@@ -17,7 +17,9 @@ Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vie
 
 ## Teiginiai
 
+<a id="claim-t-183509"></a>
 - t-001
+  global_id: t-183509
   teiginys: 'Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vieną tarybinę kultūrą“, tautybių „susiliejimą“ per rusų kalbą kaip „internacionalinę bendravimo priemonę“, „tarybinių tautų suartėjimą ir susiliejimą“ leido suprasti, kad einama unifikuotos.'
   pagrindžia:
     - c-001

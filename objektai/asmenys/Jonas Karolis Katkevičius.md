@@ -30,37 +30,51 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
 
 ## Teiginiai
 
+<a id="claim-t-79042"></a>
 - t-001
+  global_id: t-79042
   teiginys: '1604 m. Švedijos karaliumi tapus Karoliui Ix, karo veiksmai Livonijoje suintensyvėjo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79043"></a>
 - t-002
+  global_id: t-79043
   teiginys: 'Chotino mūšis tapo paskutine legendinio Lietuvos karvedžio Jono Karolio Chodkevičiaus pasiekta pergale.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79044"></a>
 - t-003
+  global_id: t-79044
   teiginys: 'Jonas Karolis Katkevičius: jonui Jeronimui K. († 1579 m.) mirus, jo vietą užėmė sūnus Jonas Karolis. Iš pradžių jis gavo Žemaičių seniūniją ir lauko hetmono buožę, o vėliau (1605 m.) — didžiojo hetmono buožę ir Vilniaus vaivadiją (1616 m.).'
   pagrindžia:
     - c-006
 
+<a id="claim-t-79046"></a>
 - t-004
+  global_id: t-79046
   teiginys: 'Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-79047"></a>
 - t-005
+  global_id: t-79047
   teiginys: 'Jonas Karolis Chodkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-79048"></a>
 - t-006
+  global_id: t-79048
   teiginys: 'Jonas Karolis Katkevičius: tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt. fundacija).'
   pagrindžia:
     - c-007
 
+<a id="claim-t-79049"></a>
 - t-007
+  global_id: t-79049
   teiginys: 'Jonas Karolis Katkevičius 1605 m. gavo didžiojo hetmono buožę, o 1616 m. – Vilniaus vaivadiją.'
   pagrindžia:
     - c-003

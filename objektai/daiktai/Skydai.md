@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-97104"></a>
 - t-001
+  global_id: t-97104
   teiginys: 'Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.'
   pagrindžia:
     - c-001

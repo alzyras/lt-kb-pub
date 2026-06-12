@@ -18,7 +18,9 @@ Vytautui reikėjo padaryti kompromisą su viena jų, kad galėtų kovoti su kita
 
 ## Teiginiai
 
+<a id="claim-t-95923"></a>
 - t-001
+  global_id: t-95923
   teiginys: 'Vytautui reikėjo padaryti kompromisą su viena jų, kad galėtų kovoti su kita.'
   pagrindžia:
     - c-001

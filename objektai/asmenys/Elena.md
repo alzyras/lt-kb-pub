@@ -19,7 +19,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Elena (vyskupas, XV–XVI a.)
 
 ## Santrauka
@@ -49,113 +48,124 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - karalienė
 - didžioji kunigaikštienė
 
-## Ryšiai
-
-### Teminiai klasteriai
-- [[temos/karalienė]]
-
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/daiktai/Aleksandro lektika]]
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Ateitis]]
-- [[objektai/asmenys/Elžbieta]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/metrika]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/tėvonija]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Aleksandras Jogailaitis]]
-- [[objektai/posakiai/Kto w Wilnie nie bywał, tot czudes nie widał]]
-- [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros]]
-
 ## Teiginiai
 
+<a id="claim-t-54956"></a>
 - t-001
+  global_id: t-54956
   teiginys: 'Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-54957"></a>
 - t-002
+  global_id: t-54957
   teiginys: '1495 m. sužadėtinė Elena iš Maskvos atvyko į Vilnių, lydima bojarinų ir dvariškių, o Aleksandras ją sutiko prie Nemėžio kelio.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54958"></a>
 - t-003
+  global_id: t-54958
   teiginys: 'Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54959"></a>
 - t-004
+  global_id: t-54959
   teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius santykius su Rusios miestais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-54960"></a>
 - t-005
+  global_id: t-54960
   teiginys: 'Karalienė Elena lydėjo paliegusį Aleksandrą, kai jis buvo vežamas į Vilnių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-54961"></a>
 - t-006
+  global_id: t-54961
   teiginys: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą Maskvos bojarinams ir pasiuntiniams.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-54962"></a>
 - t-007
+  global_id: t-54962
   teiginys: '1503 m. Aleksandras dovanojo Elenai Mogiliavo pilį jos gyvenimo laikui.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-54963"></a>
 - t-008
+  global_id: t-54963
   teiginys: 'Aleksandro testamentas pavedė Žygimantui ir kitiems globoti Eleną bei jos teises.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-82283"></a>
 - t-009
+  global_id: t-82283
   teiginys: 'Aleksandras nutarė vesti Ivano Vasiljevičiaus dukterį Eleną, siekdamas užgesinti kilusius tarpusavio vaidus.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-82284"></a>
 - t-010
+  global_id: t-82284
   teiginys: 'Aleksandras dovanojo Elenai Mogiliavo pilį prie Dniepro ir jai priklausančias valdas tik Elenos gyvenimo laikui.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-82285"></a>
 - t-011
+  global_id: t-82285
   teiginys: 'Aleksandras užrašė Elenai ir jos įpėdiniams Smolnėnus, Horodiščę, Losičius ir kitas valdas su jų priklausiniais.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-82286"></a>
 - t-012
+  global_id: t-82286
   teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-82287"></a>
 - t-013
+  global_id: t-82287
   teiginys: 'Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės 48 Karalienė Elena mirė Vilniuje 1513 gavusi iš vyro, 1510 metais jai skyrė metais, palaidota graikų apeigų kopdalį Švč.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-82288"></a>
 - t-014
+  global_id: t-82288
   teiginys: '1495 m. carui sutikus su vedybomis, sužadėtinė Elena kitų metų vasarį atvyko iš Maskvos į Vilnių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82289"></a>
 - t-015
+  global_id: t-82289
   teiginys: 'Aleksandras dovanojo Elenai ir jos palikuonims Kniazičius, Teteriną, Popova Huros pilį ir kitas valdas.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-82290"></a>
 - t-016
+  global_id: t-82290
   teiginys: 'Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė didįjį kunigaikštį Aleksandrą su Elena.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-184695"></a>
 - t-017
-  teiginys: 'Kojelavičius teigia, kad kol karalius bei didikai E lena m ėg in a p a b ė g ti į M a sk v o s k u n i g a ik š ty s tę tvarkė seime valstybės rei kalus, karalienė Elena, seno kai puoselėjusi mintį pabėgti į Maskvos kunigaikštystę, pamėgino, didikams išvykus, įgyvendinti šį sumanymą.'
+  global_id: t-184695
+  teiginys: 'Karalienė Elena, didikams išvykus į seimą, pamėgino pabėgti į Maskvos kunigaikštystę.'
   pagrindžia:
     - c-014
 
@@ -511,7 +521,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     - t-007
 
 - c-014
-  santrauka: 'Kojelavičius teigia, kad kol karalius bei didikai E lena m ėg in a p a b ė g ti į M a sk v o s k u n i g a ik š ty s tę tvarkė seime valstybės rei kalus, karalienė Elena, seno kai puoselėjusi mintį pabėgti į Maskvos kunigaikštystę, pamėgino, didikams išvykus, įgyvendinti šį sumanymą.'
+  santrauka: 'Karalienė Elena, didikams išvykus į seimą, pamėgino pabėgti į Maskvos kunigaikštystę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mengli Girėjus, gavęs pinigų, paliovė, tiesa, niokojęs
@@ -543,3 +553,54 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   statusas: verified
   pagrindžia:
     - t-017
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/karalienė]]
+
+### Susiję objektai
+- [[objektai/daiktai/Aleksandro lektika]]
+- [[objektai/daiktai/Antspaudas]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/posakiai/Kto w Wilnie nie bywał, tot czudes nie widał]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/metrika]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/tėvonija]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Elžbieta]]
+- [[objektai/grupes/Graikai]]
+- [[objektai/grupes/Maskvos pasiuntiniai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Rusų pirkliai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
+- [[objektai/zodynas/bojarinai]]
+- [[objektai/zodynas/kustodas]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/paprociai/Aleksandro ir Elenos sutikimo, jungtuvių ir vestuvių vaišinimo apeigos]]
+- [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]
+- [[objektai/daiktai/Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu]]
+- [[objektai/grupes/Krymo orda]]
+- [[objektai/ivykiai/Maskvos valdovo karo paskelbimas Aleksandrui]]
+- [[objektai/asmenys/Mendli Girėjus]]
+- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
+- [[objektai/grupes/Nogajaus orda]]
+- [[objektai/zodynas/Romos tikėjimas]]
+- [[objektai/paprociai/Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui]]
+- [[objektai/daiktai/Svečių namai rusų pirkliams Vilniuje]]
+- [[objektai/posakiai/Vendimus abscedimus, et resignamus]]
+- [[objektai/ivykiai/Vilniaus katedros ir Vilniaus rotušės rekonstrukcijos]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora]]
+- [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
+- [[objektai/zodynas/svečiai Svečių namai]]
+- [[objektai/zodynas/tenuta laikytojas]]
+- [[objektai/asmenys/Šach Achmedas]]
+- [[objektai/daiktai/Šach Achmedo palapinės prie Vilniaus]]
+- [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai]]

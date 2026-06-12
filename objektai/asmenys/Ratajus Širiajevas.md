@@ -18,7 +18,9 @@ Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.
 
 ## Teiginiai
 
+<a id="claim-t-39801"></a>
 - t-001
+  global_id: t-39801
   teiginys: 'Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.'
   pagrindžia:
     - c-001

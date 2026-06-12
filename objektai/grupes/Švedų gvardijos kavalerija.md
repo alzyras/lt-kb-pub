@@ -18,12 +18,16 @@ Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą atak�
 
 ## Teiginiai
 
+<a id="claim-t-41215"></a>
 - t-001
+  global_id: t-41215
   teiginys: 'Karalius nurodė siųsti Švedų gvardijos kavaleriją į lemiamą ataką prieš dešinįjį lietuvių sparną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41216"></a>
 - t-002
+  global_id: t-41216
   teiginys: 'T. Lackio husarai ryžtingu puolimu nubloškė Švedų gvardijos kavaleriją iš mūšio lauko.'
   pagrindžia:
     - c-001

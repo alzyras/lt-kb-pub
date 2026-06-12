@@ -13,12 +13,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Parčevo, Bresto ir Lomžos seimų bandymas spręsti Podolės ginčą (1463-1464 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad gerai nežinau, bet galbūt dėl šios priežasties Parčeve grei tosiomis šaukiamą seimą atidėjo beveik ligi metų pa baigos. Kojelavičius teigia, kad tik lapkričio mėnesį susirinko seimai: lenkų Parčeve, o lie tuvių Breste; kadangi nei vieni, nei kiti nenorėjo ke liauti į priešininkų šalį, po ilgų ginčų nutarė susitikti Lomžoje, tai yra pusiaukelėje tarp Parčevo ir Bresto.
+Kojelavičius spėja, kad gandas apie Podolėje prasidėjusį karą galėjo lemti skubiai Parčeve šaukto seimo atidėjimą beveik iki metų pabaigos. Lapkričio mėnesį lenkų seimas susirinko Parčeve, lietuvių seimas Breste, o po ginčų nutarta susitikti Lomžoje.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -34,20 +33,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185629"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad gerai nežinau, bet galbūt dėl šios priežasties Parčeve grei tosiomis šaukiamą seimą atidėjo beveik ligi metų pa baigos.'
+  global_id: t-185629
+  teiginys: 'Kojelavičius spėja, kad gandas apie Podolėje prasidėjusį karą galėjo lemti skubiai Parčeve šaukto seimo atidėjimą beveik iki metų pabaigos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185630"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad tik lapkričio mėnesį susirinko seimai: lenkų Parčeve, o lie tuvių Breste; kadangi nei vieni, nei kiti nenorėjo ke liauti į priešininkų šalį, po ilgų ginčų nutarė susitikti Lomžoje, tai yra pusiaukelėje tarp Parčevo ir Bresto.'
+  global_id: t-185630
+  teiginys: 'Lapkričio mėnesį lenkų seimas susirinko Parčeve, lietuvių seimas Breste, o po ginčų nutarta susitikti Lomžoje.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad gerai nežinau, bet galbūt dėl šios priežasties Parčeve grei tosiomis šaukiamą seimą atidėjo beveik ligi metų pa baigos.'
+  santrauka: 'Kojelavičius spėja, kad gandas apie Podolėje prasidėjusį karą galėjo lemti skubiai Parčeve šaukto seimo atidėjimą beveik iki metų pabaigos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai todėl
@@ -65,7 +68,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad tik lapkričio mėnesį susirinko seimai: lenkų Parčeve, o lie tuvių Breste; kadangi nei vieni, nei kiti nenorėjo ke liauti į priešininkų šalį, po ilgų ginčų nutarė susitikti Lomžoje, tai yra pusiaukelėje tarp Parčevo ir Bresto.'
+  santrauka: 'Lapkričio mėnesį lenkų seimas susirinko Parčeve, lietuvių seimas Breste, o po ginčų nutarta susitikti Lomžoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Negi galima buvo tikėtis santarvės ir vienybės,
@@ -89,3 +92,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/paprociai/Derybinis susitikimas neutralioje pusiaukelėje tarp priešiškų šalių]]

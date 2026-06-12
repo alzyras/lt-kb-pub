@@ -33,12 +33,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62867"></a>
 - t-001
+  global_id: t-62867
   teiginys: 'Dusburgietis teigia, kad jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-62868"></a>
 - t-002
+  global_id: t-62868
   teiginys: 'Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.'
   pagrindžia:
     - c-002

@@ -25,17 +25,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-67530"></a>
 - t-001
+  global_id: t-67530
   teiginys: 'Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67531"></a>
 - t-002
+  global_id: t-67531
   teiginys: '1939 m. spalio 10 d., spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, pasirašyta SSRS ir Lietuvos savitarpio pagalbos sutartis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183382"></a>
 - t-003
+  global_id: t-183382
   teiginys: 'Pagal 1939 m. spalio 10 d. sutartį Lietuva gavo Vilnių ir dalį teritorijos, bet turėjo įsileisti sovietų karines bazes.'
   pagrindžia:
     - c-003

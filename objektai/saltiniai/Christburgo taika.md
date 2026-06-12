@@ -22,7 +22,9 @@ Jonynas: Christburgo taika , Lietuviškoji Enciklopedija, t.
 
 ## Teiginiai
 
+<a id="claim-t-100155"></a>
 - t-001
+  global_id: t-100155
   teiginys: 'Jonynas: Christburgo taika , Lietuviškoji Enciklopedija, t.'
   pagrindžia:
     - c-001

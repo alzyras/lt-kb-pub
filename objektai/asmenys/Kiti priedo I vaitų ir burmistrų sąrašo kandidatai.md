@@ -25,37 +25,51 @@ periodo_grupes: []
 
 ## Teiginiai
 
+<a id="claim-t-87349"></a>
 - t-001
+  global_id: t-87349
   teiginys: 'Anupras Minkevičius, buvo vaitas: 1753 ir 1758 23.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-87350"></a>
 - t-002
+  global_id: t-87350
   teiginys: '1620 m. burmistrais buvo nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-87351"></a>
 - t-003
+  global_id: t-87351
   teiginys: 'Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-87352"></a>
 - t-004
+  global_id: t-87352
   teiginys: 'Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėtai gauna privilegiją Vilniaus vaitystei, bet ją Jonas Kazimieras panaikina sausio 15 d. dekretu - 1667 15.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87353"></a>
 - t-005
+  global_id: t-87353
   teiginys: 'Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurinavičius.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-87354"></a>
 - t-006
+  global_id: t-87354
   teiginys: 'Jokūbas Vargalovskis Stefanovičius dar buvo vaitas - 1713 ir 1721 21.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87355"></a>
 - t-007
+  global_id: t-87355
   teiginys: 'Jachna Laurinavičius Vilniaus vaitų ir žymesnių burmistrų sąraše nurodytas kaip žinomas nuo 1485 m.'
   pagrindžia:
     - c-001

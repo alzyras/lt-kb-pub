@@ -28,7 +28,9 @@ Vilno ipso die Sanctae Priscae Virginis 67 et martyris anno D-ni 1401 [Lietuvos 
 
 ## Teiginiai
 
+<a id="claim-t-88357"></a>
 - t-001
+  global_id: t-88357
   teiginys: 'Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi kokios naudos ar iš prekybos, ar iš praplėstų gyventojų teisių; numanu, be abejo, kad po Žemaičių perleidimo kryžiuočiams visus buvo apėmusi apatija, ir miestiečių gyvenimas, pirma buvęs.'
   pagrindžia:
     - c-001

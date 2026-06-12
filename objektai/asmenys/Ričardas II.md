@@ -25,12 +25,16 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
 
 ## Teiginiai
 
+<a id="claim-t-87570"></a>
 - t-001
+  global_id: t-87570
   teiginys: 'Apie 1390 m. Anglijoje viešpatavo Ričardas II, o prie Vilniaus buvo Henrikas Lankasteris, ne Anglijos karaliaus Henriko sūnus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87571"></a>
 - t-002
+  global_id: t-87571
   teiginys: 'Henrikas Lankasteris po devynerių metų nuvertė Ričardą II nuo sosto ir ėmė viešpatauti Henriko IV vardu.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Grekov, B.
 
 ## Teiginiai
 
+<a id="claim-t-30622"></a>
 - t-001
+  global_id: t-30622
   teiginys: 'B. D. Grekovas su A. J. Jakubovskiu parašė veikalą „Zolotaja Orda i ee padenije“.'
   pagrindžia:
     - c-001

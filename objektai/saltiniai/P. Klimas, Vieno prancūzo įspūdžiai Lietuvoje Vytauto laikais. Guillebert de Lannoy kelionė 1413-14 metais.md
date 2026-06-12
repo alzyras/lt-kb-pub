@@ -26,7 +26,9 @@ Klimas, P.
 
 ## Teiginiai
 
+<a id="claim-t-31879"></a>
 - t-001
+  global_id: t-31879
   teiginys: 'P. Klimo „Vieno prancūzo įspūdžiai Lietuvoje Vytauto laikais“ paskelbta „Židinyje“ 1930 m. Nr. 3, p. 232-245.'
   pagrindžia:
     - c-001

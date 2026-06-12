@@ -24,7 +24,9 @@ Jozefo Grabinskio Jėgerių batalionas, LDK kariuomenės artileristai prasidėju
 
 ## Teiginiai
 
+<a id="claim-t-40903"></a>
 - t-001
+  global_id: t-40903
   teiginys: 'Jozefo Grabinskio Jėgerių batalionas priklausė Vilnių nuo rusų puolimo gynusiai gen. mjr. Jono Mejeno divizijai.'
   pagrindžia:
     - c-001

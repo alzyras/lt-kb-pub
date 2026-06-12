@@ -24,12 +24,16 @@ Mūšio išvakarėse 1359 m. Livonijos magistras surengė didelį žygį prieš 
 
 ## Teiginiai
 
+<a id="claim-t-42016"></a>
 - t-001
+  global_id: t-42016
   teiginys: '1359 m. Livonijos magistras surengė didelį žygį prieš lietuvius į Papilės žemę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183798"></a>
 - t-002
+  global_id: t-183798
   teiginys: 'Mūšio išvakarėse 1359 m. Livonijos magistras surengė didelį žygį prieš lietuvius į Papilės žemę.'
   pagrindžia:
     - c-002

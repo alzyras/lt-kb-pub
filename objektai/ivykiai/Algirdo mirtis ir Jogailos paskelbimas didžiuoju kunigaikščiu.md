@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Algirdo mirtis ir Jogailos paskelbimas didžiuoju kunigaikščiu
 
 ## Santrauka
 
-Kojelavičius teigia, kad mat tais pačiais metais Prūsijoje mirė magistras Vinrichas fon Kniprodė, o visų labiausiai mylėjo Jogailą, todėl jį ir skyrė įpėdi niu. Kojelavičius teigia, kad d e v i n t a k n y g a APIE LIETUVOS VALSTYBĘ VLADISLOVO JOGAILOS VALDYMO METAIS Palaidoję Algirdą taip, kaip reikalavo seni protė vių papročiai, visi luomai, pačiam Kęstučiui pasiūlius, vieningai paskelbė Jogailą Lietuvos didžiuoju kuni gaikščiu.
+Algirdas labiausiai mylėjo Jogailą ir paskyrė jį savo įpėdiniu. Palaidojus Algirdą pagal senus protėvių papročius, visi luomai Kęstučio siūlymu paskelbė Jogailą Lietuvos didžiuoju kunigaikščiu.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185688"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mat tais pačiais metais Prūsijoje mirė magistras Vinrichas fon Kniprodė, o visų labiausiai mylėjo Jogailą, todėl jį ir skyrė įpėdi niu.'
+  global_id: t-185688
+  teiginys: 'Algirdas labiausiai mylėjo Jogailą ir paskyrė jį savo įpėdiniu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185689"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad d e v i n t a k n y g a APIE LIETUVOS VALSTYBĘ VLADISLOVO JOGAILOS VALDYMO METAIS Palaidoję Algirdą taip, kaip reikalavo seni protė vių papročiai, visi luomai, pačiam Kęstučiui pasiūlius, vieningai paskelbė Jogailą Lietuvos didžiuoju kuni gaikščiu.'
+  global_id: t-185689
+  teiginys: 'Palaidojus Algirdą pagal senus protėvių papročius, visi luomai Kęstučio siūlymu paskelbė Jogailą Lietuvos didžiuoju kunigaikščiu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mat tais pačiais metais Prūsijoje mirė magistras Vinrichas fon Kniprodė, o visų labiausiai mylėjo Jogailą, todėl jį ir skyrė įpėdi niu.'
+  santrauka: 'Algirdas labiausiai mylėjo Jogailą ir paskyrė jį savo įpėdiniu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vienas dalykas ten minimas. Tuo metu, kai Lietu­
@@ -57,7 +60,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad d e v i n t a k n y g a APIE LIETUVOS VALSTYBĘ VLADISLOVO JOGAILOS VALDYMO METAIS Palaidoję Algirdą taip, kaip reikalavo seni protė vių papročiai, visi luomai, pačiam Kęstučiui pasiūlius, vieningai paskelbė Jogailą Lietuvos didžiuoju kuni gaikščiu.'
+  santrauka: 'Palaidojus Algirdą pagal senus protėvių papročius, visi luomai Kęstučio siūlymu paskelbė Jogailą Lietuvos didžiuoju kunigaikščiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Be
@@ -88,3 +91,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/luomai]]

@@ -26,7 +26,9 @@ Hoch­ meister des Deutschen Ordens 1414-1422 ; t.
 
 ## Teiginiai
 
+<a id="claim-t-31883"></a>
 - t-001
+  global_id: t-31883
   teiginys: 'C. A. Lückeratho „Paul von Rusdorf. Hochmeister des Deutschen Ordens 1422–1441“ pasirodė 1969 m. 15 tome.'
   pagrindžia:
     - c-001

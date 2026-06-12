@@ -19,7 +19,9 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
 
 ## Teiginiai
 
+<a id="claim-t-87701"></a>
 - t-001
+  global_id: t-87701
   teiginys: 'Kujavų vyskupas Janas Kropidła Vytauto prašymu palaimino Vytauto ir Julijonos Alšėniškės santuoką.'
   pagrindžia:
     - c-001

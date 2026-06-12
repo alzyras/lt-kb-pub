@@ -24,7 +24,9 @@ Fasmer : Otryvki V.
 
 ## Teiginiai
 
+<a id="claim-t-30829"></a>
 - t-001
+  global_id: t-30829
   teiginys: 'M. Fasmeris su M. Priselkovu paskelbė darbą apie V. N. Beneševičiaus ištraukas Rusios XIV a. bažnyčios istorijai.'
   pagrindžia:
     - c-001

@@ -47,22 +47,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67158"></a>
 - t-001
+  global_id: t-67158
   teiginys: 'Kryžiaus karų epochoje Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau Europa tarsi atstūmė Lietuvą nuo krikščionybės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67159"></a>
 - t-002
+  global_id: t-67159
   teiginys: 'Žygimanto Augusto mirties (po jo Lietuvą valdė svetimkilmiai valdovai).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67160"></a>
 - t-003
+  global_id: t-67160
   teiginys: 'Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67161"></a>
 - t-004
+  global_id: t-67161
   teiginys: 'Nors nebus nė vieno kunigaikščio, kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebeleisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą nuo krikščionybės.'
   pagrindžia:
     - c-001

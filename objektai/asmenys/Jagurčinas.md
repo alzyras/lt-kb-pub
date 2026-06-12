@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-40175"></a>
 - t-001
+  global_id: t-40175
   teiginys: '1275 m. pradžioje chanas Mengu Timūras prieš Lietuvą pasiuntė kariuomenę, vadovaujamą Jagurčino, įsakęs eiti į žygį ir rusėnų Uždnieprės kunigaikščiams.'
   pagrindžia:
     - c-001

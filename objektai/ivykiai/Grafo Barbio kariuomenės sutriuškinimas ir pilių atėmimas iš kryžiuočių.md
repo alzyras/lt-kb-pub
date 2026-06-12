@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Grafo Barbio kariuomenės sutriuškinimas ir pilių atėmimas iš kryžiuočių
 
 ## Santrauka
 
-Kojelavičius teigia, kad šio vargingo likimo jis du kartus buvo išvengęs, pa sigailėjus kai kuriems prūsams, su kuriais anksčiau buvo susidraugavęs; kai trečią kartą krito toks pat burtas, jis su panieka atsisakė gyvybės, už kurią tu rėtų dėkoti gailestingiesiems barbarams. Kojelavičius teigia, kad po šių pergalių iš kryžiuočių buvo atimti Heilsbergo, Kroicburgo, Karaliaučiaus, Bartenšteino pilys ir miestai.
+Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,41 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185569"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad šio vargingo likimo jis du kartus buvo išvengęs, pa sigailėjus kai kuriems prūsams, su kuriais anksčiau buvo susidraugavęs; kai trečią kartą krito toks pat burtas, jis su panieka atsisakė gyvybės, už kurią tu rėtų dėkoti gailestingiesiems barbarams.'
+  global_id: t-185569
+  teiginys: 'Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Kojelavičius teigia, kad po šių pergalių iš kryžiuočių buvo atimti Heilsbergo, Kroicburgo, Karaliaučiaus, Bartenšteino pilys ir miestai.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad šio vargingo likimo jis du kartus buvo išvengęs, pa sigailėjus kai kuriems prūsams, su kuriais anksčiau buvo susidraugavęs; kai trečią kartą krito toks pat burtas, jis su panieka atsisakė gyvybės, už kurią tu rėtų dėkoti gailestingiesiems barbarams.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    ## Puslapis 106
-
-    Šio vargingo likimo jis du kartus buvo išvengęs, pa­
-    sigailėjus kai kuriems prūsams, su kuriais anksčiau
-    buvo susidraugavęs; kai trečią kartą krito toks pat
-    burtas, jis su panieka atsisakė gyvybės, už kurią tu­
-    rėtų dėkoti gailestingiesiems barbarams. Kita vokie­
-    čių kariuomenė, vedama grafo Barbio, niokojo Sembą
-    ir Žemaitijos pasienius; ji taip pat buvo prūsų sutriuš­
-    kinta per pačią šventosios Agnetės šventę. Pats va­
-    das, praradęs kariuomenę, pateko į priešų rankas.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kojelavičius teigia, kad po šių pergalių iš kryžiuočių buvo atimti Heilsbergo, Kroicburgo, Karaliaučiaus, Bartenšteino pilys ir miestai.'
+  santrauka: 'Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pats va­
@@ -80,4 +55,13 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- [[objektai/daiktai/Pilys]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/žygis]]

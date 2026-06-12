@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Valdovų deginimo ir laidojimo apeigos Šventaragyje
 
 ## Santrauka
 
-Kojelavičius teigia, kad vos užmetus žvilgsnį, ši puiki lyguma taip sužavėjo seneliui širdį, jog jis paprašė Germantą, jam mirus, niekur kitur neieškoti vietos nei laidotuvėms, nei lau žui, nei kapui, norėdamas, kad ši aikštė ateityje am žinai būtų skiriama valdovams deginti ir jų. Kojelavičius teigia, kad ši vieta, pa vadinta Šventarage (tai yra šventąja aikšte), išsaugojo iki pat Jogailos ir vardą, ir šias pagoniškas apeigas. Kojelavičius teigia, kad visa šitai deramai sutvarkius, mirusiojo valdovo kū nas, aprengtas kario drabužiais, buvo didikų užkeltas ant laužo; jo viršuje, netoli valdovo, sudėjo ginklus, kuriais jis nuolat naudojosi nuo karo tarnybos pradžios: kalaviją, ietį, lanką bei strėlinę su.
+Pasak Kojelavičiaus, Šventaragis paprašė Germanto po jo mirties skirti Neries ir Vilnios santakos lygumą valdovams deginti ir pelenams laidoti. Šventaragiu vadinta vieta iki Jogailos laikų išsaugojo valdovų deginimo ir pelenų laidojimo pagoniškas apeigas. Per valdovo laidotuves didikai ant laužo užkeldavo kario drabužiais aprengtą kūną, o šalia dėdavo jo ginklus, sakalus, šunis, tarną ir žirgą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,25 +29,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185856"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vos užmetus žvilgsnį, ši puiki lyguma taip sužavėjo seneliui širdį, jog jis paprašė Germantą, jam mirus, niekur kitur neieškoti vietos nei laidotuvėms, nei lau žui, nei kapui, norėdamas, kad ši aikštė ateityje am žinai būtų skiriama valdovams deginti ir jų.'
+  global_id: t-185856
+  teiginys: 'Pasak Kojelavičiaus, Šventaragis paprašė Germanto po jo mirties skirti Neries ir Vilnios santakos lygumą valdovams deginti ir pelenams laidoti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185857"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad ši vieta, pa vadinta Šventarage (tai yra šventąja aikšte), išsaugojo iki pat Jogailos ir vardą, ir šias pagoniškas apeigas.'
+  global_id: t-185857
+  teiginys: 'Šventaragiu vadinta vieta iki Jogailos laikų išsaugojo valdovų deginimo ir pelenų laidojimo pagoniškas apeigas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185858"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad visa šitai deramai sutvarkius, mirusiojo valdovo kū nas, aprengtas kario drabužiais, buvo didikų užkeltas ant laužo; jo viršuje, netoli valdovo, sudėjo ginklus, kuriais jis nuolat naudojosi nuo karo tarnybos pradžios: kalaviją, ietį, lanką bei strėlinę su.'
+  global_id: t-185858
+  teiginys: 'Per valdovo laidotuves didikai ant laužo užkeldavo kario drabužiais aprengtą kūną, o šalia dėdavo jo ginklus, sakalus, šunis, tarną ir žirgą.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vos užmetus žvilgsnį, ši puiki lyguma taip sužavėjo seneliui širdį, jog jis paprašė Germantą, jam mirus, niekur kitur neieškoti vietos nei laidotuvėms, nei lau žui, nei kapui, norėdamas, kad ši aikštė ateityje am žinai būtų skiriama valdovams deginti ir jų.'
+  santrauka: 'Pasak Kojelavičiaus, Šventaragis paprašė Germanto po jo mirties skirti Neries ir Vilnios santakos lygumą valdovams deginti ir pelenams laidoti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat Šventaragis, būdama*
@@ -74,7 +79,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad ši vieta, pa vadinta Šventarage (tai yra šventąja aikšte), išsaugojo iki pat Jogailos ir vardą, ir šias pagoniškas apeigas.'
+  santrauka: 'Šventaragiu vadinta vieta iki Jogailos laikų išsaugojo valdovų deginimo ir pelenų laidojimo pagoniškas apeigas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ši vieta, pa­
@@ -104,7 +109,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad visa šitai deramai sutvarkius, mirusiojo valdovo kū nas, aprengtas kario drabužiais, buvo didikų užkeltas ant laužo; jo viršuje, netoli valdovo, sudėjo ginklus, kuriais jis nuolat naudojosi nuo karo tarnybos pradžios: kalaviją, ietį, lanką bei strėlinę su.'
+  santrauka: 'Per valdovo laidotuves didikai ant laužo užkeldavo kario drabužiais aprengtą kūną, o šalia dėdavo jo ginklus, sakalus, šunis, tarną ir žirgą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Visa šitai deramai sutvarkius, mirusiojo valdovo kū­
@@ -136,3 +141,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Germantas]]
+- [[objektai/daiktai/Drabužiai]]
+- [[objektai/asmenys/Šventaragis]]

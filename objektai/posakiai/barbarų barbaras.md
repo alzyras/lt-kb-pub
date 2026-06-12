@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # barbarų barbaras
 
 ## Santrauka
 
-Kojelavičius teigia, kad štai kaip vertino šis žmogus, barbarų barbaras, savo jėgas, štai kaip pasitikėjo sėkme, taip viską perdėda mas, tokį pasipūtėlišką išdidumą rodydamas, kad ne randu nė tinkamo žodžio jo ydoms pavadinti.
+Kojelavičius „barbarų barbaru“ pavadino žmogų, kurio pasitikėjimą sėkme ir pasipūtėlišką išdidumą smerkė.
 
 ## Teiginiai
 
+<a id="claim-t-185475"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad štai kaip vertino šis žmogus, barbarų barbaras, savo jėgas, štai kaip pasitikėjo sėkme, taip viską perdėda mas, tokį pasipūtėlišką išdidumą rodydamas, kad ne randu nė tinkamo žodžio jo ydoms pavadinti.'
+  global_id: t-185475
+  teiginys: 'Kojelavičius „barbarų barbaru“ pavadino žmogų, kurio pasitikėjimą sėkme ir pasipūtėlišką išdidumą smerkė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad štai kaip vertino šis žmogus, barbarų barbaras, savo jėgas, štai kaip pasitikėjo sėkme, taip viską perdėda mas, tokį pasipūtėlišką išdidumą rodydamas, kad ne randu nė tinkamo žodžio jo ydoms pavadinti.'
+  santrauka: 'Kojelavičius „barbarų barbaru“ pavadino žmogų, kurio pasitikėjimą sėkme ir pasipūtėlišką išdidumą smerkė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nestojus
@@ -46,3 +47,7 @@ Kojelavičius teigia, kad štai kaip vertino šis žmogus, barbarų barbaras, sa
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/barbarai]]

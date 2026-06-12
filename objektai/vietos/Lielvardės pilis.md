@@ -12,24 +12,25 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Lielvardės pilis (pilis, XIII a.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad neliko saugi nuo karo tuo metu nė Livonija: ją nuo latos siaubė Mindaugo karvedžiai, ten vyko kovos prie Lielvardės pilies Dauguvos pakrantėse, tačiau kokia norėdamas turėti laisvesnes rankas, atnaujino santarvę su rusais, ir tuo būdu tapo užmegzta rusų ir.
+Mindaugo karvedžių siaubiamoje Livonijoje vyko kovos prie Lielvardės pilies Dauguvos pakrantėse.
 
 ## Teiginiai
 
+<a id="claim-t-185327"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad neliko saugi nuo karo tuo metu nė Livonija: ją nuo latos siaubė Mindaugo karvedžiai, ten vyko kovos prie Lielvardės pilies Dauguvos pakrantėse, tačiau kokia norėdamas turėti laisvesnes rankas, atnaujino santarvę su rusais, ir tuo būdu tapo užmegzta rusų ir.'
+  global_id: t-185327
+  teiginys: 'Mindaugo karvedžių siaubiamoje Livonijoje vyko kovos prie Lielvardės pilies Dauguvos pakrantėse.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad neliko saugi nuo karo tuo metu nė Livonija: ją nuo latos siaubė Mindaugo karvedžiai, ten vyko kovos prie Lielvardės pilies Dauguvos pakrantėse, tačiau kokia norėdamas turėti laisvesnes rankas, atnaujino santarvę su rusais, ir tuo būdu tapo užmegzta rusų ir.'
+  santrauka: 'Mindaugo karvedžių siaubiamoje Livonijoje vyko kovos prie Lielvardės pilies Dauguvos pakrantėse.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­

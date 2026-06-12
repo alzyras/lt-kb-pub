@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-87734"></a>
 - t-001
+  global_id: t-87734
   teiginys: 'Jonas Švitrigaila buvo Trakų kaštelionas, priskirtas Lietuvos didikams.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Raulinaitis, Z.
 
 ## Teiginiai
 
+<a id="claim-t-31088"></a>
 - t-001
+  global_id: t-31088
   teiginys: 'Z. Raulinaitis 1970 m. žurnale „Karys“ paskelbė darbą „Apuolės užpuolimus“.'
   pagrindžia:
     - c-001

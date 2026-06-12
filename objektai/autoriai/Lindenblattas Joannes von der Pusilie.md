@@ -18,17 +18,23 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-88027"></a>
 - t-001
+  global_id: t-88027
   teiginys: 'Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-88028"></a>
 - t-002
+  global_id: t-88028
   teiginys: 'Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88029"></a>
 - t-003
+  global_id: t-88029
   teiginys: '45 Lindenblatto kronikos leidėjai Visevaldės pilį vadina Vižemais.'
   pagrindžia:
     - c-001

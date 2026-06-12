@@ -27,12 +27,16 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
 
 ## Teiginiai
 
+<a id="claim-t-170310"></a>
 - t-001
+  global_id: t-170310
   teiginys: 'Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-170311"></a>
 - t-002
+  global_id: t-170311
   teiginys: '1673 m. Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumušė turkus.'
   pagrindžia:
     - c-002

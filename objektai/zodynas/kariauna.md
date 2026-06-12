@@ -19,7 +19,9 @@ Lietuvos valstybė atsirado pirmiausia kaip apsigynimo priemonė, tačiau ji tur
 
 ## Teiginiai
 
+<a id="claim-t-77797"></a>
 - t-001
+  global_id: t-77797
   teiginys: 'Lietuvos valstybė atsirado pirmiausia kaip apsigynimo priemonė, tačiau ji turėjo remtis kokiu nors visuomenės sluoksniu – tas sluoksnis buvo Mindaugo kariauna, o vieno valdovo įsitvirtinimas yra ryškiausias išorinis valstybės atsiradimo požymis.'
   pagrindžia:
     - c-001

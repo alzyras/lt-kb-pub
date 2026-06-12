@@ -27,12 +27,16 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
 
 ## Teiginiai
 
+<a id="claim-t-30223"></a>
 - t-001
+  global_id: t-30223
   teiginys: 'Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-30224"></a>
 - t-002
+  global_id: t-30224
   teiginys: 'Dlugošas buvo pagrindinis 1409-1411 m. karo šaltinis ir kritiškai vertino Jogailą bei Vytautą.'
   pagrindžia:
     - c-002

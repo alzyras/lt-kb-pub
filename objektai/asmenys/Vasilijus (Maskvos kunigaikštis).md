@@ -6,39 +6,46 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vasilijus (Maskvos kunigaikštis)
 
 ## Santrauka
 
-Kojelavičius teigia, kad vasilijus (Maskvos kunigaikštis) turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti pasitikėjimą; karaliaus pasiuntinybei pas Vytautą vadovauti galop parinko Henriką, mozūrų kunigaikščio Zemovito sūnų, neseniai vainikuotą Plocko vyskupu. Kojelavičius teigia, kad viską apgalvojęs, galop įsakė kavalerijos pul kų vadams paieškoti miškuose ir pelkėse neužkirstų pro peršų ir jomis pasileisti siaubti Vasilijaus valdų. Kojelavičius teigia, kad pasiunti niams primygtinai keliant šitokius reikalavimus ir rodant pavyzdį karaliaus, nesulaikiusio nė vieno belais vio ir uoliausiai vengiančio visko, kas galėtų pakenkti sudarytoms sutartims, Vasilijus atsakė visai ką kita: esą Mykolas Glinskis, jo broliai.
+Vytautas Marienburge surengė palydėtuves dukteriai Sofijai, tekėjusiai už Maskvos kunigaikščio Vasilijaus. Po Vasilijaus valdų nusiaubimo Vasilijus turėjo prašyti taikos ir pažadėti neremti Švitrigailos. Vasilijus nurodė paleisti nelaisvėje buvusius lietuvius, bet sulaikė Mikalojų Glebavičių.
 
 ## Teiginiai
 
+<a id="claim-t-185992"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vasilijus (Maskvos kunigaikštis) turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti pasitikėjimą; karaliaus pasiuntinybei pas Vytautą vadovauti galop parinko Henriką, mozūrų kunigaikščio Zemovito sūnų, neseniai vainikuotą Plocko vyskupu.'
+  global_id: t-185992
+  teiginys: 'Vytautas Marienburge surengė palydėtuves dukteriai Sofijai, tekėjusiai už Maskvos kunigaikščio Vasilijaus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185993"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad viską apgalvojęs, galop įsakė kavalerijos pul kų vadams paieškoti miškuose ir pelkėse neužkirstų pro peršų ir jomis pasileisti siaubti Vasilijaus valdų.'
+  global_id: t-185993
+  teiginys: 'Po Vasilijaus valdų nusiaubimo Vasilijus turėjo prašyti taikos ir pažadėti neremti Švitrigailos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185994"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad pasiunti niams primygtinai keliant šitokius reikalavimus ir rodant pavyzdį karaliaus, nesulaikiusio nė vieno belais vio ir uoliausiai vengiančio visko, kas galėtų pakenkti sudarytoms sutartims, Vasilijus atsakė visai ką kita: esą Mykolas Glinskis, jo broliai.'
+  global_id: t-185994
+  teiginys: 'Vasilijus nurodė paleisti nelaisvėje buvusius lietuvius, bet sulaikė Mikalojų Glebavičių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185995"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad šitokios ir panašios paskalos, iš pradžių sklidusios tarp eilinių žmonių, o vėliau dūmoje, įtikino, paties Vasilijaus patvirtintos, ir Vasilijaus brolius, ir kitus didikus, kurie vieningai nu sprendė, kad reikia užbėgti Žygimantui už akių ir pra dėti karą.'
+  global_id: t-185995
+  teiginys: 'Vasilijus raštu paskelbė karą Žygimantui, nors Glinskis jau buvo įsiveržęs į Lietuvos žemes.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vasilijus (Maskvos kunigaikštis) turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti pasitikėjimą; karaliaus pasiuntinybei pas Vytautą vadovauti galop parinko Henriką, mozūrų kunigaikščio Zemovito sūnų, neseniai vainikuotą Plocko vyskupu.'
+  santrauka: 'Vytautas Marienburge surengė palydėtuves dukteriai Sofijai, tekėjusiai už Maskvos kunigaikščio Vasilijaus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Priėmus nutarimą, ieškota žmogaus, kuriam be
@@ -68,7 +75,7 @@ Kojelavičius teigia, kad vasilijus (Maskvos kunigaikštis) turėtų kryžiuoči
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad viską apgalvojęs, galop įsakė kavalerijos pul kų vadams paieškoti miškuose ir pelkėse neužkirstų pro peršų ir jomis pasileisti siaubti Vasilijaus valdų.'
+  santrauka: 'Po Vasilijaus valdų nusiaubimo Vasilijus turėjo prašyti taikos ir pažadėti neremti Švitrigailos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Viską apgalvojęs, galop įsakė kavalerijos pul­
@@ -95,7 +102,7 @@ Kojelavičius teigia, kad vasilijus (Maskvos kunigaikštis) turėtų kryžiuoči
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad pasiunti niams primygtinai keliant šitokius reikalavimus ir rodant pavyzdį karaliaus, nesulaikiusio nė vieno belais vio ir uoliausiai vengiančio visko, kas galėtų pakenkti sudarytoms sutartims, Vasilijus atsakė visai ką kita: esą Mykolas Glinskis, jo broliai.'
+  santrauka: 'Vasilijus nurodė paleisti nelaisvėje buvusius lietuvius, bet sulaikė Mikalojų Glebavičių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Be
@@ -123,7 +130,7 @@ Kojelavičius teigia, kad vasilijus (Maskvos kunigaikštis) turėtų kryžiuoči
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad šitokios ir panašios paskalos, iš pradžių sklidusios tarp eilinių žmonių, o vėliau dūmoje, įtikino, paties Vasilijaus patvirtintos, ir Vasilijaus brolius, ir kitus didikus, kurie vieningai nu sprendė, kad reikia užbėgti Žygimantui už akių ir pra dėti karą.'
+  santrauka: 'Vasilijus raštu paskelbė karą Žygimantui, nors Glinskis jau buvo įsiveržęs į Lietuvos žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitokios ir panašios
@@ -141,3 +148,14 @@ Kojelavičius teigia, kad vasilijus (Maskvos kunigaikštis) turėtų kryžiuoči
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- [[objektai/ivykiai/Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)]]

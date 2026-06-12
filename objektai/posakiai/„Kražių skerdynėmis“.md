@@ -24,12 +24,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-20847"></a>
 - t-001
+  global_id: t-20847
   teiginys: 'Sužeidimų, žūčių ir išprievartavimų lydėtus Kražių įvykius liaudis pavadino „Kražių skerdynėmis“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183494"></a>
 - t-002
+  global_id: t-183494
   teiginys: '1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.'
   pagrindžia:
     - c-001

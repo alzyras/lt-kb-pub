@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Fiurstenbergo puolimas prieš Rygos arkivyskupą Vilhelmą ir jo įkalinimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad kapituliacijos sąlygos nebuvo sun kios, bet Fiurstenbergas nei duoto žodžio laikėsi, nei Vilhelmo kilmingumo paisė: kai šį atvilko magistro ša lininkai, įsakė, visaip iš jo pasityčiojęs, įmesti į kalė jimą ir jėga užėmė kitas jo pilis, nors žadėjo to neda.
+Fiurstenbergas po Kuoknesės kapituliacijos įkalino Rygos arkivyskupą Vilhelmą ir jėga užėmė kitas jo pilis.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185567"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kapituliacijos sąlygos nebuvo sun kios, bet Fiurstenbergas nei duoto žodžio laikėsi, nei Vilhelmo kilmingumo paisė: kai šį atvilko magistro ša lininkai, įsakė, visaip iš jo pasityčiojęs, įmesti į kalė jimą ir jėga užėmė kitas jo pilis, nors žadėjo to neda.'
+  global_id: t-185567
+  teiginys: 'Fiurstenbergas po Kuoknesės kapituliacijos įkalino Rygos arkivyskupą Vilhelmą ir jėga užėmė kitas jo pilis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kapituliacijos sąlygos nebuvo sun kios, bet Fiurstenbergas nei duoto žodžio laikėsi, nei Vilhelmo kilmingumo paisė: kai šį atvilko magistro ša lininkai, įsakė, visaip iš jo pasityčiojęs, įmesti į kalė jimą ir jėga užėmė kitas jo pilis, nors žadėjo to neda.'
+  santrauka: 'Fiurstenbergas po Kuoknesės kapituliacijos įkalino Rygos arkivyskupą Vilhelmą ir jėga užėmė kitas jo pilis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Daugybė bajorų stojo už teisybę bei arki­
@@ -59,3 +60,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/magistras]]

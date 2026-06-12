@@ -17,7 +17,9 @@ Atsitokėjusi kairioji opozicija dar pabandė perversmininkų stiliumi grąžint
 
 ## Teiginiai
 
+<a id="claim-t-19016"></a>
 - t-001
+  global_id: t-19016
   teiginys: '1927 m. pavasarį apie Seimo narį Juozą Pajaujį susibūrusios grupės perversmo planas žlugo suėmus J. Pajaujį.'
   pagrindžia:
     - c-001

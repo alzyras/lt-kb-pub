@@ -9,7 +9,6 @@ atnaujinta: ''
 tags:
   - vieta
 ---
-
 # Možaiskas
 
 ## Santrauka
@@ -18,33 +17,45 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
 
 ## Teiginiai
 
+<a id="claim-t-02612"></a>
 - t-001
+  global_id: t-02612
   teiginys: 'Možaiskas buvo Lietuvos sąjungininkas, kurį Maskva privertė pasiduoti jos valdžiai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185053"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kai žvalgai pra nešė, jog netoliese esąs didelis miestas Možaiskas, Al girdas, leidęs kariams šiek tiek pailsėti, surikiavo juos kautynių tvarka ir išvedė į atvirą vieškelį.'
+  global_id: t-185053
+  teiginys: 'Žvalgams pranešus apie netoliese esantį Možaiską, Algirdas surikiavo karius kautynių tvarka ir išvedė į vieškelį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185054"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad tą pačią naktį, skirtą paminėti Kristaus iš numirusių prisikėlimui ir krikščionių kasmet iškilmingai švenčiamą, kai kuni gaikštis ėjo bažnyčion į naktines pamaldas, prie jo pribėgo žygūnas, pasakė, kas jam buvo liepta, ir pra nešė, kad priešą palikęs Možaiske.'
+  global_id: t-185054
+  teiginys: 'Žygūnas per naktines pamaldas pranešė kunigaikščiui, kad priešą paliko Možaiske.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185055"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad lietuvos sienos būsiančios praplėstos li gi Možaisko ir Ugros upės.'
+  global_id: t-185055
+  teiginys: 'Pagal taikos sąlygas Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-185056"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad pirmoji pasiuntinybė patraukė į Možaiską tik tada, kai gavo žinią, jog karaliaus legatai Smo lenske.'
+  global_id: t-185056
+  teiginys: 'Pirmoji pasiuntinybė patraukė į Možaiską tik gavusi žinią, kad karaliaus legatai yra Smolenske.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-185057"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad pritrenktas šios žinios, Vasilijus įsakė sulaikyti kara liaus pasiuntinius Možaiske.'
+  global_id: t-185057
+  teiginys: 'Vasilijus įsakė sulaikyti karaliaus pasiuntinius Možaiske, kai Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą.'
   pagrindžia:
     - c-006
 
@@ -66,7 +77,7 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kai žvalgai pra nešė, jog netoliese esąs didelis miestas Možaiskas, Al girdas, leidęs kariams šiek tiek pailsėti, surikiavo juos kautynių tvarka ir išvedė į atvirą vieškelį.'
+  santrauka: 'Žvalgams pranešus apie netoliese esantį Možaiską, Algirdas surikiavo karius kautynių tvarka ir išvedė į vieškelį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Visiems įsakė nieko nedeginti ir
@@ -86,7 +97,7 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad tą pačią naktį, skirtą paminėti Kristaus iš numirusių prisikėlimui ir krikščionių kasmet iškilmingai švenčiamą, kai kuni gaikštis ėjo bažnyčion į naktines pamaldas, prie jo pribėgo žygūnas, pasakė, kas jam buvo liepta, ir pra nešė, kad priešą palikęs Možaiske.'
+  santrauka: 'Žygūnas per naktines pamaldas pranešė kunigaikščiui, kad priešą paliko Možaiske.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nuo
@@ -112,7 +123,7 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad lietuvos sienos būsiančios praplėstos li gi Možaisko ir Ugros upės.'
+  santrauka: 'Pagal taikos sąlygas Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip, kadangi ir Maskvos valdovas nepaprastai bi­
@@ -135,7 +146,7 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad pirmoji pasiuntinybė patraukė į Možaiską tik tada, kai gavo žinią, jog karaliaus legatai Smo lenske.'
+  santrauka: 'Pirmoji pasiuntinybė patraukė į Možaiską tik gavusi žinią, kad karaliaus legatai yra Smolenske.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Suderinę su karaliumi savo planus,
@@ -154,7 +165,7 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad pritrenktas šios žinios, Vasilijus įsakė sulaikyti kara liaus pasiuntinius Možaiske.'
+  santrauka: 'Vasilijus įsakė sulaikyti karaliaus pasiuntinius Možaiske, kai Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Be to, sutarė teismų reikalus sutvarkyti iki

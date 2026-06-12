@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-36772"></a>
 - t-001
+  global_id: t-36772
   teiginys: 'Zigmanto šalininkas teigė, kad ir neapkarūnuotas ciesorius turi teisę teikti investitūrą karaliams.'
   pagrindžia:
     - c-001

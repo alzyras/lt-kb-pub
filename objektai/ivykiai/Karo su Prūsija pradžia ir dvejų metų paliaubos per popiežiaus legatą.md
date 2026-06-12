@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Karo su Prūsija pradžia ir dvejų metų paliaubos per popiežiaus legatą
 
 ## Santrauka
 
-Kojelavičius teigia, kad lenkų ir lietuvių kariuoPrūsija menės, peržengusios sienas, netruko įsiveržti į šį kraštą; visi, o ypač valdovai Jogaila bei Vytautas, ketino ne gailint jėgų pergalingai užbaigti ilgą ir sunkų karą, trokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams liktų.
+Karo su Prūsija pradžioje lenkų ir lietuvių kariuomenės peržengė sienas ir įsiveržė į Prūsiją.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185711"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad lenkų ir lietuvių kariuoPrūsija menės, peržengusios sienas, netruko įsiveržti į šį kraštą; visi, o ypač valdovai Jogaila bei Vytautas, ketino ne gailint jėgų pergalingai užbaigti ilgą ir sunkų karą, trokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams liktų.'
+  global_id: t-185711
+  teiginys: 'Karo su Prūsija pradžioje lenkų ir lietuvių kariuomenės peržengė sienas ir įsiveržė į Prūsiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad lenkų ir lietuvių kariuoPrūsija menės, peržengusios sienas, netruko įsiveržti į šį kraštą; visi, o ypač valdovai Jogaila bei Vytautas, ketino ne gailint jėgų pergalingai užbaigti ilgą ir sunkų karą, trokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams liktų.'
+  santrauka: 'Karo su Prūsija pradžioje lenkų ir lietuvių kariuomenės peržengė sienas ir įsiveržė į Prūsiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atsi­
@@ -59,3 +60,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Švitrigaila]]

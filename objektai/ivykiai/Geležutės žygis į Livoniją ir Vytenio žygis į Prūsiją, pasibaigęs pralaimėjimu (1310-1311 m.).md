@@ -13,12 +13,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad pats Vytenis, sun kiai į galvą sužeistas, palikęs stovyklą ir kariuomenę, vargais negalais, dviejų karių lydimas, paspruko nuo priešo ir išvengė tykančių pavojų.
+Po pralaimėjimo kryžiuočiams sunkiai į galvą sužeistas Vytenis paliko stovyklą ir kariuomenę, bet dviejų karių lydimas paspruko.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -34,15 +33,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185506"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pats Vytenis, sun kiai į galvą sužeistas, palikęs stovyklą ir kariuomenę, vargais negalais, dviejų karių lydimas, paspruko nuo priešo ir išvengė tykančių pavojų.'
+  global_id: t-185506
+  teiginys: 'Po pralaimėjimo kryžiuočiams sunkiai į galvą sužeistas Vytenis paliko stovyklą ir kariuomenę, bet dviejų karių lydimas paspruko.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pats Vytenis, sun kiai į galvą sužeistas, palikęs stovyklą ir kariuomenę, vargais negalais, dviejų karių lydimas, paspruko nuo priešo ir išvengė tykančių pavojų.'
+  santrauka: 'Po pralaimėjimo kryžiuočiams sunkiai į galvą sužeistas Vytenis paliko stovyklą ir kariuomenę, bet dviejų karių lydimas paspruko.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vos brėkštant dienai, lietuvius iš visų
@@ -61,3 +62,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vytenis]]

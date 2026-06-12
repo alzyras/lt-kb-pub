@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59693"></a>
 - t-001
+  global_id: t-59693
   teiginys: 'Dusburgietis teigia, kad kunigas uoliai padarė, ko prašomas, ir apsidairęs išvydo kojūgalyje medinį kryžių, kurį šis sūduvis buvo liepęs padirbdinti.'
   pagrindžia:
     - c-001

@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-11542"></a>
 - t-001
+  global_id: t-11542
   teiginys: 'Iš pirmosios katedros išlikęs didžiojo altoriaus kryžius.'
   pagrindžia:
     - c-001

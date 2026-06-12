@@ -19,32 +19,44 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-67534"></a>
 - t-001
+  global_id: t-67534
   teiginys: '1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu buvo pasirašyta taikos sutartis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67535"></a>
 - t-002
+  global_id: t-67535
   teiginys: 'Salyno sutartyje buvo minimi tik nelaisvieji valstiečiai, todėl Vytautas teigė, kad laisvieji galėjo kilnotis kur tinkami.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-67536"></a>
 - t-003
+  global_id: t-67536
   teiginys: 'Salyno sutartis buvo sudaryta Vytauto autoritetu, o Jogaila joje nebuvo minimas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67537"></a>
 - t-004
+  global_id: t-67537
   teiginys: 'Po Salyno sutarties žemaičiai taip pat nepasidavė geruoju: juos teko jėga pavergti.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-67538"></a>
 - t-005
+  global_id: t-67538
   teiginys: 'Kai šis apsiėmė laikytis Salyno sutarties, ordinas pradėjo karą, norėdamas pašalinti Vytautą ir jo vietoje pastatyti Švitrigailą.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-67539"></a>
 - t-006
+  global_id: t-67539
   teiginys: 'Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas).'
   pagrindžia:
     - c-001

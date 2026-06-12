@@ -22,7 +22,9 @@ Krakių vlsč.
 
 ## Teiginiai
 
+<a id="claim-t-38492"></a>
 - t-001
+  global_id: t-38492
   teiginys: '1949 m. sausio 26 d. Krakių valsčiaus Lenčių miške MGB vidaus kariuomenė puolė partizanų stovyklavietę.'
   pagrindžia:
     - c-001

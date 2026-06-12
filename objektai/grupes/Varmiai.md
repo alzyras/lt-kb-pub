@@ -27,62 +27,86 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 
 ## Teiginiai
 
+<a id="claim-t-78535"></a>
 - t-001
+  global_id: t-78535
   teiginys: '1274 m. varmiai kartu su pagudėnais, notangais, bartais ir sembais grįžo į Bažnyčios vienybę ir davė įkaitų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-78536"></a>
 - t-002
+  global_id: t-78536
   teiginys: 'Dusburgietis teigia, kad išžudžius vadus ir kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-78537"></a>
 - t-003
+  global_id: t-78537
   teiginys: 'Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-78538"></a>
 - t-004
+  global_id: t-78538
   teiginys: '1260 m. Klaipėdoje varmiai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-78539"></a>
 - t-005
+  global_id: t-78539
   teiginys: 'Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs visą savo kariuomenę, apsiautė Baigos pilį ir, būdamas viršininkas, įsigeidė pats kaip karo vadas kitų akivaizdoje pasižymėti kovoje, tačiau.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-78540"></a>
 - t-006
+  global_id: t-78540
   teiginys: 'Dusburgietis teigia, kad apie varmių, notangų ir bartų pavergimą ir kelių pilių pastatymą Varmės, Notangos ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė tikėjimui ir.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-78541"></a>
 - t-007
+  global_id: t-78541
   teiginys: 'Po prūsų atkritimo nuo tikėjimo varmiai savo kariuomenės vadu ir vyresniuoju išsirinko Glapą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-78542"></a>
 - t-008
+  global_id: t-78542
   teiginys: 'Dusburgietis teigia, kad ketvirta — Varmė194, kurioje [gyveno] varmiai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78544"></a>
 - t-009
+  global_id: t-78544
   teiginys: 'Dusburgietis teigia, kad kai šitai sužinojo notangai ir varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-78545"></a>
 - t-010
+  global_id: t-78545
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas Tuo metu daug kilmingų ir galingų Varmės vyrų, matydami, kad dievas padeda kovoti broliams, pajuto tokią didelę sąžinės graužatį, kad su namais bei savo šeimynomis246 persikėlė pas Baigos brolius, o šie.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78546"></a>
 - t-011
+  global_id: t-78546
   teiginys: 'Dusburgietis teigia, kad varmės vardas greičiausiai yra upėvardinės kilmės, plg.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78547"></a>
 - t-012
+  global_id: t-78547
   teiginys: 'Dusburgietis teigia, kad nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.'
   pagrindžia:
     - c-012

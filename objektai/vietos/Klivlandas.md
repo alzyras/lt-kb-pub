@@ -16,7 +16,9 @@ Smetona žuvo Klivlande per gaisrą.
 
 ## Teiginiai
 
+<a id="claim-t-15274"></a>
 - t-001
+  global_id: t-15274
   teiginys: '1944 m. sausį Antanas Smetona žuvo Klivlande per gaisrą.'
   pagrindžia:
     - c-001

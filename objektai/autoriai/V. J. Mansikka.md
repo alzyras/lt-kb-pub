@@ -24,7 +24,9 @@ Mansikka, V.
 
 ## Teiginiai
 
+<a id="claim-t-31028"></a>
 - t-001
+  global_id: t-31028
   teiginys: 'V. J. Mansikka 1922 m. Helsinkyje paskelbė šaltinių tomą apie rytų slavų religiją.'
   pagrindžia:
     - c-001

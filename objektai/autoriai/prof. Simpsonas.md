@@ -16,7 +16,9 @@ Smetona), kurios savo konferencijose, tarpininkaujant škotui prof. Simpsonui, i
 
 ## Teiginiai
 
+<a id="claim-t-01171"></a>
 - t-001
+  global_id: t-01171
   teiginys: 'Škotas prof. Simpsonas tarpininkavo komisijų konferencijose, kurios išvedė sieną nedaug nutoldamos nuo buvusios gubernijos sienos.'
   pagrindžia:
     - c-001

@@ -27,27 +27,37 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
 
 ## Teiginiai
 
+<a id="claim-t-169957"></a>
 - t-001
+  global_id: t-169957
   teiginys: 'Merkio paskirti artimą krikščionims demokratams gen.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-169958"></a>
 - t-002
+  global_id: t-169958
   teiginys: 'Maskva pakvietė atvykti Lietuvos ministrą pirmininką Antaną Merkį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169959"></a>
 - t-003
+  global_id: t-169959
   teiginys: 'LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Antano Merkio vyriausybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169961"></a>
 - t-004
+  global_id: t-169961
   teiginys: 'Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-169962"></a>
 - t-005
+  global_id: t-169962
   teiginys: 'Merkys palūžo psichologiškai.'
   pagrindžia:
     - c-002

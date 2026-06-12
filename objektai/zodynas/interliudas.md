@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-22167"></a>
 - t-001
+  global_id: t-22167
   teiginys: '1812 m. antrojoje pusėje Lietuvos priklausymą Rusijos imperijai pusmečiui pertraukė Napoleono Bonaparto interliudas.'
   pagrindžia:
     - c-001

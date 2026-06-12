@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87617"></a>
 - t-001
+  global_id: t-87617
   teiginys: '1432 metais Aleksas Jefremovičius su Joachimu ir Pskovo bojarinais atvyko pas Švitrigailą sudaryti sutarties.'
   pagrindžia:
     - c-001

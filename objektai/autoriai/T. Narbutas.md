@@ -14,24 +14,25 @@ amziai:
 periodo_grupes:
   - 'XX a.'
 ---
-
 # T. Narbutas
 
 ## Santrauka
 
-Kojelavičius teigia, kad narbuto — vienu iš savo vadovų (plg.
+S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų.
 
 ## Teiginiai
 
+<a id="claim-t-186292"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad narbuto — vienu iš savo vadovų (plg.'
+  global_id: t-186292
+  teiginys: 'S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad narbuto — vienu iš savo vadovų (plg.'
+  santrauka: 'S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lietuvos istorija

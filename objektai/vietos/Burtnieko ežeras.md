@@ -17,7 +17,9 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
 
 ## Teiginiai
 
+<a id="claim-t-32097"></a>
 - t-001
+  global_id: t-32097
   teiginys: 'XII–XIII a. sandūroje latvių gyvenama rytinė Vidžemės dalis siekė Burtnieko ežerą.'
   pagrindžia:
     - c-001

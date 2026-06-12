@@ -25,17 +25,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-23398"></a>
 - t-001
+  global_id: t-23398
   teiginys: '„Kurier Litewski“ pradėjo eiti 1760 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23399"></a>
 - t-002
+  global_id: t-23399
   teiginys: '„Kurier Litewski“ pradėjo eiti 1760 m. kaip vienas pirmųjų Lietuvos laikraščių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23400"></a>
 - t-003
+  global_id: t-23400
   teiginys: 'Beveik vienu metu iškilo du nauji Lietuvos kultūros reiškiniai – 1759 m. išleistas pirmasis lietuvių kalbos elementorius, o 1760 m. pradėjo eiti pirmieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.'
   pagrindžia:
     - c-001

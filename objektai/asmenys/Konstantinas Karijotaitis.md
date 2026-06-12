@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Konstantinas Karijotaitis
 
 ## Santrauka
 
-Kojelavičius teigia, kad kurie ne kurie metraštininkai tei gia, jog į šį garbingą postą buvęs kviečiamas, suta riant ir karaliui, ir senatui, Konstantinas Karijotaitis, Algirdo brolėnas.
+Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas tapti sosto įpėdiniu, pritarus karaliui Kazimierui ir lenkų senatui.
 
 ## Teiginiai
 
+<a id="claim-t-186055"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kurie ne kurie metraštininkai tei gia, jog į šį garbingą postą buvęs kviečiamas, suta riant ir karaliui, ir senatui, Konstantinas Karijotaitis, Algirdo brolėnas.'
+  global_id: t-186055
+  teiginys: 'Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas tapti sosto įpėdiniu, pritarus karaliui Kazimierui ir lenkų senatui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kurie ne kurie metraštininkai tei gia, jog į šį garbingą postą buvęs kviečiamas, suta riant ir karaliui, ir senatui, Konstantinas Karijotaitis, Algirdo brolėnas.'
+  santrauka: 'Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas tapti sosto įpėdiniu, pritarus karaliui Kazimierui ir lenkų senatui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Beveik tuo pat metu karalius
@@ -42,3 +43,11 @@ Kojelavičius teigia, kad kurie ne kurie metraštininkai tei gia, jog į šį ga
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lenkų senatas]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/senatas]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]

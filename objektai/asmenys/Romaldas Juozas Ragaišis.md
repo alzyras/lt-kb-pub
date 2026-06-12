@@ -16,7 +16,9 @@ Organizacijai priklausė būrys prieš sovietų santvarką kovojusių asmenų, k
 
 ## Teiginiai
 
+<a id="claim-t-19206"></a>
 - t-001
+  global_id: t-19206
   teiginys: 'Romaldas Juozas Ragaišis priklausė prieš sovietų santvarką kovojusiai organizacijai ir buvo tris kartus teistas.'
   pagrindžia:
     - c-001

@@ -23,7 +23,9 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
 
 ## Teiginiai
 
+<a id="claim-t-21175"></a>
 - t-001
+  global_id: t-21175
   teiginys: 'Lietuva neutralumo įstatymą ratifikavo 1939 m. sausio 10 d., bet toliau manevravo tarp Varšuvos, Maskvos ir Berlyno.'
   pagrindžia:
     - c-001

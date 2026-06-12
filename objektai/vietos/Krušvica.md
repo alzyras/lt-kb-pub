@@ -17,7 +17,9 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
 
 ## Teiginiai
 
+<a id="claim-t-86081"></a>
 - t-001
+  global_id: t-86081
   teiginys: 'Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbinBandtk.'
   pagrindžia:
     - c-001

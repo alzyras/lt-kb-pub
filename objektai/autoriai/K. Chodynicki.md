@@ -25,12 +25,16 @@ Chodynicki 1926, sulaukdamas kitų tyrinėtojų pritarimo. Chodynicki, K. Chodyn
 
 ## Teiginiai
 
+<a id="claim-t-30729"></a>
 - t-001
+  global_id: t-30729
   teiginys: 'K. Chodynicki 1926 m. paskelbė darbą „Geneza dynastii Giedymina“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-30731"></a>
 - t-002
+  global_id: t-30731
   teiginys: 'K. Chodynicki gynė Gedimino laiškų autentiškumą.'
   pagrindžia:
     - c-001

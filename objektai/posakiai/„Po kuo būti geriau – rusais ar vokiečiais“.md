@@ -19,12 +19,16 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
 
 ## Teiginiai
 
+<a id="claim-t-20865"></a>
 - t-001
+  global_id: t-20865
   teiginys: 'Mintis „Po kuo būti geriau – rusais ar vokiečiais“ reiškė mažos valstybės realių galimybių įvertinimą, o ne išankstinį pasidavimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183501"></a>
 - t-002
+  global_id: t-183501
   teiginys: 'Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstinio pasidavimo nuotaikų, o tik mažos valstybės realių galimybių įvertinimą – problema karštai kedenta ne tik kavinėse, bet ir prezidentūroje – daugelis Europos valstybių jau buvo nacių.'
   pagrindžia:
     - c-002

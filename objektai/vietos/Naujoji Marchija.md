@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-36435"></a>
 - t-001
+  global_id: t-36435
   teiginys: 'Naujosios Marchijos šaltyšius pranešė, kad lenkų kariuomenė buvo išsirikiavusi per kelias mylias.'
   pagrindžia:
     - c-001

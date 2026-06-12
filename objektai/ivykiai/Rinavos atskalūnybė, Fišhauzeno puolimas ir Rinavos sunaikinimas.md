@@ -34,22 +34,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-89394"></a>
 - t-001
+  global_id: t-89394
   teiginys: 'Rinavos valsčiaus sembai atkrito nuo tikėjimo, subūrė kariuomenę ir užpuolė Sembos vyskupo Fišhauzeno pilį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89395"></a>
 - t-002
+  global_id: t-89395
   teiginys: 'Rinavos sembai mėgino pulti Fišhauzeno pilį, bet pasitraukė nepasiekę tikslo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89396"></a>
 - t-003
+  global_id: t-89396
   teiginys: 'Dusburgietis teigia, kad apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė kariuomenę ir, įsibrovę į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su visu jų turtu išsivarė su.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89397"></a>
 - t-004
+  global_id: t-89397
   teiginys: 'Dusburgietis teigia, kad apie Rinavos valsčiaus sembų naują atskalūnybę Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės, sukurstė tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.'
   pagrindžia:
     - c-002

@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31447"></a>
 - t-001
+  global_id: t-31447
   teiginys: '1298 m. į Rygą atvykę Lietuvos pasiuntiniai pareiškė, kad lietuviai nori jungtis su krikščionimis ir krikštytis.'
   pagrindžia:
     - c-001

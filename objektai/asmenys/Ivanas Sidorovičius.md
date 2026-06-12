@@ -27,7 +27,9 @@ Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant dideli�
 
 ## Teiginiai
 
+<a id="claim-t-87909"></a>
 - t-001
+  global_id: t-87909
   teiginys: 'Ivanas Sidorovičius buvo Pskovo bojarinas, atvykęs į Vilnių prašyti Vytauto paleisti belaisvius.'
   pagrindžia:
     - c-001

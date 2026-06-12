@@ -38,27 +38,37 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
 
 ## Teiginiai
 
+<a id="claim-t-58792"></a>
 - t-001
+  global_id: t-58792
   teiginys: 'Dusburgietis teigia, kad prūsų, Prūsijos vardo kilmė nėra aiški.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58793"></a>
 - t-002
+  global_id: t-58793
   teiginys: 'Dusburgietis teigia, kad 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1, Nr. 52, p. 38 ir kt.).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58794"></a>
 - t-003
+  global_id: t-58794
   teiginys: 'Dusburgietis teigia, kad dėl prūsų.., p. 372—373; prūsis, prūsas iš pradžių galėjo būti vadinami išprusę, išsilavinę, daug žiną žmonės, plg.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-58795"></a>
 - t-004
+  global_id: t-58795
   teiginys: 'XII–XIII a. istoriniuose aktuose Prūsijos vardas dar nebuvo nusistovėjęs ir rašytas keliomis formomis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58796"></a>
 - t-005
+  global_id: t-58796
   teiginys: 'Lietuviai prūsų kraštą vadino Prūsais, Prūsa, Prūsų žeme ir sulotynintu vardu Prūsija.'
   pagrindžia:
     - c-004

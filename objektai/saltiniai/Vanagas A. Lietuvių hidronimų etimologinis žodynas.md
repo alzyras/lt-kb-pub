@@ -22,7 +22,9 @@ Dusburgietis teigia, kad vanagas A.
 
 ## Teiginiai
 
+<a id="claim-t-61344"></a>
 - t-001
+  global_id: t-61344
   teiginys: 'A. Vanago „Lietuvių hidronimų etimologinis žodynas“ išleistas Vilniuje 1981 m.'
   pagrindžia:
     - c-001

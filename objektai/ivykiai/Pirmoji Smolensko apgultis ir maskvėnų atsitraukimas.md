@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Pirmoji Smolensko apgultis ir maskvėnų atsitraukimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad 5 64 r Šie maskvėnų žodžiai visai neatitiko jų darbų. Kojelavičius teigia, kad maskvėnai be galo ryžtingai užpuolė Smolenską; kai sudaužė sienas, be vargo galėjo įeiti į miestą.
+Vasaros pabaigoje Ivano sūnus Dimitrijus Žilka su stipria kariuomene perėjo sieną ir apsupo Smolenską. Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo įeiti į miestą, bet pilies neužėmė.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185637"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad 5 64 r Šie maskvėnų žodžiai visai neatitiko jų darbų.'
+  global_id: t-185637
+  teiginys: 'Vasaros pabaigoje Ivano sūnus Dimitrijus Žilka su stipria kariuomene perėjo sieną ir apsupo Smolenską.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185638"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad maskvėnai be galo ryžtingai užpuolė Smolenską; kai sudaužė sienas, be vargo galėjo įeiti į miestą.'
+  global_id: t-185638
+  teiginys: 'Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo įeiti į miestą, bet pilies neužėmė.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad 5 64 r Šie maskvėnų žodžiai visai neatitiko jų darbų.'
+  santrauka: 'Vasaros pabaigoje Ivano sūnus Dimitrijus Žilka su stipria kariuomene perėjo sieną ir apsupo Smolenską.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     5 64
@@ -66,7 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad maskvėnai be galo ryžtingai užpuolė Smolenską; kai sudaužė sienas, be vargo galėjo įeiti į miestą.'
+  santrauka: 'Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo įeiti į miestą, bet pilies neužėmė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kariuo­
@@ -82,3 +85,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Dimitrijus]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/asmenys/Sologubas]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/įgula]]

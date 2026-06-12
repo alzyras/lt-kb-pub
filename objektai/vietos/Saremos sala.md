@@ -24,7 +24,9 @@ Suomijos įlanka, „ 5 1558 m. Maskvos kariuomenė užėmė dalį Livonijos kon
 
 ## Teiginiai
 
+<a id="claim-t-38643"></a>
 - t-001
+  global_id: t-38643
   teiginys: '1558 m. Maskvos kariuomenei užėmus dalį Livonijos konfederacijos, Danija užvaldė Saremos salą.'
   pagrindžia:
     - c-001

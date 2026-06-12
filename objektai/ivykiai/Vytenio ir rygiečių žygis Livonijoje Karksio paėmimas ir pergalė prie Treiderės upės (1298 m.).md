@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad mat, nors pats Vytenis ir nepatraukė su kariuomene į Livoniją, bet galima buvo tikėtis, kad rygiečiai, vieni nepajėgūs kariauti, kviesis jį į ginkluotą sandraugą, žadėdami di delį atlyginimą. Kojelavičius teigia, kad pavijęs siaubėjus ne toli Livonijos įlankos, magistras Brunonas nirtulingai juos užpuolė prie Treiderės upės, jau apsikrovusius grobiu. Kojelavičius teigia, kad kadangi iš užpakalio buvo jūra, vienoje pusėje trukdė Treiderės upė, o kitoje pusėje ir priekyje puolė priešai, jie turėjo kariauti, nes ne buvo jokios vilties pabėgti.
+1298 m. rygiečiams pažadėjus atlyginimą, Vytenis sutelkė kariuomenę ir pagrindines pajėgas atvedė prie Karksio. Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius Vytenio karius. Prie Treiderės upės lietuviai atrėmė kryžiuočių puolimą, privertė juos bėgti, o mūšyje žuvo magistras Brunonas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,25 +32,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185672"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mat, nors pats Vytenis ir nepatraukė su kariuomene į Livoniją, bet galima buvo tikėtis, kad rygiečiai, vieni nepajėgūs kariauti, kviesis jį į ginkluotą sandraugą, žadėdami di delį atlyginimą.'
+  global_id: t-185672
+  teiginys: '1298 m. rygiečiams pažadėjus atlyginimą, Vytenis sutelkė kariuomenę ir pagrindines pajėgas atvedė prie Karksio.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185673"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad pavijęs siaubėjus ne toli Livonijos įlankos, magistras Brunonas nirtulingai juos užpuolė prie Treiderės upės, jau apsikrovusius grobiu.'
+  global_id: t-185673
+  teiginys: 'Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius Vytenio karius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185674"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad kadangi iš užpakalio buvo jūra, vienoje pusėje trukdė Treiderės upė, o kitoje pusėje ir priekyje puolė priešai, jie turėjo kariauti, nes ne buvo jokios vilties pabėgti.'
+  global_id: t-185674
+  teiginys: 'Prie Treiderės upės lietuviai atrėmė kryžiuočių puolimą, privertė juos bėgti, o mūšyje žuvo magistras Brunonas.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mat, nors pats Vytenis ir nepatraukė su kariuomene į Livoniją, bet galima buvo tikėtis, kad rygiečiai, vieni nepajėgūs kariauti, kviesis jį į ginkluotą sandraugą, žadėdami di delį atlyginimą.'
+  santrauka: '1298 m. rygiečiams pažadėjus atlyginimą, Vytenis sutelkė kariuomenę ir pagrindines pajėgas atvedė prie Karksio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat, nors
@@ -90,7 +95,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad pavijęs siaubėjus ne toli Livonijos įlankos, magistras Brunonas nirtulingai juos užpuolė prie Treiderės upės, jau apsikrovusius grobiu.'
+  santrauka: 'Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius Vytenio karius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pavijęs siaubėjus ne­
@@ -109,7 +114,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad kadangi iš užpakalio buvo jūra, vienoje pusėje trukdė Treiderės upė, o kitoje pusėje ir priekyje puolė priešai, jie turėjo kariauti, nes ne buvo jokios vilties pabėgti.'
+  santrauka: 'Prie Treiderės upės lietuviai atrėmė kryžiuočių puolimą, privertė juos bėgti, o mūšyje žuvo magistras Brunonas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi iš užpakalio buvo jūra,
@@ -127,3 +132,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Brunonas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Rygiečiai]]

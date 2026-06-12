@@ -16,7 +16,9 @@ Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.
 
 ## Teiginiai
 
+<a id="claim-t-86228"></a>
 - t-001
+  global_id: t-86228
   teiginys: 'Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.'
   pagrindžia:
     - c-001

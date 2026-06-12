@@ -19,12 +19,16 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
 
 ## Teiginiai
 
+<a id="claim-t-58885"></a>
 - t-001
+  global_id: t-58885
   teiginys: 'Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis, garsėjęs kaip labai gabus račius ir didelis karo pabūklų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58886"></a>
 - t-002
+  global_id: t-58886
   teiginys: 'Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.'
   pagrindžia:
     - c-002

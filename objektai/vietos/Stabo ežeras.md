@@ -17,7 +17,9 @@ Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinbe
 
 ## Teiginiai
 
+<a id="claim-t-58730"></a>
 - t-001
+  global_id: t-58730
   teiginys: 'Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinberc) Spitteynen Spittels Sprūdės kalnas Stabo (dab.'
   pagrindžia:
     - c-001

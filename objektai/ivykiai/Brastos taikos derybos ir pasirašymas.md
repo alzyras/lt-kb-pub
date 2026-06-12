@@ -28,7 +28,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01599"></a>
 - t-001
+  global_id: t-01599
   teiginys: '1917 m. pabaigoje Brastoje prasidėjus bolševikų ir Vokietijos taikos deryboms, lietuviai siekė kuo greičiau grįžti į Lietuvą.'
   pagrindžia:
     - c-001

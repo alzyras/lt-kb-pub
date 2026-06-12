@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad o visos ginkluotos jėgos pasuko į Vengriją. Kojelavičius teigia, kad mat, kol vengrai vilkino karą, gal sąmoningai, gal iš reikalo niekur atvirame lauke 5 3 7 nestodami į kovą, o Jonas, 1491 m e ta i nenorėdamas kariauti su broJ o n a s sumušamas liu, viską tvarkė be galo neV e n g r ijo je rangiai, beveik visos kara liaus. Kojelavičius teigia, kad jonas beturėjo vos keturis tūkstančius karių, kai susi dūrė su stipria vengrų kariuomene.
+Karaliaus ginkluotosios jėgos pasuko į Vengriją, o Jonas Olbrachtas nenoromis sutiko dalyvauti žygyje prieš brolį. Vengrams vilkinant karą, Jonas Olbrachtas vangiai vadovavo žygiui, todėl beveik visos karaliaus pajėgos išsiskirstė namo. Jonas Olbrachtas turėjo vos keturis tūkstančius karių, kai susidūrė su stipria vengrų kariuomene.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,25 +32,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185577"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad o visos ginkluotos jėgos pasuko į Vengriją.'
+  global_id: t-185577
+  teiginys: 'Karaliaus ginkluotosios jėgos pasuko į Vengriją, o Jonas Olbrachtas nenoromis sutiko dalyvauti žygyje prieš brolį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185578"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad mat, kol vengrai vilkino karą, gal sąmoningai, gal iš reikalo niekur atvirame lauke 5 3 7 nestodami į kovą, o Jonas, 1491 m e ta i nenorėdamas kariauti su broJ o n a s sumušamas liu, viską tvarkė be galo neV e n g r ijo je rangiai, beveik visos kara liaus.'
+  global_id: t-185578
+  teiginys: 'Vengrams vilkinant karą, Jonas Olbrachtas vangiai vadovavo žygiui, todėl beveik visos karaliaus pajėgos išsiskirstė namo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185579"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad jonas beturėjo vos keturis tūkstančius karių, kai susi dūrė su stipria vengrų kariuomene.'
+  global_id: t-185579
+  teiginys: 'Jonas Olbrachtas turėjo vos keturis tūkstančius karių, kai susidūrė su stipria vengrų kariuomene.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad o visos ginkluotos jėgos pasuko į Vengriją.'
+  santrauka: 'Karaliaus ginkluotosios jėgos pasuko į Vengriją, o Jonas Olbrachtas nenoromis sutiko dalyvauti žygyje prieš brolį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sužinojęs apie šiuos
@@ -78,7 +83,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad mat, kol vengrai vilkino karą, gal sąmoningai, gal iš reikalo niekur atvirame lauke 5 3 7 nestodami į kovą, o Jonas, 1491 m e ta i nenorėdamas kariauti su broJ o n a s sumušamas liu, viską tvarkė be galo neV e n g r ijo je rangiai, beveik visos kara liaus.'
+  santrauka: 'Vengrams vilkinant karą, Jonas Olbrachtas vangiai vadovavo žygiui, todėl beveik visos karaliaus pajėgos išsiskirstė namo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nenoromis
@@ -108,7 +113,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad jonas beturėjo vos keturis tūkstančius karių, kai susi dūrė su stipria vengrų kariuomene.'
+  santrauka: 'Jonas Olbrachtas turėjo vos keturis tūkstančius karių, kai susidūrė su stipria vengrų kariuomene.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jonas beturėjo vos keturis tūkstančius karių, kai susi­
@@ -123,3 +128,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/asmenys/Jonas Olbrachtas]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/zodynas/žygis]]

@@ -24,12 +24,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31851"></a>
 - t-001
+  global_id: t-31851
   teiginys: 'Kardinolas J. Slipyj išleido metropolito A. Šeptyckio surinktų dokumentų rinkinį „Monumenta Ucrainae Historica“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-31852"></a>
 - t-002
+  global_id: t-31852
   teiginys: 'A. Šeptyckio „Monumenta Ucrainae Historica“ I–XII tomai išleisti Romoje 1964–1975 m., redaguojant V. Jatuliui.'
   pagrindžia:
     - c-001

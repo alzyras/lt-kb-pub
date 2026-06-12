@@ -22,7 +22,9 @@ Sąjūdis: nuo „persitvarkymo“ iki Kovo 11-osios, Lietuvos istorija.
 
 ## Teiginiai
 
+<a id="claim-t-78156"></a>
 - t-001
+  global_id: t-78156
   teiginys: 'Sąjūdis: nuo „persitvarkymo“ iki Kovo 11-osios, Lietuvos istorija.'
   pagrindžia:
     - c-001

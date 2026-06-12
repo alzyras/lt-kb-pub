@@ -26,7 +26,9 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 
 ## Teiginiai
 
+<a id="claim-t-60275"></a>
 - t-001
+  global_id: t-60275
   teiginys: 'Brolis Flekenšteinas iš Reino krašto į Brandenburgo pilį atgabeno Viešpaties kryžiaus atskalą.'
   pagrindžia:
     - c-001

@@ -16,12 +16,16 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 
 ## Teiginiai
 
+<a id="claim-t-02957"></a>
 - t-001
+  global_id: t-02957
   teiginys: 'Vadinamoji „aukso laisvė“ leido galingiesiems nieko neklausyti ir elgtis kaip tinkamiems.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182935"></a>
 - t-002
+  global_id: t-182935
   teiginys: 'Zigmanto laikais Lenkijoje ir Lietuvoje įsigalėjo vadinamoji „aukso laisvė“, leidusi galingiesiems nieko neklausyti ir elgtis kaip tinkama.'
   pagrindžia:
     - c-002

@@ -25,7 +25,9 @@ Todėl linkstama prie apytikrės datos – Lietuvos valstybė susikūrė apie 12
 
 ## Teiginiai
 
+<a id="claim-t-77780"></a>
 - t-001
+  global_id: t-77780
   teiginys: 'Todėl linkstama prie apytikrės datos – Lietuvos valstybė susikūrė apie 1240 m. Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradeda užkariauti lybius, latvius.'
   pagrindžia:
     - c-001

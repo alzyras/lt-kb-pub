@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-55030"></a>
 - t-001
+  global_id: t-55030
   teiginys: 'Šv. Dvasios dominikonų bažnyčioje buvo matomas karaliaus Aleksandro viso ūgio portretas ir tokio pat dydžio kunigo Korčiako paveikslas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81840"></a>
 - t-002
+  global_id: t-81840
   teiginys: 'Šv. Dvasios dominikonų bažnyčioje buvo matomas karaliaus Aleksandro portretas visu ūgiu ir tokio pat dydžio kunigo Korčiako paveikslas.'
   pagrindžia:
     - c-001

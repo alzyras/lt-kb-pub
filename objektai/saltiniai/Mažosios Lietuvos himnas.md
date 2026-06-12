@@ -17,12 +17,16 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
 
 ## Teiginiai
 
+<a id="claim-t-75499"></a>
 - t-001
+  global_id: t-75499
   teiginys: 'Amžiaus pabaigoje Georgas Zauerveinas parašė Mažosios Lietuvos himną, kuris greitai išpopuliarėjo ir Didžiojoje Lietuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75500"></a>
 - t-002
+  global_id: t-75500
   teiginys: 'Už lietuvių kalbą Rytų Prūsijoje kovojęs Jurgis Zauerveinas parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje.'
   pagrindžia:
     - c-001

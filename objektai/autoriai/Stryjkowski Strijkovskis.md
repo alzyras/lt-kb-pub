@@ -24,27 +24,37 @@ periodo_grupes: []
 
 ## Teiginiai
 
+<a id="claim-t-88005"></a>
 - t-001
+  global_id: t-88005
   teiginys: 'Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, o Kojelevičius juo sekė.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-88006"></a>
 - t-002
+  global_id: t-88006
   teiginys: '7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-88007"></a>
 - t-003
+  global_id: t-88007
   teiginys: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88008"></a>
 - t-004
+  global_id: t-88008
   teiginys: 'Strijkovskis užsiminė apie mūšį prie Sudervėlės upelio, siejamą su lietuvių sumuštų kryžiuočių kapaviete.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-88009"></a>
 - t-005
+  global_id: t-88009
   teiginys: 'Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimus, Goštautas pastatydino Šv. Petro bažnyčią.'
   pagrindžia:
     - c-002

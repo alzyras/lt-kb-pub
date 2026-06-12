@@ -25,12 +25,16 @@ Matusas, laikydamas jį pirmutiniu ir iš esmės ini XIX amž. vieninteliu Lietu
 
 ## Teiginiai
 
+<a id="claim-t-30688"></a>
 - t-001
+  global_id: t-30688
   teiginys: 'J. Matusas perdėtai vertino Stryjkovskį, laikydamas jį pirmuoju ir iki XIX a. iš esmės vieninteliu Lietuvos istoriku.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-30689"></a>
 - t-002
+  global_id: t-30689
   teiginys: 'J. Matusas 1930 m. „Praeityje“ paskelbė darbą „Albertas Vijukas-Kojalavičius kaip Lietuvos istorininkas“.'
   pagrindžia:
     - c-002

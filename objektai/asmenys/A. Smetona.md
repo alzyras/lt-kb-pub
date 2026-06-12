@@ -28,107 +28,149 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 
 ## Teiginiai
 
+<a id="claim-t-77965"></a>
 - t-001
+  global_id: t-77965
   teiginys: 'Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią šalies politinę jėgą – krikščionis demokratus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-77966"></a>
 - t-002
+  global_id: t-77966
   teiginys: 'Smetonos, tarsi ir antrojo Vytauto – valdomą Lietuvos valstybę.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-77967"></a>
 - t-003
+  global_id: t-77967
   teiginys: 'Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų 1939 m. spalio 10 d. sutarties.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-77968"></a>
 - t-004
+  global_id: t-77968
   teiginys: 'Smetonai artimas asmuo – kun. Vladas Mironas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-77969"></a>
 - t-005
+  global_id: t-77969
   teiginys: '1940 m. birželio 15 d. vyriausybės posėdyje A. Smetonos siūlymą priešintis ginklu palaikė tik du ministrai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-77970"></a>
 - t-006
+  global_id: t-77970
   teiginys: 'Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabineto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo viršenybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus (įsteigta Valstybės Taryba turėjo teisę tik.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-77971"></a>
 - t-007
+  global_id: t-77971
   teiginys: 'Smetona užvėrė duris kompromisui.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-77972"></a>
 - t-008
+  global_id: t-77972
   teiginys: 'Smetonos valstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva – iš esmės įgyvendintas.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-77973"></a>
 - t-009
+  global_id: t-77973
   teiginys: 'Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vos per šešerius metus nesubrendo, neįsitvirtino, ypač sunkiai sekėsi sudaryti koalicijas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-77974"></a>
 - t-010
+  global_id: t-77974
   teiginys: 'Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyderius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77975"></a>
 - t-011
+  global_id: t-77975
   teiginys: 'Smetonos portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų gatvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.'
   pagrindžia:
     - c-021
 
+<a id="claim-t-77976"></a>
 - t-012
+  global_id: t-77976
   teiginys: 'Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-77977"></a>
 - t-013
+  global_id: t-77977
   teiginys: 'Smetona, kuris prisiekė laikytis šalies konstitucijos.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-77978"></a>
 - t-014
+  global_id: t-77978
   teiginys: 'Smetonos nuostatos – kadangi leidžiame tautinėms mažumoms gimtosios kalbos teisę, kultūros reikalais bendrauti su savaisiais, tai mažumos „už tai privalo būti mūsų žemės teritoriniai patriotai, mylėti Lietuvą ir gerbti lietuvių tautą“.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-77979"></a>
 - t-015
+  global_id: t-77979
   teiginys: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-77980"></a>
 - t-016
+  global_id: t-77980
   teiginys: 'Smetona visą 1927 m. vasarą ir rudenį, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš miestelio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų, moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-77981"></a>
 - t-017
+  global_id: t-77981
   teiginys: 'A. Smetona hitlerininkams skirtą mirties bausmę pakeitė kalėjimu iki gyvos galvos, o 1937 m. juos amnestavo.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-77982"></a>
 - t-018
+  global_id: t-77982
   teiginys: 'Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios, nors ir nemažai kalbėta apie lietuvių tautinės kultūros kūrimą.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-77983"></a>
 - t-019
+  global_id: t-77983
   teiginys: 'Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-77984"></a>
 - t-020
+  global_id: t-77984
   teiginys: 'Smetona iš balkono sveikino minias.'
   pagrindžia:
     - c-020
 
+<a id="claim-t-77985"></a>
 - t-021
+  global_id: t-77985
   teiginys: 'Smetona skubiai išvyko į Berlyną, kur pasirašė 100 mln.'
   pagrindžia:
     - c-013
@@ -613,7 +655,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - [[objektai/posakiai/„pavojingą politinį pamišėlį“]]
 - [[objektai/posakiai/„seimų laikus“]]
 - [[objektai/posakiai/„teritoriniai patriotai“]]
-- [[objektai/posakiai/„vidurainės [A. Smetonos terminas – Red.] linijos“]]
+- [„vidurainės [A. Smetonos terminas – Red.] linijos“](/objektai/posakiai/%E2%80%9Evidurain%C4%97s%20%5BA.%20Smetonos%20terminas%20%E2%80%93%20Red.%5D%20linijos%E2%80%9C)
 - [[objektai/zodynas/kompromisas]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]

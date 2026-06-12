@@ -28,52 +28,65 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
 
 ## Teiginiai
 
+<a id="claim-t-72607"></a>
 - t-001
+  global_id: t-72607
   teiginys: 'Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba ir seimai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-72608"></a>
 - t-002
-  teiginys: 'Be to, jis pasižadėjo, nepasitaręs su taryba, nebedalinti niekam valstybinių vietų.'
+  global_id: t-72608
+  teiginys: 'Didysis kunigaikštis pasižadėjo be ponų tarybos patarimo nebedalyti valstybinių vietų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-72609"></a>
 - t-003
+  global_id: t-72609
   teiginys: 'Lenkijos ponų taryba prisidėjo prie 1398 m. protesto prieš Lietuvos ir Lenkijos santykių eigą ir buvo sumaniusi unijos reikalą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72610"></a>
 - t-004
-  teiginys: 'Taryboje buvo suteikta laisvė kiekvienam visiškai laisvai kalbėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių patarimas būtų ir nemalonus jam. Vis dėlto šia privilegija taryba tebebuvo tik patariamasis organas: jos sprendimai negalėjo varžyti.'
+  global_id: t-72610
+  teiginys: 'Ponų taryba turėjo laisvę kalbėti, tačiau liko patariamasis organas, kurio sprendimai nevaržė didžiojo kunigaikščio.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-72611"></a>
 - t-005
+  global_id: t-72611
   teiginys: 'Ponų taryba buvo nuolatinė aukštesniųjų valstybės urėdų grupė, sprendusi valstybės reikalus.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-72612"></a>
 - t-006
+  global_id: t-72612
   teiginys: 'Lietuvos ponų taryboje buvę kunigaikščiai ilgai reikalavo vietos senate, bet dėl Lietuvos ponų pasipriešinimo į jį nepateko.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-72613"></a>
 - t-007
+  global_id: t-72613
   teiginys: 'Kazimiero viešpatavimo metu Ponų taryba sustiprėjo ir, išrinkusi Aleksandrą, pareikalavo nustatyti jos kompetencijos ribas.'
   pagrindžia:
     - c-006
 
-- t-008
-  teiginys: 'Visa tai jis galėjo daryti laisvai; tačiau valstybės politikoje jį varžė įsigalėjusi ponų taryba ir seimai (žiūr.'
-  pagrindžia:
-    - c-004
-
+<a id="claim-t-72615"></a>
 - t-009
+  global_id: t-72615
   teiginys: 'Lenkų ponų taryba Radome davė garantiją, kaip lietuv.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72616"></a>
 - t-010
+  global_id: t-72616
   teiginys: 'Ponų taryboje kiekvienam buvo suteikta laisvė kalbėti, o didysis kunigaikštis pasižadėjo nebausti už jam nemalonų patarimą.'
   pagrindžia:
     - c-005

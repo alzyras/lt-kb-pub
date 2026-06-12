@@ -19,12 +19,16 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
 
 ## Teiginiai
 
+<a id="claim-t-60121"></a>
 - t-001
+  global_id: t-60121
   teiginys: 'Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis, garsėjęs kaip labai gabus račius ir didelis karo pabūklų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60122"></a>
 - t-002
+  global_id: t-60122
   teiginys: 'Dusburgietis teigia, kad gerhardas labai to nusigando ir atvyko į Prūsijos žemę, atsiveždamas su savimi ir tą baltąją maršką, ir, davęs įžadus Teutonų ordinui, pradėjo tyrą gyvenimą, kurį laimingai ir užbaigė.'
   pagrindžia:
     - c-001

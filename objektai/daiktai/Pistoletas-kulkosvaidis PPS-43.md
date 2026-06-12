@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40751"></a>
 - t-001
+  global_id: t-40751
   teiginys: 'PPS-43 buvo perdirbtas sovietinis pistoletas-kulkosvaidis, naudotas 1991 m. sausį Parlamente budėjusių savanorių.'
   pagrindžia:
     - c-001

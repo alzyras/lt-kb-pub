@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad tuo metu kryžiuočių riterių magistras buvo Henrikas: jis pirmiausia atnaujino santarvę su Germantu, reikalaudamas, kad šis prisiektų, jog lietu viai bei žemaičiai nesikiš j prūsų karą. Kojelavičius teigia, kad dėl tos pačios priežasties valdovas neleido viešai teikti prūsams ko kios pagalbos prieš kryžiuo čius, tačiau nieko negalėjo padaryti, kad slapta į Prūsi ją nežygiuotų Žemaitijoje su telkta kariuomenė, remiama atskirų asmenų, tiesa, pavie niais būriais, be. Kojelavičius teigia, kad kry žiuočių riteriai, džiaugdamie si nekruvina pergale, tuojau pat be jokios tvarkos išsi sklaidė grobio ieškoti ir sto vyklos plėšti; jie puolė, ne pasirūpinę saugumu, vytis paskutiniųjų priešo būrių ir apskritai elgėsi, nelyginant bet koks pavojus būtų.
+1274 m. kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, kad lietuviai ir žemaičiai nesikištų į prūsų karą. Sūduvos prūsai ir jiems padėję žemaičiai nusiaubė Kulmo kraštą, bet prie Liubavos pasitraukė nuo kryžiuočių puolimo. Prūsai ir žemaičiai prie Liubavos iš pasalų užpuolė grobio ieškojusius kryžiuočius ir padarė jiems didelį pralaimėjimą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,25 +32,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185682"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tuo metu kryžiuočių riterių magistras buvo Henrikas: jis pirmiausia atnaujino santarvę su Germantu, reikalaudamas, kad šis prisiektų, jog lietu viai bei žemaičiai nesikiš j prūsų karą.'
+  global_id: t-185682
+  teiginys: '1274 m. kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, kad lietuviai ir žemaičiai nesikištų į prūsų karą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185683"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad dėl tos pačios priežasties valdovas neleido viešai teikti prūsams ko kios pagalbos prieš kryžiuo čius, tačiau nieko negalėjo padaryti, kad slapta į Prūsi ją nežygiuotų Žemaitijoje su telkta kariuomenė, remiama atskirų asmenų, tiesa, pavie niais būriais, be.'
+  global_id: t-185683
+  teiginys: 'Sūduvos prūsai ir jiems padėję žemaičiai nusiaubė Kulmo kraštą, bet prie Liubavos pasitraukė nuo kryžiuočių puolimo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185684"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad kry žiuočių riteriai, džiaugdamie si nekruvina pergale, tuojau pat be jokios tvarkos išsi sklaidė grobio ieškoti ir sto vyklos plėšti; jie puolė, ne pasirūpinę saugumu, vytis paskutiniųjų priešo būrių ir apskritai elgėsi, nelyginant bet koks pavojus būtų.'
+  global_id: t-185684
+  teiginys: 'Prūsai ir žemaičiai prie Liubavos iš pasalų užpuolė grobio ieškojusius kryžiuočius ir padarė jiems didelį pralaimėjimą.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tuo metu kryžiuočių riterių magistras buvo Henrikas: jis pirmiausia atnaujino santarvę su Germantu, reikalaudamas, kad šis prisiektų, jog lietu viai bei žemaičiai nesikiš j prūsų karą.'
+  santrauka: '1274 m. kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, kad lietuviai ir žemaičiai nesikištų į prūsų karą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atrodė, jog kryžiuočiams šį
@@ -85,7 +90,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad dėl tos pačios priežasties valdovas neleido viešai teikti prūsams ko kios pagalbos prieš kryžiuo čius, tačiau nieko negalėjo padaryti, kad slapta į Prūsi ją nežygiuotų Žemaitijoje su telkta kariuomenė, remiama atskirų asmenų, tiesa, pavie niais būriais, be.'
+  santrauka: 'Sūduvos prūsai ir jiems padėję žemaičiai nusiaubė Kulmo kraštą, bet prie Liubavos pasitraukė nuo kryžiuočių puolimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dėl tos pačios
@@ -117,7 +122,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad kry žiuočių riteriai, džiaugdamie si nekruvina pergale, tuojau pat be jokios tvarkos išsi sklaidė grobio ieškoti ir sto vyklos plėšti; jie puolė, ne pasirūpinę saugumu, vytis paskutiniųjų priešo būrių ir apskritai elgėsi, nelyginant bet koks pavojus būtų.'
+  santrauka: 'Prūsai ir žemaičiai prie Liubavos iš pasalų užpuolė grobio ieškojusius kryžiuočius ir padarė jiems didelį pralaimėjimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kry­
@@ -143,3 +148,17 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Sūduvos prūsai]]
+- [[objektai/daiktai/Vytis]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Henrikas (kryžiuočių magistras)]]
+- [[objektai/zodynas/gurguolė]]

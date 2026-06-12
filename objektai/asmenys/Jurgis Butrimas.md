@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jurgis Butrimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad netrukus pasiū lė savo pagalbą kryžiuočiams Jurgis Butrimas, turėjęs didelius turtus Žemaitijoje.
+Jurgis Butrimas, turėjęs didelių turtų Žemaitijoje, pasiūlė savo pagalbą kryžiuočiams.
 
 ## Teiginiai
 
+<a id="claim-t-186117"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad netrukus pasiū lė savo pagalbą kryžiuočiams Jurgis Butrimas, turėjęs didelius turtus Žemaitijoje.'
+  global_id: t-186117
+  teiginys: 'Jurgis Butrimas, turėjęs didelių turtų Žemaitijoje, pasiūlė savo pagalbą kryžiuočiams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad netrukus pasiū lė savo pagalbą kryžiuočiams Jurgis Butrimas, turėjęs didelius turtus Žemaitijoje.'
+  santrauka: 'Jurgis Butrimas, turėjęs didelių turtų Žemaitijoje, pasiūlė savo pagalbą kryžiuočiams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Netrukus pasiū­
@@ -38,3 +39,7 @@ Kojelavičius teigia, kad netrukus pasiū lė savo pagalbą kryžiuočiams Jurgi
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]

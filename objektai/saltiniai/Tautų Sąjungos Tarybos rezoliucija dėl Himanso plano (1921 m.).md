@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-21281"></a>
 - t-001
+  global_id: t-21281
   teiginys: '1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją, pritariančią Himanso planui.'
   pagrindžia:
     - c-001

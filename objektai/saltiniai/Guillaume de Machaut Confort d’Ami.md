@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31694"></a>
 - t-001
+  global_id: t-31694
   teiginys: 'Guillaume de Machaut 1357 m. veikale „Confort d’Ami“ paminėjo žygį, kuriame dalyvavo svečių net iš Anglijos.'
   pagrindžia:
     - c-001

@@ -27,7 +27,9 @@ Dusburgietis teigia, kad regulos ir prologo redaktoriumi greičiausiai buvo Vilh
 
 ## Teiginiai
 
+<a id="claim-t-60221"></a>
 - t-001
+  global_id: t-60221
   teiginys: 'Dusburgietis teigia, kad kronikininko teigimu, popiežiaus pasiuntinys Prūsijoje Vilhelmas — tai vėlesnis popiežius Aleksandras IV (III, 33), tuo tarpu šis, 1244 m. tapęs Sabinos kardinolu (miręs 1251 m.), tebuvo kurijos atstovas, rėmęs Vokiečių ordiną, kai pastarasis sprendė.'
   pagrindžia:
     - c-001

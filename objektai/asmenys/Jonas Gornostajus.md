@@ -6,34 +6,39 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jonas Gornostajus
 
 ## Santrauka
 
-Kojelavičius teigia, kad šį uždavinį karalius patikėjo Petrui Kiš kai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos paiždininkiui, ir Jonui Gornostajui, raštininkui. Kojelavičius teigia, kad karaliaus vardu atsakė Lietuvos raštinin kas Jonas Gornostajus. Kojelavičius teigia, kad karaliaus bei senato vardu atsakė Jonas Gornostajus, Lietuvos iždo vyriau siasis valdytojas.
+Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą. Lietuvos raštininkas Jonas Gornostajus karaliaus vardu atsakė į prašymus dėl valachų pasiuntinių ir Severino Norvedo. Jonas Gornostajus, Lietuvos iždo vyriausiasis valdytojas, karaliaus ir senato vardu atsakė į Ivano Ovčinos laišką.
 
 ## Teiginiai
 
+<a id="claim-t-186047"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad šį uždavinį karalius patikėjo Petrui Kiš kai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos paiždininkiui, ir Jonui Gornostajui, raštininkui.'
+  global_id: t-186047
+  teiginys: 'Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186048"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad karaliaus vardu atsakė Lietuvos raštinin kas Jonas Gornostajus.'
+  global_id: t-186048
+  teiginys: 'Lietuvos raštininkas Jonas Gornostajus karaliaus vardu atsakė į prašymus dėl valachų pasiuntinių ir Severino Norvedo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-186049"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad karaliaus bei senato vardu atsakė Jonas Gornostajus, Lietuvos iždo vyriau siasis valdytojas.'
+  global_id: t-186049
+  teiginys: 'Jonas Gornostajus, Lietuvos iždo vyriausiasis valdytojas, karaliaus ir senato vardu atsakė į Ivano Ovčinos laišką.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad šį uždavinį karalius patikėjo Petrui Kiš kai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos paiždininkiui, ir Jonui Gornostajui, raštininkui.'
+  santrauka: 'Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vasilijus pri­
@@ -60,7 +65,7 @@ Kojelavičius teigia, kad šį uždavinį karalius patikėjo Petrui Kiš kai, Tr
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad karaliaus vardu atsakė Lietuvos raštinin kas Jonas Gornostajus.'
+  santrauka: 'Lietuvos raštininkas Jonas Gornostajus karaliaus vardu atsakė į prašymus dėl valachų pasiuntinių ir Severino Norvedo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Be to, paprašė atsilyginti už skriaudas, pada­
@@ -79,7 +84,7 @@ Kojelavičius teigia, kad šį uždavinį karalius patikėjo Petrui Kiš kai, Tr
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad karaliaus bei senato vardu atsakė Jonas Gornostajus, Lietuvos iždo vyriau siasis valdytojas.'
+  santrauka: 'Jonas Gornostajus, Lietuvos iždo vyriausiasis valdytojas, karaliaus ir senato vardu atsakė į Ivano Ovčinos laišką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Panašiai laiške Jurgiui Radvilai rašė Ivanas Ovčina,
@@ -95,3 +100,19 @@ Kojelavičius teigia, kad šį uždavinį karalius patikėjo Petrui Kiš kai, Tr
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/asmenys/Ivanas]]
+- [[objektai/asmenys/Ivanas Vasiljevičius]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/grupes/Valachai]]
+- [[objektai/asmenys/Vasilijus]]
+- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
+- [[objektai/zodynas/legatai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/senatas]]
+- [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]

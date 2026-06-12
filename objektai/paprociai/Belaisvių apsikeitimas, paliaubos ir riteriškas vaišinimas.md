@@ -43,12 +43,16 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
 
 ## Teiginiai
 
+<a id="claim-t-176226"></a>
 - t-001
+  global_id: t-176226
   teiginys: 'Kęstutis, kryžiuočių spaudžiamas labiau negu Jogaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti paliaubas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176227"></a>
 - t-002
+  global_id: t-176227
   teiginys: 'Vinricho von Kniprodės laikais Kęstutis ir Ordinas pradėjo keistis belaisviais, daryti tarpukares ir riteriškai vienas kitą vaišinti.'
   pagrindžia:
     - c-001

@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Prūsų žygis į Lietuvą ir nesėkminga Gardino apgultis (1363 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai priešai sugrįžo į Prūsiją, užgriuvo dar di desnė nelaimė — badas, siauB adas L ie tu v o je binga našta užgulęs visą Lie tuvą, galimas daiktas, dėl to, kad tais metais apskritai visur buvo blogas oras, net gi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl.
+Priešams grįžus į Prūsiją, visą Lietuvą užgulė badas, siejamas su prastu oru ir nuolatiniais priešų antpuoliais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185764"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai priešai sugrįžo į Prūsiją, užgriuvo dar di desnė nelaimė — badas, siauB adas L ie tu v o je binga našta užgulęs visą Lie tuvą, galimas daiktas, dėl to, kad tais metais apskritai visur buvo blogas oras, net gi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl.'
+  global_id: t-185764
+  teiginys: 'Priešams grįžus į Prūsiją, visą Lietuvą užgulė badas, siejamas su prastu oru ir nuolatiniais priešų antpuoliais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai priešai sugrįžo į Prūsiją, užgriuvo dar di desnė nelaimė — badas, siauB adas L ie tu v o je binga našta užgulęs visą Lie tuvą, galimas daiktas, dėl to, kad tais metais apskritai visur buvo blogas oras, net gi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl.'
+  santrauka: 'Priešams grįžus į Prūsiją, visą Lietuvą užgulė badas, siejamas su prastu oru ir nuolatiniais priešų antpuoliais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai priešai sugrįžo į Prūsiją, užgriuvo dar di­
@@ -63,3 +64,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Volfgangas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

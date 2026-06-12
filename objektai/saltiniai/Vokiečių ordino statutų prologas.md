@@ -28,17 +28,23 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
 
 ## Teiginiai
 
+<a id="claim-t-60968"></a>
 - t-001
+  global_id: t-60968
   teiginys: 'Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai iŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį, Vokietijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60969"></a>
 - t-002
+  global_id: t-60969
   teiginys: 'Dusburgietis teigia, kad „Pasakojimą...“ ir prologą panaudojo Dusburgietis, pateikdamas vokiškąją, tendencingą Ordino įsikūrimo versiją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60970"></a>
 - t-003
+  global_id: t-60970
   teiginys: 'Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių ordino statutų dalis (1.'
   pagrindžia:
     - c-002

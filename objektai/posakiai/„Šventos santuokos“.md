@@ -27,7 +27,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-67328"></a>
 - t-001
+  global_id: t-67328
   teiginys: '„Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.'
   pagrindžia:
     - c-001

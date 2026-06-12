@@ -18,7 +18,9 @@ Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­ tauto klaid
 
 ## Teiginiai
 
+<a id="claim-t-36804"></a>
 - t-001
+  global_id: t-36804
   teiginys: 'Kochanovskio nuomone, Horodlės unija Vytautas siekė ne lenkinti Lietuvą, bet ją civilizuoti.'
   pagrindžia:
     - c-001

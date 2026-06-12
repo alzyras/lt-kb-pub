@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Vytauto šalininkų niokojamasis žygis Lietuvoje (1390 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad pačioje kitų metų pra- 1390 m e ta i džioje, kai buvo rengiamasi V y ta u to šalininkai didesnio masto karui vasarą n io k o ja L ietu vą sutelktomis Prūsijos ir Vokie tijos jėgomis, daliniai, kuriuos Vytautas buvo palikęs Palenkės apsaugai, padarė pradžią ir.
+1390 m. pradžioje Vytauto Palenkėje palikti daliniai staigiai nusiaubė Lietuvos ir Lenkijos žemes.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185833"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pačioje kitų metų pra- 1390 m e ta i džioje, kai buvo rengiamasi V y ta u to šalininkai didesnio masto karui vasarą n io k o ja L ietu vą sutelktomis Prūsijos ir Vokie tijos jėgomis, daliniai, kuriuos Vytautas buvo palikęs Palenkės apsaugai, padarė pradžią ir.'
+  global_id: t-185833
+  teiginys: '1390 m. pradžioje Vytauto Palenkėje palikti daliniai staigiai nusiaubė Lietuvos ir Lenkijos žemes.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pačioje kitų metų pra- 1390 m e ta i džioje, kai buvo rengiamasi V y ta u to šalininkai didesnio masto karui vasarą n io k o ja L ietu vą sutelktomis Prūsijos ir Vokie tijos jėgomis, daliniai, kuriuos Vytautas buvo palikęs Palenkės apsaugai, padarė pradžią ir.'
+  santrauka: '1390 m. pradžioje Vytauto Palenkėje palikti daliniai staigiai nusiaubė Lietuvos ir Lenkijos žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu Vytautas, slėpdamas
@@ -71,3 +72,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Miera|miera]]

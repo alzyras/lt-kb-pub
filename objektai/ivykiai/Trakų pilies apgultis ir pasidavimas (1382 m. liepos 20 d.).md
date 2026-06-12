@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-100044"></a>
 - t-001
+  global_id: t-100044
   teiginys: 'Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį^16 , Skirgailai pasisekė įgulą įtikinti pasiduoti (VII.20).'
   pagrindžia:
     - c-001

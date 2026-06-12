@@ -25,7 +25,9 @@ PH = Przegląd Historyczny, Varšuvoje nuo 1910 m. leidžiamas žurn.
 
 ## Teiginiai
 
+<a id="claim-t-31896"></a>
 - t-001
+  global_id: t-31896
   teiginys: '„Przegląd Historyczny“ yra nuo 1910 m. Varšuvoje leidžiamas žurnalas.'
   pagrindžia:
     - c-001

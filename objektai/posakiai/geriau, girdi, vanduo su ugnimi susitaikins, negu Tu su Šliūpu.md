@@ -16,7 +16,9 @@ Gerai man vienas inteligentas sakė, kai ketinau važiuoti į Ameriką: geriau, 
 
 ## Teiginiai
 
+<a id="claim-t-02089"></a>
 - t-001
+  global_id: t-02089
   teiginys: 'Vienas inteligentas prieš kelionę į Ameriką perspėjo, kad vanduo su ugnimi greičiau susitaikins negu adresatas su Šliūpu.'
   pagrindžia:
     - c-001

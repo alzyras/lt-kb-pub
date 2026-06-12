@@ -25,7 +25,9 @@ Antoniewicz, J.
 
 ## Teiginiai
 
+<a id="claim-t-30658"></a>
 - t-001
+  global_id: t-30658
   teiginys: 'J. Antoniewicz rašė apie sūduvius, jotvingius ir romėniškos provincinės kultūros importus.'
   pagrindžia:
     - c-001

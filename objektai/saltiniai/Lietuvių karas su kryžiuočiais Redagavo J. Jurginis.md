@@ -23,7 +23,9 @@ Dusburgietis teigia, kad lietuvių karas su kryžiuočiais / Redagavo J.
 
 ## Teiginiai
 
+<a id="claim-t-61135"></a>
 - t-001
+  global_id: t-61135
   teiginys: '„Lietuvių karas su kryžiuočiais“, redaguotas J. Jurginio, išleistas Vilniuje 1964 m.'
   pagrindžia:
     - c-001

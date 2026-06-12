@@ -17,7 +17,9 @@ Nu­ puolusį (Kökeritz) karaliaus palydovai nužudė.
 
 ## Teiginiai
 
+<a id="claim-t-34806"></a>
 - t-001
+  global_id: t-34806
   teiginys: 'Kökeritzą, nuo arklio numuštą Zbignievo Olesnickio ietimi, nužudė karaliaus palydovai.'
   pagrindžia:
     - c-001

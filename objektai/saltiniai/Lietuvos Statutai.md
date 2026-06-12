@@ -27,62 +27,86 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
 
 ## Teiginiai
 
+<a id="claim-t-101550"></a>
 - t-001
+  global_id: t-101550
   teiginys: 'Lietuvos Statutai kartu su Lietuvos Metrika ir Lietuvos metraščiais laikomi reikšmingiausiais to meto raštijos paminklais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101551"></a>
 - t-002
+  global_id: t-101551
   teiginys: 'Lietuvos Statutai sistemingumu pralenkė Vidurio Europos šalių teisines sistemas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-101552"></a>
 - t-003
+  global_id: t-101552
   teiginys: 'Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pralenkusiais Vidurio Europos šalių teisines sistemas, bei jų kūrimo iniciatoriais Albertu Goštautu ar Leonu Sapiega.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-101553"></a>
 - t-004
+  global_id: t-101553
   teiginys: 'Lietuvos Statutai buvo trys LDK teisynai, išleisti 1529, 1566 ir 1588 metais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-101554"></a>
 - t-005
+  global_id: t-101554
   teiginys: '1840 m. panaikintas Lietuvos Statutas, o teismų sistema surusinta.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-101555"></a>
 - t-006
+  global_id: t-101555
   teiginys: 'Bendras vidaus politinis gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos Statutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lietuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovaujasi.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-101556"></a>
 - t-007
+  global_id: t-101556
   teiginys: 'LDK bajorai, nesvarbu, kokios etninės kilmės, laikė save lietuviais.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-101557"></a>
 - t-008
+  global_id: t-101557
   teiginys: 'Liko galioti Lietuvos Statutas, lenkų kalba leista savivaldos institucijose, aps- 1794 m. sukilėlis, paskutinio LDK atkūrimo projekto autorius Mykolas Kleopas Oginskis.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-101558"></a>
 - t-009
+  global_id: t-101558
   teiginys: 'Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir jo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės pamatus grindė LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-101559"></a>
 - t-010
+  global_id: t-101559
   teiginys: 'Antrajame ir Trečiajame Lietuvos Statutuose teisine norma tapo Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-101560"></a>
 - t-011
+  global_id: t-101560
   teiginys: 'Lietuvoje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos Statutų teisine norma.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-183374"></a>
 - t-012
+  global_id: t-183374
   teiginys: 'Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.'
   pagrindžia:
     - c-011

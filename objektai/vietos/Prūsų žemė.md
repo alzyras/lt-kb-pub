@@ -25,7 +25,9 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 
 ## Teiginiai
 
+<a id="claim-t-32483"></a>
 - t-001
+  global_id: t-32483
   teiginys: 'Prūsų žemė tapo svarbiu ginkluotų misijų kraštu ir rimtu Livonijos riterių bei kryžininkų prieaugliui varžovu.'
   pagrindžia:
     - c-001

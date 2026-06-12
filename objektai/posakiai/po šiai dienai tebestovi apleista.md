@@ -19,7 +19,9 @@ Dusburgietis teigia, kad buvę „per du akmens sviedimus nuo tos vietos, kur da
 
 ## Teiginiai
 
+<a id="claim-t-59151"></a>
 - t-001
+  global_id: t-59151
   teiginys: 'Dusburgietis teigia, kad retrospektyvinis požiūris į įvykius ryškus tokiuose kronikininko pareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje, paliko negyvenamos Nadruvos, Sūduvos žemės (III, 151, 179, 219).'
   pagrindžia:
     - c-001

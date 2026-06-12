@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86313"></a>
 - t-001
+  global_id: t-86313
   teiginys: 'Šventojo Kryžiaus altorius buvo Vilniaus katedros bažnyčioje ties šventovės viduriu.'
   pagrindžia:
     - c-001

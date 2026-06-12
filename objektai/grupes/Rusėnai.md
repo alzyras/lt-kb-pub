@@ -27,52 +27,72 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 
 ## Teiginiai
 
+<a id="claim-t-74904"></a>
 - t-001
+  global_id: t-74904
   teiginys: 'Pranciškus Skorina kilo iš rusėnų kultūrinės aplinkos ir buvo pirmasis Lietuvos spaustuvininkas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-74905"></a>
 - t-002
+  global_id: t-74905
   teiginys: 'LDK rusėnai save vadino rusais, suvokė kaip vieną etninę grupę ir Lietuvos valdovą laikė savu valdovu.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-74906"></a>
 - t-003
+  global_id: t-74906
   teiginys: 'LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74907"></a>
 - t-004
+  global_id: t-74907
   teiginys: 'Vienuolynuose rašoma bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-74908"></a>
 - t-005
+  global_id: t-74908
   teiginys: 'Rusėnų ir žemaičių gyvenamose valstybės pakraščių teritorijose galėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74909"></a>
 - t-006
+  global_id: t-74909
   teiginys: 'Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten medicinos daktaro laipsnį, 1517–1519 m. Prahoje.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-74910"></a>
 - t-007
+  global_id: t-74910
   teiginys: 'Pastarųjų erdvėje toliau į rytus (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda, tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarietiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių ūkis).'
   pagrindžia:
     - c-008
 
+<a id="claim-t-74912"></a>
 - t-008
+  global_id: t-74912
   teiginys: 'Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-74913"></a>
 - t-009
+  global_id: t-74913
   teiginys: 'XV–XVI a. Lietuvos Metrikos rusėnų kalboje buvo vartojamos lietuviškos ūkio sąvokos, paplitusios net Ukrainoje.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-183179"></a>
 - t-010
+  global_id: t-183179
   teiginys: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
   pagrindžia:
     - c-009

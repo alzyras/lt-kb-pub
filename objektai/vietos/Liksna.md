@@ -25,12 +25,16 @@ Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir m
 
 ## Teiginiai
 
+<a id="claim-t-86023"></a>
 - t-001
+  global_id: t-86023
   teiginys: 'Iš Liksnos į Lietuvą buvo pasiųstas Petras surinkti žinių apie Švitrigailos padėtį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86024"></a>
 - t-002
+  global_id: t-86024
   teiginys: 'Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo.'
   pagrindžia:
     - c-001

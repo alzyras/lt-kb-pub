@@ -21,55 +21,55 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Jaunutis (valdovas, XIV a.)
 
 ## Santrauka
 
 Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie tėvų Vilniuje. Pirmą kartą, kaip visos Lietuvos valdovas, Algirdas, drauge su Kęstučiu, susidūrė su ordinu tais pačiais metais, kai buvo nuo sosto pašalintas Jaunutis (1345 m.).
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/asmenys/Karijotas]]
-- [[objektai/ivykiai/Kęstučio perversmas ir Vilniaus užėmimas (1344-1345 m. žiemą)]]
-
 ## Teiginiai
 
+<a id="claim-t-176435"></a>
 - t-001
+  global_id: t-176435
   teiginys: 'Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-176436"></a>
 - t-002
+  global_id: t-176436
   teiginys: 'Jaunutis iš Vilniaus buvo išvytas jėga.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176438"></a>
 - t-003
+  global_id: t-176438
   teiginys: 'Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-176439"></a>
 - t-004
+  global_id: t-176439
   teiginys: 'Jaunutis nebuvo gavęs jokios srities, gyveno prie tėvų Vilniuje, o tėvui mirus tapo Vilniaus ir gretimų sričių valdovu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184715"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad užleidęs valdžią Algirdui, nors į ją turėjęs daugiau teisių, nes nušalinęs Jaunutį, po Algirdo mirties pagarbiai pripa žinęs didžiuoju kunigaikščiu jo sūnų Jogailą, kuris savo dėdei atsimokėjęs klastingu nužudymu.'
+  global_id: t-184715
+  teiginys: 'Kęstutis nušalino Jaunutį, todėl, Kojelavičiaus pasakojimu, turėjo daugiau teisių į valdžią už Algirdą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184717"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad jaunutis buG ed im in o sūnūs vo paskyręs Manvydui Kernavę ir Slonimą, Narimantui — Pinską, Mozyrių ir Vladimiro žemės dalį, Algirdui — Krėvą ir visas žemes lig Berezinos, Kęstučiui— Žemaitiją, be to, Trakus, Gardino, Kauno, Lydos, Upytės žemes ir Poleksiją, Karijotui — Naugarduką, Volkovyską, Liubartui — Vladimirą ir Volynę, Jaunučiui— Vilnių, tautos sostinę, Ašmeną, Ukmergę, Breslaują, be to, pastarąjį jis paskyrė didžiuoju kunigaikščiu.'
+  global_id: t-184717
+  teiginys: 'Kęstučiui užėmus Vilniaus pilis, Jaunutis pabėgo iš pilies, bet Kęstučio raiteliai jį sugrąžino iš miško.'
   pagrindžia:
     - c-006
-
-- t-007
-  teiginys: 'Kojelavičius teigia, kad pabudęs iš miego ir išgirdęs triukšmą, Jaunutis paspruko iš pilies ir pus nuogis pasileido bėgti, tačiau Kęstučio raiteliai jį iš miško atgal sugrąžino.'
-  pagrindžia:
-    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -144,7 +144,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - t-003
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad užleidęs valdžią Algirdui, nors į ją turėjęs daugiau teisių, nes nušalinęs Jaunutį, po Algirdo mirties pagarbiai pripa žinęs didžiuoju kunigaikščiu jo sūnų Jogailą, kuris savo dėdei atsimokėjęs klastingu nužudymu.'
+  santrauka: 'Kęstutis nušalino Jaunutį, todėl, Kojelavičiaus pasakojimu, turėjo daugiau teisių į valdžią už Algirdą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Visa tai jis aukojęs tėvynės labui. Užleidęs
@@ -167,36 +167,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad jaunutis buG ed im in o sūnūs vo paskyręs Manvydui Kernavę ir Slonimą, Narimantui — Pinską, Mozyrių ir Vladimiro žemės dalį, Algirdui — Krėvą ir visas žemes lig Berezinos, Kęstučiui— Žemaitiją, be to, Trakus, Gardino, Kauno, Lydos, Upytės žemes ir Poleksiją, Karijotui — Naugarduką, Volkovyską, Liubartui — Vladimirą ir Volynę, Jaunučiui— Vilnių, tautos sostinę, Ašmeną, Ukmergę, Breslaują, be to, pastarąjį jis paskyrė didžiuoju kunigaikščiu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Be kelių dukterų (kurių
-    vieną buvo išleidęs už Kazimiero, lenkų valdovo, o
-    kitą — už Vaclovo, Mazovijos kunigaikščio), Gedimi­
-    nas turėjo keletą sūnų, dėl to galėjo valstybėje įsi­
-    liepsnoti nesantaika. Todėl, norėdamas iš anksto už­
-    kirsti kelią vaidams, jis bu-
-    G ed im in o  sūnūs
-    vo paskyręs Manvydui Ker­
-    navę ir Slonimą, Nariman­
-    tui — Pinską, Mozyrių ir Vladimiro žemės dalį, Al­
-    girdui — Krėvą ir visas žemes lig Berezinos, Kęstu­
-    čiui— Žemaitiją, be to, Trakus, Gardino, Kauno, Lydos,
-    Upytės žemes ir Poleksiją, Karijotui — Naugarduką,
-    Volkovyską, Liubartui — Vladimirą ir Volynę, Jaunu­
-    čiui— Vilnių, tautos sostinę, Ašmeną, Ukmergę, Bres-
-    laują, be to, pastarąjį jis paskyrė didžiuoju kunigaikš­
-    čiu. Kiti broliai dėl to piktinosi: ne dėl amžiaus ar
-    narsumo, bet iš neprotingos tėvo meilės jaunikaičiui
-    buvo suteikta pirmenybė.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Kojelavičius teigia, kad pabudęs iš miego ir išgirdęs triukšmą, Jaunutis paspruko iš pilies ir pus nuogis pasileido bėgti, tačiau Kęstučio raiteliai jį iš miško atgal sugrąžino.'
+  santrauka: 'Kęstučiui užėmus Vilniaus pilis, Jaunutis pabėgo iš pilies, bet Kęstučio raiteliai jį sugrąžino iš miško.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi Algirdas ar iš-
@@ -216,4 +187,18 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Kęstučio perversmas ir Vilniaus užėmimas (1344-1345 m. žiemą)]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Augustas II]]
+- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
+- [[objektai/ivykiai/Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.)]]
+- [[objektai/asmenys/Petras I Didysis]]

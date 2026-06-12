@@ -26,7 +26,9 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
 
 ## Teiginiai
 
+<a id="claim-t-87679"></a>
 - t-001
+  global_id: t-87679
   teiginys: 'Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš Švabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir daug kitų riterių.'
   pagrindžia:
     - c-001

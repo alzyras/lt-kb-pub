@@ -17,7 +17,9 @@ Povilas Plechavičius pasiskelbė vyriausiuoju perversmo vadu ir laikinu L I E T
 
 ## Teiginiai
 
+<a id="claim-t-26459"></a>
 - t-001
+  global_id: t-26459
   teiginys: 'Povilas Plechavičius pasiskelbė vyriausiuoju perversmo vadu ir laikinu diktatoriumi.'
   pagrindžia:
     - c-001

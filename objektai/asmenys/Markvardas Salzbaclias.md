@@ -18,12 +18,16 @@ Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis ja
 
 ## Teiginiai
 
+<a id="claim-t-28968"></a>
 - t-001
+  global_id: t-28968
   teiginys: 'Markvardas Salzbaclias per derybas įžeidė Vytautą, sakydamas, kad šis jau tris kartus buvo išdavęs Ordiną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184375"></a>
 - t-002
+  global_id: t-184375
   teiginys: 'Derybose Markvardas Salzbaclias įžeidė Vytautą, sakydamas, kad šis jau tris kartus išdavė Ordiną.'
   pagrindžia:
     - c-002

@@ -14,34 +14,39 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Henrikas fon Plockė
 
 ## Santrauka
 
-Kojelavičius teigia, kad vos brėkštant dienai, lietuvius iš visų pusių apsupo kryžiuočiai, vedami Henriko fon Plockės. Kojelavičius teigia, kad šitai dėjosi vasarą, o jau žiemą Henrikas, Prū sijos maršalas, pakartotiniais antpuoliais nuniokojo Me dininkų valsčių. Kojelavičius teigia, kad visi kryžiuočiai su vadu Henriku fon Plocke, Prūsijos maršalu, buvo šioje tankmėje arba su naikinti, arba pakliuvo į nelaisvę.
+Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių apsupo lietuvius. Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuniokojo Medininkų valsčių. Henrikas fon Plockė ir jo vadovaujami kryžiuočiai miško tankmėje buvo sunaikinti arba pateko į nelaisvę.
 
 ## Teiginiai
 
+<a id="claim-t-186043"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vos brėkštant dienai, lietuvius iš visų pusių apsupo kryžiuočiai, vedami Henriko fon Plockės.'
+  global_id: t-186043
+  teiginys: 'Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių apsupo lietuvius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186044"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad šitai dėjosi vasarą, o jau žiemą Henrikas, Prū sijos maršalas, pakartotiniais antpuoliais nuniokojo Me dininkų valsčių.'
+  global_id: t-186044
+  teiginys: 'Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuniokojo Medininkų valsčių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-186045"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad visi kryžiuočiai su vadu Henriku fon Plocke, Prūsijos maršalu, buvo šioje tankmėje arba su naikinti, arba pakliuvo į nelaisvę.'
+  global_id: t-186045
+  teiginys: 'Henrikas fon Plockė ir jo vadovaujami kryžiuočiai miško tankmėje buvo sunaikinti arba pateko į nelaisvę.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vos brėkštant dienai, lietuvius iš visų pusių apsupo kryžiuočiai, vedami Henriko fon Plockės.'
+  santrauka: 'Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių apsupo lietuvius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sitai dėjo­
@@ -59,7 +64,7 @@ Kojelavičius teigia, kad vos brėkštant dienai, lietuvius iš visų pusių aps
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad šitai dėjosi vasarą, o jau žiemą Henrikas, Prū sijos maršalas, pakartotiniais antpuoliais nuniokojo Me dininkų valsčių.'
+  santrauka: 'Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuniokojo Medininkų valsčių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Surminas grįžo pas valdovą nugalė­
@@ -91,7 +96,7 @@ Kojelavičius teigia, kad vos brėkštant dienai, lietuvius iš visų pusių aps
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad visi kryžiuočiai su vadu Henriku fon Plocke, Prūsijos maršalu, buvo šioje tankmėje arba su naikinti, arba pakliuvo į nelaisvę.'
+  santrauka: 'Henrikas fon Plockė ir jo vadovaujami kryžiuočiai miško tankmėje buvo sunaikinti arba pateko į nelaisvę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lietuviai, nujautę, jog priešas šitaip ir
@@ -111,3 +116,10 @@ Kojelavičius teigia, kad vos brėkštant dienai, lietuvius iš visų pusių aps
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/ivykiai/Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.)]]

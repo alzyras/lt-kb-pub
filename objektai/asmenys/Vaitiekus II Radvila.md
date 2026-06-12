@@ -27,7 +27,9 @@ Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos ir Nesvyžiaus kunigaik�
 
 ## Teiginiai
 
+<a id="claim-t-87873"></a>
 - t-001
+  global_id: t-87873
   teiginys: 'Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino 1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.'
   pagrindžia:
     - c-001

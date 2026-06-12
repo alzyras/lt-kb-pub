@@ -17,7 +17,9 @@ O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos 
 
 ## Teiginiai
 
+<a id="claim-t-21911"></a>
 - t-001
+  global_id: t-21911
   teiginys: 'Buvo planuota Vilnijoje išrinkti apie 100 Seimo atstovų, bet rinkimai nevyko, nes Lietuva šios teritorijos nekontroliavo.'
   pagrindžia:
     - c-001

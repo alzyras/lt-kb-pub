@@ -16,7 +16,9 @@ Kapsukas-Mickevičius.
 
 ## Teiginiai
 
+<a id="claim-t-40487"></a>
 - t-001
+  global_id: t-40487
   teiginys: 'V. Kapsukas-Mickevičius buvo įvardytas kaip Lietuvos bolševikų lyderis.'
   pagrindžia:
     - c-001

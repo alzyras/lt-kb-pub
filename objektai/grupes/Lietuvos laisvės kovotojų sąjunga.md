@@ -24,12 +24,16 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 
 ## Teiginiai
 
+<a id="claim-t-74748"></a>
 - t-001
+  global_id: t-74748
   teiginys: 'Liberaliai nusistatę tautininkai susibūrė į Lietuvos laisvės kovotojų sąjungą, kuri leido pogrindinius leidinius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74750"></a>
 - t-003
+  global_id: t-74750
   teiginys: '1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės kovotojų sąjungos ir LLA grupes.'
   pagrindžia:
     - c-001

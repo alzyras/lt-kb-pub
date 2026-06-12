@@ -33,22 +33,30 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 
 ## Teiginiai
 
+<a id="claim-t-55271"></a>
 - t-001
+  global_id: t-55271
   teiginys: 'IX a. Rusioje pirmieji normanai iš Skandinavijos buvo žinomi variagų vardu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-55272"></a>
 - t-002
+  global_id: t-55272
   teiginys: 'Riurikas ir jo variagai, Balinskio aiškinimu, į Rusią galėjo būti atblokšti Petro Olai aprašyto įvykio.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82105"></a>
 - t-003
+  global_id: t-82105
   teiginys: 'Petro Olai „Danų kronikoje“ aprašytas įvykis siejamas su Riuriko ir jo variagų pasitraukimu į Rusiją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82106"></a>
 - t-004
+  global_id: t-82106
   teiginys: 'IX a. Rusioje variagais vadinti skandinavų normanai Baltijos pakrantėse vertėsi plėšikavimu ir prekyba.'
   pagrindžia:
     - c-003

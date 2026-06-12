@@ -29,7 +29,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-88282"></a>
 - t-001
+  global_id: t-88282
   teiginys: 'Žygimantas Senasis 1514 m. rašte Varmės kanauninkui Andriui Kopernikui aptarė Varmės vyskupo rinkimo tvarką.'
   pagrindžia:
     - c-001

@@ -17,12 +17,16 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
 
 ## Teiginiai
 
+<a id="claim-t-58536"></a>
 - t-001
+  global_id: t-58536
   teiginys: 'Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai užpuolė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58537"></a>
 - t-002
+  global_id: t-58537
   teiginys: 'Dusburgietis teigia, kad bartoszyce) prie Bysleidos upelio.'
   pagrindžia:
     - c-001

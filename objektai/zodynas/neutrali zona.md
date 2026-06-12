@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-42482"></a>
 - t-001
+  global_id: t-42482
   teiginys: '1923 m. prie sienos buvo nustatyta 6 km pločio neutrali zona, o abi pusės turėjo pasitraukti po 3 km.'
   pagrindžia:
     - c-001

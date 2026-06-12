@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-89376"></a>
 - t-001
+  global_id: t-89376
   teiginys: 'Dusburgietis teigia, kad tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė kalavijuočiams padauguvyje27.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89377"></a>
 - t-002
+  global_id: t-89377
   teiginys: 'Dusburgietis teigia, kad taigi plačiu mastu atremiant katalikiškųjų vakarų kryžininkų puolimus dar iki kryžiuočių atsikraustymo į pavyslį, pasireiškė Lietuvos, jotvingių, prūsų bendradarbiavimas26.'
   pagrindžia:
     - c-001

@@ -18,12 +18,16 @@ Jiems vadovavo kapitonas Antanas Kaminskas.
 
 ## Teiginiai
 
+<a id="claim-t-39710"></a>
 - t-001
+  global_id: t-39710
   teiginys: 'Kapitonas Antanas Kaminskas vadovavo apie 80 karių iš 8-ojo regimento, dengusių du reduto pabūklus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183727"></a>
 - t-002
+  global_id: t-183727
   teiginys: 'Jiems vadovavo kapitonas Antanas Kaminskas.'
   pagrindžia:
     - c-002

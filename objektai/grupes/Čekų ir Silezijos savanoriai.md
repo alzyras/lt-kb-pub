@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86838"></a>
 - t-001
+  global_id: t-86838
   teiginys: 'Čekų ir Silezijos savanorių vadai pateko į nelaisvę po nesėkmės brastoje per Šventosios upę ties Ukmerge.'
   pagrindžia:
     - c-001

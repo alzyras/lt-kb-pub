@@ -18,12 +18,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86112"></a>
 - t-001
+  global_id: t-86112
   teiginys: 'Žygimantas Pabaisko mūšio lauką per jį tekėjusį mažą upelį pavadino Viktorija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86113"></a>
 - t-002
+  global_id: t-86113
   teiginys: 'Žemė derlinga, Viktorijos upelis, nors mažas, bet vertas gražaus vardo.'
   pagrindžia:
     - c-001

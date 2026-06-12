@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01769"></a>
 - t-001
+  global_id: t-01769
   teiginys: 'Pirmasis naujokų šaukimas į nepriklausomos Lietuvos kariuomenę buvo paskelbtas 1919 m. kovo 5 d.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-38668"></a>
 - t-001
+  global_id: t-38668
   teiginys: '1560 m. rusai užėmė Alūksnę, Vilijandį.'
   pagrindžia:
     - c-001

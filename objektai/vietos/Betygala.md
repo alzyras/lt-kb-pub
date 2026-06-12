@@ -26,32 +26,44 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
 
 ## Teiginiai
 
+<a id="claim-t-179756"></a>
 - t-001
+  global_id: t-179756
   teiginys: 'Vytautas Žemaitijoje pastatė bažnyčią Betygaloje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-179757"></a>
 - t-002
+  global_id: t-179757
   teiginys: 'Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupui gyvenamąja vieta paskyrė Žemaičius ir dovanojo jam čia kai kurias žemes: po pusę Raseinių, Ariogalos, Betygalos, Laukuvos ir kt.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-179758"></a>
 - t-003
+  global_id: t-179758
   teiginys: 'Aukokalnis buvo ties dabartine Betygala, o nuo jo pradėtas apaštalavimo darbas Žemaitijoje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-179759"></a>
 - t-004
+  global_id: t-179759
   teiginys: '1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-179760"></a>
 - t-005
+  global_id: t-179760
   teiginys: 'Žemaitijoje Vytautas pastatė bažnyčias Airiogaloje, Betygaloje, Kelmėje ir kitose vietose.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-179762"></a>
 - t-006
+  global_id: t-179762
   teiginys: '1945 m. vasario 15 d. Raseinių apskrities Betygalos valsčiuje NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų pasalą.'
   pagrindžia:
     - c-001

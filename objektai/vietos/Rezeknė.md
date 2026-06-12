@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Rezeknė
 
 ## Santrauka
 
-Kojelavičius teigia, kad laiduodamas Lietuvos 7 0 3 iždo padarytas išlaidas, LivoS u la rties są ly g o s nijos riterių ordinas atiduo dąs Lietuvai visas žemes abiejuose Dauguvos krantuose tarp Drujos ir Aizkrauklės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug pilio, Sėlpilio.
+Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylinkėmis.
 
 ## Teiginiai
 
+<a id="claim-t-185300"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad laiduodamas Lietuvos 7 0 3 iždo padarytas išlaidas, LivoS u la rties są ly g o s nijos riterių ordinas atiduo dąs Lietuvai visas žemes abiejuose Dauguvos krantuose tarp Drujos ir Aizkrauklės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug pilio, Sėlpilio.'
+  global_id: t-185300
+  teiginys: 'Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylinkėmis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad laiduodamas Lietuvos 7 0 3 iždo padarytas išlaidas, LivoS u la rties są ly g o s nijos riterių ordinas atiduo dąs Lietuvai visas žemes abiejuose Dauguvos krantuose tarp Drujos ir Aizkrauklės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug pilio, Sėlpilio.'
+  santrauka: 'Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylinkėmis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Seimo darbe dalyvavo ir ordino magistras Ket-

@@ -17,7 +17,9 @@ Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miškus, įs
 
 ## Teiginiai
 
+<a id="claim-t-19622"></a>
 - t-001
+  global_id: t-19622
   teiginys: 'Daug Lietuvos žydų kovojo SSRS gilumoje suformuotoje 16-ojoje lietuviškojoje šaulių divizijoje.'
   pagrindžia:
     - c-001

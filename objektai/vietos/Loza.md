@@ -25,7 +25,9 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 
 ## Teiginiai
 
+<a id="claim-t-58701"></a>
 - t-001
+  global_id: t-58701
   teiginys: 'Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 1, 1, Nr. 41, p. 29); 1246 m. dokumente rašoma, kad prie Lozos kaimo (villa) esąs ežeras: Loza cum stagno (ten pat.'
   pagrindžia:
     - c-001

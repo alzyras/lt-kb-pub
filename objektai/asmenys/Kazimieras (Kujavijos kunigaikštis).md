@@ -19,37 +19,51 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
 
 ## Teiginiai
 
+<a id="claim-t-63802"></a>
 - t-001
+  global_id: t-63802
   teiginys: 'Dusburgietis teigia, kad apie naują Sventopelko karą ir susidūrimą prie Renzeno Kadangi žmogaus pojūčiai visados linkę į bloga ir žmogus, nors ir pasenęs, nelengvai 275 Kujavijos kunigaikštis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-63803"></a>
 - t-002
+  global_id: t-63803
   teiginys: 'Dusburgietis teigia, kad juos išvydę, lenkai išsigandę visi išlakstė, išskyrus vieną riterį Martyną iš Krušvicos, vėliavininką, bei kunigaikštį Kazimierą, kuris nutarė tuoj pat kviestis į pagalbą Henriką iš Lichtenšteino.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63804"></a>
 - t-003
+  global_id: t-63804
   teiginys: 'Dusburgietis teigia, kad po to, kai jie ėmė trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių žūties, leidosi jų persekioti su tūkstančiu ir aštuoniais šimtais vyrų.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-63805"></a>
 - t-004
+  global_id: t-63805
   teiginys: 'Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas man nesuprantamais sumetimais sudarė kuriam laikui tarp krikščionių ir netikėlių paliaubas, jų metu lenkai, nesitikėdami jokių pavojų, ramiai sau dirbo visokius darbus, tuo tarpu lietuviai, nutraukę šį.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-63806"></a>
 - t-005
+  global_id: t-63806
   teiginys: 'Dusburgietis teigia, kad kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė traukti su kariuomene į šią vietą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-63808"></a>
 - t-006
+  global_id: t-63808
   teiginys: 'Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimierą275 bei Kališo kunigaikštį ir brolius ir patarė jiems traukti su kariuomene prieš Sventopelką.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-63809"></a>
 - t-007
+  global_id: t-63809
   teiginys: 'Dusburgietis teigia, kad galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę ir įsibrovė į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas, baisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop sugrįžo.'
   pagrindžia:
     - c-001

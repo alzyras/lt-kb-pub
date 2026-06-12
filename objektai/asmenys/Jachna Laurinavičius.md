@@ -28,12 +28,16 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
 
 ## Teiginiai
 
+<a id="claim-t-87598"></a>
 - t-001
+  global_id: t-87598
   teiginys: 'Jachna Laurinavičius žinomas nuo - 1485 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87599"></a>
 - t-002
+  global_id: t-87599
   teiginys: 'Jachna Laurinavičius jau 1435 metais buvo Vilniaus vaitas ir 1492 metais dar ėjo šias pareigas.'
   pagrindžia:
     - c-002

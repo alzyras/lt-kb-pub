@@ -28,12 +28,16 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
 
 ## Teiginiai
 
+<a id="claim-t-11262"></a>
 - t-001
+  global_id: t-11262
   teiginys: 'Józef Wolff buvo 1886 m. Krokuvoje išleisto veikalo „Ród Gediminą“ autorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-11263"></a>
 - t-002
+  global_id: t-11263
   teiginys: 'Istorikas Józef Wolff teigė, kad sunku Patirgą ir Ringailę laikyti vienos motinos vaikais.'
   pagrindžia:
     - c-002

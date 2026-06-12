@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87870"></a>
 - t-001
+  global_id: t-87870
   teiginys: 'Traidenis 1325 m. viešpatavo vienoje iš Mazovijos žemių kartu su kunigaikščiu Ziemovitu.'
   pagrindžia:
     - c-001

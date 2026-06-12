@@ -24,12 +24,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88269"></a>
 - t-001
+  global_id: t-88269
   teiginys: 'Adomas Honorijus Kirkoras 1859 m. išleistame vadove po Vilnių rašė, kad miestas jau turi savo istorikus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88270"></a>
 - t-002
+  global_id: t-88270
   teiginys: 'Kirkoras „Pasivaikščiojimuose po Vilnių ir jo apylinkes“ rėmėsi Kraševskio ir Balinskio veikalais apie Vilnių.'
   pagrindžia:
     - c-002

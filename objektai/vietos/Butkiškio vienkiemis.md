@@ -16,7 +16,9 @@ Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d
 
 ## Teiginiai
 
+<a id="claim-t-41635"></a>
 - t-001
+  global_id: t-41635
   teiginys: 'Spalio 28 d. du po tardymų ir kankinimų užverbuoti asmenys atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Butkiškio vienkiemyje.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Grafas Ado­ mas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bi
 
 ## Teiginiai
 
+<a id="claim-t-87606"></a>
 - t-001
+  global_id: t-87606
   teiginys: 'Grafas Adomas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bibliotekos turtus.'
   pagrindžia:
     - c-001

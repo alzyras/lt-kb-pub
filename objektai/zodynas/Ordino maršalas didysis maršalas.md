@@ -27,12 +27,16 @@ Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino 
 
 ## Teiginiai
 
+<a id="claim-t-86490"></a>
 - t-001
+  global_id: t-86490
   teiginys: 'Ordino maršalas Engelhardas Rabė vadovavo žygiui, nes didysis magistras Konradas Ciolneris sirgo sunkia liga.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86491"></a>
 - t-002
+  global_id: t-86491
   teiginys: 'Konradas Valenrodas 1382 metais buvo paskirtas Ordino didžiuoju maršalu, o 1391 m. kovo 12 d. išrinktas didžiuoju magistru.'
   pagrindžia:
     - c-001

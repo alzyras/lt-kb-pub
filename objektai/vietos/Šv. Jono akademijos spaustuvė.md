@@ -24,12 +24,16 @@ Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskut
 
 ## Teiginiai
 
+<a id="claim-t-86127"></a>
 - t-001
+  global_id: t-86127
   teiginys: 'Akademijos kolegija vėlesniais laikais 1631 m. įgytą mūrinį namą ir sklypą pavertė spaustuve.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86128"></a>
 - t-002
+  global_id: t-86128
   teiginys: 'Akademijos kolegija vėlesniais laikais į spaustuvę pavertė 1631 m. įgytą sklypą ir mūrinį namą.'
   pagrindžia:
     - c-002

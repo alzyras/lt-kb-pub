@@ -32,58 +32,80 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 
 ## Teiginiai
 
+<a id="claim-t-70220"></a>
 - t-001
+  global_id: t-70220
   teiginys: 'Po Urbono II raginimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-70221"></a>
 - t-002
+  global_id: t-70221
   teiginys: 'Dusburgietis teigia, kad neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70223"></a>
 - t-003
+  global_id: t-70223
   teiginys: 'Dusburgietis teigia, kad dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237 viešpaties įsikūnijimo metais į Pagudės žemę, į tą salą, kuri, pasak kai kurių, esanti Elbingo upės.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-70224"></a>
 - t-004
+  global_id: t-70224
   teiginys: '`Maldininko įžadai` šiame šaltinyje žymi laikiną, įžadais apribotą tarnybos ar žygio laiką.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-70225"></a>
 - t-005
+  global_id: t-70225
   teiginys: 'Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-70226"></a>
 - t-006
+  global_id: t-70226
   teiginys: 'Dusburgietis `maldininkais` vadina į Prūsiją atvykstančius ar joje paliekamus religinio karo talkininkus.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-70227"></a>
 - t-007
+  global_id: t-70227
   teiginys: 'Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį.'
   pagrindžia:
     - c-004
     - c-002
 
+<a id="claim-t-70228"></a>
 - t-008
+  global_id: t-70228
   teiginys: 'Šio šaltinio pasakojime maldininkai veikia kaip atskira nuo Ordino brolių karinė jėga.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-70229"></a>
 - t-009
+  global_id: t-70229
   teiginys: 'Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo žmonių krito kovoje262.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-70230"></a>
 - t-010
+  global_id: t-70230
   teiginys: 'Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-70231"></a>
 - t-011
+  global_id: t-70231
   teiginys: 'Vokietijos maldininkai atvyko į pagalbą prūsų apsiaustai Baigos piliai.'
   pagrindžia:
     - c-009

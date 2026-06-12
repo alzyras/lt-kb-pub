@@ -19,7 +19,9 @@ Dusburgietis teigia, kad volfgeris sušakosiąs ir ateityje duosiąs gausybę va
 
 ## Teiginiai
 
+<a id="claim-t-60468"></a>
 - t-001
+  global_id: t-60468
   teiginys: 'Pasau vyskupas Volfgeris buvo tarp didikų, pritarusių siųsti legatus dėl ligoninės steigimo ir patvirtinimo.'
   pagrindžia:
     - c-001

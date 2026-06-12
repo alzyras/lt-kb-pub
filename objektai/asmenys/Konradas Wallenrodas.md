@@ -25,7 +25,9 @@ Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugs�
 
 ## Teiginiai
 
+<a id="claim-t-30334"></a>
 - t-001
+  global_id: t-30334
   teiginys: 'Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugsėjo 1 d. prie Kauno Nemuno saloje, pagerbdamas gausiai atsilankiusius svečius-pilgrimus, iškėlė tokią didelę puotą, kokios — pagal ordino metraščius — iki tol dar nebuvo buvę.'
   pagrindžia:
     - c-001

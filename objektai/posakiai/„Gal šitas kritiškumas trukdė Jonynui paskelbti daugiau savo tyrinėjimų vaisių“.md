@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-97297"></a>
 - t-001
+  global_id: t-97297
   teiginys: 'Jonyno kritiškumas galėjo trukdyti jam paskelbti daugiau savo tyrinėjimų vaisių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97298"></a>
 - t-002
+  global_id: t-97298
   teiginys: 'Jonynas Lietuvos istorijos kursuose mokė analizuoti šaltinius ir skatino klausytojų visapusišką kritiškumą.'
   pagrindžia:
     - c-001

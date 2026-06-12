@@ -24,7 +24,9 @@ Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo į savo praeitį pamilusios
 
 ## Teiginiai
 
+<a id="claim-t-32580"></a>
 - t-001
+  global_id: t-32580
   teiginys: 'Nuo XIX a. Vilniaus įkūrimo legenda Taurakalnį (Pilies kalną) siejo su Gedimino medžiokle ir Geležinio vilko sapnu.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
 
 ## Teiginiai
 
+<a id="claim-t-21613"></a>
 - t-001
+  global_id: t-21613
   teiginys: 'Septintąjį–aštuntąjį dešimtmetį per sovietinę industrializaciją Lietuvoje pastatyta Mažeikių naftos perdirbimo įmonė.'
   pagrindžia:
     - c-001

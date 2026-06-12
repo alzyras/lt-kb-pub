@@ -28,27 +28,37 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
 
 ## Teiginiai
 
+<a id="claim-t-172761"></a>
 - t-001
+  global_id: t-172761
   teiginys: 'Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-172762"></a>
 - t-002
+  global_id: t-172762
   teiginys: 'Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo 20 kapų lietuviškų grašių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-172763"></a>
 - t-003
+  global_id: t-172763
   teiginys: 'Radvilų giminės galia ir turtai augo, o jų pėdsakai autoriui dar atrodė stebinantys savo didybe.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-172765"></a>
 - t-004
+  global_id: t-172765
   teiginys: '1493 m. Aleksandro Jogailaičio dovanojimo akto originalas buvo Radvilų archyve Kardinalijoje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-172766"></a>
 - t-005
+  global_id: t-172766
   teiginys: 'Radvilų archyve Kardinalijoje buvo saugomi du autentiški Stepono Batoro laiškai, rašyti Radviloms dėl Vilniaus muitų.'
   pagrindžia:
     - c-001

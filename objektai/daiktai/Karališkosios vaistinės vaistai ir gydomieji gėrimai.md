@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87048"></a>
 - t-001
+  global_id: t-87048
   teiginys: 'Didžioji kunigaikštienė Julijona iš didžiojo magistro Pauliaus Rusdorfo gavo dovanų gydomųjų gėrimų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87049"></a>
 - t-002
+  global_id: t-87049
   teiginys: 'Didžioji iš Krokuvos pargabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia.'
   pagrindžia:
     - c-002

@@ -25,7 +25,9 @@ Stammler : Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386 
 
 ## Teiginiai
 
+<a id="claim-t-31894"></a>
 - t-001
+  global_id: t-31894
   teiginys: 'K. D. Stammlerio „Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386“ išleista 1953 m.'
   pagrindžia:
     - c-001

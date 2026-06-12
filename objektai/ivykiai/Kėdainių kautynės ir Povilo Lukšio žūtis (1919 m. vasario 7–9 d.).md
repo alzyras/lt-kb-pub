@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01689"></a>
 - t-001
+  global_id: t-01689
   teiginys: 'Pradėję kariauti su bolševikais, lietuviai pirmą mūšį laimėjo prie Kėdainių, kur žuvo Povilas Lukšys.'
   pagrindžia:
     - c-001

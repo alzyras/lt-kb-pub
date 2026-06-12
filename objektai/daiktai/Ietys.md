@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39315"></a>
 - t-001
+  global_id: t-39315
   teiginys: 'Ietys kartu su kalavijais buvo pagrindiniai kariuomenės ginklai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183684"></a>
 - t-002
+  global_id: t-183684
   teiginys: 'Pagrindiniai tokios kariuomenės ginklai buvo ietys ir kalavijai.'
   pagrindžia:
     - c-002

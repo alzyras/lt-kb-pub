@@ -17,7 +17,9 @@ Yra duomenų, kad toliau žygiuojant buvo pasiektas pietinėje Krymo pakrantėje
 
 ## Teiginiai
 
+<a id="claim-t-41752"></a>
 - t-001
+  global_id: t-41752
   teiginys: 'Žygio metu buvo pasiektas pietinėje Krymo pakrantėje buvęs tarptautinės reikšmės uostas Kafa.'
   pagrindžia:
     - c-001

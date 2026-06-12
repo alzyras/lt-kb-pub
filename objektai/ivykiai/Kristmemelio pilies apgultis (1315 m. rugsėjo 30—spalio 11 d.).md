@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62837"></a>
 - t-001
+  global_id: t-62837
   teiginys: 'Dusburgietis teigia, kad rugsėjo 30—spalio 11 Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai puldinėjo su dviem apgulos mašinomis ir daugybe šaulių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-62838"></a>
 - t-002
+  global_id: t-62838
   teiginys: 'Dusburgietis teigia, kad nieko šiuo būdu nepešę, galop jie 17 dieną, kai jau ketino pasitraukti, sužinoję, kad artėja magistras su didele kariuomene, priėjo pilies gynybinį griovį ir ten prinešė malkų, šieno, stagarų ir šiaudu, norėdami žūt būt pilį sudeginti.'
   pagrindžia:
     - c-002

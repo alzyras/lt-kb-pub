@@ -34,7 +34,9 @@ Dusburgietis teigia, kad preussisches Urkundenbuch: Politische Abtheilung.—Bd.
 
 ## Teiginiai
 
+<a id="claim-t-61257"></a>
 - t-001
+  global_id: t-61257
   teiginys: 'Pirmasis „Preussisches Urkundenbuch: Politische Abtheilung“ tomas apima 1140–1309 m. dokumentus.'
   pagrindžia:
     - c-001

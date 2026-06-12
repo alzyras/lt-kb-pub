@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40801"></a>
 - t-001
+  global_id: t-40801
   teiginys: 'Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26 šaltinyje nurodomas ir santrumpa LK vz. 26.'
   pagrindžia:
     - c-001

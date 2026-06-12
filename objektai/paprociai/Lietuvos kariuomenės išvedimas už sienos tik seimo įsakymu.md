@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67152"></a>
 - t-001
+  global_id: t-67152
   teiginys: 'Hetmonas Pacas atsisakė eiti lenkams į pagalbą, aiškindamas, kad Lietuvos kariuomenė neturi teisės peržengti Lenkijos sienos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67153"></a>
 - t-002
+  global_id: t-67153
   teiginys: 'Hetmonas Pacas ne kartą atsisakė vykti prieš turkus, remdamasis įstatymu, kad Lietuvos kariuomenė už sienų gali išeiti tik seimui įsakius.'
   pagrindžia:
     - c-002

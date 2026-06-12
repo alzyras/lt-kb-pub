@@ -22,12 +22,16 @@ Romas Dubonis nurodytas kaip 2007 m. „Vilniaus miesto istorijos“ leidimo men
 
 ## Teiginiai
 
+<a id="claim-t-55021"></a>
 - t-001
+  global_id: t-55021
   teiginys: 'Romas Dubonis buvo 2007 m. „Vilniaus miesto istorijos“ leidimo meninis redaktorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81963"></a>
 - t-002
+  global_id: t-81963
   teiginys: 'Romas Dubonis buvo 2007 m. išleistos Mykolo Balinskio knygos „Vilniaus miesto istorija“ meninis redaktorius.'
   pagrindžia:
     - c-002

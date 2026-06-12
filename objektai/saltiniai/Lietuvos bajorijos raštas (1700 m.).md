@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-10521"></a>
 - t-001
+  global_id: t-10521
   teiginys: 'Lietuvos bajorijos rašte totoriai apibūdinti kaip lengvoji raitija, gerai aprūpinta ir ginkluota kaip kazokai.'
   pagrindžia:
     - c-001

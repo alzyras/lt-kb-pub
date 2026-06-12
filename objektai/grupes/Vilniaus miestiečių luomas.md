@@ -48,182 +48,254 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 
 ## Teiginiai
 
+<a id="claim-t-55077"></a>
 - t-001
+  global_id: t-55077
   teiginys: 'Lietuvos miestiečių luomas vėlavo kartu su civilizacijos raida ir formavosi tik XIV amžiuje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55078"></a>
 - t-002
+  global_id: t-55078
   teiginys: 'Miestiečių luomas susikūrė iš nelaisvųjų, svetimšalių kolonistų ir bajorų arba kunigaikščių tarnų grupių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55079"></a>
 - t-003
+  global_id: t-55079
   teiginys: 'Vokietijos, Rusios ir Livonijos amatininkai bei pirkliai tapo turtingiausiu Vilniaus gyventojų sluoksniu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55080"></a>
 - t-004
+  global_id: t-55080
   teiginys: 'Algirdo laikais Vilniaus miestiečiai gavo privilegiją laisvai prekiauti visoje Lietuvos valstybėje nemokėdami muito.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-55081"></a>
 - t-005
+  global_id: t-55081
   teiginys: 'Vilniaus miestiečiai turėjo privilegiją laisvai prekiauti Lietuvos valstybėje nemokėdami muitų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-55082"></a>
 - t-006
+  global_id: t-55082
   teiginys: 'Vilniaus pilininkas ir miestiečiai palaikė Jogailą prieš Kęstutį ir perdavė jam Žemutinę bei Aukštutinę pilis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-55083"></a>
 - t-007
+  global_id: t-55083
   teiginys: 'Karai ir dažnas karinės valdžios kišimasis silpnino Vilniaus miestiečiams suteiktų Magdeburgo teisių poveikį.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-55084"></a>
 - t-008
+  global_id: t-55084
   teiginys: 'Sostinės miestiečių luomui priklausė narystė suvažiavimuose arba Lietuvos seimuose.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-55085"></a>
 - t-009
+  global_id: t-55085
   teiginys: '1424 m. Vytauto privilegijos atleido Vilniaus miestiečius nuo įvairių duoklių, bet jų naudą gavo Romos katalikai.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-55086"></a>
 - t-010
+  global_id: t-55086
   teiginys: 'Vilniaus miestiečiai gaisro atveju privalėjo skubėti prie ugnies, o miesto gynybai turėti šarvus, muškietą ir ragotinę.'
   pagrindžia:
     - c-025
 
+<a id="claim-t-55087"></a>
 - t-011
+  global_id: t-55087
   teiginys: 'Vilniaus miestiečių saugumui ir gausėjimui bajorams buvo uždrausta iškelti iš miesto pavaldinius, kurie ten ramiai pragyveno šešerius metus.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-55088"></a>
 - t-012
+  global_id: t-55088
   teiginys: 'Miesto taryba negalėjo įvesti naujų mokesčių be miestiečių leidimo.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-55089"></a>
 - t-013
+  global_id: t-55089
   teiginys: '1569 m. Vilniaus pasiuntiniai Liublino unijos seime pasirašė susivienijimo dekretą kartu su kitais LDK delegatais.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-55090"></a>
 - t-014
+  global_id: t-55090
   teiginys: '1564 m. Žygimantas Augustas atribojo Vilniaus miestiečius nuo Antrojo Statuto galios ir paliko bylinėjimąsi pagal Magdeburgo teisę.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-172824"></a>
 - t-015
+  global_id: t-172824
   teiginys: 'Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų.'
   pagrindžia:
     - c-020
 
+<a id="claim-t-172825"></a>
 - t-016
+  global_id: t-172825
   teiginys: 'Gaisro atveju kiekvienas Vilniaus miestietis privalėjo skubėti prie ugnies, o burmistrai turėjo vadovauti gesinimui.'
   pagrindžia:
     - c-025
 
+<a id="claim-t-172826"></a>
 - t-017
+  global_id: t-172826
   teiginys: 'Miestiečių luomas, dviejų paskutinių Jogailaičių iškeltas iki tikrų piliečių, valdant Steponui Batorui turėjo stiprų globėją.'
   pagrindžia:
     - c-021
 
+<a id="claim-t-172827"></a>
 - t-018
+  global_id: t-172827
   teiginys: 'Kazimieras dar būdamas didžiuoju kunigaikščiu atleido Vilniaus miestiečius nuo muito mokesčio visoje Lietuvoje.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-172828"></a>
 - t-019
+  global_id: t-172828
   teiginys: 'Vilniaus namų statyba teikė miestiečiams naudingos veiklos ir prisidėjo prie jų turtėjimo.'
   pagrindžia:
     - c-028
 
+<a id="claim-t-172830"></a>
 - t-020
+  global_id: t-172830
   teiginys: '1569 m. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.'
   pagrindžia:
     - c-022
 
+<a id="claim-t-172831"></a>
 - t-021
+  global_id: t-172831
   teiginys: 'Minėti įstatymai laikyti aukščiausia teisių veikimo riba, kurią Vilniaus miestiečių luomas pasiekė Lietuvoje.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-172832"></a>
 - t-022
+  global_id: t-172832
   teiginys: 'Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės Vilniaus miestiečių luomui suteikė aukštesnę visuomeninę padėtį.'
   pagrindžia:
     - c-023
 
+<a id="claim-t-172833"></a>
 - t-023
+  global_id: t-172833
   teiginys: '1505 m. karalius atleido Vilniaus gyventojus nuo karo tarnybos vieneriems metams, kad jie apjuostų miestą mūro siena.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-172834"></a>
 - t-024
+  global_id: t-172834
   teiginys: 'Vilniaus miestiečiai, palaikę Jogailą prieš Kęstutį, naktį sumušė Kęstučio įgulą ir perdavė Jogailai Žemutinę bei Aukštutinę pilis.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-172835"></a>
 - t-025
+  global_id: t-172835
   teiginys: '1506 m. totorių pabūgę Vilniaus miestiečiai, remiami vyskupo Vaitiekaus Taboro, apjuosė miestą mūro pylimu.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-172836"></a>
 - t-026
+  global_id: t-172836
   teiginys: 'Vilniaus miestiečių luomas turėjo nustatytą vietą Lietuvos seimuose ir dalyvavo krašto reprezentacijose.'
   pagrindžia:
     - c-024
 
+<a id="claim-t-172837"></a>
 - t-027
+  global_id: t-172837
   teiginys: 'Silpno charakterio karalius nepajėgė pasipriešinti turčių vyravimui ir suteikti daugiau laisvės Vilniaus miestiečių luomui.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-172839"></a>
 - t-028
+  global_id: t-172839
   teiginys: '1451 m. Kazimieras atleido Magdeburgo teisei paklususius Vilniaus miestiečius nuo pastočių davimo.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-172840"></a>
 - t-029
+  global_id: t-172840
   teiginys: 'Vilniaus gyventojai įvertino, kad gaisras didžiajam kunigaikščiui padarė iki 60 tūkstančių sidabro luitų žalą.'
   pagrindžia:
     - c-026
 
+<a id="claim-t-172841"></a>
 - t-030
+  global_id: t-172841
   teiginys: 'Nuolatiniai karai ir mokesčiai nuskurdino Vilniaus miestiečius, todėl jie nebegalėjo prekiauti su svetimšaliais.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-172842"></a>
 - t-031
+  global_id: t-172842
   teiginys: 'Nesunku numanyti, koks buvo Vilniaus, kaip miesto, pradinis kūrimasis.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-172843"></a>
 - t-032
+  global_id: t-172843
   teiginys: 'Vilniaus miesto reikšmė jau anais laikais buvo tokia didelė, kad lygia greta svarbiausių karalystės miestų, jam buvo leista laiduoti sutarties, sudarytos su kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-172844"></a>
 - t-033
+  global_id: t-172844
   teiginys: 'Vilniaus miestiečių luomas negalėjo išsiderėti daugiau laisvių, nes stokojo palankaus meto ir politinių sąlygų.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-172845"></a>
 - t-034
+  global_id: t-172845
   teiginys: 'Žygimantas rugsėjo 23 d. suteikė Vilniaus miestiečiams teisę prekiauti ir be muitų gabenti prekes Lietuvos žemėse.'
   pagrindžia:
     - c-027
 
+<a id="claim-t-172846"></a>
 - t-035
+  global_id: t-172846
   teiginys: '1568 m. birželio 15 d. Gardino seimo sprendimas apsaugojo Vilniaus miestiečius nuo dvariškių ir pasiuntinių apgyvendinimo be miesto tarybos leidimo.'
   pagrindžia:
     - c-029
 
+<a id="claim-t-172847"></a>
 - t-036
+  global_id: t-172847
   teiginys: 'Magdeburgo teisės Vilniaus miestiečiams buvo menkai paveikios dėl karų, baimės ir karinės valdžios kišimosi į miesto valdymą.'
   pagrindžia:
     - c-005

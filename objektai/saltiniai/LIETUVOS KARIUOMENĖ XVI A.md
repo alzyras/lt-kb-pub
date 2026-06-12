@@ -16,7 +16,9 @@ p. 95, „LIETUVOS KARIUOMENE XVI A.“ Lina Vidauskyte, Andžej Geglis, Karolis
 
 ## Teiginiai
 
+<a id="claim-t-41548"></a>
 - t-001
+  global_id: t-41548
   teiginys: 'Informacinį bloką „Lietuvos kariuomenė XVI a.“ parengė Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras.'
   pagrindžia:
     - c-001

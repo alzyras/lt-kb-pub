@@ -18,7 +18,9 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
 
 ## Teiginiai
 
+<a id="claim-t-42019"></a>
 - t-001
+  global_id: t-42019
   teiginys: 'Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę ir toliau Gelvonų link.'
   pagrindžia:
     - c-001

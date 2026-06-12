@@ -18,12 +18,16 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
 
 ## Teiginiai
 
+<a id="claim-t-86114"></a>
 - t-001
+  global_id: t-86114
   teiginys: 'Vilniaus katedros bažnyčios kapitula teigė, kad jos jurisdikciją patvirtino Apaštalų Sostas ir Lietuvos kunigaikščiai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86115"></a>
 - t-002
+  global_id: t-86115
   teiginys: 'Vilniaus miesto taryba ginčijo Vilniaus katedros bažnyčios kapitulos jurisdikciją miesto gyventojų atžvilgiu.'
   pagrindžia:
     - c-002

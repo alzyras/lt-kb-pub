@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-32007"></a>
 - t-001
+  global_id: t-32007
   teiginys: 'Tekstas „Küchmeister Michael“ nurodytas LE 13 tome, 265–266 puslapiuose.'
   pagrindžia:
     - c-001

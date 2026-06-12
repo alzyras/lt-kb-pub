@@ -23,18 +23,24 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 
 ## Teiginiai
 
+<a id="claim-t-70011"></a>
 - t-001
+  global_id: t-70011
   teiginys: 'Kūrėjų kūrėjas vienintelis galėjo įeiti į nurodytą vietą ir klausiantiems duodavo atsakus Perūno vardu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70012"></a>
 - t-002
+  global_id: t-70012
   teiginys: '`Kūrėjų kūrėjas` šiame tekste yra visų vyriausias žynys.'
   pagrindžia:
     - c-001
     - c-002
 
+<a id="claim-t-70013"></a>
 - t-003
+  global_id: t-70013
   teiginys: 'Kūrėjų kūrėjas vienas valdė žynius, davė jiems įsakymus ir per tarnus skelbė iš dievų gautą pamokslą.'
   pagrindžia:
     - c-001

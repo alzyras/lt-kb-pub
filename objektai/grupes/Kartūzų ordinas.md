@@ -25,7 +25,9 @@ Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežia
 
 ## Teiginiai
 
+<a id="claim-t-63007"></a>
 - t-001
+  global_id: t-63007
   teiginys: 'Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol.'
   pagrindžia:
     - c-001

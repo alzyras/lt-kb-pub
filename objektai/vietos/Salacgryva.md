@@ -25,22 +25,30 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 
 ## Teiginiai
 
+<a id="claim-t-42112"></a>
 - t-001
+  global_id: t-42112
   teiginys: 'Uždegti branderiai buvo signalas sausumoje, uosto šturmo pajėgose buvusiems lietuviams pradėti Salacgryvos uosto puolimą iš sausumos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-42113"></a>
 - t-002
+  global_id: t-42113
   teiginys: 'Salacgryvos uosto prieigose etmono įsakymu slapta buvo parengti du branderiai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-42114"></a>
 - t-003
+  global_id: t-42114
   teiginys: 'Jonas Karolis Chodkevičius prie Salacgryvos žygiavo tiesiai per miškus, siekdamas užklupti priešą nepasiruošusį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183806"></a>
 - t-004
+  global_id: t-183806
   teiginys: 'Norėdamas užklupti priešą nepasiruošusį, jis prie Salacgryvos (Salismiinde) žygiavo tiesiai per miškus.'
   pagrindžia:
     - c-004

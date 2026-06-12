@@ -16,7 +16,9 @@ Norint suvokti kalbos dailumą ir grynumą, reikalinga pirmučiau­ siai kalbos 
 
 ## Teiginiai
 
+<a id="claim-t-34395"></a>
 - t-001
+  global_id: t-34395
   teiginys: 'Kalbos dvasios nepažinimas siejamas su nesugebėjimu taisyklingai kalbėti ir rašyti.'
   pagrindžia:
     - c-001

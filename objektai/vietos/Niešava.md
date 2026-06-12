@@ -26,12 +26,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-68823"></a>
 - t-001
+  global_id: t-68823
   teiginys: 'Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-68824"></a>
 - t-002
+  global_id: t-68824
   teiginys: '1424 m. Niešavos miestelyje sudaryta prekybos sutartis dėl laisvo tranzito.'
   pagrindžia:
     - c-001

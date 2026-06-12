@@ -30,17 +30,23 @@ Vilniaus miesto amatininkų cechas.
 
 ## Teiginiai
 
+<a id="claim-t-55091"></a>
 - t-001
+  global_id: t-55091
   teiginys: 'Vilniaus miesto auksakalių cechas ir jo senjorai inicijavo Stepono Genserio šaukimą į karaliaus teismą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55092"></a>
 - t-002
+  global_id: t-55092
   teiginys: 'Cechas turėjo Aleksandro privilegiją, kurią Steponas Batoras buvo patvirtinęs.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55093"></a>
 - t-003
+  global_id: t-55093
   teiginys: 'Skundėjai reikalavo, kad kaltinamasis pripažintų civilinę teisę ir auksakalių cechą, jam paklustų ir gautų privilegijoje numatytą bausmę.'
   pagrindžia:
     - c-002

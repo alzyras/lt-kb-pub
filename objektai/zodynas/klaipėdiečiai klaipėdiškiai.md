@@ -25,22 +25,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-22186"></a>
 - t-001
+  global_id: t-22186
   teiginys: 'Lietuva klaipėdiečius laikė lietuviais ir skaičiavo, kad Klaipėdos krašte lietuviai sudaro 50,8 procento gyventojų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-22187"></a>
 - t-002
+  global_id: t-22187
   teiginys: 'Lietuva dėl socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius klaipėdiškius, balsavusius už vokiškas partijas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183431"></a>
 - t-003
+  global_id: t-183431
   teiginys: '1925 m. Klaipėdos krašto gyventojų surašymo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000 vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo lietuviškai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183432"></a>
 - t-004
+  global_id: t-183432
   teiginys: 'Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas (panašiai kaip elzasiečiai ar.'
   pagrindžia:
     - c-003

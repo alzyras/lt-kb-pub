@@ -27,27 +27,37 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 
 ## Teiginiai
 
+<a id="claim-t-103839"></a>
 - t-001
+  global_id: t-103839
   teiginys: 'Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-103840"></a>
 - t-002
+  global_id: t-103840
   teiginys: 'Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-103841"></a>
 - t-003
+  global_id: t-103841
   teiginys: 'Pirmaisiais poliublininiais dešimtmečiais Stryjkovskis ryškino Lietuvos valstybinį patriotizmą ir gynė atskirą jos valstybinę sąmonę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-103842"></a>
 - t-004
+  global_id: t-103842
   teiginys: 'Poliublininiai laikai tapo laikotarpiu, kuriame istorikas ieškojo lietuvių ir nuo 1931 m. skelbė straipsnius periodikoje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-103843"></a>
 - t-005
+  global_id: t-103843
   teiginys: 'Kojalavičius iki T. Narbuto laikų paliko tradiciją poliublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.'
   pagrindžia:
     - c-004

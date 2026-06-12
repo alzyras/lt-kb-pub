@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Kauno taikos derybos su kryžiuočiais ir jų žlugimas (1408 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad vieniems ir kitiems rodant abipusį palanku mą ir reiškiant džiaugsmą, dėl neseniai sudarytos su tarties, pradėta kalbėti apie taiką: karalius ir Vytautas patys pradėjo tą reikalą gvildenti bei šį tą siūlyti ir kryžiuočių teirautis, ko reikia imtis, kad.
+Kaune Jogaila ir Vytautas pradėjo tartis su kryžiuočių vadovais dėl tvirtos ir pastovios Prūsijos bei Lietuvos taikos.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185805"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vieniems ir kitiems rodant abipusį palanku mą ir reiškiant džiaugsmą, dėl neseniai sudarytos su tarties, pradėta kalbėti apie taiką: karalius ir Vytautas patys pradėjo tą reikalą gvildenti bei šį tą siūlyti ir kryžiuočių teirautis, ko reikia imtis, kad.'
+  global_id: t-185805
+  teiginys: 'Kaune Jogaila ir Vytautas pradėjo tartis su kryžiuočių vadovais dėl tvirtos ir pastovios Prūsijos bei Lietuvos taikos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vieniems ir kitiems rodant abipusį palanku mą ir reiškiant džiaugsmą, dėl neseniai sudarytos su tarties, pradėta kalbėti apie taiką: karalius ir Vytautas patys pradėjo tą reikalą gvildenti bei šį tą siūlyti ir kryžiuočių teirautis, ko reikia imtis, kad.'
+  santrauka: 'Kaune Jogaila ir Vytautas pradėjo tartis su kryžiuočių vadovais dėl tvirtos ir pastovios Prūsijos bei Lietuvos taikos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Susitaręs su Vytautu, Jo­
@@ -58,3 +59,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

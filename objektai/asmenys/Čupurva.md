@@ -25,7 +25,9 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 
 ## Teiginiai
 
+<a id="claim-t-87897"></a>
 - t-001
+  global_id: t-87897
   teiginys: '1396 m. Vilniuje Čupurva minėtas kaip viena iš dvaro maršalkų, dalyvavusių akto sudaryme.'
   pagrindžia:
     - c-001

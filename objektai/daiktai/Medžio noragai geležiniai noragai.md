@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-92024"></a>
 - t-001
+  global_id: t-92024
   teiginys: 'Vokiečiams užgulus jūrines jų pilis, beje: Klaipėdos, Liepojos, Lielupio ir Daugavos, kad nebgalėjo patys su svečia šalia per jūrą beprekioti, tad, nebgaudami nė nuo kur geležies žambių noragams, iš medžio juos dirbo; todėl nuo senų laikų tariama yra.'
   pagrindžia:
     - c-001

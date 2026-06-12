@@ -23,7 +23,9 @@ p- 139, „XVIII A.
 
 ## Teiginiai
 
+<a id="claim-t-41583"></a>
 - t-001
+  global_id: t-41583
   teiginys: 'Andžejus Geglis sukūrė iliustraciją „XVIII a. linijinė taktika“.'
   pagrindžia:
     - c-001

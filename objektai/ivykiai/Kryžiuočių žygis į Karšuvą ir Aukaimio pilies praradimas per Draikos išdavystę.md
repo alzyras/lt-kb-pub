@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis)
 
 ## Santrauka
 
-Kojelavičius teigia, kad tais pačiais me tais per išdavystę buvo prarasta Aukaimio pilis. Kojelavičius teigia, kad negalėdamas tarp saviškių garbinti dievo pagal šias apeigas, jis ryžosi pereiti priešo pusėn, o prieš tai pelnyti jo palankumą nepaprasta išdavyste.
+Aukaimio pilis buvo prarasta per jos viršininko Draikos išdavystę. Draika per sūnų Piną susitarė su Ragainės komtūru Folradu ir įleido jo kariuomenę į Aukaimio pilį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185726"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tais pačiais me tais per išdavystę buvo prarasta Aukaimio pilis.'
+  global_id: t-185726
+  teiginys: 'Aukaimio pilis buvo prarasta per jos viršininko Draikos išdavystę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185727"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad negalėdamas tarp saviškių garbinti dievo pagal šias apeigas, jis ryžosi pereiti priešo pusėn, o prieš tai pelnyti jo palankumą nepaprasta išdavyste.'
+  global_id: t-185727
+  teiginys: 'Draika per sūnų Piną susitarė su Ragainės komtūru Folradu ir įleido jo kariuomenę į Aukaimio pilį.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tais pačiais me tais per išdavystę buvo prarasta Aukaimio pilis.'
+  santrauka: 'Aukaimio pilis buvo prarasta per jos viršininko Draikos išdavystę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tais pačiais me­
@@ -63,7 +66,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad negalėdamas tarp saviškių garbinti dievo pagal šias apeigas, jis ryžosi pereiti priešo pusėn, o prieš tai pelnyti jo palankumą nepaprasta išdavyste.'
+  santrauka: 'Draika per sūnų Piną susitarė su Ragainės komtūru Folradu ir įleido jo kariuomenę į Aukaimio pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Negalėdamas tarp saviškių garbinti dievo pagal
@@ -85,3 +88,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Draika]]
+- [[objektai/asmenys/Sudargas]]
+- [[objektai/asmenys/Folradas]]
+- [[objektai/asmenys/Pinas]]
+- [[objektai/zodynas/komtūras]]

@@ -18,7 +18,9 @@ Lietuvos Metrikos archyvo sąrašo ištraukoje užfiksuotas Jano Filipovičiaus 
 
 ## Teiginiai
 
+<a id="claim-t-88437"></a>
 - t-001
+  global_id: t-88437
   teiginys: 'Lietuvos Metrikos archyvo sąraše užfiksuota, kad Janas Filipovičius pardavė karalienei Elenai sklypą Vilniaus pilyje už 90 kapų.'
   pagrindžia:
     - c-001

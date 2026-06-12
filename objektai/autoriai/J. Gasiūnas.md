@@ -16,7 +16,9 @@ Gasiūnas, Vysk.
 
 ## Teiginiai
 
+<a id="claim-t-30670"></a>
 - t-001
+  global_id: t-30670
   teiginys: 'J. Gasiūnas rengė spaudai veikalą „Vysk. K. Paltaroko gyvenimas“.'
   pagrindžia:
     - c-001

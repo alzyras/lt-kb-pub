@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-26398"></a>
 - t-001
+  global_id: t-26398
   teiginys: 'Lietuva 1991 m. spalį su Baltarusija pasirašė Deklaraciją dėl geros kaimynystės santykių principų.'
   pagrindžia:
     - c-001

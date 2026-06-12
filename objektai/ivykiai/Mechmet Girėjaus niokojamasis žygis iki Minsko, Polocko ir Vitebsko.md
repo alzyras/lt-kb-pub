@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko
 
 ## Santrauka
 
-Kojelavičius teigia, kad kur kas smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus sūnus Mechmet Girėjus. Kojelavičius teigia, kad nužygiavęs ligi Minsko, jis visur nuniokojo kraštą, sudegino miestą, o matydamas, jog pilies nieku būdu greitai neužims, jos neapgulė, bet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko ir Vitebsko žemes, niekur nesutikdamas pasipriešini mo, ir sugrįžo.
+Mechmet Girėjus, Mengli Girėjaus sūnus, smarkiai ir plačiai nusiaubė Lietuvą. Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185752"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kur kas smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus sūnus Mechmet Girėjus.'
+  global_id: t-185752
+  teiginys: 'Mechmet Girėjus, Mengli Girėjaus sūnus, smarkiai ir plačiai nusiaubė Lietuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185753"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad nužygiavęs ligi Minsko, jis visur nuniokojo kraštą, sudegino miestą, o matydamas, jog pilies nieku būdu greitai neužims, jos neapgulė, bet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko ir Vitebsko žemes, niekur nesutikdamas pasipriešini mo, ir sugrįžo.'
+  global_id: t-185753
+  teiginys: 'Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kur kas smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus sūnus Mechmet Girėjus.'
+  santrauka: 'Mechmet Girėjus, Mengli Girėjaus sūnus, smarkiai ir plačiai nusiaubė Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vaivada Goštautas, pilies seniūnas
@@ -62,7 +65,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad nužygiavęs ligi Minsko, jis visur nuniokojo kraštą, sudegino miestą, o matydamas, jog pilies nieku būdu greitai neužims, jos neapgulė, bet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko ir Vitebsko žemes, niekur nesutikdamas pasipriešini mo, ir sugrįžo.'
+  santrauka: 'Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nužygiavęs ligi Minsko, jis
@@ -81,3 +84,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Mechmet Girėjus]]

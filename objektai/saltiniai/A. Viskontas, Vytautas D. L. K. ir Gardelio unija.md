@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31611"></a>
 - t-001
+  global_id: t-31611
   teiginys: 'A. Viskonto darbas „Vytautas D. L. K. ir Gardelio unija“ paskelbtas leidinyje „Lietuvių Tauta“, IV tome.'
   pagrindžia:
     - c-001

@@ -28,22 +28,30 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
 
 ## Teiginiai
 
+<a id="claim-t-181335"></a>
 - t-001
+  global_id: t-181335
   teiginys: 'Memorandumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį į Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos delegacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame tarptautiniame forume, kurdama.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-181336"></a>
 - t-002
+  global_id: t-181336
   teiginys: 'SSRS 1940 metų ultimatumas ir sovietų okupacija Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrinkta į Tautų Sąjungos Tarybą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-181337"></a>
 - t-003
+  global_id: t-181337
   teiginys: '1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją, pritariančią Himanso planui.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-181338"></a>
 - t-004
+  global_id: t-181338
   teiginys: '1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors didžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure.'
   pagrindžia:
     - c-001

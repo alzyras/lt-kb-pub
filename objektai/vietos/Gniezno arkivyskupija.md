@@ -18,7 +18,9 @@ Senosios Lietuvos valstybės laikais, nuo pat krikšto, visa etnografinė Lietuv
 
 ## Teiginiai
 
+<a id="claim-t-02456"></a>
 - t-001
+  global_id: t-02456
   teiginys: 'Nuo Lietuvos krikšto visa etnografinė Lietuva priklausė Lenkijos Gniezno arkivyskupijai.'
   pagrindžia:
     - c-001

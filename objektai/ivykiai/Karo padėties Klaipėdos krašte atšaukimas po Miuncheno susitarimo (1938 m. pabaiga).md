@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-169829"></a>
 - t-001
+  global_id: t-169829
   teiginys: 'Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, tačiau iš jo gavo tik 11 mln. litų pajamų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169830"></a>
 - t-002
+  global_id: t-169830
   teiginys: 'Lietuviško mokymo ir lietuvių kalbos vartojimo skatinimas Klaipėdos krašte davė priešingą rezultatą, nes oponentai kliudė krašto integracijai.'
   pagrindžia:
     - c-001

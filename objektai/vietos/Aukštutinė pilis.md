@@ -19,17 +19,23 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
 
 ## Teiginiai
 
+<a id="claim-t-86059"></a>
 - t-001
+  global_id: t-86059
   teiginys: 'Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86060"></a>
 - t-002
+  global_id: t-86060
   teiginys: 'Aukštutinė pilis ant Tauro kalno.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86061"></a>
 - t-003
+  global_id: t-86061
   teiginys: 'Aukštutinėje tvirtovėje buvo užsidarę lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.'
   pagrindžia:
     - c-002

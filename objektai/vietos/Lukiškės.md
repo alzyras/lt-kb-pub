@@ -26,12 +26,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-85840"></a>
 - t-001
+  global_id: t-85840
   teiginys: 'Ankstyvojo Vilniaus aprašyme Lukiškėse šventų girių kryptimi buvo išsibarsčiusios vienišos trobos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85843"></a>
 - t-002
+  global_id: t-85843
   teiginys: 'Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 m. tapo reformos šalininkų prieglobsčiu ir mokykla.'
   pagrindžia:
     - c-002

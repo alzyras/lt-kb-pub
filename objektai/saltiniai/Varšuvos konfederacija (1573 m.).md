@@ -25,7 +25,9 @@ Lenkijoje tai įvyko tik po Liublino unijos – būtent 1573 m. vadinamojoje Var
 
 ## Teiginiai
 
+<a id="claim-t-78143"></a>
 - t-001
+  global_id: t-78143
   teiginys: 'Lenkijoje tai įvyko tik po Liublino unijos – būtent 1573 m. vadinamojoje Varšuvos konfederacijoje.'
   pagrindžia:
     - c-001

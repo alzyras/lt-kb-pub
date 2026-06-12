@@ -29,22 +29,30 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 
 ## Teiginiai
 
+<a id="claim-t-84093"></a>
 - t-001
+  global_id: t-84093
   teiginys: 'Malburgas, dar vadintas Marienburgu, 1281 m. buvo pastatytas kryžiuočių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-84094"></a>
 - t-002
+  global_id: t-84094
   teiginys: 'Malburgą, dar vadintą Marienburgu, kryžiuočiai pastatė 1281 metais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184309"></a>
 - t-003
+  global_id: t-184309
   teiginys: 'Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—1404) pasiuntė į Malburgą kelias bules, drausdami Vok.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184310"></a>
 - t-004
+  global_id: t-184310
   teiginys: 'Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę.'
   pagrindžia:
     - c-003

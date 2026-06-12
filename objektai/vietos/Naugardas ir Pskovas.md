@@ -19,7 +19,9 @@ Pagaliau jūs jau perėjote per mūsų sienas be jokio tikrini­ mo, kad aplanky
 
 ## Teiginiai
 
+<a id="claim-t-86304"></a>
 - t-001
+  global_id: t-86304
   teiginys: 'Naugardą ir Pskovą aplankyti vykusiems pasiuntiniams buvo leista pereiti sienas be tikrinimo.'
   pagrindžia:
     - c-001

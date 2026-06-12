@@ -20,7 +20,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Germantas
 
 ## Santrauka
@@ -29,38 +28,52 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 
 ## Teiginiai
 
+<a id="claim-t-87425"></a>
 - t-001
+  global_id: t-87425
   teiginys: 'Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. turėjo pirmasis įkurdinti vietovę prie Vilniaus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87426"></a>
 - t-002
+  global_id: t-87426
   teiginys: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87427"></a>
 - t-003
+  global_id: t-87427
   teiginys: 'Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184703"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad jis norėjo, kad tėvynėje visada viešpatautų ramybė, todėl, skubiai su kvietęs tarybos posėdį, paskyrė savo įpėdiniu jau be veik šešiasdešimtmetį sūnų Germantą.'
+  global_id: t-184703
+  teiginys: 'Šventaragis, siekdamas ramybės tėvynėje, tarybos posėdyje paskyrė beveik šešiasdešimtmetį sūnų Germantą savo įpėdiniu.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184704"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad vos užmetus žvilgsnį, ši puiki lyguma taip sužavėjo seneliui širdį, jog jis paprašė Germantą, jam mirus, niekur kitur neieškoti vietos nei laidotuvėms, nei lau žui, nei kapui, norėdamas, kad ši aikštė ateityje am žinai būtų skiriama valdovams deginti ir jų.'
+  global_id: t-184704
+  teiginys: 'Germantas apvalė valdovų laidojimo aikštę, paskelbė ją laidotuvių vieta ir įsteigė žynių tarnybas amžinajai ugniai prižiūrėti.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184705"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad su pastaraisiais Germantas suėjo į draugystę, pasiūlydamas sąjungą — ne tiek iš noro taikiai gyventi, kiek iš troškimo visomis jėgo mis iš karto pulti rusus.'
+  global_id: t-184705
+  teiginys: 'Germantas sudarė sąjungą su lenkais, nes siekė visomis jėgomis pulti rusus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184706"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad sukvietus Kernavėje didikų sueigą, Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, jo broliui Trobiui patikėta Žemaitija su ta są lyga, kad jis bus pavaldus Lietuvos didžiajam kunigaik ščiui.'
+  global_id: t-184706
+  teiginys: 'Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.'
   pagrindžia:
     - c-007
 
@@ -148,7 +161,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - t-001
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad jis norėjo, kad tėvynėje visada viešpatautų ramybė, todėl, skubiai su kvietęs tarybos posėdį, paskyrė savo įpėdiniu jau be veik šešiasdešimtmetį sūnų Germantą.'
+  santrauka: 'Šventaragis, siekdamas ramybės tėvynėje, tarybos posėdyje paskyrė beveik šešiasdešimtmetį sūnų Germantą savo įpėdiniu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi buvo stengiamasi tramdyti
@@ -167,7 +180,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad vos užmetus žvilgsnį, ši puiki lyguma taip sužavėjo seneliui širdį, jog jis paprašė Germantą, jam mirus, niekur kitur neieškoti vietos nei laidotuvėms, nei lau žui, nei kapui, norėdamas, kad ši aikštė ateityje am žinai būtų skiriama valdovams deginti ir jų.'
+  santrauka: 'Germantas apvalė valdovų laidojimo aikštę, paskelbė ją laidotuvių vieta ir įsteigė žynių tarnybas amžinajai ugniai prižiūrėti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vos užmetus žvilgsnį, ši puiki lyguma taip sužavėjo
@@ -194,7 +207,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad su pastaraisiais Germantas suėjo į draugystę, pasiūlydamas sąjungą — ne tiek iš noro taikiai gyventi, kiek iš troškimo visomis jėgo mis iš karto pulti rusus.'
+  santrauka: 'Germantas sudarė sąjungą su lenkais, nes siekė visomis jėgomis pulti rusus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Valstybėje tada bu-
@@ -219,7 +232,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - t-006
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad sukvietus Kernavėje didikų sueigą, Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, jo broliui Trobiui patikėta Žemaitija su ta są lyga, kad jis bus pavaldus Lietuvos didžiajam kunigaik ščiui.'
+  santrauka: 'Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tokio pat likimo susilaukė jo įpėdinis Andrius fon
@@ -237,3 +250,26 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   statusas: verified
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Giliginas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
+- [[objektai/asmenys/Trobius]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Leonas]]
+- [[objektai/paprociai/Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje]]
+- [[objektai/paprociai/Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą]]
+- [[objektai/paprociai/Valdovų deginimo ir laidojimo apeigos Šventaragyje]]
+- [[objektai/posakiai/karo, ir taikos metu tokios pat santarvės bei šlovės]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/sueiga]]
+- [[objektai/paprociai/Mirusiųjų kūnų deginimas Šventaragio slėnyje]]
+- [[objektai/asmenys/Šventaragis]]
+- [[objektai/grupes/Žemaičiai]]

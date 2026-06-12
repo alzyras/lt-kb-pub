@@ -39,17 +39,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87162"></a>
 - t-001
+  global_id: t-87162
   teiginys: '1785 m. kovo 14 d. Laurynas Ozechovskis pateikė Pabaisko fundacijos privilegijos originalą įtraukti į LDK Vyriausiojo Tribunolo aktų knygas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87163"></a>
 - t-002
+  global_id: t-87163
   teiginys: '1649 m. gruodžio 29 d. Jonas Kazimieras Pinkevičius pateikė Pabaisko klebonijos fundacijos privilegiją įrašyti į teismo aktų knygas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183823"></a>
 - t-003
+  global_id: t-183823
   teiginys: 'LDK Vyriausiasis Tribunolas priėmė fundacijos privilegiją ir pavedė ją žodis žodin įrašyti į viešųjų reikalų knygas.'
   pagrindžia:
     - c-003

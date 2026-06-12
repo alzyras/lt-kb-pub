@@ -33,12 +33,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66555"></a>
 - t-001
+  global_id: t-66555
   teiginys: 'Gyventojų išlaidų normuojamojo įstatymo priėmimas (1776 m.): 1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas ir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi prižiūrėti jo vykdymą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66556"></a>
 - t-002
+  global_id: t-66556
   teiginys: '1776 m. seimas priėmė gyventojų išlaidų normuojamąjį įstatymą, siekdamas mažinti importą ir remti vietinę pramonę.'
   pagrindžia:
     - c-002

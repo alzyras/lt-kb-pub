@@ -19,32 +19,44 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
 
 ## Teiginiai
 
+<a id="claim-t-85851"></a>
 - t-001
+  global_id: t-85851
   teiginys: 'Ulrikas Hozijus pradėjo mūryti prieglaudą prie dominikonų vienuolyno, bet mirė jos nebaigęs.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85852"></a>
 - t-002
+  global_id: t-85852
   teiginys: 'Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir prieglaudos provizoriumi, turėjusiu rinkti tilto muitą jos statybai.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-85853"></a>
 - t-003
+  global_id: t-85853
   teiginys: 'Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85854"></a>
 - t-004
+  global_id: t-85854
   teiginys: 'Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba vartų į prieglaudos namus, esančių iš gatvės priešais šv.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-85855"></a>
 - t-005
+  global_id: t-85855
   teiginys: 'Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai prieglauda buvo įrengta, ir įpareigojami dėl panaikinto tos pačios prieglaudos klebono titulo, kurį sau prisiėmė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85856"></a>
 - t-006
+  global_id: t-85856
   teiginys: 'Valdovo tarėjams buvo pavesta atnaujinti Ulriko Hozijaus pradėtą Šv. Dvasios prieglaudą ir apžiūrėti, kaip ją būtų galima pabaigti.'
   pagrindžia:
     - c-004

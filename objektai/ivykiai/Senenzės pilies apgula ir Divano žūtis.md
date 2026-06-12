@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66894"></a>
 - t-001
+  global_id: t-66894
   teiginys: 'Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu jie bematant.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66895"></a>
 - t-002
+  global_id: t-66895
   teiginys: 'Bartų puolimas prieš Senenzės pilį įvyko apie 1272 m.'
   pagrindžia:
     - c-002

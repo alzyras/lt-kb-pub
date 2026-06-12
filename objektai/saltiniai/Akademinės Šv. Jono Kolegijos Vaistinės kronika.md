@@ -26,12 +26,16 @@ Jono Kolegijos Vaistinės kronika 1546. Toji vaistinė savo gyvavimo pradžioje,
 
 ## Teiginiai
 
+<a id="claim-t-88233"></a>
 - t-001
+  global_id: t-88233
   teiginys: 'Toji vaistinė savo gyvavimo pradžioje, kaip jokių turtų ir pinigų užrašytų neturinti, buvo Collegii [kolegijos!'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88234"></a>
 - t-002
+  global_id: t-88234
   teiginys: 'Jono Kolegijos Vaistinės kronika 1546.'
   pagrindžia:
     - c-002

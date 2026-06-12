@@ -22,7 +22,9 @@ p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L.
 
 ## Teiginiai
 
+<a id="claim-t-41541"></a>
 - t-001
+  global_id: t-41541
   teiginys: '1992 m. Vilniuje išleistoje L. Bojerio „Karolomachijoje“ aptariamas Salaspilio mūšis.'
   pagrindžia:
     - c-001

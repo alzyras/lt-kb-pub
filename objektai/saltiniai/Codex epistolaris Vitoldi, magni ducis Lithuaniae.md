@@ -16,7 +16,9 @@ tags: []
 
 ## Teiginiai
 
+<a id="claim-t-12448"></a>
 - t-001
+  global_id: t-12448
   teiginys: 'Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m.'
   pagrindžia:
     - c-002

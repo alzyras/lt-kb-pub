@@ -25,7 +25,9 @@ Turkai, nujausdami lenkų ir lietuvių ir privertė ją Atėjo žinia, kad Turki
 
 ## Teiginiai
 
+<a id="claim-t-38639"></a>
 - t-001
+  global_id: t-38639
   teiginys: 'Turkai prie Podolės Kameneco tvirtovės sutelkė didžiulę kariuomenę.'
   pagrindžia:
     - c-001

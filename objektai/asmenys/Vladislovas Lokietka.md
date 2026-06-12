@@ -26,52 +26,72 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 
 ## Teiginiai
 
+<a id="claim-t-90065"></a>
 - t-001
+  global_id: t-90065
   teiginys: 'Vladislovo Lokietkos suvienyta Lenkija siekė diplomatiškai atgauti Pomeraniją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90066"></a>
 - t-002
+  global_id: t-90066
   teiginys: 'Gedimino Lietuva buvo susitarusi su Vladislovu Łokietka dėl bendrų veiksmų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-90067"></a>
 - t-003
+  global_id: t-90067
   teiginys: 'Dusburgietis teigia, kad tokį vardą pelno su prūsais bendradarbiavęs Pamario kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą prieš Ordiną.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-90068"></a>
 - t-004
+  global_id: t-90068
   teiginys: '1326 m. Lokietka paprašė Lietuvos karaliaus Gedimino atsiųsti karių, ir Gediminas jam davė 1200 raitelių.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-90070"></a>
 - t-005
+  global_id: t-90070
   teiginys: 'Dusburgietis teigia, kad gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324 m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-90071"></a>
 - t-006
+  global_id: t-90071
   teiginys: 'Dusburgietis Vladislovą Lokietką vaizduoja kaip Gedimino sąjungininką, kovojusį prieš Ordiną dėl Pamario.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-90072"></a>
 - t-007
+  global_id: t-90072
   teiginys: 'Dusburgietis teigia, kad apie Kulmo žemės nusiaubimą Tuo pat metu ir tą pačią dieną (vasario 1), kai šitai dėjosi, Lokietka, Lenkijos karalius, padarė piktadarystę, kurią seniai buvo sumanęs: nepaisydamas taikos susitarimo, kurį buvo sudaręs su Čekijos karaliumi ir magistru, jis su 6.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-90073"></a>
 - t-008
+  global_id: t-90073
   teiginys: 'Kazimieras ir Lokietka, Lenkijos kunigaikščiai, dėl savo žmonių likimo paprašė Prūsijos magistro Meinhardo pagalbos.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-90075"></a>
 - t-009
+  global_id: t-90075
   teiginys: 'Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija pradėjo šaukti suvažiavimus ir tautos pasitarimus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184378"></a>
 - t-010
+  global_id: t-184378
   teiginys: 'Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje.'
   pagrindžia:
     - c-010
@@ -268,6 +288,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - [[objektai/grupes/Varmės kapitula]]
 - [[objektai/posakiai/„Romos karaliaus garbei“]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/ivykiai/Lietuvos ginkluota pagalba Prūsijai prieš Boleslovą Narsųjį]]
 - [[objektai/daiktai/Zigmanto II antkapis]]
 - [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]
 - [[objektai/ivykiai/Lietuvos žygis į Volynę ir Bresto žemės užėmimas (1323 m. pabaiga—1324 m. pradžia)]]

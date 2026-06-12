@@ -19,7 +19,9 @@ Taip pat neužmiršo jo papra­ šyt, kad popiežius uždraustų Vytauto karūna
 
 ## Teiginiai
 
+<a id="claim-t-35271"></a>
 - t-001
+  global_id: t-35271
   teiginys: 'Russdorfas buvo numatytos sąjungos su Vytautu ir Zigmantu dalyvis; ši sąjunga turėjo būti nukreipta prieš Lenkiją.'
   pagrindžia:
     - c-001

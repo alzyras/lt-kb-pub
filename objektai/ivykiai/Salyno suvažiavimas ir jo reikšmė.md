@@ -32,7 +32,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-100043"></a>
 - t-001
+  global_id: t-100043
   teiginys: 'Salyno suvažiavimas ir jo reikšmė........................'
   pagrindžia:
     - c-001

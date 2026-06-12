@@ -12,24 +12,25 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Choinicai
 
 ## Santrauka
 
-Kojelavičius teigia, kad choinicams kritus, G im sta k u n ig a ik štis popiežiaus pasiuntinys RuZ y g im a n ta s dolfas pasistengė, kad būtų sudaryta taika.
+Choinicams kritus, popiežiaus pasiuntinys Rudolfas pasistengė, kad būtų sudaryta taika.
 
 ## Teiginiai
 
+<a id="claim-t-185261"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad choinicams kritus, G im sta k u n ig a ik štis popiežiaus pasiuntinys RuZ y g im a n ta s dolfas pasistengė, kad būtų sudaryta taika.'
+  global_id: t-185261
+  teiginys: 'Choinicams kritus, popiežiaus pasiuntinys Rudolfas pasistengė, kad būtų sudaryta taika.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad choinicams kritus, G im sta k u n ig a ik štis popiežiaus pasiuntinys RuZ y g im a n ta s dolfas pasistengė, kad būtų sudaryta taika.'
+  santrauka: 'Choinicams kritus, popiežiaus pasiuntinys Rudolfas pasistengė, kad būtų sudaryta taika.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to, beveik netrukdomi pasi­

@@ -27,22 +27,30 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 
 ## Teiginiai
 
+<a id="claim-t-88536"></a>
 - t-001
+  global_id: t-88536
   teiginys: 'Dusburgietis teigia, kad antra knygos dalis BAIGIASI PIRMA ŠIOS KNYGOS DALIS PRASIDEDA ANTRA APIE TEUTONŲ ORDINO BROLIŲ ATVYKIMĄ Į PRŪSIJOS ŽEMĘ 1.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-88537"></a>
 - t-002
+  global_id: t-88537
   teiginys: 'Cistersų ordinas kronikos chronologiniame sąraše siejamas su 1097 Viešpaties metais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88538"></a>
 - t-003
+  global_id: t-88538
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-88539"></a>
 - t-004
+  global_id: t-88539
   teiginys: 'Dusburgietis teigia, kad 161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis, tiesiogiai susijęs su Olivos (prie Gdansko) vienuolynu, kur buvo danų konventas (siejamas.'
   pagrindžia:
     - c-002

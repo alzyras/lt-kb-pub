@@ -23,7 +23,9 @@ Forstreuter : Die Bekehrung des Litauerkönigs Gedimin, (žr. : Die Bekehrung Ge
 
 ## Teiginiai
 
+<a id="claim-t-31752"></a>
 - t-001
+  global_id: t-31752
   teiginys: 'K. Forstreuterio „Die Bekehrung des Litauerkönigs Gedimin. Eine Streitfrage“ 1955 m. buvo išspausdintas „Jahrbuch der Albertus-Universität zu Königsberg“ 6 tome.'
   pagrindžia:
     - c-001

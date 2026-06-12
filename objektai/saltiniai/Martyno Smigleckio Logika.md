@@ -16,7 +16,9 @@ Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angl
 
 ## Teiginiai
 
+<a id="claim-t-21192"></a>
 - t-001
+  global_id: t-21192
   teiginys: 'Martyno Smigleckio „Logika“ 1618 m. pasiekė Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai.'
   pagrindžia:
     - c-001

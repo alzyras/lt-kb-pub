@@ -19,17 +19,23 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
 
 ## Teiginiai
 
+<a id="claim-t-36199"></a>
 - t-001
+  global_id: t-36199
   teiginys: 'Drahočynas buvo viena iš krikščioniškų Trakų kunigaikštijos sričių, kurių magistrai pasižadėjo nepulti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-36200"></a>
 - t-002
+  global_id: t-36200
   teiginys: 'Drahočyno apylinkėse buvo minima Mozūrijos siena kaip viena kraštutinių valstybės ribų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184302"></a>
 - t-003
+  global_id: t-184302
   teiginys: 'Vytautas Drahočyne pastatė bažnyčią.'
   pagrindžia:
     - c-003

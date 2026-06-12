@@ -25,12 +25,16 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 
 ## Teiginiai
 
+<a id="claim-t-63715"></a>
 - t-001
+  global_id: t-63715
   teiginys: 'Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63716"></a>
 - t-002
+  global_id: t-63716
   teiginys: 'Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris perdavė kroniką Vilniaus vaitui Augustinui Rotundui (mirusiam 1582 m.).'
   pagrindžia:
     - c-001

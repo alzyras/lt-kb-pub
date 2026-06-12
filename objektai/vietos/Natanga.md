@@ -24,7 +24,9 @@ Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusb
 
 ## Teiginiai
 
+<a id="claim-t-86216"></a>
 - t-001
+  global_id: t-86216
   teiginys: '1324 m. žmonės iš Natangos dalyvavo netikėtame Gedimino pilies papilio užpuolime.'
   pagrindžia:
     - c-001

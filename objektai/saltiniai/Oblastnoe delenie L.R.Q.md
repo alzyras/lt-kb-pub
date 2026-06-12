@@ -24,7 +24,9 @@ iš Liubavski, Oblastnoe delenie L.R.Q.
 
 ## Teiginiai
 
+<a id="claim-t-36089"></a>
 - t-001
+  global_id: t-36089
   teiginys: 'Liubavskio „Oblastnoe delenie L.R.Q.“ buvo išleista Maskvoje 1892 m.'
   pagrindžia:
     - c-001

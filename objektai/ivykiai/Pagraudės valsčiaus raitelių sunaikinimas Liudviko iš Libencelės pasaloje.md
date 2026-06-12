@@ -33,13 +33,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62892"></a>
 - t-001
+  global_id: t-62892
   teiginys: 'Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o keletą vyrų pasiuntęs plėšti apylinkės, nukovė visus jį besivejančius raitelius, išskyrus šešis.'
   pagrindžia:
     - c-003
     - c-002
 
+<a id="claim-t-62893"></a>
 - t-002
+  global_id: t-62893
   teiginys: 'Dusburgietis teigia, kad šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti tiek raitelių, kiek galėjo anksčiau.'
   pagrindžia:
     - c-003

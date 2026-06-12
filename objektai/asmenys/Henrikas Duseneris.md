@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-87686"></a>
 - t-001
+  global_id: t-87686
   teiginys: 'Ordino maršalas Henrikas Duseneris su Reino palatinu atvyko į pagalbą Bajerburgo pilies gynėjams per Gedimino apsiaustį.'
   pagrindžia:
     - c-001

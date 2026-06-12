@@ -13,12 +13,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Choinicų apgultis ir pasidavimas karaliui (1466-1467 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad štai todėl karalius įsakė lietuvių kavalerijos vadui, pasirinkus iš visų vėliavų ryžtingiausių karių, taip stro piai budėti, kad priešas, vos pabandęs surengti išpuolį, būtų bemat atremtas.
+Per Choinicų apgultį karalius įsakė lietuvių kavalerijos vadui budėti, kad būtų atremti pilies gynėjų išpuoliai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -34,15 +33,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185558"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad štai todėl karalius įsakė lietuvių kavalerijos vadui, pasirinkus iš visų vėliavų ryžtingiausių karių, taip stro piai budėti, kad priešas, vos pabandęs surengti išpuolį, būtų bemat atremtas.'
+  global_id: t-185558
+  teiginys: 'Per Choinicų apgultį karalius įsakė lietuvių kavalerijos vadui budėti, kad būtų atremti pilies gynėjų išpuoliai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad štai todėl karalius įsakė lietuvių kavalerijos vadui, pasirinkus iš visų vėliavų ryžtingiausių karių, taip stro piai budėti, kad priešas, vos pabandęs surengti išpuolį, būtų bemat atremtas.'
+  santrauka: 'Per Choinicų apgultį karalius įsakė lietuvių kavalerijos vadui budėti, kad būtų atremti pilies gynėjų išpuoliai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Apsuptieji irgi neleido laiko vėjais: trukdyda­
@@ -61,3 +62,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/įgula]]

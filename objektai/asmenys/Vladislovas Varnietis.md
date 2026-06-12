@@ -26,7 +26,9 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
 
 ## Teiginiai
 
+<a id="claim-t-87886"></a>
 - t-001
+  global_id: t-87886
   teiginys: 'Mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės į Didžiąją Kunigaikštystę.'
   pagrindžia:
     - c-001

@@ -19,12 +19,16 @@ Bauža. Bauža savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpinanti sa
 
 ## Teiginiai
 
+<a id="claim-t-01085"></a>
 - t-001
+  global_id: t-01085
   teiginys: 'Ks. Bauža 1806 m. paskelbė knygą „Apie lietuvių tautos ir kalbos kilmę“, kurioje ragino gelbėti lietuvybę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01086"></a>
 - t-002
+  global_id: t-01086
   teiginys: 'Ks. Bauža savo knygoje kaltino Lietuvos bajoriją, kad ji nesirūpina savo kalba ir nekuria savos literatūros.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 
 ## Teiginiai
 
+<a id="claim-t-02668"></a>
 - t-001
+  global_id: t-02668
   teiginys: 'Kristupas Pacas pastatė Pažaislio vienuolyną prie Kauno.'
   pagrindžia:
     - c-001

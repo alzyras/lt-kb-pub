@@ -19,7 +19,9 @@ Dusburgietis teigia, kad ditrichas (Meiseno markgrafas) sušakosiąs ir ateityje
 
 ## Teiginiai
 
+<a id="claim-t-60262"></a>
 - t-001
+  global_id: t-60262
   teiginys: 'Meiseno markgrafas Ditrichas buvo tarp didikų, pritarusių siųsti legatus Henrikui VI dėl ligoninės patvirtinimo.'
   pagrindžia:
     - c-001

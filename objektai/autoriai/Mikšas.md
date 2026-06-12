@@ -16,12 +16,16 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
 
 ## Teiginiai
 
+<a id="claim-t-01115"></a>
 - t-001
+  global_id: t-01115
   teiginys: 'Mikšas tvarkė laikraštį „Aušra“, kai Basanavičius gyveno užsienyje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01116"></a>
 - t-002
+  global_id: t-01116
   teiginys: 'Mikšas Tilžėje įsteigė spaustuvę, kurioje vėliau buvo spausdinama „Aušra“.'
   pagrindžia:
     - c-001

@@ -25,37 +25,51 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
 
 ## Teiginiai
 
+<a id="claim-t-58785"></a>
 - t-001
+  global_id: t-58785
   teiginys: 'Dusburgietis teigia, kad sitai padarę, kunigaikštis bei broliai su savo kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami pelenais, o žmones išsivesdami į nelaisvę arba išžudydami.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-58786"></a>
 - t-002
+  global_id: t-58786
   teiginys: 'Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] circa Wildenbergk; Jer.— vestin) turėjo būti greta vėlesnės kryžiuočių Marienburgo pilies, o gal ir jos vietoje (plg.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58787"></a>
 - t-003
+  global_id: t-58787
   teiginys: 'Dusburgietis teigia, kad apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo, kurį šiems reikėjo perkelti iš vieno kuoro į kitą ir kuriame prūsai buvo pratę virti savo šventenybes.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-58788"></a>
 - t-004
+  global_id: t-58788
   teiginys: 'Dusburgietis teigia, kad apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58789"></a>
 - t-005
+  global_id: t-58789
   teiginys: 'Prūsai abiejuose per Prieglių pastatyto tilto galuose įrengė tvirtus kuorus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-58790"></a>
 - t-006
+  global_id: t-58790
   teiginys: 'Dusburgietis teigia, kad kiekvieną pilį apsupo trimis stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl apsuptieji negalėjo nei įeiti, nei išeiti iš pilies.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184006"></a>
 - t-007
+  global_id: t-184006
   teiginys: 'Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250.'
   pagrindžia:
     - c-007

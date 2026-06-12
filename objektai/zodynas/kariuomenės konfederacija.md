@@ -19,12 +19,16 @@ Toks jų susibūrimas vadinosi kariuomenės konfederacija. kariuomenės konfeder
 
 ## Teiginiai
 
+<a id="claim-t-70169"></a>
 - t-001
+  global_id: t-70169
   teiginys: 'Toks jų susibūrimas vadinosi kariuomenės konfederacija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70170"></a>
 - t-002
+  global_id: t-70170
   teiginys: 'kariuomenės konfederacija: lietuva ir Lenkija visada turėjo atskiras kariuomenes, vadovaujamas savų hetmonų. Jas išlai- kydavo kiekviena valstybė pati iš savo pajamų ir mokesčių. Kiekvienos valstybės kariuomenė nuolat stovė- jo tik savo valstybėje; kitai valstybei į pagalbą ji ga-.'
   pagrindžia:
     - c-002

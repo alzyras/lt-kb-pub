@@ -24,7 +24,9 @@ Koehler, gener.
 
 ## Teiginiai
 
+<a id="claim-t-34961"></a>
 - t-001
+  global_id: t-34961
   teiginys: 'Koehlerio „Entwicklung des Kriegswesens und der Kriegsführung in der Ritterzeit“ antrasis tomas išleistas Breslau 1886 m.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
 
 ## Teiginiai
 
+<a id="claim-t-41975"></a>
 - t-001
+  global_id: t-41975
   teiginys: 'Kęstutis statydino Naująjį Kauną Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože.'
   pagrindžia:
     - c-001

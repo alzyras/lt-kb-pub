@@ -26,17 +26,23 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
 
 ## Teiginiai
 
+<a id="claim-t-55207"></a>
 - t-001
+  global_id: t-55207
   teiginys: 'Kojelavičius sekė Strijkovskiu pasakojime apie Kęstučio gudrybes puolant Vilnių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55208"></a>
 - t-002
+  global_id: t-55208
   teiginys: 'Kojelavičius ir Dlugošas palaikė versiją, kad Vilniaus pilių gaisrą sukėlė papirkti išdavikai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-81985"></a>
 - t-003
+  global_id: t-81985
   teiginys: 'A. Vijūko-Kojelavičiaus Lietuvos istorijos p. 270 minimas Gedimino 1323-1324 m. įsiveržimas į Mazoviją ir Dobrynės žemę.'
   pagrindžia:
     - c-003

@@ -22,12 +22,16 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 
 ## Teiginiai
 
+<a id="claim-t-26327"></a>
 - t-001
+  global_id: t-26327
   teiginys: 'Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183584"></a>
 - t-002
+  global_id: t-183584
   teiginys: 'Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie 30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.'
   pagrindžia:
     - c-002

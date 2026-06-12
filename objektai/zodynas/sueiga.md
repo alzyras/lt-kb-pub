@@ -12,24 +12,25 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # sueiga
 
 ## Santrauka
 
-Kojelavičius teigia, kad tad trisdešimčiai senelių liau dis ir atidavė valdžią valstybėje; žmonės buvo kvie čiami varinio varpo dūžiais j sueigas aikštėje, kur vie šai svarstė bendrame pasitarime svarbiausius reikalus.
+Žmonės buvo kviečiami varinio varpo dūžiais į sueigas aikštėje svarstyti svarbiausių reikalų.
 
 ## Teiginiai
 
+<a id="claim-t-185413"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tad trisdešimčiai senelių liau dis ir atidavė valdžią valstybėje; žmonės buvo kvie čiami varinio varpo dūžiais j sueigas aikštėje, kur vie šai svarstė bendrame pasitarime svarbiausius reikalus.'
+  global_id: t-185413
+  teiginys: 'Žmonės buvo kviečiami varinio varpo dūžiais į sueigas aikštėje svarstyti svarbiausių reikalų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tad trisdešimčiai senelių liau dis ir atidavė valdžią valstybėje; žmonės buvo kvie čiami varinio varpo dūžiais j sueigas aikštėje, kur vie šai svarstė bendrame pasitarime svarbiausius reikalus.'
+  santrauka: 'Žmonės buvo kviečiami varinio varpo dūžiais į sueigas aikštėje svarstyti svarbiausių reikalų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Taigi verčiau sekite savo mokytojais graikais — ir jų
@@ -61,3 +62,17 @@ Kojelavičius teigia, kad tad trisdešimčiai senelių liau dis ir atidavė vald
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Graikai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti]]
+- [[objektai/grupes/Skalviai]]
+- [[objektai/asmenys/Germantas]]
+- [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]
+- [[objektai/asmenys/Trobius]]
+- [[objektai/paprociai/Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą]]
+- [[objektai/paprociai/Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių]]

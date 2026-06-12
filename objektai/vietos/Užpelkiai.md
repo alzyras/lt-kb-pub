@@ -16,7 +16,9 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
 
 ## Teiginiai
 
+<a id="claim-t-42237"></a>
 - t-001
+  global_id: t-42237
   teiginys: 'Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitikimas su vietos kovotojais.'
   pagrindžia:
     - c-001

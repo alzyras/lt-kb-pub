@@ -17,12 +17,16 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
 
 ## Teiginiai
 
+<a id="claim-t-87586"></a>
 - t-001
+  global_id: t-87586
   teiginys: 'Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuviškų kapų pridėjo 2 flor.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87587"></a>
 - t-002
+  global_id: t-87587
   teiginys: 'Rugpjūčio 5 d. Turčinas nuvežė karališkajai didenybei pinigus į Leipcigą.'
   pagrindžia:
     - c-002

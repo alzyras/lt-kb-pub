@@ -18,27 +18,37 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
 
 ## Teiginiai
 
+<a id="claim-t-93744"></a>
 - t-001
+  global_id: t-93744
   teiginys: 'Tarp karaliaus ir Mozūrų kunigaikščio Ziemovito buvo kilęs ginčas, kurį išsprendė Vytautas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-93745"></a>
 - t-002
+  global_id: t-93745
   teiginys: 'Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir savo šalininkų buvo dukart išrinktas Lenkijos karaliumi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-93746"></a>
 - t-003
+  global_id: t-93746
   teiginys: 'Viename dokumente pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-93748"></a>
 - t-005
+  global_id: t-93748
   teiginys: 'Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir buvo dukart savo šalininkų išrinktas Lenkijos karaliumi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-93749"></a>
 - t-006
+  global_id: t-93749
   teiginys: 'Tarp karaliaus ir Mozūrų kunigaikščio Ziemovito kilusį nesusipratimą išsprendė Vytautas.'
   pagrindžia:
     - c-002

@@ -26,7 +26,9 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 
 ## Teiginiai
 
+<a id="claim-t-60329"></a>
 - t-001
+  global_id: t-60329
   teiginys: 'Hertvigas iš Pokarvių buvo Tomo, kuris 1322 m. Brandenburgo pilyje mirė ir atgijo per Viešpaties kryžiaus atskalą, tėvas.'
   pagrindžia:
     - c-001

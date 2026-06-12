@@ -26,7 +26,9 @@ Hevekeb, K.
 
 ## Teiginiai
 
+<a id="claim-t-54120"></a>
 - t-001
+  global_id: t-54120
   teiginys: 'K. Hevekebas 1906 m. Berlyne parengė disertaciją „Die Schlacht bei Tannenberg“.'
   pagrindžia:
     - c-001

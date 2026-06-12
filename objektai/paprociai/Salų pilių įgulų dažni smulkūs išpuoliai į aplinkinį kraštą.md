@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą (kraštas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad dviejose salose, Naujojoje ir Riterių, pavadintose Nojerverderiu ir Ritersverderiu, kryžiuoStato L ie tu v o je паи- čiai paliko savo įgulą, o tre jas pilis čiojoje, vadinamoje Marien burgu, įkurdino savo karius Vytautas.
+Kryžiuočiai Nojerverderyje ir Ritersverderyje paliko savo įgulą, o Vytautas Marienburge įkurdino savo karius.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185887"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad dviejose salose, Naujojoje ir Riterių, pavadintose Nojerverderiu ir Ritersverderiu, kryžiuoStato L ie tu v o je паи- čiai paliko savo įgulą, o tre jas pilis čiojoje, vadinamoje Marien burgu, įkurdino savo karius Vytautas.'
+  global_id: t-185887
+  teiginys: 'Kryžiuočiai Nojerverderyje ir Ritersverderyje paliko savo įgulą, o Vytautas Marienburge įkurdino savo karius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad dviejose salose, Naujojoje ir Riterių, pavadintose Nojerverderiu ir Ritersverderiu, kryžiuoStato L ie tu v o je паи- čiai paliko savo įgulą, o tre jas pilis čiojoje, vadinamoje Marien burgu, įkurdino savo karius Vytautas.'
+  santrauka: 'Kryžiuočiai Nojerverderyje ir Ritersverderyje paliko savo įgulą, o Vytautas Marienburge įkurdino savo karius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kiek kartų kareiviai puolė pylimą, tiek kartų buvo at­
@@ -60,3 +61,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

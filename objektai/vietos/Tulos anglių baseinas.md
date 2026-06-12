@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-42206"></a>
 - t-001
+  global_id: t-42206
   teiginys: '1945 m. sovietai išsiuntė suimtą asmenį katorgos darbams į Tulos anglių baseino kasyklą.'
   pagrindžia:
     - c-001

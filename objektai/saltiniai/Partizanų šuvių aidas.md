@@ -22,7 +22,9 @@ p. 234, „Partizanų šuvių aidas“ 1956 m. Nr. 1 (20) Prisikėlimo apygardos
 
 ## Teiginiai
 
+<a id="claim-t-41574"></a>
 - t-001
+  global_id: t-41574
   teiginys: '„Partizanų šuvių aidas“ 1956 m. Nr. 1 (20) buvo Prisikėlimo apygardos partizanų leidinys.'
   pagrindžia:
     - c-001

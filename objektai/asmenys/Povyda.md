@@ -18,7 +18,9 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
 
 ## Teiginiai
 
+<a id="claim-t-60417"></a>
 - t-001
+  global_id: t-60417
   teiginys: 'Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus išvadavo.'
   pagrindžia:
     - c-001

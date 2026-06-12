@@ -24,7 +24,9 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
 
 ## Teiginiai
 
+<a id="claim-t-78148"></a>
 - t-001
+  global_id: t-78148
   teiginys: 'The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle of Grünwald in 1410 / translated by Albina Strunga; edited by Joseph Everatt, Mindaugas Šapoka.'
   pagrindžia:
     - c-001

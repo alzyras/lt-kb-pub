@@ -23,7 +23,9 @@ Jakštas: Jogailos ir Vytauto kovos su vokiečių ordinu, rink.
 
 ## Teiginiai
 
+<a id="claim-t-31723"></a>
 - t-001
+  global_id: t-31723
   teiginys: 'J. Jakšto „Jogailos ir Vytauto kovos su vokiečių ordinu“ nurodomas JoŠ rinkinyje nuo 139 puslapio.'
   pagrindžia:
     - c-001

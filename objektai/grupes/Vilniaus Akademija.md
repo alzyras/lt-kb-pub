@@ -22,12 +22,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31370"></a>
 - t-001
+  global_id: t-31370
   teiginys: 'Vilniaus Akademijoje profesoriavęs Kojalavičius vėlesnėse kartose išryškėjo kaip žymus Lietuvos istorikas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-31371"></a>
 - t-002
+  global_id: t-31371
   teiginys: 'Per Vilniaus Akademiją lotynų kalba vis labiau plito Lietuvos kilmingųjų sluoksniuose.'
   pagrindžia:
     - c-002

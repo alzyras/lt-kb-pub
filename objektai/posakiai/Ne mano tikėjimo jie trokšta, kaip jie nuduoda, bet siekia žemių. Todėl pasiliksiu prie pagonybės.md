@@ -17,7 +17,9 @@ ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių.
 
 ## Teiginiai
 
+<a id="claim-t-31550"></a>
 - t-001
+  global_id: t-31550
   teiginys: 'Lietuvos kunigaikštis apie kryžiuočius pareiškė: „Ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių“.'
   pagrindžia:
     - c-001

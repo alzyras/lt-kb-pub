@@ -18,7 +18,9 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 
 ## Teiginiai
 
+<a id="claim-t-60439"></a>
 - t-001
+  global_id: t-60439
   teiginys: 'Karaliaučiaus komtūras paskyrė Stavimėlą į Pelužio būrį, išvykusį ginklu atkeršyti už Pelužio patirtas skriaudas.'
   pagrindžia:
     - c-001

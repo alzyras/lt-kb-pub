@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Ferdinandas
 
 ## Santrauka
 
-Kojelavičius teigia, kad maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, imperatoriaus Karolio V — grafą Leonardą ir karaliaus Ferdinando — Zigmantą Herberšteiną.
+Maskvėnų metraščiai Zigmantą Herberšteiną mini kaip karaliaus Ferdinando atstovą taikos reikaluose.
 
 ## Teiginiai
 
+<a id="claim-t-186108"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, imperatoriaus Karolio V — grafą Leonardą ir karaliaus Ferdinando — Zigmantą Herberšteiną.'
+  global_id: t-186108
+  teiginys: 'Maskvėnų metraščiai Zigmantą Herberšteiną mini kaip karaliaus Ferdinando atstovą taikos reikaluose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, imperatoriaus Karolio V — grafą Leonardą ir karaliaus Ferdinando — Zigmantą Herberšteiną.'
+  santrauka: 'Maskvėnų metraščiai Zigmantą Herberšteiną mini kaip karaliaus Ferdinando atstovą taikos reikaluose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto, kaip rodo mano šaltiniai, iki Nau­
@@ -38,3 +39,7 @@ Kojelavičius teigia, kad maskvėnų metraščiai mini popiežiaus Klemenso lega
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Maskvėnai]]

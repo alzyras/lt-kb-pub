@@ -17,7 +17,9 @@ Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado Dovydo Gardiniškio ž
 
 ## Teiginiai
 
+<a id="claim-t-30225"></a>
 - t-001
+  global_id: t-30225
   teiginys: 'Pagal M. Stryjkovskio kroniką, Dovydo Gardiniškio žmona buvo Gediminaitė.'
   pagrindžia:
     - c-001

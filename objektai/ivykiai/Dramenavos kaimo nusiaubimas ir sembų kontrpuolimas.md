@@ -33,17 +33,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-89359"></a>
 - t-001
+  global_id: t-89359
   teiginys: 'Dusburgietis teigia, kad apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai broliai puldinėjo sembus, norėdami juos vėl pajungti krikščionių tikėjimui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89360"></a>
 - t-002
+  global_id: t-89360
   teiginys: 'Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei kaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę vieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89361"></a>
 - t-003
+  global_id: t-89361
   teiginys: 'Dusburgietis teigia, kad vis dėlto brolis Henrikas Ulenbušas, labai kilnus vyras, nepasitraukė iš vietos ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir nukovė daugybę sembų.'
   pagrindžia:
     - c-002

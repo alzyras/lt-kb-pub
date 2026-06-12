@@ -23,7 +23,9 @@ Lappo: 1588 Lietuvos Statutas, It. Lappo, t.
 
 ## Teiginiai
 
+<a id="claim-t-100107"></a>
 - t-001
+  global_id: t-100107
   teiginys: 'Lappo: 1588 Lietuvos Statutas, It.'
   pagrindžia:
     - c-001

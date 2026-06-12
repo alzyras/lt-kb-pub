@@ -21,12 +21,16 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
 
 ## Teiginiai
 
+<a id="claim-t-101637"></a>
 - t-001
+  global_id: t-101637
   teiginys: 'Bernardas Berensonas buvo italų renesanso tapybos žinovas, kilęs nuo Butrimonių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101638"></a>
 - t-002
+  global_id: t-101638
   teiginys: 'Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių.'
   pagrindžia:
     - c-001

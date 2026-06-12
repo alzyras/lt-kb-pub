@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59675"></a>
 - t-001
+  global_id: t-59675
   teiginys: 'Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių.'
   pagrindžia:
     - c-001

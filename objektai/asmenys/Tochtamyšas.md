@@ -18,7 +18,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Tochtamyšas
 
 ## Santrauka
@@ -27,28 +26,38 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 
 ## Teiginiai
 
+<a id="claim-t-51184"></a>
 - t-001
+  global_id: t-51184
   teiginys: 'Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė pas Vytautą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-51185"></a>
 - t-002
+  global_id: t-51185
   teiginys: 'Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184841"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad jo brolis Tochtamyšas, nesitikėdamas savo jėgomis nieko laimėti ir nepajėgdamas susitaikyti su likimu ar pašalinti varžovą, pabėgo pas Vytautą kar tu su svarbiausiais savo šalininkais.'
+  global_id: t-184841
+  teiginys: 'Tochtamyšas, negalėdamas įveikti Kerim Berdžio, su svarbiausiais savo šalininkais pabėgo pas Vytautą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184842"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad štai todėl maloniai ir noriai priėmė Tochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu les iškilmes, uždėjo jam perlais bei brangakmeniais nu sagstytą kepurę, paskelbė Užvolgio skitų chanu (pap rastai vadinamu caru) ir pakėlė į valdovus.'
+  global_id: t-184842
+  teiginys: 'Vytautas priėmė Tochtamyšą Vilniuje, pažadėjo jam paramą ir paskelbė Užvolgio skitų chanu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184843"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad nie ko gero nesusilaukė Tochtamyšas, mat tas, kuris, kopdamas į statų kalną, pasiekia saugią viršukalnę, lengviau nustumia besiveržiantį aukštyn, nei leidžiasi nustumiamas.'
+  global_id: t-184843
+  teiginys: 'Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė savo brolį Tochtamyšą.'
   pagrindžia:
     - c-004
 
@@ -72,7 +81,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     - t-002
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad jo brolis Tochtamyšas, nesitikėdamas savo jėgomis nieko laimėti ir nepajėgdamas susitaikyti su likimu ar pašalinti varžovą, pabėgo pas Vytautą kar tu su svarbiausiais savo šalininkais.'
+  santrauka: 'Tochtamyšas, negalėdamas įveikti Kerim Berdžio, su svarbiausiais savo šalininkais pabėgo pas Vytautą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kerim Berdis,
@@ -92,7 +101,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     - t-003
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad štai todėl maloniai ir noriai priėmė Tochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu les iškilmes, uždėjo jam perlais bei brangakmeniais nu sagstytą kepurę, paskelbė Užvolgio skitų chanu (pap rastai vadinamu caru) ir pakėlė į valdovus.'
+  santrauka: 'Vytautas priėmė Tochtamyšą Vilniuje, pažadėjo jam paramą ir paskelbė Užvolgio skitų chanu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas, ne vieną
@@ -113,7 +122,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     - t-004
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad nie ko gero nesusilaukė Tochtamyšas, mat tas, kuris, kopdamas į statų kalną, pasiekia saugią viršukalnę, lengviau nustumia besiveržiantį aukštyn, nei leidžiasi nustumiamas.'
+  santrauka: 'Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė savo brolį Tochtamyšą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nie­
@@ -134,3 +143,16 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   statusas: verified
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kerim Berdis]]
+- [[objektai/asmenys/Saladinas]]
+- [[objektai/ivykiai/Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.)]]
+- [[objektai/zodynas/chanas caras]]

@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20264"></a>
 - t-001
+  global_id: t-20264
   teiginys: 'Spalio 6 d. Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos simbolius.'
   pagrindžia:
     - c-001

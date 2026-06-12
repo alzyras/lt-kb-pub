@@ -29,72 +29,100 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 
 ## Teiginiai
 
+<a id="claim-t-180304"></a>
 - t-001
+  global_id: t-180304
   teiginys: '1920 m. spalio 7 d. Suvalkų sutartis visą Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-180305"></a>
 - t-002
+  global_id: t-180305
   teiginys: 'Karaliaus Aleksandro testamento liudytojų sąraše Jonas iš Zabrežjės įvardytas Merkinės laikytoju.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-180306"></a>
 - t-003
+  global_id: t-180306
   teiginys: 'Prieš Vilniaus vyskupijos įkūrimą Jogaila aplankė Merkinę, kur vietiniai ir apylinkių žmonės buvo mokomi tikėjimo ir krikštijami.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-180307"></a>
 - t-004
+  global_id: t-180307
   teiginys: 'Antrasis būrys be įsakymo MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d. dalyvavę būriai ir pamažu atsitraukė iš miestelio.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-180308"></a>
 - t-005
+  global_id: t-180308
   teiginys: 'Jogaila aplankė Merkinę, kur vietiniai ir apylinkių žmonės buvo mokomi tikėjimo tiesų ir krikštijami.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-180309"></a>
 - t-006
+  global_id: t-180309
   teiginys: 'Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės, Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glinsko kunigaikščiui Mykolui.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-180311"></a>
 - t-007
+  global_id: t-180311
   teiginys: '1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną su kunigija ir diduomene.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-180312"></a>
 - t-008
+  global_id: t-180312
   teiginys: '1945 m. Merkinės puolimas buvo pasiūlytas kaip keršto priešui veiksmas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-180313"></a>
 - t-009
+  global_id: t-180313
   teiginys: 'Vanagas, pasitaręs su A apygardos vadu Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti apylinkių partizanų dalinius ir pulti Merkinės miestelį, atkeršijant už kovos draugų žūtį.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-180314"></a>
 - t-010
+  global_id: t-180314
   teiginys: 'Po 1945 m. gruodžio 15 d. Merkinės puolimo partizanų būriai pamažu atsitraukė iš miestelio.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-180315"></a>
 - t-011
-  teiginys: '7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.'
+  global_id: t-180315
+  teiginys: '1920 m. spalio 7 d. Suvalkų sutartis Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-180316"></a>
 - t-012
+  global_id: t-180316
   teiginys: 'Jogaila aplankė Merkinę, kur sukvietus vietinius ir apylinkių žmones jie buvo mokomi tikėjimo tiesų ir krikštijami.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-180317"></a>
 - t-013
+  global_id: t-180317
   teiginys: 'Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-180318"></a>
 - t-014
+  global_id: t-180318
   teiginys: 'Nuo Gardino link Merkinės besitęsęs Nemuno aukštupio dešiniojo kranto miškų masyvas buvo ištisai lietuvių gyvenamas.'
   pagrindžia:
     - c-001

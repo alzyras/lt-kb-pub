@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66926"></a>
 - t-001
+  global_id: t-66926
   teiginys: 'Taika su Sovietų Rusija buvo pasirašyta 1920 m. liepos 12 d. Maskvoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66927"></a>
 - t-002
+  global_id: t-66927
   teiginys: 'PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį.'
   pagrindžia:
     - c-001

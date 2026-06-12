@@ -16,7 +16,9 @@ Dusburgietis teigia, kad ragainė siejama su lie.
 
 ## Teiginiai
 
+<a id="claim-t-58922"></a>
 - t-001
+  global_id: t-58922
   teiginys: 'Dusburgietis teigia, kad ragainė siejama su lie.'
   pagrindžia:
     - c-001

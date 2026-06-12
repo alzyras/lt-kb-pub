@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Edigejus
 
 ## Santrauka
 
-Kojelavičius teigia, kad atsiuntė garbingus žygūnus pats Edigejus, Tauridės valdovas, didžiai išgarsėjęs kovose su lietuviais bei rusais, ir susidraugavo su Vytautu, be to, sudarytu susitarimu iškilmingai pažadėjo savo ištiki mybę, amžiną taiką ir pagalbą kovojant su visokiais.
+Tauridės valdovas Edigejus susidraugavo su Vytautu ir pažadėjo ištikimybę, amžiną taiką bei pagalbą prieš priešus.
 
 ## Teiginiai
 
+<a id="claim-t-186198"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad atsiuntė garbingus žygūnus pats Edigejus, Tauridės valdovas, didžiai išgarsėjęs kovose su lietuviais bei rusais, ir susidraugavo su Vytautu, be to, sudarytu susitarimu iškilmingai pažadėjo savo ištiki mybę, amžiną taiką ir pagalbą kovojant su visokiais.'
+  global_id: t-186198
+  teiginys: 'Tauridės valdovas Edigejus susidraugavo su Vytautu ir pažadėjo ištikimybę, amžiną taiką bei pagalbą prieš priešus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad atsiuntė garbingus žygūnus pats Edigejus, Tauridės valdovas, didžiai išgarsėjęs kovose su lietuviais bei rusais, ir susidraugavo su Vytautu, be to, sudarytu susitarimu iškilmingai pažadėjo savo ištiki mybę, amžiną taiką ir pagalbą kovojant su visokiais.'
+  santrauka: 'Tauridės valdovas Edigejus susidraugavo su Vytautu ir pažadėjo ištikimybę, amžiną taiką bei pagalbą prieš priešus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     399
@@ -54,3 +55,17 @@ Kojelavičius teigia, kad atsiuntė garbingus žygūnus pats Edigejus, Tauridės
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/asmenys/imperatorius Zigmantas]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/žygūnai]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Leopoldas (Austrijos erchercogas)]]
+- [[objektai/paprociai/Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės]]
+- [[objektai/posakiai/visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas]]

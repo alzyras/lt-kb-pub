@@ -16,7 +16,9 @@ J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis secundi, p. 14.
 
 ## Teiginiai
 
+<a id="claim-t-88065"></a>
 - t-001
+  global_id: t-88065
   teiginys: 'J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis secundi, p. 14.'
   pagrindžia:
     - c-001

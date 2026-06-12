@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Ragainės karių klasta užimant Junigedą
 
 ## Santrauka
 
-Kojelavičius teigia, kad išdėstęs vita u žim a J u n ig e d ą sus kitus būrius abipus kelio pasalose, jis įsakė Ragainės būriui traukti tiesiai prie pilies vartų.
+Užpuolikas išdėstė būrius pasalose abipus kelio ir įsakė Ragainės būriui traukti tiesiai prie pilies vartų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185826"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad išdėstęs vita u žim a J u n ig e d ą sus kitus būrius abipus kelio pasalose, jis įsakė Ragainės būriui traukti tiesiai prie pilies vartų.'
+  global_id: t-185826
+  teiginys: 'Užpuolikas išdėstė būrius pasalose abipus kelio ir įsakė Ragainės būriui traukti tiesiai prie pilies vartų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad išdėstęs vita u žim a J u n ig e d ą sus kitus būrius abipus kelio pasalose, jis įsakė Ragainės būriui traukti tiesiai prie pilies vartų.'
+  santrauka: 'Užpuolikas išdėstė būrius pasalose abipus kelio ir įsakė Ragainės būriui traukti tiesiai prie pilies vartų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Išdėstęs vi-
@@ -53,3 +54,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Ietys]]

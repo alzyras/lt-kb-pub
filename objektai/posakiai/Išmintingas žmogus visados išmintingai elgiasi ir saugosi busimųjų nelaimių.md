@@ -17,7 +17,9 @@ Dusburgietis teigia, kad apie karo laivus ir markgrafo pasitraukimą Išmintinga
 
 ## Teiginiai
 
+<a id="claim-t-59097"></a>
 - t-001
+  global_id: t-59097
   teiginys: 'Dusburgietis teigia, kad apie karo laivus ir markgrafo pasitraukimą Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių.'
   pagrindžia:
     - c-001

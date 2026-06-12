@@ -27,38 +27,45 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
 
 ## Teiginiai
 
+<a id="claim-t-71612"></a>
 - t-001
+  global_id: t-71612
   teiginys: 'DULR rūpinosi, kad didesniuose užsienio lietuvių centruose būtų lietuvių kunigų, lietuviškų pamaldų ir lietuviškų maldaknygių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-71614"></a>
 - t-002
+  global_id: t-71614
   teiginys: 'Draugija Užsienio Lietuviams Remti (DULR) įsikūrė 1932 m. ir siekė kultūriškai bei kiek galėdama materialiai remti užsienio lietuvius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71615"></a>
 - t-003
+  global_id: t-71615
   teiginys: 'DULR rūpinosi užsienio lietuvių švietimu: lietuviškų mokyklų steigimu, mokytojų parūpinimu ir knygų bei vadovėlių siuntimu bibliotekoms.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-71616"></a>
 - t-004
-  teiginys: 'Kadangi pagrindinė sąlyga suaugusiems nenutausti yra savos lietuviškos organizacijos ir spauda, tai DULR kiek galėdama stengiasi palaikyti visas tautiškas ir ekonomiškas užsienio lietuvių draugijas ir spaudą.'
+  global_id: t-71616
+  teiginys: 'DULR stengėsi palaikyti užsienio lietuvių tautines ir ekonomines draugijas bei spaudą.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-71617"></a>
 - t-005
+  global_id: t-71617
   teiginys: 'DULR palaikė ryšius su išeiviais, padėdama jų ekskursijoms į Lietuvą, organizacijų suartinimui, sportininkų susitikimams ir menininkų pasirodymams.'
   pagrindžia:
     - c-002
 
-- t-006
-  teiginys: 'DULR stengėsi palaikyti užsienio lietuvių tautines ir ekonomines draugijas bei spaudą.'
-  pagrindžia:
-    - c-004
-
+<a id="claim-t-182887"></a>
 - t-007
-  teiginys: 'Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų, siunčia išeivių bibliotekoms knygų ir vadovėlių.'
+  global_id: t-182887
+  teiginys: 'DULR rūpinosi lietuviškų mokyklų steigimu, mokytojų parūpinimu išeivių mokykloms ir knygų siuntimu bibliotekoms.'
   pagrindžia:
     - c-008
 
@@ -174,6 +181,7 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
   statusas: verified
 
 - c-007
+  santrauka: 'DULR stengėsi palaikyti užsienio lietuvių tautines ir ekonomines draugijas bei spaudą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kadangi pagrindinė sąlyga suaugusiems nenutausti yra savos
@@ -189,7 +197,7 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
     - t-004
 
 - c-008
-  santrauka: 'Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų, siunčia išeivių bibliotekoms knygų ir vadovėlių.'
+  santrauka: 'DULR rūpinosi lietuviškų mokyklų steigimu, mokytojų parūpinimu išeivių mokykloms ir knygų siuntimu bibliotekoms.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tarp kitko jis

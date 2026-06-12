@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-77823"></a>
 - t-001
+  global_id: t-77823
   teiginys: '1948 m. viduryje JAV Kongresas priėmė vadinamąjį Perkeltųjų asmenų įstatymą, kuriame buvo numatoma įsileisti 205 tūkst.'
   pagrindžia:
     - c-001

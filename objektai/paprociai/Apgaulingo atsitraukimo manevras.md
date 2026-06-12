@@ -42,22 +42,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-71787"></a>
 - t-001
+  global_id: t-71787
   teiginys: 'Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą ir juo versdavo priešininką suardyti savo rikiuotę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71788"></a>
 - t-002
+  global_id: t-71788
   teiginys: 'Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą, kurį su laiku vis įdomiau įgyvendindavo ir provokuodami suardyti priešo rikiuotę priversdavo jį pralaimėti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71789"></a>
 - t-003
+  global_id: t-71789
   teiginys: 'Švedijos kariuomenės vadovybė iškart sureagavo į šį manevrą ir buvo duotas įsakymas pulti „besitraukiančius“ lietuvius (šis manevras labai primena 1270 m. Karusės, 1279 m. Aizkraulės, 1410 m. Žalgirio, 1514 m. Oršos mūšius ir daug kitų).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71790"></a>
 - t-004
+  global_id: t-71790
   teiginys: 'Karolis Chodkevičius įsakė frontui imituoti atsitraukimą.'
   pagrindžia:
     - c-001

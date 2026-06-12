@@ -25,7 +25,9 @@ Dundulis, B.
 
 ## Teiginiai
 
+<a id="claim-t-31623"></a>
 - t-001
+  global_id: t-31623
   teiginys: 'B. Dundulio „Lietuvos kova dėl valstybinio savarankiškumo 15 amž.“ išleista Vilniuje 1968 m.'
   pagrindžia:
     - c-001

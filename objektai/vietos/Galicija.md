@@ -18,7 +18,9 @@ Galicijoje.
 
 ## Teiginiai
 
+<a id="claim-t-02443"></a>
 - t-001
+  global_id: t-02443
   teiginys: 'Po Lenkijos padalinimo Galicijoje išliko unitai, nes ši sritis buvo patekusi Austrijai.'
   pagrindžia:
     - c-001

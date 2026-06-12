@@ -31,32 +31,44 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
 
 ## Teiginiai
 
+<a id="claim-t-55069"></a>
 - t-001
+  global_id: t-55069
   teiginys: 'Bursa buvo skirta sunkios padėties studentams, turintiems tikslą pabaigti studijas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55070"></a>
 - t-002
+  global_id: t-55070
   teiginys: 'Valerijono Bursos studentų bendrijoje galėjo gyventi studentai nepriklausomai nuo tautybės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55071"></a>
 - t-003
+  global_id: t-55071
   teiginys: 'Studentų bendrijoje turėjo būti prefektas arba senjoras, prižiūrintis pamaldumo, garbingumo ir broliškos santarvės laikymąsi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55072"></a>
 - t-004
+  global_id: t-55072
   teiginys: 'Studentų bendriją ir jos namą buvo norima pavadinti Valerijono Bursa.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-55073"></a>
 - t-005
+  global_id: t-55073
   teiginys: 'Namų ir rūsio nuomos pajamos turėjo būti skiriamos Bursos studentų būtinoms reikmėms.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-81661"></a>
 - t-006
+  global_id: t-81661
   teiginys: 'Valerijono Bursa buvo skirta laisvam studentų gyvenimui, nesvarbu, kokios tautybės jie būtų.'
   pagrindžia:
     - c-004

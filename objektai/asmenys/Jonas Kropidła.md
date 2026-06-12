@@ -19,7 +19,9 @@ Dėl to savo laikų Europos visuomenės viršūnes gerai pažįstąs Kujavų vys
 
 ## Teiginiai
 
+<a id="claim-t-35150"></a>
 - t-001
+  global_id: t-35150
   teiginys: 'Kujavų vyskupas Jonas Kropidła Breslave imperatoriui Zigmantui pareiškė, kad karaliaus vardo vertas tik Vytautas.'
   pagrindžia:
     - c-001

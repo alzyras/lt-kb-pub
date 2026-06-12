@@ -45,17 +45,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87015"></a>
 - t-001
+  global_id: t-87015
   teiginys: 'Prie jos šliejosi pats miesto centras, nedidelis, su mediniais namais, bet su tvirtų statinių tvorų ir griovių sutvirtinimais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87016"></a>
 - t-002
+  global_id: t-87016
   teiginys: '1390 m. Vilniaus apgultyje vienai iš trijų miesto pilių, vadintai Krautuvių pilimi, vadovavo Jogailos brolis Kazimieras Karigaila.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87017"></a>
 - t-003
+  global_id: t-87017
   teiginys: '1390 m. Vilniaus apgultyje Aukštutinę pilį gynė lenkai su Vilniaus seniūnu Mikalojumi Moskorovskiu.'
   pagrindžia:
     - c-001

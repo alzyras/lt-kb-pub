@@ -27,7 +27,9 @@ Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­ diną, kurio magis
 
 ## Teiginiai
 
+<a id="claim-t-35267"></a>
 - t-001
+  global_id: t-35267
   teiginys: 'Povilas Russdortas buvo išrinktas Vokiečių ordino magistru vietoje atstatyto Küchmeisterio.'
   pagrindžia:
     - c-001

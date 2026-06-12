@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia
 
 ## Santrauka
 
-Kojelavičius teigia, kad smarkiai su stiprinęs Palenkę ir Polesę, įkurdinęs stiprias vokiečių karių įgulas Gardine, Suraže, Breste, Kamenece ir ki tose pilyse, pats su žmona, šeimyna, brangiaisiais in dais bei savo šalininkais paP abėga į M a z o v iją sitraukė į Mazoviją pas ku. Kojelavičius teigia, kad iš M a z o v ijo s į PrūNors Urbonas IV, Romos posiją piežius, prieš metus ir buvo išleidęs raštą, rimtai ragin damas ir karalių, ir kryžiuočių riterius laikytis taikos, tačiau Celneris su džiaugsmu nutarė nepraleisti pro gos pradėti karą. Kojelavičius teigia, kad už pirmąjį jų patarnavimą teko atsily ginti Žemaitija, nes Vytautui, nuo pat karo pradžios stokojančiam pinigų, išmokėjo tris šimtus tūkstančių kapų (lietuvių pinigas, prilygstantis penkiems šeštada liams dabartinio imperialo) tik tada, kai šis užrašė kaip.
+Sustiprinęs Palenkę ir Polesę, Vytautas su žmona, šeimyna, turtais ir šalininkais pasitraukė į Mazoviją pas Jonušą ir Zemovitą. Ordino magistras Konradas Celneris parėmė Vytauto sumanymus ir nutarė nepraleisti progos pradėti karą. Vytautas užrašė kryžiuočiams visą Žemaitiją kaip užstatą, kad gautų tris šimtus tūkstančių kapų karo reikmėms.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,25 +26,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185660"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad smarkiai su stiprinęs Palenkę ir Polesę, įkurdinęs stiprias vokiečių karių įgulas Gardine, Suraže, Breste, Kamenece ir ki tose pilyse, pats su žmona, šeimyna, brangiaisiais in dais bei savo šalininkais paP abėga į M a z o v iją sitraukė į Mazoviją pas ku.'
+  global_id: t-185660
+  teiginys: 'Sustiprinęs Palenkę ir Polesę, Vytautas su žmona, šeimyna, turtais ir šalininkais pasitraukė į Mazoviją pas Jonušą ir Zemovitą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185661"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad iš M a z o v ijo s į PrūNors Urbonas IV, Romos posiją piežius, prieš metus ir buvo išleidęs raštą, rimtai ragin damas ir karalių, ir kryžiuočių riterius laikytis taikos, tačiau Celneris su džiaugsmu nutarė nepraleisti pro gos pradėti karą.'
+  global_id: t-185661
+  teiginys: 'Ordino magistras Konradas Celneris parėmė Vytauto sumanymus ir nutarė nepraleisti progos pradėti karą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185662"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad už pirmąjį jų patarnavimą teko atsily ginti Žemaitija, nes Vytautui, nuo pat karo pradžios stokojančiam pinigų, išmokėjo tris šimtus tūkstančių kapų (lietuvių pinigas, prilygstantis penkiems šeštada liams dabartinio imperialo) tik tada, kai šis užrašė kaip.'
+  global_id: t-185662
+  teiginys: 'Vytautas užrašė kryžiuočiams visą Žemaitiją kaip užstatą, kad gautų tris šimtus tūkstančių kapų karo reikmėms.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad smarkiai su stiprinęs Palenkę ir Polesę, įkurdinęs stiprias vokiečių karių įgulas Gardine, Suraže, Breste, Kamenece ir ki tose pilyse, pats su žmona, šeimyna, brangiaisiais in dais bei savo šalininkais paP abėga į M a z o v iją sitraukė į Mazoviją pas ku.'
+  santrauka: 'Sustiprinęs Palenkę ir Polesę, Vytautas su žmona, šeimyna, turtais ir šalininkais pasitraukė į Mazoviją pas Jonušą ir Zemovitą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nieko nepešęs
@@ -74,7 +79,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad iš M a z o v ijo s į PrūNors Urbonas IV, Romos posiją piežius, prieš metus ir buvo išleidęs raštą, rimtai ragin damas ir karalių, ir kryžiuočių riterius laikytis taikos, tačiau Celneris su džiaugsmu nutarė nepraleisti pro gos pradėti karą.'
+  santrauka: 'Ordino magistras Konradas Celneris parėmė Vytauto sumanymus ir nutarė nepraleisti progos pradėti karą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Čia, kaip ir
@@ -106,7 +111,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad už pirmąjį jų patarnavimą teko atsily ginti Žemaitija, nes Vytautui, nuo pat karo pradžios stokojančiam pinigų, išmokėjo tris šimtus tūkstančių kapų (lietuvių pinigas, prilygstantis penkiems šeštada liams dabartinio imperialo) tik tada, kai šis užrašė kaip.'
+  santrauka: 'Vytautas užrašė kryžiuočiams visą Žemaitiją kaip užstatą, kad gautų tris šimtus tūkstančių kapų karo reikmėms.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Už pirmąjį jų patarnavimą teko atsily­
@@ -130,3 +135,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Konradas Celneris]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]
+- [[objektai/asmenys/Zemovitas]]

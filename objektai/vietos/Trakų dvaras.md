@@ -18,7 +18,9 @@ Tikrai lietuviškas Trakų dvaras, kuris daug santykiauda­ vo su kaimyninėmis 
 
 ## Teiginiai
 
+<a id="claim-t-36622"></a>
 - t-001
+  global_id: t-36622
   teiginys: 'Trakų dvaras daug santykiavo su kaimyninėmis valstybėmis ir laikytas tinkama aplinka Vytautui išaugti.'
   pagrindžia:
     - c-001

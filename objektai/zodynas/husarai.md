@@ -19,27 +19,37 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
 
 ## Teiginiai
 
+<a id="claim-t-49270"></a>
 - t-001
+  global_id: t-49270
   teiginys: 'Husarai buvo ilgomis ietimis ginkluoti raitininkai, kurių ataka laikyta efektyvesniu kovos būdu už vakarietišką kavalerijos ataką pistoletais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-49271"></a>
 - t-002
+  global_id: t-49271
   teiginys: 'Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais to meto husarams burės formos skydais (šalia jų parašyta Litauen).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-49272"></a>
 - t-003
+  global_id: t-49272
   teiginys: 'Husarai buvo XVI a. Lietuvoje atsiradusi vengriško tipo lengvoji kavalerija.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-49273"></a>
 - t-004
+  global_id: t-49273
   teiginys: 'Ilgomis ietimis ginkluoti raitininkai - husarai (ietimis ginkluota sunkioji kavalerija Vakarų Europoje buvo visiškai išnykusi iki xvii a.).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-49274"></a>
 - t-005
+  global_id: t-49274
   teiginys: 'Vengrijoje ir vėliau Europoje husarais vadinta lengvoji kavalerija, dėvėjusi vengriško stiliaus drabužius.'
   pagrindžia:
     - c-004
@@ -188,3 +198,4 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
 - [[objektai/paprociai/Husarų lydėjimas į seimo rinkimus|Husarų lydėjimas į seimo rinkimus (seimas)]]
 - [[objektai/grupes/LDK 1-oji Tautinė brigada]]
 - [[objektai/ivykiai/LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.)]]
+- [[objektai/ivykiai/Mikalojus Radvila žygyje Livonijoje ir Tarvastos pilies užėmimas|Mikalojus Radvila žygyje Livonijoje ir Tarvastos pilies užėmimas (pilis)]]

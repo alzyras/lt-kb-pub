@@ -27,12 +27,16 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
 
 ## Teiginiai
 
+<a id="claim-t-65147"></a>
 - t-001
+  global_id: t-65147
   teiginys: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65148"></a>
 - t-002
+  global_id: t-65148
   teiginys: 'Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukilimus – 1830–1831 m. ir 1863–1864 m. Šiuo laikotarpiu prasidėjo ir etninių lietuvių tautinis kultūrinis sąjūdis.'
   pagrindžia:
     - c-002

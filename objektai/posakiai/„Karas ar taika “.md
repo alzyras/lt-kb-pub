@@ -24,7 +24,9 @@ Voldemarui klausimą „Karas ar taika?“ A.
 
 ## Teiginiai
 
+<a id="claim-t-26348"></a>
 - t-001
+  global_id: t-26348
   teiginys: 'Ženevoje J. Pilsudskis paklausė A. Voldemaro „Karas ar taika?“, o šis atsakė, kad karo padėties tarp Lietuvos ir Lenkijos nėra.'
   pagrindžia:
     - c-001

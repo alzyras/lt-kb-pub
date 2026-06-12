@@ -33,48 +33,66 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 
 ## Teiginiai
 
+<a id="claim-t-179557"></a>
 - t-001
+  global_id: t-179557
   teiginys: 'Halecki : From Florence to Brest , Sacrum Poloniae Millennium, V, 1958, 25-37 p. (išsamiai įvertintas Vytauto vaidmuo).'
   pagrindžia:
     - c-004
 
+<a id="claim-t-179558"></a>
 - t-002
+  global_id: t-179558
   teiginys: 'O. Halecki manė, kad Hohencolerno kandidatūra Lenkijoje Vytautui buvo neparanki.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-179559"></a>
 - t-003
+  global_id: t-179559
   teiginys: 'O. Halecki teigė, kad lenkai kantriai laukė Kamienieco Podolijos, nes ji buvo atiduota tik iki Vytauto gyvos galvos.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-179560"></a>
 - t-004
+  global_id: t-179560
   teiginys: 'O. Halecki gausiais raštais paliko pėdsaką Lietuvos istorijos tyrimuose ir emigracijoje skyrė dėmesio Lietuvai.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-179561"></a>
 - t-005
+  global_id: t-179561
   teiginys: 'O. Halecki manė, kad Vytauto ketinimas atiduoti Palangą kryžiuočiams būtų atkirtęs Lietuvą nuo jūros.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-179562"></a>
 - t-006
+  global_id: t-179562
   teiginys: 'O. Halecki 1919–1920 m. Krokuvoje išleido dviejų tomų veikalą „Dzieje Unii Jagiellońskiej“.'
   pagrindžia:
     - c-006
     - c-002
 
+<a id="claim-t-179563"></a>
 - t-007
+  global_id: t-179563
   teiginys: 'O. Halecki 1930 m. paskelbė darbą „Witold“.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-179564"></a>
 - t-008
+  global_id: t-179564
   teiginys: 'O. Halecki parašė skyrių „From the Union with Hungary to the Union with Lithuania: Jadwiga, 1374–99“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-179565"></a>
 - t-009
+  global_id: t-179565
   teiginys: 'O. Haleckis gausiais raštais paliko plačių pėdsakų Lietuvos istorijos srityje.'
   pagrindžia:
     - c-009

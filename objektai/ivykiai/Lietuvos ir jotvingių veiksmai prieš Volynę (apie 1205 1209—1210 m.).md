@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59656"></a>
 - t-001
+  global_id: t-59656
   teiginys: 'Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m., tai yra 1209-1210 m.'
   pagrindžia:
     - c-001

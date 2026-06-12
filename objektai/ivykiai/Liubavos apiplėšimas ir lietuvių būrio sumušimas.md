@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Liubavos apiplėšimas ir lietuvių būrio sumušimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad ne geriau pavyko kitam lietuvių būriui, apiplėšusiam Liubavą.
+Liubavą apiplėšęs penkiasdešimties lietuvių raitelių būrys buvo apsuptas kryžiuočių ir neteko penkiolikos karių bei didelės grobio dalies.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185818"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad ne geriau pavyko kitam lietuvių būriui, apiplėšusiam Liubavą.'
+  global_id: t-185818
+  teiginys: 'Liubavą apiplėšęs penkiasdešimties lietuvių raitelių būrys buvo apsuptas kryžiuočių ir neteko penkiolikos karių bei didelės grobio dalies.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad ne geriau pavyko kitam lietuvių būriui, apiplėšusiam Liubavą.'
+  santrauka: 'Liubavą apiplėšęs penkiasdešimties lietuvių raitelių būrys buvo apsuptas kryžiuočių ir neteko penkiolikos karių bei didelės grobio dalies.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vėliau, be tvarkos kelian­
@@ -57,3 +58,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Namas]]

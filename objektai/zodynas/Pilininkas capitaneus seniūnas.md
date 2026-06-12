@@ -25,12 +25,16 @@ Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Cap
 
 ## Teiginiai
 
+<a id="claim-t-86567"></a>
 - t-001
+  global_id: t-86567
   teiginys: '1385 metų Vladislovo Jogailos laiške Hanka pavadintas Vilniaus seniūnu, lotyniškai Hanko Capitaneus Vilnensis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86568"></a>
 - t-002
+  global_id: t-86568
   teiginys: 'Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir perdavė Jogailai Žemutinę bei Aukštutinę pilis.'
   pagrindžia:
     - c-002

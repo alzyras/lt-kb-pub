@@ -38,27 +38,37 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 
 ## Teiginiai
 
+<a id="claim-t-55109"></a>
 - t-001
+  global_id: t-55109
   teiginys: 'Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55110"></a>
 - t-002
+  global_id: t-55110
   teiginys: 'Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55111"></a>
 - t-003
+  global_id: t-55111
   teiginys: 'Šubravcų draugijos kodekse buvo suformuluotos nuo įprastų aukštuomenės normų besiskyrusios narių elgesio ir veiklos normos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55112"></a>
 - t-004
+  global_id: t-55112
   teiginys: 'Draugijos narių leidžiamas laikraštis `Wiadomości brukowe` išgarsino draugiją už Lietuvos ribų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-81752"></a>
 - t-005
+  global_id: t-81752
   teiginys: 'Vilniuje veikusiai Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.'
   pagrindžia:
     - c-001

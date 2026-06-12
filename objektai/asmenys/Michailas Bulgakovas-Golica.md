@@ -27,12 +27,16 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
 
 ## Teiginiai
 
+<a id="claim-t-79110"></a>
 - t-001
+  global_id: t-79110
   teiginys: 'Po Oršos mūšio patekęs į nelaisvę, jis joje ir mirė - Vilniuje, 1516 m. Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršos link, mūšyje vadovavo dešiniajam flangui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79111"></a>
 - t-002
+  global_id: t-79111
   teiginys: 'Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršos link, mūšyje vadovavo dešiniajam flangui.'
   pagrindžia:
     - c-001

@@ -23,12 +23,16 @@ Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus s
 
 ## Teiginiai
 
+<a id="claim-t-54384"></a>
 - t-001
+  global_id: t-54384
   teiginys: 'Dusburgas anksčiau Vytenį vadino Lietuvos karaliaus sūnumi, o 1296 m. rašė apie jo žygį į Livoniją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54385"></a>
 - t-002
+  global_id: t-54385
   teiginys: 'Dusburgas anksčiau Vytenį vadino Lietuvos karaliaus sūnumi, o 1296 m. jau rašė apie karaliaus Vytenio žygį į Livoniją.'
   pagrindžia:
     - c-001

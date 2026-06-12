@@ -35,17 +35,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75249"></a>
 - t-001
+  global_id: t-75249
   teiginys: 'Suvažiavime taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikščiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Danijos karaliaus ir Bizantijos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75250"></a>
 - t-002
+  global_id: t-75250
   teiginys: 'Lucko suvažiavimas vyko 1429 m. sausio 9–29 d. ir buvo skirtas Vidurio bei Rytų Europos politikos problemoms aptarti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75251"></a>
 - t-003
+  global_id: t-75251
   teiginys: 'Lucko suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione ir į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano.'
   pagrindžia:
     - c-001

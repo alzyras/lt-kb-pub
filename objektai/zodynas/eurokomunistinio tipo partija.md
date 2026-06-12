@@ -17,7 +17,9 @@ Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą pr
 
 ## Teiginiai
 
+<a id="claim-t-22138"></a>
 - t-001
+  global_id: t-22138
   teiginys: 'Savarankiška LKP tapo nacionaline eurokomunistinio tipo partija su reformuota programa ir nauju statutu.'
   pagrindžia:
     - c-001

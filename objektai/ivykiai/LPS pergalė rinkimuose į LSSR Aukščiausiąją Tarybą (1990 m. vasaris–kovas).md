@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20251"></a>
 - t-001
+  global_id: t-20251
   teiginys: 'Per 1990 m. vasario–kovo rinkimus į LSSR Aukščiausiąją Tarybą LPS iškelti ir paremti atstovai gavo 96 iš 133 vietų.'
   pagrindžia:
     - c-001

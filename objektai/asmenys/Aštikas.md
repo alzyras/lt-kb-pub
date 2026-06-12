@@ -24,7 +24,9 @@ Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny
 
 ## Teiginiai
 
+<a id="claim-t-87629"></a>
 - t-001
+  global_id: t-87629
   teiginys: '1434 m. rugsėjo 8 d. Trakuose Vilniaus kaštelionas Aštikas buvo tarp akto patvirtinimui pritarusių asmenų.'
   pagrindžia:
     - c-001

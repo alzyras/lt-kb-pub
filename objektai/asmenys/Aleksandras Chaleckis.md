@@ -29,7 +29,9 @@ Aleksandras Chaleckis, karaliaus dvariškis, iš bajorų, Zigmanto Vazos lapkri�
 
 ## Teiginiai
 
+<a id="claim-t-87904"></a>
 - t-001
+  global_id: t-87904
   teiginys: 'Aleksandras Chaleckis, karaliaus dvariškis, iš bajorų, Zigmanto Vazos lapkričio 10 d. privilegija - 1597 m. 1600 m. 1610 m.'
   pagrindžia:
     - c-001

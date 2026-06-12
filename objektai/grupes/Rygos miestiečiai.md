@@ -26,12 +26,16 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 
 ## Teiginiai
 
+<a id="claim-t-81605"></a>
 - t-001
+  global_id: t-81605
   teiginys: 'Rygos miestiečiai ir arkivyskupas pajūrio miestuose bei Apaštalų Soste skelbė, kad Gediminas norėjęs krikštytis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183892"></a>
 - t-002
+  global_id: t-183892
   teiginys: 'Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė) Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė.'
   pagrindžia:
     - c-002

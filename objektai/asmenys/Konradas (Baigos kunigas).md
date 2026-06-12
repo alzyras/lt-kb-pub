@@ -17,7 +17,9 @@ Dusburgietis teigia, kad mirties patale gulėdamas, jis, paklaustas brolio Konra
 
 ## Teiginiai
 
+<a id="claim-t-60358"></a>
 - t-001
+  global_id: t-60358
   teiginys: 'Baigos kunigas Konradas mirties patale paklausė Skomanto, kodėl šis gavęs malonę įtikėti Kristumi.'
   pagrindžia:
     - c-001

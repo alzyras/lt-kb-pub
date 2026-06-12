@@ -17,7 +17,9 @@ pagaliau iš Voluinės, iš Ostroho buvo nepaprastai reikšmingą vaidmenį suva
 
 ## Teiginiai
 
+<a id="claim-t-21669"></a>
 - t-001
+  global_id: t-21669
   teiginys: 'Iš Voluinės Ostroho kilo riurikaitiškos, „ukrainietiškos“ kilmės kunigaikščiai Ostrogiškiai, suvaidinę reikšmingą vaidmenį.'
   pagrindžia:
     - c-001

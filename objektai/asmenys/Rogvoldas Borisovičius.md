@@ -25,7 +25,9 @@ Kunigaikštis Rostislavas, kunigaikščio Rogvoldo Borisovičiaus sūnus.
 
 ## Teiginiai
 
+<a id="claim-t-87846"></a>
 - t-001
+  global_id: t-87846
   teiginys: 'Kunigaikštis Rostislavas, kunigaikščio Rogvoldo Borisovičiaus sūnus.'
   pagrindžia:
     - c-001

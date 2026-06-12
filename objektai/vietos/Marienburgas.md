@@ -21,7 +21,6 @@ amziai:
   - 'XIII'
   - 'XXI'
 ---
-
 # Marienburgas
 
 ## Santrauka
@@ -30,88 +29,122 @@ rijenburgas.
 
 ## Teiginiai
 
+<a id="claim-t-177683"></a>
 - t-001
+  global_id: t-177683
   teiginys: 'Gavus žvalgų duomenis, koks pilies sienų aukštis, kryžiuočių sostinėje Marienburge buvo pagaminti atitinkamo aukščio šturmo bokštai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-177684"></a>
 - t-002
+  global_id: t-177684
   teiginys: '1401 m. sausio mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys krikštijosi.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-177685"></a>
 - t-003
+  global_id: t-177685
   teiginys: '1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške karalius pareiškė muitą nustatysiąs tik gavęs prie jo buvusios Senato tarybos sutikimą.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-177686"></a>
 - t-004
+  global_id: t-177686
   teiginys: 'Dusburgietis teigia, kad marienburgo pilis Nogato deš.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-177687"></a>
 - t-005
+  global_id: t-177687
   teiginys: 'Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės jau nebeįstengė paimti.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-177688"></a>
 - t-006
+  global_id: t-177688
   teiginys: 'Dusburgietis teigia, kad apie Marienburgo pilies pastatymą 1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten, kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios šlovei bei garbei ji čia ir buvo perkelta500.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-177689"></a>
 - t-007
+  global_id: t-177689
   teiginys: 'Vaidyla, turimomis žiniomis, kelis kartus slaptai keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-177690"></a>
 - t-008
+  global_id: t-177690
   teiginys: 'Skirgaila Marienburge buvo draugiškai ir vaišingai priimtas, nes Ordinas žinojo arba nujautė jo pasiuntinystės tikslus.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-177692"></a>
 - t-009
+  global_id: t-177692
   teiginys: 'Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla, paskui per jūros įlanką įplaukė į Nemuną.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-177693"></a>
 - t-010
+  global_id: t-177693
   teiginys: 'Dusburgietis teigia, kad jo nuorašas su kitais Ordino dokumentais į Marienburgą galėjo pakliūti defektuotas, nepilnas, tuo iš dalies paaiškinamos ir Dusburgiečio klaidos.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-177694"></a>
 - t-011
+  global_id: t-177694
   teiginys: 'Dusburgietis teigia, kad ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m —Marienburgas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-177695"></a>
 - t-012
+  global_id: t-177695
   teiginys: 'Vytauto kariuomenė buvo stipriai išretinta ne tik Žalgirio kautynėse, bet ir prie Marienburgo prasidėjusių ligų^35.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-177696"></a>
 - t-013
+  global_id: t-177696
   teiginys: '1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške Steponas Batoras sutiko atidėti muito rinkimą iki seimo.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-177697"></a>
 - t-014
+  global_id: t-177697
   teiginys: 'Nuo 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino dar dvi jam valdyti pavestas pilis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-177698"></a>
 - t-015
+  global_id: t-177698
   teiginys: 'Slaptai suruošto žygio metu didysis magistras iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-177700"></a>
 - t-016
+  global_id: t-177700
   teiginys: 'Vaidyla kelis kartus slapta keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185038"></a>
 - t-017
-  teiginys: 'Kojelavičius teigia, kad jo atvykimas (tiesą sakant, P a šn e n k a m a s m o zū rų daug kas manė, jog dėl gik u n ig a ik štis H enriminystės jis gali likti nepask a s tebėtas) anaiptol negalėjo ne sukelti kryžiuočiams įtarimo, tačiau tuo pat metu Vytautas Marienburge surengė sa vo.'
+  global_id: t-185038
+  teiginys: 'Vytautas Marienburge surengė dukters Sofijos palydėtuves prieš jos santuoką su Maskvos kunigaikščiu Vasilijumi.'
   pagrindžia:
     - c-014
 
@@ -344,7 +377,7 @@ rijenburgas.
     - t-010
 
 - c-014
-  santrauka: 'Kojelavičius teigia, kad jo atvykimas (tiesą sakant, P a šn e n k a m a s m o zū rų daug kas manė, jog dėl gik u n ig a ik štis H enriminystės jis gali likti nepask a s tebėtas) anaiptol negalėjo ne sukelti kryžiuočiams įtarimo, tačiau tuo pat metu Vytautas Marienburge surengė sa vo.'
+  santrauka: 'Vytautas Marienburge surengė dukters Sofijos palydėtuves prieš jos santuoką su Maskvos kunigaikščiu Vasilijumi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Priėmus nutarimą, ieškota žmogaus, kuriam be

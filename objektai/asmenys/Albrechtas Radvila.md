@@ -24,7 +24,9 @@ Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kur
 
 ## Teiginiai
 
+<a id="claim-t-87613"></a>
 - t-001
+  global_id: t-87613
   teiginys: 'Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.'
   pagrindžia:
     - c-001

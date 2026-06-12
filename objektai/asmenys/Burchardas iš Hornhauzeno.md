@@ -28,12 +28,16 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
 
 ## Teiginiai
 
+<a id="claim-t-60094"></a>
 - t-001
+  global_id: t-60094
   teiginys: 'Dusburgietis teigia, kad upės350, žuvo brolis Burchardas, Livonijos magistras351, ir brolis Henrikas Botelis, Prūsijos maršalas, su jais 150 brolių352, o dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų skaičiaus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60095"></a>
 - t-002
+  global_id: t-60095
   teiginys: 'Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio kalno Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas ten Livonijos broliams iš Prūsijos žemės kaip magistras.'
   pagrindžia:
     - c-002

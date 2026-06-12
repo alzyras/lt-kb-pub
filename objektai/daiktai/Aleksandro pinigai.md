@@ -32,12 +32,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01177"></a>
 - t-001
+  global_id: t-01177
   teiginys: 'Aleksandro pinigams priskirti pinigėlis, pusskatikis ir skatikas, o nevykusiai nukalti skatikai nebuvo leidžiami į apyvartą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01178"></a>
 - t-002
+  global_id: t-01178
   teiginys: 'Iki Aleksandro laikų po Vytauto Lietuvoje pinigai nebebuvo kalami, todėl buvo vartojami svetimi pinigai.'
   pagrindžia:
     - c-001

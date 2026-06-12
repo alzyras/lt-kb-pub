@@ -27,17 +27,23 @@ Vartojama aptariant XIX a. Vilniaus istorijų reikšmę Lietuvos istoriografijai
 
 ## Teiginiai
 
+<a id="claim-t-55259"></a>
 - t-001
+  global_id: t-55259
   teiginys: 'Balinskio ir Kraševskio Vilniaus istorijos apibūdinamos kaip naudingos Lietuvos istoriografijai dėl faktinės medžiagos ir palankumo lietuvių tautai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55260"></a>
 - t-002
+  global_id: t-55260
   teiginys: 'M. Balinskio ir J. I. Kraševskio tautos supratimas apibūdinamas kaip istorinis-geografinis, o ne nacionalinis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82060"></a>
 - t-003
+  global_id: t-82060
   teiginys: 'J. I. Kraševskio ir M. Balinskio Vilniaus istorijose reiškėsi istorinis-geografinis, o ne nacionalinis tautos supratimas.'
   pagrindžia:
     - c-001

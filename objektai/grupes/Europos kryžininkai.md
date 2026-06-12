@@ -25,7 +25,9 @@ Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisė
 
 ## Teiginiai
 
+<a id="claim-t-86725"></a>
 - t-001
+  global_id: t-86725
   teiginys: '1392 m. Europos kryžininkai rengė didesnį žygį į Lietuvą.'
   pagrindžia:
     - c-001

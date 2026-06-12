@@ -28,27 +28,37 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 
 ## Teiginiai
 
+<a id="claim-t-182774"></a>
 - t-001
+  global_id: t-182774
   teiginys: '1919 m. sausio 9 d. bolševikų pajėgos užėmė Panevėžį, o J. Variakojis su pirmuoju savanorių būriu pasitraukė į Kėdainius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182775"></a>
 - t-002
+  global_id: t-182775
   teiginys: 'Gegužės 3 d. Panevėžio batalionas, remiamas saksų savanorių, atliko sėkmingą operaciją ir iš bolševikų išvadavo Ukmergę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182776"></a>
 - t-003
+  global_id: t-182776
   teiginys: 'Bolševikai, reorganizavęsi ir sutelkę didesnes pajėgas, užpuolė Panevėžį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183069"></a>
 - t-004
-  teiginys: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
+  global_id: t-183069
+  teiginys: 'Panevėžyje buvo įkurta viena iš pijarų mokyklų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-183620"></a>
 - t-005
+  global_id: t-183620
   teiginys: 'Jos rėmė lenkų pradines mokyklas ir Lietuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
   pagrindžia:
     - c-005
@@ -114,7 +124,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     - t-003
 
 - c-004
-  santrauka: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
+  santrauka: 'Panevėžyje buvo įkurta viena iš pijarų mokyklų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pijarai, niekuo daugiau neužsiimdami,

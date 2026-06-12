@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-80604"></a>
 - t-001
+  global_id: t-80604
   teiginys: 'Žuvo 1949 m. rugsėjo 28 d. Šakių apskrities Jankų valsčiaus Šunkarių miške patekęs į pasalą.'
   pagrindžia:
     - c-001

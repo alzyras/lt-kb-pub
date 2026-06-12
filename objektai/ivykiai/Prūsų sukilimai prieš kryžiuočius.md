@@ -31,7 +31,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01782"></a>
 - t-001
+  global_id: t-01782
   teiginys: 'Prūsų sukilimams aprimstant, ordinas kviesdavosi paramą iš Vokietijos ir kitų kraštų, o prūsai būdavo įveikiami.'
   pagrindžia:
     - c-001

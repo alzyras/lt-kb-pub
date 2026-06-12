@@ -26,17 +26,23 @@ Benjaminas iš Tudelio minimas kaip žydų kilmės keliauninkas, kurio teiginys 
 
 ## Teiginiai
 
+<a id="claim-t-54999"></a>
 - t-001
+  global_id: t-54999
   teiginys: 'Benjaminas iš Tudelio apibūdintas kaip žydų kilmės keliauninkas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55000"></a>
 - t-002
+  global_id: t-55000
   teiginys: 'Benjaminas iš Tudelio tvirtino, kad 1160 m. į Aleksandrijos uostą užsukdavo ir Krokuvos pirklių laivai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81885"></a>
 - t-003
+  global_id: t-81885
   teiginys: 'Benjaminas iš Tudelio teigė, kad 1160 m. į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.'
   pagrindžia:
     - c-001

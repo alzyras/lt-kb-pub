@@ -18,7 +18,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Petras Goštautas
 
 ## Santrauka
@@ -52,107 +51,124 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - vaivada
 - valdovo vietininkas
 
-## Ryšiai
-
-### Teminiai klasteriai
-- [[temos/didikas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Goštautas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/grupes/Vilniaus prastuomenė]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
-
 ## Teiginiai
 
+<a id="claim-t-54987"></a>
 - t-001
+  global_id: t-54987
   teiginys: 'Petras Goštautas, valdovo vietininkas Lietuvoje, globojo pranciškonus Vilniuje ir saugojo juos nuo negandų.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-54988"></a>
 - t-002
+  global_id: t-54988
   teiginys: 'Petras Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-54989"></a>
 - t-003
+  global_id: t-54989
   teiginys: 'Petras Goštautas prieš apie 1345 m. pranciškonų žudynes dėl šalies reikalų išvyko iš Vilniaus į Tikociną.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-54990"></a>
 - t-004
+  global_id: t-54990
   teiginys: 'Pagal Waddyngo pasakojimą Petras Goštautas 1333 m. atkvietė į Vilnių keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-54991"></a>
 - t-005
+  global_id: t-54991
   teiginys: 'Grzybowski teigė, kad Petras Goštautas Krokuvoje tapo pranciškonu, Vilniuje įkūrė vienuolyną ir 1341 m. buvo nukankintas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54992"></a>
 - t-006
+  global_id: t-54992
   teiginys: 'Po pranciškonų žudynių Goštautas palaidojo nukankintuosius, vėl atkvietė vienuolius iš Lenkijos ir pastatydino Mergelės Marijos bažnyčią bei vienuolyną Smėlynėje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54993"></a>
 - t-007
+  global_id: t-54993
   teiginys: 'Petras Goštautas tradicijoje vadintas kunigaikščio Algirdo laikų didiku ir Vilniaus vaivada.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-173205"></a>
 - t-008
+  global_id: t-173205
   teiginys: 'Petras Goštautas, Algirdo laikų didikas ir Vilniaus vaivada, pagonišką dievaičių buveinę pavertė Šv. Petro bažnyčia.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-173207"></a>
 - t-009
+  global_id: t-173207
   teiginys: 'Petras Goštautas, valdovo vietininkas Lietuvoje, globojo pranciškonus ir saugojo juos nuo pavojų Vilniuje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-173208"></a>
 - t-010
+  global_id: t-173208
   teiginys: 'Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-173209"></a>
 - t-011
+  global_id: t-173209
   teiginys: 'Pasak Grzybowskio, Petras Goštautas Krokuvoje tapo pranciškonu, apsigyveno Vilniuje ir vertė miestiečius į krikščionybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-173210"></a>
 - t-012
+  global_id: t-173210
   teiginys: '1333 m. Petras Goštautas iš Rusios ir Podolės atkvietė į Vilnių keturiolika Šv. Pranciškaus regulos vienuolių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-173211"></a>
 - t-013
+  global_id: t-173211
   teiginys: 'Petras Goštautas palaidojo nukankintus vienuolius, pakvietė naujų pranciškonų iš Lenkijos ir Smėlynėje pastatydino bažnyčią bei vienuolyną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184820"></a>
 - t-014
-  teiginys: 'Kojelavičius teigia, kad surminas grįžo pas valdovą nugalė toju, visiems nešdamas džiaugsmą, o pats slėpdamas širdyje liūdesį, nes šioje pergalingoje kovoje jis ne teko savo brolio Goštauto drauge su kitais narsiais kariais.'
+  global_id: t-184820
+  teiginys: 'Pergalingoje kovoje Surminas neteko savo brolio Goštauto ir kitų narsių karių.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-184821"></a>
 - t-015
-  teiginys: 'Kojelavičius teigia, kad šventus nužudytųjų kūnus Goštautas įsakė surasti ir palaidoti toje pačioje aikštėje, kur jie skelbė Kris taus žodį.'
+  global_id: t-184821
+  teiginys: 'Goštautas įsakė surasti nužudytų vienuolių kūnus ir palaidoti juos aikštėje, kur jie skelbė Kristaus žodį.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-184822"></a>
 - t-016
-  teiginys: 'Kojelavičius teigia, kad petras Goštautas leidosi iš Podolės pas Vengrijos karalių pagalbos, išsiveždamas visus pinigus ir auksą) ir neskubėjo grįžti su kariuomene, Algirdas užėmė reikšmingas Braclavo, Smotričiaus, Sokoleco, Skalos, Kameneco, Červonogrado pilis, vienur stodamas į atvirą kovą, kitur greitumu palauždamas gynėjus, ir, visą Podolę paskelbęs savo valda, paskyrė jos seniūnu Goštautą.'
+  global_id: t-184822
+  teiginys: 'Algirdas, paskelbęs Podolę savo valda, paskyrė Goštautą jos seniūnu.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-184823"></a>
 - t-017
-  teiginys: 'Kojelavičius teigia, kad įgulos vadas Goštautas, nors pats pasidavęs priešams, žuvo nuo nugalėtojų rankų, kai šie susiginčijo dėl belaisvio.'
+  global_id: t-184823
+  teiginys: 'Veliuonos įgulos vadas Goštautas pasidavė priešams, bet žuvo nuo nugalėtojų rankų jiems susiginčijus dėl belaisvio.'
   pagrindžia:
     - c-010
 
@@ -344,7 +360,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-007
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad surminas grįžo pas valdovą nugalė toju, visiems nešdamas džiaugsmą, o pats slėpdamas širdyje liūdesį, nes šioje pergalingoje kovoje jis ne teko savo brolio Goštauto drauge su kitais narsiais kariais.'
+  santrauka: 'Pergalingoje kovoje Surminas neteko savo brolio Goštauto ir kitų narsių karių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Smarkiausia ir sunkiausia kova vyko prie to di­
@@ -369,7 +385,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-014
 
 - c-008
-  santrauka: 'Kojelavičius teigia, kad šventus nužudytųjų kūnus Goštautas įsakė surasti ir palaidoti toje pačioje aikštėje, kur jie skelbė Kris taus žodį.'
+  santrauka: 'Goštautas įsakė surasti nužudytų vienuolių kūnus ir palaidoti juos aikštėje, kur jie skelbė Kristaus žodį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vienas būrelis iš sep­
@@ -399,7 +415,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-015
 
 - c-009
-  santrauka: 'Kojelavičius teigia, kad petras Goštautas leidosi iš Podolės pas Vengrijos karalių pagalbos, išsiveždamas visus pinigus ir auksą) ir neskubėjo grįžti su kariuomene, Algirdas užėmė reikšmingas Braclavo, Smotričiaus, Sokoleco, Skalos, Kameneco, Červonogrado pilis, vienur stodamas į atvirą kovą, kitur greitumu palauždamas gynėjus, ir, visą Podolę paskelbęs savo valda, paskyrė jos seniūnu Goštautą.'
+  santrauka: 'Algirdas, paskelbęs Podolę savo valda, paskyrė Goštautą jos seniūnu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karą prieš maištininką pradėjo pats Algir­
@@ -421,7 +437,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-016
 
 - c-010
-  santrauka: 'Kojelavičius teigia, kad įgulos vadas Goštautas, nors pats pasidavęs priešams, žuvo nuo nugalėtojų rankų, kai šie susiginčijo dėl belaisvio.'
+  santrauka: 'Veliuonos įgulos vadas Goštautas pasidavė priešams, bet žuvo nuo nugalėtojų rankų jiems susiginčijus dėl belaisvio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš pradžių Ragainės komtūras išsklaidė dar­
@@ -441,3 +457,28 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   statusas: verified
   pagrindžia:
     - t-017
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
+- [[objektai/grupes/Vilniaus prastuomenė]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/grupes/Valachai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/regula]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/daiktai/Goštauto liepa]]
+- [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
+- [[objektai/ivykiai/Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje]]
+- [[objektai/paprociai/Pranciškonų apaštalavimas ir gyventojų vertimas į tikėjimą Vilniuje]]

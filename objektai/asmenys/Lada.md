@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lada
 
 ## Santrauka
 
-Kojelavičius teigia, kad štai ir Lada, kilimo če kas, bet Krokuvos miestietis, bandė su šimtine pėsti ninkų nusigauti į Maskvą, tačiau, pačiame pasienyje sugautas, gavo pelnytą bausmę už išdavystę.
+Lada, čekų kilmės Krokuvos miestietis, bandė su šimtine pėstininkų nusigauti į Maskvą, bet pasienyje buvo sugautas.
 
 ## Teiginiai
 
+<a id="claim-t-186231"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad štai ir Lada, kilimo če kas, bet Krokuvos miestietis, bandė su šimtine pėsti ninkų nusigauti į Maskvą, tačiau, pačiame pasienyje sugautas, gavo pelnytą bausmę už išdavystę.'
+  global_id: t-186231
+  teiginys: 'Lada, čekų kilmės Krokuvos miestietis, bandė su šimtine pėstininkų nusigauti į Maskvą, bet pasienyje buvo sugautas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad štai ir Lada, kilimo če kas, bet Krokuvos miestietis, bandė su šimtine pėsti ninkų nusigauti į Maskvą, tačiau, pačiame pasienyje sugautas, gavo pelnytą bausmę už išdavystę.'
+  santrauka: 'Lada, čekų kilmės Krokuvos miestietis, bandė su šimtine pėstininkų nusigauti į Maskvą, bet pasienyje buvo sugautas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ne­
@@ -50,3 +51,7 @@ Kojelavičius teigia, kad štai ir Lada, kilimo če kas, bet Krokuvos miestietis
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Čekai]]

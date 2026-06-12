@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Albertas fon Hagenas
 
 ## Santrauka
 
-Kojelavičius teigia, kad magistras Konradas, gavęs ži nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy nėjai su kitais kariais išvesti į Lenkiją, todėl įsakė Albertui Hagenui staiga užpulti Gardino pilį ir miestą, likusius be gynėjų, ir užimti.
+Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį bei miestą, manydamas, kad jie liko be gynėjų.
 
 ## Teiginiai
 
+<a id="claim-t-186092"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad magistras Konradas, gavęs ži nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy nėjai su kitais kariais išvesti į Lenkiją, todėl įsakė Albertui Hagenui staiga užpulti Gardino pilį ir miestą, likusius be gynėjų, ir užimti.'
+  global_id: t-186092
+  teiginys: 'Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį bei miestą, manydamas, kad jie liko be gynėjų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad magistras Konradas, gavęs ži nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy nėjai su kitais kariais išvesti į Lenkiją, todėl įsakė Albertui Hagenui staiga užpulti Gardino pilį ir miestą, likusius be gynėjų, ir užimti.'
+  santrauka: 'Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį bei miestą, manydamas, kad jie liko be gynėjų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kol lietuviai šitaip siautėjo Lenkijoje,
@@ -41,3 +42,10 @@ Kojelavičius teigia, kad magistras Konradas, gavęs ži nią apie lenkų pralai
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/ivykiai/Vytenio žygis į Didžiąją Lenkiją ir kryžiuočių antpuoliai prieš Gardiną (1306 m.)]]

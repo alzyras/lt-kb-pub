@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-26364"></a>
 - t-001
+  global_id: t-26364
   teiginys: 'LSSR Aukščiausiosios Tarybos komisija išnagrinėjo ir viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-26365"></a>
 - t-002
+  global_id: t-26365
   teiginys: '1989 m. rugpjūčio 23 d. Baltijos kelias buvo rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.'
   pagrindžia:
     - c-001

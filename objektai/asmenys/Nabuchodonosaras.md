@@ -18,7 +18,9 @@ Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, m
 
 ## Teiginiai
 
+<a id="claim-t-60391"></a>
 - t-001
+  global_id: t-60391
   teiginys: 'Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei įmesti į septynis kartus daugiau nei paprastai pakūrentą krosnį, nes atidavė savo.'
   pagrindžia:
     - c-001

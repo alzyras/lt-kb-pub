@@ -28,12 +28,16 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
 
 ## Teiginiai
 
+<a id="claim-t-64625"></a>
 - t-001
+  global_id: t-64625
   teiginys: 'J. Foigtas XIX a. trečiajame dešimtmetyje ėmėsi moksliškai tirti Dusburgiečio kroniką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64627"></a>
 - t-002
+  global_id: t-64627
   teiginys: 'J. Foigtas parašė veikalą „Geschichte Preussens“.'
   pagrindžia:
     - c-002

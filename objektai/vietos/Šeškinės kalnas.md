@@ -19,7 +19,9 @@ Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­ tingas mūšis,
 
 ## Teiginiai
 
+<a id="claim-t-86273"></a>
 - t-001
+  global_id: t-86273
   teiginys: 'Tarp Verkių ir Šeškinės kalno įsiplieskė mūšis, kuriame kryžiuočiai neleido lietuvių ir lenkų kariuomenei ilgai priešintis.'
   pagrindžia:
     - c-001

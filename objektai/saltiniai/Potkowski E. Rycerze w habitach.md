@@ -22,7 +22,9 @@ Dusburgietis teigia, kad potkowski E.
 
 ## Teiginiai
 
+<a id="claim-t-61237"></a>
 - t-001
+  global_id: t-61237
   teiginys: 'E. Potkowskio veikalas „Rycerze w habitach“ išleistas Varšuvoje 1974 m.'
   pagrindžia:
     - c-001

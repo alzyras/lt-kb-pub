@@ -15,11 +15,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - karūnacija
-  - konfliktas
 amziai:
   - 'XV'
 ---
-
 # Vytauto karūnacijos byla (1429–1430 m.)
 
 ## Santrauka
@@ -46,36 +44,46 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-05325"></a>
 - t-001
+  global_id: t-05325
   teiginys: 'Kai imperatorius pranešė parengęs du vainikus, lenkams pavyko įtikinti popiežių Martyną V sulaikyti Vytauto vainikavimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-05326"></a>
 - t-002
+  global_id: t-05326
   teiginys: 'Lenkai pasienyje sulaikė Cigalos delegaciją, atėmė diplomus ir taip sužlugdė 1430.IX.8 Vilniuje planuotą vainikavimą.'
   pagrindžia:
     - c-001
     - c-008
 
+<a id="claim-t-66986"></a>
 - t-003
+  global_id: t-66986
   teiginys: 'Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą, prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).'
   pagrindžia:
-    - c-003
     - c-007
 
+<a id="claim-t-66987"></a>
 - t-004
+  global_id: t-66987
   teiginys: 'Lenkų ponai įrodinėjo, kad Vytauto karūnavimas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lietuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą, kurį išsirinktų po Jogailos mirties lenkai.'
   pagrindžia:
     - c-003
-    - c-001
 
+<a id="claim-t-66988"></a>
 - t-005
+  global_id: t-66988
   teiginys: '1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184600"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad atvykęs į Lenkiją, jis sukvieIšsiskiisto Lucko sutė Korčine seimą, norėdamas, važiavimo dalyviai kad karalystės luomai nu spręstų, kaip dera priešintis nesaikingiems Vytauto potroškiams.'
+  global_id: t-184600
+  teiginys: 'Išvykęs iš Lucko, karalius Korčine sukvietė seimą spręsti, kaip priešintis Vytauto karūnacijos siekiams.'
   pagrindžia:
     - c-009
 
@@ -229,7 +237,7 @@ Nenurodyta
     - t-002
 
 - c-009
-  santrauka: 'Kojelavičius teigia, kad atvykęs į Lenkiją, jis sukvieIšsiskiisto Lucko sutė Korčine seimą, norėdamas, važiavimo dalyviai kad karalystės luomai nu spręstų, kaip dera priešintis nesaikingiems Vytauto potroškiams.'
+  santrauka: 'Išvykęs iš Lucko, karalius Korčine sukvietė seimą spręsti, kaip priešintis Vytauto karūnacijos siekiams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai todėl karalius po senato posėdžio, net neatsi­
@@ -251,9 +259,21 @@ Nenurodyta
     - t-006
 
 ## Ryšiai
-
 ### Teminiai klasteriai
-- [[temos/bajorija - karalius]]
+- [[temos/karūnacija]]
 
-### Laikotarpiai
-- XV amžius
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/senatas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Zbignievas Olesnickis]]
+- [[objektai/zodynas/seimas]]

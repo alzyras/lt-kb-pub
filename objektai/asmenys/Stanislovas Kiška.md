@@ -21,43 +21,46 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Stanislovas Kiška
 
 ## Santrauka
 
 Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patirties kovose su totoriais ir maskvėnais (po to, kai 1502 m. jam pavyko apginti Smolenską nuo maskvėnų, jam buvo patikėtos etmono pareigos). Rugpjūčio 5 d. paryčiais žygio vargai etmoną Stanislovą Kišką išvertė iš kojų.
 
-## Ryšiai
-
-### Teminiai klasteriai
-- [[temos/karvedys]]
-- [[temos/transportas]]
-
 ## Teiginiai
 
+<a id="claim-t-79162"></a>
 - t-001
+  global_id: t-79162
   teiginys: 'Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir savo favorita, dvaro maršalką, kunigaikštį Mykolą Glinskį, o pats grįžo į Vilnių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79163"></a>
 - t-002
+  global_id: t-79163
   teiginys: 'Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184831"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad kitiems pulkams pamažėle žygiuojant iš paskos, jis išsiuntė į priekį kariuomenės vadą Stanislovą Kišką, įsakydamas su turimomis jėgo mis sustabdyti priešų antpuolius.'
+  global_id: t-184831
+  teiginys: 'Kazimieras išsiuntė kariuomenės vadą Stanislovą Kišką į priekį sustabdyti priešų antpuolių turimomis jėgomis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184832"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad ir Stanislovas Kiška, vargais negalais pra sivalęs kelią, veržliai nusiaubė Viazmos žemę ir greti mas apygardas, visur žudydamas ir degindamas.'
+  global_id: t-184832
+  teiginys: 'Stanislovas Kiška prasivalė kelią ir nusiaubė Viazmos žemę bei gretimas apygardas, žudydamas ir degindamas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184833"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad ostrogiškio ir Kiškos vedami kariai nioko ja Maskvos kuni gaikštystę Apie tai sužinojęs, Kiška paprašė karalių pagalbos.'
+  global_id: t-184833
+  teiginys: 'Sužinojęs apie iš slėptuvių išviliotą priešo kariuomenę, Stanislovas Kiška paprašė karaliaus pagalbos.'
   pagrindžia:
     - c-005
 
@@ -102,7 +105,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
     - t-001
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad kitiems pulkams pamažėle žygiuojant iš paskos, jis išsiuntė į priekį kariuomenės vadą Stanislovą Kišką, įsakydamas su turimomis jėgo mis sustabdyti priešų antpuolius.'
+  santrauka: 'Kazimieras išsiuntė kariuomenės vadą Stanislovą Kišką į priekį sustabdyti priešų antpuolių turimomis jėgomis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Netruko surengti tokį žy­
@@ -133,7 +136,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad ir Stanislovas Kiška, vargais negalais pra sivalęs kelią, veržliai nusiaubė Viazmos žemę ir greti mas apygardas, visur žudydamas ir degindamas.'
+  santrauka: 'Stanislovas Kiška prasivalė kelią ir nusiaubė Viazmos žemę bei gretimas apygardas, žudydamas ir degindamas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto Ostro­
@@ -152,7 +155,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad ostrogiškio ir Kiškos vedami kariai nioko ja Maskvos kuni gaikštystę Apie tai sužinojęs, Kiška paprašė karalių pagalbos.'
+  santrauka: 'Sužinojęs apie iš slėptuvių išviliotą priešo kariuomenę, Stanislovas Kiška paprašė karaliaus pagalbos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šis
@@ -175,3 +178,16 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
   statusas: verified
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/karvedys]]
+- [[temos/transportas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Kiška]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/Miera|miera]]

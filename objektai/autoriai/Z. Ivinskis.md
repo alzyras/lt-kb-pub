@@ -40,38 +40,52 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 
 ## Teiginiai
 
+<a id="claim-t-00084"></a>
 - t-001
+  global_id: t-00084
   teiginys: 'Z. Ivinskis parašė veikalo dalį apie laikotarpį iki Gediminaičių dinastijos galo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05577"></a>
 - t-002
+  global_id: t-05577
   teiginys: 'Zenonas Ivinskis savo vardu ir pavarde pasirašė veikalo pratarmę Bonoje 1970 m. spalio 15 d.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-05579"></a>
 - t-003
+  global_id: t-05579
   teiginys: 'Ivinskis, Z. (Bražėnas) nurodomas kaip tekstų „Lietuvių tautos istorijos periodizacijos metmens“ ir „Lietuvos ir kitų baltų praeitis sovietų aiškinime“ autorius.'
   pagrindžia:
     - c-003
     - c-004
 
+<a id="claim-t-05580"></a>
 - t-004
+  global_id: t-05580
   teiginys: 'Z. Ivinskis siejamas su vokišku straipsniu „Die baltische Frage im 17. Jahrhundert“.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-05581"></a>
 - t-005
+  global_id: t-05581
   teiginys: 'Zenonas Ivinskis Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-12267"></a>
 - t-006
+  global_id: t-12267
   teiginys: 'Įžangoje nurodoma, kad jaunieji istorikai į pasitarimą dėl knygos buvo susirinkę Z. Ivinskio pakviesti.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-179567"></a>
 - t-007
+  global_id: t-179567
   teiginys: 'Ivinskio, kadangi tai ne lokaliniai, o plataus masto veiksmai, vykę Lietuvos vakaruose, tai 4000 lietuvių pajėgas reikia suprasti kaip jungtines žemaičių ir paties Lietuvos valdovo karaliaus Mindaugo karines pajėgas, nukreiptas prieš Ordiną.'
   pagrindžia:
     - c-006

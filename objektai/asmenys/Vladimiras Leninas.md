@@ -19,17 +19,23 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 
 ## Teiginiai
 
+<a id="claim-t-64245"></a>
 - t-001
+  global_id: t-64245
   teiginys: 'Vladimiro Lenino statulos sovietmečiu buvo statomos Lietuvos miestuose ir miesteliuose valstybingumo paminklų vietose.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-64246"></a>
 - t-002
+  global_id: t-64246
   teiginys: 'Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64247"></a>
 - t-003
+  global_id: t-64247
   teiginys: 'Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai, o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.'
   pagrindžia:
     - c-001

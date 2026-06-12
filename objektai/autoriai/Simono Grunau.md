@@ -16,17 +16,23 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
 
 ## Teiginiai
 
+<a id="claim-t-30981"></a>
 - t-001
+  global_id: t-30981
   teiginys: 'Simonas Grunau rodyklėje nurodytas kaip kronikininkas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-30982"></a>
 - t-002
+  global_id: t-30982
   teiginys: 'Simonas Grunau paskelbė pagonių rašmenis, kuriuos kiti iki XX a. pradžios nekritiškai kartojo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-30983"></a>
 - t-003
+  global_id: t-30983
   teiginys: 'Simonas Grunau pirmasis įvedė pavadinimą „Criwe-Kirwaito“.'
   pagrindžia:
     - c-001

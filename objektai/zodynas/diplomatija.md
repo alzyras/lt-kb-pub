@@ -19,7 +19,9 @@ Ar nagrinėti pavyzdinga krašto administracija, ar tvarkyti sku­ būs Malburgo
 
 ## Teiginiai
 
+<a id="claim-t-36776"></a>
 - t-001
+  global_id: t-36776
   teiginys: 'Vytautą domino diplomatija, krašto administracija, Malburgo finansai ir karo sumanymai.'
   pagrindžia:
     - c-001

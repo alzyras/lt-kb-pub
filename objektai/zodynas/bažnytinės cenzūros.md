@@ -18,7 +18,9 @@ O [vaitas ir tarėjai] nesi­ laikydami įstatymų pasisavina iš bažnyčios va
 
 ## Teiginiai
 
+<a id="claim-t-86516"></a>
 - t-001
+  global_id: t-86516
   teiginys: 'Vilniaus vyskupo Motiejaus raštu Vilniaus kapitulai suteikta jurisdikcija ir leidimas taikyti bažnytines cenzūras.'
   pagrindžia:
     - c-001

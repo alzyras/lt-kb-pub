@@ -17,7 +17,9 @@ Apygardinėse mokyklose mokslas buvo išeinamas per 7 m. (V kl.
 
 ## Teiginiai
 
+<a id="claim-t-02952"></a>
 - t-001
+  global_id: t-02952
   teiginys: 'Apygardinėse mokyklose mokslas buvo išeinamas per 7 metus, o apygardėlinėse mokyklose trukdavo 6 metus.'
   pagrindžia:
     - c-001

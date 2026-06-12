@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Daugirdas
 
 ## Santrauka
 
-Kojelavičius teigia, kad sušaukę pasitarimą, nusprendė pašalinti Mykolą, ir Leliušas su stipria įgula užėmė Trakus, o Daugirdas nu skubėjo į Vilnių. Kojelavičius teigia, kad kai mirė Daugirdas, Vilniaus vaivada, Joną Goš tautą paskyrė jo įpėdiniu.
+Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vilnių. Mirus Vilniaus vaivadai Daugirdui, jo įpėdiniu buvo paskirtas Jonas Goštautas.
 
 ## Teiginiai
 
+<a id="claim-t-186102"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad sušaukę pasitarimą, nusprendė pašalinti Mykolą, ir Leliušas su stipria įgula užėmė Trakus, o Daugirdas nu skubėjo į Vilnių.'
+  global_id: t-186102
+  teiginys: 'Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vilnių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186103"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kai mirė Daugirdas, Vilniaus vaivada, Joną Goš tautą paskyrė jo įpėdiniu.'
+  global_id: t-186103
+  teiginys: 'Mirus Vilniaus vaivadai Daugirdui, jo įpėdiniu buvo paskirtas Jonas Goštautas.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad sušaukę pasitarimą, nusprendė pašalinti Mykolą, ir Leliušas su stipria įgula užėmė Trakus, o Daugirdas nu skubėjo į Vilnių.'
+  santrauka: 'Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vilnių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nu­
@@ -53,7 +56,7 @@ Kojelavičius teigia, kad sušaukę pasitarimą, nusprendė pašalinti Mykolą, 
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kai mirė Daugirdas, Vilniaus vaivada, Joną Goš tautą paskyrė jo įpėdiniu.'
+  santrauka: 'Mirus Vilniaus vaivadai Daugirdui, jo įpėdiniu buvo paskirtas Jonas Goštautas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tiems, kurių ištikimybę bei narsumą patyrė per
@@ -71,3 +74,17 @@ Kojelavičius teigia, kad sušaukę pasitarimą, nusprendė pašalinti Mykolą, 
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/autoriai/Algimantas Daugirdas]]
+- [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
+- [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]
+- [[objektai/asmenys/Leliušas]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- [[objektai/ivykiai/Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)]]
+- [[objektai/zodynas/vaivada]]

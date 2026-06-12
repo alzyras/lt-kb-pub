@@ -19,7 +19,9 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
 
 ## Teiginiai
 
+<a id="claim-t-42166"></a>
 - t-001
+  global_id: t-42166
   teiginys: 'Radvilos pajėgoms artėjant prie Staricos, joje rezidavęs Ivanas IV skubiai evakavo šeimą, dvarą ir iždą.'
   pagrindžia:
     - c-001

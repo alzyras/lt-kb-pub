@@ -17,7 +17,9 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
 
 ## Teiginiai
 
+<a id="claim-t-46992"></a>
 - t-001
+  global_id: t-46992
   teiginys: 'Tokio reiškinio analogijos – angliškosios kultūros laida Airijoje (ką jau kalbėti apie JAV ir Australiją), daniškosios – Norvegijoje, prancūziškosios – Kanados Kvebeke, ispaniškosios kultūros laidos Meksikoje ar Argentinoje.'
   pagrindžia:
     - c-001

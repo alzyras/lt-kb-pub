@@ -18,7 +18,9 @@ Dusburgietis teigia, kad šitaip prasidėjo naujas karas, šitaip pradėta varto
 
 ## Teiginiai
 
+<a id="claim-t-58934"></a>
 - t-001
+  global_id: t-58934
   teiginys: 'Dusburgietis teigia, kad šitaip prasidėjo naujas karas, šitaip pradėta vartoti naujas kovos priemones, leidusias mums dvasios ginklais nugalėti tikybos ir bažnyčios priešus.'
   pagrindžia:
     - c-001

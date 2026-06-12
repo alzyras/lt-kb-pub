@@ -24,12 +24,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86110"></a>
 - t-001
+  global_id: t-86110
   teiginys: '1493 m. Aleksandro Jogailaičio dovanojimo akte minima pieva ties Vaivados malūnu Užupyje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86111"></a>
 - t-002
+  global_id: t-86111
   teiginys: 'Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą prie Vilniaus vaivados Mikalojaus Radvilos malūno Užupyje.'
   pagrindžia:
     - c-001

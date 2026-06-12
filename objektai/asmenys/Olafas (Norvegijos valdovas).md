@@ -19,7 +19,9 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
 
 ## Teiginiai
 
+<a id="claim-t-19180"></a>
 - t-001
+  global_id: t-19180
   teiginys: 'Norvegijos valdovas Olafas 997 m. pradėjo šalies christianizaciją.'
   pagrindžia:
     - c-001

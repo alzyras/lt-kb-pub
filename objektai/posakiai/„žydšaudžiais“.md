@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-20974"></a>
 - t-001
+  global_id: t-20974
   teiginys: 'Liaudyje nacių kolaborantai paniekinamai vadinti „žydšaudžiais“, nes žydų naikinimas kėlė didelį visuomenės pasipiktinimą.'
   pagrindžia:
     - c-001

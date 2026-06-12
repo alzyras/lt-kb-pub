@@ -17,7 +17,9 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
 
 ## Teiginiai
 
+<a id="claim-t-87787"></a>
 - t-001
+  global_id: t-87787
   teiginys: 'Mikalojaus Sachovskio privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams.'
   pagrindžia:
     - c-001

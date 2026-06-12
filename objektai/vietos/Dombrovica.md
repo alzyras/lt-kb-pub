@@ -16,7 +16,9 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 
 ## Teiginiai
 
+<a id="claim-t-02420"></a>
 - t-001
+  global_id: t-02420
   teiginys: 'Brastos apygardoje mokyklų buvo ir Dombrovicoje.'
   pagrindžia:
     - c-001

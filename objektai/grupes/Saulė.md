@@ -26,12 +26,16 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 
 ## Teiginiai
 
+<a id="claim-t-168658"></a>
 - t-001
+  global_id: t-168658
   teiginys: '„Saulė“ buvo viena iš trijų ypatingos reikšmės švietimo draugijų greta Vilniaus „Ryto“ ir Marijampolės „Žiburio“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-168659"></a>
 - t-002
+  global_id: t-168659
   teiginys: '„Saulės“ draugija Kaune įsteigė buhalterijos kursus, rengusius prekybai ir vartotojų bendrovėms reikalingus žmones.'
   pagrindžia:
     - c-001

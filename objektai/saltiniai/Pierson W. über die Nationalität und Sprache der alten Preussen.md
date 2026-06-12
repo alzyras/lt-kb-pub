@@ -24,7 +24,9 @@ Dusburgietis teigia, kad pierson W.
 
 ## Teiginiai
 
+<a id="claim-t-61224"></a>
 - t-001
+  global_id: t-61224
   teiginys: 'W. Piersono straipsnis „Über die Nationalität und Sprache der alten Preussen“ paskelbtas Berlyne 1873 m., p. 1–20.'
   pagrindžia:
     - c-001

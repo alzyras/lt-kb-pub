@@ -25,7 +25,9 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
 
 ## Teiginiai
 
+<a id="claim-t-77828"></a>
 - t-001
+  global_id: t-77828
   teiginys: 'Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių vadu tapo Jokūbas Jasinskis.'
   pagrindžia:
     - c-001

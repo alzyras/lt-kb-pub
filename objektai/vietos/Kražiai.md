@@ -27,7 +27,9 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
 
 ## Teiginiai
 
+<a id="claim-t-68248"></a>
 - t-001
+  global_id: t-68248
   teiginys: 'Kražiuose atsirado jėzuitų kolegija, funduota didžiojo etmono Jono Karolio Katkevičiaus.'
   pagrindžia:
     - c-001

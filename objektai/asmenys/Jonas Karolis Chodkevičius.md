@@ -17,7 +17,9 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
 
 ## Teiginiai
 
+<a id="claim-t-18977"></a>
 - t-001
+  global_id: t-18977
   teiginys: '1605 m. Jonas Karolis Chodkevičius prie Kirchholmo vadovavo LDK kariuomenei, kuri nugalėjo 12 tūkst. švedų.'
   pagrindžia:
     - c-001

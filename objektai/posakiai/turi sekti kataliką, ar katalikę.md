@@ -17,12 +17,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-31572"></a>
 - t-001
+  global_id: t-31572
   teiginys: 'Įsakyme frazė „turi sekti kataliką, ar katalikę“ taikyta vedusiems rusę ar ištekėjusioms už ruso ir siejo juos su Romos krikštu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184363"></a>
 - t-002
+  global_id: t-184363
   teiginys: 'Įsakyme buvo įsakmiai pažymėta : jeigu kas butų anksčiau vedęs rusę, ar moteris ištekėjusi už ruso, «turi sekti kataliką, ar katalikę » ir priimti Romos krikštą.'
   pagrindžia:
     - c-002

@@ -6,29 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Italų ateiviai
 
 ## Santrauka
 
-Kojelavičius teigia, kad galimas daiktas, alanai, arba herulai (kurie, istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie pasitraukė iš tėvynės ir pasuko į tas žemes, kurios buvo tinkamiausios įsikurti ir neniokojamos karų. Kojelavičius teigia, kad italai rodėsi esą tokie gabūs ir veikė taip sumaniai, kad jų vidaus padėtis tapo gana tvirta, o tarp sąjun gininkų nekėlė nei neapykantos, ne įtarimo.
+Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki šimtai kilmingųjų.
 
 ## Teiginiai
 
+<a id="claim-t-185426"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad galimas daiktas, alanai, arba herulai (kurie, istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie pasitraukė iš tėvynės ir pasuko į tas žemes, kurios buvo tinkamiausios įsikurti ir neniokojamos karų.'
+  global_id: t-185426
+  teiginys: 'Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki šimtai kilmingųjų.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Kojelavičius teigia, kad italai rodėsi esą tokie gabūs ir veikė taip sumaniai, kad jų vidaus padėtis tapo gana tvirta, o tarp sąjun gininkų nekėlė nei neapykantos, ne įtarimo.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad galimas daiktas, alanai, arba herulai (kurie, istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie pasitraukė iš tėvynės ir pasuko į tas žemes, kurios buvo tinkamiausios įsikurti ir neniokojamos karų.'
+  santrauka: 'Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki šimtai kilmingųjų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Galimas daiktas, alanai, arba herulai (kurie,
@@ -58,21 +54,8 @@ Kojelavičius teigia, kad galimas daiktas, alanai, arba herulai (kurie, istorijo
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Kojelavičius teigia, kad italai rodėsi esą tokie gabūs ir veikė taip sumaniai, kad jų vidaus padėtis tapo gana tvirta, o tarp sąjun gininkų nekėlė nei neapykantos, ne įtarimo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Italai rodėsi esą tokie gabūs ir veikė taip sumaniai,
-    kad jų vidaus padėtis tapo gana tvirta, o tarp sąjun­
-    gininkų nekėlė nei neapykantos, ne įtarimo. Neilgai
-    trukus ateiviai ir vietiniai gyventojai visiškai susivie­
-    nijo: abi tautos panoro turėti bendrą valstybę, o lie­
-    tuviai patys netgi sutiko pasiduoti ateivių valdžiai.
-    Kaip po kelių šimtmečių vokiečiai ginklu užgrobė Li­
-    voniją, o kiti vėliau Prūsiją, taip italai ypatingu su­
-    manumu ir būdo meilumu užėmė Lietuvą.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Herbas]]
+- [[objektai/grupes/Herulai]]
+- [[objektai/asmenys/Julijonas Dausprungas]]

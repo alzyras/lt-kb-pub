@@ -22,7 +22,9 @@ Dusburgietis teigia, kad leyding G.
 
 ## Teiginiai
 
+<a id="claim-t-61128"></a>
 - t-001
+  global_id: t-61128
   teiginys: 'G. Leydingo „Słownik nazw miejscowych okręgu mazurskiego“ antroji dalis apie fiziografinius pavadinimus išleista Poznanėje 1959 m.'
   pagrindžia:
     - c-001

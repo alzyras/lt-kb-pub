@@ -16,7 +16,9 @@ Lenkijos kariams vadovavo Zindramas iš Maškovičių ir Lenkijos maršalas Zbig
 
 ## Teiginiai
 
+<a id="claim-t-80727"></a>
 - t-001
+  global_id: t-80727
   teiginys: 'Lenkijos kariams vadovavo Zindramas iš Maškovičių ir Lenkijos maršalas Zbignevas iš Bžezės.'
   pagrindžia:
     - c-001

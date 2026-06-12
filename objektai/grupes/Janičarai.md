@@ -16,12 +16,16 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
 
 ## Teiginiai
 
+<a id="claim-t-40893"></a>
 - t-001
+  global_id: t-40893
   teiginys: 'Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija atakavo atskirai įsikūrusių Ukrainos kazokų stovyklą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40894"></a>
 - t-002
+  global_id: t-40894
   teiginys: 'Trečią kovų dieną janičarai po artilerinio apšaudymo atakavo LDK didžiojo etmono ginamus įtvirtinimus ir kazokų stovyklą.'
   pagrindžia:
     - c-001

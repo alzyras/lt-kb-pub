@@ -26,12 +26,16 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
 
 ## Teiginiai
 
+<a id="claim-t-61010"></a>
 - t-001
+  global_id: t-61010
   teiginys: 'Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatinti su vietove prie Mituvos aukštupio — Skeršpile (1915 m. — Szkerkszpile; Tarasenka P., Lietuvos archeologinė medžiaga, p. 245; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185 ir žemėl.), tačiau dab.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-61011"></a>
 - t-002
+  global_id: t-61011
   teiginys: 'P. Tarasenkos „Lietuvos archeologijos medžiaga“ išleista 1928 m.; leidimo vieta citatoje nurodyta santrumpa „K.“.'
   pagrindžia:
     - c-002

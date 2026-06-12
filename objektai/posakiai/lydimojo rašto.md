@@ -19,7 +19,9 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
 
 ## Teiginiai
 
+<a id="claim-t-36009"></a>
 - t-001
+  global_id: t-36009
   teiginys: 'Gilbertui de Lannoy keliaujant per totorių žemes į Krymą, Vytauto kepurės užteko kaip „lydimojo rašto“.'
   pagrindžia:
     - c-001

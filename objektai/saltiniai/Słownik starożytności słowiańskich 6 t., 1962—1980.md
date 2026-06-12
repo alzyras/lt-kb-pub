@@ -26,7 +26,9 @@ Dusburgietis teigia, kad słownik starożytności słowiańskich: 6 t., 1962—1
 
 ## Teiginiai
 
+<a id="claim-t-61307"></a>
 - t-001
+  global_id: t-61307
   teiginys: '„Słownik starożytności słowiańskich“ sudaro šeši tomai, leisti 1962–1980 m. Vroclave, Varšuvoje ir Krokuvoje.'
   pagrindžia:
     - c-001

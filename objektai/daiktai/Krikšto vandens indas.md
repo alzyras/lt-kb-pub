@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59690"></a>
 - t-001
+  global_id: t-59690
   teiginys: '1298 m. užpuolus Straisbergą, vienas lietuvis išniekino krikšto vandens indą, pridergdamas į jį.'
   pagrindžia:
     - c-001

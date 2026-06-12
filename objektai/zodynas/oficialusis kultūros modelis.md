@@ -26,12 +26,16 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 
 ## Teiginiai
 
+<a id="claim-t-70254"></a>
 - t-001
+  global_id: t-70254
   teiginys: 'LDK oficialiajame kultūros modelyje lietuvių kalbą iš pradžių lenkė rusėnų, o vėliau lenkų kalba.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183448"></a>
 - t-002
+  global_id: t-183448
   teiginys: 'Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalba sukurti oficialųjį kultūros modelį.'
   pagrindžia:
     - c-002

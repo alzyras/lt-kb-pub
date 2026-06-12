@@ -17,12 +17,16 @@ Net Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie Lietuvos kun
 
 ## Teiginiai
 
+<a id="claim-t-97293"></a>
 - t-001
+  global_id: t-97293
   teiginys: 'Dlugošas Kęstutį apibūdino kaip šaunų, išmintingą, veiklų, išlavintą, žmonišką ir pažadams ištikimą vyrą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97294"></a>
 - t-002
+  global_id: t-97294
   teiginys: 'Nuolatiniai susidūrimai karuose su vakarų Europos riteriais Kęstutį išmokė riteriškų papročių, kurių jis griežtai laikėsi.'
   pagrindžia:
     - c-002

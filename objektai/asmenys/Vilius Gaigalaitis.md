@@ -16,7 +16,9 @@ Vokiečiai atsiliepė rugpjūčio 1-ąją – Prūsijos Landtage parlamentaras l
 
 ## Teiginiai
 
+<a id="claim-t-26464"></a>
 - t-001
+  global_id: t-26464
   teiginys: 'Prūsijos Landtago parlamentaras Vilius Gaigalaitis lietuvių vardu pareiškė, kad tikimasi Didžiosios Lietuvos prijungimo prie Vokietijos.'
   pagrindžia:
     - c-001

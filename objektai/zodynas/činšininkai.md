@@ -17,7 +17,9 @@ Lietuvos komitetų darbas ėjo ne be kliūčių, nes bajorijos tarpe atsirado ne
 
 ## Teiginiai
 
+<a id="claim-t-03231"></a>
 - t-001
+  global_id: t-03231
   teiginys: 'Činšininkais vadinti valstiečiai, kurie turėjo mokėti tik mokesčius.'
   pagrindžia:
     - c-001

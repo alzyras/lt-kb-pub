@@ -47,37 +47,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75389"></a>
 - t-001
+  global_id: t-75389
   teiginys: 'Daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75391"></a>
 - t-002
-  teiginys: 'XIX a. pabaigoje Kauno gubernijoje pradžios mokyklas lankė 21 proc. berniukų ir 4 proc. mergaičių.'
-  pagrindžia:
-    - c-003
-
-- t-003
+  global_id: t-75391
   teiginys: 'Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis virto tradicija.'
   pagrindžia:
     - c-001
 
-- t-004
+<a id="claim-t-75392"></a>
+- t-003
+  global_id: t-75392
   teiginys: 'XIX a. pabaigoje etninėje Lietuvoje oficialias pradžios mokyklas lankė itin maža mokyklinio amžiaus vaikų dalis.'
   pagrindžia:
     - c-002
 
-- t-005
+<a id="claim-t-75393"></a>
+- t-004
+  global_id: t-75393
   teiginys: 'Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis išliko ir susiformavo tokio mokymo tradicija.'
   pagrindžia:
     - c-001
 
-- t-006
+<a id="claim-t-75394"></a>
+- t-005
+  global_id: t-75394
   teiginys: 'XIX a. pabaigoje Kauno gubernijoje oficialias pradžios mokyklas lankė 21 proc. berniukų ir 4 proc. mergaičių.'
   pagrindžia:
     - c-002
 
-- t-007
+<a id="claim-t-183334"></a>
+- t-006
+  global_id: t-183334
   teiginys: 'Po 1863– 1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias mokyklas neleisti.'
   pagrindžia:
     - c-003
@@ -97,7 +104,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-002
   santrauka: 'XIX a. pabaigoje etninėje Lietuvoje oficialias pradžios mokyklas lankė itin maža mokyklinio amžiaus vaikų dalis.'
@@ -127,8 +134,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-    - t-006
+    - t-003
+    - t-005
 
 - c-003
   santrauka: 'Po 1863– 1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias mokyklas neleisti.'
@@ -146,7 +153,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
     - t-001
 
 ## Ryšiai

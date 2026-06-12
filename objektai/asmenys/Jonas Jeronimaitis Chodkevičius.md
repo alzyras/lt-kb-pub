@@ -27,32 +27,44 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
 
 ## Teiginiai
 
+<a id="claim-t-101648"></a>
 - t-001
+  global_id: t-101648
   teiginys: 'Jonas Jeronimaitis Chodkevičius pasirinko Lietuvos susisaistymą su Lenkija ir 1569 m. Liublino seime priėmė unijos idėją.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-101649"></a>
 - t-002
+  global_id: t-101649
   teiginys: 'Chodkevičius pasiekė, kad konkretūs Lenkijos ir Lietuvos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami ne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos valstybingumą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-101650"></a>
 - t-003
+  global_id: t-101650
   teiginys: 'Vitebsko karo lauko seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101651"></a>
 - t-004
+  global_id: t-101651
   teiginys: 'Jonas Jeronimaitis Chodkevičius, kreipdamasis į Žygimantą Augustą, teigė buvęs priverstas nusileisti su didžiu skausmu ir širdgėla.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-101652"></a>
 - t-005
+  global_id: t-101652
   teiginys: 'Jonas Jeronimaitis Chodkevičius pasiekė, kad Lenkijos ir Lietuvos ryšių ar unijos klausimai būtų sprendžiami po Liublino seimo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183543"></a>
 - t-006
+  global_id: t-183543
   teiginys: 'Jonas Jeronimaitis Chodkevičius kreipdamasis į Žygimantą Augustą teigė, kad lietuviai priversti nusileisti su didžiu skausmu.'
   pagrindžia:
     - c-005

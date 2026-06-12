@@ -39,17 +39,23 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 
 ## Teiginiai
 
+<a id="claim-t-13543"></a>
 - t-001
+  global_id: t-13543
   teiginys: 'Vadystė yra `chiefdom` stadijos atitikmuo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-13544"></a>
 - t-002
+  global_id: t-13544
   teiginys: 'Netimero valdžios paveldimumas šaltinyje laikomas požymiu, kad Lietuva buvo pasiekusi bent vadystės stadiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-26668"></a>
 - t-003
+  global_id: t-26668
   teiginys: 'Netimero valdžios paveldimumo principo buvimas rodytų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.'
   pagrindžia:
     - c-002

@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-100035"></a>
 - t-001
+  global_id: t-100035
   teiginys: 'Kriavo aktas Kriavas (ir pilis) 126, 246, 247, 274, 275, 285, 286, 289, 365 ; Kriavo seniūnas Goštautas 377 Kriavo aktas 6, 25, 28, 35, 38, 149, 165, 262, 270, 280-282, 285-287, 293, 365, 369, 375, 377 Krikštonys 76, 105 Kristijonas, Lietuvos vysk.'
   pagrindžia:
     - c-001

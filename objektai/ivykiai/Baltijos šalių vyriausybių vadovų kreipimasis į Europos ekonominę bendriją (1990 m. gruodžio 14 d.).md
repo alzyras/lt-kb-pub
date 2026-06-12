@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20170"></a>
 - t-001
+  global_id: t-20170
   teiginys: '1990 m. gruodžio 14 d. Baltijos šalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos ekonominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ absoliučia balsų dauguma (124 deputatams balsavus už, nė vienam nebalsavus p
 
 ## Teiginiai
 
+<a id="claim-t-20903"></a>
 - t-001
+  global_id: t-20903
   teiginys: 'Lietuvos nepriklausomybės atkūrimo Aktas priimtas 124 deputatams balsavus už, nė vienam prieš ir šešiems susilaikius.'
   pagrindžia:
     - c-001

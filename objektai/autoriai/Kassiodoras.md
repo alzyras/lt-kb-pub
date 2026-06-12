@@ -18,12 +18,16 @@ Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras (Cassiodorus, a. P
 
 ## Teiginiai
 
+<a id="claim-t-30755"></a>
 - t-001
+  global_id: t-30755
   teiginys: 'Kassiodoras, ostgotų karaliaus Teodoriko aukštas valdininkas, savo raštuose pateikė Teodoriko padėkos laišką aisčiams už gintaro dovanas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-30756"></a>
 - t-002
+  global_id: t-30756
   teiginys: 'Jordanes 551 m. parengė vėliau dingusios Kassiodoro gotų istorijos santrauką ir joje minėjo Aesti kaip taikingą pajūrio tautą.'
   pagrindžia:
     - c-001

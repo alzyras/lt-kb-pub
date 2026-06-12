@@ -16,7 +16,9 @@ tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo kata
 
 ## Teiginiai
 
+<a id="claim-t-21565"></a>
 - t-001
+  global_id: t-21565
   teiginys: 'XVI–XVII a. Lisabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės įtaką iki Meksikos ir Paragvajaus.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Taip 1396 m. Vytautas su magistru susivažiavo Dubysos saloj.
 
 ## Teiginiai
 
+<a id="claim-t-34177"></a>
 - t-001
+  global_id: t-34177
   teiginys: '1396 m. Vytautas Dubysos saloje susitiko su magistru, kuris jam pateikė Ordino reikalavimus.'
   pagrindžia:
     - c-001

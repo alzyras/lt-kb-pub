@@ -25,7 +25,9 @@ Taip pat du kartu (1292, 1294) ordino kariuomenė pasiekė Nemuno dešiniojo kra
 
 ## Teiginiai
 
+<a id="claim-t-32441"></a>
 - t-001
+  global_id: t-32441
   teiginys: '1292 ir 1294 m. Ordino kariuomenė pasiekė Nemuno dešiniojo kranto sritis ir nusiaubė Pačtuvą prie Vilkijos.'
   pagrindžia:
     - c-001

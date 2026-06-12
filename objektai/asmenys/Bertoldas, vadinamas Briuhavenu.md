@@ -28,32 +28,44 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 
 ## Teiginiai
 
+<a id="claim-t-59876"></a>
 - t-001
+  global_id: t-59876
   teiginys: 'Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygiavo su tūkstančiu Sembos vyrų ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link Medrabos pilies534, per kurią.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-59877"></a>
 - t-002
+  global_id: t-59877
   teiginys: 'Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59878"></a>
 - t-003
+  global_id: t-59878
   teiginys: 'Dusburgietis teigia, kad apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie jo gyvenimą Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas Karaliaučiaus brolių komtūru.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59879"></a>
 - t-004
+  global_id: t-59879
   teiginys: 'Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis Gotfridas Hohenlohė, Teutonų ordino didysis magistras, pasiuntęs Livonijos žemės broliams į pagalbą brolį Bertoldą Briuhaveną, Karaliaučiaus komtūrą, su daugybe brolių ir ginklanešių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59880"></a>
 - t-005
+  global_id: t-59880
   teiginys: 'Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šalimais tekančio upelio Ragaine, palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą, su 40 brolių ir šimtu rinktinių ginklanešių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-59881"></a>
 - t-006
+  global_id: t-59881
   teiginys: 'Dusburgietis teigia, kad brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos, kai karalius bus iškeliavęs iš savo žemės, ir ten nusigauti su brolių kariuomene; jis subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą.'
   pagrindžia:
     - c-005

@@ -19,7 +19,9 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
 
 ## Teiginiai
 
+<a id="claim-t-40086"></a>
 - t-001
+  global_id: t-40086
   teiginys: 'Mažamečio Dmitrijaus mirtis prisidėjo prie Riurikaičių dinastijos nutrūkimo ir gilios Rusijos krizės XVII a. pradžioje.'
   pagrindžia:
     - c-001

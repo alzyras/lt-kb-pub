@@ -24,7 +24,9 @@ Useser, H.: Götternamen, (cap. 7 : Solmseh, F.
 
 ## Teiginiai
 
+<a id="claim-t-30632"></a>
 - t-001
+  global_id: t-30632
   teiginys: 'H. Useseris nurodytas kaip veikalo „Götternamen“ autorius.'
   pagrindžia:
     - c-001

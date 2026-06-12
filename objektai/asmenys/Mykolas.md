@@ -17,12 +17,16 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 
 ## Teiginiai
 
+<a id="claim-t-64008"></a>
 - t-001
+  global_id: t-64008
   teiginys: 'Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64009"></a>
 - t-002
+  global_id: t-64009
   teiginys: 'Ji buvo daug svarbesnė pilių apgulose vadovauti pavedė savo sūnui kunigaikščiui Mykolui, kuris „su lietuviais ir lenkais“ žygiavo pasitikti priešo.'
   pagrindžia:
     - c-001
@@ -87,6 +91,7 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 - [[objektai/grupes/Lietuvos tūkstantmečio minėjimo direkcija]]
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
 - [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
+- [[objektai/asmenys/Mykolas Goštautas]]
 - [[objektai/asmenys/Mykolas Skirgaila]]
 - [[objektai/ivykiai/Mykolo Kaributo Višniaveckio elekcija (1669 m.)]]
 - [[objektai/ivykiai/Mykolo ir skitų įsiveržimas į Severską bei Kazimiero atsakomasis žygis (1448 m.)]]
@@ -118,6 +123,7 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 - [[objektai/grupes/Bajorų konfederacija]]
 - [[objektai/asmenys/Kristupas Pacas]]
 - [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
+- [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/ivykiai/M. Balinskio areštas 1831 m. gegužę]]

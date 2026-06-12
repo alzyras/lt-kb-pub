@@ -28,22 +28,30 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
 
 ## Teiginiai
 
+<a id="claim-t-10089"></a>
 - t-001
+  global_id: t-10089
   teiginys: 'Karolis IV šiame šaltinyje įvardijamas Šv. Romos imperatoriumi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89884"></a>
 - t-002
+  global_id: t-89884
   teiginys: 'Karolis IV buvo imperatorius, kurį Kazimieras siekė įtraukti į pasiūlymą Lietuvai krikštytis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89885"></a>
 - t-003
+  global_id: t-89885
   teiginys: 'Dusburgietis teigia, kad 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89888"></a>
 - t-004
+  global_id: t-89888
   teiginys: 'Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos.'
   pagrindžia:
     - c-002

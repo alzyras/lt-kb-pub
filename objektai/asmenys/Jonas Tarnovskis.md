@@ -10,7 +10,6 @@ atnaujinta: ''
 tags:
   - asmuo
 ---
-
 # Jonas Tarnovskis
 
 ## Santrauka
@@ -19,18 +18,24 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
 
 ## Teiginiai
 
+<a id="claim-t-63736"></a>
 - t-001
+  global_id: t-63736
   teiginys: 'Juos papildė Lenkijos karalystės pinigais suverbuoti žmonės ir lenkų riteriai savanoriai (10 vėliavų), vadovaujami Jono Tarnovskio (būsimo Lenkijos didžiojo etmono), visų pirma - karaliaus dvarionys, kuriems vadovavo Albertas (Vaitiekus) Sampolinskis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63737"></a>
 - t-002
+  global_id: t-63737
   teiginys: 'Jonas Tarnovskis buvo vienas iš Vytauto karūnacijos priešininkų, pasiųstų į Lietuvą atitraukti jį nuo karūnacijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184742"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad tačiau kai Tarnovskis sutraukė daugiau jėgų, jo įžūlus išdidumas pamažu išgaravo.'
+  global_id: t-184742
+  teiginys: 'Jonui Tarnovskiui sutelkus daugiau jėgų, Valachijos kunigaikštis Petras prie Chotino paprašė taikos.'
   pagrindžia:
     - c-003
 
@@ -70,7 +75,7 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
     - t-001
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad tačiau kai Tarnovskis sutraukė daugiau jėgų, jo įžūlus išdidumas pamažu išgaravo.'
+  santrauka: 'Jonui Tarnovskiui sutelkus daugiau jėgų, Valachijos kunigaikštis Petras prie Chotino paprašė taikos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neseniai sumušęs nedidelę lenkų kariauną, Petras,
@@ -84,3 +89,10 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/asmenys/Jonas]]

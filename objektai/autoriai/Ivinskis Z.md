@@ -28,7 +28,9 @@ Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242
 
 ## Teiginiai
 
+<a id="claim-t-91932"></a>
 - t-001
+  global_id: t-91932
   teiginys: 'Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo plitimo 262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino kalavijuočius (Ivinskis Z..'
   pagrindžia:
     - c-001

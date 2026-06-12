@@ -35,17 +35,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66624"></a>
 - t-001
+  global_id: t-66624
   teiginys: 'Lietuvos bajorija priešinosi kodeksui, nes jis buvo skirtas abiem jungtinėms valstybėms ir reiškė Lietuvos statuto atsisakymą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66625"></a>
 - t-002
+  global_id: t-66625
   teiginys: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66626"></a>
 - t-003
+  global_id: t-66626
   teiginys: '1780 m. seimo atstovai iš anksto išspausdintą kodekso projektą atmetė net nesvarstę.'
   pagrindžia:
     - c-003

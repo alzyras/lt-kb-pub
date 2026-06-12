@@ -17,7 +17,6 @@ tags:
 amziai:
   - 'XVI'
 ---
-
 # Dubrovna
 
 ## Santrauka
@@ -26,13 +25,17 @@ Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, D
 
 ## Teiginiai
 
+<a id="claim-t-38605"></a>
 - t-001
+  global_id: t-38605
   teiginys: '1562 m. maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo ir Dubrovnos apylinkes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184948"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad po šių įvykių Čeliadninas, praradęs pirmykštį užmojį, pamanė, kad, turėdamas Dneprą už nugaros, gali būti priverstas kau tis nepatogiomis sąlygomis, todėl, atitraukęs visas jė gas už upės, apsistojo Kropivnos upės pakrantėse, tarp Oršos ir Dubrovnos.'
+  global_id: t-184948
+  teiginys: 'Čeliadninas atitraukė jėgas už Dnepro ir apsistojo prie Kropivnos upės, tarp Oršos ir Dubrovnos.'
   pagrindžia:
     - c-002
 
@@ -63,7 +66,7 @@ Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, D
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad po šių įvykių Čeliadninas, praradęs pirmykštį užmojį, pamanė, kad, turėdamas Dneprą už nugaros, gali būti priverstas kau tis nepatogiomis sąlygomis, todėl, atitraukęs visas jė gas už upės, apsistojo Kropivnos upės pakrantėse, tarp Oršos ir Dubrovnos.'
+  santrauka: 'Čeliadninas atitraukė jėgas už Dnepro ir apsistojo prie Kropivnos upės, tarp Oršos ir Dubrovnos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo

@@ -16,7 +16,9 @@ Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė j
 
 ## Teiginiai
 
+<a id="claim-t-03125"></a>
 - t-001
+  global_id: t-03125
   teiginys: 'Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė ją Napoleono kariuomenė, nepasigailėjo jos nė rusai.'
   pagrindžia:
     - c-001

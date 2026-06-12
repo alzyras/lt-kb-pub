@@ -18,7 +18,9 @@ Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiforma
 
 ## Teiginiai
 
+<a id="claim-t-42497"></a>
 - t-001
+  global_id: t-42497
   teiginys: 'Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuolatinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji žmonės - kariai, galintys bet kada stoti į tarnybą.'
   pagrindžia:
     - c-001

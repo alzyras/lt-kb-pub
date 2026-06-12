@@ -27,12 +27,16 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
 
 ## Teiginiai
 
+<a id="claim-t-54797"></a>
 - t-001
+  global_id: t-54797
   teiginys: 'Vidivarijų vardas siejamas su nauja pasienio tauta, atsiradusia maišantis venedams, estams ir gotams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54798"></a>
 - t-002
+  global_id: t-54798
   teiginys: 'Vidivarijų vardas aiškinamas ne kaip vienos tautos giminės vardas, bet kaip įvairių tautų sambūrio bendruomenės vardas.'
   pagrindžia:
     - c-002

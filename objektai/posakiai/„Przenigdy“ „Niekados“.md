@@ -17,7 +17,9 @@ Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri lenkų ir lietuvi�
 
 ## Teiginiai
 
+<a id="claim-t-20867"></a>
 - t-001
+  global_id: t-20867
   teiginys: 'Dr. T. Čarkovskio brošiūra „Przenigdy“ („Niekados“) pablogino lenkų ir lietuvių santykius.'
   pagrindžia:
     - c-001

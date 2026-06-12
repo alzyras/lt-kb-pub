@@ -23,7 +23,9 @@ Pirmiausia vaitas įrodė nieko savavališkai ne­ padaręs, kadangi pirkliai,Ve
 
 ## Teiginiai
 
+<a id="claim-t-86558"></a>
 - t-001
+  global_id: t-86558
   teiginys: 'Vilniaus vaitas turėjo teisę sutramdyti pirklius, kurie per Velykas pagal naująjį kalendorių pardavinėjo prekes.'
   pagrindžia:
     - c-001

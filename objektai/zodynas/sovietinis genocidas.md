@@ -16,7 +16,9 @@ Sovietinio genocido ir teroro aukomis tapo 456 tūkst.
 
 ## Teiginiai
 
+<a id="claim-t-22302"></a>
 - t-001
+  global_id: t-22302
   teiginys: 'Sovietinio genocido ir teroro aukomis tapo 456 tūkst. gyventojų.'
   pagrindžia:
     - c-001

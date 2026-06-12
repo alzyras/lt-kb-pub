@@ -25,12 +25,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-75455"></a>
 - t-001
+  global_id: t-75455
   teiginys: 'Juolab kad kai kurie Europos mokslininkai lingvistai jau buvo nustatę, jog kalba, kuria kalba Lietuvos valstiečiai, yra bene archajiškiausia iš visų, kaip dabar sakytume, gyvųjų indoeuropiečių kalbų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75456"></a>
 - t-002
+  global_id: t-75456
   teiginys: 'Ksavero Bogušo knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą nuskambėjo mintis, kad lietuvių kalba tinka aukštajai kultūrai.'
   pagrindžia:
     - c-001

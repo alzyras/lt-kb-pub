@@ -19,7 +19,9 @@ Lietuvių Tavano pilyje, sto­ vinčioje prie Dniepro, Vytautas įstei­ gė mui
 
 ## Teiginiai
 
+<a id="claim-t-86243"></a>
 - t-001
+  global_id: t-86243
   teiginys: 'Vytautas lietuvių Tavano pilyje prie Dniepro įsteigė muitinę, vadintą Vytauto pirtimi.'
   pagrindžia:
     - c-001

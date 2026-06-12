@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31488"></a>
 - t-001
+  global_id: t-31488
   teiginys: 'Vytautas su Jogailos žinia ir kartu su Skirgaila 1392 m. paėmė Vitebską.'
   pagrindžia:
     - c-001

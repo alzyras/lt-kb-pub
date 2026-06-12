@@ -19,7 +19,9 @@ Dusburgietis teigia, kad przekaz..., p. 389—391; to paties, Dobra ostrowicko-g
 
 ## Teiginiai
 
+<a id="claim-t-60711"></a>
 - t-001
+  global_id: t-60711
   teiginys: 'Dusburgietis teigia, kad przekaz..., p. 389—391; to paties, Dobra ostrowicko-golubskie..., p. 32, 100; Guldon Z..'
   pagrindžia:
     - c-001

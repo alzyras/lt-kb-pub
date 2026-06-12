@@ -52,17 +52,23 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
 
 ## Teiginiai
 
+<a id="claim-t-47928"></a>
 - t-001
+  global_id: t-47928
   teiginys: 'Svarbioji jungtis su Vakarų Europa buvo pradėta lotyniškuoju krikštu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-47929"></a>
 - t-002
+  global_id: t-47929
   teiginys: 'Lietuvos valdovui pereinant į Lenkiją, valstybiniu mastu buvo atnaujintas lotyniškasis krikštas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-47930"></a>
 - t-003
+  global_id: t-47930
   teiginys: 'Lietuvos valdovui einant į Lenkiją, valstybiniu lygmeniu buvo atnaujintas lotyniškasis krikštas, nuošalyje paliekant Kryžiuočių ordiną.'
   pagrindžia:
     - c-002

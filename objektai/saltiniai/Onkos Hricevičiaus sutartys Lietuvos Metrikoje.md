@@ -24,7 +24,9 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 
 ## Teiginiai
 
+<a id="claim-t-88459"></a>
 - t-001
+  global_id: t-88459
   teiginys: 'Daug sutarčių su Onka Hricevičiumi buvo Lietuvos Metrikos V knygoje prie 1505 metų įrašų.'
   pagrindžia:
     - c-001

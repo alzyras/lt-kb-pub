@@ -27,7 +27,9 @@ Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O 
 
 ## Teiginiai
 
+<a id="claim-t-26325"></a>
 - t-001
+  global_id: t-26325
   teiginys: 'Transilvanijos kunigaikštis Steponas Batoras, tapęs Lenkijos ir Lietuvos valdovu, Livonijos kare pasiekė lemiamų pergalių prieš Maskvą.'
   pagrindžia:
     - c-001

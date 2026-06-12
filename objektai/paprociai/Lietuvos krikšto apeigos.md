@@ -47,62 +47,86 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-05349"></a>
 - t-001
+  global_id: t-05349
   teiginys: 'Per 1387 m. Lietuvos krikšto apeigas Vilniuje pirmiausia turėjo būti krikštijami bajorai.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-05350"></a>
 - t-002
+  global_id: t-05350
   teiginys: 'Per Lietuvos krikšto apeigas Jogailos įsakymu naikinti aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-05352"></a>
 - t-003
+  global_id: t-05352
   teiginys: 'Per Lietuvos krikšto apeigas kiekvienas pakrikštytasis gaudavo baltą rūbą kaip atgautos nekaltybės ženklą.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-93035"></a>
 - t-004
+  global_id: t-93035
   teiginys: 'Ši privilegija yra svarbiausias krikščionybės įvedimo Lietuvoje aktas.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-93036"></a>
 - t-005
+  global_id: t-93036
   teiginys: 'Per Lietuvos krikšto apeigas žmonės buvo krikštijami būriais, atskirai vyrai ir moterys, kiekvienam būriui suteikiant vardą.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-93037"></a>
 - t-006
+  global_id: t-93037
   teiginys: 'Po Lietuvos krikšto bažnyčios pradėtos statyti Ukmergėje, Maišiagaloje, Medininkuose, Nemenčinėje ir kitose rytinės Lietuvos vietose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-93038"></a>
 - t-007
+  global_id: t-93038
   teiginys: 'Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-93039"></a>
 - t-008
+  global_id: t-93039
   teiginys: 'Atlikus Lietuvos krikšto apeigas ir suorganizavus Bažnyčią, buvo galima skelbti, kad Lietuva yra krikščioniškas kraštas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-93040"></a>
 - t-009
+  global_id: t-93040
   teiginys: '1387 metais krikšto teikimas neapsiribojo vien Vilniumi, o buvo tęsiamas ir kitose Lietuvos vietose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-93041"></a>
 - t-010
+  global_id: t-93041
   teiginys: '1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-93042"></a>
 - t-011
+  global_id: t-93042
   teiginys: 'Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-93043"></a>
 - t-012
+  global_id: t-93043
   teiginys: 'Lietuvos krikšto metu žmonės klausė kunigų, aiškinusių katalikybės kilnumą ir jos būsimą vietą vietoj senojo lietuvių tikėjimo.'
   pagrindžia:
     - c-012

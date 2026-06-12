@@ -14,29 +14,32 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Jurgis Narimantaitis
 
 ## Santrauka
 
-Kojelavičius teigia, kad mat Rusią valdė Algirdo broliai: Liubartas — Lvovą, Kęstutis — dideles žemes kitur Rusioje, o Jurgis Narimantaitis, jų brolėnas,— Kremenecą. Kojelavičius teigia, kad mat, nors visą Belzo kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo lės kunigaikščiui Aleksandrui Narimantaičiui atidavė Volynę, tačiau abi šias žemes atidavė su ta sąlyga, kad aukščiausią galią į Rusią turėsiąs Lenkijos kara lius, o pilis, miestus bei.
+Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje. Lenkijos karalius Kazimieras paliko visą Belzo kunigaikštystę Jurgiui Narimantaičiui.
 
 ## Teiginiai
 
+<a id="claim-t-186118"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mat Rusią valdė Algirdo broliai: Liubartas — Lvovą, Kęstutis — dideles žemes kitur Rusioje, o Jurgis Narimantaitis, jų brolėnas,— Kremenecą.'
+  global_id: t-186118
+  teiginys: 'Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186119"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad mat, nors visą Belzo kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo lės kunigaikščiui Aleksandrui Narimantaičiui atidavė Volynę, tačiau abi šias žemes atidavė su ta sąlyga, kad aukščiausią galią į Rusią turėsiąs Lenkijos kara lius, o pilis, miestus bei.'
+  global_id: t-186119
+  teiginys: 'Lenkijos karalius Kazimieras paliko visą Belzo kunigaikštystę Jurgiui Narimantaičiui.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mat Rusią valdė Algirdo broliai: Liubartas — Lvovą, Kęstutis — dideles žemes kitur Rusioje, o Jurgis Narimantaitis, jų brolėnas,— Kremenecą.'
+  santrauka: 'Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tad šis, norėdamas apginti savo teises į Ru­
@@ -54,7 +57,7 @@ Kojelavičius teigia, kad mat Rusią valdė Algirdo broliai: Liubartas — Lvov�
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad mat, nors visą Belzo kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo lės kunigaikščiui Aleksandrui Narimantaičiui atidavė Volynę, tačiau abi šias žemes atidavė su ta sąlyga, kad aukščiausią galią į Rusią turėsiąs Lenkijos kara lius, o pilis, miestus bei.'
+  santrauka: 'Lenkijos karalius Kazimieras paliko visą Belzo kunigaikštystę Jurgiui Narimantaičiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tais pačiais metais
@@ -81,3 +84,9 @@ Kojelavičius teigia, kad mat Rusią valdė Algirdo broliai: Liubartas — Lvov�
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]

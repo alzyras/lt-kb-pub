@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08289"></a>
 - t-001
+  global_id: t-08289
   teiginys: 'Kaltininkus pririšdavo prie dybo ir plakdavo.'
   pagrindžia:
     - c-001

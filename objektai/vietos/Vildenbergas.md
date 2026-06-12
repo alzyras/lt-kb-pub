@@ -16,7 +16,9 @@ Dusburgietis teigia, kad vildenbergas Vildenbergas (prie Nogato; Wildenbergk, Wi
 
 ## Teiginiai
 
+<a id="claim-t-58748"></a>
 - t-001
+  global_id: t-58748
   teiginys: 'Dusburgietis teigia, kad vildenbergas Vildenbergas (prie Nogato; Wildenbergk, Wildinberc; vėliau Willenberg, dab.'
   pagrindžia:
     - c-001

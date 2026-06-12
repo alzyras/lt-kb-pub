@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66654"></a>
 - t-001
+  global_id: t-66654
   teiginys: 'Pirmojoje XV a. pusėje įsteigtos LDK kanclerio pareigos, o kancleriui pavesta prižiūrėti Lietuvos Metriką.'
   pagrindžia:
     - c-001

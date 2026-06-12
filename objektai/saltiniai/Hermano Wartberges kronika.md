@@ -18,7 +18,9 @@ Tos kronikos pamini taip pat mirtį « daugybės kryžininkų » (pilgrimų). He
 
 ## Teiginiai
 
+<a id="claim-t-31704"></a>
 - t-001
+  global_id: t-31704
   teiginys: 'Hermano Wartberges kronikoje yra smulkiau pažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija, siena turėjo prasidėti nuo Alnos aukštupio.'
   pagrindžia:
     - c-001

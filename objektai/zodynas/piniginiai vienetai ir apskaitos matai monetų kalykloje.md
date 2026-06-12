@@ -18,7 +18,9 @@ Jo Ma­ lonybei Valdovui Didžiajam kuni­ gaikščiui pateikė monetų kalyklos
 
 ## Teiginiai
 
+<a id="claim-t-86607"></a>
 - t-001
+  global_id: t-86607
   teiginys: 'Liutauras Chreptavičius didžiajam kunigaikščiui pateikė ketverių metų monetų kalyklos apskaitą.'
   pagrindžia:
     - c-001

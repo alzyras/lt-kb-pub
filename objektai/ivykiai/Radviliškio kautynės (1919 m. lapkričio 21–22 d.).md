@@ -42,17 +42,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66848"></a>
 - t-001
+  global_id: t-66848
   teiginys: 'Mūšis 1919 m. lapkričio 20 d. fronto vadas plk.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66849"></a>
 - t-002
+  global_id: t-66849
   teiginys: 'Užvirė jami bermontininkai ypač atkaklios kautynės, Tą pačią lapkričio 22 dieną Panevėžio batalionas išmušė bermontininkus iš Meškuičių, Vilniaus batalionas iš Pašiaušės ir iš Padubysio.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66850"></a>
 - t-003
+  global_id: t-66850
   teiginys: 'Tą pačią lapkričio 22 d. lietuviai išmušė bermontininkus iš Meškuičių, Pašiaušės ir Padubysio; lapkričio 27 d. atsiėmė Joniškį, o plk. Bermontas kapituliavo.'
   pagrindžia:
     - c-002

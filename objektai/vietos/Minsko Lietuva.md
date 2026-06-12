@@ -38,37 +38,51 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77010"></a>
 - t-001
+  global_id: t-77010
   teiginys: 'Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vidurinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-77011"></a>
 - t-002
+  global_id: t-77011
   teiginys: 'Į rytus nuo Vidurinės Lietuvos senosios rusėniškosios LDK žemės buvo vadinamos Minsko arba rusėnų Lietuva.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77012"></a>
 - t-003
+  global_id: t-77012
   teiginys: 'Remiantis tokia lenkiška Lietuvos samprata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-77013"></a>
 - t-004
+  global_id: t-77013
   teiginys: 'Minsko Lietuva vadintos į rytus nuo Vidurinės Lietuvos buvusios senosios rusėniškosios LDK žemės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77014"></a>
 - t-005
+  global_id: t-77014
   teiginys: 'Lietuviai siekė kurti valstybę etniniais pagrindais ir nebepretendavo į Minsko Lietuvą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-77015"></a>
 - t-006
+  global_id: t-77015
   teiginys: '„Vidurinės Lietuvos“ prasmę galima suvokti tik turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės vadinamos „Minsko“, arba „rusėnų“, Lietuva.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-77016"></a>
 - t-007
+  global_id: t-77016
   teiginys: 'Lietuviai, apsisprendę kurti Lietuvos valstybę etniniais pagrindais, nebepretendavo į Minsko Lietuvą.'
   pagrindžia:
     - c-002

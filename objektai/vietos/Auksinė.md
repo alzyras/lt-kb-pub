@@ -25,12 +25,16 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 
 ## Teiginiai
 
+<a id="claim-t-58517"></a>
 - t-001
+  global_id: t-58517
   teiginys: 'Sreterio žemėlapyje Auksinės žemupyje pažymėta Romanuppen, o prie Didlovos - Kreywutschen.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58518"></a>
 - t-002
+  global_id: t-58518
   teiginys: 'Auksinės apylinkės siejamos su pagonišku kultu, remiantis vietovardžiais Juodkapis, Sernupė ir galbūt Auksinės upės vardu.'
   pagrindžia:
     - c-002

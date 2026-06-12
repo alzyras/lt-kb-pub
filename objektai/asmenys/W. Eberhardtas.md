@@ -24,7 +24,9 @@ Eberhardtu.
 
 ## Teiginiai
 
+<a id="claim-t-40540"></a>
 - t-001
+  global_id: t-40540
   teiginys: '1919 m. spalio 12 d. generolas W. Eberhardtas pakeitė generolą R. von der Goltzą.'
   pagrindžia:
     - c-001

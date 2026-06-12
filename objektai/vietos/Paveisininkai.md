@@ -22,7 +22,9 @@ Sadauskaitė rašė apie Kairėnu, Sei- (^95) Pvz., Paveisininkų (IstV, t.
 
 ## Teiginiai
 
+<a id="claim-t-99940"></a>
 - t-001
+  global_id: t-99940
   teiginys: 'Sadauskaitė rašė apie Kairėnu, Sei- (^95) Pvz., Paveisininkų (IstV, t.'
   pagrindžia:
     - c-001

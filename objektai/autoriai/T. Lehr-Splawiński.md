@@ -25,7 +25,9 @@ Lehr-Splawiński, T.
 
 ## Teiginiai
 
+<a id="claim-t-31013"></a>
 - t-001
+  global_id: t-31013
   teiginys: 'T. Lehr-Splawińskis 1947 m. Varšuvoje paskelbė veikalą „Język polski. Pochodzenie, powstanie, rozwój“.'
   pagrindžia:
     - c-001

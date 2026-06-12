@@ -19,7 +19,9 @@ Benninghoven davė studiją apie kalavijuočių ordiną (BeOSch); Lietuvos žila
 
 ## Teiginiai
 
+<a id="claim-t-30615"></a>
 - t-001
+  global_id: t-30615
   teiginys: 'Fr. Benninghovenas parašė studiją apie Kalavijuočių ordiną.'
   pagrindžia:
     - c-001

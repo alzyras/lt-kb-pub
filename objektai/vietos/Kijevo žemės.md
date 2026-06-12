@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kijevo žemės
 
 ## Santrauka
 
-Kojelavičius teigia, kad į seimą atvyko ir lenkų atstovai, kurie senato bei bajorų akivaizdoje rim čių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka ralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū tų vieną kartą sudaryta galutinė lenkų ir lietuvių są junga, vadinamoji.
+Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes.
 
 ## Teiginiai
 
+<a id="claim-t-185287"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad į seimą atvyko ir lenkų atstovai, kurie senato bei bajorų akivaizdoje rim čių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka ralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū tų vieną kartą sudaryta galutinė lenkų ir lietuvių są junga, vadinamoji.'
+  global_id: t-185287
+  teiginys: 'Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad į seimą atvyko ir lenkų atstovai, kurie senato bei bajorų akivaizdoje rim čių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka ralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū tų vieną kartą sudaryta galutinė lenkų ir lietuvių są junga, vadinamoji.'
+  santrauka: 'Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Rugsėjo pabaigoje luomai susirinko Vilniuje į

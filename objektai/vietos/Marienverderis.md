@@ -28,17 +28,23 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
 
 ## Teiginiai
 
+<a id="claim-t-79723"></a>
 - t-001
+  global_id: t-79723
   teiginys: 'Marienverderio kryžiuočių pilies kapitelio, puošusio koloną, kopija (išklotinė).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184179"></a>
 - t-002
+  global_id: t-184179
   teiginys: 'Dusburgietis teigia, kad dėl to, subūrę daugybę karių, antrosios atskalūnybės metais patraukė prie Marienverderio miesto ir, tinkamoje vietoje įrengę pasalas, įsakė nedideliam būreliui pasirodyti [pilies gynėjams].'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184180"></a>
 - t-003
+  global_id: t-184180
   teiginys: 'Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos.'
   pagrindžia:
     - c-003

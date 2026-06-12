@@ -23,7 +23,9 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 
 ## Teiginiai
 
+<a id="claim-t-86767"></a>
 - t-001
+  global_id: t-86767
   teiginys: 'Perekopo ordos chanas Šach Achmedas savo pajėgomis rėmė lietuvius prieš Mendli Girėjų.'
   pagrindžia:
     - c-001

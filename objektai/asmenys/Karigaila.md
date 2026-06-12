@@ -28,22 +28,30 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 
 ## Teiginiai
 
+<a id="claim-t-63793"></a>
 - t-001
+  global_id: t-63793
   teiginys: 'Karigaila, Jogailos brolis ir Mstislavlio kunigaikštis, pateko į kryžiuočių nelaisvę ir buvo žiauriai nužudytas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-63794"></a>
 - t-002
+  global_id: t-63794
   teiginys: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-63795"></a>
 - t-003
+  global_id: t-63795
   teiginys: 'Karigaila pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63796"></a>
 - t-004
+  global_id: t-63796
   teiginys: 'Karigaila kartu su Jogaila, Vytautu, Vygandu, Švitrigaila ir lietuvių didikais Krokuvoje priėmė katalikų tikėjimą.'
   pagrindžia:
     - c-001

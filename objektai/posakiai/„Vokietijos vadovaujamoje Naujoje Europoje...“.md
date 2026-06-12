@@ -17,12 +17,16 @@ LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijo
 
 ## Teiginiai
 
+<a id="claim-t-75624"></a>
 - t-001
+  global_id: t-75624
   teiginys: 'LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijos vadovaujamoje Naujoje Europoje bus suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75625"></a>
 - t-002
+  global_id: t-75625
   teiginys: 'LAF vadovybė tikėjo, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus leista tvarkytis pačioms.'
   pagrindžia:
     - c-002

@@ -23,7 +23,9 @@ Vil­ niaus-Radomo aktais formaliai įgijo didžiojo kunigaikščio titulą iki 
 
 ## Teiginiai
 
+<a id="claim-t-100004"></a>
 - t-001
+  global_id: t-100004
   teiginys: 'Vilniaus-Radomo aktais Vytautas iki gyvos galvos formaliai įgijo didžiojo kunigaikščio titulą.'
   pagrindžia:
     - c-001

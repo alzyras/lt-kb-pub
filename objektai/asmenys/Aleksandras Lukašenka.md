@@ -16,7 +16,9 @@ Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prez
 
 ## Teiginiai
 
+<a id="claim-t-17438"></a>
 - t-001
+  global_id: t-17438
   teiginys: 'Aleksandro Lukašenkos diktatūrinis valdymas komplikavo politinius santykius su Baltarusija.'
   pagrindžia:
     - c-001

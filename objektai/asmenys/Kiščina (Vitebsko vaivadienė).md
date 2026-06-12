@@ -28,7 +28,9 @@ Kiščina (Vitebsko vaivadienė) privalanti gerb­ ti.
 
 ## Teiginiai
 
+<a id="claim-t-87756"></a>
 - t-001
+  global_id: t-87756
   teiginys: 'Kiščina, Vitebsko vaivadienė, buvo įspėta nestabdyti į Vilnių vamzdžiais vedamo vandens iš Drujos upės.'
   pagrindžia:
     - c-001

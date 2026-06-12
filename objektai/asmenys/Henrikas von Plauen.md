@@ -18,7 +18,9 @@ Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyr
 
 ## Teiginiai
 
+<a id="claim-t-30262"></a>
 - t-001
+  global_id: t-30262
   teiginys: 'Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyrų įgulą.'
   pagrindžia:
     - c-001

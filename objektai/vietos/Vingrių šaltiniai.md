@@ -28,12 +28,16 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
 
 ## Teiginiai
 
+<a id="claim-t-86032"></a>
 - t-001
+  global_id: t-86032
   teiginys: 'Prie miesto, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86033"></a>
 - t-002
+  global_id: t-86033
   teiginys: 'Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.'
   pagrindžia:
     - c-001

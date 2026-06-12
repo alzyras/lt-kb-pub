@@ -26,7 +26,9 @@ Nieborowski, P.
 
 ## Teiginiai
 
+<a id="claim-t-30873"></a>
 - t-001
+  global_id: t-30873
   teiginys: 'P. Nieborowski parašė darbą „Der deutsche Orden und Polen in der Zeit des grössten Konfliktes“, 1924 m. išleistą Breslau.'
   pagrindžia:
     - c-001

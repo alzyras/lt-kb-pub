@@ -16,7 +16,9 @@ BIBLIOGRAFINIAI RINKINIAI, LIEČlĄ LIETUVOS ISTORIJĄ Pilna Lietuvos istorijos 
 
 ## Teiginiai
 
+<a id="claim-t-32764"></a>
 - t-001
+  global_id: t-32764
   teiginys: 'Pirmasis Lietuvos istorijos bibliografijos rinkinys paliko didelę spragą.'
   pagrindžia:
     - c-001

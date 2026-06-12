@@ -17,7 +17,9 @@ Lietuvos krikščionėjimo simboliu tapo šv.
 
 ## Teiginiai
 
+<a id="claim-t-19052"></a>
 - t-001
+  global_id: t-19052
   teiginys: 'Lietuvos didysis kunigaikštis Kazimieras buvo Kazimiero, gimusio 1458 m. ir mirusio 1484 m., tėvas.'
   pagrindžia:
     - c-001

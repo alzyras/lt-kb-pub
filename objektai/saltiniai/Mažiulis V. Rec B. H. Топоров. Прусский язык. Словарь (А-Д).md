@@ -22,7 +22,9 @@ Dusburgietis teigia, kad mažiulis V.
 
 ## Teiginiai
 
+<a id="claim-t-61171"></a>
 - t-001
+  global_id: t-61171
   teiginys: 'V. Mažiulio recenzija apie B. H. Топоров „Прусский язык. Словарь (А-Д)“ paskelbta „Baltistica“ 1979 m.'
   pagrindžia:
     - c-001

@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40780"></a>
 - t-001
+  global_id: t-40780
   teiginys: 'Daugelyje šalių ši ginklų klasė vadinama vokišku terminu „šturmo karabinas“, Lietuvoje šis ginklas dažniau vadinamas automatu (oficialiai automatiniu šautuvu).'
   pagrindžia:
     - c-001

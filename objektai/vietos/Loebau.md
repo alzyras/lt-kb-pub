@@ -16,12 +16,16 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
 
 ## Teiginiai
 
+<a id="claim-t-28395"></a>
 - t-001
+  global_id: t-28395
   teiginys: 'Prie Loebau atvedęs savo pulkus, magistras sužinojo, kad sąjungininkai žygiavo Tannenbergo kryptimi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184392"></a>
 - t-002
+  global_id: t-184392
   teiginys: 'Nuo Torno Drevencos krantu iki Loebau (VII.'
   pagrindžia:
     - c-002

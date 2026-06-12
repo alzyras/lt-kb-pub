@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-63308"></a>
 - t-001
+  global_id: t-63308
   teiginys: 'Viceministro Kazimiero Masiliūno iniciatyva ir rūpesčiu lietuvių istorikai parašė ir išleido plačios apimties Lietuvos istoriją.'
   pagrindžia:
     - c-001

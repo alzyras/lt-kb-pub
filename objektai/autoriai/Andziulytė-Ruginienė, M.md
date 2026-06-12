@@ -25,7 +25,9 @@ Andziulytė-Ruginienė, M.
 
 ## Teiginiai
 
+<a id="claim-t-29300"></a>
 - t-001
+  global_id: t-29300
   teiginys: 'M. Andziulytė-Ruginienė 1937 m. Kaune paskelbė darbą „Žemaičių christianizacijos pradžia“.'
   pagrindžia:
     - c-001

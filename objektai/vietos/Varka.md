@@ -19,7 +19,9 @@ Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­ gailos elgesiu, su
 
 ## Teiginiai
 
+<a id="claim-t-86248"></a>
 - t-001
+  global_id: t-86248
   teiginys: 'Lenkijos bajorai Varkoje nusprendė reikalauti paleisti karalių, o nesėkmės atveju rengti žygį į Lietuvą.'
   pagrindžia:
     - c-001

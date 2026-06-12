@@ -25,7 +25,9 @@ Kreipdamasis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes
 
 ## Teiginiai
 
+<a id="claim-t-77846"></a>
 - t-001
+  global_id: t-77846
   teiginys: '1569 m. Liublino seime J. J. Chodkevičius Žygimantui Augustui sakė, kad lietuviai buvo priversti nusileisti su skausmu.'
   pagrindžia:
     - c-001

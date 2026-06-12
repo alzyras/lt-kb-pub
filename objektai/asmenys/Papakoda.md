@@ -14,24 +14,25 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Papakoda
 
 ## Santrauka
 
-Kojelavičius teigia, kad tiesa, vėliau tinkama forma surašytame prieš pat mirtį testamente ji sūnų Augustą paskyrė viso savo turto paveldėtoju, tačiau dėl jos tar no Papakodos suktybių paskutinioji velionės valia buvo neįvykdyta, o visas turtas vėjais paleistas.
+Dėl tarno Papakodos suktybių nebuvo įvykdyta karalienės Bonos paskutinė valia, o jos turtas buvo iššvaistytas.
 
 ## Teiginiai
 
+<a id="claim-t-186245"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tiesa, vėliau tinkama forma surašytame prieš pat mirtį testamente ji sūnų Augustą paskyrė viso savo turto paveldėtoju, tačiau dėl jos tar no Papakodos suktybių paskutinioji velionės valia buvo neįvykdyta, o visas turtas vėjais paleistas.'
+  global_id: t-186245
+  teiginys: 'Dėl tarno Papakodos suktybių nebuvo įvykdyta karalienės Bonos paskutinė valia, o jos turtas buvo iššvaistytas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tiesa, vėliau tinkama forma surašytame prieš pat mirtį testamente ji sūnų Augustą paskyrė viso savo turto paveldėtoju, tačiau dėl jos tar no Papakodos suktybių paskutinioji velionės valia buvo neįvykdyta, o visas turtas vėjais paleistas.'
+  santrauka: 'Dėl tarno Papakodos suktybių nebuvo įvykdyta karalienės Bonos paskutinė valia, o jos turtas buvo iššvaistytas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po ilgų ir karštų ginčų tais pačiais metais leista
@@ -59,3 +60,7 @@ Kojelavičius teigia, kad tiesa, vėliau tinkama forma surašytame prieš pat mi
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Karalienės Bonos išvykimas į Italiją]]

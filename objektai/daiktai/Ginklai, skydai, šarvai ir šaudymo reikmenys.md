@@ -45,37 +45,51 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86983"></a>
 - t-001
+  global_id: t-86983
   teiginys: 'Martinas Galias rašė, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86984"></a>
 - t-002
+  global_id: t-86984
   teiginys: 'Bisenės pilies įgula atrėmė vokiečius nepaisydama jų sunkiųjų ginklų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86985"></a>
 - t-003
+  global_id: t-86985
   teiginys: 'Per Kęstučio laidotuves Vilniuje kartu su jo palaikais buvo sudeginti drabužiai, ginklai, žirgai, medžiokliniai šunys ir paukščiai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-86986"></a>
 - t-004
+  global_id: t-86986
   teiginys: 'Iki 1565 metų Žygimanto Augusto lėšomis Lietuvos Didžiojoje Kunigaikštystėje gaminti ginklai ir amunicija buvo paliekami Vilniuje ir siunčiami į kitas pilis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-86987"></a>
 - t-005
+  global_id: t-86987
   teiginys: 'Vertingiausi ginklai turėjo vardus: keturios didžiosios akmenų patrankos vadinosi Elgeta, Vytautas, Boba ir Augustas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86988"></a>
 - t-006
+  global_id: t-86988
   teiginys: 'Lietuvos provincijos tvirtovėms buvo siunčiami naujai pagaminti pabūklai, ginklai, kulkos ir apkasams reikalinga įranga.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-86989"></a>
 - t-007
+  global_id: t-86989
   teiginys: 'Vilniaus miestiečiai gynybai turėjo turėti šarvus, muškietą ir ragotinę, o miesto taryba prižiūrėjo patrankas ir arkebuzas.'
   pagrindžia:
     - c-006

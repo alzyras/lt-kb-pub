@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-31007"></a>
 - t-001
+  global_id: t-31007
   teiginys: 'S. Sužiedėlis 1930 m. paskelbė publikaciją „Vytautas Didysis ir Lietuvos christianizacija“.'
   pagrindžia:
     - c-001

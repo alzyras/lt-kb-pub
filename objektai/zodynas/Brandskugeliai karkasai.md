@@ -23,7 +23,9 @@ Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir apšvieči
 
 ## Teiginiai
 
+<a id="claim-t-42419"></a>
 - t-001
+  global_id: t-42419
   teiginys: 'Brandskugeliai buvo tuščiaviduriai ketaus sviediniai su padegamuoju mišiniu, o karkasai - ovalūs iš geležinių žiedų sudaryti padegamieji sviediniai.'
   pagrindžia:
     - c-001

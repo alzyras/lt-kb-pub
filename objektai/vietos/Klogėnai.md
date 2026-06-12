@@ -12,24 +12,25 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Klogėnai
 
 ## Santrauka
 
-Kojelavičius teigia, kad didelį kraštą — Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius jis sulygino su žeme.
+Iš Prūsijos patraukęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.
 
 ## Teiginiai
 
+<a id="claim-t-185288"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad didelį kraštą — Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius jis sulygino su žeme.'
+  global_id: t-185288
+  teiginys: 'Iš Prūsijos patraukęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad didelį kraštą — Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius jis sulygino su žeme.'
+  santrauka: 'Iš Prūsijos patraukęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai

@@ -24,7 +24,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-30754"></a>
 - t-001
+  global_id: t-30754
   teiginys: 'K. Žukas 1965 m. paskelbė „Prof. K. Jablonskio bibliografiją“ leidinio „Bibliotekininkystės ir bibliografijos klausimai“ IV tome.'
   pagrindžia:
     - c-001

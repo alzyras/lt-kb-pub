@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-36137"></a>
 - t-001
+  global_id: t-36137
   teiginys: 'Antonio Mierzyńskio „Źródła do mytologii litewskiej“ I ir II tomai išleisti Varšuvoje 1892 ir 1896 m.'
   pagrindžia:
     - c-001

@@ -24,12 +24,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-70190"></a>
 - t-001
-  teiginys: 'Bažnyčios suvažiavimas Bazely ir bažnytinės unijos klausimas Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.'
+  global_id: t-70190
+  teiginys: 'Švitrigailos ir Zigmanto kovos metu Bazelyje vyko visuotinis Bažnyčios suvažiavimas, vadintas konsiliumu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70191"></a>
 - t-002
+  global_id: t-70191
   teiginys: 'Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.'
   pagrindžia:
     - c-001

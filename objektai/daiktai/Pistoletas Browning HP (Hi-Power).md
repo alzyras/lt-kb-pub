@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40748"></a>
 - t-001
+  global_id: t-40748
   teiginys: 'Pistoletas Browning HP buvo priimtas į ikikarinės Lietuvos kariuomenės ginkluotę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40749"></a>
 - t-002
+  global_id: t-40749
   teiginys: 'Pistoletas Browning HP buvo sukurtas Džono Brauningo, išbaigtas Belgijoje ir pradėtas gaminti 1935 m.'
   pagrindžia:
     - c-001

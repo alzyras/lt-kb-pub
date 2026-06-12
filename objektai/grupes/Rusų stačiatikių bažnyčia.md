@@ -18,12 +18,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-66081"></a>
 - t-001
+  global_id: t-66081
   teiginys: '1839 m. likviduojama Unitų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66082"></a>
 - t-002
+  global_id: t-66082
   teiginys: 'Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto centras yra ne ką mažiau stačiatikiškas nei katalikiškas.'
   pagrindžia:
     - c-002

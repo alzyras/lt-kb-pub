@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-87547"></a>
 - t-001
+  global_id: t-87547
   teiginys: 'Žydui Markui palūkanų nuo pustrečio šimto zlotų už 6 savaites, tai yra, a Die 17 maij ad diem 28 Junij [nuo gegužės 17-os dienos iki birželio 28 dienos] 15 florinų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87548"></a>
 - t-002
+  global_id: t-87548
   teiginys: 'Rugpjūčio 17 d. pas žydą Marką karališkiesiems didžiojo kunigaikščio reikalams buvo užstatyta grandinė.'
   pagrindžia:
     - c-001

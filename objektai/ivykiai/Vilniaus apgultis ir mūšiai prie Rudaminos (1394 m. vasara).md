@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35895"></a>
 - t-001
+  global_id: t-35895
   teiginys: '1394 m. vasarą į žygį prieš Lietuvą atvyko svečių iš Vakarų Europos, o Burgundijos hercogas Pilypas dalyvavo su 200 šaulių.'
   pagrindžia:
     - c-001

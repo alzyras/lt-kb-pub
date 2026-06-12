@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87040"></a>
 - t-001
+  global_id: t-87040
   teiginys: 'Žygimantas leido iš miesto šaltinio vandenį vamzdžiais išvedžioti po Vilniaus namus.'
   pagrindžia:
     - c-001

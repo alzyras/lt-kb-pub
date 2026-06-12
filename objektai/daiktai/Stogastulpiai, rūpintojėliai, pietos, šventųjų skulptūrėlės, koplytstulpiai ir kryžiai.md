@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19598"></a>
 - t-001
+  global_id: t-19598
   teiginys: 'Su baroku susiję didieji liaudies meno reiškiniai – stogastulpiai su rūpintojėliais, pietomis ir šventųjų skulptūrėlėmis.'
   pagrindžia:
     - c-001

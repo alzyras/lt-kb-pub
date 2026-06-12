@@ -24,7 +24,9 @@ Diebietsho korpusas.
 
 ## Teiginiai
 
+<a id="claim-t-40245"></a>
 - t-001
+  global_id: t-40245
   teiginys: 'Plk. K. Diebietsho korpusas buvo paskutinis Vokietijos centrinei vadovybei paklūstantis vokiečių karinis dalinys, pasitraukęs iš Lietuvos 1919 m. lapkričio 15 d.'
   pagrindžia:
     - c-001

@@ -29,27 +29,37 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
 
 ## Teiginiai
 
+<a id="claim-t-70084"></a>
 - t-001
+  global_id: t-70084
   teiginys: 'Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat scenarijus taikytas Latvijoje ir Estijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70085"></a>
 - t-002
+  global_id: t-70085
   teiginys: 'J. Paleckio vadovaujama delegacija rugpjūčio 3 d. Maskvoje paprašė Lietuvą priimti į SSRS sudėtį, taip įforminant aneksiją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70086"></a>
 - t-003
+  global_id: t-70086
   teiginys: 'Krėvės unija apibūdinta kaip Lietuvos inkorporacija ir net aneksija.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-70087"></a>
 - t-004
+  global_id: t-70087
   teiginys: 'Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas jų turtas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-183394"></a>
 - t-005
+  global_id: t-183394
   teiginys: 'Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakatas.'
   pagrindžia:
     - c-004

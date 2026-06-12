@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Šventųjų sakramentų teikimas pagal graikų papročius
 
 ## Santrauka
 
-Kojelavičius teigia, kad nuo seno įpratę teikti šventuosius sakramentus pagal graikų papročius, rusų šventikai bei vienuolynų viršininkai priėmė ir vi sus kitus graikų paklydimus, kaip ir šie, atsisakė Vytau to valdose klausyti popiežiaus ir bendrauti su Romos bažnyčia.
+Rusų šventikai ir vienuolynų viršininkai Vytauto valdose teikė sakramentus pagal graikų papročius ir atsisakė klausyti popiežiaus.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185906"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad nuo seno įpratę teikti šventuosius sakramentus pagal graikų papročius, rusų šventikai bei vienuolynų viršininkai priėmė ir vi sus kitus graikų paklydimus, kaip ir šie, atsisakė Vytau to valdose klausyti popiežiaus ir bendrauti su Romos bažnyčia.'
+  global_id: t-185906
+  teiginys: 'Rusų šventikai ir vienuolynų viršininkai Vytauto valdose teikė sakramentus pagal graikų papročius ir atsisakė klausyti popiežiaus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad nuo seno įpratę teikti šventuosius sakramentus pagal graikų papročius, rusų šventikai bei vienuolynų viršininkai priėmė ir vi sus kitus graikų paklydimus, kaip ir šie, atsisakė Vytau to valdose klausyti popiežiaus ir bendrauti su Romos bažnyčia.'
+  santrauka: 'Rusų šventikai ir vienuolynų viršininkai Vytauto valdose teikė sakramentus pagal graikų papročius ir atsisakė klausyti popiežiaus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po karo suiručių susilau-
@@ -62,3 +63,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Graikai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

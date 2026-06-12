@@ -22,7 +22,9 @@ Dusburgietis teigia, kad pirmąjį Dusburgiečio kronikos leidimą parengė K.
 
 ## Teiginiai
 
+<a id="claim-t-61225"></a>
 - t-001
+  global_id: t-61225
   teiginys: 'Pirmąjį Dusburgiečio kronikos leidimą K. Hartknochas parengė Karaliaučiuje 1679 m.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
 
 ## Teiginiai
 
+<a id="claim-t-21356"></a>
 - t-001
+  global_id: t-21356
   teiginys: 'Bagdadas minimas tarp pasaulinių žydų kultūros centrų, su kuriais lyginamas XVIII–XIX a. sandūros Vilnius.'
   pagrindžia:
     - c-001

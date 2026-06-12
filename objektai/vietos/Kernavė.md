@@ -22,7 +22,6 @@ amziai:
   - 'XX'
   - 'XXI'
 ---
-
 # Kernavė
 
 ## Santrauka
@@ -31,73 +30,101 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 
 ## Teiginiai
 
+<a id="claim-t-173444"></a>
 - t-001
+  global_id: t-173444
   teiginys: 'Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-173445"></a>
 - t-002
+  global_id: t-173445
   teiginys: 'Ordino maršalas su kryžiuočių kariuomene ir Vytauto pulkais užėmė Kernavę ir Maišiagalą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-173446"></a>
 - t-003
+  global_id: t-173446
   teiginys: 'H. Paszkiewiczius Mindaugo sostine laikė Kernavę, jei Mindaugas apskritai turėjo pastovią sostinę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-173447"></a>
 - t-004
+  global_id: t-173447
   teiginys: 'Iki šiol labiausiai paplitusi versija buvo Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį netoli Kernavės, vardo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-173448"></a>
 - t-005
+  global_id: t-173448
   teiginys: 'Kai kurie mokslininkai spėjo, kad Mindaugo pilis galėjo būti Liškiavoje arba Kernavėje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-173449"></a>
 - t-006
+  global_id: t-173449
   teiginys: 'Kelias suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs į du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės pilį.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-173450"></a>
 - t-007
+  global_id: t-173450
   teiginys: 'Paszkiewicz tad Mindaugo sostine laikė, jeigu jis iš viso pastovią sostinę bus turėjęs, Kernavę (dešiniajame Neries krante)^17.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-173452"></a>
 - t-008
+  global_id: t-173452
   teiginys: 'XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimo vietą nurodė už 5 mylių nuo Kernavės.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-173453"></a>
 - t-009
+  global_id: t-173453
   teiginys: 'Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-173454"></a>
 - t-010
+  global_id: t-173454
   teiginys: 'Draudimas statyti per upę mažus tiltelius galiojo nuo Nemenčinės dvaro iki Kernavės miestelio.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-173455"></a>
 - t-011
+  global_id: t-173455
   teiginys: 'XVI amž. plačioji Lietuvos metraščio redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug žvėrienos.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-184982"></a>
 - t-012
-  teiginys: 'Kojelavičius teigia, kad todėl, norėdamas su rišti priešui rankas, įkūrė pirmą nausėdiją ant upės kranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos padėtis, ir įgula: įkūrė Kernavę, kadainykštę Lietuvos sostinę.'
+  global_id: t-184982
+  teiginys: 'Kernavė buvo įkurta prie upės kranto kaip nausėdija ir pilis, kadaise buvusi Lietuvos sostinė.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-184983"></a>
 - t-013
-  teiginys: 'Kojelavičius teigia, kad šitaip sutvarkęs vals tybės reikalus ir perkėlęs kunigaikštystės sostinę iš Naugarduko į Kernavę, jis ėmė galvoti apie karo da lykus.'
+  global_id: t-184983
+  teiginys: 'Kunigaikštystės sostinė buvo perkelta iš Naugarduko į Kernavę.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-184984"></a>
 - t-014
-  teiginys: 'Kojelavičius teigia, kad šitokia padėtis paskatino Kernavės ku nigaikštį Aleksandrą Vygandą pamėginti priešą iš ten išvaryti.'
+  global_id: t-184984
+  teiginys: 'Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio.'
   pagrindžia:
     - c-012
 
@@ -274,7 +301,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     - t-011
 
 - c-010
-  santrauka: 'Kojelavičius teigia, kad todėl, norėdamas su rišti priešui rankas, įkūrė pirmą nausėdiją ant upės kranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos padėtis, ir įgula: įkūrė Kernavę, kadainykštę Lietuvos sostinę.'
+  santrauka: 'Kernavė buvo įkurta prie upės kranto kaip nausėdija ir pilis, kadaise buvusi Lietuvos sostinė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl, norėdamas su­
@@ -300,7 +327,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     - t-012
 
 - c-011
-  santrauka: 'Kojelavičius teigia, kad šitaip sutvarkęs vals tybės reikalus ir perkėlęs kunigaikštystės sostinę iš Naugarduko į Kernavę, jis ėmė galvoti apie karo da lykus.'
+  santrauka: 'Kunigaikštystės sostinė buvo perkelta iš Naugarduko į Kernavę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tad, su Traideniu tvarkydamas vals­
@@ -327,7 +354,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     - t-013
 
 - c-012
-  santrauka: 'Kojelavičius teigia, kad šitokia padėtis paskatino Kernavės ku nigaikštį Aleksandrą Vygandą pamėginti priešą iš ten išvaryti.'
+  santrauka: 'Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šios įgulos nepaprastai kenkė aplinkiniam

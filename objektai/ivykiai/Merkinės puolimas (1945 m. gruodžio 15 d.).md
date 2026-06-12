@@ -41,42 +41,58 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66775"></a>
 - t-001
+  global_id: t-66775
   teiginys: 'Merkinės puolimą Adolfas Ramanauskas-Vanagas nutarė rengti pasitaręs su Juozu Vitkumi-Kazimieraičiu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66776"></a>
 - t-002
+  global_id: t-66776
   teiginys: 'Per Merkinės puolimą partizanai užėmė NKVD būstinę, paštą, valsčiaus ir milicijos įstaigas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66777"></a>
 - t-003
+  global_id: t-66777
   teiginys: 'Paaiškėjo, kad Druskininkų bataliono grupei nepavyko įvykdyti jiems pavestos užduoties ir nutraukti ryšio linijų tarp Merkinės ir Druskininkų, todėl sovietai per Druskininkus susisiekė su Alytumi ir išsikvietė pagalbą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66778"></a>
 - t-004
+  global_id: t-66778
   teiginys: 'Vanagas, pasitaręs su A apygardos vadu Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti apylinkių partizanų dalinius ir pulti Merkinės miestelį, atkeršijant už kovos draugų žūtį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66779"></a>
 - t-005
+  global_id: t-66779
   teiginys: '1945 m. gruodžio 15 d. 11 val. A. Ramanauskas-Vanagas iššovė baltą raketą ir paskelbė atakos pradžią.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66780"></a>
 - t-006
+  global_id: t-66780
   teiginys: 'Prieš mūšį 1945 m. gruodžio 5 d. prie Mardasavo km., ant Merkio kranto netikėtai užklupti NKVD dalinio, žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas, Tomas Kondrotas-Briedis, Adolfas BilinskasJurginas ir Martynas Navickas-Kardas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66781"></a>
 - t-007
+  global_id: t-66781
   teiginys: '1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas ir trys jo kovos draugai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183675"></a>
 - t-008
+  global_id: t-183675
   teiginys: '1945 metų gruodžio 15 dieną 11 val.'
   pagrindžia:
     - c-004

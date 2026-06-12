@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86967"></a>
 - t-001
+  global_id: t-86967
   teiginys: 'Vytautas, pralaimėjęs mūšį netoli Vilniaus ir netekęs tūkstančio žmonių, turėjo slėptis Trakų pilyje.'
   pagrindžia:
     - c-001

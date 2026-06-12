@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86819"></a>
 - t-001
+  global_id: t-86819
   teiginys: '1255 m. šešiasdešimt miestų įsteigė Reino konfederaciją, vadovaujamą aukščiausiųjų dvasininkų.'
   pagrindžia:
     - c-001

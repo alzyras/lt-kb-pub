@@ -53,12 +53,16 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
 
 ## Teiginiai
 
+<a id="claim-t-20826"></a>
 - t-001
+  global_id: t-20826
   teiginys: 'Dalis lietuvių visuomenės rizikuodama gyvybe bandė padėti žydams ir juos gelbėti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-20827"></a>
 - t-002
+  global_id: t-20827
   teiginys: 'Už žydų gelbėjimą Pasaulio teisuoliais pripažinti 830 lietuvių, o jų sąrašas papildomas.'
   pagrindžia:
     - c-001

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad pAPILDYMAS Bauer H.
 
 ## Teiginiai
 
+<a id="claim-t-61051"></a>
 - t-001
+  global_id: t-61051
   teiginys: 'H. Bauerio veikalas „Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im 14. Jahrhundert in Preussen“ išleistas Berlyne 1935 m.'
   pagrindžia:
     - c-001

@@ -19,17 +19,23 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
 
 ## Teiginiai
 
+<a id="claim-t-87984"></a>
 - t-001
+  global_id: t-87984
   teiginys: 'J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87985"></a>
 - t-002
+  global_id: t-87985
   teiginys: 'J. Dlugošas rašė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87986"></a>
 - t-003
+  global_id: t-87986
   teiginys: '29 Įvairios buvo amžininkų nuomonės ta daugybė ten buvusių žmonių/'''' apie Vilniaus pilių sudeginimą, taMūsų istorikai, būtent Dlugošas, tai iki šiol dar nėra išaiškinta.'
   pagrindžia:
     - c-003

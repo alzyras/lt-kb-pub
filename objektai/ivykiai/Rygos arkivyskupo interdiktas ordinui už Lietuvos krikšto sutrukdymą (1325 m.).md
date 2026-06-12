@@ -40,27 +40,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-97033"></a>
 - t-001
+  global_id: t-97033
   teiginys: 'Atidėjus krikšto klausimą, Gediminui rūpėjo naujai sudaryta taika.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-97034"></a>
 - t-002
+  global_id: t-97034
   teiginys: '1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97035"></a>
 - t-003
+  global_id: t-97035
   teiginys: 'Kryžiuočiai kliudė Lietuvai užmegzti ryšius su krikščioniškomis valstybėmis, laikydami lietuvių krikštijimą savo monopoline teise.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97036"></a>
 - t-004
+  global_id: t-97036
   teiginys: '1325 m. iš Avignono sugrįžęs Rygos arkivyskupas paskelbė ordinui interdiktą už Lietuvos krikšto sutrukdymą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-97037"></a>
 - t-005
+  global_id: t-97037
   teiginys: 'Atidėjus krikšto klausimą, Gediminui svarbiausia liko naujai sudaryta taika.'
   pagrindžia:
     - c-003

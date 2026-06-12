@@ -23,28 +23,38 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-72053"></a>
 - t-001
+  global_id: t-72053
   teiginys: '1776 m. Dalomosios Komisijos buvo panaikintos, o visi turtai pavesti Edukacinei Komisijai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72054"></a>
 - t-002
+  global_id: t-72054
   teiginys: 'Lietuvoje ir Lenkijoje buvo sudarytos atskiros Dalomosios Komisijos turto dalybų darbui atlikti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-72055"></a>
 - t-003
-  teiginys: 'Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tiesiog vagia.'
+  global_id: t-72055
+  teiginys: 'Dalomosios Komisijos pigiai dalijo dvarus savo artimiesiems ir pasisavindavo pinigus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72056"></a>
 - t-004
-  teiginys: 'Tiek už išnuomotus dvarus, tiek už kapitalus Edukacinei Komisijai buvo mokama 41 /2%.'
+  global_id: t-72056
+  teiginys: 'Už Dalomosios Komisijos išnuomotus dvarus ir kapitalus Edukacinei Komisijai buvo mokama 4,5 %.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182886"></a>
 - t-005
-  teiginys: 'Šitam darbui atlikti Lietuvoje ir Lenkijoje buvo sudaryta po atskirą Dalomąją Komisiją.'
+  global_id: t-182886
+  teiginys: 'Lietuvoje ir Lenkijoje buvusiems jėzuitų dvarams išnuomoti buvo sudarytos atskiros Dalomosios Komisijos.'
   pagrindžia:
     - c-004
 
@@ -67,6 +77,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Dalomosios Komisijos pigiai dalijo dvarus savo artimiesiems ir pasisavindavo pinigus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, jėzuitai turėjo
@@ -102,7 +113,7 @@ amziai:
     - t-002
 
 - c-004
-  santrauka: 'Šitam darbui atlikti Lietuvoje ir Lenkijoje buvo sudaryta po atskirą Dalomąją Komisiją.'
+  santrauka: 'Lietuvoje ir Lenkijoje buvusiems jėzuitų dvarams išnuomoti buvo sudarytos atskiros Dalomosios Komisijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visi buvusieji jėzuitų dvarai, seimo nu-

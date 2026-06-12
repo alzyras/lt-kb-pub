@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62191"></a>
 - t-001
+  global_id: t-62191
   teiginys: 'Dusburgietis teigia, kad apie Adolfo, Romos karaliaus, žūtį 1298 viešpaties metais Albrechtas, Austrijos kunigaikštis, nukovė Adolfą, Romos karalių, ir paveldėjo sostą (Ptol.'
   pagrindžia:
     - c-001

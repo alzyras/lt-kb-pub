@@ -24,42 +24,58 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 
 ## Teiginiai
 
+<a id="claim-t-60506"></a>
 - t-001
+  global_id: t-60506
   teiginys: 'J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano Balko įsikūrimą Nesavos pilyje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-60507"></a>
 - t-002
+  global_id: t-60507
   teiginys: 'Dusburgietis teigia, kad kai kas mano, kad sukilimas galėjęs prasidėti 1243 m. paskutiniame ketvirtyje (Powierski J., Przyczyny.., p. 204, 211).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60508"></a>
 - t-003
+  global_id: t-60508
   teiginys: 'J. Powierski teigė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-60509"></a>
 - t-004
+  global_id: t-60509
   teiginys: 'J. Powierski cituojamas aiškinant Romovės šventojo ąžuolo ryšį su indoeuropiečių mitologiniais vaizdiniais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60511"></a>
 - t-005
+  global_id: t-60511
   teiginys: 'J. Powierski cituojamas aiškinant 1218 m. Kristijono žygį ir jo sutartį su Mazovijos kunigaikščiu Konradu.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-60512"></a>
 - t-006
+  global_id: t-60512
   teiginys: 'Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J., Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89; Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės baltų..., p. 221—223, 234.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60513"></a>
 - t-007
+  global_id: t-60513
   teiginys: 'J. Powierski cituojamas aiškinant Hugono Butyro kovas su prūsais ir galimą jo bazę Kulme.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-60514"></a>
 - t-008
+  global_id: t-60514
   teiginys: 'Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281 m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m. (Powierski J., Chronologia..., p. 5—31).'
   pagrindžia:
     - c-008

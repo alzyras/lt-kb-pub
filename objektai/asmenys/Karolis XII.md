@@ -29,12 +29,16 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
 
 ## Teiginiai
 
+<a id="claim-t-171586"></a>
 - t-001
+  global_id: t-171586
   teiginys: 'Nugalėjęs Augustą II, Karolis x11 1708 m. puolė Rusiją, tačiau 1709 m. buvo nugalėtas prie Poltavos ir karą pralaimėjo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-171587"></a>
 - t-002
+  global_id: t-171587
   teiginys: 'Augusto II siekius rėmė ir dalis Švedijos karaliaus Karolio x11 valdymu nepatenkintos Livonijos aristokratijos.'
   pagrindžia:
     - c-002

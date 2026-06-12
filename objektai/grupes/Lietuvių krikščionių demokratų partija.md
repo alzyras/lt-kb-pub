@@ -26,7 +26,9 @@ Lietuvos visuomenė dar nebuvo politiškai susipratusi.
 
 ## Teiginiai
 
+<a id="claim-t-168566"></a>
 - t-001
+  global_id: t-168566
   teiginys: 'Lietuvių krikščionių demokratų partija minima tarp dešiniųjų politinių grupių, kurios dar neturėjo organizuotų skyrių krašte.'
   pagrindžia:
     - c-001

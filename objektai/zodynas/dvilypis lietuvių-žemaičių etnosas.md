@@ -17,12 +17,16 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 
 ## Teiginiai
 
+<a id="claim-t-22127"></a>
 - t-001
+  global_id: t-22127
   teiginys: 'Kai kurie žemaičiai save laikė vieno dvilypio lietuvių ir žemaičių etnoso dalimi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183417"></a>
 - t-002
+  global_id: t-183417
   teiginys: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
   pagrindžia:
     - c-002

@@ -25,22 +25,30 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
 
 ## Teiginiai
 
+<a id="claim-t-100291"></a>
 - t-001
-  teiginys: '(Lietuvos bajorija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsižadėti savo statuto, t.'
+  global_id: t-100291
+  teiginys: 'Lietuvos bajorija priešinosi bendro kodekso įvedimui, nes nenorėjo išsižadėti Lietuvos statuto ir atskirų teisių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-100292"></a>
 - t-002
+  global_id: t-100292
   teiginys: 'Lietuvos bajorija priešinosi bendram kodeksui, nes nenorėjo išsižadėti savo statuto ir atskirų teisių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-100293"></a>
 - t-003
+  global_id: t-100293
   teiginys: 'Kodeksas, vadintas statutu, 1780 m. buvo pateiktas seimui patvirtinti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-100294"></a>
 - t-004
+  global_id: t-100294
   teiginys: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
   pagrindžia:
     - c-002
@@ -84,7 +92,6 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
 - [[objektai/zodynas/seimas]]
 - [[objektai/ivykiai/1571 m. badas ir epidemija Vilniuje]]
 - [[objektai/asmenys/A. Hitleris]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/paprociai/Bajoriškoji demokratija, seimavimai ir liberum veto praktika]]
 - [[objektai/grupes/Baltijos valstybės]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]

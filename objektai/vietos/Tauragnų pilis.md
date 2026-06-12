@@ -26,12 +26,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-115024"></a>
 - t-001
+  global_id: t-115024
   teiginys: 'Jogaila 1387 m. vasario 17 d. Vilniaus katedrai ir steigiamajai vyskupijai užrašė Tauragnų pilį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-115025"></a>
 - t-002
+  global_id: t-115025
   teiginys: 'Karalius iškilmingu aktu Vilniaus katedrai dovanojo kunigaikštišką Tauragnų pilį su visu pavietu.'
   pagrindžia:
     - c-002

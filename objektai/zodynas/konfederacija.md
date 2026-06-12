@@ -26,22 +26,30 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 
 ## Teiginiai
 
+<a id="claim-t-70186"></a>
 - t-001
+  global_id: t-70186
   teiginys: 'Priimtomis sąlygomis bajorijai buvo atimta teisė kurti konfederacijas, apribota hetmonų valdžia ir sumažinta kariuomenė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-70187"></a>
 - t-002
+  global_id: t-70187
   teiginys: 'Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70189"></a>
 - t-003
+  global_id: t-70189
   teiginys: 'Su kariuomene ir suorganizuotais bajorijos būriais, vadintais konfederacijomis, jie puolė švedus ir Sapiegas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182954"></a>
 - t-004
+  global_id: t-182954
   teiginys: 'Su ta kariuomene ir suorganizuotais bajorijos būriais (konfederacijomis) jie puolė švedus ir Sapiegas.'
   pagrindžia:
     - c-004

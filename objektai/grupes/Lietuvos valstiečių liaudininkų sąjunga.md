@@ -25,62 +25,86 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 
 ## Teiginiai
 
+<a id="claim-t-101466"></a>
 - t-001
+  global_id: t-101466
   teiginys: 'Birželį valstiečiai liaudininkai ir socialdemokratai pirmą kartą suformavo kairės valdančiąją koaliciją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-101467"></a>
 - t-002
+  global_id: t-101467
   teiginys: 'Krikščionių demokratų ir valstiečių liaudininkų lyderiai pradėjo tartis dėl bendros programos parengimo.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-101468"></a>
 - t-003
+  global_id: t-101468
   teiginys: 'Krikščionys demokratai ir liaudininkai reikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-101469"></a>
 - t-004
+  global_id: t-101469
   teiginys: 'Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo 29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101470"></a>
 - t-005
+  global_id: t-101470
   teiginys: 'Lozoraitį, kurio linija pralaimėjo, nors Lietuvos valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-101471"></a>
 - t-006
+  global_id: t-101471
   teiginys: 'Kairė laikėsi liaudininko M. Sleževičiaus šūkio, kad kova tęsis, kol bus sušauktas Seimas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-101472"></a>
 - t-007
+  global_id: t-101472
   teiginys: 'Liaudininkas Mykolas Sleževičius skelbė, kad kova tęsis, kol bus sušauktas Seimas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-101473"></a>
 - t-008
+  global_id: t-101473
   teiginys: 'Krikščionys demokratai ir liaudininkai pareikalavo vietoje A. Merkio ministru pirmininku paskirti gen. S. Raštikį.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-101474"></a>
 - t-009
+  global_id: t-101474
   teiginys: 'Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“ lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir ultraradikalieji voldemarininkai.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-101475"></a>
 - t-010
+  global_id: t-101475
   teiginys: 'K. Grinius, gavęs valstiečių liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-101476"></a>
 - t-011
+  global_id: t-101476
   teiginys: 'Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąlyginai sugrįžo į valdžią.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-183166"></a>
 - t-012
+  global_id: t-183166
   teiginys: 'Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė – valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tautinių mažumų atstovai Seime.'
   pagrindžia:
     - c-008

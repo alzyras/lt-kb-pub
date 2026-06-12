@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19584"></a>
 - t-001
+  global_id: t-19584
   teiginys: '1926 m. rudenį po komunistų mitingų chuliganai su raudonomis vėliavomis gatvėse užkabinėjo uniformuotus kariškius.'
   pagrindžia:
     - c-001

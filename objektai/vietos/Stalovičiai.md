@@ -17,7 +17,9 @@ Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos tuo
 
 ## Teiginiai
 
+<a id="claim-t-38554"></a>
 - t-001
+  global_id: t-38554
   teiginys: 'M. K. Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos Aleksandro Suvorovo pajėgų.'
   pagrindžia:
     - c-001

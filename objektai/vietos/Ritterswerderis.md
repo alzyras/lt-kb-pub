@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-32509"></a>
 - t-001
+  global_id: t-32509
   teiginys: '1392 m. birželio pabaigoje Vytautas staiga grįžo ir sudegino Ritterswerderį bei dar dvi Ordino pilis prie Nemuno.'
   pagrindžia:
     - c-001

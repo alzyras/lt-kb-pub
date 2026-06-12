@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-99945"></a>
 - t-001
+  global_id: t-99945
   teiginys: '17 Počkaluvkos pilkapiai 108 Podlasė, Podlachija, Palenkė 239, 267, 270, žr.'
   pagrindžia:
     - c-001

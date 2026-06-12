@@ -28,22 +28,30 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-81965"></a>
 - t-001
+  global_id: t-81965
   teiginys: 'Stasio Šalkauskio „Raštų“ IX tomas buvo nurodytas tarp spaudai rengiamų leidinių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-81966"></a>
 - t-002
+  global_id: t-81966
   teiginys: 'Stasio Šalkauskio „Raštų“ I–VIII tomai buvo išleisti 1990–2005 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81967"></a>
 - t-003
+  global_id: t-81967
   teiginys: 'Stasys Šalkauskis lietuvių tautos pašaukimą aiškino lietuvių gyvenimu tarp slavų ir germanų pasaulių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-81968"></a>
 - t-004
+  global_id: t-81968
   teiginys: 'Stasio Šalkauskio „Raštų“ I-VIII tomai buvo išleisti 1990-2005 m.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Po to Kauno saloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas, (14
 
 ## Teiginiai
 
+<a id="claim-t-36294"></a>
 - t-001
+  global_id: t-36294
   teiginys: '1413 m. Kauno saloje buvo sušauktas suvažiavimas Žemaitijos sienų klausimu.'
   pagrindžia:
     - c-001

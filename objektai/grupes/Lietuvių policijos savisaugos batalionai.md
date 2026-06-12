@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19813"></a>
 - t-001
+  global_id: t-19813
   teiginys: 'Dalis lietuvių policijos savisaugos batalionų buvo panaudota akcijose prieš civilius Baltarusijoje, Lenkijoje ir Ukrainoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-19814"></a>
 - t-002
+  global_id: t-19814
   teiginys: 'Lietuvių savisaugos policijos grupės, tarp jų policijos batalionai, buvo įtrauktos į žudynių parengimą, aukų konvojavimą ir šaudymą.'
   pagrindžia:
     - c-001

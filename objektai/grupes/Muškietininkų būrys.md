@@ -22,12 +22,16 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
 
 ## Teiginiai
 
+<a id="claim-t-41091"></a>
 - t-001
+  global_id: t-41091
   teiginys: '1945 m. birželio 25 d. į pasalą patekęs žuvo „Muškietininkų“ būrio vadas Vladas Gavėnas-Tarzanas bei laisvės kovotojai Vincas Boruta-Žvalgas ir Sigitas Melnykas-Portas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41092"></a>
 - t-002
+  global_id: t-41092
   teiginys: 'Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno-Tarzano.'
   pagrindžia:
     - c-002

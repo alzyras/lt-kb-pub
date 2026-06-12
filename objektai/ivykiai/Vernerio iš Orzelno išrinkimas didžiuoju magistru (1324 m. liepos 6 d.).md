@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62948"></a>
 - t-001
+  global_id: t-62948
   teiginys: 'Dusburgietis teigia, kad trečiajai — Ragainės komtūras nuo 1313 m., o nuo 1324 m. didysis magistras Verneris, kuriam kronikininkas įteikė savo veikalą.'
   pagrindžia:
     - c-001

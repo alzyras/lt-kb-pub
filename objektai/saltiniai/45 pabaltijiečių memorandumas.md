@@ -17,7 +17,9 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
 
 ## Teiginiai
 
+<a id="claim-t-26481"></a>
 - t-001
+  global_id: t-26481
   teiginys: '45 pabaltijiečių memorandumas buvo svarbiausias LLL paskelbtas dokumentas, turėjęs tarptautinį rezonansą.'
   pagrindžia:
     - c-001

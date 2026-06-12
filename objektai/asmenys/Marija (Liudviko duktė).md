@@ -16,7 +16,9 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
 
 ## Teiginiai
 
+<a id="claim-t-35215"></a>
 - t-001
+  global_id: t-35215
   teiginys: 'Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgrafu, vėliau tapusiu ciesoriumi Zigmantu.'
   pagrindžia:
     - c-001

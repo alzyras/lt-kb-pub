@@ -18,7 +18,9 @@ Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo a
 
 ## Teiginiai
 
+<a id="claim-t-02064"></a>
 - t-001
+  global_id: t-02064
   teiginys: 'Maskvos kunigaikštis pasiuntiniams į Krokuvą nurodydavo pareikšti užuojautą, jei karalius būtų miręs.'
   pagrindžia:
     - c-001

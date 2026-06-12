@@ -19,7 +19,9 @@ Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją
 
 ## Teiginiai
 
+<a id="claim-t-86801"></a>
 - t-001
+  global_id: t-86801
   teiginys: 'Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais rykais ir visokia manta.'
   pagrindžia:
     - c-001

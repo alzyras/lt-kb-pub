@@ -19,7 +19,9 @@ Dusburgietis teigia, kad vojakas [Vojachas] davė broliams raštą, savo antspau
 
 ## Teiginiai
 
+<a id="claim-t-60467"></a>
 - t-001
+  global_id: t-60467
   teiginys: 'Dusburgietis teigia, kad vojakas [Vojachas] davė broliams raštą, savo antspaudu patvirtintą277.'
   pagrindžia:
     - c-001

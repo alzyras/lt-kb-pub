@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77894"></a>
 - t-001
+  global_id: t-77894
   teiginys: 'LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drabužius, 1948 m.'
   pagrindžia:
     - c-001

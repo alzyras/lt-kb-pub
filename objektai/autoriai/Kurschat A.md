@@ -17,7 +17,9 @@ Dusburgietis teigia, kad anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kit
 
 ## Teiginiai
 
+<a id="claim-t-60736"></a>
 - t-001
+  global_id: t-60736
   teiginys: 'Dusburgietis teigia, kad anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kitų vėlesnių apskričių lietuviai buvo nusiaubto krašto senųjų gyventojų palikuonys (Kurschat A., Zur Geschichte..., p. 497—498).'
   pagrindžia:
     - c-001

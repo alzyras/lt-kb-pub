@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08296"></a>
 - t-001
+  global_id: t-08296
   teiginys: '`Kilimas` šiame tekste reiškė moterų išeiginę vilnonę skarą ar apsiaustą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08297"></a>
 - t-002
+  global_id: t-08297
   teiginys: '`Kilimas` buvo dėvimas ant pečių ir tinkamas apsisiausti nuo lietaus ar blogo oro.'
   pagrindžia:
     - c-001

@@ -19,7 +19,6 @@ tags:
 amziai:
   - 'XIII'
 ---
-
 # Skalva
 
 ## Santrauka
@@ -28,38 +27,52 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 
 ## Teiginiai
 
+<a id="claim-t-58373"></a>
 - t-001
+  global_id: t-58373
   teiginys: 'Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius, įsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne kurios žemiau aprašytos kovos vyko po karo su nadruviais.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-58374"></a>
 - t-002
+  global_id: t-58374
   teiginys: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-58375"></a>
 - t-003
+  global_id: t-58375
   teiginys: 'Dusburgietis teigia, kad 1253—1259 m. Mindaugo dokumentai, kad ir kaip juos vertintume, liudija, kad tuo metu Dainava (plačiąja prasme), arba Jotvingija, taip pat Skalva, Nadruva tarptautinėje plotmėje buvo laikomos Lietuvos valdovo žemėmis (LUB, 1, Nr.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58376"></a>
 - t-004
+  global_id: t-58376
   teiginys: 'Dusburgietis teigia, kad skalvos centras buvo Ragainė (dab.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58377"></a>
 - t-005
+  global_id: t-58377
   teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58378"></a>
 - t-006
+  global_id: t-58378
   teiginys: 'Dusburgietis teigia, kad kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją, pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina kaip prūsų gyvenamą3.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-185144"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad pirmąjį stai gų smūgį ketino nukreipti į Skalvių miestą ir pilį.'
+  global_id: t-185144
+  teiginys: 'Pirmąjį staigų smūgį puolantieji ketino nukreipti į Skalvių miestą ir pilį.'
   pagrindžia:
     - c-007
 
@@ -162,7 +175,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-001
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad pirmąjį stai gų smūgį ketino nukreipti į Skalvių miestą ir pilį.'
+  santrauka: 'Pirmąjį staigų smūgį puolantieji ketino nukreipti į Skalvių miestą ir pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto vis­

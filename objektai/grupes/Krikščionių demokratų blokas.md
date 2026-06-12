@@ -25,27 +25,37 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
 
 ## Teiginiai
 
+<a id="claim-t-74191"></a>
 - t-001
+  global_id: t-74191
   teiginys: 'Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir Lietuvos darbo federacija (LDF), joms.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-74192"></a>
 - t-002
+  global_id: t-74192
   teiginys: 'Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyriausybės tarptautinio pripažinimo problemos, gruodžio 19 dieną sušaukė III Seimo nepaprastąjį posėdį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74193"></a>
 - t-003
+  global_id: t-74193
   teiginys: 'Krikščionių demokratų blokas laimėjo 1920 m. balandžio 14–15 d. rinkimus ir gavo 59 vietas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-74194"></a>
 - t-004
+  global_id: t-74194
   teiginys: 'Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo monopolizuoti ideologinės ir organizacinės erdvės.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-74195"></a>
 - t-005
+  global_id: t-74195
   teiginys: 'O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės 8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pralaimėjo.'
   pagrindžia:
     - c-001

@@ -16,12 +16,16 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
 
 ## Teiginiai
 
+<a id="claim-t-78039"></a>
 - t-001
+  global_id: t-78039
   teiginys: 'Mironą premjero poste pakeitusio gen.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78040"></a>
 - t-002
+  global_id: t-78040
   teiginys: 'Smetonai artimas asmuo – kun. Vladas Mironas.'
   pagrindžia:
     - c-001

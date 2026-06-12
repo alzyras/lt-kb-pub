@@ -39,42 +39,58 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08294"></a>
 - t-001
+  global_id: t-08294
   teiginys: 'Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-08295"></a>
 - t-002
+  global_id: t-08295
   teiginys: 'Pėstųjų karinė ginkluotė apėmė rendėtus brūklius, kuriais jie daugiausia kariavo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-10150"></a>
 - t-003
+  global_id: t-10150
   teiginys: 'XIII a. Vakarų Europos pėstininkų karinė ginkluotė apėmė dvirankius artimosios kovos ginklus, lankus ir arbaletus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-10151"></a>
 - t-004
+  global_id: t-10151
   teiginys: 'XIII-XIV a. Lietuvos raitininko karinė ginkluotė galėjo apimti Desiukiškių tipo kalaviją, žieduočio šarvus ir krūtinšarvį.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-10152"></a>
 - t-005
+  global_id: t-10152
   teiginys: 'Ginklai ir ypač šarvai buvo branginami, sugadinti perkalami, o didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-10153"></a>
 - t-006
+  global_id: t-10153
   teiginys: 'XIV a. Europos karinėje ginkluotėje plito lakštiniai šarvai, tačiau dėl brangumo plačiai naudoti ir žieduočio šarvai.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-78663"></a>
 - t-007
+  global_id: t-78663
   teiginys: 'Didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas, po to, žinoma, viską reikėdavo grąžinti.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-78665"></a>
 - t-008
+  global_id: t-78665
   teiginys: 'Lietuvių karinę ginkluotę sudarė skydai, šalmai, ietys ir kardai.'
   pagrindžia:
     - c-001

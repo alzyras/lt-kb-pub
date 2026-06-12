@@ -24,12 +24,16 @@ Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio p
 
 ## Teiginiai
 
+<a id="claim-t-101633"></a>
 - t-001
+  global_id: t-101633
   teiginys: 'Taip liko neįgyvendintos Algirdo išsakytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o Vilnius nevirto „antruoju Kijevu“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101634"></a>
 - t-002
+  global_id: t-101634
   teiginys: '1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ ir taip prilygino save Bizantijos imperatoriui.'
   pagrindžia:
     - c-001

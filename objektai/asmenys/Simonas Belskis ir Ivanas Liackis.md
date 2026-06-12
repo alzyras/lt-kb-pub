@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Simonas Belskis ir Ivanas Liackis
 
 ## Santrauka
 
-Kojelavičius teigia, kad liackiui atiteko Želudokas ir Aukštadvaris, jis davė pradžią garsiai šeimai, pelniusiai šlovę taikos darbais bei karo žygiais ir aukščiausiomis pareigybėmis.
+Ivanui Liackiui atiteko Želudokas ir Aukštadvaris, o jo giminė išgarsėjo taikos darbais, karo žygiais ir aukštomis pareigybėmis.
 
 ## Teiginiai
 
+<a id="claim-t-186075"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad liackiui atiteko Želudokas ir Aukštadvaris, jis davė pradžią garsiai šeimai, pelniusiai šlovę taikos darbais bei karo žygiais ir aukščiausiomis pareigybėmis.'
+  global_id: t-186075
+  teiginys: 'Ivanui Liackiui atiteko Želudokas ir Aukštadvaris, o jo giminė išgarsėjo taikos darbais, karo žygiais ir aukštomis pareigybėmis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad liackiui atiteko Želudokas ir Aukštadvaris, jis davė pradžią garsiai šeimai, pelniusiai šlovę taikos darbais bei karo žygiais ir aukščiausiomis pareigybėmis.'
+  santrauka: 'Ivanui Liackiui atiteko Želudokas ir Aukštadvaris, o jo giminė išgarsėjo taikos darbais, karo žygiais ir aukštomis pareigybėmis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius
@@ -40,3 +41,7 @@ Kojelavičius teigia, kad liackiui atiteko Želudokas ir Aukštadvaris, jis dav�
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/jurisdikcija]]

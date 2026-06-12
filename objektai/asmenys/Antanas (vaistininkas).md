@@ -16,7 +16,9 @@ Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną va
 
 ## Teiginiai
 
+<a id="claim-t-87905"></a>
 - t-001
+  global_id: t-87905
   teiginys: 'Vaistininkas Antanas nuo liepos 10 d. iki rugpjūčio 18 d. turėjo tris sidabrinius dubenis.'
   pagrindžia:
     - c-001

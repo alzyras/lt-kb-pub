@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-33800"></a>
 - t-001
+  global_id: t-33800
   teiginys: 'Kita kariuomenės dalis paėmė Naujapilį su 3000 žmonių.'
   pagrindžia:
     - c-001

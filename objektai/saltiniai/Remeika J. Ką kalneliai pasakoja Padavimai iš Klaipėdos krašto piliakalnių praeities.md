@@ -23,7 +23,9 @@ Dusburgietis teigia, kad remeika J.
 
 ## Teiginiai
 
+<a id="claim-t-61271"></a>
 - t-001
+  global_id: t-61271
   teiginys: 'J. Remeikos „Ką kalneliai pasakoja: Padavimai iš Klaipėdos krašto piliakalnių praeities“ išleista Klaipėdoje 1938 m.'
   pagrindžia:
     - c-001

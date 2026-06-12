@@ -25,12 +25,16 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
 
 ## Teiginiai
 
+<a id="claim-t-61008"></a>
 - t-001
+  global_id: t-61008
   teiginys: 'P. K. Tacito „Rinktinių raštų“ 29 puslapyje minimi germanai lemoviai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-61009"></a>
 - t-002
+  global_id: t-61009
   teiginys: 'P. K. Tacito „Rinktiniai raštai“ išleisti Vilniuje 1972 m.'
   pagrindžia:
     - c-002

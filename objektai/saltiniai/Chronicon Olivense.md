@@ -17,7 +17,9 @@ Tokius pat skaičius užrašė Chronicon Olivense ir Chronicon Hermanui de Wartb
 
 ## Teiginiai
 
+<a id="claim-t-100156"></a>
 - t-001
+  global_id: t-100156
   teiginys: 'Tokius pat skaičius užrašė Chronicon Olivense ir Chronicon Hermanui de Wartberge (SRP I, 681 ; II, 33 34).'
   pagrindžia:
     - c-001

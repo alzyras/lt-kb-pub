@@ -19,7 +19,9 @@ Prancūzija Žoržo B.
 
 ## Teiginiai
 
+<a id="claim-t-78077"></a>
 - t-001
+  global_id: t-78077
   teiginys: 'Žoržo B. Klemanso rašte vokiečiams Prancūzija aiškino sąjungininkų sprendimą dėl Klaipėdos krašto.'
   pagrindžia:
     - c-001

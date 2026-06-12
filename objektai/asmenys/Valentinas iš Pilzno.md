@@ -19,7 +19,9 @@ Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensi
 
 ## Teiginiai
 
+<a id="claim-t-87877"></a>
 - t-001
+  global_id: t-87877
   teiginys: 'Valentinas iš Pilzno pranešė, kad per Pabaisko bažnyčios gaisrą buvo prarasta jos fundacijos privilegija.'
   pagrindžia:
     - c-001

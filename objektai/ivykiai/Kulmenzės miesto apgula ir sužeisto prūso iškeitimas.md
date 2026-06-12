@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62350"></a>
 - t-001
+  global_id: t-62350
   teiginys: 'Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų kariuomenė ir apsiautė Kulmenzės miestą433.'
   pagrindžia:
     - c-001

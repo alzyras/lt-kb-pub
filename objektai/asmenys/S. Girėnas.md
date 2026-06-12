@@ -17,7 +17,9 @@ Girėno žygdarbį ir t.
 
 ## Teiginiai
 
+<a id="claim-t-78078"></a>
 - t-001
+  global_id: t-78078
   teiginys: 'Sovietmečiu buvo leista rašyti apie S. Dariaus ir S. Girėno žygdarbį.'
   pagrindžia:
     - c-001

@@ -19,12 +19,16 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
 
 ## Teiginiai
 
+<a id="claim-t-58874"></a>
 - t-001
+  global_id: t-58874
   teiginys: 'Dusburgiečio kronikoje žemė susideda iš mažesnių teritorijų, kurioms istoriografijoje taikomas valsčiaus terminas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58875"></a>
 - t-002
+  global_id: t-58875
   teiginys: 'Valsčių sudarė pilis, laukai, pievos ir miškeliai su bajorų kaimais bei žemdirbių sodžiais.'
   pagrindžia:
     - c-002

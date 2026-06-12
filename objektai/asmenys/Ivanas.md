@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Ivanas
 
 ## Santrauka
 
-Kojelavičius teigia, kad m at, k ai žym i k ariu o m en ės dalis, v ed am a Polubinskio, nužy g iav o ginti nuo danų p ajū rio , o k ita p a tra u k ė L ietuvon į žiem os sto v y k las, Ivanas, tylom is p e r tu o s m etus su telk ęs d u šim tus tū k stan čių - p ėstin in kų, aštuo n.
+Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir gruodžio pabaigoje apsupo jos sostinę bei abi pilis.
 
 ## Teiginiai
 
+<a id="claim-t-185962"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad m at, k ai žym i k ariu o m en ės dalis, v ed am a Polubinskio, nužy g iav o ginti nuo danų p ajū rio , o k ita p a tra u k ė L ietuvon į žiem os sto v y k las, Ivanas, tylom is p e r tu o s m etus su telk ęs d u šim tus tū k stan čių - p ėstin in kų, aštuo n.'
+  global_id: t-185962
+  teiginys: 'Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir gruodžio pabaigoje apsupo jos sostinę bei abi pilis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad m at, k ai žym i k ariu o m en ės dalis, v ed am a Polubinskio, nužy g iav o ginti nuo danų p ajū rio , o k ita p a tra u k ė L ietuvon į žiem os sto v y k las, Ivanas, tylom is p e r tu o s m etus su telk ęs d u šim tus tū k stan čių - p ėstin in kų, aštuo n.'
+  santrauka: 'Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir gruodžio pabaigoje apsupo jos sostinę bei abi pilis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     M at, išsiuntęs A u g u stu i laišką, p arag in o  jį ta i­
@@ -52,3 +53,27 @@ Kojelavičius teigia, kad m at, k ai žym i k ariu o m en ės dalis, v ed am a P
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Didžiojo Naugardo bojarinai]]
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/asmenys/Ivanas IV Rūstusis]]
+- [[objektai/asmenys/Jonas Gornostajus]]
+- [[objektai/ivykiai/Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas]]
+- [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]
+- [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]
+- [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]
+- [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]
+- [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]
+- [[objektai/asmenys/Sofija Vytautaitė]]
+- [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
+- [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
+- [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]
+- [[objektai/zodynas/bojarinai]]
+- [[objektai/zodynas/taikytojas]]
+- [[objektai/zodynas/žygūnas]]
+- [[objektai/asmenys/Ivanas Sidorovičius]]
+- [[objektai/zodynas/graikų apeigos]]
+- [[objektai/zodynas/paliaubos]]
+- [[objektai/zodynas/tėvonija]]

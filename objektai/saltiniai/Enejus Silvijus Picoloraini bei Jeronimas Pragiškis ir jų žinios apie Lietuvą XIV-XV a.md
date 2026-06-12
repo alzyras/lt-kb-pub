@@ -22,7 +22,9 @@ Janulaičio „Enejus Silvijus Picoloraini bei Jeroni­ mas Pragiškis ir jų ž
 
 ## Teiginiai
 
+<a id="claim-t-36044"></a>
 - t-001
+  global_id: t-36044
   teiginys: 'A. Janulaičio veikalas „Enejus Silvijus Picoloraini bei Jeronimas Pragiškis ir jų žinios apie Lietuvą XIV-XV a.“ buvo išleistas Kaune 1928 m.'
   pagrindžia:
     - c-001

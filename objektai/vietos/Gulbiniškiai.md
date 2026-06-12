@@ -22,7 +22,9 @@ X GULBINIŠKIŲ KAUTYNĖS 1948 m. vasario 1 d. Vilkaviškio aps.
 
 ## Teiginiai
 
+<a id="claim-t-38469"></a>
 - t-001
+  global_id: t-38469
   teiginys: '1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai.'
   pagrindžia:
     - c-001

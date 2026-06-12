@@ -24,7 +24,9 @@ Dusburgietis teigia, kad karwasińska J.
 
 ## Teiginiai
 
+<a id="claim-t-60725"></a>
 - t-001
+  global_id: t-60725
   teiginys: 'Karwasińska J. parašė straipsnį apie Karolio IV aukso bules Lietuvos krikšto klausimu.'
   pagrindžia:
     - c-001

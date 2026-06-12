@@ -24,7 +24,9 @@ Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausom
 
 ## Teiginiai
 
+<a id="claim-t-42425"></a>
 - t-001
+  global_id: t-42425
   teiginys: '1919-1920 m. Nepriklausomybės kovose Pirmoji Lietuvos Respublika kariavo prieš bolševikus, stabdė juos prie Jiezno ir Kėdainių ir vijosi iki Daugpilio.'
   pagrindžia:
     - c-001

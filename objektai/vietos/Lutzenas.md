@@ -18,7 +18,9 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
 
 ## Teiginiai
 
+<a id="claim-t-86302"></a>
 - t-001
+  global_id: t-86302
   teiginys: 'Lutzenas Balinskio pateiktame vietovių sąraše įvardytas kaip viena iš Livonijos pilių.'
   pagrindžia:
     - c-001

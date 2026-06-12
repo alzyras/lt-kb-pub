@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-103837"></a>
 - t-001
+  global_id: t-103837
   teiginys: 'Prieš kautynes karalius šventino riterius ir priėmė Ordino pasiuntinius, o mūšio metu buvo saugomas 60 raitelių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-103838"></a>
 - t-002
+  global_id: t-103838
   teiginys: 'Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip Zbignievo Olesnickio.'
   pagrindžia:
     - c-002

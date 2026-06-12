@@ -38,32 +38,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-78607"></a>
 - t-001
+  global_id: t-78607
   teiginys: 'Persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-78608"></a>
 - t-002
+  global_id: t-78608
   teiginys: 'Ažagų-Eimuliškio miško kautynėse dalyvavo Žaliosios rinktinės Aušros būrys, o dienos pabaigoje dalis partizanų prasiveržė Pakruojo link.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78609"></a>
 - t-003
+  global_id: t-78609
   teiginys: '1945 m. kovo pradžioje NKVD divizija pradėjo puolimą prieš Pušaloto, Pasvalio ir Žaliosios girios partizanus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-78610"></a>
 - t-004
+  global_id: t-78610
   teiginys: 'Ažagų-Eimuliškio miško kautynėse žuvo apie 76-80 partizanų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78611"></a>
 - t-005
+  global_id: t-78611
   teiginys: 'NKVD puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų pasitraukimo kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78612"></a>
 - t-006
+  global_id: t-78612
   teiginys: 'Mūšyje žuvo daugelis 222 Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas ūkininkus.'
   pagrindžia:
     - c-006

@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08321"></a>
 - t-001
+  global_id: t-08321
   teiginys: 'Ritmuša buvo senovinis vaikų žaidimo ir karinės pratybos įrankis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08322"></a>
 - t-002
+  global_id: t-08322
   teiginys: 'Ritmuša buvo senovinis jaunimo karės įrankis, kurio mokėsi nuo mažų dienų.'
   pagrindžia:
     - c-002

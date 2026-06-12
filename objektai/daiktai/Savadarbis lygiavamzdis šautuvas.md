@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39281"></a>
 - t-001
+  global_id: t-39281
   teiginys: 'Savadarbį lygiavamzdį 16,5 mm kalibro šautuvą 1991 m. pagamino savanoris I. Drakša.'
   pagrindžia:
     - c-001

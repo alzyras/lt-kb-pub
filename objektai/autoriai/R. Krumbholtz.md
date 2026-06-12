@@ -25,7 +25,9 @@ Krumbholtz : KrSO, 121 sqq.
 
 ## Teiginiai
 
+<a id="claim-t-100120"></a>
 - t-001
+  global_id: t-100120
   teiginys: 'Krumbholtz : KrSO, 121 sqq.'
   pagrindžia:
     - c-001

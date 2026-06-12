@@ -16,7 +16,9 @@ Kariai, laukiantys komandos „ugnis“.
 
 ## Teiginiai
 
+<a id="claim-t-39072"></a>
 - t-001
+  global_id: t-39072
   teiginys: 'Kariai laukė komandos „ugnis“ ir turėjo iššauti, kai tai padarys kairėje esantis padalinys.'
   pagrindžia:
     - c-001

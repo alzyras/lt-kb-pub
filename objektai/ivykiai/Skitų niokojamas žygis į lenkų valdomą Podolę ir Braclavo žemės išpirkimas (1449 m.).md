@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad 1449 m ela i Kol valdovas rūpinosi lieS k ila i n io k o ja Potuvių seimo reikalais, skitai do ]ę surengė niokojamą žygį į tą Podolės dalį, kurią valdė len kai, degindami ir žudydami, kas pakliuvo po ranka, ta čiau neliesdami kaimyninės Braclavo žemės, nors.
+1449 m. skitai nuniokojo lenkų valdytą Podolės dalį, o Jurga dovanomis apsaugojo Braclavo žemę nuo antpuolių.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185767"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad 1449 m ela i Kol valdovas rūpinosi lieS k ila i n io k o ja Potuvių seimo reikalais, skitai do ]ę surengė niokojamą žygį į tą Podolės dalį, kurią valdė len kai, degindami ir žudydami, kas pakliuvo po ranka, ta čiau neliesdami kaimyninės Braclavo žemės, nors.'
+  global_id: t-185767
+  teiginys: '1449 m. skitai nuniokojo lenkų valdytą Podolės dalį, o Jurga dovanomis apsaugojo Braclavo žemę nuo antpuolių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad 1449 m ela i Kol valdovas rūpinosi lieS k ila i n io k o ja Potuvių seimo reikalais, skitai do ]ę surengė niokojamą žygį į tą Podolės dalį, kurią valdė len kai, degindami ir žudydami, kas pakliuvo po ranka, ta čiau neliesdami kaimyninės Braclavo žemės, nors.'
+  santrauka: '1449 m. skitai nuniokojo lenkų valdytą Podolės dalį, o Jurga dovanomis apsaugojo Braclavo žemę nuo antpuolių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai todėl, norėdamas išvengti gink­
@@ -71,3 +72,14 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/žygūnai]]
+- [[objektai/asmenys/Jurga (pasienio seniūnas)]]
+- [[objektai/paprociai/Valdų išpirkimas nuo antpuolių dovanomis per žygūnus]]

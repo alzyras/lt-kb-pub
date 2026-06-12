@@ -17,12 +17,16 @@ Jų tarpe buvo ir tokių, kurie jau stojo ant grynai tautiško pagrindo, gynė t
 
 ## Teiginiai
 
+<a id="claim-t-67432"></a>
 - t-001
+  global_id: t-67432
   teiginys: 'Nuo 1878 m. Šerno redaguojama „Lietuviška Ceitunga“ skelbė bendrumą su Didžiosios Lietuvos lietuviais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67433"></a>
 - t-002
+  global_id: t-67433
   teiginys: 'Kilus nepasitenkinimui „Lietuviškos Ceitungos“ tautiškumu, redaktorius pavertė ją informaciniu laikraščiu be ideologijos.'
   pagrindžia:
     - c-001

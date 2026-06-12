@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88484"></a>
 - t-001
+  global_id: t-88484
   teiginys: 'Trakų žydai dar 1388 m. atskirai gavo privilegiją, kurioje išsamiai apibūdinta jų elgsena krikščionių atžvilgiu.'
   pagrindžia:
     - c-001

@@ -29,7 +29,9 @@ Naudodamas Rygos archyvų medžiagą, jis ėmė tyrinėti iki tol Lietuvos istor
 
 ## Teiginiai
 
+<a id="claim-t-31813"></a>
 - t-001
+  global_id: t-31813
   teiginys: 'Sužiedėlis 1937 m. „Athenaeume“ paskelbė studiją „Lietuvos ir Livonijos konfliktas 1556-1557“.'
   pagrindžia:
     - c-001

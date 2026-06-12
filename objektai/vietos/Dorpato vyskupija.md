@@ -25,12 +25,16 @@ Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietu
 
 ## Teiginiai
 
+<a id="claim-t-86064"></a>
 - t-001
+  global_id: t-86064
   teiginys: '1323 m. per Užgavėnes lietuviai įsiveržė į Dorpato vyskupiją, ją plėšė ir degino.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86065"></a>
 - t-002
+  global_id: t-86065
   teiginys: 'Lietuvių pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu nusiaubė Dorpato vyskupiją.'
   pagrindžia:
     - c-002

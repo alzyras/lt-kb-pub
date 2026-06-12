@@ -43,17 +43,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75314"></a>
 - t-001
+  global_id: t-75314
   teiginys: 'K. Semenavičiaus raketų brėžiniai buvo susieti su Amsterdamu ir 1650 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75315"></a>
 - t-002
+  global_id: t-75315
   teiginys: 'Daugiapakopių raketų teorija siejama su K. Semenavičiaus veikalu „Artis magnae artilleriae“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75316"></a>
 - t-003
+  global_id: t-75316
   teiginys: 'K. Semenavičius citatoje vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
   pagrindžia:
     - c-001

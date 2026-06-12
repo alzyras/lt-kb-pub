@@ -24,12 +24,16 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
 
 ## Teiginiai
 
+<a id="claim-t-179438"></a>
 - t-001
+  global_id: t-179438
   teiginys: 'Toks kaltinimų ordinui kartojimas yra davęs progos išvadai, jog laiškus Gedimino vardu sufabrikavę Livonijos ordino priešai — rygiečiai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-179439"></a>
 - t-002
+  global_id: t-179439
   teiginys: 'Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį.'
   pagrindžia:
     - c-002
@@ -37,7 +41,9 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     - c-005
     - c-001
 
+<a id="claim-t-179441"></a>
 - t-003
+  global_id: t-179441
   teiginys: '1253 m., Mindaugui susitaikius su Livonijos ordinu, rygiečiai išsirūpino prekybos teisę Lietuvoje.'
   pagrindžia:
     - c-005
@@ -140,5 +146,5 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
 - [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]
 - [[objektai/posakiai/mano priešo priešas yra mano draugas]]
 - [[objektai/posakiai/„mano priešo priešas yra mano draugas“]]
-- [[objektai/asmenys/Vytenis]]
+- [[objektai/ivykiai/Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)]]
 - [[objektai/zodynas/laisvasis Rygos miestas]]

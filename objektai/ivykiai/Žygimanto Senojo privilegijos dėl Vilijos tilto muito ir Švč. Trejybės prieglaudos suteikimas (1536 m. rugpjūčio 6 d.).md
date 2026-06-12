@@ -41,32 +41,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86879"></a>
 - t-001
+  global_id: t-86879
   teiginys: 'Žygimantas Senasis paskyrė Joną Hozijų rinkti Vilijos tilto muitą po Ulriko Hozijaus ir pripažino jo pastangas taisant tiltą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86880"></a>
 - t-002
+  global_id: t-86880
   teiginys: '1536 m. privilegija uždraudė statyti kitą tiltą per Viliją tarp Bistryčios ir Kernavės, kad nebūtų mažinamos Vilniaus tilto muito pajamos.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-86881"></a>
 - t-003
+  global_id: t-86881
   teiginys: 'Pastačius Švč. Trejybės prieglaudą, dalis Vilijos tilto mokesčio turėjo būti skiriama ligonių maistui, drabužiams, vaistams ir kitoms reikmėms.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86882"></a>
 - t-004
+  global_id: t-86882
   teiginys: '1536 m. privilegija uždraudė naudoti plaustus per Viliją tarp Verkių ir Panerių, kad nebūtų pakenkta nustatytam tilto muitui.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-86883"></a>
 - t-005
+  global_id: t-86883
   teiginys: 'Žygimantas Senasis visiems laikams paskyrė Vilijos tilto mokestį Švč. Trejybės prieglaudai ir joje gyvenantiems vargšams.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86884"></a>
 - t-006
+  global_id: t-86884
   teiginys: 'Jonas Hozijus ir jo įpėdiniai kasmet turėjo atsiskaityti Vilniaus vyskupui ir kapitulai už tilto bei prieglaudos pajamas ir išlaidas.'
   pagrindžia:
     - c-005

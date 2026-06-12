@@ -30,87 +30,121 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 
 ## Teiginiai
 
+<a id="claim-t-112063"></a>
 - t-001
+  global_id: t-112063
   teiginys: 'Katalikybė sudarė prielaidą Italijos ir Ispanijos baroko kultūrai plisti Prancūzijoje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-112064"></a>
 - t-002
+  global_id: t-112064
   teiginys: 'LLV Konstitucija buvo priimta keliais mėnesiais anksčiau už Prancūzijos konstituciją.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-112065"></a>
 - t-003
+  global_id: t-112065
   teiginys: 'Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos kariauti su pagonimis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-112066"></a>
 - t-004
+  global_id: t-112066
   teiginys: 'Dusburgietis teigia, kad neseniai Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo Teutonų ordinas.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-112067"></a>
 - t-005
+  global_id: t-112067
   teiginys: 'Jonas Žemaitis-Vytautas 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-112068"></a>
 - t-006
+  global_id: t-112068
   teiginys: 'Prancūzija minima kaip absoliutinio valdymo pavyzdys, kuriuo norėjo sekti Krokuvoje vainikuotas valdovas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-112069"></a>
 - t-007
+  global_id: t-112069
   teiginys: 'Ji siekė išlaikyti Lietuvos valstybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prievartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-112070"></a>
 - t-008
+  global_id: t-112070
   teiginys: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-112071"></a>
 - t-009
+  global_id: t-112071
   teiginys: 'Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-112072"></a>
 - t-010
+  global_id: t-112072
   teiginys: 'Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-112073"></a>
 - t-011
+  global_id: t-112073
   teiginys: 'Į Prūsijoje rengiamus mūšius atvyko savanorių iš Anglijos ir Prancūzijos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-112074"></a>
 - t-012
+  global_id: t-112074
   teiginys: 'LLV Konstitucija keliais mėnesiais aplenkė Prancūzijos konstituciją.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-112075"></a>
 - t-013
+  global_id: t-112075
   teiginys: 'Į Prancūzijos universitetus vykdavo mokytis tie, kurie nesiruošė dvasininkais.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-112076"></a>
 - t-014
+  global_id: t-112076
   teiginys: 'Prancūzija nepripažino prievartinio Lietuvos įjungimo į SSRS sudėtį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-112077"></a>
 - t-015
+  global_id: t-112077
   teiginys: 'Dusburgietis teigia, kad 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291 m.) įsikūrusių šioje žemėje, procesas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-112078"></a>
 - t-016
+  global_id: t-112078
   teiginys: 'LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artilerijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje), jam.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183080"></a>
 - t-017
+  global_id: t-183080
   teiginys: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
   pagrindžia:
     - c-011

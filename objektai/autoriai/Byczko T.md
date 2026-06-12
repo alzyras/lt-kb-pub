@@ -29,7 +29,9 @@ Dusburgietis teigia, kad тоерреn M., HCGP, p. 171; SZCh, p. 100—101; Byc
 
 ## Teiginiai
 
+<a id="claim-t-60680"></a>
 - t-001
+  global_id: t-60680
   teiginys: 'Dusburgietis teigia, kad тоерреn M., HCGP, p. 171; SZCh, p. 100—101; Byczko T., Z badań.., p. 153; Mroczko T., Ruch budowlany.., p. 298).'
   pagrindžia:
     - c-001

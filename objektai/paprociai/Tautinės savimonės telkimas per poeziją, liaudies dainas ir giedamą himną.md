@@ -45,27 +45,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75398"></a>
 - t-001
+  global_id: t-75398
   teiginys: 'Lietuvių tautinę savimonę žadino V. Kudirkos poezija, satyriniai apsakymai ir Žemaitės realistinė socialinė proza.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75399"></a>
 - t-002
+  global_id: t-75399
   teiginys: 'Jurgis Zauerveinas parašė Mažosios Lietuvos himną, kuris greitai išpopuliarėjo ir Didžiojoje Lietuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75401"></a>
 - t-003
-  teiginys: 'Tautinę savimonę žadino V. Kudirkos poezija, satyriniai apsakymai ir Julijos Žymantienės-Žemaitės realistinė socialinė proza.'
-  pagrindžia:
-    - c-001
-
-- t-004
+  global_id: t-75401
   teiginys: 'Maironio lietuviškai rašyta poezija turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.'
   pagrindžia:
     - c-002
 
-- t-006
+<a id="claim-t-75403"></a>
+- t-005
+  global_id: t-75403
   teiginys: 'Jurgis Zauerveinas, kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje.'
   pagrindžia:
     - c-001
@@ -91,7 +94,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -114,8 +117,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-003
     - t-004
-    - t-005
     - t-001
 
 ## Ryšiai

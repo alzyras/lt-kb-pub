@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62288"></a>
 - t-001
+  global_id: t-62288
   teiginys: 'Dusburgietis teigia, kad apie jo vainikavimą Achene 1309 viešpaties metais šį išrinktąjį vainikavo Achene per tris karalius sausio 6 dieną (Mart.'
   pagrindžia:
     - c-001

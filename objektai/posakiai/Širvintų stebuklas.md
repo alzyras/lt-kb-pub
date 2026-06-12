@@ -27,12 +27,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41478"></a>
 - t-001
+  global_id: t-41478
   teiginys: 'Širvintų pergalė visuomenėje buvo praminta „Širvintų stebuklu“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41479"></a>
 - t-002
+  global_id: t-41479
   teiginys: 'Balno reidas į Gardino pulko užnugarį visuomenėje buvo pramintas „Širvintų stebuklu“.'
   pagrindžia:
     - c-001

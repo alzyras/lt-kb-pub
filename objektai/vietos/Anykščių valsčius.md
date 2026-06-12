@@ -16,7 +16,9 @@ Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d
 
 ## Teiginiai
 
+<a id="claim-t-41595"></a>
 - t-001
+  global_id: t-41595
   teiginys: 'Spalio 28 d. po tardymų bendradarbiauti sutikę asmenys atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiuje.'
   pagrindžia:
     - c-001

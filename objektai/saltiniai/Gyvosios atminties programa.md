@@ -17,12 +17,16 @@ p. 223, „MŪŠIO LIUDININKES ATSIMINIMAI“, LGGRT centras, „Gyvosios atmint
 
 ## Teiginiai
 
+<a id="claim-t-78843"></a>
 - t-001
+  global_id: t-78843
   teiginys: '241, „MŪŠIO DALYVIO ATSIMINIMAI“, LGGRT centras, „Gyvosios atminties programa“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78844"></a>
 - t-002
+  global_id: t-78844
   teiginys: 'LGGRT centro „Gyvosios atminties programa“ pateikė mūšio liudininkės atsiminimus.'
   pagrindžia:
     - c-002

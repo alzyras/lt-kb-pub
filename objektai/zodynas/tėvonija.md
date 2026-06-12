@@ -10,7 +10,7 @@ tags:
   - didikas
   - kunigaikštis
   - sąvoka
-  - teisinė-praktika
+  - valstybė
 ---
 # tėvonija
 
@@ -20,33 +20,45 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 
 ## Teiginiai
 
+<a id="claim-t-22335"></a>
 - t-001
+  global_id: t-22335
   teiginys: 'Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-22336"></a>
 - t-002
+  global_id: t-22336
   teiginys: 'Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183482"></a>
 - t-004
+  global_id: t-183482
   teiginys: 'Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184638"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad be to, jam buvo aišku, kad didžiosios kunigaikštystės galia men kėja, kai mirusiojo valdovo vaikai ima grobstyti že mes kaip savo tėvoniją, kad neišvengiamai sunyks, išgrobsčius valstybės turtus, ir pats jų šaltinis, o di džiajam kunigaikščiui nebeliks nieko.'
+  global_id: t-184638
+  teiginys: 'Valdovo vaikams grobstant žemes kaip tėvoniją, silpo didžiosios kunigaikštystės galia.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184639"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad nors šis kraš tas anksčiau Algirdo buvo prijungtas prie Lietuvos vals tybės, tačiau Jogaila jį pasiliko sau kaip tėvonijos dalį.'
+  global_id: t-184639
+  teiginys: 'Jogaila Vitebsko žemę pasiliko sau kaip tėvonijos dalį, nors Algirdas ją buvo prijungęs prie Lietuvos valstybės.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184640"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad jis, Ivanas, nieku būdu negalįs ramiai žiūrėti, kaip jam daroma skriau dos, negalįs nepaisyti rusų maldavimų, todėl ateityje pasirūpinsiąs ginklu atremti bet kokį smurtą, kurio bus griebiamasi prieš asmenis ir tėvonijas, jo paimtas į globą.'
+  global_id: t-184640
+  teiginys: 'Ivanas skelbė ginklu ginsiąs globon paimtus asmenis ir tėvonijas nuo smurto.'
   pagrindžia:
     - c-007
 
@@ -127,7 +139,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad be to, jam buvo aišku, kad didžiosios kunigaikštystės galia men kėja, kai mirusiojo valdovo vaikai ima grobstyti že mes kaip savo tėvoniją, kad neišvengiamai sunyks, išgrobsčius valstybės turtus, ir pats jų šaltinis, o di džiajam kunigaikščiui nebeliks nieko.'
+  santrauka: 'Valdovo vaikams grobstant žemes kaip tėvoniją, silpo didžiosios kunigaikštystės galia.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat valdovui
@@ -161,7 +173,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad nors šis kraš tas anksčiau Algirdo buvo prijungtas prie Lietuvos vals tybės, tačiau Jogaila jį pasiliko sau kaip tėvonijos dalį.'
+  santrauka: 'Jogaila Vitebsko žemę pasiliko sau kaip tėvonijos dalį, nors Algirdas ją buvo prijungęs prie Lietuvos valstybės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl ėmė tartis su rusų didikais, kokiu būdu galima
@@ -185,7 +197,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - t-006
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad jis, Ivanas, nieku būdu negalįs ramiai žiūrėti, kaip jam daroma skriau dos, negalįs nepaisyti rusų maldavimų, todėl ateityje pasirūpinsiąs ginklu atremti bet kokį smurtą, kurio bus griebiamasi prieš asmenis ir tėvonijas, jo paimtas į globą.'
+  santrauka: 'Ivanas skelbė ginklu ginsiąs globon paimtus asmenis ir tėvonijas nuo smurto.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Juk jis įsakęs Vilniaus vys­
@@ -214,3 +226,46 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   statusas: verified
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Chodkevičiai]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
+- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Teodoras]]
+- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
+- [[objektai/grupes/Valstybės Taryba]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Vyšnioveckiai]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/vasalas]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Čartoriskiai]]
+- [[objektai/grupes/Bajorų seimas|Bajorų seimas (seimas)]]
+- [[objektai/ivykiai/Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki]]
+- [[objektai/asmenys/Gabrielius Bekešas]]
+- [[objektai/autoriai/J. Jaroszewicz]]
+- [[objektai/asmenys/Konstantinas Ostrogiškis]]
+- [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
+- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
+- [[objektai/posakiai/Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo tėvonijos paniekinti]]
+- [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]
+- [[objektai/grupes/Stepono Batoro vengrų kariuomenė]]
+- [[objektai/asmenys/Sventopelkas]]
+- [[objektai/ivykiai/Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos]]
+- [[objektai/paprociai/Valdų dovanojimas už riteriškus nuopelnus ir bajoriškos karinės tarnybos prievolė]]
+- [[objektai/ivykiai/Veklico pilies ir vienos pilaitės sugriovimas]]
+- [[objektai/zodynas/tėvonija tėvų palikimas]]
+- [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/asmenys/Ivanas]]
+- [[objektai/asmenys/Ivanas (Maskvos valdovas)]]
+- [[objektai/asmenys/Jurijus]]

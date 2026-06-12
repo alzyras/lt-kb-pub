@@ -19,17 +19,23 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
 
 ## Teiginiai
 
+<a id="claim-t-18808"></a>
 - t-001
+  global_id: t-18808
   teiginys: 'Andrių Štirlandą Mindaugas papirko, o per savo pasiuntinį popiežiui išdėstė Lietuvai naudingesnes sąlygas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-18809"></a>
 - t-002
+  global_id: t-18809
   teiginys: 'Andrius Štirlandas buvo Livonijos ordino magistras, kurį Mindaugas patraukė į savo pusę pasinaudojęs Livonijos vidaus prieštaravimais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183522"></a>
 - t-003
+  global_id: t-183522
   teiginys: 'Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popiežiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.'
   pagrindžia:
     - c-003

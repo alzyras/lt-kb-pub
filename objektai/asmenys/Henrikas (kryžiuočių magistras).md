@@ -14,34 +14,39 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Henrikas (kryžiuočių magistras)
 
 ## Santrauka
 
-Kojelavičius teigia, kad atrodė, jog kryžiuočiams šį 5 1274 m eta i Ž em a ičia i gina p r ū sus ir m u ša k r y ž iu o čius karą pavyks užbaigti tada, kai sutrauks iš karto visas jėgas ir neleis priešui kokiu nors būdu pasinaudoti sve tima pagalba. Kojelavičius teigia, kad įkurdinęs čia K ry žiu o č ia i p a sta to stiprią įgulą, magistras HenL ie tu v o je p ilį rikas su likusia kariuomene patraukė krašto niokoti. Kojelavičius teigia, kad kovos lauke krito tūkstan tis lietuvių, tačiau ir kryžiuočiai neteko (neskaičiuo jant paprastų karių) dvidešimt šešių kilmingųjų ordi no riterių bei paties vado — ordino magistro Henriko; kadangi abiejų šalių nuostoliai rodėsi vienodi, ligi vi durdienio.
+Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas priesaikos nesikišti į prūsų karą. Magistras Henrikas, įkurdinęs stiprią įgulą Gotesverderio pilyje prie Kauno, su likusia kariuomene niokojo kraštą. Mūšyje kryžiuočiai neteko ordino magistro Henriko ir dvidešimt šešių kilmingųjų ordino riterių.
 
 ## Teiginiai
 
+<a id="claim-t-186002"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad atrodė, jog kryžiuočiams šį 5 1274 m eta i Ž em a ičia i gina p r ū sus ir m u ša k r y ž iu o čius karą pavyks užbaigti tada, kai sutrauks iš karto visas jėgas ir neleis priešui kokiu nors būdu pasinaudoti sve tima pagalba.'
+  global_id: t-186002
+  teiginys: 'Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas priesaikos nesikišti į prūsų karą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186003"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad įkurdinęs čia K ry žiu o č ia i p a sta to stiprią įgulą, magistras HenL ie tu v o je p ilį rikas su likusia kariuomene patraukė krašto niokoti.'
+  global_id: t-186003
+  teiginys: 'Magistras Henrikas, įkurdinęs stiprią įgulą Gotesverderio pilyje prie Kauno, su likusia kariuomene niokojo kraštą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-186004"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad kovos lauke krito tūkstan tis lietuvių, tačiau ir kryžiuočiai neteko (neskaičiuo jant paprastų karių) dvidešimt šešių kilmingųjų ordi no riterių bei paties vado — ordino magistro Henriko; kadangi abiejų šalių nuostoliai rodėsi vienodi, ligi vi durdienio.'
+  global_id: t-186004
+  teiginys: 'Mūšyje kryžiuočiai neteko ordino magistro Henriko ir dvidešimt šešių kilmingųjų ordino riterių.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad atrodė, jog kryžiuočiams šį 5 1274 m eta i Ž em a ičia i gina p r ū sus ir m u ša k r y ž iu o čius karą pavyks užbaigti tada, kai sutrauks iš karto visas jėgas ir neleis priešui kokiu nors būdu pasinaudoti sve tima pagalba.'
+  santrauka: 'Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas priesaikos nesikišti į prūsų karą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atrodė, jog kryžiuočiams šį
@@ -75,7 +80,7 @@ Kojelavičius teigia, kad atrodė, jog kryžiuočiams šį 5 1274 m eta i Ž em 
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad įkurdinęs čia K ry žiu o č ia i p a sta to stiprią įgulą, magistras HenL ie tu v o je p ilį rikas su likusia kariuomene patraukė krašto niokoti.'
+  santrauka: 'Magistras Henrikas, įkurdinęs stiprią įgulą Gotesverderio pilyje prie Kauno, su likusia kariuomene niokojo kraštą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šią naują
@@ -99,7 +104,7 @@ Kojelavičius teigia, kad atrodė, jog kryžiuočiams šį 5 1274 m eta i Ž em 
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad kovos lauke krito tūkstan tis lietuvių, tačiau ir kryžiuočiai neteko (neskaičiuo jant paprastų karių) dvidešimt šešių kilmingųjų ordi no riterių bei paties vado — ordino magistro Henriko; kadangi abiejų šalių nuostoliai rodėsi vienodi, ligi vi durdienio.'
+  santrauka: 'Mūšyje kryžiuočiai neteko ordino magistro Henriko ir dvidešimt šešių kilmingųjų ordino riterių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Prasidėjo iš tie­
@@ -121,3 +126,12 @@ Kojelavičius teigia, kad atrodė, jog kryžiuočiams šį 5 1274 m eta i Ž em 
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]

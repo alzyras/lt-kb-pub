@@ -17,12 +17,16 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
 
 ## Teiginiai
 
+<a id="claim-t-67280"></a>
 - t-001
+  global_id: t-67280
   teiginys: 'Krokuvoje išleista brošiūra „Niekad, niekados“ griežtai atmetė lietuvių kvietimą bajorijai prisidėti prie tautinio darbo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67281"></a>
 - t-002
+  global_id: t-67281
   teiginys: 'Bajorija į raginimus prisidėti prie Lietuvos atgaivinimo darbo atsakė posakiu „Niekad, niekados“.'
   pagrindžia:
     - c-002

@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-89378"></a>
 - t-001
+  global_id: t-89378
   teiginys: 'Dusburgietis teigia, kad tvirtindama savo pozicijas prieš Kryžiuočių ordiną, Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos centru62.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89379"></a>
 - t-002
+  global_id: t-89379
   teiginys: 'Dusburgietis teigia, kad lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas, pasiekė Frankfurtą prie Oderio (III, 361).'
   pagrindžia:
     - c-001

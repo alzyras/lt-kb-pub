@@ -17,7 +17,9 @@ Prie Vievio jie net karo veiksmais sulaikė mūsų žygiavimą ir sudegino Vakos
 
 ## Teiginiai
 
+<a id="claim-t-02862"></a>
 - t-001
+  global_id: t-02862
   teiginys: 'Prie Vievio lenkai karo veiksmais sulaikė lietuvių kariuomenės žygiavimą ir sudegino Vakos tiltą.'
   pagrindžia:
     - c-001

@@ -25,17 +25,23 @@ Mikalojaus Daukšos „Postilės“ pratarmėje ši formulė tėvų žemę, papr
 
 ## Teiginiai
 
+<a id="claim-t-26647"></a>
 - t-001
+  global_id: t-26647
   teiginys: 'Mikalojus Daukša tėvų žemę, papročius ir kalbą vadino trimis tautai savais ir tarsi įgimtais dalykais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-26899"></a>
 - t-002
+  global_id: t-26899
   teiginys: 'Posakis „Kurgi, sakau, pasaulyje yra tauta...“ pateiktas 1599 m. Mikalojaus Daukšos „Postilės“ pratarmėje, raginant kurti raštiją lietuvių kalba.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67311"></a>
 - t-003
+  global_id: t-67311
   teiginys: 'Posakiu „Kurgi, sakau, pasaulyje yra tauta...“ Mikalojus Daukša pabrėžė tėvų žemę, papročius ir kalbą kaip savus tautos dalykus.'
   pagrindžia:
     - c-001

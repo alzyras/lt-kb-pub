@@ -17,7 +17,9 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
 
 ## Teiginiai
 
+<a id="claim-t-82104"></a>
 - t-001
+  global_id: t-82104
   teiginys: 'Fundacijos privilegija buvo parašyta lotynų kalba ant pergamento, didesnio nei uolektis ilgio ir pločio.'
   pagrindžia:
     - c-001

@@ -30,37 +30,51 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
 
 ## Teiginiai
 
+<a id="claim-t-85913"></a>
 - t-001
+  global_id: t-85913
   teiginys: 'XII amžiuje buvo geriau susipažinta su tolimesnėmis Baltijos jūros pakrantėmis.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-85914"></a>
 - t-002
+  global_id: t-85914
   teiginys: 'Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-85915"></a>
 - t-003
+  global_id: t-85915
   teiginys: 'Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-85916"></a>
 - t-004
+  global_id: t-85916
   teiginys: 'Vytauto užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85917"></a>
 - t-005
+  global_id: t-85917
   teiginys: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85918"></a>
 - t-006
+  global_id: t-85918
   teiginys: 'XIII amžiaus viduryje Lietuva valdė nedidelį, uostų stokojantį Baltijos pakrantės ruožą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-85919"></a>
 - t-007
+  global_id: t-85919
   teiginys: 'XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.'
   pagrindžia:
     - c-001

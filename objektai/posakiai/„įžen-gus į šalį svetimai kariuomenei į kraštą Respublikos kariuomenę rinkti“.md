@@ -17,7 +17,9 @@ Lietuvos didysis etmonas Mykolas Kazimieras Oginskis į jų reikalavimus pasiai�
 
 ## Teiginiai
 
+<a id="claim-t-41494"></a>
 - t-001
+  global_id: t-41494
   teiginys: 'Lietuvos didysis etmonas Mykolas Kazimieras Oginskis atsakė, kad įgyvendina seną etmonų teisę įžengus svetimai kariuomenei rinkti Respublikos kariuomenę.'
   pagrindžia:
     - c-001

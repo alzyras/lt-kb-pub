@@ -24,7 +24,9 @@ Dusburgietis teigia, kad petras iš Dusburgo akcentuoja, kad Prūsijoje kariauja
 
 ## Teiginiai
 
+<a id="claim-t-58938"></a>
 - t-001
+  global_id: t-58938
   teiginys: 'Dusburgietis teigia, kad petras iš Dusburgo akcentuoja, kad Prūsijoje kariaujama prieš „tikybos ir bažnyčios priešus“ (II, 7), todėl kryžiaus žygių dalyviai eina į karą prieš prūsus ir lietuvius keršyti „už nukryžiuotojo viešpaties kančias“ (III, 8, 71, 296), Prūsijoje kritusių.'
   pagrindžia:
     - c-001

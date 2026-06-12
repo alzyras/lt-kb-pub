@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Livonijos ir Lietuvos sąjungos bei globos sutartis
 
 ## Santrauka
 
-Kojelavičius teigia, kad seimo darbe dalyvavo ir ordino magistras Ketleris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus kunigaikščio Mikalojaus Radvilos paraginti, nusprendė, kad Livonija sudaranti su Lietuva sąjungą ir pereinanti į Žygimanto Augusto, Lietuvos didžiojo. Kojelavičius teigia, kad jeigu Livonijai pavyksią su sitarti su maskvėnais be lietuvių karinės ir piniginės pagalbos, o dėl savo pasiuntinių uolių pastangų, ji be jokio užmokesčio atgausianti ir pilis, ir žemes.
+Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Lietuvos didžiojo kunigaikščio Žygimanto Augusto globą. Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su maskvėnais susitars be lietuvių karinės ir piniginės pagalbos.
 
 ## Teiginiai
 
+<a id="claim-t-186299"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad seimo darbe dalyvavo ir ordino magistras Ketleris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus kunigaikščio Mikalojaus Radvilos paraginti, nusprendė, kad Livonija sudaranti su Lietuva sąjungą ir pereinanti į Žygimanto Augusto, Lietuvos didžiojo.'
+  global_id: t-186299
+  teiginys: 'Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Lietuvos didžiojo kunigaikščio Žygimanto Augusto globą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186300"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad jeigu Livonijai pavyksią su sitarti su maskvėnais be lietuvių karinės ir piniginės pagalbos, o dėl savo pasiuntinių uolių pastangų, ji be jokio užmokesčio atgausianti ir pilis, ir žemes.'
+  global_id: t-186300
+  teiginys: 'Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su maskvėnais susitars be lietuvių karinės ir piniginės pagalbos.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad seimo darbe dalyvavo ir ordino magistras Ketleris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus kunigaikščio Mikalojaus Radvilos paraginti, nusprendė, kad Livonija sudaranti su Lietuva sąjungą ir pereinanti į Žygimanto Augusto, Lietuvos didžiojo.'
+  santrauka: 'Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Lietuvos didžiojo kunigaikščio Žygimanto Augusto globą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Be to, išskyrė pinigų dvejų metų karo išlaidoms pa­
@@ -58,7 +61,7 @@ Kojelavičius teigia, kad seimo darbe dalyvavo ir ordino magistras Ketleris bei 
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad jeigu Livonijai pavyksią su sitarti su maskvėnais be lietuvių karinės ir piniginės pagalbos, o dėl savo pasiuntinių uolių pastangų, ji be jokio užmokesčio atgausianti ir pilis, ir žemes.'
+  santrauka: 'Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su maskvėnais susitars be lietuvių karinės ir piniginės pagalbos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jeigu Livonijai pavyksią su­

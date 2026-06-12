@@ -48,47 +48,65 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 
 ## Teiginiai
 
+<a id="claim-t-54979"></a>
 - t-001
+  global_id: t-54979
   teiginys: 'Karalaitė Ona (Ona Jogailaitė) testamente paskelbta viena iš valdų, dvarų ir kito turto paveldėtojų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54980"></a>
 - t-002
+  global_id: t-54980
   teiginys: 'Karalaitė Ona (Ona Jogailaitė) testamente apibūdinta kaip iki tol tebebuvusi neištekėjusi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54981"></a>
 - t-003
+  global_id: t-54981
   teiginys: 'Karalaitei Onai (Onai Jogailaitei) turėjo būti atiduotas kraitis ir tūkstantis raudonųjų vengriškų zlotų auksu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54982"></a>
 - t-004
+  global_id: t-54982
   teiginys: 'Karalaitei Onai (Onai Jogailaitei) buvo atskirai dovanojamas žiede įtvirtintas aštrus deimantas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-54983"></a>
 - t-005
+  global_id: t-54983
   teiginys: 'Karalaitei Onai (Onai Jogailaitei) buvo dovanojami karalienės Barboros apdarai, vežimai, virtuvės rykai ir manta.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-54984"></a>
 - t-006
+  global_id: t-54984
   teiginys: 'Karalaitė Ona (Ona Jogailaitė) buvo prašoma prisidėti prie valios vykdymo ir Šv. Onos bažnyčios užbaigimo.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-54985"></a>
 - t-007
+  global_id: t-54985
   teiginys: 'Jeigu Ona Jogailaitė po testatoriaus mirties būtų nuskriausta, jai turėjo atitekti visas jo kilnojamasis ir nekilnojamasis turtas.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-54986"></a>
 - t-008
+  global_id: t-54986
   teiginys: 'Karalaitei Onai (Onai Jogailaitei) palikta spręsti dėl Šv. Onos bažnyčios užbaigimo ir laiškų sudeginimo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-82639"></a>
 - t-009
+  global_id: t-82639
   teiginys: 'Karalaitė Ona Jogailaitė Lenkijoje turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis.'
   pagrindžia:
     - c-007

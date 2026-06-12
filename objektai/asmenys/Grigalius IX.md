@@ -29,12 +29,16 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
 
 ## Teiginiai
 
+<a id="claim-t-79023"></a>
 - t-001
+  global_id: t-79023
   teiginys: 'Po tokio liūdno įvykio gyvi išlikę Kristaus karių brolijos broliai kartu su Rygos, Dorpato ir Ezelio vyskupais maldaujamuose laiškuose popiežiui Grigaliui rx kartojo prašymą teikti jiems vilties, kad, susijungę į vieną ordą [su kryžiuočiais], jie pergalinga.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184074"></a>
 - t-002
+  global_id: t-184074
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į kovų Kai Romos kurija išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX.'
   pagrindžia:
     - c-002

@@ -16,7 +16,9 @@ Londone 1935) sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine s
 
 ## Teiginiai
 
+<a id="claim-t-21984"></a>
 - t-001
+  global_id: t-21984
   teiginys: 'Tony Žemaitis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.'
   pagrindžia:
     - c-001

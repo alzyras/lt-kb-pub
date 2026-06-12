@@ -24,7 +24,9 @@ Jakštas „Ryto” Nr. 25, 1930 m. rašo:...
 
 ## Teiginiai
 
+<a id="claim-t-96046"></a>
 - t-001
+  global_id: t-96046
   teiginys: 'A. Jakštas 1930 m. „Ryto“ 25-ajame numeryje palankiai įvertino švedų autorės knygelę apie Vytautą.'
   pagrindžia:
     - c-001

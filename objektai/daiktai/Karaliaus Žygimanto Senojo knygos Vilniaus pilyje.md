@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87079"></a>
 - t-001
+  global_id: t-87079
   teiginys: '97, ten yra iš Lietuvos Metrikos paimtas karaliaus knygų sąrašas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87080"></a>
 - t-002
+  global_id: t-87080
   teiginys: 'Savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje25.'
   pagrindžia:
     - c-001

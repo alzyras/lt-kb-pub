@@ -23,12 +23,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86087"></a>
 - t-001
+  global_id: t-86087
   teiginys: 'Tas kalnas užslinko ant Manvydo rūmo (namo) ir daug nuostolių pridarė, jo pataurininkis ir rykūnės (ozzerfie Mergel oberste Magd) buvo užpilti; dar nuošliaužos užvertė visas jo brangenybes.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86088"></a>
 - t-002
+  global_id: t-86088
   teiginys: 'Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus.'
   pagrindžia:
     - c-001

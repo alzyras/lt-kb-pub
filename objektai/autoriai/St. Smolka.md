@@ -24,17 +24,23 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p. Smo
 
 ## Teiginiai
 
+<a id="claim-t-54136"></a>
 - t-001
+  global_id: t-54136
   teiginys: 'St. Smolka 1889 m. paskelbė veikalą „Kiejstut i Jagiełło“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54137"></a>
 - t-002
+  global_id: t-54137
   teiginys: 'St. Smolka 1889 m. Krokuvoje paskelbė darbą „Kiejstut i Jagiełło“ „Pamiętnik AU“ 7 tome.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54138"></a>
 - t-003
+  global_id: t-54138
   teiginys: 'St. Smolka 1889 m. Krokuvoje paskelbė darbą „Kiejstut i Jagiełło“.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-32732"></a>
 - t-001
+  global_id: t-32732
   teiginys: 'Lietuva Žemaičiuose apėmė į vakarus nuo Nevėžio buvusį Šušvės baseiną.'
   pagrindžia:
     - c-001

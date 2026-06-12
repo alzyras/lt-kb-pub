@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-80612"></a>
 - t-001
+  global_id: t-80612
   teiginys: '1948 m. spalio 8 d. tapo Tauro apygardos, vienijusios Suvalkijos regiono antisovietino pasipriešinimo dalyvius, vadu.'
   pagrindžia:
     - c-001

@@ -25,12 +25,16 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 
 ## Teiginiai
 
+<a id="claim-t-65156"></a>
 - t-001
+  global_id: t-65156
   teiginys: 'Dusburgietis teigia, kad apie Galindos žemės nuniokojimą Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65157"></a>
 - t-002
+  global_id: t-65157
   teiginys: 'Galindų žemė driekėsi į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.'
   pagrindžia:
     - c-002

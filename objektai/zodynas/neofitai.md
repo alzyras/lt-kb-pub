@@ -27,12 +27,16 @@ Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiė
 
 ## Teiginiai
 
+<a id="claim-t-113657"></a>
 - t-001
+  global_id: t-113657
   teiginys: 'Lietuvoje žmonės buvo neofitai daugiau iš reikalo negu iš įsitikinimo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-113658"></a>
 - t-002
+  global_id: t-113658
   teiginys: '1469 m. į Vilnių buvo pakviestas bernardinų ordinas, kad neofitai įsitvirtintų krikščionių tikėjime.'
   pagrindžia:
     - c-001

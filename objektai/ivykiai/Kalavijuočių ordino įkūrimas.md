@@ -35,22 +35,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66584"></a>
 - t-001
+  global_id: t-66584
   teiginys: 'Vyskupas Albertas 1202 m. įkūrė ordiną, kurį 1204 m. popiežius patvirtino ir kuriam suteikė templininkų įstatus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66585"></a>
 - t-002
+  global_id: t-66585
   teiginys: 'Kalavijuočių ordinas turėjo tapti nuolatine organizuota vokiečių ir krikštytų čiabuvių karine pajėga.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66586"></a>
 - t-003
+  global_id: t-66586
   teiginys: 'Vos įsikūręs Kalavijuočių ordinas pradėjo vaduotis iš vyskupo priklausomybės ir gavo trečdalį užimto krašto.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66587"></a>
 - t-004
+  global_id: t-66587
   teiginys: 'Kalavijuočių ordino įkūrimas: jo pareiga buvo ginti krikščionys ir padėti atversti pagonys. Jis buvo pavestas vyskupui, kurs turėjo valdyti kraštą; ordinas turėjo būti tiktai jo įrankis.'
   pagrindžia:
     - c-001

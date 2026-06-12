@@ -34,17 +34,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75294"></a>
 - t-001
+  global_id: t-75294
   teiginys: 'Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75295"></a>
 - t-002
+  global_id: t-75295
   teiginys: 'Naciams Vilniaus kraštą priskyrus Lietuvos generalinei sričiai ir lietuvių administracijai, lietuvių ir lenkų santykiai susiklostė komplikuotai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183281"></a>
 - t-003
+  global_id: t-183281
   teiginys: 'Komplikuotai susiklostė lietuvių ir lenkų santykiai Vilniaus krašte, kurį naciai padarė Lietuvos generalinės srities dalimi ir priskyrė lietuvių administracijai.'
   pagrindžia:
     - c-003

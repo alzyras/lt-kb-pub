@@ -16,7 +16,9 @@ Taip pat dešimtinė nuo visų garbin­ gojo Stanislovo Skopo gėrybių, kurias 
 
 ## Teiginiai
 
+<a id="claim-t-87581"></a>
 - t-001
+  global_id: t-87581
   teiginys: 'Stanislovas Skopas Pabaisko parapijoje turėjo gėrybių, nuo kurių anksčiau buvo mokama dešimtinė.'
   pagrindžia:
     - c-001

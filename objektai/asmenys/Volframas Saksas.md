@@ -18,12 +18,16 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
 
 ## Teiginiai
 
+<a id="claim-t-60222"></a>
 - t-001
+  global_id: t-60222
   teiginys: 'Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas jam šios laimės, ėmė regzti visokiausių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60223"></a>
 - t-002
+  global_id: t-60223
   teiginys: 'Brolis Volframas Saksas metus priešinosi velnio pagundoms, kol šis nuo jo atstojo.'
   pagrindžia:
     - c-002

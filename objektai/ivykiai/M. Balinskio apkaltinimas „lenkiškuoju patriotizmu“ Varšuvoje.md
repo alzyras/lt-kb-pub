@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86920"></a>
 - t-001
+  global_id: t-86920
   teiginys: '1838 m. Varšuvoje valdžios apkaltintas „lenkiškuoju patriotizmu“, M. Balinskis nutylėjo apie savo dalyvavimą 1831 m. sukilime.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86921"></a>
 - t-002
+  global_id: t-86921
   teiginys: '1838 m. M. Balinskis rusų valdžiai Varšuvoje aiškino, kad jo „Vilniaus miesto istorijos“ tikslas buvo Lietuva ir jos senoji sostinė, o ne Lenkija.'
   pagrindžia:
     - c-001

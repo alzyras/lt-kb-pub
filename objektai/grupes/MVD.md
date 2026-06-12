@@ -25,12 +25,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41082"></a>
 - t-001
+  global_id: t-41082
   teiginys: '1946 m. buvo visiškai sunaikinta Daugų MVD įgula.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41083"></a>
 - t-002
+  global_id: t-41083
   teiginys: 'Troškūnų ir Kauno MVD bei MGB įstaigose kai kurie pareigūnai buvo užverbuoti partizanų informatoriais.'
   pagrindžia:
     - c-002

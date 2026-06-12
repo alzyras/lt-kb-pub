@@ -29,82 +29,114 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 
 ## Teiginiai
 
+<a id="claim-t-175431"></a>
 - t-001
+  global_id: t-175431
   teiginys: 'Dusburgietis teigia, kad tuo tarpu stalininkas Druzigeris, su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo žemėje ir Lenkijoje kilo toks baisus krikščionių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-175432"></a>
 - t-002
+  global_id: t-175432
   teiginys: 'Torunę 1235 m. pastatė kryžiuočiai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-175433"></a>
 - t-003
+  global_id: t-175433
   teiginys: 'Torunės seime dėl ginčų su Gdansku ir kitų nesutarimų nebuvo numatyta nustatyti jokių rinkliavų.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-175435"></a>
 - t-004
+  global_id: t-175435
   teiginys: 'Stepono Batoro dokumentas buvo duotas Torunėje 1576 m. gruodžio 20 d.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-175436"></a>
 - t-005
+  global_id: t-175436
   teiginys: 'Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai stojo ginti kryžiuočių dėl Gedimino skundo popiežiui.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-175437"></a>
 - t-006
+  global_id: t-175437
   teiginys: '1236 m. Torunės miestas buvo perkeltas į dabartinės Torunės vietą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-175438"></a>
 - t-007
+  global_id: t-175438
   teiginys: 'Torunę 1235 m. pastatė kryžiuočiai, Teutonų ordinui gausinant miestus ir pilis Baltijos pakrantėse.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-175440"></a>
 - t-008
+  global_id: t-175440
   teiginys: 'Duota Torunėje, Viešpaties metais 1576, gruodžio 20 dieną.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-175441"></a>
 - t-009
+  global_id: t-175441
   teiginys: 'Dusburgietis teigia, kad torunės magistrato bibliotekos nuorašas (XVII a.) padarytas iš Karaliaučiaus bibliotekos teksto.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-175442"></a>
 - t-010
+  global_id: t-175442
   teiginys: 'Ordino magistras persikėlė į Kulmo žemę ir pastatė Torunės pilį, po to prasidėjo sisteminga agresija prieš prūsus.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-175443"></a>
 - t-011
+  global_id: t-175443
   teiginys: 'Dusburgietis teigia, kad kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė traukti su kariuomene į šią vietą.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-175444"></a>
 - t-012
+  global_id: t-175444
   teiginys: 'Dusburgietis teigia, kad todėl jis paragino vieną kilmingą Krokuvos vyrą290 stoti į vienuolyną, ir šis pasiuntė į Torunės pilį tris didelius laivus, pakrautus vyno, midaus, arba medaus vyno, bei kitko, kas reikalinga gyvenimui, be to, 300 jaučių bei karvių ir daug kinkomų gyvulių.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-175445"></a>
 - t-013
+  global_id: t-175445
   teiginys: 'Torunės gvardijonas kartu su kitais dvasininkais laiškuose popiežiui gynė kryžiuočius nuo Gedimino skundo.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-175446"></a>
 - t-014
+  global_id: t-175446
   teiginys: 'Dusburgietis teigia, kad sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės, apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias kryžiuočių pilis Varmės žemėje, Rudino miesto užkariavimus ir kt.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-175448"></a>
 - t-015
+  global_id: t-175448
   teiginys: 'Dusburgietis teigia, kad po to priėjo Torunę ir sudegino ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-175449"></a>
 - t-016
+  global_id: t-175449
   teiginys: 'Dabartinės Torunės pilies vietoje 1000–500 m. pr. m. e. buvo lužitėnų kultūros gyvenvietė.'
   pagrindžia:
     - c-003

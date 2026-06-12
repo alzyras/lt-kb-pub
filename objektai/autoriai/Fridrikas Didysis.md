@@ -17,7 +17,9 @@ Taip antai, Fridrikas Didysis savo dvare laikė Volterą, pats rašė poezijos i
 
 ## Teiginiai
 
+<a id="claim-t-01038"></a>
 - t-001
+  global_id: t-01038
   teiginys: 'Fridrikas Didysis savo dvare laikė Volterą, rašė poeziją ir mokslo veikalus.'
   pagrindžia:
     - c-001

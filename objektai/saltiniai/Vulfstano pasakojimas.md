@@ -19,12 +19,16 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
 
 ## Teiginiai
 
+<a id="claim-t-61016"></a>
 - t-001
+  global_id: t-61016
   teiginys: 'Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Truso.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-61017"></a>
 - t-002
+  global_id: t-61017
   teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Daug kartų Elbingo broliai garbingai kariavo su pagudėnais, o tų karų niekas nestengtų 241 Kalbama apie Aismares (Vulfstano Estmere — SRP, I, p. 733).'
   pagrindžia:
     - c-002

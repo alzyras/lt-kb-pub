@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20512"></a>
 - t-001
+  global_id: t-20512
   teiginys: '1935 m. Suvalkijos valstiečiai paskelbė streiką, draudė pristatyti pieną į Kauną, o Veiveriuose policija nušovė tris valstiečius.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 
 ## Teiginiai
 
+<a id="claim-t-173443"></a>
 - t-001
+  global_id: t-173443
   teiginys: 'Greifsvaldas minimas tarp Hanzos miestų, kuriems 1323 m. gegužės 26 d. buvo pasiųsti laiškai.'
   pagrindžia:
     - c-001

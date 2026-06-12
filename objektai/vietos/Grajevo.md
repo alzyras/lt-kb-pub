@@ -19,7 +19,9 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
 
 ## Teiginiai
 
+<a id="claim-t-36248"></a>
 - t-001
+  global_id: t-36248
   teiginys: 'Sienos buvo pravestos per Grajevo ir Ragordo ežerus, Vištyčio ežerą, Leipūnos ir Širvintos upes iki Šešupės.'
   pagrindžia:
     - c-001

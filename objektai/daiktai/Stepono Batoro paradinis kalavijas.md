@@ -47,7 +47,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-09926"></a>
 - t-001
+  global_id: t-09926
   teiginys: 'Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.'
   pagrindžia:
     - c-001

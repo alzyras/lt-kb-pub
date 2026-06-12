@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Saugaus laidavimo priesaika taikos deryboms tarp karo stovyklų
 
 ## Santrauka
 
-Kojelavičius teigia, kad ilgai tarėsi kunigaikščiai Vytautas bei Jo gaila dėl taikos sąlygų, tuo tarpu abi ginkluotos ka riuomenės stovėjo pasirengusios kovai; kadangi nieko tikro negalėjo sutarti be Kęstučio, nusprendė ir jį pa kviesti.
+Jogaila prisiekė laikytis žodžio, o Skirgaila pasižadėjo rūpintis Kęstučio saugumu, kai Kęstutis buvo kviečiamas į Jogailos stovyklą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185888"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad ilgai tarėsi kunigaikščiai Vytautas bei Jo gaila dėl taikos sąlygų, tuo tarpu abi ginkluotos ka riuomenės stovėjo pasirengusios kovai; kadangi nieko tikro negalėjo sutarti be Kęstučio, nusprendė ir jį pa kviesti.'
+  global_id: t-185888
+  teiginys: 'Jogaila prisiekė laikytis žodžio, o Skirgaila pasižadėjo rūpintis Kęstučio saugumu, kai Kęstutis buvo kviečiamas į Jogailos stovyklą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad ilgai tarėsi kunigaikščiai Vytautas bei Jo gaila dėl taikos sąlygų, tuo tarpu abi ginkluotos ka riuomenės stovėjo pasirengusios kovai; kadangi nieko tikro negalėjo sutarti be Kęstučio, nusprendė ir jį pa kviesti.'
+  santrauka: 'Jogaila prisiekė laikytis žodžio, o Skirgaila pasižadėjo rūpintis Kęstučio saugumu, kai Kęstutis buvo kviečiamas į Jogailos stovyklą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ilgai tarėsi kunigaikščiai Vytautas bei Jo­
@@ -68,3 +69,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

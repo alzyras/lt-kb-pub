@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-80697"></a>
 - t-001
+  global_id: t-80697
   teiginys: '220, Sovietų pistoletas TT (TT 33), VDKM, Artūro Užgalio nuotr.'
   pagrindžia:
     - c-001

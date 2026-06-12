@@ -22,7 +22,9 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu. 
 
 ## Teiginiai
 
+<a id="claim-t-54152"></a>
 - t-001
+  global_id: t-54152
   teiginys: 'Pakeliui į suvažiavimą susitiko Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai.'
   pagrindžia:
     - c-001

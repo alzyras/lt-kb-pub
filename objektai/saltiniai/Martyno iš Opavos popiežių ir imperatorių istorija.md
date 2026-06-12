@@ -31,47 +31,65 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
 
 ## Teiginiai
 
+<a id="claim-t-60879"></a>
 - t-001
+  global_id: t-60879
   teiginys: 'Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje, po to Romoje, popiežiaus kurijoje, 1278 m. buvo paskirtas Gnezno arkivyskupu (todėl „Polonus“), bet mirė ten nenuvykęs.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-60880"></a>
 - t-002
+  global_id: t-60880
   teiginys: 'Dusburgietis teigia, kad apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą 1317 viešpaties metais Jonas, popiežius, kanonizavo šventą Liudviką, Sicilijos karaliaus Roberto brolį iš mažesniųjų brolių ordino, ir liepė švęsti jo gimimą penktą dieną po žolinės (Mart.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-60881"></a>
 - t-003
+  global_id: t-60881
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga 1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą akmenyje ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai ir lotyniškai. Rašte tiek buvo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60882"></a>
 - t-004
+  global_id: t-60882
   teiginys: 'Dusburgietis teigia, kad apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60883"></a>
 - t-005
+  global_id: t-60883
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip Burgundijoje dėl žemės drebėjimo kalnas nuslinko į kitą vietą 1225 viešpaties metais Burgundijoje, Druskos kalnuose, vienas kalnas dėl žemės drebėjimo atsiskyrė nuo kitų kalnų ir nuslinko prie kalnų kitoje pusėje, užvertė visą slėnį ir nuslėgė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60884"></a>
 - t-006
+  global_id: t-60884
   teiginys: 'Dusburgietis teigia, kad brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus III (Ptol.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-60885"></a>
 - t-007
+  global_id: t-60885
   teiginys: 'Dusburgietis teigia, kad apie Inocentą III, popiežių, ir Otoną IV bei Fridrichą II, imperatorius Po to viešpatavo Inocentas III, popiežius, ir Otonas IV bei Fridrichas II, imperatoriai (Ptol.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-60886"></a>
 - t-008
+  global_id: t-60886
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena ir.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-60887"></a>
 - t-009
+  global_id: t-60887
   teiginys: 'Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus.'
   pagrindžia:
     - c-005

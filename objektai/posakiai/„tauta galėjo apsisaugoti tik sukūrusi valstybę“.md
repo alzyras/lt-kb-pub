@@ -19,7 +19,9 @@ Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų k
 
 ## Teiginiai
 
+<a id="claim-t-20949"></a>
 - t-001
+  global_id: t-20949
   teiginys: 'Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.'
   pagrindžia:
     - c-001

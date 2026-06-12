@@ -41,27 +41,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-41295"></a>
 - t-001
+  global_id: t-41295
   teiginys: 'Naujosiose Kėdainių kapinėse buvo palaidoti ir 40 žuvusių lietuvių karių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-41296"></a>
 - t-002
+  global_id: t-41296
   teiginys: 'Kėdainių gynyba buvo pirmasis Kėdainių įgulos savanorių kovos krikštas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-41297"></a>
 - t-003
+  global_id: t-41297
   teiginys: 'Kėdainių gynyboje J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių išskleidė abipus vieškelio Kėdainiai-Šėta ir sustabdė bolševikų puolimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41298"></a>
 - t-004
+  global_id: t-41298
   teiginys: 'Kėdainių-Šėtos kautynėse prie Taučiūnų kaimo Lukšio padrąsinti lietuviai išsiskleidė į grandį ir atidengė atsakomąją ugnį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-41299"></a>
 - t-005
+  global_id: t-41299
   teiginys: 'Naktį iš vasario 7 į 8 d. Kėdainių gynėjų vadovybė gavo žvalgų pranešimą apie tai, kad bolševikų pajėgos palieka pozicijas ir traukiasi nuo Kėdainių.'
   pagrindžia:
     - c-002

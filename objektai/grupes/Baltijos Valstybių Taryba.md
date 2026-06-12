@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19657"></a>
 - t-001
+  global_id: t-19657
   teiginys: 'Įkūrus Baltijos Valstybių Tarybą, jos posėdžiuose rengta bendra užsienio politikos pozicija.'
   pagrindžia:
     - c-001

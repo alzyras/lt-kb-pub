@@ -26,7 +26,9 @@ Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, lenk�
 
 ## Teiginiai
 
+<a id="claim-t-26490"></a>
 - t-001
+  global_id: t-26490
   teiginys: '1615 m. vienas Radvilų laiške teigė, kad Lietuvoje reikia vartoti lenkų kalbą.'
   pagrindžia:
     - c-001

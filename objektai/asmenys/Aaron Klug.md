@@ -17,7 +17,9 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
 
 ## Teiginiai
 
+<a id="claim-t-18753"></a>
 - t-001
+  global_id: t-18753
   teiginys: 'Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.'
   pagrindžia:
     - c-001

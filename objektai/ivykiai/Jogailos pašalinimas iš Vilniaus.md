@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66567"></a>
 - t-001
+  global_id: t-66567
   teiginys: 'Vytautui užtarus Jogailą, Kęstutis jį paleido ir davė valdyti Vitebską.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66568"></a>
 - t-002
+  global_id: t-66568
   teiginys: 'Kęstutis, radęs Jogailos sutarties su Ordinu raštą, paskelbė atimąs iš Jogailos sostą.'
   pagrindžia:
     - c-002

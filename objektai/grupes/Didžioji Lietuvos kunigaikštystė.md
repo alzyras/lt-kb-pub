@@ -20,17 +20,23 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-96093"></a>
 - t-001
+  global_id: t-96093
   teiginys: 'Lietuviams reikalaujant, Lietuvai buvo paliktas nepaliestas visas valdžios aparatas (.. 10 ir 17).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-96094"></a>
 - t-002
+  global_id: t-96094
   teiginys: 'Didžioji Lietuvos kunigaikštija ilgiau nebegalėjo būti pagonio valdoma.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-96096"></a>
 - t-004
+  global_id: t-96096
   teiginys: 'Liublino unijos akto trečiasis paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkijos Karalystė sudaro vieną bendrą valstybę.'
   pagrindžia:
     - c-005

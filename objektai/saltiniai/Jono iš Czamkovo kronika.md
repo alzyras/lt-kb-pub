@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-100175"></a>
 - t-001
+  global_id: t-100175
   teiginys: '47-49, 53, 56, 58-62, 67, 112, 128, 198, 208, 231, 279, 294, 309, 371 Jono iš Czamkovo kronika 267, 268 Jonušas, Mozūrijos kng.'
   pagrindžia:
     - c-001

@@ -22,7 +22,9 @@ O Vokiečiai apsiėmė tik su krikščioniškomis Trakų kunigaikštijos žemėm
 
 ## Teiginiai
 
+<a id="claim-t-83205"></a>
 - t-001
+  global_id: t-83205
   teiginys: 'Bielskas - paskutinėmis lapkričio dienomis....................................1495 m.'
   pagrindžia:
     - c-001

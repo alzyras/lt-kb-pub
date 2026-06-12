@@ -16,12 +16,16 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
 
 ## Teiginiai
 
+<a id="claim-t-28563"></a>
 - t-001
+  global_id: t-28563
   teiginys: 'Mindaugo sostapilio ieškota keliose Žemaičių vietose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184358"></a>
 - t-002
+  global_id: t-184358
   teiginys: 'Jo «sostapilio» jieškota net keliose Žemaičių vietose.'
   pagrindžia:
     - c-002

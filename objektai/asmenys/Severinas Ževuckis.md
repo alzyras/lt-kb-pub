@@ -17,7 +17,9 @@ Prieš priemiesčius stovėjo 2-asis regimentas, vadovaujamas Karolio Moravskio 
 
 ## Teiginiai
 
+<a id="claim-t-40418"></a>
 - t-001
+  global_id: t-40418
   teiginys: 'Severinas Ževuckis vadovavo 8-ajam regimentui, stovėjusiam prieš priemiesčius.'
   pagrindžia:
     - c-001

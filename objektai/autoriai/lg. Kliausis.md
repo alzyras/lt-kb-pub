@@ -16,7 +16,9 @@ Kliausis, lg.
 
 ## Teiginiai
 
+<a id="claim-t-31093"></a>
 - t-001
+  global_id: t-31093
   teiginys: 'Ig. Kliausis 1929 m. Grace parengė disertaciją apie bažnyčios politiką Lietuvoje Jogailos ir Vytauto laikais.'
   pagrindžia:
     - c-001

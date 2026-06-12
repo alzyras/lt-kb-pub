@@ -14,24 +14,25 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Stanislovas Daugirdas (kunigaikštis, XVI a.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad 1509 metai Glinskio šalininkų teismas pasirūpinti, kad Vasilijus išleistų lietuvių belaisvius, kurių vardus Stanislovas Daugirdas be galo stropiai buvo surinkęs iš visos Maskvos kunigaikštystės.
+Stanislovas Daugirdas stropiai surinko lietuvių belaisvių vardus iš visos Maskvos kunigaikštystės.
 
 ## Teiginiai
 
+<a id="claim-t-186253"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad 1509 metai Glinskio šalininkų teismas pasirūpinti, kad Vasilijus išleistų lietuvių belaisvius, kurių vardus Stanislovas Daugirdas be galo stropiai buvo surinkęs iš visos Maskvos kunigaikštystės.'
+  global_id: t-186253
+  teiginys: 'Stanislovas Daugirdas stropiai surinko lietuvių belaisvių vardus iš visos Maskvos kunigaikštystės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad 1509 metai Glinskio šalininkų teismas pasirūpinti, kad Vasilijus išleistų lietuvių belaisvius, kurių vardus Stanislovas Daugirdas be galo stropiai buvo surinkęs iš visos Maskvos kunigaikštystės.'
+  santrauka: 'Stanislovas Daugirdas stropiai surinko lietuvių belaisvių vardus iš visos Maskvos kunigaikštystės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius įpareigojo
@@ -58,3 +59,7 @@ Kojelavičius teigia, kad 1509 metai Glinskio šalininkų teismas pasirūpinti, 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

@@ -26,7 +26,9 @@ Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos seimas, tačiau j
 
 ## Teiginiai
 
+<a id="claim-t-01408"></a>
 - t-001
+  global_id: t-01408
   teiginys: 'Prieš bendrąjį unijos seimą sušauktame Lietuvos seime unijos klausimas nepasistūmėjo.'
   pagrindžia:
     - c-001

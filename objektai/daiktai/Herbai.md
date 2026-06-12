@@ -44,57 +44,80 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-12289"></a>
 - t-001
+  global_id: t-12289
   teiginys: 'Horodlės unijos punktu 47 lietuviams bajorams buvo suteikti 47 lenkų bajorų herbai.'
   pagrindžia:
     - c-001
+    - c-003
 
+<a id="claim-t-12290"></a>
 - t-002
+  global_id: t-12290
   teiginys: 'Turintieji tą patį herbą buvo laikomi giminėmis, jiems leistos abipusės vedybos, o tai suartino abiejų valstybių aukštąjį luomą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-12291"></a>
 - t-003
+  global_id: t-12291
   teiginys: 'Vytauto laikais Lietuvos bajorija gavo herbus ir per juos įgijo luomo savygarbos.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-12292"></a>
 - t-004
+  global_id: t-12292
   teiginys: '1413 m. privilegija teises suteikė tik katalikams, kurie turėjo herbus arba clenodia.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-92960"></a>
 - t-005
+  global_id: t-92960
   teiginys: 'Lietuvos istorikai teigė, kad lenkai herbus pasisavino iš čekų, o šie juos perėmė iš romėnų.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-92961"></a>
 - t-006
+  global_id: t-92961
   teiginys: 'Horodlės unijoje 47 pirmaeilinės Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-92962"></a>
 - t-007
+  global_id: t-92962
   teiginys: 'Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki), o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų LDK herbas Vytis iš.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-92963"></a>
 - t-008
+  global_id: t-92963
   teiginys: 'Gedimino stulpai ir Jogailos kryžius iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-92964"></a>
 - t-009
+  global_id: t-92964
   teiginys: 'LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-92965"></a>
 - t-010
-  teiginys: 'Lenkai tada didžiuodamiesi pabrėždavo, kad jie atnešę Lietuvai vakarų Europos kultūrą, o bajorijai davę savo herbus.'
+  global_id: t-92965
+  teiginys: 'Lenkai didžiuodamiesi pabrėždavo, kad Lietuvos bajorijai davė savo herbus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-92966"></a>
 - t-011
+  global_id: t-92966
   teiginys: 'Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius - herbus ir palengva virto atskiru luomu.'
   pagrindžia:
     - c-009
@@ -181,6 +204,7 @@ Nenurodyta
     - t-005
 
 - c-006
+  santrauka: 'Lenkai didžiuodamiesi pabrėždavo, kad Lietuvos bajorijai davė savo herbus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo pat metu daugelis lietuvių

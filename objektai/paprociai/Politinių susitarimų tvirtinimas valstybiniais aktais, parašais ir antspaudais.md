@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Politinių susitarimų tvirtinimas valstybiniais aktais, parašais ir antspaudais
 
 ## Santrauka
 
-Kojelavičius teigia, kad priesaika patvirtinto susitarimo pag rindiniai teiginiai buvo šie: turi būti amžinai laikomasi senojo Lietuvos susitarimo su Lenkija, tai yra unijos; Žygimantas niekad nesistengs be karaliaus ir karalystės luomų žinios bei pritarimo gauti karaliaus titulo ir.
+Žygimanto priesaika patvirtinto susitarimo sąlygos buvo įtrauktos į valstybinius aktus ir patvirtintos parašais bei antspaudais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185882"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad priesaika patvirtinto susitarimo pag rindiniai teiginiai buvo šie: turi būti amžinai laikomasi senojo Lietuvos susitarimo su Lenkija, tai yra unijos; Žygimantas niekad nesistengs be karaliaus ir karalystės luomų žinios bei pritarimo gauti karaliaus titulo ir.'
+  global_id: t-185882
+  teiginys: 'Žygimanto priesaika patvirtinto susitarimo sąlygos buvo įtrauktos į valstybinius aktus ir patvirtintos parašais bei antspaudais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad priesaika patvirtinto susitarimo pag rindiniai teiginiai buvo šie: turi būti amžinai laikomasi senojo Lietuvos susitarimo su Lenkija, tai yra unijos; Žygimantas niekad nesistengs be karaliaus ir karalystės luomų žinios bei pritarimo gauti karaliaus titulo ir.'
+  santrauka: 'Žygimanto priesaika patvirtinto susitarimo sąlygos buvo įtrauktos į valstybinius aktus ir patvirtintos parašais bei antspaudais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo
@@ -67,3 +68,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/daiktai/Antspaudai]]

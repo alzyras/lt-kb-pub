@@ -22,7 +22,9 @@ Tapes partizanu, buvo paskirtas Tauro apygardos Geležinio Vilko rinktinės spau
 
 ## Teiginiai
 
+<a id="claim-t-80655"></a>
 - t-001
+  global_id: t-80655
   teiginys: 'Tapes partizanu, buvo paskirtas Tauro apygardos Geležinio Vilko rinktinės spaudos skyriaus viršininku, rezistencinių laikraščių „Laisvės žvalgas“ ir „Kovos keliu“ redaktoriumi.'
   pagrindžia:
     - c-001

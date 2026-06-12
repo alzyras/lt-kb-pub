@@ -17,12 +17,16 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 
 ## Teiginiai
 
+<a id="claim-t-20092"></a>
 - t-001
+  global_id: t-20092
   teiginys: 'Vyšnioveckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183201"></a>
 - t-002
+  global_id: t-183201
   teiginys: 'Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.'
   pagrindžia:
     - c-001

@@ -27,7 +27,9 @@ Jogaila, kad greičiau įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu
 
 ## Teiginiai
 
+<a id="claim-t-87848"></a>
 - t-001
+  global_id: t-87848
   teiginys: 'Rumbautas buvo lietuvių didikas, patekęs į nelaisvę paskutiniame kare Voluinėje ir Jogailos išlaisvintas bei atsiųstas Švitrigailai į Vilnių.'
   pagrindžia:
     - c-001

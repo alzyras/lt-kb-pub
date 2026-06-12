@@ -25,12 +25,16 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 
 ## Teiginiai
 
+<a id="claim-t-86057"></a>
 - t-001
+  global_id: t-86057
   teiginys: 'Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pirma Lucko, paskui, nuo 1536 m., Vilniaus vyskupas, mirė 1553 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86058"></a>
 - t-002
+  global_id: t-86058
   teiginys: 'Alšėnų kunigaikštis minimas tarp dokumento sudaryme dalyvavusių didikų ir dvasininkų.'
   pagrindžia:
     - c-002

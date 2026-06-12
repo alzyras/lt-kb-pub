@@ -17,7 +17,9 @@ Dusburgietis teigia, kad 664—708; Biržiška V.
 
 ## Teiginiai
 
+<a id="claim-t-60678"></a>
 - t-001
+  global_id: t-60678
   teiginys: 'V. Biržiška parašė darbą „Kryžiuočių keliai“.'
   pagrindžia:
     - c-001

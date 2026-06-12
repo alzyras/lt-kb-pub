@@ -23,7 +23,9 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
 
 ## Teiginiai
 
+<a id="claim-t-87637"></a>
 - t-001
+  global_id: t-87637
   teiginys: 'Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir 1257 m. suteiktas teutonų teises buvo skolinga Boleslovui Droviajam.'
   pagrindžia:
     - c-001

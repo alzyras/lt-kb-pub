@@ -22,7 +22,9 @@ GURSČIŲ KAUTYNĖS 1946 m. sausio 22 d. Ukmergės aps.
 
 ## Teiginiai
 
+<a id="claim-t-38470"></a>
 - t-001
+  global_id: t-38470
   teiginys: '1946 m. sausio 22 d. Gursčių kaimo apylinkėse apie 50 Plieno būrio partizanų kovėsi su NKVD kariuomene.'
   pagrindžia:
     - c-001

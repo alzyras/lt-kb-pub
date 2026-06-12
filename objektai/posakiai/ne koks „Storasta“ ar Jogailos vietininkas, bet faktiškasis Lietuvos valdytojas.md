@@ -17,7 +17,9 @@ Lietuva ir toliau buvo laikoma inkorporuota į Len­ kiją, bet faktiška padėt
 
 ## Teiginiai
 
+<a id="claim-t-36010"></a>
 - t-001
+  global_id: t-36010
   teiginys: 'Vytautui pradėjus valdyti, Lietuva faktiškai tapo autonomiška valstybe, o Vytautas buvo faktinis Lietuvos valdytojas.'
   pagrindžia:
     - c-001

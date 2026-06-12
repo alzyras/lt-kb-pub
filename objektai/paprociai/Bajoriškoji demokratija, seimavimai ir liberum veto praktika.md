@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77932"></a>
 - t-001
+  global_id: t-77932
   teiginys: 'Be to, prieš vykdami į bendrus seimus, Lietuvos atstovai surengdavo savo „seimavimus“ bendrai pozicijai aptarti.'
   pagrindžia:
     - c-001

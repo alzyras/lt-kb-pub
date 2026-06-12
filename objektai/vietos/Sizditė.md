@@ -23,12 +23,16 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 
 ## Teiginiai
 
+<a id="claim-t-58638"></a>
 - t-001
+  global_id: t-58638
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58639"></a>
 - t-002
+  global_id: t-58639
   teiginys: 'Dusburgietis teigia, kad galimas dalykas, iškreiptas Sizditės pilies vardas sietinas su Spasčių kalno (prie Girgždūtės) vardu, plg., be to, netolimo Sprūdės piliakalnio vardą—LAA, 2, p. 161, Nr. 717).'
   pagrindžia:
     - c-002

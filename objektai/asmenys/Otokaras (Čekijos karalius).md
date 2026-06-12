@@ -27,7 +27,9 @@ Privilegijos buvo duotos čekų karaliaus Otokaro 1254 met.
 
 ## Teiginiai
 
+<a id="claim-t-35259"></a>
 - t-001
+  global_id: t-35259
   teiginys: 'Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje.'
   pagrindžia:
     - c-001

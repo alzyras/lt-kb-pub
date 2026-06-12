@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40779"></a>
 - t-001
+  global_id: t-40779
   teiginys: 'S. A. Poniatovskis keliolika mūšio karininkų ir kareivių apdovanojo neseniai įsteigto Virtuti Militari ordino auksiniais ir sidabriniais medaliais.'
   pagrindžia:
     - c-001

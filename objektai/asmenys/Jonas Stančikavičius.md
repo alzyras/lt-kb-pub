@@ -17,7 +17,9 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
 
 ## Teiginiai
 
+<a id="claim-t-87733"></a>
 - t-001
+  global_id: t-87733
   teiginys: 'Jonas Stančikavičius buvo parapijoje gyvenęs bajoras, nuo seno privalėjęs mokėti dešimtinę bažnyčiai.'
   pagrindžia:
     - c-001

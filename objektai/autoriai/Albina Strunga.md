@@ -16,7 +16,9 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
 
 ## Teiginiai
 
+<a id="claim-t-19372"></a>
 - t-001
+  global_id: t-19372
   teiginys: 'Albina Strunga išvertė M. Jučo knygą „The Battle of Grünwald“, skirtą Žalgirio mūšio 600-osioms metinėms.'
   pagrindžia:
     - c-001

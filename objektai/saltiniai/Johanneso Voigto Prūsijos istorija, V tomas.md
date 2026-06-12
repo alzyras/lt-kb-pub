@@ -17,7 +17,9 @@ Dabartinis iš tiesų visiškai skiriasi nuo pirmesniojo, kurio klaidas stengėm
 
 ## Teiginiai
 
+<a id="claim-t-88312"></a>
 - t-001
+  global_id: t-88312
   teiginys: 'Balińskis pataisytą žygio į Vilnių aprašymą grindė Johanneso Voigto Prūsijos istorijos V tomu ir Ignaco Onacevičiaus pastabomis.'
   pagrindžia:
     - c-001

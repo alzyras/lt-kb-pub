@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-20068"></a>
 - t-001
+  global_id: t-20068
   teiginys: 'Abiejų Tautų Respublika išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architektūros mokyklą.'
   pagrindžia:
     - c-001

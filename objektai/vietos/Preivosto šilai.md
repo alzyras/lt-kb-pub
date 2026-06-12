@@ -19,7 +19,9 @@ Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, 
 
 ## Teiginiai
 
+<a id="claim-t-32475"></a>
 - t-001
+  global_id: t-32475
   teiginys: 'Siena per dykrą ėjo tiesiai į Preivosto šilus, o iš ten tiesia linija į Merūniškius ir Vystyčio ežerą.'
   pagrindžia:
     - c-001

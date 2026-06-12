@@ -25,17 +25,23 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
 
 ## Teiginiai
 
+<a id="claim-t-89601"></a>
 - t-001
+  global_id: t-89601
   teiginys: 'Dusburgietis teigia, kad šis pabėgo į kaimyninį Ziokos valsčių, paspruko vienui vienas, o visa jo namų šeimyna bei visi turtai buvo brolių išsklaidyti. Ilgainiui tas pats Noliubas, dažnų antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl savo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89602"></a>
 - t-002
+  global_id: t-89602
   teiginys: 'Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89603"></a>
 - t-003
+  global_id: t-89603
   teiginys: 'Po Vargulio įspėjimo Noliubas pabėgo į Ziokos valsčių, o vėliau, nukamuotas antpuolių, nulenkė galvą prieš tikėjimą.'
   pagrindžia:
     - c-002

@@ -27,7 +27,9 @@ Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikšči
 
 ## Teiginiai
 
+<a id="claim-t-40121"></a>
 - t-001
+  global_id: t-40121
   teiginys: '1249 m. Gedvydas neteko valdų, kai Mindaugas, stiprindamas centrinę valdžią, jas atėmė iš Vykinto, Tautvilo ir Gedvydo.'
   pagrindžia:
     - c-001

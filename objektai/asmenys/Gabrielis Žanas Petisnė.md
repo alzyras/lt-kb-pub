@@ -17,7 +17,9 @@ Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius, o ne pri
 
 ## Teiginiai
 
+<a id="claim-t-18896"></a>
 - t-001
+  global_id: t-18896
   teiginys: 'Gabrielis Žanas Petisnė vadovavo administracijai, prieš kurią lietuviai neigė nukreipę Klaipėdos sukilimą.'
   pagrindžia:
     - c-001

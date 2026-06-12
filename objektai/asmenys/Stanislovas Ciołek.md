@@ -18,7 +18,9 @@ Dėl jo energingos paramos Mozūrų kancleris Ziemovitas gavo Płocko vyskupo so
 
 ## Teiginiai
 
+<a id="claim-t-35286"></a>
 - t-001
+  global_id: t-35286
   teiginys: 'Stanislovas Ciołek turėjo būti dėkingas Vytautui už Poznanės vyskupo mitrą.'
   pagrindžia:
     - c-001

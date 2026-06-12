@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Mikalojus Firlėjus
 
 ## Santrauka
 
-Kojelavičius teigia, kad šis įsakė Firlėjui kuo skubiausiai patraukti su lenkų al gininkais į pagalbą puolamam Kiškai.
+Mikalojus Firlėjus uoliai vykdė karaliaus įsakymą padėti puolamam Kiškai, bet dėl sunkių kelių nespėjo laiku su juo susijungti.
 
 ## Teiginiai
 
+<a id="claim-t-186149"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad šis įsakė Firlėjui kuo skubiausiai patraukti su lenkų al gininkais į pagalbą puolamam Kiškai.'
+  global_id: t-186149
+  teiginys: 'Mikalojus Firlėjus uoliai vykdė karaliaus įsakymą padėti puolamam Kiškai, bet dėl sunkių kelių nespėjo laiku su juo susijungti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad šis įsakė Firlėjui kuo skubiausiai patraukti su lenkų al gininkais į pagalbą puolamam Kiškai.'
+  santrauka: 'Mikalojus Firlėjus uoliai vykdė karaliaus įsakymą padėti puolamam Kiškai, bet dėl sunkių kelių nespėjo laiku su juo susijungti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ostrogiškio ir Kiškos
@@ -46,3 +47,7 @@ Kojelavičius teigia, kad šis įsakė Firlėjui kuo skubiausiai patraukti su le
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]

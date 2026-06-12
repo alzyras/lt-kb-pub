@@ -27,7 +27,9 @@ Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziej
 
 ## Teiginiai
 
+<a id="claim-t-87665"></a>
 - t-001
+  global_id: t-87665
   teiginys: 'Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus, sutelkęs krašto visuomenę.'
   pagrindžia:
     - c-001

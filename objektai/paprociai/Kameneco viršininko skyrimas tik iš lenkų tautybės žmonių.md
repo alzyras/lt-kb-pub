@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Kameneco viršininko skyrimas tik iš lenkų tautybės žmonių
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai karalius rūpinosi Š vitrigaila išv e ja m a s taika šiame valstybės pa lenkę iš P o d o lės kraštyje, lenkai neramiu me tu pakėlė ginklą, išvijo iš visos Podolės Švitrigailos įgulas bei jų viršininkus.
+Lenkai paskelbė nutarimą, kad ateityje Kameneco viršininku turi būti skiriamas tik lenkų tautybės žmogus.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -36,15 +35,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185917"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai karalius rūpinosi Š vitrigaila išv e ja m a s taika šiame valstybės pa lenkę iš P o d o lės kraštyje, lenkai neramiu me tu pakėlė ginklą, išvijo iš visos Podolės Švitrigailos įgulas bei jų viršininkus.'
+  global_id: t-185917
+  teiginys: 'Lenkai paskelbė nutarimą, kad ateityje Kameneco viršininku turi būti skiriamas tik lenkų tautybės žmogus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai karalius rūpinosi Š vitrigaila išv e ja m a s taika šiame valstybės pa lenkę iš P o d o lės kraštyje, lenkai neramiu me tu pakėlė ginklą, išvijo iš visos Podolės Švitrigailos įgulas bei jų viršininkus.'
+  santrauka: 'Lenkai paskelbė nutarimą, kad ateityje Kameneco viršininku turi būti skiriamas tik lenkų tautybės žmogus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai karalius rūpinosi
@@ -83,3 +84,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Švitrigaila]]

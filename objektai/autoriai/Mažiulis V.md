@@ -19,7 +19,9 @@ Dusburgietis teigia, kad lietuvių kalba težinojusi tokius Kuršių nerijos pav
 
 ## Teiginiai
 
+<a id="claim-t-60847"></a>
 - t-001
+  global_id: t-60847
   teiginys: 'V. Mažiulis teigė, kad lietuvių kalboje Kuršių nerija vadinta Kopomis, Kalnais, Pajūriais ir Randavomis.'
   pagrindžia:
     - c-001

@@ -47,53 +47,73 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-12313"></a>
 - t-001
+  global_id: t-12313
   teiginys: '1382 m. pavasarį Kęstutis, armotomis ginkluotas, nuplaukė laivais Nemunu į Ordino sritį ir sustojo ties Jurbarku.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-12314"></a>
 - t-002
+  global_id: t-12314
   teiginys: '1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-179482"></a>
 - t-003
+  global_id: t-179482
   teiginys: 'Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-179483"></a>
 - t-004
+  global_id: t-179483
   teiginys: 'Didysis magistras slapta iš Marienburgo išplaukė laivais Vysla, o per jūros įlanką įplaukė į Nemuną.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-179484"></a>
 - t-005
+  global_id: t-179484
   teiginys: 'Vytenis į puolimą atsiuntė 100 laivų.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-179485"></a>
 - t-006
+  global_id: t-179485
   teiginys: 'Kryžiuočiai turėjo karo laivą su sienomis ir kitų laivų.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-179486"></a>
 - t-007
+  global_id: t-179486
   teiginys: 'Rygiečiai ir Livonijos kariuomenė laivais judėjo į puolimo vietas.'
   pagrindžia:
     - c-007
     - c-001
 
+<a id="claim-t-179487"></a>
 - t-008
+  global_id: t-179487
   teiginys: '1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos ir ten sustojo.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-179488"></a>
 - t-009
+  global_id: t-179488
   teiginys: 'Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-179490"></a>
 - t-010
+  global_id: t-179490
   teiginys: 'Senovės aisčiai veikiausiai turėjo laivų, nes jų vadai rengdavo karo žygius į skandinavų kraštus.'
   pagrindžia:
     - c-006

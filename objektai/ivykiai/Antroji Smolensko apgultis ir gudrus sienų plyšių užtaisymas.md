@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Antroji Smolensko apgultis ir gudrus sienų plyšių užtaisymas
 
 ## Santrauka
 
-Kojelavičius teigia, kad didelę dalį gynybinės sienos priešas su griovė pabūklais, ir apsuptieji būtų atsidūrę ant pra žūties slenksčio, jeigu maskvėnai per griuvėsius būtų susimanę iš karto visomis jėgomis veržtis į pilį.
+Antrosios Smolensko apgulties metu priešas pabūklais sugriovė didelę gynybinės sienos dalį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185690"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad didelę dalį gynybinės sienos priešas su griovė pabūklais, ir apsuptieji būtų atsidūrę ant pra žūties slenksčio, jeigu maskvėnai per griuvėsius būtų susimanę iš karto visomis jėgomis veržtis į pilį.'
+  global_id: t-185690
+  teiginys: 'Antrosios Smolensko apgulties metu priešas pabūklais sugriovė didelę gynybinės sienos dalį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad didelę dalį gynybinės sienos priešas su griovė pabūklais, ir apsuptieji būtų atsidūrę ant pra žūties slenksčio, jeigu maskvėnai per griuvėsius būtų susimanę iš karto visomis jėgomis veržtis į pilį.'
+  santrauka: 'Antrosios Smolensko apgulties metu priešas pabūklais sugriovė didelę gynybinės sienos dalį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Didelę dalį gynybinės sienos priešas su­
@@ -65,3 +66,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/daiktai/Pjūklai]]
+- [[objektai/grupes/Rytas]]

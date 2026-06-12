@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį
 
 ## Santrauka
 
-Kojelavičius teigia, kad slaptai susitariama nužudyti Kęstutį bei jo palikuonis; Vaidilai, ištikimam tariamos klastos atskleidėjui, žadama atlyginti nugalėtų priešų valdo mis. Kojelavičius teigia, kad vis dėlto nutariama tol nestoti į atvirą kovą, kol nebus sudaryta karinė sąjunga su Prūsijos bei Livoni jos kryžiuočiais.
+Slaptoje sąmokslo sutartyje buvo numatyta nužudyti Kęstutį ir jo palikuonis, o Vaidilai atlyginti nugalėtų priešų valdomis. Sąmokslininkai nutarė nestoti į atvirą kovą, kol nebus sudaryta karinė sąjunga su Prūsijos ir Livonijos kryžiuočiais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185772"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad slaptai susitariama nužudyti Kęstutį bei jo palikuonis; Vaidilai, ištikimam tariamos klastos atskleidėjui, žadama atlyginti nugalėtų priešų valdo mis.'
+  global_id: t-185772
+  teiginys: 'Slaptoje sąmokslo sutartyje buvo numatyta nužudyti Kęstutį ir jo palikuonis, o Vaidilai atlyginti nugalėtų priešų valdomis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185773"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad vis dėlto nutariama tol nestoti į atvirą kovą, kol nebus sudaryta karinė sąjunga su Prūsijos bei Livoni jos kryžiuočiais.'
+  global_id: t-185773
+  teiginys: 'Sąmokslininkai nutarė nestoti į atvirą kovą, kol nebus sudaryta karinė sąjunga su Prūsijos ir Livonijos kryžiuočiais.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad slaptai susitariama nužudyti Kęstutį bei jo palikuonis; Vaidilai, ištikimam tariamos klastos atskleidėjui, žadama atlyginti nugalėtų priešų valdo mis.'
+  santrauka: 'Slaptoje sąmokslo sutartyje buvo numatyta nužudyti Kęstutį ir jo palikuonis, o Vaidilai atlyginti nugalėtų priešų valdomis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai valdovas, įta­
@@ -72,7 +75,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad vis dėlto nutariama tol nestoti į atvirą kovą, kol nebus sudaryta karinė sąjunga su Prūsijos bei Livoni jos kryžiuočiais.'
+  santrauka: 'Sąmokslininkai nutarė nestoti į atvirą kovą, kol nebus sudaryta karinė sąjunga su Prūsijos ir Livonijos kryžiuočiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto nutariama tol nestoti į atvirą kovą, kol
@@ -90,3 +93,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kunonas (Brandenburgo komtūras)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vaidila]]

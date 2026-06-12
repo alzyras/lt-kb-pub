@@ -16,7 +16,9 @@ Kai ant Dniepro saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą 
 
 ## Teiginiai
 
+<a id="claim-t-35985"></a>
 - t-001
+  global_id: t-35985
   teiginys: 'Prie Dniepro Vytautas atrėmė siūlymą dėl šalčių mesti kovą su totoriais, sakydamas, kad kariauti reikia prieš šaltį ir totorius.'
   pagrindžia:
     - c-001

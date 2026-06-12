@@ -17,12 +17,16 @@ Taryba, susirinkusi spalių mėn. Tautų Sąjungos Taryba, negalėdama sutikti s
 
 ## Teiginiai
 
+<a id="claim-t-66185"></a>
 - t-001
+  global_id: t-66185
   teiginys: 'Tautų Sąjungos Taryba spalio pabaigoje Briuselyje pasiūlė Lietuvos ir Lenkijos ginčą spręsti plebiscitu jos priežiūroje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66186"></a>
 - t-002
+  global_id: t-66186
   teiginys: 'Tautų Sąjungos Taryba 1921 m. kovo 3 d. pasiūlė Lietuvai ir Lenkijai ginčą spręsti tiesioginėmis derybomis, pirmininkaujant Hymansui.'
   pagrindžia:
     - c-002

@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31766"></a>
 - t-001
+  global_id: t-31766
   teiginys: '„Ko bėgo Kęstučio sūnus iš Lietuvos“ buvo paskelbta „Židinyje“ 1932 m. 12 numeryje, p. 449–457.'
   pagrindžia:
     - c-001

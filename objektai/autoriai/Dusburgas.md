@@ -23,7 +23,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Dusburgas
 
 ## Santrauka
@@ -36,104 +35,131 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - minimos kronikos apie lietuvius
 - Prūsijos žemės kronika
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/grupes/Galindai]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
-- [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]
-- [[objektai/posakiai/„Lietuvos karaliaus sūnus“]]
-
 ## Teiginiai
 
+<a id="claim-t-102840"></a>
 - t-001
+  global_id: t-102840
   teiginys: 'Dusburgas laikytas aprašomų įvykių amžininku ir patikimu liudytoju apie Gedimino pilį.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-102841"></a>
 - t-002
+  global_id: t-102841
   teiginys: 'Dusburgo kronikoje Junigėda pirmą kartą paminėta aprašant 1291 m. puolimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-102842"></a>
 - t-003
+  global_id: t-102842
   teiginys: 'Kita užuomina Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] yra prie 1317 m. (1.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-102843"></a>
 - t-004
+  global_id: t-102843
   teiginys: 'Dusburgas prie 1304 m. pirmą kartą paminėjo Pagraudenę, pasakodamas apie Eberhardo de Virnemburgo įsiveržimą į Lietuvą.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-102844"></a>
 - t-005
+  global_id: t-102844
   teiginys: 'Dusburgas trumpai paminėjo, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-102845"></a>
 - t-006
+  global_id: t-102845
   teiginys: 'Dusburgietis rašo, kad kroniką surašė apie Ordino brolių karus ir 1326 m. užbaigtą knygą siunčia pataisyti, kad būsimoms kartoms liktų šio žygio atminimas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-102846"></a>
 - t-007
+  global_id: t-102846
   teiginys: 'Dusburgas pranešė, kad Gedimino pasiuntinys paneigė valdovo valia siųstus laiškus dėl krikšto.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-102847"></a>
 - t-008
+  global_id: t-102847
   teiginys: 'Dedikacijoje Petras iš Dusburgo prisistato tų pačių šventųjų įžadų kunigu ir kreipiasi į magistrą Vernerį iš Orzelno.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-102848"></a>
 - t-009
+  global_id: t-102848
   teiginys: '1985 m. leidinio įvade Petro iš Dusburgo „Prūsijos žemės kronika“ išskiriama tarp svarbių XIII—XIV a. kronikų ir siejama su unikaliomis žiniomis apie prūsus, lietuvius bei jų kovą iki 1330 m.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-102849"></a>
 - t-010
+  global_id: t-102849
   teiginys: '1985 m. leidinio įžangoje Petras iš Dusburgo apibūdinamas kaip Kryžiuočių ordino brolis kunigas, 1326 m. užbaigęs savo kroniką; nurodoma, kad ji pratęsta iki 1330 m.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-102850"></a>
 - t-011
+  global_id: t-102850
   teiginys: 'Petras Dusburgietis „Prūsijos žemės kronikoje“ aprašė Vytenio įsiveržimą į Ordino žemes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-102851"></a>
 - t-012
+  global_id: t-102851
   teiginys: 'Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-102852"></a>
 - t-013
+  global_id: t-102852
   teiginys: 'Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus sūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-102853"></a>
 - t-014
+  global_id: t-102853
   teiginys: 'Dusburgas 1296 m. Vytenį vadino „rex Vithenus“ ir rašė apie jo žygį į Livoniją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-102854"></a>
 - t-015
+  global_id: t-102854
   teiginys: 'Dusburgietis nurodo aprašysiąs tiek savo matytus įvykius, tiek dalyvių pasakojimus ir patikimų šaltinių liudijimus.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-102855"></a>
 - t-016
+  global_id: t-102855
   teiginys: '1291 buvo pulta, Dusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315 ten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta pilis «Mederaba»^23.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-102856"></a>
 - t-017
+  global_id: t-102856
   teiginys: 'Dusburgas trumpai užsiminė, kad popiežius Jonas XXII Rygos arkivyskupo ir miestiečių prašymu pasiuntė į Livoniją du legatus.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-184607"></a>
 - t-018
-  teiginys: 'Kojelavičius teigia, kad jis pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui, tu rinčiam saugoti tikėjimą; šitai tvirtina prieš keturis šimtmečius surašytame veikale Petras iš Dusburgo, Li vonijos riterių kunigas ir istorikas, gyvenęs arčiau anų laikų nei mūsų.'
+  global_id: t-184607
+  teiginys: 'Petras iš Dusburgo buvo Livonijos riterių kunigas ir istorikas.'
   pagrindžia:
     - c-014
 
@@ -398,7 +424,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
     - t-001
 
 - c-014
-  santrauka: 'Kojelavičius teigia, kad jis pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui, tu rinčiam saugoti tikėjimą; šitai tvirtina prieš keturis šimtmečius surašytame veikale Petras iš Dusburgo, Li vonijos riterių kunigas ir istorikas, gyvenęs arčiau anų laikų nei mūsų.'
+  santrauka: 'Petras iš Dusburgo buvo Livonijos riterių kunigas ir istorikas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Daug kartų iš naujo
@@ -418,3 +444,76 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   statusas: verified
   pagrindžia:
     - t-018
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Galindai]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]
+- [[objektai/posakiai/„Lietuvos karaliaus sūnus“]]
+- [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Gotai]]
+- [[objektai/autoriai/Hartknochas]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/asmenys/Konradas Lichtenhagenas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Langobardai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/posakiai/Lietuvos karaliaus sūnus]]
+- [[objektai/zodynas/Ordino brolis]]
+- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/asmenys/Vygandas]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/posakiai/apreikšti dievo darbus yra šlovinga]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/papilys]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/sueiga]]
+- [[objektai/zodynas/vėliava]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Akono (Akros) žlugimas (1291 m.)]]
+- [[objektai/ivykiai/Aukaimio pilies srities teriojimas grįžtant nuo Junigėdos (1292 m.)]]
+- [[objektai/posakiai/Baigėsi karas su prūsais. Prasidėjo karas su lietuviais]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/asmenys/Eberhardas de Virnemburgas]]
+- [[objektai/ivykiai/Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime|Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime (krikštas)]]
+- [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.)]]
+- [[objektai/autoriai/Henrikas Latvis]]
+- [[objektai/autoriai/Hermanas iš Vartbergės]]
+- [[objektai/ivykiai/Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)]]
+- [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]
+- [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]
+- [[objektai/paprociai/Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika]]
+- [[objektai/zodynas/Papilys suburbium]]
+- [[objektai/autoriai/Petras Dusburgietis]]
+- [[objektai/ivykiai/Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.)]]
+- [[objektai/zodynas/Prūsijos žemė]]
+- [[objektai/zodynas/Prūsijos žemė terra Prussiae]]
+- [[objektai/daiktai/Prūsijos žemės kronikos nuorašai]]
+- [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]
+- [[objektai/paprociai/Stojimas į Ordiną kaip šventas sumanymas]]
+- [[objektai/ivykiai/Tepliavos ir Lochštetės pilių pastatymas bei pasitraukimas iš Kroicburgo (1263-1270 m.)]]
+- [[objektai/ivykiai/Torunės miesto perkėlimas ir naujos pilies statybos pradžia (1236 m.)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
+- [[objektai/autoriai/Vygandas iš Marburgo]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/kankinių vainikai]]
+- [[objektai/zodynas/naratyviniai šaltiniai]]
+- [[objektai/zodynas/tikybos ir bažnyčios priešai]]
+- [[objektai/zodynas/viešpaties darbas opus domini]]
+- [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta]]
+- [[objektai/zodynas/viešpaties karas]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/legatai]]
+- [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti]]
+- [[objektai/ivykiai/Palemono išrinkimas Lietuvos valdovu A. Kojelavičiaus pasakojime]]

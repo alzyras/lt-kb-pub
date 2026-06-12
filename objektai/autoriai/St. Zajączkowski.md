@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-100100"></a>
 - t-001
+  global_id: t-100100
   teiginys: '(^124) I SKYRIUS: LIETUVOS PROISTORĖ —-Zajączkowski, St.'
   pagrindžia:
     - c-001

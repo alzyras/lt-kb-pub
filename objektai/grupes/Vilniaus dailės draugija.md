@@ -17,12 +17,16 @@ Lietuviai pirmieji Vilniuje įkūrė Lietuvių dailės draugiją, pradėjo rengt
 
 ## Teiginiai
 
+<a id="claim-t-75018"></a>
 - t-001
+  global_id: t-75018
   teiginys: 'Dailės ir vaizduojamojo meno bei architektūros srityje taip pat pastebėtas draugijų paralelizmas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75019"></a>
 - t-002
+  global_id: t-75019
   teiginys: 'Vilniaus dailės draugiją įkūrė vietiniai dailininkai, nenorėję tapatintis su etninių lietuvių tautinio sąjūdžio tikslais.'
   pagrindžia:
     - c-001

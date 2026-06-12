@@ -18,12 +18,16 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 
 ## Teiginiai
 
+<a id="claim-t-58614"></a>
 - t-001
+  global_id: t-58614
   teiginys: 'Dusburgietis teigia, kad plikąja, arba Mažąja, Barta — buvo vadinamas pietvakarinis Bartos kampas ties Alna —dab.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58615"></a>
 - t-002
+  global_id: t-58615
   teiginys: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha.'
   pagrindžia:
     - c-002

@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20212"></a>
 - t-001
+  global_id: t-20212
   teiginys: 'Jono Černiaus „vieningo darbo“ vyriausybėje krikščionys demokratai ir liaudininkai gavo po dvi ministrų vietas.'
   pagrindžia:
     - c-001

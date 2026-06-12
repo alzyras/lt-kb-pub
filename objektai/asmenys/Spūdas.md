@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Spūdas
 
 ## Santrauka
 
-Kojelavičius teigia, kad neteku sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys buvo priešo ir liepsnų sunaikintos, o truputį anksčiau Pūtvės pilį išdavė jos seniūnas Spūdas.
+Pūtvės pilies seniūnas Spūdas išdavė pilį ir su tėvu, vaikais bei visa šeimyna pasidavė kryžiuočiams.
 
 ## Teiginiai
 
+<a id="claim-t-186252"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad neteku sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys buvo priešo ir liepsnų sunaikintos, o truputį anksčiau Pūtvės pilį išdavė jos seniūnas Spūdas.'
+  global_id: t-186252
+  teiginys: 'Pūtvės pilies seniūnas Spūdas išdavė pilį ir su tėvu, vaikais bei visa šeimyna pasidavė kryžiuočiams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad neteku sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys buvo priešo ir liepsnų sunaikintos, o truputį anksčiau Pūtvės pilį išdavė jos seniūnas Spūdas.'
+  santrauka: 'Pūtvės pilies seniūnas Spūdas išdavė pilį ir su tėvu, vaikais bei visa šeimyna pasidavė kryžiuočiams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vėliau, ir tais pačiais,
@@ -41,3 +42,10 @@ Kojelavičius teigia, kad neteku sios tuo būdu gynėjų Skronaitės ir Bibervai
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Pilys]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]

@@ -17,7 +17,9 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
 
 ## Teiginiai
 
+<a id="claim-t-31578"></a>
 - t-001
+  global_id: t-31578
   teiginys: 'Eiliuotinės kronikos autorius žodžius „krikščionys turi raudoti dėl jo mirties“ įtraukė į kelias šiltas eilutes.'
   pagrindžia:
     - c-001

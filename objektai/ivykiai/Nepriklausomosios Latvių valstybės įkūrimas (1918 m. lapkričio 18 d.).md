@@ -33,12 +33,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66798"></a>
 - t-001
+  global_id: t-66798
   teiginys: 'Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko kariauti su bolševikais ir su pasilikusiomis vokiečių kariuomenės dalimis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66799"></a>
 - t-002
+  global_id: t-66799
   teiginys: 'Tačiau Latviją, kaip ir Lietuvą, išgelbėjo vokiečių pralaimėjimas vakaruose.'
   pagrindžia:
     - c-002

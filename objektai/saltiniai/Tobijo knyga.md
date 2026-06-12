@@ -18,7 +18,9 @@ Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, ka
 
 ## Teiginiai
 
+<a id="claim-t-61316"></a>
 - t-001
+  global_id: t-61316
   teiginys: 'Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad apreikšti dievo darbus yra šlovinga.'
   pagrindžia:
     - c-001

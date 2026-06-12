@@ -26,12 +26,16 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
 
 ## Teiginiai
 
+<a id="claim-t-40107"></a>
 - t-001
+  global_id: t-40107
   teiginys: 'Dambravos raitarai smogė Frederiko Joachimo Mansfeldo kavaleristams iš flango.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40108"></a>
 - t-002
+  global_id: t-40108
   teiginys: '1608 m. vasarą Frederikas Joachimas Mansfeldas vadovavo 8000 Švedijos karių ekspediciniam korpusui Livonijoje.'
   pagrindžia:
     - c-002

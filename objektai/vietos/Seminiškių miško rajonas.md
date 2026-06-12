@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-38549"></a>
 - t-001
+  global_id: t-38549
   teiginys: '1945 m. gegužės 14 d. NKVD duomenimis Seminiškių miško rajone slėpėsi iki 70 ginkluotų partizanų grupė.'
   pagrindžia:
     - c-001

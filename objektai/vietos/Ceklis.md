@@ -25,22 +25,30 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
 
 ## Teiginiai
 
+<a id="claim-t-32099"></a>
 - t-001
+  global_id: t-32099
   teiginys: 'Mindaugo karūnavimo metais per Ceklio dalybas daug Žemaitijos žemių atiteko Livonijos ordinui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-32100"></a>
 - t-002
+  global_id: t-32100
   teiginys: 'Platesnėje Ceklio srityje paminėti 44 vietovardžiai, o ordinas valdžion paėmė plotą nuo Ventos aukštupio iki Veiviržo upės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184383"></a>
 - t-003
+  global_id: t-184383
   teiginys: 'Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žemaičių plote, atiteko Livonijos ordinui.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184384"></a>
 - t-004
+  global_id: t-184384
   teiginys: 'Dar platesnėje Ceklio srityje, kurioje paminėti 44 vietovardžiai, ordinas savo valdžion paėmė plotą nuo Ventos aukštupio per Minijos ir Jūros upių takoskyrą iki Veiviržo upės, gaudamas du trečdaliu Kretingos, Telšių, Mažeikių ir vakarinėje dalyje Šiaulių.'
   pagrindžia:
     - c-001

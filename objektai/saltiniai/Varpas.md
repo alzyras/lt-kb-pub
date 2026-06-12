@@ -27,12 +27,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-78120"></a>
 - t-001
+  global_id: t-78120
   teiginys: 'Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78121"></a>
 - t-002
+  global_id: t-78121
   teiginys: '„Aušros“ idėjas toliau plėtojo 1889 m. pradėtas leisti žurnalas „Varpas“, įsteigtas Varšuvos lietuvių studentų draugijos „Lietuva“.'
   pagrindžia:
     - c-001

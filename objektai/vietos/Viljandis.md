@@ -16,7 +16,6 @@ tags:
 amziai:
   - 'XVII'
 ---
-
 # Viljandis
 
 ## Santrauka
@@ -25,23 +24,31 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
 
 ## Teiginiai
 
+<a id="claim-t-42274"></a>
 - t-001
+  global_id: t-42274
   teiginys: '1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-42275"></a>
 - t-002
+  global_id: t-42275
   teiginys: 'Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185177"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad po magistro ir kiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš tus patvirtino savo parašais, be magistro, dar du rite rių išrinkti vyrai: Henrikas Štendichas, Kuldygos kom tūras, ir Kristupas iš Viljandžio, krašto maršalas.'
+  global_id: t-185177
+  teiginys: 'Susitarimo raštus patvirtino Kristupas iš Viljandžio, krašto maršalas, ir Henrikas Štendichas, Kuldygos komtūras.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185178"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad maskvėnai, į šį žygį patraukę su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.'
+  global_id: t-185178
+  teiginys: 'Maskvėnai, žygiavę su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.'
   pagrindžia:
     - c-004
 
@@ -86,7 +93,7 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad po magistro ir kiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš tus patvirtino savo parašais, be magistro, dar du rite rių išrinkti vyrai: Henrikas Štendichas, Kuldygos kom tūras, ir Kristupas iš Viljandžio, krašto maršalas.'
+  santrauka: 'Susitarimo raštus patvirtino Kristupas iš Viljandžio, krašto maršalas, ir Henrikas Štendichas, Kuldygos komtūras.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jeigu Mask­
@@ -120,7 +127,7 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad maskvėnai, į šį žygį patraukę su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.'
+  santrauka: 'Maskvėnai, žygiavę su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šiaip ar taip, jis

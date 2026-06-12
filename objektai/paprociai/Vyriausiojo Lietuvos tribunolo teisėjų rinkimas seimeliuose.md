@@ -34,22 +34,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-02045"></a>
 - t-001
+  global_id: t-02045
   teiginys: 'Tribunole pirmininkaudavo iš tų pačių deputatų renkamas pirmininkas, vadinamas tribunolo maršalka.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-02046"></a>
 - t-002
+  global_id: t-02046
   teiginys: 'Bajorija seimuose ir seimeliuose reikalavo pertvarkyti vyriausiąjį teismą ir perduoti apeliacinius teismus bajorijai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-02047"></a>
 - t-003
+  global_id: t-02047
   teiginys: 'Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m., o jo teisėjais buvo visų seimelių renkami bajorijos atstovai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-02048"></a>
 - t-004
+  global_id: t-02048
   teiginys: 'Kiekvienas seimelis rinko po 2 atstovus, vadinamus deputatais; tad iš viso tribunolo narių buvo 46.'
   pagrindžia:
     - c-003

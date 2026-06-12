@@ -17,12 +17,16 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
 
 ## Teiginiai
 
+<a id="claim-t-88031"></a>
 - t-001
+  global_id: t-88031
   teiginys: 'Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbinBandtk.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88032"></a>
 - t-002
+  global_id: t-88032
   teiginys: 'Martinas Galias rašė, kad Poznanė duodavo 1 300 šarvuotųjų ir 4 000 skydais ginkluotų karių.'
   pagrindžia:
     - c-001

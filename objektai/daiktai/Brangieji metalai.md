@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-64908"></a>
 - t-001
+  global_id: t-64908
   teiginys: 'Kunigaikščiai turėjo sukaupę brangiųjų metalų nemažus kiekius^4.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64909"></a>
 - t-002
+  global_id: t-64909
   teiginys: 'Vytautas, padedamas pirklių, sukaupė brangiųjų metalų - aukso ir sidabro - bei kitų brangenybių.'
   pagrindžia:
     - c-001

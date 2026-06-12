@@ -16,7 +16,9 @@ Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui i
 
 ## Teiginiai
 
+<a id="claim-t-87788"></a>
 - t-001
+  global_id: t-87788
   teiginys: 'Švitrigaila laiške prašė garantijų Mikalojui Sachsei, vykstančiam su reikalais į Sileziją.'
   pagrindžia:
     - c-001

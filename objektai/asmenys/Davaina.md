@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Davaina
 
 ## Santrauka
 
-Kojelavičius teigia, kad paga liau, kai viena kilminga mergėlė, kilusi iš žymios lenkų šeimos (iš Habdankų) ir su kitais paimta į nelaisvę, paaiškino sapne regėtos dangiškosios dvasios paakinta šios nelaimės priežastis, Jogaila įsakė Davainai ir kryžių, ir mergelę, gražiai.
+Jogailai įsakius grąžinti kryžių ir belaisvę į Lenkiją, Davaina priėmė krikščionybę ir pasiliko Lenkijoje.
 
 ## Teiginiai
 
+<a id="claim-t-186104"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad paga liau, kai viena kilminga mergėlė, kilusi iš žymios lenkų šeimos (iš Habdankų) ir su kitais paimta į nelaisvę, paaiškino sapne regėtos dangiškosios dvasios paakinta šios nelaimės priežastis, Jogaila įsakė Davainai ir kryžių, ir mergelę, gražiai.'
+  global_id: t-186104
+  teiginys: 'Jogailai įsakius grąžinti kryžių ir belaisvę į Lenkiją, Davaina priėmė krikščionybę ir pasiliko Lenkijoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad paga liau, kai viena kilminga mergėlė, kilusi iš žymios lenkų šeimos (iš Habdankų) ir su kitais paimta į nelaisvę, paaiškino sapne regėtos dangiškosios dvasios paakinta šios nelaimės priežastis, Jogaila įsakė Davainai ir kryžių, ir mergelę, gražiai.'
+  santrauka: 'Jogailai įsakius grąžinti kryžių ir belaisvę į Lenkiją, Davaina priėmė krikščionybę ir pasiliko Lenkijoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai jie, minios sveikinami, pargrįžo į Vilnių, karius
@@ -57,3 +58,8 @@ Kojelavičius teigia, kad paga liau, kai viena kilminga mergėlė, kilusi iš ž
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/ivykiai/Maskvėnų įsiveržimas į Baltarusiją ir lietuvių bei lenkų atsakomasis žygis]]

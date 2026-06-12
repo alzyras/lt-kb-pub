@@ -22,7 +22,9 @@ Pašuto, V.
 
 ## Teiginiai
 
+<a id="claim-t-31885"></a>
 - t-001
+  global_id: t-31885
   teiginys: 'V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista 1950 m. Maskvoje.'
   pagrindžia:
     - c-001

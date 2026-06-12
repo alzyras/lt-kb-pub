@@ -18,14 +18,17 @@ Kryžiuočiai su Lietuva jau skaitėsi, kaip su valstybe, ir karas jau nebebuvo 
 
 ## Teiginiai
 
+<a id="claim-t-74031"></a>
 - t-001
-  teiginys: 'Kryžiuočiai su Lietuva jau skaitėsi, kaip su valstybe, ir karas jau nebebuvo vien skerdynės: jau buvo laikomasi tam tikros karo etikos, t.'
+  global_id: t-74031
+  teiginys: 'Kęstučio laikais kare su Lietuva kryžiuočiai ėmė laikytis Vakarų Europoje įprastų karo papročių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kęstučio laikais kare su Lietuva kryžiuočiai ėmė laikytis Vakarų Europoje įprastų karo papročių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kariavimo būdas jau pakitėjo. Kryžiuočiai su Lietuva jau
@@ -43,3 +46,4 @@ Kryžiuočiai su Lietuva jau skaitėsi, kaip su valstybe, ir karas jau nebebuvo 
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

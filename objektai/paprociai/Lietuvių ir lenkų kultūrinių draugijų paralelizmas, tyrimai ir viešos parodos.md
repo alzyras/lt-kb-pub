@@ -38,32 +38,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54279"></a>
 - t-001
+  global_id: t-54279
   teiginys: 'Lietuviai Vilniuje įkūrė Lietuvių dailės draugiją ir pradėjo rengti viešas dailės parodas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-54280"></a>
 - t-002
+  global_id: t-54280
   teiginys: 'Vilniuje įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija telkė skirtingas tautinio sąjūdžio aplinkas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54281"></a>
 - t-003
+  global_id: t-54281
   teiginys: 'Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija leido mokslinius tęstinius leidinius ir buvo viena kitos kolektyvinės narės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54282"></a>
 - t-004
+  global_id: t-54282
   teiginys: 'Abi draugijos leido mokslinius tęstinius leidinius ir buvo viena kitos kolektyvinės narės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54283"></a>
 - t-005
+  global_id: t-54283
   teiginys: 'Neatkūrus Vilniaus universiteto, įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54284"></a>
 - t-006
+  global_id: t-54284
   teiginys: 'Vilniuje lietuviai įkūrė Lietuvių dailės draugiją, o vėliau vietiniai dailininkai įsteigė atskirą Vilniaus dailės draugiją.'
   pagrindžia:
     - c-003

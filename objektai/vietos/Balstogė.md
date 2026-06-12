@@ -18,13 +18,17 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 
 ## Teiginiai
 
+<a id="claim-t-76163"></a>
 - t-001
+  global_id: t-76163
   teiginys: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182997"></a>
 - t-002
-  teiginys: 'Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine, Branickis Balstogėje.'
+  global_id: t-182997
+  teiginys: 'Branickis turėjo žymų dvarą Balstogėje.'
   pagrindžia:
     - c-002
 
@@ -51,7 +55,7 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
     - t-001
 
 - c-002
-  santrauka: 'Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine, Branickis Balstogėje.'
+  santrauka: 'Branickis turėjo žymų dvarą Balstogėje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Čia buvo kuriami visi poli-

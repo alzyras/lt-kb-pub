@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Lenkų ir rusų karas dėl Liublino, kuriame dalyvavo lietuviai (1302 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad abi pusės sutelkė šiam karui didžiules kariuomenes, ypač rusai, ku rie pagalbon buvo pasikvietę skitus ir lietuvius. Kojelavičius teigia, kad rusai po to nemėgino nei iš naujo stoti į mūšį, nei antpuo liais kamuoti priešo: išblaškytus ir iškrikusius juos žu dė pergalingi lenkai.
+Kare dėl Liublino rusai sutelkė didelę kariuomenę ir į pagalbą pasikvietė skitus bei lietuvius. Po pralaimėjimo rusai nebeatnaujino mūšio, o išblaškytus jų karius žudė pergalingi lenkai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185736"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad abi pusės sutelkė šiam karui didžiules kariuomenes, ypač rusai, ku rie pagalbon buvo pasikvietę skitus ir lietuvius.'
+  global_id: t-185736
+  teiginys: 'Kare dėl Liublino rusai sutelkė didelę kariuomenę ir į pagalbą pasikvietė skitus bei lietuvius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185737"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad rusai po to nemėgino nei iš naujo stoti į mūšį, nei antpuo liais kamuoti priešo: išblaškytus ir iškrikusius juos žu dė pergalingi lenkai.'
+  global_id: t-185737
+  teiginys: 'Po pralaimėjimo rusai nebeatnaujino mūšio, o išblaškytus jų karius žudė pergalingi lenkai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad abi pusės sutelkė šiam karui didžiules kariuomenes, ypač rusai, ku rie pagalbon buvo pasikvietę skitus ir lietuvius.'
+  santrauka: 'Kare dėl Liublino rusai sutelkė didelę kariuomenę ir į pagalbą pasikvietė skitus bei lietuvius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat len­
@@ -65,7 +68,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad rusai po to nemėgino nei iš naujo stoti į mūšį, nei antpuo liais kamuoti priešo: išblaškytus ir iškrikusius juos žu dė pergalingi lenkai.'
+  santrauka: 'Po pralaimėjimo rusai nebeatnaujino mūšio, o išblaškytus jų karius žudė pergalingi lenkai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Rusai
@@ -83,3 +86,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/grupes/Lietuviai]]

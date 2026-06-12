@@ -18,18 +18,24 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
 
 ## Teiginiai
 
+<a id="claim-t-70303"></a>
 - t-001
+  global_id: t-70303
   teiginys: 'Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė jį savo karietoje į Valkininkus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70304"></a>
 - t-002
+  global_id: t-70304
   teiginys: 'Bajorijos konfederacijos regimentoriumi, tai yra karo vadu, buvo išrinktas Mykolas Višniaveckis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182974"></a>
 - t-003
-  teiginys: 'Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).'
+  global_id: t-182974
+  teiginys: 'Bajorijos regimentorius Višniaveckis, grąžinęs Mykolui Sapiegai kardą, nusivežė jį savo karietoje į Valkininkus.'
   pagrindžia:
     - c-003
 
@@ -63,7 +69,7 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
     - t-002
 
 - c-003
-  santrauka: 'Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).'
+  santrauka: 'Bajorijos regimentorius Višniaveckis, grąžinęs Mykolui Sapiegai kardą, nusivežė jį savo karietoje į Valkininkus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Višniaveckis jį nu-

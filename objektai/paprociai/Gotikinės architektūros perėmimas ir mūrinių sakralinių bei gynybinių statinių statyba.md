@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77935"></a>
 - t-001
+  global_id: t-77935
   teiginys: 'Gotikinės architektūros plitimą pirmiausia paskatino valstybės krikštas ir po jo pradėta įgyvendinti Vytauto mūrinių bažnyčių statybos programa (Vilniuje katedra, Šv.'
   pagrindžia:
     - c-001

@@ -35,19 +35,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01610"></a>
 - t-001
+  global_id: t-01610
   teiginys: '1932 m. įsikūrusi Draugija Užsienio Lietuviams Remti siekė kultūriškai ir, kiek įmanoma, materialiai remti užsienyje gyvenančius lietuvius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01611"></a>
 - t-002
-  teiginys: 'Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų, siunčia išeivių bibliotekoms knygų ir vadovėlių.'
+  global_id: t-01611
+  teiginys: 'Draugija Užsienio Lietuviams Remti rūpinosi lietuviškomis mokyklomis, mokytojais ir knygomis išeivių bibliotekoms.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Draugija Užsienio Lietuviams Remti rūpinosi lietuviškomis mokyklomis, mokytojais ir knygomis išeivių bibliotekoms.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     (Kongresas įvyko 1935 m. rugpiūčio 11—17 d. Kaune. Tarp kitko jis

@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-21205"></a>
 - t-001
+  global_id: t-21205
   teiginys: '1938 m. pabaigoje, po Miuncheno susitarimo, karo padėtis Klaipėdos krašte buvo atšaukta ir Lietuva jau nebevaldė situacijos.'
   pagrindžia:
     - c-001

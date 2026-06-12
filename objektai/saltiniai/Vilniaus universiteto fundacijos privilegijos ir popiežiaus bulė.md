@@ -27,12 +27,16 @@ Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją ka
 
 ## Teiginiai
 
+<a id="claim-t-88350"></a>
 - t-001
+  global_id: t-88350
   teiginys: 'Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88351"></a>
 - t-002
+  global_id: t-88351
   teiginys: 'Karalius balandžio 1 d. dekretais vyskupo Protasevičiaus funduotą jėzuitų kolegiją pakėlė iki universiteto laipsnio.'
   pagrindžia:
     - c-001

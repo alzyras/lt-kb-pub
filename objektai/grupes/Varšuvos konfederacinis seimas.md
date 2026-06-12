@@ -19,7 +19,9 @@ Seimas buvo priverstas įvykdyti visus jo reikalavimus.
 
 ## Teiginiai
 
+<a id="claim-t-01516"></a>
 - t-001
+  global_id: t-01516
   teiginys: 'Varšuvos konfederacinis seimas pripažino Rusijai teisę prižiūrėti, kad nebūtų pakeistos kardinalinės teisės.'
   pagrindžia:
     - c-001

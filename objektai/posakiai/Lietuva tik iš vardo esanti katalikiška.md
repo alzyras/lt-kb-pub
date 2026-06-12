@@ -22,7 +22,9 @@ Formulė pateikiama kaip Ordino propagandinis teiginys, menkinantis Lietuvos kri
 
 ## Teiginiai
 
+<a id="claim-t-11645"></a>
 - t-001
+  global_id: t-11645
   teiginys: 'Formulė pateikiama kaip Ordino skleidžiamas teiginys, menkinantis Lietuvos katalikiškumą.'
   pagrindžia:
     - c-001

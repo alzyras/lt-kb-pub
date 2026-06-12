@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Bobro upė
 
 ## Santrauka
 
-Kojelavičius teigia, kad apie šį pralaimėjimą Aleksandras sužinojo prie Bobro upės; norėdamas su stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuose.
+Aleksandras apie pralaimėjimą sužinojo prie Bobro upės ir įtaisė karo stovyklą Obolcuose.
 
 ## Teiginiai
 
+<a id="claim-t-185280"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad apie šį pralaimėjimą Aleksandras sužinojo prie Bobro upės; norėdamas su stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuose.'
+  global_id: t-185280
+  teiginys: 'Aleksandras apie pralaimėjimą sužinojo prie Bobro upės ir įtaisė karo stovyklą Obolcuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad apie šį pralaimėjimą Aleksandras sužinojo prie Bobro upės; norėdamas su stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuose.'
+  santrauka: 'Aleksandras apie pralaimėjimą sužinojo prie Bobro upės ir įtaisė karo stovyklą Obolcuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Išvengė nelaisvės ar

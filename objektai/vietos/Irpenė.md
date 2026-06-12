@@ -23,7 +23,9 @@ Istorinė rusų tradicija keliuose variantuose mini, kad Gediminas paėmė Rusij
 
 ## Teiginiai
 
+<a id="claim-t-41739"></a>
 - t-001
+  global_id: t-41739
   teiginys: 'Istorinė rusų tradicija Gediminą prie Irpenės siejo su Kijevo paėmimu ir Kijevo kunigaikštystės prijungimu prie Lietuvos.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ etmono Petro Sahaidačnij vadovaujamų Ukrainos kazokų.
 
 ## Teiginiai
 
+<a id="claim-t-40394"></a>
 - t-001
+  global_id: t-40394
   teiginys: 'Petro Sahaidačnij vadovavo apie 25 tūkst. Ukrainos kazokų, prisijungusių prie J. K. Chodkevičiaus pajėgų.'
   pagrindžia:
     - c-001

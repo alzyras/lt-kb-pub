@@ -16,17 +16,23 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
 
 ## Teiginiai
 
+<a id="claim-t-19313"></a>
 - t-001
+  global_id: t-19313
   teiginys: 'Viktoras Petkus buvo buvęs politinis kalinys ir priklausė grupei, palaikiusiai ryšius su žmogaus teisių gynėjais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-19314"></a>
 - t-002
+  global_id: t-19314
   teiginys: 'Sovietinė valdžia suėmė ir nuteisė Viktorą Petkų kaip vieną iš disidentų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183574"></a>
 - t-003
+  global_id: t-183574
   teiginys: 'Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras.'
   pagrindžia:
     - c-003

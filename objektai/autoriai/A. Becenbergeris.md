@@ -22,17 +22,23 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
 
 ## Teiginiai
 
+<a id="claim-t-56717"></a>
 - t-001
+  global_id: t-56717
   teiginys: 'A. Becenbergeris šiame šaltinyje pristatomas kaip tyrinėtojas, nustatęs lietuvių ir prūsų kalbinę ribą pagal vietovardžių paplitimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-56718"></a>
 - t-002
+  global_id: t-56718
   teiginys: 'A. Becenbergerio darbai cituojami aptariant vietovardžius su šaknimi garb-.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-56719"></a>
 - t-003
+  global_id: t-56719
   teiginys: 'Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos ir Alnos (kair.'
   pagrindžia:
     - c-002

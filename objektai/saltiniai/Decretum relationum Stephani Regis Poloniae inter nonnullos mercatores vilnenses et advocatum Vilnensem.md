@@ -25,12 +25,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88245"></a>
 - t-001
+  global_id: t-88245
   teiginys: '1586 m. liepos 11 d. karaliaus Stepono sprendimu visiems Vilniaus gyventojams įsakyta pagarbiai švęsti iškilmingas šventes pagal naują kalendorių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88246"></a>
 - t-002
+  global_id: t-88246
   teiginys: '1586 m. liepos 11 d. Stepono Batoro sprendimu Vilniaus gyventojams įsakyta švęsti įprastas šventes pagal naują kalendorių.'
   pagrindžia:
     - c-001

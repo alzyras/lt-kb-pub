@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-71565"></a>
 - t-001
+  global_id: t-71565
   teiginys: 'Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.'
   pagrindžia:
     - c-001

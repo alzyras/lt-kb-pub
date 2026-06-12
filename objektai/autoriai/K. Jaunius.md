@@ -16,12 +16,16 @@ Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčia
 
 ## Teiginiai
 
+<a id="claim-t-64676"></a>
 - t-001
+  global_id: t-64676
   teiginys: 'K. Jaunius su K. Būga kelias gimines vadino aisčiais, remdamasis viduramžių raštais ir vietovardžiais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64677"></a>
 - t-002
+  global_id: t-64677
   teiginys: 'Jaunius; jo mokinys buvo ir poetas Vienažindys.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Jonas Kraucevičius.
 
 ## Teiginiai
 
+<a id="claim-t-39375"></a>
 - t-001
+  global_id: t-39375
   teiginys: 'Plk. ltn. Jonas Kraucevičius vadovavo šarvuotam traukiniui.'
   pagrindžia:
     - c-001

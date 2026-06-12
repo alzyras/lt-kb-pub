@@ -16,7 +16,9 @@ Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyb
 
 ## Teiginiai
 
+<a id="claim-t-58727"></a>
 - t-001
+  global_id: t-58727
   teiginys: 'Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p.'
   pagrindžia:
     - c-001

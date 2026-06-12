@@ -24,7 +24,9 @@ pradžioje pralaimėjimai įsiveržusio Timūro (Tamerlano) mongolų kariuomenei
 
 ## Teiginiai
 
+<a id="claim-t-40469"></a>
 - t-001
+  global_id: t-40469
   teiginys: 'Timūro mongolų kariuomenė XV a. pradžioje pristabdė Osmanų plėtrą.'
   pagrindžia:
     - c-001

@@ -24,22 +24,30 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
 
 ## Teiginiai
 
+<a id="claim-t-78014"></a>
 - t-001
+  global_id: t-78014
   teiginys: 'Kazimiero kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota religinė savimonė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78015"></a>
 - t-002
+  global_id: t-78015
   teiginys: 'Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos klostymasis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78016"></a>
 - t-003
+  global_id: t-78016
   teiginys: 'Kazimiero, Lenkijos globėjo šv.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-78017"></a>
 - t-004
+  global_id: t-78017
   teiginys: 'XVI a. pradžioje karalaitis Kazimieras buvo garbinamas Vilniaus apylinkėse.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­ triarchui Eufimėjui 
 
 ## Teiginiai
 
+<a id="claim-t-35061"></a>
 - t-001
+  global_id: t-35061
   teiginys: 'Konstantinopolio patriarchas Eufimėjus nepatvirtino Vytauto siūlyto Polocko vyskupo Teodozijaus Kijevo metropolitu.'
   pagrindžia:
     - c-001

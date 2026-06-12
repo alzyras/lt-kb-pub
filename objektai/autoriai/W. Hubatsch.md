@@ -17,12 +17,16 @@ Hubatsch^158.
 
 ## Teiginiai
 
+<a id="claim-t-64883"></a>
 - t-001
+  global_id: t-64883
   teiginys: 'Bonnos universiteto profesorius W. Hubatschas parašė išsamią monografiją apie Prūsų hercogą Albrechtą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64884"></a>
 - t-002
+  global_id: t-64884
   teiginys: 'W. Hubatschas 1948 m. Getingene išleido „Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum“ antrąją dalį.'
   pagrindžia:
     - c-002

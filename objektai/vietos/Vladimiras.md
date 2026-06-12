@@ -15,7 +15,6 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
-
 # Vladimiras
 
 ## Santrauka
@@ -39,13 +38,17 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 
 ## Teiginiai
 
+<a id="claim-t-181161"></a>
 - t-001
+  global_id: t-181161
   teiginys: 'Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185204"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad pir mąjį smūgį jis nukreipė į Volynės pasienį: apsupo Vladimirą, kunigaikščio Vladimiro sostinę.'
+  global_id: t-185204
+  teiginys: 'Gediminas pirmąjį smūgį nukreipė į Volynės pasienį ir apsupo Vladimirą, kunigaikščio Vladimiro sostinę.'
   pagrindžia:
     - c-002
 
@@ -67,7 +70,7 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad pir mąjį smūgį jis nukreipė į Volynės pasienį: apsupo Vladimirą, kunigaikščio Vladimiro sostinę.'
+  santrauka: 'Gediminas pirmąjį smūgį nukreipė į Volynės pasienį ir apsupo Vladimirą, kunigaikščio Vladimiro sostinę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gediminas, pasinaudojęs

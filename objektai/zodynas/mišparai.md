@@ -24,7 +24,9 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
 
 ## Teiginiai
 
+<a id="claim-t-58917"></a>
 - t-001
+  global_id: t-58917
   teiginys: '1330 m. lapkričio 18 d. Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis po mišparų ėjo iš bažnyčios.'
   pagrindžia:
     - c-001

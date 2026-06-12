@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40703"></a>
 - t-001
+  global_id: t-40703
   teiginys: 'Gynyboje dalyvavo apie 1500 ginkluotų Vilniaus gyventojų, iš kurių apie 500 turėjo šaunamuosius ginklus, likę buvo ginkluoti specialiai kovai perdarytais dalgiais ir nukaltomis ietimis.'
   pagrindžia:
     - c-001

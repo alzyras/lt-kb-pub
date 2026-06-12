@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62804"></a>
 - t-001
+  global_id: t-62804
   teiginys: 'Dusburgietis teigia, kad 411 Herkus Mantas žuvo 1273 m. vasarą ar rudenį (Ewald A. L., Die Eroberung.., 4, p. 108; Jasas R., Didysis.., p. 61).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-62805"></a>
 - t-002
+  global_id: t-62805
   teiginys: 'Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo komtūras, ir.'
   pagrindžia:
     - c-002

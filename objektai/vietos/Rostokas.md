@@ -27,12 +27,16 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 
 ## Teiginiai
 
+<a id="claim-t-174021"></a>
 - t-001
+  global_id: t-174021
   teiginys: 'Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų Liubekui, Rostokui, Stralsundui, Greifsvaldui ir Ščecinui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-174023"></a>
 - t-002
+  global_id: t-174023
   teiginys: 'Dėl to rygiečiai kėlė balsą Hanzos sąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų patvirtintą sutartį su Polocku.'
   pagrindžia:
     - c-001

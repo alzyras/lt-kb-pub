@@ -26,12 +26,16 @@ Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis i
 
 ## Teiginiai
 
+<a id="claim-t-67314"></a>
 - t-001
+  global_id: t-67314
   teiginys: '„Lituania Propria“ žemėlapyje rodė teritoriją, apie kurią lietuviai svajojo Lietuvos valstybės atkūrimo laikotarpiu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67315"></a>
 - t-002
+  global_id: t-67315
   teiginys: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
   pagrindžia:
     - c-001

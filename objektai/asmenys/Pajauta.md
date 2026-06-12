@@ -14,24 +14,25 @@ amziai:
 periodo_grupes:
   - 'viduramžiai'
 ---
-
 # Pajauta
 
 ## Santrauka
 
-Kojelavičius teigia, kad todėl, sukvietęs didikus ir paaiškinęs jiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš Julijono Dausprungo palikuonių, pajėgų valdyti jauni kaitį, netrukus jam į žmonas atidavė vienturtę dukterį Pajautą, o kraičio pridėjo Lietuvos kunigaikštystę.
+Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė.
 
 ## Teiginiai
 
+<a id="claim-t-186244"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad todėl, sukvietęs didikus ir paaiškinęs jiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš Julijono Dausprungo palikuonių, pajėgų valdyti jauni kaitį, netrukus jam į žmonas atidavė vienturtę dukterį Pajautą, o kraičio pridėjo Lietuvos kunigaikštystę.'
+  global_id: t-186244
+  teiginys: 'Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad todėl, sukvietęs didikus ir paaiškinęs jiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš Julijono Dausprungo palikuonių, pajėgų valdyti jauni kaitį, netrukus jam į žmonas atidavė vienturtę dukterį Pajautą, o kraičio pridėjo Lietuvos kunigaikštystę.'
+  santrauka: 'Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Galbūt šitaip ir bū­
@@ -52,3 +53,8 @@ Kojelavičius teigia, kad todėl, sukvietęs didikus ir paaiškinęs jiems didž
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Živinbudas]]
+- [[objektai/asmenys/Kernius]]

@@ -24,7 +24,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-40618"></a>
 - t-001
+  global_id: t-40618
   teiginys: 'Girolamo Lippomano 1575 m. aprašė Lenkijos ir Lietuvos kariuomenių stovyklos įsirengimo būdą.'
   pagrindžia:
     - c-001

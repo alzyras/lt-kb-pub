@@ -16,12 +16,16 @@ Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskv�
 
 ## Teiginiai
 
+<a id="claim-t-22126"></a>
 - t-001
+  global_id: t-22126
   teiginys: 'Sovietmečiu Lietuvoje nebūdavo „dolgostrojų“, nes naujos įmonės buvo paleidžiamos daugiau ar mažiau laiku.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183416"></a>
 - t-002
+  global_id: t-183416
   teiginys: 'Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog čia nebūdavo „dolgostrojų“ (ilgus metus užsitęsusių statybų, kurios reikalaudavo nesibaigiančio finansavimo).'
   pagrindžia:
     - c-002

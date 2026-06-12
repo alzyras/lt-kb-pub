@@ -26,12 +26,16 @@ Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo­ je, apeinant Kęs
 
 ## Teiginiai
 
+<a id="claim-t-86503"></a>
 - t-001
+  global_id: t-86503
   teiginys: 'Jogailos aplinkoje buvo sudarytos paliaubos su Livonijos magistru Rygoje, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86504"></a>
 - t-002
+  global_id: t-86504
   teiginys: '1382 metų lapkričio pradžioje Jogaila Dubysos saloje sudarė paliaubas su kryžiuočiais, paaukodamas jiems nemažą Žemaitijos dalį.'
   pagrindžia:
     - c-001

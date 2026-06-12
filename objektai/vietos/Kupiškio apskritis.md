@@ -22,7 +22,9 @@ Priešo pajėgos 1949 m. lapkričio 1-2 dienomis MGB vidaus kariuomenės 137-0jo
 
 ## Teiginiai
 
+<a id="claim-t-38496"></a>
 - t-001
+  global_id: t-38496
   teiginys: '1949 m. lapkričio 1-2 d. MGB vidaus kariuomenės 137-ojo ir 298-ojo šaulių pulkų kareiviai vykdė operacijas Kupiškio apskrityje.'
   pagrindžia:
     - c-001

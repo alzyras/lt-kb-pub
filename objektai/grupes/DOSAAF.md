@@ -16,7 +16,9 @@ Nešiojamosios radijo stotelės perimtos iš buvusios DOSAAF (jomis buvo sukurta
 
 ## Teiginiai
 
+<a id="claim-t-40870"></a>
 - t-001
+  global_id: t-40870
   teiginys: 'Iš buvusios DOSAAF perimtomis nešiojamosiomis radijo stotelėmis buvo sukurtas ryšio tinklas tarp lauko postų.'
   pagrindžia:
     - c-001

@@ -26,17 +26,23 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 
 ## Teiginiai
 
+<a id="claim-t-169555"></a>
 - t-001
-  teiginys: 'Lietuvių amerikiečių delegatai vėliau prisidėjo prie Lietuvos delegacijos Paryžiuje bendrai ginti Lietuvos reikalų taikos kongrese 1919 m. Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Šveicarijoje.'
+  global_id: t-169555
+  teiginys: 'Neutralioje Šveicarijoje susidaręs negausus lietuvių būrys šelpė lietuvius belaisvius Vokietijoje ir skleidė žinias apie lietuvių teises.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169557"></a>
 - t-002
-  teiginys: 'Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; darbo pagrindu buvo paimtas nepriklausomybės reikalavimas.'
+  global_id: t-169557
+  teiginys: 'Antrojoje Lozanos konferencijoje nutarta politinės propagandos centrą įkurti Šveicarijoje ir remtis nepriklausomybės reikalavimu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183114"></a>
 - t-003
+  global_id: t-183114
   teiginys: 'Šveicarijos komitetai darbavosi ligi karo pabaigos.'
   pagrindžia:
     - c-003
@@ -44,6 +50,7 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Neutralioje Šveicarijoje susidaręs negausus lietuvių būrys šelpė lietuvius belaisvius Vokietijoje ir skleidė žinias apie lietuvių teises.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvių amerikiečių delegatai vėliau
@@ -61,6 +68,7 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
     - t-001
 
 - c-002
+  santrauka: 'Antrojoje Lozanos konferencijoje nutarta politinės propagandos centrą įkurti Šveicarijoje ir remtis nepriklausomybės reikalavimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šita konferencija tegvildeno propagandos organizacijos

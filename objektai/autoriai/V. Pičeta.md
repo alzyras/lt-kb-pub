@@ -26,7 +26,9 @@ Pičeta : Agrarnaja reforma Sigizmundą Avgusta v Litovsko-russkom gosudarstve (
 
 ## Teiginiai
 
+<a id="claim-t-100138"></a>
 - t-001
+  global_id: t-100138
   teiginys: 'Pičeta : Agrarnaja reforma Sigizmundą Avgusta v Litovsko-russkom gosudarstve (1917 ; Maskva 1958 tarybinis leidimas).'
   pagrindžia:
     - c-001

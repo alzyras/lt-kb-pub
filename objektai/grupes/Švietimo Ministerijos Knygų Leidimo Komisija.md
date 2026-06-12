@@ -3,7 +3,6 @@ tipas: grupe
 pavadinimas: 'Švietimo Ministerijos Knygų Leidimo Komisija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1936 m.'
 date_start: '1936'
@@ -23,14 +22,17 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-168666"></a>
 - t-001
-  teiginys: 'Ministerijos Knygų Leidimo Komisijai už vadovėlio išleidimą.'
+  global_id: t-168666
+  teiginys: 'Švietimo Ministerijos Knygų Leidimo Komisijai padėkota už vadovėlio išleidimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Švietimo Ministerijos Knygų Leidimo Komisijai padėkota už vadovėlio išleidimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Švietimo Ministeriui prof. J. Tonkūnui ir Vi-

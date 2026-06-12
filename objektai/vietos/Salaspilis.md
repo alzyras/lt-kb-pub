@@ -29,22 +29,30 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
 
 ## Teiginiai
 
+<a id="claim-t-182778"></a>
 - t-001
+  global_id: t-182778
   teiginys: '104-105, Salaspilio mūšis 1605 m. rugsėjo 27 d. Pirmasis etapas; antrasis etapas, Arvydas Pociūnas, Karolis Zikaras, Loreta Uzdraitė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182780"></a>
 - t-002
+  global_id: t-182780
   teiginys: 'Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183633"></a>
 - t-003
+  global_id: t-183633
   teiginys: 'Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183634"></a>
 - t-004
+  global_id: t-183634
   teiginys: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
   pagrindžia:
     - c-004

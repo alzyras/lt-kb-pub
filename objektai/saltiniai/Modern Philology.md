@@ -17,12 +17,16 @@ Dwight Iš jo „Modern Philology“ („Modernioji filologija“).
 
 ## Teiginiai
 
+<a id="claim-t-45745"></a>
 - t-001
+  global_id: t-45745
   teiginys: 'Benjaminas W. Dwightas veikale „Modern Philology“ lietuvių kalbos grožį iškėlė kaip lietuvių tautos vertės pagrindą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45746"></a>
 - t-002
+  global_id: t-45746
   teiginys: '„Modern Philology“ lietuvių kalba apibūdinta kaip turinti daugiausia maloninių ir mažybinių žodžių tarp Europos kalbų.'
   pagrindžia:
     - c-001

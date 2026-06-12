@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19592"></a>
 - t-001
+  global_id: t-19592
   teiginys: 'Kaune lietuviai konstravo karo ir sporto lėktuvus, lengvuosius bombonešius ir gamino sportui skirtus sklandytuvus.'
   pagrindžia:
     - c-001

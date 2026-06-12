@@ -17,12 +17,16 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
 
 ## Teiginiai
 
+<a id="claim-t-60113"></a>
 - t-001
+  global_id: t-60113
   teiginys: 'Dusburgietis teigia, kad be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60114"></a>
 - t-002
+  global_id: t-60114
   teiginys: 'Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių, 596 1241 m. įvykiai.'
   pagrindžia:
     - c-002

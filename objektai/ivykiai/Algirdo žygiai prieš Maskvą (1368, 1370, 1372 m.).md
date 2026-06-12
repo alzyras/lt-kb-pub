@@ -41,32 +41,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-05286"></a>
 - t-001
+  global_id: t-05286
   teiginys: '1368, 1370 ir 1372 m. Algirdas tris kartus žygiavo prieš Maskvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05287"></a>
 - t-002
+  global_id: t-05287
   teiginys: '1368 m. rudenį Algirdo žygyje prieš Maskvą dalyvavo Kęstutis, jaunas Vytautas, visi lietuvių kunigaikščiai ir Smolensko jėga.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05288"></a>
 - t-003
+  global_id: t-05288
   teiginys: 'Pirmojo žygio metu lietuviai pasiekė Maskvos vartus, tačiau Algirdas nebuvo pasirengęs ilgam apgulimui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-05289"></a>
 - t-004
+  global_id: t-05289
   teiginys: '1370 m. rudenį Algirdas po dešimties dienų prie Maskvos sudarė paliaubas su Dimitru Doniečiu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-10183"></a>
 - t-005
+  global_id: t-10183
   teiginys: 'Algirdas surengė tris karo žygius į Maskvą 1368, 1370 ir 1372 m.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-10184"></a>
 - t-006
+  global_id: t-10184
   teiginys: 'Algirdo žygiai sustabdė Maskvos pretenzijas į lietuvių valdomas rusėnų teritorijas.'
   pagrindžia:
     - c-004

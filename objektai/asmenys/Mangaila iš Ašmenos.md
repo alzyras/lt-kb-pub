@@ -26,7 +26,9 @@ Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zig
 
 ## Teiginiai
 
+<a id="claim-t-87770"></a>
 - t-001
+  global_id: t-87770
   teiginys: 'Mangaila iš Ašmenos 1388 m. Lucke dalyvavo tarp patikimų liudytojų iš Lietuvos.'
   pagrindžia:
     - c-001

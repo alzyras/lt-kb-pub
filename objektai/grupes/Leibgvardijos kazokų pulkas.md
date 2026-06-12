@@ -25,12 +25,16 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 
 ## Teiginiai
 
+<a id="claim-t-40982"></a>
 - t-001
+  global_id: t-40982
   teiginys: 'Leibgvardijos kazokų pulkas buvo įtrauktas į kautynėms paruoštos Rusijos kariuomenės pagrindą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183658"></a>
 - t-002
+  global_id: t-183658
   teiginys: 'Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos lietuviškasis pėstininkų pulkas (pagrindinė pulko dalis slopino sukilimą Lenkijoje, prie Vilniaus buvo jo atsarginės dalys), Leibgvardijos Voluinės pėstininkų pulkas, 6-asis karabinierių.'
   pagrindžia:
     - c-002

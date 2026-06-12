@@ -22,7 +22,9 @@ Dusburgietis teigia, kad [Ruigys] Ruhig P.
 
 ## Teiginiai
 
+<a id="claim-t-61275"></a>
 - t-001
+  global_id: t-61275
   teiginys: 'P. Ruhigo „Littauisch-deutsches und deutsch-littauisches Lexicon“ išleistas Karaliaučiuje 1747 m.'
   pagrindžia:
     - c-001

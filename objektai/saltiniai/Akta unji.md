@@ -19,12 +19,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-67347"></a>
 - t-001
+  global_id: t-67347
   teiginys: 'Leidinyje „Akta unji“ buvo atspausdinti išlikę dokumentai, susiję su Vytauto pasižadėjimu Jadvygai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67348"></a>
 - t-002
+  global_id: t-67348
   teiginys: '„Akta unii Polski z Litwą 1385-1791“ yra St. Kutrzebos ir Wl. Semkowicziaus parengtas 1385-1791 m. Lenkijos ir Lietuvos unijų aktų rinkinys, išleistas Krokuvoje 1932 m.'
   pagrindžia:
     - c-001

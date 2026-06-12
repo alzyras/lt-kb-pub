@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40733"></a>
 - t-001
+  global_id: t-40733
   teiginys: 'Kristupo Mikalojaus Radvilos Perkūno šarvai datuojami XVI-XVII a.'
   pagrindžia:
     - c-001

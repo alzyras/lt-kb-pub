@@ -23,7 +23,9 @@ Kučinskas, A.
 
 ## Teiginiai
 
+<a id="claim-t-31589"></a>
 - t-001
+  global_id: t-31589
   teiginys: 'A. Kučinsko „Gedimino dinastijos kilmė“ buvo išleista Kaune 1934 m. kaip atspaudas iš „Mūsų Žinyno“ 107-108 numerių.'
   pagrindžia:
     - c-001

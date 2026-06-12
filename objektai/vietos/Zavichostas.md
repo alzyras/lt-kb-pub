@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Zavichostas
 
 ## Santrauka
 
-Kojelavičius teigia, kad vyslos pakrantėje lietuviai nuniokojo didelius plotus, viskas čia žuvo nuo kalavijo bei gaisrų; vė liau kariams įsakė liautis be tvarkos siautėti ir traukti su grobiu į stovyklą netoli Zavichosto.
+Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto.
 
 ## Teiginiai
 
+<a id="claim-t-185257"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vyslos pakrantėje lietuviai nuniokojo didelius plotus, viskas čia žuvo nuo kalavijo bei gaisrų; vė liau kariams įsakė liautis be tvarkos siautėti ir traukti su grobiu į stovyklą netoli Zavichosto.'
+  global_id: t-185257
+  teiginys: 'Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vyslos pakrantėje lietuviai nuniokojo didelius plotus, viskas čia žuvo nuo kalavijo bei gaisrų; vė liau kariams įsakė liautis be tvarkos siautėti ir traukti su grobiu į stovyklą netoli Zavichosto.'
+  santrauka: 'Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Apie šį karą su lenkais nieko nepasakoja

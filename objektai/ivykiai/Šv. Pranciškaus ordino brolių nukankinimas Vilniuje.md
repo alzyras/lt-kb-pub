@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Šv. Pranciškaus ordino brolių nukankinimas Vilniuje
 
 ## Santrauka
 
-Kojelavičius teigia, kad kol jis pats gyveno Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs, tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen kėję, arba Poleksijoje), minia, kažin kieno sukursty ta, žiauriai su jais susidorojo.
+Goštautui išvykus į Tikociną, sukurstyta minia Vilniuje žiauriai susidorojo su krikščionių tikėjimo skelbėjais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185792"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kol jis pats gyveno Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs, tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen kėję, arba Poleksijoje), minia, kažin kieno sukursty ta, žiauriai su jais susidorojo.'
+  global_id: t-185792
+  teiginys: 'Goštautui išvykus į Tikociną, sukurstyta minia Vilniuje žiauriai susidorojo su krikščionių tikėjimo skelbėjais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kol jis pats gyveno Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs, tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen kėję, arba Poleksijoje), minia, kažin kieno sukursty ta, žiauriai su jais susidorojo.'
+  santrauka: 'Goštautui išvykus į Tikociną, sukurstyta minia Vilniuje žiauriai susidorojo su krikščionių tikėjimo skelbėjais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kol jis pats gyveno
@@ -58,3 +59,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/grupes/Lietuviai]]

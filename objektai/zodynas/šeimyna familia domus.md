@@ -25,22 +25,30 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
 
 ## Teiginiai
 
+<a id="claim-t-58818"></a>
 - t-001
+  global_id: t-58818
   teiginys: 'Dusburgietis teigia, kad 246 D.— cum omni domo et familia sua.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-58819"></a>
 - t-002
+  global_id: t-58819
   teiginys: 'Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su visa šeimyna, pamaldų ir karo reikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų išgriovė ir išžudė brolius bei krikščionis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58820"></a>
 - t-003
+  global_id: t-58820
   teiginys: 'Dusburgietis teigia, kad daug ir kitų pilių pastatė kilmingieji ir vasalai, atvykę į pagalbą šiai žemei iš įvairių Vokietijos kraštų drauge su visais namais, šeimynomis ir giminėmis, kurių vardus vienas dievas težino.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58821"></a>
 - t-004
+  global_id: t-58821
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas Tuo metu daug kilmingų ir galingų Varmės vyrų, matydami, kad dievas padeda kovoti broliams, pajuto tokią didelę sąžinės graužatį, kad su namais bei savo šeimynomis246 persikėlė pas Baigos brolius, o šie.'
   pagrindžia:
     - c-002

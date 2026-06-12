@@ -25,13 +25,17 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
 
 ## Teiginiai
 
+<a id="claim-t-45843"></a>
 - t-001
+  global_id: t-45843
   teiginys: 'Lenkijos ir Lietuvos valstybės teisių sistemos požiūriu įžadas tapo pacta conventa dalimi: taip nuo 1573 m. buvo vadinami elekcinių valdovų įsipareigojimai LLV bajorijai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182963"></a>
 - t-002
-  teiginys: 'Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu sudaromąja sutartimi — pacta conventa.'
+  global_id: t-182963
+  teiginys: 'Pagal pacta conventa karalius turėjo tiek valdžios, kiek bajorija jam suteikdavo išrinkimo metu sudaroma sutartimi.'
   pagrindžia:
     - c-002
 
@@ -54,7 +58,7 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
     - t-001
 
 - c-002
-  santrauka: 'Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu sudaromąja sutartimi — pacta conventa.'
+  santrauka: 'Pagal pacta conventa karalius turėjo tiek valdžios, kiek bajorija jam suteikdavo išrinkimo metu sudaroma sutartimi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bajorija laikė save

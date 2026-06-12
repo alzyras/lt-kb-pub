@@ -16,7 +16,9 @@ Miulerio vadovaujama kolona įsiveržė į centrinę Aušros vartų gatvę.
 
 ## Teiginiai
 
+<a id="claim-t-39787"></a>
 - t-001
+  global_id: t-39787
   teiginys: 'Pulkininko Miulerio vadovaujama kolona įsiveržė į centrinę Aušros vartų gatvę.'
   pagrindžia:
     - c-001

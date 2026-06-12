@@ -26,22 +26,30 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
 
 ## Teiginiai
 
+<a id="claim-t-115026"></a>
 - t-001
+  global_id: t-115026
   teiginys: 'Terespolis nebuvo Balinskių giminės paveldima nuosavybė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-115027"></a>
 - t-002
+  global_id: t-115027
   teiginys: 'Didžiausias persekiojimo susidūrimas įvyko jau už Terespolio, o visas persekiojimas tęsėsi apie 10 kilometrų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-115028"></a>
 - t-003
+  global_id: t-115028
   teiginys: 'Michałas Balińskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183812"></a>
 - t-004
+  global_id: t-183812
   teiginys: 'Didžiausias susidūrimas per lietuvių kariuomenės persekiojimą įvyko jau už Terespolio.'
   pagrindžia:
     - c-002

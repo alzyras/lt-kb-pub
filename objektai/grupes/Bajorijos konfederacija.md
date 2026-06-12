@@ -17,7 +17,9 @@ Kaip tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri skelbėsi n
 
 ## Teiginiai
 
+<a id="claim-t-72035"></a>
 - t-001
+  global_id: t-72035
   teiginys: 'Varšuvoje susidariusi bajorijos konfederacija siekė sujungti visas buvusios Respublikos žemes į vieną kūną.'
   pagrindžia:
     - c-001

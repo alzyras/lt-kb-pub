@@ -23,7 +23,9 @@ Semkowicz : Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi , K
 
 ## Teiginiai
 
+<a id="claim-t-31983"></a>
 - t-001
+  global_id: t-31983
   teiginys: 'W. Semkowicziaus „Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi“ išspausdintas KH 44 tome 1930 m., p. 348-355.'
   pagrindžia:
     - c-001

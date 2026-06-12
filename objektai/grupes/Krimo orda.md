@@ -16,17 +16,23 @@ Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas. Po t
 
 ## Teiginiai
 
+<a id="claim-t-65321"></a>
 - t-001
+  global_id: t-65321
   teiginys: 'Krimo totoriai pradėjo smarkius puolimus, ypač prieš Kijevo, Podolės ir Galicijos sritis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65322"></a>
 - t-002
+  global_id: t-65322
   teiginys: 'Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182898"></a>
 - t-003
+  global_id: t-182898
   teiginys: 'Aleksandras, Jonas Albrechtas ir Vladislovas buvo sutarę bendrai kariauti su turkais ir išardyti Krimo ordą.'
   pagrindžia:
     - c-003

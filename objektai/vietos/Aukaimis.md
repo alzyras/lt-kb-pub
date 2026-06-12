@@ -11,7 +11,6 @@ tags:
   - pilis
   - vieta
 ---
-
 # Aukaimis
 
 ## Santrauka
@@ -20,18 +19,24 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 
 ## Teiginiai
 
+<a id="claim-t-67659"></a>
 - t-001
+  global_id: t-67659
   teiginys: 'Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Aukaimį bei dar tris pilis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67660"></a>
 - t-002
+  global_id: t-67660
   teiginys: 'Dusburgietis teigia, kad apie Aukaimio papilio sudeginimą Neilgai trukus po to tie patys Ragainės broliai užpuolė su savo valdiniais, pilėnams bemiegant, Aukaimio papilį ir jį iki pamatų sudegino; neskaitant 4 vyrų, buvusių pilyje, ir saujelės pabėgusių, visi kiti žuvo arba nuo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184923"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad tais pačiais me tais per išdavystę buvo prarasta Aukaimio pilis.'
+  global_id: t-184923
+  teiginys: 'Aukaimio pilis tais pačiais metais buvo prarasta per išdavystę.'
   pagrindžia:
     - c-003
 
@@ -75,7 +80,7 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad tais pačiais me tais per išdavystę buvo prarasta Aukaimio pilis.'
+  santrauka: 'Aukaimio pilis tais pačiais metais buvo prarasta per išdavystę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto žmonių ne­

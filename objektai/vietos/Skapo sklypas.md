@@ -25,7 +25,9 @@ Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų ga
 
 ## Teiginiai
 
+<a id="claim-t-86235"></a>
 - t-001
+  global_id: t-86235
   teiginys: '1573 m. kovo 26 d. kunigaikštis Kristupas kapitului mainais atidavė Skapo vardu vadintą sklypą Skapo gatvės kampe.'
   pagrindžia:
     - c-001

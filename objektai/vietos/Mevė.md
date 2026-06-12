@@ -25,12 +25,16 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
 
 ## Teiginiai
 
+<a id="claim-t-58596"></a>
 - t-001
+  global_id: t-58596
   teiginys: '1283 m. Teutonų ordino broliai įkūrė Mevės pilį prie Vyslos, perkėlę Poterbergo pilį iš Kulmo žemės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58597"></a>
 - t-002
+  global_id: t-58597
   teiginys: 'Mevė, vėliau vadinta Mewe, yra dabartinis Gnevas kairiajame Vyslos krante.'
   pagrindžia:
     - c-001

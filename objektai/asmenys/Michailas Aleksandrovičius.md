@@ -27,17 +27,23 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
 
 ## Teiginiai
 
+<a id="claim-t-79107"></a>
 - t-001
+  global_id: t-79107
   teiginys: 'Tverės kunigaikštis Michailas siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79108"></a>
 - t-002
+  global_id: t-79108
   teiginys: 'Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos valdovo Algirdo (jo žmona Julijona Tverietė) prašė „pagalbos ir apginti“, kvietė žygiuoti į Maskvą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79109"></a>
 - t-003
+  global_id: t-79109
   teiginys: '1370 m. žygis Tęsdamas kovą su Maskva, Tverės kunigaikštis Michailas siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą, padėtų KR 6£ S k o © sa A = == e 8 = © + > == Zi IETIES ATRĖMIMAS Algirdo žodžiai ir simbolinis poelgis 1368 m.'
   pagrindžia:
     - c-001

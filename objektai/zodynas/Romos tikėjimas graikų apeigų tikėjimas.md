@@ -27,12 +27,16 @@ Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos
 
 ## Teiginiai
 
+<a id="claim-t-86507"></a>
 - t-001
+  global_id: t-86507
   teiginys: '1440 metų Kazimiero IV privilegija buvo duota Romos katalikų ir stačiatikių tikėjimo Vilniaus miestiečiams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86508"></a>
 - t-002
+  global_id: t-86508
   teiginys: 'Romos tikėjimo skelbėjais vadinti Vilniaus pranciškonai, kuriuos 1341 m. užpuolė sukurstyti pagonys.'
   pagrindžia:
     - c-002

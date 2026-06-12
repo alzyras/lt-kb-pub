@@ -27,7 +27,9 @@ Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalb
 
 ## Teiginiai
 
+<a id="claim-t-77862"></a>
 - t-001
+  global_id: t-77862
   teiginys: 'Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalba (žemaičių tarme), poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis manifestas.'
   pagrindžia:
     - c-001

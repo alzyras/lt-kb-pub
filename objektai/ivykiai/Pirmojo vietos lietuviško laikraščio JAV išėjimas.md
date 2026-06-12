@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66834"></a>
 - t-001
+  global_id: t-66834
   teiginys: 'Pirmasis vietos lietuviškas laikraštis JAV išėjo 1879 m.'
   pagrindžia:
     - c-001

@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-91907"></a>
 - t-001
+  global_id: t-91907
   teiginys: 'Dusburgietis teigia, kad jai tarus šiuos žodžius, regėjimas dingo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-91908"></a>
 - t-002
+  global_id: t-91908
   teiginys: 'Dusburgietis teigia, kad apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo Viešpaties dievo 1234 metais brolis Hermanas, magistras, jau išvijus prūsus iš Kulmo 229 Henrikas Barzdotasis (apie 1163—1238), Silezijos (Vroclavo) kunigaikštis nuo 1202 m..'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31626"></a>
 - t-001
+  global_id: t-31626
   teiginys: 'P. Kulikausko „Badania archeologiczne na Litwie w latach 1955-1961“ buvo paskelbta ABaSl II tome 1965 m., p. 203-259.'
   pagrindžia:
     - c-001

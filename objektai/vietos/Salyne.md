@@ -16,7 +16,9 @@ Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magist
 
 ## Teiginiai
 
+<a id="claim-t-42118"></a>
 - t-001
+  global_id: t-42118
   teiginys: 'Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magistro Konrado delegacijų susitikime buvo patvirtinta kryžiuočiams užleista Žemaitija iki Nevėžio ir Sūduva iki Šešupės aukštupio.'
   pagrindžia:
     - c-001

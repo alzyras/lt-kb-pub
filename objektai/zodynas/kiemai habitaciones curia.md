@@ -19,12 +19,16 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
 
 ## Teiginiai
 
+<a id="claim-t-58850"></a>
 - t-001
+  global_id: t-58850
   teiginys: 'Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių ir kiemų322, nes nesirasią tokio, kas, pastebėjęs karaliaus vėliavą, išdrįstų jį skriausti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58851"></a>
 - t-002
+  global_id: t-58851
   teiginys: 'Kiemai buvo didelės, turtingos ir daugiau ar mažiau įtvirtintos sodybos, bet ne pilys.'
   pagrindžia:
     - c-001

@@ -25,12 +25,16 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
 
 ## Teiginiai
 
+<a id="claim-t-179681"></a>
 - t-001
+  global_id: t-179681
   teiginys: 'Sofija buvo vyriausioji Dimitro Doniečio dukteris, kurią pagal 1384 m. susitarimą turėjo vesti Jogaila.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183842"></a>
 - t-002
+  global_id: t-183842
   teiginys: 'Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringailė 47 miręs nuo įduotų nuodų.'
   pagrindžia:
     - c-002

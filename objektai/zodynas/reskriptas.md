@@ -24,7 +24,9 @@ Dusburgietis teigia, kad mat popiežius pasakė, kad ir pasaulietiški, ir dvasi
 
 ## Teiginiai
 
+<a id="claim-t-58923"></a>
 - t-001
+  global_id: t-58923
   teiginys: 'Dusburgietis teigia, kad mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos karalystės reikalai esą betarpiškai pavaldūs apaštališkajam sostui, ir pasiuntė popiežius priklausomybės reskriptą su bule Prancūzijos karaliui, tvirtindamas, jog tas, kas teigiąs priešingai.'
   pagrindžia:
     - c-001

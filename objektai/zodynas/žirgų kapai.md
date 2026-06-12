@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-28617"></a>
 - t-001
+  global_id: t-28617
   teiginys: 'Terminas „žirgų kapai“ kilo iš papročio šalia sudegintų žmonių lavonų su įkapėmis užkasti nedegintus žirgus.'
   pagrindžia:
     - c-001

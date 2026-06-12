@@ -19,7 +19,9 @@ Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasi
 
 ## Teiginiai
 
+<a id="claim-t-87762"></a>
 - t-001
+  global_id: t-87762
   teiginys: 'Djakas Kulešinas per didžiojo kunigaikščio ir Elenos sutuoktuves laikė stiklinę vyno.'
   pagrindžia:
     - c-001

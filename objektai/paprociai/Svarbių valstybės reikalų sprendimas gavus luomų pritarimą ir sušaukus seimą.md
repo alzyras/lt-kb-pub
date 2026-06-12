@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą (seimas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad šitaip paprastai esti, kai vienoje valstybėje gyvena skirtingos tautos, tada kiekvienai rūpi savo reikalai, tada kiekviena baudžiasi tvarkyti krašto reikalus taip, kad nuostolių turėtų kita tauta, o ne ji pati. Kojelavičius teigia, kad atleidęs žygūną, jis sušaukė Lenčicoje seimą.
+Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo, ir sušaukė seimą Lenčicoje. Atleidęs žygūną, karalius sušaukė seimą Lenčicoje.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,20 +29,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185892"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad šitaip paprastai esti, kai vienoje valstybėje gyvena skirtingos tautos, tada kiekvienai rūpi savo reikalai, tada kiekviena baudžiasi tvarkyti krašto reikalus taip, kad nuostolių turėtų kita tauta, o ne ji pati.'
+  global_id: t-185892
+  teiginys: 'Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo, ir sušaukė seimą Lenčicoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185893"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad atleidęs žygūną, jis sušaukė Lenčicoje seimą.'
+  global_id: t-185893
+  teiginys: 'Atleidęs žygūną, karalius sušaukė seimą Lenčicoje.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad šitaip paprastai esti, kai vienoje valstybėje gyvena skirtingos tautos, tada kiekvienai rūpi savo reikalai, tada kiekviena baudžiasi tvarkyti krašto reikalus taip, kad nuostolių turėtų kita tauta, o ne ji pati.'
+  santrauka: 'Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo, ir sušaukė seimą Lenčicoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip paprastai esti, kai vienoje
@@ -66,7 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad atleidęs žygūną, jis sušaukė Lenčicoje seimą.'
+  santrauka: 'Atleidęs žygūną, karalius sušaukė seimą Lenčicoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
@@ -83,3 +86,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/grupes/Lenčicos seimas|Lenčicos seimas (seimas)]]
+- [[objektai/asmenys/Mikalojus Kurovskis]]
+- [[objektai/zodynas/luomas]]

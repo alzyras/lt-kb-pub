@@ -25,7 +25,9 @@ Tada net buvo kilusi mintis įkurti Šventosios uostą.
 
 ## Teiginiai
 
+<a id="claim-t-74019"></a>
 - t-001
+  global_id: t-74019
   teiginys: '1629–1635 m. suvaržius prekybą Klaipėdoje, buvo kilusi mintis įkurti Šventosios uostą.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # florinai
 
 ## Santrauka
 
-Kojelavičius teigia, kad veikiau norėdamas len kus labiau palenkti į karalių, Vytautas galop sutiko nu sileisti, bet pareikalavo kaip atlyginimo keturiasdešimt tūkstančių lenkų auksinų (vadinamųjų florinų).
+Vytautas pareikalavo keturiasdešimt tūkstančių lenkų auksinų, vadinamųjų florinų, kaip atlyginimo už nusileidimą lenkams.
 
 ## Teiginiai
 
+<a id="claim-t-185403"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad veikiau norėdamas len kus labiau palenkti į karalių, Vytautas galop sutiko nu sileisti, bet pareikalavo kaip atlyginimo keturiasdešimt tūkstančių lenkų auksinų (vadinamųjų florinų).'
+  global_id: t-185403
+  teiginys: 'Vytautas pareikalavo keturiasdešimt tūkstančių lenkų auksinų, vadinamųjų florinų, kaip atlyginimo už nusileidimą lenkams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad veikiau norėdamas len kus labiau palenkti į karalių, Vytautas galop sutiko nu sileisti, bet pareikalavo kaip atlyginimo keturiasdešimt tūkstančių lenkų auksinų (vadinamųjų florinų).'
+  santrauka: 'Vytautas pareikalavo keturiasdešimt tūkstančių lenkų auksinų, vadinamųjų florinų, kaip atlyginimo už nusileidimą lenkams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jogaila visaip
@@ -45,3 +46,13 @@ Kojelavičius teigia, kad veikiau norėdamas len kus labiau palenkti į karalių
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Motiejus Kaviečnijskis]]
+- [[objektai/zodynas/florinas, zlotas, grašis ir denaras]]
+- [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas]]
+- [[objektai/asmenys/Markas (žydas kreditorius)]]

@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87228"></a>
 - t-001
+  global_id: t-87228
   teiginys: 'Į Prūsiją atvykę Anglijos ir Prancūzijos savanoriai pagal to meto paprotį noriai eidavo kariauti su pagonimis.'
   pagrindžia:
     - c-001

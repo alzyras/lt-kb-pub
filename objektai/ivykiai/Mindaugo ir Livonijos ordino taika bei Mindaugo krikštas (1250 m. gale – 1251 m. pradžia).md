@@ -33,17 +33,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-71756"></a>
 - t-001
+  global_id: t-71756
   teiginys: 'Mindaugas susitaikė su Livonijos ordino magistru Andriumi von Stirland, kuris su juo padarė taiką ir skatino krikštytis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71757"></a>
 - t-002
+  global_id: t-71757
   teiginys: 'Mindaugas krikštijosi su sūnumis, žmona Morta ir didele daugybe jam pavaldžių pagonių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-71758"></a>
 - t-003
+  global_id: t-71758
   teiginys: '1250 m. gale ar 1251 m. pradžioje Mindaugas priėmė krikštą.'
   pagrindžia:
     - c-005

@@ -37,17 +37,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-78672"></a>
 - t-001
+  global_id: t-78672
   teiginys: 'Vėliau besikuriantys Lietuvos kariuomenės daliniai įsigydavo ginklų ir uniformų iš vokiečių kariuomenės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78673"></a>
 - t-002
+  global_id: t-78673
   teiginys: 'Lietuvos kariuomenės savanorio rankovės antsiuvas buvo trikampis tautinių spalvų skiriamasis ženklas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78674"></a>
 - t-003
+  global_id: t-78674
   teiginys: 'Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario 7 d. tarp bolševikų ir Šilginėlių kaime buvusios lietuvių sargybos įvyko smarkus stūmė lietuvių sargybas, prirengti pirmojo pavyzdžio uniforma (gavo kepures su geltonomis juostomis ir.'
   pagrindžia:
     - c-002

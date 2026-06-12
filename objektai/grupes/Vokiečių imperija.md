@@ -18,7 +18,9 @@ Tokiai didelei Vytauto valstybei anais laikais galėjo prilygti tik Vokiečiu im
 
 ## Teiginiai
 
+<a id="claim-t-35789"></a>
 - t-001
+  global_id: t-35789
   teiginys: 'Vokiečių imperija Vytauto laikais dydžiu galėjo prilygti jo valstybei, bet valdžios požiūriu buvo mažiau vieninga.'
   pagrindžia:
     - c-001

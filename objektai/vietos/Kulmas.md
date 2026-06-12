@@ -28,72 +28,100 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 
 ## Teiginiai
 
+<a id="claim-t-90747"></a>
 - t-001
+  global_id: t-90747
   teiginys: 'Jiems pirmąją bazę sudarė Tornas (1232 m.) ir Kulmas (1235 m.).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90748"></a>
 - t-002
+  global_id: t-90748
   teiginys: 'Dusburgietis teigia, kad apie dviejų našlių ginčą dėl vieno vyro Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi tame mūšyje buvo išžudyti, įpareigojo visas našles, suteikęs joms nuodėmių atleidimą, tekėti už savo tarnų, kad tikėjimo reikalas.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-90749"></a>
 - t-003
+  global_id: t-90749
   teiginys: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-90750"></a>
 - t-004
+  global_id: t-90750
   teiginys: 'Kryžeiviams išvykus namo, prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-90751"></a>
 - t-005
+  global_id: t-90751
   teiginys: 'Dusburgietis teigia, kad apie Kulmo žemės nusiaubimą Tuo pat metu ir tą pačią dieną (vasario 1), kai šitai dėjosi, Lokietka, Lenkijos karalius, padarė piktadarystę, kurią seniai buvo sumanęs: nepaisydamas taikos susitarimo, kurį buvo sudaręs su Čekijos karaliumi ir magistru, jis su 6.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-90752"></a>
 - t-006
+  global_id: t-90752
   teiginys: 'Mozūrų kunigaikštis Konradas vyskupą Kristijoną įkurdino Mozūrams priklausiusio Kulmo žemės pakraštyje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-90753"></a>
 - t-007
+  global_id: t-90753
   teiginys: 'Dusburgietis teigia, kad ), praėjus totorių—mongolų pavojui (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą — Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-90754"></a>
 - t-008
+  global_id: t-90754
   teiginys: 'Kryžiuočių riteriams pirmąją bazę sudarė Tornas 1232 m. ir Kulmas 1235 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90755"></a>
 - t-009
+  global_id: t-90755
   teiginys: 'Dusburgietis teigia, kad kulmo kilmingieji ir miestiečiai tvirtino, kad jiems verčiau žūti garbingoje kovoje, nei taip vargingai diena po dienos merdėti.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-90756"></a>
 - t-010
+  global_id: t-90756
   teiginys: 'Dusburgietis teigia, kad tuo metu į Prūsijos žemę atvyko kilnusis ir šviesusis Anlanto300 kunigaikštis su didele kariuomene; be daugybės kitų gerų darbų, kuriuos čia nuveikė, stiprindamas tikėjimą bei krikščionis, jis perkėlė Kulmo miestą nuo senosios pilies į kalvą, kur ir dabar.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-90757"></a>
 - t-011
+  global_id: t-90757
   teiginys: 'Dusburgietis teigia, kad ), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą — Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-90758"></a>
 - t-012
+  global_id: t-90758
   teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Viena moteriškė po mūšio drauge su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti žuvusiųjų kūnų ir sugalvojo parsivesti į miestą savo pusgyvį vyrą, bet šis pasipriešino; paklaustas, kodėl nenorįs ten mirti, atsakė, kad tą pačią dieną.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-90759"></a>
 - t-013
+  global_id: t-90759
   teiginys: 'Dusburgietis teigia, kad pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo sritį valdė prūsai, turėję ten savo pilių (III,7).'
   pagrindžia:
     - c-005
 
+<a id="claim-t-90760"></a>
 - t-014
+  global_id: t-90760
   teiginys: 'Dusburgietis teigia, kad žemės pakraštyje, Vyslos deš, krante — Kulmo pilis, miestas: castrum Colmen (1222 m., PUB, 1, 1, Nr. 41, p. 28), Colme (1230 m., ten pat, Nr. 72, p. 53), Culmine, civitatum [...] Culmen (1233 m., ten pat, Nr. 105, p. 77, 81), alden Culmen, nuwen Culmen (1278.'
   pagrindžia:
     - c-010

@@ -25,152 +25,212 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 
 ## Teiginiai
 
+<a id="claim-t-175106"></a>
 - t-001
+  global_id: t-175106
   teiginys: 'Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai sutriuškino kryžiuočius mūšio lauke.'
   pagrindžia:
     - c-020
 
+<a id="claim-t-175107"></a>
 - t-002
+  global_id: t-175107
   teiginys: 'Dusburgietis teigia, kad jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-175108"></a>
 - t-003
+  global_id: t-175108
   teiginys: 'Dusburgietis teigia, kad sūduviai, subūrę dar didesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių, kuriems broliai kiek galėdami priešinosi, ją sudegino, iki pamatų sunaikino, nužudė du brolius su visa šeimyna, taip po šiai dienai ši pilis ir liko.'
   pagrindžia:
     - c-024
 
+<a id="claim-t-175110"></a>
 - t-004
+  global_id: t-175110
   teiginys: 'Dusburgietis teigia, kad vieną sekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris ir vaikus išsivarė į nelaisvę.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-175111"></a>
 - t-005
+  global_id: t-175111
   teiginys: 'Komentarinėje pastaboje nurodoma, kad Dusburgietis Sūduvos vardu vadina sūduvių, arba jotvingių, gyvenamą kraštą XIII a.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-175112"></a>
 - t-006
+  global_id: t-175112
   teiginys: 'Dusburgietis teigia, kad apie sūduvių pabėgimą Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-175113"></a>
 - t-007
+  global_id: t-175113
   teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nusiaubimą Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami mūsų aprašytais ir neaprašytais smūgiais, didžiai krimtosi ir degė prieš juos neapsakomu įtūžiu, todėl pradėjo tartis, kaip būtų galima atkeršyti už.'
   pagrindžia:
     - c-021
 
+<a id="claim-t-175114"></a>
 - t-008
+  global_id: t-175114
   teiginys: 'Kazio Būgos nuomone, jotvingiai kalbėjo prūsų kalbos tarme.'
   pagrindžia:
     - c-025
 
+<a id="claim-t-175115"></a>
 - t-009
+  global_id: t-175115
   teiginys: 'Dusburgietis teigia, kad stipri prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-175116"></a>
 - t-010
+  global_id: t-175116
   teiginys: 'Dusburgietis teigia, kad prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-175117"></a>
 - t-011
+  global_id: t-175117
   teiginys: 'Dusburgietis teigia, kad sitai padaręs, magistras kitą dieną su savo kariuomene įsibrovė į Sūduvos valsčių, vardu Kimenava, ir taip smarkiai užpuolė to pat vardo pilį513, kad pilėnai netruko ją atiduoti sulygę, jog jiems bus leista netrukdomiems iš čia išeiti su visa manta.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-175118"></a>
 - t-012
+  global_id: t-175118
   teiginys: 'Dusburgietis teigia, kad apie karą su sūduviais ir apie paskutinį karą Prūsijos žemėje Užkariavus iš viešpaties Jėzaus Kristaus malonės visas Prūsijos žemės gentis, beliko vienui viena, bet visų galingiausioji, būtent sūduviai, kuriuos broliai narsiai puolė, ne tiek pasikliaudami.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-175119"></a>
 - t-013
+  global_id: t-175119
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais raitelių įsiveržė į Sūduvos žemę ir nusiaubė tą jos valsčių, kuris vadinamas Kimenava488; neskaitant galybės.'
   pagrindžia:
     - c-026
 
+<a id="claim-t-175120"></a>
 - t-014
+  global_id: t-175120
   teiginys: 'Dusburgietis teigia, kad kitą dieną, kai brolių kariuomenė atsitraukdama priėjo mišką, vardu Vinsas489, juos pasivijo trys tūkstančiai rinktinių sūduvių vyrų, kuriuos broliai su saviškiais drąsiai užpuolė, daugybę nukovė ir mirtinai sužeidė, o kitus nuvijo iki įeigos į jų žemę.'
   pagrindžia:
     - c-026
 
+<a id="claim-t-175122"></a>
 - t-015
+  global_id: t-175122
   teiginys: 'Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį Tuo metu, kai netikėlių kariuomenė buvo Sembos žemėje, brolis Ulrichas Bajeris, Tepliavos komtūras, su 12 brolių ir 250 raitelių įsiveržė į Sūduvą ir, neskaitant kitų nuostolių, kurių pridarė.'
   pagrindžia:
     - c-022
 
+<a id="claim-t-175123"></a>
 - t-016
+  global_id: t-175123
   teiginys: 'Dusburgietis teigia, kad sūduviai pranoko kitus kilnumu, turtais ir galybe ir turėjo šešis tūkstančius raitelių bei daug kitokių karių.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-175124"></a>
 - t-017
+  global_id: t-175124
   teiginys: 'Įžanginiame straipsnyje minima, kad 1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas pavyslyje iki Kristburgo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-175125"></a>
 - t-018
+  global_id: t-175125
   teiginys: 'Dusburgietis teigia, kad apie Vėluvos pilies puolimą Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias dienas laikė apsupę Vėluvos pilį, kasdien ją puldami.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-175126"></a>
 - t-019
+  global_id: t-175126
   teiginys: 'Dusburgietis teigia, kad sūduviai, patys tauriausieji, pranokdavo kitus ne tik papročių kilnumu, bet turtais bei galybe.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-175128"></a>
 - t-020
+  global_id: t-175128
   teiginys: 'Dusburgietis teigia, kad apie antrąjį Bartenšteino pilies sugriovimą Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams, labai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje, broliams iš jos pasitraukus, buvo.'
   pagrindžia:
     - c-023
 
+<a id="claim-t-175129"></a>
 - t-021
+  global_id: t-175129
   teiginys: 'Dusburgietis šiuo kraštovardžiu vadina sūduvių, arba jotvingių, gyvenamą kraštą XIII a.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-175130"></a>
 - t-022
+  global_id: t-175130
   teiginys: 'Dusburgietis teigia, kad įniršęs dėl tokio savo žmonių pralaimėjimo ir tokių didelių nuostolių, patirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių dieną481.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-175131"></a>
 - t-023
+  global_id: t-175131
   teiginys: 'Skomantas su sūduviais įsibrovė į Kulmo žemę ir padalijo kariuomenę į dvi dalis, nukreiptas prieš Torunę ir Kulmo miestą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-175132"></a>
 - t-024
+  global_id: t-175132
   teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių, skalvių ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui ir broliams (jie mat būgštavo, kad dėl tos.'
   pagrindžia:
     - c-027
 
+<a id="claim-t-175133"></a>
 - t-025
+  global_id: t-175133
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams, būtent: Eimsutis ir dar viena Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas siaubė Kulmo žemę, plėšdamas ir degindamas.'
   pagrindžia:
     - c-028
 
+<a id="claim-t-175134"></a>
 - t-026
+  global_id: t-175134
   teiginys: 'Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose siejami su 1205 m., tai yra 1209–1210 m., įvykiais.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-175135"></a>
 - t-027
+  global_id: t-175135
   teiginys: 'Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai užpuolė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-175136"></a>
 - t-028
+  global_id: t-175136
   teiginys: 'Dusburgietis teigia, kad pakrantėje; prie jos atvykusi kariuomenė iš Sūduvos bei kitų žemių apiplėšė aplinkinius valsčius ir pasitraukė.'
   pagrindžia:
     - c-029
 
+<a id="claim-t-175137"></a>
 - t-029
+  global_id: t-175137
   teiginys: 'Dusburgietis teigia, kad apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos pilies bei miesto sugriovimą Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-175138"></a>
 - t-030
+  global_id: t-175138
   teiginys: 'Brolis Liudvikas iš Libencelės atvedė magistrui Konradui Kantigirdą ir 1600 sūduvių, kuriuos nelaisvėje buvo atvertęs į Kristaus tikėjimą.'
   pagrindžia:
     - c-018

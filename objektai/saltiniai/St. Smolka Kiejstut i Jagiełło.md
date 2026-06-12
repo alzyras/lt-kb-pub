@@ -24,7 +24,9 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p.
 
 ## Teiginiai
 
+<a id="claim-t-31925"></a>
 - t-001
+  global_id: t-31925
   teiginys: 'St. Smolkos veikalas „Kiejstut i Jagiełło“ cituojamas kaip 1889 m. leidinys.'
   pagrindžia:
     - c-001

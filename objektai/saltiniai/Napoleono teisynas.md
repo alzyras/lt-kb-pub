@@ -26,12 +26,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-97270"></a>
 - t-001
+  global_id: t-97270
   teiginys: 'Augustinas Janulaitis „Napoleono teisyną“ paskelbė 1930 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97271"></a>
 - t-002
+  global_id: t-97271
   teiginys: '„Napoleono teisynas“ buvo išleistas 1930 m.'
   pagrindžia:
     - c-001

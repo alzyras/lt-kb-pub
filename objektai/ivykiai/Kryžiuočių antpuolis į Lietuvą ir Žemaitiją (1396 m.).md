@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Kryžiuočių antpuolis į Lietuvą ir Žemaitiją (1396 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad tuo metu jau galima buvo manyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau nerimo Švitrigaila. Kojelavičius teigia, kad vasario 6 šie žiauriai nuniokojo Lietuvą, o po to Žemaitiją.
+Švitrigaila kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą, o vasario 6 d. kryžiuočiai nuniokojo Lietuvą ir Žemaitiją. Vasario 6 d. kryžiuočiai žiauriai nuniokojo Lietuvą, o paskui Žemaitiją.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185724"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tuo metu jau galima buvo manyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau nerimo Švitrigaila.'
+  global_id: t-185724
+  teiginys: 'Švitrigaila kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą, o vasario 6 d. kryžiuočiai nuniokojo Lietuvą ir Žemaitiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185725"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad vasario 6 šie žiauriai nuniokojo Lietuvą, o po to Žemaitiją.'
+  global_id: t-185725
+  teiginys: 'Vasario 6 d. kryžiuočiai žiauriai nuniokojo Lietuvą, o paskui Žemaitiją.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tuo metu jau galima buvo manyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau nerimo Švitrigaila.'
+  santrauka: 'Švitrigaila kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą, o vasario 6 d. kryžiuočiai nuniokojo Lietuvą ir Žemaitiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo metu jau galima buvo
@@ -69,7 +72,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad vasario 6 šie žiauriai nuniokojo Lietuvą, o po to Žemaitiją.'
+  santrauka: 'Vasario 6 d. kryžiuočiai žiauriai nuniokojo Lietuvą, o paskui Žemaitiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vasario 6 šie žiauriai nuniokojo Lietuvą, o po
@@ -92,3 +95,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Švitrigaila]]

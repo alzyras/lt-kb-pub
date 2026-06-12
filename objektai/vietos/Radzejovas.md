@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Radzejovas
 
 ## Santrauka
 
-Kojelavičius teigia, kad prie Radzejovo susijungusi kariuomenė pa traukė link Bidgoščiaus.
+Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus.
 
 ## Teiginiai
 
+<a id="claim-t-185298"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad prie Radzejovo susijungusi kariuomenė pa traukė link Bidgoščiaus.'
+  global_id: t-185298
+  teiginys: 'Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad prie Radzejovo susijungusi kariuomenė pa traukė link Bidgoščiaus.'
+  santrauka: 'Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mažosios Lenkijos bei Volynės ka­

@@ -16,7 +16,9 @@ Dauguma kaltinamųjų sakė, kad žavisi nacizmu, Klaipėdą laiko Vokietijos da
 
 ## Teiginiai
 
+<a id="claim-t-19308"></a>
 - t-001
+  global_id: t-19308
   teiginys: 'Kaltinamieji teigė, kad nacių vadas Valteris R. Hesas jiems davė nurodymus dėl veiklos Klaipėdoje.'
   pagrindžia:
     - c-001

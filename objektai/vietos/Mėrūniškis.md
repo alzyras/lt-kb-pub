@@ -16,12 +16,16 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
 
 ## Teiginiai
 
+<a id="claim-t-58600"></a>
 - t-001
+  global_id: t-58600
   teiginys: 'Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą Brolis Konradas, magistras, visados rūpinęsis netikėlių naikinimu, subūręs galingą raitelių ir pėstininkų kariuomenę, su raitija įsiveržė į Sūduvos valsčių, vardu Mėrūniškis492, kur nukovė 18 šio valsčiaus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58601"></a>
 - t-002
+  global_id: t-58601
   teiginys: 'Mėrūniškis buvo to paties vardo valsčiaus įtvirtintas centras apie 29 km į šiaurės vakarus nuo Suvalkų.'
   pagrindžia:
     - c-002

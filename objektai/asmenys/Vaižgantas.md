@@ -18,7 +18,9 @@ Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Mai
 
 ## Teiginiai
 
+<a id="claim-t-78080"></a>
 - t-001
+  global_id: t-78080
   teiginys: 'Vaižgantas buvo vienas iš lietuvių literatūros klasikų, minėtų kaip dar vaikščiojusių Kauno gatvėmis.'
   pagrindžia:
     - c-001

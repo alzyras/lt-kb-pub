@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62496"></a>
 - t-001
+  global_id: t-62496
   teiginys: 'Dusburgietis teigia, kad apie taikos atkūrimą tarp Sventopelko ir brolių Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis Sventopelkas, kuris anksčiau kaip riaumojantis liūtas suko ratą po rato, bausdamasis sunaikinti brolius bei tikėjimo daigyną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-62497"></a>
 - t-002
+  global_id: t-62497
   teiginys: 'Dusburgietis teigia, kad 295 Paliaubos tarp Ordino ir Sventopelko sudarytos 1246 m. (Ewald A., Die Eroberung..., 2, p. 205).'
   pagrindžia:
     - c-002

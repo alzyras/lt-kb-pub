@@ -17,7 +17,9 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 
 ## Teiginiai
 
+<a id="claim-t-01517"></a>
 - t-001
+  global_id: t-01517
   teiginys: 'Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki 1564 m. vasario 22 d. (lietuviams išvažiavus, lenkų seimas dar posėdžiavo iki kovo 23 d.).'
   pagrindžia:
     - c-001

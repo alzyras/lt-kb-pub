@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20204"></a>
 - t-001
+  global_id: t-20204
   teiginys: '1991 m. vasarą Lietuvoje surengtose IV Pasaulio lietuvių sporto žaidynėse dalyvavo apie 2 tūkst. lietuvių sportininkų iš viso pasaulio.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183224"></a>
 - t-002
+  global_id: t-183224
   teiginys: 'Atkūrus Lietuvą, beveik visi jos sportininkai atsisakė dalyvauti SSRS rinktinėse ir čempionatuose.'
   pagrindžia:
     - c-001

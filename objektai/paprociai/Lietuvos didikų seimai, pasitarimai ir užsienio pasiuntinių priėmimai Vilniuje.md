@@ -46,12 +46,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87164"></a>
 - t-001
+  global_id: t-87164
   teiginys: 'Kazimiero valdymo laikotarpiu Vilniuje vyko dažni Lietuvos didikų suvažiavimai, pasitarimai, užsienio pasiuntinių priėmimai ir sutarčių sudarymai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87165"></a>
 - t-002
+  global_id: t-87165
   teiginys: '1464 m. Vilniuje vykęs seimas buvo įsimintinas visai valstybei paskelbtais įstatymais, galiojusiais iki Lietuvos Statuto.'
   pagrindžia:
     - c-001

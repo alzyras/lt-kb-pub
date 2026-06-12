@@ -36,32 +36,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-05333"></a>
 - t-001
+  global_id: t-05333
   teiginys: 'Aisčių laidotuvių apeigose mirusiųjų kapai darėsi turtingesni, o drauge su mirusiaisiais buvo pakasami išpuošti žirgai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-05335"></a>
 - t-002
+  global_id: t-05335
   teiginys: 'Wulfstano aprašyti aisčiai mirusiojo kūną laikydavo mėnesius, iš jo turto keldavo puotas, o likutį išdalydavo per arklių lenktynes.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-10812"></a>
 - t-003
+  global_id: t-10812
   teiginys: 'Laidodami lavonus aisčiai į kapą dėdavo įkapes, o laidojimo būdas buvo nevienodas: žymesniuosius sudegindavo, kitus laidodavo nesudegintus su daiktais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-10813"></a>
 - t-004
+  global_id: t-10813
   teiginys: 'Aisčiai rengdavo vėlių garbinamąsias šventes, vadinamas vėlinėmis, per kurias aukodavo aukas, o vėlėms nuliedavo gėrimų ir numesdavo maisto.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-12418"></a>
 - t-005
+  global_id: t-12418
   teiginys: 'Aisčių laidotuvių paprotys numatė, kad su kilmingo žmogaus lavonu sudegindavo ginklus, arklį, tarnus, moteris ir karo žygiui reikalingus daiktus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-12419"></a>
 - t-006
+  global_id: t-12419
   teiginys: 'Vėlinių dienomis gyvieji, rūpindamiesi vėlių likimu, Žeminei nuliedavo gėrimų ir numesdavo valgio, o vėles laikė galinčiomis pereiti į gyvulius, medžius ir kitus gamtos kūnus.'
   pagrindžia:
     - c-006

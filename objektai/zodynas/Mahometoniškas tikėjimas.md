@@ -24,7 +24,9 @@ Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius bu
 
 ## Teiginiai
 
+<a id="claim-t-32754"></a>
 - t-001
+  global_id: t-32754
   teiginys: 'Vytauto privilegijas gavę Lietuvos totoriai išlaikė mahometonišką tikėjimą ir papročius.'
   pagrindžia:
     - c-001

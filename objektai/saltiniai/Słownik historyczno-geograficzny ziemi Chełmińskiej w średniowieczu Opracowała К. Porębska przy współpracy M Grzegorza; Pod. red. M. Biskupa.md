@@ -22,7 +22,9 @@ Dusburgietis teigia, kad słownik historyczno-geograficzny ziemi Chełmińskiej 
 
 ## Teiginiai
 
+<a id="claim-t-61306"></a>
 - t-001
+  global_id: t-61306
   teiginys: 'Dusburgietis teigia, kad słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.'
   pagrindžia:
     - c-001

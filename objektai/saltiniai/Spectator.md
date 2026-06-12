@@ -16,7 +16,9 @@ Anglijoje leidžiamo žurnalo Spectator tradicijas.
 
 ## Teiginiai
 
+<a id="claim-t-88476"></a>
 - t-001
+  global_id: t-88476
   teiginys: 'Anglijoje leidžiamo žurnalo Spectator tradicijas.'
   pagrindžia:
     - c-001

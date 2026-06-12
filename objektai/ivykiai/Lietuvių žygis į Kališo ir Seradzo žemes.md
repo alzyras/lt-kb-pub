@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lietuvių žygis į Kališo ir Seradzo žemes
 
 ## Santrauka
 
-Kojelavičius teigia, kad kryžiuočiams puldinėjant gretimus Žemaitijos kaimus, lietuviai su savo nuolatiniu, galima sakyti, naminiu priešu šitaip kariavo: kai šie nusiaubdavo jų tėvynę, jie ryžtingai pradėdavo karą už tėvynės ribų.
+Spalio mėnesį lietuviai nusiaubė Kališo ir Seradzo žemes ir be pasipriešinimo grįžo namo su grobiu.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185812"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kryžiuočiams puldinėjant gretimus Žemaitijos kaimus, lietuviai su savo nuolatiniu, galima sakyti, naminiu priešu šitaip kariavo: kai šie nusiaubdavo jų tėvynę, jie ryžtingai pradėdavo karą už tėvynės ribų.'
+  global_id: t-185812
+  teiginys: 'Spalio mėnesį lietuviai nusiaubė Kališo ir Seradzo žemes ir be pasipriešinimo grįžo namo su grobiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kryžiuočiams puldinėjant gretimus Žemaitijos kaimus, lietuviai su savo nuolatiniu, galima sakyti, naminiu priešu šitaip kariavo: kai šie nusiaubdavo jų tėvynę, jie ryžtingai pradėdavo karą už tėvynės ribų.'
+  santrauka: 'Spalio mėnesį lietuviai nusiaubė Kališo ir Seradzo žemes ir be pasipriešinimo grįžo namo su grobiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kryžiuočiams puldinėjant gretimus Žemaitijos
@@ -55,3 +56,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/grupes/Rusai]]

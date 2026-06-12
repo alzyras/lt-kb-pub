@@ -19,17 +19,23 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
 
 ## Teiginiai
 
+<a id="claim-t-172076"></a>
 - t-001
+  global_id: t-172076
   teiginys: 'Valdovas siekė išrūpinti Šventojo Tėvo patvirtinimą artikulams, kuriems turėjo pritarti Apaštalų Sostas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-172078"></a>
 - t-002
+  global_id: t-172078
   teiginys: 'Vilniaus katedros kapitula galėjo naudotis jurisdikcija su ekskomunikacijos teise, leista vyskupų ir patvirtinta Apaštalų Sosto.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-172079"></a>
 - t-003
+  global_id: t-172079
   teiginys: 'Vilniaus kapitula teigė besivadovaujanti teise, kurią patvirtino Apaštalų Sostas, Lietuvos kunigaikščiai ir valdovas.'
   pagrindžia:
     - c-002

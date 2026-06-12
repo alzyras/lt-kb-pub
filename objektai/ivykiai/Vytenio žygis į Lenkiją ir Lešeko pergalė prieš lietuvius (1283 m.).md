@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad staigiai ir be var go iškilęs į valdžios viršūnes, Vytenis turėjo pamato įtariai žiūrėti j savo tolesnį likimą: jis žinojo, jog esa ma padėtis negali nekurstyti pavydo, neteikti progos maištams, ypač dėl to, kad negalėjo stigti maištui nei kurstytojų, nei.
+Vytenis, sutelkęs didesnę nei įprasta kariuomenę, užpuolė lenkų kraštą, nuniokojo Lukovo apylinkes ir įsiveržė į Sandomiro žemę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185790"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad staigiai ir be var go iškilęs į valdžios viršūnes, Vytenis turėjo pamato įtariai žiūrėti j savo tolesnį likimą: jis žinojo, jog esa ma padėtis negali nekurstyti pavydo, neteikti progos maištams, ypač dėl to, kad negalėjo stigti maištui nei kurstytojų, nei.'
+  global_id: t-185790
+  teiginys: 'Vytenis, sutelkęs didesnę nei įprasta kariuomenę, užpuolė lenkų kraštą, nuniokojo Lukovo apylinkes ir įsiveržė į Sandomiro žemę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad staigiai ir be var go iškilęs į valdžios viršūnes, Vytenis turėjo pamato įtariai žiūrėti j savo tolesnį likimą: jis žinojo, jog esa ma padėtis negali nekurstyti pavydo, neteikti progos maištams, ypač dėl to, kad negalėjo stigti maištui nei kurstytojų, nei.'
+  santrauka: 'Vytenis, sutelkęs didesnę nei įprasta kariuomenę, užpuolė lenkų kraštą, nuniokojo Lukovo apylinkes ir įsiveržė į Sandomiro žemę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Staigiai ir be var­
@@ -68,3 +69,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/posakiai/Ugnimi ir kalaviju]]
+- [[objektai/asmenys/Vytenis]]

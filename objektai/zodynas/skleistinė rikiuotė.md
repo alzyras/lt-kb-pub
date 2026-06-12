@@ -16,7 +16,9 @@ Pėstininkams judant skleistinėse rikiuotėse miškinga arba raižyta vietove n
 
 ## Teiginiai
 
+<a id="claim-t-38776"></a>
 - t-001
+  global_id: t-38776
   teiginys: 'Pėstininkams judant skleistinėse rikiuotėse miškinga arba raižyta vietove neįmanoma išlaikyti reikiamo lygiavimo.'
   pagrindžia:
     - c-001

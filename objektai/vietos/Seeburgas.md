@@ -17,7 +17,9 @@ VII amž. gale jie įsi­ kūrė Grobine, kur turėjo savo svarbią karinę baz�
 
 ## Teiginiai
 
+<a id="claim-t-28462"></a>
 - t-001
+  global_id: t-28462
   teiginys: 'VII amžiaus pabaigoje Grobine įsikūrę švedai turėjo svarbią karinę bazę Seeburgą.'
   pagrindžia:
     - c-001

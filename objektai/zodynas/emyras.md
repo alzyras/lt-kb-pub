@@ -19,17 +19,23 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
 
 ## Teiginiai
 
+<a id="claim-t-42448"></a>
 - t-001
+  global_id: t-42448
   teiginys: 'Krymo emyro Edygos kariai sudarė dalį totorių pajėgų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-42449"></a>
 - t-002
+  global_id: t-42449
   teiginys: 'Ordoje garsus emyras Edigėjus padrąsino chaną, ir derybos iš karto prasidėjo su Edigėjumi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183709"></a>
 - t-003
+  global_id: t-183709
   teiginys: 'Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai.'
   pagrindžia:
     - c-003
@@ -115,11 +121,9 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
 - [[objektai/grupes/Totorių pajėgos]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/chanas]]
-- [[objektai/autoriai/Atmesti paminėjimai]]
 - [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]
 - [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/grupes/Tochtamišo totoriai]]
-- [[objektai/posakiai/Veneros nuodai atbukino narsią širdį]]
 - [[objektai/daiktai/Vytauto ženklas]]
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
 - [[objektai/daiktai/Žasto, dilbio, kelio ir blauzdos apsaugos]]

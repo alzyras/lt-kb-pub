@@ -27,7 +27,9 @@ Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// T
 
 ## Teiginiai
 
+<a id="claim-t-87510"></a>
 - t-001
+  global_id: t-87510
   teiginys: 'Grigalius Astikas privilegijoje vadinamas išdaviku, po kurio Alantos dvaras 1581 m. vasario 13 d. dovanotas Gabrieliui Bekešui.'
   pagrindžia:
     - c-001

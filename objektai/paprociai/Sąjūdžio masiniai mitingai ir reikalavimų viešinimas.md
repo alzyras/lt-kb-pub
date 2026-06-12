@@ -54,7 +54,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-23375"></a>
 - t-001
+  global_id: t-23375
   teiginys: '1988 m. liepą-rugsėjį visoje Lietuvoje steigėsi Sąjūdžio iniciatyvinės grupės ir vyko didžiuliai mitingai.'
   pagrindžia:
     - c-001

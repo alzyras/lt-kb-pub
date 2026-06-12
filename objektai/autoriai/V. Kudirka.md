@@ -18,7 +18,9 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
 
 ## Teiginiai
 
+<a id="claim-t-19486"></a>
 - t-001
+  global_id: t-19486
   teiginys: '1988 m. spalio 6 d. Aukščiausiosios Tarybos Prezidiumas legalizavo V. Kudirkos „Tautišką giesmę“.'
   pagrindžia:
     - c-001

@@ -23,7 +23,9 @@ Dusburgietis teigia, kad kubicka W.
 
 ## Teiginiai
 
+<a id="claim-t-61107"></a>
 - t-001
+  global_id: t-61107
   teiginys: 'W. Kubickos „Bibliografia języka staropruskiego (do 1965 r.)“ paskelbta Balstogėje 1967 m.'
   pagrindžia:
     - c-001

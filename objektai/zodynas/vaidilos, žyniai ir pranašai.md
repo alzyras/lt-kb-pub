@@ -25,17 +25,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86494"></a>
 - t-001
+  global_id: t-86494
   teiginys: 'Čia pat medinė šventykla, prie kurios šliejosi pagonių vaidilų būstai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86495"></a>
 - t-002
+  global_id: t-86495
   teiginys: 'Lietuvos kronikos ir vietos padavimai katedros varpinę siejo su bokštu, iš kurio Lizdeika skelbdavęs pranašystes.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86496"></a>
 - t-003
+  global_id: t-86496
   teiginys: 'Prie Kreivosios pilies stovėjo apvalus mūrinis bokštas su langu, pro kurį žyniai ir pranašai skelbdavo pranašystes žmonėms.'
   pagrindžia:
     - c-001

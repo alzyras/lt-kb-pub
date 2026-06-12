@@ -18,7 +18,9 @@ Thunert, E.
 
 ## Teiginiai
 
+<a id="claim-t-31016"></a>
 - t-001
+  global_id: t-31016
   teiginys: 'E. Thunertas 1886 m. Dancige paskelbė darbą apie 1410-1411 m. Lenkijos ir Vokiečių ordino karą.'
   pagrindžia:
     - c-001

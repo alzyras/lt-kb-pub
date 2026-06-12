@@ -30,17 +30,23 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
 
 ## Teiginiai
 
+<a id="claim-t-45786"></a>
 - t-001
+  global_id: t-45786
   teiginys: 'Lietuvos barokas perėjo nuo kuklaus, Renesanso veikiamo baroko prie vėlyvojo baroko, rokoko ir savitos Vilniaus baroko mokyklos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45787"></a>
 - t-002
+  global_id: t-45787
   teiginys: 'Ryčiausia ir šiauriausia Europoje baroko architektūra Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco, port.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45788"></a>
 - t-003
+  global_id: t-45788
   teiginys: 'Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje.'
   pagrindžia:
     - c-001

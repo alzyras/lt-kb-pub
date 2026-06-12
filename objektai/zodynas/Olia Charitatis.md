@@ -23,7 +23,9 @@ Iš Joniškio - neturtingiems studentams kasdien Olia Charitatis [labdaringi pie
 
 ## Teiginiai
 
+<a id="claim-t-86601"></a>
 - t-001
+  global_id: t-86601
   teiginys: 'Iš Joniškio - neturtingiems studentams kasdien Olia Charitatis [labdaringi pietūs] ir duonos kepalas.'
   pagrindžia:
     - c-001

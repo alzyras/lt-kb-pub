@@ -22,7 +22,9 @@ Dusburgietis teigia, kad [Powierski J.] Warmia.— SSS, Wrocław—Warszawa—Kr
 
 ## Teiginiai
 
+<a id="claim-t-61256"></a>
 - t-001
+  global_id: t-61256
   teiginys: 'J. Powierskio „Warmia“ nurodyta 1980 m. SSS VI tomo 2 dalies 329-332 puslapiuose.'
   pagrindžia:
     - c-001

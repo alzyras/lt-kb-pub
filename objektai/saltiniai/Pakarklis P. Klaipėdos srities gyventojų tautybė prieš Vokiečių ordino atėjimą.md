@@ -24,7 +24,9 @@ Dusburgietis teigia, kad pakarklis P.
 
 ## Teiginiai
 
+<a id="claim-t-61210"></a>
 - t-001
+  global_id: t-61210
   teiginys: 'P. Pakarklio „Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą“ 1933 m. publikuotas „Mūsų žinyne“.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Kaip lenkų daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, ta
 
 ## Teiginiai
 
+<a id="claim-t-32502"></a>
 - t-001
+  global_id: t-32502
   teiginys: 'Lietuvos kariuomenė padėjo atgauti Raudonąją Rusią, į kurią vėliau iš Lietuvos nuvyko Jogaila.'
   pagrindžia:
     - c-001

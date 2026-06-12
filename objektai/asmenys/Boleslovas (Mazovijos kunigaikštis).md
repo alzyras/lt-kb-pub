@@ -18,7 +18,6 @@ amziai:
   - 'M'
 periodo_grupes: []
 ---
-
 # Boleslovas (Mazovijos kunigaikštis)
 
 ## Santrauka
@@ -27,33 +26,45 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
 
 ## Teiginiai
 
+<a id="claim-t-89678"></a>
 - t-001
+  global_id: t-89678
   teiginys: 'Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas man nesuprantamais sumetimais sudarė kuriam laikui tarp krikščionių ir netikėlių paliaubas, jų metu lenkai, nesitikėdami jokių pavojų, ramiai sau dirbo visokius darbus, tuo tarpu lietuviai, nutraukę šį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89680"></a>
 - t-002
+  global_id: t-89680
   teiginys: 'Dusburgietis teigia, kad po to, kai jie ėmė trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių žūties, leidosi jų persekioti su tūkstančiu ir aštuoniais šimtais vyrų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184678"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad vėliau Lauras nieka da nėjo valstybėje jokių pareigų: netoli Naugarduko Nemuno pakrantėje visą laiką tarp vienuolių ligi pat paskutiniosios dienos gyveno tokį gyvenimą, kokį bu vo pasirinkęs; jo sesuo, tėvo, o veikiau brolio išleista, ištekėjo už Boleslovo.'
+  global_id: t-184678
+  teiginys: 'Boleslovas, Mazovijos kunigaikštis, vedė Lauro seserį, tikėdamasis per giminystę su valdovais sumažinti lietuvių užpuldinėjimus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184679"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad mat, nors tada mo zūrai bei kryžiuočiai buvo sudarę sąjungą, tačiau kuni gaikštis Boleslovas, nekęsda mas ir lenkų, ir kryžiuočių, laikė toje vietoje lietuvių įgulą.'
+  global_id: t-184679
+  teiginys: 'Mazovijos kunigaikštis Boleslovas Viznoje laikė lietuvių įgulą, nors mozūrai ir kryžiuočiai tuo metu buvo sudarę sąjungą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184680"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  global_id: t-184680
+  teiginys: 'Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184681"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad zbignevas ir kurie ne kurie kiti rėmė Frid richą, Brandenburgo markgrafą, Jogailos anūkės vyrą, tačiau balsuojant laimėjo tie, kurie, Plocko vyskupo pa tarti, kėlė Mazovijos kunigaikštį Boleslovą.'
+  global_id: t-184681
+  teiginys: 'Renkant karalių Piotrkovo seime, Plocko vyskupo patarti rinkėjai kėlė Mazovijos kunigaikštį Boleslovą.'
   pagrindžia:
     - c-006
 
@@ -101,7 +112,7 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad vėliau Lauras nieka da nėjo valstybėje jokių pareigų: netoli Naugarduko Nemuno pakrantėje visą laiką tarp vienuolių ligi pat paskutiniosios dienos gyveno tokį gyvenimą, kokį bu vo pasirinkęs; jo sesuo, tėvo, o veikiau brolio išleista, ištekėjo už Boleslovo.'
+  santrauka: 'Boleslovas, Mazovijos kunigaikštis, vedė Lauro seserį, tikėdamasis per giminystę su valdovais sumažinti lietuvių užpuldinėjimus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi Lauras kuo atkak­
@@ -127,7 +138,7 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad mat, nors tada mo zūrai bei kryžiuočiai buvo sudarę sąjungą, tačiau kuni gaikštis Boleslovas, nekęsda mas ir lenkų, ir kryžiuočių, laikė toje vietoje lietuvių įgulą.'
+  santrauka: 'Mazovijos kunigaikštis Boleslovas Viznoje laikė lietuvių įgulą, nors mozūrai ir kryžiuočiai tuo metu buvo sudarę sąjungą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pats
@@ -156,7 +167,7 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  santrauka: 'Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kurie, prisi-
@@ -191,7 +202,7 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad zbignevas ir kurie ne kurie kiti rėmė Frid richą, Brandenburgo markgrafą, Jogailos anūkės vyrą, tačiau balsuojant laimėjo tie, kurie, Plocko vyskupo pa tarti, kėlė Mazovijos kunigaikštį Boleslovą.'
+  santrauka: 'Renkant karalių Piotrkovo seime, Plocko vyskupo patarti rinkėjai kėlė Mazovijos kunigaikštį Boleslovą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl, pasiuntę naujų pasiuntinių, dar
@@ -220,3 +231,15 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   statusas: verified
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/paliaubos]]
+
+### Susiję objektai
+- [[objektai/asmenys/Boleslovas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/seimas]]

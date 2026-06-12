@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62742"></a>
 - t-001
+  global_id: t-62742
   teiginys: 'Dusburgietis teigia, kad todėl, įsibrovę į Aukaimio pilies apylinkes, jas nuniokojo, degindami ir piešdami.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-62743"></a>
 - t-002
+  global_id: t-62743
   teiginys: 'Dusburgietis teigia, kad apie Aukaimio valsčiaus nusiaubimą Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis Henrikas Cutsvertas, minėtasis Baigos komtūras, su 20 brolių ir tūkstančiu penkiais šimtais vyrų išjojo537 link Junigedos pilies.'
   pagrindžia:
     - c-002

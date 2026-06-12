@@ -19,7 +19,9 @@ Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliau
 
 ## Teiginiai
 
+<a id="claim-t-80633"></a>
 - t-001
+  global_id: t-80633
   teiginys: 'Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliaubas.'
   pagrindžia:
     - c-001

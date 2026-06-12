@@ -18,12 +18,16 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
 
 ## Teiginiai
 
+<a id="claim-t-38442"></a>
 - t-001
+  global_id: t-38442
   teiginys: 'Mūšio metu miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183775"></a>
 - t-002
+  global_id: t-183775
   teiginys: 'Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką stengėsi išsiveržti iš apsupties zonos (miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės).'
   pagrindžia:
     - c-002

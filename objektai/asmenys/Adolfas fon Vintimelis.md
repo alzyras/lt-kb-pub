@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Adolfas fon Vintimelis (didikas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad grafas Verneris fon Hoinbergas ir Adolfas fon Vintimelis bei kiti Reino krašto didikai kaip tik buvo atvykę į Prūsiją.
+Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
 
 ## Teiginiai
 
+<a id="claim-t-186172"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad grafas Verneris fon Hoinbergas ir Adolfas fon Vintimelis bei kiti Reino krašto didikai kaip tik buvo atvykę į Prūsiją.'
+  global_id: t-186172
+  teiginys: 'Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad grafas Verneris fon Hoinbergas ir Adolfas fon Vintimelis bei kiti Reino krašto didikai kaip tik buvo atvykę į Prūsiją.'
+  santrauka: 'Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Trumpą atokvėpį vis dėlto nutraukė nauji ant­
@@ -41,3 +42,9 @@ Kojelavičius teigia, kad grafas Verneris fon Hoinbergas ir Adolfas fon Vintimel
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]

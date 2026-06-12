@@ -19,7 +19,9 @@ Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasi
 
 ## Teiginiai
 
+<a id="claim-t-87843"></a>
 - t-001
+  global_id: t-87843
   teiginys: 'Kunigaikštienė Rapolovska per didžiojo kunigaikščio ir Elenos sutuoktuves laikė vainiką virš Elenos galvos.'
   pagrindžia:
     - c-001

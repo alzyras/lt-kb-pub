@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad norėdamas vis dėlto atsi lyginti priešui už tą antpuolį, jis, kuo greičiausiai su telkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus, užėmė Daugpilį Dauguvos V y ta u ta s n io k o ja Lipakrantėje.
+1396 m. Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185789"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad norėdamas vis dėlto atsi lyginti priešui už tą antpuolį, jis, kuo greičiausiai su telkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus, užėmė Daugpilį Dauguvos V y ta u ta s n io k o ja Lipakrantėje.'
+  global_id: t-185789
+  teiginys: '1396 m. Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad norėdamas vis dėlto atsi lyginti priešui už tą antpuolį, jis, kuo greičiausiai su telkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus, užėmė Daugpilį Dauguvos V y ta u ta s n io k o ja Lipakrantėje.'
+  santrauka: '1396 m. Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas, ligi šiol laikęs savo kariuomenę
@@ -68,3 +69,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -27,7 +27,9 @@ Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudo
 
 ## Teiginiai
 
+<a id="claim-t-41536"></a>
 - t-001
+  global_id: t-41536
   teiginys: 'KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.'
   pagrindžia:
     - c-001

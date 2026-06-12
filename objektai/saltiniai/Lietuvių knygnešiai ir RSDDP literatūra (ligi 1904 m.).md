@@ -23,7 +23,9 @@ Be to, jis rašė : Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.) (L
 
 ## Teiginiai
 
+<a id="claim-t-100183"></a>
 - t-001
+  global_id: t-100183
   teiginys: 'Be to, jis rašė : Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.) (Liet.'
   pagrindžia:
     - c-001

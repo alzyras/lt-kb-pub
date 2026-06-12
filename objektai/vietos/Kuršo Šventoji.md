@@ -18,7 +18,9 @@ Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Š
 
 ## Teiginiai
 
+<a id="claim-t-32290"></a>
 - t-001
+  global_id: t-32290
   teiginys: 'Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Šventosios.'
   pagrindžia:
     - c-001

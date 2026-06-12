@@ -19,7 +19,9 @@ Iš to susidarė dvi partijos: karo ir taikos.
 
 ## Teiginiai
 
+<a id="claim-t-34355"></a>
 - t-001
+  global_id: t-34355
   teiginys: 'Vytautas ir karo partija reikalavo mūšio, nors taikos partija ragino jį sudaryti paliaubas su totoriais.'
   pagrindžia:
     - c-001

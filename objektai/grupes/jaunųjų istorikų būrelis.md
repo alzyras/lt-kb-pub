@@ -24,7 +24,9 @@ jubiliejinių metų (1930) Lietuvos istorijos dirvonuose ėmė pasirodyti vad. �
 
 ## Teiginiai
 
+<a id="claim-t-31374"></a>
 - t-001
+  global_id: t-31374
   teiginys: 'Jaunųjų istorikų būrelis nuo 1930 m. pradėjo rengti kolektyvines monografijas apie Vytautą Didįjį, Jogailą ir Lietuvos istoriją.'
   pagrindžia:
     - c-001

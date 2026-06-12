@@ -31,53 +31,73 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
 
 ## Teiginiai
 
+<a id="claim-t-178743"></a>
 - t-001
+  global_id: t-178743
   teiginys: 'Prie Vorsklos, kairiojo Dniepro intako, Vytauto kariuomenė susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-178744"></a>
 - t-002
+  global_id: t-178744
   teiginys: 'Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-178745"></a>
 - t-003
+  global_id: t-178745
   teiginys: 'Andrius žuvo prie Vorsklos 1399 metais.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-178746"></a>
 - t-004
+  global_id: t-178746
   teiginys: 'Kai Vytautas priartėjo prie Vorsklos upės, ten atvyko Timur-Kutlugo vadas Edyga.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-178747"></a>
 - t-005
+  global_id: t-178747
   teiginys: 'Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-178748"></a>
 - t-006
+  global_id: t-178748
   teiginys: 'Kautynių vieta buvo numatyta Vorsklos upės apylinkėse.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-178749"></a>
 - t-007
+  global_id: t-178749
   teiginys: 'Vytautas ir pats buvo reagavęs į Serbijos sunaikinimą prie Kosovo (1389) - organizavo analogišką Nikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu 1399 m. prie Vorsklos.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-178750"></a>
 - t-008
+  global_id: t-178750
   teiginys: 'Vytauto didelių užsimojimų žygis buvo pralaimėtas prie Vorsklos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184325"></a>
 - t-010
+  global_id: t-184325
   teiginys: 'Vytauto didelių užsimojimų žygis prie Vorsklos buvo pralaimėtas.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-185211"></a>
 - t-011
-  teiginys: 'Kojelavičius teigia, kad prie Vorsklos upės galop pasirodė Edigejus, Tamerlano karvedys, su didžiuliais skitų būriais.'
+  global_id: t-185211
+  teiginys: 'Prie Vorsklos upės pasirodė Tamerlano karvedys Edigejus su didžiuliais skitų būriais.'
   pagrindžia:
     - c-009
 
@@ -233,7 +253,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
     - t-010
 
 - c-009
-  santrauka: 'Kojelavičius teigia, kad prie Vorsklos upės galop pasirodė Edigejus, Tamerlano karvedys, su didžiuliais skitų būriais.'
+  santrauka: 'Prie Vorsklos upės pasirodė Tamerlano karvedys Edigejus su didžiuliais skitų būriais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nesutikdami jokio pasiprieši­

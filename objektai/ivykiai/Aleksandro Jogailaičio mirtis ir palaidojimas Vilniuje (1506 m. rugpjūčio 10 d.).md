@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86939"></a>
 - t-001
+  global_id: t-86939
   teiginys: 'Ši trokštama žinia jau merdintį Aleksandrą pasiekė Vilniuje.'
   pagrindžia:
     - c-001

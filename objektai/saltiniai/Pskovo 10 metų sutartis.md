@@ -19,7 +19,9 @@ Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris tuo pat laiku, kai Ko
 
 ## Teiginiai
 
+<a id="claim-t-36105"></a>
 - t-001
+  global_id: t-36105
   teiginys: 'Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.'
   pagrindžia:
     - c-001

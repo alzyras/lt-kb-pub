@@ -16,7 +16,9 @@ Mogilnickis išleido 5 flor.
 
 ## Teiginiai
 
+<a id="claim-t-87793"></a>
 - t-001
+  global_id: t-87793
   teiginys: 'Mogilnickis išleido 5 flor.'
   pagrindžia:
     - c-001

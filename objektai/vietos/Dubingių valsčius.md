@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86179"></a>
 - t-001
+  global_id: t-86179
   teiginys: 'Rašelė minima kaip viena iš upių prie Lakajų ežero Dubingių valsčiuje.'
   pagrindžia:
     - c-001

@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62925"></a>
 - t-001
+  global_id: t-62925
   teiginys: 'Dusburgietis teigia, kad mstivojus, Pomeranijos kunigaikštis, anksčiau nelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas, paliovė tūžęs ir nuolankiai bei karštai paprašė magistrą sutikti atnaujinti kadaise sudarytą tarp jo ir magistro bei brolių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-62926"></a>
 - t-002
+  global_id: t-62926
   teiginys: 'Dusburgietis teigia, kad tėvui mirus400 (1299 m. sausio 11 d.), tapęs Pomeranijos kunigaikščiu, akiplėšiškai pradėjo eiti tais klaidingais keliais, kuriais kadaise ėjo tėvas, paakino prūsų kariuomenę deginti ir plėšti Kulmo žemę bei Pamedės vyskupystę, tas jos žemes, kurios buvo.'
   pagrindžia:
     - c-001

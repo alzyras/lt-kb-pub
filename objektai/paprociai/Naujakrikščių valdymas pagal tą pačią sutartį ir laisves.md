@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62694"></a>
 - t-001
+  global_id: t-62694
   teiginys: 'Dusburgietis teigia, kad ir kiti naujakrikščiai vėliau buvo valdomi, remiantis ta pačia sutartimi bei laisvėmis, kurios tuo metu šiems buvo suteiktos.'
   pagrindžia:
     - c-001

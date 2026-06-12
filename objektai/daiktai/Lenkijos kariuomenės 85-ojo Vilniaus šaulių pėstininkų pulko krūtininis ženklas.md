@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40736"></a>
 - t-001
+  global_id: t-40736
   teiginys: 'Lenkijos kariuomenės 85-ojo Vilniaus šaulių pėstininkų pulko krūtininiame ženkle buvo užrašas „Nie damy“ ir Aušros vartų Dievo Motina.'
   pagrindžia:
     - c-001

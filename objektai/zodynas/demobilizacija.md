@@ -30,7 +30,9 @@ Po demobilizacijos grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos kariu
 
 ## Teiginiai
 
+<a id="claim-t-42443"></a>
 - t-001
+  global_id: t-42443
   teiginys: 'Kazys Ladyga po demobilizacijos grįžo į Lietuvą ir prisidėjo prie pirmųjų Lietuvos kariuomenės dalinių organizavimo.'
   pagrindžia:
     - c-001

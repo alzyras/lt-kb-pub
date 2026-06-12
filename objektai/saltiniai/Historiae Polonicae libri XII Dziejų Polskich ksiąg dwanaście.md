@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-34959"></a>
 - t-001
+  global_id: t-34959
   teiginys: 'Joanio Długossio „Historiae Polonicae libri XII“ išleista Frankfurte ir Leipcige 1711–1712 m.'
   pagrindžia:
     - c-001

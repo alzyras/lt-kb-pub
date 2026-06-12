@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87267"></a>
 - t-001
+  global_id: t-87267
   teiginys: 'Vytauto žmonos Ona ir Julijona išpažino graikų apeigų tikėjimą ir dar prieš Lietuvos krikštą turėjo koplyčią Trakų pilyje.'
   pagrindžia:
     - c-001

@@ -27,12 +27,16 @@ Dusburgietis teigia, kad žulkus V. Dusburgietis teigia, kad 16— Žulkus V.
 
 ## Teiginiai
 
+<a id="claim-t-60569"></a>
 - t-001
+  global_id: t-60569
   teiginys: 'Žulkus V. 1983 m. žurnale „Mokslas ir gyvenimas“ paskelbė straipsnį apie Klaipėdos pilį ir miestą XIII-XVI a.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60570"></a>
 - t-002
+  global_id: t-60570
   teiginys: 'Žulkus V. paskelbė darbą apie Birutės kalno ir gyvenvietės tyrinėjimus 1982 ir 1983 metais.'
   pagrindžia:
     - c-001

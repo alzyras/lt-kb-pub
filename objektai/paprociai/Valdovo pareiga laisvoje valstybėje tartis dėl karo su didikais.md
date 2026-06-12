@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Valdovo pareiga laisvoje valstybėje tartis dėl karo su didikais
 
 ## Santrauka
 
-Kojelavičius teigia, kad esą, galėdamas elgtis savo nuožiūra, neabe jotinai su džiaugsmu patrauktų į žygį prieš skitus, ta čiau laisvų žmonių valstybėje valdovas įstatymų ver čiamas skaitytis su kitų nuomone.
+Augustas Ivanui aiškino, kad laisvų žmonių valstybėje valdovas įstatymų verčiamas skaitytis su kitų nuomone dėl karo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185900"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad esą, galėdamas elgtis savo nuožiūra, neabe jotinai su džiaugsmu patrauktų į žygį prieš skitus, ta čiau laisvų žmonių valstybėje valdovas įstatymų ver čiamas skaitytis su kitų nuomone.'
+  global_id: t-185900
+  teiginys: 'Augustas Ivanui aiškino, kad laisvų žmonių valstybėje valdovas įstatymų verčiamas skaitytis su kitų nuomone dėl karo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad esą, galėdamas elgtis savo nuožiūra, neabe jotinai su džiaugsmu patrauktų į žygį prieš skitus, ta čiau laisvų žmonių valstybėje valdovas įstatymų ver čiamas skaitytis su kitų nuomone.'
+  santrauka: 'Augustas Ivanui aiškino, kad laisvų žmonių valstybėje valdovas įstatymų verčiamas skaitytis su kitų nuomone dėl karo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai
@@ -55,3 +56,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Augustas]]
+- [[objektai/zodynas/žygis]]

@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Vytauto susitaikymas su Jogaila ir pabėgimas iš Prūsijos (1388 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad išjojęs iš Marienburgo visai kitu keliu, ne tuo, kuris vedė į dvarą, netrukus pasuko ir iš dvaro pasiėmė žmo ną, kuri, kaip ir buvo sutarta, susiruošusi jo laukė su turtais, ir skubiai paspruko link Žemaitijos, o iš ten, pasukęs Prūsijos pasieniu į Palenkę.
+Išjojęs iš Marienburgo, Vytautas pasiėmė žmoną su turtais ir skubiai paspruko link Žemaitijos, o iš ten pasuko į Palenkę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185663"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad išjojęs iš Marienburgo visai kitu keliu, ne tuo, kuris vedė į dvarą, netrukus pasuko ir iš dvaro pasiėmė žmo ną, kuri, kaip ir buvo sutarta, susiruošusi jo laukė su turtais, ir skubiai paspruko link Žemaitijos, o iš ten, pasukęs Prūsijos pasieniu į Palenkę.'
+  global_id: t-185663
+  teiginys: 'Išjojęs iš Marienburgo, Vytautas pasiėmė žmoną su turtais ir skubiai paspruko link Žemaitijos, o iš ten pasuko į Palenkę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad išjojęs iš Marienburgo visai kitu keliu, ne tuo, kuris vedė į dvarą, netrukus pasuko ir iš dvaro pasiėmė žmo ną, kuri, kaip ir buvo sutarta, susiruošusi jo laukė su turtais, ir skubiai paspruko link Žemaitijos, o iš ten, pasukęs Prūsijos pasieniu į Palenkę.'
+  santrauka: 'Išjojęs iš Marienburgo, Vytautas pasiėmė žmoną su turtais ir skubiai paspruko link Žemaitijos, o iš ten pasuko į Palenkę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas įsakė sa­
@@ -67,3 +68,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

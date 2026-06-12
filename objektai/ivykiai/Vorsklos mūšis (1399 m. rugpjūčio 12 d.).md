@@ -46,22 +46,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-63377"></a>
 - t-001
+  global_id: t-63377
   teiginys: 'Vytautas 5 dienas stovėjo kitoje Vorsklos pusėje, įtvirtintoje stovykloje su geležinėmis grandinėmis kaustytais vežimais, su daugeliu patrankėlių (piščalių), patrankų, „arbaletų“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63382"></a>
 - t-002
+  global_id: t-63382
   teiginys: 'Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro Liubeko kronikos tęsinyje: tuo metu lietuviai prieš totorius kariavę tris kartus, dvejas kautynes laimėję, o prie Vorsklos patyrę nesėkmę; to meto žiniomis, tuose.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-63383"></a>
 - t-003
+  global_id: t-63383
   teiginys: '1399 m. rugpjūčio 12 d., „dvi valandos iki saulėlydžio“ prasidėjo „didžiausias mūšis“.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184235"></a>
 - t-005
+  global_id: t-184235
   teiginys: 'Kautynėms vieta buvo numatyta Vorsklos upės apylinkės.'
   pagrindžia:
     - c-009

@@ -30,22 +30,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-09593"></a>
 - t-001
+  global_id: t-09593
   teiginys: 'Partizanai dažnai įrengdavo požemines slėptuves upelio kranto šlaite, kur buvo lengviau gauti vandens ir slėpti pėdsakus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-09594"></a>
 - t-002
+  global_id: t-09594
   teiginys: 'Partizanai iš pradžių laikėsi miško stovyklose arba apsistodavo pas ūkininkus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-09595"></a>
 - t-003
+  global_id: t-09595
   teiginys: 'Partizanai slėptuves įsirengdavo sodybose, o nenorėdami pakenkti rėmėjams stengdavosi bunkerius įrengti miške.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-09596"></a>
 - t-004
+  global_id: t-09596
   teiginys: 'Bunkerių įėjimai buvo kruopščiai maskuojami ir dažnai naudojami tik naktį.'
   pagrindžia:
     - c-001

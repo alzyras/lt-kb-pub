@@ -16,7 +16,9 @@ Bironto vadovaujama šešių Žemaitijos komendantūrų rinktinė saugojo Kauno-
 
 ## Teiginiai
 
+<a id="claim-t-39977"></a>
 - t-001
+  global_id: t-39977
   teiginys: 'Bironto vadovaujama šešių Žemaitijos komendantūrų rinktinė saugojo Kauno-Seredžiaus-Jurbarko kryptį.'
   pagrindžia:
     - c-001

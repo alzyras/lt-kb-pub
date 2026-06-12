@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Skitų belaisvių tarnybos ir pragyvenimo praktikos Lietuvoje
 
 ## Santrauka
 
-Kojelavičius teigia, kad iš skitų bajorijos paprastai sa ve kildina tie, kurie valdo Lietuvos didžiųjų kunigaikš čių padovanotus laukus ir, tautos vyresniųjų bei vėlia vininkų įtraukti į tam tikrus būrius, turi savo lėšomis eiti karinę tarnybą.
+Skitų bajorijos kilmę sau priskyrę žmonės valdė kunigaikščių padovanotus laukus ir savo lėšomis turėjo eiti karinę tarnybą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185861"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad iš skitų bajorijos paprastai sa ve kildina tie, kurie valdo Lietuvos didžiųjų kunigaikš čių padovanotus laukus ir, tautos vyresniųjų bei vėlia vininkų įtraukti į tam tikrus būrius, turi savo lėšomis eiti karinę tarnybą.'
+  global_id: t-185861
+  teiginys: 'Skitų bajorijos kilmę sau priskyrę žmonės valdė kunigaikščių padovanotus laukus ir savo lėšomis turėjo eiti karinę tarnybą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad iš skitų bajorijos paprastai sa ve kildina tie, kurie valdo Lietuvos didžiųjų kunigaikš čių padovanotus laukus ir, tautos vyresniųjų bei vėlia vininkų įtraukti į tam tikrus būrius, turi savo lėšomis eiti karinę tarnybą.'
+  santrauka: 'Skitų bajorijos kilmę sau priskyrę žmonės valdė kunigaikščių padovanotus laukus ir savo lėšomis turėjo eiti karinę tarnybą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš skitų bajorijos paprastai sa­
@@ -60,3 +61,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/kunigaikščiai]]

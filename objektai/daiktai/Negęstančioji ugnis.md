@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59695"></a>
 - t-001
+  global_id: t-59695
   teiginys: 'Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet, žinoma, [tikėjo] ne taip, kaip dera.'
   pagrindžia:
     - c-001

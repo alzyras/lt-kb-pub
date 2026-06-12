@@ -16,7 +16,9 @@ Majewski, W.
 
 ## Teiginiai
 
+<a id="claim-t-31069"></a>
 - t-001
+  global_id: t-31069
   teiginys: 'W. Majewski parašė straipsnį „Kilka uwag o bitwie pod Grunwaldem“, 1960 m. paskelbtą leidinyje „Zapiski Historyczne“.'
   pagrindžia:
     - c-001

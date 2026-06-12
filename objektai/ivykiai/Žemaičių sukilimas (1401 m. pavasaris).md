@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-100049"></a>
 - t-001
+  global_id: t-100049
   teiginys: 'Pabėgusieji, kurių buvo skaičiuojama apie keturis tūkstančius, nebuvo grąžinti, o pačiuose Žemaičiuose 1401 m. ankstybą pavasarį (kovo viduryje) prasidėjo sukilimas.'
   pagrindžia:
     - c-001

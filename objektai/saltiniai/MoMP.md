@@ -16,7 +16,9 @@ Lietuvoje kilusi jaunoji karta iš susidariusios kryžkelės turėjo (^15) MoMP,
 
 ## Teiginiai
 
+<a id="claim-t-100194"></a>
 - t-001
+  global_id: t-100194
   teiginys: 'Lietuvoje kilusi jaunoji karta iš susidariusios kryžkelės turėjo (^15) MoMP, XII, 1.'
   pagrindžia:
     - c-001

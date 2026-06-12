@@ -17,7 +17,9 @@ Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė 
 
 ## Teiginiai
 
+<a id="claim-t-60431"></a>
 - t-001
+  global_id: t-60431
   teiginys: 'Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė įvairiose vietose, notangai, piktosios dvasios sukurstyti, dar kartą pakluso senam įsiūčiui ir iš neapykantos Jėzui Kristui vėl padarė atskalūnybės nuodėmę, o savo kariuomenės vadu išsirinko vyrą, vardu Sabinas.'
   pagrindžia:
     - c-001

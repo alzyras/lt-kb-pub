@@ -25,7 +25,9 @@ Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip b
 
 ## Teiginiai
 
+<a id="claim-t-87656"></a>
 - t-001
+  global_id: t-87656
   teiginys: '1304 m. Eberhardas de Virnemburgas nusiaubė Lietuvos valsčių, vadintą Pagraudene.'
   pagrindžia:
     - c-001

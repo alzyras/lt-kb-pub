@@ -17,7 +17,9 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
 
 ## Teiginiai
 
+<a id="claim-t-87751"></a>
 - t-001
+  global_id: t-87751
   teiginys: 'Kazimieras Kontrimas, priklausęs Vilniaus šubravcų draugijai, pasirinko senovės lietuvių dievybės Pokliaus vardą.'
   pagrindžia:
     - c-001

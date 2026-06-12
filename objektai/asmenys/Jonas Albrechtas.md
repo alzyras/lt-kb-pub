@@ -26,7 +26,9 @@ Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gau
 
 ## Teiginiai
 
+<a id="claim-t-87714"></a>
 - t-001
+  global_id: t-87714
   teiginys: 'Jonas Albrechtas buvo sutriuškintas Vengrijoje, o žinia apie tai Vilniuje pasiekė jo tėvą karalių Kazimierą.'
   pagrindžia:
     - c-001

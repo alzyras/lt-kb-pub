@@ -27,7 +27,9 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
 
 ## Teiginiai
 
+<a id="claim-t-87773"></a>
 - t-001
+  global_id: t-87773
   teiginys: 'Martynas Ostrovskis buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių ir papuošusių miestą savo kūriniais.'
   pagrindžia:
     - c-001

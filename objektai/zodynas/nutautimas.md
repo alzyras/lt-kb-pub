@@ -18,17 +18,23 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
 
 ## Teiginiai
 
+<a id="claim-t-100285"></a>
 - t-001
-  teiginys: 'Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai eina jų nutautimas, nes jie atskirti nuo savo tautos kamieno ir auklėjami tautiškumui priešingoje — komunistiškoje dvasioje.'
+  global_id: t-100285
+  teiginys: 'Šapokos redaguotoje Lietuvos istorijoje teigta, kad SSRS lietuvių nutautimą spartino atskyrimas nuo tautos kamieno ir komunistinis auklėjimas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-100286"></a>
 - t-002
+  global_id: t-100286
   teiginys: 'SSSR lietuvių nutautimas aiškintas jų atskyrimu nuo tautos kamieno ir auklėjimu komunistiškoje dvasioje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-100287"></a>
 - t-003
+  global_id: t-100287
   teiginys: 'nutautimas: daugumas jų susibūrė J. Amerikos Valstybėse, kur betgi lietuviams išeiviams jau gresia rimtas pavojus nutausti.'
   pagrindžia:
     - c-002

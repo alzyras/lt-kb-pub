@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86182"></a>
 - t-001
+  global_id: t-86182
   teiginys: 'Švitrigaila įsakė Vitebske nuo aukšto skardžio įmesti Alšėnų kunigaikštį į Dviną.'
   pagrindžia:
     - c-001

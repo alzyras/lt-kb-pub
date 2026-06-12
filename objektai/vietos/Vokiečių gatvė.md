@@ -19,12 +19,16 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
 
 ## Teiginiai
 
+<a id="claim-t-86123"></a>
 - t-001
+  global_id: t-86123
   teiginys: 'Dominikonai tiktai sergėjo, kad pats miestas į jų vienuolyną vieną kanalą nukreiptų ir kad nedraustų nutiesti vamzdžių į Vilniaus pilininko Jono Hozijaus namus, esančius Vokiečių gatvėje, nes jam suteikta tokia teisė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86124"></a>
 - t-002
+  global_id: t-86124
   teiginys: 'Iš turgaus centro pašalintos mėsinės buvo perkeltos prie Vokiečių gatvės.'
   pagrindžia:
     - c-001

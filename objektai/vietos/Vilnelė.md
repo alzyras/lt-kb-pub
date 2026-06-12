@@ -29,72 +29,100 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 
 ## Teiginiai
 
+<a id="claim-t-85116"></a>
 - t-001
+  global_id: t-85116
   teiginys: 'Ten, kur Vilnelė įteka į Viliją, stovėjo Gedimino pastatydinta mūro tvirtovė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85117"></a>
 - t-002
+  global_id: t-85117
   teiginys: '1522 m. prie Vilnelės iškilo popieriaus malūnas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-85118"></a>
 - t-003
+  global_id: t-85118
   teiginys: 'Pilies kalno pietų pusėje tarp kalno ir Vilnelės stovėjo didžiuliai Manvydo rūmai.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-85119"></a>
 - t-004
+  global_id: t-85119
   teiginys: 'Šventaragio slėnis buvo lanka tarp Vilijos ir Vilnelės, kur degė lietuvių garbinama amžinoji ugnis Gabija.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-85120"></a>
 - t-005
+  global_id: t-85120
   teiginys: 'Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85121"></a>
 - t-006
+  global_id: t-85121
   teiginys: 'Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės, pastačius apvalaus bokšto pavidalo paminklą, išlikusį iki [Vyskupo seminarijos fundacija iš vyskupo stalo dvaro, vadinamo Vozgėliškėmis [Vaisgėliškis].'
   pagrindžia:
     - c-006
 
+<a id="claim-t-85122"></a>
 - t-007
+  global_id: t-85122
   teiginys: '1580 m. ant kalno prie Vilnelės Kasparo Bekešo kapą pažymėjo apvalaus bokšto pavidalo paminklas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-85123"></a>
 - t-008
+  global_id: t-85123
   teiginys: '1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-85124"></a>
 - t-009
+  global_id: t-85124
   teiginys: 'Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio į Užupį, už Vilnelės.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85125"></a>
 - t-010
+  global_id: t-85125
   teiginys: 'Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio iš miesto į Užupį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85126"></a>
 - t-011
+  global_id: t-85126
   teiginys: 'Vilnia, arba Vilnelė, anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-85127"></a>
 - t-012
+  global_id: t-85127
   teiginys: 'Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85128"></a>
 - t-013
+  global_id: t-85128
   teiginys: 'Vilnelė anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-85129"></a>
 - t-014
+  global_id: t-85129
   teiginys: 'Gedimino legendoje medžioklė vyko kalne prie Neries ir Vilnelės santakos, o sapną Šventaragio slėnyje išaiškino Lizdeika.'
   pagrindžia:
     - c-008

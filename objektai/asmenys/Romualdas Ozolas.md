@@ -16,7 +16,9 @@ LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūd
 
 ## Teiginiai
 
+<a id="claim-t-19214"></a>
 - t-001
+  global_id: t-19214
   teiginys: 'Romualdas Ozolas buvo 1988 m. rugsėjo 16 d. pradėto leisti laikraščio „Atgimimas“ redaktorius.'
   pagrindžia:
     - c-001

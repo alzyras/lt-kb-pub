@@ -17,7 +17,9 @@ Rugpjūčio 21 d. prie Šelomos upės lietuviai sumušė apie 3000 rusų dalinį
 
 ## Teiginiai
 
+<a id="claim-t-42356"></a>
 - t-001
+  global_id: t-42356
   teiginys: 'Rugpjūčio 21 d. prie Šelomos upės lietuviai sumušė apie 3000 rusų dalinį.'
   pagrindžia:
     - c-001

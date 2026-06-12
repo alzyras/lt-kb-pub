@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86905"></a>
 - t-001
+  global_id: t-86905
   teiginys: '1855 m., po Nikolajaus I mirties ir Rusijos pralaimėjimo Krymo kare, imperijoje prasidėjo Aleksandro II reformos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86906"></a>
 - t-002
+  global_id: t-86906
   teiginys: 'Aleksandro II atėjimas į sostą pradėjo liberalias reformas ir atgaivino visuomenės siekius susigrąžinti po 1830-1831 m. sukilimo prarastus dalykus.'
   pagrindžia:
     - c-002

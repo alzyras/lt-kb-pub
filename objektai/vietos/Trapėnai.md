@@ -24,7 +24,9 @@ Sužinoję apie Naujojo Kauno statybą, Ordino magistras su kariuomene 1363 m. b
 
 ## Teiginiai
 
+<a id="claim-t-42204"></a>
 - t-001
+  global_id: t-42204
   teiginys: '1363 m. balandį Ordino magistras su kariuomene Nemunu priplaukė Trapėnus, ten paliko laivus ir patraukė prie Naujojo Kauno pilies.'
   pagrindžia:
     - c-001

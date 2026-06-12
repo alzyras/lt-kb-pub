@@ -25,12 +25,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86827"></a>
 - t-001
+  global_id: t-86827
   teiginys: 'Žygyje prieš Maskvos kunigaikštį ties Velikije Lūki Gabrielis Bekešas vadovavo Stepono Batoro vengrų kariuomenės riteriams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86828"></a>
 - t-002
+  global_id: t-86828
   teiginys: 'Gabrielis Bekešas Skornatas buvo Stepono Batoro vengrų pulkų vadas ir ištikimai tarnavo valdovui bei Respublikai.'
   pagrindžia:
     - c-002

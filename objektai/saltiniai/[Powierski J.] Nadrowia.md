@@ -22,7 +22,9 @@ Dusburgietis teigia, kad [Powierski J.] Nadrowia.— SSS, Wrocław—Warszawa—
 
 ## Teiginiai
 
+<a id="claim-t-61250"></a>
 - t-001
+  global_id: t-61250
   teiginys: 'J. Powierskio straipsnis „Nadrowia“ publikuotas SSS 1968 m. 3 tomo 2 dalyje.'
   pagrindžia:
     - c-001

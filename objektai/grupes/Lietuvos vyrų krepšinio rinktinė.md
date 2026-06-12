@@ -27,22 +27,30 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 
 ## Teiginiai
 
+<a id="claim-t-74801"></a>
 - t-001
+  global_id: t-74801
   teiginys: 'Žygdarbį padarė krepšininkai vyrai – Lietuvos rinktinė 1992, 1996, 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74802"></a>
 - t-002
+  global_id: t-74802
   teiginys: 'Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lietuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m. Rygoje tapo Europos čempionais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-74803"></a>
 - t-003
+  global_id: t-74803
   teiginys: '1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74804"></a>
 - t-004
+  global_id: t-74804
   teiginys: 'Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempionais.'
   pagrindžia:
     - c-001

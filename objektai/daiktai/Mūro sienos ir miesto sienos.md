@@ -49,37 +49,51 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 
 ## Teiginiai
 
+<a id="claim-t-55045"></a>
 - t-001
+  global_id: t-55045
   teiginys: 'Otono Didžiojo laikais Italijos miestai, saugodamiesi vengrų ir saracėnų antpuolių, apsitvėrė mūro sienomis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55046"></a>
 - t-002
+  global_id: t-55046
   teiginys: 'Krokuva Lešekui Juodajam buvo skolinga už svarbias privilegijas, svetimtaučių antplūdį ir gerai sutvirtintas mūro sienas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-55047"></a>
 - t-003
+  global_id: t-55047
   teiginys: '1505 m. Vilniaus gyventojams nurodyta apjuosti miestą mūro siena, o negalintiems jos statyti - tverti statinių tvorą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89428"></a>
 - t-004
+  global_id: t-89428
   teiginys: 'Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė) Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89429"></a>
 - t-005
+  global_id: t-89429
   teiginys: 'Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-89430"></a>
 - t-006
+  global_id: t-89430
   teiginys: 'Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89431"></a>
 - t-007
+  global_id: t-89431
   teiginys: '1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius.'
   pagrindžia:
     - c-005
@@ -248,6 +262,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - [[objektai/grupes/Totoriai]]
 - [[objektai/paprociai/Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/zodynas/pilėnas]]
 - [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
 - [[objektai/daiktai/Mūro sienos]]
 - [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora]]

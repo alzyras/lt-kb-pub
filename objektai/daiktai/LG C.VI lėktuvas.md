@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40734"></a>
 - t-001
+  global_id: t-40734
   teiginys: '1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai fotografuoti prie LVG C.VI lėktuvo.'
   pagrindžia:
     - c-001

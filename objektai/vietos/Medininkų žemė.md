@@ -24,7 +24,9 @@ BAU = S 8 S m e-+ > os 2% ## Puslapis 40 SUS os : i Paha “| KARALYS' Mūšio p
 
 ## Teiginiai
 
+<a id="claim-t-41919"></a>
 - t-001
+  global_id: t-41919
   teiginys: '1355 m. pradžioje Kryžiuočių kariuomenė penkias dienas niokojo centrinę Žemaitijos Medininkų žemę.'
   pagrindžia:
     - c-001

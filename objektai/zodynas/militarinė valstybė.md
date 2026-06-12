@@ -14,7 +14,9 @@ atnaujinta: ''
 
 ## Teiginiai
 
+<a id="claim-t-11668"></a>
 - t-001
+  global_id: t-11668
   teiginys: 'Įsigalėjęs Ordinas virto paprasta militarine valstybe.'
   pagrindžia:
     - c-001

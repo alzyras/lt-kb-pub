@@ -17,7 +17,9 @@ Vienas pulkas, Dolegos vedamas, antras kunigo Mackevičiaus, trečias kunigo Pe�
 
 ## Teiginiai
 
+<a id="claim-t-39720"></a>
 - t-001
+  global_id: t-39720
   teiginys: 'Dolega vadovavo vienam iš trijų didžiausių Lietuvos kariuomenės pulkų.'
   pagrindžia:
     - c-001

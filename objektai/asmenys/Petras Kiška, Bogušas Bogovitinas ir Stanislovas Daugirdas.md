@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas
 
 ## Santrauka
 
-Kojelavičius teigia, kad šį uždavinį karalius patikėjo Petrui Kiš kai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos paiždininkiui, ir Jonui Gornostajui, raštininkui.
+Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.
 
 ## Teiginiai
 
+<a id="claim-t-186156"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad šį uždavinį karalius patikėjo Petrui Kiš kai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos paiždininkiui, ir Jonui Gornostajui, raštininkui.'
+  global_id: t-186156
+  teiginys: 'Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad šį uždavinį karalius patikėjo Petrui Kiš kai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos paiždininkiui, ir Jonui Gornostajui, raštininkui.'
+  santrauka: 'Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vasilijus pri­
@@ -48,3 +49,14 @@ Kojelavičius teigia, kad šį uždavinį karalius patikėjo Petrui Kiš kai, Tr
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/asmenys/Ivanas]]
+- [[objektai/asmenys/Ivanas Vasiljevičius]]
+- [[objektai/asmenys/Vasilijus]]
+- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/asmenys/Jonas Gornostajus]]

@@ -26,7 +26,9 @@ Formulė keliuose pasakojimuose pateikiama kaip iškilmingas Jogailos ir Vytauto
 
 ## Teiginiai
 
+<a id="claim-t-10827"></a>
 - t-001
+  global_id: t-10827
   teiginys: 'Lenkų ponai Jogailai ir Vytautui pasakė: „Jūs abudu esate mūsų valdovai.“'
   pagrindžia:
     - c-001

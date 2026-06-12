@@ -16,7 +16,9 @@ Vytautas padėti neatsisakė, nes gerai suprato, kad, turėdamas chaną sa­ vo 
 
 ## Teiginiai
 
+<a id="claim-t-36825"></a>
 - t-001
+  global_id: t-36825
   teiginys: 'Vytautas sutiko padėti chanui, nes tikėjosi, kad turėdamas jį savo protežė sustiprins santykius su totoriais ir Rusia.'
   pagrindžia:
     - c-001

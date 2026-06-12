@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20211"></a>
 - t-001
+  global_id: t-20211
   teiginys: 'Jogaila vasario 22 d. išleido raštą, kuriuo siekė patraukti lietuvius į savo pusę arba priversti priimti katalikybę.'
   pagrindžia:
     - c-001

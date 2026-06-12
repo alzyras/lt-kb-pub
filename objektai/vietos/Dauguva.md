@@ -28,37 +28,51 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 
 ## Teiginiai
 
+<a id="claim-t-182751"></a>
 - t-001
+  global_id: t-182751
   teiginys: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-182752"></a>
 - t-002
+  global_id: t-182752
   teiginys: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno teritorijoje nuo Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-182753"></a>
 - t-003
+  global_id: t-182753
   teiginys: 'Vokiečių ekspansija buvo nublokšta iki Dauguvos, į XIII a.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-182754"></a>
 - t-004
+  global_id: t-182754
   teiginys: 'Lietuvos vyriausybė negalėjo užkirsti jai kelio, nes tuo metu Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182756"></a>
 - t-005
+  global_id: t-182756
   teiginys: 'Sparno uždavinys - apeiti priešininko dešinįjį sparną, nustumti jį nuo Dauguvos kranto ir bendromis jėgomis su visa Lietuvos kariuomene nublokšti švedus į šiaurėje esantį pelkėtą mišką ir ten juos sunaikinti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183007"></a>
 - t-006
+  global_id: t-183007
   teiginys: 'Treniotos ir žemaičių žygiai siekė už Dauguvos esančią Estiją, bet buvo siaubiamieji, o ne užkariaujamieji.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184385"></a>
 - t-007
+  global_id: t-184385
   teiginys: 'Prie Aizkrauklės (Ascheraden, ant Dauguvos kranto), jie užpuolė ordino kariuomenę.'
   pagrindžia:
     - c-001

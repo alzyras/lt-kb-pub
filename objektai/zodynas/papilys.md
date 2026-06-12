@@ -32,73 +32,101 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 
 ## Teiginiai
 
+<a id="claim-t-58772"></a>
 - t-001
+  global_id: t-58772
   teiginys: 'Dusburgietis teigia, kad apie Bisenės papilių sudeginimą 1313 metais Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų, abu jos papiliai supleškėjo ugnyje.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-58773"></a>
 - t-002
+  global_id: t-58773
   teiginys: 'Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubimą 1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe brolių bei raitelių iš Notangos patraukė link Lietuvos ir, priėjęs Gardino pilį, išvydo šviežias pėdas; jomis nusekė.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-58774"></a>
 - t-003
+  global_id: t-58774
   teiginys: 'Dusburgietis teigia, kad bežglovas (Bierzglowo), gyvenvietė į šiaurės vakarus nuo Torunės; mūrinė (vėlesnė) kryžiuočių pilis su papiliu atstatyta po 1277 m.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-58775"></a>
 - t-004
+  global_id: t-58775
   teiginys: 'Konrado Štangės žvalgas prie Junigedos pilies pranešė, kad lauke, pilyje ir papilyje pilna karių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58776"></a>
 - t-005
+  global_id: t-58776
   teiginys: 'Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą 1324 metais Po to, gegužės 22 dieną, brolis Ditrichas iš Altenburgo, Ragainės komtūras, ir 44 broliai su 400 Sembos ir Notangos vyrų apyaušryje netikėtai užpuolė Gedimino pilies papilį, sudegino jį ir išžudė visus.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-58777"></a>
 - t-006
+  global_id: t-58777
   teiginys: 'Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgulos smarkiai jį užpuolė, visiškai sugriovė pamedėnų gyvenvietę bei pilį424 ir brolių papilį, vienus paimdami į nelaisvę, kitus išžudydami, išskyrus tuos, kurie suskubo pasprukti į brolių pilį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58778"></a>
 - t-007
+  global_id: t-58778
   teiginys: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 1318 viešpaties metais, rudenį, brolis Henrikas, maršalas, atžygiavo su didele kariuomene prie Junigedos ir Pieštvės pilių ir iki pamatų sudegino abiejų papilius, kuriuose tuo metu buvo apsčiai supilta naujo.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-58779"></a>
 - t-008
+  global_id: t-58779
   teiginys: 'Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-58780"></a>
 - t-009
+  global_id: t-58780
   teiginys: 'Dusburgietis teigia, kad apie Junigedos pilies papilių sudeginimą 1293 viešpaties metais magistras žiemą, nesigailėdamas nei savęs, nei savo žmonių, nevengdamas nei didelių rūpesčių, nei gausių išlaidų, visados pasiryžęs aukštinti tikėjimą ir tikinčiuosius, sutelkė visą savo.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-58782"></a>
 - t-010
+  global_id: t-58782
   teiginys: 'Prie Junigedos, arba Veliuonos, pilies buvo du papiliai: vienas ant kalno, kitas slėnyje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-58783"></a>
 - t-011
+  global_id: t-58783
   teiginys: 'Dusburgietis teigia, kad apie tą patį Tų pačių metų rudenį, kai jau buvo atstatytas minėtasis papilys, o jame sukrauta visi grūdai bei javai, ten nužygiavo tas pats komtūras su savo broliais bei raiteliais ir antrą kartą sudegino tą papilį, paimdamas į nelaisvę ar nukaudamas visus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58784"></a>
 - t-012
+  global_id: t-58784
   teiginys: 'Dusburgietis teigia, kad apie Gardino papilio sunaikinimą 1306 viešpaties metais brolis Konradas, magistras, iš patikimų šaltinių sužinojęs, kad didelė kariuomenė iš Lietuvos bei Gardino pilies patraukė link Lenkijos, išsiuntė šios pilies užkariauti brolį Albrechtą iš Hageno bei.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184010"></a>
 - t-014
+  global_id: t-184010
   teiginys: 'Dusburgietis teigia, kad paskui patraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu vienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-184633"></a>
 - t-018
-  teiginys: 'Kojelavičius teigia, kad kanonas, 1299 m e ta i Brandenburgo komtūras, su nemaža kariuomene įsibro vęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos bei Pieštvės papilyse namus, o po to, papildęs kariuo menę stipriu Ragainės būriu, nugabeno ją laivais į krašto gilumą.'
+  global_id: t-184633
+  teiginys: '1299 m. Brandenburgo komtūras Kanonas sudegino namus Junigedos ir Pieštvės papiliuose.'
   pagrindžia:
     - c-015
 
@@ -365,7 +393,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-014
 
 - c-015
-  santrauka: 'Kojelavičius teigia, kad kanonas, 1299 m e ta i Brandenburgo komtūras, su nemaža kariuomene įsibro vęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos bei Pieštvės papilyse namus, o po to, papildęs kariuo menę stipriu Ragainės būriu, nugabeno ją laivais į krašto gilumą.'
+  santrauka: '1299 m. Brandenburgo komtūras Kanonas sudegino namus Junigedos ir Pieštvės papiliuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pridarė ten lietuviai daug siaubingų šventvagysčių
@@ -394,3 +422,42 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   statusas: verified
   pagrindžia:
     - t-018
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Albrechtas]]
+- [[objektai/asmenys/Albrechtas iš Hageno]]
+- [[objektai/asmenys/Fridrichas]]
+- [[objektai/asmenys/Fridrichas Kvicas]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Hartmanas]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/asmenys/Konradas Žakas]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/grupes/Sūduviai]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/zodynas/Papilys suburbium]]
+- [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]
+- [[objektai/asmenys/Tomas Aldenburgas]]
+- [[objektai/ivykiai/Bisenės papilių sudeginimas (1313 m.)]]
+- [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]
+- [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]
+- [[objektai/ivykiai/Junigedos pilies papilių sudeginimas (1293 m. žiema)]]
+- [[objektai/asmenys/Konradas Štangė]]
+- [[objektai/ivykiai/Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/grupes/Sembai]]

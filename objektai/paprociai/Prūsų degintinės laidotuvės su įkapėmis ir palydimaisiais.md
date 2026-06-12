@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67193"></a>
 - t-001
+  global_id: t-67193
   teiginys: 'Prūsų degintinėse laidotuvėse su mirusiuoju deginti ginklai, žirgai, tarnai, drabužiai, medžiokliniai šunys, sakalai ir darbo reikmenys.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67195"></a>
 - t-002
+  global_id: t-67195
   teiginys: 'Dusburgietis teigia, kad rašo, jog prūsai po mūšio kaip auką dievams sudegino į nelaisvę paimtą kryžiuotį (III, 91), taip pat darę ir lietuviai (III, 338).'
   pagrindžia:
     - c-001

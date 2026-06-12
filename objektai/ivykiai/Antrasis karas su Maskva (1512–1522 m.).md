@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01576"></a>
 - t-001
+  global_id: t-01576
   teiginys: '1512 m. prasidėjusiame antrajame kare su Maskva visos Maskvos jėgos buvo nukreiptos į Smolenską.'
   pagrindžia:
     - c-001

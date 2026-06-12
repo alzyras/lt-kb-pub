@@ -18,7 +18,9 @@ Aforistinė charakteristika pabrėžia, kad Vytauto prigimtis tekste siejama su 
 
 ## Teiginiai
 
+<a id="claim-t-11652"></a>
 - t-001
+  global_id: t-11652
   teiginys: 'Žodžiais „Ne ko nors klausyti, bet valdyti jis buvo gimęs“ Vytautas apibūdintas kaip valdovas, netrukus ėmęs savarankišką politiką.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Enciklopedinis rašytojas, Romos imperijos karininkas Plinijus Se­ nesnysis (23
 
 ## Teiginiai
 
+<a id="claim-t-31858"></a>
 - t-001
+  global_id: t-31858
   teiginys: 'Plinijus Senesnysis „Naturalis historiae libri XXXVII“ 77 m. po Kr. plačiai rašė apie prekybą gintaru, jo kilmę ir fizines savybes.'
   pagrindžia:
     - c-001

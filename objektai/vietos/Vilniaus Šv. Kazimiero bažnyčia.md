@@ -22,7 +22,9 @@ Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o
 
 ## Teiginiai
 
+<a id="claim-t-77783"></a>
 - t-001
+  global_id: t-77783
   teiginys: 'Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės architektūros manifestu paprastai laikoma Vilniaus Šv.'
   pagrindžia:
     - c-001

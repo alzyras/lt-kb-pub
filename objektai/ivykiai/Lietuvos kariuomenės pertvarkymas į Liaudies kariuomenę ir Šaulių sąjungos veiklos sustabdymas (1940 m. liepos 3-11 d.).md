@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20313"></a>
 - t-001
+  global_id: t-20313
   teiginys: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, pagal kurį ji tapo Liaudies kariuomene.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183245"></a>
 - t-002
+  global_id: t-183245
   teiginys: 'Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teismuose, pradėta kurti liaudies milicija.'
   pagrindžia:
     - c-002

@@ -27,7 +27,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-42530"></a>
 - t-001
+  global_id: t-42530
   teiginys: 'Šturmovcai savo nesėkmę aiškino tuo, kad buvo atvežti tiesiai iš bolševikų fronto ir puolė taip pat kaip bolševikus.'
   pagrindžia:
     - c-001

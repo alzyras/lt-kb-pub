@@ -19,17 +19,23 @@ Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami per
 
 ## Teiginiai
 
+<a id="claim-t-41450"></a>
 - t-001
+  global_id: t-41450
   teiginys: 'Juk pergalės džiugina, o pralaimėjimai moko.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41451"></a>
 - t-002
+  global_id: t-41451
   teiginys: 'Leidėjai skyrė dėmesio svarbiems pralaimėjimams, nes skaudūs pralaimėjimai skatina kariuomenes reformuotis ir diegti inovacijas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183721"></a>
 - t-003
+  global_id: t-183721
   teiginys: 'Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami pergalėms, knygos leidėjai nenuėjo lengviausiu keliu ir skyrė dėmesio svarbiems pralaimėjimams, kadangi būtent skaudūs pralaimėjimai paskatina kariuomenes daryti reformas, permąstyti savo.'
   pagrindžia:
     - c-002

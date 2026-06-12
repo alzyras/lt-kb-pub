@@ -27,17 +27,23 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 
 ## Teiginiai
 
+<a id="claim-t-64053"></a>
 - t-001
+  global_id: t-64053
   teiginys: 'Simonas Grunau kronikoje Rikojotą aprašė kaip prūsų dievų kulto centrą su žaliuojančiu ąžuolu ir trimis dievų stabais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64054"></a>
 - t-002
+  global_id: t-64054
   teiginys: 'Dusburgietis teigia, kad 3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183568"></a>
 - t-003
+  global_id: t-183568
   teiginys: 'Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų dievų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.'
   pagrindžia:
     - c-003

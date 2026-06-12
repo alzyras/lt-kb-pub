@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-40085"></a>
 - t-001
+  global_id: t-40085
   teiginys: 'Žygių išvakarėse Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią, remiamas Ordos, puolė Tverę.'
   pagrindžia:
     - c-001

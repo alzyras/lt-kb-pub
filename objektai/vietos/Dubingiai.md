@@ -26,28 +26,38 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 
 ## Teiginiai
 
+<a id="claim-t-71848"></a>
 - t-001
+  global_id: t-71848
   teiginys: 'Želigovskis lapkričio 17 d. auštant pradėjo savo didžiąją ofenzyvą, puldamas lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-71849"></a>
 - t-002
+  global_id: t-71849
   teiginys: '1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami iki keturių mylių nuo Vilniaus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71850"></a>
 - t-003
+  global_id: t-71850
   teiginys: 'Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71851"></a>
 - t-004
+  global_id: t-71851
   teiginys: '1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami per keturias mylias nuo Vilniaus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183013"></a>
 - t-005
-  teiginys: 'Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.'
+  global_id: t-183013
+  teiginys: 'Barbora Radvilaitė gyveno Radvilų dvare Dubingiuose, kol Zigmantas įsakė ją atlydėti į Vilnių.'
   pagrindžia:
     - c-004
 
@@ -104,7 +114,7 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     - t-001
 
 - c-004
-  santrauka: 'Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.'
+  santrauka: 'Barbora Radvilaitė gyveno Radvilų dvare Dubingiuose, kol Zigmantas įsakė ją atlydėti į Vilnių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Grįždamas į Vilnių, jis ne-

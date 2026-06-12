@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62473"></a>
 - t-001
+  global_id: t-62473
   teiginys: 'Dusburgietis teigia, kad apie brolių ir sembų susitaikymą Šiais ir kitais smūgiais brolių bei kitų krikščionių rankomis viešpaties baudžiami sembai, nepajėgdami ilgiau priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė krikščionių tikėjimui.'
   pagrindžia:
     - c-001

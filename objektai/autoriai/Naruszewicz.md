@@ -24,12 +24,16 @@ periodo_grupes: []
 
 ## Teiginiai
 
+<a id="claim-t-87989"></a>
 - t-001
+  global_id: t-87989
   teiginys: 'Il, 1418- gos 1418 metų rugpjūčio 11 dieną; 1419 m. ir Naruszewicz Taurykū, iš pastarojo aišku, kad kunigaikštiep. 78.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87991"></a>
 - t-002
+  global_id: t-87991
   teiginys: 'Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .'
   pagrindžia:
     - c-001

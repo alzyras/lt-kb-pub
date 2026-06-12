@@ -16,17 +16,23 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 
 ## Teiginiai
 
+<a id="claim-t-72696"></a>
 - t-001
+  global_id: t-72696
   teiginys: 'Inventoriai negalėjo daug padėti valstiečiams, nes jie liko beteisiai ir neturėjo kam skųstis ponui didinant prievoles.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72698"></a>
 - t-002
+  global_id: t-72698
   teiginys: 'Inventoriams suvienodinti visose gubernijose buvo įsteigti specialūs komitetai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72699"></a>
 - t-003
+  global_id: t-72699
   teiginys: 'Inventoriai buvo rengiami valstiečių prievolėms suvienodinti, juose nuo seno buvo surašomos visos valstiečių pareigos.'
   pagrindžia:
     - c-003

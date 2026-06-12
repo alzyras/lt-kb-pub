@@ -23,7 +23,9 @@ Prasidėjęs kon­ fliktas dėl Haličo ir Volinijos žemių paveldėjimo nusit�
 
 ## Teiginiai
 
+<a id="claim-t-32187"></a>
 - t-001
+  global_id: t-32187
   teiginys: 'Konfliktas dėl Haličo ir Volinijos žemių paveldėjimo tęsėsi iki Liudviko Anjou mirties 1382 m.'
   pagrindžia:
     - c-001

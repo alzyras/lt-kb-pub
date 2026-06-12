@@ -46,69 +46,95 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 
 ## Teiginiai
 
+<a id="claim-t-05593"></a>
 - t-001
+  global_id: t-05593
   teiginys: 'Melno dokumente sienos daugiausia ėjo per dykras ir miškų plotus be gyvenviečių, todėl jų nebuvo galima tiksliai išvesti.'
   pagrindžia:
     - c-004
     - c-007
     - c-006
 
+<a id="claim-t-05594"></a>
 - t-002
+  global_id: t-05594
   teiginys: 'Sūduvos dykra 1422 m. buvo padalinta.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-05595"></a>
 - t-003
+  global_id: t-05595
   teiginys: 'Melno dokumente ribos ėjo per dykras ir miškus be gyvenviečių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89544"></a>
 - t-004
+  global_id: t-89544
   teiginys: 'Dusburgietis teigia, kad kristburgo broliai pasileido pavymui ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89545"></a>
 - t-005
+  global_id: t-89545
   teiginys: 'Dusburgietis teigia, kad štai šis karalius, Jėzaus Kristaus vardo niekintojas, nužygiavo į dykras Bartos žemėje, į lauką, vardu Vaplaukis563, ir pradėjo įžūliai girtis; rodėsi, jog, turėdamas galingą kariuomenę, jis nė nepagalvojo apie dievo galybę, todėl ir pasakė belaisviams.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-89546"></a>
 - t-006
+  global_id: t-89546
   teiginys: 'Dykrose brolis Gundramas su 9 ginklanešiais užpuolė iš Lietuvos atvykusius plėšikautojus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89547"></a>
 - t-007
+  global_id: t-89547
   teiginys: 'Melno dokumente dykros minimos kaip negyvenami plotai, per kuriuos buvo sunku tiksliai išvesti sienas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89548"></a>
 - t-008
+  global_id: t-89548
   teiginys: 'Konradas Žakas persekiojo Lietuvos užpuolikus ligi pat dykrų ir išvadavo jų paimtus krikščionis.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-89549"></a>
 - t-009
+  global_id: t-89549
   teiginys: 'Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko ordino pusėje.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-89550"></a>
 - t-010
+  global_id: t-89550
   teiginys: 'Melno dokumente sienų nebuvo galima tiksliai išvesti, nes jos ėjo daugiausia per dykras bei miškų plotus be gyvenviečių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-89552"></a>
 - t-012
+  global_id: t-89552
   teiginys: 'Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-89553"></a>
 - t-013
+  global_id: t-89553
   teiginys: 'Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė, palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-89554"></a>
 - t-014
+  global_id: t-89554
   teiginys: 'Dykrose Kristburgo broliai iš pėdsakų suprato, kad lietuvių plėšikautojai toliau traukė dviem būriais.'
   pagrindžia:
     - c-002

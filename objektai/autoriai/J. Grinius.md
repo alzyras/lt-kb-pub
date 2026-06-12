@@ -25,7 +25,9 @@ Grinius, Veidai ir problemos lietuvių literatūroje, I t., XII-406 psl., Roma 1
 
 ## Teiginiai
 
+<a id="claim-t-30672"></a>
 - t-001
+  global_id: t-30672
   teiginys: 'J. Grinius išleido antrąjį „Veidų ir problemų lietuvių literatūroje“ tomą Romoje 1977 m.'
   pagrindžia:
     - c-001

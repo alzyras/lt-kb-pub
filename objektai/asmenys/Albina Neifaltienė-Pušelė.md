@@ -17,7 +17,9 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
 
 ## Teiginiai
 
+<a id="claim-t-39994"></a>
 - t-001
+  global_id: t-39994
   teiginys: 'Mūšyje narsiai kovėsi ir junginio vado žmona Albina Neifaltienė-Pušelė, kuri taiklia rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių, tačiau ir pati buvo priešo kulkos pakirsta.'
   pagrindžia:
     - c-001

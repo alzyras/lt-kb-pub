@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20172"></a>
 - t-001
+  global_id: t-20172
   teiginys: 'Po Brastos bažnytinės unijos stačiatikiai ir graikai katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183219"></a>
 - t-002
+  global_id: t-183219
   teiginys: 'Brastos bažnytinę uniją 1596 m. nulėmė gausūs XV–XVI a. LDK telkęsi bažnytinės unijos bandymai.'
   pagrindžia:
     - c-001

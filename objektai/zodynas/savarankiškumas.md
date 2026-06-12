@@ -19,17 +19,23 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
 
 ## Teiginiai
 
+<a id="claim-t-70321"></a>
 - t-001
+  global_id: t-70321
   teiginys: 'Tuo būdu Lietuvos savarankiškumas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70322"></a>
 - t-002
+  global_id: t-70322
   teiginys: 'Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu buvo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jogailai ir jo įpėdiniams, Lenkų karaliams.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-70323"></a>
 - t-003
+  global_id: t-70323
   teiginys: 'Bajorų pritarimas jam buvo taip pat reikalingas ir siekiant savarankiškumo.'
   pagrindžia:
     - c-001

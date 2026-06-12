@@ -16,7 +16,9 @@ Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus į rusų �
 
 ## Teiginiai
 
+<a id="claim-t-31784"></a>
 - t-001
+  global_id: t-31784
   teiginys: 'Laurentijaus ir Ipatijaus sąvaduose kartota vis daugiau žinių apie lietuvius nuo XII a. antros pusės, kai jie puldinėjo rusų žemes.'
   pagrindžia:
     - c-001

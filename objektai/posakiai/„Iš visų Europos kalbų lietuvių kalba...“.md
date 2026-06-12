@@ -17,22 +17,30 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-101616"></a>
 - t-001
+  global_id: t-101616
   teiginys: 'Posakyje teigiama, kad lietuvių kalba iš Europos kalbų turi daugiausia maloninių ir mažybinių žodžių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101617"></a>
 - t-002
+  global_id: t-101617
   teiginys: 'Benjaminas W. Dwightas teigė, kad pagal kalbos grožį lietuvių tauta turėtų užimti pirmą vietą tarp Europos tautų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101618"></a>
 - t-003
+  global_id: t-101618
   teiginys: 'Benjaminas W. Dwightas teigė, kad lietuvių kalba turi daugiausia maloninių ir mažybinių žodžių tarp Europos kalbų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101619"></a>
 - t-004
+  global_id: t-101619
   teiginys: 'Benjaminas W. Dwightas lietuvių kalbą išskyrė dėl gausių maloninių ir mažybinių žodžių.'
   pagrindžia:
     - c-001

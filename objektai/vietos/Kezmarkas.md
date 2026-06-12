@@ -24,7 +24,9 @@ Su juo tartis į Vengrijos pasienio miestą Kezmarką nuvyko pats Vytautas.
 
 ## Teiginiai
 
+<a id="claim-t-32241"></a>
 - t-001
+  global_id: t-32241
   teiginys: 'Vytautas nuvyko tartis į Vengrijos pasienio miestą Kezmarką.'
   pagrindžia:
     - c-001

@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01808"></a>
 - t-001
+  global_id: t-01808
   teiginys: '1917 m. spalį antroji Stokholmo konferencija pritarė Vilniaus konferencijos programai ir Lietuvos Tarybą pripažino visos lietuvių tautos atstovybe.'
   pagrindžia:
     - c-001

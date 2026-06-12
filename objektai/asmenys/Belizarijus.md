@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Belizarijus
 
 ## Santrauka
 
-Kojelavičius teigia, kad štai, Justinianui vieš pataujant, herulų, vadovaujamų Getero, pagalba pasi naudojo Belizarijus, nugalėjęs persus.
+Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero vadovaujamų herulų pagalba.
 
 ## Teiginiai
 
+<a id="claim-t-186183"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad štai, Justinianui vieš pataujant, herulų, vadovaujamų Getero, pagalba pasi naudojo Belizarijus, nugalėjęs persus.'
+  global_id: t-186183
+  teiginys: 'Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero vadovaujamų herulų pagalba.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad štai, Justinianui vieš pataujant, herulų, vadovaujamų Getero, pagalba pasi naudojo Belizarijus, nugalėjęs persus.'
+  santrauka: 'Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero vadovaujamų herulų pagalba.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tačiau didelė herulų da­
@@ -41,3 +42,8 @@ Kojelavičius teigia, kad štai, Justinianui vieš pataujant, herulų, vadovauja
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Herulai]]
+- [[objektai/asmenys/Justinianas]]

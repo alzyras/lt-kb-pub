@@ -27,12 +27,16 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 
 ## Teiginiai
 
+<a id="claim-t-44059"></a>
 - t-001
+  global_id: t-44059
   teiginys: 'Lietuvos siena ėjo Kerzono linija iki Nemuno, o Suvalkų krašto ruože ši linija buvo nustatyta Suvalkų sutartyje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-44061"></a>
 - t-003
+  global_id: t-44061
   teiginys: 'Kerzono liniją 1919 m. gruodžio 8 d. nustatė Aukščiausioji Santarvininkių Taryba.'
   pagrindžia:
     - c-001

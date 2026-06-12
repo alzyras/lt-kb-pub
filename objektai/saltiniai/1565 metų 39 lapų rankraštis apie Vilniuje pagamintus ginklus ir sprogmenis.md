@@ -29,17 +29,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-88176"></a>
 - t-001
+  global_id: t-88176
   teiginys: '1565 m. rankraštyje minima, kad vertingiausi ginklai turėjo vardus, o dvi etmono patrankos vadintos Žygimantu Senuoju ir Žygimantu Augustu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-88177"></a>
 - t-002
+  global_id: t-88177
   teiginys: '1565 m. 39 lapų rankraštis detalizavo Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88178"></a>
 - t-003
+  global_id: t-88178
   teiginys: 'Golembiovskio artilerijos sąraše pateikti tik naujai pagaminti ir į tvirtoves išsiuntinėti pabūklai.'
   pagrindžia:
     - c-002

@@ -18,12 +18,16 @@ Ketveri metai ordino žemėse buvo naudingai praleistas « mokslo laikas ».
 
 ## Teiginiai
 
+<a id="claim-t-28707"></a>
 - t-001
+  global_id: t-28707
   teiginys: 'Ketveri Vytauto metai ordino žemėse apibūdinti kaip naudingai praleistas „mokslo laikas“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184360"></a>
 - t-002
+  global_id: t-184360
   teiginys: 'Ketveri metai ordino žemėse buvo naudingai praleistas « mokslo laikas ».'
   pagrindžia:
     - c-002

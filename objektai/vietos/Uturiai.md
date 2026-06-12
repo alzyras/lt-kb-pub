@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-32626"></a>
 - t-001
+  global_id: t-32626
   teiginys: 'Uturiai buvo prie Betygalos.'
   pagrindžia:
     - c-001

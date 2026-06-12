@@ -19,12 +19,16 @@ Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas p
 
 ## Teiginiai
 
+<a id="claim-t-89597"></a>
 - t-001
+  global_id: t-89597
   teiginys: 'Henrikas iš Lichtenšteino Sventopelkui pareiškė, kad šis turįs ieškoti ne teisingumo, bet pasigailėjimo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89598"></a>
 - t-002
+  global_id: t-89598
   teiginys: 'Sventopelkui prašant grąžinti įkaitu duotą sūnų, Henrikas iš Lichtenšteino atsakė: „ne teisingumo ieškoki, bet pasigailėjimo“.'
   pagrindžia:
     - c-001

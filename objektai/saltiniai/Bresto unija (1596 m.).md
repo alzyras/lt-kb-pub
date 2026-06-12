@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-34948"></a>
 - t-001
+  global_id: t-34948
   teiginys: '1596 metais sudarius Bresto uniją, Lietuvos ribose pradėjo veikti unitai, išlaikę Rytų Bažnyčios apeigas ir priėmę katalikų dogmas.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Conze 161 , ir paskutiniu metu išsp. F.
 
 ## Teiginiai
 
+<a id="claim-t-31059"></a>
 - t-001
+  global_id: t-31059
   teiginys: 'W. Conze rašė apie I pasaulinį karą.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-31735"></a>
 - t-001
+  global_id: t-31735
   teiginys: '„Jadwyga d’Anjou“ nurodyta kaip Lietuvos enciklopedijos 9 tomo straipsnis, apimantis 244-249 puslapius.'
   pagrindžia:
     - c-001

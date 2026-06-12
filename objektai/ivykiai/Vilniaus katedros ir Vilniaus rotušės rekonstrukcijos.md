@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77889"></a>
 - t-001
+  global_id: t-77889
   teiginys: 'Pats gyvenimas padėjo klasicizmui tapti svarbiausiu Vilniaus pastatų stiliumi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77890"></a>
 - t-002
+  global_id: t-77890
   teiginys: 'Vilniaus katedros ir rotušės statyba sutapo su didžiosiomis Ketverių meto seimo nulemtomis permainomis.'
   pagrindžia:
     - c-002

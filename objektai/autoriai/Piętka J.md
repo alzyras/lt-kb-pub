@@ -25,7 +25,9 @@ Dusburgietis teigia, kad dobra ostrowickogolubskie..., p. 39; Piętka J.
 
 ## Teiginiai
 
+<a id="claim-t-60769"></a>
 - t-001
+  global_id: t-60769
   teiginys: 'J. Piętka cituojamas dėl darbo „Geneza mazowieckiej...“, siejamo su Hugono Butyro veiklos Kulme aiškinimu.'
   pagrindžia:
     - c-001

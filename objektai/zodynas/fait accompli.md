@@ -25,7 +25,9 @@ Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis
 
 ## Teiginiai
 
+<a id="claim-t-77794"></a>
 - t-001
+  global_id: t-77794
   teiginys: 'Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis.'
   pagrindžia:
     - c-001

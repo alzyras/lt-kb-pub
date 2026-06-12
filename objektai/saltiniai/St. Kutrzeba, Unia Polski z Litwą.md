@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-100150"></a>
 - t-001
+  global_id: t-100150
   teiginys: ': Braterstwo szlachty polskiej z bojarstwem litewskim w unii horodelskiej 1413 r ., rink.'
   pagrindžia:
     - c-001

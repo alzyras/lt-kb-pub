@@ -24,7 +24,9 @@ Baltinis, Vysk.
 
 ## Teiginiai
 
+<a id="claim-t-30496"></a>
 - t-001
+  global_id: t-30496
   teiginys: 'A. Baltinis parašė veikalą „Vysk. V. Borisevičiaus gyvenimas ir darbai“, išleistą Romoje 1975 m.'
   pagrindžia:
     - c-001

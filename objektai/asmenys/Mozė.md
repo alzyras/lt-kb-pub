@@ -17,7 +17,9 @@ Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); k
 
 ## Teiginiai
 
+<a id="claim-t-60389"></a>
 - t-001
+  global_id: t-60389
   teiginys: 'Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); kai liaudavęsis melstis, Izraelis būdavęs įveikiamas.'
   pagrindžia:
     - c-001

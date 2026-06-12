@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Radomo seimas, Lietuvos didikų susitaikymo mėginimas ir Aleksandro paralyžius senate (seimas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad ka ralius viešai lenkams pasižadėjo, kad iš pagarbos jiems padarys taip, kaip jie reikalauja, tačiau sakėsi neno rįs Lenkijoje nieko spręsti, o visą reikalą ketinąs per duoti lietuvių seimui.
+Karalius viešai pažadėjo lenkams atsižvelgti į jų reikalavimus, bet reikalą ketino perduoti lietuvių seimui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185765"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad ka ralius viešai lenkams pasižadėjo, kad iš pagarbos jiems padarys taip, kaip jie reikalauja, tačiau sakėsi neno rįs Lenkijoje nieko spręsti, o visą reikalą ketinąs per duoti lietuvių seimui.'
+  global_id: t-185765
+  teiginys: 'Karalius viešai pažadėjo lenkams atsižvelgti į jų reikalavimus, bet reikalą ketino perduoti lietuvių seimui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad ka ralius viešai lenkams pasižadėjo, kad iš pagarbos jiems padarys taip, kaip jie reikalauja, tačiau sakėsi neno rįs Lenkijoje nieko spręsti, o visą reikalą ketinąs per duoti lietuvių seimui.'
+  santrauka: 'Karalius viešai pažadėjo lenkams atsižvelgti į jų reikalavimus, bet reikalą ketino perduoti lietuvių seimui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ka­
@@ -59,3 +60,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
+- [[objektai/zodynas/senatas]]
+- [[objektai/zodynas/seimas]]

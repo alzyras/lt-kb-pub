@@ -24,7 +24,9 @@ Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdomame Gardine 1
 
 ## Teiginiai
 
+<a id="claim-t-21099"></a>
 - t-001
+  global_id: t-21099
   teiginys: '1793 m. Gardino Seimas turėjo pritarti naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.'
   pagrindžia:
     - c-001

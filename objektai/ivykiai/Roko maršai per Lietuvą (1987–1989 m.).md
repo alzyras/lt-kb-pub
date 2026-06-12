@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20463"></a>
 - t-001
+  global_id: t-20463
   teiginys: 'Roko maršai per Lietuvą vyko 1987, 1988 ir 1989 m. vasaromis ir buvo skirti LPS idėjoms skleisti.'
   pagrindžia:
     - c-001

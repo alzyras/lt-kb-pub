@@ -17,7 +17,9 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
 
 ## Teiginiai
 
+<a id="claim-t-20910"></a>
 - t-001
+  global_id: t-20910
   teiginys: 'Himanso planas Lietuvoje vertintas kaip „lenkų Trojos arklys“, jam priešinosi partijos, kariuomenės vadovybė ir Šaulių sąjunga.'
   pagrindžia:
     - c-001

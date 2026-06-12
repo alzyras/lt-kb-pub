@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Liudvikas (Čekijos karalius)
 
 ## Santrauka
 
-Kojelavičius teigia, kad imperatorius, karalius Vladislovas bei jo duktė Ona at važiavo važiuoti, o Žygimantas ir Liudvikas raiti at jojo.
+Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tėvą ir valdovą.
 
 ## Teiginiai
 
+<a id="claim-t-186144"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad imperatorius, karalius Vladislovas bei jo duktė Ona at važiavo važiuoti, o Žygimantas ir Liudvikas raiti at jojo.'
+  global_id: t-186144
+  teiginys: 'Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tėvą ir valdovą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad imperatorius, karalius Vladislovas bei jo duktė Ona at važiavo važiuoti, o Žygimantas ir Liudvikas raiti at jojo.'
+  santrauka: 'Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tėvą ir valdovą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Imperatorius, karalius Vladislovas bei jo duktė Ona at­
@@ -39,3 +40,10 @@ Kojelavičius teigia, kad imperatorius, karalius Vladislovas bei jo duktė Ona a
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Liudvikas]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/asmenys/Žygimantas]]

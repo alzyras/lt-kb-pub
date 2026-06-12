@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad mat, nors maskvėnai, kaip su VasilijuŠ vitrig a ila p u ola V y - mi buvo susitarta, ir neberėtauto kariu s mė Švitrigailos, tačiau šis, pa laikomas savo šalininkų, su telkė keleto rusų bei skitų būrių, užpuolė miškuose Vy tauto karius iš užpakalio bei sparnų. Kojelavičius teigia, kad vargais negalais kariai įveikė šiuos sunkumus ir pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.
+1407 m. Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė. Po Švitrigailos smūgio Vytauto kariai sunkiai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185794"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mat, nors maskvėnai, kaip su VasilijuŠ vitrig a ila p u ola V y - mi buvo susitarta, ir neberėtauto kariu s mė Švitrigailos, tačiau šis, pa laikomas savo šalininkų, su telkė keleto rusų bei skitų būrių, užpuolė miškuose Vy tauto karius iš užpakalio bei sparnų.'
+  global_id: t-185794
+  teiginys: '1407 m. Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185795"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad vargais negalais kariai įveikė šiuos sunkumus ir pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.'
+  global_id: t-185795
+  teiginys: 'Po Švitrigailos smūgio Vytauto kariai sunkiai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mat, nors maskvėnai, kaip su VasilijuŠ vitrig a ila p u ola V y - mi buvo susitarta, ir neberėtauto kariu s mė Švitrigailos, tačiau šis, pa laikomas savo šalininkų, su telkė keleto rusų bei skitų būrių, užpuolė miškuose Vy tauto karius iš užpakalio bei sparnų.'
+  santrauka: '1407 m. Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kaip paprastai esti, kariuomenė, karo va­
@@ -68,7 +71,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad vargais negalais kariai įveikė šiuos sunkumus ir pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.'
+  santrauka: 'Po Švitrigailos smūgio Vytauto kariai sunkiai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Be to, jie negalėjo rasti neseniai nusiaubtuose kai­
@@ -87,3 +90,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/asmenys/Švitrigaila]]

@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-80620"></a>
 - t-001
+  global_id: t-80620
   teiginys: '1580 m. dalyvavo paimant Veližo, Didžiųjų Lukų, Usviatų, Jezeriščės tvirtoves.'
   pagrindžia:
     - c-001

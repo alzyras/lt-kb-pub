@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62681"></a>
 - t-001
+  global_id: t-62681
   teiginys: 'Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas jam šios laimės, ėmė regzti visokiausių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-62682"></a>
 - t-002
+  global_id: t-62682
   teiginys: 'Dusburgietis teigia, kad apie pagirtiną kai kurių brolių gyvenimą Karaliaučiaus pilyje Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Dusburgietis teigia, kad albertas (Brandenburgo markgrafas) sušakosiąs ir atei
 
 ## Teiginiai
 
+<a id="claim-t-60227"></a>
 - t-001
+  global_id: t-60227
   teiginys: 'Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.'
   pagrindžia:
     - c-001

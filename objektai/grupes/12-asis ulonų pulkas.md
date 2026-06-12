@@ -17,7 +17,9 @@ Lietuvos - 2-asis pėstininkų pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
 
 ## Teiginiai
 
+<a id="claim-t-38925"></a>
 - t-001
+  global_id: t-38925
   teiginys: '12-asis ulonų pulkas buvo vienas iš Lietuvos sukilėlių dalinių, sudariusių sukilėlių kariuomenės pagrindą Panerių mūšyje.'
   pagrindžia:
     - c-001

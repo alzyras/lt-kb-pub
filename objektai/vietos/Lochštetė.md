@@ -27,27 +27,37 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 
 ## Teiginiai
 
+<a id="claim-t-58319"></a>
 - t-001
+  global_id: t-58319
   teiginys: 'Lochštetė buvo Ordino pilis Sembos pietvakarių kyšulyje, į pietvakarius nuo Fišhauzeno.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58321"></a>
 - t-002
+  global_id: t-58321
   teiginys: 'Henrikas Stangė žiemos metu įsiveržė į Sembą prie vietos, kur vėliau stovėjo Lochštetės pilis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58322"></a>
 - t-003
+  global_id: t-58322
   teiginys: 'Lochštetės pilis stovėjo Sembos pietvakarių kyšulyje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-58323"></a>
 - t-004
+  global_id: t-58323
   teiginys: 'Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama apie Tepliavos ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė iš.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-58324"></a>
 - t-005
+  global_id: t-58324
   teiginys: 'Viklandsorto pilis vėliau buvo vadinama Lochštete pagal ten gyvenusio sembo Lauksteto vardą.'
   pagrindžia:
     - c-001

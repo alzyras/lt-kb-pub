@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31770"></a>
 - t-001
+  global_id: t-31770
   teiginys: 'Stasio Ylos „Krikščionybės įvedimas Lietuvoje“ išleistas Kaune 1938 m.'
   pagrindžia:
     - c-001

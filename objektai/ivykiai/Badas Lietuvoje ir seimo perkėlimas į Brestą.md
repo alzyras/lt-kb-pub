@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Badas Lietuvoje ir seimo perkėlimas į Brestą (seimas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad lietuvos isto rija paskirti kitus taikytojus, bet niekur neradau parašyta, ar kas buvo tais bei sekančiais metais šiuo reikalu padaryta.
+Skėriams sunaikinus javus, Lietuvoje kilo maisto stoka, todėl lietuvių seimas buvo sušauktas Breste, o ne Vilniuje.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185692"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad lietuvos isto rija paskirti kitus taikytojus, bet niekur neradau parašyta, ar kas buvo tais bei sekančiais metais šiuo reikalu padaryta.'
+  global_id: t-185692
+  teiginys: 'Skėriams sunaikinus javus, Lietuvoje kilo maisto stoka, todėl lietuvių seimas buvo sušauktas Breste, o ne Vilniuje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad lietuvos isto rija paskirti kitus taikytojus, bet niekur neradau parašyta, ar kas buvo tais bei sekančiais metais šiuo reikalu padaryta.'
+  santrauka: 'Skėriams sunaikinus javus, Lietuvoje kilo maisto stoka, todėl lietuvių seimas buvo sušauktas Breste, o ne Vilniuje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lietuvos isto rija
@@ -61,3 +62,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]

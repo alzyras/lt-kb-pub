@@ -24,7 +24,9 @@ Toje pat Dievo Kūno koplyčioje 1589 metų liepos 29 d. buvo paskelbta Maloning
 
 ## Teiginiai
 
+<a id="claim-t-88450"></a>
 - t-001
+  global_id: t-88450
   teiginys: '1589 m. liepos 29 d. Dievo Kūno koplyčioje paskelbtas Maloningosios Dievo Motinos brolijos įkūrimas ir Petro Skargos promocija.'
   pagrindžia:
     - c-001

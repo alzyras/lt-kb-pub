@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77895"></a>
 - t-001
+  global_id: t-77895
   teiginys: 'Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingiausias.'
   pagrindžia:
     - c-001

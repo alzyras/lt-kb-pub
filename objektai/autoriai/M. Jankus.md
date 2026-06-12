@@ -16,7 +16,9 @@ Jankus ir lietuvių draugas vokietis S.
 
 ## Teiginiai
 
+<a id="claim-t-01103"></a>
 - t-001
+  global_id: t-01103
   teiginys: 'M. Jankus rašė „Aušrai“ kartu su Šernu, S. Zauerveinu ir Didžiosios Lietuvos lietuviais inteligentais.'
   pagrindžia:
     - c-001

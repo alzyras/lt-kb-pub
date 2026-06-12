@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad po kelerių taikos metų prasidėjęs žiaurus karas vėl pareikalavo visokiausių aukų, bet baigė si ne mažesniu kryžiuočių pralaimėjimu. Kojelavičius teigia, kad kadangi šis pralaimėjimas palaužė kariuomenės jėgas, o sto vykloje sukėlė siaubą, kryžiuočiai turėjo trauktis iš priešų šalies. Kojelavičius teigia, kad visi kryžiuočiai su vadu Henriku fon Plocke, Prūsijos maršalu, buvo šioje tankmėje arba su naikinti, arba pakliuvo į nelaisvę.
+Apie rugpjūčio pradžią didelė kryžiuočių kariuomenė įsiveržė į Medininkų valsčių ir buvo visiškai sutriuškinta pasalose. Po pralaimėjimo kryžiuočiai traukėsi iš priešo šalies, bet lietuviai iš anksto užtvėrė miškų takus. Kryžiuočiai su Prūsijos maršalu Henriku fon Plocke tankmėje buvo sunaikinti arba pateko į nelaisvę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,25 +32,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185598"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad po kelerių taikos metų prasidėjęs žiaurus karas vėl pareikalavo visokiausių aukų, bet baigė si ne mažesniu kryžiuočių pralaimėjimu.'
+  global_id: t-185598
+  teiginys: 'Apie rugpjūčio pradžią didelė kryžiuočių kariuomenė įsiveržė į Medininkų valsčių ir buvo visiškai sutriuškinta pasalose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185599"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kadangi šis pralaimėjimas palaužė kariuomenės jėgas, o sto vykloje sukėlė siaubą, kryžiuočiai turėjo trauktis iš priešų šalies.'
+  global_id: t-185599
+  teiginys: 'Po pralaimėjimo kryžiuočiai traukėsi iš priešo šalies, bet lietuviai iš anksto užtvėrė miškų takus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185600"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad visi kryžiuočiai su vadu Henriku fon Plocke, Prūsijos maršalu, buvo šioje tankmėje arba su naikinti, arba pakliuvo į nelaisvę.'
+  global_id: t-185600
+  teiginys: 'Kryžiuočiai su Prūsijos maršalu Henriku fon Plocke tankmėje buvo sunaikinti arba pateko į nelaisvę.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad po kelerių taikos metų prasidėjęs žiaurus karas vėl pareikalavo visokiausių aukų, bet baigė si ne mažesniu kryžiuočių pralaimėjimu.'
+  santrauka: 'Apie rugpjūčio pradžią didelė kryžiuočių kariuomenė įsiveržė į Medininkų valsčių ir buvo visiškai sutriuškinta pasalose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po kelerių
@@ -74,7 +79,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kadangi šis pralaimėjimas palaužė kariuomenės jėgas, o sto vykloje sukėlė siaubą, kryžiuočiai turėjo trauktis iš priešų šalies.'
+  santrauka: 'Po pralaimėjimo kryžiuočiai traukėsi iš priešo šalies, bet lietuviai iš anksto užtvėrė miškų takus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi
@@ -93,7 +98,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad visi kryžiuočiai su vadu Henriku fon Plocke, Prūsijos maršalu, buvo šioje tankmėje arba su naikinti, arba pakliuvo į nelaisvę.'
+  santrauka: 'Kryžiuočiai su Prūsijos maršalu Henriku fon Plocke tankmėje buvo sunaikinti arba pateko į nelaisvę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Visi kryžiuočiai su vadu Henriku fon Ploc-
@@ -125,3 +130,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/paliaubos]]
+- [[objektai/zodynas/maršalas]]

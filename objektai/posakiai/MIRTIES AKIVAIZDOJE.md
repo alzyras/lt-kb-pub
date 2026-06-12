@@ -16,7 +16,9 @@ MIRTIES AKIVAIZDOJE Viršila Antanas Šukys aprašo vieną nutikimą žvalgyboje
 
 ## Teiginiai
 
+<a id="claim-t-41454"></a>
 - t-001
+  global_id: t-41454
   teiginys: '„Mirties akivaizdoje“ siejamas su viršilos Antano Šukio aprašytu nutikimu žvalgyboje.'
   pagrindžia:
     - c-001

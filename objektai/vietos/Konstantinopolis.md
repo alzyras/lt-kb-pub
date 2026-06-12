@@ -28,42 +28,58 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 
 ## Teiginiai
 
+<a id="claim-t-177248"></a>
 - t-001
+  global_id: t-177248
   teiginys: 'Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-177249"></a>
 - t-002
+  global_id: t-177249
   teiginys: 'Po Ciprijono mirties Vytautas pristatė Konstantinopolio patriarchui Eufimėjui Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-177250"></a>
 - t-003
+  global_id: t-177250
   teiginys: 'Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai, įsiveržę pro sieną, ant kurios buvęs nupieštas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-177251"></a>
 - t-004
+  global_id: t-177251
   teiginys: 'Dusburgietis teigia, kad apie Konstantinopolio miesto atgavimą 1259 viešpaties metais Paleologas, graikų imperatorius, atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai [per Gallicos et Venetos] (Mart.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-177253"></a>
 - t-005
+  global_id: t-177253
   teiginys: 'Konstantinopolio stačiatikių sinodas nepaskyrė Cemblako metropolitu, atėmė iš jo žemutinius šventimus ir jį iškeikė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-177254"></a>
 - t-006
+  global_id: t-177254
   teiginys: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-177256"></a>
 - t-008
+  global_id: t-177256
   teiginys: 'Po Ciprijono mirties Vytautas Konstantinopolio patriarchui Eufimėjui pristatė Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-177257"></a>
 - t-009
+  global_id: t-177257
   teiginys: 'Tuomet Maskvoje ir susidarė teorija, kuri skelbė, jog Maskva turinti būti toks pat pravoslaviškojo pasaulio centras, koks anksčiau buvo Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
 
 ## Teiginiai
 
+<a id="claim-t-21831"></a>
 - t-001
+  global_id: t-21831
   teiginys: 'Tunisas minimas tarp miestų, su kuriais lyginamas XVIII–XIX a. sandūros Vilnius kaip vienas svarbiausių žydų kultūros centrų.'
   pagrindžia:
     - c-001

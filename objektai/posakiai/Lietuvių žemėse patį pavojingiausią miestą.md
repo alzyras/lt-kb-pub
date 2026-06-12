@@ -19,7 +19,9 @@ E, p. 70, kuriame esa­ ma tokių žodžių: „Apsupome W ille (tai yra Vilnių
 
 ## Teiginiai
 
+<a id="claim-t-86862"></a>
 - t-001
+  global_id: t-86862
   teiginys: 'Sename vokiečių pranešime Vilnius vadintas lietuvių žemėse pavojingiausiu miestu, kuriame buvo trys įgulų saugomos pilys.'
   pagrindžia:
     - c-001

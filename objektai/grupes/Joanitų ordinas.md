@@ -27,27 +27,37 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 
 ## Teiginiai
 
+<a id="claim-t-72078"></a>
 - t-001
+  global_id: t-72078
   teiginys: 'Dusburgietis teigia, kad bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72079"></a>
 - t-002
+  global_id: t-72079
   teiginys: 'Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras ir tamplierių ordino magistras, daugelis abiejų ordinų brolių ir.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72080"></a>
 - t-003
+  global_id: t-72080
   teiginys: 'Kryžiaus karų aplinkoje italai turėjo Joanitų ordiną kaip kariaujančiųjų riterių ordiną.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-72081"></a>
 - t-004
+  global_id: t-72081
   teiginys: 'Dusburgietis teigia, kad jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir suteikdamas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-72082"></a>
 - t-005
+  global_id: t-72082
   teiginys: 'Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.'
   pagrindžia:
     - c-005

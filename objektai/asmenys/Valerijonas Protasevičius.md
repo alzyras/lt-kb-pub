@@ -27,92 +27,128 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 
 ## Teiginiai
 
+<a id="claim-t-114001"></a>
 - t-001
+  global_id: t-114001
   teiginys: '1579 m. kovo 6 d. Valerijonas Protasevičius fundacijos teise užrašė Akademijai ir kolegijai tris mūrinius namus.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-114002"></a>
 - t-002
+  global_id: t-114002
   teiginys: 'G) Apie kai kuriuos Akademijai ir Valerijono bursai funduotus turtus • 1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-114003"></a>
 - t-003
+  global_id: t-114003
   teiginys: 'Tėvas ponas Valerijonas, Vilniaus vyskupas, vykdydamas savo prievolę ir pareigas, paprieštaravo, kad neturėtumėme šios sąlygos įtraukti į sutartį.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-114004"></a>
 - t-004
+  global_id: t-114004
   teiginys: 'Vilniaus vyskupas Valerijonas Protasevičius siekė sutrukdyti protestantų ketinimui įkurti kolegiją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-114005"></a>
 - t-005
+  global_id: t-114005
   teiginys: 'Valerijonas Protasevičius įsakė surinktas disidentų knygas viešai deginti priešais Šv. Jono bažnyčią.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-114006"></a>
 - t-006
+  global_id: t-114006
   teiginys: 'Valerijonas Protasevičius 1556 m. buvo perkeltas į Vilniaus katedrą ir mirė 1579 m. gruodžio 21 d.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-114007"></a>
 - t-007
+  global_id: t-114007
   teiginys: 'Valerijonas Protasevičius Vilniuje palaimino Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoką.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-114008"></a>
 - t-008
+  global_id: t-114008
   teiginys: 'Valerijonas Protasevičius paprieštaravo, kad religijos laisvės sąlyga būtų įtraukta į sutartį.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-114009"></a>
 - t-009
+  global_id: t-114009
   teiginys: 'Valerijonas Protasevičius įsteigė neturtingiems studentams Valerijono bursą ir padovanojo jai tris mūrinius namus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-114010"></a>
 - t-010
+  global_id: t-114010
   teiginys: 'Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui Vilniuje įkurti kolegiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-114011"></a>
 - t-011
+  global_id: t-114011
   teiginys: '1579 m. Vilniuje duotą Bursos įkūrėjo atminimo aktą vyskupas Valerijonas pasirašė savo ranka.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-114012"></a>
 - t-012
+  global_id: t-114012
   teiginys: 'Valerijonas Protasevičius buvo Vilniaus vyskupas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-114013"></a>
 - t-013
+  global_id: t-114013
   teiginys: 'Valerijonas Protasevičius atmetė katalikų tikėjimui prieštaraujančias sąlygas ir ragino valdovą su jomis nesutikti.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-114014"></a>
 - t-014
+  global_id: t-114014
   teiginys: '1569 m. spalio 4 d. Valerijonas Protasevičius fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-114015"></a>
 - t-015
+  global_id: t-114015
   teiginys: 'Valerijonas Protasevičius atmetė katalikų tikėjimui prieštaraujančias sąlygas ir ragino su jomis nesutikti.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-114016"></a>
 - t-016
+  global_id: t-114016
   teiginys: '1579 m. balandžio 1 d. Steponas Batoras parėmė vyskupo Valerijono Protasevičiaus sumanymą ir pastangas.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-114017"></a>
 - t-017
+  global_id: t-114017
   teiginys: 'Valerijonas Protasevičius 1569 metais pirmasis pakvietė jėzuitų ordiną į Vilnių.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-114018"></a>
 - t-018
+  global_id: t-114018
   teiginys: 'Valerijonas Protasevičius fundavo ir aprūpino jėzuitų kolegiją, kurią karalius pakėlė iki universiteto laipsnio.'
   pagrindžia:
     - c-005

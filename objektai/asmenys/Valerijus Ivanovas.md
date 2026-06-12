@@ -16,7 +16,9 @@ Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komitet
 
 ## Teiginiai
 
+<a id="claim-t-40500"></a>
 - t-001
+  global_id: t-40500
   teiginys: 'Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komiteto“ lyderių komunistų Juozo Jermalavičiaus, Mykolo Burokevičiaus ir Valerijaus Ivanovo organizacijos „Jedinstvo“.'
   pagrindžia:
     - c-001

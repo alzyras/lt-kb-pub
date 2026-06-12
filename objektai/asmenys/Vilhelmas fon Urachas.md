@@ -25,7 +25,9 @@ Lietuvos Tarybos konservatoriai ir monarchistai 1918 m. liepos 13 d., blokuodami
 
 ## Teiginiai
 
+<a id="claim-t-26463"></a>
 - t-001
+  global_id: t-26463
   teiginys: '1918 m. liepos 13 d. Lietuvos Tarybos konservatoriai ir monarchistai pakvietė Vilhelmą fon Urachą užimti Lietuvos sostą ir paskelbė jį karaliumi Mindaugu II.'
   pagrindžia:
     - c-001

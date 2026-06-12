@@ -17,12 +17,16 @@ Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos, prasidėjo d
 
 ## Teiginiai
 
+<a id="claim-t-21987"></a>
 - t-001
+  global_id: t-21987
   teiginys: 'Lietuvai tapus visateise valstybe prasidėjo demonopolizacija, padidėjo efektyvumas ir prekių bei paslaugų pasiūla.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183408"></a>
 - t-002
+  global_id: t-183408
   teiginys: 'Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos, prasidėjo demonopolizacija, padidėjo efektyvumas, prekių ir paslaugų pasiūla, atsirado naujų galimybių plėtoti švietimą, kultūrą, spręsti socialines problemas.'
   pagrindžia:
     - c-002

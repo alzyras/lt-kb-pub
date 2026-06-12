@@ -29,27 +29,37 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 
 ## Teiginiai
 
+<a id="claim-t-59900"></a>
 - t-001
+  global_id: t-59900
   teiginys: 'Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-59901"></a>
 - t-002
+  global_id: t-59901
   teiginys: 'Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-59902"></a>
 - t-003
+  global_id: t-59902
   teiginys: 'Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių, imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė Klemensas V, popiežius (Ptol.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59903"></a>
 - t-004
+  global_id: t-59903
   teiginys: 'Dusburgietis teigia, kad apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą Tų pačių metų rugsėjo mėnesio pradžioje Ananyje, būtent savo gimtinėje, įkalinamas popiežius Bonifacas, o visas bažnyčios turtas išnešiojamas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59904"></a>
 - t-005
+  global_id: t-59904
   teiginys: 'Dusburgietis teigia, kad apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą 1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos karalių (Ptol.'
   pagrindžia:
     - c-003

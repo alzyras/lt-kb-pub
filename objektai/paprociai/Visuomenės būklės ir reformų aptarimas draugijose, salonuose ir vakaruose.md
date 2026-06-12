@@ -39,17 +39,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-55168"></a>
 - t-001
+  global_id: t-55168
   teiginys: 'Filantropinių organizacijų ir susivienijimų nariai aptardavo visuomenės būklę ir tardavosi dėl konkrečių bei numatomų tikslų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-81871"></a>
 - t-002
+  global_id: t-81871
   teiginys: 'Vilniuje legalios filantropinės organizacijos ir susivienijimai aptardavo visuomenės būklę ir reformų tikslus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-81872"></a>
 - t-003
+  global_id: t-81872
   teiginys: 'Po Napoleono sutriuškinimo Rusijoje salonuose, vakaruose ir draugijose atvirai aptarinėtos socialinės, politinės problemos, valdžios reformavimo ir baudžiavos paveldo klausimai.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Nerman, B.: Die Verbindungen zwischen Skandinavien und dem Ostbaltikum in der j�
 
 ## Teiginiai
 
+<a id="claim-t-30569"></a>
 - t-001
+  global_id: t-30569
   teiginys: 'B. Nermanas 1929 m. Stokholme paskelbė darbą apie Skandinavijos ir Rytų Baltijos ryšius vėlyvajame geležies amžiuje.'
   pagrindžia:
     - c-001

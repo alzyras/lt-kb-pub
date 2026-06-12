@@ -18,7 +18,9 @@ Urbonas, O.
 
 ## Teiginiai
 
+<a id="claim-t-31020"></a>
 - t-001
+  global_id: t-31020
   teiginys: 'O. Urbonas 1960 m. Brukline paskelbė darbą „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“.'
   pagrindžia:
     - c-001

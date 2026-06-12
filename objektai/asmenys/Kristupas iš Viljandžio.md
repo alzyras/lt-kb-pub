@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kristupas iš Viljandžio
 
 ## Santrauka
 
-Kojelavičius teigia, kad po magistro ir kiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš tus patvirtino savo parašais, be magistro, dar du rite rių išrinkti vyrai: Henrikas Štendichas, Kuldygos kom tūras, ir Kristupas iš Viljandžio, krašto maršalas.
+Kristupas iš Viljandžio, krašto maršalas, buvo vienas iš dviejų riterių išrinktų vyrų, savo parašais patvirtinusių susitarimo raštus.
 
 ## Teiginiai
 
+<a id="claim-t-186229"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad po magistro ir kiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš tus patvirtino savo parašais, be magistro, dar du rite rių išrinkti vyrai: Henrikas Štendichas, Kuldygos kom tūras, ir Kristupas iš Viljandžio, krašto maršalas.'
+  global_id: t-186229
+  teiginys: 'Kristupas iš Viljandžio, krašto maršalas, buvo vienas iš dviejų riterių išrinktų vyrų, savo parašais patvirtinusių susitarimo raštus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad po magistro ir kiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš tus patvirtino savo parašais, be magistro, dar du rite rių išrinkti vyrai: Henrikas Štendichas, Kuldygos kom tūras, ir Kristupas iš Viljandžio, krašto maršalas.'
+  santrauka: 'Kristupas iš Viljandžio, krašto maršalas, buvo vienas iš dviejų riterių išrinktų vyrų, savo parašais patvirtinusių susitarimo raštus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jeigu Mask­
@@ -55,3 +56,11 @@ Kojelavičius teigia, kad po magistro ir kiti riteriai prisiekė laikytis šių 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vaivada]]

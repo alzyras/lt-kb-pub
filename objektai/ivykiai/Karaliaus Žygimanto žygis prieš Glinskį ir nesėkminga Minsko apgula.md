@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula
 
 ## Santrauka
 
-Kojelavičius teigia, kad glinskis, nutraukęs Minsko apgulą gal dėl sąžinės priekaištų, gal iš pagarbos karaliui, pirmiausia su savo kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs damas stoti į atvirą kovą veikiausiai dėl to, kad turė jo per mažai karių.
+Glinskis nutraukė Minsko apgulą, su kariais nužygiavo į Borisovą ir Oršą, o karalius jį atkakliai persekiojo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185582"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad glinskis, nutraukęs Minsko apgulą gal dėl sąžinės priekaištų, gal iš pagarbos karaliui, pirmiausia su savo kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs damas stoti į atvirą kovą veikiausiai dėl to, kad turė jo per mažai karių.'
+  global_id: t-185582
+  teiginys: 'Glinskis nutraukė Minsko apgulą, su kariais nužygiavo į Borisovą ir Oršą, o karalius jį atkakliai persekiojo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad glinskis, nutraukęs Minsko apgulą gal dėl sąžinės priekaištų, gal iš pagarbos karaliui, pirmiausia su savo kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs damas stoti į atvirą kovą veikiausiai dėl to, kad turė jo per mažai karių.'
+  santrauka: 'Glinskis nutraukė Minsko apgulą, su kariais nužygiavo į Borisovą ir Oršą, o karalius jį atkakliai persekiojo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ga­
@@ -55,3 +56,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/algininkai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/skitai]]

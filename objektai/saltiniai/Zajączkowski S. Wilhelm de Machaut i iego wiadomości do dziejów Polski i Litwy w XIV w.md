@@ -22,7 +22,9 @@ Dusburgietis teigia, kad zajączkowski S.
 
 ## Teiginiai
 
+<a id="claim-t-61381"></a>
 - t-001
+  global_id: t-61381
   teiginys: 'S. Zajączkowskio straipsnis „Wilhelm de Machaut i iego wiadomości do dziejów Polski i Litwy w XIV w.“ paskelbtas 1929 m. „Kwartalnik historyczny“ leidinyje.'
   pagrindžia:
     - c-001

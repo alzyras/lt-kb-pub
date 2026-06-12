@@ -19,17 +19,23 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
 
 ## Teiginiai
 
+<a id="claim-t-19264"></a>
 - t-001
+  global_id: t-19264
   teiginys: 'Vengrijos valdovas Steponas įgijo šventojo statusą ir tapo šventuoju Steponu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-19265"></a>
 - t-002
+  global_id: t-19265
   teiginys: 'Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183572"></a>
 - t-003
+  global_id: t-183572
   teiginys: 'Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.'
   pagrindžia:
     - c-003

@@ -16,7 +16,9 @@ Kitas ukrainietis istorikas V. Zai­ kinas rašė iš teisės filosofijos ir rel
 
 ## Teiginiai
 
+<a id="claim-t-31054"></a>
 - t-001
+  global_id: t-31054
   teiginys: 'V. Zaikinas rašė teisės filosofijos ir religijos istorijos temomis, liesdamas Didžiąją Lietuvos Kunigaikštystę.'
   pagrindžia:
     - c-001

@@ -24,22 +24,30 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 
 ## Teiginiai
 
+<a id="claim-t-85928"></a>
 - t-001
+  global_id: t-85928
   teiginys: 'Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau įsigijo kaip nuosavybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85929"></a>
 - t-002
+  global_id: t-85929
   teiginys: 'Balinskis sugrįžta į Lietuvą ir apsigyvena savo Jašiūnų dvare.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85930"></a>
 - t-003
+  global_id: t-85930
   teiginys: 'Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85931"></a>
 - t-004
+  global_id: t-85931
   teiginys: 'Jašiūnų miškuose kur ne kur stūksojo pilkapiai, laikomi seniausių žmonių gyvenimo pėdsakais.'
   pagrindžia:
     - c-004

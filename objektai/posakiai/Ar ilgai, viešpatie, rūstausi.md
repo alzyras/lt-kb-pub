@@ -18,7 +18,9 @@ Dusburgietis teigia, kad ar ilgai, viešpatie, rūstausi? Dusburgietis teigia, k
 
 ## Teiginiai
 
+<a id="claim-t-59076"></a>
 - t-001
+  global_id: t-59076
   teiginys: 'Po posakio „Ar ilgai, viešpatie, rūstausi?“ prašoma parodyti rūstį netikėliams ir neleisti jiems klausti, kur yra krikščionių Dievas.'
   pagrindžia:
     - c-001

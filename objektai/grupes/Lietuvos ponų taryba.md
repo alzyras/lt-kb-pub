@@ -25,22 +25,30 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
 
 ## Teiginiai
 
+<a id="claim-t-86730"></a>
 - t-001
+  global_id: t-86730
   teiginys: '1560 m. Vilniuje vykusiame Lietuvos Didžiosios Kunigaikštystės Ponų Tarybos seime karalius leido bajorams rinkti delegatus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86731"></a>
 - t-002
+  global_id: t-86731
   teiginys: 'Žygimantas Augustas Lietuvos ir Lenkijos ponų tarybų patarimu įsakė nustatyti lietuviškos monetos vertę lenkiškais grašiais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86732"></a>
 - t-003
+  global_id: t-86732
   teiginys: 'Po valdovo mirties ponų tarybos nariai buvo kviečiami atvykti prie mirusio valdovo kūno ir spręsti Respublikai kilusius pavojus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-86733"></a>
 - t-004
+  global_id: t-86733
   teiginys: 'Pinigus, gautus už Maskvos kalinius ir atgabentus iš Gdansko, siūlyta sulaikyti iki ponų tarybos narių suvažiavimo.'
   pagrindžia:
     - c-001

@@ -25,12 +25,16 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
 
 ## Teiginiai
 
+<a id="claim-t-59142"></a>
 - t-001
+  global_id: t-59142
   teiginys: 'Dusburgietis teigia, kad vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach einem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį metę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59143"></a>
 - t-002
+  global_id: t-59143
   teiginys: 'Dangaus balsas Albertui nurodė kasdien kalbėti maldą „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs“.'
   pagrindžia:
     - c-001

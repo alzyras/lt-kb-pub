@@ -28,7 +28,9 @@ hos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į 
 
 ## Teiginiai
 
+<a id="claim-t-25385"></a>
 - t-001
+  global_id: t-25385
   teiginys: 'Po Prahos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, telkusios žmones bendromis idėjomis ir tikslais.'
   pagrindžia:
     - c-001

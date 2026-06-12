@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59613"></a>
 - t-001
+  global_id: t-59613
   teiginys: 'Dusburgietis teigia, kad pirmas mūrinės pilies statybos etapas truko iki 1300 m. XIV a.'
   pagrindžia:
     - c-001

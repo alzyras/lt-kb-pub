@@ -23,7 +23,9 @@ Dusburgietis teigia, kad torunės magistrato bibliotekos nuorašas (XVII a.) pad
 
 ## Teiginiai
 
+<a id="claim-t-61322"></a>
 - t-001
+  global_id: t-61322
   teiginys: 'Dusburgietis teigia, kad torunės magistrato bibliotekos nuorašas (XVII a.) padarytas iš Karaliaučiaus bibliotekos teksto.'
   pagrindžia:
     - c-001

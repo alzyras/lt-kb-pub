@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)
 
 ## Santrauka
 
-Kojelavičius teigia, kad atėjo žiema, vis dėlto lietuviams ji nebuvo nė kiek ne ramesnė kaip vasara, nes Vytautas nevengė iš puolių ir iš žiemos stovyklos. Kojelavičius teigia, kad netekęs vilties, kad užkariaus pilį, be to, nenorė damas, kad pasklistų kalbos, jog priešas šiuo žygiu nie ko nenuveikė, jis pasitraukė į Nemuno salas, esančias už vienos mylios, ir pastatė čia naujas pilis. Kojelavičius teigia, kad dviejose salose, Naujojoje ir Riterių, pavadintose Nojerverderiu ir Ritersverderiu, kryžiuoStato L ie tu v o je паи- čiai paliko savo įgulą, o tre jas pilis čiojoje, vadinamoje Marien burgu, įkurdino savo karius Vytautas.
+Žiemą Vytautas miškais tyliai priėjo prie Kauno ir netikėtai pasirodė su kariuomene prie pylimo. Nepajėgęs užimti Kauno, Vytautas pasitraukė į Nemuno salas už vienos mylios ir ten pastatė naujas pilis.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,25 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185626"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad atėjo žiema, vis dėlto lietuviams ji nebuvo nė kiek ne ramesnė kaip vasara, nes Vytautas nevengė iš puolių ir iš žiemos stovyklos.'
+  global_id: t-185626
+  teiginys: 'Žiemą Vytautas miškais tyliai priėjo prie Kauno ir netikėtai pasirodė su kariuomene prie pylimo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185627"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad netekęs vilties, kad užkariaus pilį, be to, nenorė damas, kad pasklistų kalbos, jog priešas šiuo žygiu nie ko nenuveikė, jis pasitraukė į Nemuno salas, esančias už vienos mylios, ir pastatė čia naujas pilis.'
+  global_id: t-185627
+  teiginys: 'Nepajėgęs užimti Kauno, Vytautas pasitraukė į Nemuno salas už vienos mylios ir ten pastatė naujas pilis.'
   pagrindžia:
     - c-002
-
-- t-003
-  teiginys: 'Kojelavičius teigia, kad dviejose salose, Naujojoje ir Riterių, pavadintose Nojerverderiu ir Ritersverderiu, kryžiuoStato L ie tu v o je паи- čiai paliko savo įgulą, o tre jas pilis čiojoje, vadinamoje Marien burgu, įkurdino savo karius Vytautas.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad atėjo žiema, vis dėlto lietuviams ji nebuvo nė kiek ne ramesnė kaip vasara, nes Vytautas nevengė iš puolių ir iš žiemos stovyklos.'
+  santrauka: 'Žiemą Vytautas miškais tyliai priėjo prie Kauno ir netikėtai pasirodė su kariuomene prie pylimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atėjo žiema, vis dėlto lietuviams ji nebuvo nė
@@ -76,7 +74,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad netekęs vilties, kad užkariaus pilį, be to, nenorė damas, kad pasklistų kalbos, jog priešas šiuo žygiu nie ko nenuveikė, jis pasitraukė į Nemuno salas, esančias už vienos mylios, ir pastatė čia naujas pilis.'
+  santrauka: 'Nepajėgęs užimti Kauno, Vytautas pasitraukė į Nemuno salas už vienos mylios ir ten pastatė naujas pilis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     324
@@ -104,26 +102,11 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Kojelavičius teigia, kad dviejose salose, Naujojoje ir Riterių, pavadintose Nojerverderiu ir Ritersverderiu, kryžiuoStato L ie tu v o je паи- čiai paliko savo įgulą, o tre jas pilis čiojoje, vadinamoje Marien burgu, įkurdino savo karius Vytautas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Dviejose
-    salose, Naujojoje ir Riterių, pavadintose Nojerverde-
-    riu ir Ritersverderiu, kryžiuo-
-    Stato L ie tu v o je  паи-
-    čiai paliko savo įgulą, o tre­
-    jas pilis
-    čiojoje, vadinamoje Marien­
-    burgu, įkurdino savo karius
-    Vytautas. Šios įgulos nepaprastai kenkė aplinkiniam
-    kraštui: nesutikdamos pasipriešinimo, jos pridarydavo
-    daug žalos menkais, bet dažnais išpuoliais, rengiamais
-    nedidelių būrių. Šitokia padėtis paskatino Kernavės ku­
-    nigaikštį Aleksandrą Vygandą pamėginti priešą iš ten
-    išvaryti.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/samdytiniai]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/zodynas/žygis]]

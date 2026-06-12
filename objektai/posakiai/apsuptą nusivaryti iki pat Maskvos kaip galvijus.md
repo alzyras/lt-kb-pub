@@ -18,7 +18,9 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
 
 ## Teiginiai
 
+<a id="claim-t-41473"></a>
 - t-001
+  global_id: t-41473
   teiginys: 'Čeliadninas teigė, kad Maskvos pajėgos gali Lietuvos kariuomenę įveikti arba apsuptą nusivaryti iki Maskvos kaip galvijus.'
   pagrindžia:
     - c-001

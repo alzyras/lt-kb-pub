@@ -22,7 +22,9 @@ Dusburgietis teigia, kad apie gibelinus ir gvelfus 1228 viešpaties metais Itali
 
 ## Teiginiai
 
+<a id="claim-t-58902"></a>
 - t-001
+  global_id: t-58902
   teiginys: 'Dusburgietis teigia, kad apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir gvelfų partijos; šitai yra vardai dviejų brolių, kurių keliai išsiskyrė.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­ tuvos kelių aprašymu
 
 ## Teiginiai
 
+<a id="claim-t-32022"></a>
 - t-001
+  global_id: t-32022
   teiginys: 'XIV a. pabaigos „die litauischen Wegeberichte“ įvairiose Aukštaičių žemės vietose mini 18 didžiojo kunigaikščio dvarų.'
   pagrindžia:
     - c-001

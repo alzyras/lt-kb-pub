@@ -26,7 +26,9 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
 
 ## Teiginiai
 
+<a id="claim-t-60316"></a>
 - t-001
+  global_id: t-60316
   teiginys: 'Henrikas iš Vederės buvo sunkiai sužeistas pabėgusio ruso, bet pats jį mirtinai sužeidė.'
   pagrindžia:
     - c-001

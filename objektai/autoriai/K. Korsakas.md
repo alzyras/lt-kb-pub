@@ -24,7 +24,9 @@ Korsako ir J.
 
 ## Teiginiai
 
+<a id="claim-t-30742"></a>
 - t-001
+  global_id: t-30742
   teiginys: 'K. Korsakas su J. Lebedžiu parengė 1957 m. Vilniuje išleistą „Lietuvių literatūros chrestomatiją“.'
   pagrindžia:
     - c-001

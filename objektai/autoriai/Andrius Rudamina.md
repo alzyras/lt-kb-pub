@@ -30,27 +30,37 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 
 ## Teiginiai
 
+<a id="claim-t-23221"></a>
 - t-001
+  global_id: t-23221
   teiginys: 'Andrius Rudamina buvo Vilniaus universiteto auklėtinis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23222"></a>
 - t-002
+  global_id: t-23222
   teiginys: 'Rudamina 1626–1634 m. misionieriavo Kinijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23223"></a>
 - t-003
+  global_id: t-23223
   teiginys: 'Rudamina rašė asketikos veikalus kinų kalba.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23224"></a>
 - t-004
+  global_id: t-23224
   teiginys: 'Andrius Rudamina, Vilniaus universiteto auklėtinis, 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-26708"></a>
 - t-005
+  global_id: t-26708
   teiginys: 'Andrius Rudamina nunešė Jėzaus draugijos idėjas iki Kinijos, kur 1626–1634 m. misionieriavo.'
   pagrindžia:
     - c-002

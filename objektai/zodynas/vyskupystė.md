@@ -19,7 +19,9 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
 
 ## Teiginiai
 
+<a id="claim-t-03229"></a>
 - t-001
+  global_id: t-03229
   teiginys: 'Po Lietuvos krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedrą ir septynias pirmąsias parapijines bažnyčias krašte.'
   pagrindžia:
     - c-001
@@ -70,5 +72,7 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
 - [[objektai/zodynas/tautinė sąmonė]]
 - [[objektai/autoriai/Grzybowski]]
 - [[objektai/asmenys/Jodokas]]
+- [[objektai/grupes/Konstancos suvažiavimas]]
+- [[objektai/ivykiai/Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.)]]
 - [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
 - [[objektai/zodynas/grašis]]

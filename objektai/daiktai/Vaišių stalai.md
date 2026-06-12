@@ -36,12 +36,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-55058"></a>
 - t-001
+  global_id: t-55058
   teiginys: 'Boleslovas Didysis aplinkinius žmones kurtis miestuose viliojo nuolat padengtais vaišių stalais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81865"></a>
 - t-002
+  global_id: t-81865
   teiginys: 'Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbinBandtk.'
   pagrindžia:
     - c-002

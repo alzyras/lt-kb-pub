@@ -21,7 +21,6 @@ amziai:
   - 'XIII'
   - 'XIV'
 ---
-
 # Drevanta
 
 ## Santrauka
@@ -30,13 +29,17 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
 
 ## Teiginiai
 
+<a id="claim-t-58431"></a>
 - t-001
+  global_id: t-58431
   teiginys: 'Drevanta skyrė lenkiškąją Dobrynės žemę nuo upių ir ežerų supamo ploto, o jos vardas laikomas baltišku.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184944"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad bendras sąjungininkų pralai mėjimas būtų palietęs ir Kulmo žemę, jeigu smarkiai patvinusi Drevanta nebūtų sutrukdžiusi grobiu apsikro vusiems kariams persikelti.'
+  global_id: t-184944
+  teiginys: 'Smarkiai patvinusi Drevanta sutrukdė grobiu apkrautiems kariams persikelti į Kulmo žemę.'
   pagrindžia:
     - c-002
 
@@ -57,7 +60,7 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad bendras sąjungininkų pralai mėjimas būtų palietęs ir Kulmo žemę, jeigu smarkiai patvinusi Drevanta nebūtų sutrukdžiusi grobiu apsikro vusiems kariams persikelti.'
+  santrauka: 'Smarkiai patvinusi Drevanta sutrukdė grobiu apkrautiems kariams persikelti į Kulmo žemę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš L iv o n ijo s lie tu v ia i

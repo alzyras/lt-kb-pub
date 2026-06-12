@@ -17,7 +17,9 @@ Butigeidis įsitraukė į politinį gyvenimą ir, susidorojęs su Mindaugo prie�
 
 ## Teiginiai
 
+<a id="claim-t-78046"></a>
 - t-001
+  global_id: t-78046
   teiginys: 'Butigeidis įsitraukė į politinį gyvenimą ir, susidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą.'
   pagrindžia:
     - c-001

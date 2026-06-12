@@ -19,7 +19,9 @@ Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusių Že
 
 ## Teiginiai
 
+<a id="claim-t-28634"></a>
 - t-001
+  global_id: t-28634
   teiginys: 'Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusių Žečpospolitos (respublikos) tautų federaciją.'
   pagrindžia:
     - c-001

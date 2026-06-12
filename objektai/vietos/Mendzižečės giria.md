@@ -18,7 +18,9 @@ Per pusantros mylios nuo Rūdninkų Mendzižečės link stūksojo nuostabiai gra
 
 ## Teiginiai
 
+<a id="claim-t-86211"></a>
 - t-001
+  global_id: t-86211
   teiginys: 'Mendzižečės giria apėmė daugiau kaip 3000 valakų plotą, kuriam priklausė ir Rūdninkų medžionė.'
   pagrindžia:
     - c-001

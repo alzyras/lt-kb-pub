@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31107"></a>
 - t-001
+  global_id: t-31107
   teiginys: 'J. Stankus rašė apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII a.'
   pagrindžia:
     - c-001

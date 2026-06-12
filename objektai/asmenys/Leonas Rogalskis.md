@@ -26,12 +26,16 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
 
 ## Teiginiai
 
+<a id="claim-t-87542"></a>
 - t-001
+  global_id: t-87542
   teiginys: 'Leonas Rogalskis priklausė 1830 m. rudenį Vilniuje susikūrusiam sukilimo centriniam komitetui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87543"></a>
 - t-002
+  global_id: t-87543
   teiginys: 'Iš Žemaitijos kilęs ir netrukus valstybinę karjerą padaręs Varšuvoje, asmeninis istoriko draugas žemaitis Leonas Rogalskis nuolat skatino tęsti pradėtą darbą.'
   pagrindžia:
     - c-001

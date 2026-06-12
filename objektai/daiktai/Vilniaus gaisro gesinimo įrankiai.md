@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54730"></a>
 - t-001
+  global_id: t-54730
   teiginys: '1524 m. karalius priekaištavo Vilniaus magistratui, kad miestas neturi gaisrui gesinti odinių kibirų, kirvių ir kablių.'
   pagrindžia:
     - c-001

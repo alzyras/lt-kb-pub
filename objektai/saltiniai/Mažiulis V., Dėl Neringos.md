@@ -18,7 +18,9 @@ Dusburgietis teigia, kad vidurio Ordino dokumentuose atsiranda lytis Neringe.
 
 ## Teiginiai
 
+<a id="claim-t-61175"></a>
 - t-001
+  global_id: t-61175
   teiginys: 'Dusburgietis teigia, kad vidurio Ordino dokumentuose atsiranda lytis Neringe.'
   pagrindžia:
     - c-001

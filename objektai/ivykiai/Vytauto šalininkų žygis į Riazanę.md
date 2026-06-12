@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vytauto šalininkų žygis į Riazanę
 
 ## Santrauka
 
-Kojelavičius teigia, kad vėliau, padalijęs kariuomenę dviem žygio voromis, Si monui Lengveniui, Mstislavlio kunigaikščiui, įsakė su dalimi lietuvių kariuomenės pulti Riazanės kunigaikš tį, maišto Rusioje kaltininką.
+Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185834"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vėliau, padalijęs kariuomenę dviem žygio voromis, Si monui Lengveniui, Mstislavlio kunigaikščiui, įsakė su dalimi lietuvių kariuomenės pulti Riazanės kunigaikš tį, maišto Rusioje kaltininką.'
+  global_id: t-185834
+  teiginys: 'Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vėliau, padalijęs kariuomenę dviem žygio voromis, Si monui Lengveniui, Mstislavlio kunigaikščiui, įsakė su dalimi lietuvių kariuomenės pulti Riazanės kunigaikš tį, maišto Rusioje kaltininką.'
+  santrauka: 'Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vėliau, padalijęs kariuomenę dviem žygio voromis, Si­
@@ -62,3 +63,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Lengvenis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]
+- [[objektai/zodynas/žygis]]

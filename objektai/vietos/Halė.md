@@ -9,7 +9,6 @@ atnaujinta: ''
 tags:
   - vieta
 ---
-
 # Halė
 
 ## Santrauka
@@ -18,13 +17,17 @@ Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei proti
 
 ## Teiginiai
 
+<a id="claim-t-58695"></a>
 - t-001
+  global_id: t-58695
   teiginys: 'Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei protingas, kad visoje Prūsijoje neturėjo sau lygaus281.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184959"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad tačiau imperatorius Maksimilijonas netoli Halės jėga juos at ėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal į Maskvą.'
+  global_id: t-184959
+  teiginys: 'Imperatorius Maksimilijonas netoli Halės jėga atėmė maskvėnų belaisvius iš karaliaus žygūnų ir grąžino juos į Maskvą.'
   pagrindžia:
     - c-002
 
@@ -48,7 +51,7 @@ Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei proti
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad tačiau imperatorius Maksimilijonas netoli Halės jėga juos at ėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal į Maskvą.'
+  santrauka: 'Imperatorius Maksimilijonas netoli Halės jėga atėmė maskvėnų belaisvius iš karaliaus žygūnų ir grąžino juos į Maskvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius bei karalienė, iškilmingai Vilniuje per mišias

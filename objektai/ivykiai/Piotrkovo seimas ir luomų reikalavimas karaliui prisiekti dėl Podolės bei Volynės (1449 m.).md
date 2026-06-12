@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Piotrkovo seimas ir luomų reikalavimas karaliui prisiekti dėl Podolės bei Volynės (1449 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad todėl, kai jis tų pačių metų pabaigoje dalyvavo Piotrkovo seime, visi luomai vienbalsiai (norėtųsi sakytį — vienšauksmiai) pareika lavo, kad jis prisiektų valstybei neatplėšti nuo karalys tės nė menkiausios apygardos, neužleisti lietuviams nė vienos Podolės.
+Piotrkovo seime Lenkijos luomai pareikalavo, kad karalius prisiektų neatiduoti lietuviams Podolės ir Volynės žemių.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185824"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad todėl, kai jis tų pačių metų pabaigoje dalyvavo Piotrkovo seime, visi luomai vienbalsiai (norėtųsi sakytį — vienšauksmiai) pareika lavo, kad jis prisiektų valstybei neatplėšti nuo karalys tės nė menkiausios apygardos, neužleisti lietuviams nė vienos Podolės.'
+  global_id: t-185824
+  teiginys: 'Piotrkovo seime Lenkijos luomai pareikalavo, kad karalius prisiektų neatiduoti lietuviams Podolės ir Volynės žemių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad todėl, kai jis tų pačių metų pabaigoje dalyvavo Piotrkovo seime, visi luomai vienbalsiai (norėtųsi sakytį — vienšauksmiai) pareika lavo, kad jis prisiektų valstybei neatplėšti nuo karalys tės nė menkiausios apygardos, neužleisti lietuviams nė vienos Podolės.'
+  santrauka: 'Piotrkovo seime Lenkijos luomai pareikalavo, kad karalius prisiektų neatiduoti lietuviams Podolės ir Volynės žemių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitokios paskalos, sklidusios po visą Lenkiją, gerokai
@@ -60,3 +61,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/grupes/Lenkai]]

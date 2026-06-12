@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-34590"></a>
 - t-001
+  global_id: t-34590
   teiginys: 'Lenkai suvažiavimus stengdavosi rengti arti Lietuvos sienos, nes tikėjo, kad reikalai kryps Vytauto norima linkme.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Raulinaitis (Pedag.
 
 ## Teiginiai
 
+<a id="claim-t-30535"></a>
 - t-001
+  global_id: t-30535
   teiginys: 'A. Raulinaitis 1964 m. žurnale „Pedagogika ir psichologija“ rašė apie pirmąją katedrinę mokyklą.'
   pagrindžia:
     - c-001

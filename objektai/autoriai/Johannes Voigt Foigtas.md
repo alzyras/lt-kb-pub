@@ -24,12 +24,16 @@ Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina s
 
 ## Teiginiai
 
+<a id="claim-t-87936"></a>
 - t-001
+  global_id: t-87936
   teiginys: 'Foigto vertimas į len kųk ir teksto lotynų k.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87937"></a>
 - t-002
+  global_id: t-87937
   teiginys: 'Foigtas Marienburgo miesto ir pilies istorijoje rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo.'
   pagrindžia:
     - c-002

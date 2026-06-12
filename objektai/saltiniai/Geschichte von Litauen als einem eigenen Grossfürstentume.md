@@ -16,7 +16,9 @@ Ten teveikė viena istorijos katedra su (^32) Geschichte von Litauen als einem e
 
 ## Teiginiai
 
+<a id="claim-t-29835"></a>
 - t-001
+  global_id: t-29835
   teiginys: '„Geschichte von Litauen als einem eigenen Grossfürstentume“ buvo paskelbta „Fortsetzung der Allgemeinen Welthistorie“ 50-ajame tome.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-01082"></a>
 - t-001
+  global_id: t-01082
   teiginys: 'Kondratavičius buvo universiteto auklėtinis, pasižymėjęs lenkų romantinėje literatūroje, kuri temas ėmė iš Lietuvos istorijos.'
   pagrindžia:
     - c-001

@@ -24,12 +24,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-32532"></a>
 - t-001
+  global_id: t-32532
   teiginys: 'Lietuviai drauge su rusais vėl puolė Sandomieriaus ir Liublino žemes.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-32533"></a>
 - t-002
+  global_id: t-32533
   teiginys: '1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes.'
   pagrindžia:
     - c-001

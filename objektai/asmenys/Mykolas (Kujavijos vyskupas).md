@@ -26,7 +26,9 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 
 ## Teiginiai
 
+<a id="claim-t-60390"></a>
 - t-001
+  global_id: t-60390
   teiginys: 'Kujavijos vyskupas Mykolas buvo tarp liudytojų, dalyvavusių tvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.'
   pagrindžia:
     - c-001

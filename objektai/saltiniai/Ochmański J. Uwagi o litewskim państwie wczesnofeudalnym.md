@@ -22,7 +22,9 @@ Dusburgietis teigia, kad ochmański J.
 
 ## Teiginiai
 
+<a id="claim-t-61201"></a>
 - t-001
+  global_id: t-61201
   teiginys: 'J. Ochmańskio straipsnis „Uwagi o litewskim państwie wczesnofeudalnym“ paskelbtas 1961 m. leidinio „Roczniki historyczne“ 27 tome, p. 143–160.'
   pagrindžia:
     - c-001

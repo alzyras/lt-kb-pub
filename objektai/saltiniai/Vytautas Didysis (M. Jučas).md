@@ -16,7 +16,9 @@ Vytautas Didysis.
 
 ## Teiginiai
 
+<a id="claim-t-21319"></a>
 - t-001
+  global_id: t-21319
   teiginys: 'M. Jučo veikalas „Vytautas Didysis“ išleistas Čikagoje 2010 m.'
   pagrindžia:
     - c-001

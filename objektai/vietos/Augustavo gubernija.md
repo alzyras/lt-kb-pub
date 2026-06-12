@@ -26,17 +26,23 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
 
 ## Teiginiai
 
+<a id="claim-t-171614"></a>
 - t-001
+  global_id: t-171614
   teiginys: 'Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augustavo gubernijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-171616"></a>
 - t-002
+  global_id: t-171616
   teiginys: 'Per 1863 metus atkakliausiai sukilėliai kovėsi su caro kariuomene Kauno gubernijoje, kurioje įvyko 168 mūšiai ir susidūrimai su caro kariuomene.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183583"></a>
 - t-003
+  global_id: t-183583
   teiginys: 'Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo gubernija, o nuo 1867 m. – Suvalkų gubernija.'
   pagrindžia:
     - c-003

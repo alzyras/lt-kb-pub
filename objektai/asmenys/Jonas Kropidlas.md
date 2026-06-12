@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jonas Kropidlas (vyskupas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad galbūt atkakliu ne pritarimu ir būtų privertęs V y ta u ta s v e d a Vytautą atsisakyti šio suma nymo, jeigu nebūtų parėmęs Jonas Kropidlas, Kujavijos vyskupas, su karaliumi at vykęs į Lietuvą.
+Jonas Kropidlas, Kujavijos vyskupas, parėmė Vytauto santuokos sumanymą ir pareiškė, kad santuoka bus teisėta.
 
 ## Teiginiai
 
+<a id="claim-t-186114"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad galbūt atkakliu ne pritarimu ir būtų privertęs V y ta u ta s v e d a Vytautą atsisakyti šio suma nymo, jeigu nebūtų parėmęs Jonas Kropidlas, Kujavijos vyskupas, su karaliumi at vykęs į Lietuvą.'
+  global_id: t-186114
+  teiginys: 'Jonas Kropidlas, Kujavijos vyskupas, parėmė Vytauto santuokos sumanymą ir pareiškė, kad santuoka bus teisėta.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad galbūt atkakliu ne pritarimu ir būtų privertęs V y ta u ta s v e d a Vytautą atsisakyti šio suma nymo, jeigu nebūtų parėmęs Jonas Kropidlas, Kujavijos vyskupas, su karaliumi at vykęs į Lietuvą.'
+  santrauka: 'Jonas Kropidlas, Kujavijos vyskupas, parėmė Vytauto santuokos sumanymą ir pareiškė, kad santuoka bus teisėta.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl Petras, Vilniaus vyskupas,
@@ -47,3 +48,10 @@ Kojelavičius teigia, kad galbūt atkakliu ne pritarimu ir būtų privertęs V y
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/paprociai/Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]
+- [[objektai/ivykiai/Vytauto ir Julijonos santuoka]]

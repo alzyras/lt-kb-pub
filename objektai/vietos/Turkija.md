@@ -24,7 +24,9 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
 
 ## Teiginiai
 
+<a id="claim-t-170860"></a>
 - t-001
+  global_id: t-170860
   teiginys: 'O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pagalvoji, kiek dar tokių vardų slepia Lietuva?'
   pagrindžia:
     - c-001

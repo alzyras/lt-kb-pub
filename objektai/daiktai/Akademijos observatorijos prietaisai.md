@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-55026"></a>
 - t-001
+  global_id: t-55026
   teiginys: '1766 m. Puzinienė iš Oginskių užrašė 6 000 raudonųjų auksinų Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81838"></a>
 - t-002
+  global_id: t-81838
   teiginys: 'Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.'
   pagrindžia:
     - c-002

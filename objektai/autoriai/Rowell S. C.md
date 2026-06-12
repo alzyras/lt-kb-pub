@@ -16,7 +16,9 @@ Rowell S.
 
 ## Teiginiai
 
+<a id="claim-t-19466"></a>
 - t-001
+  global_id: t-19466
   teiginys: 'S. C. Rowellas parašė veikalą „Lithuania ascending“ apie pagonišką imperiją Rytų ir Vidurio Europoje 1295–1345 m.'
   pagrindžia:
     - c-001

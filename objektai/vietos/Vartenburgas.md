@@ -16,7 +16,9 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
 
 ## Teiginiai
 
+<a id="claim-t-36639"></a>
 - t-001
+  global_id: t-36639
   teiginys: 'Vartenburgo apskritis buvo priskirta pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebeužpuldinėti.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Tapiava
 
 ## Santrauka
 
-Kojelavičius teigia, kad prūsijos magistras, susilaukęs pa galbininkų iš svetur, baisiai sumušė Lietuvą; tuo tarpu gardą, užpuolė pilį, sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.
+Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme.
 
 ## Teiginiai
 
+<a id="claim-t-185312"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad prūsijos magistras, susilaukęs pa galbininkų iš svetur, baisiai sumušė Lietuvą; tuo tarpu gardą, užpuolė pilį, sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.'
+  global_id: t-185312
+  teiginys: 'Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad prūsijos magistras, susilaukęs pa galbininkų iš svetur, baisiai sumušė Lietuvą; tuo tarpu gardą, užpuolė pilį, sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.'
+  santrauka: 'Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip praėjo ir kiti metai, pakaitomis vieniems

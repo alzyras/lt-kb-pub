@@ -19,12 +19,16 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 
 ## Teiginiai
 
+<a id="claim-t-62983"></a>
 - t-001
+  global_id: t-62983
   teiginys: 'Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-62984"></a>
 - t-002
+  global_id: t-62984
   teiginys: 'Dusburgietis teigia, kad miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė, manydami daugiau nebegalėsią priešintis prasidėjus antpuoliui.'
   pagrindžia:
     - c-002

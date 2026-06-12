@@ -19,7 +19,9 @@ Dusburgietis teigia, kad kunigaikščio kariaunos vadas susigrūmė su broliu Fr
 
 ## Teiginiai
 
+<a id="claim-t-60278"></a>
 - t-001
+  global_id: t-60278
   teiginys: 'Dusburgietis teigia, kad kunigaikščio kariaunos vadas susigrūmė su broliu Fridrichu iš Veidos289, kitiems vadovavusiu, ir ietimi perdūrė jam žandą, tačiau brolis Fridrichas besigindamas jį nukovė.'
   pagrindžia:
     - c-001

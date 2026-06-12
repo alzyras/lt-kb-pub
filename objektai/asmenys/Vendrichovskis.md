@@ -27,7 +27,9 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
 
 ## Teiginiai
 
+<a id="claim-t-87881"></a>
 - t-001
+  global_id: t-87881
   teiginys: 'Pastorius Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas Vilniuje netoli Žuvų turgaus.'
   pagrindžia:
     - c-001

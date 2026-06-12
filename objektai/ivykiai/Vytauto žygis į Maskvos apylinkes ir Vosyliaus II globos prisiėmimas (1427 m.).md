@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35919"></a>
 - t-001
+  global_id: t-35919
   teiginys: 'Vytautas surengė žygį į Maskvos apylinkes, norėdamas suvaldyti jam nepaklusnius Okos ir Dono aukštupių kunigaikščius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-35920"></a>
 - t-002
+  global_id: t-35920
   teiginys: 'Tapęs savo duktėno globėju ir Maskvos kunigaikštijos protektoriumi, Vytautas iškilo aukščiau kitų rusų kunigaikščių.'
   pagrindžia:
     - c-002

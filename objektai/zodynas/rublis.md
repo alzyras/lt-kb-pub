@@ -25,17 +25,23 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
 
 ## Teiginiai
 
+<a id="claim-t-34274"></a>
 - t-001
+  global_id: t-34274
   teiginys: 'Jogailos ir Vytauto rūmuose kartais mokėta rubliais, kurie dar buvo ne monetos, o sukapoti sidabro gabalai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-34275"></a>
 - t-002
+  global_id: t-34275
   teiginys: 'Lietuvoje nuo Algirdo ir Kęstučio laikų kursavo Čekijos grašiai, kurių 60 sudarė vieną rublį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184247"></a>
 - t-003
+  global_id: t-184247
   teiginys: 'Jogailos ir Vytauto rūmuose kartais mokėta rubliais iš slavų kraštų, bet jie dar buvo sukapoti sidabro gabalai, o ne monetos.'
   pagrindžia:
     - c-003

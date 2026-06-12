@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lukošius Moravecas
 
 ## Santrauka
 
-Kojelavičius teigia, kad siaubėjus užtiko Lukošius Moravecas, kuris su dviem šimtais pėstininkų visai atsitiktinai at sidūrė prie Slučės upės; nesitikėdamas galėsiąs atsi traukti, turėjo noromis nenoromis pasiryžti kovai; įsi rengęs pakrantėje stovyklą, jis užpuolė priešą ir jį.
+Lukošius Moravecas prie Slučės upės su dviem šimtais pėstininkų užpuolė siaubėjusį priešą ir jį sumušė.
 
 ## Teiginiai
 
+<a id="claim-t-186235"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad siaubėjus užtiko Lukošius Moravecas, kuris su dviem šimtais pėstininkų visai atsitiktinai at sidūrė prie Slučės upės; nesitikėdamas galėsiąs atsi traukti, turėjo noromis nenoromis pasiryžti kovai; įsi rengęs pakrantėje stovyklą, jis užpuolė priešą ir jį.'
+  global_id: t-186235
+  teiginys: 'Lukošius Moravecas prie Slučės upės su dviem šimtais pėstininkų užpuolė siaubėjusį priešą ir jį sumušė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad siaubėjus užtiko Lukošius Moravecas, kuris su dviem šimtais pėstininkų visai atsitiktinai at sidūrė prie Slučės upės; nesitikėdamas galėsiąs atsi traukti, turėjo noromis nenoromis pasiryžti kovai; įsi rengęs pakrantėje stovyklą, jis užpuolė priešą ir jį.'
+  santrauka: 'Lukošius Moravecas prie Slučės upės su dviem šimtais pėstininkų užpuolė siaubėjusį priešą ir jį sumušė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nio­
@@ -43,3 +44,7 @@ Kojelavičius teigia, kad siaubėjus užtiko Lukošius Moravecas, kuris su dviem
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Skitų sumušimas Volynėje ir prie Slučės]]

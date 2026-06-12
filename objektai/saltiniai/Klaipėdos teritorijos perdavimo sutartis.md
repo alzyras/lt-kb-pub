@@ -17,7 +17,9 @@ Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investic
 
 ## Teiginiai
 
+<a id="claim-t-21081"></a>
 - t-001
+  global_id: t-21081
   teiginys: '1939 m. pradžioje britai ir prancūzai pranešė negarantuosiantys Klaipėdos status quo, o be pagalbos Lietuva Klaipėdos nebegalėjo išlaikyti.'
   pagrindžia:
     - c-001

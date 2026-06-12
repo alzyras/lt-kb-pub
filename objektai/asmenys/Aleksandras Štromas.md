@@ -16,7 +16,9 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
 
 ## Teiginiai
 
+<a id="claim-t-18780"></a>
 - t-001
+  global_id: t-18780
   teiginys: 'Aleksandras Štromas 1960 m. užmezgė ryšius su Maskvos disidentais ir padėjo jiems leisti žurnalą „Sintaksis“.'
   pagrindžia:
     - c-001

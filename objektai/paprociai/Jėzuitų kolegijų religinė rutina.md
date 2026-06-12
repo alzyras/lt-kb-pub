@@ -37,22 +37,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67100"></a>
 - t-001
+  global_id: t-67100
   teiginys: 'Ypatingai buvo žiūrima, kad mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pamaldas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67101"></a>
 - t-002
+  global_id: t-67101
   teiginys: 'Jėzuitų kolegijose mokiniai ruošdavo religinio turinio vaidinimus ir disputus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67102"></a>
 - t-003
+  global_id: t-67102
   teiginys: 'Jėzuitai mokydami pirmiausia siekė išauklėti gerus katalikus ir paklusnius Bažnyčios narius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67103"></a>
 - t-004
+  global_id: t-67103
   teiginys: 'Ypatingai buvo žiūrima, kad mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pa.'
   pagrindžia:
     - c-002

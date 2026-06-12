@@ -18,12 +18,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-113486"></a>
 - t-001
+  global_id: t-113486
   teiginys: 'Laurynas Ivinskis buvo žemaičių bajoras ir lietuviškų kalendorių leidėjas, gyvenęs 1808–1881 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-113487"></a>
 - t-002
+  global_id: t-113487
   teiginys: 'M. Balinskis Gazeta Warszawska straipsniuose supažindino skaitytojus su Lauryno Ivinskio kalendoriais.'
   pagrindžia:
     - c-002

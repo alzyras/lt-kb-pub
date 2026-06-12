@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad visa Lie tuva suskato rengtis karui dėl Podolės. Kojelavičius teigia, kad antra vertus, karalius irgi labiau nei kitados stengėsi išlaikyti sa- 1460 m e ta i vo rankose Lietuvą, nes su silaukė jau kelių palikuonių (mat šiek tiek anksčiau gimė trečias sūnus Jonas Olbrachtas, o šiais metais ir ketvirtas — Aleksandras), to dėl visaip.
+Lietuva suskato rengtis karui dėl Podolės, tačiau apsiribota grasinimais ir kariuomenės telkimu. 1460 m. karalius Bresto seime stengėsi nukreipti didikų užmojus nuo Podolės.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185756"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad visa Lie tuva suskato rengtis karui dėl Podolės.'
+  global_id: t-185756
+  teiginys: 'Lietuva suskato rengtis karui dėl Podolės, tačiau apsiribota grasinimais ir kariuomenės telkimu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185757"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad antra vertus, karalius irgi labiau nei kitados stengėsi išlaikyti sa- 1460 m e ta i vo rankose Lietuvą, nes su silaukė jau kelių palikuonių (mat šiek tiek anksčiau gimė trečias sūnus Jonas Olbrachtas, o šiais metais ir ketvirtas — Aleksandras), to dėl visaip.'
+  global_id: t-185757
+  teiginys: '1460 m. karalius Bresto seime stengėsi nukreipti didikų užmojus nuo Podolės.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad visa Lie tuva suskato rengtis karui dėl Podolės.'
+  santrauka: 'Lietuva suskato rengtis karui dėl Podolės, tačiau apsiribota grasinimais ir kariuomenės telkimu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     N e s ė k m in g a s  ž y g is  į
@@ -77,7 +80,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad antra vertus, karalius irgi labiau nei kitados stengėsi išlaikyti sa- 1460 m e ta i vo rankose Lietuvą, nes su silaukė jau kelių palikuonių (mat šiek tiek anksčiau gimė trečias sūnus Jonas Olbrachtas, o šiais metais ir ketvirtas — Aleksandras), to dėl visaip.'
+  santrauka: '1460 m. karalius Bresto seime stengėsi nukreipti didikų užmojus nuo Podolės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tačiau lemiamas žingsnis nebuvo žengtas: pasi­
@@ -104,3 +107,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/seimas]]

@@ -41,17 +41,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-95951"></a>
 - t-001
+  global_id: t-95951
   teiginys: 'Prieš Tanenbergo mūšį kryžiuočių kariuomenė per audringą naktį nužygiavo nuo Löbau iki Grünvaldo ir atvyko pavargusi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-95952"></a>
 - t-002
+  global_id: t-95952
   teiginys: '1410 m. liepos 15 d. Žalgirio laukuose lietuvių ir lenkų suvienytos jėgos kovėsi su Ordinu ir jo Vakarų Europos svečiais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-95953"></a>
 - t-003
+  global_id: t-95953
   teiginys: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
   pagrindžia:
     - c-002

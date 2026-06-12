@@ -18,7 +18,9 @@ Dusburgietis teigia, kad kronikininkas parodo, kad užkariavimus Ordinas įtvirt
 
 ## Teiginiai
 
+<a id="claim-t-58939"></a>
 - t-001
+  global_id: t-58939
   teiginys: 'Dusburgietis teigia, kad kronikininkas parodo, kad užkariavimus Ordinas įtvirtina savo pilių statyba, tai darydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).'
   pagrindžia:
     - c-001

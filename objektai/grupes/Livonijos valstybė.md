@@ -25,17 +25,23 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
 
 ## Teiginiai
 
+<a id="claim-t-72595"></a>
 - t-001
+  global_id: t-72595
   teiginys: '1559 m. Vilniuje Zigmantas Augustas apsiėmė ginti Livoniją, už tai gaudamas 5 ordino ir 2 arkivyskupo pilis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72596"></a>
 - t-002
-  teiginys: 'Tik čia tuo atžvilgiu buvo sunkiau, nes kaip tik tuo metu Livonijos valstybių žemes pradėjo smarkiai pulti Maskva, kuri norėjo pasiekti jūrą.'
+  global_id: t-72596
+  teiginys: 'Tuo metu Maskva smarkiai puolė Livonijos valstybių žemes, siekdama pasiekti jūrą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72598"></a>
 - t-003
+  global_id: t-72598
   teiginys: 'Livonijos valstybės vadams reikėjo apsisaugoti nuo Maskvos ir spręsti bažnytinės valstybės panaikinimo klausimą.'
   pagrindžia:
     - c-001

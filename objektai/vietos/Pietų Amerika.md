@@ -16,12 +16,16 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
 
 ## Teiginiai
 
+<a id="claim-t-21704"></a>
 - t-001
+  global_id: t-21704
   teiginys: 'Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-21705"></a>
 - t-002
+  global_id: t-21705
   teiginys: 'Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).'
   pagrindžia:
     - c-002

@@ -51,17 +51,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-23286"></a>
 - t-001
+  global_id: t-23286
   teiginys: 'Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus geresnėmis javų sėklomis ir veisliniais gyvuliais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23287"></a>
 - t-002
+  global_id: t-23287
   teiginys: 'Žemės ūkyje pradėtos naudoti organinės ir mineralinės trąšos, o javų derlingumas ketvirtajame dešimtmetyje pagerėjo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23288"></a>
 - t-003
+  global_id: t-23288
   teiginys: 'Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus geresnėmis javų sėklomis, veisliniais gyvuliais, padėjo rengti žemės ūkio specialistus.'
   pagrindžia:
     - c-001

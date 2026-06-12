@@ -40,116 +40,152 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 
 - tipas: kraštas / pajūrio regionas; regionas
 
-## Ryšiai
-
-### Susiję objektai
-- Prūsija
-- [[objektai/paprociai/Vienkieminis gyvenimas dėl taikos ir gaisrų saugos]]
-
 ## Teiginiai
 
+<a id="claim-t-90761"></a>
 - t-001
+  global_id: t-90761
   teiginys: '1244 m. Mindaugas žygyje į Kuršą prie Ambotės atvedė didelę kariuomenę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-90762"></a>
 - t-002
+  global_id: t-90762
   teiginys: 'Šiaurės karas 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-90763"></a>
 - t-003
+  global_id: t-90763
   teiginys: '1244 m. Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su piliadaužėmis puolė Ordino anksčiau užvaldytą Embutės pilį, tačiau jos užimti nepavyko.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-90764"></a>
 - t-004
+  global_id: t-90764
   teiginys: 'Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai, kad jis 1244 m. savo žygyje į Kuršą prie Ambotės buvo atvedęs didelę kariuomenę^58.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-90765"></a>
 - t-005
+  global_id: t-90765
   teiginys: 'Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, matydamas besirikiuojančius lietuvius, savo 300 raitelių įsakė persikelti į dešinįjį krantą.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-90766"></a>
 - t-006
+  global_id: t-90766
   teiginys: 'Dusburgietis teigia, kad nemunas — taip pat upė, prasidedanti Rusios valdose, o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo187.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-90767"></a>
 - t-007
+  global_id: t-90767
   teiginys: '1435 m. spalį smogta Livonijai dar kartą, kai žemaičiai Kurše sudegino Durbės pilį.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-90768"></a>
 - t-008
+  global_id: t-90768
   teiginys: 'Apie danų nesėkmę išgirdęs, švedų karalius Olafas panorėjo iš naujo švedams užvaldyti Kuršą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-90769"></a>
 - t-009
+  global_id: t-90769
   teiginys: '1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo dalį, grobdami, degindami ir išsivesdami belaisvius.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-90770"></a>
 - t-010
+  global_id: t-90770
   teiginys: 'Rimbertas pirmasis paminėjo kuršių vardą, o Hervararsaga Kuršo užvaldymą siejo su švedų karaliumi Ivaru.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90771"></a>
 - t-011
+  global_id: t-90771
   teiginys: 'Paliauboms pasibaigus, žemaičiai puolė Kuršą ir vėliau Skuodo laukuose sumušė juos persekiojusius riterius.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-90772"></a>
 - t-012
+  global_id: t-90772
   teiginys: 'Žemaičiai puolė Kuršą ir niokojo jį 19 dienų.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-90773"></a>
 - t-013
+  global_id: t-90773
   teiginys: 'Dusburgietis teigia, kad apie prūsų susiskirstymą bei jų galybę Prūsijos žemė188 skirstoma į apie Nemuną, skiriantį Prūsiją nuo Kuršo.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-90774"></a>
 - t-014
+  global_id: t-90774
   teiginys: 'Istorinių laikų angoje kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir Klaipėdos apylinkę.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-90775"></a>
 - t-015
+  global_id: t-90775
   teiginys: 'Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, Suvalkų ir Gardino gubernijose, dalis Kuršo.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-90776"></a>
 - t-016
+  global_id: t-90776
   teiginys: 'Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų suvežė svarbiausias vertybes į dominikonų vienuolyną, kuriame ir pernakvojo, o ryte, paskleidę gandą, kad vyksta į Drują bei Bychovo tvirtovę, iš tikrųjų suskubo trauktis į Kuršą - į.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-90777"></a>
 - t-017
+  global_id: t-90777
   teiginys: 'Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedų naudai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-90778"></a>
 - t-018
+  global_id: t-90778
   teiginys: 'Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su piliadaužėmis puolė Ordino anksčiau užvaldytą Embutės pilį, tačiau jos užimti nepavyko.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-183036"></a>
 - t-019
+  global_id: t-183036
   teiginys: 'Priešo kariuomenei traukiant į Karšuvą, žemaičiai įsibrovė naikinti ordino valdomo Kuršo.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-184998"></a>
 - t-021
-  teiginys: 'Kojelavičius teigia, kad sudeginus po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją.'
+  global_id: t-184998
+  teiginys: 'Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-184999"></a>
 - t-022
-  teiginys: 'Kojelavičius teigia, kad tuo žygiu atgavęs Že maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne norėdamas, kad atrodytų, jog veltui puolęs Prūsiją, sukurstė žmones visame krašte atsimesti nuo kryžiuo čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po kelerių metų vėl Prūsijoje.'
+  global_id: t-184999
+  teiginys: 'Mindaugas tuo žygiu atgavo Žemaitiją bei Kuršą, nusiaubė Sembą ir vėliau Prūsijoje sukėlė karą.'
   pagrindžia:
     - c-019
 
@@ -467,7 +503,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     - t-020
 
 - c-018
-  santrauka: 'Kojelavičius teigia, kad sudeginus po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją.'
+  santrauka: 'Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     105
@@ -490,7 +526,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     - t-021
 
 - c-019
-  santrauka: 'Kojelavičius teigia, kad tuo žygiu atgavęs Že maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne norėdamas, kad atrodytų, jog veltui puolęs Prūsiją, sukurstė žmones visame krašte atsimesti nuo kryžiuo čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po kelerių metų vėl Prūsijoje.'
+  santrauka: 'Mindaugas tuo žygiu atgavo Žemaitiją bei Kuršą, nusiaubė Sembą ir vėliau Prūsijoje sukėlė karą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ka­

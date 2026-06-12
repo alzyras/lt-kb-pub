@@ -17,12 +17,16 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Chruščiov
 
 ## Teiginiai
 
+<a id="claim-t-19174"></a>
 - t-001
+  global_id: t-19174
   teiginys: 'Nikita Chruščiovas pasmerkė J. Stalino kultą, po to susilpnėjo rusinimas ir imta labiau pasitikėti vietiniais lietuviais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-19175"></a>
 - t-002
+  global_id: t-19175
   teiginys: 'Nikita Chruščiovo laikais bažnyčią imta diskredituoti ir morališkai spausti, nors iš trėmimų vietų sugrįžo 130 kunigų.'
   pagrindžia:
     - c-002

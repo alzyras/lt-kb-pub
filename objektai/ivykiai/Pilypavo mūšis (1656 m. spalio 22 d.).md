@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-41342"></a>
 - t-001
+  global_id: t-41342
   teiginys: 'Prieš Pilypavo mūšį po pergalės ties Prostkais totoriai dėl konflikto dėl belaisvių pasitraukė iš lietuvių pajėgų.'
   pagrindžia:
     - c-001

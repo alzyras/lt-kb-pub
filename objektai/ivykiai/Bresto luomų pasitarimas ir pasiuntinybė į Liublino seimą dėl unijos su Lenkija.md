@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XVI'
 ---
-
 # Bresto luomų pasitarimas ir pasiuntinybė į Liublino seimą dėl unijos su Lenkija (unija, XVI a.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad t uo ta rp u L ietuvą užgriu- 1566 metai v o d a r didesni rūpesčiai, m at Tariamasi dėl Lietup ašlijo k a raliau s sv eik ata, be vos unijos su Lenkija to, jis n e tu rė jo įpėdinių, štai to d ėl didelį n erim ą kėlė tai, jo g le n k a i gali p aliau ti te. Kojelavičius teigia, kad l ietuviai, su šau k ę B reste lu o m us, n u siu n tė atsto v u s į Liubliną, k u r liepos 8 d. rin kosi len k ų seim as. Kojelavičius teigia, kad k ad iš esm ės n iek o n eb u v o su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u v o u žd rau sta b et k ą spręsti, ir jie tu rė jo ap ie v isk ą p ra n ešti luom am s, susirinkusiem s į B resto seim ą.
+Lietuviai sušaukė luomus Breste ir nusiuntė atstovus į Liubliną, kur liepos 8 d. rinkosi lenkų seimas. Kojelavičiaus teigimu, pasiuntiniams buvo uždrausta ką nors spręsti, todėl jie turėjo apie viską pranešti Bresto seimo luomams.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,61 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185518"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad t uo ta rp u L ietuvą užgriu- 1566 metai v o d a r didesni rūpesčiai, m at Tariamasi dėl Lietup ašlijo k a raliau s sv eik ata, be vos unijos su Lenkija to, jis n e tu rė jo įpėdinių, štai to d ėl didelį n erim ą kėlė tai, jo g le n k a i gali p aliau ti te.'
+  global_id: t-185518
+  teiginys: 'Lietuviai sušaukė luomus Breste ir nusiuntė atstovus į Liubliną, kur liepos 8 d. rinkosi lenkų seimas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185519"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad l ietuviai, su šau k ę B reste lu o m us, n u siu n tė atsto v u s į Liubliną, k u r liepos 8 d. rin kosi len k ų seim as.'
+  global_id: t-185519
+  teiginys: 'Kojelavičiaus teigimu, pasiuntiniams buvo uždrausta ką nors spręsti, todėl jie turėjo apie viską pranešti Bresto seimo luomams.'
   pagrindžia:
     - c-002
-
-- t-003
-  teiginys: 'Kojelavičius teigia, kad k ad iš esm ės n iek o n eb u v o su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u v o u žd rau sta b et k ą spręsti, ir jie tu rė jo ap ie v isk ą p ra n ešti luom am s, susirinkusiem s į B resto seim ą.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad t uo ta rp u L ietuvą užgriu- 1566 metai v o d a r didesni rūpesčiai, m at Tariamasi dėl Lietup ašlijo k a raliau s sv eik ata, be vos unijos su Lenkija to, jis n e tu rė jo įpėdinių, štai to d ėl didelį n erim ą kėlė tai, jo g le n k a i gali p aliau ti te.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    K ai žlugo visos v il­
-    ty s sutarti taiką, k araliau s pasiuntiniai v arg ais n eg a­
-    7 3 4
-
-    ## Puslapis 733
-
-    lais p rik alb ė jo  m ask v ėn u s, k ad  Iv an as v ėliau  savo ru o ­
-    žtu p asiu siąs pas k a ra lių  leg atu s, o k o l k as n ei viena,
-    n ei k ita šalis n esig rieb sia n ti ginklo.
-    T uo ta rp u  L ietuvą užgriu-
-    1566 metai
-    v o  d a r didesni rūpesčiai, m at
-    Tariamasi dėl Lietu-
-    p ašlijo  k a raliau s sv eik ata, be
-    vos unijos su Lenkija
-    to, jis n e tu rė jo  įpėdinių, štai
-    to d ėl didelį n erim ą kėlė tai,
-    jo g  le n k a i gali p aliau ti te ik ę  p ag a lb ą k raštu i, įsitra u k u ­
-    siam  į su n k ų  k arą, y p a č  tad a, je ig u  k a rta is k araliu s m ir­
-    tų
-    anksčiau, n ei d a r b ū tų  su ja is su d a ry ta
-    su tartis,
-    k u rią  v ad in a u nija. Ilgą laik ą d au g y b ė v iso k ių  n e p a la n ­
-    k ių  ap lin k y b ių  tru k d ė įsig alėti stip riai d v iejų  ta u tų  są ­
-    ju n g ai, k u ri b ū tų  užbaigusi p o rą šim tm ečių u žtru k u sias
-    ab ie jų  šalių p astan g as.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kojelavičius teigia, kad l ietuviai, su šau k ę B reste lu o m us, n u siu n tė atsto v u s į Liubliną, k u r liepos 8 d. rin kosi len k ų seim as.'
+  santrauka: 'Lietuviai sušaukė luomus Breste ir nusiuntė atstovus į Liubliną, kur liepos 8 d. rinkosi lenkų seimas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     L ietuviai, su šau k ę B reste lu o ­
@@ -102,10 +64,10 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
-  santrauka: 'Kojelavičius teigia, kad k ad iš esm ės n iek o n eb u v o su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u v o u žd rau sta b et k ą spręsti, ir jie tu rė jo ap ie v isk ą p ra n ešti luom am s, susirinkusiem s į B resto seim ą.'
+- c-002
+  santrauka: 'Kojelavičiaus teigimu, pasiuntiniams buvo uždrausta ką nors spręsti, todėl jie turėjo apie viską pranešti Bresto seimo luomams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     K okį atsak y m ą
@@ -121,4 +83,12 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/luomas]]

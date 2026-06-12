@@ -26,12 +26,16 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
 
 ## Teiginiai
 
+<a id="claim-t-87568"></a>
 - t-001
+  global_id: t-87568
   teiginys: 'Po Necelo mirties vaistininkas Renkielis perėmė vaistinę ir buvo laikomas gerai pasiruošusiu savo amato specialistu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87569"></a>
 - t-002
+  global_id: t-87569
   teiginys: 'Vaistininkas Renkielis perėmė vaistinę po Necelo mirties ir buvo laikomas gerai pasiruošusiu savo menui.'
   pagrindžia:
     - c-001

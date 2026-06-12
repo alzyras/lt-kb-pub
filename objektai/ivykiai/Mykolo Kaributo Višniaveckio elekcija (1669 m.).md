@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66794"></a>
 - t-001
+  global_id: t-66794
   teiginys: 'Didikai bandė šitą elekciją sutrukdyti, tačiau bajorija dėjo galvą už savo išrinktąjį karalių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66795"></a>
 - t-002
+  global_id: t-66795
   teiginys: 'Jam metus šūkį, visai netikėtai karalium buvo paskelbtas Mykolas Kaributas Višniaveckis.'
   pagrindžia:
     - c-001

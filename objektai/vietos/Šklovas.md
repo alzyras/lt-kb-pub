@@ -26,7 +26,9 @@ Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtės
 
 ## Teiginiai
 
+<a id="claim-t-42382"></a>
 - t-001
+  global_id: t-42382
   teiginys: 'Jonui Budriui-Polovinskui įteiktos špagos geležtėje Šklovas buvo įrašytas tarp žymiausių lietuvių karo pergalių.'
   pagrindžia:
     - c-001

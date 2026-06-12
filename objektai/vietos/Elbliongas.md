@@ -19,7 +19,9 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
 
 ## Teiginiai
 
+<a id="claim-t-86066"></a>
 - t-001
+  global_id: t-86066
   teiginys: 'Gavę žinią apie sutartį, Varmės, Sembos ir Pomezanijos vyskupai Elblionge surengė pasitarimą.'
   pagrindžia:
     - c-001

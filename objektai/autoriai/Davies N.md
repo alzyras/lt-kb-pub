@@ -16,7 +16,9 @@ Davies N.
 
 ## Teiginiai
 
+<a id="claim-t-17710"></a>
 - t-001
+  global_id: t-17710
   teiginys: 'N. Daviesas parašė veikalo „God’s Playground: A History of Poland“ pirmąjį tomą apie Lenkijos istorijos ištakas iki 1795 m.'
   pagrindžia:
     - c-001

@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62798"></a>
 - t-001
+  global_id: t-62798
   teiginys: 'Dusburgietis teigia, kad apsiaustieji iš bado suvalgė 250 arklių ir jų odas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-62799"></a>
 - t-002
+  global_id: t-62799
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Heilsbergo pilis Neilgai trukus prūsai su trimis kariuomenėmis ir trimis apgulos pabūklais [machinis] bei kitokiais įtaisais apsupo Varmės vyskupo pilį Heilsbergą.'
   pagrindžia:
     - c-001

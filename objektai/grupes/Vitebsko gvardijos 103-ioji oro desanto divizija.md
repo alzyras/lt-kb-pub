@@ -16,7 +16,9 @@ Yra duomenų, kad šios ir Vitebsko gvardijos 103-iosios oro desanto divizijos, 
 
 ## Teiginiai
 
+<a id="claim-t-41198"></a>
 - t-001
+  global_id: t-41198
   teiginys: 'Vitebsko gvardijos 103-ioji oro desanto divizija sausio 8-11 d. buvo perdislokuota į Lietuvą.'
   pagrindžia:
     - c-001

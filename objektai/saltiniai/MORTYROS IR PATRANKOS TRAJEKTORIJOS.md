@@ -17,7 +17,9 @@ p. 119, „MORTYROS IR PATRANKOS TRAJEKTORIJOS“, Andžej Geglis, dail.
 
 ## Teiginiai
 
+<a id="claim-t-41566"></a>
 - t-001
+  global_id: t-41566
   teiginys: 'Iliustracijos „Mortyros ir patrankos trajektorijos“ dailininkas buvo Andžej Geglis.'
   pagrindžia:
     - c-001

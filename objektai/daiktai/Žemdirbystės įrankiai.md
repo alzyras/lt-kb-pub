@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-179494"></a>
 - t-001
+  global_id: t-179494
   teiginys: 'Žemės darbui naudotas jaučių jungas, vėliau arklai su geležiniu noragu ir kiti geležiniai darbo įrankiai.'
   pagrindžia:
     - c-001

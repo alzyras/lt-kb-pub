@@ -18,7 +18,9 @@ Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upė
 
 ## Teiginiai
 
+<a id="claim-t-86108"></a>
 - t-001
+  global_id: t-86108
   teiginys: 'Teterino dvarui buvo grąžinti ir užrašyti prie Pruto upės buvę kaimai, atimti iš Seislavo kunigaikštienės.'
   pagrindžia:
     - c-001

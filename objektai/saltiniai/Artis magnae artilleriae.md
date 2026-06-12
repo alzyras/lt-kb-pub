@@ -26,27 +26,37 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-23384"></a>
 - t-001
+  global_id: t-23384
   teiginys: 'Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ datuojamas 1650 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23385"></a>
 - t-002
+  global_id: t-23385
   teiginys: 'Kazimiero Semenavičiaus „Artis magnae artilleriae“ 1650 m. tapo reikšmingiausiu Lietuvos karinės inžinerijos mokyklos darbu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23386"></a>
 - t-003
+  global_id: t-23386
   teiginys: 'Veikale išdėstyta daugiapakopių raketų teorija siejama su šiuolaikinės artilerijos ir kosmonautikos ištakomis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23387"></a>
 - t-004
+  global_id: t-23387
   teiginys: 'Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23388"></a>
 - t-005
+  global_id: t-23388
   teiginys: 'Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas, 1650 m.'
   pagrindžia:
     - c-002

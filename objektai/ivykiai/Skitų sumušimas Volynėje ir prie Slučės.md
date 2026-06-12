@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Skitų sumušimas Volynėje ir prie Slučės
 
 ## Santrauka
 
-Kojelavičius teigia, kad mat Krymo skitai, padaliję savo kariuoS k ita i su m u ša m i Vomenę trimis žygio voromis, ly n ė je smarkiai nuniokojo Volynę tuo metu, kai dėl karo su Maskva čia nebuvo likę nei karių, nei karvedžių. Kojelavičius teigia, kad siaubėjus užtiko Lukošius Moravecas, kuris su dviem šimtais pėstininkų visai atsitiktinai at sidūrė prie Slučės upės; nesitikėdamas galėsiąs atsi traukti, turėjo noromis nenoromis pasiryžti kovai; įsi rengęs pakrantėje stovyklą, jis užpuolė priešą ir jį.
+Krymo skitai trimis žygio voromis smarkiai nuniokojo Volynę, kai dėl karo su Maskva joje nebuvo likę karių ir karvedžių. Lukošius Moravecas su dviem šimtais pėstininkų prie Slučės upės užpuolė siaubėjus ir juos sumušė.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185768"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mat Krymo skitai, padaliję savo kariuoS k ita i su m u ša m i Vomenę trimis žygio voromis, ly n ė je smarkiai nuniokojo Volynę tuo metu, kai dėl karo su Maskva čia nebuvo likę nei karių, nei karvedžių.'
+  global_id: t-185768
+  teiginys: 'Krymo skitai trimis žygio voromis smarkiai nuniokojo Volynę, kai dėl karo su Maskva joje nebuvo likę karių ir karvedžių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185769"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad siaubėjus užtiko Lukošius Moravecas, kuris su dviem šimtais pėstininkų visai atsitiktinai at sidūrė prie Slučės upės; nesitikėdamas galėsiąs atsi traukti, turėjo noromis nenoromis pasiryžti kovai; įsi rengęs pakrantėje stovyklą, jis užpuolė priešą ir jį.'
+  global_id: t-185769
+  teiginys: 'Lukošius Moravecas su dviem šimtais pėstininkų prie Slučės upės užpuolė siaubėjus ir juos sumušė.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mat Krymo skitai, padaliję savo kariuoS k ita i su m u ša m i Vomenę trimis žygio voromis, ly n ė je smarkiai nuniokojo Volynę tuo metu, kai dėl karo su Maskva čia nebuvo likę nei karių, nei karvedžių.'
+  santrauka: 'Krymo skitai trimis žygio voromis smarkiai nuniokojo Volynę, kai dėl karo su Maskva joje nebuvo likę karių ir karvedžių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius, užbaigęs ka­
@@ -64,7 +67,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad siaubėjus užtiko Lukošius Moravecas, kuris su dviem šimtais pėstininkų visai atsitiktinai at sidūrė prie Slučės upės; nesitikėdamas galėsiąs atsi traukti, turėjo noromis nenoromis pasiryžti kovai; įsi rengęs pakrantėje stovyklą, jis užpuolė priešą ir jį.'
+  santrauka: 'Lukošius Moravecas su dviem šimtais pėstininkų prie Slučės upės užpuolė siaubėjus ir juos sumušė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nio­
@@ -84,3 +87,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/zodynas/algininkai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Lukošius Moravecas]]
+- [[objektai/zodynas/skitai]]

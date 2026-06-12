@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40702"></a>
 - t-001
+  global_id: t-40702
   teiginys: 'Dainavos apygardos kovotojų rankovės antsiuvas buvo naudotas 1945–1949 m.'
   pagrindžia:
     - c-001

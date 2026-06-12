@@ -19,12 +19,16 @@ Tie generaliniai seimeliai neišnyko nė įvedus bend- rą su lietuviais seimą.
 
 ## Teiginiai
 
+<a id="claim-t-70143"></a>
 - t-001
+  global_id: t-70143
   teiginys: 'Generaliniai seimeliai neišnyko įvedus bendrą Lietuvos ir Lenkijos seimą; Lietuvoje tokie suvažiavimai vykdavo Volkoviske, vėliau Slanime.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70144"></a>
 - t-002
+  global_id: t-70144
   teiginys: 'Išnykus atskiriems suvažiavimams, provincijų sesijos perėmė darbą, kurį anksčiau atlikdavo generaliniai seimeliai.'
   pagrindžia:
     - c-002

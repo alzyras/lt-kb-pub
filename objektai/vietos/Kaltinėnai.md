@@ -28,12 +28,16 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
 
 ## Teiginiai
 
+<a id="claim-t-68038"></a>
 - t-001
+  global_id: t-68038
   teiginys: '1416 metais Vytautas Kaltinėnuose pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-68039"></a>
 - t-002
+  global_id: t-68039
   teiginys: 'Kaltinėnai buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai sudarė taiką su Vytautu ir ordinu.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdy
 
 ## Teiginiai
 
+<a id="claim-t-77848"></a>
 - t-001
+  global_id: t-77848
   teiginys: 'Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdytu prieš savo valią“.'
   pagrindžia:
     - c-001

@@ -45,22 +45,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86996"></a>
 - t-001
+  global_id: t-86996
   teiginys: 'Vitoldus in duellando captum (Narimundum) et in arbore Wiqz per pedes in prato in quo bombardae pruthenicae constiterant, suspensum, sagittis Litucinorum, Tartarorum et Ruthenorum in cum jactis, crudelius quam utriusque conueniebat conditioni cruciavit.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86997"></a>
 - t-002
+  global_id: t-86997
   teiginys: 'Patrankų padariniai kartu su anglų lankininkų veiksmais lėmė didelius Lietuvos patirtus smūgius.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-86998"></a>
 - t-003
+  global_id: t-86998
   teiginys: 'Visos tuometinės artilerijos karo mašinos ir ugniasvaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86999"></a>
 - t-004
+  global_id: t-86999
   teiginys: '1383 m. puolant Trakų pilį, jos mūrai buvo sugriauti bombardomis, o įgula priversta pasiduoti.'
   pagrindžia:
     - c-002

@@ -30,7 +30,9 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
 
 ## Teiginiai
 
+<a id="claim-t-26483"></a>
 - t-001
+  global_id: t-26483
   teiginys: '„Anykščių šilelis“ apibūdinamas kaip Antano Baranausko lietuvių literatūros šedevras.'
   pagrindžia:
     - c-001

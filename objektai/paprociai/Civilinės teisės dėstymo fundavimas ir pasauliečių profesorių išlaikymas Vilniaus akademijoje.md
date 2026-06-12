@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Civilinės teisės dėstymo fundavimas ir pasauliečių profesorių išlaikymas Vilniaus akademijoje
 
 ## Santrauka
 
-Kojelavičius teigia, kad sapiega, buvusio kanclerio ir Lietuvos Statu to leidėjo sūnus, įvedė Akademijoje bajorams labai reikalingą teisių dėstymą.
+K. L. Sapiega Vilniaus akademijoje įvedė teisių dėstymą ir skyrė lėšų dviem kanoninės bei dviem civilinės teisės katedroms.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185867"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad sapiega, buvusio kanclerio ir Lietuvos Statu to leidėjo sūnus, įvedė Akademijoje bajorams labai reikalingą teisių dėstymą.'
+  global_id: t-185867
+  teiginys: 'K. L. Sapiega Vilniaus akademijoje įvedė teisių dėstymą ir skyrė lėšų dviem kanoninės bei dviem civilinės teisės katedroms.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad sapiega, buvusio kanclerio ir Lietuvos Statu to leidėjo sūnus, įvedė Akademijoje bajorams labai reikalingą teisių dėstymą.'
+  santrauka: 'K. L. Sapiega Vilniaus akademijoje įvedė teisių dėstymą ir skyrė lėšų dviem kanoninės bei dviem civilinės teisės katedroms.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     K. L. Sapiega, buvusio kanclerio ir Lietuvos Statu­
@@ -55,3 +56,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Sapiegos]]

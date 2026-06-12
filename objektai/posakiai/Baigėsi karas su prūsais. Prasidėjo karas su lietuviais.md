@@ -27,12 +27,16 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
 
 ## Teiginiai
 
+<a id="claim-t-99995"></a>
 - t-001
+  global_id: t-99995
   teiginys: 'Prasidėjo karas su lietuviais».'
   pagrindžia:
     - c-001
 
+<a id="claim-t-99996"></a>
 - t-002
+  global_id: t-99996
   teiginys: 'Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kilmė «Baigėsi karas su prūsais.'
   pagrindžia:
     - c-002

@@ -23,7 +23,9 @@ Su ja Maskvos kunigaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva ti
 
 ## Teiginiai
 
+<a id="claim-t-92088"></a>
 - t-001
+  global_id: t-92088
   teiginys: '1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo ir suėmė valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
   pagrindžia:
     - c-002

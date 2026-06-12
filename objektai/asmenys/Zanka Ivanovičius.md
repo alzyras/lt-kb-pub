@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-87888"></a>
 - t-001
+  global_id: t-87888
   teiginys: 'Zanka Ivanovičius dokumente nurodytas kaip Vilniaus horodničius ir vienas iš liudytojų.'
   pagrindžia:
     - c-001

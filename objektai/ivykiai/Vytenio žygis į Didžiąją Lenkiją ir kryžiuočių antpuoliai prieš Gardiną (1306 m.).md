@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Vytenio žygis į Didžiąją Lenkiją ir kryžiuočių antpuoliai prieš Gardiną (1306 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad valdovas, sugrįžęs iš Prūsijos, gavo ži nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy giuoti. Kojelavičius teigia, kad staigiu antpuoliu užėmė Kališo ir Stavišino miestus; gyventojai būtų nė nepajutę ateinant priešo, jeigu šis nebūtų pradėjęs siautėti miestuose degindamas ir žudydamas. Kojelavičius teigia, kad kol lietuviai šitaip siautėjo Lenkijoje, niekas jiems nepastojo kelio ir niekas nedrįso perse kioti traukiančių namo.
+1306 m. Vytenis, sužinojęs apie vidaus nesantarvę Lenkijoje, sutelkė kariuomenę prie Gardino ir įsiveržė į Didžiąją Lenkiją. Vytenio kariuomenė staigiu antpuoliu užėmė Kališą ir Stavišiną, degino miestus ir žudė gyventojus. Lietuviams siaubiant Lenkiją, niekas jiems nepastojo kelio ir niekas nedrįso persekioti jų grįžtant namo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,25 +32,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185513"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad valdovas, sugrįžęs iš Prūsijos, gavo ži nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy giuoti.'
+  global_id: t-185513
+  teiginys: '1306 m. Vytenis, sužinojęs apie vidaus nesantarvę Lenkijoje, sutelkė kariuomenę prie Gardino ir įsiveržė į Didžiąją Lenkiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185514"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad staigiu antpuoliu užėmė Kališo ir Stavišino miestus; gyventojai būtų nė nepajutę ateinant priešo, jeigu šis nebūtų pradėjęs siautėti miestuose degindamas ir žudydamas.'
+  global_id: t-185514
+  teiginys: 'Vytenio kariuomenė staigiu antpuoliu užėmė Kališą ir Stavišiną, degino miestus ir žudė gyventojus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185515"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad kol lietuviai šitaip siautėjo Lenkijoje, niekas jiems nepastojo kelio ir niekas nedrįso perse kioti traukiančių namo.'
+  global_id: t-185515
+  teiginys: 'Lietuviams siaubiant Lenkiją, niekas jiems nepastojo kelio ir niekas nedrįso persekioti jų grįžtant namo.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad valdovas, sugrįžęs iš Prūsijos, gavo ži nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy giuoti.'
+  santrauka: '1306 m. Vytenis, sužinojęs apie vidaus nesantarvę Lenkijoje, sutelkė kariuomenę prie Gardino ir įsiveržė į Didžiąją Lenkiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Valdovas, sugrįžęs iš Prūsijos, gavo ži­
@@ -82,7 +87,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad staigiu antpuoliu užėmė Kališo ir Stavišino miestus; gyventojai būtų nė nepajutę ateinant priešo, jeigu šis nebūtų pradėjęs siautėti miestuose degindamas ir žudydamas.'
+  santrauka: 'Vytenio kariuomenė staigiu antpuoliu užėmė Kališą ir Stavišiną, degino miestus ir žudė gyventojus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Staigiu antpuoliu
@@ -104,7 +109,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad kol lietuviai šitaip siautėjo Lenkijoje, niekas jiems nepastojo kelio ir niekas nedrįso perse kioti traukiančių namo.'
+  santrauka: 'Lietuviams siaubiant Lenkiją, niekas jiems nepastojo kelio ir niekas nedrįso persekioti jų grįžtant namo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kol lietuviai šitaip siautėjo Lenkijoje,
@@ -122,3 +127,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Albertas fon Hagenas]]
+- [[objektai/asmenys/Konradas (Prūsijos magistras)]]
+- [[objektai/asmenys/Vytenis]]

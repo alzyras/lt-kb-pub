@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54231"></a>
 - t-001
+  global_id: t-54231
   teiginys: 'Įžadas tapo pacta conventa dalimi, todėl jam turėjo prisiekti būsimi elekcinių valdovų įpėdiniai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183309"></a>
 - t-002
+  global_id: t-183309
   teiginys: 'Lenkijos ir Lietuvos valstybės teisių sistemos požiūriu įžadas tapo pacta conventa dalimi: taip nuo 1573 m. buvo vadinami elekcinių valdovų įsipareigojimai LLV bajorijai.'
   pagrindžia:
     - c-001

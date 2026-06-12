@@ -25,17 +25,23 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
 
 ## Teiginiai
 
+<a id="claim-t-179547"></a>
 - t-001
+  global_id: t-179547
   teiginys: 'Warszawa, 1960; M. Jučas. Vytautas Didysis. Chicago, 2010; Lietuva 1009–2009.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-179549"></a>
 - t-002
+  global_id: t-179549
   teiginys: 'M. Jučas parašė veikalą „Vytautas Didysis“, išleistą Čikagoje 2010 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-179550"></a>
 - t-003
+  global_id: t-179550
   teiginys: 'Dusburgietis teigia, kad tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro 149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование..., с. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24— 30 (M. Jučas).'
   pagrindžia:
     - c-002

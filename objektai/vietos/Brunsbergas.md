@@ -25,22 +25,30 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
 
 ## Teiginiai
 
+<a id="claim-t-58383"></a>
 - t-001
+  global_id: t-58383
   teiginys: 'Anzelmas, Varmės vyskupas ir Teutonų ordino brolis, pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58384"></a>
 - t-002
+  global_id: t-58384
   teiginys: 'Brunsbergas, dabartinis Branevas, buvo Pasarės žemupyje, o pilis stovėjo žemiau dabartinio miesto, arčiau Aismarių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-58385"></a>
 - t-003
+  global_id: t-58385
   teiginys: 'Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta daug brolių ir ginklanešių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58386"></a>
 - t-004
+  global_id: t-58386
   teiginys: 'Dusburgietis teigia, kad valdovas Henrikas, Varmės vyskupas, vėliau, 1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur ji ir dabar tebestovi415.'
   pagrindžia:
     - c-002

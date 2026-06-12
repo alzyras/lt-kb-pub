@@ -17,7 +17,6 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
-
 # Turovas
 
 ## Santrauka
@@ -26,13 +25,17 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 
 ## Teiginiai
 
+<a id="claim-t-178310"></a>
 - t-001
+  global_id: t-178310
   teiginys: 'Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie teisių gynimą nuo Rusijos metropolitų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185165"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad polesė — baltarusių gyvenama te ritorija, kurios žymiausi miestai — Turovas, Pinskas, David Gorodokas.'
+  global_id: t-185165
+  teiginys: 'Polesės žymiausi miestai buvo Turovas, Pinskas ir David Gorodokas.'
   pagrindžia:
     - c-002
 
@@ -56,7 +59,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad polesė — baltarusių gyvenama te ritorija, kurios žymiausi miestai — Turovas, Pinskas, David Gorodokas.'
+  santrauka: 'Polesės žymiausi miestai buvo Turovas, Pinskas ir David Gorodokas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     3 „Lietuvos istorijos" I tome A. Kojelavičius daugelyje atvejų

@@ -16,7 +16,9 @@ Chodkevičius pasiuntė kelias raitarų ir „lisovčikų“ vėliavas į kontra
 
 ## Teiginiai
 
+<a id="claim-t-41063"></a>
 - t-001
+  global_id: t-41063
   teiginys: 'J. K. Chodkevičius pasiuntė kelias lisovčikų vėliavas į kontrataką.'
   pagrindžia:
     - c-001

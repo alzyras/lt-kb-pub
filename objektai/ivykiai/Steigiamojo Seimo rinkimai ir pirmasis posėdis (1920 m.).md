@@ -41,22 +41,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75287"></a>
 - t-001
+  global_id: t-75287
   teiginys: '1920 m. balandžio 14–15 d. Steigiamojo Seimo rinkimus laimėjo krikščionių demokratų blokas, gavęs 59 vietas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75288"></a>
 - t-002
+  global_id: t-75288
   teiginys: 'Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir Lietuvos darbo federacija (LDF), joms.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75289"></a>
 - t-003
+  global_id: t-75289
   teiginys: 'Dėl nepriklausomybės kovų rinkimai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą, tautybę ar lytį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75290"></a>
 - t-004
+  global_id: t-75290
   teiginys: 'Tad iš viso išrinkta 112 atstovų, kurie gegužės 15 dieną laikinojoje sostinėje Kaune susirinko į pirmąjį Seimo posėdį.'
   pagrindžia:
     - c-001

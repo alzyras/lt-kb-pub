@@ -30,12 +30,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-09577"></a>
 - t-001
+  global_id: t-09577
   teiginys: 'Kunigas Mackevičius sakė pamokslą ir lenkiškai, ir lietuviškai, o kariuomenė bei žmonių pulkai jo klausėsi tyrame lauke.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-09578"></a>
 - t-002
+  global_id: t-09578
   teiginys: 'Žmones į Salas telkė bažnyčios varpų skambėjimas.'
   pagrindžia:
     - c-002

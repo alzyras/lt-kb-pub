@@ -49,17 +49,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-45472"></a>
 - t-001
+  global_id: t-45472
   teiginys: 'Lapkričio 15 d. Kaune sprogusi bomba sužeidė E. Galvanauską, bet jis liko gyvas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45473"></a>
 - t-002
+  global_id: t-45473
   teiginys: 'Lapkričio 15 d. Kaune ant E. Galvanausko miegamojo palangės sprogo padėta bomba.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45474"></a>
 - t-003
+  global_id: t-45474
   teiginys: '1921 m. lapkričio 15 d. Kaune ant E. Galvanausko miegamojo palangės sprogo padėta bomba.'
   pagrindžia:
     - c-001

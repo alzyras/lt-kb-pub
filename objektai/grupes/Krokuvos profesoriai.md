@@ -18,12 +18,16 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 
 ## Teiginiai
 
+<a id="claim-t-35615"></a>
 - t-001
+  global_id: t-35615
   teiginys: 'Krokuvos profesoriai rašte įrodinėjo, kad Romos karalius Zigmantas neturi teisės suteikti karūnos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-35616"></a>
 - t-002
+  global_id: t-35616
   teiginys: 'Krokuvos profesoriai Romos karaliaus teisę karūnuoti kitus laikė nepakankama ir žemesne už popiežiaus teises.'
   pagrindžia:
     - c-001

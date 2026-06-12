@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Andriaus Vygando raštiškas pasižadėjimas Jogailai
 
 ## Santrauka
 
-Kojelavičius teigia, kad tuo metu Andrius Vygandas, Starodubo kunigaikštis, raštiškai pasižadėjo būti ištikimas karaliui: Vytautui mirus, jis esą su kitais Lietuvos kunigaikščiais nepripažinsiąs ki tos valdžios, kaip Lenkijos karaliaus Jogailos.
+Starodubo kunigaikštis Andrius Vygandas raštiškai pasižadėjo po Vytauto mirties su kitais Lietuvos kunigaikščiais pripažinti Jogailos valdžią.
 
 ## Teiginiai
 
+<a id="claim-t-186328"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tuo metu Andrius Vygandas, Starodubo kunigaikštis, raštiškai pasižadėjo būti ištikimas karaliui: Vytautui mirus, jis esą su kitais Lietuvos kunigaikščiais nepripažinsiąs ki tos valdžios, kaip Lenkijos karaliaus Jogailos.'
+  global_id: t-186328
+  teiginys: 'Starodubo kunigaikštis Andrius Vygandas raštiškai pasižadėjo po Vytauto mirties su kitais Lietuvos kunigaikščiais pripažinti Jogailos valdžią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tuo metu Andrius Vygandas, Starodubo kunigaikštis, raštiškai pasižadėjo būti ištikimas karaliui: Vytautui mirus, jis esą su kitais Lietuvos kunigaikščiais nepripažinsiąs ki tos valdžios, kaip Lenkijos karaliaus Jogailos.'
+  santrauka: 'Starodubo kunigaikštis Andrius Vygandas raštiškai pasižadėjo po Vytauto mirties su kitais Lietuvos kunigaikščiais pripažinti Jogailos valdžią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nutarė baigti derybas Lietuvoje. Tuo metu

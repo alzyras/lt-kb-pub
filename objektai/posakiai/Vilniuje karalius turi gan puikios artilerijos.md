@@ -17,7 +17,9 @@ grESHIC astiicnnems Saro valdoms ir jo „Vilniuje karalius turi gan puikios art
 
 ## Teiginiai
 
+<a id="claim-t-41470"></a>
 - t-001
+  global_id: t-41470
   teiginys: 'Posakyje „Vilniuje karalius turi gan puikios artilerijos“ teigiama, kad karalius Vilniuje turėjo 180 sunkiosios artilerijos vienetų.'
   pagrindžia:
     - c-001

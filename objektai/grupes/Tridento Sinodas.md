@@ -18,12 +18,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86829"></a>
 - t-001
+  global_id: t-86829
   teiginys: 'Tridento Sinodas nusprendė, kad kiekvienoje krikščioniškojo pasaulio diecezijoje reikia įkurti amžiną seminariją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86830"></a>
 - t-002
+  global_id: t-86830
   teiginys: 'Funduotos kolegijos administravimas, valdymas ir vadovavimas turėjo būti vykdomi pagal Tridento susirinkimo dekretą.'
   pagrindžia:
     - c-001

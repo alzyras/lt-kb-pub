@@ -19,12 +19,16 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
 
 ## Teiginiai
 
+<a id="claim-t-40546"></a>
 - t-001
+  global_id: t-40546
   teiginys: 'Mūšio liudininkas Zigmantas Herberšteinas citavo Čeliadnino žodžius apie Lietuvos kariuomenės kėlimąsi per Dnieprą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40547"></a>
 - t-002
+  global_id: t-40547
   teiginys: 'Diplomatas Zigmantas Herberšteinas vėliau aprašė mūšį ir perteikė Čeliadnino žodžius apie Lietuvos kariuomenės persikėlimą.'
   pagrindžia:
     - c-001

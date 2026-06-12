@@ -24,7 +24,9 @@ Dusburgietis teigia, kad gudavičius E prašė viešpatį padaryti, kad nebebūt
 
 ## Teiginiai
 
+<a id="claim-t-91931"></a>
 - t-001
+  global_id: t-91931
   teiginys: 'Edvardas Gudavičius plačiau aptarė formulę, taikytą 1324 m. Rygoje derybas vedusiam Lietuvos vyriausybės atstovui.'
   pagrindžia:
     - c-001

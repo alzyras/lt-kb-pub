@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40696"></a>
 - t-001
+  global_id: t-40696
   teiginys: 'Bermondto-Avalovo kryžius buvo teikiamas pasižymėjusiems bermontininkams.'
   pagrindžia:
     - c-001

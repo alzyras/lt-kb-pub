@@ -21,7 +21,9 @@ Kiaupa Z., Kiaupienė J., Kuncevičius A.
 
 ## Teiginiai
 
+<a id="claim-t-78086"></a>
 - t-001
+  global_id: t-78086
   teiginys: 'A. Kuncevičius kartu su Z. Kiaupa ir J. Kiaupiene parašė leidinį „The history of Lithuania before 1795“.'
   pagrindžia:
     - c-001

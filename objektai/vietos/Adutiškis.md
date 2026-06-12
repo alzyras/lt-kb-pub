@@ -16,7 +16,9 @@ liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS [7] Rugpjūčio 8 d. Aug
 
 ## Teiginiai
 
+<a id="claim-t-41584"></a>
 - t-001
+  global_id: t-41584
   teiginys: 'Adutiškis minimas tarp lietuviškų teritorijų, atsiimtų rugpjūčio 9 d.'
   pagrindžia:
     - c-001

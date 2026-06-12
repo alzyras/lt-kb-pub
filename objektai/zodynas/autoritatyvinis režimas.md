@@ -26,7 +26,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-28570"></a>
 - t-001
+  global_id: t-28570
   teiginys: '1926 m. gruodžio 17 d. perversmas pradėjo Lietuvos autoritatyvinio režimo eksperimentą.'
   pagrindžia:
     - c-001

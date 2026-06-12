@@ -35,17 +35,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66989"></a>
 - t-001
+  global_id: t-66989
   teiginys: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto paveikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietuvos miestuose ir.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66990"></a>
 - t-002
+  global_id: t-66990
   teiginys: '1930 m. iškilmingai pažymėtas Vytauto mirties 500 metų jubiliejus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66991"></a>
 - t-003
+  global_id: t-66991
   teiginys: 'Vytauto jubiliejiniai renginiai formavo Vytauto Didžiojo kultą ir siejo jį su Antano Smetonos valdoma Lietuvos valstybe.'
   pagrindžia:
     - c-001

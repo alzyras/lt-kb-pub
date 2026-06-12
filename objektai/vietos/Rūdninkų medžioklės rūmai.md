@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86031"></a>
 - t-001
+  global_id: t-86031
   teiginys: 'Čia buvo vadinamieji medžioklės rūmai, skirti apsistoti patiems karaliams.'
   pagrindžia:
     - c-001

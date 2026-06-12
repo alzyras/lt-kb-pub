@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-88514"></a>
 - t-001
+  global_id: t-88514
   teiginys: 'Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų į Gdanską prekybos reikalais vykstančiam Vilniaus gyventojui Bomannui.'
   pagrindžia:
     - c-001

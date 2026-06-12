@@ -25,22 +25,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-77419"></a>
 - t-001
+  global_id: t-77419
   teiginys: 'Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidėsiančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kunigaikštystės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-77420"></a>
 - t-002
+  global_id: t-77420
   teiginys: '1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77421"></a>
 - t-003
+  global_id: t-77421
   teiginys: '1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė - pusiau nepriklausoma, Napoleono globojama valstybė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-77422"></a>
 - t-004
+  global_id: t-77422
   teiginys: 'Vilniaus katedroje, dalyvaujant Varšuvos kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Lenkija, susigrąžinant LDK prarastas žemes.'
   pagrindžia:
     - c-002

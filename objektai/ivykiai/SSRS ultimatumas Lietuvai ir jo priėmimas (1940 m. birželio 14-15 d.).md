@@ -41,37 +41,51 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-45442"></a>
 - t-001
+  global_id: t-45442
   teiginys: 'Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta, ar priešintis okupacijai, ar priimti ultimatumą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-45443"></a>
 - t-002
+  global_id: t-45443
   teiginys: 'Kariškiai V. Vitkauskas ir S. Raštikis teigė, kad Lietuva viena negali rimčiau pasipriešinti sovietų karinei mašinai.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-45444"></a>
 - t-003
+  global_id: t-45444
   teiginys: 'Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų karinei mašinai negali, būtų daug aukų.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-45445"></a>
 - t-004
+  global_id: t-45445
   teiginys: '1940 m. birželio 14 d. vakare V. Molotovas įteikė J. Urbšiui ultimatumą, reikalaujantį įsileisti papildomus sovietų dalinius ir pakeisti vyriausybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45446"></a>
 - t-005
+  global_id: t-45446
   teiginys: 'V. Molotovas J. Urbšiui pareiškė, kad, nepaisant Lietuvos atsakymo, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-45447"></a>
 - t-006
+  global_id: t-45447
   teiginys: 'SSRS iš anksto rengėsi invazijai į Lietuvą: kūrė ligonines ir lagerius, permetė diversines grupes, pradėjo blokadą ir puolė pasienio postus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183277"></a>
 - t-007
+  global_id: t-183277
   teiginys: 'Sovietai dar pavasarį slapta permetė į Lietuvos miestus lietuviškai kalbėti apmokytas specialias diversines karo žvalgybos grupes valdžiai paimti, prieš pat invaziją pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis.'
   pagrindžia:
     - c-007

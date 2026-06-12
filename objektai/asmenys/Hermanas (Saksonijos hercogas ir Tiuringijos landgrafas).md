@@ -19,7 +19,9 @@ Dusburgietis teigia, kad hermanas (Saksonijos hercogas ir Tiuringijos landgrafas
 
 ## Teiginiai
 
+<a id="claim-t-60324"></a>
 - t-001
+  global_id: t-60324
   teiginys: 'Hermanas, Saksonijos hercogas ir Tiuringijos landgrafas, buvo tarp didikų, pritarusių siųsti legatus dėl ligoninės patvirtinimo.'
   pagrindžia:
     - c-001

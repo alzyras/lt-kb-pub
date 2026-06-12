@@ -27,7 +27,9 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
 
 ## Teiginiai
 
+<a id="claim-t-59049"></a>
 - t-001
+  global_id: t-59049
   teiginys: 'Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Voldemaro gyvybę, 1929 m. rugsėjį visiems ministrams in corpore „atsistatyd
 
 ## Teiginiai
 
+<a id="claim-t-22164"></a>
 - t-001
+  global_id: t-22164
   teiginys: '1929 m. rugsėjį visiems ministrams in corpore atsistatydinus, turėjo atsistatydinti ir premjeras Augustinas Voldemaras.'
   pagrindžia:
     - c-001

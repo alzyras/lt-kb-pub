@@ -23,7 +23,9 @@ To tomo uždavinys yra parodyti, kaip «Didžiosios Spalio socialistinės revoli
 
 ## Teiginiai
 
+<a id="claim-t-31540"></a>
 - t-001
+  global_id: t-31540
   teiginys: 'Sovietiniai istorikai teigė, kad po „Didžiosios Spalio socialistinės revoliucijos“ Lietuvoje prasidėjo naujas laikotarpis.'
   pagrindžia:
     - c-001

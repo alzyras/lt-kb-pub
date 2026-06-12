@@ -28,112 +28,156 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
 
 ## Teiginiai
 
+<a id="claim-t-78350"></a>
 - t-001
+  global_id: t-78350
   teiginys: 'Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė Lietuvos valstybingumą, keitė administraciją: į svarbius vyriausybės postus buvo paskirti amnestuoti politiniai kaliniai komunistai – LKP vadovas Antanas Sniečkus tapo Valstybės saugumo.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-78351"></a>
 - t-002
+  global_id: t-78351
   teiginys: 'KGB numeriais pažymėjo eisenos lyderius VI s k y r i u s DAINUOJANTI REVOLIUCIJA SU SĄJŪDŽIU UŽ LIETUVĄ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar Gruzijoje, spengė tyla – pilki LKP CK pirmieji.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-78352"></a>
 - t-003
+  global_id: t-78352
   teiginys: 'Komunistų partijos veiklai didelę įtaką turėjo 1989 m. gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-78353"></a>
 - t-004
+  global_id: t-78353
   teiginys: 'Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija (LKP).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78354"></a>
 - t-005
+  global_id: t-78354
   teiginys: 'Stalino valdymo metais vyko tiesmukas lietuvių kultūros griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kultūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo komunistų partija: primesta marksistinė-lenininė.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-78355"></a>
 - t-006
+  global_id: t-78355
   teiginys: 'Į vieną vietą leista iškelti vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-78357"></a>
 - t-007
+  global_id: t-78357
   teiginys: 'Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą programą ir naują statutą.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-78358"></a>
 - t-008
+  global_id: t-78358
   teiginys: 'Siekiant sumažinti Lietuvos žmonių paramą nepriklausomybei, buvo paskelbta ekonominė blokada, kurstant tautinę nesantaiką, buvo skatinamas atskirų Lietuvos regionų atsiskyrimas nuo nepriklausomos valstybės, tačiau tai lauktų rezultatų nedavė (ekonominiai.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-78359"></a>
 - t-009
+  global_id: t-78359
   teiginys: 'LSSR institucijos neturėjo jokios realios valdžios – net LKP (bolševikų) centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-78360"></a>
 - t-010
+  global_id: t-78360
   teiginys: 'Pamažu tampanti lietuviškesnė komunistų partija (1953 m. LKP lietuvių buvo 13 tūkst.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-78361"></a>
 - t-011
+  global_id: t-78361
   teiginys: 'Jį įgyvendinti turėjo prosovietiškos Lietuvos komunistų partijos (nuo sovietų komunistų partijos neatsiskyrusios partijos dalies) suorganizuoti ir antivalstybinės organizacijos „Jedinstvo“ (Vienybė) vedami rusakalbiai sąjunginio pavaldumo gamyklų darbininkai.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-78362"></a>
 - t-012
+  global_id: t-78362
   teiginys: '1940 m. V. Dekanozovui talkino sovietų pasiuntinybė ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78364"></a>
 - t-013
+  global_id: t-78364
   teiginys: 'A. Smetonai pogrindyje veikusi negausi, apie 1 200 narių turėjusi Lietuvos komunistų partija neatrodė kelianti grėsmę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78365"></a>
 - t-014
+  global_id: t-78365
   teiginys: 'Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą Nacionalinio gelbėjimo komitetą, kuris parengė prezidentinio valdymo įvedimo Lietuvoje planą.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-78366"></a>
 - t-015
+  global_id: t-78366
   teiginys: '1940 m. birželio 25 d. LKP buvo įteisinta, nors kitos politinės partijos liko neįteisintos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-78367"></a>
 - t-016
+  global_id: t-78367
   teiginys: 'Per vadinamojo Liaudies seimo rinkimus kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-78368"></a>
 - t-017
+  global_id: t-78368
   teiginys: 'Lietuvos Persitvarkymo Sąjūdis 1988–1990 metais Valdžios nedraudžiamų klubų veikla kultūros, gamtos apsaugos, ekologijos ir kitais klausimais išjudino rašytojus, jie reikalavo, kad stumiama iš visuomenės apyvartos lietuvių kalba taptų oficiali kalba, kad.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-78369"></a>
 - t-018
+  global_id: t-78369
   teiginys: 'Kiekvienas žmogus, dalyvaujantis tokioje akcijoje, jautė, kad nuo jo priklauso Lietuvos ateitis.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-78370"></a>
 - t-019
+  global_id: t-78370
   teiginys: 'Žydai – daugiapolė, pliuralistinė, politiškai susiskaidžiusi bendruomenė, turinti daugelį partijų ir organizacijų.'
   pagrindžia:
     - c-021
 
+<a id="claim-t-78372"></a>
 - t-020
+  global_id: t-78372
   teiginys: '1989 m. lietuvių tautinis išsivadavimas įgijo politinį pobūdį.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-78373"></a>
 - t-021
+  global_id: t-78373
   teiginys: '1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą kampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjūdis – tautinis judėjimas, ryžtingai ir atvirai skleidžiantis nepriklausomos Lietuvos valstybės atkūrimo idėją, ir.'
   pagrindžia:
     - c-020
 
+<a id="claim-t-78374"></a>
 - t-022
+  global_id: t-78374
   teiginys: 'Po perversmo keturi Lietuvos komunistų partijos vadovai buvo nuteisti mirties bausme ir po dešimties dienų sušaudyti.'
   pagrindžia:
     - c-001

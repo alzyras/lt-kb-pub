@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67132"></a>
 - t-001
+  global_id: t-67132
   teiginys: 'Per vieną bajorų susibūrimą įsiaudrinusi minia po naktinių išgertuvių apsupo vienuolyną ir reikalavo belaisvio mirties.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67133"></a>
 - t-002
+  global_id: t-67133
   teiginys: 'Kruvini bajorijos susibūrimai, ypač seimeliuose: visa tai labai charakteringa to meto bajorijos nuotaikai ir jos veikimo būdui. Šitokių kruvinų vaizdų atsitikdavo dažnuose bajorijos susibūrimuose, o ypač seimeliuose.'
   pagrindžia:
     - c-001

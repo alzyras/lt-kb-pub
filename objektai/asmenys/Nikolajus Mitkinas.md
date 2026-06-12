@@ -16,7 +16,9 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 
 ## Teiginiai
 
+<a id="claim-t-25704"></a>
 - t-001
+  global_id: t-25704
   teiginys: 'Nikolajus Mitkinas buvo lietuviškai nekalbantis LKP CK antrasis sekretorius, siekęs „Lietuvą padaryti internacionalinę“.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-99984"></a>
 - t-001
+  global_id: t-99984
   teiginys: 'Neturėdamas pastovaus atlyginimo, Matusas buvo priverstas tapti konjunktūriniu istoriku ir istorijos žurnalistu.'
   pagrindžia:
     - c-001

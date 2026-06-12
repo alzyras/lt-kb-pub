@@ -25,22 +25,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-172979"></a>
 - t-001
+  global_id: t-172979
   teiginys: 'Gedimino laiškų ordinams ir Hanzos miestams autentiškas 1323 metais notaro parengtas dokumentas buvo Karaliaučiaus slaptajame archyve.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-172980"></a>
 - t-002
+  global_id: t-172980
   teiginys: 'Gedimino laiškai rodo valdovo siekį gausinti Lietuvos gyventojus, kelti gerovę ir kviesti amatininkus, žemdirbius bei dvasininkus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-172981"></a>
 - t-003
+  global_id: t-172981
   teiginys: 'Foigtas ginčijo Gedimino laiškų autentiškumą ir teigė, kad juos parengė bei išsiuntinėjo Rygos arkivyskupas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-172983"></a>
 - t-004
+  global_id: t-172983
   teiginys: 'Gedimino laiškai buvo įdėti į papildymus kartu su vertimu į lenkų kalbą ir Foigto pastabomis.'
   pagrindžia:
     - c-001

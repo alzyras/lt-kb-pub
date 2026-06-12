@@ -16,7 +16,9 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
 
 ## Teiginiai
 
+<a id="claim-t-02477"></a>
 - t-001
+  global_id: t-02477
   teiginys: 'Rusai atsiėmė Jonavą kartu su Ukmerge ir Šiauliais.'
   pagrindžia:
     - c-001

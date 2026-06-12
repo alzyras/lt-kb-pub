@@ -17,12 +17,16 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
 
 ## Teiginiai
 
+<a id="claim-t-40122"></a>
 - t-001
+  global_id: t-40122
   teiginys: 'Georgas Fridrikas Valdekas vadovavo maždaug 7000 švedų, brandenburgiečių ir prūsų karių jungtinei kariuomenei.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40123"></a>
 - t-002
+  global_id: t-40123
   teiginys: 'Georgas Fridrikas Valdekas, gavęs žinią apie totorių kėlimąsi per upę šiauriau Prostkų, pasiuntė juos sulaikyti B. Radvilos kavaleriją.'
   pagrindžia:
     - c-001

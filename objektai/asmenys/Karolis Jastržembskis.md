@@ -16,7 +16,9 @@ sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Ka
 
 ## Teiginiai
 
+<a id="claim-t-40271"></a>
 - t-001
+  global_id: t-40271
   teiginys: 'Karolio Jastržembskio vadovaujamas 200 sukilėlių būrys susikovė su generolo majoro Suchodolskio kavalerijos daliniu.'
   pagrindžia:
     - c-001

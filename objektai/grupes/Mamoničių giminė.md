@@ -25,12 +25,16 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
 
 ## Teiginiai
 
+<a id="claim-t-86745"></a>
 - t-001
+  global_id: t-86745
   teiginys: '1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino „Cztėry Ewangelje“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86746"></a>
 - t-002
+  global_id: t-86746
   teiginys: 'Mamoničių namai, anot citatos, veikiausiai stovėjo ten, kur vėliau buvo Sledzinskio namai Nr. 203.'
   pagrindžia:
     - c-001

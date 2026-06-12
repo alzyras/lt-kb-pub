@@ -18,22 +18,30 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 
 ## Teiginiai
 
+<a id="claim-t-91355"></a>
 - t-001
+  global_id: t-91355
   teiginys: 'Dusburgietis teigia, kad 382 D.— in territorio Rinow, Jer.— gebite Rinow (XIII a.— Erino, Rynow, vėliau — Rinau); Rinava, vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-91356"></a>
 - t-002
+  global_id: t-91356
   teiginys: 'Rinavos valsčiuje gyvenę sembai, vėl atkritę nuo tikėjimo, subūrė kariuomenę ir užpuolė Fišhauzeno pilį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-91357"></a>
 - t-003
+  global_id: t-91357
   teiginys: 'Dusburgietis teigia, kad apie Rinavos valsčiaus sembų naują atskalūnybę Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės, sukurstė tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-91358"></a>
 - t-004
+  global_id: t-91358
   teiginys: 'Dusburgietis teigia, kad apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė kariuomenę ir, įsibrovę į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su visu jų turtu išsivarė su.'
   pagrindžia:
     - c-001

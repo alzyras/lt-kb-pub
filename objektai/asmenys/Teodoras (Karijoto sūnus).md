@@ -17,7 +17,9 @@ Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro
 
 ## Teiginiai
 
+<a id="claim-t-35291"></a>
 - t-001
+  global_id: t-35291
   teiginys: 'Karijoto sūnus Teodoras buvo nepaklusnus Podolijos kunigaikštis, kurį Vytautas suvaldė Jogailos pritarimu.'
   pagrindžia:
     - c-001

@@ -18,12 +18,16 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
 
 ## Teiginiai
 
+<a id="claim-t-19012"></a>
 - t-001
+  global_id: t-19012
   teiginys: 'Livonijos vyskupas Juozapas Kosakovskis buvo pakartas Varšuvoje birželio 28 dieną kartu su kai kuriais Targovicos konfederatais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-19013"></a>
 - t-002
+  global_id: t-19013
   teiginys: 'Juozapas Kosakovskis, Livonijos vyskupas, 1792 m. vadovavo Vilniaus konfederacijai kartu su Simonu Kosakovskiu ir I. Masalskiu.'
   pagrindžia:
     - c-001

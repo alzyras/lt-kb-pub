@@ -22,7 +22,9 @@ Paszkiewicz : Polityka Ruska Kazimierza Wiel­ kiego, Warszawa 1925, 197 p. 5 i�
 
 ## Teiginiai
 
+<a id="claim-t-31697"></a>
 - t-001
+  global_id: t-31697
   teiginys: 'H. Paszkiewicziaus „Polityka Ruska Kazimierza Wielkiego“ 1925 m. išleista Varšuvoje.'
   pagrindžia:
     - c-001

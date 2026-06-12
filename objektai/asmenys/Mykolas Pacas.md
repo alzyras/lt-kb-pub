@@ -20,12 +20,16 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
 
 ## Teiginiai
 
+<a id="claim-t-79142"></a>
 - t-001
+  global_id: t-79142
   teiginys: 'Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklaravusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai, vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos, Kristupo ir Mykolo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79144"></a>
 - t-002
+  global_id: t-79144
   teiginys: 'Mykolas Pacas buvo hetmonas ir Vilniaus vaivada.'
   pagrindžia:
     - c-001

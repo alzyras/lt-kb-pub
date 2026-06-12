@@ -41,29 +41,39 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
 
 ## Teiginiai
 
+<a id="claim-t-12397"></a>
 - t-001
+  global_id: t-12397
   teiginys: 'Astravos sutartimi Vytautas pažadėjo Jogailą ir Jadvygą remti kariuomene, turtu ir ginklais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-12398"></a>
 - t-002
+  global_id: t-12398
   teiginys: 'Sutartis grąžino Vytautui Lietuvos valdžią didžiojo kunigaikščio teisėmis kaip lėną.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
+<a id="claim-t-12399"></a>
 - t-003
+  global_id: t-12399
   teiginys: 'Po Astravos sutarties Jogaila Vilniuje išplėtė Vytauto valdžią visose Lietuvos ir Rusijos žemėse.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-176169"></a>
 - t-004
-  teiginys: 'Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Lydą.'
+  global_id: t-176169
+  teiginys: '1392 m. Astravos dvare prie Lydos Vytautas, atsimetęs nuo Ordino, susitaikė su Jogaila.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-176170"></a>
 - t-005
-  teiginys: 'Sutartis buvo patvirtinta abiejų pusių atskirais dokumentais.'
+  global_id: t-176170
+  teiginys: 'Astravos sutartis buvo patvirtinta abiejų pusių atskirais dokumentais.'
   pagrindžia:
     - c-004
 
@@ -121,6 +131,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - t-003
 
 - c-004
+  santrauka: 'Astravos sutartis buvo patvirtinta abiejų pusių atskirais dokumentais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vy-
@@ -136,6 +147,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - t-005
 
 - c-005
+  santrauka: '1392 m. Astravos dvare prie Lydos Vytautas, atsimetęs nuo Ordino, susitaikė su Jogaila.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Astravos**

@@ -17,7 +17,9 @@ Dusburgietis teigia, kad 67—68): „...atkeršykite priešams už savo tautą.
 
 ## Teiginiai
 
+<a id="claim-t-59078"></a>
 - t-001
+  global_id: t-59078
   teiginys: 'Makabiejų knygos citatoje raginama atkeršyti priešams už savo tautą ir atsilyginti jiems pagal nuopelnus.'
   pagrindžia:
     - c-001

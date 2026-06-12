@@ -24,7 +24,9 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 
 ## Teiginiai
 
+<a id="claim-t-67728"></a>
 - t-001
+  global_id: t-67728
   teiginys: '1322 m. Brandenburgo pilyje gyveno Tomas, Hertvigo iš Pokarvių sūnus, kuris ketverių metų mirė ir atgijo.'
   pagrindžia:
     - c-001

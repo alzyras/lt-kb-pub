@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01770"></a>
 - t-001
+  global_id: t-01770
   teiginys: 'Pirmasis pasaulio lietuvių kongresas įvyko 1935 m. rugpjūčio 11–17 d. Kaune.'
   pagrindžia:
     - c-001

@@ -32,22 +32,30 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
 
 ## Teiginiai
 
+<a id="claim-t-60870"></a>
 - t-001
+  global_id: t-60870
   teiginys: 'Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas kaip Kimenavos puolimo datavimo 1278 m. šaltinis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-60872"></a>
 - t-002
+  global_id: t-60872
   teiginys: 'Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas aprašant 1279–1280 m. žiemos puolimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60873"></a>
 - t-003
+  global_id: t-60873
   teiginys: 'Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas kaip šaltinis Sembos puolimui 1280 m. vėlyvą rudenį datuoti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60876"></a>
 - t-004
+  global_id: t-60876
   teiginys: 'Ewaldo veikalas „Die Eroberung“ nurodomas kaip šaltinis Herkaus Manto žūčiai 1273 m. vasarą ar rudenį datuoti.'
   pagrindžia:
     - c-002

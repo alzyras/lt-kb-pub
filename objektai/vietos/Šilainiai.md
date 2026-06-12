@@ -22,7 +22,9 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 
 ## Teiginiai
 
+<a id="claim-t-38582"></a>
 - t-001
+  global_id: t-38582
   teiginys: '1945 m. vasario 15 d. prie Šilainių miško Vlado Pabarčiaus partizanų būrys surengė pasalą NKVD Betygalos stribams, žuvo 6 stribai.'
   pagrindžia:
     - c-001

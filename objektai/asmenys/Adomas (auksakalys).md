@@ -16,7 +16,9 @@ Be to, buvo keturi sidabriniai dubenys, užstatyti pas auksakalį Adomą a die 1
 
 ## Teiginiai
 
+<a id="claim-t-87902"></a>
 - t-001
+  global_id: t-87902
   teiginys: 'Be to, buvo keturi sidabriniai dubenys, užstatyti pas auksakalį Adomą a die 16 May ad diem 18 Aug.'
   pagrindžia:
     - c-001

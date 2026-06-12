@@ -28,17 +28,23 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
 
 ## Teiginiai
 
+<a id="claim-t-87455"></a>
 - t-001
+  global_id: t-87455
   teiginys: 'Augustinas Rotundas Mieleskis 1579 m. buvo paminėtas kaip liudininkas, abiejų teisių daktaras ir karališkasis sekretorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87456"></a>
 - t-002
+  global_id: t-87456
   teiginys: 'Rotundas Augustinas Milesijus Mieleskis buvo Vilniaus vaitas ir 1569 m. išrinktas į komisiją Lietuvos įstatymams pataisyti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87457"></a>
 - t-003
+  global_id: t-87457
   teiginys: 'Augustinas Rotundas Mieleskis buvo kilęs iš bajorų, nes miesto aktuose prie jo pavardės rašyta „Nobilis“.'
   pagrindžia:
     - c-003

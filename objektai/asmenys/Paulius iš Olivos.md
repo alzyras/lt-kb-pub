@@ -19,7 +19,9 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 
 ## Teiginiai
 
+<a id="claim-t-87818"></a>
 - t-001
+  global_id: t-87818
   teiginys: 'Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo.'
   pagrindžia:
     - c-001

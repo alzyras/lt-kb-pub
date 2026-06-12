@@ -29,7 +29,9 @@ Tautavičius, A.
 
 ## Teiginiai
 
+<a id="claim-t-31608"></a>
 - t-001
+  global_id: t-31608
   teiginys: 'A. Tautavičiaus straipsnis apie XIV a. II pusės–XV a. pradžios sidabro lydinius paskelbtas 1965 m. AkMD 18 tome, p. 67–84.'
   pagrindžia:
     - c-001

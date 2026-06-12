@@ -26,12 +26,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88336"></a>
 - t-001
+  global_id: t-88336
   teiginys: 'Dviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms, turinys: apie muitus ir mokesčius Vilniaus pirkliams ir miestiečiams •328 • VIII PRIEDAS.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88337"></a>
 - t-002
+  global_id: t-88337
   teiginys: 'Stepono Batoro parašas paimtas iš 1576 m. gruodžio 20 d. rašyto laiško faksimilės.'
   pagrindžia:
     - c-002

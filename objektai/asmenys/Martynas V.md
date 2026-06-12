@@ -36,51 +36,75 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
 
 ## Teiginiai
 
+<a id="claim-t-184433"></a>
 - t-001
+  global_id: t-184433
   teiginys: 'Martynas V keliais atvejais ragino Vytautą pasitraukti nuo husitų.'
   pagrindžia:
     - c-004
+<a id="claim-t-184434"></a>
 - t-002
+  global_id: t-184434
   teiginys: 'Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir parėmė Vytauto žygius prieš totorius.'
   pagrindžia:
     - c-007
+<a id="claim-t-184435"></a>
 - t-003
+  global_id: t-184435
   teiginys: 'Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu.'
   pagrindžia:
     - c-006
+<a id="claim-t-184436"></a>
 - t-004
+  global_id: t-184436
   teiginys: 'Martyno V valdymo laikotarpis 1417–1431 m. sutapo su Vytauto įsigalėjimu Lietuvos bažnytiniame gyvenime.'
   pagrindžia:
     - c-002
+<a id="claim-t-184437"></a>
 - t-005
+  global_id: t-184437
   teiginys: 'Popiežius Martynas V draudė kištis į lenkų ir lietuvių reikalus.'
   pagrindžia:
     - c-005
+<a id="claim-t-184438"></a>
 - t-006
+  global_id: t-184438
   teiginys: 'Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir 1424 m. parėmė jo žygius prieš totorius.'
   pagrindžia:
     - c-007
+<a id="claim-t-184439"></a>
 - t-007
+  global_id: t-184439
   teiginys: 'Popiežius Martynas V 1417 m. gegužės 13 d. paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai.'
   pagrindžia:
     - c-003
+<a id="claim-t-184440"></a>
 - t-008
+  global_id: t-184440
   teiginys: 'Vytautas ir Jogaila siekė iškelti Ordino bylą popiežiui Martynui V, kovodami prieš Breslavo sprendimą.'
   pagrindžia:
     - c-010
+<a id="claim-t-184441"></a>
 - t-009
+  global_id: t-184441
   teiginys: 'Popiežiui Martynui V Vytautas ir Jogaila pateikė bylą prieš Ordiną, kovodami prieš Breslavo sprendimą.'
   pagrindžia:
     - c-009
+<a id="claim-t-184443"></a>
 - t-011
+  global_id: t-184443
   teiginys: 'Popiežius Martynas V galutinai patvirtino Žemaičių vyskupiją.'
   pagrindžia:
     - c-008
+<a id="claim-t-184445"></a>
 - t-013
+  global_id: t-184445
   teiginys: 'Popiežius Martynas V 1421 m. rugsėjo 11 d. bule „Mirabilis Deus“ patvirtino savarankišką Žemaičių vyskupiją.'
   pagrindžia:
     - c-001
+<a id="claim-t-184446"></a>
 - t-014
+  global_id: t-184446
   teiginys: 'Nepadėjo šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis kišusis į lenkų ir lietuvių reikalus83; nei ištvermingas lenkų 83 Popiežius Martynas V 1428 m.'
   pagrindžia:
     - c-005
@@ -265,3 +289,5 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/ivykiai/Slaptos derybos dėl Lietuvos karalystės paskelbimo ir popiežiaus Martyno V priešinimasis]]
+- [[objektai/zodynas/atskala]]

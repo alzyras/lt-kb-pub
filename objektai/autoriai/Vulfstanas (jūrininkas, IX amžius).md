@@ -20,7 +20,9 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 
 ## Teiginiai
 
+<a id="claim-t-63357"></a>
 - t-001
+  global_id: t-63357
   teiginys: 'IX a. jūrininkas Vulfstanas, buvęs Prūsuose, smulkiai nupasakojo aisčių gyvenimo būdą ir papročius.'
   pagrindžia:
     - c-001

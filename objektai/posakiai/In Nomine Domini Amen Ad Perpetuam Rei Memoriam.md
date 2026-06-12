@@ -17,7 +17,9 @@ Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensi
 
 ## Teiginiai
 
+<a id="claim-t-86858"></a>
 - t-001
+  global_id: t-86858
   teiginys: 'Formulė „In Nomine Domini Amen. Ad Perpetuam Rei Memoriam“ lietuviškai pateikta kaip „Vardan Viešpaties Amen. Amžinai dalykų atminčiai“.'
   pagrindžia:
     - c-001

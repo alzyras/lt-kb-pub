@@ -27,12 +27,16 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
 
 ## Teiginiai
 
+<a id="claim-t-97288"></a>
 - t-001
+  global_id: t-97288
   teiginys: 'Žemės santykiais pagrįsta periodizacija Lietuvos istoriją skirsto pagal agrarinių santykių kaitą, o ne dinastinius ar tarpvalstybinius santykius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-97289"></a>
 - t-002
+  global_id: t-97289
   teiginys: 'Žemės santykiais pagrįsta periodizacija pagal Lietuvos ūkininko santykių su žeme kaitą išskiria šešias epochas.'
   pagrindžia:
     - c-001

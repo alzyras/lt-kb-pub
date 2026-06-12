@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86615"></a>
 - t-001
+  global_id: t-86615
   teiginys: '1586 m. liepos 11 d. Stepono Batoro reliaciniu sprendimu Vilniaus gyventojams įsakyta švęsti pagal naują kalendorių.'
   pagrindžia:
     - c-001

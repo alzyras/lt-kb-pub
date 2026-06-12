@@ -23,7 +23,9 @@ Nors Pograudos apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių
 
 ## Teiginiai
 
+<a id="claim-t-28246"></a>
 - t-001
+  global_id: t-28246
   teiginys: '1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkę, žudydamas ir imdamas žmones į nelaisvę.'
   pagrindžia:
     - c-001

@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59705"></a>
 - t-001
+  global_id: t-59705
   teiginys: 'Dusburgietis teigia, kad grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur, nekreipdamas dėmesio į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o kiti išbėgiojo palikę visus.'
   pagrindžia:
     - c-001

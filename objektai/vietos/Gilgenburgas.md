@@ -24,12 +24,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-177105"></a>
 - t-001
+  global_id: t-177105
   teiginys: 'Sąjungininkai paėmė Gilgenburgą ir žygiavo Tannenbergo kryptimi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184387"></a>
 - t-002
+  global_id: t-184387
   teiginys: '13) atvedęs savo pulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę Gilgenburgą, žygiavo Tannenbergo kryptimi.'
   pagrindžia:
     - c-002

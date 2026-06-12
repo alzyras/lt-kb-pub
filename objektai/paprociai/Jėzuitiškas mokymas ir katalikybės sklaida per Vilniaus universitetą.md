@@ -47,22 +47,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54244"></a>
 - t-001
+  global_id: t-54244
   teiginys: 'Jėzuitai Baroko epochos idėjas skleidė per Vilniaus universitetą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54245"></a>
 - t-002
+  global_id: t-54245
   teiginys: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54246"></a>
 - t-003
+  global_id: t-54246
   teiginys: 'Jėzuitai Baroko epochos idėjas Lietuvoje skleidė per Vilniaus universitetą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183311"></a>
 - t-004
+  global_id: t-183311
   teiginys: 'Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras.'
   pagrindžia:
     - c-003

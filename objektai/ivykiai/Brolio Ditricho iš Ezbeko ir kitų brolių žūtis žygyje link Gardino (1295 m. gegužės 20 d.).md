@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66504"></a>
 - t-001
+  global_id: t-66504
   teiginys: 'Dusburgietis teigia, kad apie brolio Ditricho iš Ezbeko, kitų trijų brolių, daugybės krikščionių bei netikėlių žūtį 1295 viešpaties metais, penktadienį prieš sekmines (gegužės 20), 5 broliai ir šimtas penkiasdešimt vyrų iš Sembos ir Notangos išjojo link Gardino pilies; kai priartėjo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66505"></a>
 - t-002
+  global_id: t-66505
   teiginys: 'Dusburgietis teigia, kad po to broliai nuplaukė beveik iki Junigedos pilies.'
   pagrindžia:
     - c-002

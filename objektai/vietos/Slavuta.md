@@ -16,12 +16,16 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
 
 ## Teiginiai
 
+<a id="claim-t-77319"></a>
 - t-001
+  global_id: t-77319
   teiginys: 'Slavuta buvo viena iš Voluinės vietovių, kuriose Sanguškos sukūrė savo tėvonijas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77320"></a>
 - t-002
+  global_id: t-77320
   teiginys: 'Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę Sanguškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai.'
   pagrindžia:
     - c-002

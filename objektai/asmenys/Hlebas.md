@@ -26,12 +26,16 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
 
 ## Teiginiai
 
+<a id="claim-t-30263"></a>
 - t-001
+  global_id: t-30263
   teiginys: 'Vytautas pasiuntė belaisvį Hlebą į Krokuvą, o po to užėmė Smolensko leną Viazmą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-30264"></a>
 - t-002
+  global_id: t-30264
   teiginys: 'Hlebas žuvo Vytauto pusėje prie Vorsklos kartu su kitais Riurikaičiais.'
   pagrindžia:
     - c-001

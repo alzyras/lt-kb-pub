@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Aleksandro raštiškas pasižadėjimas dėl Elenos tikėjimo
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai tarėsi dėl san tuokos, pats Ivanas kuo atkakliausiai pareikalavo iš Aleksandro raštiško pasižadėjimo, kad jo sužadėtinė liksianti rusų tikėjimo ir kad jis niekada jos neversiąs pereiti į Romos tikėjimą. Kojelavičius teigia, kad grįžtančius į Lie tuvą Aleksandro pasiuntinius palydėjo su rinktinių bajorų būriu keturi didikai, turėję, kol Elena neišlydėta iš Maskvos, užbaigti pagal Ivano nurodymus de rybas dėl vestuvių.
+Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėjimo, kad Elena liks rusų tikėjimo ir nebus verčiama pereiti į Romos tikėjimą. Aleksandro pasiuntinius į Lietuvą palydėjo keturi didikai, turėję pagal Ivano nurodymus užbaigti derybas dėl Elenos vestuvių.
 
 ## Teiginiai
 
+<a id="claim-t-186306"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai tarėsi dėl san tuokos, pats Ivanas kuo atkakliausiai pareikalavo iš Aleksandro raštiško pasižadėjimo, kad jo sužadėtinė liksianti rusų tikėjimo ir kad jis niekada jos neversiąs pereiti į Romos tikėjimą.'
+  global_id: t-186306
+  teiginys: 'Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėjimo, kad Elena liks rusų tikėjimo ir nebus verčiama pereiti į Romos tikėjimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186307"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad grįžtančius į Lie tuvą Aleksandro pasiuntinius palydėjo su rinktinių bajorų būriu keturi didikai, turėję, kol Elena neišlydėta iš Maskvos, užbaigti pagal Ivano nurodymus de rybas dėl vestuvių.'
+  global_id: t-186307
+  teiginys: 'Aleksandro pasiuntinius į Lietuvą palydėjo keturi didikai, turėję pagal Ivano nurodymus užbaigti derybas dėl Elenos vestuvių.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai tarėsi dėl san tuokos, pats Ivanas kuo atkakliausiai pareikalavo iš Aleksandro raštiško pasižadėjimo, kad jo sužadėtinė liksianti rusų tikėjimo ir kad jis niekada jos neversiąs pereiti į Romos tikėjimą.'
+  santrauka: 'Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėjimo, kad Elena liks rusų tikėjimo ir nebus verčiama pereiti į Romos tikėjimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     su
@@ -55,7 +58,7 @@ Kojelavičius teigia, kad kai tarėsi dėl san tuokos, pats Ivanas kuo atkakliau
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad grįžtančius į Lie tuvą Aleksandro pasiuntinius palydėjo su rinktinių bajorų būriu keturi didikai, turėję, kol Elena neišlydėta iš Maskvos, užbaigti pagal Ivano nurodymus de rybas dėl vestuvių.'
+  santrauka: 'Aleksandro pasiuntinius į Lietuvą palydėjo keturi didikai, turėję pagal Ivano nurodymus užbaigti derybas dėl Elenos vestuvių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Grįžtančius į Lie­

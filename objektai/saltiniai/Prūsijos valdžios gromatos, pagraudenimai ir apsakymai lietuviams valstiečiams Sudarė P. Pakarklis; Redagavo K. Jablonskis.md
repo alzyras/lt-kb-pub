@@ -22,7 +22,9 @@ Dusburgietis teigia, kad prūsijos valdžios gromatos, pagraudenimai ir apsakyma
 
 ## Teiginiai
 
+<a id="claim-t-61263"></a>
 - t-001
+  global_id: t-61263
   teiginys: 'Rinkinį „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“ sudarė P. Pakarklis, redagavo K. Jablonskis.'
   pagrindžia:
     - c-001

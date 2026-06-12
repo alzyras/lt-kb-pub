@@ -27,7 +27,9 @@ Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšte
 
 ## Teiginiai
 
+<a id="claim-t-60293"></a>
 - t-001
+  global_id: t-60293
   teiginys: 'Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšteino, tikri broliai, pasitelkę brolių bei ginklanešių, sugriovė šią pilaitę, o visą įgulą išžudė arba paėmė į nelaisvę.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Tačiau ir tos sutar­ ties, kaip ir visų kitų, galia parėjo ne nuo pergament
 
 ## Teiginiai
 
+<a id="claim-t-35999"></a>
 - t-001
+  global_id: t-35999
   teiginys: 'Ostrovos akto galia priklausė ne nuo pergamento, o nuo faktinių jėgų santykių ir diplomatinių sugebėjimų.'
   pagrindžia:
     - c-001

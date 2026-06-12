@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-26482"></a>
 - t-001
+  global_id: t-26482
   teiginys: '1940 m. liepos 6 d. A. Sniečkus išleido įsakymą, leidusį suimti agituojančiuosius prieš Liaudies vyriausybę.'
   pagrindžia:
     - c-001

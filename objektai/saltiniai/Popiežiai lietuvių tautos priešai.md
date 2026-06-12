@@ -26,12 +26,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-97272"></a>
 - t-001
+  global_id: t-97272
   teiginys: 'Knyga „Popiežiai lietuvių tautos priešai“ citatoje apibūdinta kaip vienašališkai poleminė ir datuota 1948 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97273"></a>
 - t-002
+  global_id: t-97273
   teiginys: 'Knyga „Popiežiai lietuvių tautos priešai“ išleista 1948 m. ir Ivinskio apibūdinta kaip vienašališkai poleminė.'
   pagrindžia:
     - c-001

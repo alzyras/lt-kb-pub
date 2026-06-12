@@ -28,7 +28,9 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
 
 ## Teiginiai
 
+<a id="claim-t-60924"></a>
 - t-001
+  global_id: t-60924
   teiginys: 'Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340).'
   pagrindžia:
     - c-001

@@ -55,22 +55,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59725"></a>
 - t-001
+  global_id: t-59725
   teiginys: 'Sembų ir lietuvių bendri karo veiksmai siejami su Ordinui priklausiusios Klaipėdos pilies apgultimi XIII a. šeštajame dešimtmetyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59726"></a>
 - t-002
+  global_id: t-59726
   teiginys: 'Dusburgietis teigia, kad netikėtas Mindaugo žuvimas, netvirta padėtis Lietuvos viduje, sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-59727"></a>
 - t-003
+  global_id: t-59727
   teiginys: 'Dusburgietis teigia, kad rado prieglobstį Lietuvos valstybės teritorijoje (III, 179, 191, 211, 217, 219, 223) ir toliau dalyvavo bendroje kovoje prieš Ordino ir Aukso ordos agresiją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59728"></a>
 - t-004
+  global_id: t-59728
   teiginys: 'Dusburgietis teigia, kad lietuvos ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną.'
   pagrindžia:
     - c-003

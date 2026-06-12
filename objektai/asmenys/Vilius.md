@@ -19,7 +19,9 @@ Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių
 
 ## Teiginiai
 
+<a id="claim-t-87933"></a>
 - t-001
+  global_id: t-87933
   teiginys: 'Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo vado Viliaus, kuris juos iš Italijos atvedęs0.'
   pagrindžia:
     - c-001

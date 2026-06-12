@@ -23,12 +23,16 @@ Isaakas ben Abrahamas iš Trakų pristatomas kaip iš LDK karaimų bendruomenės
 
 ## Teiginiai
 
+<a id="claim-t-23196"></a>
 - t-001
+  global_id: t-23196
   teiginys: 'Isaakas ben Abrahamas iš Trakų kilo iš LDK karaimų bendruomenės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23197"></a>
 - t-002
+  global_id: t-23197
   teiginys: 'Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės ir gyveno 1525–1586 m.'
   pagrindžia:
     - c-001

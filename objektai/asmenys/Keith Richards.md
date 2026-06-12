@@ -16,7 +16,9 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 
 ## Teiginiai
 
+<a id="claim-t-19063"></a>
 - t-001
+  global_id: t-19063
   teiginys: 'Keith Richards grojo Tony’o Zemaicio sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.'
   pagrindžia:
     - c-001

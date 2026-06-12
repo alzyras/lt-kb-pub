@@ -17,7 +17,9 @@ Tai reiškia: „Žemaitijos žemė yra ir visada bu­ vo vienas ir tas pats, ka
 
 ## Teiginiai
 
+<a id="claim-t-86574"></a>
 - t-001
+  global_id: t-86574
   teiginys: 'Szomoyth aiškinta kaip žemesnė žemė, o Auxtote – kaip aukštesnė žemė, palyginti su Žemaitija.'
   pagrindžia:
     - c-001

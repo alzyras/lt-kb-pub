@@ -28,20 +28,24 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 
 ## Teiginiai
 
+<a id="claim-t-182067"></a>
 - t-001
+  global_id: t-182067
   teiginys: 'Nuo «nebylių seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos, kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182996"></a>
 - t-002
-  teiginys: 'Prie jų dar prisidėjo Austrijos Juozapas II.'
+  global_id: t-182996
+  teiginys: 'Austrijos Juozapas II vykdė reformas, kuriomis net Bažnyčią pajungė valstybės valdžiai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Prie jų dar prisidėjo Austrijos Juozapas II.'
+  santrauka: 'Austrijos Juozapas II vykdė reformas, kuriomis net Bažnyčią pajungė valstybės valdžiai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Prie jų dar prisidėjo Austrijos Juozapas II. Susižavėjęs švie-

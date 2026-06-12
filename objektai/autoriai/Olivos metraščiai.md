@@ -17,7 +17,9 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
 
 ## Teiginiai
 
+<a id="claim-t-88077"></a>
 - t-001
+  global_id: t-88077
   teiginys: 'Olivos metraščiai rašo, kad Gediminą prie pilies aptvaro pataikė kario Marijano iš bombardos paleistas šūvis.'
   pagrindžia:
     - c-001

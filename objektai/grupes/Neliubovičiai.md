@@ -24,7 +24,9 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
 
 ## Teiginiai
 
+<a id="claim-t-86814"></a>
 - t-001
+  global_id: t-86814
   teiginys: 'Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.'
   pagrindžia:
     - c-001

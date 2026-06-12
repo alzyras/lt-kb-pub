@@ -27,17 +27,23 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87436"></a>
 - t-001
+  global_id: t-87436
   teiginys: 'Kazimieras IV, mėgęs medžioti, Rūdninkuose pasirinko medžioklės buveinę ir pasistatydino dvarą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87437"></a>
 - t-002
+  global_id: t-87437
   teiginys: 'Kazimieras IV 1440 metais suteikė Vilniaus miestiečiams privilegiją laisvai prekiauti Lietuvos valstybėje be muito.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87438"></a>
 - t-003
+  global_id: t-87438
   teiginys: 'Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo.'
   pagrindžia:
     - c-001

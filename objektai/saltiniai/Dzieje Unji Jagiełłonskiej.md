@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-34943"></a>
 - t-001
+  global_id: t-34943
   teiginys: 'Oskaro Haleckio veikalas Dzieje Unji Jagiełłonskiej pirmu tomu išleistas Krokuvoje 1919 m.'
   pagrindžia:
     - c-001

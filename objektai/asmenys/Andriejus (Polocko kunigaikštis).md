@@ -19,7 +19,9 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
 
 ## Teiginiai
 
+<a id="claim-t-35024"></a>
 - t-001
+  global_id: t-35024
   teiginys: 'Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga.'
   pagrindžia:
     - c-001

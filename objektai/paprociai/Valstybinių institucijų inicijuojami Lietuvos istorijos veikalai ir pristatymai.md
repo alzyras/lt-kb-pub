@@ -44,27 +44,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54362"></a>
 - t-001
+  global_id: t-54362
   teiginys: 'Lietuvos Respublikos švietimo ministerijos iniciatyva lietuvių istorikų grupė parašė ir išleido plačios apimties Lietuvos istoriją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-54363"></a>
 - t-002
+  global_id: t-54363
   teiginys: '1990 m. nepriklausomybę atkūrusi ir 2004 m. NATO bei ES nare tapusi Lietuva 2013 m. rengėsi pirmininkauti Europos Sąjungai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54364"></a>
 - t-003
+  global_id: t-54364
   teiginys: 'Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos užsienio reikalų ministerija inicijavo specialų Lietuvos skyrių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54365"></a>
 - t-004
+  global_id: t-54365
   teiginys: 'Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos užsienio reikalų ministerija inicijavo ir parengė specialų Lietuvos skyrių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183336"></a>
 - t-005
+  global_id: t-183336
   teiginys: 'Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūžiniais valstybės raidos etapais ir išskirtinėmis progomis.'
   pagrindžia:
     - c-003

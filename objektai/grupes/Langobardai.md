@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Langobardai
 
 ## Santrauka
 
-Kojelavičius teigia, kad apie tuos pačius metus langobardai, vedami Albojino, iškeliavo iš Panonijos ir, pasi kvietę dalytis grobiu įvai- 559 m e ta i rias sarmatų tauteles, tarp jų gepidus (kurie, pasak Prokopijaus, dalyvavo visuose herulų žygiuose), įsi veržė su didžiule kariuomene. Kojelavičius teigia, kad 703 m e ta i Galų nugalėti langobardai su darė su romėnais palankią taiką.
+Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele kariuomene įsiveržė į Italiją. 703 m. galų nugalėti langobardai sudarė su romėnais palankią taiką.
 
 ## Teiginiai
 
+<a id="claim-t-185424"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad apie tuos pačius metus langobardai, vedami Albojino, iškeliavo iš Panonijos ir, pasi kvietę dalytis grobiu įvai- 559 m e ta i rias sarmatų tauteles, tarp jų gepidus (kurie, pasak Prokopijaus, dalyvavo visuose herulų žygiuose), įsi veržė su didžiule kariuomene.'
+  global_id: t-185424
+  teiginys: 'Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele kariuomene įsiveržė į Italiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185425"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad 703 m e ta i Galų nugalėti langobardai su darė su romėnais palankią taiką.'
+  global_id: t-185425
+  teiginys: '703 m. galų nugalėti langobardai sudarė su romėnais palankią taiką.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad apie tuos pačius metus langobardai, vedami Albojino, iškeliavo iš Panonijos ir, pasi kvietę dalytis grobiu įvai- 559 m e ta i rias sarmatų tauteles, tarp jų gepidus (kurie, pasak Prokopijaus, dalyvavo visuose herulų žygiuose), įsi veržė su didžiule kariuomene.'
+  santrauka: 'Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele kariuomene įsiveržė į Italiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atgavęs Italiją, jis, mi­
@@ -57,7 +60,7 @@ Kojelavičius teigia, kad apie tuos pačius metus langobardai, vedami Albojino, 
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad 703 m e ta i Galų nugalėti langobardai su darė su romėnais palankią taiką.'
+  santrauka: '703 m. galų nugalėti langobardai sudarė su romėnais palankią taiką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi per tai Romos bažnyčios valdoms buvo
@@ -79,3 +82,20 @@ Kojelavičius teigia, kad apie tuos pačius metus langobardai, vedami Albojino, 
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Gepidai]]
+- [[objektai/grupes/Herulai]]
+- [[objektai/asmenys/Pipinas]]
+- [[objektai/grupes/Romėnai]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/ivykiai/Langobardų įsiveržimas į Italiją (559 m.)]]
+- [[objektai/asmenys/Odoakras]]
+- [[objektai/asmenys/Orestas]]
+- [[objektai/asmenys/Palemonas]]
+- [[objektai/ivykiai/Palemono išrinkimas Lietuvos valdovu A. Kojelavičiaus pasakojime]]
+- [[objektai/autoriai/Prokopijus]]
+- [[objektai/paprociai/Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje]]
+- [[objektai/ivykiai/Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.)]]

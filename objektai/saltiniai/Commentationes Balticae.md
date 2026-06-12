@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-29799"></a>
 - t-001
+  global_id: t-29799
   teiginys: 'Baltų Tyrimo Institutas 1953–1967 m. Bonnoje išleido 13 Commentationes Balticae tomų.'
   pagrindžia:
     - c-001

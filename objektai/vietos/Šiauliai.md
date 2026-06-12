@@ -27,22 +27,30 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 
 ## Teiginiai
 
+<a id="claim-t-182783"></a>
 - t-001
+  global_id: t-182783
   teiginys: 'Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182785"></a>
 - t-002
+  global_id: t-182785
   teiginys: 'Pirmoji kovų fazė: Vilniaus išvadavimas 1794 m. balandžio 16 d. Šiauliuose ir jo apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada (ankščiau vadinta Kauno husarų).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182786"></a>
 - t-003
+  global_id: t-182786
   teiginys: 'Šiaulių žemėje pagrindinė strateginė kelių sankryža yra Šiauliuose (ties dab.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183111"></a>
 - t-004
+  global_id: t-183111
   teiginys: 'Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai.'
   pagrindžia:
     - c-004

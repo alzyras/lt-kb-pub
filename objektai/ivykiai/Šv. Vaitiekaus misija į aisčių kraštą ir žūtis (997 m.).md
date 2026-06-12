@@ -42,22 +42,30 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
 
 ## Teiginiai
 
+<a id="claim-t-07570"></a>
 - t-001
+  global_id: t-07570
   teiginys: '997 m. balandžio 23 d. vietiniai gyventojai nužudė Vaitiekų šventajame miške.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-07571"></a>
 - t-002
+  global_id: t-07571
   teiginys: 'Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko iš Lenkijos į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-07572"></a>
 - t-003
+  global_id: t-07572
   teiginys: 'Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-07573"></a>
 - t-004
+  global_id: t-07573
   teiginys: 'Po žūties aisčių krašte vyskupas Vaitiekus buvo paskelbtas šventuoju ir krikščionybės kankiniu.'
   pagrindžia:
     - c-003

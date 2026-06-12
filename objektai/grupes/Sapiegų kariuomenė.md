@@ -17,17 +17,23 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
 
 ## Teiginiai
 
+<a id="claim-t-78446"></a>
 - t-001
+  global_id: t-78446
   teiginys: 'Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu su visa likusia kariuomene respublikonams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78447"></a>
 - t-002
+  global_id: t-78447
   teiginys: 'M. P. Sapiega pasidavė respublikonams kartu su visa likusia Sapiegų kariuomene.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78448"></a>
 - t-003
+  global_id: t-78448
   teiginys: 'Sapiegų kariuomenės dalies gynyba sutrukdė respublikonams persekioti besitraukiančius Sapiegų giminės senjorus.'
   pagrindžia:
     - c-001

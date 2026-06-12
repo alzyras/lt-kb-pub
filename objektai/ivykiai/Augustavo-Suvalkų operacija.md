@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-41246"></a>
 - t-001
+  global_id: t-41246
   teiginys: 'Per visą Augustavo-Suvalkų operaciją Lietuvos pajėgos nukautaisiais, sužeistaisiais ir patekusiais į nelaisvę prarado daugiau nei 2 000 karių.'
   pagrindžia:
     - c-001

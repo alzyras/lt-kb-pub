@@ -25,7 +25,9 @@ Reikšminga jo privilegija, 1441 metais išleista Bras­ toje, prikėlė Vilniui
 
 ## Teiginiai
 
+<a id="claim-t-86610"></a>
 - t-001
+  global_id: t-86610
   teiginys: 'Kazimiero 1441 m. Brastoje išleista privilegija nustatė Vilniui du didžiuosius prekymečius ir savaitinius turgus.'
   pagrindžia:
     - c-001

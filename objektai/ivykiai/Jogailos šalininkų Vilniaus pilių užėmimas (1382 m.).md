@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86912"></a>
 - t-001
+  global_id: t-86912
   teiginys: 'Jogailos šalininkai Vilniuje naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86913"></a>
 - t-002
+  global_id: t-86913
   teiginys: 'Vilniaus pilininkas ir miestiečiai naktį sumušė Kęstučio įgulą ir abi Vilniaus pilis atidavė Jogailai.'
   pagrindžia:
     - c-002

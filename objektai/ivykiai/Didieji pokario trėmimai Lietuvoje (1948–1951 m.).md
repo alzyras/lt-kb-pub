@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20177"></a>
 - t-001
+  global_id: t-20177
   teiginys: 'Slopinant ginkluotą pasipriešinimą 1948 m. gegužę buvo ištremti 40 002, 1949 m. – 33 500, o 1951 m. – 20 357 Lietuvos gyventojai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183220"></a>
 - t-002
+  global_id: t-183220
   teiginys: 'Dislokuotos Lietuvoje NKVD divizijos vykdė baudžiamąsias operacijas: vien 1944 m. liepą–gruodį okupantų teroro aktais nužudyti 2 489 žmonės, apie 100 tūkst.'
   pagrindžia:
     - c-001

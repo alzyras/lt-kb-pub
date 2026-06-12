@@ -17,15 +17,33 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
 
 ## Teiginiai
 
+<a id="claim-t-65967"></a>
 - t-001
+  global_id: t-65967
   teiginys: 'Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-65968"></a>
 - t-002
+  global_id: t-65968
   teiginys: 'Pacai, bijodami jo kandidatūros, buvo pradėję prieš jį veikti dar tarpuvaldžio pradžioje.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-182914"></a>
+- t-003
+  global_id: t-182914
+  teiginys: 'Pacai iškilo prieš Sapiegas ir vadovavo Lietuvoje Jonui Kazimierui atsisakant sosto.'
+  pagrindžia:
+    - c-002
+
+<a id="claim-t-182915"></a>
+- t-004
+  global_id: t-182915
+  teiginys: 'Tarpuvaldžio pradžioje Pacai veikė prieš Lenkijos gynėjo nuo turkų kandidatūrą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -71,7 +89,7 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
     - t-001
 
 - c-003
-  santrauka: 'Pacai, bijodami jo kandidatūros, buvo pradėję prieš jį veikti dar tarpuvaldžio pradžioje.'
+  santrauka: 'Tarpuvaldžio pradžioje Pacai veikė prieš Lenkijos gynėjo nuo turkų kandidatūrą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Išgar-
@@ -114,5 +132,4 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
 - [[objektai/asmenys/Nikolajus Arsenjevas]]
 - [[objektai/ivykiai/Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)]]
 - [[objektai/zodynas/elektorius]]
-- [[objektai/grupes/Sapiegos]]
 - [[objektai/grupes/Bajorų konfederacija]]

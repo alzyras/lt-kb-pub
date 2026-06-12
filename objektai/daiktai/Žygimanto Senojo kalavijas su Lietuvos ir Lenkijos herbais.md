@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40815"></a>
 - t-001
+  global_id: t-40815
   teiginys: 'Žygimanto Senojo kalavijas buvo puoštas Lietuvos ir Lenkijos herbais.'
   pagrindžia:
     - c-001

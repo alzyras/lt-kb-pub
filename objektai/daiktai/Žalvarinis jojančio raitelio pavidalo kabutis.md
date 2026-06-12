@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40812"></a>
 - t-001
+  global_id: t-40812
   teiginys: 'Žalvarinis jojančio raitelio pavidalo kabutis datuojamas XI-XII a. ir siejamas su Didvyčiais.'
   pagrindžia:
     - c-001

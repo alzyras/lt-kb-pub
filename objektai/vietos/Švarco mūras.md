@@ -23,7 +23,9 @@ Juraha taip pat prie kole­ gijos pastarąją priskyrė, o kolegijos namą, vadi
 
 ## Teiginiai
 
+<a id="claim-t-86132"></a>
 - t-001
+  global_id: t-86132
   teiginys: '1756 m. Akademijos rektorius tėvas Juraha Švarco vardu vadintą kolegijos namą perleido Valerijono bursai.'
   pagrindžia:
     - c-001

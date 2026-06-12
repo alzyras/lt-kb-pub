@@ -16,7 +16,9 @@ Niendorf M.
 
 ## Teiginiai
 
+<a id="claim-t-19458"></a>
 - t-001
+  global_id: t-19458
   teiginys: 'M. Niendorfas siejamas su veikalu „Das Großfürstentum Litauen“ apie Lietuvos Didžiąją Kunigaikštystę ankstyvaisiais naujaisiais laikais.'
   pagrindžia:
     - c-001

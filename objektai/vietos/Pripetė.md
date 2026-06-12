@@ -26,18 +26,31 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
 
 ## Teiginiai
 
+<a id="claim-t-180490"></a>
 - t-001
+  global_id: t-180490
   teiginys: 'Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką Piną su Bugo intaku Muchavcu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183082"></a>
+- t-002
+  global_id: t-183082
+  teiginys: 'Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo intaku Muchavcu, sudarė kelią Dniepru ir Vysla.'
+  pagrindžia:
+    - c-002
+
+<a id="claim-t-185100"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad pripetės žiotyse įrengęs ka ro stovyklą, jis išsiuntė galybę būrių krašto niokoti.'
+  global_id: t-185100
+  teiginys: 'Kaidanas Pripetės žiotyse įrengė karo stovyklą ir išsiuntė būrius niokoti krašto.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185101"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad galop nugalėję lietuviai išvijo barbarus iš stovyklos: galybė priešų krito mūšyje, kur kas dau giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri gėrusių Dnepro ir Pripetės duburiuose.'
+  global_id: t-185101
+  teiginys: 'Lietuviams laimėjus mūšį, daug priešų žuvo bėgdami Dnepro ir Pripetės duburiuose.'
   pagrindžia:
     - c-004
 
@@ -59,7 +72,7 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
     - t-001
 
 - c-002
-  santrauka: 'Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką Piną su Bugo intaku Muchavcu.'
+  santrauka: 'Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo intaku Muchavcu, sudarė kelią Dniepru ir Vysla.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jį iškasė savo lėšomis hetmonas
@@ -76,7 +89,7 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad pripetės žiotyse įrengęs ka ro stovyklą, jis išsiuntė galybę būrių krašto niokoti.'
+  santrauka: 'Kaidanas Pripetės žiotyse įrengė karo stovyklą ir išsiuntė būrius niokoti krašto.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Valdingai pasi-
@@ -93,7 +106,7 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad galop nugalėję lietuviai išvijo barbarus iš stovyklos: galybė priešų krito mūšyje, kur kas dau giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri gėrusių Dnepro ir Pripetės duburiuose.'
+  santrauka: 'Lietuviams laimėjus mūšį, daug priešų žuvo bėgdami Dnepro ir Pripetės duburiuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tiesa, kai buvę toliau

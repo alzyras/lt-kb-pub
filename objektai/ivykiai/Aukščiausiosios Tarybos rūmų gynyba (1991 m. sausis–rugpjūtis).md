@@ -40,67 +40,93 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-171452"></a>
 - t-001
+  global_id: t-171452
   teiginys: 'Sausio 11-13 d. priesaika sudarė teisinį pagrindą Lietuvos piliečiui ginti savo valstybę ginklu, o gynyboje dalyvavo kariai savanoriai, KAD darbuotojai, pasieniečiai, apsaugos pareigūnai ir šauliai.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-171453"></a>
 - t-002
+  global_id: t-171453
   teiginys: 'Karinės inžinerijos prasme Aukščiausiosios Tarybos rūmų gynybą sudarė rūmų vidaus, išorinio perimetro ir tolimųjų prieigų žiedai.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-171454"></a>
 - t-003
+  global_id: t-171454
   teiginys: 'Gynyba buvo grindžiama trimis principais, o politinė vadovybė laikėsi nuostatos nepasiduoti, bet ir neperžengti paskutinės ribos be būtinybės.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-171455"></a>
 - t-004
+  global_id: t-171455
   teiginys: 'Pirmosiomis sausio dienomis gynėjai buvo išdėstyti ginti rūmus, jų išorinį perimetrą ir atakuoti sovietų pajėgas iš nugaros.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-171457"></a>
 - t-005
+  global_id: t-171457
   teiginys: 'Sausio 13-osios naktį žuvo 14 laisvės gynėjų, netoli tūkstančio buvo sužeisti, o Parlamento užpuolikai nebepuolė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-171458"></a>
 - t-006
+  global_id: t-171458
   teiginys: '1991 m. sausio 11–12 d. Aukščiausiosios Tarybos rūmų viduje spygliuota viela apraizgyti praėjimai ir ventiliacinės angos, o pirmasis aukštas sutvirtintas smėlio maišais bei armatūros tinklais.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-171459"></a>
 - t-007
+  global_id: t-171459
   teiginys: 'Pirmosiomis savaitėmis po kruvinosios nakties buvo įrengtos smėlio, akmenų ir gelžbetonio barikados, o gynyba buvo planingai stiprinama.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-171460"></a>
 - t-008
+  global_id: t-171460
   teiginys: 'Šimėno dingimas - tai proimperiniy jėgų darbo rezultatas, nes jį om Parlamento gynybos principai Galima išskirti tris principus: 1) sovietų agresijos fiksavimas ir informacijos sklaida Lietuvoje bei užsienyje, 2) gynyba kariniais metodais, 3) pilietinio.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-171461"></a>
 - t-009
+  global_id: t-171461
   teiginys: 'Artėjant 1991 m. rugpjūčio Maskvos pučui, Lietuvos kariai jau turėjo pirmąsias uniformas, o AT gynyba buvo geriau organizuota.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-171462"></a>
 - t-010
+  global_id: t-171462
   teiginys: '1991 m. sausio 13-osios naktį užpuolimas buvo įvardytas kaip karinė agresija ir svetimos jėgos primestas karo stovis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-171463"></a>
 - t-011
+  global_id: t-171463
   teiginys: '1991 m. sausio 11–13 d. Aukščiausiosios Tarybos rūmuose duota Lietuvos kario savanorio priesaika tapo teisiniu pagrindu piliečiui ginklu ginti valstybę.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-171464"></a>
 - t-012
+  global_id: t-171464
   teiginys: 'Pirmomis sausio įvykių dienomis tik mažesnioji gynėjų dalis turėjo aiškesnę uzduotį - pagal galimybes ginti AT rūmus ir jų išorinį perimetrą, siekiant užfiksuoti patį pasipriešinimo faktą, o daliai ginkluotų gynėjų AT šturmo metu atakuoti šturmuojančias.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-171465"></a>
 - t-013
+  global_id: t-171465
   teiginys: 'Karinės inžinerijos prasme rūmų gynyba buvo sudaryta iš trijų žiedų: rūmų vidaus, išorinio perimetro, tolimųjų rūmų prieigų.'
   pagrindžia:
     - c-008

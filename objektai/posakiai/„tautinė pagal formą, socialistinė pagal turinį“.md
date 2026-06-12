@@ -17,22 +17,30 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
 
 ## Teiginiai
 
+<a id="claim-t-26655"></a>
 - t-001
+  global_id: t-26655
   teiginys: 'Kultūra Lietuvoje plėtota pagal sovietų principą „tautinė pagal formą, socialistinė pagal turinį“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-26907"></a>
 - t-002
+  global_id: t-26907
   teiginys: 'Formulė iliustruojama tautiniais drabužiais vilkinčiais choristais, dainavusiais apie V. Leniną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75622"></a>
 - t-003
+  global_id: t-75622
   teiginys: 'Ilgainiui, ypač Dainų šventėse, privaloma socialistinė programa liko apvalkalu, o kita dalis buvo skirta lietuviškai dainai ar šokiui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75623"></a>
 - t-004
+  global_id: t-75623
   teiginys: 'Pagal principą „tautinė pagal formą, socialistinė pagal turinį“ choristai tautiniais drabužiais dainavo apie V. Leniną.'
   pagrindžia:
     - c-001

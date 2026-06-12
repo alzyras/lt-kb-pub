@@ -16,24 +16,25 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Stanislovas Hozijus
 
 ## Santrauka
 
-Kojelavičius teigia, kad šiame Varmijos mieste kardinolas Stanislovas Hozijus 1568 m. buvo įsteigęs kolegiją, ne trukus pasidariusią svarbia jėzuitų atrama.
+Stanislovas Hozijus 1568 m. Braunsberge įsteigė kolegiją, netrukus tapusią svarbia jėzuitų atrama.
 
 ## Teiginiai
 
+<a id="claim-t-186254"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad šiame Varmijos mieste kardinolas Stanislovas Hozijus 1568 m. buvo įsteigęs kolegiją, ne trukus pasidariusią svarbia jėzuitų atrama.'
+  global_id: t-186254
+  teiginys: 'Stanislovas Hozijus 1568 m. Braunsberge įsteigė kolegiją, netrukus tapusią svarbia jėzuitų atrama.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad šiame Varmijos mieste kardinolas Stanislovas Hozijus 1568 m. buvo įsteigęs kolegiją, ne trukus pasidariusią svarbia jėzuitų atrama.'
+  santrauka: 'Stanislovas Hozijus 1568 m. Braunsberge įsteigė kolegiją, netrukus tapusią svarbia jėzuitų atrama.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     1644 m. A. Kojelavičius siunčiamas į Braunsbergą

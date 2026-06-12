@@ -23,7 +23,9 @@ Vartojamos formos: `sutartiniais`, `sutartines`, `sutartinėmis`.
 
 ## Teiginiai
 
+<a id="claim-t-07663"></a>
 - t-001
+  global_id: t-07663
   teiginys: 'Sutartinės vadintos dainomis, kurias sueigose dainuodavo atlieptinai.'
   pagrindžia:
     - c-001

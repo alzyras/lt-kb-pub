@@ -17,27 +17,37 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-84715"></a>
 - t-001
+  global_id: t-84715
   teiginys: 'Raseinių ir Ariogalos apylinkės laikytos svarbiomis pagonims, nes čia stovėjo Romuva su Perkūno šventykla ir Krivių Krivaičio buveine.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-84716"></a>
 - t-002
+  global_id: t-84716
   teiginys: 'Romuva šaltiniuose minima kaip Nadruvoje esanti šventykla su kriviu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-84717"></a>
 - t-003
+  global_id: t-84717
   teiginys: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-84718"></a>
 - t-004
+  global_id: t-84718
   teiginys: 'Romuva minima kaip Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-183626"></a>
 - t-005
+  global_id: t-183626
   teiginys: 'Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.'
   pagrindžia:
     - c-005

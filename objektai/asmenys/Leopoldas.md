@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Leopoldas
 
 ## Santrauka
 
-Kojelavičius teigia, kad mat Aust rijos kunigaikštis Leopoldas tuo metu atvedė į Prūsiją didžiulę kariuomenę; šių jė gų remiami kryžiuočiai už puolė Žemaitiją ir, padaliję pulkus keturiomis žygio vo romis, nusiaubė visą kraštą.
+Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, kurios remiami kryžiuočiai nusiaubė Žemaitiją.
 
 ## Teiginiai
 
+<a id="claim-t-186232"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mat Aust rijos kunigaikštis Leopoldas tuo metu atvedė į Prūsiją didžiulę kariuomenę; šių jė gų remiami kryžiuočiai už puolė Žemaitiją ir, padaliję pulkus keturiomis žygio vo romis, nusiaubė visą kraštą.'
+  global_id: t-186232
+  teiginys: 'Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, kurios remiami kryžiuočiai nusiaubė Žemaitiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mat Aust rijos kunigaikštis Leopoldas tuo metu atvedė į Prūsiją didžiulę kariuomenę; šių jė gų remiami kryžiuočiai už puolė Žemaitiją ir, padaliję pulkus keturiomis žygio vo romis, nusiaubė visą kraštą.'
+  santrauka: 'Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, kurios remiami kryžiuočiai nusiaubė Žemaitiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kęstutis, sugrįžęs į Lietuvą, kur paėmė į
@@ -54,3 +55,12 @@ Kojelavičius teigia, kad mat Aust rijos kunigaikštis Leopoldas tuo metu atved�
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/vaidilutė]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Birutė]]
+- [[objektai/ivykiai/Kryžiuočių žygis į Žemaitiją su Leopoldo parama ir Kęstučio atsakomasis antpuolis]]

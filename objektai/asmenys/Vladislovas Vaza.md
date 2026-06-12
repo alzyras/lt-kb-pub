@@ -29,47 +29,65 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 
 ## Teiginiai
 
+<a id="claim-t-79221"></a>
 - t-001
+  global_id: t-79221
   teiginys: 'Vladislovas Vaza buvo bendrai išrinktas lietuvių ir lenkų.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-79222"></a>
 - t-002
+  global_id: t-79222
   teiginys: 'Kiek mažiau jų buvo tik Vladislovo laikais, bet Jono Kazimiero laikais visa Lietuva buvo nuteriota Maskvos ir Švedų kariuomenių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-79223"></a>
 - t-003
+  global_id: t-79223
   teiginys: 'Dalis Rusijos bojarinų naujuoju caru išrinko Zigmanto Vazos sūnų Vladislovą.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-79225"></a>
 - t-004
+  global_id: t-79225
   teiginys: 'Rugsėjį į frontą atvyko ir naujasis Abiejų Tautų Respublikos valdovas Vladislovas Vaza su 15 tūkst.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-79226"></a>
 - t-005
+  global_id: t-79226
   teiginys: '1626-1629 m. Lietuvos ir Lenkijos kariuomenėms teko patirti naujosios Švedijos kariuomenės jėgą vėl suintensyvėjusiame kare, po kurio, ATR valdovas Vladislovas Vaza 1632 m. ėmė reformuoti Lietuvos ir Lenkijos kariuomenes, siekdamas didinti ugnies galią.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-79227"></a>
 - t-006
+  global_id: t-79227
   teiginys: 'ATR valdovo Vladislovo Vazos vadovaujama jungtinė lietuvių ir lenkų kariuomenė po atkaklių susirėmimų nustūmė rusus nuo miesto, apsupo sumenkusias priešo pajėgas ir 1634 m. sausio 24 d. privertė kapituliuoti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79228"></a>
 - t-007
+  global_id: t-79228
   teiginys: 'Vladislovo asmuo ir elekcija 315.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79229"></a>
 - t-008
+  global_id: t-79229
   teiginys: 'Vladislovo Vazoslaikai (1632—1648 m.).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79230"></a>
 - t-009
+  global_id: t-79230
   teiginys: 'Nuo Vladislovo Vazos lietuviai XVII a. ėmė rinkti karalius bendrai su lenkais, todėl atskiri Lietuvos seimai nyko.'
   pagrindžia:
     - c-004

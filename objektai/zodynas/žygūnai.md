@@ -7,11 +7,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - drabužis
   - kunigaikštis
   - sąvoka
 ---
-
 # žygūnai
 
 ## Santrauka
@@ -20,23 +18,31 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
 
 ## Teiginiai
 
+<a id="claim-t-58933"></a>
 - t-001
+  global_id: t-58933
   teiginys: 'Prūsai siųsdavo žygūnus pas Lenkijos kunigaikštį reikalauti žirgų ir ryškiaspalvių drabužių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184652"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad u 5 Išleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil kui nuodugniai papasakoti apie diduomenės bei tau tos prielankumą ir pakviesti jį perimti tėvo paliktos valdžios.'
+  global_id: t-184652
+  teiginys: 'Į Pinską buvo išsiųsti žygūnai pakviesti vienuolį Vaišvilką perimti tėvo paliktos valdžios.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184653"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad jedlnioje sukvietė lenkų seimą, kuris nu tarė, jog reikia pastatyti ginkluotas saugas visuose ke liuose Lenkijos pasienyje ir uoliai žiūrėti, kad ir impera toriaus, ir Vytauto žygūnai negalėtų prasmukti nei į vie ną, nei į kitą pusę.'
+  global_id: t-184653
+  teiginys: 'Jedlnios seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai negalėtų prasmukti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184654"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad vos k araliu s šitai sužinojo, b em at išsiuntė kuo skubiausiai žygūnus, kurie išvykstantiems tu rė jo pranešti, jog storžievis už neapdairumą nubaus tas mirtimi.'
+  global_id: t-184654
+  teiginys: 'Karalius skubiai išsiuntė žygūnus pranešti išvykstantiems kunigaikščiams apie durininko nubaudimą mirtimi.'
   pagrindžia:
     - c-004
 
@@ -62,7 +68,7 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad u 5 Išleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil kui nuodugniai papasakoti apie diduomenės bei tau tos prielankumą ir pakviesti jį perimti tėvo paliktos valdžios.'
+  santrauka: 'Į Pinską buvo išsiųsti žygūnai pakviesti vienuolį Vaišvilką perimti tėvo paliktos valdžios.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Taigi visuotiniame
@@ -89,7 +95,7 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad jedlnioje sukvietė lenkų seimą, kuris nu tarė, jog reikia pastatyti ginkluotas saugas visuose ke liuose Lenkijos pasienyje ir uoliai žiūrėti, kad ir impera toriaus, ir Vytauto žygūnai negalėtų prasmukti nei į vie ną, nei į kitą pusę.'
+  santrauka: 'Jedlnios seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai negalėtų prasmukti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tačiau ligai išgy­
@@ -110,7 +116,7 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad vos k araliu s šitai sužinojo, b em at išsiuntė kuo skubiausiai žygūnus, kurie išvykstantiems tu rė jo pranešti, jog storžievis už neapdairumą nubaus tas mirtimi.'
+  santrauka: 'Karalius skubiai išsiuntė žygūnus pranešti išvykstantiems kunigaikščiams apie durininko nubaudimą mirtimi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žymiausias iš jų, nekreipdamas dėmesio į men­
@@ -131,3 +137,38 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/drabužis]]
+
+### Susiję objektai
+- [[objektai/daiktai/Drabužiai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/grupes/Bartai]]
+- [[objektai/asmenys/Birutė]]
+- [[objektai/asmenys/Ditrichas iš Bernheimo]]
+- [[objektai/asmenys/Edigejus]]
+- [[objektai/asmenys/Henrikas iš Berkos]]
+- [[objektai/asmenys/Hermanas Balkas]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/ivykiai/Jogailos paleidimas į Krėvą ir jo kontrpuolimas užimant Vilnių bei Trakus]]
+- [[objektai/asmenys/Jonas Čarnkovskis]]
+- [[objektai/asmenys/Jurga (pasienio seniūnas)]]
+- [[objektai/asmenys/Konradas iš Tuteleno]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/paprociai/Padėkos pamaldos už karinę pergalę]]
+- [[objektai/asmenys/Sarkis]]
+- [[objektai/ivykiai/Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.)]]
+- [[objektai/paprociai/Valdų išpirkimas nuo antpuolių dovanomis per žygūnus]]
+- [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/žygūnas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/ivykiai/Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos]]
+- [[objektai/paprociai/Kapituliacijos sąlygų derinimas ir pasidavimas nugalėtojo malonei]]
+- [[objektai/zodynas/karaliaus vainikas]]
+- [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]

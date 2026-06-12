@@ -19,7 +19,9 @@ Jam padėjo jo uošvis, Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų p
 
 ## Teiginiai
 
+<a id="claim-t-95931"></a>
 - t-001
+  global_id: t-95931
   teiginys: 'Jam padėjo jo uošvis, Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų partija.'
   pagrindžia:
     - c-001

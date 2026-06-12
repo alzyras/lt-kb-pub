@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31986"></a>
 - t-001
+  global_id: t-31986
   teiginys: 'H. Łowmiańskio „Wcielenie Litwy do Polski w 1386“ išspausdintas AW 12 tome 1937 m., p. 36-145.'
   pagrindžia:
     - c-001

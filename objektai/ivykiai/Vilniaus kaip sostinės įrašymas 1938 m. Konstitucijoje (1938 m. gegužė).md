@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20533"></a>
 - t-001
+  global_id: t-20533
   teiginys: '1938 m. gegužę priimtoje naujoje konstitucijoje Lietuva vėl įrašė, kad Vilnius yra jos sostinė.'
   pagrindžia:
     - c-001

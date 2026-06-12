@@ -38,22 +38,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75108"></a>
 - t-001
+  global_id: t-75108
   teiginys: 'Iš daugiau kaip 3 000 aktyvių protestų dalyvių buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon atsakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75109"></a>
 - t-002
+  global_id: t-75109
   teiginys: 'Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75110"></a>
 - t-003
+  global_id: t-75110
   teiginys: 'Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75111"></a>
 - t-004
+  global_id: t-75111
   teiginys: 'Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius VI s k y r i u s DAINUOJANTI REVOLIUCIJA SU SĄJŪDŽIU UŽ LIETUVĄ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei.'
   pagrindžia:
     - c-003

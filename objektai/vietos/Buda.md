@@ -25,12 +25,16 @@ Nuo tada Jogaila veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko
 
 ## Teiginiai
 
+<a id="claim-t-67760"></a>
 - t-001
+  global_id: t-67760
   teiginys: '1385 m. sausį Skirgailos vadovaujama delegacija Krokuvoje ir Budoje sutarė dėl vėliau Kriavo akte pažadėtų sąlygų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67761"></a>
 - t-002
+  global_id: t-67761
   teiginys: 'Dusburgietis teigia, kad apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems 1307 viešpaties metais mirė Vaclovas, Čekijos karalius, o jo sūnus buvo vainikuotas karaliumi Budoje, tačiau tais pačiais metais jį nužudė vienas jo riteris (Ptol. p. 1227), šitaip.'
   pagrindžia:
     - c-002

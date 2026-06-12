@@ -17,7 +17,9 @@ Nors Lietuvos vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien �
 
 ## Teiginiai
 
+<a id="claim-t-78149"></a>
 - t-001
+  global_id: t-78149
   teiginys: 'Nors Lietuvos vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien į uostą investuota 42 mln.'
   pagrindžia:
     - c-001

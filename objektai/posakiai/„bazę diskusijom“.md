@@ -24,7 +24,9 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.
 
 ## Teiginiai
 
+<a id="claim-t-77843"></a>
 - t-001
+  global_id: t-77843
   teiginys: 'Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.'
   pagrindžia:
     - c-001

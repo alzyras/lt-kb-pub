@@ -44,12 +44,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54270"></a>
 - t-001
+  global_id: t-54270
   teiginys: 'LDK politinis elitas nesulaukė lietuviakalbės kultūrinės programos ir rinkosi lenkakalbę raštijos tradiciją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183317"></a>
 - t-002
+  global_id: t-183317
   teiginys: 'Reformacija tapo nauju lenkėjimo postūmiu.'
   pagrindžia:
     - c-001

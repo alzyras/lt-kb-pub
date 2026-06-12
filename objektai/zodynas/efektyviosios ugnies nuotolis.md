@@ -16,7 +16,9 @@ Suėjus į efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiu
 
 ## Teiginiai
 
+<a id="claim-t-38750"></a>
 - t-001
+  global_id: t-38750
   teiginys: 'Suėjus į efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiuoti ir judėti, derindami šaudymą su judėjimu į priekį.'
   pagrindžia:
     - c-001

@@ -17,12 +17,16 @@ Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jė
 
 ## Teiginiai
 
+<a id="claim-t-22023"></a>
 - t-001
+  global_id: t-22023
   teiginys: 'Soclagerio politinės, ekonominės ir tautinės krizės metu lietuviai sukūrė tautinio judėjimo modelį ir padėjo sunaikinti vienpartinį SSRS režimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183464"></a>
 - t-002
+  global_id: t-183464
   teiginys: 'Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jėgų prisikelti kaip tauta, sukurti tautinio judėjimo modelį, išsprogdinti komunistų valdymą respublikoje ir padėti sunaikinti vienpartinį režimą visoje SSRS, pagaliau ir pačią SSRS.'
   pagrindžia:
     - c-001

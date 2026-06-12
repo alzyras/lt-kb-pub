@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35846"></a>
 - t-001
+  global_id: t-35846
   teiginys: 'Prie Trakų Jogaila prašė, kad Vytautas tarpininkautų derybose, siūlydamas atkurti ankstesnę padėtį.'
   pagrindžia:
     - c-001

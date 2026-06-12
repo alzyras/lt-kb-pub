@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08311"></a>
 - t-001
+  global_id: t-08311
   teiginys: 'Moteriškosios dar ilgai nenorėjo mesti senovės nuometų nuo galvos.'
   pagrindžia:
     - c-001

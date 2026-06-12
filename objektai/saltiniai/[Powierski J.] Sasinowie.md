@@ -16,7 +16,9 @@ Dusburgietis teigia, kad [Powierski J.] Sasinowie.— SSS, t.
 
 ## Teiginiai
 
+<a id="claim-t-61254"></a>
 - t-001
+  global_id: t-61254
   teiginys: 'J. Powierskio „Sasinowie“ nurodyta SSS 5 tomo 74-75 puslapiuose.'
   pagrindžia:
     - c-001

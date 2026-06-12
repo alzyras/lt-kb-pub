@@ -25,7 +25,6 @@ amziai:
   - 'XIII'
   - 'XXI'
 ---
-
 # Baltijos jūra
 
 ## Santrauka
@@ -34,53 +33,73 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 
 ## Teiginiai
 
+<a id="claim-t-182818"></a>
 - t-001
+  global_id: t-182818
   teiginys: 'XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-182819"></a>
 - t-002
+  global_id: t-182819
   teiginys: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
   pagrindžia:
     - c-005
 
+<a id="claim-t-182822"></a>
 - t-003
+  global_id: t-182822
   teiginys: 'Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182823"></a>
 - t-004
+  global_id: t-182823
   teiginys: 'Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-182824"></a>
 - t-005
+  global_id: t-182824
   teiginys: 'XIII amžiaus viduryje Lietuva valdė nedidelį, uostų stokojantį Baltijos pakrantės ruožą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-182998"></a>
 - t-006
+  global_id: t-182998
   teiginys: 'Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Hanza.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-182999"></a>
 - t-007
+  global_id: t-182999
   teiginys: 'Pasibaigus karams su vokiečių ordinu, atsidarė prekybos keliai į Baltijos jūrą, kur ėmė klestėti prekyba.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183586"></a>
 - t-008
+  global_id: t-183586
   teiginys: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-183587"></a>
 - t-009
+  global_id: t-183587
   teiginys: 'Tačiau Versalyje Lietuvos delegacija iškėlė Rytų Prūsijos (kurioje tarp pusės milijono vokiečių gyveno iki 100 000 lietuvių) teritorijos perdavimo Lietuvai ir išėjimo į Baltijos jūrą per Klaipėdą klausimą.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-184928"></a>
 - t-010
-  teiginys: 'Kojelavičius teigia, kad štai todėl Livoni jos kariai pasuko prie Baltijos jūros, tikėdamiesi, kad apie Palangą, smėlėtame pajūryje, bus rečiau medžių ir lygesnis kelias.'
+  global_id: t-184928
+  teiginys: 'Livonijos kariai pasuko prie Baltijos jūros, tikėdamiesi ties Palanga rasti retesnių medžių ir lygesnį kelią.'
   pagrindžia:
     - c-010
 
@@ -282,7 +301,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - t-009
 
 - c-010
-  santrauka: 'Kojelavičius teigia, kad štai todėl Livoni jos kariai pasuko prie Baltijos jūros, tikėdamiesi, kad apie Palangą, smėlėtame pajūryje, bus rečiau medžių ir lygesnis kelias.'
+  santrauka: 'Livonijos kariai pasuko prie Baltijos jūros, tikėdamiesi ties Palanga rasti retesnių medžių ir lygesnį kelią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu

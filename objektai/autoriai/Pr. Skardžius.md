@@ -16,7 +16,9 @@ Skardžiaus. Skardžiaus, Dr.
 
 ## Teiginiai
 
+<a id="claim-t-35470"></a>
 - t-001
+  global_id: t-35470
   teiginys: 'Pr. Skardžius redagavo bendrinės kalbos žurnalo „Kalba“ pirmąjį sąsiuvinį.'
   pagrindžia:
     - c-001

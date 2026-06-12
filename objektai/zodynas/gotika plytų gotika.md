@@ -19,12 +19,16 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
 
 ## Teiginiai
 
+<a id="claim-t-22152"></a>
 - t-001
+  global_id: t-22152
   teiginys: 'XIV a. pabaigoje Lietuvoje pradėjusi rastis gotika Europoje jau turėjo pusantro šimto metų tradiciją ir buvo pasiekusi brandųjį etapą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-22153"></a>
 - t-002
+  global_id: t-22153
   teiginys: 'Gotikinės architektūros plitimą Lietuvoje pirmiausia paskatino valstybės krikštas ir Vytauto mūrinių bažnyčių statybos programa.'
   pagrindžia:
     - c-002

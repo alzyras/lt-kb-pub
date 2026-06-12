@@ -19,12 +19,16 @@ Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė br
 
 ## Teiginiai
 
+<a id="claim-t-60157"></a>
 - t-001
+  global_id: t-60157
   teiginys: 'Dusburgietis teigia, kad juos išklausęs, minėtasis valdovas Konradas, Lenkijos kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas 168 Dobrynė — deš.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60158"></a>
 - t-002
+  global_id: t-60158
   teiginys: 'Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.'
   pagrindžia:
     - c-002

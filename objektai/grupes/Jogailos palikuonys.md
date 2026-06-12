@@ -19,18 +19,24 @@ Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau
 
 ## Teiginiai
 
+<a id="claim-t-72085"></a>
 - t-001
+  global_id: t-72085
   teiginys: 'Jogailos palikuonys: tiesa, nuo Kazimiero laikų lenkai ėmė rinktis sau karaliais visada tuos pačius asmenis, kuriuos išsirinkdavo Lietuva sau didžiaisiais kunigaikščiais. Tuo būdu išliko personalinės valstybių unijos ryšys: abi valstybės buvo vieno valdovo valdomos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-72086"></a>
 - t-002
+  global_id: t-72086
   teiginys: 'Jogailos palikuonys manė, kad Lietuva jiems turinti tekti paveldėtinai, nors lietuviai nuo Švitrigailos laikų rinkosi kunigaikščius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72087"></a>
 - t-003
-  teiginys: 'Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau Jogailos palikuonys manė, kad bent Lietuva jiems turinti tekti paveldėtinai; o tuo susitarimu buvo norima įvesti elekciją, taigi visai nebuvo atsižvelgiama į jų teises.'
+  global_id: t-72087
+  teiginys: 'Jogailos palikuonys manė, kad Lietuva jiems turinti tekti paveldėtinai, todėl susitarime numatyta elekcija nepaisė jų teisių.'
   pagrindžia:
     - c-002
 
@@ -56,6 +62,7 @@ Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau
     - t-002
 
 - c-002
+  santrauka: 'Jogailos palikuonys manė, kad Lietuva jiems turinti tekti paveldėtinai, todėl susitarime numatyta elekcija nepaisė jų teisių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių

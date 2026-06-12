@@ -27,12 +27,16 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 
 ## Teiginiai
 
+<a id="claim-t-88051"></a>
 - t-001
+  global_id: t-88051
   teiginys: 'Volanus knyga, atspausdinta šioje spaustucontra Skargae missam. Lib.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88052"></a>
 - t-002
+  global_id: t-88052
   teiginys: 'Andrius Volanas Vilniuje buvo reformatų idėjų skleidėjas ir garsėjo mokslu bei rašytojo talentu.'
   pagrindžia:
     - c-002

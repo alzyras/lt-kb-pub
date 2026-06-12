@@ -29,28 +29,38 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
 
 ## Teiginiai
 
+<a id="claim-t-58882"></a>
 - t-001
+  global_id: t-58882
   teiginys: 'Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir panoro, išsižadėjęs stabų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58883"></a>
 - t-002
+  global_id: t-58883
   teiginys: 'Dusburgietis teigia, kad apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras, patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis pilėnas, vardu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184634"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžudyti, arba paimti į nelaisvę, o kurie paspruko į pilį, neteko namų, iš plėštų ir sudegintų.'
+  global_id: t-184634
+  teiginys: 'Gardino užpuolimo metu pilėnai buvo išžudyti, paimti į nelaisvę arba neteko išplėštų ir sudegintų namų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184635"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad bisenės užpuolimas buvo nar siai pilėnų atremtas; smarkiai sumuštas ir didelės ka rių dalies netekęs priešas buvo priverstas pasitraukti nieko nepešęs.'
+  global_id: t-184635
+  teiginys: 'Bisenės užpuolimą pilėnai narsiai atrėmė, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184636"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad kovojant dėl miesto sienos, žuvo vienas kitas pilėnas.'
+  global_id: t-184636
+  teiginys: 'Vytauto kariams įsiveržus į žemutinę Vitebsko pilį, kovojant dėl miesto sienos žuvo vienas kitas pilėnas.'
   pagrindžia:
     - c-005
 
@@ -95,7 +105,7 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
     - t-003
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžudyti, arba paimti į nelaisvę, o kurie paspruko į pilį, neteko namų, iš plėštų ir sudegintų.'
+  santrauka: 'Gardino užpuolimo metu pilėnai buvo išžudyti, paimti į nelaisvę arba neteko išplėštų ir sudegintų namų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Smarkios liū-
@@ -125,7 +135,7 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
     - t-004
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad bisenės užpuolimas buvo nar siai pilėnų atremtas; smarkiai sumuštas ir didelės ka rių dalies netekęs priešas buvo priverstas pasitraukti nieko nepešęs.'
+  santrauka: 'Bisenės užpuolimą pilėnai narsiai atrėmė, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš tos išdavystės išėjo visai kas kita, nei vy­
@@ -155,7 +165,7 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
     - t-005
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad kovojant dėl miesto sienos, žuvo vienas kitas pilėnas.'
+  santrauka: 'Vytauto kariams įsiveržus į žemutinę Vitebsko pilį, kovojant dėl miesto sienos žuvo vienas kitas pilėnas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Apgula užtruko ištisą mėnesį,
@@ -174,3 +184,21 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
   statusas: verified
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Draika]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Pilys]]
+- [[objektai/asmenys/Pinas]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
+- [[objektai/ivykiai/Bisenės ir Gardino gynimasis, o kryžiuočiams mėginant pulti lietuvių pilis (1311-1313 m.)]]
+- [[objektai/asmenys/Folradas]]
+- [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]
+- [[objektai/zodynas/pilėnas pilėnai]]
+- [[objektai/zodynas/stabų garbinimas stabmeldystė]]

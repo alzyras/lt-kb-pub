@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20516"></a>
 - t-001
+  global_id: t-20516
   teiginys: '1927 m. rugsėjo 8–9 d. socialdemokratų ginkluotas sukilimas laikinai pavyko tik Tauragėje, bet valdžia jį nuslopino.'
   pagrindžia:
     - c-001

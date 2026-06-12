@@ -16,7 +16,9 @@ Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europ
 
 ## Teiginiai
 
+<a id="claim-t-18969"></a>
 - t-001
+  global_id: t-18969
   teiginys: 'Johnny Unitas (Jonas Jonaitis) buvo amerikietiškojo futbolo garsenybė.'
   pagrindžia:
     - c-001

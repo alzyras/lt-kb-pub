@@ -32,17 +32,23 @@ Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku; jis Prahoje pare
 
 ## Teiginiai
 
+<a id="claim-t-64821"></a>
 - t-001
+  global_id: t-64821
   teiginys: 'Pranciškus Skorina 1517–1519 m. Prahoje parengė ir išspausdino psalmyną bei 22 Senojo Testamento knygas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64822"></a>
 - t-002
+  global_id: t-64822
   teiginys: 'Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64824"></a>
 - t-003
+  global_id: t-64824
   teiginys: 'Pranciškus Skorina buvo iš rusėnų kultūrinės aplinkos kilęs pirmasis Lietuvos spaustuvininkas, gimęs Polocko pirklių šeimoje.'
   pagrindžia:
     - c-002

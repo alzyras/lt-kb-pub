@@ -23,12 +23,16 @@ Tuo tikslu maždaug 60 Žebenkšties rinktinės kovotojų, vadovaujamų LLA kari
 
 ## Teiginiai
 
+<a id="claim-t-38912"></a>
 - t-001
+  global_id: t-38912
   teiginys: 'Apie 60 Žebenkšties rinktinės kovotojų, vadovaujamų Juozo Čeponio-Budrio, persikėlė į Virtukų pušyną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183673"></a>
 - t-002
+  global_id: t-183673
   teiginys: '1945 m. įstojo į partizanų Žebenkšties rinktinę Raseinių rajone.'
   pagrindžia:
     - c-002

@@ -18,7 +18,9 @@ Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Nie�
 
 ## Teiginiai
 
+<a id="claim-t-32420"></a>
 - t-001
+  global_id: t-32420
   teiginys: 'Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.'
   pagrindžia:
     - c-001

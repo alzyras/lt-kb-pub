@@ -16,7 +16,9 @@ Kova dėl identiteto.
 
 ## Teiginiai
 
+<a id="claim-t-18070"></a>
 - t-001
+  global_id: t-18070
   teiginys: 'V. Žalio „Kova dėl identiteto“ nagrinėja, kodėl Lietuvai 1923–1939 m. nesisekė Klaipėdoje.'
   pagrindžia:
     - c-001

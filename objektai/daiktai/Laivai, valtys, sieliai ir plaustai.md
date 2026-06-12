@@ -49,27 +49,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86990"></a>
 - t-001
+  global_id: t-86990
   teiginys: 'Didysis magistras slapta iš Marienburgo išplaukė laivais Vysla, o per jūros įlanką įplaukė į Nemuną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86991"></a>
 - t-002
+  global_id: t-86991
   teiginys: 'Apie 880 metus iš Danijos išvaryti tremtiniai valtimis persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86992"></a>
 - t-003
+  global_id: t-86992
   teiginys: 'Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-86993"></a>
 - t-004
+  global_id: t-86993
   teiginys: 'Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-86994"></a>
 - t-005
+  global_id: t-86994
   teiginys: 'Žemaičiai Memelyje sunaikino didelių ir mažų laivų, o kryžiuočių pilis išliko sveika.'
   pagrindžia:
     - c-003

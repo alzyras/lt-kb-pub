@@ -23,7 +23,9 @@ Dusburgietis teigia, kad steponavičienė J.
 
 ## Teiginiai
 
+<a id="claim-t-61300"></a>
 - t-001
+  global_id: t-61300
   teiginys: 'J. Steponavičienės straipsnis apie lietuviškų vietovardžių prūsinimą kryžiuočių ordino raštuose publikuotas „Baltisticoje“ 1974 m.'
   pagrindžia:
     - c-001

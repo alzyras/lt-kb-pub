@@ -28,7 +28,9 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
 
 ## Teiginiai
 
+<a id="claim-t-40613"></a>
 - t-001
+  global_id: t-40613
   teiginys: 'Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.'
   pagrindžia:
     - c-001

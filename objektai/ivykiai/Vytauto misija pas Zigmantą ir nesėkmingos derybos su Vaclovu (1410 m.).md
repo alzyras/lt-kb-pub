@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Vytauto misija pas Zigmantą ir nesėkmingos derybos su Vaclovu (1410 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad nors Vytautas ėmėsi visų priemonių, kurios, jo galva, buvo reikalingos išsaugoti su Zigmantu ir Vaclovu sudarytam susitarimui, tačiau visos jo pastangos nuėjo niekais.
+Vytauto pastangos išsaugoti su Zigmantu ir Vaclovu sudarytą susitarimą nuėjo niekais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185658"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad nors Vytautas ėmėsi visų priemonių, kurios, jo galva, buvo reikalingos išsaugoti su Zigmantu ir Vaclovu sudarytam susitarimui, tačiau visos jo pastangos nuėjo niekais.'
+  global_id: t-185658
+  teiginys: 'Vytauto pastangos išsaugoti su Zigmantu ir Vaclovu sudarytą susitarimą nuėjo niekais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad nors Vytautas ėmėsi visų priemonių, kurios, jo galva, buvo reikalingos išsaugoti su Zigmantu ir Vaclovu sudarytam susitarimui, tačiau visos jo pastangos nuėjo niekais.'
+  santrauka: 'Vytauto pastangos išsaugoti su Zigmantu ir Vaclovu sudarytą susitarimą nuėjo niekais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nors Vytautas ėmėsi visų priemonių, kurios, jo galva,
@@ -62,3 +63,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

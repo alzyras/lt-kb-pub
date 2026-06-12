@@ -27,12 +27,16 @@ Lietuvoje buvo jau­ čiamas aiškus susiskaldymas, kurio likviduoti neįstengė
 
 ## Teiginiai
 
+<a id="claim-t-36832"></a>
 - t-001
+  global_id: t-36832
   teiginys: '1411 m. Vytautas paskyrė seniūną iš Ordino atgautai Žemaitijai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-36834"></a>
 - t-002
+  global_id: t-36834
   teiginys: 'Pirmasis lenkų urėdas Lietuvoje vadinosi seniūnu, lenkiškai starosta.'
   pagrindžia:
     - c-001

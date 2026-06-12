@@ -26,17 +26,23 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
 
 ## Teiginiai
 
+<a id="claim-t-169934"></a>
 - t-001
+  global_id: t-169934
   teiginys: 'Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organizacijų, beveik visų lenkų (Lenkijos) politinių partijų padaliniai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169935"></a>
 - t-002
+  global_id: t-169935
   teiginys: 'Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169936"></a>
 - t-003
+  global_id: t-169936
   teiginys: 'Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės politinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-31778"></a>
 - t-001
+  global_id: t-31778
   teiginys: '„Kęstučio Brasta“ nurodoma Lietuvių enciklopedijos 11 tome, 405 puslapyje.'
   pagrindžia:
     - c-001

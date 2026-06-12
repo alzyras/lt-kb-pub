@@ -11,7 +11,6 @@ tags:
   - unija
   - vieta
 ---
-
 # Berezina
 
 ## Santrauka
@@ -20,13 +19,17 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 
 ## Teiginiai
 
+<a id="claim-t-02359"></a>
 - t-001
+  global_id: t-02359
   teiginys: 'Po žiauraus mūšio prie Berezinos Napoleonas pavedė kariuomenę maršalui Miuratui ir parskubėjo į Paryžių rinkti naujų jėgų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184932"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad nenorint, kad tarp žemdirbių rastųsi dėl sienų kokių nesutarimų, dėl ku rių savaime gali įsiliepsnoti karas su lietuviais, buvo susitarta, kad Berezinos upė skiria Polocko kunigaikš tystę nuo Lietuvos; šį dalyką po šiai dienai primena gyvenvietė, tuo metu.'
+  global_id: t-184932
+  teiginys: 'Berezinos upė buvo sutarta riba tarp Polocko kunigaikštystės ir Lietuvos.'
   pagrindžia:
     - c-002
 
@@ -49,7 +52,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad nenorint, kad tarp žemdirbių rastųsi dėl sienų kokių nesutarimų, dėl ku rių savaime gali įsiliepsnoti karas su lietuviais, buvo susitarta, kad Berezinos upė skiria Polocko kunigaikš tystę nuo Lietuvos; šį dalyką po šiai dienai primena gyvenvietė, tuo metu.'
+  santrauka: 'Berezinos upė buvo sutarta riba tarp Polocko kunigaikštystės ir Lietuvos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Valdo­

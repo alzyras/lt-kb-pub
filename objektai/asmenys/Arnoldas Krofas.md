@@ -17,7 +17,9 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
 
 ## Teiginiai
 
+<a id="claim-t-60240"></a>
 - t-001
+  global_id: t-60240
   teiginys: 'Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą.'
   pagrindžia:
     - c-001

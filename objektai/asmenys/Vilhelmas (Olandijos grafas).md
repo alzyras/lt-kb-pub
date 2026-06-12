@@ -25,7 +25,9 @@ Dusburgietis teigia, kad apie Vilhelmo, Olandijos grafo, išrinkimą Romos karal
 
 ## Teiginiai
 
+<a id="claim-t-60463"></a>
 - t-001
+  global_id: t-60463
   teiginys: 'Dusburgietis teigia, kad apie Vilhelmo, Olandijos grafo, išrinkimą Romos karaliumi 1249 viešpaties metais, mirus landgrafui, Vilhelmas, Olandijos grafas, buvo išrinktas Romos karaliumi, tačiau neilgai trukus frizai jį nužudė, ir šitaip nei vienas, nei kitas negavo imperatoriaus.'
   pagrindžia:
     - c-001

@@ -12,7 +12,6 @@ tags:
   - mūšis
   - pilis
 ---
-
 # Petras (Vilniaus vyskupas)
 
 ## Santrauka
@@ -21,13 +20,17 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
 
 ## Teiginiai
 
+<a id="claim-t-87824"></a>
 - t-001
+  global_id: t-87824
   teiginys: 'Vilniaus vyskupas Petras atsisakė sutuokti Vytautą su Julijona dėl artimos giminystės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184819"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad todėl Petras, Vilniaus vyskupas, labai atkakliai priešinosi šiai santuokai, kad nebūtų pa žeisti dievo bei žmonių įstatymai.'
+  global_id: t-184819
+  teiginys: 'Kojelavičius vaizduoja Vilniaus vyskupą Petrą kaip atkakliai prieštaravusį Vytauto santuokai, nes ji esą pažeidė Dievo ir žmonių įstatymus.'
   pagrindžia:
     - c-002
 
@@ -61,7 +64,7 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad todėl Petras, Vilniaus vyskupas, labai atkakliai priešinosi šiai santuokai, kad nebūtų pa žeisti dievo bei žmonių įstatymai.'
+  santrauka: 'Vilniaus vyskupas Petras atkakliai priešinosi Vytauto santuokai, kad nebūtų pažeisti Dievo ir žmonių įstatymai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Julijona mi-
@@ -79,3 +82,12 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Janas Kropidła]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/didysis kunigaikštis]]

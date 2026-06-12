@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-80764"></a>
 - t-001
+  global_id: t-80764
   teiginys: '138, „LIETUVOS LENGVOJI IR VIDUTINE KAVALERIJA“, Lina Vidauskytė.'
   pagrindžia:
     - c-001

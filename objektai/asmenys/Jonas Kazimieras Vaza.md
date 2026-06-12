@@ -19,7 +19,9 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
 
 ## Teiginiai
 
+<a id="claim-t-39751"></a>
 - t-001
+  global_id: t-39751
   teiginys: 'Bajorų konfederacija deklaravo unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai.'
   pagrindžia:
     - c-001

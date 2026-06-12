@@ -16,7 +16,9 @@ netrukus kilo maištas, apsimetėlis (samozvancas) Dimitrijas žuvo, o Marina su
 
 ## Teiginiai
 
+<a id="claim-t-72748"></a>
 - t-001
+  global_id: t-72748
   teiginys: 'Maišto metu samozvancas Dimitrijas žuvo, o Marina su tėvu ir daugybė lenkų buvo suimti.'
   pagrindžia:
     - c-001

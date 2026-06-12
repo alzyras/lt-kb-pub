@@ -25,12 +25,16 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 
 ## Teiginiai
 
+<a id="claim-t-69309"></a>
 - t-001
+  global_id: t-69309
   teiginys: 'Stalupėnai šaltinio rodyklėje tapatinami su dabartiniu Nesterovu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-69310"></a>
 - t-002
+  global_id: t-69310
   teiginys: 'Rytų fronte Vokiečių jėgų menkumas leido Rusijos kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų.'
   pagrindžia:
     - c-002

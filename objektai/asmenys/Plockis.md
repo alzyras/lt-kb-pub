@@ -26,7 +26,9 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
 
 ## Teiginiai
 
+<a id="claim-t-87834"></a>
 - t-001
+  global_id: t-87834
   teiginys: 'Ponui Plockiui turėjo būti sumokėta skola iš lietuviškų monetų, jas keičiant į lenkiškas.'
   pagrindžia:
     - c-001

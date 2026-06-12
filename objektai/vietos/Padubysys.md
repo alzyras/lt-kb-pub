@@ -16,12 +16,16 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
 
 ## Teiginiai
 
+<a id="claim-t-02648"></a>
 - t-001
+  global_id: t-02648
   teiginys: 'Padubysio mokykla buvo uždaryta kartu su Kalvarijos ir Kolainių mokyklomis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183065"></a>
 - t-002
+  global_id: t-183065
   teiginys: 'Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo uždarytos, o Kražių mokykla perkelta į Kauną.'
   pagrindžia:
     - c-001

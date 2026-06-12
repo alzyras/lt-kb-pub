@@ -25,12 +25,16 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 
 ## Teiginiai
 
+<a id="claim-t-86096"></a>
 - t-001
+  global_id: t-86096
   teiginys: 'Paulius iš Olivos kartu su Jordanu iš Pelplino laiškuose popiežiui stojo ginti kryžiuočių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86097"></a>
 - t-002
+  global_id: t-86097
   teiginys: '1323 m. Olivos ir Pelplino abatai popiežiui pranešė apie Gedimino laiškus dėl krikšto.'
   pagrindžia:
     - c-002

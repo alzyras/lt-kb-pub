@@ -24,7 +24,9 @@ Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766
 
 ## Teiginiai
 
+<a id="claim-t-87840"></a>
 - t-001
+  global_id: t-87840
   teiginys: 'Puzinienė iš Oginskių 1766 m. Akademijos observatorijai, jos prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.'
   pagrindžia:
     - c-001

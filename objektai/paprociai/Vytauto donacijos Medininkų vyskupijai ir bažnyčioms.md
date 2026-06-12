@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-28928"></a>
 - t-001
+  global_id: t-28928
   teiginys: 'Vytautas skyrė žemių Medininkų vyskupui ir parapijų bažnyčioms.'
   pagrindžia:
     - c-001

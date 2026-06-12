@@ -23,68 +23,62 @@ amziai:
   - 'XIV'
   - 'XV'
 ---
-
 # gurguolė
 
 ## Santrauka
 
 Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis grandinėmis, patrankas, patrankėles, arbaletus ir daug turto.
 
-## Ryšiai
-
-### Teminiai klasteriai
-- [[temos/transportas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Dobrogostas]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Vytautas]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/daiktai/Kablinis šautuvas]]
-- [[objektai/grupes/Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko mokomoji kuopa]]
-- [[objektai/asmenys/S. Mickevičius]]
-
 ## Teiginiai
 
+<a id="claim-t-113626"></a>
 - t-001
+  global_id: t-113626
   teiginys: 'Dusburgietis teigia, kad išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30 vyrų, skirtų grobiui saugoti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-113627"></a>
 - t-002
+  global_id: t-113627
   teiginys: 'Vytautas mėgino užimti Žemutinę pilį, pasiųsdamas gurguolę su rogėse paslėptais ginkluotais žmonėmis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-113628"></a>
 - t-003
+  global_id: t-113628
   teiginys: 'Timūr-Kutluko totoriai paėmė gurguolę su vežimais, grandinėmis, patrankomis, arbaletais ir kitu turtu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184613"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad nusiaubę Kulmo kraš tą, Sūduvos prūsai kartu su žemaičiais, atėjusiais į pa galbą, sustojo prie Liubavos, tačiau, kryžiuočiams vi somis jėgomis ėmus juos pulti, neišdrįso atvirai pra dėti mūšio ir, be tvarkos pabėgę, palikę stovyklą ir gurguoles, išsislapstė.'
+  global_id: t-184613
+  teiginys: 'Prie Liubavos Sūduvos prūsai ir žemaičiai, pabėgę nuo kryžiuočių puolimo, paliko stovyklą ir gurguoles.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184615"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad jeigu, metę gurguoles, leistųsi netrukdomi į tėvynę, galėtų pasprukti nuo visų pavojų ir dėl to, kad jų raitija kur kas lengvesnė ir eiklesnė, ir dėl to, kad lenkams, užgrobusiems stovyklą ir paėmusiems visą grobį, nebūtų buvę saugu miškais vy tis bėgantį.'
+  global_id: t-184615
+  teiginys: '1301 m. lenkų būrys užpuolė besitraukiančių lietuvių ariergardą, kai visos gurguolės jau buvo nuvarytos į priekį.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184616"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad greitosiomis sutelktas len kų būrys pasivijo besitrau- 1301 m e ta i kiančius lietuvius ir, tikėda masis atsiimti grobį, smarkiai užpuolė ariergardą, nedelsdamas nė valandėlės; ka dangi ten susidūrė su geriausiais kariuomenės daliniais, o visos gurguolės buvo.'
+  global_id: t-184616
+  teiginys: 'Kęstutis ir Algirdas įsakė kariams trauktis rikiuotėje, susirinkti prie gurguolių ir žygiuoti prie artimiausio miško.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184617"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad todėl, kol dar karių drąsa rodėsi nepalaužta, jie įsakė trimituoti po visą kovos lauką, duodami ka riams ženklą trauktis kovos rikiuotėje bei nesuirusioms gretoms atitrūkti nuo priešo, susirinkti prie gurguolių ir žygiuoti prie artimiausio miško.'
+  global_id: t-184617
+  teiginys: 'Jono Olbrachto kariuomenei žygiuojant prie Savranės upės, nedidelio būrio saugomos gurguolės lėtai slinko iš paskos.'
   pagrindžia:
     - c-007
-
-- t-008
-  teiginys: 'Kojelavičius teigia, kad gurguolės, saugomos nedidelio būrio, lėtai slinko iš paskos.'
-  pagrindžia:
-    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -164,7 +158,7 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
     - t-002
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad nusiaubę Kulmo kraš tą, Sūduvos prūsai kartu su žemaičiais, atėjusiais į pa galbą, sustojo prie Liubavos, tačiau, kryžiuočiams vi somis jėgomis ėmus juos pulti, neišdrįso atvirai pra dėti mūšio ir, be tvarkos pabėgę, palikę stovyklą ir gurguoles, išsislapstė.'
+  santrauka: 'Prie Liubavos Sūduvos prūsai ir žemaičiai, pabėgę nuo kryžiuočių puolimo, paliko stovyklą ir gurguoles.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dėl tos pačios
@@ -196,41 +190,7 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad jeigu, metę gurguoles, leistųsi netrukdomi į tėvynę, galėtų pasprukti nuo visų pavojų ir dėl to, kad jų raitija kur kas lengvesnė ir eiklesnė, ir dėl to, kad lenkams, užgrobusiems stovyklą ir paėmusiems visą grobį, nebūtų buvę saugu miškais vy tis bėgantį.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Antra vertus, stovykla, pilna grobio,
-    L enkai rengiasi p u lti
-    lie tu v iu s
-    mą dievo malone
-    (didžiai
-    drąsinančia ir stiprinančia),
-    jis įsakė prieš mūšį kiekvie­
-    nam — kaip
-    dera krikščio-
-    155
-
-    ## Puslapis 154
-
-    belaisvių ir paliegėlių, neleido taip greitai trauktis,
-    kad galima būtų per kelias valandas atsiplėšti nuo
-    spaudžiančio priešo. Jeigu, metę gurguoles, leistųsi
-    netrukdomi į tėvynę, galėtų pasprukti nuo visų pavojų
-    ir dėl to, kad jų raitija kur kas lengvesnė ir eiklesnė,
-    ir dėl to, kad lenkams, užgrobusiems stovyklą ir pa-
-    ėmusiems visą grobį, nebūtų buvę saugu miškais vy­
-    tis bėgantį priešą. Jie žinojo atsidūrę didžiulės negar­
-    bės akivaizdoje, juos prislėgė ne tiek skausmas, kad
-    praras grobį, kiek baimė ir gėda prieš savo krašto
-    žmones.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Kojelavičius teigia, kad greitosiomis sutelktas len kų būrys pasivijo besitrau- 1301 m e ta i kiančius lietuvius ir, tikėda masis atsiimti grobį, smarkiai užpuolė ariergardą, nedelsdamas nė valandėlės; ka dangi ten susidūrė su geriausiais kariuomenės daliniais, o visos gurguolės buvo.'
+  santrauka: '1301 m. lenkų būrys užpuolė besitraukiančių lietuvių ariergardą, kai visos gurguolės jau buvo nuvarytos į priekį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Bendras sąjungininkų pralai­
@@ -252,10 +212,10 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-007
-  santrauka: 'Kojelavičius teigia, kad todėl, kol dar karių drąsa rodėsi nepalaužta, jie įsakė trimituoti po visą kovos lauką, duodami ka riams ženklą trauktis kovos rikiuotėje bei nesuirusioms gretoms atitrūkti nuo priešo, susirinkti prie gurguolių ir žygiuoti prie artimiausio miško.'
+- c-006
+  santrauka: 'Kęstutis ir Algirdas įsakė kariams trauktis rikiuotėje, susirinkti prie gurguolių ir žygiuoti prie artimiausio miško.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gal ir buvo pamato tikėtis pergalės, tačiau Kęstutis
@@ -275,10 +235,10 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-008
-  santrauka: 'Kojelavičius teigia, kad gurguolės, saugomos nedidelio būrio, lėtai slinko iš paskos.'
+- c-007
+  santrauka: 'Jono Olbrachto kariuomenei žygiuojant prie Savranės upės, nedidelio būrio saugomos gurguolės lėtai slinko iš paskos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kunigaikštis Jonas
@@ -302,4 +262,49 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/transportas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Dobrogostas]]
+- [[objektai/daiktai/Kablinis šautuvas]]
+- [[objektai/grupes/Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko mokomoji kuopa]]
+- [[objektai/asmenys/S. Mickevičius]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Pomeranai]]
+- [[objektai/asmenys/Sventopelkas]]
+- [[objektai/grupes/Sūduvos prūsai]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/asmenys/Timūr-Kutlukas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/daiktai/Vytis]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]
+- [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis]]
+- [[objektai/asmenys/Druzigeris]]
+- [[objektai/asmenys/Henrikas iš Lichtenšteino]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]
+- [[objektai/asmenys/Kopčius]]
+- [[objektai/daiktai/Mietas]]
+- [[objektai/asmenys/Sudimantas]]
+- [[objektai/zodynas/ariergardas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/kolektyvizacija]]
+- [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
+- [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]

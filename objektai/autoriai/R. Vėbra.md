@@ -16,7 +16,9 @@ Vėbra^128.
 
 ## Teiginiai
 
+<a id="claim-t-30948"></a>
 - t-001
+  global_id: t-30948
   teiginys: 'R. Vėbra daug rašė lietuviškos spaudos draudimo XIX a. klausimais.'
   pagrindžia:
     - c-001

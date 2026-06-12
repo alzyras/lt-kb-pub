@@ -26,12 +26,16 @@ Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministra
 
 ## Teiginiai
 
+<a id="claim-t-64038"></a>
 - t-001
+  global_id: t-64038
   teiginys: 'Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministras Polis Himansas (Paul Hymans).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64039"></a>
 - t-002
+  global_id: t-64039
   teiginys: 'Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.'
   pagrindžia:
     - c-002

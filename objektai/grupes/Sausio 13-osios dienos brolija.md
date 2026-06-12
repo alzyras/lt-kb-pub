@@ -16,7 +16,9 @@ p. 251, Sausio 13-osios dienos brolijos (organizacijos, vienijančios Sausio įv
 
 ## Teiginiai
 
+<a id="claim-t-41145"></a>
 - t-001
+  global_id: t-41145
   teiginys: 'Sausio 13-osios dienos brolija vienijo Sausio įvykių dalyvius.'
   pagrindžia:
     - c-001

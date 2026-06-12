@@ -24,7 +24,9 @@ Vilnius, 1995; Ukraina: Lietuvos epocha, 1320–1569.
 
 ## Teiginiai
 
+<a id="claim-t-78142"></a>
 - t-001
+  global_id: t-78142
   teiginys: 'Vilnius, 1995; Ukraina: Lietuvos epocha, 1320–1569.'
   pagrindžia:
     - c-001

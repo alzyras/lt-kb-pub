@@ -17,12 +17,16 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
 
 ## Teiginiai
 
+<a id="claim-t-64870"></a>
 - t-001
+  global_id: t-64870
   teiginys: 'Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D''''Alembert († 1783 m.), Diderot († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64871"></a>
 - t-002
+  global_id: t-64871
   teiginys: 'Voltaire: taip antai, Fridrikas Didysis savo dvare laikė Volterą, pats rašė poezijos ir net mokslo veikalus.'
   pagrindžia:
     - c-002

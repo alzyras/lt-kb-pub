@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-97276"></a>
 - t-001
+  global_id: t-97276
   teiginys: '„Melno taika“ nurodyta „Lietuvių enciklopedijos“ 18 tome, 172-175 puslapiuose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97277"></a>
 - t-002
+  global_id: t-97277
   teiginys: '13, 265-266 p. — (”) Melno taika , LE, t.'
   pagrindžia:
     - c-001

@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-32019"></a>
 - t-001
+  global_id: t-32019
   teiginys: 'W. Kwiatkowskio „Ze studium o języku urzędowym Wielkiego Księstwa Litewskiego“ paskelbta „Prace Alma Mater Vilnensis“ 1958 m. Londone, p. 133–160.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
 
 ## Teiginiai
 
+<a id="claim-t-87720"></a>
 - t-001
+  global_id: t-87720
   teiginys: 'Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek iš pirktų žemių ir privažiuojamų ......................'
   pagrindžia:
     - c-001

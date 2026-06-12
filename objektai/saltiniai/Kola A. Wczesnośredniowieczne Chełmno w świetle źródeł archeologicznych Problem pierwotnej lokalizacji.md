@@ -22,7 +22,9 @@ Dusburgietis teigia, kad wczesnośredniowieczne Chełmno w świetle źródeł ar
 
 ## Teiginiai
 
+<a id="claim-t-61098"></a>
 - t-001
+  global_id: t-61098
   teiginys: 'Dusburgietis teigia, kad wczesnośredniowieczne Chełmno w świetle źródeł archeologicznych: Problem pierwotnej lokalizacji —Sprawozdania Towarzystwa Naukowego w Toruniu, Toruń, 1977, Nr. 29, s.'
   pagrindžia:
     - c-001

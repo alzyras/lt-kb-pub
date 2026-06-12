@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-18932"></a>
 - t-001
+  global_id: t-18932
   teiginys: 'Nuo Ivano Rūsčiojo laikų buvo žinoma nuostata pretenduoti į LDK žemes kaip tariamą Rusijai priklausantį paveldą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183533"></a>
 - t-002
+  global_id: t-183533
   teiginys: 'Šios politikos ideologiniu pagrindu tapo nuo Ivano Rūsčiojo laikų žinoma nuostata pretenduoti į LDK žemes, kaip Rusijai neva „istorinio pirmumo“ principu turintį priklausyti paveldą.'
   pagrindžia:
     - c-001

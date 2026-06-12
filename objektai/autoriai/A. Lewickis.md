@@ -16,7 +16,9 @@ Lewickis, kuris ne tik išleido du tomus svarbių XV amž. šaltinių (CeXV), be
 
 ## Teiginiai
 
+<a id="claim-t-30520"></a>
 - t-001
+  global_id: t-30520
   teiginys: 'A. Lewickis išleido du tomus svarbių XV a. šaltinių ir parašė šaltiniais paremtą monografiją apie Švitrigailą.'
   pagrindžia:
     - c-001

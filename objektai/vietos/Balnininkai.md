@@ -16,7 +16,9 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
 
 ## Teiginiai
 
+<a id="claim-t-38344"></a>
 - t-001
+  global_id: t-38344
   teiginys: 'Lenkų pajėgos per puolimą priartėjo prie Videniškio ir Gelogalių, o paskui judėjo Balnininkų link.'
   pagrindžia:
     - c-001

@@ -14,24 +14,25 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Zigmantas Rotas
 
 ## Santrauka
 
-Kojelavičius teigia, kad šis ryžtingai įvykdė, kas jam buvo patikėta, suėmė Cigalą iš Vienos bei vokietį Zigmantą Rotą; iškratė jų nešulius ir atėmė imperatoriaus laišką, pa leido juos laisvėn.
+Jonas Čarnkovskis suėmė Cigalą iš Vienos ir vokietį Zigmantą Rotą, atėmė imperatoriaus laišką ir paleido juos į laisvę.
 
 ## Teiginiai
 
+<a id="claim-t-186270"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad šis ryžtingai įvykdė, kas jam buvo patikėta, suėmė Cigalą iš Vienos bei vokietį Zigmantą Rotą; iškratė jų nešulius ir atėmė imperatoriaus laišką, pa leido juos laisvėn.'
+  global_id: t-186270
+  teiginys: 'Jonas Čarnkovskis suėmė Cigalą iš Vienos ir vokietį Zigmantą Rotą, atėmė imperatoriaus laišką ir paleido juos į laisvę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad šis ryžtingai įvykdė, kas jam buvo patikėta, suėmė Cigalą iš Vienos bei vokietį Zigmantą Rotą; iškratė jų nešulius ir atėmė imperatoriaus laišką, pa leido juos laisvėn.'
+  santrauka: 'Jonas Čarnkovskis suėmė Cigalą iš Vienos ir vokietį Zigmantą Rotą, atėmė imperatoriaus laišką ir paleido juos į laisvę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Viskam

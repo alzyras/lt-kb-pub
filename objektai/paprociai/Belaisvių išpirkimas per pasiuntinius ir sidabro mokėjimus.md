@@ -47,12 +47,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87204"></a>
 - t-001
+  global_id: t-87204
   teiginys: 'Pskovo pasiuntiniai Vilniuje sumokėjo Vytautui 1 000 sidabro rublių už belaisvių paleidimą, o vėliau pridėjo dar 250 rublių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87205"></a>
 - t-002
+  global_id: t-87205
   teiginys: 'Jie važiavę į Vilnių ir tapę Vytauto belaisviais ir sidabro praradę 1 000 rublių, o jis, niekšas, paėmė sidabrą ir belaisvius tvirtovėje pasodino.'
   pagrindžia:
     - c-001

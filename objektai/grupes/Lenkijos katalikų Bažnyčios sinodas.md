@@ -17,7 +17,9 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
 
 ## Teiginiai
 
+<a id="claim-t-01372"></a>
 - t-001
+  global_id: t-01372
   teiginys: 'Lenkijos katalikų Bažnyčios sinodas buvo iškeikęs visus 1573 metų Varšuvos konfederacijos gynėjus.'
   pagrindžia:
     - c-001

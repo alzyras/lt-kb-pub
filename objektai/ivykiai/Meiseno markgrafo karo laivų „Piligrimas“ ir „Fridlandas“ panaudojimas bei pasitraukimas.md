@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62877"></a>
 - t-001
+  global_id: t-62877
   teiginys: 'Dusburgietis teigia, kad apie karo laivus ir markgrafo pasitraukimą Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-62878"></a>
 - t-002
+  global_id: t-62878
   teiginys: 'Dusburgietis teigia, kad šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė vienas pasirodyti.'
   pagrindžia:
     - c-001

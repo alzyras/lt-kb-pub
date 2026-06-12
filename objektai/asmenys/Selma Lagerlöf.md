@@ -17,7 +17,9 @@ Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­ JIMAI.
 
 ## Teiginiai
 
+<a id="claim-t-34758"></a>
 - t-001
+  global_id: t-34758
   teiginys: 'Selma Lagerlöf už savo literatūros kūrinius buvo gavusi Nobelio premiją.'
   pagrindžia:
     - c-001

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M.
 
 ## Teiginiai
 
+<a id="claim-t-61323"></a>
 - t-001
+  global_id: t-61323
   teiginys: '„Toruń dawny i dzisiejszy: Zarys dziejów“, redaguotas M. Biskupo, išleistas 1983 m.'
   pagrindžia:
     - c-001

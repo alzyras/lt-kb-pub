@@ -19,7 +19,9 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
 
 ## Teiginiai
 
+<a id="claim-t-80619"></a>
 - t-001
+  global_id: t-80619
   teiginys: 'Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link, kurioje tuo metu rezidavo Rusijos valdovas Ivanas rv.'
   pagrindžia:
     - c-001

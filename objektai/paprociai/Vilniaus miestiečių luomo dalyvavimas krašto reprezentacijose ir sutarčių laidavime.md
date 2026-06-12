@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87169"></a>
 - t-001
+  global_id: t-87169
   teiginys: 'Vilniaus miesto reikšmė jau anais laikais buvo tokia didelė, kad lygia greta svarbiausių karalystės miestų, jam buvo leista laiduoti sutarties, sudarytos su kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87170"></a>
 - t-002
+  global_id: t-87170
   teiginys: 'Vilniaus miestiečių luomas turėjo nustatytą vietą krašto reprezentacijose ir nuo Vytauto laikų dalyvavo Lietuvos seimuose.'
   pagrindžia:
     - c-002

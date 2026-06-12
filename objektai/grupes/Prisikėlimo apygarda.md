@@ -23,22 +23,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41115"></a>
 - t-001
+  global_id: t-41115
   teiginys: '1949 m. rugpjūčio 13 d. Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41116"></a>
 - t-002
+  global_id: t-41116
   teiginys: '1948 m. Jungtinė Kęstučio apygarda buvo padalinta į Kęstučio ir Prisikėlimo apygardas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-41117"></a>
 - t-003
+  global_id: t-41117
   teiginys: 'Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta Maironio rinktine.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-41118"></a>
 - t-004
+  global_id: t-41118
   teiginys: 'Prisikėlimo apygardos partizanė Aleksandra Atgailainytė pasakojo apie KGB-MGB provokaciją.'
   pagrindžia:
     - c-001

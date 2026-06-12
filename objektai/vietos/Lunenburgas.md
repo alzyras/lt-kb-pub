@@ -26,22 +26,30 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
 
 ## Teiginiai
 
+<a id="claim-t-79718"></a>
 - t-001
+  global_id: t-79718
   teiginys: 'Vasarį lietuvių valdovai apgulė Lunenburgą ir sunaikino jo papilį per puolimą Prūsijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79719"></a>
 - t-002
+  global_id: t-79719
   teiginys: '1347 m. vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bartos žemę iki Girdavų pilies, apgulė Lunenburgą, sunaikino jo papilį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79720"></a>
 - t-003
+  global_id: t-79720
   teiginys: 'Lunenburgas vėliau vadintas Leunenburgu, o dabar tapatinamas su Sontočnu į pietryčius nuo Sempopolio.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79721"></a>
 - t-004
+  global_id: t-79721
   teiginys: 'Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą leidimo ir jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros ir Sainos593, santakoje, Lunenburgo [Liūno] pilį594.'
   pagrindžia:
     - c-003

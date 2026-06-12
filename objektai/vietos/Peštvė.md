@@ -26,17 +26,23 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
 
 ## Teiginiai
 
+<a id="claim-t-32446"></a>
 - t-001
+  global_id: t-32446
   teiginys: 'Kryžiuočiai sudegino Peštvės priešpilį Seredžiuje prie Dubysos žiočių, o pati Peštvė du kartus pamečiui buvo apgulta.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-32447"></a>
 - t-002
+  global_id: t-32447
   teiginys: 'Apie Peštvės įgulą yra užrašyta, jog ji, apgulusiems kryžiuočiams pasižadėjusi krikštytis, po derybų nakčia išbėgiojusi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-32448"></a>
 - t-003
+  global_id: t-32448
   teiginys: 'Grįždami jie sudegino dar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai buvo rodžiusios tvirtą atsparumą.'
   pagrindžia:
     - c-003

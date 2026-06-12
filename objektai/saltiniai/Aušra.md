@@ -28,12 +28,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-179569"></a>
 - t-001
+  global_id: t-179569
   teiginys: 'Nors po trejų metų „Aušra“ dėl vidinių idėjinių nesutarimų ir finansinių sunkumų sustojo ėjusi, lietuvių kaip savarankiškos tautos ugdymo darbo tęsėjų gretas išplėtė, jie ėmė rengti ir leisti naujus periodinius leidinius lietuvių kalba.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-179570"></a>
 - t-002
+  global_id: t-179570
   teiginys: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
   pagrindžia:
     - c-001

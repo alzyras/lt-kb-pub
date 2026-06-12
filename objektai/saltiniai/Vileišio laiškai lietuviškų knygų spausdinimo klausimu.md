@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31967"></a>
 - t-001
+  global_id: t-31967
   teiginys: '„Vileišio laiškai lietuviškų knygų spausdinimo klausimu“ paskelbti BBK 7 tome 1969 m., p. 201-214.'
   pagrindžia:
     - c-001

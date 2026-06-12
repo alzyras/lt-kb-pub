@@ -28,7 +28,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41134"></a>
 - t-001
+  global_id: t-41134
   teiginys: '1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.'
   pagrindžia:
     - c-001

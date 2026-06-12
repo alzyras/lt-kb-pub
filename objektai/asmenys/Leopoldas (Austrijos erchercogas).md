@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Leopoldas (Austrijos erchercogas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai Edigejus siaubė Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su Elžbieta ir iškėlė vestuvių puotą, kurioje dalyvavo ir Leopoldas, Austrijos erchercogas.
+Leopoldas, Austrijos erchercogas, dalyvavo Sanoke vykusioje Jogailos ir Elžbietos vestuvių puotoje.
 
 ## Teiginiai
 
+<a id="claim-t-186233"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai Edigejus siaubė Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su Elžbieta ir iškėlė vestuvių puotą, kurioje dalyvavo ir Leopoldas, Austrijos erchercogas.'
+  global_id: t-186233
+  teiginys: 'Leopoldas, Austrijos erchercogas, dalyvavo Sanoke vykusioje Jogailos ir Elžbietos vestuvių puotoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai Edigejus siaubė Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su Elžbieta ir iškėlė vestuvių puotą, kurioje dalyvavo ir Leopoldas, Austrijos erchercogas.'
+  santrauka: 'Leopoldas, Austrijos erchercogas, dalyvavo Sanoke vykusioje Jogailos ir Elžbietos vestuvių puotoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius, padrąsintas Vytauto tylėjimo, nu­
@@ -41,3 +42,10 @@ Kojelavičius teigia, kad kai Edigejus siaubė Rusią kalaviju bei ugnimi, Jogai
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Edigejus]]
+- [[objektai/asmenys/Elžbieta]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/paprociai/Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės]]

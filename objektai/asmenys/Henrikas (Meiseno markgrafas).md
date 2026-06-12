@@ -27,12 +27,16 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
 
 ## Teiginiai
 
+<a id="claim-t-63616"></a>
 - t-001
+  global_id: t-63616
   teiginys: 'Dusburgietis teigia, kad apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-63617"></a>
 - t-002
+  global_id: t-63617
   teiginys: 'Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.'
   pagrindžia:
     - c-002

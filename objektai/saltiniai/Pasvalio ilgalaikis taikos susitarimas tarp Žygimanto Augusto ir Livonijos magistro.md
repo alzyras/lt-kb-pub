@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Pasvalio ilgalaikis taikos susitarimas tarp Žygimanto Augusto ir Livonijos magistro
 
 ## Santrauka
 
-Kojelavičius teigia, kad todėl ma gistras su trimis šimtais bajorų atvyko pas karalių ir, paremtas Mikalojaus Radvilos, Nesvyžiaus kunigaikš čio, pasirašė ilgalaikį taikos susitarimą šitokiomis są lygomis. Kojelavičius teigia, kad jeigu Mask vos valdovas užpulsiąs ar Livoniją, ar Lietuvą, į kovą privalėsiančios stoti jungtinės abiejų tautų jėgos, be to, nė viena tauta negalėsianti atskirai sudaryti nei pa liaubų, nei pastovios taikos susitarimo.
+Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir, remiamas Mikalojaus Radvilos, pasirašė ilgalaikį taikos susitarimą. Pasvalio susitarime numatyta, kad Maskvai užpuolus Livoniją ar Lietuvą abi šalys kovos kartu ir atskirai nesudarys paliaubų ar taikos.
 
 ## Teiginiai
 
+<a id="claim-t-186320"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad todėl ma gistras su trimis šimtais bajorų atvyko pas karalių ir, paremtas Mikalojaus Radvilos, Nesvyžiaus kunigaikš čio, pasirašė ilgalaikį taikos susitarimą šitokiomis są lygomis.'
+  global_id: t-186320
+  teiginys: 'Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir, remiamas Mikalojaus Radvilos, pasirašė ilgalaikį taikos susitarimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186321"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad jeigu Mask vos valdovas užpulsiąs ar Livoniją, ar Lietuvą, į kovą privalėsiančios stoti jungtinės abiejų tautų jėgos, be to, nė viena tauta negalėsianti atskirai sudaryti nei pa liaubų, nei pastovios taikos susitarimo.'
+  global_id: t-186321
+  teiginys: 'Pasvalio susitarime numatyta, kad Maskvai užpuolus Livoniją ar Lietuvą abi šalys kovos kartu ir atskirai nesudarys paliaubų ar taikos.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad todėl ma gistras su trimis šimtais bajorų atvyko pas karalių ir, paremtas Mikalojaus Radvilos, Nesvyžiaus kunigaikš čio, pasirašė ilgalaikį taikos susitarimą šitokiomis są lygomis.'
+  santrauka: 'Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir, remiamas Mikalojaus Radvilos, pasirašė ilgalaikį taikos susitarimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kas be ko, sunkios sąlygos,
@@ -49,7 +52,7 @@ Kojelavičius teigia, kad todėl ma gistras su trimis šimtais bajorų atvyko pa
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad jeigu Mask vos valdovas užpulsiąs ar Livoniją, ar Lietuvą, į kovą privalėsiančios stoti jungtinės abiejų tautų jėgos, be to, nė viena tauta negalėsianti atskirai sudaryti nei pa liaubų, nei pastovios taikos susitarimo.'
+  santrauka: 'Pasvalio susitarime numatyta, kad Maskvai užpuolus Livoniją ar Lietuvą abi šalys kovos kartu ir atskirai nesudarys paliaubų ar taikos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jeigu Mask­

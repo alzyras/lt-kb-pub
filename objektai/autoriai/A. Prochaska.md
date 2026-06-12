@@ -27,27 +27,37 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
 
 ## Teiginiai
 
+<a id="claim-t-47868"></a>
 - t-001
+  global_id: t-47868
   teiginys: 'A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Jogailos bei Vytauto monografijas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-47869"></a>
 - t-002
+  global_id: t-47869
   teiginys: 'A. Prochaska parašė „Stosunki krzyżaków z Gediminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-47870"></a>
 - t-003
+  global_id: t-47870
   teiginys: 'A. Prochaska parašė darbą „O prawdziwości listów Gedymina“, publikuotą 1893 m.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-47871"></a>
 - t-004
+  global_id: t-47871
   teiginys: 'A. Prochaska parašė darbus „Stosunki krzyżaków z Gedyminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-47872"></a>
 - t-005
+  global_id: t-47872
   teiginys: 'A. Prochaska gynė Gedimino laiškų autentiškumą.'
   pagrindžia:
     - c-004

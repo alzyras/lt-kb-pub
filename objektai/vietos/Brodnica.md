@@ -27,22 +27,30 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
 
 ## Teiginiai
 
+<a id="claim-t-83242"></a>
 - t-001
+  global_id: t-83242
   teiginys: 'Plėšikautojų būrys per Drevencą įsiveržė į Brodnicos apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-83243"></a>
 - t-002
+  global_id: t-83243
   teiginys: 'Vytautas 1414-1418 m. paliaubų pasitarimuose Brodnicoje gynė prekybos reikalus su Ordinu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-83244"></a>
 - t-003
+  global_id: t-83244
   teiginys: 'Plėšikautojų būrys įsiveržė į Brodnicos apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-83245"></a>
 - t-004
+  global_id: t-83245
   teiginys: 'Vytautas paliko Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats skubiai grįžo į Lietuvą.'
   pagrindžia:
     - c-001

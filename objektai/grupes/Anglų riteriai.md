@@ -18,7 +18,9 @@ Anglų riteriai, ne kartą draugėj su kryžiuočiais ėję į kryžiaus žygius
 
 ## Teiginiai
 
+<a id="claim-t-86788"></a>
 - t-001
+  global_id: t-86788
   teiginys: 'Anglų riteriai ne kartą kartu su kryžiuočiais dalyvavo kryžiaus žygiuose prieš pagonimis laikytus lietuvius.'
   pagrindžia:
     - c-001

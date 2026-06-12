@@ -16,7 +16,9 @@ Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europ
 
 ## Teiginiai
 
+<a id="claim-t-18894"></a>
 - t-001
+  global_id: t-18894
   teiginys: 'Krepšininkas Frank Lubin su Lietuvos rinktine tapo Europos čempionu.'
   pagrindžia:
     - c-001

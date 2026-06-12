@@ -25,7 +25,9 @@ Dusburgietis teigia, kad piętka J.
 
 ## Teiginiai
 
+<a id="claim-t-61228"></a>
 - t-001
+  global_id: t-61228
   teiginys: 'J. Piętkos straipsnis apie Mazovijos feodalinės elito genezę paskelbtas 1979 m. „Rocznik mazowiecki“ septintame tome, p. 31–56.'
   pagrindžia:
     - c-001

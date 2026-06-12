@@ -19,7 +19,9 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
 
 ## Teiginiai
 
+<a id="claim-t-35414"></a>
 - t-001
+  global_id: t-35414
   teiginys: 'Ordino magistras Zöllneris atsisakė būti Jogailos krikštatėviu.'
   pagrindžia:
     - c-001

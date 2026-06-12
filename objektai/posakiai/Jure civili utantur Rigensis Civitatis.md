@@ -38,17 +38,23 @@ Ji reiškia pažadą taikyti Rygos miesto civilinę teisę kaip laikiną ar gali
 
 ## Teiginiai
 
+<a id="claim-t-55176"></a>
 - t-001
+  global_id: t-55176
   teiginys: 'Gedimino laiške į Vilnių atvykstantiems kolonistams žadėta vadovautis Rygos miesto civiline teise.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55177"></a>
 - t-002
+  global_id: t-55177
   teiginys: '„Jure civili utantur Rigensis Civitatis“ Gedimino laiške leido Vilniaus kolonistams naudotis Rygos civiline teise, kol bus sukurti geresni įstatymai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82139"></a>
 - t-003
+  global_id: t-82139
   teiginys: '„Jure civili utantur Rigensis Civitatis“ nurodė, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.'
   pagrindžia:
     - c-001

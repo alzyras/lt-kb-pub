@@ -18,18 +18,24 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
 
 ## Teiginiai
 
+<a id="claim-t-60147"></a>
 - t-001
+  global_id: t-60147
   teiginys: 'Dusburgietis teigia, kad šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60148"></a>
 - t-002
+  global_id: t-60148
   teiginys: 'Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pačiais metais ir tuo pačiu laiku lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją ir, neskaitant kitų ten pridarytų piktadarybių, išsigabeno didelį grobį: išsivarė daug žmonių ir išsivežė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184718"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad pasivijęs jį, atsitraukiantį su dideliu grobiu, Jazbutas įniko persekioti užN u žu d o m a s lie tu v ių pakaimę vorą, kuriai tuomet k u n ig a ik štis J a zb u ta s vadovavo Henrikas Cutsvertas.'
+  global_id: t-184718
+  teiginys: 'Jazbutas persekiojo Henriko Cutsverto vadovaujamą užpakalinę vorą ir puolė priešą kalaviju.'
   pagrindžia:
     - c-003
 
@@ -71,7 +77,7 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
     - t-003
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad pasivijęs jį, atsitraukiantį su dideliu grobiu, Jazbutas įniko persekioti užN u žu d o m a s lie tu v ių pakaimę vorą, kuriai tuomet k u n ig a ik štis J a zb u ta s vadovavo Henrikas Cutsvertas.'
+  santrauka: 'Jazbutas persekiojo Henriko Cutsverto vadovaujamą užpakalinę vorą ir puolė priešą kalaviju.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pasivijęs jį, atsitraukiantį su dideliu grobiu,
@@ -102,3 +108,13 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Jazbuto pralaimėjimas tarp Alnos ir Narevo upių]]
+- [[objektai/ivykiai/Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.)]]
+- [[objektai/ivykiai/Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis]]

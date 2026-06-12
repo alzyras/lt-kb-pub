@@ -48,465 +48,648 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 
 ## Teiginiai
 
+<a id="claim-t-10565"></a>
 - t-001
+  global_id: t-10565
   teiginys: 'Bolševikų puolimo planas numatė apeiti ir užpulti Kauną iš pietų, o 5-ajam pulkui pulti Kauną tiesiai pro Kaišiadoris.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-10566"></a>
 - t-002
+  global_id: t-10566
   teiginys: '1919 m. balandžio 3-8 d. lietuviai iš Kauno puolė Vilniaus link.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-10567"></a>
 - t-003
+  global_id: t-10567
   teiginys: '1920 m. vasario 22-23 d. Kaune kilo bolševikų sukurstytas maištas.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-10847"></a>
 - t-004
+  global_id: t-10847
   teiginys: 'Kaunas buvo stipriausia lietuvių pilis ir kovose su Ordinu suvaidino svarbų vaidmenį.'
   pagrindžia:
     - c-002
     - c-044
 
+<a id="claim-t-10848"></a>
 - t-005
+  global_id: t-10848
   teiginys: 'Vytautas atstatė Kauno pilį ir kitas Ordino pasienyje sugriautas pilis.'
   pagrindžia:
     - c-023
 
+<a id="claim-t-10849"></a>
 - t-006
+  global_id: t-10849
   teiginys: 'Vytauto laikais Kaunas buvo vienas svarbiausių prekybos centrų prie Nemuno; čia Hanza buvo įsteigusi savo agentūrą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-10850"></a>
 - t-007
+  global_id: t-10850
   teiginys: 'Kaune buvo įkurta jėzuitų kolegija.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-12492"></a>
 - t-008
+  global_id: t-12492
   teiginys: 'Vytautas Kaune pastatė parapinę ir pranciškonų bažnyčias.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-179916"></a>
 - t-009
+  global_id: t-179916
   teiginys: 'Vytauto valdymo metu Kaunas ir Polockas buvo du dideli prekybos centrai Lietuvoje.'
   pagrindžia:
     - c-021
 
+<a id="claim-t-179917"></a>
 - t-010
+  global_id: t-179917
   teiginys: 'Tačiau 1941 m. liepą reichskomisaras Heinrichas Himleris (Heinrich Himmler) pats asmeniškai apkeliavo visą užimtą vakarinę SSRS dalį, perteikdamas einzatsgrupėms (A, veikusiai Kaune, ir B, veikusiai Vilniuje), kad žudyti reikia ne tik žydų vyrus, bet ir.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-179918"></a>
 - t-011
+  global_id: t-179918
   teiginys: 'Pasaulio lietuvių kongresas Kaune 1935 m., į kurį atvyko 3 000 delegatų ir svečių iš 19 valstybių, parodė, kad dauguma užsienio lietuvių artimi Lietuvai, rūpinasi jos ateitimi, nors ir nepritaria autoritarinio režimo įvestiems politiniams suvaržymams.'
   pagrindžia:
     - c-061
 
+<a id="claim-t-179919"></a>
 - t-012
+  global_id: t-179919
   teiginys: '1362 metais vokiečiai išgriovė Kauno pilį ir pradėjo brautis giliau į Lietuvą.'
   pagrindžia:
     - c-067
 
+<a id="claim-t-179920"></a>
 - t-013
+  global_id: t-179920
   teiginys: 'Kaune Vytautas suteikė Magdeburgo teises (1408 m.) vokiečių pirkliams.'
   pagrindžia:
     - c-025
 
+<a id="claim-t-179921"></a>
 - t-014
+  global_id: t-179921
   teiginys: 'Laisvės sąlygomis sparčiai kilo švietimas, atsidarė naujų mokyklų, 1919 m. Lietuvoje jau veikė 1 036 mokyklos, jose buvo 45 540 mokinių, Aukštieji kursai Kaune netrukus peraugo į Lietuvos universitetą (atidarytas 1922 m. vasario 16 d.).'
   pagrindžia:
     - c-066
 
+<a id="claim-t-179922"></a>
 - t-015
+  global_id: t-179922
   teiginys: 'Grįžęs namo, jis vėl organizavo žygį iš Įsruties į Kauną, „atnešė stabmeldžiams visokių nelaimių“, bet per Kauno mūrinės pilies statyba.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-179923"></a>
 - t-016
+  global_id: t-179923
   teiginys: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
   pagrindžia:
     - c-042
 
+<a id="claim-t-179924"></a>
 - t-017
+  global_id: t-179924
   teiginys: 'Kaunas buvo Hanzos miestas.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-179925"></a>
 - t-018
+  global_id: t-179925
   teiginys: 'Planuota siena žemupyje buvo išvesta taip, kad Kaunas ir Rumšiškių plotas turėjo patekti Ordinui.'
   pagrindžia:
     - c-038
 
+<a id="claim-t-179926"></a>
 - t-019
+  global_id: t-179926
   teiginys: ': Katalikų Bažnyčia Lietuvoje, Kaunas 1936 (spaudai paruošė kim.'
   pagrindžia:
     - c-048
 
+<a id="claim-t-179927"></a>
 - t-020
+  global_id: t-179927
   teiginys: 'Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, greitosiomis kūrė Lietuvos karines pajėgas.'
   pagrindžia:
     - c-055
 
+<a id="claim-t-179928"></a>
 - t-021
+  global_id: t-179928
   teiginys: 'Lapkričio 15 d. Kaune ant Ernesto Galvanausko miegamojo palangės sprogo bomba, o sužeistas Galvanauskas liko gyvas.'
   pagrindžia:
     - c-036
 
+<a id="claim-t-179929"></a>
 - t-022
+  global_id: t-179929
   teiginys: 'Kūrybingai panaudodami vokiečių motorus ir prancūzų fiuzelažus, lietuviai Kaune konstravo ir statė savo karo ir sporto lėktuvus, tarp jų ir lengvuosius bombonešius, gamino sklandytuvus sporto reikalams.'
   pagrindžia:
     - c-076
 
+<a id="claim-t-179930"></a>
 - t-023
+  global_id: t-179930
   teiginys: 'Tik po dviejų dešimtmečių, jau Vytautui esant ordino globoje, 1384 vasarą Kauno vietoje buvo pastatyta tvirčiausia priešo žemėje mūrinė pilis — Marienwerder.'
   pagrindžia:
     - c-039
 
+<a id="claim-t-179931"></a>
 - t-024
+  global_id: t-179931
   teiginys: 'Vytauto valdymo metu vokiečių pirkliai Kaune turėjo miesto svarstykles, malūną, audimo ir vaško apdirbimo dirbtuves.'
   pagrindžia:
     - c-033
 
+<a id="claim-t-179932"></a>
 - t-025
+  global_id: t-179932
   teiginys: 'Kun. dr. J. Stakausko vokiška disertacija 1934 m. Kaune buvo sulietuvinta ir papildyta.'
   pagrindžia:
     - c-020
 
+<a id="claim-t-179933"></a>
 - t-026
+  global_id: t-179933
   teiginys: 'Padalijus kraštą į apskritis, kurių ribos buvo dažnai kaitaliojamos, 1916 m. birželį Lietuvos apskritis (su centru Kaune) suvienyta su Vilniaus apskritimi, o 1918 m. įsteigta Lietuvos karinė valdyba (Militaerverwaltung Litauen).'
   pagrindžia:
     - c-053
 
+<a id="claim-t-179934"></a>
 - t-027
+  global_id: t-179934
   teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., suėmė daug pogrindinės spaudos leidėjų ir.'
   pagrindžia:
     - c-052
 
+<a id="claim-t-179935"></a>
 - t-028
+  global_id: t-179935
   teiginys: 'Su nepasitikėjimu priimtas Marienburge (1412.XII.), vykdamas per Ragainę ir Kauną, Makra Kalėdoms jau buvo pas Vytautą — jo puošnioje salos pilyje Trakuose^9.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-179936"></a>
 - t-029
+  global_id: t-179936
   teiginys: '1408 m. Vytautas po Kauno gaisro patvirtino miestui anksčiau suteiktas laisves.'
   pagrindžia:
     - c-047
 
+<a id="claim-t-179937"></a>
 - t-030
+  global_id: t-179937
   teiginys: 'Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią lietuvių religinę ir tautinę dvasią.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-179938"></a>
 - t-031
+  global_id: t-179938
   teiginys: 'O turima galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų titulai.'
   pagrindžia:
     - c-059
 
+<a id="claim-t-179939"></a>
 - t-032
+  global_id: t-179939
   teiginys: 'Todėl kai kas yra sakęs: „Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.“ Nors Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos.'
   pagrindžia:
-    - c-080
     - c-015
 
+<a id="claim-t-179941"></a>
 - t-033
+  global_id: t-179941
   teiginys: '1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis užimtame Kaune per radiją paskelbė apie Lietuvos valstybės atkūrimą.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-179942"></a>
 - t-034
+  global_id: t-179942
   teiginys: 'Didžiojo kunigaikščio Aleksandro įsakymu Vilniaus miestiečių laivams su prekėmis buvo garantuota laisva laivyba Vilija iki Kauno ir atgal.'
   pagrindžia:
     - c-030
 
+<a id="claim-t-179943"></a>
 - t-035
+  global_id: t-179943
   teiginys: '1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.'
   pagrindžia:
     - c-063
 
+<a id="claim-t-179944"></a>
 - t-036
+  global_id: t-179944
   teiginys: 'Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią religinę ir tautinę dvasią.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-179946"></a>
 - t-037
+  global_id: t-179946
   teiginys: 'Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Dotnuvoje, Veterinarijos akademija Kaune, rengusios specialistus žemės ūkiui, Pedagoginis institutas rengė mokytojus, Dailės mokykla ir konservatorija ugdė menininkus, gavę valstybės.'
   pagrindžia:
     - c-074
 
+<a id="claim-t-179947"></a>
 - t-038
+  global_id: t-179947
   teiginys: 'O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas, Vilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry (Romanas Gari) ar Kaune gimęs ir gimnaziją.'
   pagrindžia:
     - c-043
 
+<a id="claim-t-179948"></a>
 - t-039
+  global_id: t-179948
   teiginys: 'Grįžęs į Kauną Augustinas Voldemaras Karininkų ramovėje ir per radiją pareiškė, kad Lietuva išėjo į pasaulinę politiką.'
   pagrindžia:
     - c-069
 
+<a id="claim-t-179950"></a>
 - t-040
+  global_id: t-179950
   teiginys: 'Jurgio Talmanto vertimas, Kaunas 1930) reikalavo į šį didį valdovą žiūrėti lietuvių požiūriu.'
   pagrindžia:
     - c-050
 
+<a id="claim-t-179951"></a>
 - t-041
+  global_id: t-179951
   teiginys: 'Tad iš viso išrinkta 112 atstovų, kurie gegužės 15 dieną laikinojoje sostinėje Kaune susirinko į pirmąjį Seimo posėdį.'
   pagrindžia:
     - c-026
 
+<a id="claim-t-179953"></a>
 - t-042
+  global_id: t-179953
   teiginys: '1920 m. vasario 22-23 d. Kaune kilo bolševikų sukurstytas maištas, jo pergalė būtų įrodžiusi Lenkijos tarptautinę poziciją, kad Lietuvos vyriausybė yra prokomunistinė ir leidusi pulti Lietuvą atvira karine jėga.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-179955"></a>
 - t-043
+  global_id: t-179955
   teiginys: 'Žygimantas suteikė Vilniaus miestiečiams teisę be muito gabenti prekes visoje Lietuvos žemėje, taip pat Kaune.'
   pagrindžia:
     - c-047
 
+<a id="claim-t-179957"></a>
 - t-044
+  global_id: t-179957
   teiginys: 'Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos masinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių susirinko prie laikinosios sostinės Kauno.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-179958"></a>
 - t-045
+  global_id: t-179958
   teiginys: '1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir ėmė siaubti kraštą.'
   pagrindžia:
     - c-070
 
+<a id="claim-t-179959"></a>
 - t-046
+  global_id: t-179959
   teiginys: 'Kruopščiai atrinkęs iš Centrinio Valstybės Archyvo (Kaune) ir eilės kitų Lietuvos archyvų reikalingus aktus, Jablonskis išleido «XVI amžiaus inventorius» (1934).'
   pagrindžia:
     - c-040
 
+<a id="claim-t-179960"></a>
 - t-047
+  global_id: t-179960
   teiginys: 'Kauno Įgulos bažnyčioje buvo atidaryti Skulptūros ir vitražo muziejai.'
   pagrindžia:
     - c-058
 
+<a id="claim-t-179961"></a>
 - t-048
+  global_id: t-179961
   teiginys: 'Sportas tapo integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olimpiadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai.'
   pagrindžia:
     - c-041
 
+<a id="claim-t-179962"></a>
 - t-049
+  global_id: t-179962
   teiginys: '1934 m. lapkričio 23 d. Kaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos laisvę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi karių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iškilmingai.'
   pagrindžia:
     - c-046
 
+<a id="claim-t-179963"></a>
 - t-050
+  global_id: t-179963
   teiginys: 'Augo ir modernėjo miestai, Kaunas, 1939 m. turėjęs 154 000 gyventojų, iš kurių 60 proc.'
   pagrindžia:
     - c-056
 
+<a id="claim-t-179964"></a>
 - t-051
+  global_id: t-179964
   teiginys: 'Mergelės Marijos – iškart po šio mūšio funduota Vytauto bažnyčia Kaune buvo pašvęsta Švč.'
   pagrindžia:
     - c-031
 
+<a id="claim-t-179965"></a>
 - t-052
+  global_id: t-179965
   teiginys: '1939 m. Kaune Lietuva antrą kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė Italijoje iškovojo Europos čempionato sidabro medalius.'
   pagrindžia:
     - c-071
 
+<a id="claim-t-179966"></a>
 - t-053
+  global_id: t-179966
   teiginys: 'Kaunas senovėje buvo laikomas vartais į pagoniškąją Lietuvą ir garsėjo tvirtovėmis bei prekyba.'
   pagrindžia:
     - c-079
 
+<a id="claim-t-179968"></a>
 - t-054
+  global_id: t-179968
   teiginys: 'Pasak senos tradicijos, Vytautas už išsigelbėjimą įkūrė pranciškonų vienuolynus Kaune ir Ašmenoje.'
   pagrindžia:
     - c-060
 
+<a id="claim-t-179969"></a>
 - t-055
+  global_id: t-179969
   teiginys: 'Šach Achmedas buvo iki gyvos galvos įkalintas Kauno kalėjime.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-179970"></a>
 - t-056
+  global_id: t-179970
   teiginys: 'Po pirmojo bolševikmečio pertraukos Z. Ivinskis Filosofijos fakultete Kaune skaitė Lietuvos ūkio istoriją.'
   pagrindžia:
     - c-028
 
+<a id="claim-t-179971"></a>
 - t-057
+  global_id: t-179971
   teiginys: 'Kaune laukiančią ore pasirodant lėktuvo kone šimtatūkstantinę minią žmonių gauta žinia pravirkdė.'
   pagrindžia:
     - c-051
 
+<a id="claim-t-179972"></a>
 - t-058
+  global_id: t-179972
   teiginys: '1388 m. ties Kaunu buvo sudaryta taikos sutartis tarp Ordino maršalo Engelhardo Rabės ir Lietuvos.'
   pagrindžia:
     - c-027
 
+<a id="claim-t-179973"></a>
 - t-059
+  global_id: t-179973
   teiginys: '1941 m. birželio 23 d. užėmus Kauno radiją, LAF atstovas Leonas Prapuolenis paskelbė apie Lietuvos valstybės atkūrimą.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-179974"></a>
 - t-060
+  global_id: t-179974
   teiginys: 'Vytautas Kauno sutarties su Ordinu atveju veikė savarankiškai, kai jam to reikėjo politikoje.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-179975"></a>
 - t-061
+  global_id: t-179975
   teiginys: 'Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai.'
   pagrindžia:
     - c-057
 
+<a id="claim-t-179976"></a>
 - t-062
-  teiginys: 'Atstatęs Kauno ir kitas ordino pasieny sugriautas pilis, jis pradėjo raginti žemaičius keltis pas jį.'
+  global_id: t-179976
+  teiginys: 'Po santykių su Lenkija sunormavimo buvo atstatytos Kauno ir kitos ordino pasienyje sugriautos pilys.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-179977"></a>
 - t-063
+  global_id: t-179977
   teiginys: 'Ji lengvai užėmė Kauną, bet Vilniaus pulti neskubėjo, nes kūrė Laikinąją Lenkijos vyriausybę Lietuvoje.'
   pagrindžia:
     - c-054
 
+<a id="claim-t-179978"></a>
 - t-064
+  global_id: t-179978
   teiginys: 'Kaunas tačiau buvo per toli nuo ordino žemių.'
   pagrindžia:
     - c-065
 
+<a id="claim-t-179979"></a>
 - t-065
+  global_id: t-179979
   teiginys: '1385 metų rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną.'
   pagrindžia:
     - c-070
 
+<a id="claim-t-179980"></a>
 - t-066
+  global_id: t-179980
   teiginys: 'Valdžia atvirai kišosi į aukštųjų mokyklų reikalus, savo nuožiūra pakeitė Alma Mater pavadinimus (1950 m. Vytauto Didžiojo universitetas, tuomet jau pavadintas Kauno universitetu, reorganizuotas į Kauno politechnikos institutą ir Kauno medicinos institutą).'
   pagrindžia:
     - c-073
 
+<a id="claim-t-179981"></a>
 - t-067
+  global_id: t-179981
   teiginys: 'Žygimantas Vilniaus miestiečiams leido be muito gabenti prekes visoje Lietuvos žemėje, įskaitant Kauną.'
   pagrindžia:
     - c-030
 
+<a id="claim-t-179982"></a>
 - t-068
+  global_id: t-179982
   teiginys: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
   pagrindžia:
     - c-049
 
+<a id="claim-t-179983"></a>
 - t-069
+  global_id: t-179983
   teiginys: 'Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams nusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15-ąją įžengė į Vilnių – taip senoji.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-179984"></a>
 - t-070
+  global_id: t-179984
   teiginys: 'Šio konflikto esmę paaiškina įdomi detalė: 1413 m. sausio 28 d. derybose Salyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu Mykolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys.'
   pagrindžia:
     - c-024
 
+<a id="claim-t-179985"></a>
 - t-071
+  global_id: t-179985
   teiginys: 'Talkininkaujami svečių iš Anglijos, Vokietijos ir Italijos, ir padedami Livonijos magistro, Prūsų kryžiuočiai 1362 pavasarį atliko drąsų žygį, išgriaudami svarbią lietuvių Nemuno ir Neries santakos pilį — Kauną.'
   pagrindžia:
     - c-062
 
+<a id="claim-t-179986"></a>
 - t-072
-  teiginys: 'Todėl prie Dauguvos iškilo didelis prekybos centras Polockas, o prie Nemuno — Kaunas.'
+  global_id: t-179986
+  teiginys: 'Vytauto laikais prie Nemuno iškilo didelis prekybos centras Kaunas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-179987"></a>
 - t-073
+  global_id: t-179987
   teiginys: 'Daliai lietuvių inteligentų pasitraukus į Peterburgą, likę Vilniuje ir Kaune suvokė, kad Vokietija planuoja aneksuoti okupuotas teritorijas, jas kolonizuoti ir germanizuoti.'
   pagrindžia:
     - c-035
 
+<a id="claim-t-179988"></a>
 - t-074
+  global_id: t-179988
   teiginys: 'Tuo pat laiku (1382 birželio gale) kryžiuočiai įsiveržę Lietuvon ir sunaikinę Kauno apylinkėj ant Neries kranto Eigulių pilį, traukė prie Kęstučio Trakų.'
   pagrindžia:
     - c-072
 
+<a id="claim-t-179989"></a>
 - t-075
+  global_id: t-179989
   teiginys: 'Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai industrializacijai ir urbanizacijai, septintąjį–aštuntąjį dešimtmetį pastatyta daug didelių naujų pramonės įmonių (Kauno HES, Mažeikių naftos perdirbimo įmonė, Jonavos azotinių trąšų.'
   pagrindžia:
     - c-032
 
+<a id="claim-t-179990"></a>
 - t-076
+  global_id: t-179990
   teiginys: 'Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą.'
   pagrindžia:
     - c-064
 
+<a id="claim-t-179991"></a>
 - t-077
+  global_id: t-179991
   teiginys: 'Dusburgietis teigia, kad požėlos spaustuvė, Kaunas Kūrinys suskaitmenintas vykdant ES struktūrinių fondų remiamą projektą „LIETUVIŲ LITERATŪROS KLASIKOS KŪRINIŲ PERKĖLIMAS Į ELEKTRONINĘ ERDVĘ“, 2013 TURINYS Pratarmė 5 Petro Dusburgiečio kronika 7 PRŪSIJOS ŽEMĖS KRONIKA 32 Pirma.'
   pagrindžia:
     - c-045
 
+<a id="claim-t-179992"></a>
 - t-078
+  global_id: t-179992
   teiginys: 'Petro ir Povilo bažnyčia ar Pažaislio vienuolyno ansamblis prie Kauno.'
   pagrindžia:
     - c-068
 
+<a id="claim-t-179993"></a>
 - t-079
+  global_id: t-179993
   teiginys: 'Kaune, buvusioje Kęstučio pilies vietoje, buvo pastatyta tvirta mūrinė Marienverderio pilis.'
   pagrindžia:
     - c-022
 
+<a id="claim-t-179994"></a>
 - t-080
+  global_id: t-179994
   teiginys: 'Birželio 10 dieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje.'
   pagrindžia:
     - c-029
 
+<a id="claim-t-179995"></a>
 - t-081
+  global_id: t-179995
   teiginys: 'Pasirinkus Makrai Kauną bylos sprendimo vieta, abi pusi ten pristatinėjo savo liudininkus.'
   pagrindžia:
     - c-037
 
+<a id="claim-t-179996"></a>
 - t-082
+  global_id: t-179996
   teiginys: 'Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.'
   pagrindžia:
     - c-075
 
+<a id="claim-t-179998"></a>
 - t-084
+  global_id: t-179998
   teiginys: 'Aleksandras garantavo Vilniaus miestiečiams laisvą prekių laivybą Vilija nuo Vilniaus iki Kauno ir atgal.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-179999"></a>
 - t-085
+  global_id: t-179999
   teiginys: '1413 metų rudenį Vytautas ir Jogaila Nemunu keliavo iš Merkinės į Kauną, o iš Kauno plaukė iki Dubysos.'
   pagrindžia:
     - c-034
 
+<a id="claim-t-184974"></a>
 - t-089
-  teiginys: 'Kojelavičius teigia, kad tas miestas su pilimi, įkūrėjo at minimui pavadintas Kaunu, po šiai dienai tebėra vie nas iš žymiausių Lietuvoje.'
+  global_id: t-184974
+  teiginys: 'Kaunas buvo įkurtas Neries ir Nemuno santakoje ir pavadintas įkūrėjo atminimui.'
   pagrindžia:
     - c-080
 
+<a id="claim-t-184975"></a>
 - t-090
-  teiginys: 'Kojelavičius teigia, kad pirmiausia jie užgriuvo Kauną; pilį puolė pasitelkę visokiausių 1362 m e ta i prietaisų, pasiryžę nugalėti, ypač po to, kai Algirdas, atvykęs su kariuomene pralaužti apsupimo žiedo, nieko nelaimėjo ir buvo atstumtas.'
+  global_id: t-184975
+  teiginys: '1362 m. kryžiuočiai užgriuvo Kauną ir po ilgos apsiausties užėmė pilį.'
   pagrindžia:
     - c-081
 
+<a id="claim-t-184976"></a>
 - t-091
-  teiginys: 'Kojelavičius teigia, kad iš pradžių Ragainės komtūras išsklaidė dar bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė pradėtą pilį.'
+  global_id: t-184976
+  teiginys: 'Ragainės komtūras išsklaidė Kauno tvirtovę iš griuvėsių kelti mėginusius darbininkus ir išardė pradėtą pilį.'
   pagrindžia:
     - c-082
 
+<a id="claim-t-184977"></a>
 - t-092
-  teiginys: 'Kojelavičius teigia, kad kadangi Kaunas Neries ir N e s ė k m in g a i m ė g in a Nemuno santakoje vasarą p u lti K au n ą sunkiau prieinamas, tuo tarpu žiemą, užšalus vandenims, be vargo apsupamas, todėl Vytautas, tikėdamasis jį pa imti, priėjo tylomis miškais ir netikėtai pasirodė.'
+  global_id: t-184977
+  teiginys: 'Žiemą Vytautas tylomis miškais priėjo prie Kauno, tikėdamasis užimti miestą ir pilį Neries bei Nemuno santakoje.'
   pagrindžia:
     - c-083
 
+<a id="claim-t-184978"></a>
 - t-093
-  teiginys: 'Kojelavičius teigia, kad todėl supti Kauną Vytautui buvo sunkiau nei tikėjosi.'
+  global_id: t-184978
+  teiginys: 'Dėl stiprių lietuvių ir lenkų samdytinių įgulų Vytautui Kauną apsiausti buvo sunkiau, nei jis tikėjosi.'
   pagrindžia:
     - c-084
 
+<a id="claim-t-184979"></a>
 - t-094
-  teiginys: 'Kojelavičius teigia, kad pranciškaus ordino vienuo liams iš pradžių Kaune, o vėliau Ašmenoje bažnyčią bei vienuolyną ir dosniai juos apdovanojo.'
+  global_id: t-184979
+  teiginys: 'Vytautas Kaune pastatė šv. Pranciškaus ordino vienuoliams bažnyčią bei vienuolyną ir dosniai juos apdovanojo.'
   pagrindžia:
     - c-085
 
+<a id="claim-t-184980"></a>
 - t-095
-  teiginys: 'Kojelavičius teigia, kad susitaręs su Vytautu, Jo gaila, dėdamasis turįs visai kitų ketinimų, atvyko į Kauną.'
+  global_id: t-184980
+  teiginys: 'Jogaila, susitaręs su Vytautu ir dėdamasis turįs kitų ketinimų, atvyko į Kauną.'
   pagrindžia:
     - c-086
 
+<a id="claim-t-184981"></a>
 - t-096
-  teiginys: 'Kojelavičius teigia, kad iš ten karalius nuvyko į Lietuvą ir likusius žiemos mėnesius praleido Kaune, nes Vil niuje ir Gardine siautė maras.'
+  global_id: t-184981
+  teiginys: 'Karalius likusius žiemos mėnesius praleido Kaune, nes Vilniuje ir Gardine siautė maras.'
   pagrindžia:
     - c-087
 
@@ -656,6 +839,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - t-015
 
 - c-010
+  santrauka: 'Po santykių su Lenkija sunormavimo buvo atstatytos Kauno ir kitos ordino pasienyje sugriautos pilys.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Sunormavęs santykius su
@@ -1910,7 +2094,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - t-053
 
 - c-080
-  santrauka: 'Kojelavičius teigia, kad tas miestas su pilimi, įkūrėjo at minimui pavadintas Kaunu, po šiai dienai tebėra vie nas iš žymiausių Lietuvoje.'
+  santrauka: 'Kaunas buvo įkurtas Neries ir Nemuno santakoje ir pavadintas įkūrėjo atminimui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kūno, arba
@@ -1927,7 +2111,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - t-089
 
 - c-081
-  santrauka: 'Kojelavičius teigia, kad pirmiausia jie užgriuvo Kauną; pilį puolė pasitelkę visokiausių 1362 m e ta i prietaisų, pasiryžę nugalėti, ypač po to, kai Algirdas, atvykęs su kariuomene pralaužti apsupimo žiedo, nieko nelaimėjo ir buvo atstumtas.'
+  santrauka: '1362 m. kryžiuočiai užgriuvo Kauną ir po ilgos apsiausties užėmė pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pirmiausia jie užgriuvo Kauną; pilį
@@ -1958,7 +2142,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - t-090
 
 - c-082
-  santrauka: 'Kojelavičius teigia, kad iš pradžių Ragainės komtūras išsklaidė dar bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė pradėtą pilį.'
+  santrauka: 'Ragainės komtūras išsklaidė Kauno tvirtovę iš griuvėsių kelti mėginusius darbininkus ir išardė pradėtą pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kita vertus, priešas irgi iš pas­
@@ -1981,7 +2165,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - t-091
 
 - c-083
-  santrauka: 'Kojelavičius teigia, kad kadangi Kaunas Neries ir N e s ė k m in g a i m ė g in a Nemuno santakoje vasarą p u lti K au n ą sunkiau prieinamas, tuo tarpu žiemą, užšalus vandenims, be vargo apsupamas, todėl Vytautas, tikėdamasis jį pa imti, priėjo tylomis miškais ir netikėtai pasirodė.'
+  santrauka: 'Žiemą Vytautas tylomis miškais priėjo prie Kauno, tikėdamasis užimti miestą ir pilį Neries bei Nemuno santakoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atėjo žiema, vis dėlto lietuviams ji nebuvo nė
@@ -2006,7 +2190,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - t-092
 
 - c-084
-  santrauka: 'Kojelavičius teigia, kad todėl supti Kauną Vytautui buvo sunkiau nei tikėjosi.'
+  santrauka: 'Dėl stiprių lietuvių ir lenkų samdytinių įgulų Vytautui Kauną apsiausti buvo sunkiau, nei jis tikėjosi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pilį ir miestą, smarkiai įtvirtin­
@@ -2026,7 +2210,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - t-093
 
 - c-085
-  santrauka: 'Kojelavičius teigia, kad pranciškaus ordino vienuo liams iš pradžių Kaune, o vėliau Ašmenoje bažnyčią bei vienuolyną ir dosniai juos apdovanojo.'
+  santrauka: 'Vytautas Kaune pastatė šv. Pranciškaus ordino vienuoliams bažnyčią bei vienuolyną ir dosniai juos apdovanojo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo metu
@@ -2047,7 +2231,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - t-094
 
 - c-086
-  santrauka: 'Kojelavičius teigia, kad susitaręs su Vytautu, Jo gaila, dėdamasis turįs visai kitų ketinimų, atvyko į Kauną.'
+  santrauka: 'Jogaila, susitaręs su Vytautu ir dėdamasis turįs kitų ketinimų, atvyko į Kauną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto radosi ir tokių, kurie, norėdami nu­
@@ -2064,7 +2248,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - t-095
 
 - c-087
-  santrauka: 'Kojelavičius teigia, kad iš ten karalius nuvyko į Lietuvą ir likusius žiemos mėnesius praleido Kaune, nes Vil niuje ir Gardine siautė maras.'
+  santrauka: 'Karalius likusius žiemos mėnesius praleido Kaune, nes Vilniuje ir Gardine siautė maras.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi menkame miestelyje nebuvo nei tinkamų būs­

@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87108"></a>
 - t-001
+  global_id: t-87108
   teiginys: '1746 m. Kazimieras ir Mykolas Vežbickiai skyrė lėšų bibliotekos langams taisyti, dailidžių darbo spintoms ir marmuro stalams įsigyti.'
   pagrindžia:
     - c-001

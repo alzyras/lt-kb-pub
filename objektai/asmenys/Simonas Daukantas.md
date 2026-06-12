@@ -30,42 +30,58 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 
 ## Teiginiai
 
+<a id="claim-t-105707"></a>
 - t-001
+  global_id: t-105707
   teiginys: 'Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-105708"></a>
 - t-002
+  global_id: t-105708
   teiginys: 'Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-105709"></a>
 - t-003
+  global_id: t-105709
   teiginys: 'P. Malevskis buvo tiesioginis istoriko Simono Daukanto viršininkas Lietuvos Metrikos padalinyje prie Senato Trečiojo departamento.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-105710"></a>
 - t-004
+  global_id: t-105710
   teiginys: 'Daukantas įkalbino savo kraštietį Motiejų Valančių (1801– 1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos istoriją lietuviškai.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-105711"></a>
 - t-005
+  global_id: t-105711
   teiginys: 'Simonas Daukantas domėjosi M. Balinskio publikacijomis apie kultūrinį sąjūdį Žemaitijoje ir kitus kultūros klausimus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-105712"></a>
 - t-006
+  global_id: t-105712
   teiginys: 'Simono Daukanto tiesioginis viršininkas buvo Lietuvos Metrikos padalinio vadovas Pranciškus Malevskis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-105713"></a>
 - t-007
+  global_id: t-105713
   teiginys: 'Simoną Daukantą įkvėpė žinojimas, skatinęs Lietuvos šviesuolius raštu įamžinti savo šalies praeitį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-183567"></a>
 - t-009
+  global_id: t-183567
   teiginys: 'Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais.'
   pagrindžia:
     - c-007

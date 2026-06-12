@@ -16,12 +16,16 @@ Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos lauki�
 
 ## Teiginiai
 
+<a id="claim-t-34398"></a>
 - t-001
+  global_id: t-34398
   teiginys: 'Jogaila, priėmęs kardus, sakė pagalbos laukiąs tik iš Dievo ir kautynių vietos nesirinksiąs.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184252"></a>
 - t-002
+  global_id: t-184252
   teiginys: 'Priėmęs Ordino pasiuntinių atneštus kardus Jogaila atsakė, kad kautynių vieta bus gera ten, kur ją paskirs Dievas.'
   pagrindžia:
     - c-002

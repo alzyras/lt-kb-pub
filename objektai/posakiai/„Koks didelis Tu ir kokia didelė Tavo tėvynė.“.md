@@ -17,7 +17,9 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
 
 ## Teiginiai
 
+<a id="claim-t-26356"></a>
 - t-001
+  global_id: t-26356
   teiginys: 'Enėjas Silvijus Pikolominis „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“'
   pagrindžia:
     - c-001

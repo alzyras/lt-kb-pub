@@ -26,12 +26,16 @@ Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis 
 
 ## Teiginiai
 
+<a id="claim-t-60992"></a>
 - t-001
+  global_id: t-60992
   teiginys: 'Dusburgietis teigia, kad iš šio vertimo Dusburgiečio kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60993"></a>
 - t-002
+  global_id: t-60993
   teiginys: 'Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis į vokiečių kalbą išvertė Mikalojus iš Jerošino.'
   pagrindžia:
     - c-002

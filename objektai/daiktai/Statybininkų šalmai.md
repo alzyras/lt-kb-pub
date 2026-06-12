@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40772"></a>
 - t-001
+  global_id: t-40772
   teiginys: 'Statybininkų šalmai ir dujokaukės Lietuvos atsikūrimo metu buvo gautos iš Vilniaus miesto tarybos.'
   pagrindžia:
     - c-001

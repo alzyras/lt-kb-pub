@@ -22,7 +22,9 @@ Dusburgietis teigia, kad [Powierski J.] Sambia —SSS, Wrocław—Warszawa—Kra
 
 ## Teiginiai
 
+<a id="claim-t-61253"></a>
 - t-001
+  global_id: t-61253
   teiginys: 'J. Powierskio „Sambia“ nurodyta 1975 m. SSS 5 tomo 37-38 puslapiuose.'
   pagrindžia:
     - c-001

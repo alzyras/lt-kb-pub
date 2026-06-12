@@ -26,17 +26,23 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
 
 ## Teiginiai
 
+<a id="claim-t-89573"></a>
 - t-001
+  global_id: t-89573
   teiginys: 'Dusburgietis teigia, kad tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89574"></a>
 - t-002
+  global_id: t-89574
   teiginys: 'Petro iš Dusburgo kronikoje visa `Prūsijos žemė` (`terra Prussiae`) skirstoma į vienuolika atskirų žemių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89575"></a>
 - t-003
+  global_id: t-89575
   teiginys: 'Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių, atskirų žemių.'
   pagrindžia:
     - c-001

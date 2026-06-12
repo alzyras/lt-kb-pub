@@ -22,7 +22,9 @@ Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakel
 
 ## Teiginiai
 
+<a id="claim-t-41927"></a>
 - t-001
+  global_id: t-41927
   teiginys: '1949 m. vasario 11 d. Minaičių kaime pakeliui į suvažiavimą susitiko Vakarų ir Pietų Lietuvos partizanų atstovai ir vadai.'
   pagrindžia:
     - c-001

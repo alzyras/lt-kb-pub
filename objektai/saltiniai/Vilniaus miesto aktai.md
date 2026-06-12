@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-88492"></a>
 - t-001
+  global_id: t-88492
   teiginys: 'Vilniaus miesto aktuose buvo Vilniaus vaitų ir kelių žymesnių burmistrų sąrašas, apimantis laikotarpį iki Unijos.'
   pagrindžia:
     - c-001

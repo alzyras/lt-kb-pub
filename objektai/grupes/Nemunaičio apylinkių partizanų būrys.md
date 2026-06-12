@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41104"></a>
 - t-001
+  global_id: t-41104
   teiginys: 'A. Ramanauskas 1945 m. balandį įstojo į Nemunaičio apylinkių partizanų būrį ir iškart buvo išrinktas jo vadu.'
   pagrindžia:
     - c-001

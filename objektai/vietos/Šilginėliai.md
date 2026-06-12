@@ -17,7 +17,9 @@ Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario
 
 ## Teiginiai
 
+<a id="claim-t-80614"></a>
 - t-001
+  global_id: t-80614
   teiginys: 'Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario 7 d. tarp bolševikų ir Šilginėlių kaime buvusios lietuvių sargybos įvyko smarkus stūmė lietuvių sargybas, prirengti pirmojo pavyzdžio uniforma (gavo kepures su geltonomis juostomis ir.'
   pagrindžia:
     - c-001

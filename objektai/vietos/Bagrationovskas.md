@@ -16,7 +16,9 @@ Dusburgietis teigia, kad bačkininkėliai Bagrationovskas (buv.
 
 ## Teiginiai
 
+<a id="claim-t-58686"></a>
 - t-001
+  global_id: t-58686
   teiginys: 'Bagrationovskas anksčiau vadintas Prūsų Ylava.'
   pagrindžia:
     - c-001

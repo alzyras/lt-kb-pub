@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-34490"></a>
 - t-001
+  global_id: t-34490
   teiginys: 'Naugarduko susirinkimas pasiuntė delegaciją dėl kito Kijevo metropolito, tačiau ji nieko nelaimėjo.'
   pagrindžia:
     - c-001

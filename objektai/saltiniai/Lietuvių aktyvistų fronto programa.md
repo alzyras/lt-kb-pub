@@ -17,7 +17,9 @@ LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, a
 
 ## Teiginiai
 
+<a id="claim-t-21115"></a>
 - t-001
+  global_id: t-21115
   teiginys: 'K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius ryšius su nacių Vokietija.'
   pagrindžia:
     - c-001

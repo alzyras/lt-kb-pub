@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88409"></a>
 - t-001
+  global_id: t-88409
   teiginys: '„Biblioteka Warszawska“ buvo enciklopedinio pobūdžio leidinys, kurio vienu steigėjų 1841 m. tapo M. Balinskis.'
   pagrindžia:
     - c-001

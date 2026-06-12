@@ -27,7 +27,9 @@ Valstybinė santvarka po Liublino unijos. Šapoka, Senosios Lietuvos valstybės 
 
 ## Teiginiai
 
+<a id="claim-t-74022"></a>
 - t-001
+  global_id: t-74022
   teiginys: 'Valstybinė santvarka po Liublino unijos.'
   pagrindžia:
     - c-001
@@ -105,7 +107,6 @@ Valstybinė santvarka po Liublino unijos. Šapoka, Senosios Lietuvos valstybės 
 - [[objektai/zodynas/barokinė santvarka]]
 - [[objektai/zodynas/barokinė santvarka barokinis ūkis]]
 - [[objektai/zodynas/homo sovieticus]]
-- [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]
 - [[objektai/zodynas/sueiga]]
 - [[objektai/paprociai/Žemių kunigaikščių veiksmų derinimas konfederacijoje]]
@@ -117,5 +118,4 @@ Valstybinė santvarka po Liublino unijos. Šapoka, Senosios Lietuvos valstybės 
 - [[objektai/ivykiai/III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)]]
 - [[objektai/autoriai/J. Bardach]]
 - [[objektai/grupes/Ketverių metų seimas]]
-- [[objektai/asmenys/Petras I Didysis]]
 - [[objektai/asmenys/Šarlis Monteskjė]]

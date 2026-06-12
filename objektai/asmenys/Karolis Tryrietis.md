@@ -19,12 +19,16 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
 
 ## Teiginiai
 
+<a id="claim-t-87435"></a>
 - t-001
+  global_id: t-87435
   teiginys: 'Karolis Tryrietis atvyko į Avinjoną su teisininkais ir riteriais, o popiežius jį priėmė maloniai ir pagarbiai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183841"></a>
 - t-002
+  global_id: t-183841
   teiginys: 'Karolis Tryrietis pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali būti pateisinti, o kai kurie priekaištai suvis prasimanyti33.'
   pagrindžia:
     - c-002

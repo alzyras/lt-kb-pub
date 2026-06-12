@@ -28,17 +28,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-69216"></a>
 - t-001
+  global_id: t-69216
   teiginys: 'Šiaurės rytuose valstybė siekė Volgos aukštupių ties Rževu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-69217"></a>
 - t-002
+  global_id: t-69217
   teiginys: 'Algirdas dar 1356 m. tvirtinosi Volgos aukštupyje, Rževe, ir atakavo Brianską bei Smolenską.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184397"></a>
 - t-003
+  global_id: t-184397
   teiginys: 'Nuo Lenkijos pakraščio, nuo Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos aukštupių (Rževo).'
   pagrindžia:
     - c-003

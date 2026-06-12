@@ -27,7 +27,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41471"></a>
 - t-001
+  global_id: t-41471
   teiginys: 'Šūksnis „Vyrai, pavojus!“ buvo ištartas pastebėjus, kad stovyklą supa čekistai.'
   pagrindžia:
     - c-001

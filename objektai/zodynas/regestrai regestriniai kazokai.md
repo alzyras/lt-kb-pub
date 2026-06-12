@@ -17,14 +17,17 @@ Tų sričių ponai savo dvaruose laikė ištisus kariuomenės pulkus, tačiau ne
 
 ## Teiginiai
 
+<a id="claim-t-74035"></a>
 - t-001
-  teiginys: 'Tų sričių ponai savo dvaruose laikė ištisus kariuomenės pulkus, tačiau ne visada apsigindavo patys, ir labai dažnai tekdavo žygiuoti prieš kazokus Lenkijos hetmonams.'
+  global_id: t-74035
+  teiginys: 'Nugalėti kazokai iš dalies patekdavo į regestrus, o kiti turėdavo dirbti žemę arba bėgdavo į Sičę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nugalėti kazokai iš dalies patekdavo į regestrus, o kiti turėdavo dirbti žemę arba bėgdavo į Sičę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tų

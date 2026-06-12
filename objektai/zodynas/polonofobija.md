@@ -19,7 +19,9 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
 
 ## Teiginiai
 
+<a id="claim-t-22252"></a>
 - t-001
+  global_id: t-22252
   teiginys: 'Abu sukilimai Rusijos aukštuosiuose sluoksniuose sukėlė rusiško nacionalizmo ir polonofobijos bangą.'
   pagrindžia:
     - c-001

@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87269"></a>
 - t-001
+  global_id: t-87269
   teiginys: 'Lietuvoje buvo paplitęs paprotys gyvenvietes prie upių vadinti prie upės pavadinimo pridedant priešdėlį „pa-“.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Be tö, ir ba­ jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­
 
 ## Teiginiai
 
+<a id="claim-t-87610"></a>
 - t-001
+  global_id: t-87610
   teiginys: 'Albertas Tžasibroda turėjo žemę, iš kurios Sofija Simonovna privalėjo mokėti kviečių dešimtinę nuo visų laukų.'
   pagrindžia:
     - c-001

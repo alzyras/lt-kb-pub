@@ -18,7 +18,9 @@ Dusburgietis teigia, kad greičiausiai čia ir buvo centrinė Kresmenos (Skomant
 
 ## Teiginiai
 
+<a id="claim-t-60696"></a>
 - t-001
+  global_id: t-60696
   teiginys: 'Dusburgietis teigia, kad greičiausiai čia ir buvo centrinė Kresmenos (Skomanto) pilis (Engel C., Zwei spätheidnische Silberfunde..., p. 69, 76; Kamiński A., Jaćwież, p. 102; MGP, p. 55 Nr. 17, 16).'
   pagrindžia:
     - c-001

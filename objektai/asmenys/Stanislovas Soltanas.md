@@ -17,7 +17,9 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
 
 ## Teiginiai
 
+<a id="claim-t-19245"></a>
 - t-001
+  global_id: t-19245
   teiginys: 'LDK rūmų maršalas Stanislovas Soltanas buvo vienas iš trijų Lietuvos atstovų, balsavusių už priešinimąsi.'
   pagrindžia:
     - c-001

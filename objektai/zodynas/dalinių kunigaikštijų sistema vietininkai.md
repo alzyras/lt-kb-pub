@@ -16,7 +16,9 @@ Visų pirma Vytautas nustojo mokėti duoklę mongolams, panaikino senovinę dali
 
 ## Teiginiai
 
+<a id="claim-t-22096"></a>
 - t-001
+  global_id: t-22096
   teiginys: 'Vytautas 1394 m. panaikino Kijevo kunigaikštiją, o 1395 m. paskyrė savo vietininką Podolėje.'
   pagrindžia:
     - c-001

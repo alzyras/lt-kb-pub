@@ -23,7 +23,9 @@ Vartojamos formos: `rykius`.
 
 ## Teiginiai
 
+<a id="claim-t-70043"></a>
 - t-001
+  global_id: t-70043
   teiginys: 'Decebalas citatoje vadinamas getų rykiu ir vaizduojamas kaip prieš romėnus kovojęs vadas.'
   pagrindžia:
     - c-001

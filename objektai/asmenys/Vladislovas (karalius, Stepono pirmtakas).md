@@ -19,7 +19,9 @@ Mes su savo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­ 
 
 ## Teiginiai
 
+<a id="claim-t-87884"></a>
 - t-001
+  global_id: t-87884
   teiginys: 'Karalius Vladislovas buvo suteikęs privilegijų Vilniaus katedros bažnyčiai ir tuometiniam vyskupui.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Haacko 1730 m. žodynas. Įkurtos Halės seminarijos reikalams docentas Haackas 
 
 ## Teiginiai
 
+<a id="claim-t-64601"></a>
 - t-001
+  global_id: t-64601
   teiginys: 'Fr. Haackas siejamas su 1730 m. žodynu.'
   pagrindžia:
     - c-001

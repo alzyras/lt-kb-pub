@@ -38,17 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54260"></a>
 - t-001
-  teiginys: 'LDK bajorai, nepaisydami etninės kilmės, laikė save lietuviais.'
-  pagrindžia:
-    - c-001
-
-- t-002
+  global_id: t-54260
   teiginys: 'LDK bajorai, nepaisant etninės kilmės, laikė save lietuviais.'
   pagrindžia:
     - c-001
 
-- t-003
+<a id="claim-t-183315"></a>
+- t-002
+  global_id: t-183315
   teiginys: 'Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti Lietuva, o šiandien ją vadiname istorine Lietuva.'
   pagrindžia:
     - c-001
@@ -73,8 +72,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

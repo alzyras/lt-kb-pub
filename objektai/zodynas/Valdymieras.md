@@ -23,17 +23,23 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 
 ## Teiginiai
 
+<a id="claim-t-70059"></a>
 - t-001
+  global_id: t-70059
   teiginys: '`Valdymierai` šiame tekste reiškia tautų valdovus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70060"></a>
 - t-002
+  global_id: t-70060
   teiginys: '`Valdymieras` čia reiškia valdovą arba aukščiausią viešpatį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70061"></a>
 - t-003
+  global_id: t-70061
   teiginys: 'Valdymierai kartais įvesdavo svetimus parėdymus į savo ūkę, kad padidintų valdžią ir pavergtų žmones.'
   pagrindžia:
     - c-002

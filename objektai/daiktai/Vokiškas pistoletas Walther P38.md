@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-80696"></a>
 - t-001
+  global_id: t-80696
   teiginys: '220, Vokiškas pistoletas Parabellum 1908, vpkM, Artūro Užgalio nuotr.'
   pagrindžia:
     - c-001

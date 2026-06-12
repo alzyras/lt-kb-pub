@@ -18,7 +18,9 @@ Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gin
 
 ## Teiginiai
 
+<a id="claim-t-21053"></a>
 - t-001
+  global_id: t-21053
   teiginys: '1914 m. liepą J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas Vilniuje surašė Gintarinę deklaraciją.'
   pagrindžia:
     - c-001

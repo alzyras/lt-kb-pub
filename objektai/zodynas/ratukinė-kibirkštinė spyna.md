@@ -17,7 +17,9 @@ pradžioje buvo sukurta ratukinė-kibirkštinė spyna.
 
 ## Teiginiai
 
+<a id="claim-t-42502"></a>
 - t-001
+  global_id: t-42502
   teiginys: 'XVI a. pradžioje sukurta ratukinė-kibirkštinė spyna veikė be rusenančios dagties.'
   pagrindžia:
     - c-001

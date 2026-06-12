@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08333"></a>
 - t-001
+  global_id: t-08333
   teiginys: 'Jei stoginėse netilpo pašaras, jį krovė ant lauko į žagus arba bragus.'
   pagrindžia:
     - c-001

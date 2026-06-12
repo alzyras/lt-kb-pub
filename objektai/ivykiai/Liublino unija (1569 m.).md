@@ -46,68 +46,94 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-169841"></a>
 - t-001
+  global_id: t-169841
   teiginys: '1569 m. lietuvių ir lenkų delegacijos nuo vasario derėjosi Liubline susirinkusio Lenkijos seimo akivaizdoje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-169842"></a>
 - t-002
+  global_id: t-169842
   teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-169843"></a>
 - t-003
+  global_id: t-169843
   teiginys: 'Liublino unijos rezultatas buvo LDK atstovų priimtas kompromisas, kurio pagrįstumu rimčiau nesuabejota dar du šimtmečius.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-169844"></a>
 - t-004
+  global_id: t-169844
   teiginys: 'Liublino unijos nauda pasireiškė jau netrukus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169845"></a>
 - t-005
+  global_id: t-169845
   teiginys: '1569 m. birželio 28 d. Liublino seime J. J. Chodkevičius priėmė unijos ir vieno antspaudo idėją kaip žiaurų kompromisą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169846"></a>
 - t-006
+  global_id: t-169846
   teiginys: 'Prieš Liublino uniją Žygimantas Augustas prie Lenkijos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-169847"></a>
 - t-007
+  global_id: t-169847
   teiginys: 'Gindamas LDK antspaudus J. J. Chodkevičius paliko galimybę išsaugoti Lietuvos valstybingumą po Liublino unijos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-169848"></a>
 - t-008
+  global_id: t-169848
   teiginys: 'Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino unijos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per ašaras, LDK atstovai priėmė, tačiau šio.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169849"></a>
 - t-009
+  global_id: t-169849
   teiginys: 'Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš Liublino.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-169850"></a>
 - t-010
+  global_id: t-169850
   teiginys: 'Chodkevičius Liublino seime 1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos prijungimo prie Lenkijos – idėją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169851"></a>
 - t-011
+  global_id: t-169851
   teiginys: '1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-184598"></a>
 - t-013
-  teiginys: 'Kojelavičius teigia, kad liublino seime 1569 m. ginčytasi ne dėl pa čios unijos, o dėl jos sąlygų.'
+  global_id: t-184598
+  teiginys: '1569 m. Liublino seime ginčytasi ne dėl pačios unijos, o dėl jos sąlygų.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-184599"></a>
 - t-014
-  teiginys: 'Kojelavičius teigia, kad iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio navo Ukrainos prijungimą prie Lenkijos, pripažino ka ralių ir bendrą seimą jungtinės valstybės suverenu, užtikrino žemės nuosavybės ir žemėvaldos teisę tik šlėktų luomo nariams, o politines teises — tik.'
+  global_id: t-184599
+  teiginys: 'Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos ir pripažino karalių bei bendrą seimą jungtinės valstybės suverenu.'
   pagrindžia:
     - c-011
 
@@ -274,7 +300,7 @@ Nenurodyta
     - t-011
 
 - c-010
-  santrauka: 'Kojelavičius teigia, kad liublino seime 1569 m. ginčytasi ne dėl pa čios unijos, o dėl jos sąlygų.'
+  santrauka: '1569 m. Liublino seime ginčytasi ne dėl pačios unijos, o dėl jos sąlygų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš dedikacijų teksto, kupino įprastinio gražbyliavimo,
@@ -291,7 +317,7 @@ Nenurodyta
     - t-013
 
 - c-011
-  santrauka: 'Kojelavičius teigia, kad iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio navo Ukrainos prijungimą prie Lenkijos, pripažino ka ralių ir bendrą seimą jungtinės valstybės suverenu, užtikrino žemės nuosavybės ir žemėvaldos teisę tik šlėktų luomo nariams, o politines teises — tik.'
+  santrauka: 'Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos ir pripažino karalių bei bendrą seimą jungtinės valstybės suverenu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žymesnieji buržuazinės istoriografijos atstovai, lai­
@@ -314,3 +340,34 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-014
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/autoriai/Albertas Vijūkas-Kojelavičius]]
+- [[objektai/asmenys/Augustas]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Chodkevičiai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/asmenys/Mantas]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/grupes/Ukrainiečiai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kompromisas]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/grupes/Žečpospolita]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
+- [[objektai/posakiai/„Šventos santuokos“]]
+- [[objektai/daiktai/Antspaudai]]
+- [[objektai/daiktai/Antspaudas]]
+- [[objektai/zodynas/suverenas]]
+- [[objektai/zodynas/federacinė valstybė]]
+- [[objektai/zodynas/feodalinis imunitetas]]

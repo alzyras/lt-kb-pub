@@ -38,17 +38,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-55159"></a>
 - t-001
+  global_id: t-55159
   teiginys: 'Antakalnyje buvo medinė šventovė, pašvęsta visiems lietuvių dievams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55160"></a>
 - t-002
+  global_id: t-55160
   teiginys: 'Antakalnio šventovėje ketvirtadienio vakarais dvasininkai visada statydavo ir degindavo vaško žvakes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81869"></a>
 - t-003
+  global_id: t-81869
   teiginys: 'Antakalnio šventovėje, skirtoje lietuvių dievams, dvasininkai ketvirtadienio vakarais statydavo ir degindavo vaško žvakes.'
   pagrindžia:
     - c-002

@@ -24,52 +24,72 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
 
 ## Teiginiai
 
+<a id="claim-t-179531"></a>
 - t-001
+  global_id: t-179531
   teiginys: 'Lietuviškos spaudos draudimo XIX a.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-179533"></a>
 - t-002
+  global_id: t-179533
   teiginys: 'Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-179535"></a>
 - t-003
+  global_id: t-179535
   teiginys: 'P. Pakarklis gvildeno Lietuvos istorijos klausimus ir ypač rašė apie teutonų ordinus.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-179536"></a>
 - t-004
+  global_id: t-179536
   teiginys: 'R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-179537"></a>
 - t-005
+  global_id: t-179537
   teiginys: 'Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu (BBK, t.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-179538"></a>
 - t-006
+  global_id: t-179538
   teiginys: 'P. Dundulienė, R. Marčėnas ir A. Makarevičius rašė apie žemdirbystės istoriją Lietuvoje ir ekonomikos klausimus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-179539"></a>
 - t-007
+  global_id: t-179539
   teiginys: 'P. Žostautaitė tyrė Prūsijos lietuvių vokietinimą ir pasipriešinimą jam 1848-1914 m.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-179542"></a>
 - t-008
+  global_id: t-179542
   teiginys: 'Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-179544"></a>
 - t-009
+  global_id: t-179544
   teiginys: 'P. Girdzijauskienė parašė veikalą „1905-1907 metų revoliucija Lietuvoje“.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-179545"></a>
 - t-010
+  global_id: t-179545
   teiginys: 'L. Bičkauskas-Gentvila rašė apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje.'
   pagrindžia:
     - c-004

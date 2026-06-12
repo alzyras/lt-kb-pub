@@ -19,17 +19,23 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 
 ## Teiginiai
 
+<a id="claim-t-60034"></a>
 - t-001
+  global_id: t-60034
   teiginys: 'Dusburgietis teigia, kad šį kartą ne tik karas buvo naujas, šį kartą buvo kovojama naujomis 176 Gajus Julijus Cezaris (102 ar 100—44 m. pr.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60035"></a>
 - t-002
+  global_id: t-60035
   teiginys: 'Dusburgietis teigia, kad apie naują Teutonų namų ordino brolių karą su prūsų gentimis Pasak senovės istorikų175, daug kas senaisiais laikais yra kariavęs su prūsais: Julijus Autentiškame Konrado dokumente liudytojų mažiau (PKD, p. 34—35).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60036"></a>
 - t-003
+  global_id: t-60036
   teiginys: 'Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei Dobrynės brolių pastangos, tačiau prūsai.'
   pagrindžia:
     - c-002

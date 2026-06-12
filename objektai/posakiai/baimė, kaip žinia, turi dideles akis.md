@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # baimė, kaip žinia, turi dideles akis
 
 ## Santrauka
 
-Kojelavičius teigia, kad t iesa, n esen iai m iru s g ru p u o tės v ad o v u i G oštautui, visos aistro s aprim o, v is d ėlto baim ė, k aip žinia, tu ri d id eles a k is ir jam rodėsi, jo g p ad ėtis n ė ra saugi.
+Kojelavičius posakiu „baimė turi dideles akis“ aiškino karaliaus nerimą dėl Lietuvos išlaikymo po Goštauto mirties.
 
 ## Teiginiai
 
+<a id="claim-t-185474"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad t iesa, n esen iai m iru s g ru p u o tės v ad o v u i G oštautui, visos aistro s aprim o, v is d ėlto baim ė, k aip žinia, tu ri d id eles a k is ir jam rodėsi, jo g p ad ėtis n ė ra saugi.'
+  global_id: t-185474
+  teiginys: 'Kojelavičius posakiu „baimė turi dideles akis“ aiškino karaliaus nerimą dėl Lietuvos išlaikymo po Goštauto mirties.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad t iesa, n esen iai m iru s g ru p u o tės v ad o v u i G oštautui, visos aistro s aprim o, v is d ėlto baim ė, k aip žinia, tu ri d id eles a k is ir jam rodėsi, jo g p ad ėtis n ė ra saugi.'
+  santrauka: 'Kojelavičius posakiu „baimė turi dideles akis“ aiškino karaliaus nerimą dėl Lietuvos išlaikymo po Goštauto mirties.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pirmąją sekančių metų dieną padaugėjo karaliui ir

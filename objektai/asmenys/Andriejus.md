@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-35028"></a>
 - t-001
+  global_id: t-35028
   teiginys: 'Vyriausias brolis Andriejus rengė koaliciją prieš Jogailą.'
   pagrindžia:
     - c-001

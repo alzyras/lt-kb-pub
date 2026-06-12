@@ -24,7 +24,9 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
 
 ## Teiginiai
 
+<a id="claim-t-21177"></a>
 - t-001
+  global_id: t-21177
   teiginys: 'Lietuvos sukilimo aktas paskelbtas Vilniaus Rotušės aikštėje 1794 m. balandį, sukilėliams išvadavus miestą iš Rusijos kariuomenės.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Siuchniński.
 
 ## Teiginiai
 
+<a id="claim-t-19430"></a>
 - t-001
+  global_id: t-19430
   teiginys: 'M. Siuchniński kartu su J. S. Kopczewskiu parengė leidinį „Grunwald: 550 lat chwały“.'
   pagrindžia:
     - c-001

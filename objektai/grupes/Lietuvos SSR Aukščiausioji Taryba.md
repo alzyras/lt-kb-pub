@@ -19,32 +19,44 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
 
 ## Teiginiai
 
+<a id="claim-t-65775"></a>
 - t-001
+  global_id: t-65775
   teiginys: 'Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m. vasarą sovietų valstybės įvykdytą Lietuvos okupaciją ir neteisėtą prijungimą.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-65776"></a>
 - t-002
+  global_id: t-65776
   teiginys: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-65777"></a>
 - t-003
+  global_id: t-65777
   teiginys: 'Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį: rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba, kitą dieną formaliai aukščiausiąja.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65778"></a>
 - t-004
+  global_id: t-65778
   teiginys: 'Nuo 1988 m. rudens visi svarbiausi Aukščiausiosios Tarybos svarstomų įstatymų projektai buvo aptariami LPS seime ir jo taryboje, teiktos kritinės pastabos ir siūlymai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-65779"></a>
 - t-005
+  global_id: t-65779
   teiginys: 'Aukščiausiosios Tarybos Prezidiumas spalio 6 d. suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-65780"></a>
 - t-006
+  global_id: t-65780
   teiginys: 'Po karo rinkimai į Lietuvos SSR Aukščiausiąją Tarybą pirmą kartą vyko 1947 m.'
   pagrindžia:
     - c-002

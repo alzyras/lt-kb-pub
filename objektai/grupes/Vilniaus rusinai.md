@@ -19,7 +19,9 @@ Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų s
 
 ## Teiginiai
 
+<a id="claim-t-86775"></a>
 - t-001
+  global_id: t-86775
   teiginys: 'Didesnę Vilniaus miestiečių dalį sudarė graikų apeigų tikėjimą išpažinę rusinai.'
   pagrindžia:
     - c-001

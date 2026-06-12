@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Lietuvos žygis į Mazoviją ir Lovičiaus apygardų nusiaubimas (1263 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad iki tol išliko nepaliestos Lovičiaus apygardos, todėl iš ten buvo išgabentas di džiulis grobis, o visa kita sunaikinta ugnimi ir kalavi ju.
+1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185612"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad iki tol išliko nepaliestos Lovičiaus apygardos, todėl iš ten buvo išgabentas di džiulis grobis, o visa kita sunaikinta ugnimi ir kalavi ju.'
+  global_id: t-185612
+  teiginys: '1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad iki tol išliko nepaliestos Lovičiaus apygardos, todėl iš ten buvo išgabentas di džiulis grobis, o visa kita sunaikinta ugnimi ir kalavi ju.'
+  santrauka: '1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ki­
@@ -62,3 +63,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

@@ -54,12 +54,16 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
 
 ## Teiginiai
 
+<a id="claim-t-47923"></a>
 - t-001
+  global_id: t-47923
   teiginys: '1385 m. aktas todėl neparodo inkorporacijos, o greičiau busimą leno santykį didžiosios Lietuvos kunigaikštijos ir karūnos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-47924"></a>
 - t-002
+  global_id: t-47924
   teiginys: '1385 m. aktas nerodė Lietuvos inkorporacijos, o veikiau būsimą Lietuvos Didžiosios Kunigaikštijos ir karūnos leno santykį.'
   pagrindžia:
     - c-001

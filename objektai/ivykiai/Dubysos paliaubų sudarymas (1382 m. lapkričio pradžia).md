@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86909"></a>
 - t-001
+  global_id: t-86909
   teiginys: '1382 m. lapkričio pradžioje Jogaila Dubysos upės saloje sudarė paliaubas su kryžiuočiais.'
   pagrindžia:
     - c-001

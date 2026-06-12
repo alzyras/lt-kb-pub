@@ -17,7 +17,9 @@ bojarinų Grigorijaus Fiodorovičiaus Davidovo, Ivano Andrejevičiaus Čeliadnin
 
 ## Teiginiai
 
+<a id="claim-t-40017"></a>
 - t-001
+  global_id: t-40017
   teiginys: 'Andriejus Obolenskis buvo vienas iš vaivadų, vadovavusių Maskvos valdovo Vasilijaus III pasiųstoms pajėgoms.'
   pagrindžia:
     - c-001

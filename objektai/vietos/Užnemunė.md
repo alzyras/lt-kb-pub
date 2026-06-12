@@ -27,37 +27,51 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 
 ## Teiginiai
 
+<a id="claim-t-182731"></a>
 - t-001
+  global_id: t-182731
   teiginys: 'Tačiau vėliau jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei Užnemunę.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-182733"></a>
 - t-002
+  global_id: t-182733
   teiginys: 'Nors didžiosios etninės Lietuvos dalies raidos ir Užnemunės politinės sąlygos skyrėsi, modernios tautos formavimasis vyko ta pačia kryptimi.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-182735"></a>
 - t-003
+  global_id: t-182735
   teiginys: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).'
   pagrindžia:
     - c-004
 
+<a id="claim-t-182736"></a>
 - t-004
+  global_id: t-182736
   teiginys: 'Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. - Suvalkų gubernija.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-183097"></a>
 - t-005
+  global_id: t-183097
   teiginys: 'Užnemunė Prūsų valdžioje ir Lenkų karalystėje Užnemunė Prūsų karalystėje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183098"></a>
 - t-006
-  teiginys: 'Užnemunė Varšuvos kunigaikštystėje ir Lenkų karalystėje.'
+  global_id: t-183098
+  teiginys: '1807 m. Užnemunė buvo priskirta Varšuvos kunigaikštystei.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183099"></a>
 - t-007
+  global_id: t-183099
   teiginys: 'Kaip visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Napoleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžiavos, tik be žemės.'
   pagrindžia:
     - c-007
@@ -65,7 +79,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Užnemunė Varšuvos kunigaikštystėje ir Lenkų karalystėje.'
+  santrauka: '1807 m. Užnemunė buvo priskirta Varšuvos kunigaikštystei.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Užnemunė Varšuvos kunigaikštystėje ir Lenkų karalystėje.

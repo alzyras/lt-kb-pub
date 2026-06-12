@@ -17,12 +17,16 @@ Vainauską ir P. Vainauskas, vyresniojo padėjėju — P.
 
 ## Teiginiai
 
+<a id="claim-t-40491"></a>
 - t-001
+  global_id: t-40491
   teiginys: 'V. Vainauskas su P. Lukšiu ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis į Juodikio mišką.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40492"></a>
 - t-002
+  global_id: t-40492
   teiginys: 'V. Vainauskas buvo paskirtas sustiprinto 17 žmonių žvalgybos patrulio vyresniuoju.'
   pagrindžia:
     - c-001

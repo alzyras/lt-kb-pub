@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Giliginas
 
 ## Santrauka
 
-Kojelavičius teigia, kad kiti metai Giliginui tapo lemtingi: mirė sosto įpėdinis jo sūnus Romuntas.
+Giliginui lemtingais metais mirė jo sūnus ir sosto įpėdinis Romuntas.
 
 ## Teiginiai
 
+<a id="claim-t-186041"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kiti metai Giliginui tapo lemtingi: mirė sosto įpėdinis jo sūnus Romuntas.'
+  global_id: t-186041
+  teiginys: 'Giliginui lemtingais metais mirė jo sūnus ir sosto įpėdinis Romuntas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kiti metai Giliginui tapo lemtingi: mirė sosto įpėdinis jo sūnus Romuntas.'
+  santrauka: 'Giliginui lemtingais metais mirė jo sūnus ir sosto įpėdinis Romuntas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vargu ar tuo skai­
@@ -42,3 +43,16 @@ Kojelavičius teigia, kad kiti metai Giliginui tapo lemtingi: mirė sosto įpėd
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Germantas]]
+- [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]
+- [[objektai/asmenys/Romuntas]]
+- [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
+- [[objektai/asmenys/Trobius]]
+- [[objektai/paprociai/Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą]]
+- [[objektai/posakiai/karo, ir taikos metu tokios pat santarvės bei šlovės]]
+- [[objektai/zodynas/maršalas]]

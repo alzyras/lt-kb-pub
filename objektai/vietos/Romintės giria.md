@@ -18,7 +18,9 @@ Dusburgietis teigia, kad nadruvos pietryčiuose, Pisos intako Romintės (dab.
 
 ## Teiginiai
 
+<a id="claim-t-58719"></a>
 - t-001
+  global_id: t-58719
   teiginys: 'Dusburgietis teigia, kad nadruvos pietryčiuose, Pisos intako Romintės (dab.'
   pagrindžia:
     - c-001

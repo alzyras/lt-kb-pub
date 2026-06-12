@@ -32,12 +32,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01947"></a>
 - t-001
+  global_id: t-01947
   teiginys: 'Provincijų sesijomis vadinti posėdžiai atlikdavo tą patį darbą, kurį anksčiau atlikdavo generaliniai seimeliai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01948"></a>
 - t-002
+  global_id: t-01948
   teiginys: 'Generaliniai seimeliai neišnyko įvedus bendrą seimą su lietuviais, o Lietuvoje prieš bendruosius seimus pradėti rengti panašūs suvažiavimai.'
   pagrindžia:
     - c-001

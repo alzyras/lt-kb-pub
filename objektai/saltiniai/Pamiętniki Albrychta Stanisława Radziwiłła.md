@@ -25,7 +25,9 @@ Bet iki Vy­ tauto laikų nebuvo kreipta dėmesio į titulus: tas klausimas visu
 
 ## Teiginiai
 
+<a id="claim-t-96063"></a>
 - t-001
+  global_id: t-96063
   teiginys: '„Pamiętniki Albrychta Stanisława Radziwiłła“ buvo 1839 m. Poznanėje išleistas rankraščio leidimas.'
   pagrindžia:
     - c-001

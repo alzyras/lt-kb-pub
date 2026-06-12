@@ -19,7 +19,9 @@ Taip pat šį perrašytą testamentą mes kartą ir antrą, ir dar keliolika kar
 
 ## Teiginiai
 
+<a id="claim-t-86641"></a>
 - t-001
+  global_id: t-86641
   teiginys: 'Testamentas buvo užantspauduotas signetu, kuriuo paprastai antspauduoti slapti raštai, ir pasirašytas ranka.'
   pagrindžia:
     - c-001

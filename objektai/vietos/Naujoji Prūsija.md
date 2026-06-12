@@ -16,7 +16,9 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
 
 ## Teiginiai
 
+<a id="claim-t-21641"></a>
 - t-001
+  global_id: t-21641
   teiginys: 'Prūsija prisijungė Užnemunę ir pavadino ją Naująja Prūsija.'
   pagrindžia:
     - c-001

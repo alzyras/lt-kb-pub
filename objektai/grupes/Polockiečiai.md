@@ -12,34 +12,32 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Polockiečiai
 
 ## Santrauka
 
-Kojelavičius teigia, kad arčiausiai puolančiųjų plytėjo Mingailos valdinių žemės: norėdamas atkeršyta už jų nu siaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai jas užėmė, šiek tiek anksčiau su kariuomene patraukę ligi Gorodeco miesto. Kojelavičius teigia, kad jis panaikino visus laisvės ribojimus, kuriais polockiečius buvo suvaržęs jo senelis. Kojelavičius teigia, kad treniotos sū nus Glėbas, tėvo įpėdinis, mirė jaunas, nepalikdamas Įėjo priešus, atsiėmė žemes, vaikų; jis polockiečiams daP o lo c k ie č ia m s g ra živė visišką laisvę.
+Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos valdinių žemes. Treniotos sūnus Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl ėmė tvarkyti senatas.
 
 ## Teiginiai
 
+<a id="claim-t-185443"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad arčiausiai puolančiųjų plytėjo Mingailos valdinių žemės: norėdamas atkeršyta už jų nu siaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai jas užėmė, šiek tiek anksčiau su kariuomene patraukę ligi Gorodeco miesto.'
+  global_id: t-185443
+  teiginys: 'Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos valdinių žemes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185445"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad jis panaikino visus laisvės ribojimus, kuriais polockiečius buvo suvaržęs jo senelis.'
+  global_id: t-185445
+  teiginys: 'Treniotos sūnus Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl ėmė tvarkyti senatas.'
   pagrindžia:
     - c-002
-
-- t-003
-  teiginys: 'Kojelavičius teigia, kad treniotos sū nus Glėbas, tėvo įpėdinis, mirė jaunas, nepalikdamas Įėjo priešus, atsiėmė žemes, vaikų; jis polockiečiams daP o lo c k ie č ia m s g ra živė visišką laisvę.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad arčiausiai puolančiųjų plytėjo Mingailos valdinių žemės: norėdamas atkeršyta už jų nu siaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai jas užėmė, šiek tiek anksčiau su kariuomene patraukę ligi Gorodeco miesto.'
+  santrauka: 'Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos valdinių žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Patys
@@ -65,24 +63,7 @@ Kojelavičius teigia, kad arčiausiai puolančiųjų plytėjo Mingailos valdini�
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad jis panaikino visus laisvės ribojimus, kuriais polockiečius buvo suvaržęs jo senelis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Užpultas Smo­
-    lensko ir Pskovo rusų, ir vienus, ir kitus sėkmingai
-    atrėmė. Jis panaikino visus laisvės ribojimus, kuriais
-    polockiečius buvo suvaržęs jo senelis. Rodėsi, kad jis
-    visą likusį gyvenimą pasiryžęs praleisti maldos namuo­
-    se prie altoriaus: visus turtus ir jėgas skyrė vienam
-    vienatiniam dalykui — statė dievo namus.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Kojelavičius teigia, kad treniotos sū nus Glėbas, tėvo įpėdinis, mirė jaunas, nepalikdamas Įėjo priešus, atsiėmė žemes, vaikų; jis polockiečiams daP o lo c k ie č ia m s g ra živė visišką laisvę.'
+  santrauka: 'Treniotos sūnus Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl ėmė tvarkyti senatas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vėliau, apie 1273
@@ -103,4 +84,20 @@ Kojelavičius teigia, kad arčiausiai puolančiųjų plytėjo Mingailos valdini�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/asmenys/Grigalius X]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mingaila]]
+- [[objektai/asmenys/Treniota]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Andrius Algirdaitis]]
+- [[objektai/asmenys/Dmitrijus Doniškis]]
+- [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
+- [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos įkalinimas (1381 m. rugpjūtis)]]
+- [[objektai/ivykiai/Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/senatas]]

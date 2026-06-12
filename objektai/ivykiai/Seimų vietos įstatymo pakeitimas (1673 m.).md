@@ -33,13 +33,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66892"></a>
 - t-001
+  global_id: t-66892
   teiginys: '1673 m. pakeistas seimų vietos įstatymas nustatė, kad kas trečias seimas, kurio maršalka lietuvis, rinktųsi Gardine.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66893"></a>
 - t-002
-  teiginys: 'Tas pats įstatymas pripažino Lietuvos ministerių pirmenybę, kai seimas vykdavo Lietuvoje.'
+  global_id: t-66893
+  teiginys: '1673 m. seimų vietos įstatymas pripažino Lietuvos ministerių pirmenybę, kai seimas vykdavo Lietuvoje.'
   pagrindžia:
     - c-001
 

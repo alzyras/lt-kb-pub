@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62693"></a>
 - t-001
+  global_id: t-62693
   teiginys: 'Dusburgietis teigia, kad 54 (53) Apie vieną stebuklą Tuo metu pasimirė kelyje, grįždamas į savo tėvynę, vienas kryžininkas iš Meiseno, kuris per Prūsijoje praleistus vienus metus įvykdė maldininko įžadus.'
   pagrindžia:
     - c-001

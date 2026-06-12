@@ -17,7 +17,9 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 
 ## Teiginiai
 
+<a id="claim-t-01324"></a>
 - t-001
+  global_id: t-01324
   teiginys: 'Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pačios indoeuropiečių, arba arijų, tautų grupės.'
   pagrindžia:
     - c-001

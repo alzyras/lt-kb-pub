@@ -19,30 +19,47 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
 
 ## Teiginiai
 
+<a id="claim-t-65961"></a>
 - t-001
+  global_id: t-65961
   teiginys: 'Tuo metu buvo suorganizuotas iki tol nebuvęs centrinės valdžios organas, pavadintas Nuolatine Taryba.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65962"></a>
 - t-002
+  global_id: t-65962
   teiginys: 'Nuolatinė Taryba išgyvavo 14 metų (iki 1789 m.).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-65963"></a>
 - t-003
+  global_id: t-65963
   teiginys: 'Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba nieko negalėjo padaryti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-65964"></a>
 - t-004
+  global_id: t-65964
   teiginys: 'Nuolatinė Taryba susidėjo iš 18 senatorių ir 18 atstovų;^2 /3 jų turėjo būti lenkai ir^1 /з lietuviai.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-65965"></a>
 - t-005
+  global_id: t-65965
   teiginys: 'Buvo atgaivinta Nuolatinė Taryba ir tada veikusios karo ir iždo komisijos.'
   pagrindžia:
     - c-004
+
+<a id="claim-t-182912"></a>
+- t-006
+  global_id: t-182912
+  teiginys: 'Be Rusijos ambasadoriaus Štakelbergo sutikimo nei karalius, nei Nuolatinė Taryba negalėjo priimti sprendimų.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -127,7 +144,7 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
     - t-004
 
 - c-006
-  santrauka: 'Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba nieko negalėjo padaryti.'
+  santrauka: 'Be Rusijos ambasadoriaus Štakelbergo sutikimo nei karalius, nei Nuolatinė Taryba negalėjo priimti sprendimų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daugiausia ta teise

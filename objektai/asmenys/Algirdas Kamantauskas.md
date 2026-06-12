@@ -25,7 +25,9 @@ Tik 1991 metais Viktoro Šniuolio ir Algirdo Kamantausko rūpesčiu partizanų p
 
 ## Teiginiai
 
+<a id="claim-t-40008"></a>
 - t-001
+  global_id: t-40008
   teiginys: 'Tik 1991 metais Viktoro Šniuolio ir Algirdo Kamantausko rūpesčiu partizanų palaikai surasti ir palaidoti Radviliškio kapinėse.'
   pagrindžia:
     - c-001

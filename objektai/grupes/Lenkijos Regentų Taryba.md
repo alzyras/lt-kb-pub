@@ -18,7 +18,9 @@ Tada okupacinę valdžią buvo paėmusios į savo rankas vokiečių kareivių (p
 
 ## Teiginiai
 
+<a id="claim-t-74049"></a>
 - t-001
+  global_id: t-74049
   teiginys: 'Vietiniai lenkai kvietė Lenkijos Regentų Tarybą užimti Lietuvą.'
   pagrindžia:
     - c-001

@@ -45,12 +45,16 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
 
 ## Teiginiai
 
+<a id="claim-t-47944"></a>
 - t-001
+  global_id: t-47944
   teiginys: 'Stryjkovskis savo veikale negalėjo išreikšti tautinės sąmonės, kuri išsivystė tik XIX amžiuje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-47945"></a>
 - t-002
+  global_id: t-47945
   teiginys: 'Daukantas lietuvių tautinės sąmonės raidai davė reikšmingų paskatų.'
   pagrindžia:
     - c-001

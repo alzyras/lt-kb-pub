@@ -16,7 +16,9 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
 
 ## Teiginiai
 
+<a id="claim-t-99994"></a>
 - t-001
+  global_id: t-99994
   teiginys: 'Ukrainiečiai, kaip ir rusai, XVII-XVIII a. vertė Stryjkovskio kroniką ar jos dalis ir juo domėjosi.'
   pagrindžia:
     - c-001
@@ -43,7 +45,6 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Bogdanas Chmelnickis]]
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/asmenys/Gediminas]]

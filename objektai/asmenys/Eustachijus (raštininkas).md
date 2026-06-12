@@ -28,7 +28,9 @@ Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka
 
 ## Teiginiai
 
+<a id="claim-t-87662"></a>
 - t-001
+  global_id: t-87662
   teiginys: 'Raštininkas Eustachijus pasirašė 1538 m. rugsėjo 1 d. Žygimanto Augusto laišką dėl Drujos vandens tiekimo į Vilnių.'
   pagrindžia:
     - c-001

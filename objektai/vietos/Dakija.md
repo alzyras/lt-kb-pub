@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Dakija
 
 ## Santrauka
 
-Kojelavičius teigia, kad boleslovas, bijodamas, kad prieš jį nebūtų imtasi kokių rimtesnių žygių, pasitraukė iš Lucko į Dakiją.
+Boleslovas, bijodamas rimtesnių veiksmų prieš jį, pasitraukė iš Lucko į Dakiją.
 
 ## Teiginiai
 
+<a id="claim-t-185284"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad boleslovas, bijodamas, kad prieš jį nebūtų imtasi kokių rimtesnių žygių, pasitraukė iš Lucko į Dakiją.'
+  global_id: t-185284
+  teiginys: 'Boleslovas, bijodamas rimtesnių veiksmų prieš jį, pasitraukė iš Lucko į Dakiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad boleslovas, bijodamas, kad prieš jį nebūtų imtasi kokių rimtesnių žygių, pasitraukė iš Lucko į Dakiją.'
+  santrauka: 'Boleslovas, bijodamas rimtesnių veiksmų prieš jį, pasitraukė iš Lucko į Dakiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Priėmęs luomų priesaiką, kuria

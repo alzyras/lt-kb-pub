@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31508"></a>
 - t-001
+  global_id: t-31508
   teiginys: 'Traidenis, kaip sprendžiama, jėga išvarė Švarną iš Lietuvos ir 1269 m. turėjo įsiviešpatauti.'
   pagrindžia:
     - c-001

@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87311"></a>
 - t-001
+  global_id: t-87311
   teiginys: 'Taip pat norime, kad to, kuris vienu ar kitu būdu daugiau kaip metus išdrįs bažnytinių cenzūrų vengti ir paniekinti, kad ir kas jis būtų, ar katalikų tikėjimo, ar stačiatikių apeigų, atžvilgiu būtų praplėsta pasaulietinė valdžia, kurią suteikiame ponui.'
   pagrindžia:
     - c-001

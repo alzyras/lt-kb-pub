@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87070"></a>
 - t-001
+  global_id: t-87070
   teiginys: 'Aleksandro laikų Vilniaus kalyklos išlaidose buvo minimi sidabras, varis, darbas ir kiti kalyklai priklausę dalykai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87071"></a>
 - t-002
+  global_id: t-87071
   teiginys: 'Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemaža pajamų karaliaus iždui.'
   pagrindžia:
     - c-001

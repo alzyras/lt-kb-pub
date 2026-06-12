@@ -26,7 +26,9 @@ Nepadėjo šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis kišusis 
 
 ## Teiginiai
 
+<a id="claim-t-88464"></a>
 - t-001
+  global_id: t-88464
   teiginys: 'Nepadėjo šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis kišusis į lenkų ir lietuvių reikalus83; nei ištvermingas lenkų 83 Popiežius Martynas V 1428 m. rašė Rusios karaliumi.'
   pagrindžia:
     - c-001

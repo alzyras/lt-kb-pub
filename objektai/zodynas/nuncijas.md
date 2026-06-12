@@ -26,14 +26,17 @@ kad net popiežiaus atstovas (nuncijas) buvo išprašytas iš Lietuvos (1931 m. 
 
 ## Teiginiai
 
+<a id="claim-t-44101"></a>
 - t-001
-  teiginys: 'Konfliktas pagaliau tiek toli nuėjo, kad net popiežiaus atstovas (nuncijas) buvo išprašytas iš Lietuvos (1931 m. birželio 5 d.).'
+  global_id: t-44101
+  teiginys: '1931 m. birželio 5 d. popiežiaus atstovas nuncijas buvo išprašytas iš Lietuvos dėl konflikto dėl konkordato aiškinimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1931 m. birželio 5 d. popiežiaus atstovas nuncijas buvo išprašytas iš Lietuvos dėl konflikto dėl konkordato aiškinimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Konkordato taip pat buvo sunormuotas su Baž-

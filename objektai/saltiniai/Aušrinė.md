@@ -17,7 +17,9 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
 
 ## Teiginiai
 
+<a id="claim-t-02137"></a>
 - t-001
+  global_id: t-02137
   teiginys: 'Iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinė“, vėliau atsirado socialistiškos pakraipos aušrininkų organizacija.'
   pagrindžia:
     - c-001

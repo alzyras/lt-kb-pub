@@ -19,12 +19,16 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
 
 ## Teiginiai
 
+<a id="claim-t-42523"></a>
 - t-001
+  global_id: t-42523
   teiginys: 'Sembos vyskupo teisėjas žuvo kartu su daugeliu Ordino brolių ir Gdansko komtūru.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-42524"></a>
 - t-002
+  global_id: t-42524
   teiginys: 'Sembos vyskupo teisėjui Jonui Lonei buvo atimta gyvybė kartu su Gdansko komtūru ir penkiomis dešimtimis prie vėliavos nukautųjų.'
   pagrindžia:
     - c-001

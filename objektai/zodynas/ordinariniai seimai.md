@@ -17,27 +17,37 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 
 ## Teiginiai
 
+<a id="claim-t-72706"></a>
 - t-001
+  global_id: t-72706
   teiginys: 'Seime atstovai išsirinkdavo maršalką arba direktorių, o jų išrinkimo teisėtumo tikrinimas vadintas rugomis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72707"></a>
 - t-002
+  global_id: t-72707
   teiginys: 'Ordinariniai seimai turėjo rinktis kas dveji metai, o jų darbas trukdavo šešias savaites.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-72708"></a>
 - t-003
+  global_id: t-72708
   teiginys: 'Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savaičių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-72709"></a>
 - t-004
+  global_id: t-72709
   teiginys: 'Be to, reikalui esant, galėjo būti šaukiami ir vadinamieji ekstraordinariniai seimai, kuriems buvo skiriamos dvi savaitės.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-72710"></a>
 - t-005
+  global_id: t-72710
   teiginys: 'Po seimo ginčytinus mokesčių klausimus turėdavo spręsti reliaciniai seimeliai.'
   pagrindžia:
     - c-002

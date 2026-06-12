@@ -43,17 +43,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66552"></a>
 - t-001
+  global_id: t-66552
   teiginys: 'Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66553"></a>
 - t-002
+  global_id: t-66553
   teiginys: 'Dusburgietis teigia, kad išžudžius vadus ir kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66554"></a>
 - t-003
+  global_id: t-66554
   teiginys: 'Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413.'
   pagrindžia:
     - c-002

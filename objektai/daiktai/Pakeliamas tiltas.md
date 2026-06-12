@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59697"></a>
 - t-001
+  global_id: t-59697
   teiginys: 'Dusburgietis teigia, kad sventopelkas, matydamas, kad brolių laivai jau artėja prie kranto, pabėgo nuleidęs aukštą pakeliamą tiltą, kuriuo galima patekti į pilį.'
   pagrindžia:
     - c-001

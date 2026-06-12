@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86957"></a>
 - t-001
+  global_id: t-86957
   teiginys: 'Martynas Paleckis Vilniuje gavo leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą.'
   pagrindžia:
     - c-001

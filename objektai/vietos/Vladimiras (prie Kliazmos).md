@@ -25,7 +25,9 @@ Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos perkėlimas į Vl
 
 ## Teiginiai
 
+<a id="claim-t-32682"></a>
 - t-001
+  global_id: t-32682
   teiginys: '1300 m. metropolitas Maksimas perkėlė Kijevo metropolijos rezidenciją į Vladimirą prie Kliazmos.'
   pagrindžia:
     - c-001

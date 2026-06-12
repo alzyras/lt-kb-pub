@@ -22,7 +22,9 @@ Dusburgietis teigia, kad kuris netgi turėjo ilgai jam mokėti duoklę po 1000 a
 
 ## Teiginiai
 
+<a id="claim-t-58916"></a>
 - t-001
+  global_id: t-58916
   teiginys: 'Dusburgietis teigia, kad kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų į dieną (Ptol.'
   pagrindžia:
     - c-001

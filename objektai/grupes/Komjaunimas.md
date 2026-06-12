@@ -16,12 +16,16 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 
 ## Teiginiai
 
+<a id="claim-t-65311"></a>
 - t-001
+  global_id: t-65311
   teiginys: 'Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kampeliai, leisti sienlaikraščiai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183142"></a>
 - t-002
+  global_id: t-183142
   teiginys: 'Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.'
   pagrindžia:
     - c-002

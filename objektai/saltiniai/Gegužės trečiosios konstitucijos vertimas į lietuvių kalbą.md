@@ -17,12 +17,16 @@ Neatsitiktinai tuo metu konstitucija išverčiama ir į lietuvių kalbą, o tai 
 
 ## Teiginiai
 
+<a id="claim-t-75446"></a>
 - t-001
+  global_id: t-75446
   teiginys: 'Gegužės trečiosios konstitucija buvo išversta į lietuvių kalbą tuo metu, kai lietuviškai daugiausia buvo religinių ir grožinių tekstų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75447"></a>
 - t-002
+  global_id: t-75447
   teiginys: 'Reformos ne tik pažangia linkme kreipė socialinę ir politinę Lietuvos visuomenės raidą, bet ir teikė naujų galimybių lietuviakalbei kultūrai.'
   pagrindžia:
     - c-002

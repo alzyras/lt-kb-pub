@@ -16,7 +16,9 @@ Oehler : Der Krieg zwischen dem Deutschen Orden und PolenLitauen 1409-1411, Elbi
 
 ## Teiginiai
 
+<a id="claim-t-30844"></a>
 - t-001
+  global_id: t-30844
   teiginys: 'M. Oehleris 1910 m. Elbinge paskelbė darbą apie vokiečių ir Lenkijos-Lietuvos karą 1409-1411 m.'
   pagrindžia:
     - c-001

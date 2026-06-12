@@ -31,12 +31,16 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
 
 ## Teiginiai
 
+<a id="claim-t-71204"></a>
 - t-001
+  global_id: t-71204
   teiginys: 'Gardino pilininko Dovydo alodas vadinamas dvaru ir buvo Notangos vyrų sudegintas iki pamatų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71205"></a>
 - t-002
+  global_id: t-71205
   teiginys: 'Gardino pilininko Dovydo alodas, arba dvaras, buvo užpultas ir sudegintas iki pamatų.'
   pagrindžia:
     - c-001

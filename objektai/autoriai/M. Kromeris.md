@@ -14,24 +14,25 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # M. Kromeris
 
 ## Santrauka
 
-Kojelavičius teigia, kad kromerio veikalo istorija.
+1573 m. M. Kromeris lotynišką Lenkijos aprašymą nusiuntė Vloclaveko vyskupui S. Karnkovskiui.
 
 ## Teiginiai
 
+<a id="claim-t-186288"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kromerio veikalo istorija.'
+  global_id: t-186288
+  teiginys: '1573 m. M. Kromeris lotynišką Lenkijos aprašymą nusiuntė Vloclaveko vyskupui S. Karnkovskiui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kromerio veikalo istorija.'
+  santrauka: '1573 m. M. Kromeris lotynišką Lenkijos aprašymą nusiuntė Vloclaveko vyskupui S. Karnkovskiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kaip godžiai

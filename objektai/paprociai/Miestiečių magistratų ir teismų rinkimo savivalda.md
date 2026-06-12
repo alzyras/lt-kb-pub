@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01993"></a>
 - t-001
+  global_id: t-01993
   teiginys: 'Miestiečiai savo magistratus ir teismus taip pat rinkdavosi patys.'
   pagrindžia:
     - c-001

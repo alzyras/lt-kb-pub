@@ -52,12 +52,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-13459"></a>
 - t-001
+  global_id: t-13459
   teiginys: 'Partizanai turėjo prisitaikyti prie gyvenimo miške ir bunkeriuose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-13460"></a>
 - t-002
+  global_id: t-13460
   teiginys: '1946 m. birželį–1948 m. lapkritį partizanai sodybose ir prie jų kasė požeminius bunkerius slėptis nuo priešų per šukavimus.'
   pagrindžia:
     - c-002

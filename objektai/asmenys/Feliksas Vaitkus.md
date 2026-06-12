@@ -24,7 +24,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-78052"></a>
 - t-001
+  global_id: t-78052
   teiginys: '1935 m. gegužės 21–22 d. Feliksas Vaitkus sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Savo dokumente Jogaila pareiškė, jog, jo broliams ir visiems Lietuvos didikams
 
 ## Teiginiai
 
+<a id="claim-t-100002"></a>
 - t-001
+  global_id: t-100002
   teiginys: 'Savo dokumente Jogaila pareiškė, jog, jo broliams ir visiems Lietuvos didikams sutinkant, jis įsipareigojo visus lietuvių tautos gyventojus, kokioje jie bebūtų sektoje, «patraukti, pašaukti, net jėga priversti » paklusti Romos Bažnyčiai.'
   pagrindžia:
     - c-001

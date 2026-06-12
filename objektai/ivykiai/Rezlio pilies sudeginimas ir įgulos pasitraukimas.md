@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62459"></a>
 - t-001
+  global_id: t-62459
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Rezlio pilis Rezlio pilies broliai, išgirdę, kad prūsai apsiautė Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, labai išsigando ir, ilgai taręsi bei dvejoję, pavertė pelenais pilį ir slaptais dykrų keliais pasitraukė.'
   pagrindžia:
     - c-001

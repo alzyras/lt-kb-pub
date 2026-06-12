@@ -18,7 +18,9 @@ Jos viena kitą pastebėjo šiauriau Žirnajų ežero, kur išteka Žirnajos upe
 
 ## Teiginiai
 
+<a id="claim-t-80621"></a>
 - t-001
+  global_id: t-80621
   teiginys: 'Jos viena kitą pastebėjo šiauriau Žirnajų ežero, kur išteka Žirnajos upelis.'
   pagrindžia:
     - c-001

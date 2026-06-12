@@ -31,42 +31,58 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 
 ## Teiginiai
 
+<a id="claim-t-75429"></a>
 - t-001
+  global_id: t-75429
   teiginys: 'Tai kartu paaiškina ir Vilniaus Gaono autoritetą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-75430"></a>
 - t-002
+  global_id: t-75430
   teiginys: 'Didžiausiu Vilniaus Gaono nuopelnu laikytas Babilono Talmudo redagavimas ir komentavimas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75431"></a>
 - t-003
+  global_id: t-75431
   teiginys: 'Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75432"></a>
 - t-004
+  global_id: t-75432
   teiginys: 'Gaonas ir „Šiaurės Jeruzalė“ Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas (ben Šlomo Zalman Elijahu, 1720–1797) – viena iškiliausių asmenybių pasaulio žydų istorijoje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75433"></a>
 - t-005
+  global_id: t-75433
   teiginys: 'Vilniaus Gaonas savo autoritetu ir pastangomis sustabdė chasidizmo plitimą Lietuvoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75435"></a>
 - t-007
+  global_id: t-75435
   teiginys: 'Vilniaus Gaonas inicijavo akcijas prieš chasidizmą, paskelbė chasidus eretikais ir sustabdė chasidizmo plitimą Lietuvoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75436"></a>
 - t-008
+  global_id: t-75436
   teiginys: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-75437"></a>
 - t-009
+  global_id: t-75437
   teiginys: 'Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.'
   pagrindžia:
     - c-003

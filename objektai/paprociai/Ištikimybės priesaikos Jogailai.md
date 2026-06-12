@@ -48,12 +48,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-176229"></a>
 - t-001
+  global_id: t-176229
   teiginys: 'Iš Krokuvos išvykdami Skirgaila ir Vytautas turėjo duoti priesaika patvirtintus raštus dėl ištikimybės Jogailai ir Jadvygai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176231"></a>
 - t-002
+  global_id: t-176231
   teiginys: 'Tuo metu Jogailai ir Karūnai buvo duotos trys ištikimybės priesaikos.'
   pagrindžia:
     - c-002

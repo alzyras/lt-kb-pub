@@ -26,7 +26,9 @@ Algirdui vedant vienintelę Vitebsko kunigaikščio sosto įpėdinę, dukterį M
 
 ## Teiginiai
 
+<a id="claim-t-30356"></a>
 - t-001
+  global_id: t-30356
   teiginys: 'Marija buvo vienintelė Vitebsko kunigaikščio sosto įpėdinė, o ją vedęs Algirdas po uošvio mirties paveldėjo Vitebską.'
   pagrindžia:
     - c-001

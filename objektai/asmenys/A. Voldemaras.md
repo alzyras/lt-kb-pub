@@ -28,42 +28,58 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 
 ## Teiginiai
 
+<a id="claim-t-77996"></a>
 - t-001
+  global_id: t-77996
   teiginys: 'Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų draugai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina per Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš VII Lietuvos žemės ūkio ir pramonės parodos.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-77997"></a>
 - t-002
+  global_id: t-77997
   teiginys: 'Voldemaras užsienio politiką stumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesikeičia, tačiau be Vilniaus Lietuva nėra vienas kūnas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-77998"></a>
 - t-003
+  global_id: t-77998
   teiginys: 'Voldemaras liko be nieko, nes neapdairiai atsisakė tapti užsienio reikalų ministru.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-77999"></a>
 - t-004
+  global_id: t-77999
   teiginys: 'Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino politinių partijų vaidmens, esą atstovavusių tik dalies, o ne visos tautos valiai, ir neketino sugrįžti į vadinamuosius „seimų laikus“, prilygintus netvarkai ir anarchijai.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-78000"></a>
 - t-005
+  global_id: t-78000
   teiginys: 'Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78001"></a>
 - t-006
+  global_id: t-78001
   teiginys: 'Voldemaras nieko negalėjo pakeisti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78002"></a>
 - t-007
+  global_id: t-78002
   teiginys: 'Voldemaras, užėmęs ne tik premjero, bet ir užsienio reikalų ministro postus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-78003"></a>
 - t-008
+  global_id: t-78003
   teiginys: 'Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią.'
   pagrindžia:
     - c-004
@@ -234,7 +250,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vienvaldystė]]
 - [[objektai/daiktai/Šarvuočiai]]
-- [[objektai/posakiai/„vidurainės [A. Smetonos terminas – Red.] linijos“]]
+- [„vidurainės [A. Smetonos terminas – Red.] linijos“](/objektai/posakiai/%E2%80%9Evidurain%C4%97s%20%5BA.%20Smetonos%20terminas%20%E2%80%93%20Red.%5D%20linijos%E2%80%9C)
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/grupes/Geležinis vilkas]]
 - [[objektai/asmenys/J. Simpsonas]]

@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-21829"></a>
 - t-001
+  global_id: t-21829
   teiginys: 'Taškento konferencijų dalyviai sutarė stiprinti rusų kalbos mokymą SSRS mokymo įstaigose ir kelti rusų kalbos mokytojų kvalifikaciją.'
   pagrindžia:
     - c-001

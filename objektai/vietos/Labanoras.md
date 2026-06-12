@@ -28,17 +28,23 @@ Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­ šė (1387. 11. 17)
 
 ## Teiginiai
 
+<a id="claim-t-83723"></a>
 - t-001
+  global_id: t-83723
   teiginys: 'Jogaila iškilmingu aktu dovanojo Vilniaus vyskupui Labanoro, Molėtų, Dambravos ir Verkių kaimus prie Vilniaus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-83724"></a>
 - t-002
+  global_id: t-83724
   teiginys: 'Labanoro kaimas buvo tarp valdų, kuriomis iškilmingu aktu buvo aprūpinta Vilniaus katedra.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-83725"></a>
 - t-003
+  global_id: t-83725
   teiginys: '1387 m. lapkričio 17 d. Jogaila užrašė Labanorą Vilniaus katedrai ir steigiamajai vyskupijai.'
   pagrindžia:
     - c-001

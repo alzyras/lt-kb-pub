@@ -16,17 +16,23 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 
 ## Teiginiai
 
+<a id="claim-t-19962"></a>
 - t-001
+  global_id: t-19962
   teiginys: 'Mokyklose pionierių organizacijos buvo steigiamos siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-19963"></a>
 - t-002
+  global_id: t-19963
   teiginys: 'Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183174"></a>
 - t-003
+  global_id: t-183174
   teiginys: 'Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.'
   pagrindžia:
     - c-003

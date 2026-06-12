@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-01117"></a>
 - t-001
+  global_id: t-01117
   teiginys: 'Milkės žodynui prakalbą 1800 m. parašė Karaliaučiaus filosofas Kantas.'
   pagrindžia:
     - c-001

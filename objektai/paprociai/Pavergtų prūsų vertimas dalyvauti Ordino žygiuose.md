@@ -48,7 +48,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62707"></a>
 - t-001
+  global_id: t-62707
   teiginys: 'Dusburgietis teigia, kad ordino valdžioje likę prūsai buvo verčiami dalyvauti jo žygiuose35, tačiau yra žinoma, kad kai kurie pavergtieji prūsai bandė žlugdyti kryžiuočių antpuolius prieš Lietuvą (III, 226—1285 m.; 249—1292 m.), padėjo lietuvių kariuomenei naikinti kryžiuočių pilis.'
   pagrindžia:
     - c-001

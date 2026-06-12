@@ -6,34 +6,39 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # karaliaus vainikas
 
 ## Santrauka
 
-Kojelavičius teigia, kad po neseniai santykiai su Jogaila ir Vytautu smarkiai pablogėjo, manydami, jog tie nieku būdu nepraleis geros progos atkeršyti, jiems ir pasiūlė Čekijos karaliaus vainiką. Kojelavičius teigia, kad tačiau čekai neišsižadėjo savo sumanymo, manydami, jog troškimas gauti karaliaus vainiką įveiks kiekvieną atkaklų užsispyrėlį. Kojelavičius teigia, kad jis turįs pusbrolį Žygimantą, kunigaikščio Dimitro Kaributaičio sūnų, la bai prityrusį karvedį, kurį lydi pastovi karo sėkmė ir kuris gali užsidėti bet kokios karalystės vainiką.
+Čekai pasiūlė Jogailai ir Vytautui Čekijos karaliaus vainiką, manydami, kad jie norės atkeršyti už pablogėjusius santykius. Čekai neišsižadėjo sumanymo ir antrą kartą siuntė žygūnus palenkti Jogailą bei Vytautą priimti karaliaus vainiką. Žygimantas, Dimitro Kaributaičio sūnus, apibūdintas kaip prityręs karvedys, galintis užsidėti bet kokios karalystės vainiką.
 
 ## Teiginiai
 
+<a id="claim-t-185349"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad po neseniai santykiai su Jogaila ir Vytautu smarkiai pablogėjo, manydami, jog tie nieku būdu nepraleis geros progos atkeršyti, jiems ir pasiūlė Čekijos karaliaus vainiką.'
+  global_id: t-185349
+  teiginys: 'Čekai pasiūlė Jogailai ir Vytautui Čekijos karaliaus vainiką, manydami, kad jie norės atkeršyti už pablogėjusius santykius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185350"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad tačiau čekai neišsižadėjo savo sumanymo, manydami, jog troškimas gauti karaliaus vainiką įveiks kiekvieną atkaklų užsispyrėlį.'
+  global_id: t-185350
+  teiginys: 'Čekai neišsižadėjo sumanymo ir antrą kartą siuntė žygūnus palenkti Jogailą bei Vytautą priimti karaliaus vainiką.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185351"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad jis turįs pusbrolį Žygimantą, kunigaikščio Dimitro Kaributaičio sūnų, la bai prityrusį karvedį, kurį lydi pastovi karo sėkmė ir kuris gali užsidėti bet kokios karalystės vainiką.'
+  global_id: t-185351
+  teiginys: 'Žygimantas, Dimitro Kaributaičio sūnus, apibūdintas kaip prityręs karvedys, galintis užsidėti bet kokios karalystės vainiką.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad po neseniai santykiai su Jogaila ir Vytautu smarkiai pablogėjo, manydami, jog tie nieku būdu nepraleis geros progos atkeršyti, jiems ir pasiūlė Čekijos karaliaus vainiką.'
+  santrauka: 'Čekai pasiūlė Jogailai ir Vytautui Čekijos karaliaus vainiką, manydami, kad jie norės atkeršyti už pablogėjusius santykius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo
@@ -61,7 +66,7 @@ Kojelavičius teigia, kad po neseniai santykiai su Jogaila ir Vytautu smarkiai p
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad tačiau čekai neišsižadėjo savo sumanymo, manydami, jog troškimas gauti karaliaus vainiką įveiks kiekvieną atkaklų užsispyrėlį.'
+  santrauka: 'Čekai neišsižadėjo sumanymo ir antrą kartą siuntė žygūnus palenkti Jogailą bei Vytautą priimti karaliaus vainiką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Panašų atsakymą gavo jie ir iš
@@ -77,7 +82,7 @@ Kojelavičius teigia, kad po neseniai santykiai su Jogaila ir Vytautu smarkiai p
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad jis turįs pusbrolį Žygimantą, kunigaikščio Dimitro Kaributaičio sūnų, la bai prityrusį karvedį, kurį lydi pastovi karo sėkmė ir kuris gali užsidėti bet kokios karalystės vainiką.'
+  santrauka: 'Žygimantas, Dimitro Kaributaičio sūnus, apibūdintas kaip prityręs karvedys, galintis užsidėti bet kokios karalystės vainiką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Imperatorius Zigmantas,
@@ -94,3 +99,9 @@ Kojelavičius teigia, kad po neseniai santykiai su Jogaila ir Vytautu smarkiai p
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/zodynas/žygūnai]]

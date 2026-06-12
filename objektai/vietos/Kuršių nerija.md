@@ -24,12 +24,16 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
 
 ## Teiginiai
 
+<a id="claim-t-58580"></a>
 - t-001
+  global_id: t-58580
   teiginys: 'Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509 įsibrovė į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent: Abendą ir Pabečius510; nužudę 150 krikščionių, jie.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58581"></a>
 - t-002
+  global_id: t-58581
   teiginys: 'Dusburgietis teigia, kad ordino lotyniškuose dokumentuose nerija (Neria) iš pradžių vadinta tik Aismarių nerija.'
   pagrindžia:
     - c-001

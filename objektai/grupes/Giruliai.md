@@ -16,7 +16,9 @@ Giruliai šiame fragmente aiškinami kaip istorinis žemaičių ir kalnėnų var
 
 ## Teiginiai
 
+<a id="claim-t-07834"></a>
 - t-001
+  global_id: t-07834
   teiginys: 'Šeštajame amžiuje giruliais arba girionimis vadinti žemaičiai ir kalnėnai mokėjo auginti linus.'
   pagrindžia:
     - c-001

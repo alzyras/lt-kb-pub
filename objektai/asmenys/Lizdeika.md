@@ -13,13 +13,11 @@ atnaujinta: ''
 tags:
   - asmuo
   - karas
-  - kronika
 amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
 ---
-
 # Lizdeika
 
 ## Santrauka
@@ -28,13 +26,17 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 
 ## Teiginiai
 
+<a id="claim-t-82548"></a>
 - t-001
+  global_id: t-82548
   teiginys: 'Lizdeika padavimuose vaizduojamas kaip nuo katedros varpinės Vilniaus pagonims skelbęs geras ar blogas pranašystes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184779"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad tuo metu Lizdeika buvo vyriausiasis žynys, arba, tėvų kalba, Krivė Krivaitis.'
+  global_id: t-184779
+  teiginys: 'Lizdeika tuo metu buvo vyriausiasis žynys, tėvų kalba vadintas Krive Krivaičiu.'
   pagrindžia:
     - c-002
 
@@ -70,7 +72,7 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad tuo metu Lizdeika buvo vyriausiasis žynys, arba, tėvų kalba, Krivė Krivaitis.'
+  santrauka: 'Lizdeika tuo metu buvo vyriausiasis žynys, tėvų kalba vadintas Krive Krivaičiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuojau prašyta žynių, kurie netoliese gyveno, at­
@@ -86,3 +88,18 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/diecezija]]
+- [[objektai/posakiai/Gedimino « Geležinio vilko » sapnas]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
+- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
+- [[objektai/paprociai/Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui]]
+- [[objektai/zodynas/civilizacinė monada]]
+- [[objektai/zodynas/vaidilos, žyniai ir pranašai]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/paprociai/Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims]]
+- [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
+- [[objektai/paprociai/Žynio sapno aiškinimas ir aukojimas prieš miesto statybą]]

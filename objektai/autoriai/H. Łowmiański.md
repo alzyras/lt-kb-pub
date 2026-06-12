@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-30633"></a>
 - t-001
+  global_id: t-30633
   teiginys: 'H. Łowmiańskis bandė seniausias lietuvių sienas nukelti iki Merkinės, Eišiškių ir Šalčininkų linijos.'
   pagrindžia:
     - c-001

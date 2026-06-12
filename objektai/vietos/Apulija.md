@@ -19,7 +19,9 @@ Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų ž
 
 ## Teiginiai
 
+<a id="claim-t-175281"></a>
 - t-001
+  global_id: t-175281
   teiginys: 'Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų žemių, tad didysis magistras su taryba ir persikėlė į vieną tokią dovanotąją žemę — į Apuliją (pietų Italijoj).'
   pagrindžia:
     - c-001

@@ -19,17 +19,23 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
 
 ## Teiginiai
 
+<a id="claim-t-88195"></a>
 - t-001
+  global_id: t-88195
   teiginys: 'Michałas Balińskis Varšuvos laikraštyje pradėjo spausdinti „Laiškus nuo Kražantės upės kranto“ apie Lietuvos kultūrinio gyvenimo problemas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88196"></a>
 - t-002
+  global_id: t-88196
   teiginys: 'Kita vertus, Laiškuose galima užtikti ano meto žemaičių ir lietuvių kultūrinio gyvenimo realijų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88197"></a>
 - t-003
+  global_id: t-88197
   teiginys: '„Laiškai nuo Kražantės upės kranto“ padeda suprasti XIX a. penktojo ir šeštojo dešimtmečių visuomeninį ir kultūrinį pagyvėjimą Lenkijoje bei Lietuvoje.'
   pagrindžia:
     - c-003

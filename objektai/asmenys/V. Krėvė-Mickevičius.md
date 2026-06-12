@@ -18,17 +18,23 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
 
 ## Teiginiai
 
+<a id="claim-t-64198"></a>
 - t-001
+  global_id: t-64198
   teiginys: 'Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad žydai tarpusavyje dažnai vartojo rusų kalbą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64199"></a>
 - t-002
+  global_id: t-64199
   teiginys: 'Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-64200"></a>
 - t-003
+  global_id: t-64200
   teiginys: 'Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra.'
   pagrindžia:
     - c-001

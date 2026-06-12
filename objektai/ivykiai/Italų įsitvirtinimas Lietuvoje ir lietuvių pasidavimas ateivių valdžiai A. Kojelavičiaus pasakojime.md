@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Italų įsitvirtinimas Lietuvoje ir lietuvių pasidavimas ateivių valdžiai A. Kojelavičiaus pasakojime
 
 ## Santrauka
 
-Kojelavičius teigia, kad ten, negaišdami pasidarę įtvirtinimus, įkurdino juose įgulas, kurios galėtų sėkmingai atremti vietinius gy ventojus, jeigu šie kartais susimanytų pulti naujuosius ateivius. Kojelavičius teigia, kad neilgai trukus ateiviai ir vietiniai gyventojai visiškai susivie nijo: abi tautos panoro turėti bendrą valstybę, o lie tuviai patys netgi sutiko pasiduoti ateivių valdžiai.
+Kojelavičiaus pasakojime ateiviai pasidarė įtvirtinimus ir įkurdino juose įgulas, kad galėtų atremti vietinių gyventojų puolimą. Kojelavičiaus pasakojime ateiviai ir vietiniai gyventojai susivienijo, panoro bendros valstybės, o lietuviai sutiko pasiduoti ateivių valdžiai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185703"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad ten, negaišdami pasidarę įtvirtinimus, įkurdino juose įgulas, kurios galėtų sėkmingai atremti vietinius gy ventojus, jeigu šie kartais susimanytų pulti naujuosius ateivius.'
+  global_id: t-185703
+  teiginys: 'Kojelavičiaus pasakojime ateiviai pasidarė įtvirtinimus ir įkurdino juose įgulas, kad galėtų atremti vietinių gyventojų puolimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185704"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad neilgai trukus ateiviai ir vietiniai gyventojai visiškai susivie nijo: abi tautos panoro turėti bendrą valstybę, o lie tuviai patys netgi sutiko pasiduoti ateivių valdžiai.'
+  global_id: t-185704
+  teiginys: 'Kojelavičiaus pasakojime ateiviai ir vietiniai gyventojai susivienijo, panoro bendros valstybės, o lietuviai sutiko pasiduoti ateivių valdžiai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad ten, negaišdami pasidarę įtvirtinimus, įkurdino juose įgulas, kurios galėtų sėkmingai atremti vietinius gy ventojus, jeigu šie kartais susimanytų pulti naujuosius ateivius.'
+  santrauka: 'Kojelavičiaus pasakojime ateiviai pasidarė įtvirtinimus ir įkurdino juose įgulas, kad galėtų atremti vietinių gyventojų puolimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ten, negaišdami pasidarę įtvirtinimus, įkurdino juose
@@ -73,7 +76,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad neilgai trukus ateiviai ir vietiniai gyventojai visiškai susivie nijo: abi tautos panoro turėti bendrą valstybę, o lie tuviai patys netgi sutiko pasiduoti ateivių valdžiai.'
+  santrauka: 'Kojelavičiaus pasakojime ateiviai ir vietiniai gyventojai susivienijo, panoro bendros valstybės, o lietuviai sutiko pasiduoti ateivių valdžiai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neilgai
@@ -91,3 +94,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Lietuviai]]

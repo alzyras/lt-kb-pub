@@ -17,7 +17,9 @@ VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE p. 115, „DIDYSIS ARTILERIJOS MENAS�
 
 ## Teiginiai
 
+<a id="claim-t-80759"></a>
 - t-001
+  global_id: t-80759
   teiginys: 'VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE p. 115, „DIDYSIS ARTILERIJOS MENAS“, Karolis Zikaras.'
   pagrindžia:
     - c-001

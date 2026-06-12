@@ -28,27 +28,37 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
 
 ## Teiginiai
 
+<a id="claim-t-59871"></a>
 - t-001
+  global_id: t-59871
   teiginys: 'Dusburgietis teigia, kad todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui, kuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo keliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį ir ją iš pamatų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59872"></a>
 - t-002
+  global_id: t-59872
   teiginys: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginimą Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas, magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei gyventi neatsižadėjo, subūrė galybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59873"></a>
 - t-003
+  global_id: t-59873
   teiginys: 'Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Brolis Meinhardas Saksas iš Kverfurto, tryliktas Prūsijos magistras, vadovavo vienuolika metų527.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-59874"></a>
 - t-004
+  global_id: t-59874
   teiginys: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-59875"></a>
 - t-005
+  global_id: t-59875
   teiginys: 'Dusburgietis teigia, kad meinhardas Saksas iš Kverfurto kėlė siaubą visiems priešams, nes jų negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai.'
   pagrindžia:
     - c-002

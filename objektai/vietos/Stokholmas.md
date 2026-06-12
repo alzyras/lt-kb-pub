@@ -16,7 +16,9 @@ Rusai iš Vilniaus į Maskvą išvežė net brangius ponų rūmų baldus, o šve
 
 ## Teiginiai
 
+<a id="claim-t-74013"></a>
 - t-001
+  global_id: t-74013
   teiginys: 'Rusai iš Vilniaus į Maskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi į Stokholmą net akademijos biblioteką ir daugybę kitų kultūros turtų.'
   pagrindžia:
     - c-001

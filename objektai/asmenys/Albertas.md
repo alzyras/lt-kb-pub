@@ -29,17 +29,23 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 
 ## Teiginiai
 
+<a id="claim-t-78932"></a>
 - t-001
+  global_id: t-78932
   teiginys: 'Jersikos karalius 2 Dauguva Žiemgaliai ; Sėliai X Saulė (Šiauliai) 1236 m. Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vyskupo Alberto.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78933"></a>
 - t-002
+  global_id: t-78933
   teiginys: 'Albertas († 1229 m.), Livonijoje naujos vokiečių valstybės valdovas buvo jis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78934"></a>
 - t-003
+  global_id: t-78934
   teiginys: 'Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje.'
   pagrindžia:
     - c-001

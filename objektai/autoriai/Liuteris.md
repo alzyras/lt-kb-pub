@@ -19,17 +19,23 @@ Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įs
 
 ## Teiginiai
 
+<a id="claim-t-01096"></a>
 - t-001
+  global_id: t-01096
   teiginys: 'Liuteris patarė mesti vienuolio apdarus, vesti žmoną ir pasiskelbti kunigaikščiu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-01097"></a>
 - t-002
+  global_id: t-01097
   teiginys: 'Magistras Albrechtas pats užmezgė ryšius su Liuteriu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01098"></a>
 - t-003
+  global_id: t-01098
   teiginys: 'Liuterio mokslas krašte buvo smarkiai įsigalėjęs, juo sekė net kai kurie vyskupai.'
   pagrindžia:
     - c-002

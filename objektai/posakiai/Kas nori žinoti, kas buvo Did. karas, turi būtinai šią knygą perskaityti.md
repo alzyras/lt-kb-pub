@@ -17,12 +17,16 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
 
 ## Teiginiai
 
+<a id="claim-t-93128"></a>
 - t-001
+  global_id: t-93128
   teiginys: 'Knyga apie Didįjį karą apibūdinta kaip būtinas skaitinys norint suprasti, kas buvo Didysis karas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-93129"></a>
 - t-002
+  global_id: t-93129
   teiginys: 'Posakis ragino perskaityti knygą, kurioje vaizduotos Didžiojo karo baisybės: atakos, nuodingos dujos, tankai ir mirtis.'
   pagrindžia:
     - c-001

@@ -23,12 +23,16 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 
 ## Teiginiai
 
+<a id="claim-t-72652"></a>
 - t-001
+  global_id: t-72652
   teiginys: 'Templininkų ordinas buvo prancūzų ordinas, minimas šalia italų joanitų ir vokiečių Marijos Mergelės ordino.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72653"></a>
 - t-002
+  global_id: t-72653
   teiginys: 'Prancūzai turėjo templininkų ordiną, priskiriamą kariaujančiųjų riterių ordinams.'
   pagrindžia:
     - c-001

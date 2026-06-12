@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Punios pilies apgultis ir gynėjų savižūties pasakojimas (pilis)
 
 ## Santrauka
 
-Kojelavičius teigia, kad brandenburgo markgra fas su Namiuro ir Henenbergo grafais bei kryžiuočių riteriais, sutelkę didžiules jėgas, nusiaubė viską, kas pakeliui pasitaikė, ir apsupo Pulės, arba, teisingiau sa kant, Punios pilį.
+Brandenburgo markgrafas su Namiuro ir Henenbergo grafais bei kryžiuočių riteriais apsupo Punios pilį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185825"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad brandenburgo markgra fas su Namiuro ir Henenbergo grafais bei kryžiuočių riteriais, sutelkę didžiules jėgas, nusiaubė viską, kas pakeliui pasitaikė, ir apsupo Pulės, arba, teisingiau sa kant, Punios pilį.'
+  global_id: t-185825
+  teiginys: 'Brandenburgo markgrafas su Namiuro ir Henenbergo grafais bei kryžiuočių riteriais apsupo Punios pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad brandenburgo markgra fas su Namiuro ir Henenbergo grafais bei kryžiuočių riteriais, sutelkę didžiules jėgas, nusiaubė viską, kas pakeliui pasitaikė, ir apsupo Pulės, arba, teisingiau sa kant, Punios pilį.'
+  santrauka: 'Brandenburgo markgrafas su Namiuro ir Henenbergo grafais bei kryžiuočių riteriais apsupo Punios pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Brandenburgo markgra­
@@ -59,3 +60,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]

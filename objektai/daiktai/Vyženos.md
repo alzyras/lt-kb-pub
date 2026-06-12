@@ -36,12 +36,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08350"></a>
 - t-001
+  global_id: t-08350
   teiginys: 'Vyženos buvo moterų ir vyrų avalas, tačiau vyrai kojas vyniojo autais, o moterys mūvėjo žekes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08351"></a>
 - t-002
+  global_id: t-08351
   teiginys: 'Vyženos buvo toks svarbus daiktas, kad vaikai turėjo mokėti jas vyžti.'
   pagrindžia:
     - c-002

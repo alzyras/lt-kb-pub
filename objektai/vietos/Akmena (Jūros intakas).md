@@ -16,7 +16,9 @@ Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.
 
 ## Teiginiai
 
+<a id="claim-t-58675"></a>
 - t-001
+  global_id: t-58675
   teiginys: 'Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.'
   pagrindžia:
     - c-001

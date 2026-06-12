@@ -46,32 +46,44 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 
 ## Teiginiai
 
+<a id="claim-t-10296"></a>
 - t-001
+  global_id: t-10296
   teiginys: 'Lietuvių kariuomenė prie Strėvos upės pavijo grįžtantį priešą po Ordino niokojimų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-10297"></a>
 - t-002
+  global_id: t-10297
   teiginys: '1348 m. vasario 2 d. Strėvos kautynės vyko ties Žiežmarių brasta, o lietuviai ir rusų daliniai atakavo priešą ietimis ir lankais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-10298"></a>
 - t-003
+  global_id: t-10298
   teiginys: 'Vygando kronika Strėvos mūšį sieja su Ordino maršalu, didžiuoju komtūru, didelės lietuvių ir rusų kariuomenės telkimu ir mirtinu susirėmimu prie Strėvos upės.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-10299"></a>
 - t-004
+  global_id: t-10299
   teiginys: 'Strėvos mūšis, nors ir nuostolingas, prisidėjo prie galingo Ordino spaudimo atremimo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-10806"></a>
 - t-005
+  global_id: t-10806
   teiginys: '1348 m. ordinas surengė didelį žygį į Lietuvą, o grįžtančiai jo kariuomenei prie Strėvos upės kelią pastojo [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)|Algirdas]] su [[Kęstutis|Kęstučiu]].'
   pagrindžia:
     - c-001
 
+<a id="claim-t-10807"></a>
 - t-006
+  global_id: t-10807
   teiginys: 'Ordino skelbtas Strėvos mūšio laimėjimas buvo išpūstas.'
   pagrindžia:
     - c-002
@@ -191,7 +203,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Zygfridas iš Da[he]nfeldo]]
+- [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/stabmeldžiai]]

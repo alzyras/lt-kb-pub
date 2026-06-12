@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31832"></a>
 - t-001
+  global_id: t-31832
   teiginys: 'W. Wielhorskio „Litwini, Biatorusini i Polacy w dzisjach kultury Wielkiego Księstwa Litewskiego“ išėjo Londone 1951 m.'
   pagrindžia:
     - c-001

@@ -29,17 +29,23 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
 
 ## Teiginiai
 
+<a id="claim-t-34346"></a>
 - t-001
+  global_id: t-34346
   teiginys: 'Vytautas sudarė miestelėnų luomą, gyvenusį iš visuomenės produktų cirkuliacijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-34347"></a>
 - t-002
+  global_id: t-34347
   teiginys: 'Vytauto laikais miestelėnų luomo pagrindai buvo padėti miestams suteikiant pirmąsias savivaldybes, vadintas magdeburgijomis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184222"></a>
 - t-003
+  global_id: t-184222
   teiginys: 'Vytautas sudarė miestelėnų luomą, gyvenusį iš visuomenės produktų apyvartos ir stiprinusį prekybos bei ekonominio gyvenimo galimybes.'
   pagrindžia:
     - c-003

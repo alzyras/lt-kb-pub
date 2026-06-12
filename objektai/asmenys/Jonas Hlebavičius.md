@@ -28,17 +28,23 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 
 ## Teiginiai
 
+<a id="claim-t-87391"></a>
 - t-001
+  global_id: t-87391
   teiginys: 'Polocko vaivada Jonas Hlebavičius 1542 m. Vilniuje dalyvavo tarp karaliaus Žygimanto rašto liudininkų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87393"></a>
 - t-002
+  global_id: t-87393
   teiginys: 'Jonas Hlebavičius 1581 m. vasario 13 d. dokumente nurodytas kaip Minsko kaštelionas, krašto paiždininkis ir raštininkas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87394"></a>
 - t-003
+  global_id: t-87394
   teiginys: 'Minsko kaštelionas Jonas Hlebavičius apie 1580 m. globojo Danieliaus iš Lenčicos evangelikų reformatų spaustuvę.'
   pagrindžia:
     - c-001

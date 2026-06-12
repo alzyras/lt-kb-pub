@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-87863"></a>
 - t-001
+  global_id: t-87863
   teiginys: 'Stanislovas Vaitkavičius turėjo žemę, iš kurios buvo mokama kviečių dešimtinė.'
   pagrindžia:
     - c-001

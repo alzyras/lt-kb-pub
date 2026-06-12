@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Mikalojus Kurovskis
 
 ## Santrauka
 
-Kojelavičius teigia, kad seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys kupą, pas kryžiuočius, įpareigodamas, negailint pastan gų, visokiais būdais skatinti magistrą draugiškai už baigti ginčą su Vytautu.
+Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius skatinti magistrą taikiai baigti ginčą su Vytautu.
 
 ## Teiginiai
 
+<a id="claim-t-186239"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys kupą, pas kryžiuočius, įpareigodamas, negailint pastan gų, visokiais būdais skatinti magistrą draugiškai už baigti ginčą su Vytautu.'
+  global_id: t-186239
+  teiginys: 'Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius skatinti magistrą taikiai baigti ginčą su Vytautu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys kupą, pas kryžiuočius, įpareigodamas, negailint pastan gų, visokiais būdais skatinti magistrą draugiškai už baigti ginčą su Vytautu.'
+  santrauka: 'Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius skatinti magistrą taikiai baigti ginčą su Vytautu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
@@ -40,3 +41,11 @@ Kojelavičius teigia, kad seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenčicos seimas|Lenčicos seimas (seimas)]]
+- [[objektai/paprociai/Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą|Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą (seimas)]]

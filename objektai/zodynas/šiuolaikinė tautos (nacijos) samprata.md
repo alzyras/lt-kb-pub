@@ -18,7 +18,9 @@ pabaigoje Prancūzijos didžioji revoliucija pagimdė naują šiuolaikinę tauto
 
 ## Teiginiai
 
+<a id="claim-t-22349"></a>
 - t-001
+  global_id: t-22349
   teiginys: 'Pagal šiuolaikinę tautos sampratą tautą sudaro ne tik aukštuomenė ir išsilavinę žmonės, bet ir visi valstybės piliečiai ar valdiniai.'
   pagrindžia:
     - c-001

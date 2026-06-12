@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Šich Achmeto priėmimas Breste ir jo bylos perkėlimas į Radomą
 
 ## Santrauka
 
-Kojelavičius teigia, kad šich Achmeto nusiskundimus turėjusį svarstyti seimą karalius nukėlė į Radomą: kadangi svars tyti reikėjo ir lenkams, ir lietuviams vienodai rūpimą reikalą, karalius pareikalavo šaukti bendrą abiejų tau tų seimą.
+Karalius perkėlė Šich Achmeto nusiskundimus svarstantį seimą į Radomą, nes byla rūpėjo ir lenkams, ir lietuviams.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185839"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad šich Achmeto nusiskundimus turėjusį svarstyti seimą karalius nukėlė į Radomą: kadangi svars tyti reikėjo ir lenkams, ir lietuviams vienodai rūpimą reikalą, karalius pareikalavo šaukti bendrą abiejų tau tų seimą.'
+  global_id: t-185839
+  teiginys: 'Karalius perkėlė Šich Achmeto nusiskundimus svarstantį seimą į Radomą, nes byla rūpėjo ir lenkams, ir lietuviams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad šich Achmeto nusiskundimus turėjusį svarstyti seimą karalius nukėlė į Radomą: kadangi svars tyti reikėjo ir lenkams, ir lietuviams vienodai rūpimą reikalą, karalius pareikalavo šaukti bendrą abiejų tau tų seimą.'
+  santrauka: 'Karalius perkėlė Šich Achmeto nusiskundimus svarstantį seimą į Radomą, nes byla rūpėjo ir lenkams, ir lietuviams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vienas kitam pareiškę
@@ -60,3 +61,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]

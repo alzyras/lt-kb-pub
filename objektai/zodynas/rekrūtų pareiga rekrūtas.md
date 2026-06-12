@@ -16,7 +16,9 @@ Taip pat nepaprastai valstiečius vargino rekrūtų pareiga (vyrus paimdavo į k
 
 ## Teiginiai
 
+<a id="claim-t-03143"></a>
 - t-001
+  global_id: t-03143
   teiginys: 'Rekrūtų pareiga vargino valstiečius, nes vyrus į kariuomenę paimdavo net 25 metams.'
   pagrindžia:
     - c-001

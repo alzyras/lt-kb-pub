@@ -24,7 +24,9 @@ C z a c k i Rozpra­ wa o żydach, p. 107, Vilniuje, Zavadzkio sp., 1807.
 
 ## Teiginiai
 
+<a id="claim-t-88480"></a>
 - t-001
+  global_id: t-88480
   teiginys: 'T. Czackio veikalas „Rozprawa o żydach“ 1807 m. buvo išspausdintas Vilniuje, Zavadzkio spaustuvėje.'
   pagrindžia:
     - c-001

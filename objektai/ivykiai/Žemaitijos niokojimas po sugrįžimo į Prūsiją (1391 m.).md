@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Žemaitijos niokojimas po sugrįžimo į Prūsiją (1391 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad nugalėtojai, išžudę ko vos lauke visus laikančius rankose ginklą, negalėdami gauti daugel kartų nuniokotuose kaimuose jokio gro bio, sugrįžo į Prūsiją.
+Po sugrįžimo į Prūsiją nugalėtojai vėl įsiveržė į Žemaitiją ir nuniokojo dvi iki tol karo nepaliestas apygardas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185841"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad nugalėtojai, išžudę ko vos lauke visus laikančius rankose ginklą, negalėdami gauti daugel kartų nuniokotuose kaimuose jokio gro bio, sugrįžo į Prūsiją.'
+  global_id: t-185841
+  teiginys: 'Po sugrįžimo į Prūsiją nugalėtojai vėl įsiveržė į Žemaitiją ir nuniokojo dvi iki tol karo nepaliestas apygardas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad nugalėtojai, išžudę ko vos lauke visus laikančius rankose ginklą, negalėdami gauti daugel kartų nuniokotuose kaimuose jokio gro bio, sugrįžo į Prūsiją.'
+  santrauka: 'Po sugrįžimo į Prūsiją nugalėtojai vėl įsiveržė į Žemaitiją ir nuniokojo dvi iki tol karo nepaliestas apygardas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nugalėtojai, išžudę ko­
@@ -60,3 +61,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

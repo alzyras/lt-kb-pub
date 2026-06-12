@@ -16,7 +16,9 @@ Dusburgietis teigia, kad abejojama, kad buvusios 4 gentinės jotvingių teritori
 
 ## Teiginiai
 
+<a id="claim-t-91936"></a>
 - t-001
+  global_id: t-91936
   teiginys: 'Dusburgietis teigia, kad abejojama, kad buvusios 4 gentinės jotvingių teritorijos (Zajączkowski S., Uwagi..., p. 91).'
   pagrindžia:
     - c-001

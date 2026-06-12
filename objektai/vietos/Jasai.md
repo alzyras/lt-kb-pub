@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41742"></a>
 - t-001
+  global_id: t-41742
   teiginys: '1620 m. Lenkijos kariuomenė mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės.'
   pagrindžia:
     - c-001

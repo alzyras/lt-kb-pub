@@ -28,157 +28,219 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 
 ## Teiginiai
 
+<a id="claim-t-173307"></a>
 - t-001
+  global_id: t-173307
   teiginys: 'Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis turėjo stoti prieš dvasinį teismą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-173308"></a>
 - t-002
+  global_id: t-173308
   teiginys: '1514 m. Žygimantas Senasis rašė Varmės kanauninkui Andriui Kopernikui.'
   pagrindžia:
     - c-021
 
+<a id="claim-t-173309"></a>
 - t-003
+  global_id: t-173309
   teiginys: 'Žygimantas Senasis atidavė Vilniui savo šaltinį už Subačiaus vartų, kad miestas būtų aprūpintas vandeniu.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-173310"></a>
 - t-004
+  global_id: t-173310
   teiginys: 'Žygimantas Senasis perėmė Lietuvos valdymą ir siekė įvesti tvarką.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-173311"></a>
 - t-005
+  global_id: t-173311
   teiginys: '1522 m. Žygimantas Senasis įsakė miesto sargybą ir policiją sugrąžinti Vilniaus magistratui.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-173313"></a>
 - t-006
+  global_id: t-173313
   teiginys: 'Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tiltą per Viliją prie Vilniaus.'
   pagrindžia:
     - c-030
 
+<a id="claim-t-173314"></a>
 - t-007
+  global_id: t-173314
   teiginys: '1543 m. Žygimantas Senasis leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes.'
   pagrindžia:
     - c-025
 
+<a id="claim-t-173315"></a>
 - t-008
+  global_id: t-173315
   teiginys: '1532 m. Žygimantas Senasis rašte Vilniaus vaitui įspėjo netaikyti Vilniaus miestiečiams jokios prievartos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-173316"></a>
 - t-009
+  global_id: t-173316
   teiginys: 'Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-173317"></a>
 - t-010
+  global_id: t-173317
   teiginys: '1542 m. Žygimantas Senasis suteikė Vilniaus vyskupui privilegiją prieš eretikus.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-173318"></a>
 - t-011
+  global_id: t-173318
   teiginys: '1542 m. Žygimantas Senasis davė Vilniaus vyskupui privilegiją prieš eretikus.'
   pagrindžia:
     - c-026
 
+<a id="claim-t-173319"></a>
 - t-012
+  global_id: t-173319
   teiginys: 'Žygimantas Senasis buvo Lenkijos karalius ir didysis Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikštis.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-173320"></a>
 - t-013
+  global_id: t-173320
   teiginys: '1536 m. rugpjūčio 6 d. Žygimantas Senasis suteikė privilegiją rinkti muitą už perėjimą tiltu per Viliją.'
   pagrindžia:
     - c-024
 
+<a id="claim-t-173321"></a>
 - t-014
+  global_id: t-173321
   teiginys: 'Žygimantui Senajam atvykus į Vilnių, šalis buvo apsaugota nuo jai grėsusio pilietinio karo.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-173322"></a>
 - t-015
+  global_id: t-173322
   teiginys: '1507 m. Melnike Žygimantas Senasis patvirtino 1388 m. Vytauto privilegiją Trakų žydams.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-173324"></a>
 - t-017
+  global_id: t-173324
   teiginys: '1522 m. Žygimantas Senasis įsakė grąžinti Vilniaus miesto sargybą ir policiją magistratui.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-173325"></a>
 - t-018
+  global_id: t-173325
   teiginys: '1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį atidavė sūnui Lietuvos valdžią.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-173326"></a>
 - t-019
+  global_id: t-173326
   teiginys: 'Žygimanto Senojo valdymo metu Vilniuje atsirado reikšmingi statiniai, skirti miesto gerovei ir ištekliams didinti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-173327"></a>
 - t-020
+  global_id: t-173327
   teiginys: 'Žygimantas Senasis suteikė Vilniaus vyskupui Povilui pasaulietinės valdžios įgaliojimus bažnytinėms cenzūroms vykdyti.'
   pagrindžia:
     - c-028
 
+<a id="claim-t-173328"></a>
 - t-021
+  global_id: t-173328
   teiginys: '1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį perdavė Lietuvos valdžią sūnui Žygimantui Augustui.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-173329"></a>
 - t-022
+  global_id: t-173329
   teiginys: '1514 m. Lenkijos karalius Žygimantas buvo siejamas su raštu Varmės kanauninkui Andriui Kopernikui.'
   pagrindžia:
     - c-023
 
+<a id="claim-t-173330"></a>
 - t-023
+  global_id: t-173330
   teiginys: 'Žygimantas Senasis perėmė Lietuvos valdymą ir, anot autoriaus, tvirtai siekė įvesti tvarką.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-173331"></a>
 - t-024
+  global_id: t-173331
   teiginys: 'Žygimantui Senajam, kaip broliui ir įpėdiniui, buvo patikėta kunigaikštienės Elenos teisių globa.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-173332"></a>
 - t-025
+  global_id: t-173332
   teiginys: '1536 m. rugsėjo 9 d. Vilniuje Žygimantas Senasis įsakė paskelbti naujus miesto įstatymus.'
   pagrindžia:
     - c-027
 
+<a id="claim-t-173333"></a>
 - t-026
+  global_id: t-173333
   teiginys: 'Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.'
   pagrindžia:
     - c-020
 
+<a id="claim-t-173335"></a>
 - t-028
+  global_id: t-173335
   teiginys: 'Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-173336"></a>
 - t-029
+  global_id: t-173336
   teiginys: 'Naujasis LDK valdovas Žygimantas Senasis ir taip turėjo reikalų į valias, todėl sąjunga su Krymu buvo patvirtinta.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-173337"></a>
 - t-030
+  global_id: t-173337
   teiginys: '1538 m. balandžio 6 d. Žygimantas Senasis rašė Vilniaus magistratui dėl vyskupo nesikišimo į miesto jurisdikcijos tarnų teises.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-173338"></a>
 - t-031
+  global_id: t-173338
   teiginys: '1515 m. Žygimantas Senasis leido Ulrikui Hozijui savo lėšomis statyti malūną prie Vilniaus.'
   pagrindžia:
     - c-022
 
+<a id="claim-t-173339"></a>
 - t-032
+  global_id: t-173339
   teiginys: 'Žygimantas Senasis, Glogovo kunigaikštis ir mirusio karaliaus brolis, atvyko į Vilnių ir padėjo išvengti pilietinio karo.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-173340"></a>
 - t-033
+  global_id: t-173340
   teiginys: 'Vilniaus vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kad Abraomas Kulvietis stotų prieš dvasinį teismą.'
   pagrindžia:
     - c-029

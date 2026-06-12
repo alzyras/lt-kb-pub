@@ -17,7 +17,9 @@ Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upė
 
 ## Teiginiai
 
+<a id="claim-t-86581"></a>
 - t-001
+  global_id: t-86581
   teiginys: 'Kaimai prie Teterino dvaro, išsidėstę greta Pruto upės, šiuo raštu inkorporuoti, grąžinti ir užrašyti Teterino dvarui.'
   pagrindžia:
     - c-001

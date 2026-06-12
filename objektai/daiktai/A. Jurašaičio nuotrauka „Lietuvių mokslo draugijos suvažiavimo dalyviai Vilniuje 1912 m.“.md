@@ -46,7 +46,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-26407"></a>
 - t-001
+  global_id: t-26407
   teiginys: 'A. Jurašaičio nuotraukoje užfiksuoti Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.'
   pagrindžia:
     - c-001

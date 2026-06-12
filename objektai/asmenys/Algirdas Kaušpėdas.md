@@ -25,7 +25,9 @@ Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos gru
 
 ## Teiginiai
 
+<a id="claim-t-26431"></a>
 - t-001
+  global_id: t-26431
   teiginys: 'Algirdas Kaušpėdas, LPS iniciatyvinės grupės narys ir grupės „Antis“ lyderis, vadovavo Roko maršams.'
   pagrindžia:
     - c-001

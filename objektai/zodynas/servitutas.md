@@ -17,18 +17,24 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
 
 ## Teiginiai
 
+<a id="claim-t-03170"></a>
 - t-001
+  global_id: t-03170
   teiginys: 'Baudžiavos laikais servitutai buvo valstiečių teisės dvaro miškuose ganyti, šienauti, žvejoti dvaro ežeruose ir kirstis malkų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-03171"></a>
 - t-002
+  global_id: t-03171
   teiginys: 'Muravjovas įsakė už servitutus suteikti valstiečiams kitų patogumų arba palikti servitutų teises, jei dvarininkai nesutiktų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182977"></a>
 - t-003
-  teiginys: 'Sužinojęs apie tai, Muravjovas įsakė tikrinamosioms komisijoms, kad už servitutus valstiečiams būtų suteikta kitokių patogumų, o jeigu kur nors dvarininkai nesutiktų jų duoti, tai kad servitutų teisės būtų paliktos, kaip buvusios.'
+  global_id: t-182977
+  teiginys: 'Muravjovas įsakė komisijoms už servitutus suteikti valstiečiams kitokių patogumų arba palikti servitutų teises galioti.'
   pagrindžia:
     - c-003
 
@@ -68,7 +74,7 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
     - t-001
 
 - c-003
-  santrauka: 'Sužinojęs apie tai, Muravjovas įsakė tikrinamosioms komisijoms, kad už servitutus valstiečiams būtų suteikta kitokių patogumų, o jeigu kur nors dvarininkai nesutiktų jų duoti, tai kad servitutų teisės būtų paliktos, kaip buvusios.'
+  santrauka: 'Muravjovas įsakė komisijoms už servitutus suteikti valstiečiams kitokių patogumų arba palikti servitutų teises galioti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ponai,

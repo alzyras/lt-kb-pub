@@ -19,12 +19,16 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
 
 ## Teiginiai
 
+<a id="claim-t-22262"></a>
 - t-001
+  global_id: t-22262
   teiginys: 'Raštinių kultūros plėtrą XIV–XV a. sandūroje skatino augantis LDK rašto poreikis ir vienuolijų trūkumas Lietuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183459"></a>
 - t-002
+  global_id: t-183459
   teiginys: 'Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.'
   pagrindžia:
     - c-002

@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02889"></a>
 - t-001
+  global_id: t-02889
   teiginys: 'Lietuvos siena turėjo eiti nuo Druskininkų per Ežeronis iki Volios, o toliau Nemunu iki Beržūnės.'
   pagrindžia:
     - c-001

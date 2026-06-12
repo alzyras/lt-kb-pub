@@ -19,17 +19,23 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-81908"></a>
 - t-001
+  global_id: t-81908
   teiginys: 'Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų ir regestų rinkinį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81909"></a>
 - t-002
+  global_id: t-81909
   teiginys: 'Ignas Danilavičius M. Balinskio pratarmėje paminėtas tarp istorikų, padėjusių istoriniais dokumentais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-81910"></a>
 - t-003
+  global_id: t-81910
   teiginys: 'M. Balinskis dėkojo Ignui Danilavičiui už pagalbą istoriniais dokumentais.'
   pagrindžia:
     - c-002

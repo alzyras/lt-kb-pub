@@ -27,53 +27,73 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 
 ## Teiginiai
 
+<a id="claim-t-175285"></a>
 - t-001
+  global_id: t-175285
   teiginys: 'Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atiduos Žemaičius ir Dobrynę.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-175286"></a>
 - t-002
+  global_id: t-175286
   teiginys: 'Dusburgietis teigia, kad juos išklausęs, minėtasis valdovas Konradas, Lenkijos kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas 168 Dobrynė — deš.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-175287"></a>
 - t-003
+  global_id: t-175287
   teiginys: 'Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja iš visų pusių Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-175288"></a>
 - t-004
+  global_id: t-175288
   teiginys: 'Prūsai Dobrynės ordiną galėjo pulti 1224–1225 m.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-175289"></a>
 - t-005
+  global_id: t-175289
   teiginys: 'Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-175290"></a>
 - t-006
+  global_id: t-175290
   teiginys: 'Lenkijoje nuo seniau vyko ginčas dėl Dobrynės žemės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-175292"></a>
 - t-007
+  global_id: t-175292
   teiginys: 'Dusburgietis teigia, kad kai apie tai sužinojo prūsai, jie, smarkiai suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-175293"></a>
 - t-008
+  global_id: t-175293
   teiginys: 'Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-175294"></a>
 - t-009
+  global_id: t-175294
   teiginys: 'Drevanta skyrė lenkiškąją Dobrynės žemę nuo upių ir ežerų supamo ploto pietryčiuose.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-184941"></a>
 - t-011
-  teiginys: 'Kojelavičius teigia, kad kai po šio smūgio Lietuva šiek tiek atsiga vo, Vytenis, surinkęs visose valdose lėšų, vieną ka riuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo čius.'
+  global_id: t-184941
+  teiginys: 'Lietuvai šiek tiek atsigavus po smūgio, Vytenis vieną kariuomenę nukreipė į Dobrynę, o kitą prieš kryžiuočius.'
   pagrindžia:
     - c-011
 
@@ -220,7 +240,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     - t-010
 
 - c-011
-  santrauka: 'Kojelavičius teigia, kad kai po šio smūgio Lietuva šiek tiek atsiga vo, Vytenis, surinkęs visose valdose lėšų, vieną ka riuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo čius.'
+  santrauka: 'Lietuvai šiek tiek atsigavus po smūgio, Vytenis vieną kariuomenę nukreipė į Dobrynę, o kitą prieš kryžiuočius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip viena pra­

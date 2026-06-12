@@ -16,13 +16,17 @@ Jų tarpe bene žymiausios buvo laumės, arba žmogaus likimą lemiančios deiv�
 
 ## Teiginiai
 
+<a id="claim-t-03063"></a>
 - t-001
+  global_id: t-03063
   teiginys: 'Laumės laikytos žmogaus likimą lemiančiomis deivėmis, valdančiomis jo gyvenimą nuo gimimo iki mirties.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182956"></a>
 - t-002
-  teiginys: 'Jų tarpe bene žymiausios buvo laumės, arba žmogaus likimą lemiančios deivės (ateinančios prie gimstančio žmogaus ir valdančios jo gyvenimą iki pat mirties).'
+  global_id: t-182956
+  teiginys: 'Laumės buvo laikomos žmogaus likimą lemiančiomis deivėmis, ateinančiomis prie gimstančio žmogaus ir valdančiomis jo gyvenimą iki mirties.'
   pagrindžia:
     - c-002
 
@@ -44,7 +48,7 @@ Jų tarpe bene žymiausios buvo laumės, arba žmogaus likimą lemiančios deiv�
     - t-001
 
 - c-002
-  santrauka: 'Jų tarpe bene žymiausios buvo laumės, arba žmogaus likimą lemiančios deivės (ateinančios prie gimstančio žmogaus ir valdančios jo gyvenimą iki pat mirties).'
+  santrauka: 'Laumės buvo laikomos žmogaus likimą lemiančiomis deivėmis, ateinančiomis prie gimstančio žmogaus ir valdančiomis jo gyvenimą iki mirties.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet buvo dievybių, ir nieko bendro neturinčių su gamta ir

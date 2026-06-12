@@ -23,7 +23,9 @@ Stovykloje buvo 20 Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio b�
 
 ## Teiginiai
 
+<a id="claim-t-38953"></a>
 - t-001
+  global_id: t-38953
   teiginys: 'Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio būriuose Plauginių kautynių stovykloje buvo 20 partizanų.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į 
 
 ## Teiginiai
 
+<a id="claim-t-58943"></a>
 - t-001
+  global_id: t-58943
   teiginys: 'Petras Dusburgietis 1326 m. užbaigė kroniką, kad būsimoms kartoms liktų šventojo žygio atminimas.'
   pagrindžia:
     - c-001

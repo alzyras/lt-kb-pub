@@ -24,7 +24,9 @@ Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.
 
 ## Teiginiai
 
+<a id="claim-t-91954"></a>
 - t-001
+  global_id: t-91954
   teiginys: 'Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.'
   pagrindžia:
     - c-001

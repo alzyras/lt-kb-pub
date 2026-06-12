@@ -25,22 +25,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-123781"></a>
 - t-001
-  teiginys: 'Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio 2 — 10 d.'
+  global_id: t-123781
+  teiginys: 'Po Vilniaus konferencijos išrinktos Lietuvos Tarybos 1917 m. lapkričio 2–10 d. Berne buvo sušaukta nauja konferencija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-123782"></a>
 - t-002
+  global_id: t-123782
   teiginys: '1916 m. kovo 1–5 d. Berne sušaukta konferencija paskelbė Lietuvos nepriklausomybės šūkį ir lietuvių tautos savarankiškumą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-123783"></a>
 - t-003
+  global_id: t-123783
   teiginys: '1—5 d. Berne sušaukta konferencija, atsižvelgdama į lenkų propagandą, savinančiąsi Lietuvą, paskelbė Lietuvos nepriklausomybės šūkį ir lietuvių tautos savarankiškumą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-123784"></a>
 - t-004
+  global_id: t-123784
   teiginys: '1917 m. lapkričio 2–10 d. Berne vėl buvo sušaukta nauja konferencija po to, kai Vilniaus konferencija išrinko Lietuvos Tarybą.'
   pagrindžia:
     - c-002

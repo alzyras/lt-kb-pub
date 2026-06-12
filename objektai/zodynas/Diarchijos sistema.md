@@ -16,7 +16,9 @@ Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
 
 ## Teiginiai
 
+<a id="claim-t-28579"></a>
 - t-001
+  global_id: t-28579
   teiginys: 'Algirdo ir Kęstučio susitarime Kęstutis laikytas Algirdo padėjėju, todėl pilnos diarchijos sistemos nebuvo.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-40426"></a>
 - t-001
+  global_id: t-40426
   teiginys: 'Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas, buvo tarp prie Kijevo telktų pavienių lenkų riterių.'
   pagrindžia:
     - c-001

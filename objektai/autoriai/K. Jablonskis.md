@@ -23,12 +23,16 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 
 ## Teiginiai
 
+<a id="claim-t-179502"></a>
 - t-001
+  global_id: t-179502
   teiginys: 'K. Jablonskis Baltarusijos TSR Mokslų Akademijos pavedimu suredagavo ir išleido 1529 m. Pirmąjį Lietuvos Statutą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-179503"></a>
 - t-002
+  global_id: t-179503
   teiginys: 'K. Jablonskis sudarė pirmąjį XVI–XVII a. dokumentų rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.'
   pagrindžia:
     - c-001

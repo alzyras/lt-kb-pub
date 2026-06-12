@@ -22,7 +22,9 @@ Dusburgietis teigia, kad kuzavinis К.
 
 ## Teiginiai
 
+<a id="claim-t-61116"></a>
 - t-001
+  global_id: t-61116
   teiginys: 'K. Kuzavinio „Prūsų kalba“ išleista Vilniuje 1964 m.'
   pagrindžia:
     - c-001

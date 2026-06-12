@@ -16,7 +16,9 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 
 ## Teiginiai
 
+<a id="claim-t-02799"></a>
 - t-001
+  global_id: t-02799
   teiginys: 'Potockiai Tulčine turėjo vieną iš žymių Lenkijos dvarų.'
   pagrindžia:
     - c-001

@@ -19,12 +19,16 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
 
 ## Teiginiai
 
+<a id="claim-t-60547"></a>
 - t-001
+  global_id: t-60547
   teiginys: 'C. Beckherrnas rašė apie prūsų ginklus ir karybą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60548"></a>
 - t-002
+  global_id: t-60548
   teiginys: 'C. Beckherrnas nagrinėjo pilaitę prie įėjimo į Notangą.'
   pagrindžia:
     - c-002

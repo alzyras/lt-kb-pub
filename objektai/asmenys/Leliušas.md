@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Leliušas
 
 ## Santrauka
 
-Kojelavičius teigia, kad leliušas smarkiai užsipuolė Leliušą, kam šis, girdi, leidęs nužudyti valdovą jam pavaldžioje pilyje.
+Daugirdas apkaltino Leliušą leidus nužudyti valdovą jam pavaldžioje pilyje.
 
 ## Teiginiai
 
+<a id="claim-t-186060"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad leliušas smarkiai užsipuolė Leliušą, kam šis, girdi, leidęs nužudyti valdovą jam pavaldžioje pilyje.'
+  global_id: t-186060
+  teiginys: 'Daugirdas apkaltino Leliušą leidus nužudyti valdovą jam pavaldžioje pilyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad leliušas smarkiai užsipuolė Leliušą, kam šis, girdi, leidęs nužudyti valdovą jam pavaldžioje pilyje.'
+  santrauka: 'Daugirdas apkaltino Leliušą leidus nužudyti valdovą jam pavaldžioje pilyje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Daugiausia kaltinimų susilaukė
@@ -49,3 +50,7 @@ Kojelavičius teigia, kad leliušas smarkiai užsipuolė Leliušą, kam šis, gi
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Daugirdas]]

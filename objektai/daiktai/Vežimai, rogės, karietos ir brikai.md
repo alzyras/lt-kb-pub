@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87037"></a>
 - t-001
+  global_id: t-87037
   teiginys: 'Metraštininkai pasakojo, kad į Vilnių atvažiavo 300 įvairios žvėrienos prikrautų vežimų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87039"></a>
 - t-002
+  global_id: t-87039
   teiginys: 'Kęstučiui puolant Vilnių, į miestą įvairiais keliais buvo įvežta keli šimtai kailių ir šieno prikrautų vežimų su paslėptais ginkluotais vyrais.'
   pagrindžia:
     - c-002

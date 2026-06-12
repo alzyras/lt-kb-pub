@@ -33,17 +33,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75311"></a>
 - t-001
+  global_id: t-75311
   teiginys: '1972 m. kovo 19 d. grupė dvasininkų pradėjo leisti „Lietuvos katalikų bažnyčios kroniką“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75312"></a>
 - t-002
+  global_id: t-75312
   teiginys: 'Jau pirmame jos numeryje išspausdintas lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas,.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75313"></a>
 - t-003
+  global_id: t-75313
   teiginys: 'Vakarų radijo stotims „Kronika“ tapo pagrindiniu medžiagos apie Lietuvą šaltiniu.'
   pagrindžia:
     - c-002

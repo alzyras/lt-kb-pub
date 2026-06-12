@@ -17,12 +17,16 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 
 ## Teiginiai
 
+<a id="claim-t-75616"></a>
 - t-001
+  global_id: t-75616
   teiginys: 'Homo sovieticus turėjo būti be tautinių požymių ir, partijai įsakius, dirbti bet kurioje Sovietų Sąjungos vietoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75617"></a>
 - t-002
+  global_id: t-75617
   teiginys: 'Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vieną tarybinę kultūrą“, tautybių „susiliejimą“ per rusų kalbą kaip „internacionalinę bendravimo priemonę“, „tarybinių tautų suartėjimą ir susiliejimą“ leido suprasti, kad einama unifikuotos.'
   pagrindžia:
     - c-001

@@ -25,17 +25,23 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
 
 ## Teiginiai
 
+<a id="claim-t-30358"></a>
 - t-001
+  global_id: t-30358
   teiginys: 'Marquardas von Salzbachas padėjo Vytautui pataikyti į palankų momentą Ordine.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-30359"></a>
 - t-002
+  global_id: t-30359
   teiginys: 'Marquardas von Salzbachas buvo uolus Vytauto patarėjas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-30360"></a>
 - t-003
+  global_id: t-30360
   teiginys: 'Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris Marquardas von Salzbachas.'
   pagrindžia:
     - c-003

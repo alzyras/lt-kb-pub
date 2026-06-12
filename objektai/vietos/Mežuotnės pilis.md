@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-38625"></a>
 - t-001
+  global_id: t-38625
   teiginys: '1346 m. balandį įsiveržę į Livoniją lietuviai sunaikino Mežuotnės pilį, nukovė komtūrą su keliais kitais broliais.'
   pagrindžia:
     - c-001

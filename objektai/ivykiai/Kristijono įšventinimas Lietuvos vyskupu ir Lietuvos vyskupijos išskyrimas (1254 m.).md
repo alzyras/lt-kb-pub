@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-28779"></a>
 - t-001
+  global_id: t-28779
   teiginys: 'Specialiu raštu panaikindamas Rygos arkivyskupo jurisdikciją Lietuvai, Inocentas IV Mindaugui pranešė apie Lietuvos vyskupijos išskyrimą iš kaimyninės metropolito jurisdikcijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-28780"></a>
 - t-002
+  global_id: t-28780
   teiginys: '1254 m. birželio 24 d. Inocentas IV pavedė arkivyskupui Albertui išrinkti ir konsekruoti Mindaugo pageidaujamą vyskupo kandidatą.'
   pagrindžia:
     - c-002

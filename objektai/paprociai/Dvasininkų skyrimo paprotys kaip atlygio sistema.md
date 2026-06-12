@@ -39,32 +39,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67069"></a>
 - t-001
+  global_id: t-67069
   teiginys: 'Dvasininkų skyrimo paprotys kaip atlygio sistema: be to, dar reikia priminti blogą dvasininkų skyrimo paprotį, buvusį tuomet visoje Europoje, būtent klebonus skirdavo tas, kas pastatydavo ir aprūpindavo bažnyčią, o vyskupus ir kanauninkus — didysis kunigaikštis. Vyskupų paskyrimą tvirtindavo popiežius, o ku-.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67070"></a>
 - t-002
+  global_id: t-67070
   teiginys: 'Dvasininkų skyrimo paprotys kaip atlygio sistema: aprūpindavo bažnyčią, o vyskupus ir kanauninkus — didysis kunigaikštis. Vyskupų paskyrimą tvirtindavo popiežius, o ku- nigų — vyskupas. Kadangi daugumas Lietuvos parapijų buvo įkurtos didžiojo kunigaikščio, tai ir daugumą klebonų skyrė didysis kunigaikštis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-67071"></a>
 - t-003
+  global_id: t-67071
   teiginys: 'Valdovai ir ponai dalijo bažnytines vietas, todėl dvasininkais dažnai tapdavo žmonės, siekę jų pelningumo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67072"></a>
 - t-004
+  global_id: t-67072
   teiginys: 'Dvasininkų skyrimo paprotys kaip atlygio sistema: tais laikais į bažnytines vietas buvo žiūrima, kaip į pel- ningą pragyvenimo šaltinį, ir jos būdavo atiduodamos tam, kas kuriuo nors būdu nusipelnydavo didžiajam kunigaikščiui. Tuo būdu į dvasininkus įsibraudavo daug žmonių, kurie nieko bendro neturėdavo su.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-67073"></a>
 - t-005
+  global_id: t-67073
   teiginys: 'Pagal tuometinį dvasininkų skyrimo paprotį klebonus skirdavo bažnyčią pastačiusieji ir aprūpinusieji asmenys.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-67074"></a>
 - t-006
+  global_id: t-67074
   teiginys: 'Dvasininkų skyrimo paprotys kaip atlygio sistema: priminti blogą dvasininkų skyrimo paprotį, buvusį tuomet visoje Europoje, būtent klebonus skirdavo tas, kas pastatydavo ir.'
   pagrindžia:
     - c-001

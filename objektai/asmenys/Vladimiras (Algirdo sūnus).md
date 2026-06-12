@@ -17,7 +17,9 @@ Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro
 
 ## Teiginiai
 
+<a id="claim-t-35316"></a>
 - t-001
+  global_id: t-35316
   teiginys: 'Vytautas suvaldė Kijevo kunigaikštį Vladimirą, Algirdo sūnų, ir silpnino Gediminaičių valdžią.'
   pagrindžia:
     - c-001

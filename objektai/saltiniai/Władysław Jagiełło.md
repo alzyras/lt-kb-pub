@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-31993"></a>
 - t-001
+  global_id: t-31993
   teiginys: 'St. Smolka ir Fr. Papée parengė tekstą „Władysław Jagiełło“, paskelbtą „Encyklopedja Polska“ V tomo 1 dalyje.'
   pagrindžia:
     - c-001

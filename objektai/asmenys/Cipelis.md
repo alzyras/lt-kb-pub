@@ -17,7 +17,9 @@ Dusburgietis teigia, kad po to veržliai ir žiauriai užgriuvo kito vasalo, rit
 
 ## Teiginiai
 
+<a id="claim-t-60258"></a>
 - t-001
+  global_id: t-60258
   teiginys: 'Dusburgietis teigia, kad po to veržliai ir žiauriai užgriuvo kito vasalo, riterio, vardu Cipelis, pilį448 ir, nukovęs ar paėmęs į nelaisvę visus ten gyvenusius žmones, abi pilis pavertė pelenais.'
   pagrindžia:
     - c-001

@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Švitrigailos Vitebsko žemės užėmimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad tad Švitrigaila, būdamas tikras, jog ru sai jam pasiduos, tyliai paU žim a V ite b s k o žetraukė žinomais keliais per puolė Vitebską, be didelio vargo užėmė Vitebsko miestą ir dvi pilis, šiaip sunkiai įveikiamas ne tik dėl įtvirtini mų, bet ir dėl.
+Švitrigaila be didelio vargo užėmė Vitebsko miestą, dvi pilis, Oršą ir visą kraštą tarp Dnepro ir Dauguvos.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185681"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tad Švitrigaila, būdamas tikras, jog ru sai jam pasiduos, tyliai paU žim a V ite b s k o žetraukė žinomais keliais per puolė Vitebską, be didelio vargo užėmė Vitebsko miestą ir dvi pilis, šiaip sunkiai įveikiamas ne tik dėl įtvirtini mų, bet ir dėl.'
+  global_id: t-185681
+  teiginys: 'Švitrigaila be didelio vargo užėmė Vitebsko miestą, dvi pilis, Oršą ir visą kraštą tarp Dnepro ir Dauguvos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tad Švitrigaila, būdamas tikras, jog ru sai jam pasiduos, tyliai paU žim a V ite b s k o žetraukė žinomais keliais per puolė Vitebską, be didelio vargo užėmė Vitebsko miestą ir dvi pilis, šiaip sunkiai įveikiamas ne tik dėl įtvirtini mų, bet ir dėl.'
+  santrauka: 'Švitrigaila be didelio vargo užėmė Vitebsko miestą, dvi pilis, Oršą ir visą kraštą tarp Dnepro ir Dauguvos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nematė ar dėjosi nematąs jai gresiančio
@@ -59,3 +60,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Švitrigaila]]

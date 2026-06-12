@@ -17,7 +17,9 @@ ir Jog.) esate mūsų viešpačiai: kų toje byloje nuspręsite, bus ir įvykdyt
 
 ## Teiginiai
 
+<a id="claim-t-35972"></a>
 - t-001
+  global_id: t-35972
   teiginys: 'Lenkų didikai Liubičo bylos metu pareiškė, kad Vytautas ir Jogaila yra jų viešpačiai, kurių sprendimas bus įvykdytas.'
   pagrindžia:
     - c-001

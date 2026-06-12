@@ -45,22 +45,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19612"></a>
 - t-001
+  global_id: t-19612
   teiginys: 'Vytauto karūna laikyta būtina sąlyga Lietuvos karalystės siekiui įgyvendinti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-19613"></a>
 - t-002
+  global_id: t-19613
   teiginys: 'Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-19614"></a>
 - t-003
+  global_id: t-19614
   teiginys: 'Lucko suvažiavime iškilo Vytauto vainikavimo planas, kurį rėmė Zigmantas I ir Vokiečių ordinas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183303"></a>
 - t-004
+  global_id: t-183303
   teiginys: 'Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią, numatytą XIV a.'
   pagrindžia:
     - c-003

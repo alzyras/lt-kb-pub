@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31454"></a>
 - t-001
+  global_id: t-31454
   teiginys: '1251 m. vidurvasarį iš kurijos išėjo šeši popiežiaus raštai Mindaugui arba jo reikalu kitiems adresatams.'
   pagrindžia:
     - c-001

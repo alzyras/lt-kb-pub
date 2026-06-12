@@ -26,17 +26,23 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 
 ## Teiginiai
 
+<a id="claim-t-49111"></a>
 - t-001
+  global_id: t-49111
   teiginys: 'Nuo 1947 m. vadovavo apie Kauną veikusiai partizanų Tauro apygardos Birutės rinktinei.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-49112"></a>
 - t-002
+  global_id: t-49112
   teiginys: 'Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-49113"></a>
 - t-003
+  global_id: t-49113
   teiginys: 'Aleksandras Grybinas-Faustas 1948 m. spalio 8 d. tapo Tauro apygardos vadu.'
   pagrindžia:
     - c-001

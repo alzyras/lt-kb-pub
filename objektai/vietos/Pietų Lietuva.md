@@ -24,12 +24,16 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
 
 ## Teiginiai
 
+<a id="claim-t-42026"></a>
 - t-001
+  global_id: t-42026
   teiginys: 'Pakeliui į suvažiavimą susitiko Vakarų Lietuvos ir Pietų Lietuvos partizanų atstovai bei vadai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183801"></a>
 - t-002
+  global_id: t-183801
   teiginys: 'Išleistas 1951 m. Pietų Lietuvos partizanų štabo.'
   pagrindžia:
     - c-002

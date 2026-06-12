@@ -16,12 +16,16 @@ Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtam
 
 ## Teiginiai
 
+<a id="claim-t-176270"></a>
 - t-001
+  global_id: t-176270
   teiginys: 'Rusų kronikos Vytautui priskiria susitarimą pasodinti Tochtamyšą caro Kotlogo vietoje ir pačiam valdyti Rusiją iš Maskvos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176271"></a>
 - t-002
+  global_id: t-176271
   teiginys: 'Vytautas priėmė Tochtamyšą, tikėdamasis jį panaudoti totorių galybei sulaužyti ir vėliau atsisėsti Maskvos soste.'
   pagrindžia:
     - c-001

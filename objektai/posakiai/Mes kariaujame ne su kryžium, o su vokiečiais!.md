@@ -26,12 +26,16 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
 
 ## Teiginiai
 
+<a id="claim-t-67272"></a>
 - t-001
+  global_id: t-67272
   teiginys: 'Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67273"></a>
 - t-002
+  global_id: t-67273
   teiginys: 'Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais, ir prieš juos jungėsi su lenkais bei mozūrais.'
   pagrindžia:
     - c-001

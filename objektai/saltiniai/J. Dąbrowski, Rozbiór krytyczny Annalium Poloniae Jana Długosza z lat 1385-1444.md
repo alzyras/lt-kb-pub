@@ -25,7 +25,9 @@ Dąbrowski : Rozbiór krytyczny Anna ­ lium Poloniae Jana Długosza z lat 1385-
 
 ## Teiginiai
 
+<a id="claim-t-31719"></a>
 - t-001
+  global_id: t-31719
   teiginys: 'J. Dąbrowskio „Rozbiór krytyczny Annalium Poloniae Jana Długosza z lat 1385–1444“ I tomas išleistas Vroclave, Varšuvoje ir Krokuvoje 1961 m.'
   pagrindžia:
     - c-001

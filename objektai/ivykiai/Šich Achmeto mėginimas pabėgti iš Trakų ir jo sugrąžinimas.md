@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad susirgęs karalius nuvežamas į Krokuvą, o Šich Achmetas, valdovo valia turėjęs būti Trakuose vaišingai priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
+Šich Achmetas, valdovo valia turėjęs būti Trakuose vaišingai priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185838"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad susirgęs karalius nuvežamas į Krokuvą, o Šich Achmetas, valdovo valia turėjęs būti Trakuose vaišingai priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.'
+  global_id: t-185838
+  teiginys: 'Šich Achmetas, valdovo valia turėjęs būti Trakuose vaišingai priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad susirgęs karalius nuvežamas į Krokuvą, o Šich Achmetas, valdovo valia turėjęs būti Trakuose vaišingai priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.'
+  santrauka: 'Šich Achmetas, valdovo valia turėjęs būti Trakuose vaišingai priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dėl karaliaus ligos seimas buvo pa­
@@ -57,3 +58,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mengli Girėjus]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/asmenys/Šich Achmetas]]

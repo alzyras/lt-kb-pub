@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-34521"></a>
 - t-001
+  global_id: t-34521
   teiginys: '1426 m. rugpjūtį Vytautas su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą, bet miesto paimti nepavyko.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-34522"></a>
 - t-002
+  global_id: t-34522
   teiginys: '1426 m. rugpjūčio 25 d. taika įpareigojo Pskovą pripažinti Vytauto viršenybę ir neteikti pagalbos jo priešams.'
   pagrindžia:
     - c-001

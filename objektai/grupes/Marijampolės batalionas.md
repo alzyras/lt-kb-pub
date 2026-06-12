@@ -22,12 +22,16 @@ Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės ba
 
 ## Teiginiai
 
+<a id="claim-t-78386"></a>
 - t-001
+  global_id: t-78386
   teiginys: 'Šaudymo tempas - 300-450 šuvių/min, efektyvaus šaudymo nuotolis — 2000 m. Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės bataliono viršila Antanas Šukys aprašo naktinę žvalgybinędiversinę operaciją į priešo užnugarį - bolševikų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78387"></a>
 - t-002
+  global_id: t-78387
   teiginys: 'Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.'
   pagrindžia:
     - c-001

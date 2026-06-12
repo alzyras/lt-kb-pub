@@ -16,7 +16,9 @@ Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą �
 
 ## Teiginiai
 
+<a id="claim-t-21015"></a>
 - t-001
+  global_id: t-21015
   teiginys: 'J. I. Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.'
   pagrindžia:
     - c-001

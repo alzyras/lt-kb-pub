@@ -27,7 +27,9 @@ p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už 
 
 ## Teiginiai
 
+<a id="claim-t-87903"></a>
 - t-001
+  global_id: t-87903
   teiginys: 'Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.'
   pagrindžia:
     - c-001

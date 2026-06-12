@@ -34,27 +34,37 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
 
 ## Teiginiai
 
+<a id="claim-t-55245"></a>
 - t-001
+  global_id: t-55245
   teiginys: '1500 m. Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį karaliaus malūną, nes jis drebindamas silpnino bernardinų pastatų pamatus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55246"></a>
 - t-002
+  global_id: t-55246
   teiginys: 'Mikalojus Radvila II savo lėšomis naujai pamūrijo bernardinų bažnyčią, vadintą Šv. Pranciškaus ir Bernardo vardu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55247"></a>
 - t-003
+  global_id: t-55247
   teiginys: 'Bernardinų bažnyčia dėl menkų pamatų grėsė griūtimi, todėl ji buvo iš naujo pamūryta dosniai prisidėjus Vilniaus vaivadai Mikalojui Radvilai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-83203"></a>
 - t-004
+  global_id: t-83203
   teiginys: 'Bernardinų bažnyčia Vilniuje buvo per nauja pamūryta, nes dėl menkų pamatų jai grėsė griūtis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-83204"></a>
 - t-005
+  global_id: t-83204
   teiginys: '1500 m. karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną, ardžiusį pastatų pamatus.'
   pagrindžia:
     - c-004

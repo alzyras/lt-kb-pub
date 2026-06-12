@@ -29,7 +29,9 @@ Dusburgietis teigia, kad apie Benediktą XI, popiežių, ir Albrechtą, karalių
 
 ## Teiginiai
 
+<a id="claim-t-60246"></a>
 - t-001
+  global_id: t-60246
   teiginys: 'Dusburgietis teigia, kad apie Benediktą XI, popiežių, ir Albrechtą, karalių 1303 viešpaties metais valdė Benediktas XI, popiežius, brolių pamokslininkų ordino vienuolis, ir Albrechtas, Romos karalius (Mart.'
   pagrindžia:
     - c-001

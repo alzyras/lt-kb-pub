@@ -18,14 +18,17 @@ Krašto padalinimas į pavietus ir vaivadijas.
 
 ## Teiginiai
 
+<a id="claim-t-74016"></a>
 - t-001
-  teiginys: 'Krašto padalinimas į pavietus ir vaivadijas.'
+  global_id: t-74016
+  teiginys: 'Iš Vilniaus vaivadijos buvo išskirti Ašmenos, Lydos, Ukmergės ir Breslaujos pavietai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Iš Vilniaus vaivadijos buvo išskirti Ašmenos, Lydos, Ukmergės ir Breslaujos pavietai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Krašto padalinimas į pavietus ir vaivadijas. Visas kraš-

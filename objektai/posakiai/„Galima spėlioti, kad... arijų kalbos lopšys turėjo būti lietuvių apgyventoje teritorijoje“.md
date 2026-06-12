@@ -27,7 +27,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-25369"></a>
 - t-001
+  global_id: t-25369
   teiginys: 'Isaacas Tayloras spėjo, kad arijų kalbos lopšys galėjo būti lietuvių apgyventoje teritorijoje.'
   pagrindžia:
     - c-001

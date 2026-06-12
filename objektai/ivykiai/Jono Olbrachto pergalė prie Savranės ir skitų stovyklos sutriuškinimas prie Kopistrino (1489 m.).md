@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Jono Olbrachto pergalė prie Savranės ir skitų stovyklos sutriuškinimas prie Kopistrino (1489 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad todėl, sužinojęs, jog skitai dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug nimi ir kalaviju, jis ryžtingiau nei bet kada anksčiau pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai pavaduoti. Kojelavičius teigia, kad kovos pradžia buvo gana sunki, nes, neprasidėjus tikroms kautynėms, skitai iš tolo juos apšaudė strėlėmis.
+Jonas Olbrachtas Rusioje ir Lietuvoje sutelkė kariuomenę ir prie Savranės upės stojo į atvirą kovą su skitais. Kovos prie Savranės pradžia buvo sunki, nes skitai dar prieš tikrąsias kautynes iš tolo apšaudė Jono Olbrachto karius strėlėmis.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185523"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad todėl, sužinojęs, jog skitai dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug nimi ir kalaviju, jis ryžtingiau nei bet kada anksčiau pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai pavaduoti.'
+  global_id: t-185523
+  teiginys: 'Jonas Olbrachtas Rusioje ir Lietuvoje sutelkė kariuomenę ir prie Savranės upės stojo į atvirą kovą su skitais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185524"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kovos pradžia buvo gana sunki, nes, neprasidėjus tikroms kautynėms, skitai iš tolo juos apšaudė strėlėmis.'
+  global_id: t-185524
+  teiginys: 'Kovos prie Savranės pradžia buvo sunki, nes skitai dar prieš tikrąsias kautynes iš tolo apšaudė Jono Olbrachto karius strėlėmis.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad todėl, sužinojęs, jog skitai dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug nimi ir kalaviju, jis ryžtingiau nei bet kada anksčiau pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai pavaduoti.'
+  santrauka: 'Jonas Olbrachtas Rusioje ir Lietuvoje sutelkė kariuomenę ir prie Savranės upės stojo į atvirą kovą su skitais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl, sužinojęs, jog skitai
@@ -76,10 +79,24 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kovos pradžia buvo gana sunki, nes, neprasidėjus tikroms kautynėms, skitai iš tolo juos apšaudė strėlėmis.'
+  santrauka: 'Kovos prie Savranės pradžia buvo sunki, nes skitai dar prieš tikrąsias kautynes iš tolo apšaudė Jono Olbrachto karius strėlėmis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
-    Kovos pradžia
+    Kunigaikštis Jonas
+    Olbrachtas, uoliai vykdyda-
+    1489 m eta i
+    mas, kas buvo tėvo nurodyta,
+    K u n ig a ik štis
+    J o n a s
+    greitai sutelkė Rusioje ir Lie-
+    O lb ia c h ta s
+    sum u ša
+    tuvoje kariuomenę ir, patrau-
+    sk itu s
+    kęs į priekį su ryžtingiausiais
+    vyrais, prie Savranės upės at­
+    virame lauke susikovė su priešu. Gurguolės, saugomos
+    nedidelio būrio, lėtai slinko iš paskos. Kovos pradžia
     buvo gana sunki, nes, neprasidėjus tikroms kautynėms,
     skitai iš tolo juos apšaudė strėlėmis. Štai todėl kuni­
     gaikštis paragino savuosius paspaudus žirgus pentinais
@@ -101,3 +118,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Jonas Olbrachtas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

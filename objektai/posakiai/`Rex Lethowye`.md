@@ -26,12 +26,16 @@ Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias der
 
 ## Teiginiai
 
+<a id="claim-t-75598"></a>
 - t-001
+  global_id: t-75598
   teiginys: 'Gediminas titulavosi Rex Lethowye, derėjosi dėl krikšto ir laiškais kvietė į Lietuvą Vakarų pirklius bei amatininkus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75599"></a>
 - t-002
+  global_id: t-75599
   teiginys: 'Gediminas titulavosi Rex Lethowye ir laiškais Vakarų šalims kvietė į Lietuvą pirklius bei amatininkus.'
   pagrindžia:
     - c-001

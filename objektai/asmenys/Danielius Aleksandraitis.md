@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-100070"></a>
 - t-001
+  global_id: t-100070
   teiginys: '1406 m. vasario mėnesį šis netikėtai su Lietuvos kariuomene įsiveržė į sritį Pskovo, kuriame 1402 m. Maskva buvo pasodinusi kunigaikštį Danielių Aleksandraitį.'
   pagrindžia:
     - c-001

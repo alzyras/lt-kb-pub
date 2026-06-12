@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # lengvoji raitija
 
 ## Santrauka
 
-Kojelavičius teigia, kad nesuartėjus pagrindinėms jėgoms, į kovą stojo žvalgybiniai vienos ir kitos ša lies lengvosios raitijos būriai, šie susidūrimai buvo sėkmingesni karaliaus kariams.
+Prieš pagrindinių jėgų susidūrimą kovėsi abiejų pusių lengvosios raitijos žvalgybiniai būriai, o sėkmė lydėjo karaliaus karius.
 
 ## Teiginiai
 
+<a id="claim-t-185367"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad nesuartėjus pagrindinėms jėgoms, į kovą stojo žvalgybiniai vienos ir kitos ša lies lengvosios raitijos būriai, šie susidūrimai buvo sėkmingesni karaliaus kariams.'
+  global_id: t-185367
+  teiginys: 'Prieš pagrindinių jėgų susidūrimą kovėsi abiejų pusių lengvosios raitijos žvalgybiniai būriai, o sėkmė lydėjo karaliaus karius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad nesuartėjus pagrindinėms jėgoms, į kovą stojo žvalgybiniai vienos ir kitos ša lies lengvosios raitijos būriai, šie susidūrimai buvo sėkmingesni karaliaus kariams.'
+  santrauka: 'Prieš pagrindinių jėgų susidūrimą kovėsi abiejų pusių lengvosios raitijos žvalgybiniai būriai, o sėkmė lydėjo karaliaus karius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ka­
@@ -40,3 +41,9 @@ Kojelavičius teigia, kad nesuartėjus pagrindinėms jėgoms, į kovą stojo žv
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/paprociai/Tradicinė Lietuvos ir Lenkijos kovinė rikiuotė]]

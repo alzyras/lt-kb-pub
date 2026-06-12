@@ -47,32 +47,44 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 
 ## Teiginiai
 
+<a id="claim-t-54931"></a>
 - t-001
+  global_id: t-54931
   teiginys: 'Aleksandras Balinskis buvo iš Krokuvos pakviestas alchemikas, kurio gydymas nepadėjo sergančiam Aleksandrui Jogailaičiui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54932"></a>
 - t-002
+  global_id: t-54932
   teiginys: 'Aleksandras iš Balino Balinskis buvo Krokuvos bajoraitis nuo Olkušo, paskendęs alchemijoje ir garsėjęs gydymo sėkme.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54933"></a>
 - t-003
+  global_id: t-54933
   teiginys: 'Balinskis po karaliaus mirties kalėjo Vilniuje iki Žygimanto atvykimo, o grįžęs į Krokuvą vėl buvo įkalintas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-54934"></a>
 - t-004
+  global_id: t-54934
   teiginys: 'Aleksandras Balinskis siejamas su karališkosios vaistinės dalimi, kuri liko Vilniuje ir vėliau tapo nuolatinės miesto vaistinės pradžia.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-173117"></a>
 - t-005
+  global_id: t-173117
   teiginys: 'Sun- 47 kiai atkentėjo Balinskis už savo gydyStrijkovskis savo metraštyje, mo ir alchemijos aistrą; pirmiausia po 1.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-173118"></a>
 - t-006
+  global_id: t-173118
   teiginys: 'Aleksandras Balinskis garsėjo alchemijos išmanymu ir sėkmingu gydymu, todėl atvyko iš Krokuvos gydyti sergančio Aleksandro.'
   pagrindžia:
     - c-003

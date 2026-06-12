@@ -19,7 +19,9 @@ Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę
 
 ## Teiginiai
 
+<a id="claim-t-67320"></a>
 - t-001
+  global_id: t-67320
   teiginys: 'Pirmąsias sutartis Lietuva pasirašė kaip tautinė valstybė ir buvo tokia pripažinta – nepriklausomybės stebuklas įvyko.'
   pagrindžia:
     - c-001

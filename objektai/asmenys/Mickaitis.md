@@ -16,7 +16,9 @@ Pulko vadas pasigedo 1 bataliono karininkų: ltn. Baniulio, ltn. Raibikio, ltn. 
 
 ## Teiginiai
 
+<a id="claim-t-40343"></a>
 - t-001
+  global_id: t-40343
   teiginys: 'Pulko vadas pasigedo 1 bataliono karininko leitenanto Mickaičio.'
   pagrindžia:
     - c-001

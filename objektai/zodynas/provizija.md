@@ -18,7 +18,9 @@ Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų ma
 
 ## Teiginiai
 
+<a id="claim-t-86611"></a>
 - t-001
+  global_id: t-86611
   teiginys: 'Karalaitės buvo įpareigotos aprūpinti Šv. Onos bažnyčios kleboniją ir du mansionierius tinkama provizija.'
   pagrindžia:
     - c-001

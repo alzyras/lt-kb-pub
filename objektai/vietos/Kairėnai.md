@@ -16,7 +16,9 @@ Sadauskaitė rašė apie Kairėnu, Sei- (^95) Pvz.
 
 ## Teiginiai
 
+<a id="claim-t-99910"></a>
 - t-001
+  global_id: t-99910
   teiginys: 'Sadauskaitė rašė apie Kairėnu, Sei- (^95) Pvz.'
   pagrindžia:
     - c-001

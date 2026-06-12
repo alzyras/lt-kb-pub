@@ -17,7 +17,9 @@ Tuo tarpu Vokietija ir Austrija Vengrija 1916 metais lapkričio 5 dieną paskelb
 
 ## Teiginiai
 
+<a id="claim-t-01425"></a>
 - t-001
+  global_id: t-01425
   teiginys: 'Naujoji Lenkų Valstybės Taryba netrukus pareiškė pretenzijas į Lietuvą.'
   pagrindžia:
     - c-001

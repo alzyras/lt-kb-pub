@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą
 
 ## Santrauka
 
-Kojelavičius teigia, kad rūmų maršalas, para ginęs vieną bei kitą siekti ir karo, ir taikos metu tokios pat santarvės bei šlovės, kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją bei lazdą.
+Kernavės didikų sueigoje Giliginas buvo paskelbtas Lietuvos valdovu, o rūmų maršalas jam įteikė kalaviją ir lazdą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185864"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad rūmų maršalas, para ginęs vieną bei kitą siekti ir karo, ir taikos metu tokios pat santarvės bei šlovės, kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją bei lazdą.'
+  global_id: t-185864
+  teiginys: 'Kernavės didikų sueigoje Giliginas buvo paskelbtas Lietuvos valdovu, o rūmų maršalas jam įteikė kalaviją ir lazdą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad rūmų maršalas, para ginęs vieną bei kitą siekti ir karo, ir taikos metu tokios pat santarvės bei šlovės, kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją bei lazdą.'
+  santrauka: 'Kernavės didikų sueigoje Giliginas buvo paskelbtas Lietuvos valdovu, o rūmų maršalas jam įteikė kalaviją ir lazdą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sukvietus Kernavėje didikų sueigą, Germanto
@@ -59,3 +60,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Germantas]]
+- [[objektai/asmenys/Giliginas]]
+- [[objektai/asmenys/Trobius]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/sueiga]]
+- [[objektai/posakiai/karo, ir taikos metu tokios pat santarvės bei šlovės]]

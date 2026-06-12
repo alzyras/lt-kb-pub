@@ -19,12 +19,16 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
 
 ## Teiginiai
 
+<a id="claim-t-60205"></a>
 - t-001
+  global_id: t-60205
   teiginys: 'Sembas Sklodas iš Kvedenavos sušaukė giminaičius ir bičiulius, ragindamas juos kovoti už tikėjimą ir brolius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60206"></a>
 - t-002
+  global_id: t-60206
   teiginys: 'Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o pirmiausia — prieš Kvedenavos valsčių Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies, be to, pernelyg pasikliaujantis savo jėgomis, manė, jog.'
   pagrindžia:
     - c-001

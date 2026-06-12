@@ -43,17 +43,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-50802"></a>
 - t-001
+  global_id: t-50802
   teiginys: '1414 m. Konstancijos susirinkimas suteikė Lietuvai progą Vakarų Europai parodyti vykdomą krikšto darbą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-50803"></a>
 - t-002
+  global_id: t-50803
   teiginys: 'Konstancijos susirinkimas nusprendė pasiųsti vyskupus Žemaičių vyskupijai įkurti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-50804"></a>
 - t-003
+  global_id: t-50804
   teiginys: 'Vytautas į Konstancijos susirinkimą pasiuntė 60 žemaičių bajorų katalikų delegaciją kaip Lietuvos apsikrikštijimo įrodymą.'
   pagrindžia:
     - c-002

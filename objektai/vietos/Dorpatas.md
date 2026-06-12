@@ -10,7 +10,6 @@ tags:
   - kraštas
   - vieta
 ---
-
 # Dorpatas
 
 ## Santrauka
@@ -19,23 +18,31 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
 
 ## Teiginiai
 
+<a id="claim-t-36197"></a>
 - t-001
+  global_id: t-36197
   teiginys: 'Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta gadinti dėl prekybos interesų šiaurėje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-36198"></a>
 - t-002
+  global_id: t-36198
   teiginys: 'Vytauto laikų Dorpatas buvo vienas iš prekybos centrų netoli Lietuvos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184942"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad maskvėnai, į šį žygį patraukę su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.'
+  global_id: t-184942
+  teiginys: 'Į Livoniją patraukę su 120 tūkstančių vyrų, maskvėnai netrukus užėmė Dorpatą ir Viljandį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184943"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei apygardos valdytoją Dorpato vyskupą ir visą dvasinin kų kolegiją.'
+  global_id: t-184943
+  teiginys: 'Maskvėnai apiplėšė Dorpatą ir išsivarė į nelaisvę Dorpato vyskupą bei dvasininkų kolegiją.'
   pagrindžia:
     - c-004
 
@@ -80,7 +87,7 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad maskvėnai, į šį žygį patraukę su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.'
+  santrauka: 'Į Livoniją patraukę su 120 tūkstančių vyrų, maskvėnai netrukus užėmė Dorpatą ir Viljandį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šiaip ar taip, jis
@@ -98,7 +105,7 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei apygardos valdytoją Dorpato vyskupą ir visą dvasinin kų kolegiją.'
+  santrauka: 'Maskvėnai apiplėšė Dorpatą ir išsivarė į nelaisvę Dorpato vyskupą bei dvasininkų kolegiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Viljandyje į priešų rankas pakliuvo pats magistras Fiur-

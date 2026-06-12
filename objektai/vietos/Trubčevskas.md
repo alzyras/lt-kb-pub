@@ -25,7 +25,9 @@ Nuvykęs Maskvon, jis prikalbėjo kunigaikštį Dimitrą žygiui į Lietuvą, ir
 
 ## Teiginiai
 
+<a id="claim-t-32603"></a>
 - t-001
+  global_id: t-32603
   teiginys: '1379–1380 m. žiemą Dimitro kariuomenė užėmė Starodubą ir Trubčevską, nes Dimitras be mūšio atidavė savo valdą.'
   pagrindžia:
     - c-001

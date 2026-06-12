@@ -18,7 +18,9 @@ Dusburgietis teigia, kad kai brolis Petras, kunigas ir jo nuodėmklausys, jį su
 
 ## Teiginiai
 
+<a id="claim-t-60407"></a>
 - t-001
+  global_id: t-60407
   teiginys: 'Dusburgietis teigia, kad kai brolis Petras, kunigas ir jo nuodėmklausys, jį subarė, sakydamas, kad karo metu dėl kitų šarvų svorio jis privaląs nusiimti grandininius, tas atrėžė, kad niekas jo negalįs priversti, kol gyvas, juos nusivilkti.'
   pagrindžia:
     - c-001

@@ -18,12 +18,16 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
 
 ## Teiginiai
 
+<a id="claim-t-38877"></a>
 - t-001
+  global_id: t-38877
   teiginys: 'Lietuvos ir Lenkijos šaltinių duomenimis, Vasilijaus III sutelktoje Maskvos kariuomenėje buvo 80 000 karių, daugiausia raitelių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-38878"></a>
 - t-002
+  global_id: t-38878
   teiginys: 'Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos valdovo dvaro pulko, dalyvavo ir totoriai, vadovaujami murzos Sivinduko, kunigaikščio Madyko sūnaus.'
   pagrindžia:
     - c-001

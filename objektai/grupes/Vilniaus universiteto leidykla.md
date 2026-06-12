@@ -16,7 +16,9 @@ Kalbos redaktorė Gražina Indrišiūnienė Viršelio dailininkė Audronė Uziel
 
 ## Teiginiai
 
+<a id="claim-t-24526"></a>
 - t-001
+  global_id: t-24526
   teiginys: 'Knygą „Lietuvos istorija“ išleido Vilniaus universitetas ir Vilniaus universiteto leidykla.'
   pagrindžia:
     - c-001

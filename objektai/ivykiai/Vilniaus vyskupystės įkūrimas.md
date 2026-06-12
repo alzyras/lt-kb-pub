@@ -45,22 +45,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-176177"></a>
 - t-001
+  global_id: t-176177
   teiginys: 'Kuriant Vilniaus vyskupystę buvo padėti pamatai Vilniaus katedrai ir šv. Martyno bei šv. Jono bažnyčioms.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176179"></a>
 - t-002
+  global_id: t-176179
   teiginys: 'Nuo pat pradžių Vilniaus vyskupas tapo centriniu Lietuvos bažnytinio gyvenimo asmeniu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-176180"></a>
 - t-003
+  global_id: t-176180
   teiginys: '1387 m. vasario 17 d. Jogailos senelio įkurtoje sostinėje buvo pradėta kurti nauja Vilniaus vyskupija.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-176181"></a>
 - t-004
+  global_id: t-176181
   teiginys: 'Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją.'
   pagrindžia:
     - c-002

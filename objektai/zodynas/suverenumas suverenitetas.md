@@ -19,17 +19,23 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
 
 ## Teiginiai
 
+<a id="claim-t-70347"></a>
 - t-001
+  global_id: t-70347
   teiginys: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70348"></a>
 - t-002
+  global_id: t-70348
   teiginys: '„Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sistemos keitimą, o tautiniu klausimu pasisakyta atsargiai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183472"></a>
 - t-003
+  global_id: t-183472
   teiginys: 'Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'
   pagrindžia:
     - c-003

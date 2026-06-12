@@ -16,7 +16,9 @@ Dalyva­ vimas valachų Vytauto būriuose leidžia tarti, jog jis Dniepro žemu�
 
 ## Teiginiai
 
+<a id="claim-t-28672"></a>
 - t-001
+  global_id: t-28672
   teiginys: 'Valachų dalyvavimas Vytauto būriuose leidžia spręsti, kad Vytautas Dniepro žemupyje turėjo plačių planų.'
   pagrindžia:
     - c-001

@@ -17,12 +17,16 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 
 ## Teiginiai
 
+<a id="claim-t-97314"></a>
 - t-001
+  global_id: t-97314
   teiginys: 'Gediminas nurodė politinį — vedybinį kelią ir į tolimą Tverės kunikaikštiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97315"></a>
 - t-002
+  global_id: t-97315
   teiginys: 'Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro, Mykolo sūnaus.'
   pagrindžia:
     - c-001

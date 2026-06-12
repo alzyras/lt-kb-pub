@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad 2uvus Tochtamyšui, tre čias brolis Jerim Berdis, neišgąsdintas brolio likimo ir kraujo praliejimo, taip pat pabėgo pas Vytautą. Kojelavičius teigia, kad nepakęsdami žiauraus Kerim Berdžio viešpatavimo, daugybė skitų iš visos šalies suplaukė į Jerim Berdžio stovyklą. Kojelavičius teigia, kad vis dėlto Radvila ne galėjo sutikti, kad jo kariai visą laiką tik stebėtų kau tynes: smogęs priešams į sparną, jis nulėmė sėkmę.
+Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, kuris jį paskelbė teisėtu valdovu ir pasiryžo sugrąžinti į valdžią. Daugybė skitų iš visos šalies suplaukė į Jerim Berdžio stovyklą, nes nepakentė žiauraus Kerim Berdžio viešpatavimo. Mūšiui ilgai nesikreipiant nė į vieną pusę, Mikalojus Radvila smogė priešams į sparną ir nulėmė pergalę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,25 +32,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185572"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad 2uvus Tochtamyšui, tre čias brolis Jerim Berdis, neišgąsdintas brolio likimo ir kraujo praliejimo, taip pat pabėgo pas Vytautą.'
+  global_id: t-185572
+  teiginys: 'Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, kuris jį paskelbė teisėtu valdovu ir pasiryžo sugrąžinti į valdžią.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185573"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad nepakęsdami žiauraus Kerim Berdžio viešpatavimo, daugybė skitų iš visos šalies suplaukė į Jerim Berdžio stovyklą.'
+  global_id: t-185573
+  teiginys: 'Daugybė skitų iš visos šalies suplaukė į Jerim Berdžio stovyklą, nes nepakentė žiauraus Kerim Berdžio viešpatavimo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185574"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad vis dėlto Radvila ne galėjo sutikti, kad jo kariai visą laiką tik stebėtų kau tynes: smogęs priešams į sparną, jis nulėmė sėkmę.'
+  global_id: t-185574
+  teiginys: 'Mūšiui ilgai nesikreipiant nė į vieną pusę, Mikalojus Radvila smogė priešams į sparną ir nulėmė pergalę.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad 2uvus Tochtamyšui, tre čias brolis Jerim Berdis, neišgąsdintas brolio likimo ir kraujo praliejimo, taip pat pabėgo pas Vytautą.'
+  santrauka: 'Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, kuris jį paskelbė teisėtu valdovu ir pasiryžo sugrąžinti į valdžią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     2uvus Tochtamyšui, tre­
@@ -75,7 +80,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad nepakęsdami žiauraus Kerim Berdžio viešpatavimo, daugybė skitų iš visos šalies suplaukė į Jerim Berdžio stovyklą.'
+  santrauka: 'Daugybė skitų iš visos šalies suplaukė į Jerim Berdžio stovyklą, nes nepakentė žiauraus Kerim Berdžio viešpatavimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nepakęsdami žiauraus Kerim Berdžio viešpatavimo,
@@ -91,7 +96,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad vis dėlto Radvila ne galėjo sutikti, kad jo kariai visą laiką tik stebėtų kau tynes: smogęs priešams į sparną, jis nulėmė sėkmę.'
+  santrauka: 'Mūšiui ilgai nesikreipiant nė į vieną pusę, Mikalojus Radvila smogė priešams į sparną ir nulėmė pergalę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Prasidėjo mūšis, ilgą laiką pergalė nekrypo nei
@@ -106,3 +111,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Radvila]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/asmenys/Jerim Berdis]]
+- [[objektai/asmenys/Mikalojus Radvila]]

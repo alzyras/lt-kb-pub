@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Bajorų pilaitės užėmimas ir belaisvių sudeginimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad nuliūdęs ir pasipiktinęs Šindekopfas patraukė su kariuomene prie Bajorų pilaitės ir netrukus ją už grobė.
+Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užėmė.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185797"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad nuliūdęs ir pasipiktinęs Šindekopfas patraukė su kariuomene prie Bajorų pilaitės ir netrukus ją už grobė.'
+  global_id: t-185797
+  teiginys: 'Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užėmė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad nuliūdęs ir pasipiktinęs Šindekopfas patraukė su kariuomene prie Bajorų pilaitės ir netrukus ją už grobė.'
+  santrauka: 'Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užėmė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nuliūdęs ir pasipiktinęs Šindekopfas patraukė
@@ -51,3 +52,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/asmenys/Šindekopfas]]

@@ -27,17 +27,23 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 
 ## Teiginiai
 
+<a id="claim-t-93490"></a>
 - t-001
+  global_id: t-93490
   teiginys: '1392 m. Ringailę vedė Ritesverderyje kitas Mozūrijos kunigaikštis Henrikas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-93491"></a>
 - t-002
+  global_id: t-93491
   teiginys: 'Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas Vytautą, vedė jo seserį Ringailę, tai ordinas jo neįtarė, ir tuo būdu buvo slapta susitarta.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-93492"></a>
 - t-003
+  global_id: t-93492
   teiginys: 'Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų.'
   pagrindžia:
     - c-001
@@ -93,3 +99,5 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 - [[objektai/asmenys/Patirgas]]
 - [[objektai/asmenys/Sofija]]
 - [[objektai/autoriai/Józef Wolff]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Vytauto mėginimas klasta užgrobti Vilnių ir antras perėjimas pas kryžiuočius (1389 m.)]]

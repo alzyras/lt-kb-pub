@@ -18,37 +18,51 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 
 ## Teiginiai
 
+<a id="claim-t-63840"></a>
 - t-001
+  global_id: t-63840
   teiginys: 'Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-63842"></a>
 - t-002
+  global_id: t-63842
   teiginys: 'Stanislovas Augustas Poniatovskis buvo Kotrynos II nurodytas kandidatas į Respublikos sostą ir jos statytinis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63843"></a>
 - t-003
+  global_id: t-63843
   teiginys: 'Kotrynos II (1762—1796 m.) laikais Rusija jau pradėjo vadovauti ne tik rytų Europos politikai, bet ėmė kištis net į centro ir vakarų Europos konfliktus, ir jos žodis ten nusverdavo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-63844"></a>
 - t-004
-  teiginys: 'Poniatauskui grįžus namo, netrukus mirė carienė Elžbieta, caras Petras III buvo pašalintas nuo sosto ir nužudytas, ir visą valdžią paėmė Kotryna II (ji buvo ne rusė, bet Anhalt-Cerbsto kunigaikštytė vokietaitė).'
+  global_id: t-63844
+  teiginys: 'Po Petro III pašalinimo ir nužudymo valdžią Rusijoje perėmė Kotryna II, Anhalt-Cerbsto kunigaikštytė vokietaitė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-63845"></a>
 - t-005
-  teiginys: '1787 m. Kotryna Dniepru keliavo aplankyt Rusijos neseniai užkariauto Krimo.'
+  global_id: t-63845
+  teiginys: '1787 m. Kotryna II Dniepru keliavo aplankyti Rusijos neseniai užkariauto Krimo.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-63846"></a>
 - t-006
+  global_id: t-63846
   teiginys: 'Užėmusi Lietuvą, Kotryna II buvo įvedusi joje ir rusų teisę (įstatymus).'
   pagrindžia:
     - c-007
 
+<a id="claim-t-63849"></a>
 - t-007
+  global_id: t-63849
   teiginys: 'Kotryna II įvykdė Respublikos padalijimus, kurių metu jos trečdalį turėjo užleisti Prūsijai ir Austrijai.'
   pagrindžia:
     - c-001
@@ -88,6 +102,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     - t-002
 
 - c-003
+  santrauka: 'Po Petro III pašalinimo ir nužudymo valdžią Rusijoje perėmė Kotryna II, Anhalt-Cerbsto kunigaikštytė vokietaitė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo metu Čartoriskiai pasiun-
@@ -121,6 +136,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     - t-001
 
 - c-005
+  santrauka: '1787 m. Kotryna II Dniepru keliavo aplankyti Rusijos neseniai užkariauto Krimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1787 m. Kotryna Dniepru keliavo aplankyt Rusijos neseniai

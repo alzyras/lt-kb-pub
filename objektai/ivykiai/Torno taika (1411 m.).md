@@ -42,23 +42,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-92944"></a>
 - t-001
+  global_id: t-92944
   teiginys: '1411 m. Torno taika užbaigė Žalgirio kovą, tačiau nugalėtojai šio laimėjimo visiškai neišnaudojo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-92945"></a>
 - t-002
+  global_id: t-92945
   teiginys: '1411 m. vasario 1 d. Jogaila ir Vytautas prie Torno pilies sudarė taiką su didžiuoju magistru.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-92946"></a>
 - t-003
+  global_id: t-92946
   teiginys: 'Torno taika Žemaičius Lietuvai pripažino tik iki Vytauto ir Jogailos gyvos galvos, o ordinas turėjo sumokėti 100000 kapų čekų grašių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-92947"></a>
 - t-004
-  teiginys: 'Dar kiek laiko karas tęsėsi tarp ordino ir Lenkų, bet 1411 m. pagaliau buvo pasirašyta taika.'
+  global_id: t-92947
+  teiginys: 'Po kurį laiką trukusio Ordino ir Lenkų karo 1411 m. buvo pasirašyta Torno taika.'
   pagrindžia:
     - c-003
 
@@ -95,6 +103,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Po kurį laiką trukusio Ordino ir Lenkų karo 1411 m. buvo pasirašyta Torno taika.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dar kiek laiko karas tęsėsi tarp ordino ir Lenkų, bet 1411 m.
@@ -140,4 +149,5 @@ Nenurodyta
 - [[objektai/posakiai/Grünwaldo pergalės atsisakymas]]
 - [[objektai/grupes/Vokietijos kunigaikščiai]]
 - [[objektai/ivykiai/Žemaičių krikštas|Žemaičių krikštas (krikštas)]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/magistras]]

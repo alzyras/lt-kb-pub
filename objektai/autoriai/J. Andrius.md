@@ -27,7 +27,9 @@ Andrius : Kng.
 
 ## Teiginiai
 
+<a id="claim-t-30657"></a>
 - t-001
+  global_id: t-30657
   teiginys: 'J. Andrius 1952 m. „Aiduose“ paskelbė darbą „Kng. Radvilos Lietuvos žemėlapis“.'
   pagrindžia:
     - c-001

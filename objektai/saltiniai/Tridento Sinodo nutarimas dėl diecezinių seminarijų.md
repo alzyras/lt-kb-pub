@@ -18,12 +18,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-88341"></a>
 - t-001
+  global_id: t-88341
   teiginys: 'Kolegijos administravimą siekta išsaugoti pagal Tridento susirinkimo dekretą ir nutarimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88342"></a>
 - t-002
+  global_id: t-88342
   teiginys: 'Tridento Sinodas nusprendė, kad kiekvienoje krikščioniškojo pasaulio diecezijoje reikia įkurti nuolatinę seminariją.'
   pagrindžia:
     - c-001

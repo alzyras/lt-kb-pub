@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-99971"></a>
 - t-001
+  global_id: t-99971
   teiginys: '98 Žisdra, upė 124 Žitomiras 312 Živinbudas 133, 161, 162 Žygimantas Augustas 4, 31, 35, 44, 48, 87, 199, 320 Žygimantas Kaributas 381 Žygimantas Senasis 39, 264, 320 Žygimantas, Vytauto brolis 278, 305, 308, 318, 324, 365, 381 Žywa Woda, Suvalkų aps.'
   pagrindžia:
     - c-001

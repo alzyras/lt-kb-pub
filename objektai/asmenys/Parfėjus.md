@@ -19,7 +19,9 @@ Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą po
 
 ## Teiginiai
 
+<a id="claim-t-87925"></a>
 - t-001
+  global_id: t-87925
   teiginys: 'Pskoviečiai pasiuntė valdovo vietininką Parfėjų pas Vytautą tartis dėl belaisvių išpirkimo.'
   pagrindžia:
     - c-001

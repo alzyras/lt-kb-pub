@@ -26,17 +26,23 @@ O totoriai, ties Kłecku įsirengę košą, arba stovyklą, nemažą būrį pasi
 
 ## Teiginiai
 
+<a id="claim-t-173457"></a>
 - t-001
+  global_id: t-173457
   teiginys: 'O totoriai, ties Kłecku įsirengę košą, arba stovyklą, nemažą būrį pasiuntė į Naugarduką.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-173458"></a>
 - t-002
+  global_id: t-173458
   teiginys: 'Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-173459"></a>
 - t-003
+  global_id: t-173459
   teiginys: '1506 metų rugpjūtį ties Kłecku Lietuvos pajėgos pasiekė lemiamą pergalę prieš Krymo ordos karius.'
   pagrindžia:
     - c-001

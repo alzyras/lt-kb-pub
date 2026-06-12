@@ -17,7 +17,9 @@ Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­ nėtinai svarbiu p
 
 ## Teiginiai
 
+<a id="claim-t-86821"></a>
 - t-001
+  global_id: t-86821
   teiginys: 'Gedimino valdymo laikais Vilniuje jau buvo Rygos pirkliams suteiktų privilegijų pėdsakų.'
   pagrindžia:
     - c-001

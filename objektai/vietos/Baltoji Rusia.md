@@ -24,22 +24,30 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
 
 ## Teiginiai
 
+<a id="claim-t-83193"></a>
 - t-001
+  global_id: t-83193
   teiginys: 'Baltojoje Rusioje buvo kilę bruzdėjimų, kuriuos Jogaila numaldė prieš grįždamas į Vilnių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-83194"></a>
 - t-002
+  global_id: t-83194
   teiginys: 'Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-83195"></a>
 - t-003
+  global_id: t-83195
   teiginys: 'Skirgaila iš Trakų pilies vykdavo į mūšius su Baltojoje Rusioje maištavusiais įvairių valdų kunigaikščiais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-83196"></a>
 - t-004
+  global_id: t-83196
   teiginys: 'Skirgaila iš Trakų pilies išvykdavo į mūšius su Prūsijos ordinu arba su Baltojoje Rusioje maištaujančiais kunigaikščiais.'
   pagrindžia:
     - c-003

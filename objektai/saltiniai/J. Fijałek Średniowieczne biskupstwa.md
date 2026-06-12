@@ -25,7 +25,9 @@ Tuo būdu Vilniuje sėdįs valdovas formaliai išlaikė pagonybę, nors jo dvare
 
 ## Teiginiai
 
+<a id="claim-t-100171"></a>
 - t-001
+  global_id: t-100171
   teiginys: 'Tuo būdu Vilniuje sėdįs valdovas formaliai išlaikė pagonybę, nors jo dvare bei šeimoje stačiatikių įtaka buvo stipresnė negu pas (^2) Fijałek : Średniowieczne biskupstwa , KH, 1896, 518 p. (^3) PSRL, 10, 213; plg.'
   pagrindžia:
     - c-001

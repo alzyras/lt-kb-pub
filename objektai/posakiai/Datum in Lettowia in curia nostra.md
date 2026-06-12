@@ -28,12 +28,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31538"></a>
 - t-001
+  global_id: t-31538
   teiginys: '1253 m. Mindaugo dokumente Livonijos ordinui frazė „Datum in Lettowia in curia nostra“ galėjo nurodyti Lietuvą kaip vietovę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-31539"></a>
 - t-002
+  global_id: t-31539
   teiginys: 'Dėl „Lettowia“ reikšmės neaišku, ar ji žymėjo sritį prie Mindaugo pilies, ar vieną iš jo pilių Lietuvos valstybėje.'
   pagrindžia:
     - c-002

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad otrębski J.
 
 ## Teiginiai
 
+<a id="claim-t-61209"></a>
 - t-001
+  global_id: t-61209
   teiginys: 'J. Otrębskio „Über die Herkunft des Preussennamens“ 1955 m. publikuotas Poznanės leidinyje „Lingua Posnaniensis“.'
   pagrindžia:
     - c-001

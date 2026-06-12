@@ -17,7 +17,9 @@ Brandišauskas V.
 
 ## Teiginiai
 
+<a id="claim-t-19386"></a>
 - t-001
+  global_id: t-19386
   teiginys: 'V. Brandišauskas parašė veikalą „Siekiai atkurti Lietuvos valstybingumą (1940 06–1941 09)“.'
   pagrindžia:
     - c-001

@@ -27,7 +27,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-39630"></a>
 - t-001
+  global_id: t-39630
   teiginys: 'Pršemyslas Otokaras II 1255 m. atvyko į pagalbą Ordinui ir inicijavo Karaliaučiaus pilies statybą.'
   pagrindžia:
     - c-001

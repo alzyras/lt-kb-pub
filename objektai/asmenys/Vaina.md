@@ -16,12 +16,16 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
 
 ## Teiginiai
 
+<a id="claim-t-40498"></a>
 - t-001
+  global_id: t-40498
   teiginys: 'V. Vainos kavalerija atakavo švedų pėstininkus centre.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40499"></a>
 - t-002
+  global_id: t-40499
   teiginys: 'Rotmistro A. Vainos husarams buvo pasiųstas pastiprinimas – kelios kuršiečių reitarų kuopos.'
   pagrindžia:
     - c-002

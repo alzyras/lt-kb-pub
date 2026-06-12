@@ -16,7 +16,9 @@ Pirmojo pasaulio lietuvių kongreso prezidiumas.
 
 ## Teiginiai
 
+<a id="claim-t-01439"></a>
 - t-001
+  global_id: t-01439
   teiginys: '1935 m. rugpjūčio 11–17 d. Kaune vykęs Pirmasis pasaulio lietuvių kongresas nutarė įkurti Pasaulio Lietuvių Sąjungą.'
   pagrindžia:
     - c-001

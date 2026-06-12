@@ -22,7 +22,9 @@ Towarszystwo szubrawców w Wilnie.
 
 ## Teiginiai
 
+<a id="claim-t-88483"></a>
 - t-001
+  global_id: t-88483
   teiginys: 'Towarszystwo szubrawców w Wilnie.'
   pagrindžia:
     - c-001

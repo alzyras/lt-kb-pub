@@ -12,24 +12,25 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Medininkų vyskupystės įsteigimo ir privilegijų valstybiniai raštai
 
 ## Santrauka
 
-Kojelavičius teigia, kad vis dėlto šį reikalą teko atidėti, nes dėl kry žiuočių, kaip rašo kai kurie metraštininkai, atsirado vi sai netikėtų ir didelių kliūčių.
+Laišku Lvovo arkivyskupui ir Vilniaus vyskupui buvo patikėta įsteigti Žemaičių vyskupystę, tačiau dėl kryžiuočių kliūčių šis reikalas buvo atidėtas.
 
 ## Teiginiai
 
+<a id="claim-t-186325"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vis dėlto šį reikalą teko atidėti, nes dėl kry žiuočių, kaip rašo kai kurie metraštininkai, atsirado vi sai netikėtų ir didelių kliūčių.'
+  global_id: t-186325
+  teiginys: 'Laišku Lvovo arkivyskupui ir Vilniaus vyskupui buvo patikėta įsteigti Žemaičių vyskupystę, tačiau dėl kryžiuočių kliūčių šis reikalas buvo atidėtas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vis dėlto šį reikalą teko atidėti, nes dėl kry žiuočių, kaip rašo kai kurie metraštininkai, atsirado vi sai netikėtų ir didelių kliūčių.'
+  santrauka: 'Laišku Lvovo arkivyskupui ir Vilniaus vyskupui buvo patikėta įsteigti Žemaičių vyskupystę, tačiau dėl kryžiuočių kliūčių šis reikalas buvo atidėtas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     S k ita i n io k o ja  R usią

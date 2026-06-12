@@ -16,7 +16,9 @@ Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą Nacionalinio 
 
 ## Teiginiai
 
+<a id="claim-t-41101"></a>
 - t-001
+  global_id: t-41101
   teiginys: 'Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą Nacionalinio gelbėjimo komitetą, kuris parengė prezidentinio valdymo įvedimo Lietuvoje planą.'
   pagrindžia:
     - c-001

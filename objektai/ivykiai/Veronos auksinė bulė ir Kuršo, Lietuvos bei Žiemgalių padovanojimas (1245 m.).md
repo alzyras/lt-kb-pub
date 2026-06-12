@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31483"></a>
 - t-001
+  global_id: t-31483
   teiginys: 'Fridrichas II 1245 m. Veronoje duota auksine bule kryžiuočiams amžinai padovanojo Kuršą, Lietuvą ir Žiemgalius.'
   pagrindžia:
     - c-001

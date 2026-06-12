@@ -16,12 +16,16 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
 
 ## Teiginiai
 
+<a id="claim-t-18846"></a>
 - t-001
+  global_id: t-18846
   teiginys: 'Sovietinė valdžia Balį Gajauską teisė kaip vieną iš disidentų, prieš kuriuos taikė represijas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183526"></a>
 - t-002
+  global_id: t-183526
   teiginys: 'Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras.'
   pagrindžia:
     - c-002

@@ -23,7 +23,9 @@ Jono bažnyčios klebonas Adomas Ancypa, remdama­ sis jam suteiktomis fundacijo
 
 ## Teiginiai
 
+<a id="claim-t-88294"></a>
 - t-001
+  global_id: t-88294
   teiginys: 'Šv. Jono bažnyčios klebonas Adomas Ancypa padavė skundą prieš ankstesniuosius tėvus jėzuitus dėl bažnyčios fundacijų ir pajamų.'
   pagrindžia:
     - c-001

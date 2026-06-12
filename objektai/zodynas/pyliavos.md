@@ -25,22 +25,30 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
 
 ## Teiginiai
 
+<a id="claim-t-101597"></a>
 - t-001
+  global_id: t-101597
   teiginys: 'Mokesčiai ir pyliavos „buožėms“ buvo 50–100 proc. didesni negu vadinamiesiems „darbo valstiečiams“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-101598"></a>
 - t-002
+  global_id: t-101598
   teiginys: 'Partizanams užėmus miestelius, buvo naikinami valsčiaus dokumentai, mobilizacijos sąrašai ir pyliavų žiniaraščiai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101600"></a>
 - t-004
+  global_id: t-101600
   teiginys: 'Užimdami miestelius Lietuvos partizanai naikino vietos įgulas, valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-101601"></a>
 - t-005
+  global_id: t-101601
   teiginys: 'Užimdami miestelius, Lietuvos partizanai naikino valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.'
   pagrindžia:
     - c-003

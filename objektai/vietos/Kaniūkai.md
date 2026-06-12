@@ -16,7 +16,9 @@ Kolona pro Kaniūkų bei Pakalnių kaimus turėjo veržtis Utenos kryptimi.
 
 ## Teiginiai
 
+<a id="claim-t-41760"></a>
 - t-001
+  global_id: t-41760
   teiginys: 'Kolona pro Kaniūkų ir Pakalnių kaimus turėjo veržtis Utenos kryptimi.'
   pagrindžia:
     - c-001

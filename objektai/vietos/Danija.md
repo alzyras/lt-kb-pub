@@ -23,7 +23,9 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 
 ## Teiginiai
 
+<a id="claim-t-74003"></a>
 - t-001
+  global_id: t-74003
   teiginys: 'Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras.'
   pagrindžia:
     - c-001

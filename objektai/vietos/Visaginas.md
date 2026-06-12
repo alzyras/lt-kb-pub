@@ -16,7 +16,9 @@ Nors sovietmečiu daug rusakalbių apsigyveno Vilniuje, Klaipėdoje ir Sniečkuj
 
 ## Teiginiai
 
+<a id="claim-t-15351"></a>
 - t-001
+  global_id: t-15351
   teiginys: 'Sovietmečiu daug rusakalbių apsigyveno Sniečkuje, kuris dabar vadinamas Visaginu.'
   pagrindžia:
     - c-001

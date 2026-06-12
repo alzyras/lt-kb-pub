@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Švitrigailos įkalinimas Kremeneco kalėjime ir pabėgimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad vytau tas, gal dėl senų nuoskaudų Vytautas įkalina Švitnepasitikėdamas Švitrigaila, iigailą gal įtarinėdamas jį dėl kokių naujų gandų, būgštavo, kad, kariuomenei patraukus į Prūsiją, namie gali kilti kokie neramumai, todėl liepė šį suimti ir įkalinti.
+Vytautas, nepasitikėdamas Švitrigaila, liepė jį suimti ir įkalinti Kremeneco kalėjime.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185796"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vytau tas, gal dėl senų nuoskaudų Vytautas įkalina Švitnepasitikėdamas Švitrigaila, iigailą gal įtarinėdamas jį dėl kokių naujų gandų, būgštavo, kad, kariuomenei patraukus į Prūsiją, namie gali kilti kokie neramumai, todėl liepė šį suimti ir įkalinti.'
+  global_id: t-185796
+  teiginys: 'Vytautas, nepasitikėdamas Švitrigaila, liepė jį suimti ir įkalinti Kremeneco kalėjime.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vytau tas, gal dėl senų nuoskaudų Vytautas įkalina Švitnepasitikėdamas Švitrigaila, iigailą gal įtarinėdamas jį dėl kokių naujų gandų, būgštavo, kad, kariuomenei patraukus į Prūsiją, namie gali kilti kokie neramumai, todėl liepė šį suimti ir įkalinti.'
+  santrauka: 'Vytautas, nepasitikėdamas Švitrigaila, liepė jį suimti ir įkalinti Kremeneco kalėjime.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pasibaigus vestuvių iškilmėms, valdovai
@@ -56,3 +57,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

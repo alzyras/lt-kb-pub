@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31516"></a>
 - t-001
+  global_id: t-31516
   teiginys: 'Anot Dlugošo, Jogaila prieš kautynes delsė, meldėsi, klausė mišių ir norėjo taikytis.'
   pagrindžia:
     - c-001

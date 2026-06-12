@@ -19,7 +19,9 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 
 ## Teiginiai
 
+<a id="claim-t-86826"></a>
 - t-001
+  global_id: t-86826
   teiginys: 'Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais.'
   pagrindžia:
     - c-001

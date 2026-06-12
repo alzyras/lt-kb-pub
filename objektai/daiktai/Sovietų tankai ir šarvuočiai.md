@@ -51,17 +51,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-13461"></a>
 - t-001
+  global_id: t-13461
   teiginys: 'Naktį iš 1991 m. sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-13462"></a>
 - t-002
+  global_id: t-13462
   teiginys: 'Sausio 13-osios naktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-13463"></a>
 - t-003
+  global_id: t-13463
   teiginys: 'Sovietų tankai ir šarvuočiai apsiautė televizijos bokštą ir Lietuvos radijo bei televizijos komiteto pastatą.'
   pagrindžia:
     - c-003

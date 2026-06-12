@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Andriejus Šemiačičius
 
 ## Santrauka
 
-Kojelavičius teigia, kad mat teigiama, jog visos priešo jėgos, veda mos Jakovo Zachariničiaus, Andrejaus Možaiskio ir Andrejaus Šemiačičiaus, patraukusios į Severską.
+Andriejus Šemiačičius kartu su Jakovu Zachariničiumi ir Andrejumi Možaiskiu vedė priešo pajėgas į Severską.
 
 ## Teiginiai
 
+<a id="claim-t-186177"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mat teigiama, jog visos priešo jėgos, veda mos Jakovo Zachariničiaus, Andrejaus Možaiskio ir Andrejaus Šemiačičiaus, patraukusios į Severską.'
+  global_id: t-186177
+  teiginys: 'Andriejus Šemiačičius kartu su Jakovu Zachariničiumi ir Andrejumi Možaiskiu vedė priešo pajėgas į Severską.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mat teigiama, jog visos priešo jėgos, veda mos Jakovo Zachariničiaus, Andrejaus Možaiskio ir Andrejaus Šemiačičiaus, patraukusios į Severską.'
+  santrauka: 'Andriejus Šemiačičius kartu su Jakovu Zachariničiumi ir Andrejumi Možaiskiu vedė priešo pajėgas į Severską.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kodėl vėliau Aleksandras su kariuomene patraukė
@@ -46,3 +47,8 @@ Kojelavičius teigia, kad mat teigiama, jog visos priešo jėgos, veda mos Jakov
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Pilys]]
+- [[objektai/zodynas/žygis]]

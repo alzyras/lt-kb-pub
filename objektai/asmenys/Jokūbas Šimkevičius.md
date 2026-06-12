@@ -17,7 +17,9 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
 
 ## Teiginiai
 
+<a id="claim-t-87709"></a>
 - t-001
+  global_id: t-87709
   teiginys: 'Jokūbas Šimkevičius, Vilniaus šubravcų draugijos narys, pasivadino Perkūnu.'
   pagrindžia:
     - c-001

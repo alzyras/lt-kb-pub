@@ -19,12 +19,16 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
 
 ## Teiginiai
 
+<a id="claim-t-74771"></a>
 - t-001
+  global_id: t-74771
   teiginys: 'Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir jo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės pamatus grindė LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74773"></a>
 - t-002
+  global_id: t-74773
   teiginys: 'Konstitucijos nuostatos skelbė, kad valstybės valdžią Lietuvoje vykdo Seimas, Respublikos prezidentas, vyriausybė ir teismas.'
   pagrindžia:
     - c-001

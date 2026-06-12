@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Popiežiaus ir imperatoriaus mėginimas per Liudviką įtraukti skitus į karą su turkais (1465 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad žiemos pabaigoje atvyko Lietuvon pas karalių Liud vikas, Antiochijos patriar chas, popiežiaus pasiuntinys. Kojelavičius teigia, kad antra vertus, visi žinojo, kad po Bajazito sutriuš kinimo skitų vardas turkams kelia didžiausią siaubą. Kojelavičius teigia, kad nors Kazimierui ir nestigo ryžto pradėti karą su turkais, tačiau jis manė, jog tuo tarpu valstybei nenaudinga, išskaidžius jėgas, pradėti naują ir pavojingą žygį nepabaigus gerokai visus 1465 m e ta i P o p iežiu s ir im p e r a toriu s k u rsto sk itu s p.
+Žiemos pabaigoje į Lietuvą pas karalių atvyko popiežiaus pasiuntinys Liudvikas, Antiochijos patriarchas. Po Bajazito sutriuškinimo skitų vardas, pasak Kojelavičiaus, turkams kėlė didžiausią siaubą. Kazimieras manė, kad valstybei nenaudinga pradėti karą su turkais, kol nebaigtas karas su kryžiuočiais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,25 +32,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185531"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad žiemos pabaigoje atvyko Lietuvon pas karalių Liud vikas, Antiochijos patriar chas, popiežiaus pasiuntinys.'
+  global_id: t-185531
+  teiginys: 'Žiemos pabaigoje į Lietuvą pas karalių atvyko popiežiaus pasiuntinys Liudvikas, Antiochijos patriarchas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185532"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad antra vertus, visi žinojo, kad po Bajazito sutriuš kinimo skitų vardas turkams kelia didžiausią siaubą.'
+  global_id: t-185532
+  teiginys: 'Po Bajazito sutriuškinimo skitų vardas, pasak Kojelavičiaus, turkams kėlė didžiausią siaubą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185533"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad nors Kazimierui ir nestigo ryžto pradėti karą su turkais, tačiau jis manė, jog tuo tarpu valstybei nenaudinga, išskaidžius jėgas, pradėti naują ir pavojingą žygį nepabaigus gerokai visus 1465 m e ta i P o p iežiu s ir im p e r a toriu s k u rsto sk itu s p.'
+  global_id: t-185533
+  teiginys: 'Kazimieras manė, kad valstybei nenaudinga pradėti karą su turkais, kol nebaigtas karas su kryžiuočiais.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad žiemos pabaigoje atvyko Lietuvon pas karalių Liud vikas, Antiochijos patriar chas, popiežiaus pasiuntinys.'
+  santrauka: 'Žiemos pabaigoje į Lietuvą pas karalių atvyko popiežiaus pasiuntinys Liudvikas, Antiochijos patriarchas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš ten karalius nuvyko į Lietuvą
@@ -73,7 +78,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad antra vertus, visi žinojo, kad po Bajazito sutriuš kinimo skitų vardas turkams kelia didžiausią siaubą.'
+  santrauka: 'Po Bajazito sutriuškinimo skitų vardas, pasak Kojelavičiaus, turkams kėlė didžiausią siaubą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Antra vertus, visi žinojo, kad po Bajazito sutriuš­
@@ -90,7 +95,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad nors Kazimierui ir nestigo ryžto pradėti karą su turkais, tačiau jis manė, jog tuo tarpu valstybei nenaudinga, išskaidžius jėgas, pradėti naują ir pavojingą žygį nepabaigus gerokai visus 1465 m e ta i P o p iežiu s ir im p e r a toriu s k u rsto sk itu s p.'
+  santrauka: 'Kazimieras manė, kad valstybei nenaudinga pradėti karą su turkais, kol nebaigtas karas su kryžiuočiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nors Kazimierui ir nestigo
@@ -128,3 +133,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Bajazitas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Liudvikas (Antiochijos patriarchas)]]

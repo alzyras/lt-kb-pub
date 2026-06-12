@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)
 
 ## Santrauka
 
-Kojelavičius teigia, kad sako, jog skitai, laikydamiesi barbariškųjų papročių, šitaip sudarydavę sutartis: ištraukę iš makštų kardus, pylė ant jų šaltą vandenį ir jį, varvantį nuo aštrių ašmenų, vienas po kito siurbė, pridurdami užkeikimo žodžius, kad, girdi, tas, kas pirmas. Kojelavičius teigia, kad staigiu antpuoliu užėmęs Seversko Naugardą, Aleksandro var du jį bei kitas vietoves, pasidavusias geruoju, atidavė valdyti Chaleckiui; perėjęs visą Seversko kraštą, kru vinose kautynėse sumušė Mechmet Girėjų, Krymo kunigaikštį, išdrįsusį jam pastoti kelią su.
+Kojelavičiaus pasakojime skitai sutartis sudarydavo pildami vandenį ant kardų ir tardami prakeikimą sutarties laužytojui. Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį bei pasidavusias vietoves Chaleckiui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185591"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad sako, jog skitai, laikydamiesi barbariškųjų papročių, šitaip sudarydavę sutartis: ištraukę iš makštų kardus, pylė ant jų šaltą vandenį ir jį, varvantį nuo aštrių ašmenų, vienas po kito siurbė, pridurdami užkeikimo žodžius, kad, girdi, tas, kas pirmas.'
+  global_id: t-185591
+  teiginys: 'Kojelavičiaus pasakojime skitai sutartis sudarydavo pildami vandenį ant kardų ir tardami prakeikimą sutarties laužytojui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185592"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad staigiu antpuoliu užėmęs Seversko Naugardą, Aleksandro var du jį bei kitas vietoves, pasidavusias geruoju, atidavė valdyti Chaleckiui; perėjęs visą Seversko kraštą, kru vinose kautynėse sumušė Mechmet Girėjų, Krymo kunigaikštį, išdrįsusį jam pastoti kelią su.'
+  global_id: t-185592
+  teiginys: 'Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį bei pasidavusias vietoves Chaleckiui.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad sako, jog skitai, laikydamiesi barbariškųjų papročių, šitaip sudarydavę sutartis: ištraukę iš makštų kardus, pylė ant jų šaltą vandenį ir jį, varvantį nuo aštrių ašmenų, vienas po kito siurbė, pridurdami užkeikimo žodžius, kad, girdi, tas, kas pirmas.'
+  santrauka: 'Kojelavičiaus pasakojime skitai sutartis sudarydavo pildami vandenį ant kardų ir tardami prakeikimą sutarties laužytojui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sako, jog skitai,
@@ -67,7 +70,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad staigiu antpuoliu užėmęs Seversko Naugardą, Aleksandro var du jį bei kitas vietoves, pasidavusias geruoju, atidavė valdyti Chaleckiui; perėjęs visą Seversko kraštą, kru vinose kautynėse sumušė Mechmet Girėjų, Krymo kunigaikštį, išdrįsusį jam pastoti kelią su.'
+  santrauka: 'Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį bei pasidavusias vietoves Chaleckiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Staigiu
@@ -100,3 +103,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Šich Achmetas]]
+- [[objektai/zodynas/skitai]]

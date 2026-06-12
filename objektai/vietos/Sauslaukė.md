@@ -17,7 +17,9 @@ VIII amž. pusėje jie randami Sauslauke (prie Durbės).
 
 ## Teiginiai
 
+<a id="claim-t-28461"></a>
 - t-001
+  global_id: t-28461
   teiginys: 'VIII a. viduryje švedai buvo aptinkami Sauslaukėje prie Durbės.'
   pagrindžia:
     - c-001

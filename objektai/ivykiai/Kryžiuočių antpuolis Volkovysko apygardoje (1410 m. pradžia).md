@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Kryžiuočių antpuolis Volkovysko apygardoje (1410 m. pradžia)
 
 ## Santrauka
 
-Kojelavičius teigia, kad tiktai kovo pradžioje kryžiuočiai tylomis patraukė prie LietuI nesiėmė ryžtingesnių veiksmų, nenorėdamas, kad kry žiuočiai galėtų jį kaltinti, jog nauju karo žygiu sugrio vęs beįsitvirtinančią taiką.
+1410 m. kovo pradžioje kryžiuočiai tylomis patraukė prie Lietuvos, o Vytautas vengė ryžtingesnių veiksmų, kad nebūtų apkaltintas taikos griovimu.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185808"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tiktai kovo pradžioje kryžiuočiai tylomis patraukė prie LietuI nesiėmė ryžtingesnių veiksmų, nenorėdamas, kad kry žiuočiai galėtų jį kaltinti, jog nauju karo žygiu sugrio vęs beįsitvirtinančią taiką.'
+  global_id: t-185808
+  teiginys: '1410 m. kovo pradžioje kryžiuočiai tylomis patraukė prie Lietuvos, o Vytautas vengė ryžtingesnių veiksmų, kad nebūtų apkaltintas taikos griovimu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tiktai kovo pradžioje kryžiuočiai tylomis patraukė prie LietuI nesiėmė ryžtingesnių veiksmų, nenorėdamas, kad kry žiuočiai galėtų jį kaltinti, jog nauju karo žygiu sugrio vęs beįsitvirtinančią taiką.'
+  santrauka: '1410 m. kovo pradžioje kryžiuočiai tylomis patraukė prie Lietuvos, o Vytautas vengė ryžtingesnių veiksmų, kad nebūtų apkaltintas taikos griovimu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nebetoli nuo ten buvo ir Vytautas, tačiau be
@@ -70,3 +71,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/žygis]]

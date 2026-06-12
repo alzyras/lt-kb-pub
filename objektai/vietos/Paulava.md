@@ -19,17 +19,23 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
 
 ## Teiginiai
 
+<a id="claim-t-68908"></a>
 - t-001
+  global_id: t-68908
   teiginys: 'Bžostovskio įkurta Paulavos respublika.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-68909"></a>
 - t-002
+  global_id: t-68909
   teiginys: 'Tuo metu buvo sakoma, kad valstybėje yra trys respublikos: Lenkijos, Lietuvos ir Paulavos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-68910"></a>
 - t-003
+  global_id: t-68910
   teiginys: 'Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.'
   pagrindžia:
     - c-001

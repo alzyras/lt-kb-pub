@@ -28,12 +28,16 @@ Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lop
 
 ## Teiginiai
 
+<a id="claim-t-87504"></a>
 - t-001
+  global_id: t-87504
   teiginys: 'Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87505"></a>
 - t-002
+  global_id: t-87505
   teiginys: '1579 m. Vilniuje Steponas Batoras priėmė Gotardą Ketlerį, Kuršo kunigaikštį.'
   pagrindžia:
     - c-001

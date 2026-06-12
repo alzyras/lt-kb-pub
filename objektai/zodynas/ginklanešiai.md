@@ -26,22 +26,30 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 
 ## Teiginiai
 
+<a id="claim-t-175170"></a>
 - t-001
+  global_id: t-175170
   teiginys: 'Dusburgietis teigia, kad apie Skalvių pilies puolimą 1293 Vienas šios kariuomenės ginklanešys iš Ragainės, gimęs Bartos žemėje, slapčiomis pabėgo; šis pragaro sūnus, atėjęs pas lietuvių karalių, pasisiūlė, laiduodamas galva, perduoti jam Skalvių pilį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-175171"></a>
 - t-002
+  global_id: t-175171
   teiginys: 'Ragainės piliai ginti Meinhardas paliko 40 brolių ir šimtą rinktinių ginklanešių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-175172"></a>
 - t-003
+  global_id: t-175172
   teiginys: 'Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai sužeidė, o kiti gėdingai pabėgo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-175174"></a>
 - t-004
+  global_id: t-175174
   teiginys: 'Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė viename lauke ir 25 iš jų nukovė.'
   pagrindžia:
     - c-004

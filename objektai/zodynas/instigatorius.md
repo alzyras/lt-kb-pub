@@ -17,7 +17,9 @@ Todėl šiuo raštu įgaliojame visus seniūnus ir mūsų valdinius, kad, iškil
 
 ## Teiginiai
 
+<a id="claim-t-86527"></a>
 - t-001
+  global_id: t-86527
   teiginys: 'Seniūnai ir valdiniai įpareigoti teikti pagalbą, kai juos kviečia Vilniaus vyskupo arba jo institucijos instigatorius.'
   pagrindžia:
     - c-001

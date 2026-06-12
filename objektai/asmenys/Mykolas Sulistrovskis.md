@@ -17,7 +17,9 @@ Prieš priemiesčius stovėjo 2-asis regimentas, vadovaujamas Karolio Moravskio 
 
 ## Teiginiai
 
+<a id="claim-t-40362"></a>
 - t-001
+  global_id: t-40362
   teiginys: 'Mykolas Sulistrovskis vadovavo 1-ajai tautinės kavalerijos brigadai prie Lietuvos Brastos.'
   pagrindžia:
     - c-001

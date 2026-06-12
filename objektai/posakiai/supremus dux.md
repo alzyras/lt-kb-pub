@@ -22,7 +22,9 @@ Taip didysis magistras jį jau titulavo Salyno taikoje, kai jis pats save vadino
 
 ## Teiginiai
 
+<a id="claim-t-31569"></a>
 - t-001
+  global_id: t-31569
   teiginys: 'Salyno taikoje „supremus dux“ buvo paties asmens vartotas titulas, kuriuo jį jau titulavo ir didysis magistras.'
   pagrindžia:
     - c-001

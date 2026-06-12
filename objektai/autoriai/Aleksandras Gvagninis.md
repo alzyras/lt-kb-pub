@@ -18,7 +18,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Aleksandras Gvagninis
 
 ## Santrauka
@@ -27,19 +26,24 @@ J. Jurginio įvade Aleksandras Gvagninis pateikiamas kaip vienas Alberto Vijūko
 
 ## Teiginiai
 
+<a id="claim-t-184463"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad j. Jurginio įvade nurodoma, kad Aleksandro Gvagninio „Sarmatų Europos aprašymas“ iki XVII a. vidurio buvo pakartotinai išleistas penkis kartus, o 1611 m. išverstas į lenkų kalbą.'
+  global_id: t-184463
+  teiginys: 'Aleksandro Gvagninio „Sarmatų Europos aprašymas“ iki XVII a. vidurio buvo penkis kartus pakartotinai išleistas, o 1611 m. išverstas į lenkų kalbą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184464"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad j. Jurginio įvade Aleksandras Gvagninis nurodomas kaip lotyniškojo „Sarmatų Europos aprašymo“ autorius ir vienas Alberto Vijūko-Kojelavičiaus pirmtakų.'
+  global_id: t-184464
+  teiginys: 'Aleksandras Gvagninis buvo 1578 m. lotyniškojo „Sarmatų Europos aprašymo“ autorius ir vienas Kojelavičiaus pirmtakų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aleksandro Gvagninio „Sarmatų Europos aprašymas“ iki XVII a. vidurio buvo penkis kartus pakartotinai išleistas, o 1611 m. išverstas į lenkų kalbą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Antverpene.
@@ -53,6 +57,7 @@ J. Jurginio įvade Aleksandras Gvagninis pateikiamas kaip vienas Alberto Vijūko
     - t-001
 
 - c-002
+  santrauka: 'Aleksandras Gvagninis buvo 1578 m. lotyniškojo „Sarmatų Europos aprašymo“ autorius ir vienas Kojelavičiaus pirmtakų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     A. KOJELAVIČIAUS
@@ -73,3 +78,8 @@ J. Jurginio įvade Aleksandras Gvagninis pateikiamas kaip vienas Alberto Vijūko
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/ivykiai/Valstiečių karas Vokietijoje (1525 m.)]]

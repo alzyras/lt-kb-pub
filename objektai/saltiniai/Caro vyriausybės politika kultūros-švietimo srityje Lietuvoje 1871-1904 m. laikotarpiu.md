@@ -24,7 +24,9 @@ Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje 
 
 ## Teiginiai
 
+<a id="claim-t-100154"></a>
 - t-001
+  global_id: t-100154
   teiginys: 'Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu (BBK, t.'
   pagrindžia:
     - c-001

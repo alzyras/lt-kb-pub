@@ -17,7 +17,9 @@ Alavas ir varis iš Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į Vi
 
 ## Teiginiai
 
+<a id="claim-t-86167"></a>
 - t-001
+  global_id: t-86167
   teiginys: 'Alavas ir varis iš Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į Vilnių; plienas ir geležis buvo vežami iš Alkuskų kasyklos37.'
   pagrindžia:
     - c-001

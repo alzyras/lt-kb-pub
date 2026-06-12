@@ -17,7 +17,9 @@ Smetonos nuostatos – kadangi leidžiame tautinėms mažumoms gimtosios kalbos 
 
 ## Teiginiai
 
+<a id="claim-t-20953"></a>
 - t-001
+  global_id: t-20953
   teiginys: 'A. Smetona teigė, kad tautinės mažumos turi būti Lietuvos „teritoriniai patriotai“.'
   pagrindžia:
     - c-001

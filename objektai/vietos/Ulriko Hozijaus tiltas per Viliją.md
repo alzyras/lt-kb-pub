@@ -26,12 +26,16 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
 
 ## Teiginiai
 
+<a id="claim-t-86154"></a>
 - t-001
+  global_id: t-86154
   teiginys: 'Ulrikas uoliai įvykdė karaliaus pavedimus; per upę stojo išmūrytas tiltas ir špitolės sienos jau buvo gerokai pakilusios, bet vis dėlto po Ulriko mirties statybą užbaigė jo sūnus Jonas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86155"></a>
 - t-002
+  global_id: t-86155
   teiginys: '1536 metais Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.'
   pagrindžia:
     - c-001

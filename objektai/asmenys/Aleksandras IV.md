@@ -25,7 +25,9 @@ Dusburgietis teigia, kad apie Aleksandrą IV, popiežių, ir neužimtą imperato
 
 ## Teiginiai
 
+<a id="claim-t-60233"></a>
 - t-001
+  global_id: t-60233
   teiginys: 'Dusburgietis teigia, kad apie Aleksandrą IV, popiežių, ir neužimtą imperatoriaus sostą 1253 viešpaties metais apaštališkajame soste sėdėjo popiežius Aleksandras IV, kadaise legatas Vilhelmas Lenkijos ir Prūsijos žemėse, o imperatoriaus sostas buvo neužimtas.'
   pagrindžia:
     - c-001

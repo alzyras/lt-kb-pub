@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02476"></a>
 - t-001
+  global_id: t-02476
   teiginys: 'Johanisburgas buvo viena Lietuvai artimesniųjų pilių, įkurta 1345 m.'
   pagrindžia:
     - c-001

@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20429"></a>
 - t-001
+  global_id: t-20429
   teiginys: '1941–1944 m. Lietuvoje vyko nacių Vokietijos okupacija ir žydų Holokaustas.'
   pagrindžia:
     - c-001

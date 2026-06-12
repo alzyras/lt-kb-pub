@@ -16,7 +16,9 @@ Dusburgietis teigia, kad kai kas mano, kad prūsiškieji ir rytiniai galindai gi
 
 ## Teiginiai
 
+<a id="claim-t-60720"></a>
 - t-001
+  global_id: t-60720
   teiginys: 'Dusburgietis teigia, kad kai kas mano, kad prūsiškieji ir rytiniai galindai giminingi tik vardais, kaip Vartos vidupio ir padneprės polianai (Jaskanis J., Rec.'
   pagrindžia:
     - c-001

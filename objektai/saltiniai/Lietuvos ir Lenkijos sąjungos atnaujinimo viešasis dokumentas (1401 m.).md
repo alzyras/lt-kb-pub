@@ -12,24 +12,25 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Lietuvos ir Lenkijos sąjungos atnaujinimo viešasis dokumentas (1401 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad šitai, priėmus atitinkamus įstatymus, ir buvo padaryta šiame susirinkime; Lietuvos luomai viešu dokumentu paliudijo, kad laisvu bei visuo tiniu jų sutarimu Lietuva su visomis savo kunigaikštys tėmis bei žemėmis prisijungianti prie Lenkijos kara lystės; mirus.
+1401 m. Lietuvos luomai viešu dokumentu paliudijo, kad Lietuva su savo kunigaikštystėmis ir žemėmis prisijungia prie Lenkijos karalystės.
 
 ## Teiginiai
 
+<a id="claim-t-186298"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad šitai, priėmus atitinkamus įstatymus, ir buvo padaryta šiame susirinkime; Lietuvos luomai viešu dokumentu paliudijo, kad laisvu bei visuo tiniu jų sutarimu Lietuva su visomis savo kunigaikštys tėmis bei žemėmis prisijungianti prie Lenkijos kara lystės; mirus.'
+  global_id: t-186298
+  teiginys: '1401 m. Lietuvos luomai viešu dokumentu paliudijo, kad Lietuva su savo kunigaikštystėmis ir žemėmis prisijungia prie Lenkijos karalystės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad šitai, priėmus atitinkamus įstatymus, ir buvo padaryta šiame susirinkime; Lietuvos luomai viešu dokumentu paliudijo, kad laisvu bei visuo tiniu jų sutarimu Lietuva su visomis savo kunigaikštys tėmis bei žemėmis prisijungianti prie Lenkijos kara lystės; mirus.'
+  santrauka: '1401 m. Lietuvos luomai viešu dokumentu paliudijo, kad Lietuva su savo kunigaikštystėmis ir žemėmis prisijungia prie Lenkijos karalystės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitai, priėmus atitinkamus

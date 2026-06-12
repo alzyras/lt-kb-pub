@@ -25,7 +25,9 @@ Garsėjo: Volfgangas Auksakalys - 1522 m., Štagelis - 1530 m.
 
 ## Teiginiai
 
+<a id="claim-t-87935"></a>
 - t-001
+  global_id: t-87935
   teiginys: 'Garsėjo: Volfgangas Auksakalys - 1522 m., Štagelis - 1530 m.'
   pagrindžia:
     - c-001

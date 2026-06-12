@@ -25,12 +25,16 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 
 ## Teiginiai
 
+<a id="claim-t-69878"></a>
 - t-001
+  global_id: t-69878
   teiginys: 'Šeduvoje jėzuitai buvo įkūrę vieną iš mažesnių mokyklų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-69879"></a>
 - t-002
+  global_id: t-69879
   teiginys: 'Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėžio geležinkelio liniją dengė vokiečių saksų batalionas.'
   pagrindžia:
     - c-001

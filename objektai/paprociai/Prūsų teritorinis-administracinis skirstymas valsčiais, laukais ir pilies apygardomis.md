@@ -39,22 +39,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59729"></a>
 - t-001
+  global_id: t-59729
   teiginys: 'Kronikos lotyniškas terminas „territorium castri“ reiškia pilies apygardą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-59730"></a>
 - t-002
+  global_id: t-59730
   teiginys: 'Prūsų žemė kronikoje skirstoma į mažesnes teritorijas, kurioms istoriografijoje taikomas valsčiaus terminas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59731"></a>
 - t-003
+  global_id: t-59731
   teiginys: 'Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59732"></a>
 - t-004
+  global_id: t-59732
   teiginys: 'Dusburgietis teigia, kad valsčių sudarė pilis ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis — kaimais ir žemdirbių — sodžiais (Jurginis J. Baudžiavos..., p. 168; Łowmiański H. Studja..., 2, p. 6— 44, 78; Пашуто В. T. Образование..., c. 333; Pašuta V. Lietuvos..., p..'
   pagrindžia:
     - c-002

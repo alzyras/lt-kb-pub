@@ -30,12 +30,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-07784"></a>
 - t-001
+  global_id: t-07784
   teiginys: 'Po audros gaspadorius linksmindamasis keldavo namiškiams puotą ar gėrynę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-07785"></a>
 - t-002
+  global_id: t-07785
   teiginys: 'Kilus audrai arba grasinant krušai šeimininkas tris kartus apeidavo savo rugius ar varstą su lašinių paltimi ir melsdavo Perūną.'
   pagrindžia:
     - c-001

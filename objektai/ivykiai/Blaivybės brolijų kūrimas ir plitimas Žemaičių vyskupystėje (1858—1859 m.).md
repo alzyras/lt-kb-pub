@@ -34,17 +34,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66501"></a>
 - t-001
+  global_id: t-66501
   teiginys: '1858 m. pradėtas blaivybės brolijų darbas greitai išsiplėtė, o daugumas tikinčiųjų pasižadėjo niekada nebegerti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66502"></a>
 - t-002
+  global_id: t-66502
   teiginys: 'Vyskupo Valančiaus valdoma Žemaičių vyskupystė tapo vieta, kur Lietuvoje blaivybės skelbimas turėjo didžiausią pasisekimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66503"></a>
 - t-003
+  global_id: t-66503
   teiginys: 'Kai kuriose parapijose blaivybės brolijų nariais tapo net 97 procentai gyventojų, todėl sumažėjo iždo degtinės pajamos.'
   pagrindžia:
     - c-001

@@ -17,12 +17,16 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
 
 ## Teiginiai
 
+<a id="claim-t-58562"></a>
 - t-001
+  global_id: t-58562
   teiginys: 'Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibrovė į Vonsdorfo žemę332; pristatę prie sienų kopėčias bei padarę visa kita, kas reikalinga pilims pulti, užkariavo Kapstetos pilį333 ir ją pavertė pelenais, pilyje bei jos apygardoje paėmė į nelaisvę daugybę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58563"></a>
 - t-002
+  global_id: t-58563
   teiginys: 'Dusburgietis teigia, kad kur buvo Kapstetos pilis, nėra aišku.'
   pagrindžia:
     - c-001

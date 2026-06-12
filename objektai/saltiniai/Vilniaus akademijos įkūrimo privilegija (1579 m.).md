@@ -19,12 +19,16 @@ Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vi
 
 ## Teiginiai
 
+<a id="claim-t-67569"></a>
 - t-001
+  global_id: t-67569
   teiginys: 'Privilegiją jėzuitams karalius davė būdamas Lenkijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67570"></a>
 - t-002
+  global_id: t-67570
   teiginys: '1578 m. Vilniaus jėzuitams paprašius leisti įkurti akademiją Vilniuje, Steponas Batoras sutiko ir davė privilegijos raštą.'
   pagrindžia:
     - c-002

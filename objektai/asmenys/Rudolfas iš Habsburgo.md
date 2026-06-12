@@ -26,12 +26,16 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
 
 ## Teiginiai
 
+<a id="claim-t-60197"></a>
 - t-001
+  global_id: t-60197
   teiginys: 'Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą, Čekijos karalių Tuo metu Rudolfas, Romos karalius, nukovė kare Otokarą, Čekijos karalių, atidavė Austrijos kunigaikštystę savo sūnui Albrechtui, kuris vėliau tapo Romos karaliumi, o savo dukterį atidavė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60198"></a>
 - t-002
+  global_id: t-60198
   teiginys: 'Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpaties metais Rudolfas iš Habsburgo buvo išrinktas Romos karaliumi (Mart.'
   pagrindžia:
     - c-001

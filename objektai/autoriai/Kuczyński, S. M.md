@@ -24,7 +24,9 @@ Kuczyński, S.
 
 ## Teiginiai
 
+<a id="claim-t-29370"></a>
 - t-001
+  global_id: t-29370
   teiginys: 'S. M. Kuczyński 1936 m. Varšuvoje išleido veikalą „Antymoskiewska inicjatywa Litwy w drugiej połowie XIV wieku“.'
   pagrindžia:
     - c-001

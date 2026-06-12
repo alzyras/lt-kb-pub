@@ -19,7 +19,9 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 
 ## Teiginiai
 
+<a id="claim-t-88253"></a>
 - t-001
+  global_id: t-88253
   teiginys: '1396 m. Jogailos ir Vytauto privilegijoje Vilniaus vyskupui Andriui tarp liudytojų minėtas Vilniaus vaivada Manvydas.'
   pagrindžia:
     - c-001

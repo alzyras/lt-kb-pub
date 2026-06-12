@@ -23,7 +23,9 @@ Dusburgietis teigia, kad pakarklis P.
 
 ## Teiginiai
 
+<a id="claim-t-61212"></a>
 - t-001
+  global_id: t-61212
   teiginys: 'P. Pakarklio „Lietuvių kova prieš kalavijuočius“ išleistas Panevėžyje 1945 m.'
   pagrindžia:
     - c-001

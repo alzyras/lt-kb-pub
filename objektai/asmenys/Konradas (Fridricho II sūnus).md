@@ -26,7 +26,9 @@ Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatori
 
 ## Teiginiai
 
+<a id="claim-t-60359"></a>
 - t-001
+  global_id: t-60359
   teiginys: 'Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus, mirtį 1251 viešpaties metais Konradas, imperatoriaus Fridricho II sūnus, gimęs iš Jeruzalės karaliaus dukters, užpuolė Apulijos karalystę ir Neapolį.'
   pagrindžia:
     - c-001

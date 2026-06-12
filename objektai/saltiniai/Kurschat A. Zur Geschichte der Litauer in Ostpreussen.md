@@ -24,7 +24,9 @@ Dusburgietis teigia, kad kurschat A.
 
 ## Teiginiai
 
+<a id="claim-t-61112"></a>
 - t-001
+  global_id: t-61112
   teiginys: 'A. Kurschato „Zur Geschichte der Litauer in Ostpreussen“ paskelbta 1893 m. Heidelberge, „Mitteilungen der Litauischen litterarischen Gesellschaft“ 18 sąsiuvinyje.'
   pagrindžia:
     - c-001

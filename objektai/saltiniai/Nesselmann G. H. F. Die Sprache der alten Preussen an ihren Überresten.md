@@ -24,7 +24,9 @@ Dusburgietis teigia, kad nesselmann G.
 
 ## Teiginiai
 
+<a id="claim-t-61197"></a>
 - t-001
+  global_id: t-61197
   teiginys: 'G. H. F. Nesselmanno veikalas „Die Sprache der alten Preussen an ihren Überresten“ išleistas Berlyne 1845 m.'
   pagrindžia:
     - c-001

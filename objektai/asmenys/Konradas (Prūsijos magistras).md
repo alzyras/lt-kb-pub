@@ -14,29 +14,32 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Konradas (Prūsijos magistras)
 
 ## Santrauka
 
-Kojelavičius teigia, kad grafas Verneris fon Hoinbergas ir Adolfas fon Vintimelis bei kiti Reino krašto didikai kaip tik buvo atvykę į Prūsiją. Kojelavičius teigia, kad magistras Konradas, gavęs ži nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy nėjai su kitais kariais išvesti į Lenkiją, todėl įsakė Albertui Hagenui staiga užpulti Gardino pilį ir miestą, likusius be gynėjų, ir užimti.
+Prūsijos magistras Konradas, sulaukęs Reino krašto didikų pagalbos, įsiveržė į Lietuvą ir nuniokojo Gardino kraštą. Magistras Konradas įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą.
 
 ## Teiginiai
 
+<a id="claim-t-186126"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad grafas Verneris fon Hoinbergas ir Adolfas fon Vintimelis bei kiti Reino krašto didikai kaip tik buvo atvykę į Prūsiją.'
+  global_id: t-186126
+  teiginys: 'Prūsijos magistras Konradas, sulaukęs Reino krašto didikų pagalbos, įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186127"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad magistras Konradas, gavęs ži nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy nėjai su kitais kariais išvesti į Lenkiją, todėl įsakė Albertui Hagenui staiga užpulti Gardino pilį ir miestą, likusius be gynėjų, ir užimti.'
+  global_id: t-186127
+  teiginys: 'Magistras Konradas įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad grafas Verneris fon Hoinbergas ir Adolfas fon Vintimelis bei kiti Reino krašto didikai kaip tik buvo atvykę į Prūsiją.'
+  santrauka: 'Prūsijos magistras Konradas, sulaukęs Reino krašto didikų pagalbos, įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Grafas Verneris fon Hoinbergas ir
@@ -67,7 +70,7 @@ Kojelavičius teigia, kad grafas Verneris fon Hoinbergas ir Adolfas fon Vintimel
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad magistras Konradas, gavęs ži nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy nėjai su kitais kariais išvesti į Lenkiją, todėl įsakė Albertui Hagenui staiga užpulti Gardino pilį ir miestą, likusius be gynėjų, ir užimti.'
+  santrauka: 'Magistras Konradas įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kol lietuviai šitaip siautėjo Lenkijoje,
@@ -85,3 +88,13 @@ Kojelavičius teigia, kad grafas Verneris fon Hoinbergas ir Adolfas fon Vintimel
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Vytenio žygis į Didžiąją Lenkiją ir kryžiuočių antpuoliai prieš Gardiną (1306 m.)]]

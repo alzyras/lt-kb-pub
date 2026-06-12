@@ -18,7 +18,9 @@ Rusų pajėgų padėtis ėmė Rusų kariuomenės vado, Mykolo Borisovičiaus Še
 
 ## Teiginiai
 
+<a id="claim-t-40355"></a>
 - t-001
+  global_id: t-40355
   teiginys: 'Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasidavė ATR valdovui Vladislovui Vazai.'
   pagrindžia:
     - c-001

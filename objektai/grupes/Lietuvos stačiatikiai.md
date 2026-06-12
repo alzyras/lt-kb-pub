@@ -22,7 +22,9 @@ Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis, Lietuvos stačiatiki�
 
 ## Teiginiai
 
+<a id="claim-t-31302"></a>
 - t-001
+  global_id: t-31302
   teiginys: 'Po Romano mirties 1361 m. Lietuvos stačiatikių metropolija nebuvo atnaujinta ir vėl pajungta Maskvos metropolitui.'
   pagrindžia:
     - c-001

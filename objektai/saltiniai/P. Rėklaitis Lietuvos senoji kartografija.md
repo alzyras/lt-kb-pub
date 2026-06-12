@@ -25,7 +25,9 @@ Radvilos Lietuvos žemėlapis, Aidai 1952, 10 nr., 445-448 p. ; P.
 
 ## Teiginiai
 
+<a id="claim-t-31880"></a>
 - t-001
+  global_id: t-31880
   teiginys: 'P. Rėklaičio „Lietuvos senoji kartografija“ paskelbta „Tautos Praeities“ II tomo 1 dalyje, Romoje 1964 m., p. 64-76.'
   pagrindžia:
     - c-001

@@ -43,17 +43,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75191"></a>
 - t-001
+  global_id: t-75191
   teiginys: 'Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75192"></a>
 - t-002
+  global_id: t-75192
   teiginys: 'Tai išskirtinė galimybė ne tik aktyviai prisidėti kuriant bendrą Europos ateitį, bet ir sustiprinti šalių solidarumą ir dėmesingumą žemyno tautų praeičiai ir, žinoma, dar kartą patiems – iš šiandieninio požiūrio taško – pažvelgti ir visam pasauliui priminti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75193"></a>
 - t-003
+  global_id: t-75193
   teiginys: '1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.'
   pagrindžia:
     - c-003

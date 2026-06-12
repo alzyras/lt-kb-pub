@@ -19,7 +19,9 @@ R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 , Fr. Benninghoven dav�
 
 ## Teiginiai
 
+<a id="claim-t-30608"></a>
 - t-001
+  global_id: t-30608
   teiginys: 'F. Gause yra trijų tomų veikalo „Die Geschichte Königsbergs“ autorius.'
   pagrindžia:
     - c-001

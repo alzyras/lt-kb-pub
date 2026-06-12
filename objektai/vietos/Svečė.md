@@ -19,17 +19,23 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 
 ## Teiginiai
 
+<a id="claim-t-58478"></a>
 - t-001
+  global_id: t-58478
   teiginys: 'Sventopelkas pradėjo statyti Svečės pilį priešais dabartinį Kulmo miestą, kad trukdytų Ordino broliams plaukioti Vysla.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58479"></a>
 - t-002
+  global_id: t-58479
   teiginys: 'Dusburgietis teigia, kad žvalgai sugrįžę pranešė, kad Sventopelkas su galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58480"></a>
 - t-003
+  global_id: t-58480
   teiginys: 'Dusburgietis teigia, kad kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių ir 10 laivų.'
   pagrindžia:
     - c-001

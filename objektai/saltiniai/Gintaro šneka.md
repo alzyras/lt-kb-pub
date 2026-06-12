@@ -23,12 +23,16 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
 
 ## Teiginiai
 
+<a id="claim-t-97251"></a>
 - t-001
+  global_id: t-97251
   teiginys: 'P. Būtėno „Gintaro šneka“ paskelbta „Karyje“ 1973 m., p. 110–115 ir 159–164.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97252"></a>
 - t-002
+  global_id: t-97252
   teiginys: 'P. Būtėno „Gintaro šneka“ paskelbta žurnale „Karys“ 1973 m., p. 110-115 ir 159-164.'
   pagrindžia:
     - c-001

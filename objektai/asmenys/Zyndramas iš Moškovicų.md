@@ -18,12 +18,16 @@ Tada karalius lenkų kariuomenės ve­ dimą atidavė Zyndramui iš Moškovicų,
 
 ## Teiginiai
 
+<a id="claim-t-34836"></a>
 - t-001
+  global_id: t-34836
   teiginys: 'Zyndramui iš Moškovicų karalius pavedė vesti lenkų kariuomenę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184298"></a>
 - t-002
+  global_id: t-184298
   teiginys: 'Karalius pavedė Zyndramui iš Moškovicų, Krokuvos vaivadai, vadovauti lenkų kariuomenei.'
   pagrindžia:
     - c-001

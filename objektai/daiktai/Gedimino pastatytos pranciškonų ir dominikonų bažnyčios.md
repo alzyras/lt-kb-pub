@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87077"></a>
 - t-001
+  global_id: t-87077
   teiginys: 'Gediminas nurodė pastatęs dvi pranciškonų bažnyčias Vilniuje ir Naugarduke bei trečią dominikonų bažnyčią.'
   pagrindžia:
     - c-001

@@ -16,29 +16,25 @@ amziai:
 periodo_grupes:
   - 'XX a.'
 ---
-
 # Juozas Jurginis
 
 ## Santrauka
 
 Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. Turinio dalyje jis taip pat tiesiogiai pateikiamas kaip teksto „A Kojelavičiaus „Lietuvos istorija" ir jos reikšmė“ autorius.
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/grupes/Lotynai]]
-- [[objektai/grupes/Istorikų kolektyvas]]
-
 ## Teiginiai
 
+<a id="claim-t-184470"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad juozas Jurginis parašė šio leidimo įvadą ir paaiškinimus.'
+  global_id: t-184470
+  teiginys: 'Juozas Jurginis parašė šio „Lietuvos istorijos“ leidimo įvadą ir paaiškinimus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Juozas Jurginis parašė šio „Lietuvos istorijos“ leidimo įvadą ir paaiškinimus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     BBK-63.3(2L)
@@ -65,3 +61,8 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Istorikų kolektyvas]]
+- [[objektai/grupes/Lotynai]]

@@ -19,7 +19,9 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
 
 ## Teiginiai
 
+<a id="claim-t-87614"></a>
 - t-001
+  global_id: t-87614
   teiginys: 'Jogaila išleido savo seserį Aleksandrą už jaunesniojo Mazovijos kunigaikščio Ziemovito.'
   pagrindžia:
     - c-001

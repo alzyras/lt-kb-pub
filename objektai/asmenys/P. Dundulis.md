@@ -24,7 +24,9 @@ Dundulis mėgino sustabdyti lie- 1922 m.
 
 ## Teiginiai
 
+<a id="claim-t-80740"></a>
 - t-001
+  global_id: t-80740
   teiginys: 'Dundulis mėgino sustabdyti lie- 1922 m.'
   pagrindžia:
     - c-001

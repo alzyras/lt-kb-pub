@@ -17,7 +17,9 @@ Bolševikai tos pačios dienos vakare buvo priversi palikti Kėdainių apylinkes
 
 ## Teiginiai
 
+<a id="claim-t-42387"></a>
 - t-001
+  global_id: t-42387
   teiginys: 'Tos pačios dienos vakare bolševikai buvo priversti palikti Kėdainių apylinkes ir atsitraukti į Šėtą.'
   pagrindžia:
     - c-001

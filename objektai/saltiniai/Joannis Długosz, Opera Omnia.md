@@ -25,7 +25,9 @@ DlugO = Joannis Długosz, Opera Omnia, t.
 
 ## Teiginiai
 
+<a id="claim-t-31739"></a>
 - t-001
+  global_id: t-31739
   teiginys: '„Joannis Długosz, Opera Omnia“ 11–14 tomai buvo išleisti Krokuvoje 1873–1878 m.'
   pagrindžia:
     - c-001

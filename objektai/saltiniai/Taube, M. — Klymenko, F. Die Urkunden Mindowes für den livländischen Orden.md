@@ -22,7 +22,9 @@ Taube, M.
 
 ## Teiginiai
 
+<a id="claim-t-31934"></a>
 - t-001
+  global_id: t-31934
   teiginys: 'M. Taube ir F. Klymenko darbas „Die Urkunden Mindowes für den livländischen Orden“ paskelbtas AF VI tome 1929 m., p. 201-255.'
   pagrindžia:
     - c-001

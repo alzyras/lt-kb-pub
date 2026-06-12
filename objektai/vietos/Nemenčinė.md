@@ -20,7 +20,9 @@ Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam
 
 ## Teiginiai
 
+<a id="claim-t-183865"></a>
 - t-001
+  global_id: t-183865
   teiginys: 'Nuo Nemenčinės dvaro iki Kernavės miestelio buvo draudžiama per Viliją statyti mažus tiltelius, vadinamus jazais.'
   pagrindžia:
     - c-001

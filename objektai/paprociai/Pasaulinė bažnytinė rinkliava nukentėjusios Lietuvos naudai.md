@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67186"></a>
 - t-001
+  global_id: t-67186
   teiginys: 'Taip pat Šveicarijoje susidarė komitetas tvarkyti popiežiaus paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietuvos naudai (1917 m. pradžioj).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67187"></a>
 - t-002
+  global_id: t-67187
   teiginys: 'Komiteto atstovai išsirūpino ir iš popiežiaus Benedikto XV tokią pat dieną rinkliavai visose pasaulio bažnyčiose.'
   pagrindžia:
     - c-002

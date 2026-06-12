@@ -17,7 +17,9 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
 
 ## Teiginiai
 
+<a id="claim-t-59155"></a>
 - t-001
+  global_id: t-59155
   teiginys: 'Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisiekęs dievų galybe niekad ateityje nelaukti, kol broliai užpulsią kokią pilį.'
   pagrindžia:
     - c-001

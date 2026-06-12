@@ -17,33 +17,37 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
 
 ## Teiginiai
 
+<a id="claim-t-05242"></a>
 - t-001
-  teiginys: 'Aušrininkai šiame šaltinyje pateikiami kaip romantiškai nusiteikusi lietuvių tautinio atgimimo grupė.'
-  pagrindžia:
-    - c-001
-
-- t-002
+  global_id: t-05242
   teiginys: 'Aušrininkai siejami su Simono Daukanto pradėto tautinio ir istorinio palikimo tęsiniu iki nepriklausomybės metų.'
   pagrindžia:
     - c-001
-    - c-001
 
-- t-003
+<a id="claim-t-80793"></a>
+- t-002
+  global_id: t-80793
   teiginys: 'Aušrininkai plačiai naudojosi M. Balinskio ir J. I. Kraševskio kūrybiniu palikimu apie Vilniaus ir urbanistinės Lietuvos istoriją.'
   pagrindžia:
     - c-002
 
-- t-004
+<a id="claim-t-80794"></a>
+- t-003
+  global_id: t-80794
   teiginys: 'Aušrininkai plačiai naudojo Vilniaus ir urbanistinės Lietuvos istorijos ištakose stovėjusių asmenybių kūrybinį palikimą.'
   pagrindžia:
     - c-002
 
-- t-005
+<a id="claim-t-80795"></a>
+- t-004
+  global_id: t-80795
   teiginys: 'Aušrininkai Lietuvoje sekė Simono Daukanto vykdytu romantiniu tautinės istorijos nusistatymu.'
   pagrindžia:
     - c-001
 
-- t-006
+<a id="claim-t-80796"></a>
+- t-005
+  global_id: t-80796
   teiginys: 'Aušrininkai ir jų tautinio palikimo tęsėjai iki nepriklausomybės metų sekė Simono Daukanto istoriniu nusistatymu.'
   pagrindžia:
     - c-001
@@ -67,9 +71,9 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+    - t-004
     - t-005
-    - t-006
 
 - c-002
   santrauka: 'Aušrininkai plačiai naudojosi M. Balinskio ir J. I. Kraševskio kūrybiniu palikimu apie Vilniaus ir urbanistinės Lietuvos istoriją.'
@@ -89,8 +93,8 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-002
     - t-003
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai

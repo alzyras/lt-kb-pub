@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31808"></a>
 - t-001
+  global_id: t-31808
   teiginys: 'Lietuvos TSR istorijos bibliografiją 1940-1965 sudarė septynių asmenų kolektyvas, ji išleista Vilniuje 1969 m.'
   pagrindžia:
     - c-001

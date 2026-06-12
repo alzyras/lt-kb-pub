@@ -6,39 +6,46 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Boleslovas Švitrigaila
 
 ## Santrauka
 
-Kojelavičius teigia, kad praradęs mū šyje dešimt tūkstančių karių, Boleslovas vargais nega lais paspruko į Kijevą. Kojelavičius teigia, kad lenkų kariuomenės vadai tuo metu buvo įsi vėlę į naują karą su Prūsija, Štai todėl Boleslovas ir išsirengė į žygį padalijęs kariuomenę trimis žygio vo romis: su viena pats įsiveržė į senąsias Lietuvos žemes ir jas nuniokojo. Kojelavičius teigia, kad mat, pašalinus Žygimantą, kiekvienas jautėsi sau gesnis ir džiaugėsi, kad pranyko nuolatinė baimė, ta čiau, antra vertus, visi po senovei nekentė ir keikė Bo leslovą Švitrigailą, kuris štai dabar vėl galėjo tikėtis grįžti į valdžią.
+Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstančių karių, sunkiai paspruko į Kijevą. Boleslovas Švitrigaila padalijo kariuomenę į tris žygio voras ir pats įsiveržęs nuniokojo senąsias Lietuvos žemes. Po Žygimanto pašalinimo Boleslovas Švitrigaila vėl galėjo tikėtis grįžti į valdžią, nors didikai jo tebekenė ir keikė.
 
 ## Teiginiai
 
+<a id="claim-t-185932"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad praradęs mū šyje dešimt tūkstančių karių, Boleslovas vargais nega lais paspruko į Kijevą.'
+  global_id: t-185932
+  teiginys: 'Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstančių karių, sunkiai paspruko į Kijevą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185933"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad lenkų kariuomenės vadai tuo metu buvo įsi vėlę į naują karą su Prūsija, Štai todėl Boleslovas ir išsirengė į žygį padalijęs kariuomenę trimis žygio vo romis: su viena pats įsiveržė į senąsias Lietuvos žemes ir jas nuniokojo.'
+  global_id: t-185933
+  teiginys: 'Boleslovas Švitrigaila padalijo kariuomenę į tris žygio voras ir pats įsiveržęs nuniokojo senąsias Lietuvos žemes.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185934"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad mat, pašalinus Žygimantą, kiekvienas jautėsi sau gesnis ir džiaugėsi, kad pranyko nuolatinė baimė, ta čiau, antra vertus, visi po senovei nekentė ir keikė Bo leslovą Švitrigailą, kuris štai dabar vėl galėjo tikėtis grįžti į valdžią.'
+  global_id: t-185934
+  teiginys: 'Po Žygimanto pašalinimo Boleslovas Švitrigaila vėl galėjo tikėtis grįžti į valdžią, nors didikai jo tebekenė ir keikė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185935"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad šitaip jis sugrąžino dėdei Švitrigailai atitinkamu pot varkiu Lucką, o pusbroliui Aleksandrui — Kijevą.'
+  global_id: t-185935
+  teiginys: 'Kazimieras potvarkiu sugrąžino savo dėdei Boleslovui Švitrigailai Lucką.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad praradęs mū šyje dešimt tūkstančių karių, Boleslovas vargais nega lais paspruko į Kijevą.'
+  santrauka: 'Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstančių karių, sunkiai paspruko į Kijevą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Prasidėjus mūšiui, aukščiau­
@@ -54,7 +61,7 @@ Kojelavičius teigia, kad praradęs mū šyje dešimt tūkstančių karių, Bole
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad lenkų kariuomenės vadai tuo metu buvo įsi vėlę į naują karą su Prūsija, Štai todėl Boleslovas ir išsirengė į žygį padalijęs kariuomenę trimis žygio vo romis: su viena pats įsiveržė į senąsias Lietuvos žemes ir jas nuniokojo.'
+  santrauka: 'Boleslovas Švitrigaila padalijo kariuomenę į tris žygio voras ir pats įsiveržęs nuniokojo senąsias Lietuvos žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat karalius Jo­
@@ -79,7 +86,7 @@ Kojelavičius teigia, kad praradęs mū šyje dešimt tūkstančių karių, Bole
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad mat, pašalinus Žygimantą, kiekvienas jautėsi sau gesnis ir džiaugėsi, kad pranyko nuolatinė baimė, ta čiau, antra vertus, visi po senovei nekentė ir keikė Bo leslovą Švitrigailą, kuris štai dabar vėl galėjo tikėtis grįžti į valdžią.'
+  santrauka: 'Po Žygimanto pašalinimo Boleslovas Švitrigaila vėl galėjo tikėtis grįžti į valdžią, nors didikai jo tebekenė ir keikė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu rinkosi į seimą pakviesti
@@ -105,7 +112,7 @@ Kojelavičius teigia, kad praradęs mū šyje dešimt tūkstančių karių, Bole
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad šitaip jis sugrąžino dėdei Švitrigailai atitinkamu pot varkiu Lucką, o pusbroliui Aleksandrui — Kijevą.'
+  santrauka: 'Kazimieras potvarkiu sugrąžino savo dėdei Boleslovui Švitrigailai Lucką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kazimie-
@@ -134,3 +141,12 @@ Kojelavičius teigia, kad praradęs mū šyje dešimt tūkstančių karių, Bole
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/daiktai/Rittersverderio pilis ir laikini įtvirtinimai]]
+- [[objektai/ivykiai/Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis]]
+- [[objektai/ivykiai/Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė]]

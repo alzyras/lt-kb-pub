@@ -16,7 +16,9 @@ Dusburgietis teigia, kad (Gerullis G., Zur Sprache.., p. 48; Būga К., 2, p. 10
 
 ## Teiginiai
 
+<a id="claim-t-60704"></a>
 - t-001
+  global_id: t-60704
   teiginys: 'Dusburgietis teigia, kad (Gerullis G., Zur Sprache.., p. 48; Būga К., 2, p. 100—101; 3, p. 140—141), Skuomantai (kaimas prie Rokiškio, su tarminiu senesnio o virtimu uo).'
   pagrindžia:
     - c-001

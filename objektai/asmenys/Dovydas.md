@@ -13,7 +13,6 @@ tags:
   - karas
   - pilis
 ---
-
 # Dovydas
 
 ## Santrauka
@@ -22,13 +21,17 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 
 ## Teiginiai
 
+<a id="claim-t-82261"></a>
 - t-001
+  global_id: t-82261
   teiginys: 'Dovydas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę ir ją nusiaubė prieš pat minėtas paliaubas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184693"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad dėl vieno bajoro nepaprastos drąsos žuvo pulko vadas Dovydas, garsus sveL ietu vio v a d o D o v y - timuose kraštuose karo žy do š lo v ė ir m irtis giais, o tėvynėje aukščiau siomis pareigybėmis ir gimi nyste su valdovu, kurio dukterį buvo vedęs; jis žuvo.'
+  global_id: t-184693
+  teiginys: 'Pulko vadas Dovydas žuvo grįždamas su kariuomene namo, kai siaubė Mazoviją.'
   pagrindžia:
     - c-003
 
@@ -86,7 +89,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   statusas: verified
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad dėl vieno bajoro nepaprastos drąsos žuvo pulko vadas Dovydas, garsus sveL ietu vio v a d o D o v y - timuose kraštuose karo žy do š lo v ė ir m irtis giais, o tėvynėje aukščiau siomis pareigybėmis ir gimi nyste su valdovu, kurio dukterį buvo vedęs; jis žuvo.'
+  santrauka: 'Pulko vadas Dovydas žuvo grįždamas su kariuomene namo, kai siaubė Mazoviją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dėl vieno bajoro nepaprastos drąsos žuvo pulko
@@ -108,3 +111,18 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Laivai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Dovilas, arba Dovydas]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
+- [[objektai/asmenys/Erdenas, arba Jerdenas]]
+- [[objektai/asmenys/Maukoldas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- [[objektai/asmenys/Vidas, pramintas Vilku]]
+- [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]
+- [[objektai/posakiai/Tegul tas dalykas neatima iš tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą, padrąsink savo kovot]]

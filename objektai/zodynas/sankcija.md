@@ -19,7 +19,9 @@ Dabar toji visuomenė davė unijai savo sankciją^2 ).
 
 ## Teiginiai
 
+<a id="claim-t-36831"></a>
 - t-001
+  global_id: t-36831
   teiginys: 'Sankcija čia reiškė lietuvių bajorijos pritarimą unijai, gavus balsą valstybės reikaluose.'
   pagrindžia:
     - c-001

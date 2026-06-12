@@ -20,7 +20,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Rumbaudas
 
 ## Santrauka
@@ -29,18 +28,24 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
 
 ## Teiginiai
 
+<a id="claim-t-182861"></a>
 - t-001
+  global_id: t-182861
   teiginys: 'Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184284"></a>
 - t-002
+  global_id: t-184284
   teiginys: 'Vytautas pasiuntė maršalką Rumbaudą ir Vilniaus vaivadą Gedgaudą į Lenčicą pas Jogailą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184824"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad į Korčino seimą Vytautas iš pradžių nusiuntė Vil niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.'
+  global_id: t-184824
+  teiginys: 'Vytautas į Korčino seimą iš pradžių nusiuntė Lietuvos maršalą Rumbaudą ir Vilniaus vaivadą Goštautą.'
   pagrindžia:
     - c-003
 
@@ -80,7 +85,7 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
     - t-001
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad į Korčino seimą Vytautas iš pradžių nusiuntė Vil niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.'
+  santrauka: 'Vytautas į Korčino seimą iš pradžių nusiuntė Lietuvos maršalą Rumbaudą ir Vilniaus vaivadą Goštautą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to prasidėjo ilgos tarpusavio rietenos, kurias
@@ -99,3 +104,21 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/maršalka]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/asmenys/Radvila]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.)]]
+- [[objektai/zodynas/luomas]]

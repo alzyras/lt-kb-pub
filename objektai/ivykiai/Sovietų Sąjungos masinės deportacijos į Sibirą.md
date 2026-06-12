@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-26385"></a>
 - t-001
+  global_id: t-26385
   teiginys: 'Sovietų Sąjungos vykdytos masinės deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-26386"></a>
 - t-002
+  global_id: t-26386
   teiginys: '1944–1953 m. Lietuvoje vyko Sovietų Sąjungos organizuotų represijų, deportacijų, masinės kolektyvizacijos ir ginkluotos rezistencijos laikotarpis.'
   pagrindžia:
     - c-002

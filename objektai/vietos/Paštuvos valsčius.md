@@ -25,27 +25,37 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
 
 ## Teiginiai
 
+<a id="claim-t-91251"></a>
 - t-001
+  global_id: t-91251
   teiginys: 'Dusburgietis teigia, kad apie Paštuvos valsčiaus nusiaubimą 1316 viešpaties metais, žiemą, brolis Henrikas, maršalas, su daugybe raitelių netikėtai įsiveržė į Paštuvos valsčių ir jį nusiaubė, degindamas bei plėšdamas, o penkis šimtus žmonių paėmė į nelaisvę ar nukovė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-91252"></a>
 - t-002
+  global_id: t-91252
   teiginys: 'Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo metu brolis Meinhardas, magistras, nesitenkindamas lietuviams pridarytais nuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius, viską čia didžiausiais gaisrais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-91253"></a>
 - t-003
+  global_id: t-91253
   teiginys: 'Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių nuniokojimą 1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su savo kariuomene įsiveržti į Ariogalos valsčių, bet leidosi atkalbamas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-91254"></a>
 - t-004
+  global_id: t-91254
   teiginys: 'Dusburgietis teigia, kad paštuvos valsčius buvo deš.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-91255"></a>
 - t-005
+  global_id: t-91255
   teiginys: 'Dusburgietis teigia, kad tada jis padalijo savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo.'
   pagrindžia:
     - c-002

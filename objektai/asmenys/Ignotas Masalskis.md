@@ -28,27 +28,37 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
 
 ## Teiginiai
 
+<a id="claim-t-75845"></a>
 - t-001
+  global_id: t-75845
   teiginys: '1769 m. Martynas Knakfusas tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti jo rūmus Verkiuose.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75846"></a>
 - t-002
+  global_id: t-75846
   teiginys: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75847"></a>
 - t-003
+  global_id: t-75847
   teiginys: '1792 m. birželio 25 d. Targovicos konfederacijai pritarusiai Vilniaus konfederacijai vadovavo ir Vilniaus vyskupas Ignotas Masalskis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75848"></a>
 - t-004
+  global_id: t-75848
   teiginys: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-75849"></a>
 - t-005
+  global_id: t-75849
   teiginys: 'Vilniaus vyskupas Ignotas Masalskis buvo tarp Targovicos konfederatų, pakartų Varšuvoje birželio 28 dieną.'
   pagrindžia:
     - c-003

@@ -27,38 +27,52 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-176406"></a>
 - t-001
+  global_id: t-176406
   teiginys: '1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-176407"></a>
 - t-002
+  global_id: t-176407
   teiginys: '1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-176408"></a>
 - t-003
+  global_id: t-176408
   teiginys: 'Dviem raštais (1388- 1389) jis prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176410"></a>
 - t-004
+  global_id: t-176410
   teiginys: 'Priimdamas lenkų sąlygas, Jogaila turėjo lotyniškai pasikrikštyti ir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d. Krokuvoje buvo vainikuota Lenkijos « karaliumi ».'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176411"></a>
 - t-005
+  global_id: t-176411
   teiginys: 'Popiežius Grigalius X 1272 m. kanonizavo šventą Jadvygą, Lenkijos kunigaikštienę.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-176412"></a>
 - t-006
+  global_id: t-176412
   teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184714"></a>
 - t-008
-  teiginys: 'Kojelavičius teigia, kad tarpininke patys kunigaikščiai pasirinko karalienę Jadvygą.'
+  global_id: t-184714
+  teiginys: 'Kunigaikščiai pasirinko karalienę Jadvygą tarpininke sprendžiant Skirgailos ir Vytauto ginčą.'
   pagrindžia:
     - c-007
 
@@ -158,7 +172,7 @@ periodo_grupes:
     - t-007
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad tarpininke patys kunigaikščiai pasirinko karalienę Jadvygą.'
+  santrauka: 'Kunigaikščiai pasirinko karalienę Jadvygą tarpininke sprendžiant Skirgailos ir Vytauto ginčą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Siekdamas santarvės, pats
@@ -177,3 +191,36 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/posakiai/„Šventos santuokos“]]
+- [[objektai/asmenys/Andrius iš Vasilevo Važila]]
+- [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]]
+- [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]
+- [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
+- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/grupes/Jastžembcų giminė]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/grupes/Lenkų didžponiai]]
+- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
+- [[objektai/grupes/Lietuvos kunigaikščiai ir didikai]]
+- [[objektai/grupes/Piastų dinastija]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]
+- [[objektai/asmenys/Vladislovas Jogaila]]
+- [[objektai/ivykiai/Vytauto ir Skirgailos ginčas Vilniuje (1393 m. spalio 3 d.)]]
+- [[objektai/zodynas/diecezija]]
+- [[objektai/posakiai/wieszczym duchem]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]

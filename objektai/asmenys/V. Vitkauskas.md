@@ -16,7 +16,9 @@ Vitkauskas, gen.
 
 ## Teiginiai
 
+<a id="claim-t-19300"></a>
 - t-001
+  global_id: t-19300
   teiginys: 'Kariuomenės vadas generolas V. Vitkauskas motyvavo, kad Lietuva viena negali rimčiau pasipriešinti sovietų karinei mašinai.'
   pagrindžia:
     - c-001

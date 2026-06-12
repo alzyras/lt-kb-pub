@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87054"></a>
 - t-001
+  global_id: t-87054
   teiginys: 'XIII amžiaus viduryje dabartinio Vilniaus vietoje buvo medinių namų gyvenvietė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87055"></a>
 - t-002
+  global_id: t-87055
   teiginys: 'Iki Gedimino dabartinio Vilniaus vietoje tikriausiai buvo medinė tvirtovė, o palei Vilnios krantą driekėsi trobelės.'
   pagrindžia:
     - c-001

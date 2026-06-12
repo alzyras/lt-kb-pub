@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-39718"></a>
 - t-001
+  global_id: t-39718
   teiginys: '1-ojo būrio kareivis Cipkevičius kartu su Šidiškiu prašė leidimo pulti lenkus durtuvais.'
   pagrindžia:
     - c-001

@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19792"></a>
 - t-001
+  global_id: t-19792
   teiginys: 'Lenkų socialistų partijai vadovavo iš etninės Lietuvos kilęs Juzefas Pilsudskis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-19793"></a>
 - t-002
+  global_id: t-19793
   teiginys: 'Lenkų socialistų partijos Lietuvoje delegatai dalyvavo susirinkime, į kurį atvyko apie 2 000 delegatų.'
   pagrindžia:
     - c-001

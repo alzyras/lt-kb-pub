@@ -19,7 +19,9 @@ Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik amžiumi vėliau,
 
 ## Teiginiai
 
+<a id="claim-t-87636"></a>
 - t-001
+  global_id: t-87636
   teiginys: 'Boleslovas Didysis, pramintas Narsiuoju, laikomas pirmuoju miestų įkūrėju Lenkijos žemėje.'
   pagrindžia:
     - c-001

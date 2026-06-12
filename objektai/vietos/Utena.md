@@ -21,7 +21,6 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
-
 # Utena
 
 ## Santrauka
@@ -30,18 +29,24 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 
 ## Teiginiai
 
+<a id="claim-t-172016"></a>
 - t-001
+  global_id: t-172016
   teiginys: 'Ladygos vadovaujamai Ukmergės rinktinei žygiuoti UkmergėsDaugpilio plentu ir užimti Uteną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-172018"></a>
 - t-002
+  global_id: t-172018
   teiginys: 'Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185169"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad jis apgulė Uteną, kadangi ten buvo pasislėpęs svetimų žmonų viliotojas, nesitikėdamas sėk mės atvirame kovos lauke, nes labiau buvo linkęs prie piktadarybių nei prie karo.'
+  global_id: t-185169
+  teiginys: 'Narimantas apgulė Uteną, nes ten buvo pasislėpęs svetimų žmonų viliotojas.'
   pagrindžia:
     - c-003
 
@@ -87,7 +92,7 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad jis apgulė Uteną, kadangi ten buvo pasislėpęs svetimų žmonų viliotojas, nesitikėdamas sėk mės atvirame kovos lauke, nes labiau buvo linkęs prie piktadarybių nei prie karo.'
+  santrauka: 'Narimantas apgulė Uteną, nes ten buvo pasislėpęs svetimų žmonų viliotojas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Patyręs savo bei žmonos

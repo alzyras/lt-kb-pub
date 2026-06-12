@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad patys tvarkykite savo valstybę, iš savųjų parinkę tokių piliegalią; skriausdami sąjungininkus, jie kurstė priešus ir karą prieš save.
+Mingaila prie Gorodeco užpuolė polockiečių kariuomenę ir privertė ją bėgti iš kovos lauko bei stovyklos.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185624"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad patys tvarkykite savo valstybę, iš savųjų parinkę tokių piliegalią; skriausdami sąjungininkus, jie kurstė priešus ir karą prieš save.'
+  global_id: t-185624
+  teiginys: 'Mingaila prie Gorodeco užpuolė polockiečių kariuomenę ir privertė ją bėgti iš kovos lauko bei stovyklos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad patys tvarkykite savo valstybę, iš savųjų parinkę tokių piliegalią; skriausdami sąjungininkus, jie kurstė priešus ir karą prieš save.'
+  santrauka: 'Mingaila prie Gorodeco užpuolė polockiečių kariuomenę ir privertė ją bėgti iš kovos lauko bei stovyklos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Patys
@@ -65,3 +66,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mingaila]]
+- [[objektai/grupes/Polockiečiai]]

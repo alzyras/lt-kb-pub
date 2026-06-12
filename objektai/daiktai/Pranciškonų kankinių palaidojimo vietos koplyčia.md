@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19583"></a>
 - t-001
+  global_id: t-19583
   teiginys: 'XVI a. pradžioje Vilniuje dviejų pranciškonų palaidojimo vietoje pradėta statyti koplyčia.'
   pagrindžia:
     - c-001

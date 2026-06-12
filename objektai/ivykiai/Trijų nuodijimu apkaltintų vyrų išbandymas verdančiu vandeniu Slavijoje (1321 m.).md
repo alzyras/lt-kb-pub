@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62511"></a>
 - t-001
+  global_id: t-62511
   teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą 1321 viešpaties metais Slavijos žemėse trys vyrai, apkaltinti nuodijimu, buvo įmesti į verdantį vandenį, du iš jų bematant nusigalavo, o trečias išvengė mirties, nes buvo nekaltas.'
   pagrindžia:
     - c-001

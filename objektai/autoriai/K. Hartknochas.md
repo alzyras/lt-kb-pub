@@ -25,17 +25,23 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
 
 ## Teiginiai
 
+<a id="claim-t-64673"></a>
 - t-001
+  global_id: t-64673
   teiginys: 'K. Hartknochas parengė pirmąjį Dusburgiečio kronikos leidimą, išleistą Karaliaučiuje 1679 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64674"></a>
 - t-002
+  global_id: t-64674
   teiginys: 'K. Hartknochas, pirmasis Dusburgiečio kronikos leidėjas, manė, kad rutėnais vadinti Riugeno salos gyventojai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64675"></a>
 - t-003
+  global_id: t-64675
   teiginys: 'Dusburgietis teigia, kad 82 De Dusburg Petri [...] Chronłcon Prussiae / Auctore et collectore Christophoro Hartknoch.'
   pagrindžia:
     - c-003

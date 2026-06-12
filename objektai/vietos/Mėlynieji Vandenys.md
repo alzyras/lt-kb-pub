@@ -24,7 +24,9 @@ Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynai
 
 ## Teiginiai
 
+<a id="claim-t-171847"></a>
 - t-001
+  global_id: t-171847
   teiginys: 'Rogožos metraštyje prie 1363 m. nurodoma, kad Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
   pagrindžia:
     - c-001

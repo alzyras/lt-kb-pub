@@ -38,27 +38,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66458"></a>
 - t-001
+  global_id: t-66458
   teiginys: '1920 m. rugsėjo 22 d. lenkai slapta pergrupavo pajėgas ir pradėjo puolimą ties Seinais bei Kapčiamiesčiu.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66459"></a>
 - t-002
+  global_id: t-66459
   teiginys: 'Augustavo-Suvalkų operacijos metu lenkų pajėgos spalio 3-4 d. užėmė Varėną, svarbų transporto mazgą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66460"></a>
 - t-003
+  global_id: t-66460
   teiginys: 'Visos operacijos metu Lietuvos pajėgos prarado daugiau nei 2 000 karių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-66461"></a>
 - t-004
+  global_id: t-66461
   teiginys: 'Rugsėjo 23 d. lenkų divizijos perėjo Nemuną Druskininkuose, rugsėjo 28 d. užėmė Lydą ir lietuviai traukėsi į šiaurę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66462"></a>
 - t-005
+  global_id: t-66462
   teiginys: 'Rugsėjo pabaigoje Lietuvos pajėgos patyrė didelius nuostolius, įskaitant sunaikintus batalionus ir baterijas.'
   pagrindžia:
     - c-002

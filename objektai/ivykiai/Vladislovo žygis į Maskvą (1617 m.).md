@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01858"></a>
 - t-001
+  global_id: t-01858
   teiginys: 'Karalaitis Vladislovas titulavosi caru ir 1617 m. žygiavo užimti Maskvos, o kariuomenei vadovavo Katkevičius.'
   pagrindžia:
     - c-001

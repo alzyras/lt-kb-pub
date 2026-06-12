@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59808"></a>
 - t-001
+  global_id: t-59808
   teiginys: 'Dusburgietis teigia, kad šitai matydamos, moterys, nusisegusios moteriškus papuošalus, pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo į sienas, taip ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.'
   pagrindžia:
     - c-001

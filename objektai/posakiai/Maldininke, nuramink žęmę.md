@@ -19,12 +19,16 @@ Dusburgietis teigia, kad taigi ir šis markgrafas, apdairus ir protingas vyras, 
 
 ## Teiginiai
 
+<a id="claim-t-59124"></a>
 - t-001
+  global_id: t-59124
   teiginys: 'Dusburgietis teigia, kad taigi ir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų mažesnysis vadinosi „Piligrimu“, o didesnysis — „Fridlandu“, o šitai lotyniškai reiškia „Maldininke, nuramink žęmę“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59125"></a>
 - t-002
+  global_id: t-59125
   teiginys: 'Dusburgietis teigia, kad šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė vienas pasirodyti. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere. Šitaip įvykdęs maldininko įžadus.'
   pagrindžia:
     - c-002

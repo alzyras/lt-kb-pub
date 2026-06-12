@@ -40,37 +40,51 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-171466"></a>
 - t-001
+  global_id: t-171466
   teiginys: 'Po mūšio lietuviai paėmė arba nukovė daugybę totorių ir paėmė daug belaisvių bei grobio.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-171467"></a>
 - t-002
+  global_id: t-171467
   teiginys: 'Klecko mūšyje kunigaikštis Mykolas su kairiuoju sparnu perėjo upę, smogė totorių pulkams ir perskėlė juos į dvi dalis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-171468"></a>
 - t-003
+  global_id: t-171468
   teiginys: 'Bychoveco kronikos pasakojime Klecko mūšio pergalė prieš totorius vaizduota kaip Dievo gailestingumas Lietuvos Didžiajai Kunigaikštystei.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-171470"></a>
 - t-004
+  global_id: t-171470
   teiginys: '1506 m. rugpjūčio 6 d. Lietuvos kariuomenė prie Klecko perėjo upę, išvydo totorių pulkus ir pradėjo mūšį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-171471"></a>
 - t-005
+  global_id: t-171471
   teiginys: 'Bychoveco kronikoje Klecko pergalė siejama su krikščionių kovos prieš kitatikius motyvais ir Dievo gailestingumu LDK.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-171472"></a>
 - t-006
+  global_id: t-171472
   teiginys: 'Kita vertus, Klecko mūšis buvo pirmoji stambi lietuvių pergalė po skaudaus pralaimėjimo prieš rusus Vedrošos kautynėse ir pirmoji pergalė prieš ilgai Lietuvos žmones kamavusius Krymo totorius apskritai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-171473"></a>
 - t-007
+  global_id: t-171473
   teiginys: 'Klecko mūšis buvo pirmoji stambi lietuvių pergalė prieš Krymo totorius ir pirmoji tokia pergalė po Vedrošos kautynių.'
   pagrindžia:
     - c-004

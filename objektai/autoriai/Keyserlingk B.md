@@ -26,7 +26,9 @@ Dusburgietis teigia, kad 33—73; Springborn M, Herkus Monte.— Berlin, 1897; t
 
 ## Teiginiai
 
+<a id="claim-t-91951"></a>
 - t-001
+  global_id: t-91951
   teiginys: 'Dusburgietis teigia, kad 33—73; Springborn M, Herkus Monte.— Berlin, 1897; to paties, Paskutinis prūsų sukilėlis Herkus Mantas.— K, 1938; Keyserlingk B., Monte der Rebell.— Görlitz; to paties, Sukilėlis Montė.— K, 1937; Grušas J., Herkus Mantas.— V, 1957) bei dabartinėje.'
   pagrindžia:
     - c-001

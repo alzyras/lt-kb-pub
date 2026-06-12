@@ -16,17 +16,23 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
 
 ## Teiginiai
 
+<a id="claim-t-67434"></a>
 - t-001
+  global_id: t-67434
   teiginys: '„Lietuviškasis Balsas“ ketverius metus kėlė lietuvių susipratimą ir ragino lietuvius patiems tvarkyti savo gyvenimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67435"></a>
 - t-002
+  global_id: t-67435
   teiginys: 'Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laikraštis ėjo 1885—1889 m.).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67436"></a>
 - t-003
+  global_id: t-67436
   teiginys: '1885 m. pradėtas leisti laikraštis „Lietuviškasis Balsas“, kurį leidėjui teko beveik vienam rašyti, spausdinti ir platinti.'
   pagrindžia:
     - c-002

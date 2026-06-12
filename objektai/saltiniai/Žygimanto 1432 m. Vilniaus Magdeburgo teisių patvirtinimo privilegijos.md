@@ -27,22 +27,30 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
 
 ## Teiginiai
 
+<a id="claim-t-88216"></a>
 - t-001
+  global_id: t-88216
   teiginys: '1432 m. Vilnius gavo Magdeburgo teisių atnaujinimą ir patvirtinimą dviem privilegijomis lotynų ir rusų kalbomis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-88217"></a>
 - t-002
+  global_id: t-88217
   teiginys: 'Žygimantas privilegijose Vilniui amžiams suteikė vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88218"></a>
 - t-003
+  global_id: t-88218
   teiginys: 'Žygimantas garantavo Vilniui pajamas iš vyno, midaus ir alaus smuklių, palikdamas mokestį kunigaikščio iždui.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-88219"></a>
 - t-004
+  global_id: t-88219
   teiginys: 'Žygimanto privilegijos nustatė, kad Vilniaus vaitą į teismą galėjo kviesti tik pats kunigaikštis raštu su valdovo antspaudu.'
   pagrindžia:
     - c-001

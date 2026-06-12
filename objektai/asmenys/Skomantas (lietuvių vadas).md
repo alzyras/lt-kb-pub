@@ -18,7 +18,9 @@ Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kroniko
 
 ## Teiginiai
 
+<a id="claim-t-40424"></a>
 - t-001
+  global_id: t-40424
   teiginys: 'Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis.'
   pagrindžia:
     - c-001

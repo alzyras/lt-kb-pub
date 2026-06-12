@@ -30,27 +30,37 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 
 ## Teiginiai
 
+<a id="claim-t-136207"></a>
 - t-001
+  global_id: t-136207
   teiginys: 'Revelis [Talinas] už savo atsiradimą dar anksčiau turi būti dėkingas danams.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-136208"></a>
 - t-002
+  global_id: t-136208
   teiginys: '1989 m. rugpjūčio 23 d. Gyvasis Baltijos kelias sudarė rankomis susikibusių žmonių grandinę Vilnius-Ryga-Talinas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-136209"></a>
 - t-003
+  global_id: t-136209
   teiginys: 'Rusų tautybės gyventojams keltis į naujuosius LSSR pramonės miestus kliudė psichologinis barjeras: vienas dalykas keltis gyventi į Rygą, Taliną, Vilnių, kur vyravo sava, rusakalbė aplinka („svoji“), visai kas kita – važiuoti į niekada negirdėtus miestelius.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-136210"></a>
 - t-004
+  global_id: t-136210
   teiginys: 'Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-136212"></a>
 - t-005
+  global_id: t-136212
   teiginys: 'Sužinojęs, kad iš Talino švedams į pagalbą išsiųstas pastiprinimas jau 50 km nuo Piarnu, kovo 16 d.'
   pagrindžia:
     - c-001

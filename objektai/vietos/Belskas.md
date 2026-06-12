@@ -17,7 +17,6 @@ tags:
 amziai:
   - 'XV'
 ---
-
 # Belskas
 
 ## Santrauka
@@ -26,13 +25,17 @@ Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos s
 
 ## Teiginiai
 
+<a id="claim-t-36155"></a>
 - t-001
+  global_id: t-36155
   teiginys: 'Belskas buvo tarp krikščioniškų Trakų kunigaikštijos sričių, kurių abu magistrai pasižadėjo nepulti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184931"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  global_id: t-184931
+  teiginys: 'Mazovijos kunigaikštis Boleslovas, užpuolęs Palenkę, užėmė Melniką, Belską ir Drohičiną.'
   pagrindžia:
     - c-002
 
@@ -57,7 +60,7 @@ Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos s
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  santrauka: 'Mazovijos kunigaikštis Boleslovas, užpuolęs Palenkę, užėmė Melniką, Belską ir Drohičiną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kurie, prisi-

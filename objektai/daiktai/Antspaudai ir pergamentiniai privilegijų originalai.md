@@ -44,12 +44,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87045"></a>
 - t-001
+  global_id: t-87045
   teiginys: 'Buvo ir tos privilegijos Žygimanto Augusto patvirtinimas su dviem antspaudais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87046"></a>
 - t-002
+  global_id: t-87046
   teiginys: 'Kapitulos archyve išlikęs privilegijos originalas buvo lotyniškai parašytas gotiškomis raidėmis ant pergamento, o abu jo antspaudai buvo dingę.'
   pagrindžia:
     - c-001

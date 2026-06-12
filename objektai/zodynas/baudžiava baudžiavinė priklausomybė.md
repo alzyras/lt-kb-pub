@@ -25,17 +25,23 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
 
 ## Teiginiai
 
+<a id="claim-t-22080"></a>
 - t-001
+  global_id: t-22080
   teiginys: '1861 m. imperatorius pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-22082"></a>
 - t-002
+  global_id: t-22082
   teiginys: '1864 m. carizmas pradėjo anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183403"></a>
 - t-003
+  global_id: t-183403
   teiginys: 'Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
   pagrindžia:
     - c-003

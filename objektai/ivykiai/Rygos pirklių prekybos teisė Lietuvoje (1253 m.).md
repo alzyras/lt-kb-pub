@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-97038"></a>
 - t-001
+  global_id: t-97038
   teiginys: '1253 m., Mindaugui susitaikius su Livonijos ordinu, rygiečiai išsirūpino prekybos teisę Lietuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97039"></a>
 - t-002
+  global_id: t-97039
   teiginys: 'Rygai rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.'
   pagrindžia:
     - c-002

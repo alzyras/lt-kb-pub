@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Karinė ginkluotė ginklai
 
 ## Santrauka
 
-Kojelavičius teigia, kad jie džiaugėsi, kad smarkiai padidėjo jėgos ypač tokiu laiku, kada kaimyninės tautos, atsikėlusios prie Vyslos, iš arti ėmė grasinti ginklais Prūsijai. Kojelavičius teigia, kad tačiau Vaidevutis nepradėjo nė vieno karo, mat žinojo, jog karas vei kiau laužo įstatymus, nei juos stiprina, o širdis, užkie tėjusi dažnuose žygiuose, švelnėja tada, kai padedami ginklai.
+Vaidevutis vengė karinių stovyklų, nes manė, kad žmonės, paėmę į rankas ginklą, suįžūlėja ir nebeklauso įsakymų.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -30,41 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185853"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad jie džiaugėsi, kad smarkiai padidėjo jėgos ypač tokiu laiku, kada kaimyninės tautos, atsikėlusios prie Vyslos, iš arti ėmė grasinti ginklais Prūsijai.'
+  global_id: t-185853
+  teiginys: 'Vaidevutis vengė karinių stovyklų, nes manė, kad žmonės, paėmę į rankas ginklą, suįžūlėja ir nebeklauso įsakymų.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Kojelavičius teigia, kad tačiau Vaidevutis nepradėjo nė vieno karo, mat žinojo, jog karas vei kiau laužo įstatymus, nei juos stiprina, o širdis, užkie tėjusi dažnuose žygiuose, švelnėja tada, kai padedami ginklai.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad jie džiaugėsi, kad smarkiai padidėjo jėgos ypač tokiu laiku, kada kaimyninės tautos, atsikėlusios prie Vyslos, iš arti ėmė grasinti ginklais Prūsijai.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Prū­
-    sai mielai priglaudė kaimyninę tautą: nebūgštavo, kad
-    gali nešti grėsmę tauta, gimininga tikėjimu, kalba,
-    apeigomis ir kilme, mat be kitų taikos ryšių, glaudes­
-    nę santarvę žadėjo ir ši jų geradarystė. Jie džiaugėsi,
-    kad smarkiai padidėjo jėgos ypač tokiu laiku, kada
-    kaimyninės tautos, atsikėlusios prie Vyslos, iš arti ėmė
-    grasinti ginklais Prūsijai. Tačiau vėliau, kai dėl miš­
-    rių santuokų smarkiai padidėjo ir viena, ir kita gentis,
-    žmonių gausa, kėlusi priešui baimę, ir patiems tapo
-    lemtinga.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kojelavičius teigia, kad tačiau Vaidevutis nepradėjo nė vieno karo, mat žinojo, jog karas vei kiau laužo įstatymus, nei juos stiprina, o širdis, užkie tėjusi dažnuose žygiuose, švelnėja tada, kai padedami ginklai.'
+  santrauka: 'Vaidevutis vengė karinių stovyklų, nes manė, kad žmonės, paėmę į rankas ginklą, suįžūlėja ir nebeklauso įsakymų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl neilgai trukus paaiškė­
@@ -87,4 +62,8 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Ginklai]]

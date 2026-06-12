@@ -24,7 +24,9 @@ as Šia 1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę, sugriovė „
 
 ## Teiginiai
 
+<a id="claim-t-42367"></a>
 - t-001
+  global_id: t-42367
   teiginys: '1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę ir sugriovė Dubysos pilį, kur, Hermano Vartbergiškio liudijimu, žuvo šimtas gynėjų.'
   pagrindžia:
     - c-001

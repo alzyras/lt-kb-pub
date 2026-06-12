@@ -14,34 +14,39 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Kerim Berdis
 
 ## Santrauka
 
-Kojelavičius teigia, kad kerim Berdis, galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo pasiekti geruoju. Kojelavičius teigia, kad kerim Berdis, sutelkęs stiprią kariuome nę, sutiko atvykstantį ir, stojęs į mūšį, išsklaidė jo dalinius, o patį brolį nužudė. Kojelavičius teigia, kad tačiau Kerim Ber dis nė trupučio nesutriko, drąsos jam teikė prisimini mai apie ankstesnę pergalę.
+Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo pasiekti taikiai. Kerim Berdis sutelkė stiprią kariuomenę, mūšyje išsklaidė Tochtamyšo dalinius ir nužudė brolį. Kerim Berdis, padrąsintas ankstesnės pergalės, ryžtingai su kariuomene užpuolė brolį netoli Volgos.
 
 ## Teiginiai
 
+<a id="claim-t-186052"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kerim Berdis, galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo pasiekti geruoju.'
+  global_id: t-186052
+  teiginys: 'Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo pasiekti taikiai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186053"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kerim Berdis, sutelkęs stiprią kariuome nę, sutiko atvykstantį ir, stojęs į mūšį, išsklaidė jo dalinius, o patį brolį nužudė.'
+  global_id: t-186053
+  teiginys: 'Kerim Berdis sutelkė stiprią kariuomenę, mūšyje išsklaidė Tochtamyšo dalinius ir nužudė brolį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-186054"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad tačiau Kerim Ber dis nė trupučio nesutriko, drąsos jam teikė prisimini mai apie ankstesnę pergalę.'
+  global_id: t-186054
+  teiginys: 'Kerim Berdis, padrąsintas ankstesnės pergalės, ryžtingai su kariuomene užpuolė brolį netoli Volgos.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kerim Berdis, galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo pasiekti geruoju.'
+  santrauka: 'Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo pasiekti taikiai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Užvolgio skitai,
@@ -65,7 +70,7 @@ Kojelavičius teigia, kad kerim Berdis, galingesnis nei kiti broliai, jėga paė
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kerim Berdis, sutelkęs stiprią kariuome nę, sutiko atvykstantį ir, stojęs į mūšį, išsklaidė jo dalinius, o patį brolį nužudė.'
+  santrauka: 'Kerim Berdis sutelkė stiprią kariuomenę, mūšyje išsklaidė Tochtamyšo dalinius ir nužudė brolį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nie­
@@ -88,7 +93,7 @@ Kojelavičius teigia, kad kerim Berdis, galingesnis nei kiti broliai, jėga paė
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad tačiau Kerim Ber dis nė trupučio nesutriko, drąsos jam teikė prisimini mai apie ankstesnę pergalę.'
+  santrauka: 'Kerim Berdis, padrąsintas ankstesnės pergalės, ryžtingai su kariuomene užpuolė brolį netoli Volgos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šio jėgos smarkiai išaugo. Tačiau Kerim Ber­
@@ -100,3 +105,9 @@ Kojelavičius teigia, kad kerim Berdis, galingesnis nei kiti broliai, jėga paė
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/chanas]]
+- [[objektai/asmenys/Tochtamyšas]]
+- [[objektai/ivykiai/Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.)]]

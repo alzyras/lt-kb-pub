@@ -16,7 +16,9 @@ dr. Jonas Arvasevičius Korektorė Ieva Puluikienė Fotografė Giedrė Maksimovi
 
 ## Teiginiai
 
+<a id="claim-t-40631"></a>
 - t-001
+  global_id: t-40631
   teiginys: 'Jonas Arvasevičius buvo leidinio kalbos redaktorius.'
   pagrindžia:
     - c-001

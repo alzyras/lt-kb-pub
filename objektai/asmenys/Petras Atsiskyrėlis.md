@@ -19,22 +19,30 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
 
 ## Teiginiai
 
+<a id="claim-t-90005"></a>
 - t-001
+  global_id: t-90005
   teiginys: 'Dusburgietis teigia, kad petras Atsiskyrėlis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-90006"></a>
 - t-002
+  global_id: t-90006
   teiginys: 'Petras Atsiskyrėlis su Jeruzalės patriarcho Simeono laiškais vyko pas popiežių Urboną II ir ragino leistis į kelionę į Jeruzalę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-90007"></a>
 - t-003
+  global_id: t-90007
   teiginys: 'Dusburgietis teigia, kad petras Atsiskyrėlis meldėsi dievui bažnyčioje per viešpaties prisikėlimo šventę ir, nuo ilgo budėjimo pavargęs, snūstelėjo ant bažnyčios grindų, sapne jam pasirodė mūsų viešpats Jėzus Kristus, įpareigodamas keliauti pas jo šventenybę popiežių bei pas Vakarų valdovus dėl šventosios žemės išvadavimo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-90008"></a>
 - t-004
+  global_id: t-90008
   teiginys: 'Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą žmogų, kuris gyveno Amjeno vyskupystėje nuo visų atsiskyręs, todėl jį vadino Petru Atsiskyrėliu, ragindamas jį aplankyti viešpaties kapą bei kitas šventąsias vietas.'
   pagrindžia:
     - c-001

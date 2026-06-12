@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62548"></a>
 - t-001
+  global_id: t-62548
   teiginys: 'Dusburgietis teigia, kad apie šventųjų Edmundo, Stanislovo ir Petro kanonizavimą Taip pat kanonizavo šventą Edmundą, Kenterberio arkivyskupą, šventą Stanislovą, Krokuvos, neteisingai valdovo nužudytą, ir šventą Petrą, pamokslininkų ordino kankinį (Ptol.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
 
 ## Teiginiai
 
+<a id="claim-t-20997"></a>
 - t-001
+  global_id: t-20997
   teiginys: '1861 m. pavasarį Aleksandras II pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės.'
   pagrindžia:
     - c-001

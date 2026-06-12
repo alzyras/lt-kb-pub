@@ -27,7 +27,9 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
 
 ## Teiginiai
 
+<a id="claim-t-87726"></a>
 - t-001
+  global_id: t-87726
   teiginys: 'Jonas Marija buvo architektas ir raižytojas, savo meno kūriniais papuošęs Vilnių.'
   pagrindžia:
     - c-001

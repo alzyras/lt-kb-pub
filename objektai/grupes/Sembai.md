@@ -28,63 +28,87 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 
 ## Teiginiai
 
+<a id="claim-t-175076"></a>
 - t-001
+  global_id: t-175076
   teiginys: 'Dusburgietis teigia, kad semba, turtingiausia ir tirščiausiai gyvenama žemė, galėjo sutelkti keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių.'
   pagrindžia:
     - c-020
     - c-013
 
+<a id="claim-t-175077"></a>
 - t-002
+  global_id: t-175077
   teiginys: 'Dusburgietis teigia, kad apie Girmavos valsčiaus nuniokojimą Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium, nors šį bei tą reikia pasakyti.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-175078"></a>
 - t-003
+  global_id: t-175078
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašauta ši pergalė Šį sembų sutriuškinimą išpranašavo vienas prūsas, taip tvirtai nusakydamas Karaliaučiaus broliams ateitį, kad rodėsi, jog kažkokia dvasia jį skatinanti guldyti galvą už šiuos jo žodžius: švento Vincento.'
   pagrindžia:
     - c-029
 
+<a id="claim-t-175079"></a>
 - t-004
+  global_id: t-175079
   teiginys: 'Dusburgietis teigia, kad apie Rinavos valsčiaus sembų naują atskalūnybę Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės, sukurstė tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-175080"></a>
 - t-005
+  global_id: t-175080
   teiginys: 'Dusburgietis teigia, kad vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo.'
   pagrindžia:
     - c-022
 
+<a id="claim-t-175081"></a>
 - t-006
+  global_id: t-175081
   teiginys: 'Dusburgietis teigia, kad sembai pagavo vieną kunigą, Teutonų ordino brolį, atsiųstą jų krikštyti, ir, suspaudę jam kaklą dviem kartimis, tol kankino, kol šis numirė, tvirtindami, kad šitokia kankinių už tikėjimą mirtis ir prideranti šventiems vyrams, nes nedrįstą jų kraujo pralieti.'
   pagrindžia:
     - c-024
 
+<a id="claim-t-175082"></a>
 - t-007
+  global_id: t-175082
   teiginys: 'Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-175083"></a>
 - t-008
+  global_id: t-175083
   teiginys: 'Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygiavo su tūkstančiu Sembos vyrų ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link Medrabos pilies534, per kurią.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-175084"></a>
 - t-009
+  global_id: t-175084
   teiginys: 'Dusburgietis teigia, kad apie Bisenės papilių sudeginimą 1313 metais Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų, abu jos papiliai supleškėjo ugnyje.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-175085"></a>
 - t-010
+  global_id: t-175085
   teiginys: 'Dusburgietis teigia, kad šešta — Semba196, kurioje [gyveno] sembai.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-175086"></a>
 - t-011
+  global_id: t-175086
   teiginys: 'Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-175088"></a>
 - t-012
+  global_id: t-175088
   teiginys: 'Dusburgietis teigia, kad apie brolių ir sembų susitaikymą Šiais ir kitais smūgiais brolių bei kitų krikščionių rankomis viešpaties baudžiami sembai, nepajėgdami ilgiau priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė krikščionių tikėjimui.'
   pagrindžia:
     - c-026
@@ -96,82 +120,114 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-007
     - c-021
 
+<a id="claim-t-175089"></a>
 - t-013
+  global_id: t-175089
   teiginys: 'XI-XII a. danų šaltiniai rodo, kad kuršiai ir sembai protarpiais mokėjo duoklę danams.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-175090"></a>
 - t-014
+  global_id: t-175090
   teiginys: 'Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du.'
   pagrindžia:
     - c-025
 
+<a id="claim-t-175091"></a>
 - t-015
+  global_id: t-175091
   teiginys: '1274 m. sembai kartu su pagudėnais, varmiais, notangais ir bartais grįžo į Bažnyčios visuotinybę ir davė įkaitų.'
   pagrindžia:
     - c-023
 
+<a id="claim-t-175092"></a>
 - t-016
+  global_id: t-175092
   teiginys: 'Dusburgietis teigia, kad išaušus, kai krikščionių kariuomenė jau ketino užpulti kuorus, jie nerado čia nė vieno sembo, nes tie paliko kuorus, pasitraukė ir pastojo maldininkams kelią.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-175093"></a>
 - t-017
+  global_id: t-175093
   teiginys: 'Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčių sembai davė karaliui įkaitus ir prisiekė paklusti tikėjimui bei broliams.'
   pagrindžia:
     - c-026
 
+<a id="claim-t-175094"></a>
 - t-018
+  global_id: t-175094
   teiginys: '1260 m. Klaipėdoje sembai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-175095"></a>
 - t-019
+  global_id: t-175095
   teiginys: 'Dusburgietis teigia, kad kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-175096"></a>
 - t-020
+  global_id: t-175096
   teiginys: 'Po mūšio išlikę sembai kartu su kitais krikščionių kariais bėgo, nebegalėdami kovoti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-175097"></a>
 - t-021
+  global_id: t-175097
   teiginys: 'Dusburgietis teigia, kad apie daugybės maldininkų žūtį Tais pačiais metais į Prūsiją su didele kariuomene atžygiavo grafas iš Barbio368 ir įsibrovė į Sembos žemę.'
   pagrindžia:
     - c-028
 
+<a id="claim-t-175098"></a>
 - t-022
+  global_id: t-175098
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo vieno ten.'
   pagrindžia:
     - c-027
 
+<a id="claim-t-175099"></a>
 - t-023
+  global_id: t-175099
   teiginys: 'Dusburgietis teigia, kad apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių Nė šis smarkus sukrėtimas neįvarė sembams proto ir nepaskatino jų sugrįžti į šventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš viešpaties rykštę ir.'
   pagrindžia:
     - c-021
 
+<a id="claim-t-175100"></a>
 - t-024
+  global_id: t-175100
   teiginys: 'Sembos vardas šaltiniuose minimas formomis Semland, Samblandia, Zambia, Samia, Samplandia, Samlandia ir Sambia.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-175101"></a>
 - t-025
+  global_id: t-175101
   teiginys: 'Sembų ir lietuvių bendrų veiksmų galima įžiūrėti XIII a. šeštojo dešimtmečio Klaipėdos pilies apgultyje.'
   pagrindžia:
     - c-031
 
+<a id="claim-t-175103"></a>
 - t-027
+  global_id: t-175103
   teiginys: 'Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš metus įvyko Pokarvių kautynės.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-175104"></a>
 - t-028
+  global_id: t-175104
   teiginys: 'Prūsams vėl atkritus nuo tikėjimo, sembai savo kariuomenės vadu ir vyresniuoju išsirinko Glandą.'
   pagrindžia:
     - c-030
 
+<a id="claim-t-175105"></a>
 - t-029
+  global_id: t-175105
   teiginys: 'Dusburgietis teigia, kad apie daugybės pagudėnų išžudymą Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo.'
   pagrindžia:
     - c-012

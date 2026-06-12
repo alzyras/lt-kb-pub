@@ -18,7 +18,9 @@ Dalevskis, nurodydamas, kad rusai vakare iš kautynių vietos taip pat pasitrauk
 
 ## Teiginiai
 
+<a id="claim-t-40244"></a>
 - t-001
+  global_id: t-40244
   teiginys: 'K. Dalevskis tvirtino, kad sukilėliai mūšio nepralaimėjo, nes rusai vakare taip pat pasitraukė iš kautynių vietos.'
   pagrindžia:
     - c-001

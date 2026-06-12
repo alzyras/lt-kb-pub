@@ -18,7 +18,9 @@ Nutarta užimti gynybines pozicijas.
 
 ## Teiginiai
 
+<a id="claim-t-80631"></a>
 - t-001
+  global_id: t-80631
   teiginys: 'Nutarta užimti gynybines pozicijas.'
   pagrindžia:
     - c-001

@@ -18,12 +18,16 @@ Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą"
 
 ## Teiginiai
 
+<a id="claim-t-67373"></a>
 - t-001
+  global_id: t-67373
   teiginys: '„Draugija“ atsirado iš Šv. Kazimiero draugijos leisto „Nedėldienio Skaitymo“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67374"></a>
 - t-002
+  global_id: t-67374
   teiginys: 'Kaune išėjo pirmasis lietuviškas mokslo žurnalas „Draugija“, kurį leido prelatas A. Dambrauskas-Jakštas.'
   pagrindžia:
     - c-002

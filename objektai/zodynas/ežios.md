@@ -16,7 +16,9 @@ Visa žemė buvo išmatuota ir nustatytos aiškios ežios. ežios: tik bylos dė
 
 ## Teiginiai
 
+<a id="claim-t-70133"></a>
 - t-001
+  global_id: t-70133
   teiginys: 'Visa žemė buvo išmatuota ir nustatytos aiškios ežios.'
   pagrindžia:
     - c-001

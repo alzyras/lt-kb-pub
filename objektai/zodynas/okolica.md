@@ -17,7 +17,9 @@ Ypač tas ryškiai matyti, palyginus lietuviškąjį kaimą su greta esančiomis
 
 ## Teiginiai
 
+<a id="claim-t-03090"></a>
 - t-001
+  global_id: t-03090
   teiginys: 'Okolicos buvo sulenkėjusių bajorų gyvenvietės greta lietuviškų kaimų.'
   pagrindžia:
     - c-001

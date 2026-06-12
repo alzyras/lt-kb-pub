@@ -25,7 +25,9 @@ Milius (AkMD, t.
 
 ## Teiginiai
 
+<a id="claim-t-31040"></a>
 - t-001
+  global_id: t-31040
   teiginys: 'V. Milius pateikė duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir cechus XIX a. pabaigoje bei XX a. pradžioje.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
 
 ## Teiginiai
 
+<a id="claim-t-58715"></a>
 - t-001
+  global_id: t-58715
   teiginys: 'Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu karaliaus Rudolfo pirmagimis, grįždamas po pergalingo žygio prieš Savojos 598 Didžiuoju magistru buvo 1274—1283 m. ar 1273—1282 m. grafą, prigėrė Reine (Ptol.'
   pagrindžia:
     - c-001

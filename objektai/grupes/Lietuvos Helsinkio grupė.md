@@ -25,32 +25,44 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-74673"></a>
 - t-001
+  global_id: t-74673
   teiginys: 'Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė, poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptautinėmis grupėmis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74674"></a>
 - t-002
+  global_id: t-74674
   teiginys: 'Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė, poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74675"></a>
 - t-003
+  global_id: t-74675
   teiginys: '1976 susikuria Helsinkio grupė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-74676"></a>
 - t-004
+  global_id: t-74676
   teiginys: 'Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74677"></a>
 - t-005
+  global_id: t-74677
   teiginys: 'Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74678"></a>
 - t-006
+  global_id: t-74678
   teiginys: '1976 m. rudenį Vilniuje įsikūrė grupė, panaši į Maskvos Helsinkio grupę.'
   pagrindžia:
     - c-004

@@ -19,12 +19,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-39676"></a>
 - t-001
+  global_id: t-39676
   teiginys: 'Magistras Volkvinas su kariuomene žygiavo į lietuvių kraštą ir Saulės žemėje buvo lietuvių užmuštas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183770"></a>
 - t-002
+  global_id: t-183770
   teiginys: 'Magistras Volkvinas su kariuomene žygiavo į lietuvių kraštą ir pasiekė Saulės žemę.'
   pagrindžia:
     - c-002

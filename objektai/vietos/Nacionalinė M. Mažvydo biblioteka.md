@@ -18,12 +18,16 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
 
 ## Teiginiai
 
+<a id="claim-t-41953"></a>
 - t-001
+  global_id: t-41953
   teiginys: 'Dalis A. Pociaus vadovaujamų ginkluotų vyrų išsidėstė ant Nacionalinės M. Mažvydo bibliotekos stogo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41954"></a>
 - t-002
+  global_id: t-41954
   teiginys: 'Nacionalinėje M. Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicinos pagalbos punktas.'
   pagrindžia:
     - c-001

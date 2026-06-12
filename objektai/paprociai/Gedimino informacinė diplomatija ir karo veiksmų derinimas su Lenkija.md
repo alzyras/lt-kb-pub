@@ -42,17 +42,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67075"></a>
 - t-001
+  global_id: t-67075
   teiginys: 'Šiam tikslui jis pasitelkė ne tik karines, bet ir informacines priemones, savo laiškais popiežiui ir vakarų visuomenei gerindamas Lietuvos įvaizdį ir taip sumažindamas Vakarų Europos krikščionių teikiamą paramą kryžiuočiams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67076"></a>
 - t-002
+  global_id: t-67076
   teiginys: 'Gediminas pradėjo derinti karo veiksmus prieš kryžiuočius su Lenkija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67077"></a>
 - t-003
+  global_id: t-67077
   teiginys: 'Gediminas pasitelkė informacines priemones ir laiškais popiežiui bei vakarų visuomenei gerino Lietuvos įvaizdį.'
   pagrindžia:
     - c-001

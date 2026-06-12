@@ -16,7 +16,9 @@ Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė 
 
 ## Teiginiai
 
+<a id="claim-t-19812"></a>
 - t-001
+  global_id: t-19812
   teiginys: '1941 m. gruodį naciai uždarė iš voldemarininkų susidariusią Lietuvių nacionalistų partiją.'
   pagrindžia:
     - c-001

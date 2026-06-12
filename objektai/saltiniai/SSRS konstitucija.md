@@ -23,12 +23,16 @@ Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U 
 
 ## Teiginiai
 
+<a id="claim-t-67533"></a>
 - t-001
+  global_id: t-67533
   teiginys: 'Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galiojimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183383"></a>
 - t-002
+  global_id: t-183383
   teiginys: 'Maskva grasino Lietuvai teritorinėmis priemonėmis, jeigu ji nesilaikys SSRS konstitucijos.'
   pagrindžia:
     - c-002

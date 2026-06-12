@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77930"></a>
 - t-001
+  global_id: t-77930
   teiginys: 'Gediminaičių dinastijai priklausė žymiausi, labai svarbų istorinį vaidmenį suvaidinę Lietuvos didieji Gediminas stato Vilniaus pilį.'
   pagrindžia:
     - c-001

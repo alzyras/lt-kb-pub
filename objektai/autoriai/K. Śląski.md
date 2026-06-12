@@ -24,7 +24,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-30753"></a>
 - t-001
+  global_id: t-30753
   teiginys: 'K. Śląski 1963 m. paskelbė darbą apie prūsų santykius su kitomis Pabaltijo tautomis VII–XII amžiuje.'
   pagrindžia:
     - c-001

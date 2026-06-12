@@ -17,7 +17,9 @@ Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šauki
 
 ## Teiginiai
 
+<a id="claim-t-168152"></a>
 - t-001
+  global_id: t-168152
   teiginys: 'Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvykdavo karūnacija.'
   pagrindžia:
     - c-001

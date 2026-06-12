@@ -18,12 +18,16 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 
 ## Teiginiai
 
+<a id="claim-t-18758"></a>
 - t-001
+  global_id: t-18758
   teiginys: 'Adomas Jurgis Čartoriskis buvo priverstas atsistatydinti iš globėjo posto.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-18759"></a>
 - t-002
+  global_id: t-18759
   teiginys: 'Adomui Jurgiui Čartoriskiui jo globojama apygarda buvo plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę Rusijos imperijos globoje parengiamoji grandis.'
   pagrindžia:
     - c-001

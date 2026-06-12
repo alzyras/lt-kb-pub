@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59435"></a>
 - t-001
+  global_id: t-59435
   teiginys: 'Dusburgietis teigia, kad apie Vengrijos ir Lenkijos nusiaubimą Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59436"></a>
 - t-002
+  global_id: t-59436
   teiginys: '1241 m. totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką ir nuniokojo tas šalis.'
   pagrindžia:
     - c-001

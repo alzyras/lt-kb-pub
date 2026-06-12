@@ -13,67 +13,74 @@ tags:
   - asmuo
   - pilis
 ---
-
 # Birutė
 
 ## Santrauka
 
 Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo Žemaičių bajoro Vydimanto duktė; kitame šaltinyje ji siejama su nužudymu Brastoje.
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/daiktai/Aukuras]]
-- [[objektai/autoriai/Józef Wolff]]
-- [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
-- [[objektai/grupes/Tauro apygarda]]
-- [[objektai/zodynas/vaidilutė]]
-- [[objektai/asmenys/Vydimantas]]
-
 ## Teiginiai
 
+<a id="claim-t-176313"></a>
 - t-001
+  global_id: t-176313
   teiginys: 'Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176314"></a>
 - t-002
+  global_id: t-176314
   teiginys: 'Birutė iš jų bus išmokęs skaityti ir rašyti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176315"></a>
 - t-003
+  global_id: t-176315
   teiginys: 'Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-176317"></a>
 - t-004
+  global_id: t-176317
   teiginys: 'Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo –.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-176318"></a>
 - t-005
+  global_id: t-176318
   teiginys: 'Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-176319"></a>
 - t-006
+  global_id: t-176319
   teiginys: 'Dusburgietis teigia, kad lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė, kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-176321"></a>
 - t-007
+  global_id: t-176321
   teiginys: 'Kunigaikštienės Birutės paskandinimo aplinkybės, kaip ir Kęstučio mirtis, šaltinyje vadinamos neaiškiomis.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184675"></a>
 - t-008
-  teiginys: 'Kojelavičius teigia, kad kęstutis, sugrįžęs į Lietuvą, kur paėmė į žmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve nimu, nors labai norėjo užmiršti savo vargus.'
+  global_id: t-184675
+  teiginys: 'Kęstutis, sugrįžęs į Lietuvą, paėmė į žmonas vaidilutę Birutę.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-184676"></a>
 - t-009
-  teiginys: 'Kojelavičius teigia, kad vytautas, iš draugų apie viską sužinojęs, spėjo su pamote Birute pasitraukti į Gardiną.'
+  global_id: t-184676
+  teiginys: 'Vytautas, sužinojęs apie Jogailos žygį į Trakus, su pamote Birute pasitraukė į Gardiną.'
   pagrindžia:
     - c-008
 
@@ -205,7 +212,7 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
     - t-007
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad kęstutis, sugrįžęs į Lietuvą, kur paėmė į žmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve nimu, nors labai norėjo užmiršti savo vargus.'
+  santrauka: 'Kęstutis, sugrįžęs į Lietuvą, paėmė į žmonas vaidilutę Birutę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu lietuviai, išsaugoję likusius
@@ -226,7 +233,7 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
     - t-008
 
 - c-008
-  santrauka: 'Kojelavičius teigia, kad vytautas, iš draugų apie viską sužinojęs, spėjo su pamote Birute pasitraukti į Gardiną.'
+  santrauka: 'Vytautas, sužinojęs apie Jogailos žygį į Trakus, su pamote Birute pasitraukė į Gardiną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo būdu
@@ -248,3 +255,34 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   statusas: verified
   pagrindžia:
     - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Aukuras]]
+- [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
+- [[objektai/grupes/Tauro apygarda]]
+- [[objektai/zodynas/vaidilutė]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Leopoldas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vydimantas]]
+- [[objektai/asmenys/Vygandas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/žygūnai]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas]]
+- [[objektai/ivykiai/Dubysos paliaubų sudarymas (1382 m. lapkričio pradžia)]]
+- [[objektai/autoriai/Józef Wolff]]
+- [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje]]
+- [[objektai/grupes/Lietuvos partizanų Vyriausioji vadovybė]]
+- [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]
+- [[objektai/zodynas/Paliaubos induciae]]
+- [[objektai/asmenys/Patirgas]]
+- [[objektai/autoriai/Vygandas Marburgietis]]

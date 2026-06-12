@@ -19,17 +19,23 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 
 ## Teiginiai
 
+<a id="claim-t-22197"></a>
 - t-001
+  global_id: t-22197
   teiginys: 'Lietuvos „karaliaus“ Netimero krikštas 1009 m. minimas greta kitų Europos christianizacijos įvykių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-22198"></a>
 - t-002
+  global_id: t-22198
   teiginys: 'Vytauto bažnytinė politika siekė Lietuvos konversijos ir „švento valdovo“ įvaizdžio.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183438"></a>
 - t-003
+  global_id: t-183438
   teiginys: 'Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, siejamą su Žemaičių krikštu.'
   pagrindžia:
     - c-003

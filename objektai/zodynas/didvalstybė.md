@@ -23,17 +23,23 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
 
 ## Teiginiai
 
+<a id="claim-t-22118"></a>
 - t-001
+  global_id: t-22118
   teiginys: 'Pagoniška Lietuva pamažu virto visam regionui reikšminga jėga arba didvalstybe.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-22119"></a>
 - t-002
+  global_id: t-22119
   teiginys: 'Valdant Ldk Algirdui 1345–1377 m., Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183414"></a>
 - t-003
+  global_id: t-183414
   teiginys: 'Valdant Ldk Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia savo teritoriją nuo Baltijos iki Juodosios jūros.'
   pagrindžia:
     - c-003

@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-34936"></a>
 - t-001
+  global_id: t-34936
   teiginys: 'Šekspyro „Venecijos pirklį“ J. Talmantas išvertė tiesiog iš originalo; leidimas turėjo iliustracijų ir komentarų.'
   pagrindžia:
     - c-001

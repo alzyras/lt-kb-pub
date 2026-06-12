@@ -31,32 +31,44 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
 
 ## Teiginiai
 
+<a id="claim-t-105591"></a>
 - t-001
+  global_id: t-105591
   teiginys: 'Martynas Smigleckis, nagrinėdamas monopolio puses, Vilnių pateikė kaip stiklo prekių pavyzdį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-105592"></a>
 - t-002
+  global_id: t-105592
   teiginys: 'Martynas Smigleckis parašė veikalą apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir privačią prekybą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-105593"></a>
 - t-003
+  global_id: t-105593
   teiginys: 'Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui, Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-105594"></a>
 - t-004
+  global_id: t-105594
   teiginys: 'Martyno Smigleckio 1618 m. „Logika“ pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-105595"></a>
 - t-005
+  global_id: t-105595
   teiginys: 'Martynas Smigleckis buvo knygos „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ autorius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-105596"></a>
 - t-006
+  global_id: t-105596
   teiginys: 'Martynas Smigleckis teigė, kad neteisinga respublikoje neleisti privačios prekybos dėl didesnio prekių ištekliaus mieste.'
   pagrindžia:
     - c-002

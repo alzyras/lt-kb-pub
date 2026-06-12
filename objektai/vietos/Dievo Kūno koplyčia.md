@@ -32,22 +32,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-85885"></a>
 - t-001
+  global_id: t-85885
   teiginys: 'Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyręs daug lėšų, ją išpuošė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85886"></a>
 - t-002
+  global_id: t-85886
   teiginys: '1610 m. Vilniaus kanauninkas Vilčiopolskis užrašė mūrinį namą su sklypu Akademijos kolegijai, 25 metų činšą skirdamas Dievo Kūno koplyčiai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85887"></a>
 - t-003
+  global_id: t-85887
   teiginys: 'Dievo Kūno koplyčios ankstyvieji dokumentai buvo prarasti 1660 m. maskvėnų užėmimo ir 1737 m. gaisro metu.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-85889"></a>
 - t-005
+  global_id: t-85889
   teiginys: 'Tos Dievo koplyčios pajamas sudarė jai skirtas mokestis nuo įvairių mūrinių namų, renkamas iš vietos didikų, ''''bet dėl pradangintų dokumentų pajamų dydis nėra žinomas; tačiau kai kurie mūriniai namai ir dabar prie tos koplyčios priklauso; jais disponuoja.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Miechovita, Bielskis, o ypač Strijkovskis savo metraščiuose, su­ pykę už k
 
 ## Teiginiai
 
+<a id="claim-t-88410"></a>
 - t-001
+  global_id: t-88410
   teiginys: 'Bielskio metraščiuose Aleksandras Balinskis minėtas dėl karaliaus Aleksandro gydymo Vilniuje, kai šis vos neužduso žolių garo vonioje.'
   pagrindžia:
     - c-001

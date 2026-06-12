@@ -17,12 +17,16 @@ Visos teisės, kurias turėjo iždininkai, buvo pavestos iždo komisijai, o hetm
 
 ## Teiginiai
 
+<a id="claim-t-01347"></a>
 - t-001
+  global_id: t-01347
   teiginys: 'Čartoriskių įsteigtos karo ir iždo komisijos buvo paliktos kaip vykdomieji organai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01348"></a>
 - t-002
+  global_id: t-01348
   teiginys: 'Visos teisės, kurias turėjo iždininkai, buvo pavestos iždo komisijai, o hetmonų turėtosios teisės atiteko karo komisijai.'
   pagrindžia:
     - c-002

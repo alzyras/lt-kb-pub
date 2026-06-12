@@ -20,17 +20,23 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
 
 ## Teiginiai
 
+<a id="claim-t-93750"></a>
 - t-001
+  global_id: t-93750
   teiginys: 'Pagaliau 1572 m. (liepos 7 d.) mirė Zigmantas Augustas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-93754"></a>
 - t-002
+  global_id: t-93754
   teiginys: 'Augusto laikai Lietuvoje buvo labai reikšmingi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-93758"></a>
 - t-003
+  global_id: t-93758
   teiginys: 'Kai kurių nuomone, naujų žemių suskirstymas ir žmonių įkurdinimas sodžiais padėjo susidaryti vėlesnei Zigmanto Augusto valakų sistemai.'
   pagrindžia:
     - c-001

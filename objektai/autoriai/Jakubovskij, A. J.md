@@ -25,12 +25,16 @@ Grekov, B. D. i Jakubov ­ skij, A. J. : Zolotaja Orda i ee padenije, Moskva-Len
 
 ## Teiginiai
 
+<a id="claim-t-54121"></a>
 - t-001
+  global_id: t-54121
   teiginys: 'A. J. Jakubovskij su B. D. Grekovu 1950 m. Maskvoje-Leningrade išleido veikalą „Zolotaja Orda i ee padenije“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54122"></a>
 - t-002
+  global_id: t-54122
   teiginys: 'A. J. Jakubovskij su B. D. Grekovu parašė veikalą „Zolotaja Orda i ee padenije“, išleistą Maskvoje ir Leningrade 1950 m.'
   pagrindžia:
     - c-001

@@ -43,34 +43,46 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 
 ## Teiginiai
 
+<a id="claim-t-05588"></a>
 - t-001
+  global_id: t-05588
   teiginys: 'Mindaugo apostazijos klausimas šaltinyje pateikiamas kaip viena pagrindinių problemų.'
   pagrindžia:
     - c-001
     - c-004
 
+<a id="claim-t-05589"></a>
 - t-002
+  global_id: t-05589
   teiginys: 'Pagrindinės kronikos įsakmiai pažymi Mindaugo apostaziją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05590"></a>
 - t-003
+  global_id: t-05590
   teiginys: 'Apostazija šiame tekste reiškia Mindaugo atkritimą nuo krikščionybės.'
   pagrindžia:
     - c-005
     - c-002
 
+<a id="claim-t-05591"></a>
 - t-004
+  global_id: t-05591
   teiginys: 'Mindaugo apostazijos klausimas siejamas su ginču, ar Mindaugas po Žemaičių laimėjimo prie Durbės atsimetė nuo krikščionybės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05592"></a>
 - t-005
+  global_id: t-05592
   teiginys: 'Naujakrikštų valdovų apostazijos buvo žinomos ir kitose tautose, kai valdovų nuovoka apie naująjį tikėjimą dar būdavo grubi.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-97278"></a>
 - t-006
+  global_id: t-97278
   teiginys: 'J. Stakauskas pripažino, kad nuomonė apie Mindaugo apostaziją po Durbės mūšio turi tam tikro pagrindo.'
   pagrindžia:
     - c-001
@@ -203,3 +215,4 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - [[objektai/zodynas/erezija]]
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/posakiai/„šviesaus atminimo valdovu“]]
+- [[objektai/ivykiai/Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.)]]

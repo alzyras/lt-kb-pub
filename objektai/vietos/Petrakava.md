@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02671"></a>
 - t-001
+  global_id: t-02671
   teiginys: '1453 m. Petrakavos seime karalius buvo priverstas patvirtinti lenkų privilegijas.'
   pagrindžia:
     - c-001

@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-80760"></a>
 - t-001
+  global_id: t-80760
   teiginys: '(SSRS pasienio kariuomenė.'
   pagrindžia:
     - c-001

@@ -44,12 +44,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-78680"></a>
 - t-001
+  global_id: t-78680
   teiginys: '1959 m. sovietų ginkluotosios pajėgos pradėjo naudoti modernizuotą (palengvintą ir supaprastintos konstrukcijos) AK-47 versiją - AKM.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78681"></a>
 - t-002
+  global_id: t-78681
   teiginys: 'Kalašnikovo konstrukcijos automatinis šautuvas pasižymėjo paprasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba, tai leido sovietams šių ginklų pagaminti labai daug ir jie plačiai paplito po visą pasaulį.'
   pagrindžia:
     - c-001

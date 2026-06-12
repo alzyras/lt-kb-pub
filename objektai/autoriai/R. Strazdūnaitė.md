@@ -24,7 +24,9 @@ Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a.
 
 ## Teiginiai
 
+<a id="claim-t-30942"></a>
 - t-001
+  global_id: t-30942
   teiginys: 'R. Strazdūnaitė paskelbė darbą „Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje“.'
   pagrindžia:
     - c-001

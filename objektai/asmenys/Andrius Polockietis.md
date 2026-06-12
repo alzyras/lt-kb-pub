@@ -27,17 +27,23 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
 
 ## Teiginiai
 
+<a id="claim-t-30206"></a>
 - t-001
+  global_id: t-30206
   teiginys: 'Andrius Polockietis su Livonijos magistru buvo sudaręs vasalinę sutartį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-30207"></a>
 - t-002
+  global_id: t-30207
   teiginys: 'Skirgaila, sėkmingai apgulęs Polocką, paėmė Andrių Polockietį į nelaisvę ir išsiuntė į Lenkiją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-30208"></a>
 - t-003
+  global_id: t-30208
   teiginys: 'Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.'
   pagrindžia:
     - c-003

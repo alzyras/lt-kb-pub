@@ -23,12 +23,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-67362"></a>
 - t-001
+  global_id: t-67362
   teiginys: '„Codex Diplomaticus Prussicus“ 3-6 tomus, apimančius 1299-1404 m., J. Voigtas išleido Karaliaučiuje 1848-1861 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67363"></a>
 - t-002
+  global_id: t-67363
   teiginys: '„Codex Diplomaticus Prussicus“ I tomas išleistas Karaliaučiuje 1836 m.'
   pagrindžia:
     - c-001

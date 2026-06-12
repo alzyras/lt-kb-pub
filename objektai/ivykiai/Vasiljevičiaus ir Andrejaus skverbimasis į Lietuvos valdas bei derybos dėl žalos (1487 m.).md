@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Vasiljevičiaus ir Andrejaus skverbimasis į Lietuvos valdas bei derybos dėl žalos (1487 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad jis ir pats atė mė iš Krošino kunigaikščių, Kęstučio sūnaus Vygando palikuonių, geroką krašto dalį, ir stengėsi nuslėpti savo brolio Andrejaus, Možaisko 1487 metai kunigaikščio, įsibrovimą į Siaubia L ie tu v o s v a iViazmos žemę, nekalbant jau d a s apie.
+1487 m. Vasiljevičius atėmė iš Krošino kunigaikščių dalį krašto ir slėpė brolio Andrejaus įsibrovimą į Viazmos žemę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185652"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad jis ir pats atė mė iš Krošino kunigaikščių, Kęstučio sūnaus Vygando palikuonių, geroką krašto dalį, ir stengėsi nuslėpti savo brolio Andrejaus, Možaisko 1487 metai kunigaikščio, įsibrovimą į Siaubia L ie tu v o s v a iViazmos žemę, nekalbant jau d a s apie.'
+  global_id: t-185652
+  teiginys: '1487 m. Vasiljevičius atėmė iš Krošino kunigaikščių dalį krašto ir slėpė brolio Andrejaus įsibrovimą į Viazmos žemę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad jis ir pats atė mė iš Krošino kunigaikščių, Kęstučio sūnaus Vygando palikuonių, geroką krašto dalį, ir stengėsi nuslėpti savo brolio Andrejaus, Možaisko 1487 metai kunigaikščio, įsibrovimą į Siaubia L ie tu v o s v a iViazmos žemę, nekalbant jau d a s apie.'
+  santrauka: '1487 m. Vasiljevičius atėmė iš Krošino kunigaikščių dalį krašto ir slėpė brolio Andrejaus įsibrovimą į Viazmos žemę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     To­
@@ -66,3 +67,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
+- [[objektai/asmenys/Vygandas]]
+- [[objektai/zodynas/kunigaikščiai]]

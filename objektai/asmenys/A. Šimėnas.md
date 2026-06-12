@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-39986"></a>
 - t-001
+  global_id: t-39986
   teiginys: 'A. Šimėnui buvo siūloma pasitraukti į pogrindį ir palaukti kelias dienas.'
   pagrindžia:
     - c-001

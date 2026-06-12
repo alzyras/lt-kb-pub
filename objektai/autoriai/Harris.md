@@ -16,7 +16,9 @@ Gardinas, dar vadintas Gartena, Traid) Harris, Voyages.
 
 ## Teiginiai
 
+<a id="claim-t-88059"></a>
 - t-001
+  global_id: t-88059
   teiginys: 'Gardinas, dar vadintas Gartena, Traid) Harris, Voyages.'
   pagrindžia:
     - c-001

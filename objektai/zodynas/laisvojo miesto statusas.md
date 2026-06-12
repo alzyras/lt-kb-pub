@@ -17,12 +17,16 @@ Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti
 
 ## Teiginiai
 
+<a id="claim-t-22205"></a>
 - t-001
+  global_id: t-22205
   teiginys: 'Britai siūlė Lietuvai už prarastą Vilnių gauti Klaipėdą, bet vėliau palaikė Klaipėdos „laisvojo miesto“ statusą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183441"></a>
 - t-002
+  global_id: t-183441
   teiginys: 'Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.'
   pagrindžia:
     - c-002

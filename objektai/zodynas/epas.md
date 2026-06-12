@@ -17,12 +17,16 @@ Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.
 
 ## Teiginiai
 
+<a id="claim-t-22132"></a>
 - t-001
+  global_id: t-22132
   teiginys: 'Epas yra pasakojimai apie dievus, pusdievius ir didvyrius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183420"></a>
 - t-002
+  global_id: t-183420
   teiginys: 'Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.'
   pagrindžia:
     - c-002

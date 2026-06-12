@@ -19,12 +19,16 @@ Kadangi jis buvo Lenkijos karaliaus lenininkas, tai negalėjo labai varžyti Lie
 
 ## Teiginiai
 
+<a id="claim-t-70207"></a>
 - t-001
+  global_id: t-70207
   teiginys: 'Kadangi jis buvo Lenkijos karaliaus lenininkas, tai negalėjo labai varžyti Lietuvos prekybos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70208"></a>
 - t-002
+  global_id: t-70208
   teiginys: 'Po karų prekyba Nemunu dar labiau pasunkėjo, nes Prūsų kunigaikštis, atsipalaidavęs nuo leninės priklausomybės (1660 m.), muitų tvarkyme jau nebepriklausė karaliaus.'
   pagrindžia:
     - c-001

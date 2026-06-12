@@ -27,12 +27,16 @@ Mūšyje žuvo keliasdešimt (kartais nurodoma net 74) žymių Lietuvos kunigaik
 
 ## Teiginiai
 
+<a id="claim-t-39507"></a>
 - t-001
+  global_id: t-39507
   teiginys: 'Dimitrijus (Voluinietis Karijotaitis) buvo tarp mūšyje žuvusių žymių Lietuvos kunigaikščių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183732"></a>
 - t-002
+  global_id: t-183732
   teiginys: 'Mūšyje žuvo keliasdešimt (kartais nurodoma net 74) žymių Lietuvos kunigaikščių: Andrius Algirdaitis Polockietis, Dmitrijus Algirdaitis Brenskietis, Dimitrijus (Voluinietis Karijotaitis), (LDK karo vadai, vadovavę ir 1380 m. Kulikovo mūšyje sumušant Aukso.'
   pagrindžia:
     - c-001

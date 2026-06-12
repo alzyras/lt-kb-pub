@@ -23,7 +23,9 @@ Lietuvos Seimo istorija: XX–XXI a.
 
 ## Teiginiai
 
+<a id="claim-t-78154"></a>
 - t-001
+  global_id: t-78154
   teiginys: 'Lietuvos Seimo istorija: XX–XXI a.'
   pagrindžia:
     - c-001

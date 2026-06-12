@@ -29,7 +29,9 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
 
 ## Teiginiai
 
+<a id="claim-t-30320"></a>
 - t-001
+  global_id: t-30320
   teiginys: 'Jurgį Sviatoslovaitį savo globon buvo paėmusi Riazanė, kurią iš Smolensko puolė Vytautas.'
   pagrindžia:
     - c-001

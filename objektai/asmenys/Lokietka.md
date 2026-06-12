@@ -25,7 +25,9 @@ Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą Aldoną Oną su Lo
 
 ## Teiginiai
 
+<a id="claim-t-40309"></a>
 - t-001
+  global_id: t-40309
   teiginys: '1325 m. Lokietkos sūnus Kazimieras vedė Gedimino dukrą Aldoną Oną, taip stiprindamas Gedimino suartėjimą su Lenkija.'
   pagrindžia:
     - c-001
@@ -52,4 +54,5 @@ Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą Aldoną Oną su Lo
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/asmenys/Vladislovas Lokietka]]
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija (1325 m.)]]

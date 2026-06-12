@@ -28,7 +28,9 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
 
 ## Teiginiai
 
+<a id="claim-t-60710"></a>
 - t-001
+  global_id: t-60710
   teiginys: 'Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo pilį 1280 m. (Schmid B., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje Malborka, р.'
   pagrindžia:
     - c-001

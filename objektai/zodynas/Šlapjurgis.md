@@ -23,7 +23,9 @@ Vartojamos formos: `šlapjurgiui`.
 
 ## Teiginiai
 
+<a id="claim-t-07641"></a>
 - t-001
+  global_id: t-07641
   teiginys: 'Šlapjurgis reiškia oro būseną, kai drėgmė ir šaltis stingdo drabužius.'
   pagrindžia:
     - c-001

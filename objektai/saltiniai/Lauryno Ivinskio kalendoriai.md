@@ -16,7 +16,9 @@ Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
 
 ## Teiginiai
 
+<a id="claim-t-88438"></a>
 - t-001
+  global_id: t-88438
   teiginys: 'M. Balinskis Gazeta Warszawska straipsniuose skaitytojams pristatė Lauryno Ivinskio kalendorius.'
   pagrindžia:
     - c-001

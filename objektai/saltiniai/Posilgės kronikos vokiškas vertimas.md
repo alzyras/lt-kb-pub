@@ -16,7 +16,9 @@ Dusburgietis teigia, kad pradžios lotyniškuose Torunės analuose — Ragniten,
 
 ## Teiginiai
 
+<a id="claim-t-61235"></a>
 - t-001
+  global_id: t-61235
   teiginys: 'Posilgės kronikos vokiškame vertime vartojama vietovardžio forma „Rangnith“, perimta iš lotyniškų Torunės analų.'
   pagrindžia:
     - c-001

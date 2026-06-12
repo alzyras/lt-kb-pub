@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Ivano Vasiljevičiaus laiškas Aleksandrui su titulu „visos Rusios caras“
 
 ## Santrauka
 
-Kojelavičius teigia, kad pastatęs Lip a siv a d in a v is o s Ruvonijos pasienyje prie Nar sios caru vos garsią pilį, nuo jo vardo jusią būti savotišku raktu į Livoniją bei suomių žemes, jis pradėjo svajoti apie viešpatavimą visoje Rusioje.
+Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios caru.
 
 ## Teiginiai
 
+<a id="claim-t-186331"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pastatęs Lip a siv a d in a v is o s Ruvonijos pasienyje prie Nar sios caru vos garsią pilį, nuo jo vardo jusią būti savotišku raktu į Livoniją bei suomių žemes, jis pradėjo svajoti apie viešpatavimą visoje Rusioje.'
+  global_id: t-186331
+  teiginys: 'Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios caru.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pastatęs Lip a siv a d in a v is o s Ruvonijos pasienyje prie Nar sios caru vos garsią pilį, nuo jo vardo jusią būti savotišku raktu į Livoniją bei suomių žemes, jis pradėjo svajoti apie viešpatavimą visoje Rusioje.'
+  santrauka: 'Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios caru.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pastatęs Li-

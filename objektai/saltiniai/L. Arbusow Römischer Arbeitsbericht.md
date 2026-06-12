@@ -22,7 +22,9 @@ Arbusow : Römischer Arbeitsbericht (Acta Universitatis Latviensis) 1928, 386 p.
 
 ## Teiginiai
 
+<a id="claim-t-31780"></a>
 - t-001
+  global_id: t-31780
   teiginys: 'L. Arbusowo „Römischer Arbeitsbericht“ 1928 m. išėjo „Acta Universitatis Latviensis“ leidinyje.'
   pagrindžia:
     - c-001

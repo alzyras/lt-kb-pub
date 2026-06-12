@@ -24,12 +24,16 @@ Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmą
 
 ## Teiginiai
 
+<a id="claim-t-75512"></a>
 - t-001
+  global_id: t-75512
   teiginys: 'Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalba (žemaičių tarme), poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis manifestas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75513"></a>
 - t-002
+  global_id: t-75513
   teiginys: 'Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais.'
   pagrindžia:
     - c-001

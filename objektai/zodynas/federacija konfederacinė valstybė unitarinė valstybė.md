@@ -19,7 +19,9 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
 
 ## Teiginiai
 
+<a id="claim-t-22144"></a>
 - t-001
+  global_id: t-22144
   teiginys: 'LDK turėjo atskirą valstybės titulą, teritoriją, vykdomąją valdžią, iždą, kariuomenę, teismus ir teisinę sistemą.'
   pagrindžia:
     - c-001

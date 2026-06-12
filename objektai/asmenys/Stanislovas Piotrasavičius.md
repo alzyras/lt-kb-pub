@@ -17,7 +17,9 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
 
 ## Teiginiai
 
+<a id="claim-t-87861"></a>
 - t-001
+  global_id: t-87861
   teiginys: 'Stanislovas Piotrasavičius buvo parapijoje gyvenęs bajoras, kuriam buvo privaloma mokėti dešimtinę.'
   pagrindžia:
     - c-001

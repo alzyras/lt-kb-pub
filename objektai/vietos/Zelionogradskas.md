@@ -16,7 +16,9 @@ Dusburgietis teigia, kad baiga) Vurungenas Zalca Zalfeldas Zangershauzenas Zelio
 
 ## Teiginiai
 
+<a id="claim-t-58751"></a>
 - t-001
+  global_id: t-58751
   teiginys: 'Zelionogradskas anksčiau vadintas Kranzu, lietuviškai - Krantu.'
   pagrindžia:
     - c-001

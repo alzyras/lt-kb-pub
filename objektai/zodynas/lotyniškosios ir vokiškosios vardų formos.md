@@ -17,7 +17,9 @@ Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos 
 
 ## Teiginiai
 
+<a id="claim-t-58914"></a>
 - t-001
+  global_id: t-58914
   teiginys: 'Lotyniškosios ir vokiškosios vardų formos rodyklėse dažniausiai pateikiamos tuo linksniu, kuriuo užrašytos šaltiniuose.'
   pagrindžia:
     - c-001

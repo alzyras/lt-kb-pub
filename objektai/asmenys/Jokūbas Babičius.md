@@ -28,7 +28,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87707"></a>
 - t-001
+  global_id: t-87707
   teiginys: 'Jokūbas Babičius 1525 m. Vilniuje veikusioje spaustuvėje spausdino slaviškas knygas.'
   pagrindžia:
     - c-001

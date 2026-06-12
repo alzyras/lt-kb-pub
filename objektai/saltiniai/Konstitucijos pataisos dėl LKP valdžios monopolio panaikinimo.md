@@ -19,7 +19,9 @@ Jau tų metų kovą vykusius rinkimus į SSRS Aukščiausiąją Tarybą triuški
 
 ## Teiginiai
 
+<a id="claim-t-21083"></a>
 - t-001
+  global_id: t-21083
   teiginys: '1989 m. gruodžio 7 d. konstitucijos pataisos panaikino LKP valdžios monopolį valstybėje ir visuomenėje.'
   pagrindžia:
     - c-001

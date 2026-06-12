@@ -28,23 +28,31 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
 
 ## Teiginiai
 
+<a id="claim-t-82662"></a>
 - t-001
+  global_id: t-82662
   teiginys: 'Simonas Lengvenis citatoje vadinamas Lietuvos kunigaikščiu, Algirdo sūnumi ir Rusios bei Ladogos kunigaikščiu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82663"></a>
 - t-002
+  global_id: t-82663
   teiginys: 'Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82664"></a>
 - t-003
+  global_id: t-82664
   teiginys: 'Simonas Lengvenis, Algirdo sūnus, po Patriko tapo Didžiojo Naugardo valdovu arba vaivada.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184825"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad kad nuo tos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas Švitrigaila su nemaža įgula pasiliko Polocke, kitą ka riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į Severską — Dimitras Kaributas.'
+  global_id: t-184825
+  teiginys: 'Paleidus kariuomenę Simonas Lengvenis grįžo į Mstislavlį.'
   pagrindžia:
     - c-004
 
@@ -121,7 +129,7 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
     - t-004
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad kad nuo tos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas Švitrigaila su nemaža įgula pasiliko Polocke, kitą ka riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į Severską — Dimitras Kaributas.'
+  santrauka: 'Paleidus kariuomenę Simonas Lengvenis grįžo į Mstislavlį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po šios per­
@@ -144,3 +152,20 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   statusas: verified
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę]]
+- [[objektai/asmenys/Lengvenis]]
+- [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Patrikas, arba Patricijus]]

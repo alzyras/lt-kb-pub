@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87284"></a>
 - t-001
+  global_id: t-87284
   teiginys: 'Spaustuvė kas savaitę privalėjo skirti alaus, po 8 kepalus duonos 8 asmenims ir valgį iš kolegijos virtuvės.'
   pagrindžia:
     - c-001

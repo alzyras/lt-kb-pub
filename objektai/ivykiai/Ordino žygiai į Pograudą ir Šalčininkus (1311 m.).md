@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31462"></a>
 - t-001
+  global_id: t-31462
   teiginys: '1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkes, žudė žmones, ėmė belaisvius ir naikino ugnimi bei plėšimais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-31463"></a>
 - t-002
+  global_id: t-31463
   teiginys: '1311 m. didysis Ordino komtūras pasiekė Šalčininkus, sunaikino tris pilis ir grįžo su dideliu grobiu bei 700 belaisvių.'
   pagrindžia:
     - c-002

@@ -19,17 +19,23 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 
 ## Teiginiai
 
+<a id="claim-t-22248"></a>
 - t-001
+  global_id: t-22248
   teiginys: 'Lenkų kalba LDK tapo bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-22249"></a>
 - t-002
+  global_id: t-22249
   teiginys: 'Seime lenkų kalba Lietuvos bajorų reikalavimu įteisinta kaip oficiali raštinių kalba vietoje anksčiau vartotos rusėnų raštų kalbos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-22250"></a>
 - t-003
+  global_id: t-22250
   teiginys: 'Vyriausybei leidus steigti 70 lenkiškų mokyklų, kaltinimai polonizacija buvo siejami su pavojumi tautai dėl įtemptų Lietuvos ir Lenkijos santykių.'
   pagrindžia:
     - c-003

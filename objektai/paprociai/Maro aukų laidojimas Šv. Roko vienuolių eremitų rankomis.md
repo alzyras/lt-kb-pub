@@ -31,12 +31,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01991"></a>
 - t-001
+  global_id: t-01991
   teiginys: 'Maro aukas daugiausia laidojo Šv. Roko vienuoliai eremitai, nors dauguma jų buvo išbėgioję.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01992"></a>
 - t-002
+  global_id: t-01992
   teiginys: 'Vienas Šv. Roko vienuolis eremitas nuo 1708 m. liepos iki 1709 m. Velykų palaidojo 22 862 lavonus.'
   pagrindžia:
     - c-001

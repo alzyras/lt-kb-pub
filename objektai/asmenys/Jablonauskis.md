@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-39747"></a>
 - t-001
+  global_id: t-39747
   teiginys: 'Vadas Jablonauskis sušaukė karius, pranešė apie „kirilo“ atsitraukimą ir liepė jiems dainuoti.'
   pagrindžia:
     - c-001

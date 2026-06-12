@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Dimitras sultanas
 
 ## Santrauka
 
-Kojelavičius teigia, kad didžiulę į tris dalis padalytą kariuomenę vedė trys kunigaikščiai: Kutlubugas sultanas, Chadžibėjus Girėjus ir Dimitras sultanas.
+Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikščių, vadovavusių padalytai priešo kariuomenei.
 
 ## Teiginiai
 
+<a id="claim-t-186196"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad didžiulę į tris dalis padalytą kariuomenę vedė trys kunigaikščiai: Kutlubugas sultanas, Chadžibėjus Girėjus ir Dimitras sultanas.'
+  global_id: t-186196
+  teiginys: 'Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikščių, vadovavusių padalytai priešo kariuomenei.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad didžiulę į tris dalis padalytą kariuomenę vedė trys kunigaikščiai: Kutlubugas sultanas, Chadžibėjus Girėjus ir Dimitras sultanas.'
+  santrauka: 'Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikščių, vadovavusių padalytai priešo kariuomenei.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pražygiavęs Kanevą ir Čerka­
@@ -38,3 +39,7 @@ Kojelavičius teigia, kad didžiulę į tris dalis padalytą kariuomenę vedė t
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

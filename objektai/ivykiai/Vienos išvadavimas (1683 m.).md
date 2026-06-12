@@ -32,12 +32,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66947"></a>
 - t-001
+  global_id: t-66947
   teiginys: 'Vienos išvadavimas (1683 m.): padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. Kritiškuoju momentu Sobieskis atskubėjo imperatoriui į pagalbą; Viena buvo išgelbėta (1683 m.), ir turkai buvo išvaryti net iš dalies Vengrijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66948"></a>
 - t-002
+  global_id: t-66948
   teiginys: 'Vienos išvadavimas (1683 m.): po nepavykusio bandymo Prūsijoje, Sobies- kis vėl atsigręžė į turkus ir susidėjo su Austrija.'
   pagrindžia:
     - c-002

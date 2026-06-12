@@ -16,7 +16,9 @@ Butrimas ir kiti.
 
 ## Teiginiai
 
+<a id="claim-t-63304"></a>
 - t-001
+  global_id: t-63304
   teiginys: 'A. Butrimas buvo vienas 2009 m. Vilniuje išleistos knygos „Lietuva 1009–2009“ sudarytojų.'
   pagrindžia:
     - c-001

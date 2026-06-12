@@ -27,7 +27,9 @@ KH = Kwartalnik Historyczny, žurn.
 
 ## Teiginiai
 
+<a id="claim-t-29906"></a>
 - t-001
+  global_id: t-29906
   teiginys: '„Kwartalnik Historyczny“ yra nuo 1887 m. leidžiamas žurnalas; jis leistas Lvove, Krokuvoje ir Varšuvoje.'
   pagrindžia:
     - c-001

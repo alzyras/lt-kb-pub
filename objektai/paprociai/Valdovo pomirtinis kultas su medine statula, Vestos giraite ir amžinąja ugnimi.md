@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Valdovo pomirtinis kultas su medine statula, Vestos giraite ir amžinąja ugnimi
 
 ## Santrauka
 
-Kojelavičius teigia, kad jo garbei pastatė medinę statulą, kuriai daugelį metų buvo rodoma dieviškoji pagarba; kai per ilgą laiką ji nugriuvo, toje vietoje užaugusią gi raitę paskyrė Vestai.
+Po valdovo mirties jo garbei pastatyta medinė statula, o jai nugriuvus toje vietoje užaugusi giraitė paskirta Vestai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185901"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad jo garbei pastatė medinę statulą, kuriai daugelį metų buvo rodoma dieviškoji pagarba; kai per ilgą laiką ji nugriuvo, toje vietoje užaugusią gi raitę paskyrė Vestai.'
+  global_id: t-185901
+  teiginys: 'Po valdovo mirties jo garbei pastatyta medinė statula, o jai nugriuvus toje vietoje užaugusi giraitė paskirta Vestai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad jo garbei pastatė medinę statulą, kuriai daugelį metų buvo rodoma dieviškoji pagarba; kai per ilgą laiką ji nugriuvo, toje vietoje užaugusią gi raitę paskyrė Vestai.'
+  santrauka: 'Po valdovo mirties jo garbei pastatyta medinė statula, o jai nugriuvus toje vietoje užaugusi giraitė paskirta Vestai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl, sukvietęs didikus ir paaiškinęs

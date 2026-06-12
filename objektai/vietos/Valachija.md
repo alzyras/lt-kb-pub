@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Valachija
 
 ## Santrauka
 
-Kojelavičius teigia, kad kol dar Luckas laikėsi, BolesloŠ v itrig a ila d e d a si vas neprarado vilties užbaigti tro k štą s ta ik o s karą taip, kaip norėjo; nuta ręs pataisyti savo pakrikusius reikalus, jis pasikvietė iš Valachijos bei Skitijos samdi ninkų.
+Švitrigaila, siekdamas pataisyti pakrikusius reikalus, pasikvietė samdininkų iš Valachijos ir Skitijos.
 
 ## Teiginiai
 
+<a id="claim-t-185255"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kol dar Luckas laikėsi, BolesloŠ v itrig a ila d e d a si vas neprarado vilties užbaigti tro k štą s ta ik o s karą taip, kaip norėjo; nuta ręs pataisyti savo pakrikusius reikalus, jis pasikvietė iš Valachijos bei Skitijos samdi ninkų.'
+  global_id: t-185255
+  teiginys: 'Švitrigaila, siekdamas pataisyti pakrikusius reikalus, pasikvietė samdininkų iš Valachijos ir Skitijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kol dar Luckas laikėsi, BolesloŠ v itrig a ila d e d a si vas neprarado vilties užbaigti tro k štą s ta ik o s karą taip, kaip norėjo; nuta ręs pataisyti savo pakrikusius reikalus, jis pasikvietė iš Valachijos bei Skitijos samdi ninkų.'
+  santrauka: 'Švitrigaila, siekdamas pataisyti pakrikusius reikalus, pasikvietė samdininkų iš Valachijos ir Skitijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip priekaištavo karaliui eiliniai

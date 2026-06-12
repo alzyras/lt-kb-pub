@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62464"></a>
 - t-001
+  global_id: t-62464
   teiginys: 'Dusburgietis teigia, kad apie saldžią rasą, užkritusią pasėlius Prancūzijoje apie švento Jono Krikštytojo šventę (birželio 24) saldi rasa, leisdamasi iš dangaus, taip užkrito pasėlių varpas, kad daug žmonių, paėmę jas į burną, kuo aiškiausiai jautė medaus kvapą (Ptol.'
   pagrindžia:
     - c-001

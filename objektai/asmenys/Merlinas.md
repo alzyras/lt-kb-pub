@@ -17,12 +17,16 @@ Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių
 
 ## Teiginiai
 
+<a id="claim-t-39605"></a>
 - t-001
+  global_id: t-39605
   teiginys: 'Mjr. Merlinas buvo pasiųstas per Viešintas Šimonių link su pusantros kuopos pėstininkų ir 70 kazokų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-39606"></a>
 - t-002
+  global_id: t-39606
   teiginys: 'Mjr. Merlinas, atsitraukęs į kaimo gilumą, išsiuntė raportą gen. mjr. I. Ganeckiui apie sukilėlių pasitraukimą Gudiškio link.'
   pagrindžia:
     - c-002

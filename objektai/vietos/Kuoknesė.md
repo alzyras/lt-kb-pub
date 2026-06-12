@@ -22,7 +22,6 @@ amziai:
   - 'XVI'
   - 'XX'
 ---
-
 # Kuoknesė
 
 ## Santrauka
@@ -31,43 +30,59 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 
 ## Teiginiai
 
+<a id="claim-t-79512"></a>
 - t-001
+  global_id: t-79512
   teiginys: 'Švedijos kariuomenė per trumpą laiką užėmė Kuoknesę, o 1608 m. rudenį Jonas Karolis Chodkevičius ją išvadavo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-79513"></a>
 - t-002
+  global_id: t-79513
   teiginys: 'Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79514"></a>
 - t-003
+  global_id: t-79514
   teiginys: 'Pagaliau birželio 23 d. prie Kuoknesės pagrindinė Lietuvos kariuomenė stojo prieš švedų pajėgas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79515"></a>
 - t-004
+  global_id: t-79515
   teiginys: '1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-79516"></a>
 - t-005
+  global_id: t-79516
   teiginys: 'Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-79517"></a>
 - t-006
+  global_id: t-79517
   teiginys: '1608 m. Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183788"></a>
 - t-007
+  global_id: t-183788
   teiginys: 'Paėmė beveik visus laivus, kuriais Dauguvos upe švedai atplukdė 96 KUOKNESĖS MŪŠIS 1601 m. birželio 23 d. L Arialentibas (Souk snjam Lirhuanis (rus (areli Duos SadSijimunds Tereu Pisa S See Regs ac newfie Kuoknesés mūšis 1601 m. XVIII a.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184997"></a>
 - t-008
-  teiginys: 'Kojelavičius teigia, kad daugybė bajorų stojo už teisybę bei arki vyskupą, tačiau šis, nesitikėdamas pergalės kovos lau ke, patraukė su rinktinių vyrų kariauna į Kuoknesę.'
+  global_id: t-184997
+  teiginys: 'Arkivyskupas, nesitikėdamas pergalės kovos lauke, su rinktinių vyrų kariauna pasitraukė į Kuoknesę.'
   pagrindžia:
     - c-006
 
@@ -179,7 +194,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - t-007
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad daugybė bajorų stojo už teisybę bei arki vyskupą, tačiau šis, nesitikėdamas pergalės kovos lau ke, patraukė su rinktinių vyrų kariauna į Kuoknesę.'
+  santrauka: 'Arkivyskupas, nesitikėdamas pergalės kovos lauke, su rinktinių vyrų kariauna pasitraukė į Kuoknesę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Paleidęs seimą liepos pabaigoje, atvirai užpuolė

@@ -16,7 +16,9 @@ Mikalojus Albrechtas Mikalojus Tolvaišas Radvila Radvila Žemaičių kaštelion
 
 ## Teiginiai
 
+<a id="claim-t-87782"></a>
 - t-001
+  global_id: t-87782
   teiginys: 'Mikalojus Albrechtas Mikalojus Tolvaišas Radvila Radvila Žemaičių kaštelionas Naugarduko LDK didysis R...'
   pagrindžia:
     - c-001

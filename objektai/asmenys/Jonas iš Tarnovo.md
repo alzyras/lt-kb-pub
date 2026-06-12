@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jonas iš Tarnovo
 
 ## Santrauka
 
-Kojelavičius teigia, kad tokią pat nuomonę pareiškė ir grafas Jo nas iš Tarnovo, Krokuvos vaivada.
+Krokuvos vaivada Jonas iš Tarnovo pritarė Zbignevo Olesnickio įspėjimui Vytautui dėl imperatoriaus siūlymų.
 
 ## Teiginiai
 
+<a id="claim-t-186113"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tokią pat nuomonę pareiškė ir grafas Jo nas iš Tarnovo, Krokuvos vaivada.'
+  global_id: t-186113
+  teiginys: 'Krokuvos vaivada Jonas iš Tarnovo pritarė Zbignevo Olesnickio įspėjimui Vytautui dėl imperatoriaus siūlymų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tokią pat nuomonę pareiškė ir grafas Jo nas iš Tarnovo, Krokuvos vaivada.'
+  santrauka: 'Krokuvos vaivada Jonas iš Tarnovo pritarė Zbignevo Olesnickio įspėjimui Vytautui dėl imperatoriaus siūlymų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu Krokuvos vyskupas Zbig­
@@ -44,3 +45,7 @@ Kojelavičius teigia, kad tokią pat nuomonę pareiškė ir grafas Jo nas iš Ta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/vaivada]]

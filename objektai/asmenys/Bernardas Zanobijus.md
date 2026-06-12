@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87634"></a>
 - t-001
+  global_id: t-87634
   teiginys: 'Bernardas Zanobijus buvo romietis mūrijimo meistras, sudaręs sutartį dėl Šv. Stanislovo katedros permūrijimo nuo 1536 m.'
   pagrindžia:
     - c-001

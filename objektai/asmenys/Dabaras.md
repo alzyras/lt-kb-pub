@@ -16,7 +16,9 @@ Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo 
 
 ## Teiginiai
 
+<a id="claim-t-60259"></a>
 - t-001
+  global_id: t-60259
   teiginys: 'Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo giminaitį, vardu Dabaras, o visus jo žmones išžudė.'
   pagrindžia:
     - c-001

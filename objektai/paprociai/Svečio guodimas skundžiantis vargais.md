@@ -30,7 +30,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-07806"></a>
 - t-001
+  global_id: t-07806
   teiginys: 'Neturėdami kuo pavaišinti svečio, šeimininkai verkdavo ir guosdavosi vargais, kad nebūtų palaikyti blogais gaspadoriais.'
   pagrindžia:
     - c-001

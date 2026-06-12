@@ -27,7 +27,9 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
 
 ## Teiginiai
 
+<a id="claim-t-07967"></a>
 - t-001
+  global_id: t-07967
   teiginys: 'Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija.'
   pagrindžia:
     - c-001

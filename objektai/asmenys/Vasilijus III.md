@@ -16,7 +16,9 @@ Išgirdęs apie pralaimėjimą, Vasilijus 111 palikęs įgulą pasitraukė iš S
 
 ## Teiginiai
 
+<a id="claim-t-40501"></a>
 - t-001
+  global_id: t-40501
   teiginys: 'Išgirdęs apie pralaimėjimą, Vasilijus III paliko įgulą ir pasitraukė iš Smolensko.'
   pagrindžia:
     - c-001

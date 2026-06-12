@@ -24,12 +24,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88235"></a>
 - t-001
+  global_id: t-88235
   teiginys: 'Martyno Smigleckio veikalas „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ 1640 m. išleistas Krokuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88236"></a>
 - t-002
+  global_id: t-88236
   teiginys: 'Nagrinėdamas privačios prekybos arba monopolio privalumus ir trūkumus, Smigleckis Vilnių pateikė kaip stiklo prekių pavyzdį.'
   pagrindžia:
     - c-002

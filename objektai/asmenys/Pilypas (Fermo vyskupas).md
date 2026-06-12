@@ -18,7 +18,9 @@ Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, a
 
 ## Teiginiai
 
+<a id="claim-t-60411"></a>
 - t-001
+  global_id: t-60411
   teiginys: 'Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, apaštališkojo sosto legatas, atsiųstas į Lenkijos žemę, ir brolis Konradas iš Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams skriaudų šiose trijose minėtosios.'
   pagrindžia:
     - c-001

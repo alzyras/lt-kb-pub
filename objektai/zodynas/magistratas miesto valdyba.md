@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86536"></a>
 - t-001
+  global_id: t-86536
   teiginys: 'Dešimties lenkiškų grivinų bauda turėjo būti paduota bet kurio valdų miesto pilies arba miesto valdybai.'
   pagrindžia:
     - c-001

@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08346"></a>
 - t-001
+  global_id: t-08346
   teiginys: 'Antrasis stabas turėjo varpų vainiką ant galvos.'
   pagrindžia:
     - c-001

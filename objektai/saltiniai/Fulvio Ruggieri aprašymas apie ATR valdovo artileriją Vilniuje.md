@@ -25,7 +25,9 @@ Iškilusi Popiežiaus diplomatas Fulvio Ruggieri (1572 m.) aprašo ATR valdovo a
 
 ## Teiginiai
 
+<a id="claim-t-41521"></a>
 - t-001
+  global_id: t-41521
   teiginys: 'Fulvio Ruggieri 1572 m. rašė, kad Vilniuje karalius turėjo 180 sunkiosios artilerijos vienetų ir daug lengvosios artilerijos.'
   pagrindžia:
     - c-001

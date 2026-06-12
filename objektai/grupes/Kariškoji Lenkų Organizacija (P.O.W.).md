@@ -19,22 +19,30 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
 
 ## Teiginiai
 
+<a id="claim-t-72110"></a>
 - t-001
+  global_id: t-72110
   teiginys: 'Sąmokslininkai tikėjosi nors keletai valandų paimti valdžią į savo rankas, o toliau turėjo ateiti jau Lenkų kariuomenė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-72111"></a>
 - t-002
+  global_id: t-72111
   teiginys: 'P.O.W. centre Kaune buvo rastas organizacijos archyvas su narių sąrašais, šnipinėjimo ir kitais dokumentais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72112"></a>
 - t-003
-  teiginys: 'Iš okupuoto Vilniaus instruktuojama ir pinigais aprūpinama, ta organizacija varė labai platų darbą: šnipinėdama nuolat pranešinėjo lenkams apie Lietuvos kariuomenės jėgas, apie krašto politinę būklę ir nuotaiką; atvažiuojančioms santarvės komisijoms teikė.'
+  global_id: t-72112
+  teiginys: 'Kariškoji Lenkų Organizacija, instruktuojama ir finansuojama iš okupuoto Vilniaus, šnipinėjo Lietuvos kariuomenę ir verbavo narius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72113"></a>
 - t-004
+  global_id: t-72113
   teiginys: 'Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po 3—4 tos organizacijos komendantūras.'
   pagrindžia:
     - c-001

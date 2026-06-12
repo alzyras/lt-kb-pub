@@ -32,7 +32,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-100053"></a>
 - t-001
+  global_id: t-100053
   teiginys: '85 Kališas 217 ; Kališo taika 232, 330 Kalita 371, žr.'
   pagrindžia:
     - c-001

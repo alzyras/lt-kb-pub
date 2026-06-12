@@ -16,7 +16,9 @@ Nors ir smarkiai kryžiuočiai buvo perse­ kiojami, vis dėlto jie nuėjo ligi 
 
 ## Teiginiai
 
+<a id="claim-t-36476"></a>
 - t-001
+  global_id: t-36476
   teiginys: 'Persekiojami kryžiuočiai vis dėlto nuėjo iki Papartėnų netoli Kernavės.'
   pagrindžia:
     - c-001

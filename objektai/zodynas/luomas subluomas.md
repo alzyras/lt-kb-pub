@@ -19,12 +19,16 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
 
 ## Teiginiai
 
+<a id="claim-t-169924"></a>
 - t-001
+  global_id: t-169924
   teiginys: 'Bajorai dvarininkai sudarė tik ketvirtadalį vietos bajorų luomo, o dauguma bajorų buvo mažažemiai ir bežemiai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169925"></a>
 - t-002
+  global_id: t-169925
   teiginys: 'Nuo Jekaterinos II laikų vietiniame valdyme veikė luomų institucijos: bajorų dvarininkų susirinkimai ir miestiečių subluomų savivalda.'
   pagrindžia:
     - c-002

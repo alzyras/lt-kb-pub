@@ -25,17 +25,23 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
 
 ## Teiginiai
 
+<a id="claim-t-54996"></a>
 - t-001
+  global_id: t-54996
   teiginys: 'Adomas Honorijus Kirkoras 1857-1858 m. leido „Teki Wileńskie“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81882"></a>
 - t-002
+  global_id: t-81882
   teiginys: 'Adomas Honorijus Kirkoras 1857-1858 m. leido leidinį „Teki Wileńskie“ („Vilniaus aplankus“).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81883"></a>
 - t-003
+  global_id: t-81883
   teiginys: '1859 m. išleistame vadove po Vilnių Adomas Honorijus Kirkoras pažymėjo, kad Vilnius jau turi savo istorikus.'
   pagrindžia:
     - c-002

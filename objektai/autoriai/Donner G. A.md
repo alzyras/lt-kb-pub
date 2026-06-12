@@ -16,7 +16,9 @@ Dusburgietis teigia, kad 140 Donner G.
 
 ## Teiginiai
 
+<a id="claim-t-60690"></a>
 - t-001
+  global_id: t-60690
   teiginys: 'Donner G. A. parašė darbą apie kardinolą Wilhelmą von Sabiną.'
   pagrindžia:
     - c-001

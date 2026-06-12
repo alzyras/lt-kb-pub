@@ -19,7 +19,9 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
 
 ## Teiginiai
 
+<a id="claim-t-58942"></a>
 - t-001
+  global_id: t-58942
   teiginys: '„Šventas sumanymas“ kronikos įvade siejamas su stojimu į Ordiną ir jo veiksmų pateisinimu krikščionybės platinimu.'
   pagrindžia:
     - c-001

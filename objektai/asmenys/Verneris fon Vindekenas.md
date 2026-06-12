@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Verneris fon Vindekenas
 
 ## Santrauka
 
-Kojelavičius teigia, kad vernerio fon Vindekeno numestas nuo arklio, Kęstutis (žuvus, beje, ir priešo žirgui) narsiai pėsčiomis grūmėsi su pėsčiu riteriu, tačiau, Nešavos komtūro sunkiai sužeistas, pateko į Bartenšteino komtūro rankas.
+Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomis grūmėsi su pėsčiu riteriu.
 
 ## Teiginiai
 
+<a id="claim-t-186265"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vernerio fon Vindekeno numestas nuo arklio, Kęstutis (žuvus, beje, ir priešo žirgui) narsiai pėsčiomis grūmėsi su pėsčiu riteriu, tačiau, Nešavos komtūro sunkiai sužeistas, pateko į Bartenšteino komtūro rankas.'
+  global_id: t-186265
+  teiginys: 'Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomis grūmėsi su pėsčiu riteriu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vernerio fon Vindekeno numestas nuo arklio, Kęstutis (žuvus, beje, ir priešo žirgui) narsiai pėsčiomis grūmėsi su pėsčiu riteriu, tačiau, Nešavos komtūro sunkiai sužeistas, pateko į Bartenšteino komtūro rankas.'
+  santrauka: 'Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomis grūmėsi su pėsčiu riteriu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ir vieni, ir kiti kovėsi įnir­
@@ -39,3 +40,8 @@ Kojelavičius teigia, kad vernerio fon Vindekeno numestas nuo arklio, Kęstutis 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/komtūras]]

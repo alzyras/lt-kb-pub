@@ -34,47 +34,65 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 
 ## Teiginiai
 
+<a id="claim-t-60888"></a>
 - t-001
+  global_id: t-60888
   teiginys: 'Dusburgietis teigia, kad apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60889"></a>
 - t-002
+  global_id: t-60889
   teiginys: 'Dusburgietis teigia, kad brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus III (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.).'
   pagrindžia:
     - c-006
 
+<a id="claim-t-60890"></a>
 - t-003
+  global_id: t-60890
   teiginys: 'Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus. Mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos karalystės.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60891"></a>
 - t-004
+  global_id: t-60891
   teiginys: 'Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus bibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-60892"></a>
 - t-005
+  global_id: t-60892
   teiginys: 'Dusburgietis teigia, kad apie tamplierių ordino panaikinimą 1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet apaštališkojo sosto parengiamasis veiksmas — tamplierių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60893"></a>
 - t-006
+  global_id: t-60893
   teiginys: 'Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija, apie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi — pietuose; viena sukosi kaip įprasta, kita—.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-60894"></a>
 - t-007
+  global_id: t-60894
   teiginys: 'Dusburgietis teigia, kad apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir gvelfų partijos; šitai yra vardai dviejų brolių, kurių keliai išsiskyrė. Gibelinas rėmė imperatorių, o Gveltas—bažnyčią (Ptol. 21,27).'
   pagrindžia:
     - c-009
 
+<a id="claim-t-60895"></a>
 - t-008
+  global_id: t-60895
   teiginys: 'Dusburgietis teigia, kad apie didįjį saulės užtemimą Tų pačių metų birželio trečią dieną, per pietus, taip smarkiai užtemo saulė, kad net žvaigždes galima buvo matyti nelyginant sutemus (Ptol. 21,37). 29.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-60896"></a>
 - t-009
+  global_id: t-60896
   teiginys: 'Dusburgietis teigia, kad apie Inocentą III, popiežių, ir Otoną IV bei Fridrichą II, imperatorius Po to viešpatavo Inocentas III, popiežius, ir Otonas IV bei Fridrichas II, imperatoriai (Ptol. 21,1 ir 2; Mart. p. 385).'
   pagrindžia:
     - c-007

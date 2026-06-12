@@ -28,12 +28,16 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
 
 ## Teiginiai
 
+<a id="claim-t-60141"></a>
 - t-001
+  global_id: t-60141
   teiginys: 'Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60142"></a>
 - t-002
+  global_id: t-60142
   teiginys: 'Dusburgietis teigia, kad paėmus Akoną, tas pats brolis Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus, kur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais 154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų.'
   pagrindžia:
     - c-001

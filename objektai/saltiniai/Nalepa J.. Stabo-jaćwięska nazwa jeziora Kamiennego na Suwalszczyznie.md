@@ -22,7 +22,9 @@ Dusburgietis teigia, kad nalepa J..
 
 ## Teiginiai
 
+<a id="claim-t-61193"></a>
 - t-001
+  global_id: t-61193
   teiginys: 'J. Nalepos straipsnis apie jotvingišką Kamienne ežero vardą Suvalkų krašte paskelbtas „Rocznik Białostocki“ 15 tome.'
   pagrindžia:
     - c-001

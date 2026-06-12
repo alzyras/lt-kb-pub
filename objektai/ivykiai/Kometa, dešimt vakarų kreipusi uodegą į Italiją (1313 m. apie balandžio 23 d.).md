@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62326"></a>
 - t-001
+  global_id: t-62326
   teiginys: 'Dusburgietis teigia, kad apie kometą Tais pačiais metais, apie šventą Jurgį (balandžio 23), pasirodė kometa, kuri vakarais 10 dienų kreipė uodegą į Italiją.'
   pagrindžia:
     - c-001

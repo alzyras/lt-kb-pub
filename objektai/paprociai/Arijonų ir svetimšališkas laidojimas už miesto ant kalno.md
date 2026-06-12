@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87261"></a>
 - t-001
+  global_id: t-87261
   teiginys: 'Pagal vietinį Vilniaus paprotį Kasparas Bekešas turėjęs būti palaidotas ant kalno už miesto, nes buvo arijonas.'
   pagrindžia:
     - c-001

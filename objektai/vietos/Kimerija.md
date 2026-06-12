@@ -28,12 +28,16 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
 
 ## Teiginiai
 
+<a id="claim-t-07968"></a>
 - t-001
+  global_id: t-07968
   teiginys: 'Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-07969"></a>
 - t-002
+  global_id: t-07969
   teiginys: 'Kimerijoje grekonys įsikūrė kai kuriose vietose ir pasistatė Chersoneso, Teodosijos bei Albijos pilis.'
   pagrindžia:
     - c-001

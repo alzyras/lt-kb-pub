@@ -23,12 +23,16 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
 
 ## Teiginiai
 
+<a id="claim-t-58872"></a>
 - t-001
+  global_id: t-58872
   teiginys: 'Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 ir kt.).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58873"></a>
 - t-002
+  global_id: t-58873
   teiginys: 'XIII ir XIV a. pradžios dokumentuose bei kronikose terminu žemė vadintos visos prūsų žemės ir atskiros prūsų žemės.'
   pagrindžia:
     - c-001

@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-80723"></a>
 - t-001
+  global_id: t-80723
   teiginys: 'Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.'
   pagrindžia:
     - c-001

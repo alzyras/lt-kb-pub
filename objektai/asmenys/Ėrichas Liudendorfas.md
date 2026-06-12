@@ -25,7 +25,9 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
 
 ## Teiginiai
 
+<a id="claim-t-78076"></a>
 - t-001
+  global_id: t-78076
   teiginys: 'Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) ir Ėrichas Liudendorfas (Erich Ludendorff) ir naudojo visus krašto išteklius Vokietijos kariuomenės reikalams.'
   pagrindžia:
     - c-001

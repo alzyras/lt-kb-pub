@@ -23,7 +23,9 @@ Radvila, jausdamas, kad priešas didelėmis pajėgomis vis tiek tęs puolimą, �
 
 ## Teiginiai
 
+<a id="claim-t-42357"></a>
 - t-001
+  global_id: t-42357
   teiginys: '1654 m. rugpjūčio 24 d. J. Radvila patyrė pirmąjį savo pralaimėjimą prie Šepelievičių.'
   pagrindžia:
     - c-001

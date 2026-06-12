@@ -26,17 +26,23 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
 
 ## Teiginiai
 
+<a id="claim-t-86476"></a>
 - t-001
+  global_id: t-86476
   teiginys: '1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus už 164 auksinus ir 36 grašius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86477"></a>
 - t-002
+  global_id: t-86477
   teiginys: '1570 m. sudarytas nuostolių sąrašas fiksavo lietuviškų monetų keitimą į lenkiškus pinigus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86478"></a>
 - t-003
+  global_id: t-86478
   teiginys: 'Žygimantas Augustas įsakė lietuvišką monetą, kurios vertė buvo du lietuviški grašiai, priimti už pustrečio lenkiško grašio.'
   pagrindžia:
     - c-001

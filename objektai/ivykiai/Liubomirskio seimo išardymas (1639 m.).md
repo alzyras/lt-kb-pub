@@ -33,12 +33,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66763"></a>
 - t-001
+  global_id: t-66763
   teiginys: 'Ir štai 1639 m. Liubomirskis, o 1652 m. Čičinskas pasisakė nesutinką pratęsti seimui laiko, ir seimai išsiskirstė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66764"></a>
 - t-002
+  global_id: t-66764
   teiginys: 'Antai vienas atstovas bandė sukliudyti viso seimo darbą dar 1596 m., o 1639 m. vienas Krokuvos atstovas, Liubomirskis, seimą ir išardė.'
   pagrindžia:
     - c-001

@@ -23,7 +23,9 @@ Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių tautos masių 
 
 ## Teiginiai
 
+<a id="claim-t-32810"></a>
 - t-001
+  global_id: t-32810
   teiginys: 'Tarybiniai istorikai teigė, kad Lietuvos Tarybų Respublikos suverenumas buvęs įvykdytas 1940 m.'
   pagrindžia:
     - c-001

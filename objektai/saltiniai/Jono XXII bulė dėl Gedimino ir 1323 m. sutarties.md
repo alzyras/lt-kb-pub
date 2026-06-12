@@ -27,7 +27,9 @@ Didelį palankumą reikšdami primename ir patariame jums, kad tos sutarties, ka
 
 ## Teiginiai
 
+<a id="claim-t-88254"></a>
 - t-001
+  global_id: t-88254
   teiginys: 'Didelį palankumą reikšdami primename ir patariame jums, kad tos sutarties, kad ir kokios būtų sąlygos prisiimant o Laiško popiežiui jau neturime; šias žinias ėmėme iš popiežiaus bulės: in Regest, litterar.'
   pagrindžia:
     - c-001

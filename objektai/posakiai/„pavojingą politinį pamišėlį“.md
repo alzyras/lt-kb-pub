@@ -23,7 +23,9 @@ Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo
 
 ## Teiginiai
 
+<a id="claim-t-77852"></a>
 - t-001
+  global_id: t-77852
   teiginys: 'Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo pseudoidėjų įgyvendinimo gali išnaikinti pusę Europos.'
   pagrindžia:
     - c-001

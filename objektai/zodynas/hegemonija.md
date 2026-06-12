@@ -18,12 +18,16 @@ Ir Vy­ tautas, matyt, nepasitikėdamas gerais santykiais su Lenkija, ta­ rytum
 
 ## Teiginiai
 
+<a id="claim-t-34294"></a>
 - t-001
+  global_id: t-34294
   teiginys: 'Vytautas, bijodamas Lenkijos kultūrinės ir politinės hegemonijos, siekė pusiausvyros gerais santykiais su kaimynais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184242"></a>
 - t-002
+  global_id: t-184242
   teiginys: 'Vytautas pabūgo Lenkijos kultūrinės ir politinės hegemonijos ir ieškojo pusiausvyros santykiuose su kaimynais.'
   pagrindžia:
     - c-002

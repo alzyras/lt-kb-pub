@@ -26,7 +26,9 @@ Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­ re Trakuose, todėl
 
 ## Teiginiai
 
+<a id="claim-t-36398"></a>
 - t-001
+  global_id: t-36398
   teiginys: 'Vytautas anksti pradėjo dalyvauti karo žygiuose: 1368 ir 1372 m. žygiavo į Maskvos žemes, o 1376 m. dalyvavo žygyje prieš lenkus.'
   pagrindžia:
     - c-001

@@ -25,12 +25,16 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
 
 ## Teiginiai
 
+<a id="claim-t-58654"></a>
 - t-001
+  global_id: t-58654
   teiginys: '1294 metais magistras Meinhardas užėmė Mazovijos kunigaikščio Boleslovo pilį Viznoje ir ją iš pamatų sugriovė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58655"></a>
 - t-002
+  global_id: t-58655
   teiginys: 'Dusburgietis teigia, kad dėl Viznos pilies sugriovimo, pasitaikino lietuvius ir ją atstatė.'
   pagrindžia:
     - c-001

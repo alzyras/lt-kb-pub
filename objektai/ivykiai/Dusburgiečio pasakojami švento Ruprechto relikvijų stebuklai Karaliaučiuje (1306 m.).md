@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62251"></a>
 - t-001
+  global_id: t-62251
   teiginys: 'Dusburgietis teigia, kad apie švento Ruprechto stebuklus Karaliaučiuje 1306 viešpaties metais Prūsijoje, Karaliaučiaus pilyje, viešpats ėmė daryti stebuklus prie švento Ruprechto relikvijų, kur pagijo nuo visokiausių negalių daug žmonių, šunų bei visokių traukos gyvulių.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Dusburgietis teigia, kad apie Galindos žemės nuniokojimą Pagausėjo galindų,
 
 ## Teiginiai
 
+<a id="claim-t-59086"></a>
 - t-001
+  global_id: t-59086
   teiginys: 'Dusburgietis teigia, kad apie Galindos žemės nuniokojimą Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti.'
   pagrindžia:
     - c-001

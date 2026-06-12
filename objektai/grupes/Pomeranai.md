@@ -19,22 +19,30 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 
 ## Teiginiai
 
+<a id="claim-t-89172"></a>
 - t-001
+  global_id: t-89172
   teiginys: 'Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89173"></a>
 - t-002
+  global_id: t-89173
   teiginys: 'Sventopelkas drąsino saviškius, teigdamas, kad pomeranai ir prūsai galės visiems laikams nusikratyti teutonų jungo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89174"></a>
 - t-003
+  global_id: t-89174
   teiginys: 'Dusburgietis teigia, kad magistras ir broliai su jais bei su kunigaikščiu Kazimieru ir su savaisiais įsibrovė į Pomeranijos žemę ir, devynetą dienų ir naktų tai viena, tai kita kryptimi smogdami stiprius ir žiaurius smūgius, taip ją nusiaubė, kad nebeliko ten nė vieno kampelio, kurio.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89175"></a>
 - t-004
+  global_id: t-89175
   teiginys: 'Dusburgietis teigia, kad sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo.'
   pagrindžia:
     - c-002

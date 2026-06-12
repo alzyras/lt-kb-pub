@@ -17,7 +17,9 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
 
 ## Teiginiai
 
+<a id="claim-t-77858"></a>
 - t-001
+  global_id: t-77858
   teiginys: 'Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'
   pagrindžia:
     - c-001

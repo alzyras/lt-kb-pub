@@ -29,17 +29,23 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
 
 ## Teiginiai
 
+<a id="claim-t-97205"></a>
 - t-001
+  global_id: t-97205
   teiginys: 'P. Pakarklis dar parašė : Lietuvos Didžiųjų Kunigaikščių metraštis (AkMD, t.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-97206"></a>
 - t-002
+  global_id: t-97206
   teiginys: 'P. Pakarklis paskelbė darbą apie kryžiuočius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-97208"></a>
 - t-003
+  global_id: t-97208
   teiginys: 'Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai kadaise vadinti lietuviais, kad prieš kryžiuočių įsibrovimą buv.'
   pagrindžia:
     - c-001

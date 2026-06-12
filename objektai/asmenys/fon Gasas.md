@@ -17,7 +17,9 @@ Vilniaus karo apygardos Karo veiksmų juos miegančius gegužės 10 naktį apsup
 
 ## Teiginiai
 
+<a id="claim-t-40560"></a>
 - t-001
+  global_id: t-40560
   teiginys: 'Gegužės 10-osios naktį paporučikio fon Gaso dalinys apsupo miegančius sukilėlius ir paėmė juos į nelaisvę.'
   pagrindžia:
     - c-001

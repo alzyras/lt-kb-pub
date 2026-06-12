@@ -16,7 +16,9 @@ Musteikis. Musteikio vadovaujama 3-ioji divizija (3-iasis, 6-asis ir 9-asis pulk
 
 ## Teiginiai
 
+<a id="claim-t-40140"></a>
 - t-001
+  global_id: t-40140
   teiginys: 'Mjr. I. Musteikio vadovaujama 3-ioji divizija saugojo Lietuvos rytinę ribą su bolševikais ir Latvija.'
   pagrindžia:
     - c-001

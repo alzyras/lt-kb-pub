@@ -17,7 +17,9 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 
 ## Teiginiai
 
+<a id="claim-t-21693"></a>
 - t-001
+  global_id: t-21693
   teiginys: 'Pensilvanija buvo viena iš JAV vietų, kuriose gyveno daugiau kaip 300 000 lietuvių imigrantų.'
   pagrindžia:
     - c-001

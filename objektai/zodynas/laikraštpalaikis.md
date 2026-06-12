@@ -16,7 +16,9 @@ Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį
 
 ## Teiginiai
 
+<a id="claim-t-03058"></a>
 - t-001
+  global_id: t-03058
   teiginys: 'Vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį“.'
   pagrindžia:
     - c-001

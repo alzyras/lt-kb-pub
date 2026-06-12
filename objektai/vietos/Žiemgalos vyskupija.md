@@ -24,7 +24,9 @@ Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­ pijos dalybų (1254 m.)^1
 
 ## Teiginiai
 
+<a id="claim-t-32744"></a>
 - t-001
+  global_id: t-32744
   teiginys: '1254 m. Ordinas gavo žemių per Žiemgalos vyskupijos dalybas.'
   pagrindžia:
     - c-001

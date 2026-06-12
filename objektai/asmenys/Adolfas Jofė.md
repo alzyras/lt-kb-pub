@@ -18,7 +18,9 @@ Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf Joffe), traktavo Lietuvą kai
 
 ## Teiginiai
 
+<a id="claim-t-18755"></a>
 - t-001
+  global_id: t-18755
   teiginys: 'Adolfo Jofės vadovaujami sovietai traktavo Lietuvą kaip naują politinį vienetą ir sutiko ją pripažinti nacijų apsisprendimo teise.'
   pagrindžia:
     - c-001

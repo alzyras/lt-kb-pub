@@ -22,7 +22,9 @@ Dusburgietis teigia, kad vanagas A.
 
 ## Teiginiai
 
+<a id="claim-t-61342"></a>
 - t-001
+  global_id: t-61342
   teiginys: 'A. Vanago straipsnis „Jotvingiai ir dzūkai“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1979 m.'
   pagrindžia:
     - c-001

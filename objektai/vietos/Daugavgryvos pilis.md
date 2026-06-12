@@ -25,7 +25,9 @@ Kai ordinui pa­ vyko Dauguvos žiotyse įsigyti Daugavgryvos (Dünamündės) pi
 
 ## Teiginiai
 
+<a id="claim-t-28318"></a>
 - t-001
+  global_id: t-28318
   teiginys: 'Ordinui įsigijus Daugavgryvos pilį Dauguvos žiotyse, rygiečiai ją šturmavo 1328 m. liepą.'
   pagrindžia:
     - c-001

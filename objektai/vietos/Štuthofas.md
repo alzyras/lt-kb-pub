@@ -23,17 +23,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-77720"></a>
 - t-001
+  global_id: t-77720
   teiginys: 'Keturi tarėjai, atsisakę vykdyti vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos stovyklą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-77721"></a>
 - t-002
+  global_id: t-77721
   teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., suėmė daug pogrindinės spaudos leidėjų ir.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77722"></a>
 - t-003
+  global_id: t-77722
   teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninka
 
 ## Teiginiai
 
+<a id="claim-t-87442"></a>
 - t-001
+  global_id: t-87442
   teiginys: 'Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninkai Marcelis Suchodolskis - 500 auksinų, Stanislovas Goreckis - 2500 auksinų, Laurynas Volskis - 250 auksinų, ir susidarė 4 000 suma.'
   pagrindžia:
     - c-001

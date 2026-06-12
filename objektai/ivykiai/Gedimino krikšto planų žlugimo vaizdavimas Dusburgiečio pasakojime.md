@@ -35,13 +35,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62788"></a>
 - t-001
+  global_id: t-62788
   teiginys: 'Dusburgietis teigia, kad lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai nukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia.'
   pagrindžia:
     - c-003
     - c-002
 
+<a id="claim-t-62789"></a>
 - t-002
+  global_id: t-62789
   teiginys: 'Dusburgietis teigia, kad lyginimas leidžia manyti, kad Ordinas klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo pagrindą147.'
   pagrindžia:
     - c-001

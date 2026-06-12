@@ -41,22 +41,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66861"></a>
 - t-001
+  global_id: t-66861
   teiginys: 'Rūdavos mūšyje Algirdas, matyt, buvo pasiėmęs Jogailą, o Kęstutis pratino jauną Vytautą prie karo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66862"></a>
 - t-002
+  global_id: t-66862
   teiginys: 'Rūdavos mūšis 1370 m. vasario 17 d. prie Rudavos, netoli Karaliaučiaus, baigėsi dideliu lietuvių pralaimėjimu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66863"></a>
 - t-003
+  global_id: t-66863
   teiginys: 'Rūdavos mūšyje dalyvavęs jaunas Vytautas dar neturėjo vadovaujamos reikšmės ir buvo Kęstučio pratinamas prie karo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66864"></a>
 - t-004
+  global_id: t-66864
   teiginys: 'Vytautas dalyvavo Rūdavos mūšyje kaip Kęstučio prie karo pratintas jaunuolis.'
   pagrindžia:
     - c-001

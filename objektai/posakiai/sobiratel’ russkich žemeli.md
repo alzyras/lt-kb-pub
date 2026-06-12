@@ -23,7 +23,9 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
 
 ## Teiginiai
 
+<a id="claim-t-100003"></a>
 - t-001
+  global_id: t-100003
   teiginys: 'Jonas III buvo vadinamas rusų žemių rinkėju, „sobiratel’ russkich žemeli“.'
   pagrindžia:
     - c-001

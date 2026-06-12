@@ -18,7 +18,9 @@ Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį, kuriuo žem
 
 ## Teiginiai
 
+<a id="claim-t-02265"></a>
 - t-001
+  global_id: t-02265
   teiginys: 'Pirmasis pilietybės įstatymas numatė iš rusų valdžios įkurdintų kolonistų atimti jų valdytą žemę ir grąžinti ją Lietuvos valstybei.'
   pagrindžia:
     - c-001

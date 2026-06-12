@@ -35,27 +35,37 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
 
 ## Teiginiai
 
+<a id="claim-t-10711"></a>
 - t-001
+  global_id: t-10711
   teiginys: 'Balti vilnoniai marškiniai buvo dalijami Jogailos vardu kaip krikšto dovana.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-10712"></a>
 - t-002
+  global_id: t-10712
   teiginys: 'Šie marškiniai simbolizavo nekaltąją sielą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-10713"></a>
 - t-003
+  global_id: t-10713
   teiginys: 'Jogailos vardu dalinti balti vilnoniai marškiniai skatino dalį lietuvių krikštytis vien dėl šios dovanos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-12278"></a>
 - t-004
+  global_id: t-12278
   teiginys: 'Balti vilnoniai rūbai prie krikšto buvo dalijami ir kaip liturginis nekaltybės simbolio reikalavimas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-92954"></a>
 - t-005
+  global_id: t-92954
   teiginys: 'Jogaila krikštijamiems žmonėms duodavo baltų vilnonių rūbų, kad būtų įvykdytas krikšto liturgijos reikalavimas turėti baltą rūbą.'
   pagrindžia:
     - c-002

@@ -24,12 +24,16 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
 
 ## Teiginiai
 
+<a id="claim-t-36844"></a>
 - t-001
+  global_id: t-36844
   teiginys: '1392 m. Vytautas atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184250"></a>
 - t-002
+  global_id: t-184250
   teiginys: 'Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės pagrobimą.'
   pagrindžia:
     - c-002

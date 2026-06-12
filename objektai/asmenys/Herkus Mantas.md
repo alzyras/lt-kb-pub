@@ -28,88 +28,122 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 
 ## Teiginiai
 
+<a id="claim-t-175186"></a>
 - t-001
+  global_id: t-175186
   teiginys: 'Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudeginto miestiečio burnos išskrendant baltą balandį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-175187"></a>
 - t-002
+  global_id: t-175187
   teiginys: 'Notangai Herkų Mantą išsirinko savo kariuomenės vadu ir vyresniuoju po prūsų atkritimo nuo tikėjimo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-175188"></a>
 - t-003
+  global_id: t-175188
   teiginys: 'Pokarvių skerdynių pasakojime Herkus du kartus išgelbėjo Hirtshalsą nuo burtų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-175189"></a>
 - t-004
+  global_id: t-175189
   teiginys: 'Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo komtūras, ir.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-175190"></a>
 - t-005
+  global_id: t-175190
   teiginys: 'Dusburgietis pasakoja, kad notangai savo kariuomenės vadu ir vyresniuoju pasirinko Herkų Mantą.'
   pagrindžia:
     - c-001
     - c-003
 
+<a id="claim-t-175191"></a>
 - t-006
+  global_id: t-175191
   teiginys: 'Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai sutriuškino kryžiuočius mūšio lauke.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-175192"></a>
 - t-007
+  global_id: t-175192
   teiginys: 'Dusburgietis teigia, kad apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę kitokio turto, kurį.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-175193"></a>
 - t-008
+  global_id: t-175193
   teiginys: 'Herkus Mantas, likęs vienas palapinėje, buvo Kristburgo komtūro Henriko iš Šenenbergo ir Helvigo iš Goldbacho pakartas ir pervertas kalaviju.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-175194"></a>
 - t-009
+  global_id: t-175194
   teiginys: 'Manto vadovaujami prūsai nusiaubė Kulmo žemę ir 1263 m. sutriuškino kryžiuočius.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-175195"></a>
 - t-010
+  global_id: t-175195
   teiginys: 'Dusburgietis teigia, kad apie prūsų, mokančių vokiečių kalbą, niekšiškumą Herkus Mantas, notangų vadas, bei daugybė kitų prūsų, iš mažumės augusių prie brolių, pridarė tais negandų metais nemaža piktadarysčių krikščionims, nes labai dažnai, netikėlių kariuomenei traukiant brolių.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-175196"></a>
 - t-011
+  global_id: t-175196
   teiginys: 'Herkus Mantas, surinkęs didelę kariuomenę, puolė Karaliaučiaus lauką ir sunkiai sužeidė brolį Henriką Ulenbušą.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-175197"></a>
 - t-012
+  global_id: t-175197
   teiginys: 'Dusburgietis teigia, kad apie Karaliaučiaus pilies užpuolimą Neilgai trukus po to notangų vadas Herkus Mantas subūrė didelę kariuomenę ir atžygiavo į Karaliaučiaus lauką, ketindamas pulti pilį.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-175198"></a>
 - t-013
+  global_id: t-175198
   teiginys: 'Dusburgietis teigia, kad herkus Mantas buvo sudegintas367.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-175199"></a>
 - t-014
+  global_id: t-175199
   teiginys: 'Herkus Mantas du kartus išgelbėjo į nelaisvę patekusį Hirtshalsą, prisiminęs Magdeburge patirtas geradarybes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-175200"></a>
 - t-015
+  global_id: t-175200
   teiginys: 'Tais pačiais metais Herkus Mantas su stipria kariuomene įsibrovė į Kulmo žemę, išsivarė daugybę žmonių ir išsigabeno daug turto.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-175201"></a>
 - t-016
+  global_id: t-175201
   teiginys: 'Dusburgietis pabrėžia, kad Herkus vėliau pats liudijo apie Hirtshalso sielos regėjimą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-175202"></a>
 - t-017
+  global_id: t-175202
   teiginys: 'Notangų prūsų vyriausiasis vadas Herkus Mantas niokojo Kulmo žemę ir triuškino Ordiną Lubavos mūšyje.'
   pagrindžia:
     - c-007

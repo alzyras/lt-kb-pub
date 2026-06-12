@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66463"></a>
 - t-001
+  global_id: t-66463
   teiginys: '1697 m. elekcijoje po Jono Sobieskio mirties iš 18 kandidatų stipriausi atrodė princas Kontys ir Austrijos remiamas Jokūbas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66464"></a>
 - t-002
+  global_id: t-66464
   teiginys: 'Per 1697 m. elekciją dalis bajorijos karaliumi paskelbė Fridriką Augustą, o prancūziškoji partija atskirai išrinktu paskelbė princą Kontį.'
   pagrindžia:
     - c-001

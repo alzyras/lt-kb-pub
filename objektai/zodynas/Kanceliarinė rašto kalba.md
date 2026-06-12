@@ -16,7 +16,9 @@ Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­ gaikščio
 
 ## Teiginiai
 
+<a id="claim-t-32752"></a>
 - t-001
+  global_id: t-32752
   teiginys: 'Lietuvos didžiojo kunigaikščio kanceliarinė rašto kalba išsivystė iš vartotos slavų kalbos ir skyrėsi nuo maskvinės rusų kalbos.'
   pagrindžia:
     - c-001

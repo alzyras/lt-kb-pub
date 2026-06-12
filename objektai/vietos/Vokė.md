@@ -17,17 +17,23 @@ Sapiegų pajėgos Kitą dieną iš Vilniaus, kurio apylinkėse ir buvo sutelktos
 
 ## Teiginiai
 
+<a id="claim-t-85558"></a>
 - t-001
+  global_id: t-85558
   teiginys: 'Sapiegų pajėgos iš Vilniaus apylinkių pro Panerius ir Vokę išžygiavo Valkininkų kryptimi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85559"></a>
 - t-002
+  global_id: t-85559
   teiginys: 'Vytauto atkeldinti totoriai turėjo pagrindinę gyvenvietę prie Vokės upės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85560"></a>
 - t-003
+  global_id: t-85560
   teiginys: 'Vytauto į Lietuvą atkelti totoriai turėjo pagrindinę gyvenvietę prie Vokės upės.'
   pagrindžia:
     - c-001

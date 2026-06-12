@@ -26,7 +26,9 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 
 ## Teiginiai
 
+<a id="claim-t-87750"></a>
 - t-001
+  global_id: t-87750
   teiginys: 'Apie 1580 metus Vilniuje klestėjo Kasparo Vilkovskio spaustuvė, spausdinusi knygas evangelikams ir katalikams.'
   pagrindžia:
     - c-001

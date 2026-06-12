@@ -27,7 +27,9 @@ Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą A
 
 ## Teiginiai
 
+<a id="claim-t-87855"></a>
 - t-001
+  global_id: t-87855
   teiginys: 'Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią.'
   pagrindžia:
     - c-001

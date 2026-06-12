@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87012"></a>
 - t-001
+  global_id: t-87012
   teiginys: 'Pabaisko fundacijos privilegija buvo parašyta lotynų kalba ant daugiau negu uolekties ilgio ir pločio pergamento.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87014"></a>
 - t-002
+  global_id: t-87014
   teiginys: 'Žygimanto sudaryta Pabaisko fundacijos privilegija buvo įrašyta į LDK Vyriausiojo Tribunolo Viešųjų reikalų knygas.'
   pagrindžia:
     - c-001

@@ -44,22 +44,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-100022"></a>
 - t-001
+  global_id: t-100022
   teiginys: 'Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-100023"></a>
 - t-002
+  global_id: t-100023
   teiginys: 'Gedimino 1325 m. sutartis buvo pirmasis taikos sąlytis su Lenkija, prisimintas dar Liublino unijos išvakarėse.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-100024"></a>
 - t-003
+  global_id: t-100024
   teiginys: '1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi 24.000 Lietuvoje buvusių lenkų karo belaisvių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-100025"></a>
 - t-004
+  global_id: t-100025
   teiginys: 'Iš Gedimino ir Lokietkos sąjungos daugiausia naudos turėjo Lenkija, nes jos lietuviai nebepuldinėjo.'
   pagrindžia:
     - c-003

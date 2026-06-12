@@ -23,7 +23,9 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
 
 ## Teiginiai
 
+<a id="claim-t-86804"></a>
 - t-001
+  global_id: t-86804
   teiginys: '1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai Petras Białas ir Stanislovas Goštautas pasirašė amžinos taikos sutartį su caru.'
   pagrindžia:
     - c-001

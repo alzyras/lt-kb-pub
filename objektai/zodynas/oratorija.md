@@ -18,7 +18,9 @@ Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje v
 
 ## Teiginiai
 
+<a id="claim-t-86602"></a>
 - t-001
+  global_id: t-86602
   teiginys: 'Vilniaus vyskupas Povilas Alšėniškis savo sode pastatydino nedidelę oratoriją, arba koplyčią, pranciškonų kankinių palaidojimo vietoje.'
   pagrindžia:
     - c-001

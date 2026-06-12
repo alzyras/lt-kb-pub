@@ -16,12 +16,16 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
 
 ## Teiginiai
 
+<a id="claim-t-58519"></a>
 - t-001
+  global_id: t-58519
   teiginys: 'Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV, t.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58520"></a>
 - t-002
+  global_id: t-58520
   teiginys: 'Dusburgietis teigia, kad zelencovo) apylinkės su Romovupe ir Aukskalių piliakalniu, esančios į pietvakarius nuo Įsruties (dab.'
   pagrindžia:
     - c-002

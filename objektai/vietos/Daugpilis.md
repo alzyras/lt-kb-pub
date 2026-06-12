@@ -20,7 +20,6 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
-
 # Daugpilis
 
 ## Santrauka
@@ -29,28 +28,38 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 
 ## Teiginiai
 
+<a id="claim-t-181496"></a>
 - t-001
+  global_id: t-181496
   teiginys: 'Tuomet žygiuoti carinės kariuomenės tvirtovės Daugpilio link ir padedant ten tarnaujantiems iš Lietuvos kilusiems kariškiams, bandyti užimti šį svarbų strateginį punktą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-181497"></a>
 - t-002
+  global_id: t-181497
   teiginys: 'Po nepavykusio grafo Liudviko Pliaterio antpuolio prieš Rusijos kariuomenės karinio transporto gurguolę, vykstančią į Daugpilį, teko atsisakyti šios tvirtovės puolimo, nes rusų karinė vadovybė perprato sukilėlių planus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-181498"></a>
 - t-003
+  global_id: t-181498
   teiginys: 'ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-181499"></a>
 - t-004
+  global_id: t-181499
   teiginys: 'Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184938"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad norėdamas vis dėlto atsi lyginti priešui už tą antpuolį, jis, kuo greičiausiai su telkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus, užėmė Daugpilį Dauguvos V y ta u ta s n io k o ja Lipakrantėje.'
+  global_id: t-184938
+  teiginys: 'Vytautas, įsiveržęs į Livoniją ir nusiaubęs kaimus, užėmė Daugpilį Dauguvos pakrantėje.'
   pagrindžia:
     - c-005
 
@@ -128,7 +137,7 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad norėdamas vis dėlto atsi lyginti priešui už tą antpuolį, jis, kuo greičiausiai su telkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus, užėmė Daugpilį Dauguvos V y ta u ta s n io k o ja Lipakrantėje.'
+  santrauka: 'Vytautas, įsiveržęs į Livoniją ir nusiaubęs kaimus, užėmė Daugpilį Dauguvos pakrantėje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas, ligi šiol laikęs savo kariuomenę

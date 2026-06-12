@@ -25,7 +25,9 @@ sušaukęs Naugardukan pravoslavų aukš­ tuosius dvasiškius ir didikus, Kijev
 
 ## Teiginiai
 
+<a id="claim-t-35173"></a>
 - t-001
+  global_id: t-35173
   teiginys: 'Vytautas 1415 m. Naugarduke paskelbė Jurgį Cemblaką Kijevo metropolitu.'
   pagrindžia:
     - c-001

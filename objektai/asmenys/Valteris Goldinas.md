@@ -25,7 +25,9 @@ Dusburgietis teigia, kad šitai sužinojęs, brolis Valteris Goldinas, Brandenbu
 
 ## Teiginiai
 
+<a id="claim-t-60458"></a>
 - t-001
+  global_id: t-60458
   teiginys: 'Dusburgietis teigia, kad šitai sužinojęs, brolis Valteris Goldinas, Brandenburgo komtūro bičiulis, pasileido su būreliu ginklanešių pavymui, užkirto kelią, kuriuo jie turėjo žygiuoti, nes kitų kelių dėl potvynio nebebuvo likę, ir, stojęs į mūsų, nukovė visus, išskyrus tris.'
   pagrindžia:
     - c-001

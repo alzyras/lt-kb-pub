@@ -17,7 +17,9 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
 
 ## Teiginiai
 
+<a id="claim-t-18955"></a>
 - t-001
+  global_id: t-18955
   teiginys: 'Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Vienas rusų štabo karininkas stebėjosi, kodėl sukilėliai nesurengė puolimo
 
 ## Teiginiai
 
+<a id="claim-t-80659"></a>
 - t-001
+  global_id: t-80659
   teiginys: 'Vienas rusų štabo karininkas stebėjosi, kodėl sukilėliai nesurengė puolimo anksčiau, kol jie delsė, į Vilnių spėjo atvykti rusų Gvardijos divizija, artėjo ir 1-oji rezervo divizija.'
   pagrindžia:
     - c-001

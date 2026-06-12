@@ -19,27 +19,37 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
 
 ## Teiginiai
 
+<a id="claim-t-36321"></a>
 - t-001
+  global_id: t-36321
   teiginys: 'Į Konstancijos miestą, kuriame šauktas susirinkimas, suvažiavo dvasininkai, kunigaikščiai, diduomenė ir riteriai iš visos Europos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-36322"></a>
 - t-002
+  global_id: t-36322
   teiginys: 'Vytautas grasino Livonijos ordiną apskųsti Konstancijos susirinkimui dėl jo sutarties su Pskovu prieš Vytautą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-36323"></a>
 - t-003
+  global_id: t-36323
   teiginys: 'Vytautas ir Jogaila susitaikė, nes prieš Konstancijos suvažiavimą abiem rūpėjo kryžiuočių klausimas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184304"></a>
 - t-004
+  global_id: t-184304
   teiginys: 'Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184305"></a>
 - t-005
+  global_id: t-184305
   teiginys: 'Čia susitaikino ir Vytautas su Jogaila, nes abiem rūpėjo kryžiuočių klausimas sąryšy su įvykstančiu suvažiavimu Konstancijoj^2 ).'
   pagrindžia:
     - c-005

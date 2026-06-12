@@ -18,12 +18,16 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
 
 ## Teiginiai
 
+<a id="claim-t-65083"></a>
 - t-001
+  global_id: t-65083
   teiginys: 'Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo įstatymą – Lietuva jį ratifikavo 1939 m. sausio 10 d.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65084"></a>
 - t-002
+  global_id: t-65084
   teiginys: 'Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė.'
   pagrindžia:
     - c-002

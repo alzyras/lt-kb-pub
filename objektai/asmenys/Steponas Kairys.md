@@ -17,7 +17,9 @@ Smetona, Steponas Kairys, J. Kairys, Stanislovas Narutavičius, Jonas Vileišis 
 
 ## Teiginiai
 
+<a id="claim-t-64123"></a>
 - t-001
+  global_id: t-64123
   teiginys: 'Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.'
   pagrindžia:
     - c-001

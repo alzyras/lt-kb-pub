@@ -25,7 +25,9 @@ Dusburgietis teigia, kad vidurio Sembos vyskupo dokumentuose vakarinėje Semboje
 
 ## Teiginiai
 
+<a id="claim-t-61374"></a>
 - t-001
+  global_id: t-61374
   teiginys: 'Dusburgietis teigia, kad vidurio Sembos vyskupo dokumentuose vakarinėje Semboje (SU, 2, Nr. 365, p. 259; Nr. 493, p. 335; Nr. 376, p. 264—266).'
   pagrindžia:
     - c-001

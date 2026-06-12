@@ -36,12 +36,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54345"></a>
 - t-001
+  global_id: t-54345
   teiginys: 'Vytauto laikais didėjo raštijos poreikiai, lietuvių kalba dar neturėjo raštijos tradicijų, o stačiatikiai valdiniai turėjo seną rašto tradiciją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54346"></a>
 - t-002
+  global_id: t-54346
   teiginys: 'Vytauto laikais LDK raštijos poreikiai sparčiai didėjo, o lietuvių kalba dar neturėjo susiformavusios raštijos tradicijos.'
   pagrindžia:
     - c-001

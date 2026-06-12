@@ -35,27 +35,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66514"></a>
 - t-001
+  global_id: t-66514
   teiginys: 'Po bevaikio Teodoro mirties 1597 m. caru pasiskelbė Godunovas, o po šešerių metų Lenkijoje atsirado Dimitrijumi pasivadinęs jaunikaitis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-66515"></a>
 - t-002
+  global_id: t-66515
   teiginys: 'Didžioji Maskvos suirutė (1597–1613 m.): bet netrukus kilo maištas, apsimetėlis (samozvancas) Dimitrijas žuvo, o Marina su tėvu ir daugybė lenkų buvo suimti. Caru buvo paskelbtas bajoras Vasylius Šuiskis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66516"></a>
 - t-003
+  global_id: t-66516
   teiginys: '1613 m. caru buvo išrinktas metropolito Filareto sūnus Mykolas Romanovas, su kuriuo prasidėjo naujoji Maskvos carų dinastija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66517"></a>
 - t-004
+  global_id: t-66517
   teiginys: 'Didžioji Maskvos suirutė (1597–1613 m.): lenkų ponų padedamas, jis 1605 m. užėmė Maskvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66518"></a>
 - t-005
+  global_id: t-66518
   teiginys: 'Vasylių Šuiskį paskelbus caru, Maskvoje ramybė neįsigalėjo: krašte prasidėjo nauji sukilimai ir atsirado antras apsimetėlis Dimitrijas.'
   pagrindžia:
     - c-004

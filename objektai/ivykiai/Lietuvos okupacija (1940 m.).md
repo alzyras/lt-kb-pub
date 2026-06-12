@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-28842"></a>
 - t-001
+  global_id: t-28842
   teiginys: '1940 m. komunistams okupavus Lietuvą, buvo atsisakyta tradicinės Lietuvos istorijos periodizacijos.'
   pagrindžia:
     - c-001

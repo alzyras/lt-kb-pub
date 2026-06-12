@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20462"></a>
 - t-001
+  global_id: t-20462
   teiginys: '1957 m. vietoje pramonės ir statybos ministerijų įsteigtos regioninės Liaudies ūkio tarybos turėjo pertvarkyti pramonės valdymą iš šakinio į teritorinį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183268"></a>
 - t-002
+  global_id: t-183268
   teiginys: 'Naujoji tvarka daugiau teisių suteikė sąjunginėms respublikoms: jos tvirtino respublikinio pavaldumo įmonių gamybos planus, skirstė jų gaminamą produkciją, o 1957 m. vietoje pramonės ir statybos ministerijų įsteigus regionines Liaudies ūkio tarybas (LŪT).'
   pagrindžia:
     - c-001

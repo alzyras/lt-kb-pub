@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Žegota
 
 ## Santrauka
 
-Kojelavičius teigia, kad lešekas, bijodamas, kad ši nevilties sužadinta stiprybė neiš stumtų jo sutrikusių karių iš užimtų pozicijų ir nesu ardytų mūšio pradžioje visos kautynių rikiuotės, metė prieš puolančius lietuvius Žegotą, Krokuvos vaivadą, kuris vedė prityrusių karių pulką ir.
+Žegota, Krokuvos vaivada, su prityrusių karių pulku ir rūmų raiteliais atlaikė puolančius lietuvius.
 
 ## Teiginiai
 
+<a id="claim-t-186271"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad lešekas, bijodamas, kad ši nevilties sužadinta stiprybė neiš stumtų jo sutrikusių karių iš užimtų pozicijų ir nesu ardytų mūšio pradžioje visos kautynių rikiuotės, metė prieš puolančius lietuvius Žegotą, Krokuvos vaivadą, kuris vedė prityrusių karių pulką ir.'
+  global_id: t-186271
+  teiginys: 'Žegota, Krokuvos vaivada, su prityrusių karių pulku ir rūmų raiteliais atlaikė puolančius lietuvius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad lešekas, bijodamas, kad ši nevilties sužadinta stiprybė neiš stumtų jo sutrikusių karių iš užimtų pozicijų ir nesu ardytų mūšio pradžioje visos kautynių rikiuotės, metė prieš puolančius lietuvius Žegotą, Krokuvos vaivadą, kuris vedė prityrusių karių pulką ir.'
+  santrauka: 'Žegota, Krokuvos vaivada, su prityrusių karių pulku ir rūmų raiteliais atlaikė puolančius lietuvius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Len­
@@ -57,3 +58,8 @@ Kojelavičius teigia, kad lešekas, bijodamas, kad ši nevilties sužadinta stip
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -38,27 +38,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54297"></a>
 - t-001
+  global_id: t-54297
   teiginys: 'Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54298"></a>
 - t-002
+  global_id: t-54298
   teiginys: 'Didžiausią įtaką Lietuvos kultūrai darė lenkiškoji civilizacija, veikusi per bažnytinę sistemą, studijas Krokuvoje, administraciją ir ūkio reformą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54299"></a>
 - t-003
+  global_id: t-54299
   teiginys: 'Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose buvo svarbios europinės kultūros įsisavinimui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54300"></a>
 - t-004
+  global_id: t-54300
   teiginys: 'Studijos Krokuvos universitete buvo vienas lenkiškosios civilizacijos poveikio Lietuvos kultūrai būdų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183322"></a>
 - t-005
+  global_id: t-183322
   teiginys: 'Tačiau viską nulėmė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji civilizacija.'
   pagrindžia:
     - c-003

@@ -19,17 +19,23 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-22263"></a>
 - t-001
+  global_id: t-22263
   teiginys: 'Lietuvoje reformacija, palyginti su Vakarų Europa, vėlavo 22 metus ir siejama su 1539 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-22264"></a>
 - t-002
+  global_id: t-22264
   teiginys: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-22265"></a>
 - t-003
+  global_id: t-22265
   teiginys: 'Abraomas Kulvietis reformacijos idėjomis grindė programą, turėjusią lietuvių kalbą padaryti švietimo sistemos pagrindu.'
   pagrindžia:
     - c-002

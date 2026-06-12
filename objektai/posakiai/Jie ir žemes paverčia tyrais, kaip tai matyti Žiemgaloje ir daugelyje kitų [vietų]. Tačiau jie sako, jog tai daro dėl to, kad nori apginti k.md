@@ -25,12 +25,16 @@ Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lie
 
 ## Teiginiai
 
+<a id="claim-t-59105"></a>
 - t-001
+  global_id: t-59105
   teiginys: 'Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam geros valios žmogui“, dominikonų ir pranciškonų ordinams51, turėjo platų tarptautinį atgarsį. Lietuvos valstybė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59106"></a>
 - t-002
+  global_id: t-59106
   teiginys: '1322 m. laiške popiežiui Gediminas kaltino kryžiuočius žemes paverčiant tyrais ir teigiant, kad taip jie gina krikščionis.'
   pagrindžia:
     - c-002

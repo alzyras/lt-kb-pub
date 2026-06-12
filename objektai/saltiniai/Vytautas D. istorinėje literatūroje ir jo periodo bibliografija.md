@@ -22,7 +22,9 @@ Ivinskis : Vytautas D.
 
 ## Teiginiai
 
+<a id="claim-t-31972"></a>
 - t-001
+  global_id: t-31972
   teiginys: 'Z. Ivinskio „Vytautas D. istorinėje literatūroje ir jo periodo bibliografija“ paskelbta „Athenaeum“ 1931 m., p. 89-141.'
   pagrindžia:
     - c-001

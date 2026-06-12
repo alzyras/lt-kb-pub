@@ -25,7 +25,9 @@ Rygos miesto tarė­ jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323 
 
 ## Teiginiai
 
+<a id="claim-t-86544"></a>
 - t-001
+  global_id: t-86544
   teiginys: 'Vilniaus diecezijoje keturi nauji prelatų ir aštuoni kanauninkų titulai buvo skirti lenkų kunigams.'
   pagrindžia:
     - c-001

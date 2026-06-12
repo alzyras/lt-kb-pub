@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Tauridė Krymas Perekopas
 
 ## Santrauka
 
-Kojelavičius teigia, kad niekam neprieštaraujant, Jerim Berdis, atgavęs val džią, atsidėkojo Vytautui už geradarybę, atsiųsdamas per žygūnus daug visokių dovanų ir pasižadėdamas kol gyvas likti ištikimu visų karo žygių sąjungininku, Pasklidus gandui apie šią pergalę, ir Tauridės, tai.
+Po Vytauto pergalės Tauridės, tai yra Krymo arba Perekopo, skitai suartėjo su Vytautu ir Lietuva.
 
 ## Teiginiai
 
+<a id="claim-t-185313"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad niekam neprieštaraujant, Jerim Berdis, atgavęs val džią, atsidėkojo Vytautui už geradarybę, atsiųsdamas per žygūnus daug visokių dovanų ir pasižadėdamas kol gyvas likti ištikimu visų karo žygių sąjungininku, Pasklidus gandui apie šią pergalę, ir Tauridės, tai.'
+  global_id: t-185313
+  teiginys: 'Po Vytauto pergalės Tauridės, tai yra Krymo arba Perekopo, skitai suartėjo su Vytautu ir Lietuva.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad niekam neprieštaraujant, Jerim Berdis, atgavęs val džią, atsidėkojo Vytautui už geradarybę, atsiųsdamas per žygūnus daug visokių dovanų ir pasižadėdamas kol gyvas likti ištikimu visų karo žygių sąjungininku, Pasklidus gandui apie šią pergalę, ir Tauridės, tai.'
+  santrauka: 'Po Vytauto pergalės Tauridės, tai yra Krymo arba Perekopo, skitai suartėjo su Vytautu ir Lietuva.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kas

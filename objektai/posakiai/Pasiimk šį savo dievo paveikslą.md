@@ -17,12 +17,16 @@ Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščioni�
 
 ## Teiginiai
 
+<a id="claim-t-89599"></a>
 - t-001
+  global_id: t-89599
   teiginys: 'Skomantas mirties patale pasakojo, kad prieš atsivertimą pakėlė ir nuvalė pagrobtą Marijos bei jos sūnaus paveikslą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89600"></a>
 - t-002
+  global_id: t-89600
   teiginys: 'Dusburgietis teigia, kad apie Skomanto mirtį Štai koks iš aukščiausiojo malonės nuostabus atsivertimas ir pasikeitimas, štai Skomantas, anksčiau be saiko persekiojęs dievo bažnyčią, dabar tapo karštu tikėjimo gynėju ir garbingu krikščionių tautos vadu.'
   pagrindžia:
     - c-001

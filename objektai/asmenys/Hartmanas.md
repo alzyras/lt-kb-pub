@@ -26,7 +26,9 @@ Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317
 
 ## Teiginiai
 
+<a id="claim-t-60299"></a>
 - t-001
+  global_id: t-60299
   teiginys: '1317 m. brolis Hartmanas su Fridrichu Kvicu ir 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė.'
   pagrindžia:
     - c-001

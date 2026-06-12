@@ -17,7 +17,9 @@ Dusburgietis teigia, kad taip pat buvęs jų nužudytas dar vienas vyras, vardu 
 
 ## Teiginiai
 
+<a id="claim-t-60449"></a>
 - t-001
+  global_id: t-60449
   teiginys: 'Tropas buvo nužudytas ir apibūdintas kaip labai taurus bei karštai tikintis vyras.'
   pagrindžia:
     - c-001

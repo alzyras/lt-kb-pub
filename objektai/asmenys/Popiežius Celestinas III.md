@@ -18,7 +18,9 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 
 ## Teiginiai
 
+<a id="claim-t-60480"></a>
 - t-001
+  global_id: t-60480
   teiginys: 'Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje įkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai.'
   pagrindžia:
     - c-001

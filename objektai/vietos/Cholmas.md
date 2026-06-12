@@ -17,7 +17,9 @@ Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vl
 
 ## Teiginiai
 
+<a id="claim-t-36173"></a>
 - t-001
+  global_id: t-36173
   teiginys: 'Cholmo stačiatikių vyskupas kartu su kitais vyskupais išleido aplinkraštį dėl savo teisių gynimo nuo Rusijos metropolitų.'
   pagrindžia:
     - c-001

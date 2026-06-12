@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-34469"></a>
 - t-001
+  global_id: t-34469
   teiginys: '1422 m. Devletas pabandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko.'
   pagrindžia:
     - c-001

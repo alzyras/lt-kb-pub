@@ -16,7 +16,9 @@ Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, | | Aukštadvarį ir pa
 
 ## Teiginiai
 
+<a id="claim-t-41604"></a>
 - t-001
+  global_id: t-41604
   teiginys: 'Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį, kol pasiekė Jiezną.'
   pagrindžia:
     - c-001

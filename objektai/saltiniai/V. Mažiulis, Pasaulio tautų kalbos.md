@@ -17,7 +17,9 @@ Dusburgietis teigia, kad 14 Mažiulis V.
 
 ## Teiginiai
 
+<a id="claim-t-61332"></a>
 - t-001
+  global_id: t-61332
   teiginys: 'V. Mažiulio „Pasaulio tautų kalbos“ cituojama nurodant 11–12 puslapius.'
   pagrindžia:
     - c-001

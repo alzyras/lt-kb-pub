@@ -16,7 +16,9 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 
 ## Teiginiai
 
+<a id="claim-t-40525"></a>
 - t-001
+  global_id: t-40525
   teiginys: 'Vytautas Gužas-Kardas nurodytas kaip Vakarų Lietuvos srities štabo viršininkas.'
   pagrindžia:
     - c-001

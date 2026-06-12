@@ -25,7 +25,9 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
 
 ## Teiginiai
 
+<a id="claim-t-87524"></a>
 - t-001
+  global_id: t-87524
   teiginys: 'Jonas de Gandas buvo Lankasterio kunigaikštis, Ričardo II dėdė ir Henriko Lankasterio tėvas.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Stryjkowski: Kronika Polska, Litewska etc ., I, 1846, 370-372 p.
 
 ## Teiginiai
 
+<a id="claim-t-31843"></a>
 - t-001
+  global_id: t-31843
   teiginys: 'M. Stryjkowskio „Kronika Polska, Litewska etc.“ I tomas cituojamas 1846 m. leidimo 370–372 puslapiuose.'
   pagrindžia:
     - c-001

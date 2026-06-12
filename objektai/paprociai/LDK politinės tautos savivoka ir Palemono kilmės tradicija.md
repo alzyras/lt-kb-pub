@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54264"></a>
 - t-001
+  global_id: t-54264
   teiginys: 'Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę vesti iš Palemono tradicijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54265"></a>
 - t-002
+  global_id: t-54265
   teiginys: 'Palemono legenda Lietuvos metraščiuose tapo pagrindu lietuvių ir rusėnų bajorijai grįsti savo kilmę Palemono tradicija.'
   pagrindžia:
     - c-001

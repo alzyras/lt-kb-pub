@@ -24,7 +24,9 @@ Pisani, V.: II paganesimo balto-slavo, Storia delle religioni, red. G.
 
 ## Teiginiai
 
+<a id="claim-t-31042"></a>
 - t-001
+  global_id: t-31042
   teiginys: 'V. Pisani parašė darbą „Il paganesimo balto-slavo“, paskelbtą leidinyje „Storia delle religioni“.'
   pagrindžia:
     - c-001

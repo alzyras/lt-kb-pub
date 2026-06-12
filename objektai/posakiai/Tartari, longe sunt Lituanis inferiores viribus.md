@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86873"></a>
 - t-001
+  global_id: t-86873
   teiginys: 'Teiginyje „Tartari, longe sunt Lituanis inferiores viribus“ totoriai jėga laikomi gerokai silpnesniais už lietuvius.'
   pagrindžia:
     - c-001

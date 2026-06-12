@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86205"></a>
 - t-001
+  global_id: t-86205
   teiginys: '1746 m. Kazimieras ir Mykolas Vežbickiai Liaudanskų mūrinį namą Turgaus gatvėje skyrė bibliotekai knygoms gausinti.'
   pagrindžia:
     - c-001

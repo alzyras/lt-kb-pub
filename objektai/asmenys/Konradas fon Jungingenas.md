@@ -26,7 +26,9 @@ Munkaviškės Didysis Ordino magistras, vyriausiasis Ordino kariuomenės vadas U
 
 ## Teiginiai
 
+<a id="claim-t-39580"></a>
 - t-001
+  global_id: t-39580
   teiginys: 'Konradas fon Jungingenas rekomendavo neišrinkti savo brolio Ulricho didžiuoju magistru, nes jo karštakošiškumas galėjo atnešti nelaimę Ordinui.'
   pagrindžia:
     - c-001

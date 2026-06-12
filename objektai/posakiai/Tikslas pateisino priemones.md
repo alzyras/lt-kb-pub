@@ -26,7 +26,9 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
 
 ## Teiginiai
 
+<a id="claim-t-67287"></a>
 - t-001
+  global_id: t-67287
   teiginys: 'Vytautas dėl savo teisių kovojo ne visai teisėtu būdu, o jo tikslas pateisino priemones.'
   pagrindžia:
     - c-001

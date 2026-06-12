@@ -23,12 +23,16 @@ Pėstininko užrašai / Dokumentinis romanas, Vilnius, 2012, p. 309. Pėstininko
 
 ## Teiginiai
 
+<a id="claim-t-80755"></a>
 - t-001
+  global_id: t-80755
   teiginys: 'Pėstininko užrašai, p. 327.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-80756"></a>
 - t-002
+  global_id: t-80756
   teiginys: 'Pėstininko užrašai / Dokumentinis romanas, Vilnius, 2012, p. 309.'
   pagrindžia:
     - c-002

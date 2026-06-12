@@ -16,13 +16,10 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 
 ## Teiginiai
 
+<a id="claim-t-02936"></a>
 - t-001
+  global_id: t-02936
   teiginys: 'Ščucine buvo įkurta pijarų mokykla.'
-  pagrindžia:
-    - c-001
-
-- t-002
-  teiginys: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
   pagrindžia:
     - c-001
 

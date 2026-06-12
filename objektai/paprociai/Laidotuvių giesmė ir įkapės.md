@@ -30,7 +30,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-07790"></a>
 - t-001
+  global_id: t-07790
   teiginys: 'Laidodami mirusįjį lietuviai giedodavo palydos giesmę apie laimingesnį antrą gyvenimą ir į kapus dėdavo daiktus kaip žemiškojo darbo ženklą.'
   pagrindžia:
     - c-001

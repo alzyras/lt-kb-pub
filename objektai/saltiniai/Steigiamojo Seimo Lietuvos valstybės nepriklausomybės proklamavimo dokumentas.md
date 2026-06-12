@@ -25,7 +25,9 @@ Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.
 
 ## Teiginiai
 
+<a id="claim-t-78139"></a>
 - t-001
+  global_id: t-78139
   teiginys: 'Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.'
   pagrindžia:
     - c-001

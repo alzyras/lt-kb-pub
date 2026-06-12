@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Liublino kraštas (kraštas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad nuniokojęs Liublino žemes, jis jau siaubė Sandomiro kraštą.
+Po Liublino žemių nuniokojimo priešas siaubė Sandomiro kraštą.
 
 ## Teiginiai
 
+<a id="claim-t-185269"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad nuniokojęs Liublino žemes, jis jau siaubė Sandomiro kraštą.'
+  global_id: t-185269
+  teiginys: 'Po Liublino žemių nuniokojimo priešas siaubė Sandomiro kraštą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad nuniokojęs Liublino žemes, jis jau siaubė Sandomiro kraštą.'
+  santrauka: 'Po Liublino žemių nuniokojimo priešas siaubė Sandomiro kraštą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Boleslovo Droviojo sos-

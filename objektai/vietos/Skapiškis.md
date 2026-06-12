@@ -16,7 +16,9 @@ Skapiškis: patys parapijonys daug kur ėmė bausti apylinkės girtuoklius, o bl
 
 ## Teiginiai
 
+<a id="claim-t-69253"></a>
 - t-001
+  global_id: t-69253
   teiginys: 'Skapiškis: patys parapijonys daug kur ėmė bausti apylinkės girtuoklius, o blaivybei paminėti statė kryžius ir paminklus.'
   pagrindžia:
     - c-001

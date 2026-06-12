@@ -37,17 +37,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01594"></a>
 - t-001
+  global_id: t-01594
   teiginys: 'Per 1863 m. sukilimą Muravjovas uždraudė visokius susibūrimus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01595"></a>
 - t-002
+  global_id: t-01595
   teiginys: 'Vilniaus generalgubernatorius ir Kauno gubernatorius draudė blaivybės brolijas, nes tuo metu buvo uždraustos visos draugijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01596"></a>
 - t-003
+  global_id: t-01596
   teiginys: 'Blaivybės brolijų panaikinimas nutraukė tautos blaivinimo darbą ir ilgam paliko Lietuvą be organizacijų.'
   pagrindžia:
     - c-003

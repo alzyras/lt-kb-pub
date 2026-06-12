@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40776"></a>
 - t-001
+  global_id: t-40776
   teiginys: 'Dvinariai žąslai su skersinukais buvo būdingi tik Lietuvai.'
   pagrindžia:
     - c-001

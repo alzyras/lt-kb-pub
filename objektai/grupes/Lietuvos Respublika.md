@@ -17,22 +17,30 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 
 ## Teiginiai
 
+<a id="claim-t-74767"></a>
 - t-001
+  global_id: t-74767
   teiginys: 'Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-74768"></a>
 - t-002
+  global_id: t-74768
   teiginys: 'Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė 1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir nacionaliniais pagrindais – Lietuvos Respubliką.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-74769"></a>
 - t-003
+  global_id: t-74769
   teiginys: 'XIX–XX a. sandūroje „jaunalietuviai“ ėmė oponuoti „senalietuviams“ ir po poros dešimtmečių sukūrė Lietuvos Respubliką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74770"></a>
 - t-004
+  global_id: t-74770
   teiginys: 'Remiantis tokia lenkiška Lietuvos samprata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba.'
   pagrindžia:
     - c-002

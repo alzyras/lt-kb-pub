@@ -16,7 +16,9 @@ Porai mėnesių praslinkus, būtent spalių 1 d. įvyko antras susivažiavimas K
 
 ## Teiginiai
 
+<a id="claim-t-36320"></a>
 - t-001
+  global_id: t-36320
   teiginys: 'Spalio 1 d. Kolomnoje įvyko antras susivažiavimas, kuriame Vytautas siekė Smolensko paėmimo aprobavimo.'
   pagrindžia:
     - c-001

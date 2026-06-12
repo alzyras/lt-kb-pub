@@ -17,7 +17,9 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
 
 ## Teiginiai
 
+<a id="claim-t-21830"></a>
 - t-001
+  global_id: t-21830
   teiginys: 'Tryškiuose aktorius Davidas Suchetas ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.'
   pagrindžia:
     - c-001

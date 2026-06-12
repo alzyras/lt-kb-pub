@@ -22,7 +22,9 @@ Iš Rudaičių ir Veliuonos kapinynų duomenų pateikė M.
 
 ## Teiginiai
 
+<a id="claim-t-32513"></a>
 - t-001
+  global_id: t-32513
   teiginys: 'M. Michelbertas pateikė duomenų iš Rudaičių ir Veliuonos kapinynų.'
   pagrindžia:
     - c-001

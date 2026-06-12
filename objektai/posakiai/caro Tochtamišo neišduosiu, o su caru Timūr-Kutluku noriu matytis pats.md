@@ -20,12 +20,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-09683"></a>
 - t-001
+  global_id: t-09683
   teiginys: 'Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad Tochtamišo neišduos ir su Timūr-Kutluku nori matytis pats.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-09684"></a>
 - t-002
+  global_id: t-09684
   teiginys: 'Vytautas pareiškė, kad caro Tochtamišo neišduos, o su caru Timūr-Kutluku nori susitikti pats.'
   pagrindžia:
     - c-001

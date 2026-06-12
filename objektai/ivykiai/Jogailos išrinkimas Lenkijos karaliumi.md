@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-28815"></a>
 - t-001
+  global_id: t-28815
   teiginys: '1386 m. vasario 2 d. Liubline kilmingųjų seimas Jogailą išrinko Lenkijos karaliumi.'
   pagrindžia:
     - c-001

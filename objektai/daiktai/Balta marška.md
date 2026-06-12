@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59678"></a>
 - t-001
+  global_id: t-59678
   teiginys: 'Atsivertęs pabūklų meistras į Prūsiją atsivežė baltą maršką, kuria jį buvo užkloję kaip numirėlį.'
   pagrindžia:
     - c-001

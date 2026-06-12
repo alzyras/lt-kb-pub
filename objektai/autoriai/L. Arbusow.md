@@ -24,12 +24,16 @@ Arbusow, Grundriss d. Geschichte Liw-, Estund Kurlands (1889; yra dar 3 laidos);
 
 ## Teiginiai
 
+<a id="claim-t-64694"></a>
 - t-001
+  global_id: t-64694
   teiginys: 'L. Arbusow nurodomas 1928 m. „Acta Universitatis Latviensis“ paskelbto darbo „Römischer Arbeitsbericht“ autoriumi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64695"></a>
 - t-002
+  global_id: t-64695
   teiginys: 'L. Arbusow parašė darbą „Römischer Arbeitsbericht“.'
   pagrindžia:
     - c-001

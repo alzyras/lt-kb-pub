@@ -16,7 +16,9 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 
 ## Teiginiai
 
+<a id="claim-t-35047"></a>
 - t-001
+  global_id: t-35047
   teiginys: 'Chanas Devletberdi įsigalėjo Kryme, susitaikė su Vytautu ir vėliau buvo Machmeto nužudytas.'
   pagrindžia:
     - c-001

@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad s k ita i n io k o ja R usią Tuo metu sugrįžo iš baž nytinio suvažiavimo pasiun tiniai, taip sutvarkę reikalus, kaip norėjo karalius, be to, parsivežu laišką, kuriuo Lvovo arkivyskupui ir Vil niaus vyskupui patikėta uždavinys įsteigti Žemaičių vys kupystę. Kojelavičius teigia, kad vytauto pa kviesti pasiuntiniai negaišdami atvyko į Žemaitiją.
+Iš bažnytinio suvažiavimo grįžę pasiuntiniai parvežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę. Vytauto pakviesti pasiuntiniai greitai atvyko į Žemaitiją ir naujuoju ganytoju paskyrė lietuvį Motiejų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185718"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad s k ita i n io k o ja R usią Tuo metu sugrįžo iš baž nytinio suvažiavimo pasiun tiniai, taip sutvarkę reikalus, kaip norėjo karalius, be to, parsivežu laišką, kuriuo Lvovo arkivyskupui ir Vil niaus vyskupui patikėta uždavinys įsteigti Žemaičių vys kupystę.'
+  global_id: t-185718
+  teiginys: 'Iš bažnytinio suvažiavimo grįžę pasiuntiniai parvežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185719"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad vytauto pa kviesti pasiuntiniai negaišdami atvyko į Žemaitiją.'
+  global_id: t-185719
+  teiginys: 'Vytauto pakviesti pasiuntiniai greitai atvyko į Žemaitiją ir naujuoju ganytoju paskyrė lietuvį Motiejų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad s k ita i n io k o ja R usią Tuo metu sugrįžo iš baž nytinio suvažiavimo pasiun tiniai, taip sutvarkę reikalus, kaip norėjo karalius, be to, parsivežu laišką, kuriuo Lvovo arkivyskupui ir Vil niaus vyskupui patikėta uždavinys įsteigti Žemaičių vys kupystę.'
+  santrauka: 'Iš bažnytinio suvažiavimo grįžę pasiuntiniai parvežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vy­
@@ -77,7 +80,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad vytauto pa kviesti pasiuntiniai negaišdami atvyko į Žemaitiją.'
+  santrauka: 'Vytauto pakviesti pasiuntiniai greitai atvyko į Žemaitiją ir naujuoju ganytoju paskyrė lietuvį Motiejų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Be
@@ -115,3 +118,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Drabužiai]]
+- [[objektai/zodynas/vyskupystė]]
+- [[objektai/grupes/Konstancos suvažiavimas]]

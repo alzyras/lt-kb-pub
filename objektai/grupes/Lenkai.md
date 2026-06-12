@@ -37,923 +37,742 @@ amziai:
 
 Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiškai visuomenei. Lenkai yra Traidenio karo priešininkai.
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/grupes/1-oji pėstininkų divizija]]
-- [[objektai/grupes/13-asis ulonų pulkas]]
-- [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]
-- [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas|1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas (privilegija)]]
-- [[objektai/ivykiai/1425 m. Bresto (Kujavijoj) seimas|1425 m. Bresto (Kujavijoj) seimas (seimas, XV a.)]]
-- [[objektai/ivykiai/1426 m. Lietuvos Brastos suvažiavimas]]
-- [[objektai/ivykiai/1428 m. Lenčicos suvažiavimas]]
-- [[objektai/ivykiai/1430 m. Jedlno seimo suvažiavimas|1430 m. Jedlno seimo suvažiavimas (seimas, XV a.)]]
-- [[objektai/ivykiai/1432 m. perversmas ir Zigmanto Kęstutaičio iškėlimas]]
-- [[objektai/grupes/201-asis pėstininkų pulkas]]
-- [[objektai/grupes/4-asis pėstininkų pulkas]]
-- [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
-- [[objektai/grupes/9-asis pėstininkų pulkas]]
-- [[objektai/autoriai/A. Mickevičius]]
-- [[objektai/grupes/A. Mokšeckio brigada]]
-- [[objektai/asmenys/Adomas Jakštas-Dambrauskas]]
-- [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
-- [[objektai/posakiai/Aktai sau, gyvenimas nuėjo sau]]
-- [[objektai/asmenys/Albertas (Vaitiekus) Sampolinskis]]
-- [[objektai/asmenys/Albertas Manvydas]]
-- [[objektai/autoriai/Aleksandro Gvanjinio]]
-- [[objektai/ivykiai/Andriaus ir koalicijos sutriuškinimas]]
-- [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/grupes/Antantė]]
-- [[objektai/zodynas/Antisemitizmas]]
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Armija Krajova]]
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/paprociai/Atskiri Lietuvos seimai karo ir tarpuvaldžio metu]]
-- [[objektai/asmenys/Augustas Zaleskis]]
-- [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]
-- [[objektai/asmenys/Augustinas Voldemaras]]
-- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba|Aukščiausioji Santarvininkių Taryba (institucija)]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/paprociai/Bajorijos teisių reikalavimas ir pareigų mažinimas]]
-- [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)]]
-- [[objektai/autoriai/Bačkauskas Tamošauskas]]
-- [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]
-- [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]
-- [[objektai/asmenys/Benediktas Makras]]
-- [[objektai/ivykiai/Berno konferencija (1916 m. kovo 1–5 d.)]]
-- [[objektai/asmenys/Boleslovas Maldingasis]]
-- [[objektai/daiktai/Bomba]]
-- [[objektai/asmenys/Bonifacas IX]]
-- [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
-- [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]
-- [[objektai/posakiai/Christ ist erstanden]]
-- [[objektai/asmenys/Cipkevičius]]
-- [[objektai/posakiai/Damoklo kardas tikrai pakibo ant unijos|Damoklo kardas tikrai pakibo ant unijos (unija)]]
-- [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]]
-- [[objektai/grupes/Didžlenkiai]]
-- [[objektai/asmenys/Dmitrijus]]
-- [[objektai/daiktai/Durtuvas]]
-- [[objektai/asmenys/E. Koso]]
-- [[objektai/paprociai/Elekcijų dalyvavimo tvarka lenkai viritim, lietuviai atstovais]]
-- [[objektai/autoriai/F. Gause]]
-- [[objektai/asmenys/Fiodoras]]
-- [[objektai/autoriai/Fr. Benninghoven]]
-- [[objektai/autoriai/Fr. Mager]]
-- [[objektai/paprociai/Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse]]
-- [[objektai/autoriai/G. Rhode]]
-- [[objektai/grupes/Gardino pulkas]]
-- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
-- [[objektai/ivykiai/Giedraičių kautynės]]
-- [[objektai/ivykiai/Giedraičių kautynės (1920 m.)]]
-- [[objektai/daiktai/Ginklai ir ginkluotė]]
-- [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
-- [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)]]
-- [[objektai/asmenys/Henrikas von Plauenas]]
-- [[objektai/daiktai/Herbas]]
-- [[objektai/ivykiai/Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.)]]
-- [[objektai/asmenys/Inocentas VI]]
-- [[objektai/asmenys/Ivanas IV Rūstusis]]
-- [[objektai/asmenys/J. Kraševskis]]
-- [[objektai/autoriai/J. Ochmański]]
-- [[objektai/asmenys/J. Pilsudskis]]
-- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
-- [[objektai/autoriai/Jakštas, J]]
-- [[objektai/grupes/Jogailos palikuonys]]
-- [[objektai/asmenys/Jokūbas iš Kobylanų]]
-- [[objektai/asmenys/Jonas Karolis Katkevičius]]
-- [[objektai/asmenys/Jonas Tarnovskis]]
-- [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]
-- [[objektai/asmenys/Jonušas Svierčiovskis]]
-- [[objektai/asmenys/Jurgis (Lengvenio sūnus)]]
-- [[objektai/grupes/Jutrzenka]]
-- [[objektai/asmenys/Juzefas Ignacas Kraševskis]]
-- [[objektai/asmenys/Juzefas Pilsudskis]]
-- [[objektai/posakiai/Jūs abu esate mūsų viešpačiai]]
-- [[objektai/posakiai/Jūs abudu esate mūsų valdovai]]
-- [[objektai/autoriai/K. Chodynicki]]
-- [[objektai/autoriai/K. Kantrimas]]
-- [[objektai/ivykiai/Karas su Maskva (1609–1613 m.)]]
-- [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui]]
-- [[objektai/grupes/Kariuomenės ir Iždo komisijos]]
-- [[objektai/grupes/Kariškoji Lenkų Organizacija (P.O.W.)]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/ivykiai/Kauno bolševikų sukurstytas maištas (1920 m. vasario 22–23 d.)]]
-- [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
-- [[objektai/asmenys/Kazimieras]]
-- [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
-- [[objektai/zodynas/Kerzono linija]]
-- [[objektai/asmenys/Kinsgaila]]
-- [[objektai/zodynas/Klaipėdiškiai]]
-- [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]
-- [[objektai/asmenys/Klemensas Moskorzewskis]]
-- [[objektai/autoriai/Kochanovskis]]
-- [[objektai/autoriai/Kondratavičius]]
-- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
-- [[objektai/asmenys/Konradas Wallenrodas]]
-- [[objektai/asmenys/Konradas fon Jungingenas]]
-- [[objektai/ivykiai/Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)]]
-- [[objektai/paprociai/Konspiracinė P.O.W. organizacijos veikla]]
-- [[objektai/autoriai/Kraševskis]]
-- [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
-- [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
-- [[objektai/daiktai/Kryžiuočių kariuomenės vėliavos]]
-- [[objektai/ivykiai/Krėvos sutarties priėmimas|Krėvos sutarties priėmimas (sutartis)]]
-- [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
-- [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
-- [[objektai/ivykiai/Kėzmarko pasitarimai su Zigmantu dėl karūnos]]
-- [[objektai/grupes/L. Želigovskio pajėgos]]
-- [[objektai/asmenys/L. Želigovskis]]
-- [[objektai/grupes/Lenkijos karalystės kariuomenė]]
-- [[objektai/ivykiai/Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)]]
-- [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
-- [[objektai/grupes/Lenkų bajorai]]
-- [[objektai/grupes/Lenkų bajorija]]
-- [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]
-- [[objektai/paprociai/Lenkų kalbos pasirinkimas LDK protestantiškoje ir politinio elito raštijoje]]
-- [[objektai/paprociai/Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite]]
-- [[objektai/grupes/Lenkų karalystė]]
-- [[objektai/grupes/Lenkų karinė organizacija]]
-- [[objektai/grupes/Lenkų krikščionys demokratai]]
-- [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
-- [[objektai/grupes/Lenkų socialistų partija]]
-- [[objektai/ivykiai/Lenkų sąmokslas Lietuvoje (P.O.W.) (1919 m. rugpiūčio 28–29 d. naktis)]]
-- [[objektai/posakiai/Lietuva tesanti Rusijos provincija ir todėl jos negalima prijungti prie Lenkijos]]
-- [[objektai/grupes/Lietuviškoji socialdemokratų partija]]
-- [[objektai/ivykiai/Lietuviškosios socialdemokratų partijos susikūrimas]]
-- [[objektai/ivykiai/Lietuviškosios spaudos draudimas ir rusiškų raidžių įvedimas (1864—1865 m.)]]
-- [[objektai/grupes/Lietuvių Mokslo Draugija]]
-- [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]
-- [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
-- [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]
-- [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]
-- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
-- [[objektai/grupes/Lietuvos demokratų partija]]
-- [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]
-- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
-- [[objektai/ivykiai/Lietuvos priėmimas į Tautų Sąjungą (1921 m. rugsėjo 22 d.)]]
-- [[objektai/grupes/Lietuvos seimas (XVI a.)]]
-- [[objektai/grupes/Liublino seimas|Liublino seimas (seimas)]]
-- [[objektai/ivykiai/Liublino unija (1569 m.)]]
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/autoriai/M. Bielski]]
-- [[objektai/autoriai/M. Kromer]]
-- [[objektai/posakiai/MIRTIES AKIVAIZDOJE]]
-- [[objektai/ivykiai/Maironio knygų „Pavasario balsai“ ir „Jaunoji Lietuva“ išleidimas]]
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/asmenys/Marija]]
-- [[objektai/asmenys/Marija (Liudviko duktė)]]
-- [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
-- [[objektai/asmenys/Markvardas Zalzbachas]]
-- [[objektai/grupes/Mažalenkiai]]
-- [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!]]
-- [[objektai/asmenys/Mikalojus Maskoževskis]]
-- [[objektai/asmenys/Mikalojus Sapienskis]]
-- [[objektai/grupes/Mokomoji kuopa]]
-- [[objektai/grupes/Mokslo mėgėjų draugija Krokuvoje]]
-- [[objektai/paprociai/Mokymas lotyniškai, iš dalies lenkiškai, Vyriausiojoje Lietuvos Mokykloje]]
-- [[objektai/asmenys/Motiejus Strijkovskis]]
-- [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/autoriai/Mykolas Kleopas Oginskis]]
-- [[objektai/asmenys/Mykolas Küchmeisteris]]
-- [[objektai/asmenys/Mykolas Tromba]]
-- [[objektai/asmenys/Mykolas Velhorskis]]
-- [[objektai/grupes/Naujoji Lenkų Valstybės Taryba|Naujoji Lenkų Valstybės Taryba (institucija)]]
-- [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
-- [[objektai/zodynas/Nepriklausomybės kovos]]
-- [[objektai/grupes/Nuolatinė Taryba|Nuolatinė Taryba (institucija)]]
-- [[objektai/autoriai/O. Balzeris]]
-- [[objektai/autoriai/O. Halecki]]
-- [[objektai/grupes/Oberostas]]
-- [[objektai/asmenys/Olesnickio]]
-- [[objektai/asmenys/Ona (Zigmanto Augusto sesuo)]]
-- [[objektai/daiktai/Ordino komtūrų barzdos]]
-- [[objektai/grupes/Osmanų Turkija]]
-- [[objektai/grupes/Oswiata]]
-- [[objektai/asmenys/Otokaras (Čekijos karalius)]]
-- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
-- [[objektai/ivykiai/Paliaubų protokolo pasirašymas Kaune]]
-- [[objektai/paprociai/Panedėlio už grieką laikymas]]
-- [[objektai/daiktai/Parakas]]
-- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
-- [[objektai/ivykiai/Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.)]]
-- [[objektai/ivykiai/Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)]]
-- [[objektai/grupes/Pochodnia]]
-- [[objektai/grupes/Podoliečiai]]
-- [[objektai/paprociai/Protestantų pamaldos lenkiškai]]
-- [[objektai/zodynas/Rašliava]]
-- [[objektai/grupes/Riurikaičių dinastija]]
-- [[objektai/asmenys/Romanas Dmovskis]]
-- [[objektai/grupes/Romanovų dinastija]]
-- [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]
-- [[objektai/zodynas/Rusiškosios raidės]]
-- [[objektai/asmenys/S. Radziševskis]]
-- [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė|Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė (seimas)]]
-- [[objektai/ivykiai/Seimų vietos įstatymo priėmimas (1673 m.)]]
-- [[objektai/grupes/Senalietuviai]]
-- [[objektai/grupes/Slavofilai]]
-- [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
-- [[objektai/asmenys/Spytekas iš Melštyno]]
-- [[objektai/asmenys/Stanislovas Ciołek]]
-- [[objektai/asmenys/Stanislovas Liubomirskis]]
-- [[objektai/paprociai/Steigiamojo seimo rinkimų tvarka|Steigiamojo seimo rinkimų tvarka (seimas)]]
-- [[objektai/asmenys/Sungaila]]
-- [[objektai/grupes/Susivienijimas Lietuvių Amerikoje]]
-- [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]
-- [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]
-- [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas]]
-- [[objektai/paprociai/Suvažiavimų rengimas arti Lietuvos sienos]]
-- [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.)]]
-- [[objektai/paprociai/Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas]]
-- [[objektai/autoriai/T. Wierzbowski]]
-- [[objektai/asmenys/T. Čarkovskis]]
-- [[objektai/autoriai/Tadas Korsakas]]
-- [[objektai/grupes/Tautininkų grupuotė apie „Viltį“]]
-- [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]
-- [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]
-- [[objektai/paprociai/Tautos istorijos atminties saugojimas piliečių lūpose]]
-- [[objektai/grupes/Tautų Sąjunga]]
-- [[objektai/grupes/Tautų Sąjungos kontrolės komisija]]
-- [[objektai/posakiai/Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat sa]]
-- [[objektai/posakiai/Tegyvuoja gegužės 3 d. konstitucija!]]
-- [[objektai/zodynas/Teritorinė autonomija]]
-- [[objektai/zodynas/Tiesioginis valdymas]]
-- [[objektai/grupes/Tochtamišo totoriai]]
-- [[objektai/posakiai/Tėve mūsų ir Tikiu Dievą]]
-- [[objektai/asmenys/Vaclovas Pragiečius]]
-- [[objektai/asmenys/Vaitiekus Jastrzembiec]]
-- [[objektai/grupes/Varšuvos seimas|Varšuvos seimas (seimas)]]
-- [[objektai/grupes/Vazų dinastija]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/ivykiai/Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte|Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte (kraštas)]]
-- [[objektai/asmenys/Vileniškis]]
-- [[objektai/asmenys/Vilhelmas Habsburgas]]
-- [[objektai/grupes/Vilniaus Lietuvių Mokslo Draugija]]
-- [[objektai/ivykiai/Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)]]
-- [[objektai/grupes/Vilniaus mokslo bičiulių draugija]]
-- [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]
-- [[objektai/ivykiai/Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)]]
-- [[objektai/posakiai/Vilniuje karalius turi gan puikios artilerijos]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Vladislovas (Jogailos sūnus)]]
-- [[objektai/asmenys/Vladislovas (Kazimiero sūnus)]]
-- [[objektai/asmenys/Vladislovas iš Opolijos]]
-- [[objektai/asmenys/Vladislovas Łokietka]]
-- [[objektai/grupes/Voluiniečiai]]
-- [[objektai/asmenys/Vosylius (Maskvos kunigaikštis)]]
-- [[objektai/asmenys/Vosylius I]]
-- [[objektai/paprociai/Vyresnybės įsakymų skelbimas krivūle]]
-- [[objektai/autoriai/W. Conze]]
-- [[objektai/autoriai/Wł. Semkowiczius]]
-- [[objektai/asmenys/Zbignievas Olesnickis]]
-- [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]]
-- [[objektai/asmenys/Zigmantas Kaributas]]
-- [[objektai/ivykiai/Zigmanto Vazos elekcija (1587 m.)]]
-- [[objektai/asmenys/Zyndramas iš Moškovicų]]
-- [[objektai/zodynas/administracinė linija demarkacijos linija]]
-- [[objektai/zodynas/applicare prišlieti]]
-- [[objektai/zodynas/apsigynimo ir puolimo sutartis|apsigynimo ir puolimo sutartis (sutartis)]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/apygardinė mokykla apygardėlinė mokykla]]
-- [[objektai/zodynas/atskiri seimai]]
-- [[objektai/zodynas/Batviniai|batviniai]]
-- [[objektai/zodynas/baudžiava baudžiavinė priklausomybė]]
-- [[objektai/zodynas/bolševizacija]]
-- [[objektai/zodynas/demarkacijos linija]]
-- [[objektai/posakiai/deržati mi jeho vyše vseje našeje bratije]]
-- [[objektai/zodynas/egzekucija]]
-- [[objektai/zodynas/etnolingvistinis nacionalizmas]]
-- [[objektai/zodynas/federacija federacinė valstybė]]
-- [[objektai/zodynas/flangas]]
-- [[objektai/zodynas/gudų rašto kalba]]
-- [[objektai/zodynas/humanistinė istoriografija]]
-- [[objektai/asmenys/imperatorius Zigmantas]]
-- [[objektai/zodynas/integracinė kalba polonizacija]]
-- [[objektai/zodynas/karūnacija karūnuotis]]
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/zodynas/klaipėdiečiai klaipėdiškiai]]
-- [[objektai/zodynas/kultūrinė autonomija]]
-- [[objektai/zodynas/Lažas|lažas]]
-- [[objektai/zodynas/luomas subluomas]]
-- [[objektai/zodynas/metrika]]
-- [[objektai/zodynas/mokytojų seminarija]]
-- [[objektai/zodynas/neutralitetas]]
-- [[objektai/zodynas/organinis nacionalizmas]]
-- [[objektai/zodynas/paliaubos]]
-- [[objektai/zodynas/perdėtinis]]
-- [[objektai/zodynas/piastas]]
-- [[objektai/zodynas/polonizacija]]
-- [[objektai/zodynas/polonizacija integracinė kalba]]
-- [[objektai/posakiai/prieš vėją nepapūs]]
-- [[objektai/autoriai/prof. dr. St. Kutrzeba]]
-- [[objektai/zodynas/Pusrytės|pusrytės]]
-- [[objektai/zodynas/regestai]]
-- [[objektai/zodynas/regestas regestai]]
-- [[objektai/zodynas/rekvizicijos]]
-- [[objektai/zodynas/rezervai]]
-- [[objektai/zodynas/rezervas]]
-- [[objektai/zodynas/rusinimas]]
-- [[objektai/zodynas/rusinimas rusinimo politika]]
-- [[objektai/zodynas/samozvancas]]
-- [[objektai/zodynas/savarankiškumas]]
-- [[objektai/zodynas/senalietuviai jaunalietuviai]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/seniūnas storasta]]
-- [[objektai/zodynas/separatizmas]]
-- [[objektai/zodynas/statuto dėsniai]]
-- [[objektai/posakiai/sąmyšio metai]]
-- [[objektai/zodynas/tautinis krikštas|tautinis krikštas (krikštas)]]
-- [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma]]
-- [[objektai/zodynas/tėviškė]]
-- [[objektai/zodynas/urėdas]]
-- [[objektai/zodynas/vachmistras]]
-- [[objektai/zodynas/viršila]]
-- [[objektai/asmenys/Česlovas Milošas]]
-- [[objektai/ivykiai/Čičinsko seimo išardymas (1652 m.)]]
-- [[objektai/asmenys/Čupurna]]
-- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
-- [[objektai/daiktai/Šarvai]]
-- [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
-- [[objektai/daiktai/Šarvinės pirštinės]]
-- [[objektai/daiktai/Šarvuotasis traukinys Gediminas]]
-- [[objektai/asmenys/Šidiškis]]
-- [[objektai/posakiai/Širvintų stebuklas]]
-- [[objektai/ivykiai/Štumdorfo paliaubos (1635 m.)]]
-- [[objektai/daiktai/Šv. Vaclovo karūna]]
-- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
-- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]
-- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]
-- [[objektai/zodynas/šlėkta]]
-- [[objektai/daiktai/Ūkės lazda]]
-- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
-- [[objektai/ivykiai/Želigovskio smurtas (1920 m. spalio 8–9 d.)]]
-- [[objektai/paprociai/Žydų prekybos ribojimas pilyse iki pusrytės]]
-- [[objektai/posakiai/„Kristus prisikėlė“]]
-- [[objektai/posakiai/„Przenigdy“ „Niekados“]]
-- [[objektai/paprociai/„Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams|„Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams (sukilimas)]]
-- [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]
-- [[objektai/posakiai/„Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat s]]
-- [[objektai/posakiai/„būtų liaudžiai suprantama“]]
-- [[objektai/posakiai/„lenkai atakuoja...“]]
-- [[objektai/posakiai/„lenkų Trojos arklys“]]
-- [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“]]
-- [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
-- [[objektai/posakiai/„lenkų suartinimo su rusais“]]
-- [[objektai/posakiai/„mūsų žydeliai“]]
-- [[objektai/posakiai/„prišlieti“]]
-- [[objektai/autoriai/B. Włodarski]]
-- [[objektai/asmenys/J. Čaplikas]]
-- [[objektai/ivykiai/Kazimiero išrinkimas Lenkų karalium]]
-- [[objektai/paprociai/Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu|Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu (seimas)]]
-- [[objektai/grupes/Parusėnai]]
-- [[objektai/autoriai/St. Krakowski]]
-- [[objektai/posakiai/Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta]]
-- [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
-- [[objektai/posakiai/be Vytauto, kaip be druskos, neapseidavo]]
-- [[objektai/zodynas/oficialusis kultūros modelis]]
-- [[objektai/zodynas/supremacija]]
-- [[objektai/paprociai/Šturmovųjų grupių fronto pralaužimo taktika]]
-- [[objektai/posakiai/„Vytautas negali sustoti, pasakyti — gana galybės.“]]
-
 ## Teiginiai
 
+<a id="claim-t-179126"></a>
 - t-001
+  global_id: t-179126
   teiginys: 'Po Kauno suvažiavimo lenkai siekė užkirsti kelią pavojui, kurį unijai kėlė Vytauto užsienio politika.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-179127"></a>
 - t-002
+  global_id: t-179127
   teiginys: 'Po Ostrovos sutarties lenkai, remdamiesi Krėvės unijos aktu, laikė Lietuvą savo provincija.'
   pagrindžia:
     - c-041
 
+<a id="claim-t-179128"></a>
 - t-003
+  global_id: t-179128
   teiginys: 'Atvykusiems lenkams anuometinis Vilnius iškilo kaip niūrokas, bet gražiu kraštovaizdžiu kerintis miestas.'
   pagrindžia:
     - c-025
 
+<a id="claim-t-179129"></a>
 - t-004
+  global_id: t-179129
   teiginys: 'Tarp miestų gyventojų didžiausia tautinė grupė buvo žydai – apie 42 proc., toliau ėjo lenkai – apie 24 proc., lietuviai – apie 8 proc.'
   pagrindžia:
     - c-026
 
+<a id="claim-t-179131"></a>
 - t-005
+  global_id: t-179131
   teiginys: '1430 m. spalio 30 d. mirus Vytautui, jo gedėjo visa Lietuva ir lenkai, kuriuos jis buvo vedęs į pergalingus mūšius.'
   pagrindžia:
     - c-058
 
+<a id="claim-t-179133"></a>
 - t-006
+  global_id: t-179133
   teiginys: 'Dusburgietis teigia, kad apie Lenkijos žemės apiplėšimą Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele kariuomene į Lenkiją, į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę.'
   pagrindžia:
     - c-055
 
+<a id="claim-t-179134"></a>
 - t-007
+  global_id: t-179134
   teiginys: 'Kariuomenės taip išsirikiavo, kad ordino dešinysis sparnas buvo pastatytas prieš lenkų kairįjį sparną, kuris siekė Ludwigsdorfo mišką.'
   pagrindžia:
     - c-005
-    - c-066
-    - c-112
-    - c-026
 
+<a id="claim-t-179135"></a>
 - t-008
+  global_id: t-179135
   teiginys: 'Po personalinės unijos lenkų pareigūnai buvo siunčiami į Lietuvą su valdovo įgaliojimais, o lietuvių kariuomenė talkino lenkams.'
   pagrindžia:
     - c-024
 
+<a id="claim-t-179136"></a>
 - t-009
+  global_id: t-179136
   teiginys: 'Lenkai siekė unitarinės valstybės, tačiau po Liublino unijos teoriškai susikūrė federacinė, o realiai konfederacinė valstybė.'
   pagrindžia:
     - c-061
 
+<a id="claim-t-179137"></a>
 - t-010
+  global_id: t-179137
   teiginys: 'Į Vilnių kartu su Jogaila atvyko Jadvyga, Gniezno arkivyskupas, Krokuvos vyskupas ir daugybė lenkų didikų bei kunigaikščių.'
   pagrindžia:
     - c-029
 
+<a id="claim-t-179138"></a>
 - t-011
+  global_id: t-179138
   teiginys: 'Nepriklausomybės pradžioje dalis Vilniaus krašto lenkų komunistinių funkcionierių planavo teritorinę autonomiją.'
   pagrindžia:
     - c-031
 
+<a id="claim-t-179139"></a>
 - t-012
+  global_id: t-179139
   teiginys: 'Jadvyga ir lenkų ponai į tai kreivai žiūrėjo ir jiems labai nepatiko, kad jis stengiasi būti nepriklausomas.'
   pagrindžia:
     - c-037
 
+<a id="claim-t-179140"></a>
 - t-013
+  global_id: t-179140
   teiginys: 'Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Lenkijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika.'
   pagrindžia:
     - c-068
 
+<a id="claim-t-179141"></a>
 - t-014
+  global_id: t-179141
   teiginys: 'Lenkai šitokiu lietuvių siūlomu projektu pasipiktino.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-179142"></a>
 - t-015
+  global_id: t-179142
   teiginys: 'Lietuvių tautinis atgimimas, laikęs savo priešu caro režimą, netrukus atrado dar vieną – lenkų polonizatorius.'
   pagrindžia:
     - c-071
 
+<a id="claim-t-179143"></a>
 - t-016
+  global_id: t-179143
   teiginys: 'Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės politinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai.'
   pagrindžia:
     - c-065
 
+<a id="claim-t-179144"></a>
 - t-017
+  global_id: t-179144
   teiginys: 'Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas.'
   pagrindžia:
     - c-066
 
+<a id="claim-t-179145"></a>
 - t-018
+  global_id: t-179145
   teiginys: 'Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų jo sūnums sostą.'
   pagrindžia:
     - c-078
 
+<a id="claim-t-179146"></a>
 - t-019
+  global_id: t-179146
   teiginys: 'Po Ostrovos sutarties lietuviai laikė savo valstybę savarankiška, o lenkai, remdamiesi Krėvos aktu, laikė Lietuvą savo provincija.'
   pagrindžia:
     - c-041
 
+<a id="claim-t-179147"></a>
 - t-020
+  global_id: t-179147
   teiginys: 'Kadangi Lenkijos ir Lietuvos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams vis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos nepriklausomybės.'
   pagrindžia:
     - c-043
 
+<a id="claim-t-179149"></a>
 - t-021
+  global_id: t-179149
   teiginys: 'Vytautas 1401 m. akte priminė pažadą laikytis Jogailos, Lenkijos karūnos ir jos didikų bei ginti juos nuo priešų.'
   pagrindžia:
     - c-039
 
+<a id="claim-t-179150"></a>
 - t-022
-  teiginys: 'Tačiau su lenkais jam tekdavo nemažai kariauti; jis pasiekdavo ne tik Mozūrus, bet ir tolimąją Krokuvą.'
+  global_id: t-179150
+  teiginys: 'Traidenis dažnai kariavo su lenkais ir pasiekdavo ne tik Mozūrus, bet ir Krokuvą.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-179151"></a>
 - t-023
+  global_id: t-179151
   teiginys: 'Gyvenę nekompaktiškai lenkai neturėjo galimybių rasti vaikams mokyklų visose Lietuvos dalyse, tad leido vaikus į nelegalias mokyklas, kurių 1935 m. priskaičiuota apie 40.'
   pagrindžia:
     - c-020
 
+<a id="claim-t-179153"></a>
 - t-024
+  global_id: t-179153
   teiginys: 'Komplikuotai susiklostė lietuvių ir lenkų santykiai Vilniaus krašte, kurį naciai padarė Lietuvos generalinės srities dalimi ir priskyrė lietuvių administracijai.'
   pagrindžia:
     - c-063
 
+<a id="claim-t-179154"></a>
 - t-025
+  global_id: t-179154
   teiginys: 'Lenkai sudarė apie 3,2 proc. Lietuvos gyventojų ir savo kultūrinį gyvenimą telkė apie lenkiškas mokyklas.'
   pagrindžia:
     - c-070
 
+<a id="claim-t-179155"></a>
 - t-026
+  global_id: t-179155
   teiginys: 'Vilnius pagal to meto demografinę padėtį pasirodė esąs lenkiškas miestas, kurio trečdalį gyventojų sudarė žydai.'
   pagrindžia:
     - c-080
 
+<a id="claim-t-179156"></a>
 - t-027
+  global_id: t-179156
   teiginys: 'Ar Lietuva nepralaimėjo neišnaudojusi visų federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdiegtas Šveicarijoje pasiteisinęs kantonų principas?'
   pagrindžia:
     - c-038
 
+<a id="claim-t-179157"></a>
 - t-028
+  global_id: t-179157
   teiginys: 'Dusburgietis teigia, kad apie Lenkijos žemės nuniokojimą Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio ir nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis įžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis.'
   pagrindžia:
     - c-057
 
+<a id="claim-t-179159"></a>
 - t-029
+  global_id: t-179159
   teiginys: 'Lenkai tvirtina, kad Vorsklos žygis palaidojo tris ketvirtąsias Vytauto kariuomenės dalis.'
   pagrindžia:
     - c-059
 
+<a id="claim-t-179160"></a>
 - t-030
+  global_id: t-179160
   teiginys: 'Ilgą laiką jis turėjo lenkų ponų tarpe stiprią partiją, pasidavusią jo įtakai.'
   pagrindžia:
     - c-049
 
+<a id="claim-t-179161"></a>
 - t-031
+  global_id: t-179161
   teiginys: 'Stryjkovskio kronikoje kartais atsispindėjo lenkų tezės, tarp jų Dlugošo Žalgirio kautynių aprašymas ir Vytauto karūnos byla.'
   pagrindžia:
     - c-044
 
+<a id="claim-t-179162"></a>
 - t-032
+  global_id: t-179162
   teiginys: 'Vytauto akte priminta, kad lenkai pasikvietė Jogailą į savo sostą ir pripažino jį karaliumi Vladislovu.'
   pagrindžia:
     - c-039
 
+<a id="claim-t-179163"></a>
 - t-033
+  global_id: t-179163
   teiginys: 'Nuo Kazimiero laikų lenkai karaliais rinkdavosi tuos pačius asmenis, kuriuos Lietuva išsirinkdavo didžiaisiais kunigaikščiais.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-179164"></a>
 - t-034
+  global_id: t-179164
   teiginys: 'Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietuvon, lietuvių kariuomenė talkino lenkams, o lenkų –.'
   pagrindžia:
     - c-024
 
+<a id="claim-t-179165"></a>
 - t-035
+  global_id: t-179165
   teiginys: '1376 m. Vytautas, jau kaip Gardino kunigaikštis, dalyvavo žygyje prieš lenkus.'
   pagrindžia:
     - c-032
 
+<a id="claim-t-179166"></a>
 - t-036
+  global_id: t-179166
   teiginys: 'Vytautas mirė 1430 m. spalio 30 d. Trakuose, gedint Lietuvai ir lenkams, kuriuos jis buvo vedęs į pergalingus mūšius.'
   pagrindžia:
     - c-058
 
+<a id="claim-t-179167"></a>
 - t-037
+  global_id: t-179167
   teiginys: 'Lenkų priešinimasis trukdė prieš Vladislovo Jogailos ir Lenkijos senato valią uždėti Vytautui Lietuvos karaliaus karūną.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-179168"></a>
 - t-038
+  global_id: t-179168
   teiginys: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.'
   pagrindžia:
     - c-046
 
+<a id="claim-t-179169"></a>
 - t-039
+  global_id: t-179169
   teiginys: 'L. Želigovskio akciją sveikino minios Vilniaus lenkų, o Lietuvai teko stabdyti tolesnį jo dalinių judėjimą į Lietuvos teritoriją.'
   pagrindžia:
     - c-030
 
+<a id="claim-t-179170"></a>
 - t-040
+  global_id: t-179170
   teiginys: 'Tuo metu Lietuva geranoriškai rūpinosi keliolikos tūkstančių internuotų lenkų kareivių ir karininkų apgyvendinimu ir maitinimu, 12 000 tūkstančių Lenkijos žydų pabėgėlių išlaikymu, Vilniaus krašte reikėjo įvesti litą vietoje beverčių zlotų, pamaitinti.'
   pagrindžia:
     - c-045
 
+<a id="claim-t-179171"></a>
 - t-041
+  global_id: t-179171
   teiginys: 'Lenkija stebėjo Vytauto užmojus ir stengėsi jiems kliudyti, todėl kilo konfliktas su Lenkija.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-179173"></a>
 - t-042
+  global_id: t-179173
   teiginys: 'Dalis lenkų bijojo, kad Vytautas, sumušęs totorius, galėtų nukreipti savo ginklą prieš Lenkiją.'
   pagrindžia:
     - c-034
 
+<a id="claim-t-179174"></a>
 - t-043
+  global_id: t-179174
   teiginys: 'Konstancos susirinkime Vokiečių ordinas kaltino Jogailą, tuo metu buvusį Lenkijos karaliumi, Kęstučio nužudymu.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-179175"></a>
 - t-044
+  global_id: t-179175
   teiginys: 'Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.'
   pagrindžia:
     - c-067
 
+<a id="claim-t-179176"></a>
 - t-045
+  global_id: t-179176
   teiginys: 'Nors unijos aktas tai leido, lenkai Lietuvoje dar ilgai negalėjo įsigyti dvarų ir gauti valstybinių urėdų.'
   pagrindžia:
     - c-056
 
+<a id="claim-t-179177"></a>
 - t-046
+  global_id: t-179177
   teiginys: 'Lenkai žiūrėjo į Vytautą kaip į priklausomą kunigaikštį, turintį klausyti jų ir ginti jų interesus.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-179178"></a>
 - t-047
+  global_id: t-179178
   teiginys: 'Tiesa, nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“ arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų tautą, o Lietuvą laikė Lenkijos dalimi.'
   pagrindžia:
-    - c-009
-    - c-011
     - c-048
-    - c-019
-    - c-026
 
+<a id="claim-t-179179"></a>
 - t-048
+  global_id: t-179179
   teiginys: 'Jadvyga ir lenkų ponai nepalankiai vertino Vytauto pastangas būti nepriklausomam.'
   pagrindžia:
     - c-037
 
+<a id="claim-t-179180"></a>
 - t-049
+  global_id: t-179180
   teiginys: 'Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį želigovskininkų judėjimą į Lietuvos teritoriją.'
   pagrindžia:
     - c-040
 
+<a id="claim-t-179181"></a>
 - t-050
+  global_id: t-179181
   teiginys: 'Didžioji lenkų vėliava Žalgirio mūšyje pateko į kryžiuočių tarpą, bet lenkai ją atgavo įtraukus antrąją liniją.'
   pagrindžia:
     - c-033
 
+<a id="claim-t-179182"></a>
 - t-051
+  global_id: t-179182
   teiginys: 'Tuo metu ypač paaštrėjo Lenkijos ir Kryžiuočių ordino santykiai.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-179183"></a>
 - t-052
+  global_id: t-179183
   teiginys: 'Nors unijos aktas ir leido, tačiau lenkai Lietuvoje dar ilgai negalėjo įsigyti dvarų, o valstybinių urėdų jie niekuomet negalėjo gauti Lietuvoje.'
   pagrindžia:
     - c-056
 
+<a id="claim-t-179184"></a>
 - t-053
+  global_id: t-179184
   teiginys: 'Jogaila pažadėjo atgauti prarastas Lenkijos žemes, paleisti lenkų belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.'
   pagrindžia:
     - c-021
 
+<a id="claim-t-179185"></a>
 - t-054
+  global_id: t-179185
   teiginys: 'Dusburgietis teigia, kad kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė prūsų kariuomenė ir ją nuniokojo gaisrais ir grobstymais.'
   pagrindžia:
     - c-060
     - c-074
 
+<a id="claim-t-179186"></a>
 - t-055
+  global_id: t-179186
   teiginys: 'Tačiau viską nulėmė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji civilizacija.'
   pagrindžia:
     - c-036
 
+<a id="claim-t-179187"></a>
 - t-056
+  global_id: t-179187
   teiginys: 'Lietuviai padėjo lenkams kariauti vieną kartą su Brandenburgu, o kitą kartą su ordinu.'
   pagrindžia:
     - c-027
 
+<a id="claim-t-179188"></a>
 - t-057
+  global_id: t-179188
   teiginys: 'Lenkai bandė sutrukdyti Vytauto karūnavimo sumanymą ir net siūlė jam Lenkijos karūną.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-179189"></a>
 - t-058
+  global_id: t-179189
   teiginys: 'Lenkų pasipriešinimas trukdė uždėti Vytautui Lietuvos karaliaus karūną prieš Jogailos ir Lenkijos senato valią.'
   pagrindžia:
     - c-051
 
+<a id="claim-t-179190"></a>
 - t-059
+  global_id: t-179190
   teiginys: 'Kantoninės Lietuvos atveju Vilniaus regionas galėjo tapti lenkų ir lietuvių nacionalizmų konflikto židiniu kalbos pagrindu.'
   pagrindžia:
     - c-035
 
+<a id="claim-t-179191"></a>
 - t-060
+  global_id: t-179191
   teiginys: 'Įvairūs lenkų autoriai į jį pažiurėjo kaip į tipišką lenkų renesanso atstovą15 16.'
   pagrindžia:
     - c-062
 
+<a id="claim-t-179192"></a>
 - t-061
+  global_id: t-179192
   teiginys: 'Lenkai Krėvės unija siekė laimėti sau ginčijamus žemės plotus, todėl Lenkijoje ėmė reikštis silpna opozicija.'
   pagrindžia:
     - c-077
 
+<a id="claim-t-179193"></a>
 - t-062
+  global_id: t-179193
   teiginys: '1291 m. lietuviai nuniokojo Kujaviją, o 1292 m. Pukuveras pasiuntė Vytenį į Lenkiją su didele kariuomene.'
   pagrindžia:
     - c-064
 
+<a id="claim-t-179194"></a>
 - t-063
+  global_id: t-179194
   teiginys: 'Vytautas ilgą laiką turėjo stiprią savo šalininkų grupę tarp lenkų ponų.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-179195"></a>
 - t-064
+  global_id: t-179195
   teiginys: 'Dusburgietis teigia, kad kai šis atvyko su didele kariuomene ir užpuolė netikėlius, minėtieji kunigaikščiai pasileido bėgti su visais savo lenkais.'
   pagrindžia:
     - c-055
 
+<a id="claim-t-179196"></a>
 - t-065
+  global_id: t-179196
   teiginys: 'Pasitarimai vyko, teikta ir pasiūlymų, tačiau visus Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras.'
   pagrindžia:
     - c-054
 
+<a id="claim-t-179197"></a>
 - t-066
+  global_id: t-179197
   teiginys: 'Lenkiškai kalbantiems lietuviams linkstant į lenkų kultūrinę orbitą, stiprėjo Lietuvos nepriklausomybės siekis etnografiniu pagrindu.'
   pagrindžia:
     - c-043
 
+<a id="claim-t-179198"></a>
 - t-067
+  global_id: t-179198
   teiginys: 'Traideniui teko daug kariauti su lenkais, o jo žygiai siekė Mozūrus ir Krokuvą.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-179199"></a>
 - t-068
+  global_id: t-179199
   teiginys: 'Vytautas, būdamas Jogailos dukters globėjas, kurį laiką turėjo tiek įtakos Lenkijoje, kad sukėlė nepasitenkinimą.'
   pagrindžia:
     - c-023
 
+<a id="claim-t-179200"></a>
 - t-069
+  global_id: t-179200
   teiginys: 'Lenkai Vytautą laikė priklausomu kunigaikščiu, turinčiu jų klausyti ir ginti jų interesus.'
   pagrindžia:
     - c-069
 
+<a id="claim-t-179201"></a>
 - t-070
+  global_id: t-179201
   teiginys: 'Dalis lenkų baiminosi, kad Vytautas, sumušęs totorius, galėtų nukreipti savo kariuomenę prieš Lenkiją.'
   pagrindžia:
     - c-034
 
+<a id="claim-t-179202"></a>
 - t-071
+  global_id: t-179202
   teiginys: 'Sustiprėjęs Vytautas pradėjo mažiau skaitytis su lenkais, o jo politika pablogino santykius su Lenkija.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-179203"></a>
 - t-072
+  global_id: t-179203
   teiginys: 'Lenkai siekė unitarinės valstybės, bet Abiejų Tautų Respublika realiai veikė kaip konfederacinė valstybė.'
   pagrindžia:
     - c-061
 
+<a id="claim-t-179204"></a>
 - t-073
+  global_id: t-179204
   teiginys: 'Lietuvių ir lenkų pasitarimuose lenkų delegacija atmetė pasiūlymus, nes nesutarta dėl Vilniaus ir Rytų Lietuvos priklausomybės.'
   pagrindžia:
     - c-054
 
+<a id="claim-t-179205"></a>
 - t-074
+  global_id: t-179205
   teiginys: 'Lenkai pasipiktino imperatoriaus sumanymu siūlyti Vytautui Lietuvos karūną, todėl svarstymai nutrūko.'
   pagrindžia:
     - c-047
 
+<a id="claim-t-179206"></a>
 - t-075
+  global_id: t-179206
   teiginys: 'Būtent ši samprata iškilo 1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.'
   pagrindžia:
     - c-042
 
+<a id="claim-t-179207"></a>
 - t-076
+  global_id: t-179207
   teiginys: 'Nauji Lenkijos pulkai ėmė pulti ilstančią kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.'
   pagrindžia:
-    - c-015
-    - c-026
     - c-081
 
+<a id="claim-t-179208"></a>
 - t-077
+  global_id: t-179208
   teiginys: 'Santykiai su Lenkija gerėjo, nes per pusę šimtmečio Vilniaus demografinė padėtis pasikeitė lietuvių naudai.'
   pagrindžia:
     - c-052
 
+<a id="claim-t-179209"></a>
 - t-078
+  global_id: t-179209
   teiginys: 'Kronistas kartais perteikdavo lenkų tezes, pavyzdžiui, Dlugošo kronikos įtaką Žalgirio kautynių aprašymui ir Vytauto karūnos bylai.'
   pagrindžia:
     - c-022
-    - c-017
     - c-044
-    - c-120
-    - c-026
-    - c-134
 
+<a id="claim-t-179210"></a>
 - t-079
+  global_id: t-179210
   teiginys: 'Dalis kryžiuočių, kurie kovojo su lietuviais, dabar puolė lenkus.'
   pagrindžia:
     - c-033
 
+<a id="claim-t-179211"></a>
 - t-080
+  global_id: t-179211
   teiginys: '1398 m. iš Lenkijos pirmą kartą pasigirdo protestas prieš Lietuvos ir Lenkijos santykių eigą.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-179212"></a>
 - t-081
+  global_id: t-179212
   teiginys: 'Lenkijos ponų taryba privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo ceremonijos.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-179213"></a>
 - t-082
+  global_id: t-179213
   teiginys: 'Savo valstybingumo planuose lenkai numatė lietuviams tik tautinės mažumos statusą.'
   pagrindžia:
     - c-072
 
+<a id="claim-t-184220"></a>
 - t-085
+  global_id: t-184220
   teiginys: 'Vytautas net prieš lenkus pradėjo ruoštis į karą.'
   pagrindžia:
     - c-084
 
+<a id="claim-t-184329"></a>
 - t-086
+  global_id: t-184329
   teiginys: 'Tad lenkai lietuvių žygių iš tolo bijodavę.'
   pagrindžia:
     - c-085
 
+<a id="claim-t-184330"></a>
 - t-087
+  global_id: t-184330
   teiginys: 'Vyriausioji Lenkijos vėliava pateko į priešų rankas.'
   pagrindžia:
     - c-086
 
+<a id="claim-t-184517"></a>
 - t-088
-  teiginys: 'Kojelavičius teigia, kad po teisybei, ne tik mozūrams, bet ir lenkams įky rėjo šitiek daugel kartų užgriūnanti nelaimė.'
+  global_id: t-184517
+  teiginys: 'Lenkams įkyrėjo dažnai pasikartojančios nelaimės, o suskilusi Lenkų karalystė sunkiai susitardavo dėl gynybos.'
   pagrindžia:
     - c-087
 
+<a id="claim-t-184518"></a>
 - t-089
-  teiginys: 'Kojelavičius teigia, kad valstybėje tada buir k ry žiu o č ia is, k a ra s vo ramu, nelabai būgštauta p rie š rusu s ir dėl priešų, nors šis ir tas atrodė įtartina: manyta, jog neliks ramūs nei Livonijos, nei Prūsijos kryžiuočiai, taip pat ir lenkai, kurie visai neseniai buvo ne.'
+  global_id: t-184518
+  teiginys: 'Germantas sudarė draugystę su lenkais, siūlydamas sąjungą ir siekdamas bendromis jėgomis pulti rusus.'
   pagrindžia:
     - c-088
 
+<a id="claim-t-184519"></a>
 - t-090
-  teiginys: 'Kojelavičius teigia, kad tačiau ir vidaus ramybe, ir sutartimi sutvirtintą draugystę su lenkais išardė kurių ne kurių asmenų maištingi sumanymai.'
+  global_id: t-184519
+  teiginys: 'Maištingi sumanymai išardė sutartimi sutvirtintą draugystę su lenkais.'
   pagrindžia:
     - c-089
 
+<a id="claim-t-184520"></a>
 - t-091
-  teiginys: 'Kojelavičius teigia, kad gili ginas valdė ne ilgiau kaip trejus metus: bemaž nieko įsidėmėtina tais laikais neįvyko, išskyrus kelis nioko jamus žygius į Lenkiją, tiesa, ir juos ne visus sumini rašytojai.'
+  global_id: t-184520
+  teiginys: 'Giliginui valdant lietuvių kariaunos nusiaubė Mazoviją, Kulmo kraštą ir Kujaviją, o lenkai buvo smarkiai sumušti.'
   pagrindžia:
     - c-090
 
+<a id="claim-t-184521"></a>
 - t-092
-  teiginys: 'Kojelavičius teigia, kad štai kaip jie ieškosi prieglobsčio miškų tan kmėse, dar nė nematydami priešais ginkluotų lenkų, ko gero, reikės ne kovoti, o tik žudyti tuos, kurie taip skubiai bėga.'
+  global_id: t-184521
+  teiginys: 'Lešekas teigė, kad ginkluoti lenkai turės ne kovoti su bėgančiais priešais, o juos žudyti.'
   pagrindžia:
     - c-091
 
+<a id="claim-t-184522"></a>
 - t-093
-  teiginys: 'Kojelavičius teigia, kad tame mūšyje žuvo keli tūkstančiai lie tuvių, nemaža jų krito bėgant, visą grobį lenkai atsi ėmė, daugybę po miškus klaidžiojančių vėliau išžudė kaimiečiai.'
+  global_id: t-184522
+  teiginys: 'Mūšyje lenkai atsiėmė visą grobį, o keli tūkstančiai lietuvių žuvo kautynėse ir bėgdami.'
   pagrindžia:
     - c-092
 
+<a id="claim-t-184523"></a>
 - t-094
-  teiginys: 'Kojelavičius teigia, kad prasidėjo dėl jo nuolatiniai lenkų ir lietuvių kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi senomis Boleslovo Narsiojo pergalėmis ir naujais gi minystės ryšiais.'
+  global_id: t-184523
+  teiginys: 'Lenkai savinosi Kijevą ir Volynę, remdamiesi Boleslovo Narsiojo pergalėmis ir naujais giminystės ryšiais.'
   pagrindžia:
     - c-093
 
+<a id="claim-t-184524"></a>
 - t-095
-  teiginys: 'Kojelavičius teigia, kad tuo metu lenkus kamavo dvejopas rūpestis; jie dvejojo, nežinodami, kur nu kreipti kariuomenę.'
+  global_id: t-184524
+  teiginys: 'Lenkai dvejojo, ar kariuomenę kreipti prieš lietuvius, ar prieš kryžiuočius.'
   pagrindžia:
     - c-094
 
+<a id="claim-t-184525"></a>
 - t-096
-  teiginys: 'Kojelavičius teigia, kad išsiuntė į Lietuvą pasiun tinius, turėjusius prašyti Gedimino dukters Aldonos rankos Kazimierui, Lenkijos valdovui; lietuviai drau giškai priėmė pasiuntinybę, abi šalys susitarė, kad, valdovams susigiminiavus, būsianti tarp abiejų tautų tvirta taika.'
+  global_id: t-184525
+  teiginys: 'Lenkai pasiuntė į Lietuvą pasiuntinius prašyti Gedimino dukters Aldonos rankos Lenkijos valdovui Kazimierui.'
   pagrindžia:
     - c-095
 
+<a id="claim-t-184526"></a>
 - t-097
-  teiginys: 'Kojelavičius teigia, kad nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos gimine ir sąjungą su lenkais.'
+  global_id: t-184526
+  teiginys: 'Lietuvos didikų ginče nugalėjo ryšių su Jogailos gimine ir sąjungos su lenkais šalininkai.'
   pagrindžia:
     - c-096
 
+<a id="claim-t-184527"></a>
 - t-098
-  teiginys: 'Kojelavičius teigia, kad tuo metu karalius Vladislovas, išvykęs iš Lenkijos, rengėsi su vengrais kariauti prieš turkus, o Kazimieras su žymiaisiais lenkų didikais viešėjo Sandomire.'
+  global_id: t-184527
+  teiginys: 'Kazimieras su žymiaisiais lenkų didikais viešėjo Sandomire, kai karalius Vladislovas buvo išvykęs iš Lenkijos.'
   pagrindžia:
     - c-097
 
+<a id="claim-t-184528"></a>
 - t-099
-  teiginys: 'Kojelavičius teigia, kad štai todėl Kazimieras, pasak Lietuvos istori kų, negavęs lenkų pritarimo, slaptai iškeliavęs iš Sandomiro į Brestą.'
+  global_id: t-184528
+  teiginys: 'Pasak Lietuvos istorikų, Kazimieras negavęs lenkų pritarimo slaptai iškeliavo iš Sandomiro į Brestą.'
   pagrindžia:
     - c-098
 
+<a id="claim-t-184529"></a>
 - t-100
-  teiginys: 'Kojelavičius teigia, kad š tai dėl to ir lenkai, ir lie tuviai pradėjo šnairuoti į karalių: lenkai manė, jog skitai įsiveržė į Podolę dėl L en k a i ir lie tu v ia i to, kad sudarė kokius slaptus p r a d e d a įta rin ėti kasusitarimus su karaliumi, o ralių lietuviai B učackio elgesį.'
+  global_id: t-184529
+  teiginys: 'Lenkai pirmieji atvirai užsipuolė karalių ir reikalavo sušaukti luomus į Piotrkovo seimą.'
   pagrindžia:
     - c-099
 
+<a id="claim-t-184530"></a>
 - t-101
-  teiginys: 'Kojelavičius teigia, kad lenkai atkakliai tvirtino, jog visi Jogailos ir Vytauto laikais sudaryti susitarimai, be to, vėliau, Žygimanto laikais, paskelbti potvarkiai iš viso negalį būti keičiami, nes jų teisėtumas nekeliąs jokių abejonių, antra vertus, nieku būdu negalima liesti ir.'
+  global_id: t-184530
+  teiginys: 'Lenkai tvirtino, kad Jogailos, Vytauto ir Žygimanto laikų susitarimų negalima keisti.'
   pagrindžia:
     - c-100
 
+<a id="claim-t-184531"></a>
 - t-102
-  teiginys: 'Kojelavičius teigia, kad dėl to lenkai suskato iš naujo įtarinėti: teigė, kad lietuviai ir karalius kalti dėl Podolės nuniokojimo, kad nesą jokių abejonių, jog ne be karaliaus žinios lietuviai sukurstė skitus prieš len kus, nes jis mat nepritarė nė vienam jų sumanymui.'
+  global_id: t-184531
+  teiginys: 'Lenkai įtarė lietuvius ir karalių dėl Podolės nuniokojimo, teigdami, kad lietuviai sukurstė skitus prieš lenkus.'
   pagrindžia:
     - c-101
 
+<a id="claim-t-184532"></a>
 - t-103
-  teiginys: 'Kojelavičius teigia, kad šitokios paskalos, sklidusios po visą Lenkiją, gerokai paveikė visuomenės nuotaikas.'
+  global_id: t-184532
+  teiginys: 'Po visą Lenkiją sklidusios paskalos gerokai paveikė visuomenės nuotaikas.'
   pagrindžia:
     - c-102
 
+<a id="claim-t-184533"></a>
 - t-104
-  teiginys: 'Kojelavičius teigia, kad tik lapkričio mėnesį susirinko seimai: lenkų Parčeve, o lie tuvių Breste; kadangi nei vieni, nei kiti nenorėjo ke liauti į priešininkų šalį, po ilgų ginčų nutarė susitikti Lomžoje, tai yra pusiaukelėje tarp Parčevo ir Bresto.'
+  global_id: t-184533
+  teiginys: 'Lenkų seimas susirinko Parčeve, o lietuvių seimas Breste; po ginčų nutarta susitikti Lomžoje.'
   pagrindžia:
     - c-103
 
+<a id="claim-t-184534"></a>
 - t-105
-  teiginys: 'Kojelavičius teigia, kad galop visų, o ypač Vladislovo, Vengrijos karaliaus, pastangomis lenkai, vengrai, če kai, lietuviai ir valachai sudarė sutartis, kuriomis ne tik valdovai, bet ir visos jų karalystės bei žemės pa žadėjo viena kitą ginti, kai prasidės karas prieš turkus.'
+  global_id: t-184534
+  teiginys: 'Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos kare prieš turkus.'
   pagrindžia:
     - c-104
 
+<a id="claim-t-184535"></a>
 - t-106
-  teiginys: 'Kojelavičius teigia, kad labai jiems padėjo ir tai, kad Aleksandras pasirūpino Vil niuje užbaigti prieš trejus metus Piotrkove lenkams pažadėtą lietuvių bei lenkų santarvės aktą, kuris, pa tvirtintas Lietuvos Didžiosios Kunigaikštystės antspau du bei dvidešimt penkių žymiausių didikų.'
+  global_id: t-184535
+  teiginys: 'Aleksandras Vilniuje užbaigė lietuvių ir lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.'
   pagrindžia:
     - c-105
 
+<a id="claim-t-184536"></a>
 - t-107
-  teiginys: 'Kojelavičius teigia, kad vienas kitam pareiškę savo prielankumą ir pasikalbėję it du geri bičiuliai, nes norėjo, kad kuo daugiau žmonių patirtų, koks nuo širdus jųdviejų susitikimas, abu valdovai suteikė ba joriškųjų lengvatų išgarsėjusiems karo žygiais lenkams, lietuviams bei.'
+  global_id: t-184536
+  teiginys: 'Aleksandras ir Šich Achmetas suteikė bajoriškųjų lengvatų karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams.'
   pagrindžia:
     - c-106
 
@@ -2404,7 +2223,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-087
 
 - c-087
-  santrauka: 'Kojelavičius teigia, kad po teisybei, ne tik mozūrams, bet ir lenkams įky rėjo šitiek daugel kartų užgriūnanti nelaimė.'
+  santrauka: 'Lenkams įkyrėjo dažnai pasikartojančios nelaimės, o suskilusi Lenkų karalystė sunkiai susitardavo dėl gynybos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iki tol išliko nepaliestos
@@ -2422,7 +2241,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-088
 
 - c-088
-  santrauka: 'Kojelavičius teigia, kad valstybėje tada buir k ry žiu o č ia is, k a ra s vo ramu, nelabai būgštauta p rie š rusu s ir dėl priešų, nors šis ir tas atrodė įtartina: manyta, jog neliks ramūs nei Livonijos, nei Prūsijos kryžiuočiai, taip pat ir lenkai, kurie visai neseniai buvo ne.'
+  santrauka: 'Germantas sudarė draugystę su lenkais, siūlydamas sąjungą ir siekdamas bendromis jėgomis pulti rusus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Valstybėje tada bu-
@@ -2447,7 +2266,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-089
 
 - c-089
-  santrauka: 'Kojelavičius teigia, kad tačiau ir vidaus ramybe, ir sutartimi sutvirtintą draugystę su lenkais išardė kurių ne kurių asmenų maištingi sumanymai.'
+  santrauka: 'Maištingi sumanymai išardė sutartimi sutvirtintą draugystę su lenkais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Grįžęs iš to žy­
@@ -2466,7 +2285,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-090
 
 - c-090
-  santrauka: 'Kojelavičius teigia, kad gili ginas valdė ne ilgiau kaip trejus metus: bemaž nieko įsidėmėtina tais laikais neįvyko, išskyrus kelis nioko jamus žygius į Lenkiją, tiesa, ir juos ne visus sumini rašytojai.'
+  santrauka: 'Giliginui valdant lietuvių kariaunos nusiaubė Mazoviją, Kulmo kraštą ir Kujaviją, o lenkai buvo smarkiai sumušti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gili­
@@ -2498,7 +2317,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-091
 
 - c-091
-  santrauka: 'Kojelavičius teigia, kad štai kaip jie ieškosi prieglobsčio miškų tan kmėse, dar nė nematydami priešais ginkluotų lenkų, ko gero, reikės ne kovoti, o tik žudyti tuos, kurie taip skubiai bėga.'
+  santrauka: 'Lešekas teigė, kad ginkluoti lenkai turės ne kovoti su bėgančiais priešais, o juos žudyti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip Vytenis mąs­
@@ -2539,7 +2358,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-092
 
 - c-092
-  santrauka: 'Kojelavičius teigia, kad tame mūšyje žuvo keli tūkstančiai lie tuvių, nemaža jų krito bėgant, visą grobį lenkai atsi ėmė, daugybę po miškus klaidžiojančių vėliau išžudė kaimiečiai.'
+  santrauka: 'Mūšyje lenkai atsiėmė visą grobį, o keli tūkstančiai lietuvių žuvo kautynėse ir bėgdami.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lešekas, vos šitai pajutęs,
@@ -2564,7 +2383,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-093
 
 - c-093
-  santrauka: 'Kojelavičius teigia, kad prasidėjo dėl jo nuolatiniai lenkų ir lietuvių kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi senomis Boleslovo Narsiojo pergalėmis ir naujais gi minystės ryšiais.'
+  santrauka: 'Lenkai savinosi Kijevą ir Volynę, remdamiesi Boleslovo Narsiojo pergalėmis ir naujais giminystės ryšiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip ilgai­
@@ -2588,7 +2407,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-094
 
 - c-094
-  santrauka: 'Kojelavičius teigia, kad tuo metu lenkus kamavo dvejopas rūpestis; jie dvejojo, nežinodami, kur nu kreipti kariuomenę.'
+  santrauka: 'Lenkai dvejojo, ar kariuomenę kreipti prieš lietuvius, ar prieš kryžiuočius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dalis niokojo Livoniją, ki­
@@ -2620,7 +2439,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-095
 
 - c-095
-  santrauka: 'Kojelavičius teigia, kad išsiuntė į Lietuvą pasiun tinius, turėjusius prašyti Gedimino dukters Aldonos rankos Kazimierui, Lenkijos valdovui; lietuviai drau giškai priėmė pasiuntinybę, abi šalys susitarė, kad, valdovams susigiminiavus, būsianti tarp abiejų tautų tvirta taika.'
+  santrauka: 'Lenkai pasiuntė į Lietuvą pasiuntinius prašyti Gedimino dukters Aldonos rankos Lenkijos valdovui Kazimierui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kuo greičiausiai ir kuo ryžtingiausiai
@@ -2640,7 +2459,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-096
 
 - c-096
-  santrauka: 'Kojelavičius teigia, kad nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos gimine ir sąjungą su lenkais.'
+  santrauka: 'Lietuvos didikų ginče nugalėjo ryšių su Jogailos gimine ir sąjungos su lenkais šalininkai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitokios mintys, platinamos ir žodiškai, ir raštiškai
@@ -2658,7 +2477,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-097
 
 - c-097
-  santrauka: 'Kojelavičius teigia, kad tuo metu karalius Vladislovas, išvykęs iš Lenkijos, rengėsi su vengrais kariauti prieš turkus, o Kazimieras su žymiaisiais lenkų didikais viešėjo Sandomire.'
+  santrauka: 'Kazimieras su žymiaisiais lenkų didikais viešėjo Sandomire, kai karalius Vladislovas buvo išvykęs iš Lenkijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat, jeigu per
@@ -2694,7 +2513,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-098
 
 - c-098
-  santrauka: 'Kojelavičius teigia, kad štai todėl Kazimieras, pasak Lietuvos istori kų, negavęs lenkų pritarimo, slaptai iškeliavęs iš Sandomiro į Brestą.'
+  santrauka: 'Pasak Lietuvos istorikų, Kazimieras negavęs lenkų pritarimo slaptai iškeliavo iš Sandomiro į Brestą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat perdaug gerai
@@ -2713,7 +2532,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-099
 
 - c-099
-  santrauka: 'Kojelavičius teigia, kad š tai dėl to ir lenkai, ir lie tuviai pradėjo šnairuoti į karalių: lenkai manė, jog skitai įsiveržė į Podolę dėl L en k a i ir lie tu v ia i to, kad sudarė kokius slaptus p r a d e d a įta rin ėti kasusitarimus su karaliumi, o ralių lietuviai B učackio elgesį.'
+  santrauka: 'Lenkai pirmieji atvirai užsipuolė karalių ir reikalavo sušaukti luomus į Piotrkovo seimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Š tai dėl to ir lenkai, ir lie­
@@ -2742,7 +2561,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-100
 
 - c-100
-  santrauka: 'Kojelavičius teigia, kad lenkai atkakliai tvirtino, jog visi Jogailos ir Vytauto laikais sudaryti susitarimai, be to, vėliau, Žygimanto laikais, paskelbti potvarkiai iš viso negalį būti keičiami, nes jų teisėtumas nekeliąs jokių abejonių, antra vertus, nieku būdu negalima liesti ir.'
+  santrauka: 'Lenkai tvirtino, kad Jogailos, Vytauto ir Žygimanto laikų susitarimų negalima keisti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Be to, turinti būti sugrąžinta Podolė, kurią Lie­
@@ -2767,7 +2586,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-101
 
 - c-101
-  santrauka: 'Kojelavičius teigia, kad dėl to lenkai suskato iš naujo įtarinėti: teigė, kad lietuviai ir karalius kalti dėl Podolės nuniokojimo, kad nesą jokių abejonių, jog ne be karaliaus žinios lietuviai sukurstė skitus prieš len kus, nes jis mat nepritarė nė vienam jų sumanymui.'
+  santrauka: 'Lenkai įtarė lietuvius ir karalių dėl Podolės nuniokojimo, teigdami, kad lietuviai sukurstė skitus prieš lenkus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     1449 m ela i
@@ -2798,7 +2617,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-102
 
 - c-102
-  santrauka: 'Kojelavičius teigia, kad šitokios paskalos, sklidusios po visą Lenkiją, gerokai paveikė visuomenės nuotaikas.'
+  santrauka: 'Po visą Lenkiją sklidusios paskalos gerokai paveikė visuomenės nuotaikas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitokios paskalos, sklidusios po visą Lenkiją, gerokai
@@ -2819,7 +2638,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-103
 
 - c-103
-  santrauka: 'Kojelavičius teigia, kad tik lapkričio mėnesį susirinko seimai: lenkų Parčeve, o lie tuvių Breste; kadangi nei vieni, nei kiti nenorėjo ke liauti į priešininkų šalį, po ilgų ginčų nutarė susitikti Lomžoje, tai yra pusiaukelėje tarp Parčevo ir Bresto.'
+  santrauka: 'Lenkų seimas susirinko Parčeve, o lietuvių seimas Breste; po ginčų nutarta susitikti Lomžoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Negi galima buvo tikėtis santarvės ir vienybės,
@@ -2845,7 +2664,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-104
 
 - c-104
-  santrauka: 'Kojelavičius teigia, kad galop visų, o ypač Vladislovo, Vengrijos karaliaus, pastangomis lenkai, vengrai, če kai, lietuviai ir valachai sudarė sutartis, kuriomis ne tik valdovai, bet ir visos jų karalystės bei žemės pa žadėjo viena kitą ginti, kai prasidės karas prieš turkus.'
+  santrauka: 'Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos kare prieš turkus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to Lietuvos Didžiosios Kunigaikštystės
@@ -2864,7 +2683,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-105
 
 - c-105
-  santrauka: 'Kojelavičius teigia, kad labai jiems padėjo ir tai, kad Aleksandras pasirūpino Vil niuje užbaigti prieš trejus metus Piotrkove lenkams pažadėtą lietuvių bei lenkų santarvės aktą, kuris, pa tvirtintas Lietuvos Didžiosios Kunigaikštystės antspau du bei dvidešimt penkių žymiausių didikų.'
+  santrauka: 'Aleksandras Vilniuje užbaigė lietuvių ir lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Labai
@@ -2889,7 +2708,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-106
 
 - c-106
-  santrauka: 'Kojelavičius teigia, kad vienas kitam pareiškę savo prielankumą ir pasikalbėję it du geri bičiuliai, nes norėjo, kad kuo daugiau žmonių patirtų, koks nuo širdus jųdviejų susitikimas, abu valdovai suteikė ba joriškųjų lengvatų išgarsėjusiems karo žygiais lenkams, lietuviams bei.'
+  santrauka: 'Aleksandras ir Šich Achmetas suteikė bajoriškųjų lengvatų karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Aleksandras Šich Achmetą priėmė su didele
@@ -2914,3 +2733,856 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   statusas: verified
   pagrindžia:
     - t-107
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/1-oji pėstininkų divizija]]
+- [[objektai/grupes/13-asis ulonų pulkas]]
+- [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]
+- [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas|1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas (privilegija)]]
+- [[objektai/ivykiai/1425 m. Bresto (Kujavijoj) seimas|1425 m. Bresto (Kujavijoj) seimas (seimas, XV a.)]]
+- [[objektai/ivykiai/1426 m. Lietuvos Brastos suvažiavimas]]
+- [[objektai/ivykiai/1428 m. Lenčicos suvažiavimas]]
+- [[objektai/ivykiai/1430 m. Jedlno seimo suvažiavimas|1430 m. Jedlno seimo suvažiavimas (seimas, XV a.)]]
+- [[objektai/ivykiai/1432 m. perversmas ir Zigmanto Kęstutaičio iškėlimas]]
+- [[objektai/grupes/201-asis pėstininkų pulkas]]
+- [[objektai/grupes/4-asis pėstininkų pulkas]]
+- [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
+- [[objektai/grupes/9-asis pėstininkų pulkas]]
+- [[objektai/autoriai/A. Mickevičius]]
+- [[objektai/grupes/A. Mokšeckio brigada]]
+- [[objektai/asmenys/Adomas Jakštas-Dambrauskas]]
+- [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
+- [[objektai/posakiai/Aktai sau, gyvenimas nuėjo sau]]
+- [[objektai/asmenys/Albertas (Vaitiekus) Sampolinskis]]
+- [[objektai/asmenys/Albertas Manvydas]]
+- [[objektai/autoriai/Aleksandro Gvanjinio]]
+- [[objektai/ivykiai/Andriaus ir koalicijos sutriuškinimas]]
+- [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/grupes/Antantė]]
+- [[objektai/zodynas/Antisemitizmas]]
+- [[objektai/daiktai/Antspaudas]]
+- [[objektai/grupes/Armija Krajova]]
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/paprociai/Atskiri Lietuvos seimai karo ir tarpuvaldžio metu]]
+- [[objektai/asmenys/Augustas Zaleskis]]
+- [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]
+- [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba|Aukščiausioji Santarvininkių Taryba (institucija)]]
+- [[objektai/autoriai/B. Włodarski]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/paprociai/Bajorijos teisių reikalavimas ir pareigų mažinimas]]
+- [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)]]
+- [[objektai/autoriai/Bačkauskas Tamošauskas]]
+- [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]
+- [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]
+- [[objektai/asmenys/Benediktas Makras]]
+- [[objektai/ivykiai/Berno konferencija (1916 m. kovo 1–5 d.)]]
+- [[objektai/asmenys/Boleslovas Maldingasis]]
+- [[objektai/daiktai/Bomba]]
+- [[objektai/asmenys/Bonifacas IX]]
+- [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
+- [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]
+- [[objektai/posakiai/Christ ist erstanden]]
+- [[objektai/asmenys/Cipkevičius]]
+- [[objektai/posakiai/Damoklo kardas tikrai pakibo ant unijos|Damoklo kardas tikrai pakibo ant unijos (unija)]]
+- [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]]
+- [[objektai/grupes/Didžlenkiai]]
+- [[objektai/asmenys/Dmitrijus]]
+- [[objektai/daiktai/Durtuvas]]
+- [[objektai/asmenys/E. Koso]]
+- [[objektai/paprociai/Elekcijų dalyvavimo tvarka lenkai viritim, lietuviai atstovais]]
+- [[objektai/autoriai/F. Gause]]
+- [[objektai/asmenys/Fiodoras]]
+- [[objektai/autoriai/Fr. Benninghoven]]
+- [[objektai/autoriai/Fr. Mager]]
+- [[objektai/paprociai/Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse]]
+- [[objektai/autoriai/G. Rhode]]
+- [[objektai/grupes/Gardino pulkas]]
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
+- [[objektai/ivykiai/Giedraičių kautynės]]
+- [[objektai/ivykiai/Giedraičių kautynės (1920 m.)]]
+- [[objektai/daiktai/Ginklai ir ginkluotė]]
+- [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
+- [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)]]
+- [[objektai/asmenys/Henrikas von Plauenas]]
+- [[objektai/daiktai/Herbas]]
+- [[objektai/ivykiai/Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.)]]
+- [[objektai/asmenys/Inocentas VI]]
+- [[objektai/asmenys/Ivanas IV Rūstusis]]
+- [[objektai/asmenys/J. Kraševskis]]
+- [[objektai/autoriai/J. Ochmański]]
+- [[objektai/asmenys/J. Pilsudskis]]
+- [[objektai/asmenys/J. Čaplikas]]
+- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
+- [[objektai/autoriai/Jakštas, J]]
+- [[objektai/grupes/Jogailos palikuonys]]
+- [[objektai/asmenys/Jokūbas iš Kobylanų]]
+- [[objektai/asmenys/Jonas Karolis Katkevičius]]
+- [[objektai/asmenys/Jonas Tarnovskis]]
+- [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]
+- [[objektai/asmenys/Jonušas Svierčiovskis]]
+- [[objektai/asmenys/Jurgis (Lengvenio sūnus)]]
+- [[objektai/grupes/Jutrzenka]]
+- [[objektai/asmenys/Juzefas Ignacas Kraševskis]]
+- [[objektai/asmenys/Juzefas Pilsudskis]]
+- [[objektai/posakiai/Jūs abu esate mūsų viešpačiai]]
+- [[objektai/posakiai/Jūs abudu esate mūsų valdovai]]
+- [[objektai/autoriai/K. Chodynicki]]
+- [[objektai/autoriai/K. Kantrimas]]
+- [[objektai/ivykiai/Karas su Maskva (1609–1613 m.)]]
+- [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui]]
+- [[objektai/grupes/Kariuomenės ir Iždo komisijos]]
+- [[objektai/grupes/Kariškoji Lenkų Organizacija (P.O.W.)]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/ivykiai/Kauno bolševikų sukurstytas maištas (1920 m. vasario 22–23 d.)]]
+- [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
+- [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
+- [[objektai/asmenys/Kazimieras Didysis]]
+- [[objektai/ivykiai/Kazimiero išrinkimas Lenkų karalium]]
+- [[objektai/zodynas/Kerzono linija]]
+- [[objektai/asmenys/Kinsgaila]]
+- [[objektai/zodynas/Klaipėdiškiai]]
+- [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]
+- [[objektai/asmenys/Klemensas Moskorzewskis]]
+- [[objektai/autoriai/Kochanovskis]]
+- [[objektai/autoriai/Kondratavičius]]
+- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
+- [[objektai/asmenys/Konradas Wallenrodas]]
+- [[objektai/asmenys/Konradas fon Jungingenas]]
+- [[objektai/ivykiai/Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)]]
+- [[objektai/paprociai/Konspiracinė P.O.W. organizacijos veikla]]
+- [[objektai/autoriai/Kraševskis]]
+- [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
+- [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
+- [[objektai/daiktai/Kryžiuočių kariuomenės vėliavos]]
+- [[objektai/ivykiai/Krėvos sutarties priėmimas|Krėvos sutarties priėmimas (sutartis)]]
+- [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
+- [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
+- [[objektai/ivykiai/Kėzmarko pasitarimai su Zigmantu dėl karūnos]]
+- [[objektai/grupes/L. Želigovskio pajėgos]]
+- [[objektai/asmenys/L. Želigovskis]]
+- [[objektai/grupes/Lenkijos karalystės kariuomenė]]
+- [[objektai/ivykiai/Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)]]
+- [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
+- [[objektai/grupes/Lenkų bajorai]]
+- [[objektai/grupes/Lenkų bajorija]]
+- [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]
+- [[objektai/paprociai/Lenkų kalbos pasirinkimas LDK protestantiškoje ir politinio elito raštijoje]]
+- [[objektai/paprociai/Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite]]
+- [[objektai/grupes/Lenkų karalystė]]
+- [[objektai/grupes/Lenkų karinė organizacija]]
+- [[objektai/grupes/Lenkų krikščionys demokratai]]
+- [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
+- [[objektai/grupes/Lenkų socialistų partija]]
+- [[objektai/ivykiai/Lenkų sąmokslas Lietuvoje (P.O.W.) (1919 m. rugpiūčio 28–29 d. naktis)]]
+- [[objektai/posakiai/Lietuva tesanti Rusijos provincija ir todėl jos negalima prijungti prie Lenkijos]]
+- [[objektai/grupes/Lietuviškoji socialdemokratų partija]]
+- [[objektai/ivykiai/Lietuviškosios socialdemokratų partijos susikūrimas]]
+- [[objektai/ivykiai/Lietuviškosios spaudos draudimas ir rusiškų raidžių įvedimas (1864—1865 m.)]]
+- [[objektai/grupes/Lietuvių Mokslo Draugija]]
+- [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]
+- [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
+- [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]
+- [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]
+- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
+- [[objektai/grupes/Lietuvos demokratų partija]]
+- [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]
+- [[objektai/paprociai/Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu|Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu (seimas)]]
+- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
+- [[objektai/ivykiai/Lietuvos priėmimas į Tautų Sąjungą (1921 m. rugsėjo 22 d.)]]
+- [[objektai/grupes/Lietuvos seimas (XVI a.)]]
+- [[objektai/grupes/Liublino seimas]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/asmenys/Liudvikas]]
+- [[objektai/autoriai/M. Bielski]]
+- [[objektai/autoriai/M. Kromer]]
+- [[objektai/posakiai/MIRTIES AKIVAIZDOJE]]
+- [[objektai/ivykiai/Maironio knygų „Pavasario balsai“ ir „Jaunoji Lietuva“ išleidimas]]
+- [[objektai/daiktai/Malūnas]]
+- [[objektai/asmenys/Marija]]
+- [[objektai/asmenys/Marija (Liudviko duktė)]]
+- [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
+- [[objektai/asmenys/Markvardas Zalzbachas]]
+- [[objektai/grupes/Mažalenkiai]]
+- [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!]]
+- [[objektai/asmenys/Mikalojus Maskoževskis]]
+- [[objektai/asmenys/Mikalojus Sapienskis]]
+- [[objektai/grupes/Mokomoji kuopa]]
+- [[objektai/grupes/Mokslo mėgėjų draugija Krokuvoje]]
+- [[objektai/paprociai/Mokymas lotyniškai, iš dalies lenkiškai, Vyriausiojoje Lietuvos Mokykloje]]
+- [[objektai/asmenys/Motiejus Strijkovskis]]
+- [[objektai/autoriai/Mykolas Balinskis]]
+- [[objektai/autoriai/Mykolas Kleopas Oginskis]]
+- [[objektai/asmenys/Mykolas Küchmeisteris]]
+- [[objektai/asmenys/Mykolas Tromba]]
+- [[objektai/asmenys/Mykolas Velhorskis]]
+- [[objektai/grupes/Naujoji Lenkų Valstybės Taryba|Naujoji Lenkų Valstybės Taryba (institucija)]]
+- [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
+- [[objektai/zodynas/Nepriklausomybės kovos]]
+- [[objektai/grupes/Nuolatinė Taryba]]
+- [[objektai/autoriai/O. Balzeris]]
+- [[objektai/autoriai/O. Halecki]]
+- [[objektai/asmenys/Olesnickio]]
+- [[objektai/asmenys/Ona (Zigmanto Augusto sesuo)]]
+- [[objektai/daiktai/Ordino komtūrų barzdos]]
+- [[objektai/grupes/Oswiata]]
+- [[objektai/asmenys/Otokaras (Čekijos karalius)]]
+- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- [[objektai/ivykiai/Paliaubų protokolo pasirašymas Kaune]]
+- [[objektai/paprociai/Panedėlio už grieką laikymas]]
+- [[objektai/daiktai/Parakas]]
+- [[objektai/grupes/Parusėnai]]
+- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
+- [[objektai/ivykiai/Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.)]]
+- [[objektai/ivykiai/Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)]]
+- [[objektai/grupes/Pochodnia]]
+- [[objektai/grupes/Podoliečiai]]
+- [[objektai/paprociai/Protestantų pamaldos lenkiškai]]
+- [[objektai/zodynas/Rašliava]]
+- [[objektai/grupes/Riurikaičių dinastija]]
+- [[objektai/asmenys/Romanas Dmovskis]]
+- [[objektai/grupes/Romanovų dinastija]]
+- [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]
+- [[objektai/asmenys/S. Radziševskis]]
+- [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė]]
+- [[objektai/ivykiai/Seimų vietos įstatymo priėmimas (1673 m.)]]
+- [[objektai/grupes/Senalietuviai]]
+- [[objektai/grupes/Slavofilai]]
+- [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
+- [[objektai/asmenys/Spytekas iš Melštyno]]
+- [[objektai/autoriai/St. Krakowski]]
+- [[objektai/asmenys/Stanislovas Ciołek]]
+- [[objektai/asmenys/Stanislovas Liubomirskis]]
+- [[objektai/paprociai/Steigiamojo seimo rinkimų tvarka]]
+- [[objektai/asmenys/Sungaila]]
+- [[objektai/grupes/Susivienijimas Lietuvių Amerikoje]]
+- [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]
+- [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]
+- [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas]]
+- [[objektai/paprociai/Suvažiavimų rengimas arti Lietuvos sienos]]
+- [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.)]]
+- [[objektai/paprociai/Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas]]
+- [[objektai/autoriai/T. Wierzbowski]]
+- [[objektai/autoriai/T. Čarkovskis]]
+- [[objektai/autoriai/Tadas Korsakas]]
+- [[objektai/posakiai/Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta]]
+- [[objektai/grupes/Tautininkų grupuotė apie „Viltį“]]
+- [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]
+- [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]
+- [[objektai/paprociai/Tautos istorijos atminties saugojimas piliečių lūpose]]
+- [[objektai/grupes/Tautų Sąjunga]]
+- [[objektai/grupes/Tautų Sąjungos kontrolės komisija]]
+- [[objektai/posakiai/Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat sa]]
+- [[objektai/posakiai/Tegyvuoja gegužės 3 d. konstitucija!]]
+- [[objektai/zodynas/Teritorinė autonomija]]
+- [[objektai/zodynas/Tiesioginis valdymas]]
+- [[objektai/grupes/Tochtamišo totoriai]]
+- [[objektai/posakiai/Tėve mūsų ir Tikiu Dievą]]
+- [[objektai/asmenys/Vaclovas Pragiečius]]
+- [[objektai/asmenys/Vaitiekus Jastrzembiec]]
+- [[objektai/grupes/Varšuvos seimas|Varšuvos seimas (seimas)]]
+- [[objektai/grupes/Vazų dinastija]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/ivykiai/Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte|Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte (kraštas)]]
+- [[objektai/asmenys/Vileniškis]]
+- [[objektai/asmenys/Vilhelmas Habsburgas]]
+- [[objektai/grupes/Vilniaus Lietuvių Mokslo Draugija]]
+- [[objektai/ivykiai/Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)]]
+- [[objektai/grupes/Vilniaus mokslo bičiulių draugija]]
+- [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]
+- [[objektai/ivykiai/Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)]]
+- [[objektai/posakiai/Vilniuje karalius turi gan puikios artilerijos]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/asmenys/Vladislovas (Jogailos sūnus)]]
+- [[objektai/asmenys/Vladislovas (Kazimiero sūnus)]]
+- [[objektai/asmenys/Vladislovas iš Opolijos]]
+- [[objektai/asmenys/Vladislovas Łokietka]]
+- [[objektai/grupes/Voluiniečiai]]
+- [[objektai/asmenys/Vosylius (Maskvos kunigaikštis)]]
+- [[objektai/asmenys/Vosylius I]]
+- [[objektai/paprociai/Vyresnybės įsakymų skelbimas krivūle]]
+- [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
+- [[objektai/autoriai/W. Conze]]
+- [[objektai/autoriai/Wł. Semkowiczius]]
+- [[objektai/asmenys/Zbignievas Olesnickis]]
+- [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]]
+- [[objektai/asmenys/Zigmantas Kaributas]]
+- [[objektai/ivykiai/Zigmanto Vazos elekcija (1587 m.)]]
+- [[objektai/asmenys/Zyndramas iš Moškovicų]]
+- [[objektai/zodynas/administracinė linija demarkacijos linija]]
+- [[objektai/zodynas/applicare prišlieti]]
+- [[objektai/zodynas/apsigynimo ir puolimo sutartis|apsigynimo ir puolimo sutartis (sutartis)]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/apygardinė mokykla apygardėlinė mokykla]]
+- [[objektai/zodynas/atskiri seimai]]
+- [[objektai/zodynas/Batviniai|batviniai]]
+- [[objektai/zodynas/baudžiava baudžiavinė priklausomybė]]
+- [[objektai/posakiai/be Vytauto, kaip be druskos, neapseidavo]]
+- [[objektai/zodynas/bolševizacija]]
+- [[objektai/zodynas/demarkacijos linija]]
+- [[objektai/posakiai/deržati mi jeho vyše vseje našeje bratije]]
+- [[objektai/zodynas/egzekucija]]
+- [[objektai/zodynas/etnolingvistinis nacionalizmas]]
+- [[objektai/zodynas/federacija federacinė valstybė]]
+- [[objektai/zodynas/flangas]]
+- [[objektai/zodynas/gudų rašto kalba]]
+- [[objektai/zodynas/humanistinė istoriografija]]
+- [[objektai/asmenys/imperatorius Zigmantas]]
+- [[objektai/zodynas/integracinė kalba polonizacija]]
+- [[objektai/zodynas/karūnacija karūnuotis]]
+- [[objektai/zodynas/kaštelionas]]
+- [[objektai/zodynas/klaipėdiečiai klaipėdiškiai]]
+- [[objektai/zodynas/kultūrinė autonomija]]
+- [[objektai/zodynas/Lažas|lažas]]
+- [[objektai/zodynas/luomas subluomas]]
+- [[objektai/zodynas/metrika]]
+- [[objektai/zodynas/mokytojų seminarija]]
+- [[objektai/zodynas/neutralitetas]]
+- [[objektai/zodynas/oficialusis kultūros modelis]]
+- [[objektai/zodynas/organinis nacionalizmas]]
+- [[objektai/zodynas/paliaubos]]
+- [[objektai/zodynas/perdėtinis]]
+- [[objektai/zodynas/piastas]]
+- [[objektai/zodynas/polonizacija]]
+- [[objektai/zodynas/polonizacija integracinė kalba]]
+- [[objektai/posakiai/prieš vėją nepapūs]]
+- [[objektai/autoriai/prof. dr. St. Kutrzeba]]
+- [[objektai/zodynas/Pusrytės|pusrytės]]
+- [[objektai/zodynas/regestai]]
+- [[objektai/zodynas/regestas regestai]]
+- [[objektai/zodynas/rekvizicijos]]
+- [[objektai/zodynas/rezervai]]
+- [[objektai/zodynas/rezervas]]
+- [[objektai/zodynas/rusinimas]]
+- [[objektai/zodynas/rusinimas rusinimo politika]]
+- [[objektai/zodynas/samozvancas]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/zodynas/senalietuviai jaunalietuviai]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/seniūnas storasta]]
+- [[objektai/zodynas/separatizmas]]
+- [[objektai/zodynas/statuto dėsniai]]
+- [[objektai/zodynas/supremacija]]
+- [[objektai/posakiai/sąmyšio metai]]
+- [[objektai/zodynas/tautinis krikštas|tautinis krikštas (krikštas)]]
+- [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma]]
+- [[objektai/zodynas/tėviškė]]
+- [[objektai/zodynas/urėdas]]
+- [[objektai/zodynas/vachmistras]]
+- [[objektai/zodynas/viršila]]
+- [[objektai/asmenys/Česlovas Milošas]]
+- [[objektai/ivykiai/Čičinsko seimo išardymas (1652 m.)]]
+- [[objektai/asmenys/Čupurna]]
+- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
+- [[objektai/daiktai/Šarvai]]
+- [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
+- [[objektai/daiktai/Šarvuotasis traukinys Gediminas]]
+- [[objektai/asmenys/Šidiškis]]
+- [[objektai/posakiai/Širvintų stebuklas]]
+- [[objektai/ivykiai/Štumdorfo paliaubos (1635 m.)]]
+- [[objektai/paprociai/Šturmovųjų grupių fronto pralaužimo taktika]]
+- [[objektai/daiktai/Šv. Vaclovo karūna]]
+- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
+- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]
+- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]
+- [[objektai/zodynas/šlėkta]]
+- [[objektai/daiktai/Ūkės lazda]]
+- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
+- [[objektai/ivykiai/Želigovskio smurtas (1920 m. spalio 8–9 d.)]]
+- [[objektai/paprociai/Žydų prekybos ribojimas pilyse iki pusrytės]]
+- [[objektai/posakiai/„Kristus prisikėlė“]]
+- [[objektai/posakiai/„Przenigdy“ „Niekados“]]
+- [[objektai/paprociai/„Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams|„Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams (sukilimas)]]
+- [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]
+- [[objektai/posakiai/„Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat s]]
+- [[objektai/posakiai/„Vytautas negali sustoti, pasakyti — gana galybės.“]]
+- [[objektai/posakiai/„būtų liaudžiai suprantama“]]
+- [[objektai/posakiai/„lenkai atakuoja...“]]
+- [[objektai/posakiai/„lenkų Trojos arklys“]]
+- [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“]]
+- [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
+- [[objektai/posakiai/„lenkų suartinimo su rusais“]]
+- [[objektai/posakiai/„mūsų žydeliai“]]
+- [[objektai/posakiai/„prišlieti“]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Aldona Gediminaitė]]
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/daiktai/Antspaudai]]
+- [[objektai/grupes/Baltarusiai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Germantas]]
+- [[objektai/asmenys/Hlebas]]
+- [[objektai/posakiai/Iki gyvos galvos]]
+- [[objektai/asmenys/Jadvyga]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Kiška]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lenkijos ponų taryba]]
+- [[objektai/zodynas/Liberum veto]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos Respublika]]
+- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/asmenys/Manvydas]]
+- [[objektai/grupes/Moravai]]
+- [[objektai/asmenys/Pilsudskis]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
+- [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/zodynas/Tautinės mažumos]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
+- [[objektai/asmenys/Ulrichas von Jungingenas]]
+- [[objektai/grupes/Valachai]]
+- [[objektai/asmenys/Vitas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Vokiečių ordinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/applicare]]
+- [[objektai/zodynas/barbarai]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/duoklė]]
+- [[objektai/zodynas/inkorporuoti]]
+- [[objektai/zodynas/klauzūra]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/litas]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/senatas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/vėliava]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/zodynas/činšas]]
+- [[objektai/daiktai/Šakutė]]
+- [[objektai/grupes/Želigovskininkai]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/žygūnai]]
+- [[objektai/ivykiai/1401 m. Vytauto pasižadėjimai Lenkijai]]
+- [[objektai/daiktai/1547 m. Paleckio privilegijos Lietuvos Didžiosios Kunigaikštystės antspaudas]]
+- [[objektai/daiktai/A. Jurašaičio nuotrauka „Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.“]]
+- [[objektai/autoriai/A. Prochaska]]
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/ivykiai/Abiejų Tautų tarpusavio įžado priėmimas]]
+- [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
+- [[objektai/autoriai/Albertas Vijūkas-Kojelavičius]]
+- [[objektai/asmenys/Albertas fon Hagenas]]
+- [[objektai/daiktai/Alegorinė skulptūra „Lietuvos mokykla 1864-1904“]]
+- [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]
+- [[objektai/autoriai/Aleksandras Gvagninis]]
+- [[objektai/asmenys/Aleksandras I]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/asmenys/Aleksandras Narimantaitis]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Andrius Sniadeckis]]
+- [[objektai/asmenys/Andrius iš Vasilevo Važila]]
+- [[objektai/asmenys/Antanas Baranauskas]]
+- [[objektai/paprociai/Apgultos pilies išardų taisymas laikinais užtaisais]]
+- [[objektai/paprociai/Atsisakymas lenkų herbų kaip sąjungos nutraukimo ženklas]]
+- [[objektai/asmenys/Augustas III]]
+- [[objektai/posakiai/Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą]]
+- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
+- [[objektai/grupes/Baro konfederacija]]
+- [[objektai/zodynas/Baudžiava]]
+- [[objektai/autoriai/Benjamin W. Dwight]]
+- [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]]
+- [[objektai/asmenys/Bogdanas iš Ivanicos]]
+- [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]]
+- [[objektai/asmenys/Boleslovas Švitrigaila]]
+- [[objektai/grupes/Bresto seimas|Bresto seimas (seimas)]]
+- [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]
+- [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]
+- [[objektai/asmenys/Brunonas]]
+- [[objektai/asmenys/Czesław Miłosz]]
+- [[objektai/asmenys/Davaina]]
+- [[objektai/paprociai/Derybinis susitikimas neutralioje pusiaukelėje tarp priešiškų šalių]]
+- [[objektai/ivykiai/Didysis Vilniaus Seimas]]
+- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
+- [[objektai/asmenys/Dobrogostas]]
+- [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/asmenys/Dominykas Semaško]]
+- [[objektai/asmenys/Donatas Malinauskas]]
+- [[objektai/asmenys/Edigejus]]
+- [[objektai/asmenys/Eduardas Karolis Eichvaldas]]
+- [[objektai/asmenys/Elžbieta]]
+- [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]
+- [[objektai/asmenys/Emilija Pliaterytė]]
+- [[objektai/asmenys/Ernekė]]
+- [[objektai/asmenys/Ernestas Galvanauskas]]
+- [[objektai/posakiai/Esąs tik vienas būdas suteikti valstybei saugią ramybę]]
+- [[objektai/asmenys/F. Rolandas]]
+- [[objektai/asmenys/Fiodoras Ostrogiškis]]
+- [[objektai/autoriai/Francois Paulin Dalairac]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/grupes/Gediminaičių šeima]]
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija (1325 m.)]]
+- [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]
+- [[objektai/asmenys/Giliginas]]
+- [[objektai/ivykiai/Gintarinės deklaracijos surašymas ir paskelbimas Rusijos Dūmoje]]
+- [[objektai/autoriai/Godzislavas Baško]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/grupes/Gudai]]
+- [[objektai/paprociai/Gynyba deginant gyvenvietes ir iškeldinant gyventojus į pilį]]
+- [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį]]
+- [[objektai/asmenys/Hanulas]]
+- [[objektai/asmenys/Henrikas (Plocko vyskupas)]]
+- [[objektai/daiktai/Herbai]]
+- [[objektai/grupes/Husitai]]
+- [[objektai/autoriai/Ignas Danilavičius]]
+- [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]
+- [[objektai/asmenys/Imperatorius Vaclovas]]
+- [[objektai/ivykiai/Inovroclavo teismas dėl Pomeranijos (1320 m. balandis—1321 m. vasaris)]]
+- [[objektai/zodynas/Istorinis-geografinis tautos supratimas]]
+- [[objektai/asmenys/Ivanas Sidorovičius]]
+- [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
+- [[objektai/paprociai/Išvykstančio aukšto svečio apdovanojimas gausiomis dovanomis]]
+- [[objektai/daiktai/Iždo ir pilių raktai]]
+- [[objektai/daiktai/J. Bulhako nuotrauka „Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras“]]
+- [[objektai/autoriai/J. Dlugošas]]
+- [[objektai/autoriai/J. Dlugošas Długosz]]
+- [[objektai/autoriai/J. I. Kraševskis]]
+- [[objektai/autoriai/J. Latkowski]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/grupes/Jastžembcų giminė]]
+- [[objektai/grupes/Jaunalietuviai]]
+- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
+- [[objektai/autoriai/Joachimas Lelevelis (istorikas)]]
+- [[objektai/asmenys/Joachimas Pavlovičius]]
+- [[objektai/grupes/Jogailaičių dinastija]]
+- [[objektai/ivykiai/Jogailos ir Sofijos santuoka (1421 m.)]]
+- [[objektai/asmenys/Johanas Pėteris Frankas]]
+- [[objektai/asmenys/Jonas Basanavičius]]
+- [[objektai/asmenys/Jonas Jablonskis]]
+- [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]
+- [[objektai/asmenys/Jonas Marija]]
+- [[objektai/asmenys/Jonas Mačiulis-Maironis]]
+- [[objektai/asmenys/Jonas Olbrachtas]]
+- [[objektai/asmenys/Jonas Ritvianskis]]
+- [[objektai/asmenys/Jonas iš Vienos]]
+- [[objektai/asmenys/Jonas Čarnkovskis]]
+- [[objektai/asmenys/Jozefas Frankas]]
+- [[objektai/asmenys/Julija Žymantienė-Žemaitė]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]
+- [[objektai/asmenys/Juozapas Ignas Kraševskis]]
+- [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
+- [[objektai/asmenys/Jurga (pasienio seniūnas)]]
+- [[objektai/asmenys/Jurgis (Maskvos kunigaikštis)]]
+- [[objektai/asmenys/Jurgis Narimantaitis]]
+- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
+- [[objektai/asmenys/K. Škirpa]]
+- [[objektai/paprociai/Kameneco viršininko skyrimas tik iš lenkų tautybės žmonių]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/ivykiai/Karo su Prūsija pradžia ir dvejų metų paliaubos per popiežiaus legatą]]
+- [[objektai/asmenys/Karolina Praniauskaitė]]
+- [[objektai/asmenys/Karolis IV]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]
+- [[objektai/asmenys/Kazimieras Jogailaitis]]
+- [[objektai/ivykiai/Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.)]]
+- [[objektai/ivykiai/Kazimiero konfliktas dėl Rusios ir sutartis su lietuvių valdovu|Kazimiero konfliktas dėl Rusios ir sutartis su lietuvių valdovu (sutartis)]]
+- [[objektai/ivykiai/Kazimiero įvykdytas rusų valdų perėmimas iš lietuvių (1366 m.)]]
+- [[objektai/asmenys/Kemlickis]]
+- [[objektai/ivykiai/Klaipėdos krašto prisijungimas prie Lietuvos (1923–1924 m.)]]
+- [[objektai/asmenys/Konradas (Prūsijos magistras)]]
+- [[objektai/asmenys/Konstantinas Karijotaitis]]
+- [[objektai/asmenys/Konstantinas Ostrogiškis]]
+- [[objektai/asmenys/Konstantinas Sirvydas]]
+- [[objektai/paprociai/Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Krimo orda]]
+- [[objektai/asmenys/Kristupas Radvila Perkūnas]]
+- [[objektai/ivykiai/Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.)]]
+- [[objektai/grupes/Kuršo kunigaikštystė]]
+- [[objektai/autoriai/Kutrzeba]]
+- [[objektai/asmenys/Lanckoronskis]]
+- [[objektai/ivykiai/Latvijos de jure Lietuvos pripažinimas ir Lietuvos–Latvijos sienos nustatymas (1921 m.)]]
+- [[objektai/autoriai/Laurynas Ivinskis]]
+- [[objektai/grupes/Lenkijos Regentų Taryba]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/daiktai/Lenkijos kariuomenės 9-ojo pėstininkų pulko krūtininis ženklas]]
+- [[objektai/grupes/Lenkijos laikinoji tautinė vyriausybė]]
+- [[objektai/grupes/Lenkijos senatas]]
+- [[objektai/grupes/Lenkų didžponiai]]
+- [[objektai/ivykiai/Lenkų ir rusų karas dėl Liublino, kuriame dalyvavo lietuviai (1302 m.)]]
+- [[objektai/paprociai/Lenkų mokyklų ribojimas pagal tėvų tautybę ir nelegalios lenkiškos mokyklos]]
+- [[objektai/grupes/Lenkų senatas]]
+- [[objektai/grupes/Lenkų tautiniai demokratai]]
+- [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
+- [[objektai/ivykiai/Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.)]]
+- [[objektai/grupes/Lietuvių bajorija]]
+- [[objektai/ivykiai/Lietuvių ir žemaičių Prūsijos nusiaubimas bei nesėkmingas Europos valdovų žygis į Lietuvą (1342-1343 m.)]]
+- [[objektai/grupes/Lietuvių krikščionys demokratai]]
+- [[objektai/ivykiai/Lietuvių įsiveržimas į Mazoviją ir Pultusko sudeginimas (1367 m.)]]
+- [[objektai/posakiai/Lietuvių žemėse patį pavojingiausią miestą]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/ivykiai/Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis)]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos]]
+- [[objektai/ivykiai/Lietuvos demokratų partijos susikūrimas]]
+- [[objektai/grupes/Lietuvos didikai]]
+- [[objektai/paprociai/Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos]]
+- [[objektai/ivykiai/Lietuvos ginkluota pagalba Prūsijai prieš Boleslovą Narsųjį]]
+- [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]
+- [[objektai/ivykiai/Lietuvos ir Lenkijos draugiškų santykių ir gero kaimyninio bendradarbiavimo sutarties pasirašymas (1994 m. balandžio 26 d.)]]
+- [[objektai/grupes/Lietuvos kunigaikščiai ir didikai]]
+- [[objektai/grupes/Lietuvos luomai]]
+- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/posakiai/Lietuvos reikalų neleidusi sutvarkyti laiko stoka]]
+- [[objektai/grupes/Lietuvos socialdemokratų partija]]
+- [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]
+- [[objektai/grupes/Lietuvos šaulių sąjunga]]
+- [[objektai/zodynas/Lituanizuoti]]
+- [[objektai/asmenys/Liubartas]]
+- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/asmenys/Liudvika Didžiulienė-Žmona]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
+- [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/asmenys/Martynas Ostrovskis]]
+- [[objektai/asmenys/Martynas Paleckis]]
+- [[objektai/asmenys/Martynas V]]
+- [[objektai/asmenys/Martynas iš Krušvicos]]
+- [[objektai/ivykiai/Maskvėnų įsiveržimas į Baltarusiją ir lietuvių bei lenkų atsakomasis žygis]]
+- [[objektai/daiktai/Mediniai rūmai]]
+- [[objektai/asmenys/Mengli Girėjus]]
+- [[objektai/posakiai/Menko grobio ir tuščios garbės pasigviešę]]
+- [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
+- [[objektai/autoriai/Miechowita]]
+- [[objektai/autoriai/Mikalojus Akelaitis]]
+- [[objektai/asmenys/Mikalojus Firlėjus]]
+- [[objektai/asmenys/Mikalojus Moskoževskis]]
+- [[objektai/asmenys/Mikalojus Radvila]]
+- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
+- [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
+- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
+- [[objektai/asmenys/Mykolas Sleževičius]]
+- [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]
+- [[objektai/posakiai/Niekad, niekados]]
+- [[objektai/asmenys/Nodamas]]
+- [[objektai/grupes/Oberostas]]
+- [[objektai/grupes/Okos aukštupio kunigaikščiai]]
+- [[objektai/asmenys/Oskaras Milašius]]
+- [[objektai/ivykiai/Ostrogiškio ir Kiškos niokojamasis žygis į Maskvos kunigaikštystę]]
+- [[objektai/paprociai/Pabaisko pergalės įamžinimas vietovardžiais ir bažnyčios fundacija]]
+- [[objektai/grupes/Pacai]]
+- [[objektai/ivykiai/Parčevo, Bresto ir Lomžos seimų bandymas spręsti Podolės ginčą (1463-1464 m.)]]
+- [[objektai/asmenys/Paulius fon Hindenburgas]]
+- [[objektai/asmenys/Pelka]]
+- [[objektai/asmenys/Petras (Krokuvos vaivada)]]
+- [[objektai/asmenys/Petras (Poznanės vyskupas)]]
+- [[objektai/asmenys/Petras I Didysis]]
+- [[objektai/asmenys/Petras Kriaučiūnas]]
+- [[objektai/zodynas/Pilininkas]]
+- [[objektai/ivykiai/Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.)]]
+- [[objektai/asmenys/Pipinas]]
+- [[objektai/ivykiai/Pipino nukankinimas ir mirtis]]
+- [[objektai/ivykiai/Pirmasis masinis Lietuvos gyventojų trėmimas (1941 m. birželio 14-18 d.)]]
+- [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]
+- [[objektai/asmenys/Pisonas]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/asmenys/Pranciškus Ferdinandas]]
+- [[objektai/asmenys/Pranciškus Gonzaga]]
+- [[objektai/grupes/Prancūzai]]
+- [[objektai/paprociai/Privatus lietuviškų mokyklų steigimas ir lietuviškas mokymas po 1905 m]]
+- [[objektai/grupes/Provincijų sesijos]]
+- [[objektai/zodynas/Prūsijos žemė]]
+- [[objektai/zodynas/Prūsijos žemė terra Prussiae]]
+- [[objektai/grupes/Pskovo respublika]]
+- [[objektai/ivykiai/Radomo seimas, Lietuvos didikų susitaikymo mėginimas ir Aleksandro paralyžius senate|Radomo seimas, Lietuvos didikų susitaikymo mėginimas ir Aleksandro paralyžius senate (seimas)]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/grupes/Raudonoji armija]]
+- [[objektai/paprociai/Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu]]
+- [[objektai/autoriai/Romas Dubonis]]
+- [[objektai/asmenys/Romuntas]]
+- [[objektai/autoriai/Ročka M]]
+- [[objektai/asmenys/Rumbaudas]]
+- [[objektai/zodynas/Rygos miesto civilinė teisė vokiečių teisės]]
+- [[objektai/asmenys/S. Rozenbaumas]]
+- [[objektai/paprociai/Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą|Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą (kraštas)]]
+- [[objektai/ivykiai/Sarajevo atentatas ir Pirmojo pasaulinio karo pradžia]]
+- [[objektai/ivykiai/Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas]]
+- [[objektai/asmenys/Sekalys]]
+- [[objektai/grupes/Seradzo lenkų seimas|Seradzo lenkų seimas (seimas)]]
+- [[objektai/asmenys/Simonas Daukantas]]
+- [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]
+- [[objektai/asmenys/Simonas Olelkaitis]]
+- [[objektai/asmenys/Simonas Rozenbaumas]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/ivykiai/Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.)]]
+- [[objektai/ivykiai/Skitų įsiveržimas į Lenkiją ir Kazimiero įsitraukimas į karą dėl Podolės (1488 m.)]]
+- [[objektai/grupes/Smolensko pulkai]]
+- [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- [[objektai/asmenys/Spytekas iš Melštino]]
+- [[objektai/asmenys/Spytkas iš Melštino]]
+- [[objektai/asmenys/Stanislovas Augustas Poniatauskas]]
+- [[objektai/asmenys/Stanislovas Kiška]]
+- [[objektai/asmenys/Stanislovas Lesniovolskis]]
+- [[objektai/asmenys/Stanislovas Ostrorogas]]
+- [[objektai/asmenys/Stanislovas Ratka]]
+- [[objektai/asmenys/Stasys Raštikis]]
+- [[objektai/autoriai/Stasys Šalkauskis]]
+- [[objektai/autoriai/Stasys Šilingas]]
+- [[objektai/grupes/Steigiamasis seimas]]
+- [[objektai/asmenys/Surminas]]
+- [[objektai/ivykiai/Suvalkų derybos ir sutartis (1920 m. rugsėjo 20 d. – spalio 7 d.)]]
+- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
+- [[objektai/paprociai/Tautinių mažumų kalbos ir kultūros puoselėjimas ribotos lygybės sąlygomis]]
+- [[objektai/asmenys/Teodoras Narbutas]]
+- [[objektai/ivykiai/Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę]]
+- [[objektai/asmenys/Tochtamišas]]
+- [[objektai/asmenys/Trepka]]
+- [[objektai/posakiai/Ugnimi ir kalaviju]]
+- [[objektai/grupes/Ukrainiečiai]]
+- [[objektai/asmenys/Vaitiekus Chelminskis]]
+- [[objektai/paprociai/Valdovo deginimas ant laidotuvių laužo ir atminimo vietos sakralizavimas]]
+- [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]
+- [[objektai/paprociai/Valdų išpirkimas nuo antpuolių dovanomis per žygūnus]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/ivykiai/Vidurinės Lietuvos rinkimai ir prijungimo prie Lenkijos sprendimas (1922 m.)]]
+- [[objektai/grupes/Vietinė rinktinė]]
+- [[objektai/asmenys/Vilhelmas]]
+- [[objektai/grupes/Vilniaus archeologijos komisija]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/daiktai/Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje]]
+- [[objektai/ivykiai/Vilniaus seimas ir Belsko žemės atskyrimo aktas|Vilniaus seimas ir Belsko žemės atskyrimo aktas (seimas, XVI a.)]]
+- [[objektai/ivykiai/Vilniaus suvažiavimas ir priesaika dėl Lietuvos grįžimo Jogailai (1401 m.)]]
+- [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]
+- [[objektai/grupes/Vilniaus universitetas]]
+- [[objektai/ivykiai/Vilniaus-Radomo susitarimas]]
+- [[objektai/asmenys/Vincas Kudirka]]
+- [[objektai/autoriai/Vincas Vyčinas]]
+- [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)]]
+- [[objektai/asmenys/Vladislovas Jogaila]]
+- [[objektai/asmenys/Vladislovas Lokietka]]
+- [[objektai/asmenys/Vladislovas Vaza]]
+- [[objektai/asmenys/Vladislovas iš Opolės]]
+- [[objektai/daiktai/Vyriška apranga]]
+- [[objektai/ivykiai/Vytauto Vilniaus apgultis ir atsitraukimas į Prūsiją]]
+- [[objektai/ivykiai/Vytauto karūnacijos byla]]
+- [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]
+- [[objektai/grupes/Vytauto šalininkai]]
+- [[objektai/ivykiai/Vytenio žygis į Didžiąją Lenkiją ir kryžiuočių antpuoliai prieš Gardiną (1306 m.)]]
+- [[objektai/ivykiai/Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant]]
+- [[objektai/ivykiai/Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.)]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/asmenys/Zbignevas iš Bžezės]]
+- [[objektai/asmenys/Zborovskis]]
+- [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]
+- [[objektai/asmenys/Ziemovitas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- [[objektai/daiktai/Zigmanto II antkapis]]
+- [[objektai/asmenys/Zindramas iš Maškovičių]]
+- [[objektai/zodynas/administracinė linija]]
+- [[objektai/zodynas/apostazija]]
+- [[objektai/grupes/asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
+- [[objektai/zodynas/autonomija autonominis statusas]]
+- [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire]]
+- [[objektai/zodynas/dešimtinė]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/diecezija]]
+- [[objektai/zodynas/dominija]]
+- [[objektai/zodynas/etnografinės ribos etnografinis principas]]
+- [[objektai/zodynas/florinai]]
+- [[objektai/zodynas/fundacija]]
+- [[objektai/zodynas/husarai]]
+- [[objektai/zodynas/istorinė Lietuva]]
+- [[objektai/zodynas/kantonas kantoninis principas]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/zodynas/litvomanija]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/oficialusis kultūros modelis lietuviakalbė programa]]
+- [[objektai/grupes/oji pėstininkų divizija]]
+- [[objektai/zodynas/pakancleris]]
+- [[objektai/zodynas/posadnikas bojarinas vietininkas]]
+- [[objektai/zodynas/pozicinis karas]]
+- [[objektai/zodynas/pozicinė gynyba]]
+- [[objektai/posakiai/pramanė „sukilimo pasaką]]
+- [[objektai/zodynas/prelatai ir kanauninkai]]
+- [[objektai/zodynas/proletarinis internacionalizmas]]
+- [[objektai/zodynas/reformacija]]
+- [[objektai/zodynas/reformacija protestantizmas kalvinizmas]]
+- [[objektai/zodynas/samdytiniai]]
+- [[objektai/zodynas/siuzerenas]]
+- [[objektai/zodynas/tautinis atgimimas]]
+- [[objektai/zodynas/tautinė sąmonė]]
+- [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas]]
+- [[objektai/zodynas/vaivada kaštelionas]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/ivykiai/Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.)]]
+- [[objektai/asmenys/Ėrichas Liudendorfas]]
+- [[objektai/paprociai/Įtartinų žmonių šalinimas iš tvirtovės apgulties metu]]
+- [[objektai/ivykiai/Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.)]]
+- [[objektai/grupes/Šventoji kardinolų taryba|Šventoji kardinolų taryba (institucija, XV a.)]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/ivykiai/Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis]]
+- [[objektai/ivykiai/Švitrigailos nesėkmingas 1434 m. puolimas ir Kaributaičio perėjimas pas lenkus]]
+- [[objektai/ivykiai/Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.)]]
+- [[objektai/zodynas/šv. Petro skatiko rinkliava]]
+- [[objektai/ivykiai/Žalgirio mūšis]]
+- [[objektai/grupes/Žemaitijos vyriausybė]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/daiktai/Žemėlapis „Lituania Propria“]]
+- [[objektai/grupes/Žydų Hapoelio klubas]]
+- [[objektai/paprociai/Žydų ir lietuvių ūkinės priklausomybės ir kalbinio bendravimo modelis]]
+- [[objektai/paprociai/Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime]]
+- [[objektai/asmenys/Žygimantas Kaributaitis]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- [[objektai/zodynas/žygūnas]]
+- [[objektai/posakiai/„Demokratija Lietuvoje ... tai nupirkti per dideli batai vaikams“]]
+- [[objektai/posakiai/„Iš visų Europos kalbų lietuvių kalba...“]]
+- [[objektai/posakiai/„Lithuania Propria“]]
+- [[objektai/posakiai/„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“]]
+- [[objektai/posakiai/„nei karo, nei taikos“]]
+- [[objektai/posakiai/„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“]]
+- [[objektai/posakiai/„nuo jūros iki jūros“]]
+- [[objektai/posakiai/„tautų kalėjimas“ „lydymosi katilas“ „tautų lopšys“]]
+- [[objektai/asmenys/Lešekas]]
+- [[objektai/grupes/Rytų Lietuvos (Mindaugo) sritis]]
+- [[objektai/asmenys/Šich Achmetas]]
+- [[objektai/asmenys/Astikas]]
+- [[objektai/grupes/Atskiri Lietuvos seimai]]
+- [[objektai/asmenys/Barbora iš Sulistrovskių Čechavičienė]]
+- [[objektai/ivykiai/Bresto luomų pasitarimas ir pasiuntinybė į Liublino seimą dėl unijos su Lenkija|Bresto luomų pasitarimas ir pasiuntinybė į Liublino seimą dėl unijos su Lenkija (unija, XVI a.)]]
+- [[objektai/asmenys/Florijonas Zebžidovskis]]
+- [[objektai/ivykiai/Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.)]]
+- [[objektai/ivykiai/Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.)]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
+- [[objektai/asmenys/Liudvikas (Torunės komtūras)]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/autoriai/P. Paprockis]]
+- [[objektai/paprociai/Priglausto svečio neišdavimas dėl valdovo garbės ir duoto žodžio]]
+- [[objektai/ivykiai/Torno taika (1411 m.)]]
+- [[objektai/paprociai/Valdovo meilės ryšių viešas smerkimas apkalbomis ir pašiepiamomis dainelėmis]]
+- [[objektai/ivykiai/Varšuvos seimas ir Lenkijos atsisakymas prisiimti Livonijos karo naštą|Varšuvos seimas ir Lenkijos atsisakymas prisiimti Livonijos karo naštą (seimas, XVI a.)]]
+- [[objektai/autoriai/Wiliński K]]
+- [[objektai/autoriai/Włodarski B]]
+- [[objektai/zodynas/ariergardas]]
+- [[objektai/posakiai/de speciali consilio et voluntate Vitoldi ipsiusque praelatorum, baronum ac militum]]
+- [[objektai/zodynas/gurguolė]]
+- [[objektai/zodynas/homiletika]]
+- [[objektai/posakiai/lenkų ponus „užglostyti”]]
+- [[objektai/posakiai/vienui viena veiksminga priemonė]]
+- [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]
+- [[objektai/paprociai/Bajoriškųjų lengvatų suteikimas paliečiant petį kardu]]
+- [[objektai/paprociai/Kunigaikščio palaikų atvežimas į sostinę ir iškilmingas palaidojimas]]
+- [[objektai/ivykiai/Piotrkovo seimas ir luomų reikalavimas karaliui prisiekti dėl Podolės bei Volynės (1449 m.)]]
+- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]
+- [[objektai/zodynas/bajoriškosios lengvatos]]

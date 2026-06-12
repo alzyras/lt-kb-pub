@@ -17,7 +17,9 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 
 ## Teiginiai
 
+<a id="claim-t-21318"></a>
 - t-001
+  global_id: t-21318
   teiginys: 'Vudro Vilsono paskelbti „14 punktų“ suteikė JAV lietuvių imigrantams progą kelti Lietuvos klausimą.'
   pagrindžia:
     - c-001

@@ -16,17 +16,23 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
 
 ## Teiginiai
 
+<a id="claim-t-19125"></a>
 - t-001
+  global_id: t-19125
   teiginys: 'Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa pateikė pirmą lietuvišką knygą ir pradėjo lietuviakalbės raštijos tradiciją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-19126"></a>
 - t-002
+  global_id: t-19126
   teiginys: '1547 m. išleistas Martyno Mažvydo „Katekizmas“ laikomas Abraomo Kulviečio ir Stanislovo Rapolionio programos dalimi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-19127"></a>
 - t-003
+  global_id: t-19127
   teiginys: 'Martynas Mažvydas siejamas su 1547 m. Karaliaučiuje išspausdintu „Katekizmu“, pirmąja knyga lietuvių kalba.'
   pagrindžia:
     - c-001

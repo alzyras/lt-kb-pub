@@ -16,7 +16,9 @@ Wallenrodas, daug aukštųjų pareigūnų ir komtūrų.
 
 ## Teiginiai
 
+<a id="claim-t-29002"></a>
 - t-001
+  global_id: t-29002
   teiginys: 'Maršalas Er. Wallenrodas buvo tarp 200 kritusių kryžiuočių riterių.'
   pagrindžia:
     - c-001

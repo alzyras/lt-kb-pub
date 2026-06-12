@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Bajorų pilaitė
 
 ## Santrauka
 
-Kojelavičius teigia, kad nuliūdęs ir pasipiktinęs Šindekopfas patraukė su kariuomene prie Bajorų pilaitės ir netrukus ją už grobė.
+Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.
 
 ## Teiginiai
 
+<a id="claim-t-185278"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad nuliūdęs ir pasipiktinęs Šindekopfas patraukė su kariuomene prie Bajorų pilaitės ir netrukus ją už grobė.'
+  global_id: t-185278
+  teiginys: 'Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad nuliūdęs ir pasipiktinęs Šindekopfas patraukė su kariuomene prie Bajorų pilaitės ir netrukus ją už grobė.'
+  santrauka: 'Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat Algirdas ir Kęs­

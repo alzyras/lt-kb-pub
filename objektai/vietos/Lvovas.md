@@ -22,7 +22,6 @@ amziai:
   - 'XIII'
   - 'XXI'
 ---
-
 # Lvovas
 
 ## Santrauka
@@ -31,48 +30,66 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 
 ## Teiginiai
 
+<a id="claim-t-121908"></a>
 - t-001
+  global_id: t-121908
   teiginys: '1392 m. balandžio 16 d. Jogaila Lvove išdavė privilegiją, nukreiptą prieš Vytauto siekius Lietuvoje ir pretenzijas į Lucką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-121909"></a>
 - t-002
+  global_id: t-121909
   teiginys: 'Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-121910"></a>
 - t-003
+  global_id: t-121910
   teiginys: 'Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius dėl savo vaidmens steigiant Žemaičių vyskupiją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-121911"></a>
 - t-004
+  global_id: t-121911
   teiginys: '1919 m. pavasarį Lenkijos kariuomenė kovojo Ukrainoje prie Lvovo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-121912"></a>
 - t-005
+  global_id: t-121912
   teiginys: 'Lvovas buvo pastatydintas 1280 m. Leono, Danilos iš Haličo sūnaus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-121913"></a>
 - t-006
+  global_id: t-121913
   teiginys: 'Tuo metu, kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai įvažiavo į Lvovą ir suteikė tam miestui privilegiją.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-183048"></a>
 - t-007
+  global_id: t-183048
   teiginys: 'Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-185036"></a>
 - t-008
-  teiginys: 'Kojelavičius teigia, kad s k ita i n io k o ja R usią Tuo metu sugrįžo iš baž nytinio suvažiavimo pasiun tiniai, taip sutvarkę reikalus, kaip norėjo karalius, be to, parsivežu laišką, kuriuo Lvovo arkivyskupui ir Vil niaus vyskupui patikėta uždavinys įsteigti Žemaičių vys kupystę.'
+  global_id: t-185036
+  teiginys: 'Lvovo arkivyskupui ir Vilniaus vyskupui buvo pavesta įsteigti Žemaičių vyskupystę.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-185037"></a>
 - t-009
-  teiginys: 'Kojelavičius teigia, kad kara lius, nutraukęs apsiaustį ir paleidęs kariuomenę, nu keliavo į Lvovą.'
+  global_id: t-185037
+  teiginys: 'Karalius, nutraukęs apsiaustį ir paleidęs kariuomenę, nukeliavo į Lvovą.'
   pagrindžia:
     - c-008
 
@@ -180,7 +197,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - t-007
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad s k ita i n io k o ja R usią Tuo metu sugrįžo iš baž nytinio suvažiavimo pasiun tiniai, taip sutvarkę reikalus, kaip norėjo karalius, be to, parsivežu laišką, kuriuo Lvovo arkivyskupui ir Vil niaus vyskupui patikėta uždavinys įsteigti Žemaičių vys kupystę.'
+  santrauka: 'Lvovo arkivyskupui ir Vilniaus vyskupui buvo pavesta įsteigti Žemaičių vyskupystę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vy­
@@ -211,7 +228,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - t-008
 
 - c-008
-  santrauka: 'Kojelavičius teigia, kad kara lius, nutraukęs apsiaustį ir paleidęs kariuomenę, nu keliavo į Lvovą.'
+  santrauka: 'Karalius, nutraukęs apsiaustį ir paleidęs kariuomenę, nukeliavo į Lvovą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš pradžių susitarė dėl trumpalaikių

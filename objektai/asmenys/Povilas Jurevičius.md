@@ -17,7 +17,9 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
 
 ## Teiginiai
 
+<a id="claim-t-87837"></a>
 - t-001
+  global_id: t-87837
   teiginys: 'Povilas Jurevičius buvo tarp parapijoje gyvenusių bajorų, kuriems pagal seną paprotį buvo privalu mokėti dešimtinę.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jaranda iš Brudzevo (vyskupas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino, Lauryną Zarembą ir kitus.
+Krokuvos vaivada Jaranda iš Brudzevo buvo įtrauktas į senato pasiuntinybę, išsiųstą į Lietuvą pas Žygimantą.
 
 ## Teiginiai
 
+<a id="claim-t-186214"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino, Lauryną Zarembą ir kitus.'
+  global_id: t-186214
+  teiginys: 'Krokuvos vaivada Jaranda iš Brudzevo buvo įtrauktas į senato pasiuntinybę, išsiųstą į Lietuvą pas Žygimantą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino, Lauryną Zarembą ir kitus.'
+  santrauka: 'Krokuvos vaivada Jaranda iš Brudzevo buvo įtrauktas į senato pasiuntinybę, išsiųstą į Lietuvą pas Žygimantą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atidėlioti šį
@@ -48,3 +49,11 @@ Kojelavičius teigia, kad kadangi reikėjo skubėti, senatas ir nutarė išsiųs
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/senatas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/Lenkijos senatas]]
+- [[objektai/grupes/Lenkų senatas]]

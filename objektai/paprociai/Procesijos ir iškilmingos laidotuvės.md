@@ -37,17 +37,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67188"></a>
 - t-001
+  global_id: t-67188
   teiginys: 'Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vienas protestantas, Ostijos garbinimą išvadinęs stabmeldyste, buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nukankintas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67189"></a>
 - t-002
+  global_id: t-67189
   teiginys: 'Jėzuitai visuomenę į bažnyčią traukė iškilmingomis pamaldomis, procesijomis ir kitomis iškilmėmis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67190"></a>
 - t-003
+  global_id: t-67190
   teiginys: 'Dažniausiai muštynių atsitikdavo švenčių metu, per procesijas, kada ypatingai vieni kitus gebėdavo įžeisti.'
   pagrindžia:
     - c-001

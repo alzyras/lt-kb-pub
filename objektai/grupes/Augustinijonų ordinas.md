@@ -19,7 +19,9 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 
 ## Teiginiai
 
+<a id="claim-t-01273"></a>
 - t-001
+  global_id: t-01273
   teiginys: 'Augustinijonų vienuoliai Lietuvoje rūpinosi pradžios mokslu kartu su parapijų kunigais ir kitų ordinų vienuoliais.'
   pagrindžia:
     - c-001

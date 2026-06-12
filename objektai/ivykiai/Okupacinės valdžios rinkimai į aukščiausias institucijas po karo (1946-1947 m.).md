@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66803"></a>
 - t-001
+  global_id: t-66803
   teiginys: '1946 ir 1947 m. Lietuvoje vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66804"></a>
 - t-002
+  global_id: t-66804
   teiginys: 'Visuose rinkimuose kandidatus tegalėjo siūlyti vienintelė komunistų partija, rinkimų rezultatai klastojami, oficialiai pranešant, jog rinkimuose dalyvavo per 90 proc.'
   pagrindžia:
     - c-001

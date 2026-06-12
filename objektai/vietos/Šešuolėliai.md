@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-42361"></a>
 - t-001
+  global_id: t-42361
   teiginys: '7-asis pulkas turėjo pulti Širvintas ir užimti liniją iki Šešuolėlių dvaro.'
   pagrindžia:
     - c-001

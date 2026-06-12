@@ -26,52 +26,72 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-74108"></a>
 - t-001
+  global_id: t-74108
   teiginys: 'Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-74109"></a>
 - t-002
+  global_id: t-74109
   teiginys: 'Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klausimais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarlamente – 12 europarlamentarų.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-74110"></a>
 - t-003
+  global_id: t-74110
   teiginys: 'Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą tapti ES narėmis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-74111"></a>
 - t-004
+  global_id: t-74111
   teiginys: '1991 m. rugsėjo 17 d. Lietuva priimta į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuotas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-74112"></a>
 - t-005
+  global_id: t-74112
   teiginys: 'Lietuvos aukštosios mokyklos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų programose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74113"></a>
 - t-006
+  global_id: t-74113
   teiginys: 'Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikūrusios Lietuvos užsienio politikos tikslas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-74114"></a>
 - t-007
+  global_id: t-74114
   teiginys: '1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74115"></a>
 - t-008
+  global_id: t-74115
   teiginys: 'Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-74116"></a>
 - t-009
+  global_id: t-74116
   teiginys: '2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-74117"></a>
 - t-010
+  global_id: t-74117
   teiginys: '2004 m. Lietuva tapo Europos Sąjungos ir NATO nare.'
   pagrindžia:
     - c-008

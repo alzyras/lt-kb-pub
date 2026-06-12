@@ -17,6 +17,7 @@ const ADVANCED_KEYS = new Set([
   "vertinimo_atnaujinta",
   "vertinimo_autorius",
   "pagrindžia",
+  "global_id",
 ])
 const QUOTE_DISPLAY_KEY = "citata_rodoma"
 const QUOTE_ORIGINAL_KEY = "citata_originali"
@@ -56,6 +57,22 @@ function pill(id: string): string {
   const normalized = normalizeEvidenceId(id)
   const kind = normalized.startsWith("t-") ? "claim" : "quote"
   return `<span class="evidence-pill evidence-pill-${kind}">${escapeHtml(normalized)}</span>`
+}
+
+function claimAnchorId(globalId: string): string {
+  const code = globalId
+    .trim()
+    .toLowerCase()
+    .replace(/[^a-z0-9_-]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+  return code ? `claim-${code}` : ""
+}
+
+function claimDeeplinkPill(localId: string, anchorId: string): string {
+  if (!anchorId) {
+    return pill(localId)
+  }
+  return `<a class="claim-deeplink" href="#${escapeHtml(anchorId)}" aria-label="Nuoroda į teiginį ${escapeHtml(localId)}">${pill(localId)}</a>`
 }
 
 function markdownCell(text: string): string {
@@ -282,8 +299,13 @@ function renderClaimsSection(sectionLines: string[]): string[] | null {
     const { claim, context } = splitClaimAndContext(entry)
     const refs = entry.lists.get("pagrindžia") ?? []
     const refsHtml = refs.length > 0 ? refs.map(pill).join(" ") : ""
+    const globalId = entry.fields.get("global_id") ?? ""
+    const anchorId = claimAnchorId(globalId)
+    const globalAttrs = globalId ? ` data-global-claim-id="${escapeHtml(globalId)}"` : ""
+    const anchorAttr = anchorId ? ` id="${escapeHtml(anchorId)}"` : ""
+    const claimPill = claimDeeplinkPill(entry.id, anchorId)
     out.push(
-      `<tr data-claim-row="true" data-supporting-ids="${escapeHtml(refs.join("|"))}"><td>${pill(entry.id)} ${markdownCell(claim)}</td><td>${markdownCell(context)}</td><td>${refsHtml}</td></tr>`,
+      `<tr${anchorAttr} data-claim-row="true"${globalAttrs} data-supporting-ids="${escapeHtml(refs.join("|"))}"><td>${claimPill} ${markdownCell(claim)}</td><td>${markdownCell(context)}</td><td>${refsHtml}</td></tr>`,
     )
   }
   out.push(

@@ -26,22 +26,30 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
 
 ## Teiginiai
 
+<a id="claim-t-32381"></a>
 - t-001
+  global_id: t-32381
   teiginys: 'Gerdenis pralaimėjo ir tik su likučiais išsigelbėjo, o kitame Daumanto žygyje į Nalšėnus (1267 m. žiemą) ir pats žuvo^219.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-32382"></a>
 - t-002
+  global_id: t-32382
   teiginys: 'Vaišvilkui persekiojant Mindaugo nužudymo sąmokslininkus, į Livoniją pabėgo žymus Nalšėnų kunigas Suksė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-32383"></a>
 - t-003
+  global_id: t-32383
   teiginys: 'Vaišvilkui imant Nalšėnų pilis, Daumantas pabėgo į Pskovą su šeima, bajorais ir palydovais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-32384"></a>
 - t-004
+  global_id: t-32384
   teiginys: 'Ipatijaus metraštis Nalšėnus mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų.'
   pagrindžia:
     - c-004

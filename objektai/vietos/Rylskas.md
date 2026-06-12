@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Rylskas
 
 ## Santrauka
 
-Kojelavičius teigia, kad sutelkę jėgas, visi kartu užpuolė Brianską ir dėl rusų klastingos išdavystės be vargo užėmė miestą, o netrukus prie išdavikų prisidėjo visa Seversko žemė — Černigovas, Starodubas, Naugardas ir Rylskas.
+Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.
 
 ## Teiginiai
 
+<a id="claim-t-185302"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad sutelkę jėgas, visi kartu užpuolė Brianską ir dėl rusų klastingos išdavystės be vargo užėmė miestą, o netrukus prie išdavikų prisidėjo visa Seversko žemė — Černigovas, Starodubas, Naugardas ir Rylskas.'
+  global_id: t-185302
+  teiginys: 'Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad sutelkę jėgas, visi kartu užpuolė Brianską ir dėl rusų klastingos išdavystės be vargo užėmė miestą, o netrukus prie išdavikų prisidėjo visa Seversko žemė — Černigovas, Starodubas, Naugardas ir Rylskas.'
+  santrauka: 'Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kaip

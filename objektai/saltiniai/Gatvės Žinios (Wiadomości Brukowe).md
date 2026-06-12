@@ -16,7 +16,9 @@ Savo idėjoms skleisti ji turėjo net laikraštį — „Gatvės Žinias" (Wiado
 
 ## Teiginiai
 
+<a id="claim-t-02166"></a>
 - t-001
+  global_id: t-02166
   teiginys: 'Nenaudėlių draugija savo idėjoms skleisti leido laikraštį „Gatvės Žinios“ (Wiadomości Brukowe).'
   pagrindžia:
     - c-001

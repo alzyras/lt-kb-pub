@@ -30,57 +30,79 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 
 ## Teiginiai
 
+<a id="claim-t-174165"></a>
 - t-001
+  global_id: t-174165
   teiginys: 'Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-174166"></a>
 - t-002
+  global_id: t-174166
   teiginys: 'Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-174167"></a>
 - t-003
+  global_id: t-174167
   teiginys: 'Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 metų tapo reformacijos šalininkų prieglobsčiu ir mokykla.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-174168"></a>
 - t-004
+  global_id: t-174168
   teiginys: '1547 m. Paleckio liejyklai skirtas sklypas buvo prie Vilniaus miesto, už Vilijos upės.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-174169"></a>
 - t-005
+  global_id: t-174169
   teiginys: 'Dabartinio Antakalnio užuomazgos buvo išsidėsčiusios palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-174170"></a>
 - t-006
+  global_id: t-174170
   teiginys: 'Vilniaus pirklių laivams, vadinamoms vytinėms, buvo leista laisvai plaukioti Vilijos upe.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-174171"></a>
 - t-007
+  global_id: t-174171
   teiginys: 'Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-174172"></a>
 - t-008
+  global_id: t-174172
   teiginys: 'Vingrių upokšnis šalia Vilnios įtekėjo į Viliją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-174174"></a>
 - t-009
+  global_id: t-174174
   teiginys: 'Žygimantas Senasis suteikė Ulrikui Hozijui teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183873"></a>
 - t-010
+  global_id: t-183873
   teiginys: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-183874"></a>
 - t-011
+  global_id: t-183874
   teiginys: 'Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją.'
   pagrindžia:
     - c-011

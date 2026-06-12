@@ -22,72 +22,100 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 
 ## Teiginiai
 
+<a id="claim-t-89211"></a>
 - t-001
+  global_id: t-89211
   teiginys: 'Dusburgietis teigia, kad tepenas, remdamasis įvairiais rašytiniais šaltiniais, priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-89212"></a>
 - t-002
+  global_id: t-89212
   teiginys: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89213"></a>
 - t-003
+  global_id: t-89213
   teiginys: 'Dusburgietis teigia, kad tad magistras ir broliai, norėdami atkeršyti, subūrė stiprią kariuomenę, kuri, įsibrovusi į Skalvos žemę, nusiaubė ją skersai ir išilgai, plėšdama ir degindama, toje jos dalyje, kuri susisiekia su Prūsijos žeme471, daug žmonių išžudė, o moteris ir vaikus.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-89214"></a>
 - t-004
+  global_id: t-89214
   teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-89215"></a>
 - t-005
+  global_id: t-89215
   teiginys: 'Dusburgietis teigia, kad į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai, lamatiečiai, dar toliau į šiaurę, Klaipėdos apylinkėse (dab.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89216"></a>
 - t-006
+  global_id: t-89216
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo apleista Skalvos žemė Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-89217"></a>
 - t-007
+  global_id: t-89217
   teiginys: 'Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89218"></a>
 - t-008
+  global_id: t-89218
   teiginys: 'Dusburgietis teigia, kad materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai prie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių (žemutinių lietuvių) ir latvių13.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-89219"></a>
 - t-009
+  global_id: t-89219
   teiginys: 'Dusburgietis teigia, kad apie Labguvos pilies sunaikinimą Sitai išgirdę, skalviai sunerimo iki širdies gelmių, o susirinkę į sueigą genties vyresnieji [seniores populi] pradėjo tartis, kaip atkeršyti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89220"></a>
 - t-010
+  global_id: t-89220
   teiginys: 'Archeologijos duomenys rodo, kad skalvių gentinė kultūra Nemuno ir Jūros santakos rajone buvo ryški nuo mūsų eros pradžios.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-89221"></a>
 - t-011
+  global_id: t-89221
   teiginys: 'Dusburgietis teigia, kad pereinamosiomis tarmėmis laikomi ir nadruviai, ypač skalviai.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-89222"></a>
 - t-012
+  global_id: t-89222
   teiginys: 'Dusburgietis teigia, kad apie Skalvos žemės nusiaubimą Kadangi lengvai pelnomas atleidimas skatina dar daugiau nusidėti, reikėjo, kad skalviai už šitokį akiplėšišką nusikaltimą gautų sunkią bausmę, antraip jie ir ateityje galėtų mėginti šitaip nusižengti.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-89223"></a>
 - t-013
+  global_id: t-89223
   teiginys: 'Dusburgietis teigia, kad skalvos centras buvo Ragainė (dab.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89224"></a>
 - t-014
+  global_id: t-89224
   teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių, skalvių ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui ir broliams (jie mat būgštavo, kad dėl tos.'
   pagrindžia:
     - c-005

@@ -27,12 +27,16 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
 
 ## Teiginiai
 
+<a id="claim-t-87494"></a>
 - t-001
+  global_id: t-87494
   teiginys: 'Vengrijos karalienė Elžbieta dalyvavo sėkmingose Jogailos derybose su Lenkijos didikais dėl Jadvygos rankos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87495"></a>
 - t-002
+  global_id: t-87495
   teiginys: 'Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais rykais ir visokia manta.'
   pagrindžia:
     - c-001

@@ -26,12 +26,16 @@ Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir L
 
 ## Teiginiai
 
+<a id="claim-t-21312"></a>
 - t-001
+  global_id: t-21312
   teiginys: 'Vilniaus perdavimo sutarties straipsniai potencialiai grėsė Lietuvos nepriklausomybei.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183387"></a>
 - t-002
+  global_id: t-183387
   teiginys: 'Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir Lietuvos savitarpio pagalbos sutartis.'
   pagrindžia:
     - c-002

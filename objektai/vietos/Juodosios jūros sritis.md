@@ -19,7 +19,9 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
 
 ## Teiginiai
 
+<a id="claim-t-28525"></a>
 - t-001
+  global_id: t-28525
   teiginys: 'Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jūros srityje.'
   pagrindžia:
     - c-001

@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40782"></a>
 - t-001
+  global_id: t-40782
   teiginys: 'Vokiškas kulkosvaidis Maxim MG08 buvo aušinamas vandeniu ir šaudė 7,92 x 57 mm šoviniais.'
   pagrindžia:
     - c-001

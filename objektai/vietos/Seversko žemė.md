@@ -10,7 +10,6 @@ tags:
   - miestas
   - vieta
 ---
-
 # Seversko žemė
 
 ## Santrauka
@@ -19,28 +18,38 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
 
 ## Teiginiai
 
+<a id="claim-t-42133"></a>
 - t-001
+  global_id: t-42133
   teiginys: 'Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė Ordoje kilęs badas ir maras.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185139"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad susirinko gausybė didikų, ypač daug — iš Seversko že mės, nes visus juos baugino Seversko ku n igaikšdėl pavojingo artumo kaimyčiai atsiskiria nuo ninės Maskvos galybė ir verL ie tu v o s tė labiau rūpintis valstybe, kuri iro, patirdama vieną nuo stolį po.'
+  global_id: t-185139
+  teiginys: 'Į seimą susirinkę Seversko žemės didikai ketino raginti karalių pasirūpinti tos žemės gynyba.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185140"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad sutelkę jėgas, visi kartu užpuolė Brianską ir dėl rusų klastingos išdavystės be vargo užėmė miestą, o netrukus prie išdavikų prisidėjo visa Seversko žemė — Černigovas, Starodubas, Naugardas ir Rylskas.'
+  global_id: t-185140
+  teiginys: 'Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė: Černigovas, Starodubas, Naugardas ir Rylskas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185141"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad laikydamasis šio susitarimo, Šich Achmetas su šimtu tūkstančių raitelių užpuolė Seversko žemę, baisiai siaubdamas valdas didikų, kurie atsi metė nuo Lietuvos ir prisijungė prie Maskvos.'
+  global_id: t-185141
+  teiginys: 'Šich Achmetas su šimtu tūkstančių raitelių užpuolė Seversko žemę ir siaubė nuo Lietuvos prie Maskvos perėjusių didikų valdas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-185142"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad tuo metu, kai Gardine pasiuntiniai derėjosi dėl taikos, iš Seversko žemės įsiveržusi kariuomenė nusiau bė kunigaikščių Ostrogiškių valdas.'
+  global_id: t-185142
+  teiginys: 'Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.'
   pagrindžia:
     - c-005
 
@@ -60,7 +69,7 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad susirinko gausybė didikų, ypač daug — iš Seversko že mės, nes visus juos baugino Seversko ku n igaikšdėl pavojingo artumo kaimyčiai atsiskiria nuo ninės Maskvos galybė ir verL ie tu v o s tė labiau rūpintis valstybe, kuri iro, patirdama vieną nuo stolį po.'
+  santrauka: 'Į seimą susirinkę Seversko žemės didikai ketino raginti karalių pasirūpinti tos žemės gynyba.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Apie šiuos susitarimus karalius nieko nežinojo, mat
@@ -87,7 +96,7 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad sutelkę jėgas, visi kartu užpuolė Brianską ir dėl rusų klastingos išdavystės be vargo užėmė miestą, o netrukus prie išdavikų prisidėjo visa Seversko žemė — Černigovas, Starodubas, Naugardas ir Rylskas.'
+  santrauka: 'Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė: Černigovas, Starodubas, Naugardas ir Rylskas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kaip
@@ -112,7 +121,7 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad laikydamasis šio susitarimo, Šich Achmetas su šimtu tūkstančių raitelių užpuolė Seversko žemę, baisiai siaubdamas valdas didikų, kurie atsi metė nuo Lietuvos ir prisijungė prie Maskvos.'
+  santrauka: 'Šich Achmetas su šimtu tūkstančių raitelių užpuolė Seversko žemę ir siaubė nuo Lietuvos prie Maskvos perėjusių didikų valdas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sako, jog skitai,
@@ -139,7 +148,7 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad tuo metu, kai Gardine pasiuntiniai derėjosi dėl taikos, iš Seversko žemės įsiveržusi kariuomenė nusiau bė kunigaikščių Ostrogiškių valdas.'
+  santrauka: 'Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nieko nenuveikę,

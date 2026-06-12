@@ -35,17 +35,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67004"></a>
 - t-001
+  global_id: t-67004
   teiginys: '1697 m. elekciniame seime priimtas coaequatio iurium įstatymas, tačiau Sapiegos neketino jo laikytis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67005"></a>
 - t-002
+  global_id: t-67005
   teiginys: 'Coaequatio iurium šūkiu siekta suvienodinti Lietuvos ir Lenkijos ministerių teises.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67006"></a>
 - t-003
+  global_id: t-67006
   teiginys: 'Po coaequatio iurium priėmimo seimas paskyrė kariuomenės stovyklas Gardino, Alytaus ir Pinsko apylinkėse.'
   pagrindžia:
     - c-003

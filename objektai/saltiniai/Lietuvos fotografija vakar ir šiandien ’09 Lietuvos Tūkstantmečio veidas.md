@@ -23,7 +23,9 @@ Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantm
 
 ## Teiginiai
 
+<a id="claim-t-78131"></a>
 - t-001
+  global_id: t-78131
   teiginys: 'Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio veidas.'
   pagrindžia:
     - c-001

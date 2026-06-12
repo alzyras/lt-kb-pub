@@ -16,7 +16,9 @@ Dusburgietis teigia, kad galop, kai lietuvių kariuomenė grįždama priėjo ši
 
 ## Teiginiai
 
+<a id="claim-t-59166"></a>
 - t-001
+  global_id: t-59166
   teiginys: 'Lietuvių kariuomenei grįžtant, burtus metęs lietuvis sušuko: „Vargas mums, nes mūsų laukia nesėkmė.“'
   pagrindžia:
     - c-001

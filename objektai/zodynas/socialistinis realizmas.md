@@ -16,7 +16,9 @@ Naujomis sąlygomis menininkai vis dažniau atsiribodavo nuo socialistinio reali
 
 ## Teiginiai
 
+<a id="claim-t-22301"></a>
 - t-001
+  global_id: t-22301
   teiginys: 'Naujomis sąlygomis menininkai vis dažniau atsiribodavo nuo socialistinio realizmo, pagal galimybę stengėsi nederinti politikos ir propagandos su menu.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-41549"></a>
 - t-001
+  global_id: t-41549
   teiginys: 'Informacinį bloką „Lietuvos kariuomenės organizacija ir permainos XVII a.“ parengė Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras.'
   pagrindžia:
     - c-001

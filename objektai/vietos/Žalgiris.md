@@ -29,17 +29,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-80586"></a>
 - t-001
+  global_id: t-80586
   teiginys: '1410 m. liepos 15 d. Žalgirio mūšyje Lietuvos kariuomenė su sąjungininkais lenkais sutriuškino Kryžiuočių ordino kariuomenę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-80588"></a>
 - t-002
+  global_id: t-80588
   teiginys: 'NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS p. 16-17, Žalgirio mūšio inscenizacija, Griunvaldas, Lenkija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183645"></a>
 - t-003
+  global_id: t-183645
   teiginys: 'LDK politinės tautos prielaidas kūrė LDK karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab.'
   pagrindžia:
     - c-003

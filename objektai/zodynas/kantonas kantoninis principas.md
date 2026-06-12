@@ -18,27 +18,37 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
 
 ## Teiginiai
 
+<a id="claim-t-104188"></a>
 - t-001
+  global_id: t-104188
   teiginys: 'Ar Lietuva nepralaimėjo neišnaudojusi visų federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdiegtas Šveicarijoje pasiteisinęs kantonų principas?'
   pagrindžia:
     - c-001
 
+<a id="claim-t-104189"></a>
 - t-002
+  global_id: t-104189
   teiginys: 'Lietuviai federacijos principo vengė logiškai manydami, kaip čia 2 milijonams lietuvių nepaskendus 28 milijonų lenkų jūroje, tačiau derėtis sutiko, jeigu tik Varšuva pripažins Lietuvą su sostine Vilniumi.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-104190"></a>
 - t-003
+  global_id: t-104190
   teiginys: 'Tikėtiniau, kad kantoninė Lietuva būtų tapusi dviejų kalbinių nacionalizmų Šiaurės Airija, konflikto tarp dviejų tautinių grupių židiniu, tik ne religijos, o kalbos pagrindu.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-104191"></a>
 - t-004
+  global_id: t-104191
   teiginys: 'Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-104192"></a>
 - t-005
+  global_id: t-104192
   teiginys: 'Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą.'
   pagrindžia:
     - c-002

@@ -25,7 +25,9 @@ Dusburgietis teigia, kad pasak Komestoriaus, panašūs ženklai šitaip rodęsi 
 
 ## Teiginiai
 
+<a id="claim-t-60730"></a>
 - t-001
+  global_id: t-60730
   teiginys: 'Dusburgietis teigia, kad pasak Komestoriaus, panašūs ženklai šitaip rodęsi ir tuo metu, kai mirė Julijus Cezaris, o po jo mirties suskilo senatas (Ptol.'
   pagrindžia:
     - c-001

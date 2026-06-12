@@ -30,7 +30,9 @@ Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923), «Vyriausias L
 
 ## Teiginiai
 
+<a id="claim-t-31971"></a>
 - t-001
+  global_id: t-31971
   teiginys: '„Vyriausias Lietuvos Tribunolas XVI-XVIII amž.“ buvo paminėtas tarp gausių autoriaus raštų ir datuotas 1927 m.'
   pagrindžia:
     - c-001

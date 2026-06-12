@@ -25,7 +25,9 @@ Dvarininkai, gindamiesi nuo „litvomanijos“, vis labiau tolo nuo lietuviškai
 
 ## Teiginiai
 
+<a id="claim-t-77798"></a>
 - t-001
+  global_id: t-77798
   teiginys: 'Dvarininkai, gindamiesi nuo „litvomanijos“, vis labiau tolo nuo lietuviškai kalbančių kaimo gyventojų, o tautiškai nesusipratę kunigai jau rimtai kirtosi su lietuvių aspiracijomis.'
   pagrindžia:
     - c-001

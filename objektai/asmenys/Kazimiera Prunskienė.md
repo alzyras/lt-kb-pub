@@ -16,22 +16,30 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19050"></a>
 - t-001
+  global_id: t-19050
   teiginys: 'Kazimiera Prunskienė viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-19051"></a>
 - t-002
+  global_id: t-19051
   teiginys: 'Kazimiera Prunskienė priėmė sprendimą padidinti maisto produktų kainas, kuriuo pasinaudojo promaskviniai būriai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183546"></a>
 - t-003
+  global_id: t-183546
   teiginys: 'Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazimiera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183547"></a>
 - t-004
+  global_id: t-183547
   teiginys: 'Promaskviniai būriai turėjo įsiveržti į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskirties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas) ir.'
   pagrindžia:
     - c-002

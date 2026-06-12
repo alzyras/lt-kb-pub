@@ -18,14 +18,17 @@ Tai romėniškajai kilmei paremti ir buvo sudaryta ištisa teorija.
 
 ## Teiginiai
 
+<a id="claim-t-74036"></a>
 - t-001
-  teiginys: 'Tai romėniškajai kilmei paremti ir buvo sudaryta ištisa teorija.'
+  global_id: t-74036
+  teiginys: 'Romėniškosios kilmės teorijoje teigta, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Romėniškosios kilmės teorijoje teigta, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tai romėniškajai kilmei paremti ir buvo sudaryta ištisa
@@ -45,3 +48,4 @@ Tai romėniškajai kilmei paremti ir buvo sudaryta ištisa teorija.
 
 ### Susiję objektai
 - [[objektai/grupes/Romėnai]]
+- [[objektai/asmenys/Libonas]]

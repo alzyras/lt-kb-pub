@@ -17,7 +17,9 @@ Kronikos nuolat mini per karus didelius skaičius iš lietuvių sodybų pagrobia
 
 ## Teiginiai
 
+<a id="claim-t-31969"></a>
 - t-001
+  global_id: t-31969
   teiginys: 'Kronikos nuolat mini per karus didelius skaičius iš lietuvių sodybų pagrobiamų arklių ir raguočių ; ypač daug būdavę išvaroma arklių.'
   pagrindžia:
     - c-001

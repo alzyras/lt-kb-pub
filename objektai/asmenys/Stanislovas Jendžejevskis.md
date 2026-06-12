@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Stanislovas Jendžejevskis
 
 ## Santrauka
 
-Kojelavičius teigia, kad legatams išvykus, Augustas išsiuntė į Maskvą savo rūmų bajorą Stanislovą Jendžejevskį, norėdamas laiškais bei tarpininkais palaikyti braškančią santarvę su Ivanu.
+Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančios santarvės su Ivanu laiškais ir tarpininkais.
 
 ## Teiginiai
 
+<a id="claim-t-186255"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad legatams išvykus, Augustas išsiuntė į Maskvą savo rūmų bajorą Stanislovą Jendžejevskį, norėdamas laiškais bei tarpininkais palaikyti braškančią santarvę su Ivanu.'
+  global_id: t-186255
+  teiginys: 'Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančios santarvės su Ivanu laiškais ir tarpininkais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad legatams išvykus, Augustas išsiuntė į Maskvą savo rūmų bajorą Stanislovą Jendžejevskį, norėdamas laiškais bei tarpininkais palaikyti braškančią santarvę su Ivanu.'
+  santrauka: 'Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančios santarvės su Ivanu laiškais ir tarpininkais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Esą jam labai malonu, kad rū­
@@ -43,3 +44,9 @@ Kojelavičius teigia, kad legatams išvykus, Augustas išsiuntė į Maskvą savo
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/zodynas/legatai]]
+- [[objektai/grupes/Žydai]]

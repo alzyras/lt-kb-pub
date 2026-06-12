@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88461"></a>
 - t-001
+  global_id: t-88461
   teiginys: '69 Perlas paimtas iš pranašo Habukuko ir Kalėdoms dovanotas Jonui Hlebavičiui.'
   pagrindžia:
     - c-001

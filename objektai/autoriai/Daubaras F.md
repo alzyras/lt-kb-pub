@@ -24,7 +24,9 @@ Dusburgietis teigia, kad rudnickio..., p. 323; MPKP, 1, p. 17; 2, p. 241; Daubar
 
 ## Teiginiai
 
+<a id="claim-t-60687"></a>
 - t-001
+  global_id: t-60687
   teiginys: 'Dusburgietis teigia, kad rudnickio..., p. 323; MPKP, 1, p. 17; 2, p. 241; Daubaras F., Iš prūsų hidronimijos, p. 171; plg.'
   pagrindžia:
     - c-001

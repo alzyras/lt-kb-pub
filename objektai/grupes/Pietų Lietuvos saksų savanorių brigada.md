@@ -23,7 +23,9 @@ Pradžioje atvykę saksų savanoriai sudarė 46-ąją saksų savanorių divizij�
 
 ## Teiginiai
 
+<a id="claim-t-41113"></a>
 - t-001
+  global_id: t-41113
   teiginys: '1919 m. kovo pabaigoje 46-oji saksų savanorių divizija buvo performuota į Pietų Lietuvos saksų savanorių brigadą.'
   pagrindžia:
     - c-001

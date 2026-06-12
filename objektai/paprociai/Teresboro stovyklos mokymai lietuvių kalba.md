@@ -42,22 +42,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-78718"></a>
 - t-001
+  global_id: t-78718
   teiginys: 'Stovykloje veikė karo lauko ligoninė, mokymai vyko lietuviškai, komandos buvo duodamos lietuvių kalba.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78719"></a>
 - t-002
+  global_id: t-78719
   teiginys: 'Mackevičius stovykloje laikė mišias, atlikinėjo naujokų įšventinimo apeigas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78720"></a>
 - t-003
+  global_id: t-78720
   teiginys: 'Teresboro stovykloje komandos buvo duodamos lietuvių kalba.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78721"></a>
 - t-004
+  global_id: t-78721
   teiginys: 'Teresboro stovykloje mokymai vyko lietuviškai.'
   pagrindžia:
     - c-001

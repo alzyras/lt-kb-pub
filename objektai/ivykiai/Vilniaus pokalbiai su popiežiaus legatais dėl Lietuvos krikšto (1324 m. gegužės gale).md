@@ -41,32 +41,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-97040"></a>
 - t-001
+  global_id: t-97040
   teiginys: 'Popiežiaus delegato pasiuntiniai savo platų pranešimą apie pokalbius Vilniuje (1324 gegužės gale) baigė desperatišku prierašu : « ...'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97041"></a>
 - t-002
+  global_id: t-97041
   teiginys: 'Išvykdami iš Livonijos, popiežiaus legatai įsakė su Gediminu nekariauti ketverius metus, nes buvo turima vilčių, kad per tą laiką Gediminas galįs pasikrikštyti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-97042"></a>
 - t-003
+  global_id: t-97042
   teiginys: 'Per Vilniaus pokalbius pranešta, kad Prūsijos kryžiuočiai dovanomis skatino Žemaičių galinguosius sukilti prieš Gediminą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97043"></a>
 - t-004
+  global_id: t-97043
   teiginys: '1324 m. gegužės gale popiežiaus delegato pasiuntiniai parengė pranešimą apie pokalbius Vilniuje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97044"></a>
 - t-005
+  global_id: t-97044
   teiginys: 'Išvykdami iš Livonijos popiežiaus legatai įsakė ketverius metus su Gediminu nekariauti, nes tikėjosi jo krikšto.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-97045"></a>
 - t-006
+  global_id: t-97045
   teiginys: 'Atidėjus krikšto klausimą, Gediminui svarbiausia liko naujai sudaryta taika.'
   pagrindžia:
     - c-003

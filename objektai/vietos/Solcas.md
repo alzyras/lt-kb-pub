@@ -16,7 +16,9 @@ Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio
 
 ## Teiginiai
 
+<a id="claim-t-86238"></a>
 - t-001
+  global_id: t-86238
   teiginys: 'Karališkoji didenybė vyko į Solcą, į Lietuvos pataurininkio vestuves.'
   pagrindžia:
     - c-001

@@ -15,7 +15,6 @@ tags:
 amziai:
   - 'XVII'
 ---
-
 # Paidė
 
 ## Santrauka
@@ -24,13 +23,17 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
 
 ## Teiginiai
 
+<a id="claim-t-41999"></a>
 - t-001
+  global_id: t-41999
   teiginys: 'Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185077"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad k ai lietu v iai visom is jėgom is k aria v o su M askva, Š vedijos k araliu s E rikas įsiveržė į L ivoniją ir užėm ė R evelį bei Paidę.'
+  global_id: t-185077
+  teiginys: 'Kai lietuviai kariavo su Maskva, Švedijos karalius Erikas įsiveržė į Livoniją ir užėmė Revelį bei Paidę.'
   pagrindžia:
     - c-002
 
@@ -55,7 +58,7 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad k ai lietu v iai visom is jėgom is k aria v o su M askva, Š vedijos k araliu s E rikas įsiveržė į L ivoniją ir užėm ė R evelį bei Paidę.'
+  santrauka: 'Kai lietuviai kariavo su Maskva, Švedijos karalius Erikas įsiveržė į Livoniją ir užėmė Revelį bei Paidę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     F ilonas Km i-

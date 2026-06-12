@@ -26,7 +26,9 @@ Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­ skirti vyskupais Vyt
 
 ## Teiginiai
 
+<a id="claim-t-35227"></a>
 - t-001
+  global_id: t-35227
   teiginys: 'Mikalojus Dziežgavičius 1421–1453 m. buvo antrasis Žemaičių vyskupas, paskirtas Vytautui jį rekomendavus.'
   pagrindžia:
     - c-001

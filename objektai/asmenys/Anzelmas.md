@@ -27,7 +27,9 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 
 ## Teiginiai
 
+<a id="claim-t-60084"></a>
 - t-001
+  global_id: t-60084
   teiginys: 'Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.'
   pagrindžia:
     - c-001

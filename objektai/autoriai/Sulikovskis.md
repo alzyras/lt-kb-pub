@@ -17,7 +17,9 @@ Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papro
 
 ## Teiginiai
 
+<a id="claim-t-88099"></a>
 - t-001
+  global_id: t-88099
   teiginys: 'Sulikovskis pasakojo, kad Kasparo Bekešo palaikai užsienietišku papročiu buvo palaidoti po apvaliu bokštu prie Vilniaus.'
   pagrindžia:
     - c-001

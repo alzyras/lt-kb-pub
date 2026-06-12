@@ -19,7 +19,9 @@ Jau prieš I pa­ saulinį karą buvo teigiama (Sobolevskij, A.
 
 ## Teiginiai
 
+<a id="claim-t-30985"></a>
 - t-001
+  global_id: t-30985
   teiginys: 'Sobolevskij dar prieš Pirmąjį pasaulinį karą teigė, kad priešistoriniais laikais baltai gyveno gerokai toliau į rytus.'
   pagrindžia:
     - c-001

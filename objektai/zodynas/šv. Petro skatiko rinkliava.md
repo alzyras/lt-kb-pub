@@ -19,7 +19,9 @@ Petro skatiko rinkliavų, arba su Rygos arki­ vyskupu, turint omenyje senus jo 
 
 ## Teiginiai
 
+<a id="claim-t-86643"></a>
 - t-001
+  global_id: t-86643
   teiginys: 'Lenkų vyskupų ginčai dėl dešimtinės ir šv. Petro skatiko rinkliavų buvo svarstyti popiežiaus rūmuose Avinjone.'
   pagrindžia:
     - c-001

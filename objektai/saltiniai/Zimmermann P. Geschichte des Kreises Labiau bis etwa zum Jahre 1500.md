@@ -24,7 +24,9 @@ Dusburgietis teigia, kad zimmermann P.
 
 ## Teiginiai
 
+<a id="claim-t-61384"></a>
 - t-001
+  global_id: t-61384
   teiginys: 'P. Zimmermanno veikalas „Geschichte des Kreises Labiau bis etwa zum Jahre 1500“ išleistas Labiau 1925 m.'
   pagrindžia:
     - c-001

@@ -32,17 +32,23 @@ Religinė brolija ir Vilniaus arkikonfratrija.
 
 ## Teiginiai
 
+<a id="claim-t-54837"></a>
 - t-001
+  global_id: t-54837
   teiginys: 'Dievo Kūno arkibrolija Vilniuje buvo įsteigta 1539 m. kardinolo Komendonio atsiųsta bule.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54838"></a>
 - t-002
+  global_id: t-54838
   teiginys: '1539 m. kardinolas Komendoni atsiuntė bulę, kuria buvo steigiama Dievo Kūno arkibrolija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54839"></a>
 - t-003
+  global_id: t-54839
   teiginys: 'Dievo Kūno arkibrolijos arkikonfratrija buvo funduota 1573 m. vasario 3 d., o tų pačių metų lapkričio 27 d. iškilmingai įvesdinta.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
 
 ## Teiginiai
 
+<a id="claim-t-26486"></a>
 - t-001
+  global_id: t-26486
   teiginys: 'LPS Bendrojoje programoje pagrindiniu siekiu įvardyta remti socialistinės visuomenės persitvarkymą demokratijos ir humanizmo pagrindais.'
   pagrindžia:
     - c-001

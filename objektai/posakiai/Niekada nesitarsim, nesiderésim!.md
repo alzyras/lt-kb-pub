@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-41460"></a>
 - t-001
+  global_id: t-41460
   teiginys: '„Niekada nesitarsim, nesiderėsim!“ išreiškė atsisakymą priimti siūlomą taikos ir draugystės ranką.'
   pagrindžia:
     - c-001

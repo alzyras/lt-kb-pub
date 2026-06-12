@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77929"></a>
 - t-001
+  global_id: t-77929
   teiginys: '1919 m. rugsėjo 26 d. Kaune lėktuvai skraidė virš minios, tempdami Lietuvos trispalvę.'
   pagrindžia:
     - c-001

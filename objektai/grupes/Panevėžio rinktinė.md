@@ -17,12 +17,16 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
 
 ## Teiginiai
 
+<a id="claim-t-38892"></a>
 - t-001
+  global_id: t-38892
   teiginys: 'Išvadavusi Panevėžį, Panevėžio rinktinė gegužės 27 d. persekiodama priešą užėmė Troškūnus ir Subačių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-38893"></a>
 - t-002
+  global_id: t-38893
   teiginys: 'Kariuomenės vadovybė sustabdė puolimą, nes Ukmergės rinktinė buvo išsiveržusi į priekį, o Panevėžio rinktinė atsiliko apie 20 km.'
   pagrindžia:
     - c-001

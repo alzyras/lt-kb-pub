@@ -24,17 +24,23 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
 
 ## Teiginiai
 
+<a id="claim-t-74188"></a>
 - t-001
+  global_id: t-74188
   teiginys: 'Kadangi Maskva visur stengėsi pakenkti Lenkijai, sovietai akcijai irgi neprieštaravo, o jei Lenkija pajudėtų prieš Lietuvą – sovietai sakė neliksią stebėtojai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74189"></a>
 - t-002
+  global_id: t-74189
   teiginys: 'Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74190"></a>
 - t-003
+  global_id: t-74190
   teiginys: 'Klaipėdos krašto surašymo duomenimis, krašte gyveno 37 000 lietuvių ir 34 000 lietuviškai namuose kalbėjusių „klaipėdiečių“.'
   pagrindžia:
     - c-002

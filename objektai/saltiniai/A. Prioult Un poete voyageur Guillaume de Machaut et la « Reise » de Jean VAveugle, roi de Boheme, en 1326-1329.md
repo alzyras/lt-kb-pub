@@ -25,7 +25,9 @@ Prioult, A.
 
 ## Teiginiai
 
+<a id="claim-t-31594"></a>
 - t-001
+  global_id: t-31594
   teiginys: 'A. Prioult „Un poete voyageur“ paskelbtas „Les Lettres Romanes“ IV tomo 1 numeryje 1950 m., p. 3-29.'
   pagrindžia:
     - c-001

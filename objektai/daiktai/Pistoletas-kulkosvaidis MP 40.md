@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39215"></a>
 - t-001
+  global_id: t-39215
   teiginys: 'MP 40 buvo Antrojo pasaulinio karo vokiečių kariuomenės žemesniosios grandies vadų pistoletas-kulkosvaidis.'
   pagrindžia:
     - c-001

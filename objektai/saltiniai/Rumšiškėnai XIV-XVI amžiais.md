@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31906"></a>
 - t-001
+  global_id: t-31906
   teiginys: '„Rumšiškėnai XIV-XVI amžiais“ buvo išleista Vilniuje 1970 m.'
   pagrindžia:
     - c-001

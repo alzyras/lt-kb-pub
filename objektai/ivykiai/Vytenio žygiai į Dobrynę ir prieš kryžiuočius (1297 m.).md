@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Vytenio žygiai į Dobrynę ir prieš kryžiuočius (1297 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad kadangi Dobrynėje sekmadienį visi žmonės buvo suD o b iy n ą , ž u d o k i y - nių ir plėšimo, žuvo liepsnodevynis tūkstančius belaisvių.
+Lietuviai staigiu antpuoliu užėmė Dobrynę, kai sekmadienį žmonės buvo išėję iš kaimų į bažnyčias.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185836"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kadangi Dobrynėje sekmadienį visi žmonės buvo suD o b iy n ą , ž u d o k i y - nių ir plėšimo, žuvo liepsnodevynis tūkstančius belaisvių.'
+  global_id: t-185836
+  teiginys: 'Lietuviai staigiu antpuoliu užėmė Dobrynę, kai sekmadienį žmonės buvo išėję iš kaimų į bažnyčias.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kadangi Dobrynėje sekmadienį visi žmonės buvo suD o b iy n ą , ž u d o k i y - nių ir plėšimo, žuvo liepsnodevynis tūkstančius belaisvių.'
+  santrauka: 'Lietuviai staigiu antpuoliu užėmė Dobrynę, kai sekmadienį žmonės buvo išėję iš kaimų į bažnyčias.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi Dobrynėje sekmadienį visi žmonės buvo su-
@@ -66,3 +67,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Burchardas Aremas]]

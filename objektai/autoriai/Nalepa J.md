@@ -25,17 +25,23 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
 
 ## Teiginiai
 
+<a id="claim-t-60515"></a>
 - t-001
+  global_id: t-60515
   teiginys: 'Dusburgietis teigia, kad kalbama, matyt, apie 1278—1279 m. antpuolį (Būga K., 2, p. 103; 3, p. 136, 145, 152; Kamiński A., Jaćwież..., p. 105— 106; Nalepa J., Przyczynek do znajomości..., p. 128; to paties, Stabo..., p. 146—148; CV, t.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60516"></a>
 - t-002
+  global_id: t-60516
   teiginys: 'Dusburgietis teigia, kad kamienne ir kt.) Mėrūniškių regione (į šiaurės vakarus nuo Suvalkų) rodo, kad nusiaubtose savose centrinėse žemėse jotvingiai išliko dar ilgai po 1283 m., tik vėliau buvo palaipsniui polonizuoti (Nalepa J., Stabo..., p. 146—148).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60518"></a>
 - t-003
+  global_id: t-60518
   teiginys: 'Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egzistavusios šalia Dainavos, Jotvingijos, Poleksijos, ieškoma apie Sūduonią, Šešupės aukštupyje (Nalepa J., Jaćwięgowe, p, 41— 42), kartais —apie Vangrapės aukštupį, dab.'
   pagrindžia:
     - c-001

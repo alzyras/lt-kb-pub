@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-77707"></a>
 - t-001
+  global_id: t-77707
   teiginys: 'Vyšnivecis buvo viena iš Vyšnioveckių tėvonijų Voluinėje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77708"></a>
 - t-002
+  global_id: t-77708
   teiginys: 'Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę Sanguškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai.'
   pagrindžia:
     - c-002

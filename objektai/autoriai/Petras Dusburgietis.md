@@ -28,92 +28,128 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 
 ## Teiginiai
 
+<a id="claim-t-181459"></a>
 - t-001
+  global_id: t-181459
   teiginys: 'Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją, nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-181460"></a>
 - t-002
+  global_id: t-181460
   teiginys: 'Petras iš Dusburgo nurodo, kad kroniką surašė ir užbaigė 1326 m., kad išsaugotų šventojo žygio atminimą būsimoms kartoms.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-181461"></a>
 - t-003
+  global_id: t-181461
   teiginys: 'Petras Dusburgietis 1326 m. užbaigė savo kroniką, įteikė ją magistrui, o kūrinys buvo pratęstas iki 1330 m.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-181462"></a>
 - t-004
+  global_id: t-181462
   teiginys: 'Petras iš Dusburgo aiškina, kad kronikoje aprašys Ordino įkūrimą, atsikėlimą į Prūsiją, karus ir įvykius, kuriuos pats matė, apie kuriuos pasakojo dalyviai arba kuriuos sužinojo iš patikimų šaltinių.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-181463"></a>
 - t-005
+  global_id: t-181463
   teiginys: 'Dedikacijoje Petras iš Dusburgo tiesiogiai įvardija save tų pačių įžadų kunigu ir kronikos siuntėju Verneriui iš Orzelno.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-181464"></a>
 - t-006
+  global_id: t-181464
   teiginys: 'Kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-181465"></a>
 - t-007
+  global_id: t-181465
   teiginys: 'Dusburgietis teigia, kad kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-181466"></a>
 - t-008
+  global_id: t-181466
   teiginys: 'Dusburgietis teigia, kad požėlos spaustuvė, Kaunas Kūrinys suskaitmenintas vykdant ES struktūrinių fondų remiamą projektą „LIETUVIŲ LITERATŪROS KLASIKOS KŪRINIŲ PERKĖLIMAS Į ELEKTRONINĘ ERDVĘ“, 2013 TURINYS Pratarmė 5 Petro Dusburgiečio kronika 7 PRŪSIJOS ŽEMĖS KRONIKA 32 Pirma.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-181467"></a>
 - t-009
+  global_id: t-181467
   teiginys: 'Dusburgietis teigia, kad pRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-181468"></a>
 - t-010
+  global_id: t-181468
   teiginys: 'Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į šią.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-181469"></a>
 - t-011
+  global_id: t-181469
   teiginys: 'Dusburgietis teigia, kad epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-181470"></a>
 - t-012
+  global_id: t-181470
   teiginys: 'Petras Dusburgietis „Prūsijos žemės kronikoje“ aprašė Vytenio įsiveržimą į Ordino žemes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-181471"></a>
 - t-013
+  global_id: t-181471
   teiginys: 'Šilainiai, Raudonė, Kejėnai RŪSTUS DIEVO ŽMONIŲ LIKIMAS Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-181472"></a>
 - t-014
+  global_id: t-181472
   teiginys: 'Dusburgietis pažymi, kad „keturi tūkstančiai lietuvių“ niokojo Kuršo žemę, 0 po to stojo į mūšį.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-181473"></a>
 - t-015
+  global_id: t-181473
   teiginys: 'Petras iš Dusburgo šiame šaltinyje apibūdinamas kaip Ordino brolis kunigas, 1326 m. užbaigęs savo kroniką ir įteikęs ją magistrui.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-181474"></a>
 - t-016
+  global_id: t-181474
   teiginys: 'Petras Dusburgietis nurodytas kaip teksto „Rūstus Dievo žmonių likimas“ šaltinio autorius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-181475"></a>
 - t-017
+  global_id: t-181475
   teiginys: 'Dusburgietis teigia, kad kaip ši knyga sutvarkyta Ši knyga šitaip bus sudėta. Pirma, aprašysiu, kuriuo laiku buvo įkurtas Teutonų namų ordinas, kas ir kaip jį įkūrė, antra, kada ir kaip minėtieji broliai atsikėlė į Prūsijos žemę, trečia, apsakysiu karus, vykusius šioje žemėje, bei.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-181476"></a>
 - t-018
+  global_id: t-181476
   teiginys: 'Dusburgietis teigia, kad petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“.'
   pagrindžia:
     - c-010

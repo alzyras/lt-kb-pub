@@ -19,7 +19,9 @@ Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvauj
 
 ## Teiginiai
 
+<a id="claim-t-02893"></a>
 - t-001
+  global_id: t-02893
   teiginys: 'Karalius turėjo būti bendrai renkamas Volos kaimo lauke netoli Varšuvos, dalyvaujant abiejų valstybių bajorams.'
   pagrindžia:
     - c-001

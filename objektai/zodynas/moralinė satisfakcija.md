@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-77800"></a>
 - t-001
+  global_id: t-77800
   teiginys: '„Sukilėlių“ sėkmė atrodė kaip moralinė satisfakcija už prarastą Vilnių.'
   pagrindžia:
     - c-001

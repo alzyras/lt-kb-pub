@@ -29,33 +29,45 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-50766"></a>
 - t-001
+  global_id: t-50766
   teiginys: 'Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-50767"></a>
 - t-002
+  global_id: t-50767
   teiginys: 'Čekų kunigai kartu su lenkais dalyvavo Aukštaičių ir Žemaičių krikšte.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-50768"></a>
 - t-003
+  global_id: t-50768
   teiginys: '1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o vėliau čekai kreipėsi į Vytautą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-50769"></a>
 - t-004
+  global_id: t-50769
   teiginys: 'Vytautas atsisakė su čekais susijusio sumanymo, supratęs, kad husitų siūlyta karūna galėtų per brangiai kainuoti.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184589"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad kai paaiškėjo, kad imperatoriaus sprendimai nesiremia teisingumu, kad jo skelbiamos ištarmės pažeidžia net moralės nor mas, jie atsisakė jo tarpinin- 1420 m e ta i kavimo ir pasiryžo ginklu įrokilusių tikybinių nesutarimų čekai atsisakė klausyti Romos.'
+  global_id: t-184589
+  teiginys: 'Kilus tikybiniams nesutarimams, čekai atsisakė klausyti Romos bažnyčios, maištavo prieš savo karalių ir ieškojo paramos kaimyninėse šalyse.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184590"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad tačiau čekai neišsižadėjo savo sumanymo, manydami, jog troškimas gauti karaliaus vainiką įveiks kiekvieną atkaklų užsispyrėlį.'
+  global_id: t-184590
+  teiginys: 'Čekai neišsižadėjo sumanymo ir antrą kartą siuntė pasiuntinius bandyti palenkti Jogailą bei Vytautą.'
   pagrindžia:
     - c-007
 
@@ -143,7 +155,7 @@ amziai:
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad kai paaiškėjo, kad imperatoriaus sprendimai nesiremia teisingumu, kad jo skelbiamos ištarmės pažeidžia net moralės nor mas, jie atsisakė jo tarpinin- 1420 m e ta i kavimo ir pasiryžo ginklu įrokilusių tikybinių nesutarimų čekai atsisakė klausyti Romos.'
+  santrauka: 'Kilus tikybiniams nesutarimams, čekai atsisakė klausyti Romos bažnyčios, maištavo prieš savo karalių ir ieškojo paramos kaimyninėse šalyse.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jogaila
@@ -177,7 +189,7 @@ amziai:
     - t-006
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad tačiau čekai neišsižadėjo savo sumanymo, manydami, jog troškimas gauti karaliaus vainiką įveiks kiekvieną atkaklų užsispyrėlį.'
+  santrauka: 'Čekai neišsižadėjo sumanymo ir antrą kartą siuntė pasiuntinius bandyti palenkti Jogailą bei Vytautą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Panašų atsakymą gavo jie ir iš
@@ -191,3 +203,85 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Husitai]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Abelis]]
+- [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/posakiai/Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą]]
+- [[objektai/asmenys/Bajazitas]]
+- [[objektai/asmenys/Boleslovas Maldingasis]]
+- [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]
+- [[objektai/daiktai/Dryžuotos gūnios ir dovanos ant kupranugarių]]
+- [[objektai/asmenys/Enejas Silvijus Picolomini]]
+- [[objektai/grupes/Gediminaičių šeima]]
+- [[objektai/asmenys/Henrikas (Danijos karalius)]]
+- [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
+- [[objektai/daiktai/Iždo ir pilių raktai]]
+- [[objektai/asmenys/Jedigėjus]]
+- [[objektai/grupes/Jogailos palikuonys]]
+- [[objektai/asmenys/Jurgis (Maskvos kunigaikštis)]]
+- [[objektai/asmenys/Jurgis Lengvenaitis]]
+- [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]
+- [[objektai/asmenys/Karolis]]
+- [[objektai/grupes/Krimo orda]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]
+- [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]
+- [[objektai/ivykiai/Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.)]]
+- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/asmenys/Martynas V]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/grupes/Mazovijos kunigaikščiai]]
+- [[objektai/grupes/Moravai]]
+- [[objektai/asmenys/Otokaras (Čekijos karalius)]]
+- [[objektai/daiktai/Pragos miesto raktai|Pragos miesto raktai (miestas)]]
+- [[objektai/asmenys/Prokopas]]
+- [[objektai/asmenys/Rusdorfas]]
+- [[objektai/asmenys/Russdorfas]]
+- [[objektai/ivykiai/Torno taika (1411 m.)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
+- [[objektai/posakiai/Tėve mūsų ir Tikiu Dievą]]
+- [[objektai/asmenys/Vaclovas (čekų kunigaikštis)]]
+- [[objektai/asmenys/Vaclovas Pragiečius]]
+- [[objektai/ivykiai/Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]
+- [[objektai/asmenys/Vladislovas (Kazimiero sūnus)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]
+- [[objektai/asmenys/Zbignevas iš Bžezės]]
+- [[objektai/asmenys/Zbignievas Olesnickis]]
+- [[objektai/asmenys/Zigmantas Kaributas]]
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- [[objektai/asmenys/Zindramas iš Maškovičių]]
+- [[objektai/zodynas/atskala]]
+- [[objektai/zodynas/ekskomunika]]
+- [[objektai/zodynas/grašis]]
+- [[objektai/posakiai/in odium Sigismundi]]
+- [[objektai/zodynas/karaliaus vainikas]]
+- [[objektai/zodynas/poliublininis laikotarpis]]
+- [[objektai/zodynas/rublis]]
+- [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
+- [[objektai/grupes/Čekijos husitai]]
+- [[objektai/grupes/Čekų ir Silezijos savanoriai]]
+- [[objektai/ivykiai/Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.)]]
+- [[objektai/daiktai/Šv. Vaclovo karūna]]
+- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Žygimantas Kaributaitis]]
+- [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/asmenys/Hinka iš Valdšteino]]
+- [[objektai/asmenys/Lada]]

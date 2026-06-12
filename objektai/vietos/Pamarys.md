@@ -26,13 +26,17 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 
 ## Teiginiai
 
+<a id="claim-t-182877"></a>
 - t-001
+  global_id: t-182877
   teiginys: 'Apie VIII-IX a. slavai pasiekė Gardino sritį ir įsikūrė Pamaryje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183068"></a>
 - t-002
-  teiginys: 'Aisčiai vengte vengdavo misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikščiais aisčiai nuolat kovojo.'
+  global_id: t-183068
+  teiginys: 'Aisčiai vengė iš Pamario atvykusių misijonierių, nes nuolat kovojo su Pamario kunigaikščiais.'
   pagrindžia:
     - c-002
 
@@ -52,7 +56,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
     - t-001
 
 - c-002
-  santrauka: 'Aisčiai vengte vengdavo misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikščiais aisčiai nuolat kovojo.'
+  santrauka: 'Aisčiai vengė iš Pamario atvykusių misijonierių, nes nuolat kovojo su Pamario kunigaikščiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po šitų pirmųjų nepasisekusių misijų, buvo dar nemaža kitų,

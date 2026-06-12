@@ -18,7 +18,9 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
 
 ## Teiginiai
 
+<a id="claim-t-86305"></a>
 - t-001
+  global_id: t-86305
   teiginys: 'Pernava nurodyta kaip viena iš Livonijos pilių.'
   pagrindžia:
     - c-001

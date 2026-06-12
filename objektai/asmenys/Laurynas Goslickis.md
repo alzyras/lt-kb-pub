@@ -28,12 +28,16 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
 
 ## Teiginiai
 
+<a id="claim-t-87538"></a>
 - t-001
+  global_id: t-87538
   teiginys: '1581 m. Steponas Batoras iš Vilniaus per Lauryną Goslickį išsiuntė svarbią pasiuntinybę į Švediją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87539"></a>
 - t-002
+  global_id: t-87539
   teiginys: 'Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau Poznanės vyskupas ir lotyniškos knygos „De optimo Senatore“ autorius.'
   pagrindžia:
     - c-001

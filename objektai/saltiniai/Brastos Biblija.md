@@ -27,12 +27,16 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
 
 ## Teiginiai
 
+<a id="claim-t-23389"></a>
 - t-001
+  global_id: t-23389
   teiginys: 'Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23390"></a>
 - t-002
+  global_id: t-23390
   teiginys: 'Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kalbą dėl to, kad „būtų liaudžiai suprantama“.'
   pagrindžia:
     - c-002

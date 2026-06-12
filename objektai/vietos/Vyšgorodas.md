@@ -23,7 +23,9 @@ Gedimino valdžią tuo metu pripažino ir Kijevo priemiesčiai Vyšgorodas įvyk
 
 ## Teiginiai
 
+<a id="claim-t-42340"></a>
 - t-001
+  global_id: t-42340
   teiginys: 'Gedimino valdžią tuo metu pripažino ir Kijevo priemiestis Vyšgorodas.'
   pagrindžia:
     - c-001

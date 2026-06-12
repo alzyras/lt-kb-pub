@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-01294"></a>
 - t-001
+  global_id: t-01294
   teiginys: '1618 m. mirus Albrechto sūnui, Prūsai atiteko jo giminaičiams, Brandenburgo elektoriams.'
   pagrindžia:
     - c-001

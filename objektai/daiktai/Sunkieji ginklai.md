@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87123"></a>
 - t-001
+  global_id: t-87123
   teiginys: 'Bisenės pilies įgula atrėmė vokiečius, nors šie naudojo sunkiuosius ginklus.'
   pagrindžia:
     - c-001

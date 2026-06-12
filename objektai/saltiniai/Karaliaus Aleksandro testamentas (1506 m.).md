@@ -29,12 +29,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-88192"></a>
 - t-001
+  global_id: t-88192
   teiginys: '1506 m. testamente Aleksandras skelbė, kad būdamas kūnu nusilpęs, bet sveiko proto išdėstė paskutinę valią.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88193"></a>
 - t-002
+  global_id: t-88193
   teiginys: 'Aleksandro testamentas buvo duotas Lydos pilyje 1506 m. Šv. Jokūbo apaštalo šventės išvakarėse.'
   pagrindžia:
     - c-002

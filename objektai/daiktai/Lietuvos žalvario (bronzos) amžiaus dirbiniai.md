@@ -38,13 +38,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-64966"></a>
 - t-001
+  global_id: t-64966
   teiginys: 'Pabaltijyje bronzos amžius datuojamas 1600-500 m. pr. Kr.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64967"></a>
 - t-002
-  teiginys: 'Lietuvos žalvario (bronzos) amžiaus dirbiniai: 1 — 10 kirviai, 11 — 13 kalavijai, 14, 19—21 iečių galai, 15—21 papuošalai, statulėlė, 22, 24—31 kirviai.'
+  global_id: t-64967
+  teiginys: 'Lietuvos žalvario (bronzos) amžiaus dirbiniams priskirti kirviai, kalavijai, iečių galai, papuošalai ir statulėlė.'
   pagrindžia:
     - c-002
 
@@ -64,6 +68,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Lietuvos žalvario (bronzos) amžiaus dirbiniams priskirti kirviai, kalavijai, iečių galai, papuošalai ir statulėlė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Lietuvos žalvario (bronzos) amžiaus dirbiniai:**
@@ -78,3 +83,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
+- [[objektai/daiktai/Papuošalai]]

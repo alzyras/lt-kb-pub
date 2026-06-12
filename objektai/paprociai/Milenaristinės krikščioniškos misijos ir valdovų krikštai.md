@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54312"></a>
 - t-001
+  global_id: t-54312
   teiginys: 'Pirmasis krikštas Lietuvoje siejamas su Brunono Bonifacijaus misija, Netimero įtikėjimu ir krikščioniškosios Europos tūkstantmečio idėja.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54313"></a>
 - t-002
+  global_id: t-54313
   teiginys: 'Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir krikštijosi.'
   pagrindžia:
     - c-001

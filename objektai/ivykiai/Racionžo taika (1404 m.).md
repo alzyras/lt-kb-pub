@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-92939"></a>
 - t-001
+  global_id: t-92939
   teiginys: '1404 m. Racionžo taika atgaivino prekybą su Ordinu, kuri buvo suirusi po 1401 m. Žemaičių sukilimo prieš Ordiną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-92940"></a>
 - t-002
+  global_id: t-92940
   teiginys: '1404 m. Racionžo taika vėl atidavė Žemaičius Ordinui, bet leido Vytautui pasiimti iš Žemaičių 250 gyventojų.'
   pagrindžia:
     - c-002

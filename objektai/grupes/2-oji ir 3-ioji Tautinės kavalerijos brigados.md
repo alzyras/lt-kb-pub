@@ -24,7 +24,9 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 
 ## Teiginiai
 
+<a id="claim-t-40822"></a>
 - t-001
+  global_id: t-40822
   teiginys: '2-oji ir 3-ioji Tautinės kavalerijos brigados buvo gen. mjr. Jono Mejeno divizijos, gynusios Vilnių nuo rusų puolimo, sudėtyje.'
   pagrindžia:
     - c-001

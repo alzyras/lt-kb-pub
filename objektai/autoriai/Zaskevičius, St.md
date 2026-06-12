@@ -24,7 +24,9 @@ Zaskevičius, St.
 
 ## Teiginiai
 
+<a id="claim-t-54143"></a>
 - t-001
+  global_id: t-54143
   teiginys: 'St. Zaskevičius 1930 m. paskelbė darbą „Trijų elementų reikšmė Tannenbergo kautynėse“.'
   pagrindžia:
     - c-001

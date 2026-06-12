@@ -28,67 +28,93 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 
 ## Teiginiai
 
+<a id="claim-t-109066"></a>
 - t-001
+  global_id: t-109066
   teiginys: 'Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose nuo 50 iki 70 proc.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-109067"></a>
 - t-002
-  teiginys: 'Kovos ėjo prie Alytaus, ir kovo mėnesį iš rusų buvo atimtas Jėznas, Butrimonys ir toliau, šiaurėj, Krekenava.'
+  global_id: t-109067
+  teiginys: '1919 m. kovos su bolševikais vyko prie Alytaus, o kovo mėnesį iš rusų buvo atimti Jėznas, Butrimonys ir Krekenava.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-109068"></a>
 - t-003
+  global_id: t-109068
   teiginys: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad iš pietų pultų Kauną.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-109069"></a>
 - t-004
+  global_id: t-109069
   teiginys: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje ir iš pietų pulti Kauną.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-109070"></a>
 - t-005
+  global_id: t-109070
   teiginys: 'Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-109071"></a>
 - t-006
+  global_id: t-109071
   teiginys: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli nuo Alytaus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-109072"></a>
 - t-007
+  global_id: t-109072
   teiginys: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-109073"></a>
 - t-008
+  global_id: t-109073
   teiginys: 'Bolševikų pajėgos planavo persikelti per Nemuną Alytuje ir Prienuose, kad galėtų pulti Kauną iš pietų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-109074"></a>
 - t-009
+  global_id: t-109074
   teiginys: 'Jų būriai rinkosi Kaune, Alytuj, Panevėžy, Kėdainiuose, Marijampolėj ir kitose vietose, kurias dar laikė vokiečių kariuomenė.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-109075"></a>
 - t-010
+  global_id: t-109075
   teiginys: 'Vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-109076"></a>
 - t-011
+  global_id: t-109076
   teiginys: '1919 m. vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-109077"></a>
 - t-012
+  global_id: t-109077
   teiginys: 'Mezolito įrankių gausiai aptikta paežerėse nuo Lydos iki Alytaus, taip pat palei Nemuną, Nerį, Merkį, Ūlą ir Katrą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-109078"></a>
 - t-013
+  global_id: t-109078
   teiginys: 'Kautynių metu iš Alytaus rusai trimis sunkvežimiais skubėjo į pagalbą Merkinės NKVD kariams ir stribams.'
   pagrindžia:
     - c-006
@@ -109,6 +135,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
     - t-005
 
 - c-002
+  santrauka: '1919 m. kovos su bolševikais vyko prie Alytaus, o kovo mėnesį iš rusų buvo atimti Jėznas, Butrimonys ir Krekenava.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vokie-

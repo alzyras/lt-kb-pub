@@ -16,12 +16,16 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
 
 ## Teiginiai
 
+<a id="claim-t-32450"></a>
 - t-001
+  global_id: t-32450
   teiginys: 'Virvelinės keramikos kultūros šaknų ieškoma Pietų Rusijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-32451"></a>
 - t-002
+  global_id: t-32451
   teiginys: 'Indoeuropiečiai į Europą greičiausiai atkeliavo per Pietų Rusijos stepes ir Kaukazą.'
   pagrindžia:
     - c-002

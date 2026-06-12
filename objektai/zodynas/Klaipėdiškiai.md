@@ -18,12 +18,16 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
 
 ## Teiginiai
 
+<a id="claim-t-21995"></a>
 - t-001
+  global_id: t-21995
   teiginys: 'Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183433"></a>
 - t-002
+  global_id: t-183433
   teiginys: 'Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas (panašiai kaip elzasiečiai ar.'
   pagrindžia:
     - c-002

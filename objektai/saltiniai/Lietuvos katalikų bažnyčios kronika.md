@@ -17,7 +17,9 @@ Aštuntajame dešimtmetyje kai kurie kunigai ėmė priešintis brutaliai valdži
 
 ## Teiginiai
 
+<a id="claim-t-21171"></a>
 - t-001
+  global_id: t-21171
   teiginys: 'Pirmasis „Lietuvos katalikų bažnyčios kronikos“ redaktorius buvo Simne dirbęs kunigas Sigitas Tamkevičius.'
   pagrindžia:
     - c-001

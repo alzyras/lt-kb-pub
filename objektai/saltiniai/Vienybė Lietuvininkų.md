@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02306"></a>
 - t-001
+  global_id: t-02306
   teiginys: '„Vienybė Lietuvininkų“ buvo vienas seniausių ir daug įtakos turėjusių Amerikos lietuvių laikraščių.'
   pagrindžia:
     - c-001

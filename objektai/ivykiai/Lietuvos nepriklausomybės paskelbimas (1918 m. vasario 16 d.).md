@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01730"></a>
 - t-001
+  global_id: t-01730
   teiginys: '1918 m. vasario 16 d. Lietuvos Taryba priėmė naują savarankišką pareiškimą, tapusį Lietuvos nepriklausomybės paskelbimu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01731"></a>
 - t-002
+  global_id: t-01731
   teiginys: 'Okupacinė valdžia neleido viešai paskelbti 1918 m. vasario 16 d. Lietuvos nepriklausomybės paskelbimo.'
   pagrindžia:
     - c-002

@@ -26,27 +26,37 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
 
 ## Teiginiai
 
+<a id="claim-t-63708"></a>
 - t-001
+  global_id: t-63708
   teiginys: 'Jokūbas Jasinskis pirmojoje sukilimo fazėje vadovavo visų Lietuvos sukilėlių veiksmams.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-63709"></a>
 - t-002
+  global_id: t-63709
   teiginys: 'Gindamas Varšuvą žuvo buvęs Lietuvos sukilėlių vadas Jokūbas Jasinskis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-63710"></a>
 - t-003
+  global_id: t-63710
   teiginys: '1794 m. balandžio 16 d. Šiauliuose prasidėjus sukilimui Lietuvoje, jo vadu tapo Jokūbas Jasinskis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-63711"></a>
 - t-004
+  global_id: t-63711
   teiginys: 'Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63712"></a>
 - t-005
+  global_id: t-63712
   teiginys: 'Į nelaisvę pateko 300 rusų karių ir 1794 m. sukilimo Lietuvoje vadas Jokūbas Jasinskis užgrobtos dvi 6 svarų patrankos.'
   pagrindžia:
     - c-005

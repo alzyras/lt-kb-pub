@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kapituliacijos sąlygų derinimas ir pasidavimas nugalėtojo malonei
 
 ## Santrauka
 
-Kojelavičius teigia, kad išsiuntė žygūnus, turėjusius tartis dėl pilies perdavimo sąlygų.
+Kameneco pilies apsuptieji išsiuntė žygūnus tartis dėl pilies perdavimo sąlygų ir pasidavė Vytauto malonei.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185918"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad išsiuntė žygūnus, turėjusius tartis dėl pilies perdavimo sąlygų.'
+  global_id: t-185918
+  teiginys: 'Kameneco pilies apsuptieji išsiuntė žygūnus tartis dėl pilies perdavimo sąlygų ir pasidavė Vytauto malonei.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad išsiuntė žygūnus, turėjusius tartis dėl pilies perdavimo sąlygų.'
+  santrauka: 'Kameneco pilies apsuptieji išsiuntė žygūnus tartis dėl pilies perdavimo sąlygų ir pasidavė Vytauto malonei.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gal dėl Vytauto klastingumo,
@@ -59,3 +60,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/žygūnai]]

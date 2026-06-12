@@ -44,18 +44,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54485"></a>
 - t-001
+  global_id: t-54485
   teiginys: 'Šventaragio slėnyje iki krikščioniškojo tikėjimo įvedimo degė Gabija vadinta amžinoji ugnis Perkūno garbei.'
   pagrindžia:
     - c-002
     - c-001
 
+<a id="claim-t-54486"></a>
 - t-002
+  global_id: t-54486
   teiginys: 'Krikšto apeigų metu Vilniuje buvo užgesinta amžinoji ugnis, iškirstos šventos girios ir sugriauta Perkūno šventykla.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-54487"></a>
 - t-003
+  global_id: t-54487
   teiginys: 'Šventaragio slėnyje Perkūno garbei degusią amžinąją ugnį Gabiją saugojo ir kurstė žyniai, vadovaujami Krivių Krivaičio.'
   pagrindžia:
     - c-002

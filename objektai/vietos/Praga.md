@@ -29,38 +29,52 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
 
 ## Teiginiai
 
+<a id="claim-t-71956"></a>
 - t-001
+  global_id: t-71956
   teiginys: 'Henricus dux Lithuaniae ilgą laiką praleido imperatoriaus Karolio IV dvare ir 1380 m. baigė gyvenimą Pragoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71957"></a>
 - t-002
+  global_id: t-71957
   teiginys: 'Būtautas, ilgai gyvenęs imperatoriaus Karolio IV dvare, 1380 m. mirė Pragoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71958"></a>
 - t-003
+  global_id: t-71958
   teiginys: 'Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-71959"></a>
 - t-004
+  global_id: t-71959
   teiginys: 'J. Pfitznerio veikalas „Grossfürst Witold als Staatsmann“ 1930 m. buvo išleistas Pragoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71960"></a>
 - t-005
+  global_id: t-71960
   teiginys: 'Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-71962"></a>
 - t-006
+  global_id: t-71962
   teiginys: 'Karalienė Jadvyga Prahoje įsteigė bendrabutį lietuviams studentams, kurie Pragos universitete mokėsi teologijos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183077"></a>
 - t-007
-  teiginys: 'Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante, ir laikydavosi vieningai.'
+  global_id: t-183077
+  teiginys: 'Lietuvos atstovai per elekcijas sustodavo Varšuvos priemiestyje Pragoje, dešiniajame Vyslos krante.'
   pagrindžia:
     - c-006
 
@@ -149,7 +163,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     - t-005
 
 - c-006
-  santrauka: 'Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante, ir laikydavosi vieningai.'
+  santrauka: 'Lietuvos atstovai per elekcijas sustodavo Varšuvos priemiestyje Pragoje, dešiniajame Vyslos krante.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet į elekciją, žinoma, susirinkdavo ne visi, o tik arti-

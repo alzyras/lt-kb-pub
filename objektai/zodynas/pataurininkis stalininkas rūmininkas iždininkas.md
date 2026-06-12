@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # pataurininkis stalininkas rūmininkas iždininkas
 
 ## Santrauka
 
-Kojelavičius teigia, kad sutiko ir priėmė maskvėnus pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas Točinskis ir Mikalojus Konča, o vedė derybas tokie orūs vyrai, kaip Vilniaus vaivada.
+Maskvėnų pasiuntinius sutiko pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai ir rūmininkai.
 
 ## Teiginiai
 
+<a id="claim-t-185389"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad sutiko ir priėmė maskvėnus pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas Točinskis ir Mikalojus Konča, o vedė derybas tokie orūs vyrai, kaip Vilniaus vaivada.'
+  global_id: t-185389
+  teiginys: 'Maskvėnų pasiuntinius sutiko pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai ir rūmininkai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad sutiko ir priėmė maskvėnus pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas Točinskis ir Mikalojus Konča, o vedė derybas tokie orūs vyrai, kaip Vilniaus vaivada.'
+  santrauka: 'Maskvėnų pasiuntinius sutiko pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai ir rūmininkai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius
@@ -52,3 +53,21 @@ Kojelavičius teigia, kad sutiko ir priėmė maskvėnus pataurininkis Mikalojus 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Eustachijus (raštininkas)]]
+- [[objektai/asmenys/Eustachijus Valavičius]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/zodynas/Pataurininkis]]
+- [[objektai/grupes/Valavičiai]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/kaštelionas]]
+- [[objektai/zodynas/stalininkas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]
+- [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas]]
+- [[objektai/asmenys/Mikalojus Naruševičius]]
+- [[objektai/asmenys/Mikalojus Radvila]]

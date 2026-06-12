@@ -16,7 +16,9 @@ Pirmiausia buvo pulta viena vietinių vyrų, daugiausia iš Dragonių k.
 
 ## Teiginiai
 
+<a id="claim-t-41687"></a>
 - t-001
+  global_id: t-41687
   teiginys: 'Pirmiausia buvo pulta vietinių vyrų stovykla, kurios dauguma buvo iš Dragonių kaimo.'
   pagrindžia:
     - c-001

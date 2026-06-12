@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Žemaičių pasalinis pasipriešinimas kryžiuočių užvaizdoms ir tarpusavio neišdavimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad žemaičiams, nepratusiems prie svetimųjų valdymo, šis jungas pasi rodė esąs pernelyg sunkus, todėl jie iš pasalų žudė dvarų bei kaimų užvaizdas, juos arba durklu nudobda mi, arba vandenyje paskandindami.
+Žemaičiai, nepratę prie svetimųjų valdymo, iš pasalų žudė kryžiuočių dvarų ir kaimų užvaizdas, o kaltininkų niekas neišdavė.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185907"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad žemaičiams, nepratusiems prie svetimųjų valdymo, šis jungas pasi rodė esąs pernelyg sunkus, todėl jie iš pasalų žudė dvarų bei kaimų užvaizdas, juos arba durklu nudobda mi, arba vandenyje paskandindami.'
+  global_id: t-185907
+  teiginys: 'Žemaičiai, nepratę prie svetimųjų valdymo, iš pasalų žudė kryžiuočių dvarų ir kaimų užvaizdas, o kaltininkų niekas neišdavė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad žemaičiams, nepratusiems prie svetimųjų valdymo, šis jungas pasi rodė esąs pernelyg sunkus, todėl jie iš pasalų žudė dvarų bei kaimų užvaizdas, juos arba durklu nudobda mi, arba vandenyje paskandindami.'
+  santrauka: 'Žemaičiai, nepratę prie svetimųjų valdymo, iš pasalų žudė kryžiuočių dvarų ir kaimų užvaizdas, o kaltininkų niekas neišdavė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Netrukus, išvedus
@@ -56,3 +57,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Durklas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

@@ -17,7 +17,9 @@ Po mūšio Kadangi Ukmergės rinktinė buvo per daug išsiveržusi į priekį, k
 
 ## Teiginiai
 
+<a id="claim-t-39009"></a>
 - t-001
+  global_id: t-39009
   teiginys: 'Ukmergės rinktinei per daug išsiveržus į priekį, kariuomenės vadovybė įsakė sustabdyti tolesnį puolimą, kad išsilygintų fronto linija.'
   pagrindžia:
     - c-001

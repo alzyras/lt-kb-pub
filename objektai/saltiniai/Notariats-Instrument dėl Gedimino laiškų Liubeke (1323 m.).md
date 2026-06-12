@@ -24,7 +24,9 @@ Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­ biniame
 
 ## Teiginiai
 
+<a id="claim-t-88268"></a>
 - t-001
+  global_id: t-88268
   teiginys: 'Notariats-Instrument dokumente buvo įrašyti tariamieji Gedimino laiškai dviem ordinams ir pajūrio miestams.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Vytautas, vėl su įkarščiu išsakęs savo didelį norą stojęs prieš karali
 
 ## Teiginiai
 
+<a id="claim-t-86865"></a>
 - t-001
+  global_id: t-86865
   teiginys: 'Krokuvos vyskupas Olesnickis Vytautui atsakė, kad jo nei dovanomis papirkti, nei grasinimais įbauginti neįstengs.'
   pagrindžia:
     - c-001

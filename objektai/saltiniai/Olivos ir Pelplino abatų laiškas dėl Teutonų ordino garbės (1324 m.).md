@@ -25,12 +25,16 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 
 ## Teiginiai
 
+<a id="claim-t-88320"></a>
 - t-001
+  global_id: t-88320
   teiginys: 'Olivos abatas Paulius ir Pelplino abatas Jordanas laiškais popiežiui gynė Teutonų ordino brolių garbę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88321"></a>
 - t-002
+  global_id: t-88321
   teiginys: 'Olivos ir Pelplino abatų laiškas buvo datuotas 1324 m. sausio 17 d. Gmevo pilyje.'
   pagrindžia:
     - c-001

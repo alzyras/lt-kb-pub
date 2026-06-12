@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08300"></a>
 - t-001
+  global_id: t-08300
   teiginys: 'Namo tvarte, arba kūtėje, laikytos karvės, jaučiai ir avys, o už jo buvo atskira arklių kūtė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08301"></a>
 - t-002
+  global_id: t-08301
   teiginys: 'Už arklių kūtės dar buvo kiaulių kūtelė, o bandos tvarte laikydavo žąsis ir pyles.'
   pagrindžia:
     - c-002

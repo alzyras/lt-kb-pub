@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40755"></a>
 - t-001
+  global_id: t-40755
   teiginys: 'Progresas pakeitė ne tik šautuvus, bet ir mažuosius ginklus - plačiai pradėti naudoti revolveriai.'
   pagrindžia:
     - c-001

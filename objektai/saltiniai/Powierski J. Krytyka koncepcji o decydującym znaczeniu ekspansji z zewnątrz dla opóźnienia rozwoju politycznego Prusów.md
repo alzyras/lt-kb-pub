@@ -22,7 +22,9 @@ Dusburgietis teigia, kad powierski J.
 
 ## Teiginiai
 
+<a id="claim-t-61241"></a>
 - t-001
+  global_id: t-61241
   teiginys: 'J. Powierskio straipsnis apie išorinės ekspansijos reikšmę prūsų politinės raidos vėlavimui paskelbtas 1977 m. ABS 11 tome.'
   pagrindžia:
     - c-001

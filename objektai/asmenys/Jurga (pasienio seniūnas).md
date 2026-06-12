@@ -14,24 +14,25 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Jurga (pasienio seniūnas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad jurga (pasienio seniūnas) sušaukė Naugarduke seimą ir pats nuvyko į Lietuvą.
+Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo skitų antpuolių.
 
 ## Teiginiai
 
+<a id="claim-t-186222"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad jurga (pasienio seniūnas) sušaukė Naugarduke seimą ir pats nuvyko į Lietuvą.'
+  global_id: t-186222
+  teiginys: 'Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo skitų antpuolių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad jurga (pasienio seniūnas) sušaukė Naugarduke seimą ir pats nuvyko į Lietuvą.'
+  santrauka: 'Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo skitų antpuolių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai todėl, norėdamas išvengti gink­
@@ -61,3 +62,15 @@ Kojelavičius teigia, kad jurga (pasienio seniūnas) sušaukė Naugarduke seimą
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/žygūnai]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/ivykiai/Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.)]]
+- [[objektai/paprociai/Valdų išpirkimas nuo antpuolių dovanomis per žygūnus]]

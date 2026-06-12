@@ -49,32 +49,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-55055"></a>
 - t-001
+  global_id: t-55055
   teiginys: 'Vaistinėje buvo žaliavų, užjūrio ir vietinių preparatų, medikamentų bei medžiagų atsargų, kurios buvo surašytos, persvertos ir įvertintos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55056"></a>
 - t-002
+  global_id: t-55056
   teiginys: 'Kol vaistinėje buvo leidžiama laikyti ir pardavinėti degtinę, metinės pajamos galėjo siekti 30 000 auksinų, o po draudimo jos sumažėjo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-55057"></a>
 - t-003
+  global_id: t-55057
   teiginys: 'Dalis medikamentų buvo skiriama kolegijoje sergantiems asmenims, kuriems vaistininkai turėjo be užmokesčio duoti vaistų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-172859"></a>
 - t-004
+  global_id: t-172859
   teiginys: 'Didžioji iš Krokuvos atgabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-172862"></a>
 - t-005
+  global_id: t-172862
   teiginys: '1780 m. vaistinė kelių vaistininkų dėka buvo išsiplėtusi ir pasiekusi klestintį būvį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-172863"></a>
 - t-006
+  global_id: t-172863
   teiginys: 'Aleksandro laikais Vilnius pirmą kartą pažino gydytoją ir vaistinę.'
   pagrindžia:
     - c-004

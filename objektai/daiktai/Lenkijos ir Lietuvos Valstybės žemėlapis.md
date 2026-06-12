@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-64955"></a>
 - t-001
+  global_id: t-64955
   teiginys: 'XVIII a. vidurio Lenkijos ir Lietuvos Valstybės žemėlapyje buvo matyti ir LDK sienos.'
   pagrindžia:
     - c-001

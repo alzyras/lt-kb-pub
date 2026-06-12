@@ -30,63 +30,87 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 
 ## Teiginiai
 
+<a id="claim-t-84799"></a>
 - t-001
-  teiginys: 'Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pradžios mokyklų buvo beveik kiekvienoj jų parapijoj.'
+  global_id: t-84799
+  teiginys: 'Slucke buvo įkurta protestantų mokykla, o pradžios mokyklų buvo beveik kiekvienoje protestantų parapijoje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-84800"></a>
 - t-002
+  global_id: t-84800
   teiginys: 'Totorių žygis pasiekė Slucko apylinkes, kurios priklausė tankiai apgyventam ir turtingam LDK branduoliui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-84801"></a>
 - t-003
+  global_id: t-84801
   teiginys: 'Slucke buvo įkurta protestantų mokykla.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-84802"></a>
 - t-004
+  global_id: t-84802
   teiginys: 'Slucke buvo įkurta jėzuitų kolegija, paremta sudėtine fundacija.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-84803"></a>
 - t-005
+  global_id: t-84803
   teiginys: 'Valdymo pabaigoje Slucke liko atskira kunigaikštystė, bet jos pilį valdė didžiojo kunigaikščio vietininkai.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-84804"></a>
 - t-006
+  global_id: t-84804
   teiginys: 'Prieš metus įvykęs jų žygis leido jiems „smagintis“ Vilniaus ir Polocko, Vitebsko ir Drucko, Naugarduko ir Slucko apylinkėse - tikrajame LDK branduolyje, tankiausiai apgyventame ir turtingiausiame krašte.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-84805"></a>
 - t-007
+  global_id: t-84805
   teiginys: 'Per maištą Sluckas ir Minskas nepasidavė, nors Mozyrių ir Turovą sukilėliui pavyko užimti.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-84806"></a>
 - t-008
+  global_id: t-84806
   teiginys: 'Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio tempą pasileido tiesiai vakarų kryptimi Mozyriaus ir Slucko link.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-84807"></a>
 - t-009
+  global_id: t-84807
   teiginys: '1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-185145"></a>
 - t-011
-  teiginys: 'Kojelavičius teigia, kad mirus Slucko kunigaikščiui Simonui Olelkaičiui, jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp jūčio viduryje užpuolė Slucką.'
+  global_id: t-185145
+  teiginys: 'Po Slucko kunigaikščio Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-185146"></a>
 - t-012
-  teiginys: 'Kojelavičius teigia, kad palikę Slucką, barbarai patraukė į Naugarduką.'
+  global_id: t-185146
+  teiginys: 'Po nesėkmingo puolimo prie Slucko skitai pasitraukė ir patraukė į Naugarduką.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-185147"></a>
 - t-013
-  teiginys: 'Kojelavičius teigia, kad patikėjo žmogumi, kuris sakėsi esąs strėle sužeistas į žandą, o netrukus atbėgo į stovyklą daug kitų, teigian čių, jog dvidešimt tūkstančių liko prie Slucko, o visos kitos jėgos be galo greitai traukia prie Naugarduko.'
+  global_id: t-185147
+  teiginys: 'Į karaliaus stovyklą atbėgę žmonės teigė, kad dvidešimt tūkstančių priešų liko prie Slucko.'
   pagrindžia:
     - c-010
 
@@ -222,7 +246,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     - t-007
 
 - c-008
-  santrauka: 'Kojelavičius teigia, kad mirus Slucko kunigaikščiui Simonui Olelkaičiui, jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp jūčio viduryje užpuolė Slucką.'
+  santrauka: 'Po Slucko kunigaikščio Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mengli Girėjaus kariai, veda­
@@ -245,7 +269,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     - t-011
 
 - c-009
-  santrauka: 'Kojelavičius teigia, kad palikę Slucką, barbarai patraukė į Naugarduką.'
+  santrauka: 'Po nesėkmingo puolimo prie Slucko skitai pasitraukė ir patraukė į Naugarduką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sužinojusi apie gresian­
@@ -267,7 +291,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     - t-012
 
 - c-010
-  santrauka: 'Kojelavičius teigia, kad patikėjo žmogumi, kuris sakėsi esąs strėle sužeistas į žandą, o netrukus atbėgo į stovyklą daug kitų, teigian čių, jog dvidešimt tūkstančių liko prie Slucko, o visos kitos jėgos be galo greitai traukia prie Naugarduko.'
+  santrauka: 'Į karaliaus stovyklą atbėgę žmonės teigė, kad dvidešimt tūkstančių priešų liko prie Slucko.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karaliui atvykus į Lydą, vienas

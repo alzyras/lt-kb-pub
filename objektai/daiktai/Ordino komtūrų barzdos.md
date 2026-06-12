@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19577"></a>
 - t-001
+  global_id: t-19577
   teiginys: 'Po Žalgirio mūšio lenkai ir lietuviai pasidalijo grobį, įskaitant belaisvius, Ordino komtūrų barzdas ir vėliavas.'
   pagrindžia:
     - c-001

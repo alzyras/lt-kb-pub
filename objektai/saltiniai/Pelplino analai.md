@@ -23,7 +23,9 @@ Dusburgietis teigia, kad trumpų žinių apie Ordino praeitį pateikia „Pelpli
 
 ## Teiginiai
 
+<a id="claim-t-61218"></a>
 - t-001
+  global_id: t-61218
   teiginys: 'Dusburgietis teigia, kad trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97.'
   pagrindžia:
     - c-001

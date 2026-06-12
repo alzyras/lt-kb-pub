@@ -16,7 +16,9 @@ Dusburgietis teigia, kad zimmermann P.
 
 ## Teiginiai
 
+<a id="claim-t-60828"></a>
 - t-001
+  global_id: t-60828
   teiginys: 'P. Zimmermannas 1925 m. Labguvoje paskelbė Labguvos apskrities istoriją iki maždaug 1500 metų.'
   pagrindžia:
     - c-001

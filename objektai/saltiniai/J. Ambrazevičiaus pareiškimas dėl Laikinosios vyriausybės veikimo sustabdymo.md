@@ -16,7 +16,9 @@ Vyriausybės pirmininkui J.
 
 ## Teiginiai
 
+<a id="claim-t-21069"></a>
 - t-001
+  global_id: t-21069
   teiginys: 'J. Ambrazevičius konstatavo, kad Laikinoji vyriausybė savo veikimą sustabdė prieš savo valią.'
   pagrindžia:
     - c-001

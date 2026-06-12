@@ -18,12 +18,16 @@ Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir
 
 ## Teiginiai
 
+<a id="claim-t-67358"></a>
 - t-001
+  global_id: t-67358
   teiginys: 'Ks. Bauža 1806 m. išleido knygą „Apie lietuvių tautos ir kalbos kilmę“, kurioje ragino gelbėti lietuvybę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67359"></a>
 - t-002
+  global_id: t-67359
   teiginys: 'Kad lietuvių kalba nežūtų, jis siūlo įsteigti Lietuvą mylinčių ir lietuvių kalbą mokančių draugiją, kuri rinktų tautosaką, senienas ir rūpintųsi leisti liaudžiai ir kunigams reikalingas lietuviškas knygas.'
   pagrindžia:
     - c-001

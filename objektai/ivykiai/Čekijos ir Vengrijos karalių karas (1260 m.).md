@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62539"></a>
 - t-001
+  global_id: t-62539
   teiginys: 'Dusburgietis teigia, kad apie Čekijos ir Vengrijos karalių karą 1260 viešpaties metais Vengrijos karalius užpuolė Čekijos karalių, turėdamas įvairiatautę 40 tūkstančių raitiją.'
   pagrindžia:
     - c-001

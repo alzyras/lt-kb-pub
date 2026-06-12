@@ -25,7 +25,9 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
 
 ## Teiginiai
 
+<a id="claim-t-36857"></a>
 - t-001
+  global_id: t-36857
   teiginys: 'Vytautas Lietuvoje saugojo monarchinę valdžią, o Lenkijoje uoliai rėmė naujų privilegijų ieškojusią šlėktą.'
   pagrindžia:
     - c-001
@@ -64,3 +66,4 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
 - [[objektai/asmenys/Vladislovas (Jogailos sūnus)]]
 - [[objektai/posakiai/de speciali consilio et voluntate Vitoldi ipsiusque praelatorum, baronum ac militum]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/sarmatai Sarmatija sarmatizmas]]

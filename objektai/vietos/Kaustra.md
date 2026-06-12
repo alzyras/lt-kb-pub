@@ -19,12 +19,16 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 
 ## Teiginiai
 
+<a id="claim-t-58572"></a>
 - t-001
+  global_id: t-58572
   teiginys: 'Dešiniajame Kaustros krante, į pietus nuo miesto, išliko aukštas piliakalnis su pilies griuvėsiais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58573"></a>
 - t-002
+  global_id: t-58573
   teiginys: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
   pagrindžia:
     - c-002

@@ -17,7 +17,9 @@ Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, lenk�
 
 ## Teiginiai
 
+<a id="claim-t-20863"></a>
 - t-001
+  global_id: t-20863
   teiginys: 'Lenkėjimo procesas pamažu apėmė visą Lietuvos politinį ir kultūrinį elitą.'
   pagrindžia:
     - c-001

@@ -23,12 +23,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88348"></a>
 - t-001
+  global_id: t-88348
   teiginys: '8 Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88349"></a>
 - t-002
+  global_id: t-88349
   teiginys: '1968 m. „Vilniaus miesto istorijos“ autoriai J. I. Kraševskio ir M. Balinskio darbus laikė senosios Vilniaus istoriografijos pagrindu.'
   pagrindžia:
     - c-002

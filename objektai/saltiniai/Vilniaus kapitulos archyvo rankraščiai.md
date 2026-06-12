@@ -25,7 +25,9 @@ Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO 
 
 ## Teiginiai
 
+<a id="claim-t-88489"></a>
 - t-001
+  global_id: t-88489
   teiginys: 'Vilniaus kapitulos archyvo rankraščiuose minimas Žygimanto Senojo raštas Vilniaus magistratui dėl vyskupo nesikišimo į miesto jurisdikciją.'
   pagrindžia:
     - c-001

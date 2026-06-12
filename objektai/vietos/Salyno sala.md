@@ -19,7 +19,9 @@ Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių m
 
 ## Teiginiai
 
+<a id="claim-t-34248"></a>
 - t-001
+  global_id: t-34248
   teiginys: 'Salyno saloje Nemune įvyko iškilmingas sutarties ratifikavimas.'
   pagrindžia:
     - c-001

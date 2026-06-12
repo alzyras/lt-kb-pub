@@ -24,7 +24,6 @@ amziai:
   - 'XIII'
   - 'XV'
 ---
-
 # Mazovija
 
 ## Santrauka
@@ -33,48 +32,66 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 
 ## Teiginiai
 
+<a id="claim-t-182832"></a>
 - t-001
+  global_id: t-182832
   teiginys: 'Dusburgietis teigia, kad prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183862"></a>
 - t-002
+  global_id: t-183862
   teiginys: '1323 m. Vilniuje duotame laiške skelbta, kad per Mazovijos kunigaikščio Boleslavo valdas galima saugiai atvykti į Lietuvą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183863"></a>
 - t-003
+  global_id: t-183863
   teiginys: 'Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, kaimyninė Mazovija ir artimos apylinkės.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183864"></a>
 - t-004
+  global_id: t-183864
   teiginys: 'Balińskis užuominą apie saugų kelią per Mazoviją laikė svarbiu Gedimino laiškų netikrumo įrodymu.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184182"></a>
 - t-005
+  global_id: t-184182
   teiginys: 'Dusburgietis teigia, kad „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas, o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą, apie.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184183"></a>
 - t-006
+  global_id: t-184183
   teiginys: 'Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja iš visų pusių Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-185043"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad gal supykę dėl šios lenkų padarytos skriau dos, gal dėl to, kad žmonė- 1367 m e ta i se pasklido kalbos, jog, Po locko vyskupo patarti, kry žiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar das, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją pasiplėšti.'
+  global_id: t-185043
+  teiginys: '1367 m. Kęstučio vedami lietuviai įsibrovė į Mazoviją plėšti grobio.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-185044"></a>
 - t-008
-  teiginys: 'Kojelavičius teigia, kad iš pradžių jis su kariuomene patraukė prieš Jonušą, Mazovijos ku nigaikštį; iš keršto kaip beįmanydamas nuniokojęs Mazoviją, perkėlė siaubiančius pulkus į Sandomirą, lenkų žemę.'
+  global_id: t-185044
+  teiginys: 'Jogaila su kariuomene patraukė prieš Mazovijos kunigaikštį Jonušą ir iš keršto nuniokojo Mazoviją.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-185045"></a>
 - t-009
-  teiginys: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  global_id: t-185045
+  teiginys: 'Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.'
   pagrindžia:
     - c-009
 
@@ -180,7 +197,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
     - t-006
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad gal supykę dėl šios lenkų padarytos skriau dos, gal dėl to, kad žmonė- 1367 m e ta i se pasklido kalbos, jog, Po locko vyskupo patarti, kry žiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar das, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją pasiplėšti.'
+  santrauka: '1367 m. Kęstučio vedami lietuviai įsibrovė į Mazoviją plėšti grobio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat, nors visą Belzo
@@ -213,7 +230,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
     - t-007
 
 - c-008
-  santrauka: 'Kojelavičius teigia, kad iš pradžių jis su kariuomene patraukė prieš Jonušą, Mazovijos ku nigaikštį; iš keršto kaip beįmanydamas nuniokojęs Mazoviją, perkėlė siaubiančius pulkus į Sandomirą, lenkų žemę.'
+  santrauka: 'Jogaila su kariuomene patraukė prieš Mazovijos kunigaikštį Jonušą ir iš keršto nuniokojo Mazoviją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo
@@ -239,7 +256,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
     - t-008
 
 - c-009
-  santrauka: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  santrauka: 'Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kurie, prisi-

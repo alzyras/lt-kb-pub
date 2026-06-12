@@ -16,12 +16,16 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
 
 ## Teiginiai
 
+<a id="claim-t-21336"></a>
 - t-001
+  global_id: t-21336
   teiginys: 'Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercegovinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-21337"></a>
 - t-002
+  global_id: t-21337
   teiginys: '2004 m. pabaigoje Lietuvai pasiūlyta vadovauti Afganistano Goro provincijos atkūrimo grupei ir padėti užtikrinti stabilumą bei saugumą.'
   pagrindžia:
     - c-002

@@ -17,7 +17,9 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 
 ## Teiginiai
 
+<a id="claim-t-19122"></a>
 - t-001
+  global_id: t-19122
   teiginys: 'Magdalena Avietėnaitė vadovavo rengiant specialų Lietuvos skyrių 1939 m. pasaulinei parodai Niujorke.'
   pagrindžia:
     - c-001

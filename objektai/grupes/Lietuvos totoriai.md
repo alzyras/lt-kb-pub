@@ -18,22 +18,30 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-78379"></a>
 - t-001
+  global_id: t-78379
   teiginys: 'Lietuvos totoriai naudodavo rytietiškas strėlines ir buvo ginkluoti lanku, kardu bei skydu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78380"></a>
 - t-002
+  global_id: t-78380
   teiginys: 'Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino priešo paniką.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-78381"></a>
 - t-003
+  global_id: t-78381
   teiginys: 'Lietuvos totoriai naudodavo rytietiškas strėlines, kaip ir kita Lietuvos lengvoji kariuomenė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78382"></a>
 - t-004
+  global_id: t-78382
   teiginys: 'Lietuvos totoriai šiame sparne buvo vertinami dėl manevringumo persekiojant bėgantį priešą.'
   pagrindžia:
     - c-002

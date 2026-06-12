@@ -41,17 +41,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-101531"></a>
 - t-001
+  global_id: t-101531
   teiginys: 'Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo atšaukusi karo padėties su Lenkija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101532"></a>
 - t-002
+  global_id: t-101532
   teiginys: 'Tautų Sąjungos Taryba ribą tarp Lietuvos ir Lenkijos pavadino administracine linija, bet nepripažino jos valstybine siena.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-101533"></a>
 - t-003
+  global_id: t-101533
   teiginys: 'Ženevoje Tautų Sąjungos Taryba patvirtino, kad karo padėties tarp Lietuvos ir Lenkijos nėra.'
   pagrindžia:
     - c-002

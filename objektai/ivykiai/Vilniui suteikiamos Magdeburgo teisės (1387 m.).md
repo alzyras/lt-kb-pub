@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54696"></a>
 - t-001
+  global_id: t-54696
   teiginys: 'Valdovas Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54697"></a>
 - t-002
+  global_id: t-54697
   teiginys: 'Magdeburgo teisių suteikimu Jogaila siekė vilioti svetimtaučius kurtis Vilniuje, bet privilegiją ribojo miestiečių pavaldumas Vilniaus seniūnui.'
   pagrindžia:
     - c-001

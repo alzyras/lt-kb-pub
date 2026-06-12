@@ -30,12 +30,16 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
 
 ## Teiginiai
 
+<a id="claim-t-45829"></a>
 - t-001
+  global_id: t-45829
   teiginys: 'Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol vadina lietuvius „leišiais“), o gal ir „liečiais“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45830"></a>
 - t-002
+  global_id: t-45830
   teiginys: 'Leičių ar liečių vardas siejamas su Lietuvos valdovų valstybės pakraščiuose įkurdintais ištikimais žmonėmis iš Lietuvos.'
   pagrindžia:
     - c-001

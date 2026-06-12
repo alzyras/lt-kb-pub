@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Valerijonas Suškovskis Protasevičius (vyskupas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad jo įpėdiniu tapo Lucko vyskupas Vale rijonas Suškovskis Protasevičius.
+Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasevičius.
 
 ## Teiginiai
 
+<a id="claim-t-186263"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad jo įpėdiniu tapo Lucko vyskupas Vale rijonas Suškovskis Protasevičius.'
+  global_id: t-186263
+  teiginys: 'Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasevičius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad jo įpėdiniu tapo Lucko vyskupas Vale rijonas Suškovskis Protasevičius.'
+  santrauka: 'Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasevičius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Didžiais darbais Vilniuje įrodė savo — kaip gany­
@@ -49,3 +50,9 @@ Kojelavičius teigia, kad jo įpėdiniu tapo Lucko vyskupas Vale rijonas Suškov
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Liuteronai]]
+- [[objektai/zodynas/legatai]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]

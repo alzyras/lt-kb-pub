@@ -17,17 +17,23 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
 
 ## Teiginiai
 
+<a id="claim-t-18997"></a>
 - t-001
+  global_id: t-18997
   teiginys: 'Jonas Žemaitis-Vytautas buvo išrinktas LLKS Tarybos prezidiumo pirmininku ir gavo partizanų generolo laipsnį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-18998"></a>
 - t-002
+  global_id: t-18998
   teiginys: '1953 m. pavasarį agentai išdavė Joną Žemaitį-Vytautą, o po pusantrų metų tardymų jis sušaudytas Maskvos Butyrkų kalėjime.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-18999"></a>
 - t-003
+  global_id: t-18999
   teiginys: 'Joną Žemaitį-Vytautą kameroje lankė SSRS saugumo maršalas Lavrentijus Berija.'
   pagrindžia:
     - c-003

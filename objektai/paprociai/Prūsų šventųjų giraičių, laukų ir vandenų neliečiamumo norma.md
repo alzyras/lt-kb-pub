@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-91925"></a>
 - t-001
+  global_id: t-91925
   teiginys: 'Dusburgietis teigia, kad jie turėjo šventųjų giraičių, laukų ir vandenų, kur niekas nedrįso nei medžio kirsti, nei žemės dirbti, nei žuvauti.'
   pagrindžia:
     - c-001

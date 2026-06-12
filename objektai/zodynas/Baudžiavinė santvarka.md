@@ -27,12 +27,16 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
 
 ## Teiginiai
 
+<a id="claim-t-38746"></a>
 - t-001
+  global_id: t-38746
   teiginys: 'Per 1853-1856 m. karą su Turkija Rusijos carinė vyriausybė baudžiavinę santvarką laikė didžiausia kliūtimi šalies ūkiui ir nusprendė ją panaikinti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183706"></a>
 - t-002
+  global_id: t-183706
   teiginys: 'Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyriausybė suprato, kad didžiausia kliūtis šalies ūkinei sistemai yra baudžiavinė santvarka, kurią buvo nuspręsta panaikinti.'
   pagrindžia:
     - c-002

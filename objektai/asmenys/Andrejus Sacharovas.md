@@ -25,22 +25,30 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 
 ## Teiginiai
 
+<a id="claim-t-75687"></a>
 - t-001
+  global_id: t-75687
   teiginys: 'Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių mokosi Rusijos ir kitų respublikų demokratai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75688"></a>
 - t-002
+  global_id: t-75688
   teiginys: 'Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75689"></a>
 - t-003
+  global_id: t-75689
   teiginys: 'A. Sacharovas pasirašė 45 pabaltijiečių memorandumą kartu su estais, latviais, lietuviais ir rusų disidentais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75690"></a>
 - t-004
+  global_id: t-75690
   teiginys: 'Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą.'
   pagrindžia:
     - c-004

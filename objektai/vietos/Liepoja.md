@@ -27,22 +27,30 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 
 ## Teiginiai
 
+<a id="claim-t-68452"></a>
 - t-001
+  global_id: t-68452
   teiginys: 'Lietuvos delegacija buvo instruktuota siekti išėjimo į jūrą per Klaipėdą arba Liepoją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-68453"></a>
 - t-002
+  global_id: t-68453
   teiginys: 'Sukilėliai planavo užimti Palangos ir Liepojos uostus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-68454"></a>
 - t-003
+  global_id: t-68454
   teiginys: '1917 m. lapkričio 2–10 d. Berno konferencijoje numatyta reikalauti Liepojos uosto.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183615"></a>
 - t-004
+  global_id: t-183615
   teiginys: 'Delegacija buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu darant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipėdą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad Lietuva būtų priimta į Tautų.'
   pagrindžia:
     - c-003

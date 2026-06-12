@@ -22,12 +22,16 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Dešinioji kolo
 
 ## Teiginiai
 
+<a id="claim-t-41762"></a>
 - t-001
+  global_id: t-41762
   teiginys: 'Bendrasis rezervas turėjo vykti Katinų kaimo link ir jį užimti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41763"></a>
 - t-002
+  global_id: t-41763
   teiginys: 'Dešinioji kolona energingu puolimu užėmė Jotvainių, Griniūnų ir Katinų kaimus.'
   pagrindžia:
     - c-001

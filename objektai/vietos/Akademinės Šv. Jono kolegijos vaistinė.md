@@ -25,12 +25,16 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
 
 ## Teiginiai
 
+<a id="claim-t-86000"></a>
 - t-001
+  global_id: t-86000
   teiginys: 'Jono Kolegijos Vaistinės kronika 1546.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86001"></a>
 - t-002
+  global_id: t-86001
   teiginys: '1687 metais jėzuitai suremontuotą mūrinį namą atidavė Akademinės Šv. Jono kolegijos vaistinei.'
   pagrindžia:
     - c-002

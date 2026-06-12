@@ -34,401 +34,386 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 
 - Lietuvos valdovas
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
-- [[objektai/grupes/Aukštaičiai]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/grupes/Habsburgai]]
-- [[objektai/asmenys/Karijotas]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Mongolai]]
-- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/brevė]]
-- [[objektai/zodynas/diarchija]]
-- [[objektai/zodynas/ekspansija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/rublis]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/posakiai/„nuo jūros iki jūros“]]
-- [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
-- [[objektai/ivykiai/Andriaus ir koalicijos sutriuškinimas]]
-- [[objektai/asmenys/Antanas Valionis]]
-- [[objektai/daiktai/Apgulties mašinos]]
-- [[objektai/zodynas/Diarchijos sistema]]
-- [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/asmenys/Dmitrijus Ivanovičius]]
-- [[objektai/paprociai/Džiaugsmingas valdovo pasitikimas plojant rankomis ir giedant „Lado! Lado!“]]
-- [[objektai/asmenys/Elžbieta]]
-- [[objektai/daiktai/Ietis]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/autoriai/Jordanas]]
-- [[objektai/asmenys/Julijona (Algirdo žmona)]]
-- [[objektai/grupes/Karijotaičiai]]
-- [[objektai/paprociai/Karinės gynybos tvarka deginant namus ir slepiant šeimą giriose]]
-- [[objektai/grupes/Kijevo kunigaikštystė]]
-- [[objektai/ivykiai/Kęstučio ir Algirdo derybos dėl krikšto|Kęstučio ir Algirdo derybos dėl krikšto (krikštas)]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/grupes/Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko mokomoji kuopa]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/grupes/Lietuvos stačiatikiai]]
-- [[objektai/paprociai/Lietuvos valdovų laidojimas pagoniškais papročiais]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]
-- [[objektai/asmenys/Michailas Aleksandrovičius]]
-- [[objektai/daiktai/Monetos]]
-- [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas]]
-- [[objektai/grupes/Mongolų imperija]]
-- [[objektai/daiktai/Mūro pilys]]
-- [[objektai/grupes/Naugardo respublika]]
-- [[objektai/ivykiai/Ordino žygis į Vilnių ir Trakus]]
-- [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]
-- [[objektai/paprociai/Prekyba su Prūsais (Dancigu ir Karaliaučiumi)]]
-- [[objektai/ivykiai/Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.)]]
-- [[objektai/ivykiai/Rusios žemių prijungimai prie Lietuvos]]
-- [[objektai/asmenys/Survila]]
-- [[objektai/grupes/Tautų Sąjungos kontrolės komisija]]
-- [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
-- [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
-- [[objektai/grupes/Tverės kunigaikštystė]]
-- [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/paprociai/Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos]]
-- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
-- [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
-- [[objektai/posakiai/`rex` `bazileus`]]
-- [[objektai/posakiai/būsiu tavo žemėje po skaistaus pavasario, po tykios vasaros]]
-- [[objektai/zodynas/didvalstybė]]
-- [[objektai/zodynas/domenas]]
-- [[objektai/zodynas/grašis]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/lietopisis]]
-- [[objektai/zodynas/lietopisis lietopisiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/metropolija]]
-- [[objektai/zodynas/misijų teorija]]
-- [[objektai/zodynas/murza]]
-- [[objektai/zodynas/partizaniškas karas]]
-- [[objektai/zodynas/saar]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/zodynas/supremus dux magnus dux]]
-- [[objektai/zodynas/ulonas]]
-- [[objektai/posakiai/vardan tos Lietuvos]]
-- [[objektai/zodynas/vidaus kolonizacija]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]
-- [[objektai/posakiai/„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“]]
-- [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon`]]
-- [[objektai/posakiai/„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“]]
-- [[objektai/posakiai/„savaime visa Rusia turi priklausyti lietuviams“]]
-- [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
-- [[objektai/zodynas/Metropolija ir metropolitas]]
-- [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]
-- [[objektai/ivykiai/Valdo Adamkaus tapimas Lietuvos prezidentu (1998 m.)]]
-- [[objektai/posakiai/Visa Rusija turi priklausyti Lietuvai]]
-- [[objektai/zodynas/kondominiumas]]
-- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
-
 ## Teiginiai
 
+<a id="claim-t-05157"></a>
 - t-001
+  global_id: t-05157
   teiginys: 'Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaidotas pagoniškais papročiais.'
   pagrindžia:
     - c-024
 
+<a id="claim-t-05158"></a>
 - t-002
+  global_id: t-05158
   teiginys: 'Lietuvai įsiviešpataujant rytų erdvėje iki Okos aukštupių, Maskva Algirdui dar nepajėgė aktyviai atsispirti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-05159"></a>
 - t-003
+  global_id: t-05159
   teiginys: 'Paliuosuodamas Rusios žemes iš totorių jungo ir palikdamas ankstesnę tvarką, Algirdas labiausiai išplėtė savo valdžią į rytus ir pietus.'
   pagrindžia:
     - c-011
     - c-029
 
+<a id="claim-t-10070"></a>
 - t-004
+  global_id: t-10070
   teiginys: 'Algirdas vedė gerai organizuotą Lietuvos kariuomenę, kuri prie Mėlynųjų Vandenų sutriuškino su lietuviais konkuravusius mongolus.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-10071"></a>
 - t-005
+  global_id: t-10071
   teiginys: '1358 m. derybose su Šv. Romos imperatoriumi Karoliu IV Algirdas reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais.'
   pagrindžia:
     - c-005
     - c-035
 
+<a id="claim-t-10072"></a>
 - t-006
+  global_id: t-10072
   teiginys: 'Tose pačiose derybose Algirdas reikalavo sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos, Priegliaus ir Dauguvos.'
   pagrindžia:
     - c-005
     - c-036
 
+<a id="claim-t-10666"></a>
 - t-007
+  global_id: t-10666
   teiginys: 'Algirdas valdė Krėvą ir Vitebską.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-10667"></a>
 - t-008
+  global_id: t-10667
   teiginys: 'Kęstučiui užėmus Vilnių, Algirdas gavo valdyti Vilniaus kunigaikštystę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-10668"></a>
 - t-009
+  global_id: t-10668
   teiginys: '1345 m. Algirdas, kaip visos Lietuvos valdovas, drauge su Kęstučiu susidūrė su ordinu.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-10670"></a>
 - t-010
+  global_id: t-10670
   teiginys: '1362 m. Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, paėmė Kijevą ir pasodino ten savo sūnų Vladimirą.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-10671"></a>
 - t-011
+  global_id: t-10671
   teiginys: 'Algirdas vedė Julijoną, siekdamas sąjungininko prieš Maskvą.'
   pagrindžia:
     - c-038
 
+<a id="claim-t-10672"></a>
 - t-012
+  global_id: t-10672
   teiginys: 'Algirdas buvo pagonis ir 1377 m. buvo sudegintas Vilniuje pagal pagonių papročius.'
   pagrindžia:
     - c-031
 
+<a id="claim-t-176274"></a>
 - t-013
+  global_id: t-176274
   teiginys: 'Algirdas buvo Gedimino sūnus ir Jogailos tėvas.'
   pagrindžia:
     - c-037
 
+<a id="claim-t-176275"></a>
 - t-014
+  global_id: t-176275
   teiginys: '1440 m. privilegijoje Vilniaus miestiečių laisva prekyba be muito vadinta Algirdo ir jo įpėdinių suteiktos laisvės atnaujinimu.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-176276"></a>
 - t-015
+  global_id: t-176276
   teiginys: 'Algirdas, laimėjęs sostą ir įsitraukęs į karus su Rusia, netrukus išvyko iš Vilniaus.'
   pagrindžia:
     - c-028
 
+<a id="claim-t-176277"></a>
 - t-016
+  global_id: t-176277
   teiginys: 'Algirdas pabėgo ieškoti pagalbos į Maskvą, bet vėliau su broliais susitarė ir gavo valdyti Zaslaulį.'
   pagrindžia:
     - c-040
 
+<a id="claim-t-176279"></a>
 - t-017
+  global_id: t-176279
   teiginys: 'Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo –.'
   pagrindžia:
     - c-020
-    - c-039
 
+<a id="claim-t-176281"></a>
 - t-018
+  global_id: t-176281
   teiginys: 'Dusburgietis teigia, kad 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m.'
   pagrindžia:
     - c-034
 
+<a id="claim-t-176282"></a>
 - t-019
+  global_id: t-176282
   teiginys: 'Algirdas buvo Seversko kunigaikščio Dmitrijaus Kaributo tėvas.'
   pagrindžia:
     - c-022
 
+<a id="claim-t-176283"></a>
 - t-020
+  global_id: t-176283
   teiginys: 'Vytauto senelis ir vėliau jo dėdė Algirdas iš senosios Kijevo Rusios įsigijo plačias teritorijas.'
   pagrindžia:
     - c-010
-    - c-047
 
+<a id="claim-t-176284"></a>
 - t-021
+  global_id: t-176284
   teiginys: '1440 m. privilegijoje Vilniui atnaujintos senos laisvės, suteiktos Algirdo ir jo įpėdinių.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-176285"></a>
 - t-022
+  global_id: t-176285
   teiginys: 'O sava valstybė, atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių, ateities planų garantas, pati didžiausia vertybė.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-176287"></a>
 - t-023
+  global_id: t-176287
   teiginys: 'Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats miestas perėjo į Algirdo rankas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-176288"></a>
 - t-024
+  global_id: t-176288
   teiginys: 'Valdovai buvo deginami iki pat krikšto: šaltiniuose išliko Lietuvos didžiųjų kunigaikščių Algirdo ir Kęstučio palaikų deginimo aprašymai.'
   pagrindžia:
     - c-033
-    - c-057
 
+<a id="claim-t-176289"></a>
 - t-025
+  global_id: t-176289
   teiginys: 'Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas.'
   pagrindžia:
     - c-036
 
+<a id="claim-t-176290"></a>
 - t-026
+  global_id: t-176290
   teiginys: 'Toks Vytauto pasisekimas prijungiant rusų žemes įvyko dėl stipriai įsigalėjusių tradicijų nuo Algirdo laikų; tai sustiprino ir jo būklę, ir galybę Lietuvoj, kas negalėjo neatsiliepti į jo elgesį su Lenkija.'
   pagrindžia:
     - c-041
 
+<a id="claim-t-176291"></a>
 - t-027
+  global_id: t-176291
   teiginys: 'Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-176292"></a>
 - t-028
+  global_id: t-176292
   teiginys: 'Valdant Ldk Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia savo teritoriją nuo Baltijos iki Juodosios jūros.'
   pagrindžia:
     - c-030
 
+<a id="claim-t-176293"></a>
 - t-029
+  global_id: t-176293
   teiginys: 'Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-176294"></a>
 - t-030
+  global_id: t-176294
   teiginys: '1377 m. birželio pabaigoje Algirdas su žmona ir vaikais buvo Vilniuje, kai priešai sustojo prie miesto.'
   pagrindžia:
     - c-026
 
+<a id="claim-t-176296"></a>
 - t-031
-  teiginys: 'Algirdas nubaudė pranciškonų žudynių vadus ir paskelbė vienuoliams laisvę gyventi bei išpažinti tikėjimą.'
-  pagrindžia:
-    - c-038
-
-- t-032
+  global_id: t-176296
   teiginys: 'Vilniaus „rusėnų pusėje“ jau Gedimino laikais stovėjo cerkvės: stačiatikės visų pirma buvo kai kurios didžiųjų Lietuvos kunigaikščių žmonos, tačiau stačiatikių būta ir valdovo dvare – Algirdas toleravo stačiatikybę, jei tai neprieštaravo jo, kaip valdovo.'
   pagrindžia:
     - c-039
 
-- t-033
+<a id="claim-t-176298"></a>
+- t-032
+  global_id: t-176298
   teiginys: 'Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš svetur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais.'
   pagrindžia:
-    - c-040
     - c-032
 
-- t-034
+<a id="claim-t-176299"></a>
+- t-033
+  global_id: t-176299
   teiginys: 'Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.'
   pagrindžia:
     - c-023
 
-- t-035
+<a id="claim-t-176300"></a>
+- t-034
+  global_id: t-176300
   teiginys: 'Algirdas viešpatavo Vitebske ir Krėvoje ir dar Gediminui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu.'
   pagrindžia:
     - c-018
 
-- t-036
+<a id="claim-t-176301"></a>
+- t-035
+  global_id: t-176301
   teiginys: 'Algirdas 1358 m. derybose su Karoliu IV reikalavo iškelti kryžiuočius į rytų stepes ir grąžinti Lietuvai baltų žemes vakaruose.'
   pagrindžia:
     - c-005
 
-- t-037
+<a id="claim-t-176302"></a>
+- t-036
+  global_id: t-176302
   teiginys: 'Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą.'
   pagrindžia:
     - c-019
 
-- t-038
+<a id="claim-t-176303"></a>
+- t-037
+  global_id: t-176303
   teiginys: 'Algirdas valdė Lietuvą Vilniuje, o Kęstutis tuo pat metu valdė Trakuose.'
   pagrindžia:
     - c-016
 
-- t-039
+<a id="claim-t-176304"></a>
+- t-038
+  global_id: t-176304
   teiginys: 'Algirdas kartais gyvendavo Paneriuose, šiandien priklausančiuose Vilniaus kapitulai.'
   pagrindžia:
     - c-007
 
-- t-040
+<a id="claim-t-176305"></a>
+- t-039
+  global_id: t-176305
   teiginys: 'Jau Algirdo viešpatavimo pradžioje Šv.'
   pagrindžia:
     - c-027
 
-- t-041
-  teiginys: 'Apie 1345 m., Algirdui išvykus iš sostinės, Vilniaus prastuomenė užėmė pranciškonų vienuolyną ir nužudė vienuolius.'
-  pagrindžia:
-    - c-037
-
-- t-042
+<a id="claim-t-176307"></a>
+- t-040
+  global_id: t-176307
   teiginys: 'Algirdo ir Kęstučio laikais Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.'
   pagrindžia:
     - c-017
 
-- t-043
+<a id="claim-t-176308"></a>
+- t-041
+  global_id: t-176308
   teiginys: 'Poznanės vyskupas Dobrogostas buvo tarpininkavęs tarp popiežiaus Inocento VI ir didžiojo Lietuvos kunigaikščio Algirdo.'
   pagrindžia:
     - c-035
 
-- t-044
+<a id="claim-t-176309"></a>
+- t-042
+  global_id: t-176309
   teiginys: 'Abi Algirdo žmonos ir pirmosios žmonos vaikai buvo stačiatikių tikėjimo.'
   pagrindžia:
     - c-004
 
-- t-045
+<a id="claim-t-176310"></a>
+- t-043
+  global_id: t-176310
   teiginys: 'Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir Algirdui išsiplėtė ne tik valstybės teritorija –.'
   pagrindžia:
     - c-025
 
-- t-046
+<a id="claim-t-176311"></a>
+- t-044
+  global_id: t-176311
   teiginys: 'Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.'
   pagrindžia:
     - c-021
 
-- t-047
+<a id="claim-t-176312"></a>
+- t-045
+  global_id: t-176312
   teiginys: 'Algirdas gi su Kęstučiu pasidalino sunkų krašto vadovavimo darbą pusiau.'
   pagrindžia:
     - c-003
 
-- t-051
-  teiginys: 'Kojelavičius teigia, kad užleidęs valdžią Algirdui, nors į ją turėjęs daugiau teisių, nes nušalinęs Jaunutį, po Algirdo mirties pagarbiai pripa žinęs didžiuoju kunigaikščiu jo sūnų Jogailą, kuris savo dėdei atsimokėjęs klastingu nužudymu.'
+<a id="claim-t-183838"></a>
+- t-047
+  global_id: t-183838
+  teiginys: 'Algirdas nubaudė pranciškonų žudynių vadus ir paskelbė vienuoliams laisvę gyventi bei išpažinti tikėjimą.'
+  pagrindžia:
+    - c-043
+
+<a id="claim-t-184663"></a>
+- t-049
+  global_id: t-184663
+  teiginys: 'Kęstutis užleido valdžią Algirdui, nors pats buvo pašalinęs Jaunutį ir, pasak Kojelavičiaus, turėjo daugiau teisių į valdžią.'
   pagrindžia:
     - c-045
 
-- t-052
-  teiginys: 'Kojelavičius teigia, kad kęstutis siūlė valdžią Algirdui, kaip vyresniajam, Algirdas — Kęstučiui, kuris vienas pats pašalinęs Jaunutį.'
+<a id="claim-t-184664"></a>
+- t-050
+  global_id: t-184664
+  teiginys: 'Kęstutis ir Algirdas sutarė, kad Algirdas gaus didžiojo kunigaikščio titulą, o kitą valdžią jie dalysis lygiomis.'
   pagrindžia:
     - c-046
 
-- t-053
-  teiginys: 'Kojelavičius teigia, kad todėl Algirdas įsakė kariuomenei sustoti ir pasirengti kau tynėms.'
+<a id="claim-t-184665"></a>
+- t-051
+  global_id: t-184665
+  teiginys: 'Algirdas įsakė kariuomenei sustoti ir pasirengti kautynėms, kai priešo kunigaikščiai rengėsi stoti į mūšį.'
   pagrindžia:
     - c-047
 
-- t-054
-  teiginys: 'Kojelavičius teigia, kad algirdas, nors viešai laikėsi stabmeldžių apeigų, ta čiau, neseniai savo žmonos Julijonos, Vitebsko kuni gaikščio dukters, noru sutikęs priimti krikščionybę, ne atmetė rusų apeigų ir rusams Vitebske pastatė porą šventovių.'
+<a id="claim-t-184666"></a>
+- t-052
+  global_id: t-184666
+  teiginys: 'Algirdas, žmonos Julijonos prašymu sutikęs priimti krikščionybę, Vitebsko rusams pastatė porą šventovių.'
   pagrindžia:
     - c-048
 
-- t-055
-  teiginys: 'Kojelavičius teigia, kad kai mirė brolis, jo įpėdiniu, Algirdo remiamas, tapo NaugarduK o n sta n tin a s K a rijo ta itis, A lg ird o b ro lėn as, k v ie č ia m a s į L e n k ijo s ka ra liu s 23 o ko kunigaikštis Teodoras KaA lg ird a s su tra m d o rijotaitis; kadangi šis, įsigim.'
+<a id="claim-t-184667"></a>
+- t-053
+  global_id: t-184667
+  teiginys: 'Algirdas išvarė Teodorą Karijotaitį iš valdų, užėmė Podolės pilis ir paskyrė Goštautą Podolės seniūnu.'
   pagrindžia:
     - c-049
 
-- t-056
-  teiginys: 'Kojelavičius teigia, kad kai Algirdas bei Aleksandras Karijotaitis su keliomis žygio voromis padalyta kariuo mene iš karto nuniokojo daugelį Prūsijos vietų ir, su griovę svarbias pilis Tilžę bei Ragainę ir daugybę kitų miestų, išsivarė aštuonis šimtus belaisvių, Prūsijos ma gistras.'
+<a id="claim-t-184668"></a>
+- t-054
+  global_id: t-184668
+  teiginys: 'Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.'
   pagrindžia:
     - c-050
 
-- t-057
-  teiginys: 'Kojelavičius teigia, kad algirdas, Lietuvos didysis kuni gaikštis, peržengęs Kijevo bei Volynės kunigaikštysčių sienas, pirmas sumušęs svetimšalius ir juos išstūmęs iš šių žemių, po to padalijęs brolio Karijoto sūnums kraš tą; šie čia pastatę Smotričiaus, Bakotos, Kameneco ir kitas.'
+<a id="claim-t-184669"></a>
+- t-055
+  global_id: t-184669
+  teiginys: 'Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.'
   pagrindžia:
     - c-051
 
-- t-058
-  teiginys: 'Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal d a u ją paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais Algirdo proanūkį.'
+<a id="claim-t-184670"></a>
+- t-056
+  global_id: t-184670
+  teiginys: 'Simonas Olelkaitis citatoje pristatomas kaip Slucko kunigaikštis ir Algirdo proanūkis.'
   pagrindžia:
     - c-052
 
@@ -471,7 +456,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-047
+    - t-045
 
 - c-004
   santrauka: 'Abi Algirdo žmonos ir pirmosios žmonos vaikai buvo stačiatikių tikėjimo.'
@@ -488,7 +473,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-044
+    - t-042
 
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -505,7 +490,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-036
+    - t-035
     - t-005
     - t-006
 
@@ -543,7 +528,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-039
+    - t-038
 
 - c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -713,7 +698,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-038
+    - t-037
 
 - c-017
   santrauka: 'Algirdo ir Kęstučio laikais Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.'
@@ -730,7 +715,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-042
+    - t-040
 
 - c-018
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -808,7 +793,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-046
+    - t-044
 
 - c-022
   santrauka: 'Algirdas buvo Seversko kunigaikščio Dmitrijaus Kaributo tėvas.'
@@ -859,7 +844,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-034
+    - t-033
 
 - c-024
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -895,7 +880,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-045
+    - t-043
 
 - c-026
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -933,7 +918,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-040
+    - t-039
 
 - c-028
   santrauka: 'Algirdas, laimėjęs sostą ir įsitraukęs į karus su Rusia, netrukus išvyko iš Vilniaus.'
@@ -1035,7 +1020,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-033
+    - t-032
 
 - c-033
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1084,7 +1069,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-043
+    - t-041
 
 - c-036
   santrauka: 'Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas.'
@@ -1158,7 +1143,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-032
+    - t-031
 
 - c-040
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1212,7 +1197,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-048
+    - t-046
 
 - c-043
   santrauka: 'Algirdas nubaudė pranciškonų žudynių vadus ir paskelbė vienuoliams laisvę gyventi bei išpažinti tikėjimą.'
@@ -1235,7 +1220,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-049
+    - t-047
     - t-016
 
 - c-044
@@ -1253,10 +1238,10 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-050
+    - t-048
 
 - c-045
-  santrauka: 'Kojelavičius teigia, kad užleidęs valdžią Algirdui, nors į ją turėjęs daugiau teisių, nes nušalinęs Jaunutį, po Algirdo mirties pagarbiai pripa žinęs didžiuoju kunigaikščiu jo sūnų Jogailą, kuris savo dėdei atsimokėjęs klastingu nužudymu.'
+  santrauka: 'Kęstutis užleido valdžią Algirdui, nors pats buvo pašalinęs Jaunutį ir, pasak Kojelavičiaus, turėjo daugiau teisių į valdžią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Visa tai jis aukojęs tėvynės labui. Užleidęs
@@ -1276,10 +1261,10 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-051
+    - t-049
 
 - c-046
-  santrauka: 'Kojelavičius teigia, kad kęstutis siūlė valdžią Algirdui, kaip vyresniajam, Algirdas — Kęstučiui, kuris vienas pats pašalinęs Jaunutį.'
+  santrauka: 'Kęstutis ir Algirdas sutarė, kad Algirdas gaus didžiojo kunigaikščio titulą, o kitą valdžią jie dalysis lygiomis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kęstutis
@@ -1295,10 +1280,10 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-052
+    - t-050
 
 - c-047
-  santrauka: 'Kojelavičius teigia, kad todėl Algirdas įsakė kariuomenei sustoti ir pasirengti kau tynėms.'
+  santrauka: 'Algirdas įsakė kariuomenei sustoti ir pasirengti kautynėms, kai priešo kunigaikščiai rengėsi stoti į mūšį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Didžiulę į tris dalis padalytą kariuomenę vedė
@@ -1311,10 +1296,10 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-053
+    - t-051
 
 - c-048
-  santrauka: 'Kojelavičius teigia, kad algirdas, nors viešai laikėsi stabmeldžių apeigų, ta čiau, neseniai savo žmonos Julijonos, Vitebsko kuni gaikščio dukters, noru sutikęs priimti krikščionybę, ne atmetė rusų apeigų ir rusams Vitebske pastatė porą šventovių.'
+  santrauka: 'Algirdas, žmonos Julijonos prašymu sutikęs priimti krikščionybę, Vitebsko rusams pastatė porą šventovių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat rusai nuo senų senovės įpratę Velykų dieną do­
@@ -1330,10 +1315,10 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-054
+    - t-052
 
 - c-049
-  santrauka: 'Kojelavičius teigia, kad kai mirė brolis, jo įpėdiniu, Algirdo remiamas, tapo NaugarduK o n sta n tin a s K a rijo ta itis, A lg ird o b ro lėn as, k v ie č ia m a s į L e n k ijo s ka ra liu s 23 o ko kunigaikštis Teodoras KaA lg ird a s su tra m d o rijotaitis; kadangi šis, įsigim.'
+  santrauka: 'Algirdas išvarė Teodorą Karijotaitį iš valdų, užėmė Podolės pilis ir paskyrė Goštautą Podolės seniūnu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai mirė
@@ -1373,10 +1358,10 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-055
+    - t-053
 
 - c-050
-  santrauka: 'Kojelavičius teigia, kad kai Algirdas bei Aleksandras Karijotaitis su keliomis žygio voromis padalyta kariuo mene iš karto nuniokojo daugelį Prūsijos vietų ir, su griovę svarbias pilis Tilžę bei Ragainę ir daugybę kitų miestų, išsivarė aštuonis šimtus belaisvių, Prūsijos ma gistras.'
+  santrauka: 'Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kryžiuočiai, vedami Sembos fogto, savo ruož­
@@ -1393,10 +1378,10 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-056
+    - t-054
 
 - c-051
-  santrauka: 'Kojelavičius teigia, kad algirdas, Lietuvos didysis kuni gaikštis, peržengęs Kijevo bei Volynės kunigaikštysčių sienas, pirmas sumušęs svetimšalius ir juos išstūmęs iš šių žemių, po to padalijęs brolio Karijoto sūnums kraš tą; šie čia pastatę Smotričiaus, Bakotos, Kameneco ir kitas.'
+  santrauka: 'Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Algirdas, Lietuvos didysis kuni­
@@ -1415,10 +1400,10 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-057
+    - t-055
 
 - c-052
-  santrauka: 'Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal d a u ją paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais Algirdo proanūkį.'
+  santrauka: 'Simonas Olelkaitis citatoje pristatomas kaip Slucko kunigaikštis ir Algirdo proanūkis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kas be ko, jie visi neišpasakytai trokštą, kad
@@ -1443,4 +1428,245 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-058
+    - t-056
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
+- [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
+- [[objektai/ivykiai/Andriaus ir koalicijos sutriuškinimas]]
+- [[objektai/daiktai/Apgulties mašinos]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/zodynas/Diarchijos sistema]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
+- [[objektai/paprociai/Džiaugsmingas valdovo pasitikimas plojant rankomis ir giedant „Lado! Lado!“]]
+- [[objektai/grupes/Habsburgai]]
+- [[objektai/daiktai/Ietis]]
+- [[objektai/autoriai/Jordanas]]
+- [[objektai/asmenys/Julijona (Algirdo žmona)]]
+- [[objektai/grupes/Karijotaičiai]]
+- [[objektai/paprociai/Karinės gynybos tvarka deginant namus ir slepiant šeimą giriose]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Kijevo kunigaikštystė]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Kęstučio ir Algirdo derybos dėl krikšto|Kęstučio ir Algirdo derybos dėl krikšto (krikštas)]]
+- [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko mokomoji kuopa]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
+- [[objektai/grupes/Lietuvos stačiatikiai]]
+- [[objektai/paprociai/Lietuvos valdovų laidojimas pagoniškais papročiais]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]
+- [[objektai/zodynas/Metropolija ir metropolitas]]
+- [[objektai/daiktai/Monetos]]
+- [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas]]
+- [[objektai/grupes/Mongolai]]
+- [[objektai/grupes/Mongolų imperija]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
+- [[objektai/daiktai/Mūro pilys]]
+- [[objektai/grupes/Naugardo respublika]]
+- [[objektai/ivykiai/Ordino žygis į Vilnių ir Trakus]]
+- [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]
+- [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/ivykiai/Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.)]]
+- [[objektai/ivykiai/Rusios žemių prijungimai prie Lietuvos]]
+- [[objektai/grupes/Rusėnai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Survila]]
+- [[objektai/grupes/Tautų Sąjungos kontrolės komisija]]
+- [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
+- [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Tverės kunigaikštystė]]
+- [[objektai/ivykiai/Valdo Adamkaus tapimas Lietuvos prezidentu (1998 m.)]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose]]
+- [[objektai/posakiai/Visa Rusija turi priklausyti Lietuvai]]
+- [[objektai/paprociai/Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos]]
+- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
+- [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
+- [[objektai/posakiai/`rex` `bazileus`]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/brevė]]
+- [[objektai/posakiai/būsiu tavo žemėje po skaistaus pavasario, po tykios vasaros]]
+- [[objektai/zodynas/diarchija]]
+- [[objektai/zodynas/didvalstybė]]
+- [[objektai/zodynas/domenas]]
+- [[objektai/zodynas/ekspansija]]
+- [[objektai/zodynas/grašis]]
+- [[objektai/zodynas/kondominiumas]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/lietopisis]]
+- [[objektai/zodynas/lietopisis lietopisiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalka]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/misijų teorija]]
+- [[objektai/zodynas/murza]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/partizaniškas karas]]
+- [[objektai/zodynas/rublis]]
+- [[objektai/zodynas/saar]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/supremus dux magnus dux]]
+- [[objektai/zodynas/ulonas]]
+- [[objektai/posakiai/vardan tos Lietuvos]]
+- [[objektai/zodynas/vidaus kolonizacija]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]
+- [[objektai/posakiai/„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“]]
+- [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon`]]
+- [[objektai/posakiai/„nuo jūros iki jūros“]]
+- [[objektai/posakiai/„savaime visa Rusia turi priklausyti lietuviams“]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Graikai]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/asmenys/Karijotas]]
+- [[objektai/ivykiai/Kryžiaus karai]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
+- [[objektai/asmenys/Teodoras]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/grupes/Valachai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/diecezija]]
+- [[objektai/zodynas/duoklė]]
+- [[objektai/zodynas/in partibus infidelium]]
+- [[objektai/zodynas/margutis]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/stabmeldžiai]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Algirdas Brazauskas]]
+- [[objektai/ivykiai/Algirdo mirtis ir Jogailos paskelbimas didžiuoju kunigaikščiu]]
+- [[objektai/paprociai/Algirdo religinio pakantumo norma ir krikščionių vienuolių nevaržymas]]
+- [[objektai/ivykiai/Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės]]
+- [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
+- [[objektai/asmenys/Andrius Algirdaitis]]
+- [[objektai/asmenys/Antanas Valionis]]
+- [[objektai/zodynas/Arkikomtūras]]
+- [[objektai/asmenys/Arvydas Sabonis]]
+- [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
+- [[objektai/posakiai/Aš, Viešpatie, Algirdo nebeatmenu, bet atmenu Didįjį Kunigaikštį Vytautą, Tavo dėdę]]
+- [[objektai/ivykiai/Bazilijonų įsikūrimas Vilniuje Algirdo valdymo pradžioje]]
+- [[objektai/asmenys/Birutė]]
+- [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas]]
+- [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]]
+- [[objektai/asmenys/Dimitras Kaributas]]
+- [[objektai/ivykiai/Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje]]
+- [[objektai/asmenys/Dmitrijus Doniškis]]
+- [[objektai/asmenys/Dmitrijus Ivanovičius]]
+- [[objektai/asmenys/Dmitrijus Kaributas]]
+- [[objektai/grupes/Dominikonų ordinas]]
+- [[objektai/asmenys/Elžbieta]]
+- [[objektai/grupes/Europos Parlamentas]]
+- [[objektai/grupes/Europos Sąjunga]]
+- [[objektai/zodynas/Feodalinė visuomenė lenas vienvaldystė]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/daiktai/Goštauto liepa]]
+- [[objektai/ivykiai/Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/ivykiai/Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.)]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Jonas Lonei]]
+- [[objektai/asmenys/Jonas Paulius II]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]
+- [[objektai/autoriai/Karamzinas]]
+- [[objektai/asmenys/Kazimieras IV]]
+- [[objektai/ivykiai/Kazimiero IV privilegijos Vilniaus miestiečiams suteikimas (1440 m.)]]
+- [[objektai/ivykiai/Kazimiero konfliktas dėl Rusios ir sutartis su lietuvių valdovu|Kazimiero konfliktas dėl Rusios ir sutartis su lietuvių valdovu (sutartis)]]
+- [[objektai/ivykiai/Kazimiero įvykdytas rusų valdų perėmimas iš lietuvių (1366 m.)]]
+- [[objektai/ivykiai/Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)]]
+- [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
+- [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]
+- [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]
+- [[objektai/ivykiai/Lietuvių žygis į Mazoviją ir pralaimėjimas prie Narevo (1336-1337 m.)]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/daiktai/Lietuvos trispalvė]]
+- [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė]]
+- [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.)]]
+- [[objektai/asmenys/Liubartas]]
+- [[objektai/asmenys/Marija (Algirdo žmona)]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/asmenys/Michailas Aleksandrovičius]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis]]
+- [[objektai/grupes/Naugardo, Pskovo, Rygos ir Maskvos pirkliai]]
+- [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]]
+- [[objektai/zodynas/Pataurininkis]]
+- [[objektai/asmenys/Patirgas]]
+- [[objektai/asmenys/Patrikas, arba Patricijus]]
+- [[objektai/asmenys/Petras Goštautas]]
+- [[objektai/paprociai/Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje]]
+- [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas]]
+- [[objektai/ivykiai/Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)]]
+- [[objektai/asmenys/Senda Berenson-Abbot]]
+- [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]
+- [[objektai/zodynas/Stabmeldystė pagoniškas tikėjimas]]
+- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
+- [[objektai/asmenys/Vaclovas]]
+- [[objektai/asmenys/Vaidila]]
+- [[objektai/paprociai/Valstiečių duoklės ir prievolės]]
+- [[objektai/daiktai/Varpai]]
+- [[objektai/asmenys/Vasilijus Čartoriskis]]
+- [[objektai/grupes/Venedai]]
+- [[objektai/ivykiai/Vilniaus apgultis ir miesto padegimas (1377 m.)]]
+- [[objektai/grupes/Vilniaus lietuvių seimas|Vilniaus lietuvių seimas (seimas, XV a.)]]
+- [[objektai/ivykiai/Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.)]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/paprociai/Vilniaus miestiečių tarpregioninė prekyba ir muito laisvė]]
+- [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
+- [[objektai/grupes/Vilniaus prastuomenė]]
+- [[objektai/ivykiai/Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)]]
+- [[objektai/asmenys/Vladislovas Jogaila]]
+- [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę]]
+- [[objektai/daiktai/Vėliavos]]
+- [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
+- [[objektai/zodynas/aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai]]
+- [[objektai/zodynas/baskakas]]
+- [[objektai/zodynas/epas]]
+- [[objektai/zodynas/fogtas]]
+- [[objektai/zodynas/gurguolė]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/lotyniškasis krikštas|lotyniškasis krikštas (krikštas)]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/regula]]
+- [[objektai/posakiai/rex` `bazileus]]
+- [[objektai/zodynas/stabmeldžių apeigos]]
+- [[objektai/zodynas/tėvonija]]
+- [[objektai/posakiai/vardan bendros tėvynės gerovės]]
+- [[objektai/grupes/Šv. Bazilijaus ordinas]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon]]
+- [„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“](/objektai/posakiai/%E2%80%9Epagal%20Tavo%20palaiminim%C4%85%20jy%20%5Bpromaskvieti%C5%A1kas%5D%20metropolitas%20juos%20%5Bmaskv%C3%A9nus%5D%20laimina%20kraujo%20praliejimui%20iki%20%C5%A1iol%E2%80%9C)
+- [[objektai/zodynas/kapitula]]
+- [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]
+- [[objektai/paprociai/Krikščionių tikėjimo skelbimas viešose ir uždarose vietose]]
+- [[objektai/paprociai/Religijų laisvas išpažinimas ir krikščioniškų apeigų atlikimas Algirdo Vilniuje]]
+- [[objektai/zodynas/viečė]]
+- [[objektai/zodynas/žygio vora]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]

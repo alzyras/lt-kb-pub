@@ -16,7 +16,9 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
 
 ## Teiginiai
 
+<a id="claim-t-31364"></a>
 - t-001
+  global_id: t-31364
   teiginys: 'Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš Skandinavijos kariautojams-pirkliams, — lietuviai rytų link išvystė prekybinius santykius.'
   pagrindžia:
     - c-001

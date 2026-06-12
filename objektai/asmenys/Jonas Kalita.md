@@ -26,12 +26,16 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
 
 ## Teiginiai
 
+<a id="claim-t-30308"></a>
 - t-001
+  global_id: t-30308
   teiginys: 'Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-30309"></a>
 - t-002
+  global_id: t-30309
   teiginys: 'Totorių palaikomas Jonas Kalita savo valdžion taip pat užiminėjo rusų žemes.'
   pagrindžia:
     - c-001

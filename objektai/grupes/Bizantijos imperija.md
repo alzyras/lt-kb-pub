@@ -18,12 +18,16 @@ Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosi
 
 ## Teiginiai
 
+<a id="claim-t-01289"></a>
 - t-001
+  global_id: t-01289
   teiginys: 'Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosius prekybos centrus ir buvo turtingiausia.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01290"></a>
 - t-002
+  global_id: t-01290
   teiginys: 'Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas.'
   pagrindžia:
     - c-001

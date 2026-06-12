@@ -25,12 +25,16 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
 
 ## Teiginiai
 
+<a id="claim-t-97718"></a>
 - t-001
+  global_id: t-97718
   teiginys: 'Sembos žemėje, Aistmarių pakrantėje, stovėjo pilis beveik priešais Brandenburgo pilį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-97721"></a>
 - t-002
+  global_id: t-97721
   teiginys: 'Per Prūsus, Lietuvai paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki Aistmarių.'
   pagrindžia:
     - c-001

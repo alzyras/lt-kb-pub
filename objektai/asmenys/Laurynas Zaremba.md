@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Laurynas Zaremba
 
 ## Santrauka
 
-Kojelavičius teigia, kad daugelis lietuvių didikų, Lauryno Zarembos slapta sukurstytų, irgi lengvai su tiko paremti karalių ir prisidėti prie Žygimanto šali ninkų. Kojelavičius teigia, kad kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino, Lauryną Zarembą ir kitus.
+Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir prisidėti prie Žygimanto šalininkų. Senatas pasiuntė Lauryną Zarembą į Lietuvą su pasiuntinybe, įgaliota kelti Žygimantą Lietuvos didžiuoju kunigaikščiu.
 
 ## Teiginiai
 
+<a id="claim-t-186138"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad daugelis lietuvių didikų, Lauryno Zarembos slapta sukurstytų, irgi lengvai su tiko paremti karalių ir prisidėti prie Žygimanto šali ninkų.'
+  global_id: t-186138
+  teiginys: 'Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir prisidėti prie Žygimanto šalininkų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186139"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino, Lauryną Zarembą ir kitus.'
+  global_id: t-186139
+  teiginys: 'Senatas pasiuntė Lauryną Zarembą į Lietuvą su pasiuntinybe, įgaliota kelti Žygimantą Lietuvos didžiuoju kunigaikščiu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad daugelis lietuvių didikų, Lauryno Zarembos slapta sukurstytų, irgi lengvai su tiko paremti karalių ir prisidėti prie Žygimanto šali ninkų.'
+  santrauka: 'Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir prisidėti prie Žygimanto šalininkų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žygimantas ir anksčiau jautė priešiš­
@@ -61,7 +64,7 @@ Kojelavičius teigia, kad daugelis lietuvių didikų, Lauryno Zarembos slapta su
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino, Lauryną Zarembą ir kitus.'
+  santrauka: 'Senatas pasiuntė Lauryną Zarembą į Lietuvą su pasiuntinybe, įgaliota kelti Žygimantą Lietuvos didžiuoju kunigaikščiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atidėlioti šį
@@ -86,3 +89,20 @@ Kojelavičius teigia, kad daugelis lietuvių didikų, Lauryno Zarembos slapta su
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Boleslovas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/senatas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/grupes/Lenkijos senatas]]
+- [[objektai/grupes/Lenkų senatas]]

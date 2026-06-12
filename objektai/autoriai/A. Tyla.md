@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-30546"></a>
 - t-001
+  global_id: t-30546
   teiginys: 'A. Tyla svarstė 1905 m. revoliucijos klausimus ir teikė pastabų dėl lietuviškos knygos istorijos.'
   pagrindžia:
     - c-001

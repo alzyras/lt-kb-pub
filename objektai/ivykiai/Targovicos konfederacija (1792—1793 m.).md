@@ -44,22 +44,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66928"></a>
 - t-001
+  global_id: t-66928
   teiginys: 'Targovicos konfederacija lietė tik Lenkiją, o Vilniuje buvo suorganizuota prie jos prisidėjusi Lietuvos konfederacija.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66929"></a>
 - t-002
+  global_id: t-66929
   teiginys: 'Jakaterina II pasinaudojusi tuo, kad Lenkijoje ir Lietuvoje buvo nemažai valstybės reformų priešininkų, ėmė juos globoti, o netrukus su Rusijos pagalba suorganizuota reformoms priešiška Targovicos konfederacija, reikalavusi atšaukti visus Ketverių metų seimo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66930"></a>
 - t-003
-  teiginys: 'Opozicionieriai, atvykę į Targovicos miestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos aktą.'
+  global_id: t-66930
+  teiginys: 'Targovicos miestelyje Ukrainoje reformų priešininkai paskelbė konfederacijos aktą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66931"></a>
 - t-004
+  global_id: t-66931
   teiginys: 'Rusija suorganizavo reformų priešininkų Targovicos konfederaciją ir parėmė ją savo kariuomene.'
   pagrindžia:
     - c-002
@@ -120,6 +128,7 @@ Nenurodyta
     - t-001
 
 - c-004
+  santrauka: 'Targovicos miestelyje Ukrainoje reformų priešininkai paskelbė konfederacijos aktą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuojau visi didieji reformų priešininkai

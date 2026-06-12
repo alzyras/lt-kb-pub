@@ -28,47 +28,65 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
 
 ## Teiginiai
 
+<a id="claim-t-12183"></a>
 - t-001
+  global_id: t-12183
   teiginys: 'Julijona, Algirdo žmona, viešpatavo Vitebske ir mirė 1392 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176506"></a>
 - t-002
+  global_id: t-176506
   teiginys: 'Julijona paminėta Žemaičių dovanojimo dokumente kartu su kunigaikščio taryba.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-176507"></a>
 - t-003
-  teiginys: 'Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos — pastangomis.'
+  global_id: t-176507
+  teiginys: 'Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-176509"></a>
 - t-004
+  global_id: t-176509
   teiginys: 'Remiantis Torno analų žinia, Julijonos įtaka aiškinamas Jogailos atsisakymas judėti pas magistrą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-176510"></a>
 - t-005
+  global_id: t-176510
   teiginys: 'Julijona, Vitebsko kunigaikštytė, buvo antroji Algirdo žmona ir Polocko kunigaikščio Andriaus motina.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-176511"></a>
 - t-006
+  global_id: t-176511
   teiginys: 'Julijoną su Rytų Bažnyčia siejo praeitis, tradicijos, tautybė ir jos giminės stačiatikių šventieji.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176512"></a>
 - t-007
+  global_id: t-176512
   teiginys: 'Ivinskio veikale Julijona tiesiogiai pristatoma kaip Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-176513"></a>
 - t-008
+  global_id: t-176513
   teiginys: 'Norėdamas turėti sąjungininką prieš Maskvą, Algirdas vedė Tverės kunigaikščio seserį Julijoną.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-176514"></a>
 - t-009
+  global_id: t-176514
   teiginys: 'Algirdas buvo vedęs Vitebsko kunigaikštytę Julijoną.'
   pagrindžia:
     - c-003
@@ -216,6 +234,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - t-008
 
 - c-009
+  santrauka: 'Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu Jo-

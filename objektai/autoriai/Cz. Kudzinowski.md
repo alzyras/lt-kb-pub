@@ -24,12 +24,16 @@ Kudzinowski, Cz.
 
 ## Teiginiai
 
+<a id="claim-t-97149"></a>
 - t-001
+  global_id: t-97149
   teiginys: 'Cz. Kudzinowski 1964 m. paskelbė darbą „Jaćwingowie w języku“ leidinyje ABaSl.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97150"></a>
 - t-002
+  global_id: t-97150
   teiginys: 'Cz. Kudzinowski parašė straipsnį „Jaćwingome w języku“, paskelbtą ABaSl I tome 1964 m.'
   pagrindžia:
     - c-001

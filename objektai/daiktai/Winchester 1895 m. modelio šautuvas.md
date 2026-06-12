@@ -48,12 +48,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40798"></a>
 - t-001
+  global_id: t-40798
   teiginys: '1919 m. pafrontėje pozicijas žvalgęs Lietuvos karininkas laikė amerikietišką 1895 m. modelio Winchester šautuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40799"></a>
 - t-002
+  global_id: t-40799
   teiginys: '1895 m. modelio Winchester šautuvas buvo gamintas JAV pagal Rusijos kariuomenės užsakymą ir naudojo 7,62x54 mm R šovinį.'
   pagrindžia:
     - c-002

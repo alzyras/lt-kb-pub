@@ -43,27 +43,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-55041"></a>
 - t-001
+  global_id: t-55041
   teiginys: 'Paleckio privilegija steigti stiklo liejyklą buvo duota 1547 m. gegužės 22 d. ir turėjo prikabintą Lietuvos Didžiosios Kunigaikštystės antspaudą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55042"></a>
 - t-002
+  global_id: t-55042
   teiginys: 'Paleckiui ir jo palikuonims suteikta teisė supirkti į Vilnių iš Lenkijos vežamą stiklą, išskyrus Venecijos stiklą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55043"></a>
 - t-003
+  global_id: t-55043
   teiginys: 'Privilegijoje nustatytos didelių ir mažų Kurovo stiklinių kainos ir nurodyta langų stiklą pardavinėti žmonių neapsunkinant.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55044"></a>
 - t-004
+  global_id: t-55044
   teiginys: 'Už žemės dovanojimą Paleckiui įsakyta kasmet pristatyti į karališkuosius Vilniaus rūmus po 200 didžiųjų Kurovo stiklinių ir po 200 mažesniųjų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-81855"></a>
 - t-005
+  global_id: t-81855
   teiginys: 'Martynas Paleckis Vilniuje gavo žemės sklypą, leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą.'
   pagrindžia:
     - c-003

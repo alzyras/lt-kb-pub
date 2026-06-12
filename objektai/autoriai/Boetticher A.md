@@ -27,7 +27,9 @@ Dusburgietis teigia, kad paėmę pilį, kryžiuočiai čia įsitvirtino, pastat�
 
 ## Teiginiai
 
+<a id="claim-t-64570"></a>
 - t-001
+  global_id: t-64570
   teiginys: 'Dusburgietis teigia, kad paėmę pilį, kryžiuočiai čia įsitvirtino, pastatė mūrinę pilį, o šalia jos rytų pusėje — didelį papilį (Тоерреn M., HCCP, p. 203; Boetticher A., Die Bau.., 2, p. 17—18).'
   pagrindžia:
     - c-001

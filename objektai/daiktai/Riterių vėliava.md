@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-179491"></a>
 - t-001
+  global_id: t-179491
   teiginys: 'Vėliavos netekimas laikytas didele nelaime.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-179493"></a>
 - t-002
+  global_id: t-179493
   teiginys: 'Aizkrauklės mūšyje pagonims atiteko riterių vėliava.'
   pagrindžia:
     - c-001

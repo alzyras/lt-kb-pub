@@ -19,7 +19,9 @@ Ta pačia proga Jogaila, savarankiškai be Jadvygos ir lenkų didikų žinios, i
 
 ## Teiginiai
 
+<a id="claim-t-35996"></a>
 - t-001
+  global_id: t-35996
   teiginys: 'Jogailos dokumente žodžiai „deržati mi jeho vyše vseje našeje bratije“ reiškė nurodymą Skirgailą laikyti aukščiau visų brolių.'
   pagrindžia:
     - c-001

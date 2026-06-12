@@ -26,37 +26,51 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
 
 ## Teiginiai
 
+<a id="claim-t-102933"></a>
 - t-001
+  global_id: t-102933
   teiginys: 'Balińskis iš Dusburgo pasakojimo sprendė, kad Castrum Gedemini jau egzistavo 1304 metais, o Vilniaus pilis pastatyta tik 1322 metais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-102934"></a>
 - t-002
+  global_id: t-102934
   teiginys: 'Iš Dusburgo žinių daroma išvada, kad Gedimino pilis buvo Lietuvos ar Žemaitijos pasienyje ir galėjo stovėti prie Nemuno.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-102935"></a>
 - t-003
+  global_id: t-102935
   teiginys: 'Kita užuomina Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] yra prie 1317 m. (1.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-102936"></a>
 - t-004
+  global_id: t-102936
   teiginys: 'Dusburgo kronikoje pažymėta, kad kopūstai prūsams buvę nežinomi, o juos valgiusius ordino brolius prūsai lyginę su arkliais ir mulais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-102937"></a>
 - t-005
+  global_id: t-102937
   teiginys: 'Dusburgo kronika prie 1317 m. mini, kad Ragainės komtūras Fridrichas de Libencelė apgulė Gedimino pilį, bet jos neužėmė.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-102938"></a>
 - t-006
+  global_id: t-102938
   teiginys: 'Michałas Balińskis atmetė Hartknocho nuomonę, kad Dusburgo minima Castrum Gedemini buvo Vilnius.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-102939"></a>
 - t-007
+  global_id: t-102939
   teiginys: 'Dusburgo teigimu, Gedimino pasiuntinys Rygoje pareiškė, kad valdovas nesiuntė laiškų dėl savo ar valdinių krikšto.'
   pagrindžia:
     - c-002

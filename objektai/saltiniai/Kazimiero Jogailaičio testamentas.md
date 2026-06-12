@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kazimiero Jogailaičio testamentas
 
 ## Santrauka
 
-Kojelavičius teigia, kad sudaręs testamentą, visus pinigus, po ranka turimus, padalijęs tarp čia pat esančių sūnų, kreipėsi į lenkų didikus, prašydamas, kad, jam mirus, paskirtų sosto įpėdiniu Joną, o po to, beveik ašarodamas, tarė trumpą kalbą lietuviams, reikalaudamas, kad Aleksand.
+Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir prašė lietuvių paskelbti Aleksandrą Lietuvos valdovu.
 
 ## Teiginiai
 
+<a id="claim-t-186334"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad sudaręs testamentą, visus pinigus, po ranka turimus, padalijęs tarp čia pat esančių sūnų, kreipėsi į lenkų didikus, prašydamas, kad, jam mirus, paskirtų sosto įpėdiniu Joną, o po to, beveik ašarodamas, tarė trumpą kalbą lietuviams, reikalaudamas, kad Aleksand.'
+  global_id: t-186334
+  teiginys: 'Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir prašė lietuvių paskelbti Aleksandrą Lietuvos valdovu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad sudaręs testamentą, visus pinigus, po ranka turimus, padalijęs tarp čia pat esančių sūnų, kreipėsi į lenkų didikus, prašydamas, kad, jam mirus, paskirtų sosto įpėdiniu Joną, o po to, beveik ašarodamas, tarė trumpą kalbą lietuviams, reikalaudamas, kad Aleksand.'
+  santrauka: 'Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir prašė lietuvių paskelbti Aleksandrą Lietuvos valdovu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vaistais mažino

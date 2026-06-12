@@ -16,7 +16,9 @@ Dusburgietis teigia, kad wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.
 
 ## Teiginiai
 
+<a id="claim-t-58744"></a>
 - t-001
+  global_id: t-58744
   teiginys: 'Dusburgietis teigia, kad wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.'
   pagrindžia:
     - c-001

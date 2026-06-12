@@ -27,32 +27,44 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 
 ## Teiginiai
 
+<a id="claim-t-119671"></a>
 - t-001
+  global_id: t-119671
   teiginys: 'Tarp Verkių ir Šeškinės kalno įsiplieskė mūšis, kuriame kryžiuočiai neleido lietuvių-lenkų kariuomenei ilgai priešintis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-119672"></a>
 - t-002
+  global_id: t-119672
   teiginys: 'Valdovo draudimas neleido naudoti plaustų per Nerį tarp Verkių kaimo ir Panerių kaimo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-119673"></a>
 - t-003
+  global_id: t-119673
   teiginys: 'Tarp Verkių ir Šeškinės kalno įsiplieskė įnirtingas mūšis su kryžiuočiais.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-119674"></a>
 - t-004
+  global_id: t-119674
   teiginys: '1387 m. vasario 17 d. Jogaila Vilniaus katedrai ir vyskupijai užrašė Verkus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-119675"></a>
 - t-005
+  global_id: t-119675
   teiginys: 'Verkių kaimai prie Vilniaus buvo įtraukti į valdas, kuriomis iškilmingu dovanojimo aktu aprūpinta Vilniaus katedra.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-119676"></a>
 - t-006
+  global_id: t-119676
   teiginys: 'Per Viliją tarp Verkių ir Panerių buvo uždrausta naudoti plaustus perkėlimui.'
   pagrindžia:
     - c-002

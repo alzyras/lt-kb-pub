@@ -16,7 +16,9 @@ Reikala.
 
 ## Teiginiai
 
+<a id="claim-t-39745"></a>
 - t-001
+  global_id: t-39745
   teiginys: 'J. Reikala perėmė vadovavimą kolonai, kurią parėmė rezervas.'
   pagrindžia:
     - c-001

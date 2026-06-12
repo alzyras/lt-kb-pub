@@ -25,7 +25,9 @@ Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įt
 
 ## Teiginiai
 
+<a id="claim-t-169901"></a>
 - t-001
+  global_id: t-169901
   teiginys: 'Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.'
   pagrindžia:
     - c-001

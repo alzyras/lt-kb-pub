@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-09821"></a>
 - t-001
+  global_id: t-09821
   teiginys: 'Po Bezdežo mūšio Oginskio pajėgos buvo sumuštos prie Stalovičių, o Baro konfederacija nepasiekė savo tikslų.'
   pagrindžia:
     - c-001

@@ -19,17 +19,23 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86438"></a>
 - t-001
+  global_id: t-86438
   teiginys: 'Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės pakėlė miestiečių luomo visuomeninę padėtį virš nelaisvų kaimo žmonių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86439"></a>
 - t-002
+  global_id: t-86439
   teiginys: 'Miestiečių luomas buvo paaukštintas dviejų paskutiniųjų Jogailaičių ir stipriai palaikomas karaliaus Stepono.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86440"></a>
 - t-003
+  global_id: t-86440
   teiginys: 'Didesniąją Vilniaus miestiečių dalį sudarė graikų apeigų tikėjimą išpažinę rusinai.'
   pagrindžia:
     - c-002

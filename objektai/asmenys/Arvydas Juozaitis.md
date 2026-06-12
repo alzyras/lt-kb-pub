@@ -25,7 +25,9 @@ Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos gru
 
 ## Teiginiai
 
+<a id="claim-t-26433"></a>
 - t-001
+  global_id: t-26433
   teiginys: 'Arvydas Juozaitis Roko maršų koncertuose-mitinguose sakė patriotines kalbas.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­ traciją ir ek
 
 ## Teiginiai
 
+<a id="claim-t-32414"></a>
 - t-001
+  global_id: t-32414
   teiginys: 'Vokiečių ordino valstybės valdos tęsėsi nuo Neumarko iki Narvos, išskyrus Žemaičių kylį.'
   pagrindžia:
     - c-001

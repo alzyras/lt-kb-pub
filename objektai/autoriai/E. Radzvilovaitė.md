@@ -24,12 +24,16 @@ Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a. Radzvi
 
 ## Teiginiai
 
+<a id="claim-t-30596"></a>
 - t-001
+  global_id: t-30596
   teiginys: 'Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-30597"></a>
 - t-002
+  global_id: t-30597
   teiginys: 'E. Radzvilovaitė paskelbė darbą „Lietuvių genčių skydai II–VIII amžiais“.'
   pagrindžia:
     - c-002

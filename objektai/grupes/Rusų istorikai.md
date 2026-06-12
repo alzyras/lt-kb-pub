@@ -17,7 +17,9 @@ Daškevič : Političeskije zamyśli Vitovta, Kiivskije UniversitetsLIETUVOS IST
 
 ## Teiginiai
 
+<a id="claim-t-31346"></a>
 - t-001
+  global_id: t-31346
   teiginys: 'Rusų istorikai Lietuvą vadino „Litovsko-russkoje gosudarstvo“ („Lietuvių ir rusų valstybe“).'
   pagrindžia:
     - c-001

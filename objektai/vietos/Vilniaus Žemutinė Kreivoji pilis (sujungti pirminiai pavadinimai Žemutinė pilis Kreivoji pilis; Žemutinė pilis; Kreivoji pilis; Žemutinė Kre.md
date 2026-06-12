@@ -19,27 +19,37 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 
 ## Teiginiai
 
+<a id="claim-t-85901"></a>
 - t-001
+  global_id: t-85901
   teiginys: 'Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85902"></a>
 - t-002
+  global_id: t-85902
   teiginys: 'Per svetimšalių puolimą Žemutinėje pilyje keliose vietose įsiplieskė ugnis ir apėmė medinius statinius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85903"></a>
 - t-003
+  global_id: t-85903
   teiginys: 'Žemutinė, arba Kreivoji pilis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-85904"></a>
 - t-004
+  global_id: t-85904
   teiginys: 'Iš Žemutinės pilies vakarinių vartų kelias vedė per du tiltus, nutiestus per Vilnią ir Vingrių upokšnį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85905"></a>
 - t-005
+  global_id: t-85905
   teiginys: 'Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja.'
   pagrindžia:
     - c-005

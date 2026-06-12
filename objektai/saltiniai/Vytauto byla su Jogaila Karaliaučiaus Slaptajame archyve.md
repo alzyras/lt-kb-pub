@@ -19,12 +19,16 @@ Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč. Ta
 
 ## Teiginiai
 
+<a id="claim-t-88355"></a>
 - t-001
+  global_id: t-88355
   teiginys: 'Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88356"></a>
 - t-002
+  global_id: t-88356
   teiginys: 'Vytauto byloje su Jogaila Hanulas tapatinamas su Hanka, paminėtu autentiškame Vladislovo Jogailos laiške.'
   pagrindžia:
     - c-002

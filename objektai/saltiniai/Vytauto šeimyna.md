@@ -23,7 +23,9 @@ Plataus dėmesio susilaukė jo studija « Vytauto šeimyna » (atsp. iš Praeiti
 
 ## Teiginiai
 
+<a id="claim-t-31978"></a>
 - t-001
+  global_id: t-31978
   teiginys: 'Studija „Vytauto šeimyna“ sulaukė plataus dėmesio ir buvo atspausta iš 1933 m. „Praeities“ 2 tomo.'
   pagrindžia:
     - c-001

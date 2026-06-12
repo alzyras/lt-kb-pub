@@ -28,7 +28,9 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
 
 ## Teiginiai
 
+<a id="claim-t-181515"></a>
 - t-001
+  global_id: t-181515
   teiginys: 'Tuo metu Rytų Lietuvą kontroliavo bolševikai.'
   pagrindžia:
     - c-001

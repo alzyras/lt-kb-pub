@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Kolainių apgultis ir pilies sunaikinimas (1290 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad pirmiausia ėmėsi kariauti Meinhardas, Prūsijos magistras, apie balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos Nemuno pakrantėje esančią Lietuvos pilį. Kojelavičius teigia, kad vėliau, sužinoję, jog apsiriko, sugrįžo prie pilies, bet Surminas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus; priešas, už ėmęs tuščią pilį ir sugriovęs gynybinius įrenginius, ne drįso toliau veržtis.
+Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos. Surminas pasinaudojo kryžiuočių atsitraukimu, išvedė Kolainių įgulą ir išgabeno vertybes, o priešas užėmė tuščią pilį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185714"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pirmiausia ėmėsi kariauti Meinhardas, Prūsijos magistras, apie balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos Nemuno pakrantėje esančią Lietuvos pilį.'
+  global_id: t-185714
+  teiginys: 'Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185715"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad vėliau, sužinoję, jog apsiriko, sugrįžo prie pilies, bet Surminas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus; priešas, už ėmęs tuščią pilį ir sugriovęs gynybinius įrenginius, ne drįso toliau veržtis.'
+  global_id: t-185715
+  teiginys: 'Surminas pasinaudojo kryžiuočių atsitraukimu, išvedė Kolainių įgulą ir išgabeno vertybes, o priešas užėmė tuščią pilį.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pirmiausia ėmėsi kariauti Meinhardas, Prūsijos magistras, apie balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos Nemuno pakrantėje esančią Lietuvos pilį.'
+  santrauka: 'Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pirmiausia
@@ -74,7 +77,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad vėliau, sužinoję, jog apsiriko, sugrįžo prie pilies, bet Surminas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus; priešas, už ėmęs tuščią pilį ir sugriovęs gynybinius įrenginius, ne drįso toliau veržtis.'
+  santrauka: 'Surminas pasinaudojo kryžiuočių atsitraukimu, išvedė Kolainių įgulą ir išgabeno vertybes, o priešas užėmė tuščią pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pėstininkai, kurie tuo metu iš paskutiniųjų rengėsi
@@ -107,3 +110,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/asmenys/Surminas]]
+- [[objektai/zodynas/magistras]]

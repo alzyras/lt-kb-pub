@@ -25,7 +25,9 @@ Ammann: Abriß der ost­ slawischen Kirchengeschichte, Wien 1950, 165p. (eit. Am
 
 ## Teiginiai
 
+<a id="claim-t-30523"></a>
 - t-001
+  global_id: t-30523
   teiginys: 'A. M. Ammann yra 1947 m. Romoje išleisto veikalo „Storia della Chiesa Russa“ autorius.'
   pagrindžia:
     - c-001

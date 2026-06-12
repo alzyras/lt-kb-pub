@@ -26,12 +26,16 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
 
 ## Teiginiai
 
+<a id="claim-t-76028"></a>
 - t-001
+  global_id: t-76028
   teiginys: 'Victor David Brenner, Šiaulių kilmės skulptorius, buvo JAV vieno cento autorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-76029"></a>
 - t-002
+  global_id: t-76029
   teiginys: 'O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pagalvoji, kiek dar tokių vardų slepia Lietuva?'
   pagrindžia:
     - c-001

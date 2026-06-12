@@ -17,7 +17,9 @@ Zabiela, liepos 16 d. išžygiavęs į Lietuvos Brastą iš stovyklos prie Biels
 
 ## Teiginiai
 
+<a id="claim-t-41623"></a>
 - t-001
+  global_id: t-41623
   teiginys: 'Liepos 16 d. S. Zabiela iš stovyklos prie Bielsko išžygiavo į Lietuvos Brastą su keturiais pėstininkų pulkais.'
   pagrindžia:
     - c-001

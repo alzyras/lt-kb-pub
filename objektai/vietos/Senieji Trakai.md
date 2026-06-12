@@ -54,17 +54,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-71966"></a>
 - t-001
+  global_id: t-71966
   teiginys: 'Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71967"></a>
 - t-002
+  global_id: t-71967
   teiginys: 'Vytautas įkurdino benediktinus Senuosiuose Trakuose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71969"></a>
 - t-004
+  global_id: t-71969
   teiginys: 'Trakai- [10] Rugpjūčio 26 d.'
   pagrindžia:
     - c-002

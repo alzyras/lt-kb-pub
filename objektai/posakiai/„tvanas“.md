@@ -26,12 +26,16 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 
 ## Teiginiai
 
+<a id="claim-t-20954"></a>
 - t-001
+  global_id: t-20954
   teiginys: '„Tvanu“ vadinama 1654–1667 m. Rusijos ir Švedijos invazija, ištikusi Lietuvą ir Lenkiją valdant Vazų dinastijai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183512"></a>
 - t-002
+  global_id: t-183512
   teiginys: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
   pagrindžia:
     - c-001

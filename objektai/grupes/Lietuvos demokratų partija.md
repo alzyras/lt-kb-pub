@@ -24,17 +24,23 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
 
 ## Teiginiai
 
+<a id="claim-t-74646"></a>
 - t-001
+  global_id: t-74646
   teiginys: 'Lietuvos demokratų partija leido nelegalią spaudą, bendradarbiavo su socialdemokratais ir per masonų ložes tarėsi dėl valstybingumo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74647"></a>
 - t-002
+  global_id: t-74647
   teiginys: 'Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74648"></a>
 - t-003
+  global_id: t-74648
   teiginys: 'Lietuvos demokratų programinis idealas – nepriklausoma demokratinė Lietuvos Respublika lietuvių istorinių etnografinių žemių ribose, „su teisingu turto paskirstymu“ ir federacijos ryšiais susijusi su gretimomis demokratinėmis valstybėmis.'
   pagrindžia:
     - c-003

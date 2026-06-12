@@ -14,24 +14,25 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Ditrichas fon Altenburgas
 
 ## Santrauka
 
-Kojelavičius teigia, kad kiti metai m o zū rų praėjo ramiai, vėliau, sekan čiųjų metų pradžioje, Livo nijos magistras, pakartojęs antpuolį, nusiaubė Žemai tiją, o Ditrichas fon Altenburgas, Prūsijos magistras, su vokiečių kariuomene, ku- 1339 m e ta i rią buvo atsivedęs Reino.
+1339 m. Prūsijos magistras Ditrichas fon Altenburgas su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną.
 
 ## Teiginiai
 
+<a id="claim-t-186107"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kiti metai m o zū rų praėjo ramiai, vėliau, sekan čiųjų metų pradžioje, Livo nijos magistras, pakartojęs antpuolį, nusiaubė Žemai tiją, o Ditrichas fon Altenburgas, Prūsijos magistras, su vokiečių kariuomene, ku- 1339 m e ta i rią buvo atsivedęs Reino.'
+  global_id: t-186107
+  teiginys: '1339 m. Prūsijos magistras Ditrichas fon Altenburgas su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kiti metai m o zū rų praėjo ramiai, vėliau, sekan čiųjų metų pradžioje, Livo nijos magistras, pakartojęs antpuolį, nusiaubė Žemai tiją, o Ditrichas fon Altenburgas, Prūsijos magistras, su vokiečių kariuomene, ku- 1339 m e ta i rią buvo atsivedęs Reino.'
+  santrauka: '1339 m. Prūsijos magistras Ditrichas fon Altenburgas su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Paspruko, ryžęsi plaukti,
@@ -61,3 +62,8 @@ Kojelavičius teigia, kad kiti metai m o zū rų praėjo ramiai, vėliau, sekan 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/magistras]]

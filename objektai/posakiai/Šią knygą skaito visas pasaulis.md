@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-36024"></a>
 - t-001
+  global_id: t-36024
   teiginys: 'Posakis „Šią knygą skaito visas pasaulis“ vartotas reklamuojant knygą, kurios vertimų buvo išpirkta daugiau kaip milijonas egzempliorių.'
   pagrindžia:
     - c-001

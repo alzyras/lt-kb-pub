@@ -29,57 +29,79 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 
 ## Teiginiai
 
+<a id="claim-t-93427"></a>
 - t-001
+  global_id: t-93427
   teiginys: 'Kristijonui pasisekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215 m. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-93428"></a>
 - t-002
+  global_id: t-93428
   teiginys: 'Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau suprato, kad ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-93429"></a>
 - t-003
+  global_id: t-93429
   teiginys: 'Nuo 1216 m. Kristijonas, gavęs „Prūsų vyskupo“ titulą, kaip cistersų vienuolis taikiu būdu bandė krikštyti prūsus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-93430"></a>
 - t-004
+  global_id: t-93430
   teiginys: 'Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač imperatoriumi.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-93431"></a>
 - t-005
+  global_id: t-93431
   teiginys: 'Pirmasis misijonierius, kuriam Prūsuose ėmė sektis, buvo iš gretimosios Pamarės, Olivos cistersų ordino vienuolis Kristijonas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-93432"></a>
 - t-006
+  global_id: t-93432
   teiginys: '1230 m. pirmasis prūsų vyskupas misionorius Kristijonas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė Kryžiuočių ordiną.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-93433"></a>
 - t-007
+  global_id: t-93433
   teiginys: 'Mindaugo diecezijos vyskupas Kristijonas 1259 m. galutinai pasitraukė į Vokietiją, o jo įpėdiniai į lietuvių žemę nebegrįžo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-93434"></a>
 - t-008
-  teiginys: 'Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, kuriam turėjo ir priklausyti.'
+  global_id: t-93434
+  teiginys: 'Ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui ir turėjo jam priklausyti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-93435"></a>
 - t-009
+  global_id: t-93435
   teiginys: 'Netrukus vyskupas Kristijonas pateko prūsams į nelaisvę, iš kurios ordinas nesirūpino jo išvaduoti net 5 metus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-93436"></a>
 - t-010
+  global_id: t-93436
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-93437"></a>
 - t-011
+  global_id: t-93437
   teiginys: 'Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei Dobrynės brolių pastangos, tačiau prūsai.'
   pagrindžia:
     - c-011
@@ -119,6 +141,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - t-003
 
 - c-003
+  santrauka: 'Ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui ir turėjo jam priklausyti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Krašto valdovais, be ordino, dar buvo vyskupai. Pats

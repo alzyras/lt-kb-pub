@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-95978"></a>
 - t-001
+  global_id: t-95978
   teiginys: 'Skirgaila Trakų piliai ginti iš vokiečių kariuomenės maršalkos dovanų gavo keletą didelių armotų.'
   pagrindžia:
     - c-001

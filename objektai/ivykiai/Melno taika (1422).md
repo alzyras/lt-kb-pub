@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-100040"></a>
 - t-001
+  global_id: t-100040
   teiginys: 'Paskutiniai bandymai Lietuvai iškovoti naudingas vakarines sienas ir Melno taika (1422)..................................'
   pagrindžia:
     - c-001

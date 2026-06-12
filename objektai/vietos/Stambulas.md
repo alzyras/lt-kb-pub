@@ -17,7 +17,9 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
 
 ## Teiginiai
 
+<a id="claim-t-21818"></a>
 - t-001
+  global_id: t-21818
   teiginys: 'XVIII–XIX a. sandūros Stambulas minimas tarp svarbiausių žydų pasaulinių kultūros centrų.'
   pagrindžia:
     - c-001

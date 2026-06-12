@@ -16,7 +16,9 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
 
 ## Teiginiai
 
+<a id="claim-t-35214"></a>
 - t-001
+  global_id: t-35214
   teiginys: 'Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.'
   pagrindžia:
     - c-001

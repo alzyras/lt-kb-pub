@@ -19,17 +19,23 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-67405"></a>
 - t-001
+  global_id: t-67405
   teiginys: 'Klaipėdos krašto klausimas buvo iškeltas ir Hymanso projekto svarstymuose, kurių metu paaiškėjo, kad krašto prijungimas prie Lietuvos galėjo būti viena iš to projekto priėmimo perspektyvų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67406"></a>
 - t-002
+  global_id: t-67406
   teiginys: 'Hymansas rugsėjo 3 d. pateikė patį susitarimo projektą, o ne diskusijų bazę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67407"></a>
 - t-003
+  global_id: t-67407
   teiginys: '1922 metų rudenį, Hymanso projektui žuvus, didžiosios valstybės sudarė komisiją būsimam Klaipėdos krašto statutui svarstyti.'
   pagrindžia:
     - c-002

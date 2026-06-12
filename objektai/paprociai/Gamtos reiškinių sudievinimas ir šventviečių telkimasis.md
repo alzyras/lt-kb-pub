@@ -36,12 +36,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54232"></a>
 - t-001
+  global_id: t-54232
   teiginys: 'Gamtos sudievinimo sampratoje senieji lietuviai šventybės raišką matė danguje, žemėje, ugnyje ir vandenyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183310"></a>
 - t-003
+  global_id: t-183310
   teiginys: 'Toks gamtos reiškinių, ypač žemės, sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu koncentravosi šventvietėse.'
   pagrindžia:
     - c-002

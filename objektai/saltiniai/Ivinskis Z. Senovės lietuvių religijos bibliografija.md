@@ -22,7 +22,9 @@ Dusburgietis teigia, kad ivinskis Z.
 
 ## Teiginiai
 
+<a id="claim-t-61084"></a>
 - t-001
+  global_id: t-61084
   teiginys: 'Z. Ivinskio „Senovės lietuvių religijos bibliografija“ išleista Kaune 1938 m.'
   pagrindžia:
     - c-001

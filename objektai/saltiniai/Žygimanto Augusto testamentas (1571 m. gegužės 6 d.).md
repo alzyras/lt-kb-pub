@@ -25,7 +25,9 @@ O jeigu kas norėtų dėl to, ką kam atiduodame, pakenkti, prieš jį tvirtai u
 
 ## Teiginiai
 
+<a id="claim-t-88367"></a>
 - t-001
+  global_id: t-88367
   teiginys: 'Žygimantas Augustas testamente prašė giminaičių ginti jo paskutinę valią ir prireikus perimti testamento vykdymą.'
   pagrindžia:
     - c-001

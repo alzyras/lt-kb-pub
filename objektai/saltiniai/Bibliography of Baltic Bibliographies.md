@@ -23,7 +23,9 @@ Balys : Bibliography of Baltic Bibliographies, Lituanistikos Darbai, t.
 
 ## Teiginiai
 
+<a id="claim-t-31636"></a>
 - t-001
+  global_id: t-31636
   teiginys: 'J. Balio „Bibliography of Baltic Bibliographies“ pateikė Lietuvą liečiančių lietuviškų bibliografinių rinkinių bibliografiją.'
   pagrindžia:
     - c-001

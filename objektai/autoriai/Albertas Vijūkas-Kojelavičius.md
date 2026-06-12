@@ -13,7 +13,6 @@ tags:
 amziai: []
 periodo_grupes: []
 ---
-
 # Albertas Vijūkas-Kojelavičius
 
 ## Santrauka
@@ -22,49 +21,52 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 
 ## Teiginiai
 
+<a id="claim-t-184456"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad j. Jurginio įvade nurodoma, kad Albertas Vijūkas-Kojelavičius buvo Vilniaus aukštosios mokyklos profesorius ir savo veikalą skyrė jos studentams.'
+  global_id: t-184456
+  teiginys: 'Albertas Vijūkas-Kojelavičius buvo Vilniaus aukštosios mokyklos profesorius ir savo veikalą skyrė jos studentams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184457"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad j. Jurginio įvade Albertas Vijūkas-Kojelavičius apibūdinamas kaip istorikas.'
+  global_id: t-184457
+  teiginys: 'J. Jurginis įvade nurodo, kad Albertas Vijūkas-Kojelavičius buvo teisus vadindamas save istoriku.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184458"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad j. Jurginio įvade nurodoma, kad Albertas Vijūkas-Kojelavičius 1677 m. mirė Varšuvoje.'
+  global_id: t-184458
+  teiginys: 'Albertas Vijūkas-Kojelavičius 1677 m. mirė Varšuvoje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184459"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad j. Jurginio įvade nurodoma, kad 1640 m. Vilniaus akademija išleido Alberto Vijūko-Kojelavičiaus redaguotą kalbų rinkinį.'
+  global_id: t-184459
+  teiginys: '1640 m. Vilniaus akademija išleido Alberto Vijūko-Kojelavičiaus redaguotą kalbų rinkinį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184460"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad j. Jurginio įvade nurodoma, kad Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.'
+  global_id: t-184460
+  teiginys: 'Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184603"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad kojelavičiaus Lietuvos istorija sėkmingai atsto vavo Lietuvai mokslo pasaulyje.'
+  global_id: t-184603
+  teiginys: 'J. Jurginis įvade teigia, kad Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ sėkmingai atstovavo Lietuvai mokslo pasaulyje.'
   pagrindžia:
     - c-006
-
-- t-007
-  teiginys: 'Kojelavičius teigia, kad albertas Vijūkas-Kojelavičius daro dėl senų prietarų; kadangi jis niekam nėra atskleidęs, kodėl taip elgiasi, nesmerksiu jo prietaringumo.'
-  pagrindžia:
-    - c-007
-
-- t-008
-  teiginys: 'Kojelavičius teigia, kad albertas Vijūkas-Kojelavičius įtaisė karo stovyklą Obolcuose.'
-  pagrindžia:
-    - c-008
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1640 m. Vilniaus akademija išleido Alberto Vijūko-Kojelavičiaus redaguotą kalbų rinkinį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Studijuodamas dėstė retoriką vieti­
@@ -85,9 +87,19 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     - t-004
 
 - c-002
+  santrauka: 'Albertas Vijūkas-Kojelavičius buvo Vilniaus aukštosios mokyklos profesorius ir savo veikalą skyrė jos studentams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
-    Varšuvoje išleista trečią kartą
+    A. Kojelavičius nebegalėjo tikėtis tokio pasiseki­
+    mo, kokio susilaukė A. Gvagninis, nors jo istorija para­
+    šyta lotyniškai ir išspausdinta užsienyje: pirmas tomas
+    išėjo 1650 m. Gdanske, o antras — 1669 m. Antverpene.
+    A. Gvagninio „Sarmatų Europos aprašymas" iki XVII
+    a. vidurio dalimis arba ištisai pakartotinai išleistas 5
+    kartus. 1611 m. jis išverstas į lenkų kalbą. M. Strij­
+    kovskio kronika, parašyta lenkiškai, Renesanso epo­
+    choje antrąkart nebuvo išleista, ji pirmą kartą pakar­
+    tota 1766 m., 1846 m. Varšuvoje išleista trečią kartą
     dviem tomais. A. Kojelavičiaus istorija pakartotinių
     leidimų nesusilaukė.
     „Lietuvos istorijos" atsiradimas glaudžiai susijęs su
@@ -101,6 +113,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     - t-001
 
 - c-003
+  santrauka: 'Albertas Vijūkas-Kojelavičius 1677 m. mirė Varšuvoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tas pareigas jis ėjo iki 1666 m. Po to iškel­
@@ -114,6 +127,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     - t-003
 
 - c-004
+  santrauka: 'J. Jurginis įvade nurodo, kad Albertas Vijūkas-Kojelavičius buvo teisus vadindamas save istoriku.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     A. KOJELAVIČIAUS
@@ -136,6 +150,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     - t-002
 
 - c-005
+  santrauka: 'Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­
@@ -148,7 +163,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad kojelavičiaus Lietuvos istorija sėkmingai atsto vavo Lietuvai mokslo pasaulyje.'
+  santrauka: 'J. Jurginis įvade teigia, kad Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ sėkmingai atstovavo Lietuvai mokslo pasaulyje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nors veikalas, kur pasaulėžiūra išreiškiama litera­
@@ -169,43 +184,15 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   pagrindžia:
     - t-006
 
-- c-007
-  santrauka: 'Kojelavičius teigia, kad albertas Vijūkas-Kojelavičius daro dėl senų prietarų; kadangi jis niekam nėra atskleidęs, kodėl taip elgiasi, nesmerksiu jo prietaringumo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Žmonės
-    sakė, kad šitaip jis daro dėl senų prietarų; kadangi jis
-    niekam nėra atskleidęs, kodėl taip elgiasi, nesmerk­
-    siu jo prietaringumo. Per mišias, kai kunigas, laimin­
-    damas žmones, pakeldavo šventąją ostiją, jis, puolęs
-    ant žemės, sugriebdavo rykštę ar kokį kitą panašų
-    daiktą ir, smulkiai sulaužęs, numesdavo į šalį. Vis dėl­
-    to negalima sakyti, kad tai daręs iš prietaringumo, nes
-    ne vieną kartą yra tvirtinęs, jog šitaip jis viešai išpa-
-    žįstąs aukščiausiąjį, parodąs savo, kaip karaliaus, nuo­
-    lankumą jo valiai.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-008
-  santrauka: 'Kojelavičius teigia, kad albertas Vijūkas-Kojelavičius įtaisė karo stovyklą Obolcuose.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Atvestas pas Ivaną, Konstan­
-    tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­
-    kinimus: ne tik kojas jam it vergui surakino grandinė­
-    mis, bet ir rankas užlaužė už nugaros ir nelyginant
-    raiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą
-    Aleksandras sužinojo prie Bobro upės; norėdamas su­
-    stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
-    se. Kodėl vėliau Aleksandras su kariuomene patraukė
-    link Polocko, nei kur parašyta radau, nei pats atspėti
-    galėjau.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-008
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Vilniaus Akademija]]
+- [[objektai/grupes/Jėzuitų ordinas]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/ivykiai/Rusijos ir Švedijos kariuomenių okupacija Vilniuje (1655 m.)]]
+- [[objektai/grupes/Sapiegos]]
+- [[objektai/grupes/Sapiegų giminė]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/piktadarystė]]

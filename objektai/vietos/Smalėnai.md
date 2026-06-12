@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-42148"></a>
 - t-001
+  global_id: t-42148
   teiginys: 'Rugsėjo 22 d. prie Smalėnų miestelio šarvuotasis traukinys „Gediminas“ susirėmė su lenkų artilerija.'
   pagrindžia:
     - c-001

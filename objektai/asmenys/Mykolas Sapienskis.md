@@ -27,7 +27,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-35256"></a>
 - t-001
+  global_id: t-35256
   teiginys: 'Vytauto sekretorius Mykolas Sapienskis vadovavo žemaičių delegacijai, kuri 1415 m. gale atvyko į Konstanciją.'
   pagrindžia:
     - c-001

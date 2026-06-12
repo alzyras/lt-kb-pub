@@ -18,7 +18,9 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 
 ## Teiginiai
 
+<a id="claim-t-02472"></a>
 - t-001
+  global_id: t-02472
   teiginys: 'Japonija Lietuvą pripažino 1922 m. gruodžio 20 d., reikalaudama pripažinti Versalio sutarties nuostatus dėl Nemuno navigacijos.'
   pagrindžia:
     - c-001

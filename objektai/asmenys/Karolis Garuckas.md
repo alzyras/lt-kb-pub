@@ -16,7 +16,9 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
 
 ## Teiginiai
 
+<a id="claim-t-19048"></a>
 - t-001
+  global_id: t-19048
   teiginys: 'Kunigas Karolis Garuckas priklausė grupei, palaikiusiai ryšius su SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.'
   pagrindžia:
     - c-001

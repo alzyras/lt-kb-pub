@@ -35,17 +35,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66592"></a>
 - t-001
+  global_id: t-66592
   teiginys: 'Per karą su Maskva karaliaus kariuomenė dvejus metus laikė apgulusi Smolenską ir 1611 m. jį paėmė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66593"></a>
 - t-002
+  global_id: t-66593
   teiginys: 'Maskvos bajorai pašalino nuo sosto Žolkievskio sumuštą Šuiskį ir caru pažadėjo išrinkti Zigmanto sūnų Vladislovą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66594"></a>
 - t-003
+  global_id: t-66594
   teiginys: '1609 m. Zigmantas paskelbė Maskvai karą, nes caras Šuiskis buvo sudaręs sutartį su švedais.'
   pagrindžia:
     - c-001

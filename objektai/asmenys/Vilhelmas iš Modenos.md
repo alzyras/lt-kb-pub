@@ -29,17 +29,23 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
 
 ## Teiginiai
 
+<a id="claim-t-60076"></a>
 - t-001
+  global_id: t-60076
   teiginys: 'Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; ji atkreipė dėmesį į Sventopelko ir Ordino 1248 m. Kristburgo sutartį, Dusburgiečio, beje, panaudotą labai savavališkai (III, 67), į dokumentus, turinčius ryšio su popiežiaus pasiuntinio Vilhelmo iš Modenos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60077"></a>
 - t-002
+  global_id: t-60077
   teiginys: 'Dusburgietis teigia, kad vilhelmas (nuo 1222 m. Modenos vyskupas) padalijo Prūsiją į Kulmo, Pamedės, Varmės ir Sembos vyskupystes (PUB, 1, 1, Nr. 143).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60078"></a>
 - t-003
+  global_id: t-60078
   teiginys: 'Dusburgietis teigia, kad šią žemę savo pasiuntinį Vilhelmą, buvusį Modenos vyskupą, vėliau tapusį popiežiumi Aleksandru IV268, liepdamas šias žemes padalyti į keturias vyskupystes, pataisyti viską, kas ten taisytina, ir įstatyti į tinkamas vėžes269.'
   pagrindžia:
     - c-001

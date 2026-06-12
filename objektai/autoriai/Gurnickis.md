@@ -27,7 +27,9 @@ Joje ir bu­ vo pagamintos anos dirbtinės ugnys, degintos Vilniuje, kurias Gurn
 
 ## Teiginiai
 
+<a id="claim-t-88091"></a>
 - t-001
+  global_id: t-88091
   teiginys: 'Gurnickis paminėjo, kad 1540 m. Vilniuje džiaugtasi žinia apie karaliaus Jono sūnaus gimimą.'
   pagrindžia:
     - c-001

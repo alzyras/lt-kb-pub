@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62927"></a>
 - t-001
+  global_id: t-62927
   teiginys: 'Dusburgietis teigia, kad kai jam dėl šito buvo prikaišiojama, jis atsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis nesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su manimi gyventi taikiai“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-62928"></a>
 - t-002
+  global_id: t-62928
   teiginys: 'Dusburgietis teigia, kad galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę ir įsibrovė į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas, baisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop sugrįžo.'
   pagrindžia:
     - c-002

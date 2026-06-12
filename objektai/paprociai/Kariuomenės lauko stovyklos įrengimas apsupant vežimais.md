@@ -42,22 +42,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-78696"></a>
 - t-001
+  global_id: t-78696
   teiginys: 'Kariuomenė stovykloje apsisupdavo amuniciją, proviantą ir kitus daiktus gabenusiais vežimais, palikdama tik kelis praėjimus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78697"></a>
 - t-002
+  global_id: t-78697
   teiginys: 'Susibūrusi į vieną vietą, visa kariuomenė apsisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai daug, tik nelabai didelių; išorėje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78698"></a>
 - t-003
+  global_id: t-78698
   teiginys: ') Lenkijos ir Lietuvos kariuomenių stovyklos aprašymo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78699"></a>
 - t-004
+  global_id: t-78699
   teiginys: 'Vežimais apsuptoje kariuomenės lauko stovykloje prie kelių praėjimų statydavo artilerijos pabūklus, o už vežimų iškasdavo ilgą griovį.'
   pagrindžia:
     - c-001

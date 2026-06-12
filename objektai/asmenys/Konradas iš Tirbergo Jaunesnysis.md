@@ -27,22 +27,30 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 
 ## Teiginiai
 
+<a id="claim-t-175240"></a>
 - t-001
+  global_id: t-175240
   teiginys: 'Magistras Konradas iš Tirbergo Jaunesnysis subūrė brolius ir karius žygiui į Sūduvą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-175241"></a>
 - t-002
+  global_id: t-175241
   teiginys: 'Dusburgietis teigia, kad apie brolį Konradą iš Tirbergo, Prūsijos magistrą Brolis Konradas iš Tirbergo Jaunesnysis, dvyliktas Prūsijos magistras, vadovavo pusšeštų metų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-175242"></a>
 - t-003
+  global_id: t-175242
   teiginys: 'Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro įsakytas, sutelkė visą savo kariuomenę ir įsiveržė į Sūduvos žemės valsčių, vardu Pakima495; smarkiai jį nusiaubęs, nudeginęs.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-175243"></a>
 - t-004
+  global_id: t-175243
   teiginys: 'Dusburgietis teigia, kad apie Lietuvos pilies, vardu Bisenė, užkariavimą Brolis Konradas iš Tirbergo, minėtasis Prūsijos žemės magistras, ir daugybė brolių, su didele kariuomene perėję žiemos metu užšalusį Nemuną ir, įsiveržę į Lietuvos žemę, nuo ryto iki pietų smarkiai puolė pilį.'
   pagrindžia:
     - c-003

@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39256"></a>
 - t-001
+  global_id: t-39256
   teiginys: 'Kalavijai kartu su ietimis buvo pagrindiniai kariuomenės ginklai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183686"></a>
 - t-002
+  global_id: t-183686
   teiginys: 'Pagrindiniai tokios kariuomenės ginklai buvo ietys ir kalavijai.'
   pagrindžia:
     - c-002
@@ -107,7 +111,6 @@ Nenurodyta
 - [[objektai/asmenys/Margalis (Margirius )]]
 - [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]
 - [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Rusai]]
 - [[objektai/daiktai/Sidabruotos geležinės XI-XII a. balnakilpės]]
 - [[objektai/daiktai/Skobnis]]
 - [[objektai/daiktai/Skydas]]

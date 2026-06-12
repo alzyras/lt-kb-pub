@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Meinhardo žygis į Lietuvą ir pasitraukimas dėl išduoto sumanymo (1292 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad suma nęs atkeršyti, Meinhardas, ta proga vėl sutelkęs ir sustiprinęs kariuomenę, nu- 1292 m e ta i tarė su visomis jėgomis iš karto žygiuoti į Lietuvą, no rėdamas kuo plačiausiai nusiaubti šalį ugnimi ir ka laviju; perėjęs miškais sienas, jis jau ketino.
+1292 m. Meinhardas sutelkė kariuomenę žygiui į Lietuvą, bet įspėtas apie išdavystę atsitraukė į Prūsiją prieš prasidedant kovai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185819"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad suma nęs atkeršyti, Meinhardas, ta proga vėl sutelkęs ir sustiprinęs kariuomenę, nu- 1292 m e ta i tarė su visomis jėgomis iš karto žygiuoti į Lietuvą, no rėdamas kuo plačiausiai nusiaubti šalį ugnimi ir ka laviju; perėjęs miškais sienas, jis jau ketino.'
+  global_id: t-185819
+  teiginys: '1292 m. Meinhardas sutelkė kariuomenę žygiui į Lietuvą, bet įspėtas apie išdavystę atsitraukė į Prūsiją prieš prasidedant kovai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad suma nęs atkeršyti, Meinhardas, ta proga vėl sutelkęs ir sustiprinęs kariuomenę, nu- 1292 m e ta i tarė su visomis jėgomis iš karto žygiuoti į Lietuvą, no rėdamas kuo plačiausiai nusiaubti šalį ugnimi ir ka laviju; perėjęs miškais sienas, jis jau ketino.'
+  santrauka: '1292 m. Meinhardas sutelkė kariuomenę žygiui į Lietuvą, bet įspėtas apie išdavystę atsitraukė į Prūsiją prieš prasidedant kovai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Suma­
@@ -74,3 +75,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/žygis]]

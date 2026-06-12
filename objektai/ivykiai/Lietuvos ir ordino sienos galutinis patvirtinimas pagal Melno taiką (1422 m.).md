@@ -36,17 +36,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66698"></a>
 - t-001
+  global_id: t-66698
   teiginys: 'Melno taika sutarta siena išsilaikė penkis šimtmečius, Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkijai Niešavos kraštas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66699"></a>
 - t-002
+  global_id: t-66699
   teiginys: 'Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (žiūr.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66700"></a>
 - t-003
+  global_id: t-66700
   teiginys: '1422 m. rugsėjo 27 d. prie Melno ežero buvo pasirašyta taika su ordinu.'
   pagrindžia:
     - c-001

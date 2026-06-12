@@ -26,17 +26,23 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
 
 ## Teiginiai
 
+<a id="claim-t-86453"></a>
 - t-001
+  global_id: t-86453
   teiginys: 'Arkikomtūras Redigeris Elneris kartu su Ordino maršalu Gotfridu Lindenu buvo pasiųstas užimti Vilniaus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86454"></a>
 - t-002
+  global_id: t-86454
   teiginys: 'Vaidila 1380 m. Prūsijoje paruošė dirvą Jogailos slaptam sandėriui su arkikomtūru.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86455"></a>
 - t-003
+  global_id: t-86455
   teiginys: 'Po taikos sutarties arkikomtūras su Ordino maršalu ir kitais aukštesniaisiais vokiečių riteriais buvo pakviestas į Vilniaus ir Trakų pilis.'
   pagrindžia:
     - c-001

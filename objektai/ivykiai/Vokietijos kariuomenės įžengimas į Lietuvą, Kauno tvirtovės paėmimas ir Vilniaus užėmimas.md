@@ -41,22 +41,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75303"></a>
 - t-001
+  global_id: t-75303
   teiginys: '1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75304"></a>
 - t-002
+  global_id: t-75304
   teiginys: 'Dabar jau koordinuotoje akcijoje dalis lietuvių veikėjų deklaravo etnopolitinį lietuvių atskirumą ir kėlė Lietuvos statuso klausimą, Mažosios Lietuvos koziriu bandydami jį internacionalizuoti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75305"></a>
 - t-003
+  global_id: t-75305
   teiginys: '1915 m. vokiečiai be mūšio paėmė Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183286"></a>
 - t-004
+  global_id: t-183286
   teiginys: 'Toje teritorijoje gyveno lenkai, lietuviai, latviai ir baltarusiai.'
   pagrindžia:
     - c-003

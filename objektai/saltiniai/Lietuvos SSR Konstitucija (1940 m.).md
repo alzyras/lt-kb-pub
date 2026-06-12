@@ -23,7 +23,9 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
 
 ## Teiginiai
 
+<a id="claim-t-21137"></a>
 - t-001
+  global_id: t-21137
   teiginys: '1940 m. Lietuvos SSR Konstitucija buvo patvirtinta pertvarkant Lietuvos valdymo sistemą pagal Sovietų Sąjungos modelį.'
   pagrindžia:
     - c-001

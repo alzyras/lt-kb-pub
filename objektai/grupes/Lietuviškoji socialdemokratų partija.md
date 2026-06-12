@@ -27,22 +27,30 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
 
 ## Teiginiai
 
+<a id="claim-t-74617"></a>
 - t-001
+  global_id: t-74617
   teiginys: 'Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių partijų vietos skyriai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-74618"></a>
 - t-002
+  global_id: t-74618
   teiginys: 'Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų partija, susikūrusi 1896 m. Savo programoje ji buvo įrašiusi suverenios Lietuvos, valstybės, sujungtos laisvos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74619"></a>
 - t-003
+  global_id: t-74619
   teiginys: 'Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valstybingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuomenės veikėjais, tačiau bendros kalbos nerado.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74620"></a>
 - t-004
+  global_id: t-74620
   teiginys: 'LSDP, būdama seniausia su bendriausiais lietuvių tautinio sąjūdžio idealais susisiejusi partija, po revoliucijos įgytą populiarumą visuomenėje prarado, patyrė ir didžiausias caro valdžios represijas.'
   pagrindžia:
     - c-001

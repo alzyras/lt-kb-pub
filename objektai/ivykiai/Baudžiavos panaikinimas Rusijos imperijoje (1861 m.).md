@@ -35,22 +35,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66484"></a>
 - t-001
+  global_id: t-66484
   teiginys: 'Prieš 1861 m. baudžiavos panaikinimą Lietuvos atstovai aiškiai pasisakė už valstiečių atleidimą, nors Rusijos bajorija tam nepritarė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66485"></a>
 - t-002
+  global_id: t-66485
   teiginys: 'Baudžiavos panaikinimas Rusijos imperijoje (1861 m.): po to (1858 m.) valstiečių at- leidimo projektui pa- ruošti visose Lietuvos gubernijose buvo suda- ryti bajorų komitetai, kurių darbą turėjo su- vienodinti centralinė komisija Vilniuje. Ši- tos komisijos sudarytas projektas buvo nusiųs- tas į Petrapilį, kur.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66486"></a>
 - t-003
+  global_id: t-66486
   teiginys: 'Baudžiavos panaikinimas Rusijos imperijoje (1861 m.): baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo. Dvarininkai, žinoma, tik savimi tesirūpino. Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti per 2 metus (tuo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66487"></a>
 - t-004
+  global_id: t-66487
   teiginys: 'Baudžiavos panaikinimo reformai vykdyti apskrityse buvo sudarytos valstiečių komisijos, o apylinkėms vadovavo taikos tarpininkai.'
   pagrindžia:
     - c-004

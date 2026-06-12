@@ -27,12 +27,16 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
 
 ## Teiginiai
 
+<a id="claim-t-60145"></a>
 - t-001
+  global_id: t-60145
   teiginys: 'Hugonas Butyras buvo kilęs iš Olandijos ir XII a. viduryje tarnavo Mazovijos kunigaikščiui Boleslovui IV Garbanotajam.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60146"></a>
 - t-002
+  global_id: t-60146
   teiginys: 'Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra vadinamieji Dobrynės broliai.'
   pagrindžia:
     - c-002

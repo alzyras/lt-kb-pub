@@ -16,7 +16,9 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
 
 ## Teiginiai
 
+<a id="claim-t-19014"></a>
 - t-001
+  global_id: t-19014
   teiginys: 'Juozas Gabrys-Paršaitis vadovavo Lietuvių informacijos biurui Lozanoje, kurio veiklą finansiškai rėmė JAV lietuviai.'
   pagrindžia:
     - c-001

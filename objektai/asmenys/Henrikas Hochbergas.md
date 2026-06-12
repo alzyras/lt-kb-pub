@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Henrikas Hochbergas
 
 ## Santrauka
 
-Kojelavičius teigia, kad kęstutį, kuris ban dė ne tik sumanumu, bet jėga bei ginklu atstatyti tvar ką irstančioje rikiuotėje, galingais kalavijo smūgiais atremdamas kiekvieną narsų priešą, nubloškė nuo žir go Henrikas Ekersbergas, riteris paauksuotais šarvais, kuris smogė arkliui.
+Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis bandė pagelbėti Kęstučiui.
 
 ## Teiginiai
 
+<a id="claim-t-186209"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kęstutį, kuris ban dė ne tik sumanumu, bet jėga bei ginklu atstatyti tvar ką irstančioje rikiuotėje, galingais kalavijo smūgiais atremdamas kiekvieną narsų priešą, nubloškė nuo žir go Henrikas Ekersbergas, riteris paauksuotais šarvais, kuris smogė arkliui.'
+  global_id: t-186209
+  teiginys: 'Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis bandė pagelbėti Kęstučiui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kęstutį, kuris ban dė ne tik sumanumu, bet jėga bei ginklu atstatyti tvar ką irstančioje rikiuotėje, galingais kalavijo smūgiais atremdamas kiekvieną narsų priešą, nubloškė nuo žir go Henrikas Ekersbergas, riteris paauksuotais šarvais, kuris smogė arkliui.'
+  santrauka: 'Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis bandė pagelbėti Kęstučiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kęstutį, kuris ban­
@@ -59,3 +60,10 @@ Kojelavičius teigia, kad kęstutį, kuris ban dė ne tik sumanumu, bet jėga be
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

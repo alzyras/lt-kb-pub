@@ -24,7 +24,9 @@ Dusburgietis teigia, kad woelky.
 
 ## Teiginiai
 
+<a id="claim-t-60682"></a>
 - t-001
+  global_id: t-60682
   teiginys: 'C. P. Woelky parengė leidinio „Urkundenbuch des Bisthums Culm“ pirmojo tomo pirmąją dalį.'
   pagrindžia:
     - c-001

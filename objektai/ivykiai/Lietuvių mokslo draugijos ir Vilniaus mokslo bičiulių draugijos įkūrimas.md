@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75130"></a>
 - t-001
+  global_id: t-75130
   teiginys: 'Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizacijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75131"></a>
 - t-002
+  global_id: t-75131
   teiginys: 'Nepavykus atkurti Vilniaus universiteto, įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija.'
   pagrindžia:
     - c-001

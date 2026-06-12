@@ -22,7 +22,9 @@ Ašmintos km. Pagaršvio upelio šlaite MGB grupė apsupo partizanų bunkerį, k
 
 ## Teiginiai
 
+<a id="claim-t-38521"></a>
 - t-001
+  global_id: t-38521
   teiginys: 'Ašmintos km. Pagaršvio upelio šlaite MGB grupė apsupo partizanų bunkerį, kuriame slėpėsi 7 Birutės ir Geležinio Vilko rinktinės partizanai.'
   pagrindžia:
     - c-001

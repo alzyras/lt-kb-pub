@@ -17,7 +17,9 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 
 ## Teiginiai
 
+<a id="claim-t-32291"></a>
 - t-001
+  global_id: t-32291
   teiginys: 'Eiliuotoje kronikoje Kvėdarna minima tarp pilių, kurias pilgrimai esą paėmė kartu su Medvėgaliu.'
   pagrindžia:
     - c-001

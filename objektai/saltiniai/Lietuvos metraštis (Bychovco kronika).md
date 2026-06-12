@@ -34,37 +34,51 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
 
 ## Teiginiai
 
+<a id="claim-t-117482"></a>
 - t-001
+  global_id: t-117482
   teiginys: '1368 m. žygis Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis Dmitrijus pats sulaužė taiką, atsiųsdamas pas Algirdą „savo pasiuntinį su karo paskelbimu“.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-117483"></a>
 - t-002
+  global_id: t-117483
   teiginys: '72, „PABAISKO MŪŠIS“, Lietuvos metraštis, p. 122-123.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-117484"></a>
 - t-003
+  global_id: t-117484
   teiginys: '„Lietuvos metraštis“ aprašė, kad 1368 m. Algirdui su kariuomene priartėjus prie Maskvos Dmitrijus išsigando.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-117485"></a>
 - t-004
+  global_id: t-117485
   teiginys: 'Dusburgietis teigia, kad lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė, kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-117486"></a>
 - t-005
+  global_id: t-117486
   teiginys: 'Bychovco kronikoje Jogaila pataria Vytautui kreiptis į ciesorių, siekti karaliaus titulo ir žada padėti pas ciesorių bei popiežių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-117487"></a>
 - t-006
+  global_id: t-117487
   teiginys: '79, „GROBIO UŽGROBIMAS“, Lietuvos metraštis, p. 173-175.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-117488"></a>
 - t-007
+  global_id: t-117488
   teiginys: 'Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kronikų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito krašto.'
   pagrindžia:
     - c-006

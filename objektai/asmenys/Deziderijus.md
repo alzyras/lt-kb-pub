@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Deziderijus
 
 ## Santrauka
 
-Kojelavičius teigia, kad karalius Deziderijus, tikėdamasis, jog Galija, Įsivėlusi į naujus maištus, teiksianti 754 m eta i jam progą niokoti Italiją (kaip dažnai menkutė proga leidžia ištroškusiam karo kelti ginklą!), pradėjo iš nau jo niokoti Romos ir popiežiaus valdas.
+Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl pradėjo niokoti Romos ir popiežiaus valdas.
 
 ## Teiginiai
 
+<a id="claim-t-186195"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad karalius Deziderijus, tikėdamasis, jog Galija, Įsivėlusi į naujus maištus, teiksianti 754 m eta i jam progą niokoti Italiją (kaip dažnai menkutė proga leidžia ištroškusiam karo kelti ginklą!), pradėjo iš nau jo niokoti Romos ir popiežiaus valdas.'
+  global_id: t-186195
+  teiginys: 'Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl pradėjo niokoti Romos ir popiežiaus valdas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad karalius Deziderijus, tikėdamasis, jog Galija, Įsivėlusi į naujus maištus, teiksianti 754 m eta i jam progą niokoti Italiją (kaip dažnai menkutė proga leidžia ištroškusiam karo kelti ginklą!), pradėjo iš nau jo niokoti Romos ir popiežiaus valdas.'
+  santrauka: 'Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl pradėjo niokoti Romos ir popiežiaus valdas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto po popiežiaus Stepono mirties lango­

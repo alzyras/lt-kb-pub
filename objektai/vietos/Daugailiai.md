@@ -16,7 +16,9 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
 
 ## Teiginiai
 
+<a id="claim-t-41653"></a>
 - t-001
+  global_id: t-41653
   teiginys: 'Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.'
   pagrindžia:
     - c-001

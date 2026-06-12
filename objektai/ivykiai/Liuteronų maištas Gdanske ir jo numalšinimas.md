@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Liuteronų maištas Gdanske ir jo numalšinimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad prūsijoje plintanti Liuterio sekta su sirado pasekėjų Gdanske ir smarkiai sukrėtė tokį iki šiol ramų miesto gyvenimą, sukeldama visokiausių sambrūzdžių. Kojelavičius teigia, kad karalius turėjp kuo skubiausiai ten nuvykti ir sutramdyti maištininkus, kol jie nespėjo giliau įleisti šaknų.
+Prūsijoje plintantis liuteronizmas rado pasekėjų Gdanske ir sukėlė miesto gyvenimą sukrėtusius sambrūzdžius. Atvykęs į Gdanską karalius dalį maištininkų nubaudė mirtimi, o pabėgusius įtraukė į pasmerktųjų sąrašus.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185746"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad prūsijoje plintanti Liuterio sekta su sirado pasekėjų Gdanske ir smarkiai sukrėtė tokį iki šiol ramų miesto gyvenimą, sukeldama visokiausių sambrūzdžių.'
+  global_id: t-185746
+  teiginys: 'Prūsijoje plintantis liuteronizmas rado pasekėjų Gdanske ir sukėlė miesto gyvenimą sukrėtusius sambrūzdžius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185747"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad karalius turėjp kuo skubiausiai ten nuvykti ir sutramdyti maištininkus, kol jie nespėjo giliau įleisti šaknų.'
+  global_id: t-185747
+  teiginys: 'Atvykęs į Gdanską karalius dalį maištininkų nubaudė mirtimi, o pabėgusius įtraukė į pasmerktųjų sąrašus.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad prūsijoje plintanti Liuterio sekta su sirado pasekėjų Gdanske ir smarkiai sukrėtė tokį iki šiol ramų miesto gyvenimą, sukeldama visokiausių sambrūzdžių.'
+  santrauka: 'Prūsijoje plintantis liuteronizmas rado pasekėjų Gdanske ir sukėlė miesto gyvenimą sukrėtusius sambrūzdžius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Prūsijoje plintanti Liuterio sekta su­
@@ -61,7 +64,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad karalius turėjp kuo skubiausiai ten nuvykti ir sutramdyti maištininkus, kol jie nespėjo giliau įleisti šaknų.'
+  santrauka: 'Atvykęs į Gdanską karalius dalį maištininkų nubaudė mirtimi, o pabėgusius įtraukė į pasmerktųjų sąrašus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Savava­
@@ -80,3 +83,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Liuteris]]

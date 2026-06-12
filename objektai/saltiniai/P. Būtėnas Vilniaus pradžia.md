@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31878"></a>
 - t-001
+  global_id: t-31878
   teiginys: 'P. Būtėno „Vilniaus pradžia“ paskelbta žurnalo „Karys“ 1973 m. 10 numeryje, p. 342-344.'
   pagrindžia:
     - c-001

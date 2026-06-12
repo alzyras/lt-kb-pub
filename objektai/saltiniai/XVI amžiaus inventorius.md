@@ -23,7 +23,9 @@ Kruopščiai atrinkęs iš Centrinio Valstybės Archyvo (Kaune) ir eilės kitų 
 
 ## Teiginiai
 
+<a id="claim-t-31994"></a>
 - t-001
+  global_id: t-31994
   teiginys: 'Jablonskis 1934 m. išleido „XVI amžiaus inventorius“, parengtus iš Kauno Centrinio Valstybės archyvo ir kitų Lietuvos archyvų aktų.'
   pagrindžia:
     - c-001

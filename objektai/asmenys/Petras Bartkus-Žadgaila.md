@@ -24,7 +24,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-39626"></a>
 - t-001
+  global_id: t-39626
   teiginys: 'Žuvo LLKS tarybos prezidiumo nariai Petras Bartkus-Žadgaila (Prisikėlimo apygardos vadas) ir Bronius Liesis-Naktis, Prisikėlimo apygardos štabo viršininkas Vytautas Šniuolis-Svajūnas ir dar trys neatpažinti partizanai.'
   pagrindžia:
     - c-001

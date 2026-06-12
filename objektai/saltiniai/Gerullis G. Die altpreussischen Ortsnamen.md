@@ -22,7 +22,9 @@ Dusburgietis teigia, kad gerullis G.
 
 ## Teiginiai
 
+<a id="claim-t-61073"></a>
 - t-001
+  global_id: t-61073
   teiginys: 'G. Gerullio veikalas „Die altpreussischen Ortsnamen“ išleistas Berlyne ir Leipcige 1922 m.'
   pagrindžia:
     - c-001

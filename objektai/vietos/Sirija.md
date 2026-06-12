@@ -25,17 +25,23 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
 
 ## Teiginiai
 
+<a id="claim-t-91383"></a>
 - t-001
+  global_id: t-91383
   teiginys: 'Dusburgietis teigia, kad ), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms suartėti su totoriais — mongolais ir aprašomi pastarųjų žygiai prieš Siriją bei kitas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-91384"></a>
 - t-002
+  global_id: t-91384
   teiginys: 'Dusburgo kronikoje aprašomi totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-91385"></a>
 - t-003
+  global_id: t-91385
   teiginys: 'Petras iš Dusburgo kryžiaus žygių istorijoje aprašė totorių ir mongolų žygius prieš Siriją bei kitas musulmoniškąsias šalis.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Dusburgietis teigia, kad historia Pomorza / Pod red. G.
 
 ## Teiginiai
 
+<a id="claim-t-61079"></a>
 - t-001
+  global_id: t-61079
   teiginys: '„Historia Pomorza“ pirmojo tomo pirmąją dalį iki 1466 m. redagavo G. Labuda, ji išleista Poznanėje 1969 m.'
   pagrindžia:
     - c-001

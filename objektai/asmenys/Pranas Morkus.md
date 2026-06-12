@@ -16,7 +16,9 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
 
 ## Teiginiai
 
+<a id="claim-t-19200"></a>
 - t-001
+  global_id: t-19200
   teiginys: 'Pranas Morkus 1960 m. su kitais lietuvių disidentais užmezgė ryšius su Maskvos disidentais ir teikė informaciją iš Lietuvos.'
   pagrindžia:
     - c-001

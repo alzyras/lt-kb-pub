@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08345"></a>
 - t-001
+  global_id: t-08345
   teiginys: 'Jaunuomenė pavasariais gaminosi ir naudojo vamzdžius iš karklų ar blendies, o piemenėliai turėjo molio pypynes.'
   pagrindžia:
     - c-001

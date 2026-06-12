@@ -35,17 +35,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-06734"></a>
 - t-001
+  global_id: t-06734
   teiginys: 'Kūlgrindomis galėjo naudotis tik prityrusio vadovo vedami žmonės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-06735"></a>
 - t-002
+  global_id: t-06735
   teiginys: 'Kūlgrindos buvo žemaičių akmenimis grįsti vingrūs keliai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-06736"></a>
 - t-003
+  global_id: t-06736
   teiginys: 'Lietuvoje dar buvo galima rasti kūlgrindų liekanų.'
   pagrindžia:
     - c-001

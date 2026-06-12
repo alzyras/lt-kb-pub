@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86895"></a>
 - t-001
+  global_id: t-86895
   teiginys: 'Kęstutis su Vytautu buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir penktą naktį pasmaugtas pilies bokšte.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86896"></a>
 - t-002
+  global_id: t-86896
   teiginys: 'Jogailos atsiųstas Skirgaila atvyko į Kęstučio stovyklą ir pareiškė esąs pasirengęs taikytis.'
   pagrindžia:
     - c-001

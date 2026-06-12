@@ -16,7 +16,9 @@ Kaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie pasirodė apie
 
 ## Teiginiai
 
+<a id="claim-t-99944"></a>
 - t-001
+  global_id: t-99944
   teiginys: 'Kaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie pasirodė apie trečio tūkstantmečio pr.'
   pagrindžia:
     - c-001

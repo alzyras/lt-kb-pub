@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62841"></a>
 - t-001
+  global_id: t-62841
   teiginys: 'Dusburgietis teigia, kad šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose.'
   pagrindžia:
     - c-002

@@ -24,7 +24,9 @@ Balinskis sugrįžta į Lietuvą ir apsigyvena savo Jašiūnų dvare.
 
 ## Teiginiai
 
+<a id="claim-t-87885"></a>
 - t-001
+  global_id: t-87885
   teiginys: 'Balinskis sugrįžta į Lietuvą ir apsigyvena savo Jašiūnų dvare.'
   pagrindžia:
     - c-001

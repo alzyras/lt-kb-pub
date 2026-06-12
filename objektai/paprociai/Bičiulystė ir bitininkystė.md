@@ -43,27 +43,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-97124"></a>
 - t-001
+  global_id: t-97124
   teiginys: 'Seniausia miškinės bitininkystės forma Lietuvoje yra paliudyta ir mitologijoje bei tautosakoje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-97125"></a>
 - t-002
+  global_id: t-97125
   teiginys: '1529 m. Lietuvos Statuto nuostatai apie bites ir bitininkų teises rodo, kad bitininkystė tebebuvo svarbi ūkio šaka.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-97126"></a>
 - t-003
+  global_id: t-97126
   teiginys: 'Šalia žemdirbystės, gyvulininkystės, bitininkystės, medžioklės ir žvejybos Lietuvoje buvo puoselėjamas amatas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-97127"></a>
 - t-004
+  global_id: t-97127
   teiginys: 'Bitininkystė Lietuvoje sukūrė bičiulyste vadintus papročius ir žmonių santykiavimo formas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184346"></a>
 - t-005
+  global_id: t-184346
   teiginys: 'Atskirus papročius ir žmonių santykiavimo formas, vadinamą « bičiulystę » (iš čia ir « bičiulis ») sukūrė užsiėmimas bitininkyste.'
   pagrindžia:
     - c-005

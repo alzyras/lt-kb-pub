@@ -24,7 +24,9 @@ Dusburgietis teigia, kad todėl maldininkai pasiruošė kovai, Markos grafas nar
 
 ## Teiginiai
 
+<a id="claim-t-58725"></a>
 - t-001
+  global_id: t-58725
   teiginys: 'Sklunija buvo kaimas, anksčiau vadintas Kalija, į kurį subėgusius priešus maldininkai įveikė.'
   pagrindžia:
     - c-001

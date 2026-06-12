@@ -42,22 +42,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62814"></a>
 - t-001
+  global_id: t-62814
   teiginys: 'Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo žmonių krito kovoje262.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-62815"></a>
 - t-002
+  global_id: t-62815
   teiginys: 'Dusburgietis teigia, kad po to brolis Hermanas, didysis magistras, pasiuntė brolį Hermaną, vadinamą Balku, Prūsijos žemės magistrą, su keturiasdešimt brolių ir daugybe ginklanešių į Livonijos žemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-62816"></a>
 - t-003
+  global_id: t-62816
   teiginys: 'Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus dvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-62817"></a>
 - t-004
+  global_id: t-62817
   teiginys: 'Dusburgietis teigia, kad 263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.'
   pagrindžia:
     - c-002

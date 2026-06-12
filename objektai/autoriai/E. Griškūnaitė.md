@@ -26,7 +26,9 @@ Griškūnaitė 121 , P.
 
 ## Teiginiai
 
+<a id="claim-t-30592"></a>
 - t-001
+  global_id: t-30592
   teiginys: 'E. Griškūnaitė rašė apie 1905 m. sukilimą Lietuvoje.'
   pagrindžia:
     - c-001

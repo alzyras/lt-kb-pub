@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19677"></a>
 - t-001
+  global_id: t-19677
   teiginys: '1988 m. balandžio 13 d. Estijoje įsteigus Estijos liaudies frontą, neformalų judėjimą reformoms vykdyti, pasirodė, kad sovietų valdžia vengia imtis represijų prieš veikliausius pertvarkos šalininkus.'
   pagrindžia:
     - c-001

@@ -16,12 +16,16 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
 
 ## Teiginiai
 
+<a id="claim-t-05262"></a>
 - t-001
+  global_id: t-05262
   teiginys: 'Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Krymo chanatu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05263"></a>
 - t-002
+  global_id: t-05263
   teiginys: 'Nuo 1478 m. Krymo chanatas buvo Turkijos vasalas.'
   pagrindžia:
     - c-001

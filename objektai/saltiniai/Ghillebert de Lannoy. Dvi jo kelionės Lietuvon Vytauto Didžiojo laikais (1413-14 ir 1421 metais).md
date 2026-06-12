@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31690"></a>
 - t-001
+  global_id: t-31690
   teiginys: '„Ghillebert de Lannoy. Dvi jo kelionės Lietuvon Vytauto Didžiojo laikais“ išspausdintas „Praeities“ II tome 1933 m., p. 94–157.'
   pagrindžia:
     - c-001

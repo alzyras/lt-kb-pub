@@ -16,7 +16,9 @@ Osten-Sacken, P. von : Livländisch-russische Beziehungen während der Regierung
 
 ## Teiginiai
 
+<a id="claim-t-30913"></a>
 - t-001
+  global_id: t-30913
   teiginys: 'P. von Osten-Sackenas 1910 m. paskelbė darbą apie Livonijos ir Rusios santykius Vytauto valdymo laikotarpiu.'
   pagrindžia:
     - c-001

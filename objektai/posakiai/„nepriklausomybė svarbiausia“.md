@@ -24,12 +24,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-75618"></a>
 - t-001
+  global_id: t-75618
   teiginys: 'Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina jos sąlyga.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75619"></a>
 - t-002
+  global_id: t-75619
   teiginys: 'Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina nepriklausomybės sąlyga.'
   pagrindžia:
     - c-001

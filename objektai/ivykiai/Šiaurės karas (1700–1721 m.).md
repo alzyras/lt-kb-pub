@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39143"></a>
 - t-001
+  global_id: t-39143
   teiginys: 'Per Šiaurės karą 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-39144"></a>
 - t-002
+  global_id: t-39144
   teiginys: 'Šiaurės karo nusiaubtoje Lietuvoje kilo didelis badas ir maras, mirė apie trečdalis Lietuvos gyventojų.'
   pagrindžia:
     - c-002

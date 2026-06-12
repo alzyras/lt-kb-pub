@@ -25,7 +25,9 @@ Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: b
 
 ## Teiginiai
 
+<a id="claim-t-45692"></a>
 - t-001
+  global_id: t-45692
   teiginys: '„Lietuvos Didžiosios Kunigaikštystės Knyga“ buvo bendras baltarusių, lietuvių ir lenkų mokslininkų bei rašytojų darbas.'
   pagrindžia:
     - c-002

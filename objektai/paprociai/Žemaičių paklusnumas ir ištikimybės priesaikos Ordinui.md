@@ -42,12 +42,16 @@ Praktika minima žemaičiams pasisukus į savo vakarykščius priešus ir mėgin
 
 ## Teiginiai
 
+<a id="claim-t-11635"></a>
 - t-001
+  global_id: t-11635
   teiginys: '1384 m. vasario pradžioje Žemaičių krašto Medininkų, Vangių ir kitų vietų gyventojai pareiškė Ordinui savo paklusnumą; tai buvo pirmas savarankiškas jų mėginimas pasiduoti naujai jėgai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-11636"></a>
 - t-002
+  global_id: t-11636
   teiginys: '1384 m. vasario pradžioje Medininkų, Vangių ir kitų Žemaičių krašto vietų gyventojai pareiškė paklusnumą Ordinui.'
   pagrindžia:
     - c-001

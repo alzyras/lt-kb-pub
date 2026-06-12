@@ -19,7 +19,9 @@ Tai nulėmė, kad LDK didikai (aukščiausias visuomenės sluoksnis) parėmė b�
 
 ## Teiginiai
 
+<a id="claim-t-19769"></a>
 - t-001
+  global_id: t-19769
   teiginys: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai ir dalis ortodoksų perėjo į kalvinizmą.'
   pagrindžia:
     - c-001

@@ -41,27 +41,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-49163"></a>
 - t-001
+  global_id: t-49163
   teiginys: 'Po Kuoknesės mūšio Livonijoje prie Lietuvos kariuomenės prisijungė ir Lenkijos pajėgos, o vadovavimą perėmė Janas Zamoiskis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-49164"></a>
 - t-002
+  global_id: t-49164
   teiginys: 'Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-49165"></a>
 - t-003
+  global_id: t-49165
   teiginys: '1601 m. birželio 23 d. prie Kuoknesės pagrindinė Lietuvos kariuomenė stojo prieš švedų pajėgas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-49166"></a>
 - t-004
+  global_id: t-49166
   teiginys: 'Prieš Kuoknesės mūšį Kristupas Radvila Perkūnas birželio 2-3 d. pasiuntė Joną Sicinskį smogti K. Carlsono Gyllenhielmo kariams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-49167"></a>
 - t-005
+  global_id: t-49167
   teiginys: '1601 m. balandžio 1 d. švedai užėmė Kuoknesės miestą ir pradėjo pilies apgultį.'
   pagrindžia:
     - c-003

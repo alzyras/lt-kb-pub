@@ -18,7 +18,9 @@ Gorbačiovo reformoms, o jį patį nuvers „vanagai“.
 
 ## Teiginiai
 
+<a id="claim-t-20828"></a>
 - t-001
+  global_id: t-20828
   teiginys: 'Vakarams pasirinkimas „Gorbis ar Lietuva“ buvo nelengvas, nes jie baiminosi pakenkti M. Gorbačiovo reformoms.'
   pagrindžia:
     - c-001

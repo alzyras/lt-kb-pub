@@ -24,7 +24,9 @@ Dusburgietis teigia, kad vyšniauskaitė.— V., 1964.
 
 ## Teiginiai
 
+<a id="claim-t-60669"></a>
 - t-001
+  global_id: t-60669
   teiginys: 'Dusburgietis teigia, kad vyšniauskaitė.— V., 1964.'
   pagrindžia:
     - c-001

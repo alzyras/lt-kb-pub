@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-40890"></a>
 - t-001
+  global_id: t-40890
   teiginys: 'II brigada įsitraukė į operaciją ir Šiaurės Rytų Lietuvoje stūmė bolševikus iš okupuotų Lietuvos teritorijų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40891"></a>
 - t-002
+  global_id: t-40891
   teiginys: 'II brigada pralaužė gynybą ir 28 d. privertė bolševikus trauktis už Dauguvos.'
   pagrindžia:
     - c-002

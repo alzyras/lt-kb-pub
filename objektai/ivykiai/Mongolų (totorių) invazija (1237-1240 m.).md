@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-28850"></a>
 - t-001
+  global_id: t-28850
   teiginys: '1237–1240 m. mongolų invazija smarkiai paveikė rusų politinį ir kultūrinį gyvenimą Riurikaičių susiskaldymo laikotarpiu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184340"></a>
 - t-002
+  global_id: t-184340
   teiginys: 'Tipiškame rusu kolonizacijos ir dalinių valdančiosios Riuriko giminės kunigaikščių visiško susiskaldymo laikotarpyje didelį piūvį rusu politiniame ir kultūriniame gyvenime padarė mongolu (totorių) invazija (1237- 1240).'
   pagrindžia:
     - c-002

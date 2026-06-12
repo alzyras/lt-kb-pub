@@ -32,7 +32,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-67517"></a>
 - t-001
+  global_id: t-67517
   teiginys: 'Dusburgietis teigia, kad sis Dusburgiečio nuorašą (apimantį įvykius iki 1326 m.) panaudojo savo 1582 m. Karaliaučiuje išspausdintoje Kronikoje76 — Lietuvos Didžiosios Kunigaikštystės istorijoje, tuo įvesdamas Dusburgiečio kronikos faktus į lituanistinę istorinę literatūrą.'
   pagrindžia:
     - c-001

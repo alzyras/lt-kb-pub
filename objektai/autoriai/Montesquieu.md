@@ -16,7 +16,9 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
 
 ## Teiginiai
 
+<a id="claim-t-01118"></a>
 - t-001
+  global_id: t-01118
   teiginys: 'Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D''''Alembert († 1783 m.), Diderot († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais.'
   pagrindžia:
     - c-001

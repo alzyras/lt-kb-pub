@@ -26,34 +26,45 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 
 ## Teiginiai
 
+<a id="claim-t-168139"></a>
 - t-001
+  global_id: t-168139
   teiginys: 'Komitetas, kiek leido aplinkybės, užstodamas žmones prieš okupacinės valdžios žiaurumus, nepakeliamas rekvizicijas ir visokias neteisybes, atstovavo ir lietuvių politiniams reikalams.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-168140"></a>
 - t-002
-  teiginys: 'Komiteto pasiuntiniai slapta pasklido po Lietuvą burti į tą darbą visų krašte likusių inteligentiškų pajėgų.'
+  global_id: t-168140
+  teiginys: 'Komiteto pasiuntiniai slapta veikė Lietuvoje, telkdami krašte likusius inteligentus Lietuvos atstatymo darbui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-168141"></a>
 - t-003
+  global_id: t-168141
   teiginys: 'Lietuvių tremtiniai Rusijoje Lietuvių Komitetas, persikėlęs į Petrapilį (dabartinį Leningradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuomenės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).'
   pagrindžia:
     - c-005
 
+<a id="claim-t-168143"></a>
 - t-004
-  teiginys: 'Partijų kovoms nė tuomet neaprimus, Komitete kilo ginčų, ir trys paskutinieji (kairiųjų pažiūrų) nariai iš jo išstojo.'
+  global_id: t-168143
+  teiginys: 'Dėl partijų kovų Centraliniame Komitete kilo ginčų, ir trys kairiųjų pažiūrų nariai iš jo išstojo.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-168144"></a>
 - t-005
-  teiginys: 'Komitetas rūpinosi per savo atstovus Skandinavijoje ir Šveicarijoje ir lietuvių belaisviais Vokietijoje.'
+  global_id: t-168144
+  teiginys: 'Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Komiteto pasiuntiniai slapta veikė Lietuvoje, telkdami krašte likusius inteligentus Lietuvos atstatymo darbui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Komiteto pasiuntiniai slapta pasklido po Lietuvą burti
@@ -69,6 +80,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     - t-002
 
 - c-002
+  santrauka: 'Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuomet ir seniau išblaškyti po plačiąją
@@ -105,6 +117,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     - t-001
 
 - c-004
+  santrauka: 'Dėl partijų kovų Centraliniame Komitete kilo ginčų, ir trys kairiųjų pažiūrų nariai iš jo išstojo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Partijų kovoms nė tuomet
@@ -140,7 +153,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     - t-003
 
 - c-006
-  santrauka: 'Komitetas rūpinosi per savo atstovus Skandinavijoje ir Šveicarijoje ir lietuvių belaisviais Vokietijoje.'
+  santrauka: 'Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Studentams buvo duodamos pašalpos universitetuose ir

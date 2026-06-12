@@ -16,7 +16,9 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
 
 ## Teiginiai
 
+<a id="claim-t-42509"></a>
 - t-001
+  global_id: t-42509
   teiginys: 'Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose specialiosiose grupėse, kurioms paprastai vadovaudavo koks nors operatyvininkas.'
   pagrindžia:
     - c-001

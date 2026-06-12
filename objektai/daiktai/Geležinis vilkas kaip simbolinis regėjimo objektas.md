@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87078"></a>
 - t-001
+  global_id: t-87078
   teiginys: 'Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas priminė šimto vilkų staugimą.'
   pagrindžia:
     - c-001

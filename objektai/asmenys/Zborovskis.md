@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Zborovskis
 
 ## Santrauka
 
-Kojelavičius teigia, kad įdūkusi motina nė nežinojo, ką daryti; prašė ka ralių pagalbos, liedama ašaras, maldavo lenkų didikus užtarti, o labiausiai — Kališo vaivadą Zborovskį.
+Kunigaikščių dukterį išsivežus Dimitrui, jos motina maldavo lenkų didikus užtarti, ypač Kališo vaivadą Zborovskį.
 
 ## Teiginiai
 
+<a id="claim-t-186267"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad įdūkusi motina nė nežinojo, ką daryti; prašė ka ralių pagalbos, liedama ašaras, maldavo lenkų didikus užtarti, o labiausiai — Kališo vaivadą Zborovskį.'
+  global_id: t-186267
+  teiginys: 'Kunigaikščių dukterį išsivežus Dimitrui, jos motina maldavo lenkų didikus užtarti, ypač Kališo vaivadą Zborovskį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad įdūkusi motina nė nežinojo, ką daryti; prašė ka ralių pagalbos, liedama ašaras, maldavo lenkų didikus užtarti, o labiausiai — Kališo vaivadą Zborovskį.'
+  santrauka: 'Kunigaikščių dukterį išsivežus Dimitrui, jos motina maldavo lenkų didikus užtarti, ypač Kališo vaivadą Zborovskį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dimitras, matydamas, kad nie­
@@ -51,3 +52,9 @@ Kojelavičius teigia, kad įdūkusi motina nė nežinojo, ką daryti; prašė ka
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/vaivada]]

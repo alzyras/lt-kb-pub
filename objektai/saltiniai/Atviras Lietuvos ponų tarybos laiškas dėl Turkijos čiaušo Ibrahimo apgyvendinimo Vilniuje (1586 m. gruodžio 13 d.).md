@@ -25,12 +25,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88237"></a>
 - t-001
+  global_id: t-88237
   teiginys: '1586 m. gruodžio 13 d. Lietuvos ponų taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje ir nurodė pasirūpinti jo nakvyne bei saugumu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88238"></a>
 - t-002
+  global_id: t-88238
   teiginys: 'Šiame laiške po parašais yra penki antspaudai.'
   pagrindžia:
     - c-002

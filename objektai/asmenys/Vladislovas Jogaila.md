@@ -28,112 +28,156 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 
 ## Teiginiai
 
+<a id="claim-t-173225"></a>
 - t-001
+  global_id: t-173225
   teiginys: 'Jogaila sutelkė nemažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-173226"></a>
 - t-002
+  global_id: t-173226
   teiginys: 'Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-173227"></a>
 - t-003
+  global_id: t-173227
   teiginys: 'Jogaila Vilniaus seniūno pareigas pavedė Jonui Olesnickiui, kuris sustiprino abiejų pilių įgulas.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-173228"></a>
 - t-004
+  global_id: t-173228
   teiginys: '1397 m. Vladislovas Jogaila ir Vytautas Vilniaus vyskupui Andriui laidavo dviejų šimtų markių metines pajamas.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-173229"></a>
 - t-005
+  global_id: t-173229
   teiginys: '1401 m. Vladislovas Jogaila iš Vytauto gavo aktą, kad po Vytauto mirties Lietuva ir Rusia pereis karaliaus valdžion.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-173232"></a>
 - t-006
+  global_id: t-173232
   teiginys: 'Beginklis Jogaila su visa savo palyda buvo įkalintas pilyje ir daugybės kareivių saugojamas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-173235"></a>
 - t-007
+  global_id: t-173235
   teiginys: 'Vladislovas Jogaila paveldėjimo teise vėl suteikė Panerius katedrai ir Vilniaus kapitulai.'
   pagrindžia:
     - c-020
 
+<a id="claim-t-173236"></a>
 - t-008
+  global_id: t-173236
   teiginys: 'Pagal Vladislovo Jogailos potvarkį Vilniaus sargyba ir policija laikinai priklausė pilies tarnybai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-173237"></a>
 - t-009
+  global_id: t-173237
   teiginys: 'Tuomet, kai protai jau buvo nuteikti prieš didįjį kunigaikštį, karalius Vladislovas Jogaila, gerai žinodamas, kas Lietuvoje dedasi, ir suprasdamas, jog namų karui nebus galo, kol nepavyks brolio nuo šio krašto valdžios nušalinti, nusprendė didžiuoju.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-173238"></a>
 - t-010
+  global_id: t-173238
   teiginys: 'Karalius Vladislovas ir karalienė Jadvyga prašė pripažinti Vilnių miestu, o Šv. Stanislovo bažnyčią - katedra.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-173239"></a>
 - t-011
+  global_id: t-173239
   teiginys: 'Vladislovas Jogaila katedrai ir vyskupams skyrė nemažą Vilniaus miesto dalį nuo pilies iki Šv. Mikalojaus kapinių.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-173240"></a>
 - t-012
+  global_id: t-173240
   teiginys: 'Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėde Kęstučiu.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-173241"></a>
 - t-013
+  global_id: t-173241
   teiginys: 'Jogaila siekė Lenkijos sosto ir sumanė sukurti naują galingą valstybę Šiaurės Europoje.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-173242"></a>
 - t-014
+  global_id: t-173242
   teiginys: 'Bajoras Vaidila patarimais ir įtaka rėmė Jogailos politinius siekius.'
   pagrindžia:
     - c-021
 
+<a id="claim-t-173243"></a>
 - t-015
+  global_id: t-173243
   teiginys: 'Vladislovas Jogaila aplankė Lietuvą diegdamas naujo tikėjimo nuostatus ir, numaldęs bruzdėjimus Baltojoje Rusioje, grįžo į Vilnių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-173244"></a>
 - t-016
+  global_id: t-173244
   teiginys: '1390 m. Vladislovas Jogaila Vilniaus kapitulai suteikė privilegiją, kuria dovanojo Panerius.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-173245"></a>
 - t-017
+  global_id: t-173245
   teiginys: 'Vladislovas Jogaila nepasitikėjo Vytautu ir negrąžino jam nei Lietuvos valdymo, nei po Kęstučio mirties priklausiusio paveldo.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-173246"></a>
 - t-018
+  global_id: t-173246
   teiginys: 'Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija nesuteikė Vilniaus miestiečiams palankaus meto įgyti daugiau laisvių.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-173247"></a>
 - t-019
+  global_id: t-173247
   teiginys: 'Vladislovas Jogaila Vilniuje įsakė statyti Šv. Martyno ir Šv. Jono bažnyčias.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-173248"></a>
 - t-020
+  global_id: t-173248
   teiginys: 'Vladislovas Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-173249"></a>
 - t-021
+  global_id: t-173249
   teiginys: 'Algirdui užleidus sostą, jo sūnus Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią.'
   pagrindžia:
     - c-022
 
+<a id="claim-t-173250"></a>
 - t-022
+  global_id: t-173250
   teiginys: '1390 m. lapkritį Vladislovas Jogaila su gausia kariuomene parvyko iš Lenkijos į griuvėsiais virtusį Vilnių.'
   pagrindžia:
     - c-003

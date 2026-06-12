@@ -19,12 +19,16 @@ Kartu su jais atvyko keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosyli
 
 ## Teiginiai
 
+<a id="claim-t-35029"></a>
 - t-001
+  global_id: t-35029
   teiginys: 'Andrius Vosylius Jastrzębiecas buvo paskirtas Vilniaus vyskupu ir nuo Lietuvos krikšto pradžios vadovavo apaštalavimo darbui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-35030"></a>
 - t-002
+  global_id: t-35030
   teiginys: 'Cereteno vyskupas Andrius Vosylius atvyko kartu su Jogailos broliais, dvasininkais ir lietuvių bei lenkų didikais.'
   pagrindžia:
     - c-002

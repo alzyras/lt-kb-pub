@@ -17,12 +17,16 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
 
 ## Teiginiai
 
+<a id="claim-t-67306"></a>
 - t-001
+  global_id: t-67306
   teiginys: 'Lenkija pramanė „sukilimo“ pasaką, kad pateisintų Želigovskio kariuomenės Vilniaus užėmimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67307"></a>
 - t-002
+  global_id: t-67307
   teiginys: 'pramanė „sukilimo pasaką: iš tikro Želigovskio kariuomenė buvo taip sudaryta, kad joje būtų daug vilniškių ir artimų sričių žmonių: tuo būdu buvo lengviau teisintis, kad, esą, tos divizijos negalėjusios palikti neišvaduotos savo tėviškės, ir nužygiavusios, nepaisydamos santarvės rei-.'
   pagrindžia:
     - c-002

@@ -19,7 +19,9 @@ Todėl tik 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos valstybių politin
 
 ## Teiginiai
 
+<a id="claim-t-19658"></a>
 - t-001
+  global_id: t-19658
   teiginys: 'Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.'
   pagrindžia:
     - c-001

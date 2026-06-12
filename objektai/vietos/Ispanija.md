@@ -28,42 +28,58 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 
 ## Teiginiai
 
+<a id="claim-t-90458"></a>
 - t-001
+  global_id: t-90458
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip saracėnai nusiaubė Ispaniją 1266 viešpaties metais daugybė saracėnų, atkilusių iš Afrikos, užgrobė Ispaniją, vis dėlto ilgainiui krikščionys, pralieję nemaža savo kraujo, juos nugalėjo (Mart.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-90459"></a>
 - t-002
+  global_id: t-90459
   teiginys: 'Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekonomikos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-90460"></a>
 - t-003
+  global_id: t-90460
   teiginys: 'XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90461"></a>
 - t-004
+  global_id: t-90461
   teiginys: 'Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-90462"></a>
 - t-005
+  global_id: t-90462
   teiginys: 'Įvairiais duomenimis, nuo 1990 m. iš Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV, Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-90463"></a>
 - t-006
+  global_id: t-90463
   teiginys: 'Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-90464"></a>
 - t-007
+  global_id: t-90464
   teiginys: '1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį, o Ispanija žygio į Angliją nebekartojo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-90465"></a>
 - t-008
+  global_id: t-90465
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga 1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą akmenyje ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai ir lotyniškai.'
   pagrindžia:
     - c-007

@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02247"></a>
 - t-001
+  global_id: t-02247
   teiginys: '1800 m. prakalboje Milkės žodynui Kantas teigė, kad lietuvių kultūrinės teisės palaikytinos.'
   pagrindžia:
     - c-001

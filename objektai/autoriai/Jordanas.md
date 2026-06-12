@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-62623"></a>
 - t-001
+  global_id: t-62623
   teiginys: 'Jordanas buvo gotų istorikas.'
   pagrindžia:
     - c-001

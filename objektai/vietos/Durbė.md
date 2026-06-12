@@ -27,22 +27,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-67866"></a>
 - t-001
+  global_id: t-67866
   teiginys: 'Mindaugo ir vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių ordinu prie Saulės (1236), Durbės (1260) ir gausybėje kitų mūšių iki pat Žalgirio (1410).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67867"></a>
 - t-002
+  global_id: t-67867
   teiginys: '1260 m. liepos 13 d. prie Durbės žemaičiai sutriuškino jungtinę Vokiečių ir Livonijos ordinų kariuomenę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67868"></a>
 - t-003
+  global_id: t-67868
   teiginys: 'Vokiečiai siekė išsaugoti lietuvių blokuojamą Georgenburgą (Jurbarką), būrė dideles pajėgas Klaipėdoje, rengdamiesi dideliam puolimui, kuris galiausiai baigėsi mūšiu prie Durbės.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67869"></a>
 - t-004
+  global_id: t-67869
   teiginys: 'Lietuvių pajėgos Eiliuota Livonijos kronika, aprašydama Skuodo mūšį (1259 m.), mini žemaičius, bet vėliau, Durbės mūšio išvakarėse, prie Vartajų, Georgenburgo ir pačiame mūšyje — tik lietuvius arba „pagonis“.'
   pagrindžia:
     - c-004

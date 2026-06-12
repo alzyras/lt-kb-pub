@@ -16,7 +16,9 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
 
 ## Teiginiai
 
+<a id="claim-t-60435"></a>
 - t-001
+  global_id: t-60435
   teiginys: 'Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du kilmingieji bei galingieji [vyrai] Skumas ir Stucė su didele kariuomene patraukė prie Baigos.'
   pagrindžia:
     - c-001

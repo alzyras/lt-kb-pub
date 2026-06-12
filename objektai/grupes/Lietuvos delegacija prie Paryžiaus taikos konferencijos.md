@@ -24,37 +24,51 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
 
 ## Teiginiai
 
+<a id="claim-t-74635"></a>
 - t-001
+  global_id: t-74635
   teiginys: 'Versalio sistemoje Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-74636"></a>
 - t-002
+  global_id: t-74636
   teiginys: 'Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-74637"></a>
 - t-003
+  global_id: t-74637
   teiginys: 'Lietuvos delegacija prie Paryžiaus taikos konferencijos memorandumais, straipsniais ir pasisakymais kėlė Lietuvos pripažinimo problemą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74638"></a>
 - t-004
+  global_id: t-74638
   teiginys: 'Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74639"></a>
 - t-005
+  global_id: t-74639
   teiginys: 'Lietuvos delegacija prie Paryžiaus taikos konferencijos buvo instruktuota siekti išėjimo į jūrą per Klaipėdą arba Liepoją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-74640"></a>
 - t-006
+  global_id: t-74640
   teiginys: 'Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes Lietuva nebuvo juridinė konferencijos dalyvė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183152"></a>
 - t-007
+  global_id: t-183152
   teiginys: 'Memorandumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį į Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos delegacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame tarptautiniame forume, kurdama.'
   pagrindžia:
     - c-005

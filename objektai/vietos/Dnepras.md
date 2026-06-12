@@ -6,34 +6,39 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Dnepras
 
 ## Santrauka
 
-Kojelavičius teigia, kad kaidanas, pasiuntiniams per ilgai užsibuvus, įtarė, jog nesumani pasiuntinybė ap gaudinėjama atidėliojant reikalą ir persikėlė per Dneprą, norėdamas savo siekius paremti ginklu ir jėga pri versti paklusti jo valdžiai. Kojelavičius teigia, kad galop nugalėję lietuviai išvijo barbarus iš stovyklos: galybė priešų krito mūšyje, kur kas dau giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri gėrusių Dnepro ir Pripetės duburiuose. Kojelavičius teigia, kad netoli Dnepro Glinskį pasitiko šešios dešimtys tūkstančių maskvėnų.
+Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga priversti paklusti jo valdžiai. Lietuviams nugalėjus, daug bėgančių priešų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose. Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų.
 
 ## Teiginiai
 
+<a id="claim-t-185234"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kaidanas, pasiuntiniams per ilgai užsibuvus, įtarė, jog nesumani pasiuntinybė ap gaudinėjama atidėliojant reikalą ir persikėlė per Dneprą, norėdamas savo siekius paremti ginklu ir jėga pri versti paklusti jo valdžiai.'
+  global_id: t-185234
+  teiginys: 'Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga priversti paklusti jo valdžiai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185235"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad galop nugalėję lietuviai išvijo barbarus iš stovyklos: galybė priešų krito mūšyje, kur kas dau giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri gėrusių Dnepro ir Pripetės duburiuose.'
+  global_id: t-185235
+  teiginys: 'Lietuviams nugalėjus, daug bėgančių priešų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185236"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad netoli Dnepro Glinskį pasitiko šešios dešimtys tūkstančių maskvėnų.'
+  global_id: t-185236
+  teiginys: 'Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kaidanas, pasiuntiniams per ilgai užsibuvus, įtarė, jog nesumani pasiuntinybė ap gaudinėjama atidėliojant reikalą ir persikėlė per Dneprą, norėdamas savo siekius paremti ginklu ir jėga pri versti paklusti jo valdžiai.'
+  santrauka: 'Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga priversti paklusti jo valdžiai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Valdingai pasi-
@@ -50,7 +55,7 @@ Kojelavičius teigia, kad kaidanas, pasiuntiniams per ilgai užsibuvus, įtarė,
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad galop nugalėję lietuviai išvijo barbarus iš stovyklos: galybė priešų krito mūšyje, kur kas dau giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri gėrusių Dnepro ir Pripetės duburiuose.'
+  santrauka: 'Lietuviams nugalėjus, daug bėgančių priešų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tiesa, kai buvę toliau
@@ -73,7 +78,7 @@ Kojelavičius teigia, kad kaidanas, pasiuntiniams per ilgai užsibuvus, įtarė,
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad netoli Dnepro Glinskį pasitiko šešios dešimtys tūkstančių maskvėnų.'
+  santrauka: 'Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės

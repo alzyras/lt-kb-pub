@@ -36,85 +36,117 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
 
 ## Teiginiai
 
+<a id="claim-t-55211"></a>
 - t-001
+  global_id: t-55211
   teiginys: 'Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumentas buvo Karaliaučiaus Slaptajame archyve, o Kotzebue juos paskelbė „Prūsijos istorijoje“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55212"></a>
 - t-002
+  global_id: t-55212
   teiginys: 'Kai kurie Gedimino laiškai rašyti Vilniuje 1323 m. gegužės 26 d. ir Vilnių vadina karališkuoju miestu.'
   pagrindžia:
     - c-002
     - c-007
 
+<a id="claim-t-55213"></a>
 - t-003
+  global_id: t-55213
   teiginys: 'Foigtas ginčijo Gedimino laiškų autentiškumą ir jų parengimą priskyrė Rygos arkivyskupui.'
   pagrindžia:
     - c-003
     - c-008
     - c-009
 
+<a id="claim-t-55214"></a>
 - t-004
+  global_id: t-55214
   teiginys: 'Abejonės dėl Gedimino laiškų autentiškumo, Balińskio vertinimu, nepaneigia, kad Vilnius jau buvo miestas ir Gedimino sostinė.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-55215"></a>
 - t-005
+  global_id: t-55215
   teiginys: 'Balińskis Gedimino laiškus dėjo į papildymus kartu su lenkišku vertimu ir Foigto pastabomis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-55216"></a>
 - t-006
+  global_id: t-55216
   teiginys: 'Gedimino laiškai buvo adresuoti dominikonų ordino vyresniesiems, Mažesniųjų brolių ordinui ir pajūrio miestams.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-55217"></a>
 - t-007
+  global_id: t-55217
   teiginys: 'Trijuose Gedimino laiškuose buvo įrašytas antspaudo tikrumą ginantis prakeiksmas tiems, kurie juo nepatikėtų.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-171537"></a>
 - t-008
+  global_id: t-171537
   teiginys: '„Gedimino laiškus“ parengė V. Pašuta ir J. Stal, o leidinys išleistas Vilniuje 1966 m.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-171538"></a>
 - t-009
+  global_id: t-171538
   teiginys: 'Gediminas laiškais Vakarų šalims ir miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-171539"></a>
 - t-010
+  global_id: t-171539
   teiginys: 'Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-171541"></a>
 - t-011
+  global_id: t-171541
   teiginys: 'Laiškų autorius Mazovijos kunigaikštį vadino Bonislavu, todėl, pasak kritikos, prastai žinojo to meto Mazovijos valdovą.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-171542"></a>
 - t-012
+  global_id: t-171542
   teiginys: 'Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams rex; Algirdas laiškuose Bizantijos imperijai – bazileus).'
   pagrindžia:
     - c-017
 
+<a id="claim-t-171544"></a>
 - t-013
+  global_id: t-171544
   teiginys: 'Balińskis laikėsi nuomonės, kad Gedimino laiškai buvo Rygos arkivyskupo prasimanyti iš neapykantos kryžiuočiams.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-171545"></a>
 - t-014
+  global_id: t-171545
   teiginys: 'Kiti laiškų netikrumo įrodymai glūdi tiek jų turinyje, tiek posakiuose; ir viena, ir antra visai nebūdingi žmogui, dar tik norinčiam tapti krikščioniu ir tik vėliau privalėsiančiam perprasti krikščionišką mokymą ir išsilavinimą; tai veikiau žodžiai asmens.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-171546"></a>
 - t-015
+  global_id: t-171546
   teiginys: 'Gedimino laiškų netikrumo įrodymu laikyta užuomina apie Mazoviją kaip laisvą ir saugų kelią svetimšaliams į Lietuvą.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-171547"></a>
 - t-016
+  global_id: t-171547
   teiginys: 'Gediminas laiške žadėjo saugoti bažnytines teises, gerbti dvasininkiją ir gausinti Dievo šlovinimą.'
   pagrindžia:
     - c-018

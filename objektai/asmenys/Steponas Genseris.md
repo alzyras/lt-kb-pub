@@ -19,12 +19,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-87460"></a>
 - t-001
+  global_id: t-87460
   teiginys: 'Steponas Genseris buvo auksakalys, kurį karaliaus dekretas atleido nuo Vilniaus miesto jurisdikcijos ir cechų valdžios.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87461"></a>
 - t-002
+  global_id: t-87461
   teiginys: 'Auksakalys Steponas Genseris buvo pašauktas į teismą Vilniaus miesto auksakalių cecho reikalavimu.'
   pagrindžia:
     - c-001

@@ -41,17 +41,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75188"></a>
 - t-001
+  global_id: t-75188
   teiginys: 'Po LPS steigiamojo suvažiavimo organizuotas liaudies judėjimas tapo visuomenine jėga, galinčia mesti iššūkį komunistų partijai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75189"></a>
 - t-002
+  global_id: t-75189
   teiginys: 'LPS steigiamasis suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo bei demokratijos klausimais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75190"></a>
 - t-003
+  global_id: t-75190
   teiginys: 'Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.'
   pagrindžia:
     - c-003

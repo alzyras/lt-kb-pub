@@ -22,7 +22,9 @@ Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvir
 
 ## Teiginiai
 
+<a id="claim-t-31552"></a>
 - t-001
+  global_id: t-31552
   teiginys: 'Posakis „Toji tvirtovė yra pastatyta mano širdyje“ Eiliuotinėje kronikoje pateiktas kaip skundas dėl tvirtovės.'
   pagrindžia:
     - c-001

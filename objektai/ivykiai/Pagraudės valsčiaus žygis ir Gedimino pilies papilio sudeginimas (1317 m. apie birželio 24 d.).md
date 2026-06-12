@@ -41,17 +41,23 @@ Gedimino pilis liko nepaimta, bet jos papilys sudegintas; Sudargo kiemas ir apli
 
 ## Teiginiai
 
+<a id="claim-t-56681"></a>
 - t-001
+  global_id: t-56681
   teiginys: '1317 m. apie birželio 24 d. viena Ordino kariuomenės dalis nesėkmingai mėgino paimti Gedimino pilį, bet sudegino jos papilį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-56682"></a>
 - t-002
+  global_id: t-56682
   teiginys: 'To paties žygio metu kita kariuomenės dalis sunaikino Sudargo kiemą ir paėmė jo šeimą į nelaisvę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-56683"></a>
 - t-003
+  global_id: t-56683
   teiginys: 'Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis.'
   pagrindžia:
     - c-001

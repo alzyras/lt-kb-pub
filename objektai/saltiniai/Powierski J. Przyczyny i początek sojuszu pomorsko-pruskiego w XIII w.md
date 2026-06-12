@@ -22,7 +22,9 @@ Dusburgietis teigia, kad powierski J.
 
 ## Teiginiai
 
+<a id="claim-t-61244"></a>
 - t-001
+  global_id: t-61244
   teiginys: 'J. Powierskio straipsnis apie Pamario ir prūsų sąjungos priežastis bei pradžią XIII a. paskelbtas 1969 m. ABS 6 tome.'
   pagrindžia:
     - c-001

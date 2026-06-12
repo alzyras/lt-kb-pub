@@ -18,12 +18,16 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 
 ## Teiginiai
 
+<a id="claim-t-59140"></a>
 - t-001
+  global_id: t-59140
   teiginys: 'Dusburgietis teigia, kad pakėlusi kiekvienam broliui apsiaustą, ji parodė jų žaizdas ir randus, kurių jiems nešykštėjo netikėliai, kai gynė tikėjimą, ir pasakė: „Ar tau dabar neatrodo, kad štai šie tavo broliai yra šiek tiek kentėję dėl Jėzaus Kristaus vardo“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59141"></a>
 - t-002
+  global_id: t-59141
   teiginys: 'Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam vis dėlto leistų pasilikti savo brolių bendrijoje.'
   pagrindžia:
     - c-001

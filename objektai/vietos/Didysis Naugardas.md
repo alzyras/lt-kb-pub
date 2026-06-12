@@ -33,112 +33,156 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 
 ## Teiginiai
 
+<a id="claim-t-179774"></a>
 - t-001
-  teiginys: 'Naugardu, o Lietuvos įtakoje — Tverė.'
+  global_id: t-179774
+  teiginys: '1449 m. Kazimieras sutiko, kad Pskovas su Didžiuoju Naugardu liktų Maskvos įtakoje, o Tverė - Lietuvos įtakoje.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-179775"></a>
 - t-002
+  global_id: t-179775
   teiginys: '1428 m. Vytautas surengė paskutinį savo žygį į Didįjį Naugardą ir paėmė iš jo 10 000 rublių kontribuciją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-179776"></a>
 - t-003
+  global_id: t-179776
   teiginys: 'Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-179777"></a>
 - t-004
+  global_id: t-179777
   teiginys: 'Kazimierui pasidalijus įtakos sritimis su Maskva, Didysis Naugardas buvo paliktas Maskvos įtakoje.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-179778"></a>
 - t-005
+  global_id: t-179778
   teiginys: '1428 m. Naugardo ir Porchovo miestai, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribuciją.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-179779"></a>
 - t-006
+  global_id: t-179779
   teiginys: 'Pskovas ir Didysis Naugardas anksčiau už Vilnių virto tankiai gyvenamomis ir turtingesnėmis gyvenvietėmis.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-179780"></a>
 - t-007
+  global_id: t-179780
   teiginys: 'Mindaugas Didžiajame Naugarde sudarė sąjungą su Aleksandru Nevskiu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-179781"></a>
 - t-008
+  global_id: t-179781
   teiginys: '1428 m. Naugardas ir Porchovas sumokėjo Vytautui 10 000 rublių kontribuciją.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-179782"></a>
 - t-009
+  global_id: t-179782
   teiginys: 'Į Vilnių pasiųsti Didžiojo Naugardo bojarinai sudarė su Švitrigaila sutartį dėl saugumo ir prekybos laisvės.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-179783"></a>
 - t-010
+  global_id: t-179783
   teiginys: 'Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-179784"></a>
 - t-011
+  global_id: t-179784
   teiginys: 'Vytautas sutvarkė reikalus su Didžiuoju Naugardu ir Maskva, kaip anksčiau buvo padaręs Smolenske.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-179785"></a>
 - t-012
+  global_id: t-179785
   teiginys: 'Didysis Naugardas kurį laiką buvo pasidavęs Lietuvos įtakai, o jį valdė Gedimino sūnus Narimantas.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-179786"></a>
 - t-013
+  global_id: t-179786
   teiginys: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila saugumo ir prekybos laisvės sutartį.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-179787"></a>
 - t-014
+  global_id: t-179787
   teiginys: 'Jonas III po antrojo žygio 1479 m. prijungė Didįjį Naugardą prie Maskvos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-179789"></a>
 - t-015
+  global_id: t-179789
   teiginys: 'Be to, Rusios miestai, būtent Pskovas ir Didysis Naugardas, atsidūrė kitokiose aplinkybėse.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-179790"></a>
 - t-016
+  global_id: t-179790
   teiginys: 'Gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-179791"></a>
 - t-017
+  global_id: t-179791
   teiginys: 'Algirdo įtaka šiaurėje siekė Didžiojo Naugardo miesto respubliką.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-179792"></a>
 - t-018
+  global_id: t-179792
   teiginys: 'Algirdas ir Maskvos kunigaikštis siekė išplėsti savo įtaką Didžiajame Naugarde, Pskove, Smolenske ir Tverėje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-179793"></a>
 - t-019
+  global_id: t-179793
   teiginys: '1407 m. Vytautas susitaikė su Didžiuoju Naugardu ir grąžino ten sau ištikimą Lengvenį Algirdaitį.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-179794"></a>
 - t-020
+  global_id: t-179794
   teiginys: 'Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).'
   pagrindžia:
     - c-006
 
+<a id="claim-t-179795"></a>
 - t-021
+  global_id: t-179795
   teiginys: 'Didysis Naugardas netrukus išslydo iš Vytauto įtakos.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-179796"></a>
 - t-022
+  global_id: t-179796
   teiginys: 'Grįžimas namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas – pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).'
   pagrindžia:
     - c-019

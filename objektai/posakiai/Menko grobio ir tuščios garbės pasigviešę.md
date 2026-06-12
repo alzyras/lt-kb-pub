@@ -19,7 +19,9 @@ Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkirši
 
 ## Teiginiai
 
+<a id="claim-t-86863"></a>
 - t-001
+  global_id: t-86863
   teiginys: 'Apgultieji prancūzams priekaištavo, kad šie, menko grobio ir tuščios garbės pasigviešę, atvyko lieti krikščionių kraujo.'
   pagrindžia:
     - c-001

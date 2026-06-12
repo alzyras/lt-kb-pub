@@ -25,7 +25,9 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 
 ## Teiginiai
 
+<a id="claim-t-60421"></a>
 - t-001
+  global_id: t-60421
   teiginys: 'Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus bibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a.'
   pagrindžia:
     - c-001

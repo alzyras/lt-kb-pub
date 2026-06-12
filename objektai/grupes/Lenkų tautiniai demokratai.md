@@ -18,7 +18,9 @@ Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organiz
 
 ## Teiginiai
 
+<a id="claim-t-77826"></a>
 - t-001
+  global_id: t-77826
   teiginys: 'Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organizacijų, beveik visų lenkų (Lenkijos) politinių partijų padaliniai.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų okupa
 
 ## Teiginiai
 
+<a id="claim-t-77842"></a>
 - t-001
+  global_id: t-77842
   teiginys: 'Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų okupacijų lietuvių visuomenė aptarė savo istoriją, jausdamasi gavusi sunkią, bet esminę moralinę pamoką – atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok – tave gali panaudoti.'
   pagrindžia:
     - c-001

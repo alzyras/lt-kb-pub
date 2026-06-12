@@ -17,7 +17,9 @@ Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus krašto lenkų kom
 
 ## Teiginiai
 
+<a id="claim-t-22028"></a>
 - t-001
+  global_id: t-22028
   teiginys: 'Nepriklausomybės pradžioje Vilniaus krašto lenkų komunistiniai funkcionieriai planavo teritorinę autonomiją su Vilniaus apskritimi.'
   pagrindžia:
     - c-001

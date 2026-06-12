@@ -17,7 +17,9 @@ Suvažiavimo metu „už savarankišką LKP, turinčią savo programą ir statut
 
 ## Teiginiai
 
+<a id="claim-t-21256"></a>
 - t-001
+  global_id: t-21256
   teiginys: 'Už savarankišką LKP, turinčią savo programą ir statutą, balsavo 855 iš 1 033 delegatų, ir LKP atsiskyrė nuo SSKP.'
   pagrindžia:
     - c-001

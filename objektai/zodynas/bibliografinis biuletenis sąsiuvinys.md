@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-32766"></a>
 - t-001
+  global_id: t-32766
   teiginys: '1966 ir 1967 m. bibliografija Čikagoje išleista dviem sąsiuviniais kaip „Užsienio Lietuvių Spaudos Metraštis“.'
   pagrindžia:
     - c-001

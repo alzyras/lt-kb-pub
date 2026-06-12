@@ -27,12 +27,16 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
 
 ## Teiginiai
 
+<a id="claim-t-69563"></a>
 - t-001
+  global_id: t-69563
   teiginys: 'XII-XIII a. sąvartoje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami Latgaliją ir rytinę Vidžemės dalį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-69564"></a>
 - t-002
+  global_id: t-69564
   teiginys: 'Vidžemėje, Lietuvos pasienyje, jis turėjo savo kariuomenę.'
   pagrindžia:
     - c-002

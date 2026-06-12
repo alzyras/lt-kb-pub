@@ -24,7 +24,9 @@ Kiek tos kovos Kęstučio valdymo laiku padidėjo, rodo ir ta aplinkybė, kad vo
 
 ## Teiginiai
 
+<a id="claim-t-36448"></a>
 - t-001
+  global_id: t-36448
   teiginys: '1362 m. išgriovę Kauno pilį, vokiečiai pradėjo brautis gilyn į Lietuvą ir pasiekė Vilniaus bei Neries sritis.'
   pagrindžia:
     - c-001

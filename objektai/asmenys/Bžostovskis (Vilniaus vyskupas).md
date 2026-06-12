@@ -17,7 +17,9 @@ Vėliau Lietuvos metropolitu pradė­ jo skaitytis Gniezno arkivyskupas, bet iš
 
 ## Teiginiai
 
+<a id="claim-t-35043"></a>
 - t-001
+  global_id: t-35043
   teiginys: 'XVII a. pabaigoje Vilniaus vyskupas Bžostovskis atsisakė klausyti Gniezno arkivyskupo ir juridiškai buvo teisus.'
   pagrindžia:
     - c-001

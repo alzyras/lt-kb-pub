@@ -49,7 +49,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31440"></a>
 - t-001
+  global_id: t-31440
   teiginys: '1795 m. Lietuvos ir Lenkijos paskutinis padalinimas buvo laikomas viena kertinių politiškai svarbių Lietuvos istorijos datų.'
   pagrindžia:
     - c-001

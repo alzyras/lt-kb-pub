@@ -25,7 +25,9 @@ Vieno­ je Vytauto privilegijoje, suteiktoje Trakams, rašytoje pod lita Bożeho
 
 ## Teiginiai
 
+<a id="claim-t-88504"></a>
 - t-001
+  global_id: t-88504
   teiginys: '1384 m. Vytauto privilegija Trakams liudija, kad Trakai dar prieš Lietuvos krikštą buvo svarbus Lietuvos miestas.'
   pagrindžia:
     - c-001

@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40714"></a>
 - t-001
+  global_id: t-40714
   teiginys: 'Prie Vorsklos Vytauto įtvirtintoje stovykloje buvo geležinėmis grandinėmis kaustytų vežimų, patrankėlių, patrankų ir arbaletų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40715"></a>
 - t-002
+  global_id: t-40715
   teiginys: 'Timūr-Kutluko totoriai paėmė gurguolę, geležinėmis grandinėmis kaustytus vežimus, patrankas, patrankėles, arbaletus ir daug turto.'
   pagrindžia:
     - c-002

@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-87621"></a>
 - t-001
+  global_id: t-87621
   teiginys: 'Žygimantas Senasis rašė Vilniaus miestiečiui Andrejui Tyckiui dėl Smolensko muito ir smuklių arendavimo.'
   pagrindžia:
     - c-001

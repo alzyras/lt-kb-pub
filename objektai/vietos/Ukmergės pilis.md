@@ -18,7 +18,9 @@ Kelias suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs 
 
 ## Teiginiai
 
+<a id="claim-t-86109"></a>
 - t-001
+  global_id: t-86109
   teiginys: 'Kelias suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs į du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės pilį.'
   pagrindžia:
     - c-001

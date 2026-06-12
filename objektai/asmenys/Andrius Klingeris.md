@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Andrius Klingeris
 
 ## Santrauka
 
-Kojelavičius teigia, kad pasirašė Andrius Klingeris, jėzuitų Lietuvos provincijos viršininkas.
+Andrius Klingeris buvo jėzuitų Lietuvos provincijos viršininkas ir pasirašė leidimą spausdinti pirmąją „Lietuvos istorijos“ dalį.
 
 ## Teiginiai
 
+<a id="claim-t-186180"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pasirašė Andrius Klingeris, jėzuitų Lietuvos provincijos viršininkas.'
+  global_id: t-186180
+  teiginys: 'Andrius Klingeris buvo jėzuitų Lietuvos provincijos viršininkas ir pasirašė leidimą spausdinti pirmąją „Lietuvos istorijos“ dalį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pasirašė Andrius Klingeris, jėzuitų Lietuvos provincijos viršininkas.'
+  santrauka: 'Andrius Klingeris buvo jėzuitų Lietuvos provincijos viršininkas ir pasirašė leidimą spausdinti pirmąją „Lietuvos istorijos“ dalį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Toliau K. L. Sapiegai sakoma: „Lietuvos istorijos

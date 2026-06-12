@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Lietuvių įsiveržimas į Mazoviją ir Pultusko sudeginimas (1367 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad gal supykę dėl šios lenkų padarytos skriau dos, gal dėl to, kad žmonė- 1367 m e ta i se pasklido kalbos, jog, Po locko vyskupo patarti, kry žiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar das, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją pasiplėšti.
+Kęstučio vedami lietuviai įsiveržė į Mazoviją, užėmė Pultuską ir vėliau smarkiai nusiaubė visą kraštą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185811"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad gal supykę dėl šios lenkų padarytos skriau dos, gal dėl to, kad žmonė- 1367 m e ta i se pasklido kalbos, jog, Po locko vyskupo patarti, kry žiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar das, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją pasiplėšti.'
+  global_id: t-185811
+  teiginys: 'Kęstučio vedami lietuviai įsiveržė į Mazoviją, užėmė Pultuską ir vėliau smarkiai nusiaubė visą kraštą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad gal supykę dėl šios lenkų padarytos skriau dos, gal dėl to, kad žmonė- 1367 m e ta i se pasklido kalbos, jog, Po locko vyskupo patarti, kry žiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar das, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją pasiplėšti.'
+  santrauka: 'Kęstučio vedami lietuviai įsiveržė į Mazoviją, užėmė Pultuską ir vėliau smarkiai nusiaubė visą kraštą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat, nors visą Belzo
@@ -72,3 +73,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuviai]]

@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-96068"></a>
 - t-001
+  global_id: t-96068
   teiginys: '= Kolankowski, L., Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów.'
   pagrindžia:
     - c-001

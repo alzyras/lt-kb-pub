@@ -17,7 +17,9 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
 
 ## Teiginiai
 
+<a id="claim-t-32037"></a>
 - t-001
+  global_id: t-32037
   teiginys: 'Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau Grajevo ir Točilovo ežerų.'
   pagrindžia:
     - c-001

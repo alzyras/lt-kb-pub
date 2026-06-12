@@ -25,7 +25,9 @@ Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
 
 ## Teiginiai
 
+<a id="claim-t-35251"></a>
 - t-001
+  global_id: t-35251
   teiginys: 'Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.'
   pagrindžia:
     - c-001

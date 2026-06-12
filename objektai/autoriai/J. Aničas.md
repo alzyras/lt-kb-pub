@@ -16,7 +16,9 @@ Aničas.
 
 ## Teiginiai
 
+<a id="claim-t-39866"></a>
 - t-001
+  global_id: t-39866
   teiginys: 'J. Aničas parašė biografinę apybraižą „Generolas Silvestras Žukauskas (1861–1937)“.'
   pagrindžia:
     - c-001

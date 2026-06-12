@@ -24,7 +24,9 @@ p. 254, „TELEVIZIJOS LAIDA“, [nepublikuota]; Švedas V., Sausio 13-oji ir Au
 
 ## Teiginiai
 
+<a id="claim-t-39873"></a>
 - t-001
+  global_id: t-39873
   teiginys: 'V. Švedas 1994 m. VPU parengė bakalauro darbą „Sausio 13-oji ir Aukščiausios Tarybos rūmų gynimas“.'
   pagrindžia:
     - c-001

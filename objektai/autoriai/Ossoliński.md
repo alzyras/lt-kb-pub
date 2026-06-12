@@ -18,7 +18,9 @@ Goslickio gyvenimą ap­ rašė mokslininkas Ossoliński.
 
 ## Teiginiai
 
+<a id="claim-t-88048"></a>
 - t-001
+  global_id: t-88048
   teiginys: 'Mokslininkas Ossolińskis aprašė Lauryno Goslickio gyvenimą.'
   pagrindžia:
     - c-001

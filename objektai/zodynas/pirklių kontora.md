@@ -16,13 +16,17 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
 
 ## Teiginiai
 
+<a id="claim-t-03119"></a>
 - t-001
+  global_id: t-03119
   teiginys: 'Hanzos agentūros buvo vadinamos pirklių kontoromis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182970"></a>
 - t-002
-  teiginys: 'Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias pirklių kontoras).'
+  global_id: t-182970
+  teiginys: 'Polocke ir Kaune Hanza įsteigė savo agentūras, vadintas pirklių kontoromis.'
   pagrindžia:
     - c-002
 
@@ -44,7 +48,7 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
     - t-001
 
 - c-002
-  santrauka: 'Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias pirklių kontoras).'
+  santrauka: 'Polocke ir Kaune Hanza įsteigė savo agentūras, vadintas pirklių kontoromis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl prie Dauguvos

@@ -20,22 +20,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-75477"></a>
 - t-001
+  global_id: t-75477
   teiginys: 'Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių dinastija.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75478"></a>
 - t-002
+  global_id: t-75478
   teiginys: 'Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu bajorijai savo kilmę sieti su Palemono tradicija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75480"></a>
 - t-003
+  global_id: t-75480
   teiginys: 'Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75481"></a>
 - t-004
+  global_id: t-75481
   teiginys: 'Šia kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
   pagrindžia:
     - c-004

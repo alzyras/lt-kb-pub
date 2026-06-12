@@ -32,22 +32,30 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 
 ## Teiginiai
 
+<a id="claim-t-00043"></a>
 - t-001
+  global_id: t-00043
   teiginys: 'Būga kartu su Jauniumi vadino aisčių gimines aisčiais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64668"></a>
 - t-002
+  global_id: t-64668
   teiginys: 'K. Būga manė, kad dauguma gotiškos kilmės žodžių į baltų kalbas pateko per slavus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-64669"></a>
 - t-003
+  global_id: t-64669
   teiginys: 'K. Būga yra „Rinktinių Raštų“, sudarytų V. Zinkevičiaus ir išleistų Vilniuje 1958-1961 m., autorius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64672"></a>
 - t-004
+  global_id: t-64672
   teiginys: 'K. Būga parašė Die Vorgeschichte der aistischen (ibaltischen) Stämme im Lichte der Ortsnamenforschung.'
   pagrindžia:
     - c-004

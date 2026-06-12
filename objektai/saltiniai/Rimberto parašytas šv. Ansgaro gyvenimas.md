@@ -16,7 +16,9 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
 
 ## Teiginiai
 
+<a id="claim-t-29654"></a>
 - t-001
+  global_id: t-29654
   teiginys: 'Rimbertas apie 875 m. parašė šv. Ansgaro gyvenimą, kuriame minima, kad šis misijų reikalu buvo sustojęs Kurše.'
   pagrindžia:
     - c-001

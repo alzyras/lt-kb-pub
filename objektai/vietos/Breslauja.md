@@ -29,27 +29,37 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 
 ## Teiginiai
 
+<a id="claim-t-114195"></a>
 - t-001
+  global_id: t-114195
   teiginys: 'Breslauja priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ašmena ir Ukmerge.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-114196"></a>
 - t-002
+  global_id: t-114196
   teiginys: 'Jam į pagalbą atėjo Livonijos magistras ir jie Breslaujoje sujungė savo pajėgas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-114197"></a>
 - t-003
+  global_id: t-114197
   teiginys: 'Jaunučiui paskirtam žemių daliniui, be Vilniaus, priklausė Ašmena, Ukmergė ir Breslauja.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-114198"></a>
 - t-004
+  global_id: t-114198
   teiginys: 'Po Gedimino žūties 1337 m. Jaunutis paveldėjo Breslaują kartu su kitomis valdomis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-114199"></a>
 - t-005
+  global_id: t-114199
   teiginys: 'Breslauja su pilimi priklausė Jaunučiui paskirtam nedideliam žemių daliniui.'
   pagrindžia:
     - c-001

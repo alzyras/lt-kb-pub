@@ -27,7 +27,9 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
 
 ## Teiginiai
 
+<a id="claim-t-88023"></a>
 - t-001
+  global_id: t-88023
   teiginys: 'Hartknocho prielaida, kad Vilnius buvo vadinamas Castrum Gedemini, Balińskio tekste atmetama.'
   pagrindžia:
     - c-001

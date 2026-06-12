@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-21233"></a>
 - t-001
+  global_id: t-21233
   teiginys: 'Lietuva ir ES pasirašė Prekybos ir komercinio bei ekonominio bendradarbiavimo sutartį ir priėmė deklaraciją dėl politinio dialogo.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Beveik tuo pat metu buvo puolamas ir Alberto Žilio-Kęstučio būrio bunkeris �
 
 ## Teiginiai
 
+<a id="claim-t-42140"></a>
 - t-001
+  global_id: t-42140
   teiginys: 'Šimonių girioje netoli Sliepšiškio kaimo buvo puolamas Alberto Žilio-Kęstučio būrio bunkeris, kuriame žuvo 5 partizanai.'
   pagrindžia:
     - c-001

@@ -16,22 +16,30 @@ Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (sus
 
 ## Teiginiai
 
+<a id="claim-t-74872"></a>
 - t-001
+  global_id: t-74872
   teiginys: 'Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74873"></a>
 - t-002
+  global_id: t-74873
   teiginys: 'Algirdo didvalstybė Mongolų imperija XIII a.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74874"></a>
 - t-003
+  global_id: t-74874
   teiginys: 'XIII a. Mongolų imperija sudaužė Kijevo Rusią, o Lietuva pasinaudojo pergale ir pajungė kai kurias rusų žemes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74875"></a>
 - t-004
+  global_id: t-74875
   teiginys: 'Paprastai perimama ir žlugusios imperijos administracinė struktūra bei kultūros paveldas.'
   pagrindžia:
     - c-003

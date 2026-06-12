@@ -26,13 +26,17 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
 
 ## Teiginiai
 
+<a id="claim-t-67274"></a>
 - t-001
+  global_id: t-67274
   teiginys: 'Vytauto mirtis apibūdinta žodžiais, kad mirė tikrai mūsų tautos garbė.'
   pagrindžia:
     - c-001
     - c-002
 
+<a id="claim-t-67275"></a>
 - t-002
+  global_id: t-67275
   teiginys: 'Vytautas mirė susitaikęs su Dievu, o jo kūnas aštuonias dienas buvo viešai išstatytas žmonių atsisveikinimui.'
   pagrindžia:
     - c-003

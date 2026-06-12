@@ -27,7 +27,9 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 
 ## Teiginiai
 
+<a id="claim-t-60270"></a>
 - t-001
+  global_id: t-60270
   teiginys: '1330 m. Rygos miestiečiai patikėjo miestą, šeimas, laisves ir privilegijas Livonijos magistrui Eberhardui iš Manheimo.'
   pagrindžia:
     - c-001

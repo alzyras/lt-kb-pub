@@ -23,17 +23,23 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
 
 ## Teiginiai
 
+<a id="claim-t-90366"></a>
 - t-001
+  global_id: t-90366
   teiginys: 'Dusburgietis teigia, kad tada jis padalijo savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90367"></a>
 - t-002
+  global_id: t-90367
   teiginys: 'Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo metu brolis Meinhardas, magistras, nesitenkindamas lietuviams pridarytais nuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius, viską čia didžiausiais gaisrais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-90368"></a>
 - t-003
+  global_id: t-90368
   teiginys: 'Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių nuniokojimą 1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su savo kariuomene įsiveržti į Ariogalos valsčių, bet leidosi atkalbamas.'
   pagrindžia:
     - c-001

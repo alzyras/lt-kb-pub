@@ -17,7 +17,9 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
 
 ## Teiginiai
 
+<a id="claim-t-41749"></a>
 - t-001
+  global_id: t-41749
   teiginys: 'Po netikėto apšaudymo bolševikai buvo priversti iš Eigulių kaimo skubiai trauktis į Juodikio mišką.'
   pagrindžia:
     - c-001

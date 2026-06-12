@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86976"></a>
 - t-001
+  global_id: t-86976
   teiginys: 'Gediminas 1337 m. buvo nužudytas mūšyje su kryžiuočiais prie Bajerburgo pilies, netoli Veliuonos.'
   pagrindžia:
     - c-001

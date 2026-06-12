@@ -27,17 +27,23 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 
 ## Teiginiai
 
+<a id="claim-t-82653"></a>
 - t-001
+  global_id: t-82653
   teiginys: '1409 m. Vytautas artimose totorių žemėse įkurdino jam paklusnų chaną Saladiną, vyriausią Tochtamyšo sūnų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82654"></a>
 - t-002
+  global_id: t-82654
   teiginys: 'Saladinas citatoje vadinamas Tochtamišo sūnumi ir ištikimu Lietuvos sąjungininku, po kurio mirties įpėdinis Kerimberdėjus nepakluso Vytautui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82655"></a>
 - t-003
+  global_id: t-82655
   teiginys: 'Saladinas, Tochtamyšo sūnus, buvo sultonas ir ištikimas Lietuvos sąjungininkas.'
   pagrindžia:
     - c-002
@@ -102,3 +108,4 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 - [[objektai/asmenys/Henrikas Valpotas]]
 - [[objektai/asmenys/Tochtamyšas]]
 - [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas)]]
+- [[objektai/ivykiai/Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.)]]

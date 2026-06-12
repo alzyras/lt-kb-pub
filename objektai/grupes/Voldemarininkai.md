@@ -47,22 +47,30 @@ Politinė grupuotė.
 
 ## Teiginiai
 
+<a id="claim-t-45269"></a>
 - t-001
+  global_id: t-45269
   teiginys: 'Po Lenkijos ultimatumo ultraradikalieji voldemarininkai dėjosi prie krikščionių demokratų ir valstiečių liaudininkų opozicinių pasitarimų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45270"></a>
 - t-002
+  global_id: t-45270
   teiginys: 'Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“ lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir ultraradikalieji voldemarininkai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45271"></a>
 - t-003
+  global_id: t-45271
   teiginys: 'Voldemarininkai kartu su Šaulių sąjunga ir jaunaisiais tautininkais kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-45272"></a>
 - t-004
+  global_id: t-45272
   teiginys: 'O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vyriausybę jėga atsiimti Vilnių.'
   pagrindžia:
     - c-003

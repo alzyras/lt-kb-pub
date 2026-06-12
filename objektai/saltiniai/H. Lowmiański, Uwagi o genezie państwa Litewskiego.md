@@ -22,7 +22,9 @@ Lowmiański, Uwagi o genezie państwa Litewskiego, Przegląd Historyczny, 1961, 
 
 ## Teiginiai
 
+<a id="claim-t-31695"></a>
 - t-001
+  global_id: t-31695
   teiginys: 'H. Lowmiańskio straipsnis „Uwagi o genezie państwa Litewskiego“ 1961 m. paskelbtas „Przegląd Historyczny“ 1 numeryje, p. 127–140.'
   pagrindžia:
     - c-001

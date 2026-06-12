@@ -20,7 +20,9 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
 
 ## Teiginiai
 
+<a id="claim-t-183861"></a>
 - t-001
+  global_id: t-183861
   teiginys: 'Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą.'
   pagrindžia:
     - c-001

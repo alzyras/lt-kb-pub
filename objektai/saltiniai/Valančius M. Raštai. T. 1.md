@@ -22,7 +22,9 @@ Dusburgietis teigia, kad valančius M.
 
 ## Teiginiai
 
+<a id="claim-t-61336"></a>
 - t-001
+  global_id: t-61336
   teiginys: 'M. Valančiaus „Raštų“ pirmasis tomas išleistas Vilniuje 1972 m.'
   pagrindžia:
     - c-001

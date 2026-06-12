@@ -27,7 +27,9 @@ Pažymėtini Šležo stambesni darbai (at­ spaudai) : 1) «Klaipėdos miesto is
 
 ## Teiginiai
 
+<a id="claim-t-31763"></a>
 - t-001
+  global_id: t-31763
   teiginys: 'Šležo darbas „Klaipėdos miesto istorija 1252–1466“ buvo paskelbtas „MŽ“ 1933 m.'
   pagrindžia:
     - c-001

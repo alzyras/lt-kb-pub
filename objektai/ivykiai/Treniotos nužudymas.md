@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Treniotos nužudymas
 
 ## Santrauka
 
-Kojelavičius teigia, kad ke turi asmeninės sargybos kariai, kitados ištikimai rėmę Mindaugą, užpuolė ramiai einantį į pirtį Treniotą ir jį nužudė, kai dar nebuvo praėję nė metai nuo jo vieš patavimo pradžios.
+Keturi Mindaugą rėmę asmeninės sargybos kariai užpuolė į pirtį einantį Treniotą ir jį nužudė.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185776"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad ke turi asmeninės sargybos kariai, kitados ištikimai rėmę Mindaugą, užpuolė ramiai einantį į pirtį Treniotą ir jį nužudė, kai dar nebuvo praėję nė metai nuo jo vieš patavimo pradžios.'
+  global_id: t-185776
+  teiginys: 'Keturi Mindaugą rėmę asmeninės sargybos kariai užpuolė į pirtį einantį Treniotą ir jį nužudė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad ke turi asmeninės sargybos kariai, kitados ištikimai rėmę Mindaugą, užpuolė ramiai einantį į pirtį Treniotą ir jį nužudė, kai dar nebuvo praėję nė metai nuo jo vieš patavimo pradžios.'
+  santrauka: 'Keturi Mindaugą rėmę asmeninės sargybos kariai užpuolė į pirtį einantį Treniotą ir jį nužudė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto kada esti sau­
@@ -52,3 +53,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Treniota]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

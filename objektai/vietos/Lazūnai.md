@@ -16,7 +16,9 @@ Tai parodo, be kitko, iki pat dabar gudiškai kalbančiųjų plote, arti Nemuno,
 
 ## Teiginiai
 
+<a id="claim-t-32301"></a>
 - t-001
+  global_id: t-32301
   teiginys: 'Lazūnai, esantys į rytus nuo Lydos, minimi kaip lietuvių kalbos sala gudiškai kalbančiųjų plote arti Nemuno.'
   pagrindžia:
     - c-001

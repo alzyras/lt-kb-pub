@@ -19,7 +19,9 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
 
 ## Teiginiai
 
+<a id="claim-t-23528"></a>
 - t-001
+  global_id: t-23528
   teiginys: 'Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir žydų darinį.'
   pagrindžia:
     - c-001

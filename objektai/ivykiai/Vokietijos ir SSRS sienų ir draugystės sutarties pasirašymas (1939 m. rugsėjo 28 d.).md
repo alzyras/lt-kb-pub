@@ -33,12 +33,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75301"></a>
 - t-001
+  global_id: t-75301
   teiginys: '1939 m. rugsėjo 28 d. pasirašytos Reicho ir SSRS sienų ir draugystės sutarties slaptas protokolas Lietuvos teritoriją priskyrė SSRS įtakos sferai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75302"></a>
 - t-002
+  global_id: t-75302
   teiginys: 'Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).'
   pagrindžia:
     - c-002

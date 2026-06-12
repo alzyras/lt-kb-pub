@@ -16,7 +16,9 @@ Informacinių blokų apie karybą sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPER
 
 ## Teiginiai
 
+<a id="claim-t-41550"></a>
 - t-001
+  global_id: t-41550
   teiginys: 'Karolis Zikaras parengė informacinį bloką „Lietuvos karyba XIII a.“.'
   pagrindžia:
     - c-001

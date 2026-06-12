@@ -17,7 +17,9 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
 
 ## Teiginiai
 
+<a id="claim-t-36429"></a>
 - t-001
+  global_id: t-36429
   teiginys: 'Vytautas pastatė bažnyčią Naugardėlyje.'
   pagrindžia:
     - c-001

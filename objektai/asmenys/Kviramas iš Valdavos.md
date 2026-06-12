@@ -25,7 +25,9 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 
 ## Teiginiai
 
+<a id="claim-t-60373"></a>
 - t-001
+  global_id: t-60373
   teiginys: 'Kviramas iš Valdavos buvo vienas iš keturių prityrusių karių, kurių broliai neteko Sizditės pilies kautynėse.'
   pagrindžia:
     - c-001

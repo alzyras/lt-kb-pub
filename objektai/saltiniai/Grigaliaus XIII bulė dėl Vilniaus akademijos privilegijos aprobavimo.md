@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88422"></a>
 - t-001
+  global_id: t-88422
   teiginys: '1578 m. Steponas Batoras funduotoms mokykloms suteikė Akademijos vardą ir prilygino jas kitoms akademijoms.'
   pagrindžia:
     - c-001

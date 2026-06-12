@@ -16,7 +16,9 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
 
 ## Teiginiai
 
+<a id="claim-t-18765"></a>
 - t-001
+  global_id: t-18765
   teiginys: 'Alberto Vijūko-Kojalavičiaus lituanistiniai darbai skleidė Vilniaus intelektinę įtaką Lietuvoje.'
   pagrindžia:
     - c-001

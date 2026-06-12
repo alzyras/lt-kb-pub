@@ -19,7 +19,9 @@ Prancū­ zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o im
 
 ## Teiginiai
 
+<a id="claim-t-87516"></a>
 - t-001
+  global_id: t-87516
   teiginys: 'Prancūzai pasirinko Prahą dvikovos vieta, o imperatorių Vaclovą - abiejų tautų teisėju.'
   pagrindžia:
     - c-001

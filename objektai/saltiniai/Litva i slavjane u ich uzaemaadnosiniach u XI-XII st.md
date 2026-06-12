@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31831"></a>
 - t-001
+  global_id: t-31831
   teiginys: 'M. Liubavskio „Litva i slavjane u ich uzaemaadnosiniach u XI-XII st.“ buvo paskelbtas 1929 m. „Zapiski addzelu gumanitarnych navuk“ VIII tome.'
   pagrindžia:
     - c-001

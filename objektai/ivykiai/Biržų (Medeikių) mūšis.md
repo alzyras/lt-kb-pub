@@ -43,17 +43,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-80668"></a>
 - t-001
+  global_id: t-80668
   teiginys: 'Lietuvos sukilėlių kovinio dalgio kopija @ Gegužės 7 d. atvykę į Medeikius rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-80669"></a>
 - t-002
+  global_id: t-80669
   teiginys: 'Mūšio pasekmės Kautynės Biržų girioje buvo didžiausios per visą 1863-1864 m. sukilimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-80670"></a>
 - t-003
+  global_id: t-80670
   teiginys: 'Ganeckio rinktinė pasuko iš Medeikių į Biržų girią vedlio nurodyta kryptimi ir ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
   pagrindžia:
     - c-002

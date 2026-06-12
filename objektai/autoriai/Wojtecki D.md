@@ -25,7 +25,9 @@ Dusburgietis teigia, kad l., Die Eroberung..., 3, p. 3; Wojtecki D., Studien...,
 
 ## Teiginiai
 
+<a id="claim-t-60819"></a>
 - t-001
+  global_id: t-60819
   teiginys: 'D. Wojteckis Sembos puolimą datavo 1252–1253 m. žiema.'
   pagrindžia:
     - c-001

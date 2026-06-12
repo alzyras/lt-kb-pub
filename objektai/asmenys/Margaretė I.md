@@ -17,7 +17,9 @@ J 4 as 4 ) ANGLIJA a Atlanto vang etna < N Margaretą |.
 
 ## Teiginiai
 
+<a id="claim-t-80700"></a>
 - t-001
+  global_id: t-80700
   teiginys: 'J 4 as 4 ) ANGLIJA a Atlanto vang etna < N Margaretą |.'
   pagrindžia:
     - c-001

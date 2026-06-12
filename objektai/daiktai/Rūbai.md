@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87119"></a>
 - t-001
+  global_id: t-87119
   teiginys: 'Rūbai į Vilnių patekdavo iš Lenkijos ir Livonijos.'
   pagrindžia:
     - c-001

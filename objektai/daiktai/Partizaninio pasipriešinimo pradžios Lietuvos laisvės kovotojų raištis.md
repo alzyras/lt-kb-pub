@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40745"></a>
 - t-001
+  global_id: t-40745
   teiginys: 'Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis buvo naudotas Pietų Lietuvoje.'
   pagrindžia:
     - c-001

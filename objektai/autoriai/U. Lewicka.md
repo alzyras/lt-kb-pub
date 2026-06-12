@@ -25,7 +25,9 @@ Lewicka ir J.
 
 ## Teiginiai
 
+<a id="claim-t-31019"></a>
 - t-001
+  global_id: t-31019
   teiginys: 'U. Lewicka kartu su J. Pochodowicz redagavo „Bibliografia Regionu Białostockiego“ pirmąjį tomą.'
   pagrindžia:
     - c-001

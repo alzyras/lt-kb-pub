@@ -16,7 +16,9 @@ Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių 
 
 ## Teiginiai
 
+<a id="claim-t-78062"></a>
 - t-001
+  global_id: t-78062
   teiginys: 'Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių sukurta Europa, siekusi Elbę.'
   pagrindžia:
     - c-001
@@ -36,3 +38,7 @@ Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Karolio Didžiojo žygis prieš langobardus (776 m.)]]

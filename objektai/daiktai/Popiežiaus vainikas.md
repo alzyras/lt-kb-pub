@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59702"></a>
 - t-001
+  global_id: t-59702
   teiginys: 'Dusburgietis teigia, kad mat jo žirgas suklupo, jį užvertė akmenys, o jam nuo galvos nulėkė vainikas, iš kurio iškrito ir pradingo brangakmenis rubinas, įtaisytas vainiko viršuje ir kainavęs galybę pinigo, o šitai parodė, kokia būsianti jo ateitis (Mart.'
   pagrindžia:
     - c-001

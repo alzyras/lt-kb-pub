@@ -11,7 +11,6 @@ tags:
   - pilis
   - sąvoka
 ---
-
 # regula
 
 ## Santrauka
@@ -20,13 +19,17 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
 
 ## Teiginiai
 
+<a id="claim-t-82094"></a>
 - t-001
+  global_id: t-82094
   teiginys: 'Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių iš Lenkijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184637"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad didžiai pasi keitus aplinkybėms, jo širdis ten palinko niekinti visa, kas žemiška, todėl, išpažinęs griežtesnių regulų gyve nimą pagal Grigorijaus iš Polonos mokslą, gyveno Galiče.'
+  global_id: t-184637
+  teiginys: 'Vaišvilkas Galiče išpažino griežtesnių regulų gyvenimą pagal Grigorijaus iš Polonos mokslą.'
   pagrindžia:
     - c-002
 
@@ -61,7 +64,7 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad didžiai pasi keitus aplinkybėms, jo širdis ten palinko niekinti visa, kas žemiška, todėl, išpažinęs griežtesnių regulų gyve nimą pagal Grigorijaus iš Polonos mokslą, gyveno Galiče.'
+  santrauka: 'Vaišvilkas Galiče išpažino griežtesnių regulų gyvenimą pagal Grigorijaus iš Polonos mokslą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vaišvilkas mat, pasipiktinęs savo tėvo Min­
@@ -82,3 +85,17 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/ivykiai/Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės]]
+- [[objektai/autoriai/Antoni Melissanius de Macro]]
+- [[objektai/ivykiai/Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje]]
+- [[objektai/asmenys/Petras Goštautas]]
+- [[objektai/grupes/Vilniaus magistratas]]
+- [[objektai/autoriai/Waddyngas Luca Vaddingo]]
+- [[objektai/zodynas/vaitas ir tarėjai]]
+- [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/asmenys/Grigorijus iš Polonos]]

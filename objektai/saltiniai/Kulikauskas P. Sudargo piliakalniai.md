@@ -23,7 +23,9 @@ Dusburgietis teigia, kad kulikauskas P.
 
 ## Teiginiai
 
+<a id="claim-t-61109"></a>
 - t-001
+  global_id: t-61109
   teiginys: 'P. Kulikausko straipsnis „Sudargo piliakalniai“ paskelbtas leidinyje „Istorija“ Vilniuje 1975 m.'
   pagrindžia:
     - c-001

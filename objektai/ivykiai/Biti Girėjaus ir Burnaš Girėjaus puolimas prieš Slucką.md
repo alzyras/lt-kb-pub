@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką
 
 ## Santrauka
 
-Kojelavičius teigia, kad mengli Girėjaus kariai, veda mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža los. Kojelavičius teigia, kad mirus Slucko kunigaikščiui Simonui Olelkaičiui, jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp jūčio viduryje užpuolė Slucką.
+Mengli Girėjaus kariuomenė, vadovaujama jo sūnaus, nusiaubė Lietuvą ir padarė daug žalos. Po Slucko kunigaikščio Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185695"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mengli Girėjaus kariai, veda mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža los.'
+  global_id: t-185695
+  teiginys: 'Mengli Girėjaus kariuomenė, vadovaujama jo sūnaus, nusiaubė Lietuvą ir padarė daug žalos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185696"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad mirus Slucko kunigaikščiui Simonui Olelkaičiui, jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp jūčio viduryje užpuolė Slucką.'
+  global_id: t-185696
+  teiginys: 'Po Slucko kunigaikščio Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mengli Girėjaus kariai, veda mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža los.'
+  santrauka: 'Mengli Girėjaus kariuomenė, vadovaujama jo sūnaus, nusiaubė Lietuvą ir padarė daug žalos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Išklausė
@@ -56,7 +59,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad mirus Slucko kunigaikščiui Simonui Olelkaičiui, jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp jūčio viduryje užpuolė Slucką.'
+  santrauka: 'Po Slucko kunigaikščio Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mirus Slucko kunigaikščiui Simonui Olelkaičiui,
@@ -77,3 +80,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Biti Girėjus]]
+- [[objektai/asmenys/Burnaš Girėjus]]
+- [[objektai/asmenys/Mengli Girėjus]]

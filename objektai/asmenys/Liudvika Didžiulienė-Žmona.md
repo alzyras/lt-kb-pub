@@ -25,7 +25,9 @@ Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavi
 
 ## Teiginiai
 
+<a id="claim-t-26452"></a>
 - t-001
+  global_id: t-26452
   teiginys: 'Liudvika Didžiulienė-Žmona 1912 m. Vilniuje dalyvavo Lietuvių mokslo draugijos suvažiavime.'
   pagrindžia:
     - c-001

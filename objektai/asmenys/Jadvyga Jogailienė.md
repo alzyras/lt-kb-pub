@@ -28,117 +28,163 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 
 ## Teiginiai
 
+<a id="claim-t-12172"></a>
 - t-001
+  global_id: t-12172
   teiginys: 'Jadvyga laišku priminė Vytautui, kad Jogailos valdytos Lietuvos ir Rusijos žemės buvo jai užrašytos kraičiu.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-12173"></a>
 - t-002
+  global_id: t-12173
   teiginys: 'Lenkų karalaitė Jadvyga buvo pažadėta Vilhelmui Habsburgui, bet ją vedė Jogaila.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-176413"></a>
 - t-003
+  global_id: t-176413
   teiginys: 'Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino didįjį magistrą 1385 m. rugpjūtį pulti Lietuvą.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-176414"></a>
 - t-004
+  global_id: t-176414
   teiginys: 'Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176415"></a>
 - t-005
+  global_id: t-176415
   teiginys: 'Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota Lenkijos karaliumi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176416"></a>
 - t-006
+  global_id: t-176416
   teiginys: 'Jadvyga Jogailienė 1387 metų sausį atvyko į Vilnių kartu su Vladislovu Jogaila ir kitais krikščionybės skleidėjais.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-176417"></a>
 - t-007
+  global_id: t-176417
   teiginys: 'Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais rykais ir visokia manta.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-176418"></a>
 - t-008
+  global_id: t-176418
   teiginys: 'Jadvyga buvo tikroji jungtis, jungusi Jogailą su Lenkų karalyste, nes tik jos vaikai tegalėjo tikėtis paveldėti sostą.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-176420"></a>
 - t-009
+  global_id: t-176420
   teiginys: 'Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino Konradą Ciolnerį Rotenšteiną 1385 metais pulti Lietuvą.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-176421"></a>
 - t-010
+  global_id: t-176421
   teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-176422"></a>
 - t-011
+  global_id: t-176422
   teiginys: 'Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-176423"></a>
 - t-012
+  global_id: t-176423
   teiginys: '1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-176424"></a>
 - t-013
+  global_id: t-176424
   teiginys: 'Jadvyga Jogailienė 1392 m. rugpjūčio 5 d. Astravoje gavo Onos Vytautienės laidavimą, kad Vytautas laikysis taikos sąlygų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176425"></a>
 - t-014
+  global_id: t-176425
   teiginys: 'Jadvyga laišku priminė Vytautui, kad Jogailos prieš vedybas valdytos Lietuvos ir Rusijos žemės jai užrašytos kraičiu.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-176427"></a>
 - t-015
+  global_id: t-176427
   teiginys: 'Pastarąjį susiartinimą pagreitino labai netikėta Jadvygos mirtis, ištikusi pora savaičių prieš Vorsklos mūšį.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-176428"></a>
 - t-016
+  global_id: t-176428
   teiginys: 'Krėvos sutarties sąlygomis Jogaila turėjo vesti Lenkijos karalaitę Jadvygą.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-176429"></a>
 - t-017
+  global_id: t-176429
   teiginys: 'Jadvyga reikalavo, kad Vytautas mokėtų jai metinį činšą už Lietuvos ir Rusijos žemes, užrašytas jai kraičiu.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-176430"></a>
 - t-018
+  global_id: t-176430
   teiginys: 'Jadvyga buvo viena iš dviejų dukterų, kurioms tėvas paskyrė Vengrijos ir Lenkijos karalystes.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-176431"></a>
 - t-019
+  global_id: t-176431
   teiginys: 'Jadvyga Jogailienė buvo Vengrų karalienės Elžbietos duktė.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-176432"></a>
 - t-020
-  teiginys: 'Su pačia Jadvyga nebuvo ko kalbėti, nes ji tebuvo dar vos 14 metų mergaitė, buvo įsimylėjusi savo sužadėtinį Vilhelmą ir apie Jogailą nenorėjo nė klausyti.'
+  global_id: t-176432
+  teiginys: 'Būdama 14 metų Jadvyga Jogailienė buvo įsimylėjusi sužadėtinį Vilhelmą ir nenorėjo tekėti už Jogailos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-176433"></a>
 - t-021
+  global_id: t-176433
   teiginys: '1386 m. vasario 18 d. Jogaila susituokė su Jadvyga, o kovo 4 d. buvo karūnuotas Lenkijos karaliumi.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-176434"></a>
 - t-022
+  global_id: t-176434
   teiginys: 'Karalienė Jadvyga iš savo lobyno apdovanojo pašventintą Vilniaus bažnyčią brangiais rykais ir kita manta.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-184263"></a>
 - t-023
+  global_id: t-184263
   teiginys: 'Dlugošas rašė, kad Jadvyga Jogailienė buvo atvykusi į Lietuvą, bet šaltinyje nurodoma, jog tai nėra tikra.'
   pagrindžia:
     - c-019
@@ -187,6 +233,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   statusas: verified
 
 - c-004
+  santrauka: 'Būdama 14 metų Jadvyga Jogailienė buvo įsimylėjusi sužadėtinį Vilhelmą ir nenorėjo tekėti už Jogailos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Su pačia Jadvyga nebuvo ko kalbėti, nes ji tebuvo dar vos

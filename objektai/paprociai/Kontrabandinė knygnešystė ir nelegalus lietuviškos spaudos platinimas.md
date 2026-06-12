@@ -44,27 +44,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54251"></a>
 - t-001
+  global_id: t-54251
   teiginys: 'Lietuvių spaudos draudimo laikotarpiu Rytprūsiuose išleista daugiau kaip 1 800 lietuviškų knygų pavadinimų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54252"></a>
 - t-002
+  global_id: t-54252
   teiginys: 'Vyskupas ragino nepriimti valdžios peršamų knygų ir slapta organizavo lietuviškos spaudos spausdinimą Rytprūsiuose bei platinimą Lietuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54254"></a>
 - t-003
-  teiginys: 'Spaudos draudimo laikotarpiu Rytprūsiuose išleista daugiau kaip 1 800 lietuviškų knygų pavadinimų Didžiajai Lietuvai.'
-  pagrindžia:
-    - c-002
-
-- t-004
+  global_id: t-54254
   teiginys: 'Lietuviška spauda tradiciniu raidynu buvo spausdinama Rytprūsiuose ir nelegaliai platinama Lietuvoje.'
   pagrindžia:
     - c-001
 
-- t-005
+<a id="claim-t-183314"></a>
+- t-004
+  global_id: t-183314
   teiginys: 'Nepaisant griežtų bausmių knygnešiams, nelegalus lietuviškos spaudos platinimas palaikė spaudos srautą į Lietuvą.'
   pagrindžia:
     - c-002
@@ -83,7 +86,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-002
   santrauka: 'Nepaisant griežtų bausmių knygnešiams, nelegalus lietuviškos spaudos platinimas palaikė spaudos srautą į Lietuvą.'
@@ -108,7 +111,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
     - t-001
 
 ## Ryšiai

@@ -19,7 +19,9 @@ Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovy
 
 ## Teiginiai
 
+<a id="claim-t-42096"></a>
 - t-001
+  global_id: t-42096
   teiginys: 'Lapkritį Gedimino kariuomenė siaubė Rezeknės regioną Livonijos pietryčiuose.'
   pagrindžia:
     - c-001

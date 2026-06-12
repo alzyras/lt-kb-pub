@@ -21,7 +21,6 @@ amziai:
   - 'X'
   - 'XV'
 ---
-
 # Saracėnai
 
 ## Santrauka
@@ -30,18 +29,24 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 
 ## Teiginiai
 
+<a id="claim-t-63210"></a>
 - t-001
+  global_id: t-63210
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totorių Taip pat tuo metu Almimolinas, saracėnų valdovas, atvyko su begaline gausybe karių į Ispaniją ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-63211"></a>
 - t-002
+  global_id: t-63211
   teiginys: 'Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių, 596 1241 m. įvykiai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184583"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad valdo vų posėdyje jis visą laiką ra gino sudaryti santarvę, sutelktomis jėgomis numalšinti husitus, pirmiausia, žinoma, Čekijoje, o vėliau visą kariuomenę nukreipti prieš turkus ir saracėnus, kerši jant už Rytų imperijos griovimą.'
+  global_id: t-184583
+  teiginys: '1429 m. valdovų posėdyje imperatorius ragino po husitų numalšinimo kariuomenę nukreipti prieš turkus ir saracėnus.'
   pagrindžia:
     - c-003
 
@@ -79,7 +84,7 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad valdo vų posėdyje jis visą laiką ra gino sudaryti santarvę, sutelktomis jėgomis numalšinti husitus, pirmiausia, žinoma, Čekijoje, o vėliau visą kariuomenę nukreipti prieš turkus ir saracėnus, kerši jant už Rytų imperijos griovimą.'
+  santrauka: '1429 m. valdovų posėdyje imperatorius ragino po husitų numalšinimo kariuomenę nukreipti prieš turkus ir saracėnus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai todėl vienaip kalbėjo im­
@@ -107,3 +112,30 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Almimolinas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/duoklė]]
+- [[objektai/zodynas/marobortinai]]
+- [[objektai/ivykiai/Almimolino žygis į Ispaniją ir pralaimėjimas]]
+- [[objektai/grupes/Armėnai]]
+- [[objektai/autoriai/Canaparius]]
+- [[objektai/asmenys/Ferdinandas (Kastilijos karalius)]]
+- [[objektai/ivykiai/Ferdinando pergalė prieš Granados karalių]]
+- [[objektai/grupes/Gruzinai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Maljorkos ir Menorkos salų užėmimas (1230 m.)]]
+- [[objektai/zodynas/Municipalinė teisėtvarka]]
+- [[objektai/zodynas/Municipalinė teisėtvarka municipaliniai nuostatai]]
+- [[objektai/daiktai/Mūro sienos]]
+- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
+- [[objektai/asmenys/Otonas Didysis]]
+- [[objektai/asmenys/Sventopelkas]]
+- [[objektai/ivykiai/Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos]]
+- [[objektai/ivykiai/Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.)]]
+- [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
+- [[objektai/ivykiai/tūkstančių saracėnų žūtis totorių žygyje (1300 m.)]]
+- [[objektai/grupes/Husitai]]

@@ -19,12 +19,16 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
 
 ## Teiginiai
 
+<a id="claim-t-60996"></a>
 - t-001
+  global_id: t-60996
   teiginys: 'Pakartoto Įstatymo knygoje kerštas priskiriamas Viešpačiui, sakant: „Mano yra kerštas, ir aš atlyginsiu“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60997"></a>
 - t-002
+  global_id: t-60997
   teiginys: 'Pakartoto Įstatymo knygos žodžiais buvo guodžiami į karą einantys žmonės, raginant nebijoti gausesnės priešų kariuomenės.'
   pagrindžia:
     - c-002

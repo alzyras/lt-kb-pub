@@ -26,7 +26,9 @@ Kai Lenkų Liaudies respublikoje istorijos mokslas buvo perorganizuotas, nutruko
 
 ## Teiginiai
 
+<a id="claim-t-31850"></a>
 - t-001
+  global_id: t-31850
   teiginys: '„Monumenta Poloniae Vaticana“ leidimas nutrūko 1950 m., kai Lenkų Liaudies Respublikoje buvo perorganizuotas istorijos mokslas.'
   pagrindžia:
     - c-001

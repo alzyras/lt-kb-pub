@@ -19,7 +19,9 @@ Po to, kai Kuršo vyskupas Engelbertas ir tos bažnyčios dvasininkai su visa ti
 
 ## Teiginiai
 
+<a id="claim-t-80713"></a>
 - t-001
+  global_id: t-80713
   teiginys: 'Kuršo vyskupas Engelbertas buvo išnaikintas kartu su tos bažnyčios dvasininkais ir tikinčiųjų tauta.'
   pagrindžia:
     - c-001

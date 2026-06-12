@@ -49,12 +49,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54747"></a>
 - t-001
+  global_id: t-54747
   teiginys: 'Istorikų darbai buvo aptarinėjami bajorų pobūviuose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54748"></a>
 - t-002
+  global_id: t-54748
   teiginys: 'Privačiose kolekcijose buvo kaupiami archeologiniai radiniai ir meno objektai.'
   pagrindžia:
     - c-001

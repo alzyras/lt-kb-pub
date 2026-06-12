@@ -18,7 +18,9 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 
 ## Teiginiai
 
+<a id="claim-t-87871"></a>
 - t-001
+  global_id: t-87871
   teiginys: 'Tšecieskis buvo vienas iš talentingų reformatų, kuriems nepavyko sutelkti pakankamai stiprių pajėgų kovai su jėzuitais.'
   pagrindžia:
     - c-001

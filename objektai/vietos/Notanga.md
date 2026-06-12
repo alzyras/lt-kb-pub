@@ -12,7 +12,6 @@ tags:
   - upė
   - vieta
 ---
-
 # Notanga
 
 ## Santrauka
@@ -21,38 +20,52 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 
 ## Teiginiai
 
+<a id="claim-t-91217"></a>
 - t-001
+  global_id: t-91217
   teiginys: 'Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-91218"></a>
 - t-002
+  global_id: t-91218
   teiginys: 'Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau, išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-91219"></a>
 - t-003
+  global_id: t-91219
   teiginys: 'Dusburgietis teigia, kad dieną netikėlių kariuomenė įsibrovė į Notangą, nusiaubė jos didžiąją dalį, degindama ir plėšdama, ir nužudė bei paėmė į nelaisvę 250 krikščionių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-91220"></a>
 - t-004
+  global_id: t-91220
   teiginys: 'Dusburgietis teigia, kad siaurės rytuose priėjo Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais priskiriama Notangai).'
   pagrindžia:
     - c-006
 
+<a id="claim-t-91221"></a>
 - t-005
+  global_id: t-91221
   teiginys: 'Dusburgietis teigia, kad apie vienos Notangos dalies nuniokojimą Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais], kurie jam buvo paklusnūs, ir įsibrovė į vieną Notangos žemės pakraštį [confinium], nenorėjusį pritarti taikos sutartims.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-91222"></a>
 - t-006
+  global_id: t-91222
   teiginys: 'Dusburgietis teigia, kad apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių Kai prakeiktasis Sventopelkas pasipriešino broliams ir paskatino Prūsijos žemės naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma, nei vandenimis — upe.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185073"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad per Notangos kraštą įžengę į priešų žemę, jie, ketindami per kelti karo židinį į šalies gilumą, Prūsijos centre parin P rūsai išsiža d a k r i k ščio n ių tik ė jim o ir a tsim e ta n u o k r y žiu o čių riuos beįmanė pagauti, žiau riai nukankino; jie.'
+  global_id: t-185073
+  teiginys: 'Kariuomenė per Notangos kraštą įžengė į priešų žemę ir Prūsijos centre pasirinko stovyklos vietą.'
   pagrindžia:
     - c-007
 
@@ -158,7 +171,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-004
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad per Notangos kraštą įžengę į priešų žemę, jie, ketindami per kelti karo židinį į šalies gilumą, Prūsijos centre parin P rūsai išsiža d a k r i k ščio n ių tik ė jim o ir a tsim e ta n u o k r y žiu o čių riuos beįmanė pagauti, žiau riai nukankino; jie.'
+  santrauka: 'Kariuomenė per Notangos kraštą įžengė į priešų žemę ir Prūsijos centre pasirinko stovyklos vietą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Į pagalbą buvo sutraukta galybė

@@ -19,7 +19,9 @@ Po slapto jų pokal­ bio veikiai buvo sukviesta vieša kardinolų konsistorija,
 
 ## Teiginiai
 
+<a id="claim-t-86634"></a>
 - t-001
+  global_id: t-86634
   teiginys: 'Vieša kardinolų konsistorija buvo sukviesta svarstyti Rygos arkivyskupo ginčo su Livonijos ordinu.'
   pagrindžia:
     - c-001

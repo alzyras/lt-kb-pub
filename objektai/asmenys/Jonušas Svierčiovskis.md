@@ -17,7 +17,9 @@ Pastariesiems vadovavo patyręs karys Jonušas Svierčiovskis.
 
 ## Teiginiai
 
+<a id="claim-t-40232"></a>
 - t-001
+  global_id: t-40232
   teiginys: 'Pastariesiems vadovavo patyręs karys Jonušas Svierčiovskis.'
   pagrindžia:
     - c-001

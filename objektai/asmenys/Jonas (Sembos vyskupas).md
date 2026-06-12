@@ -19,7 +19,9 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
 
 ## Teiginiai
 
+<a id="claim-t-87711"></a>
 - t-001
+  global_id: t-87711
   teiginys: 'Sembos vyskupas Jonas Elblionge dalyvavo pasitarime ir su kitais vyskupais pasiuntė laišką, kuriame taikos sutartį vadino pražūtinga.'
   pagrindžia:
     - c-001

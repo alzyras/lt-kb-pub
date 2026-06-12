@@ -26,27 +26,37 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
 
 ## Teiginiai
 
+<a id="claim-t-82222"></a>
 - t-001
-  teiginys: 'Augustui III mirus, kandidatų į sostą atsirado nemaža.'
+  global_id: t-82222
+  teiginys: 'Po Augusto III mirties atsirado nemaža kandidatų į sostą, tarp jų buvo ir greitai miręs vyresnysis Augusto III sūnus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-82223"></a>
 - t-002
+  global_id: t-82223
   teiginys: 'Augustas III 1733–1763 m. buvo didysis Lietuvos kunigaikštis, Lenkijos karalius ir Saksų elektorius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82224"></a>
 - t-003
+  global_id: t-82224
   teiginys: 'Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos ir Prūsijos įtaka yra jau pakankamai stipri, kad nejsileisty nepageidaujamos Prancūzijos konkurencijos šiame regione.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-82227"></a>
 - t-004
-  teiginys: 'Augustui II mirus, daugumas bajorijos panoro grąžinti ištremtąjį karalių Leščinskį, kurio kandidatūrą rėmė Prancūzija.'
+  global_id: t-82227
+  teiginys: 'Po Augusto II mirties Rusija, Austrija ir Prūsija priešinosi tiek Fridriko Augusto, tiek Leščinskio išrinkimui į sostą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-82228"></a>
 - t-005
+  global_id: t-82228
   teiginys: 'Augustas III privilegija suteikė Akademijos spaustuvei karališkosios spaustuvės titulą.'
   pagrindžia:
     - c-001
@@ -96,6 +106,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - t-002
 
 - c-003
+  santrauka: 'Po Augusto III mirties atsirado nemaža kandidatų į sostą, tarp jų buvo ir greitai miręs vyresnysis Augusto III sūnus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Kandidatai.** Augustui **III** mirus, kandidatų į sostą atsirado
@@ -126,6 +137,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - t-003
 
 - c-005
+  santrauka: 'Po Augusto II mirties Rusija, Austrija ir Prūsija priešinosi tiek Fridriko Augusto, tiek Leščinskio išrinkimui į sostą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Augustui **II** mirus, daugumas bajorijos panoro grąžinti iš-

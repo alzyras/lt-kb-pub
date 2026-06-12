@@ -26,17 +26,23 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
 
 ## Teiginiai
 
+<a id="claim-t-45777"></a>
 - t-001
+  global_id: t-45777
   teiginys: '1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45778"></a>
 - t-002
+  global_id: t-45778
   teiginys: 'Apie 1937 m. giminės iš abiejų pusių susitikdavo prie administracinės linijos, nes keliai tarp Lietuvos ir Lenkijos buvo uždaryti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-45779"></a>
 - t-003
+  global_id: t-45779
   teiginys: 'Apie 1937 m. giminės iš Lietuvos ir Lenkijos pusių susitikdavo prie administracinės linijos.'
   pagrindžia:
     - c-002

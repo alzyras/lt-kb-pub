@@ -16,17 +16,23 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
 
 ## Teiginiai
 
+<a id="claim-t-72515"></a>
 - t-001
-  teiginys: 'Tuose kraštuose lietuvių tarnavo įvairiose rusų valdžios įstaigose, bet po karo daugumas jų grįžo į Lietuvą.'
+  global_id: t-72515
+  teiginys: 'Suomijoje buvo apie šimtą lietuvių, todėl Lietuvių Suomių Draugijos veikla negalėjo išsiplėsti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72516"></a>
 - t-002
+  global_id: t-72516
   teiginys: 'Suomijoje buvo apie šimtą lietuvių, todėl jų veikla negalėjo išsiplėsti ir apsiribojo ryšio su Lietuva palaikymu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72517"></a>
 - t-003
+  global_id: t-72517
   teiginys: 'Suomijoje veikė Lietuvių Suomių Draugija.'
   pagrindžia:
     - c-003
@@ -34,6 +40,7 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Suomijoje buvo apie šimtą lietuvių, todėl Lietuvių Suomių Draugijos veikla negalėjo išsiplėsti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuose kraštuose lietuvių tarnavo

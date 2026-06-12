@@ -16,7 +16,9 @@ Arkliams prižiūrėti ir šerti buvo specialūs valstiečiai, vadinami arklinin
 
 ## Teiginiai
 
+<a id="claim-t-02954"></a>
 - t-001
+  global_id: t-02954
   teiginys: 'Arkliams prižiūrėti ir šerti buvo specialūs valstiečiai, vadinami arklininkais.'
   pagrindžia:
     - c-001
@@ -39,6 +41,5 @@ Arkliams prižiūrėti ir šerti buvo specialūs valstiečiai, vadinami arklinin
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/Atmesti paminėjimai]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]

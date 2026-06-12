@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02540"></a>
 - t-001
+  global_id: t-02540
   teiginys: 'Spalio 1-2 d. lenkai netoli Lazdijų sumušė Lietuvos kariuomenės dalį.'
   pagrindžia:
     - c-001

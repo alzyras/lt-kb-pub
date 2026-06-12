@@ -28,12 +28,16 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
 
 ## Teiginiai
 
+<a id="claim-t-182767"></a>
 - t-001
+  global_id: t-182767
   teiginys: 'Vietą savo stovyklavietei jie pasirinko prie Klecko miesto, kuris dar 1503 m. buvo jų sunaikintas ir nekėlė pavojaus, o stovėdamas ant kelių, vedančių į Pinską, Vilnių, Nesvyžių ir Slucką, buvo itin geras punktas išpuoliams, kuriuos totoriai vykdė pasiskirstę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183610"></a>
 - t-002
+  global_id: t-183610
   teiginys: 'LDK politinės tautos prielaidas kūrė LDK karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab.'
   pagrindžia:
     - c-002

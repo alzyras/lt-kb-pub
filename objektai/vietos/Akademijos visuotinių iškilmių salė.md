@@ -28,22 +28,30 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
 
 ## Teiginiai
 
+<a id="claim-t-55239"></a>
 - t-001
+  global_id: t-55239
   teiginys: 'Akademijos visuotinių iškilmių salė buvo pailgos formos salė kairėje pusėje prie bokšto arba varpinės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55240"></a>
 - t-002
+  global_id: t-55240
   teiginys: 'Akademijos visuotinių iškilmių salėje buvo 20 paprastos tapybos portretų ir trimis eilėmis išrikiuoti mediniai suolai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55241"></a>
 - t-003
+  global_id: t-55241
   teiginys: 'Akademijos visuotinių iškilmių salės aukštis buvo sulig trimis aukštais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-83113"></a>
 - t-004
+  global_id: t-83113
   teiginys: 'Akademijos visuotinių iškilmių salė buvo pailgos formos ir stovėjo kairėje pusėje prie bokšto, įėjus pro didžiuosius bažnyčios vartus.'
   pagrindžia:
     - c-004

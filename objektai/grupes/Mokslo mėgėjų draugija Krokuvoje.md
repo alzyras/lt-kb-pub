@@ -17,13 +17,17 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
 
 ## Teiginiai
 
+<a id="claim-t-01420"></a>
 - t-001
+  global_id: t-01420
   teiginys: 'Mokslo mėgėjų draugija Krokuvoje prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir jai apie tai pranešti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182910"></a>
 - t-002
-  teiginys: 'Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universitetas patyrinėtų jų praeitį ir šį tą praneštų Mokslo Mėgėjų Draugijai Krokuvoj.'
+  global_id: t-182910
+  teiginys: 'Krokuvos mokslininkai prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir pranešti Mokslo Mėgėjų Draugijai Krokuvoje.'
   pagrindžia:
     - c-002
 
@@ -54,7 +58,7 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
     - t-001
 
 - c-002
-  santrauka: 'Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universitetas patyrinėtų jų praeitį ir šį tą praneštų Mokslo Mėgėjų Draugijai Krokuvoj.'
+  santrauka: 'Krokuvos mokslininkai prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir pranešti Mokslo Mėgėjų Draugijai Krokuvoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai Lesingas,

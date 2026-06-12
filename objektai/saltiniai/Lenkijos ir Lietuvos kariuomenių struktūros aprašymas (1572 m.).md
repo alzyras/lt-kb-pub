@@ -26,12 +26,16 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
 
 ## Teiginiai
 
+<a id="claim-t-78858"></a>
 - t-001
+  global_id: t-78858
   teiginys: 'Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78859"></a>
 - t-002
+  global_id: t-78859
   teiginys: '1572 m. Lenkijos ir Lietuvos kariuomenių struktūros aprašyme teigiama, kad kiekvienas vaivada buvo viršiausias tarp savųjų.'
   pagrindžia:
     - c-002

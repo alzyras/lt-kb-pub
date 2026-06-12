@@ -30,33 +30,45 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
 
 ## Teiginiai
 
+<a id="claim-t-58810"></a>
 - t-001
+  global_id: t-58810
   teiginys: 'Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kariuomene į Nadruvą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58811"></a>
 - t-002
+  global_id: t-58811
   teiginys: 'Dusburgietis teigia, kad apie daugybės pagudėnų išžudymą Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58812"></a>
 - t-003
+  global_id: t-58812
   teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-58813"></a>
 - t-004
+  global_id: t-58813
   teiginys: 'Dusburgietis teigia, kad 459 Ditrichas iš Lidelau Sembos fogtu buvo 1278—1292 m. (Voigt J., Namen-.., p. 76).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184611"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad kitais metais, kai Vytenis abu luomus sukvietė į pasi- 1305 m e ta i tarimą, Sembos vyskupystės V y te n is p e rse k io ja fogtas Pilypas fon Bolandas, k ry žiu o č iu s g ro b ik u s pasinaudojęs progą, kad bu vo išvykę kunigaikščiai ir bajorai, nusiaubė.'
+  global_id: t-184611
+  teiginys: 'Sembos vyskupystės fogtas Pilypas fon Bolandas pasinaudojo Vytenio sušauktu luomų pasitarimu ir nusiaubė pasienio kaimiečius.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184612"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad kryžiuočiai, vedami Sembos fogto, savo ruož tu, negalėdami pasivyti traukiančio namo Kęstučio, nu siaubė Ariogalos žemes.'
+  global_id: t-184612
+  teiginys: 'Sembos fogto vedami kryžiuočiai, negalėdami pasivyti namo traukiančio Kęstučio, nusiaubė Ariogalos žemes.'
   pagrindžia:
     - c-006
 
@@ -125,7 +137,7 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
     - t-003
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad kitais metais, kai Vytenis abu luomus sukvietė į pasi- 1305 m e ta i tarimą, Sembos vyskupystės V y te n is p e rse k io ja fogtas Pilypas fon Bolandas, k ry žiu o č iu s g ro b ik u s pasinaudojęs progą, kad bu vo išvykę kunigaikščiai ir bajorai, nusiaubė.'
+  santrauka: 'Sembos vyskupystės fogtas Pilypas fon Bolandas pasinaudojo Vytenio sušauktu luomų pasitarimu ir nusiaubė pasienio kaimiečius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to, nusiau­
@@ -151,7 +163,7 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
     - t-006
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad kryžiuočiai, vedami Sembos fogto, savo ruož tu, negalėdami pasivyti traukiančio namo Kęstučio, nu siaubė Ariogalos žemes.'
+  santrauka: 'Sembos fogto vedami kryžiuočiai, negalėdami pasivyti namo traukiančio Kęstučio, nusiaubė Ariogalos žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kurį laiką Kęstutis laikėsi ramiai, tačiau
@@ -169,3 +181,31 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
   statusas: verified
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Aleksandras Karijotaitis]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Nadruviai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/asmenys/Pilypas]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/grupes/Skalviai]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/vyskupystė]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Dargis]]
+- [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
+- [[objektai/ivykiai/Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo]]
+- [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]
+- [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis]]
+- [[objektai/ivykiai/Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.)]]
+- [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]

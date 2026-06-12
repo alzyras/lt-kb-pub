@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62939"></a>
 - t-001
+  global_id: t-62939
   teiginys: 'Dusburgietis teigia, kad senosios Torunės pilaitė ir toliau liko Ordino rankose, ji naudota kaip gyvulininkystės dvaras.'
   pagrindžia:
     - c-001

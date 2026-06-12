@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vieno smūgio bereikią
 
 ## Santrauka
 
-Kojelavičius teigia, kad vieno smūgio be reikią, ir jų kariauna savaime subyrėsianti.
+Kalbėtojas drąsino karius, kad prieš rusų kariauną bereikia vieno smūgio ir ji savaime subyrės.
 
 ## Teiginiai
 
+<a id="claim-t-185487"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vieno smūgio be reikią, ir jų kariauna savaime subyrėsianti.'
+  global_id: t-185487
+  teiginys: 'Kalbėtojas drąsino karius, kad prieš rusų kariauną bereikia vieno smūgio ir ji savaime subyrės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vieno smūgio be reikią, ir jų kariauna savaime subyrėsianti.'
+  santrauka: 'Kalbėtojas drąsino karius, kad prieš rusų kariauną bereikia vieno smūgio ir ji savaime subyrės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tegu jie užmetą žvilgsnį į
@@ -40,3 +41,9 @@ Kojelavičius teigia, kad vieno smūgio be reikią, ir jų kariauna savaime suby
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Rusai]]

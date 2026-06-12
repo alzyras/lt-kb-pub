@@ -27,12 +27,16 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 
 ## Teiginiai
 
+<a id="claim-t-63713"></a>
 - t-001
+  global_id: t-63713
   teiginys: 'Sustojęs prie Smolensko, vesdamas derybas su smolenskiečiais, jį užėmė, pasodino ten savo vietininką kunigaikštį Jomantą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-63714"></a>
 - t-002
+  global_id: t-63714
   teiginys: 'Vytautas Lietuvai naujai prijungtose žemėse vietininkais paskyrė Jomantą ir Vosylių Boreikaičius.'
   pagrindžia:
     - c-002

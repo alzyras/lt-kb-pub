@@ -16,7 +16,9 @@ Dąbrowski : Rozbiór krytyczny Anna ­ lium Poloniae Jana Długosza z lat 1385-
 
 ## Teiginiai
 
+<a id="claim-t-30665"></a>
 - t-001
+  global_id: t-30665
   teiginys: 'J. Dąbrowski parašė „Rozbiór krytyczny Annalium Poloniae Jana Długosza z lat 1385-1444“, išleistą 1961 m.'
   pagrindžia:
     - c-001

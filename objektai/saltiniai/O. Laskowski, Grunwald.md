@@ -27,7 +27,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31869"></a>
 - t-001
+  global_id: t-31869
   teiginys: 'O. Laskowskio „Grunwald“ išleistas Varšuvoje 1929 m. ir apibūdintas kaip išsamus strateginis tyrinėjimas.'
   pagrindžia:
     - c-001

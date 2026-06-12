@@ -19,12 +19,16 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
 
 ## Teiginiai
 
+<a id="claim-t-86550"></a>
 - t-001
+  global_id: t-86550
   teiginys: 'Vilniaus vyskupas Povilas su sufraganu Kiprijonu ir visu kleru užkirto kelią karaliui ir paskatino jį pasukti į katalikų katedrą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86551"></a>
 - t-002
+  global_id: t-86551
   teiginys: 'Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.'
   pagrindžia:
     - c-002

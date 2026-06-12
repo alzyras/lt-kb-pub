@@ -26,7 +26,9 @@ Wermke : Bibliographie der Geschichte von Ostund Westpreußen (bis 1929). Wermke
 
 ## Teiginiai
 
+<a id="claim-t-30602"></a>
 - t-001
+  global_id: t-30602
   teiginys: 'E. Wermke vėlesnėse bibliografijos tąsose rūpestingiau apžvelgė ir lietuvių kalba rašytus darbus.'
   pagrindžia:
     - c-001

@@ -24,12 +24,16 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
 
 ## Teiginiai
 
+<a id="claim-t-40509"></a>
 - t-001
+  global_id: t-40509
   teiginys: '1919 m. liepos 26 d. plk. Virgoličiaus vadovaujami bermontininkai įžengė į Kuršėnus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40510"></a>
 - t-002
+  global_id: t-40510
   teiginys: 'Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.'
   pagrindžia:
     - c-001

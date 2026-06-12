@@ -25,12 +25,16 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
 
 ## Teiginiai
 
+<a id="claim-t-58608"></a>
 - t-001
+  global_id: t-58608
   teiginys: 'Prie Pagansčių kaimo prūsai užpuolė krikščionis ir nukovė dvylika brolių bei penkis šimtus vyrų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58609"></a>
 - t-002
+  global_id: t-58609
   teiginys: 'Pagansčiai buvo kaimas prie Zirgūnos upės, vėliau vadintas Menthen.'
   pagrindžia:
     - c-002

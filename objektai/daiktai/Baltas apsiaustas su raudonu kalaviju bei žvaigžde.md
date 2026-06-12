@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59680"></a>
 - t-001
+  global_id: t-59680
   teiginys: 'Kristaus karių ordino broliai vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde.'
   pagrindžia:
     - c-001

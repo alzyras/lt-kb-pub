@@ -28,30 +28,54 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 
 ## Teiginiai
 
+<a id="claim-t-82097"></a>
 - t-001
+  global_id: t-82097
   teiginys: 'O bajorijos byloms su dvasininkais būdavo sudaromas mišrasis teismas, arba dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų kapitulų skiriami kunigai ir 6 tribunolo deputatai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82098"></a>
 - t-002
+  global_id: t-82098
   teiginys: 'Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-82100"></a>
 - t-003
+  global_id: t-82100
   teiginys: 'Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-82101"></a>
 - t-004
+  global_id: t-82101
   teiginys: 'Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose Lietuvos seimuose, ir galutinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks pat išliko iki pat nepriklausomybės pabaigos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-82102"></a>
 - t-005
+  global_id: t-82102
   teiginys: 'Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apribojimų ir įsteigti nuo Petrapilio visiškai nepriklausomą tribunolą (mat, tada aukščiausioji instancija buvo Rusijos senatas).'
   pagrindžia:
     - c-002
+
+<a id="claim-t-182981"></a>
+- t-006
+  global_id: t-182981
+  teiginys: 'Bajorijos byloms su dvasininkais tribunole buvo sudaromas mišrusis, arba dvasiškasis, tribunolas.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-182982"></a>
+- t-007
+  global_id: t-182982
+  teiginys: 'Oginskis siūlė numatomoje kunigaikštijoje palikti Lietuvos statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -152,7 +176,7 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
     - t-003
 
 - c-005
-  santrauka: 'Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apribojimų ir įsteigti nuo Petrapilio visiškai nepriklausomą tribunolą (mat, tada aukščiausioji instancija buvo Rusijos senatas).'
+  santrauka: 'Oginskis siūlė numatomoje kunigaikštijoje palikti Lietuvos statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ogins-

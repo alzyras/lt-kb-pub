@@ -29,22 +29,30 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
 
 ## Teiginiai
 
+<a id="claim-t-60943"></a>
 - t-001
+  global_id: t-60943
   teiginys: '„Pasakojime apie Vokiečių ordino pradžią“ pirmasis Ordino magistras Henrikas Valpotas vadinamas Hermanu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60944"></a>
 - t-002
+  global_id: t-60944
   teiginys: 'Dusburgietis teigia, kad kronikininkas visa tai nutyli, kaip ir pirminį Vokiečių ordino priklausomumą nuo joanitų141.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60945"></a>
 - t-003
+  global_id: t-60945
   teiginys: '„Pasakojime apie Vokiečių ordino pradžią“ nurodoma, kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60946"></a>
 - t-004
+  global_id: t-60946
   teiginys: 'Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą, atsiradęs Akone greičiausiai 1204—1211 m. ankstesnių (XII a.'
   pagrindžia:
     - c-004

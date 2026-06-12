@@ -24,7 +24,9 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
 
 ## Teiginiai
 
+<a id="claim-t-35034"></a>
 - t-001
+  global_id: t-35034
   teiginys: '1387 m. vasarą Jogaila pasiuntė kariuomenę atimti Haličą iš Vengrijos kašteliono Benedikto.'
   pagrindžia:
     - c-001

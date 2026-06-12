@@ -17,7 +17,9 @@ Dusburgietis teigia, kad į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gy
 
 ## Teiginiai
 
+<a id="claim-t-59036"></a>
 - t-001
+  global_id: t-59036
   teiginys: 'Dusburgietis teigia, kad į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai, lamatiečiai, dar toliau į šiaurę, Klaipėdos apylinkėse (dab.'
   pagrindžia:
     - c-001

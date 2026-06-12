@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88444"></a>
 - t-001
+  global_id: t-88444
   teiginys: '1529 m., kaip liudija Lietuvos Metrika (XIV): Vilnius mokėjo mokesčio 1500 kapų gr.'
   pagrindžia:
     - c-001

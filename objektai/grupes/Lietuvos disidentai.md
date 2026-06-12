@@ -24,32 +24,44 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
 
 ## Teiginiai
 
+<a id="claim-t-74667"></a>
 - t-001
+  global_id: t-74667
   teiginys: 'Lietuvos disidentai, skirtingai nei katalikų opozicija, kėlė Lietuvos laisvės klausimus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-74668"></a>
 - t-002
+  global_id: t-74668
   teiginys: 'Lietuvos disidentai siekė išsaugoti tautos savastį, iš dalies neutralizuoti priešiškų jėgų veiklą ir ginti žmogaus teises.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74669"></a>
 - t-003
+  global_id: t-74669
   teiginys: 'Lietuvos disidentai siekė priversti okupacinę valdžią gerbti žmogaus teises ir 1948 m. Visuotinę žmogaus teisių deklaraciją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74670"></a>
 - t-004
+  global_id: t-74670
   teiginys: 'Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-74671"></a>
 - t-005
+  global_id: t-74671
   teiginys: 'Lietuvos disidentinio judėjimo pradžia laikomi 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-74672"></a>
 - t-006
+  global_id: t-74672
   teiginys: 'Skirtingai nei katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.'
   pagrindžia:
     - c-005

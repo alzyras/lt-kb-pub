@@ -26,17 +26,23 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
 
 ## Teiginiai
 
+<a id="claim-t-180499"></a>
 - t-001
+  global_id: t-180499
   teiginys: 'Roma buvo tvirtai įsitikinusi, kad tik abu lietuviai, t.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-180500"></a>
 - t-002
+  global_id: t-180500
   teiginys: 'Čekams sukilus, vyskupas Vaitiekus buvo priverstas pasišalinti į Romą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-180501"></a>
 - t-003
+  global_id: t-180501
   teiginys: '1595 m. Hipatas Pociejus ir Kirilas Terleckis Romoje gavo popiežiaus Klemenso VIII pritarimą bažnytinei unijai.'
   pagrindžia:
     - c-001

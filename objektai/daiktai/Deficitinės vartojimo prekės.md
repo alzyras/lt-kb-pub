@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19512"></a>
 - t-001
+  global_id: t-19512
   teiginys: 'Sovietmečio Lietuvoje deficitinės buvo maisto prekės, baldai, indai, televizoriai, medicinos reikmenys ir vaistai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-19513"></a>
 - t-002
+  global_id: t-19513
   teiginys: 'Sovietmečio Lietuvoje baldai, indai ir televizoriai buvo deficitinės vartojimo prekės, kurioms įsigyti reikėjo talonų.'
   pagrindžia:
     - c-001

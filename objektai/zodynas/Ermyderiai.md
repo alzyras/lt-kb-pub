@@ -23,12 +23,16 @@ Vartojamos formos: `ermyderių`.
 
 ## Teiginiai
 
+<a id="claim-t-69996"></a>
 - t-001
+  global_id: t-69996
   teiginys: 'Ermyderiai žemėje, vandenyje ir ore rodo pasaulyje buvusias atmainas, apie kurias raštai tyli.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-69998"></a>
 - t-002
+  global_id: t-69998
   teiginys: 'Ermyderiai apibūdina žemės, vandens ir oro reiškinius, liudijančius pasaulio atmainas.'
   pagrindžia:
     - c-001

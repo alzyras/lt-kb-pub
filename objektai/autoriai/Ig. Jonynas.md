@@ -24,7 +24,9 @@ Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2);.
 
 ## Teiginiai
 
+<a id="claim-t-30648"></a>
 - t-001
+  global_id: t-30648
   teiginys: 'Ig. Jonynas 1939 m. „Naujojoje Romuvoje“ paskelbė darbą „Lietuvių gentys iki XIX a.“.'
   pagrindžia:
     - c-001

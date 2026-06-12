@@ -25,27 +25,37 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
 
 ## Teiginiai
 
+<a id="claim-t-170421"></a>
 - t-001
+  global_id: t-170421
   teiginys: 'Beje, ekspertus apstulbino tai, kad Kauno gubernijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis nei vyrų: atitinkamai 55 proc.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-170422"></a>
 - t-002
+  global_id: t-170422
   teiginys: 'Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-170423"></a>
 - t-003
+  global_id: t-170423
   teiginys: '1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms, todėl caro valdžia etnografiškai.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-170425"></a>
 - t-004
+  global_id: t-170425
   teiginys: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183026"></a>
 - t-005
+  global_id: t-183026
   teiginys: 'Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Dusburgietis teigia, kad stryjkowski M.
 
 ## Teiginiai
 
+<a id="claim-t-61302"></a>
 - t-001
+  global_id: t-61302
   teiginys: 'M. Stryjkowskio kronikos tomas išleistas Varšuvoje 1846 m.'
   pagrindžia:
     - c-001

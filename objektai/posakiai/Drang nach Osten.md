@@ -29,12 +29,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-35969"></a>
 - t-001
+  global_id: t-35969
   teiginys: 'Žalgirio laukuose pirmą kartą buvo suduotas smūgis vokiečių siekimui „Drang nach Osten“, tai yra veržimuisi į Rytus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-35970"></a>
 - t-002
+  global_id: t-35970
   teiginys: 'Žalgirio laukuose pirmą kartą buvo suduotas smūgis vokiečių siekimui „Drang nach Osten“ veržtis į Rytus.'
   pagrindžia:
     - c-001

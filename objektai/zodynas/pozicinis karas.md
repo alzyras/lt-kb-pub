@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-80630"></a>
 - t-001
+  global_id: t-80630
   teiginys: 'Poziciniame kare kariai buvo įsitvirtinę apkasuose priešingose upelio pusėse ir šaudė vieni į kitus.'
   pagrindžia:
     - c-001

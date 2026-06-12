@@ -43,27 +43,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75154"></a>
 - t-001
+  global_id: t-75154
   teiginys: '1387 m. įvyko Lietuvos krikštas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75156"></a>
 - t-002
+  global_id: t-75156
   teiginys: 'Po Lietuvos krikšto feodaliniai santykiai įgijo idėjinį pagrindą, nes pavaldiniui buvo nurodoma, kokį tikėjimą išpažinti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75160"></a>
 - t-003
+  global_id: t-75160
   teiginys: 'Po Lietuvos krikšto pavaldiniui buvo nurodoma, kokį tikėjimą jis turi išpažinti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75161"></a>
 - t-004
+  global_id: t-75161
   teiginys: 'Ryškiausios permainos po krikšto buvo išorinės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183248"></a>
 - t-005
+  global_id: t-183248
   teiginys: '1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.'
   pagrindžia:
     - c-004

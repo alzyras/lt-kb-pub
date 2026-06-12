@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-99937"></a>
 - t-001
+  global_id: t-99937
   teiginys: '339, 344 Oeselio (Saaremos) sala 202 Oka, upė 21, 38, 124, 159, 262, 313, 320-322, 371 Olafas Tryggvasonar 114, 115 Olandijos grafas Vilhelmas 249 Olegas Jonaitis, Riazanės kng.'
   pagrindžia:
     - c-001

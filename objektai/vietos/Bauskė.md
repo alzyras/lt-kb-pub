@@ -10,7 +10,6 @@ tags:
   - miestas
   - vieta
 ---
-
 # Bauskė
 
 ## Santrauka
@@ -19,13 +18,17 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 
 ## Teiginiai
 
+<a id="claim-t-83202"></a>
 - t-001
+  global_id: t-83202
   teiginys: 'Etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą apie kelionę į Drują ir Bychovo tvirtovę, traukėsi į Bauskę ir Mintaują.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184930"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad laiduodamas Lietuvos 7 0 3 iždo padarytas išlaidas, LivoS u la rties są ly g o s nijos riterių ordinas atiduo dąs Lietuvai visas žemes abiejuose Dauguvos krantuose tarp Drujos ir Aizkrauklės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug pilio, Sėlpilio.'
+  global_id: t-184930
+  teiginys: 'Livonijos riterių ordinas sąjungos sąlygomis turėjo atiduoti Lietuvai Bauskės pilį su apylinkėmis.'
   pagrindžia:
     - c-002
 
@@ -56,7 +59,7 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad laiduodamas Lietuvos 7 0 3 iždo padarytas išlaidas, LivoS u la rties są ly g o s nijos riterių ordinas atiduo dąs Lietuvai visas žemes abiejuose Dauguvos krantuose tarp Drujos ir Aizkrauklės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug pilio, Sėlpilio.'
+  santrauka: 'Livonijos riterių ordinas sąjungos sąlygomis turėjo atiduoti Lietuvai Bauskės pilį su apylinkėmis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Seimo darbe dalyvavo ir ordino magistras Ket-

@@ -23,17 +23,23 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
 
 ## Teiginiai
 
+<a id="claim-t-34251"></a>
 - t-001
+  global_id: t-34251
   teiginys: 'Satyros objektus autorius nebijojo vadinti tikrais vardais, nors jo satyriški knybtelėjimai laikyti labai švelniais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-34252"></a>
 - t-002
+  global_id: t-34252
   teiginys: '„Rakštys“ buvo satyrų ir juokų knyga su aštriomis to meto satyromis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-34253"></a>
 - t-003
+  global_id: t-34253
   teiginys: 'Knygelėje pateikta satyriška 1926–1930 m. Lietuvos gyvenimo apžvalga.'
   pagrindžia:
     - c-001

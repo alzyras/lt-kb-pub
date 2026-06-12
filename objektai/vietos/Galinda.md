@@ -18,12 +18,16 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 
 ## Teiginiai
 
+<a id="claim-t-58550"></a>
 - t-001
+  global_id: t-58550
   teiginys: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58551"></a>
 - t-002
+  global_id: t-58551
   teiginys: 'Dusburgietis teigia, kad olštiną) vakaruose iki Nagutino (Negocino) ir Snervų ežerų rytuose (rytinė siena su jotvingiais nėra aiški; galindų žemės galėjo būti ir už šių ežerų, iki Lego upės); siena su Barta ėjo kiek į šiaurę nuo dab.'
   pagrindžia:
     - c-002

@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01794"></a>
 - t-001
+  global_id: t-01794
   teiginys: '1621 m. Rygai atitekus švedams, Lietuvos laisvajai prekybai užsidarė Dauguvos kelias per Rygą.'
   pagrindžia:
     - c-001

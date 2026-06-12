@@ -22,7 +22,9 @@ Tuo tarpu Bazelio bažnytinis susirinkimas dar 1431 m. pabaigoje siekė sutaikyt
 
 ## Teiginiai
 
+<a id="claim-t-40864"></a>
 - t-001
+  global_id: t-40864
   teiginys: 'Bazelio bažnytinis susirinkimas 1431 m. pabaigoje siekė sutaikyti abi konfliktuojančias puses.'
   pagrindžia:
     - c-001

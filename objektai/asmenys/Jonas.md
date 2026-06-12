@@ -27,7 +27,9 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 
 ## Teiginiai
 
+<a id="claim-t-60338"></a>
 - t-001
+  global_id: t-60338
   teiginys: 'Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo, iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė.'
   pagrindžia:
     - c-001
@@ -69,7 +71,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - [[objektai/daiktai/Baltas apsiaustas su juodu kryžiumi]]
 - [[objektai/zodynas/Baroko epocha]]
 - [[objektai/zodynas/Baroko epocha Vilniaus baroko mokykla]]
-- [[objektai/paprociai/Bažnytinė aprobata ir cenzoriaus pritarimas prieš knygos spausdinimą]]
 - [[objektai/daiktai/Bizantijos imperatorių herbas]]
 - [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]
 - [[objektai/autoriai/Detmaro Liubeko]]
@@ -274,6 +275,8 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - [[objektai/asmenys/Jonas de Lovenbinkė]]
 - [[objektai/grupes/Krimo orda]]
 - [[objektai/grupes/Krymo chanatas]]
+- [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/ivykiai/Mikalojus Radvila žygyje Livonijoje ir Tarvastos pilies užėmimas|Mikalojus Radvila žygyje Livonijoje ir Tarvastos pilies užėmimas (pilis)]]
 - [[objektai/zodynas/scholastiko prelatūra scholastikas]]
 - [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]

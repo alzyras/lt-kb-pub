@@ -22,7 +22,9 @@ Gorbačiovo nesėkmė Lietuvoje, 1997.
 
 ## Teiginiai
 
+<a id="claim-t-78147"></a>
 - t-001
+  global_id: t-78147
   teiginys: 'Gorbačiovo nesėkmė Lietuvoje, 1997.'
   pagrindžia:
     - c-001

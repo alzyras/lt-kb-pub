@@ -25,13 +25,17 @@ Kai XII amž. gale Livonijoje įsikūrė vokiečių ateivių valstybė, lietuvia
 
 ## Teiginiai
 
+<a id="claim-t-70404"></a>
 - t-001
+  global_id: t-70404
   teiginys: 'Kai XII amž. gale Livonijoje įsikūrė vokiečių ateivių valstybė, lietuviai ėmė pulti ir ją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70405"></a>
 - t-002
-  teiginys: 'Kadangi čia ateivių krikščionių kolonijos ir misijonieriai dažnai būdavo puolami vietos pagonių, tai jie čia įsikūrė specialią apsaugos organizaciją, kuri paprastai buvo vadinama kalavijuočių ordinu.'
+  global_id: t-70405
+  teiginys: 'Livonijoje ateiviai krikščionys įkūrė apsaugos organizaciją, paprastai vadintą kalavijuočių ordinu.'
   pagrindžia:
     - c-002
 
@@ -50,6 +54,7 @@ Kai XII amž. gale Livonijoje įsikūrė vokiečių ateivių valstybė, lietuvia
     - t-001
 
 - c-002
+  santrauka: 'Livonijoje ateiviai krikščionys įkūrė apsaugos organizaciją, paprastai vadintą kalavijuočių ordinu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kadangi čia
@@ -72,4 +77,5 @@ Kai XII amž. gale Livonijoje įsikūrė vokiečių ateivių valstybė, lietuvia
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kolonijos]]
+- [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

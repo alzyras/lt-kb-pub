@@ -16,7 +16,9 @@ Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų
 
 ## Teiginiai
 
+<a id="claim-t-19189"></a>
 - t-001
+  global_id: t-19189
   teiginys: 'Peteris Paulius Rubensas buvo Flandrijoje subrendęs bene žymiausias baroko dailininkas.'
   pagrindžia:
     - c-001

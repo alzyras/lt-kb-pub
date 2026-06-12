@@ -27,12 +27,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31562"></a>
 - t-001
+  global_id: t-31562
   teiginys: '„Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą („na Litvu“), bet jo eigos neaprašė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-31563"></a>
 - t-002
+  global_id: t-31563
   teiginys: '1131-1132 m. Kijevo Mstislavas esą dvejus metus iš eilės rengė žygius į Lietuvą („na Litvu“).'
   pagrindžia:
     - c-002

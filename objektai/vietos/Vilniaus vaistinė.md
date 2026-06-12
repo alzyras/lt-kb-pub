@@ -18,7 +18,9 @@ Nors jų ginčai dėl karaliaus gydymo būdo, kaip žinome ne vieną atvejį, pa
 
 ## Teiginiai
 
+<a id="claim-t-86262"></a>
 - t-001
+  global_id: t-86262
   teiginys: 'Iš Krokuvos atgabentos karališkosios vaistinės dalis liko Vilniuje ir vėliau tapo nuolatinės miesto vaistinės pradžia.'
   pagrindžia:
     - c-001

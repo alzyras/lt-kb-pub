@@ -19,7 +19,9 @@ Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal s
 
 ## Teiginiai
 
+<a id="claim-t-01302"></a>
 - t-001
+  global_id: t-01302
   teiginys: 'Dobrinės ordinas buvo 1228 m. įkurtas vyskupui priklausęs riterių ordinas.'
   pagrindžia:
     - c-001

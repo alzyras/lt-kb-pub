@@ -25,7 +25,9 @@ O mirus senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų ka
 
 ## Teiginiai
 
+<a id="claim-t-30353"></a>
 - t-001
+  global_id: t-30353
   teiginys: 'Liubartas Gediminaitis mirė apie 1385 m.'
   pagrindžia:
     - c-001

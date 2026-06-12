@@ -19,7 +19,9 @@ Toks jo žygis lenką tarpe sukėlė didelį pasipriešinimą, nes jie Krėvės 
 
 ## Teiginiai
 
+<a id="claim-t-34400"></a>
 - t-001
+  global_id: t-34400
   teiginys: 'Vytautas ėmėsi diplomatijos ir stengėsi lenkų ponus „užglostyti“, kai jo veiksmai dėl Podolijos ir Volynijos sukėlė jų pasipriešinimą.'
   pagrindžia:
     - c-001

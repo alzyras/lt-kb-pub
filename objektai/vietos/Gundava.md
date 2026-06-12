@@ -16,7 +16,9 @@ Dusburgietis teigia, kad 336 D. ir Jer.— Gundow, vėliau — kaimas Gundau kai
 
 ## Teiginiai
 
+<a id="claim-t-58694"></a>
 - t-001
+  global_id: t-58694
   teiginys: 'Gundava buvo kaimas kairiajame Alnos krante, o į vakarus nuo jo pakrantėje išliko piliakalnis.'
   pagrindžia:
     - c-001

@@ -14,24 +14,25 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Anisijus Gornostajus
 
 ## Santrauka
 
-Kojelavičius teigia, kad dauge lis manė, jog galima ir nusileisti, nes nenorėjo, atmes dami valstybei visai nepavojingą įgeidį, duoti dingsties naujam karui, tik maršalas Anisijus Gornostajus, se noviško sukirpimo žmogus, atkakliai prieštaravo, tvir tindamas, jog nieku būdu negalima.
+Maršalas Anisijus Gornostajus Lietuvos senate atkakliai prieštaravo Ivano titulavimui Maskvos kunigaikštystės caru.
 
 ## Teiginiai
 
+<a id="claim-t-186181"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad dauge lis manė, jog galima ir nusileisti, nes nenorėjo, atmes dami valstybei visai nepavojingą įgeidį, duoti dingsties naujam karui, tik maršalas Anisijus Gornostajus, se noviško sukirpimo žmogus, atkakliai prieštaravo, tvir tindamas, jog nieku būdu negalima.'
+  global_id: t-186181
+  teiginys: 'Maršalas Anisijus Gornostajus Lietuvos senate atkakliai prieštaravo Ivano titulavimui Maskvos kunigaikštystės caru.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad dauge lis manė, jog galima ir nusileisti, nes nenorėjo, atmes dami valstybei visai nepavojingą įgeidį, duoti dingsties naujam karui, tik maršalas Anisijus Gornostajus, se noviško sukirpimo žmogus, atkakliai prieštaravo, tvir tindamas, jog nieku būdu negalima.'
+  santrauka: 'Maršalas Anisijus Gornostajus Lietuvos senate atkakliai prieštaravo Ivano titulavimui Maskvos kunigaikštystės caru.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to Lietuvos senate
@@ -58,3 +59,9 @@ Kojelavičius teigia, kad dauge lis manė, jog galima ir nusileisti, nes nenorė
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/senatas]]

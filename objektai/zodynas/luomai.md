@@ -6,49 +6,53 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # luomai
 
 ## Santrauka
 
-Kojelavičius teigia, kad gal vengdamas aiškaus atsakymo į kry žiuočių klausimą, gal norėdamas turėti laiko pasitarti, karalius atsakė, kad jis viešpataująs valstybėje, kurio je svarbiais reikalais nieko negalįs nutarti be luomų pritarimo. Kojelavičius teigia, kad visi Lietuvos iuvoje bažnyčios tarnai, jų valdos ir pačias privilegijas, kokias šiuo metu turi šio luomo žmo nės Lenkijoje. Kojelavičius teigia, kad luomų susirinkime jie trumpai, bet aiškiai išdėstė val dovo reikalavimus.
+Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo. Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, atsisakiusiems paklusti popiežiui. Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo.
 
 ## Teiginiai
 
+<a id="claim-t-185356"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad gal vengdamas aiškaus atsakymo į kry žiuočių klausimą, gal norėdamas turėti laiko pasitarti, karalius atsakė, kad jis viešpataująs valstybėje, kurio je svarbiais reikalais nieko negalįs nutarti be luomų pritarimo.'
+  global_id: t-185356
+  teiginys: 'Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185357"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad visi Lietuvos iuvoje bažnyčios tarnai, jų valdos ir pačias privilegijas, kokias šiuo metu turi šio luomo žmo nės Lenkijoje.'
+  global_id: t-185357
+  teiginys: 'Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, atsisakiusiems paklusti popiežiui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185358"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad luomų susirinkime jie trumpai, bet aiškiai išdėstė val dovo reikalavimus.'
+  global_id: t-185358
+  teiginys: 'Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185359"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad kai karalius bei luomai nuspren dė atverti Vytautui kitokias perspektyvas ir pasiūlyti jam Lenkijos karalystės vainiką, pasiuntinybės vadovas, pasak metraštininkų, prabilo šitokiais žodžiais.'
+  global_id: t-185359
+  teiginys: 'Karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-185361"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad n o rs L ietuvos luom ai šiuo m etu įsitrau k ę į k a m u o ja n tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a rėsi dėl būd ų g alu tin ai L ietuvą su v ien y ti su L enkija.'
+  global_id: t-185361
+  teiginys: 'Pasiuntiniams buvo uždrausta ką nors spręsti, todėl apie viską jie turėjo pranešti Bresto seime susirinkusiems luomams.'
   pagrindžia:
     - c-005
-
-- t-006
-  teiginys: 'Kojelavičius teigia, kad k ad iš esm ės n iek o n eb u v o su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u v o u žd rau sta b et k ą spręsti, ir jie tu rė jo ap ie v isk ą p ra n ešti luom am s, susirinkusiem s į B resto seim ą.'
-  pagrindžia:
-    - c-006
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad gal vengdamas aiškaus atsakymo į kry žiuočių klausimą, gal norėdamas turėti laiko pasitarti, karalius atsakė, kad jis viešpataująs valstybėje, kurio je svarbiais reikalais nieko negalįs nutarti be luomų pritarimo.'
+  santrauka: 'Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip paprastai esti, kai vienoje
@@ -71,7 +75,7 @@ Kojelavičius teigia, kad gal vengdamas aiškaus atsakymo į kry žiuočių klau
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad visi Lietuvos iuvoje bažnyčios tarnai, jų valdos ir pačias privilegijas, kokias šiuo metu turi šio luomo žmo nės Lenkijoje.'
+  santrauka: 'Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, atsisakiusiems paklusti popiežiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Visi Lietuvos
@@ -92,7 +96,7 @@ Kojelavičius teigia, kad gal vengdamas aiškaus atsakymo į kry žiuočių klau
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad luomų susirinkime jie trumpai, bet aiškiai išdėstė val dovo reikalavimus.'
+  santrauka: 'Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
@@ -111,7 +115,7 @@ Kojelavičius teigia, kad gal vengdamas aiškaus atsakymo į kry žiuočių klau
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad kai karalius bei luomai nuspren dė atverti Vytautui kitokias perspektyvas ir pasiūlyti jam Lenkijos karalystės vainiką, pasiuntinybės vadovas, pasak metraštininkų, prabilo šitokiais žodžiais.'
+  santrauka: 'Karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Beje, ir Jogaila, smarkiai pasenęs ir su­
@@ -135,25 +139,7 @@ Kojelavičius teigia, kad gal vengdamas aiškaus atsakymo į kry žiuočių klau
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad n o rs L ietuvos luom ai šiuo m etu įsitrau k ę į k a m u o ja n tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a rėsi dėl būd ų g alu tin ai L ietuvą su v ien y ti su L enkija.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    L ietuviai, su šau k ę B reste lu o ­
-    m us, n u siu n tė atsto v u s į Liubliną, k u r liepos 8 d. rin ­
-    kosi len k ų  seim as. P asiu n tin iai tu rė jo  p areik šti štai ką.
-    N o rs L ietuvos luom ai šiuo m etu  įsitrau k ę į k a m u o ja n ­
-    tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y­
-    gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a ­
-    rėsi dėl būd ų  g alu tin ai L ietuvą su v ien y ti su L enkija
-    u n ijo s p ag rin d ais.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Kojelavičius teigia, kad k ad iš esm ės n iek o n eb u v o su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u v o u žd rau sta b et k ą spręsti, ir jie tu rė jo ap ie v isk ą p ra n ešti luom am s, susirinkusiem s į B resto seim ą.'
+  santrauka: 'Pasiuntiniams buvo uždrausta ką nors spręsti, todėl apie viską jie turėjo pranešti Bresto seime susirinkusiems luomams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     K okį atsak y m ą
@@ -169,4 +155,83 @@ Kojelavičius teigia, kad gal vengdamas aiškaus atsakymo į kry žiuočių klau
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/ivykiai/1430 m. Jedlno seimo suvažiavimas|1430 m. Jedlno seimo suvažiavimas (seimas, XV a.)]]
+- [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
+- [[objektai/asmenys/Augustas]]
+- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
+- [[objektai/paprociai/Bažnytinių dešimtinių ir duoklių prievolių tęstinumas perleidžiant valdas]]
+- [[objektai/ivykiai/Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas]]
+- [[objektai/ivykiai/Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę|Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę (seimas)]]
+- [[objektai/paprociai/Dvasiškių ir pasauliečių sienų ginčų tyrimas mišriomis komisijomis]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/asmenys/Hanulas]]
+- [[objektai/asmenys/Jekaterina II]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/paprociai/Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams|Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams (krikštas)]]
+- [[objektai/asmenys/Jurgis Chodkevičius]]
+- [[objektai/asmenys/Kazimieras Jogailaitis]]
+- [[objektai/asmenys/Laurynas Zaremba]]
+- [[objektai/grupes/Lenkijos karalystės luomai]]
+- [[objektai/grupes/Lenčicos seimas|Lenčicos seimas (seimas)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvių bajorija]]
+- [[objektai/grupes/Lietuvos didikai]]
+- [[objektai/grupes/Lietuvos luomai]]
+- [[objektai/ivykiai/Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.)]]
+- [[objektai/grupes/Liublino seimas]]
+- [[objektai/ivykiai/Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika]]
+- [[objektai/zodynas/Municipalinė teisėtvarka]]
+- [[objektai/zodynas/Municipalinė teisėtvarka municipaliniai nuostatai]]
+- [[objektai/paprociai/Pakėlimas į kunigaikščius su įprastinėmis apeigomis]]
+- [[objektai/asmenys/Petras Atsiskyrėlis]]
+- [[objektai/ivykiai/Piotrkovo seimas ir luomų reikalavimas karaliui prisiekti dėl Podolės bei Volynės (1449 m.)]]
+- [[objektai/paprociai/Politinių susitarimų tvirtinimas valstybiniais aktais, parašais ir antspaudais]]
+- [[objektai/asmenys/Rumbaudas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/paprociai/Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai]]
+- [[objektai/ivykiai/Rusijos vietinio valdymo sistemos įvedimas aneksuotoje LDK dalyje]]
+- [[objektai/paprociai/Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą|Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą (seimas)]]
+- [[objektai/paprociai/Testamento vykdytojų pareiga padalyti turtą pagal testatoriaus valią]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]
+- [[objektai/grupes/Vilniaus lietuvių seimas|Vilniaus lietuvių seimas (seimas, XV a.)]]
+- [[objektai/ivykiai/Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.)]]
+- [[objektai/ivykiai/Vilniaus seimas ir Belsko žemės atskyrimo aktas|Vilniaus seimas ir Belsko žemės atskyrimo aktas (seimas, XVI a.)]]
+- [[objektai/ivykiai/Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.)]]
+- [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)]]
+- [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
+- [[objektai/ivykiai/Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.)]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/archikamerarijus]]
+- [[objektai/zodynas/cesija ir decesija]]
+- [[objektai/zodynas/feodalizmas]]
+- [[objektai/zodynas/fogtas]]
+- [[objektai/zodynas/graikų schizma]]
+- [[objektai/zodynas/luomas subluomas]]
+- [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
+- [[objektai/zodynas/sankcija]]
+- [[objektai/zodynas/tripartitio christiana luominė visuomenė]]
+- [[objektai/asmenys/Šich Achmetas]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- [[objektai/ivykiai/Žygimanto Kęstutaičio pakėlimas Lietuvos didžiuoju kunigaikščiu (1432 m.)]]
+- [[objektai/ivykiai/Algirdo mirtis ir Jogailos paskelbimas didžiuoju kunigaikščiu]]
+- [[objektai/ivykiai/Bresto luomų pasitarimas ir pasiuntinybė į Liublino seimą dėl unijos su Lenkija|Bresto luomų pasitarimas ir pasiuntinybė į Liublino seimą dėl unijos su Lenkija (unija, XVI a.)]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]
+- [[objektai/posakiai/Kijevo ir Rusios didįjį kunigaikštį]]
+- [[objektai/zodynas/Rusios didysis kunigaikštis]]
+- [[objektai/ivykiai/Varšuvos seimas ir Lenkijos atsisakymas prisiimti Livonijos karo naštą|Varšuvos seimas ir Lenkijos atsisakymas prisiimti Livonijos karo naštą (seimas, XVI a.)]]
+- [[objektai/zodynas/stabmeldžiai]]

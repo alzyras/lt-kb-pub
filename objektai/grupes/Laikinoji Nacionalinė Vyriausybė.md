@@ -17,7 +17,9 @@ Varšuvoje įsikūręs sukilimo rengimo Nacionalinis Centro komitetas, pasivadin
 
 ## Teiginiai
 
+<a id="claim-t-40979"></a>
 - t-001
+  global_id: t-40979
   teiginys: 'Varšuvoje įsikūręs sukilimo rengimo Nacionalinis Centro komitetas, pasivadinęs Laikinąja Nacionaline Vyriausybe, pakvietė sukilėlius pradėti karinius veiksmus visoje buvusioje Lenkijos karalystėje.'
   pagrindžia:
     - c-001

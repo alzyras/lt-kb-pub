@@ -25,17 +25,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88181"></a>
 - t-001
+  global_id: t-88181
   teiginys: 'Dinaburgo komtūro laiške pranešta, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88182"></a>
 - t-002
+  global_id: t-88182
   teiginys: 'Dinaburgo komtūro laiške teigiama, kad Vilniaus gaisras Vytautui padarė nuostolių už 60 000 sidabro luitų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-88184"></a>
 - t-003
+  global_id: t-88184
   teiginys: '136, N533 Dinaburgo komtūro pranešimas Livonijos magistrui apie Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie nuostolius, kokių per tai patyrė Vytautas.'
   pagrindžia:
     - c-001

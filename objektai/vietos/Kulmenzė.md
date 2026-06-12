@@ -25,27 +25,37 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
 
 ## Teiginiai
 
+<a id="claim-t-58496"></a>
 - t-001
+  global_id: t-58496
   teiginys: 'Dusburgietis teigia, kad pailsęs nuo rūpesčių ir palaužtas negalės, ilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia pasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58497"></a>
 - t-002
+  global_id: t-58497
   teiginys: 'Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-58498"></a>
 - t-003
+  global_id: t-58498
   teiginys: 'Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų kariuomenė ir apsiautė Kulmenzės miestą433.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58499"></a>
 - t-004
+  global_id: t-58499
   teiginys: 'Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58500"></a>
 - t-005
+  global_id: t-58500
   teiginys: 'Dusburgietis teigia, kad apie daugybės Kulmenzės miestiečių žūtį Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri vadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke, miestiečiai bėgdavo nuo pjūties darbų.'
   pagrindžia:
     - c-005

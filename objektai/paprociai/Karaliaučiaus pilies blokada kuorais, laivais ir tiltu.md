@@ -39,19 +39,25 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62678"></a>
 - t-001
+  global_id: t-62678
   teiginys: 'Dusburgietis teigia, kad matydami, kad nestengs Karaliaučiaus pilies jėga paimti, prūsai, įgudę ir patyrę kariai, pasistatydino daug laivų, su kuriais ketino daužyti ir naikinti brolių laivus, gabenančius maistą į minėtąją pilį, kad, trūkdami maisto, broliai silpnėtų.'
   pagrindžia:
     - c-001
     - c-002
 
+<a id="claim-t-62679"></a>
 - t-002
+  global_id: t-62679
   teiginys: 'Dusburgietis teigia, kad kiekvieną pilį apsupo trimis stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl apsuptieji negalėjo nei įeiti, nei išeiti iš pilies.'
   pagrindžia:
     - c-004
     - c-003
 
+<a id="claim-t-62680"></a>
 - t-003
+  global_id: t-62680
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
   pagrindžia:
     - c-002

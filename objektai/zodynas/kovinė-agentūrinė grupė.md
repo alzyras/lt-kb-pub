@@ -18,7 +18,9 @@ Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
 
 ## Teiginiai
 
+<a id="claim-t-42474"></a>
 - t-001
+  global_id: t-42474
   teiginys: 'Prireikus agentai-smogikai būdavo sujungiami į kovines-agentūrines grupes.'
   pagrindžia:
     - c-001

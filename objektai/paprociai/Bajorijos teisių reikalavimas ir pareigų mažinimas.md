@@ -32,7 +32,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01919"></a>
 - t-001
+  global_id: t-01919
   teiginys: 'Lenkų pavyzdžiu einanti bajorija kaskart vis daugiau reikalavo sau teisių ir nuolat mažino sau pareigas.'
   pagrindžia:
     - c-001

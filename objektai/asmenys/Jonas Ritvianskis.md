@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jonas Ritvianskis
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai Vilniuje susirinko lietuvių seimas, atvyko čia Lenkijos pasiuntiniai Stanislovas Ostrorogas, Kališo vaivada, ir Jonas Ritvianskis, karalystės maršalas.
+Vilniuje susirinkus lietuvių seimui, Jonas Ritvianskis atvyko kaip Lenkijos pasiuntinys ir karalystės maršalas.
 
 ## Teiginiai
 
+<a id="claim-t-186217"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai Vilniuje susirinko lietuvių seimas, atvyko čia Lenkijos pasiuntiniai Stanislovas Ostrorogas, Kališo vaivada, ir Jonas Ritvianskis, karalystės maršalas.'
+  global_id: t-186217
+  teiginys: 'Vilniuje susirinkus lietuvių seimui, Jonas Ritvianskis atvyko kaip Lenkijos pasiuntinys ir karalystės maršalas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai Vilniuje susirinko lietuvių seimas, atvyko čia Lenkijos pasiuntiniai Stanislovas Ostrorogas, Kališo vaivada, ir Jonas Ritvianskis, karalystės maršalas.'
+  santrauka: 'Vilniuje susirinkus lietuvių seimui, Jonas Ritvianskis atvyko kaip Lenkijos pasiuntinys ir karalystės maršalas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gavo jie tik tokį atsakymą, kad
@@ -39,3 +40,11 @@ Kojelavičius teigia, kad kai Vilniuje susirinko lietuvių seimas, atvyko čia L
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/ivykiai/Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.)]]

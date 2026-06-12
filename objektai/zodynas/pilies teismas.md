@@ -17,7 +17,9 @@ Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, v
 
 ## Teiginiai
 
+<a id="claim-t-03118"></a>
 - t-001
+  global_id: t-03118
   teiginys: 'Pilies teismui buvo pavesta spręsti baudžiamąsias bylas.'
   pagrindžia:
     - c-001

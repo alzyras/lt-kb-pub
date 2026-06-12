@@ -33,17 +33,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-41365"></a>
 - t-001
+  global_id: t-41365
   teiginys: 'Derybose Lietuvos delegacija reikalavo nustatyti laikiną demarkacijos liniją, pasibaigus lenkų-bolševikų kovoms, atitraukti lenkų pajėgas už Lietuvos su sovietais suderėtų sienų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-41366"></a>
 - t-002
+  global_id: t-41366
   teiginys: 'Lenkai pasiūlė pradėti derybas Suvalkuose, siekdami neprarasti teigiamo įvaizdžio tarptautinėje aplinkoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41367"></a>
 - t-003
+  global_id: t-41367
   teiginys: 'Spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.'
   pagrindžia:
     - c-002

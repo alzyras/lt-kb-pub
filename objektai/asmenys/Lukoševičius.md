@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-80739"></a>
 - t-001
+  global_id: t-80739
   teiginys: 'Šalia jo stovėjęs skyrininkas Lukoševičius komisarą nudūrė.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Laurinavičius Č., Sirutavičius V.
 
 ## Teiginiai
 
+<a id="claim-t-19476"></a>
 - t-001
+  global_id: t-19476
   teiginys: 'V. Sirutavičius kartu su Č. Laurinavičiumi parašė veikalą „Sąjūdis: nuo „persitvarkymo“ iki Kovo 11-osios“.'
   pagrindžia:
     - c-001

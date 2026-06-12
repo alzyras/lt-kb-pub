@@ -23,7 +23,9 @@ Vartojamos formos: `liuosais`, `liuosybę`.
 
 ## Teiginiai
 
+<a id="claim-t-70017"></a>
 - t-001
+  global_id: t-70017
   teiginys: '`Liuosybė` šiame tekste reiškia laisvę ir nevaržomą gyvenimą.'
   pagrindžia:
     - c-001

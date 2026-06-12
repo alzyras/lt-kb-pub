@@ -17,7 +17,9 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
 
 ## Teiginiai
 
+<a id="claim-t-59136"></a>
 - t-001
+  global_id: t-59136
   teiginys: 'Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką ilsėjosi vienoje vietoje; ilgokai ten taręsi, galop visi nusprendė, kad, šiaip ar taip, nedera tuščiomis rankomis grįžti namo.'
   pagrindžia:
     - c-001

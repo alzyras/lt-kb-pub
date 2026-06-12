@@ -43,17 +43,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75093"></a>
 - t-001
+  global_id: t-75093
   teiginys: 'Brunonas Bonifacijus rado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir pasikrikštijo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75094"></a>
 - t-002
+  global_id: t-75094
   teiginys: 'Netimero vadovaujama bendruomenė turėjo tolti nuo gentinės santvarkos į valstybę, kad taptų verta misionierių dėmesio.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75095"></a>
 - t-003
+  global_id: t-75095
   teiginys: 'Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos.'
   pagrindžia:
     - c-001

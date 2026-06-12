@@ -16,7 +16,9 @@ Svarbi tyrinėtojos išvada, jog „susidaro įspūdis, kad jis niekuomet ir neb
 
 ## Teiginiai
 
+<a id="claim-t-86566"></a>
 - t-001
+  global_id: t-86566
   teiginys: 'Požiūris į Jono Sniadeckio darbus laikytas romantikų, prepozityvistų ir „naujųjų klasikų“ skirties požymiu.'
   pagrindžia:
     - c-001

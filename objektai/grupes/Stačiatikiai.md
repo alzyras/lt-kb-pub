@@ -32,32 +32,44 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 
 ## Teiginiai
 
+<a id="claim-t-182592"></a>
 - t-001
+  global_id: t-182592
   teiginys: 'Vilniaus „rusėnų pusėje“ jau Gedimino laikais stovėjo cerkvės: stačiatikės visų pirma buvo kai kurios didžiųjų Lietuvos kunigaikščių žmonos, tačiau stačiatikių būta ir valdovo dvare – Algirdas toleravo stačiatikybę, jei tai neprieštaravo jo, kaip valdovo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-182593"></a>
 - t-002
+  global_id: t-182593
   teiginys: 'Antra vertus, tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendrijoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš Rusijos atsikeliantiems.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182594"></a>
 - t-003
+  global_id: t-182594
   teiginys: 'Apie 1500 m. LDK veikė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-182595"></a>
 - t-004
+  global_id: t-182595
   teiginys: 'Lietuvių kalba raštijos tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-183185"></a>
 - t-005
+  global_id: t-183185
   teiginys: 'Camblako stačiatikių delegaciją, turėjusią pagrįsti siekį gyventi unijoje su Katalikų bažnyčia.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184225"></a>
 - t-006
+  global_id: t-184225
   teiginys: 'Katalikams buvo draudžiamos mišrios vedybos su stačiatikiais, o nekatalikiškai pusei tokiose santuokose liepta priimti katalikybę.'
   pagrindžia:
     - c-001

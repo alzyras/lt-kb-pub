@@ -25,12 +25,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86052"></a>
 - t-001
+  global_id: t-86052
   teiginys: '2mo: kad tie namai būtų vadinami Valerijono bursomis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86053"></a>
 - t-002
+  global_id: t-86053
   teiginys: 'Valerijono Bursos studentams skirti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.'
   pagrindžia:
     - c-002

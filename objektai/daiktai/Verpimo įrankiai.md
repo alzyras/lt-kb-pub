@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08347"></a>
 - t-001
+  global_id: t-08347
   teiginys: 'Moterims į kapą dėdavo verpimo įrankius: varpstę ir kuodelį.'
   pagrindžia:
     - c-001

@@ -23,7 +23,9 @@ p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lie
 
 ## Teiginiai
 
+<a id="claim-t-41542"></a>
 - t-001
+  global_id: t-41542
   teiginys: '2010 m. žurnale „Krašto apsauga“ paskelbtas tekstas „Kiekvienas Lietuvos kariuomenės raidos etapas svarbus ir reikšmingas“.'
   pagrindžia:
     - c-001

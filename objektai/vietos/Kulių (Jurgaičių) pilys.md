@@ -25,7 +25,9 @@ Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaiči
 
 ## Teiginiai
 
+<a id="claim-t-41815"></a>
 - t-001
+  global_id: t-41815
   teiginys: 'Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaičių), Dubysos (Bubių) ir kažkurias kitas pilis, o Prūsijos ordinas maršalo vadovaujamas vėlesniais mėnesiais siaubė Ariogalos kraštą.'
   pagrindžia:
     - c-001

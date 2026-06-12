@@ -35,12 +35,16 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
 
 ## Teiginiai
 
+<a id="claim-t-61018"></a>
 - t-001
+  global_id: t-61018
   teiginys: 'L. Weberio „Preussen vor 500 Jahren“ išleistas Dancige 1878 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-61019"></a>
 - t-002
+  global_id: t-61019
   teiginys: 'Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas 1326 m. (PUB, 3, 3, p. 708, 697; Weber L., Preussen..., p. 473; Ambrassat A., Die Provinz..., p. 421).'
   pagrindžia:
     - c-001

@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87274"></a>
 - t-001
+  global_id: t-87274
   teiginys: 'Kolegijoje sergantys asmenys turėjo būti vaistininkų gydomi be užmokesčio ir aprūpinami vaistais.'
   pagrindžia:
     - c-001

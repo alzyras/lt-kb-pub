@@ -17,7 +17,9 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
 
 ## Teiginiai
 
+<a id="claim-t-59128"></a>
 - t-001
+  global_id: t-59128
   teiginys: 'Posakis „Mano yra kerštas, ir aš atlyginsiu“ priskiriamas Pakartoto įstatymo knygai.'
   pagrindžia:
     - c-001

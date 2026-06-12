@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20498"></a>
 - t-001
+  global_id: t-20498
   teiginys: 'Pradėjus mobilizaciją į SSRS kariuomenę, lietuviai vengė tarnybos Raudonojoje armijoje, nes Lietuvą laikė okupuota.'
   pagrindžia:
     - c-001

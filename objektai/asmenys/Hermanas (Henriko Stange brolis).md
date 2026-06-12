@@ -16,7 +16,9 @@ Dusburgietis teigia, kad kai šitai išvydo, brolis Hermanas, minėtojo komtūro
 
 ## Teiginiai
 
+<a id="claim-t-60322"></a>
 - t-001
+  global_id: t-60322
   teiginys: 'Dusburgietis teigia, kad kai šitai išvydo, brolis Hermanas, minėtojo komtūro tikras brolis, didžiai susijaudino dėl jo likimo.'
   pagrindžia:
     - c-001

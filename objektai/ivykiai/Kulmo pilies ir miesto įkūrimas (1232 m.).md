@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66650"></a>
 - t-001
+  global_id: t-66650
   teiginys: 'Dusburgietis teigia, kad apie maldininkus ir Kulmo pilies bei miesto įkūrimą Kai garsas apie naują Kristaus kryžiaus žygį nuskambėjo po visas Vokietijos karalystės žemes, kai buvo paskelbtas naujas karas, kuriam viešpats pasirinko Prūsijos žemę, kai buvo pažadėta naujo karo dalyviams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66651"></a>
 - t-002
+  global_id: t-66651
   teiginys: 'Dusburgietis teigia, kad čia, senajame piliakalnyje, buvęs pastatytas penkiakampis—pagal piliakalnio formą — konvento pastatas, senojo papilio vietoje vienas greta kito įrengti trys priešpiliai, atskirti nuo pilies ir vienas nuo kito grioviais (Byczko T., Z badań..., p. 150, 153).'
   pagrindžia:
     - c-001

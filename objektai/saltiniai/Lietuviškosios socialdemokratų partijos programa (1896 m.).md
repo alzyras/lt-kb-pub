@@ -24,7 +24,9 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
 
 ## Teiginiai
 
+<a id="claim-t-21114"></a>
 - t-001
+  global_id: t-21114
   teiginys: 'Lietuviškoji socialdemokratų partija, susikūrusi 1896 m., leido spaudą lietuvių ir lenkų kalbomis.'
   pagrindžia:
     - c-001

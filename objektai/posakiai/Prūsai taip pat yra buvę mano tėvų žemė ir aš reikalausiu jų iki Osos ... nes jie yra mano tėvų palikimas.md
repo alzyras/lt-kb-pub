@@ -24,7 +24,9 @@ Dusburgietis teigia, kad 1413 m., Salyno derybų metu, Vytautas griežtai parei�
 
 ## Teiginiai
 
+<a id="claim-t-59157"></a>
 - t-001
+  global_id: t-59157
   teiginys: '1413 m. Salyno derybose Vytautas pareiškė, kad Prūsai buvę jo tėvų žemė ir kad jis reikalausiąs jų iki Osos.'
   pagrindžia:
     - c-001

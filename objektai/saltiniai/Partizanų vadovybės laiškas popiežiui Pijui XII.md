@@ -24,12 +24,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-75508"></a>
 - t-001
+  global_id: t-75508
   teiginys: '1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis į laisvąjį pasaulį nugabeno partizanų vadovybės laišką popiežiui Pijui XII.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75509"></a>
 - t-002
+  global_id: t-75509
   teiginys: 'Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių partizanų ir MGB kadrinių karininkų) būrius.'
   pagrindžia:
     - c-001

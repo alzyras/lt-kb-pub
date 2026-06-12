@@ -19,7 +19,9 @@ Karas po karo – ginkluota rezistencija Nuo 1944 m. vasaros sovietų represijos
 
 ## Teiginiai
 
+<a id="claim-t-20904"></a>
 - t-001
+  global_id: t-20904
   teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, iš kurio kilo dešimtmetį trukęs partizaninis karas dėl nepriklausomybės.'
   pagrindžia:
     - c-001

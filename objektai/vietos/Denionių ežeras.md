@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41672"></a>
 - t-001
+  global_id: t-41672
   teiginys: 'Prie Denionių ežero buvusiame Tarzano bunkeryje buvo suimtas Vladas Karosas-Vilkas.'
   pagrindžia:
     - c-001

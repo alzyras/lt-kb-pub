@@ -12,7 +12,6 @@ tags:
   - valdovas
   - vieta
 ---
-
 # Kamenecas
 
 ## Santrauka
@@ -21,23 +20,31 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86075"></a>
 - t-001
+  global_id: t-86075
   teiginys: 'Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86076"></a>
 - t-002
+  global_id: t-86076
   teiginys: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184966"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad kamenecą atėmė iš priešo po as tuonių apsiausties dienų.'
+  global_id: t-184966
+  teiginys: 'Kamenecas buvo atimtas iš priešo po aštuonių apsiausties dienų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184967"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad kadangi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas, Spitekui iš Melštino, Krokuvos vaivadai, parūpinus pini gų, atidavė karalystei ir karaliui Kamenecą, Smotričių, Skalą, Červonogradą.'
+  global_id: t-184967
+  teiginys: 'Vytautas už keturiasdešimt tūkstančių florinų atidavė karalystei ir karaliui Kamenecą, Smotričių, Skalą ir Červonogradą.'
   pagrindžia:
     - c-004
 
@@ -97,7 +104,7 @@ tags:
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad kamenecą atėmė iš priešo po as tuonių apsiausties dienų.'
+  santrauka: 'Kamenecas buvo atimtas iš priešo po aštuonių apsiausties dienų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Praėjus kelioms
@@ -117,7 +124,7 @@ tags:
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad kadangi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas, Spitekui iš Melštino, Krokuvos vaivadai, parūpinus pini gų, atidavė karalystei ir karaliui Kamenecą, Smotričių, Skalą, Červonogradą.'
+  santrauka: 'Vytautas už keturiasdešimt tūkstančių florinų atidavė karalystei ir karaliui Kamenecą, Smotričių, Skalą ir Červonogradą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Veikiau norėdamas len­

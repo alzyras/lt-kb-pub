@@ -41,17 +41,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66800"></a>
 - t-001
+  global_id: t-66800
   teiginys: 'Dusburgietis teigia, kad po to Karaliaučiaus komtūras negaišdamas sugrįžo su kariuomene iš Vonsdorfo [Unzatrapio] valsčiaus, norėdamas sutramdyti Notangos maištą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66801"></a>
 - t-002
+  global_id: t-66801
   teiginys: '1295 m. notangai vėl sukilo, savo kariuomenės vadu išsirinko Sabiną ir Bartenšteino pilyje paėmė į nelaisvę du brolius su jų šeimyna.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66802"></a>
 - t-003
+  global_id: t-66802
   teiginys: 'Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai, ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas.'
   pagrindžia:
     - c-002

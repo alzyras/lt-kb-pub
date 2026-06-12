@@ -29,27 +29,37 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
 
 ## Teiginiai
 
+<a id="claim-t-64631"></a>
 - t-001
+  global_id: t-64631
   teiginys: 'J. Poverskis parašė darbą „Przekaz“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64633"></a>
 - t-002
+  global_id: t-64633
   teiginys: 'J. Poverskis manė, kad prūsų sukilimas galėjo prasidėti 1243 m. paskutiniame ketvirtyje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-64634"></a>
 - t-003
+  global_id: t-64634
   teiginys: 'J. Poverskis atskleidė Dusburgiečio panaudotą žuvusį XIII a. vidurio šaltinį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64635"></a>
 - t-004
+  global_id: t-64635
   teiginys: 'J. Poverskis manė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-64639"></a>
 - t-005
+  global_id: t-64639
   teiginys: 'J. Poverskis siūlė vėlesnes pilies statybos, konvento perkėlimo ir miesto lokacinės privilegijos datas.'
   pagrindžia:
     - c-003

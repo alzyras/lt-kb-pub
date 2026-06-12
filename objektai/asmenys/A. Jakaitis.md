@@ -17,7 +17,9 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
 
 ## Teiginiai
 
+<a id="claim-t-39978"></a>
 - t-001
+  global_id: t-39978
   teiginys: 'Mjr. A. Jakaičio vadovaujamas 10-asis pulkas turėjo žygiuoti iš Šipliškių į Suvalkus, vėliau į Augustavą.'
   pagrindžia:
     - c-001

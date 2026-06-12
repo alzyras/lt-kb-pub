@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu
 
 ## Santrauka
 
-Kojelavičius teigia, kad sukvietus Kernavėje didikų sueigą, Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, jo broliui Trobiui patikėta Žemaitija su ta są lyga, kad jis bus pavaldus Lietuvos didžiajam kunigaik ščiui.
+Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185712"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad sukvietus Kernavėje didikų sueigą, Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, jo broliui Trobiui patikėta Žemaitija su ta są lyga, kad jis bus pavaldus Lietuvos didžiajam kunigaik ščiui.'
+  global_id: t-185712
+  teiginys: 'Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad sukvietus Kernavėje didikų sueigą, Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, jo broliui Trobiui patikėta Žemaitija su ta są lyga, kad jis bus pavaldus Lietuvos didžiajam kunigaik ščiui.'
+  santrauka: 'Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tokio pat likimo susilaukė jo įpėdinis Andrius fon
@@ -53,3 +54,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Germantas]]
+- [[objektai/asmenys/Giliginas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Trobius]]
+- [[objektai/zodynas/sueiga]]

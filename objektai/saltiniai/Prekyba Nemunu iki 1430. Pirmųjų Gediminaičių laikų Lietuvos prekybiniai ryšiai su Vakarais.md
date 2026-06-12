@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31893"></a>
 - t-001
+  global_id: t-31893
   teiginys: 'J. Remeikos „Prekyba Nemunu iki 1430“ 1962 m. paskelbta „Tautos Praeities“ I tomo 4 numeryje.'
   pagrindžia:
     - c-001

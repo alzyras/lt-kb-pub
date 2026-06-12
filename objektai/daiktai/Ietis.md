@@ -48,12 +48,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40718"></a>
 - t-001
+  global_id: t-40718
   teiginys: '1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40719"></a>
 - t-002
+  global_id: t-40719
   teiginys: 'Prie Maskvos lietuvis atrėmė ietį į miesto sieną ir pareiškė, kad lietuvių ietis stovėjo prie Maskvos.'
   pagrindžia:
     - c-002

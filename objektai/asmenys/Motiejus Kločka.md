@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Motiejus Kločka
 
 ## Santrauka
 
-Kojelavičius teigia, kad pasiuntinybę sudarė maršalas Motiejus Kločka, žirgininkas Vasilijus Bogdanovičius Čižas ir slap tosios karaliaus tarybos narys Andrius Mackevičius. Kojelavičius teigia, kad aleksandrą atlydėjo Jonas Sapiega, Palen kės vaivada, maršalas Motiejus Kločka ir Povilas Naruševičius, karaliaus slaptosios tarybos narys.
+Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilijumi Bogdanovičiumi Čižu ir Andriumi Mackevičiumi. Aleksandrą atlydėjo Jonas Sapiega, maršalas Motiejus Kločka ir Povilas Naruševičius.
 
 ## Teiginiai
 
+<a id="claim-t-186070"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pasiuntinybę sudarė maršalas Motiejus Kločka, žirgininkas Vasilijus Bogdanovičius Čižas ir slap tosios karaliaus tarybos narys Andrius Mackevičius.'
+  global_id: t-186070
+  teiginys: 'Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilijumi Bogdanovičiumi Čižu ir Andriumi Mackevičiumi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186071"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad aleksandrą atlydėjo Jonas Sapiega, Palen kės vaivada, maršalas Motiejus Kločka ir Povilas Naruševičius, karaliaus slaptosios tarybos narys.'
+  global_id: t-186071
+  teiginys: 'Aleksandrą atlydėjo Jonas Sapiega, maršalas Motiejus Kločka ir Povilas Naruševičius.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pasiuntinybę sudarė maršalas Motiejus Kločka, žirgininkas Vasilijus Bogdanovičius Čižas ir slap tosios karaliaus tarybos narys Andrius Mackevičius.'
+  santrauka: 'Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilijumi Bogdanovičiumi Čižu ir Andriumi Mackevičiumi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Esą valachams visi keliai at­
@@ -57,7 +60,7 @@ Kojelavičius teigia, kad pasiuntinybę sudarė maršalas Motiejus Kločka, žir
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad aleksandrą atlydėjo Jonas Sapiega, Palen kės vaivada, maršalas Motiejus Kločka ir Povilas Naruševičius, karaliaus slaptosios tarybos narys.'
+  santrauka: 'Aleksandrą atlydėjo Jonas Sapiega, maršalas Motiejus Kločka ir Povilas Naruševičius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jį priėmė iš tiesų gana draugiškai, ta­
@@ -74,3 +77,13 @@ Kojelavičius teigia, kad pasiuntinybę sudarė maršalas Motiejus Kločka, žir
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Motiejus]]
+- [[objektai/grupes/Valachai]]
+- [[objektai/asmenys/Vasilijus]]
+- [[objektai/zodynas/legatai]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/žirgininkas]]
+- [[objektai/asmenys/Andrius Mackevičius]]

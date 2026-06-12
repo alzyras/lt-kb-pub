@@ -18,17 +18,23 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
 
 ## Teiginiai
 
+<a id="claim-t-22044"></a>
 - t-001
+  global_id: t-22044
   teiginys: 'Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-22045"></a>
 - t-002
+  global_id: t-22045
   teiginys: 'MGB-KGB agentai smogikai naudojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti bei partizanų ryšininkams ir rėmėjams šaudyti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-22046"></a>
 - t-003
+  global_id: t-22046
   teiginys: 'Daug civilių aukų būta vietovėse, kur veikė sovietų smogikai arba partizanų būriai piktnaudžiavo alkoholiu.'
   pagrindžia:
     - c-003

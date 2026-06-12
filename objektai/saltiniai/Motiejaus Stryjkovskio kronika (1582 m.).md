@@ -22,7 +22,9 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
 
 ## Teiginiai
 
+<a id="claim-t-31853"></a>
 - t-001
+  global_id: t-31853
   teiginys: 'Remiantis Motiejaus Stryjkovskio kronika, XVI a. antroje pusėje Lietuvos istorija buvo pradedama nuo Nerono laikų.'
   pagrindžia:
     - c-001

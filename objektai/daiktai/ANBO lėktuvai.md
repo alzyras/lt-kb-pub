@@ -53,27 +53,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-13449"></a>
 - t-001
+  global_id: t-13449
   teiginys: 'ANBO šaltinyje aiškinamas kaip lėktuvų projektavimo ir gamybos Kaune ženklas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-13450"></a>
 - t-002
+  global_id: t-13450
   teiginys: 'Antanas Gustaitis sukonstravo ANBO seriją, o Kauno karo aviacijos dirbtuvėse pastatyti 66 tokie lėktuvai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-13451"></a>
 - t-003
+  global_id: t-13451
   teiginys: 'ANBO VIII apibūdintas kaip Antano Gustaičio sukonstruotas ir Kaune pagamintas lengvasis bombonešis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-23269"></a>
 - t-004
+  global_id: t-23269
   teiginys: 'O turima galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų titulai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23270"></a>
 - t-005
+  global_id: t-23270
   teiginys: 'Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėktuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių).'
   pagrindžia:
     - c-004

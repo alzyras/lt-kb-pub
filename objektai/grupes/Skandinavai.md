@@ -27,12 +27,16 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 
 ## Teiginiai
 
+<a id="claim-t-66128"></a>
 - t-001
+  global_id: t-66128
   teiginys: 'Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolatinį upių susisiekimą su Bizantija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66129"></a>
 - t-002
+  global_id: t-66129
   teiginys: 'Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.'
   pagrindžia:
     - c-001
@@ -103,4 +107,3 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - [[objektai/grupes/Bizantijos imperija]]
 - [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]
 - [[objektai/zodynas/Variagai]]
-- [[objektai/grupes/Voluiniečiai]]

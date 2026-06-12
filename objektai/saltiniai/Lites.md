@@ -25,7 +25,9 @@ Raczyński : RaCD, 82, 251 p. ; Lites, II, 1892.
 
 ## Teiginiai
 
+<a id="claim-t-31827"></a>
 - t-001
+  global_id: t-31827
   teiginys: 'Racionžo susitarimų dokumentai buvo išspausdinti leidinio „Lites“ antrajame tome 1892 m.'
   pagrindžia:
     - c-001

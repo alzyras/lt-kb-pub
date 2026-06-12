@@ -17,7 +17,9 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 
 ## Teiginiai
 
+<a id="claim-t-60405"></a>
 - t-001
+  global_id: t-60405
   teiginys: 'Pasdrauputis buvo Namedos, kilusios iš Mantiminų giminės, sūnus.'
   pagrindžia:
     - c-001

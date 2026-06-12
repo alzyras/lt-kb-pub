@@ -17,7 +17,9 @@ Dusburgietis teigia, kad kai jis stovėjo prie savo namo durų, aiškiai matė o
 
 ## Teiginiai
 
+<a id="claim-t-91900"></a>
 - t-001
+  global_id: t-91900
   teiginys: 'Kaimo kūlikas regėjime matė ore brolius, kovojančius su lietuviais, ir klausė šeimynos, ar ji mato brolių kovą su netikėliais.'
   pagrindžia:
     - c-001

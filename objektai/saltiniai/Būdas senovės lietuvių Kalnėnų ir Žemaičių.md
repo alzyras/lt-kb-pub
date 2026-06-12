@@ -23,12 +23,16 @@ Dideli girių masyvai teikė jų pakraščių gyventojams visokio užsiėmimo, i
 
 ## Teiginiai
 
+<a id="claim-t-31637"></a>
 - t-001
+  global_id: t-31637
   teiginys: 'S. Daukanto „Būdas senovės lietuvių Kalnėnų ir Žemaičių“ buvo išleistas Kaune 1935 m., redaguotas J. Talmanto.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-31638"></a>
 - t-002
+  global_id: t-31638
   teiginys: 'S. Daukantas „Būde senovės lietuvių Kalnėnų ir Žemaičių“ vaizdingai aprašė, kaip iš miško buvo gaunama visokeriopa nauda.'
   pagrindžia:
     - c-002

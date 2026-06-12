@@ -17,7 +17,9 @@ Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo išteklia
 
 ## Teiginiai
 
+<a id="claim-t-21707"></a>
 - t-001
+  global_id: t-21707
   teiginys: 'Alytaus, Plungės ir Utenos gamyklose 50-70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.'
   pagrindžia:
     - c-001

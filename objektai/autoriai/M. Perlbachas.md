@@ -28,17 +28,23 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
 
 ## Teiginiai
 
+<a id="claim-t-175145"></a>
 - t-001
+  global_id: t-175145
   teiginys: 'M. Perlbachas teigė, kad nuo 1289 metų Petras Dusburgietis jau gyveno Prūsijoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-175146"></a>
 - t-002
+  global_id: t-175146
   teiginys: 'M. Perlbachas nagrinėtas aiškinant Dusburgiečio pasakojimo ryšį su 1230 ir 1232 metų popiežiaus bulėmis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-175148"></a>
 - t-003
+  global_id: t-175148
   teiginys: 'M. Perlbachas rašė apie senesniąją Olivos kroniką.'
   pagrindžia:
     - c-003

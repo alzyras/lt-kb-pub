@@ -17,7 +17,9 @@ Prieš priemiesčius stovėjo 2-asis regimentas, vadovaujamas Karolio Moravskio 
 
 ## Teiginiai
 
+<a id="claim-t-40233"></a>
 - t-001
+  global_id: t-40233
   teiginys: 'Juozapo Bielako priešakinės sargybos pulkas stovėjo prieš priemiesčius su 1-osios tautinės kavalerijos brigada.'
   pagrindžia:
     - c-001

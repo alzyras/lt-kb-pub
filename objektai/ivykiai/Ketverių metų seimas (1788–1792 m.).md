@@ -43,27 +43,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-78619"></a>
 - t-001
+  global_id: t-78619
   teiginys: '1787 m. Kaneve Kotryna ir Stanislovas Augustas sutarė, kad kitų metų seime karalius sieks Respublikos paramos Rusijai kare su turkais.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-78620"></a>
 - t-002
+  global_id: t-78620
   teiginys: 'Ketverių metų seimas 1791 m. gegužės 3 d. priėmė konstituciją ir kitus įstatymus, turėjusius reformuoti valstybę bei atsikratyti Rusijos protektorato.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78621"></a>
 - t-003
+  global_id: t-78621
   teiginys: 'Ketverių metų seime pirmuoju paveldimuoju karaliumi numatytas Stanislovo Augusto įpėdinis, Saksonijos elektorius Fridrikas Augustas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78622"></a>
 - t-004
+  global_id: t-78622
   teiginys: 'Ketverių metų seimas (1788–1792 m.): šitaip seimas veikė net ištisus 4 metus ir per tą laiką pakeitė visą valstybės santvarką.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78623"></a>
 - t-005
+  global_id: t-78623
   teiginys: 'Ketverių metų seimas atmetė siūlymą sudaryti karinę sąjungą su Rusija ir, Prūsijos palaikomas, ėmėsi reformų.'
   pagrindžia:
     - c-004

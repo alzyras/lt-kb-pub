@@ -27,12 +27,16 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
 
 ## Teiginiai
 
+<a id="claim-t-82167"></a>
 - t-001
+  global_id: t-82167
   teiginys: 'Caras Aleksandras II su aplinka rengė baudžiavos panaikinimo projektus Rusijos imperijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82169"></a>
 - t-002
+  global_id: t-82169
   teiginys: 'Aleksandro II atėjimas į sostą žymėjo liberalių reformų pradžią ir atgaivino visuomenės politinius siekius.'
   pagrindžia:
     - c-002

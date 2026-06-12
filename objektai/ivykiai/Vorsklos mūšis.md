@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-05318"></a>
 - t-001
+  global_id: t-05318
   teiginys: 'Vorsklos kautynės, apie kurias iš ano laiko yra daug šaltinių^35 , reiškė galą Vytauto didiesiems planams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-100026"></a>
 - t-002
+  global_id: t-100026
   teiginys: 'Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis sutriuškino švedų galybę (1709).'
   pagrindžia:
     - c-001

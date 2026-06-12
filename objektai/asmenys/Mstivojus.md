@@ -28,32 +28,44 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
 
 ## Teiginiai
 
+<a id="claim-t-59894"></a>
 - t-001
+  global_id: t-59894
   teiginys: 'Dusburgietis teigia, kad sitai sužinojęs, Mstivojus užgrobė šias tris Pomeranijos kunigaikštystės dalis ir jas ilgus metus išlaikė savo valdžioje prieš brolių valią.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-59895"></a>
 - t-002
+  global_id: t-59895
   teiginys: 'Dusburgietis teigia, kad šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-59896"></a>
 - t-003
+  global_id: t-59896
   teiginys: 'Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį, o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą].'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59897"></a>
 - t-004
+  global_id: t-59897
   teiginys: 'Dusburgietis teigia, kad mstivojus, Pomeranijos kunigaikštis, anksčiau nelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas, paliovė tūžęs ir nuolankiai bei karštai paprašė magistrą sutikti atnaujinti kadaise sudarytą tarp jo ir magistro bei brolių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59898"></a>
 - t-005
+  global_id: t-59898
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję, turėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą, Samborą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-59899"></a>
 - t-006
+  global_id: t-59899
   teiginys: 'Rabė patarė pasiųsti Sventopelko sūnų Mstivojų Austrijos kunigaikščiui kaip įkaitą.'
   pagrindžia:
     - c-001

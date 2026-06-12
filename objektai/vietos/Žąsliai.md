@@ -22,7 +22,9 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
 
 ## Teiginiai
 
+<a id="claim-t-42418"></a>
 - t-001
+  global_id: t-42418
   teiginys: 'Lietuvos kariuomenei pavyko išvaduoti Žąslius, nors lietuvių puolimas užstrigo.'
   pagrindžia:
     - c-001

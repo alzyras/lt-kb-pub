@@ -27,37 +27,51 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 
 ## Teiginiai
 
+<a id="claim-t-78200"></a>
 - t-001
+  global_id: t-78200
   teiginys: 'Po šio pralaimėjimo kilo grėsmė, kad Turkija gali įsiveržti į Lenkiją.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-78201"></a>
 - t-002
+  global_id: t-78201
   teiginys: 'Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio 18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes, laikydamasi Rusijos nedalomumo principo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78202"></a>
 - t-003
+  global_id: t-78202
   teiginys: 'Lenkijos kariuomenė buvo sunaikinta mūšyje prie Cecoros, kur žuvo didysis karūnos etmonas Stanislovas Žolkievskis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-78203"></a>
 - t-004
+  global_id: t-78203
   teiginys: 'Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78204"></a>
 - t-005
+  global_id: t-78204
   teiginys: 'Susidarius grėsmingai situacijai, Abiejų Tautų Respublikos valdovas Zigmantas Vaza nurodė LDx kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-78205"></a>
 - t-006
+  global_id: t-78205
   teiginys: 'Pagal J. Pilsudskio sumanymą Vilnių užėmė ne Lenkijos kariuomenė, o L. Želigovskio vadovaujami Vilnijos daliniai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183148"></a>
 - t-007
+  global_id: t-183148
   teiginys: 'Tačiau lenkų kariškiai neskubėjo perduoti Vilniaus lietuviams ir pirmi į jį įžengė Raudonosios armijos kavalerijos korpusai, o Lietuvos kariuomenė – tik liepos 15-ąją jau padėjus parašus po sutartimi Maskvoje...'
   pagrindžia:
     - c-006

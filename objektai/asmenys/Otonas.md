@@ -9,7 +9,6 @@ atnaujinta: ''
 tags:
   - asmuo
 ---
-
 # Otonas
 
 ## Santrauka
@@ -18,13 +17,17 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
 
 ## Teiginiai
 
+<a id="claim-t-60400"></a>
 - t-001
+  global_id: t-60400
   teiginys: 'Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras brolis Otonas vadovavo daug metų, o mirė birželio 2 dieną ir palaidotas Akone156.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184812"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad tais pačiais metais, kaip sako Livonijos metraštis, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, magistras žuvo su penkiasdešimčia šio ordino brolių.'
+  global_id: t-184812
+  teiginys: 'Livonijos magistras Otonas žuvo prie Eželio ant ledo kovodamas su žemaičiais ir lietuviais.'
   pagrindžia:
     - c-002
 
@@ -49,7 +52,7 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad tais pačiais metais, kaip sako Livonijos metraštis, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, magistras žuvo su penkiasdešimčia šio ordino brolių.'
+  santrauka: 'Livonijos magistras Otonas žuvo prie Eželio ant ledo kovodamas su žemaičiais ir lietuviais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėl­
@@ -67,3 +70,18 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją]]
+- [[objektai/asmenys/Ditrichas iš Ezbeko]]
+- [[objektai/asmenys/Otonas iš Bergo]]
+- [[objektai/asmenys/Otonas iš Cedlico]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
+- [[objektai/ivykiai/Braunšveigo kunigaikščio Otono atvykimas į Prūsiją]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/ivykiai/Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną]]

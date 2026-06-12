@@ -16,7 +16,9 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
 
 ## Teiginiai
 
+<a id="claim-t-02263"></a>
 - t-001
+  global_id: t-02263
   teiginys: '„Pakeleivingą“ buvo sumanyta leisti kaip specialų laikraštį, bet leidimas jam nebuvo gautas.'
   pagrindžia:
     - c-001

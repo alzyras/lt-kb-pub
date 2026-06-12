@@ -19,22 +19,30 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
 
 ## Teiginiai
 
+<a id="claim-t-67483"></a>
 - t-001
+  global_id: t-67483
   teiginys: 'Lenkai reikalavo derybų pagrindu laikyti 1501 m. Melniko ir 1564 m. Varšuvos receso aktus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67484"></a>
 - t-002
+  global_id: t-67484
   teiginys: 'Melniko aktas (1501 m.): tuo būdu šis susitarimas pasiliko tik popieriuje: Lietuva ir Lenkija, kaip ir anksčiau, liko atskiros valstybės, tik vieno valdovo valdomos (personalinė unija). Bet vis dėlto, kai po 50 m. vėl iškilo Lietuvos ir Lenkijos santykių sunormavimo klausimas, lenkai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67485"></a>
 - t-003
+  global_id: t-67485
   teiginys: 'Melniko aktu Aleksandras atskiru dokumentu patvirtino Lietuvos ir Lenkijos santykius normavusį susitarimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67486"></a>
 - t-004
+  global_id: t-67486
   teiginys: 'Melniko aktu siekta įkurti jungtinę valstybę su bendru seimu, valdovu, apsauga ir pinigais.'
   pagrindžia:
     - c-004

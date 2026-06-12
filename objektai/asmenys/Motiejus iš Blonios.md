@@ -27,7 +27,9 @@ Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvo
 
 ## Teiginiai
 
+<a id="claim-t-87794"></a>
 - t-001
+  global_id: t-87794
   teiginys: 'Motiejus iš Blonios, Gniezno kanauninkas ir rūmų daktaras, iš Krokuvos atvyko gydyti sergančio Aleksandro.'
   pagrindžia:
     - c-001

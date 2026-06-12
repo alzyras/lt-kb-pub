@@ -17,7 +17,9 @@ Dusburgietis teigia, kad apie nuostabų vieno vyro atsivertimą Tais metais Kara
 
 ## Teiginiai
 
+<a id="claim-t-60349"></a>
 - t-001
+  global_id: t-60349
   teiginys: 'Dusburgietis teigia, kad apie nuostabų vieno vyro atsivertimą Tais metais Karaliaučiaus pilyje mirė brolis Jonas Saksas iš Gilberštetės, kuris, kol buvo pasaulietis, gyveno nedorovingai.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
 
 ## Teiginiai
 
+<a id="claim-t-77863"></a>
 - t-001
+  global_id: t-77863
   teiginys: 'Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje Mindaugą vadina „šviesaus atminimo valdovu“.'
   pagrindžia:
     - c-001

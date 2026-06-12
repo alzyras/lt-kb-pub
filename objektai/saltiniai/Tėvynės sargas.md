@@ -25,7 +25,9 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 
 ## Teiginiai
 
+<a id="claim-t-67553"></a>
 - t-001
+  global_id: t-67553
   teiginys: '„Tėvynės sargas“ nuo 1896 m. tapo populiariausiu katalikiškos pakraipos leidiniu, o jo varomoji jėga buvo Juozas Tumas-Vaižgantas.'
   pagrindžia:
     - c-001

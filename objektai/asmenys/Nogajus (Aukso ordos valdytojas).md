@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-40377"></a>
 - t-001
+  global_id: t-40377
   teiginys: 'Aukso ordos valdytojas Nogajus pasiuntė Mamšėjaus vadovaujamą kariuomenę prieš Traidenio Lietuvą.'
   pagrindžia:
     - c-001

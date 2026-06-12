@@ -25,12 +25,16 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
 
 ## Teiginiai
 
+<a id="claim-t-30226"></a>
 - t-001
+  global_id: t-30226
   teiginys: 'Edigą Vytautas siekė pašalinti iš Aukso Ordos valdžios ir vietoje jo pasodinti Tochtamišą, tačiau žygis baigėsi nesėkmingai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-30228"></a>
 - t-002
+  global_id: t-30228
   teiginys: 'Edigos dalinių laukęs Timuras derybomis siekė laimėti laiko prieš kautynes su Vytauto pajėgomis.'
   pagrindžia:
     - c-002

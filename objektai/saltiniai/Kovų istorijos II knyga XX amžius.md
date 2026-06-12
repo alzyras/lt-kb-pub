@@ -23,7 +23,9 @@ Kovų istorijos 11 knyga / xx amžius, Vilnus, 2008, p. 104.
 
 ## Teiginiai
 
+<a id="claim-t-41547"></a>
 - t-001
+  global_id: t-41547
   teiginys: 'V. Lesčiaus ir A. Anušausko „Kovų istorijos II knyga. XX amžius“ 2008 m. išleista Vilniuje.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86868"></a>
 - t-001
+  global_id: t-86868
   teiginys: 'Formulė „oculi post dominicam“ 1380 m. paliaubų dokumente žymėjo artimiausią šiokiadienį, tai yra kovo 26-ąją.'
   pagrindžia:
     - c-001

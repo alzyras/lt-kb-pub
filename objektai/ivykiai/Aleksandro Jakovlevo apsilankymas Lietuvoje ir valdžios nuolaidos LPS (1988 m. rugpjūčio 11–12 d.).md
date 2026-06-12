@@ -33,12 +33,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75091"></a>
 - t-001
+  global_id: t-75091
   teiginys: 'Po Aleksandro Jakovlevo pastabų LKP vadovybei partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75092"></a>
 - t-002
+  global_id: t-75092
   teiginys: 'Stiprėjo Lietuvos žaliųjų judėjimas.'
   pagrindžia:
     - c-001

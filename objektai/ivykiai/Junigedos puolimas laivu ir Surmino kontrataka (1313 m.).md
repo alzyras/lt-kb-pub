@@ -41,22 +41,30 @@ Laivas buvo paimtas ir sudegintas.
 
 ## Teiginiai
 
+<a id="claim-t-55707"></a>
 - t-001
+  global_id: t-55707
   teiginys: 'Surmino vadovaujami lietuviai laivą paėmė, nužudė jo sargybą ir sudegino.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-55708"></a>
 - t-002
+  global_id: t-55708
   teiginys: 'Kai laivą prie kranto nubloškė vėjas, Junigedos pilėnai jį užpuolė, bet pirmąjį susidūrimą broliai ir ginklanešiai atlaikė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55709"></a>
 - t-003
+  global_id: t-55709
   teiginys: '1313 m. Verneris, Ragainės komtūras, pasistatydino sienomis apsaugotą karo laivą ir su juo nuplaukė pulti Junigedos pilies.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55710"></a>
 - t-004
+  global_id: t-55710
   teiginys: 'Dusburgietis pasakoja, kad Surminas su gausia lietuvių jėga buvo pasiųstas sunaikinti karo laivo.'
   pagrindžia:
     - c-003

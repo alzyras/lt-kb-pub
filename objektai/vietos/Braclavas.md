@@ -19,7 +19,6 @@ tags:
 amziai:
   - 'XV'
 ---
-
 # Braclavas
 
 ## Santrauka
@@ -28,23 +27,31 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 
 ## Teiginiai
 
+<a id="claim-t-46541"></a>
 - t-001
+  global_id: t-46541
   teiginys: 'Žygimantas Augustas prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės, arba Braclavo, vaivadijas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183002"></a>
 - t-002
+  global_id: t-183002
   teiginys: 'Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184935"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad vėliau, prisiekęs visada būti ištiki mas Vytautui bei jo įpėdiniams, gavo iš jo valdyti Braclavą, Vinicą, Kremenecą, Sokolecą.'
+  global_id: t-184935
+  teiginys: 'Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184936"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad 1449 m ela i Kol valdovas rūpinosi lieS k ila i n io k o ja Potuvių seimo reikalais, skitai do ]ę surengė niokojamą žygį į tą Podolės dalį, kurią valdė len kai, degindami ir žudydami, kas pakliuvo po ranka, ta čiau neliesdami kaimyninės Braclavo žemės, nors.'
+  global_id: t-184936
+  teiginys: '1449 m. skitai niokojo lenkų valdomą Podolės dalį, bet nelietė kaimyninės Braclavo žemės.'
   pagrindžia:
     - c-004
 
@@ -89,7 +96,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
     - t-001
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad vėliau, prisiekęs visada būti ištiki mas Vytautui bei jo įpėdiniams, gavo iš jo valdyti Braclavą, Vinicą, Kremenecą, Sokolecą.'
+  santrauka: 'Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Niekas taip
@@ -113,7 +120,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad 1449 m ela i Kol valdovas rūpinosi lieS k ila i n io k o ja Potuvių seimo reikalais, skitai do ]ę surengė niokojamą žygį į tą Podolės dalį, kurią valdė len kai, degindami ir žudydami, kas pakliuvo po ranka, ta čiau neliesdami kaimyninės Braclavo žemės, nors.'
+  santrauka: '1449 m. skitai niokojo lenkų valdomą Podolės dalį, bet nelietė kaimyninės Braclavo žemės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai todėl, norėdamas išvengti gink­

@@ -26,27 +26,37 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 
 ## Teiginiai
 
+<a id="claim-t-44993"></a>
 - t-001
+  global_id: t-44993
   teiginys: 'J. Tūbelis 1931–1938 m. pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-44994"></a>
 - t-002
+  global_id: t-44994
   teiginys: 'LKDP bloko balsais tautininkų lyderis A. Smetona buvo išrinktas šalies prezidentu ir prisiekė laikytis konstitucijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-44995"></a>
 - t-003
+  global_id: t-44995
   teiginys: 'Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių grupės, o tik tautininkų kontroliuojamos savivaldybės.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-44996"></a>
 - t-004
+  global_id: t-44996
   teiginys: 'Kandidatus į Seimą galėjo kelti tik tautininkų kontroliuojamos savivaldybės, o ne visuomeninės organizacijos ar piliečių grupės.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-44997"></a>
 - t-005
+  global_id: t-44997
   teiginys: 'Tautininkai ir krikščionys demokratai gruodžio įvykius teisino skelbdami, kad išgelbėjo Lietuvą nuo komunistų perversmo.'
   pagrindžia:
     - c-002

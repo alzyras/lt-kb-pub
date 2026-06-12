@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75135"></a>
 - t-001
+  global_id: t-75135
   teiginys: '1939 m. rugsėjo 17 d., SSRS įsiveržus į Lenkiją, Lietuvos prezidentas paskelbė dalinę mobilizaciją, demonstruodamas pasiryžimą ginti nepriklausomybę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75136"></a>
 - t-002
+  global_id: t-75136
   teiginys: '1939 m. rugsėjo 17 d., SSRS įsiveržus į Lenkiją, Lietuvos prezidentas paskelbė dalinę mobilizaciją.'
   pagrindžia:
     - c-001

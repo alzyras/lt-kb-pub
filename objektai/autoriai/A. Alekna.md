@@ -32,37 +32,51 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 
 ## Teiginiai
 
+<a id="claim-t-64500"></a>
 - t-001
+  global_id: t-64500
   teiginys: 'Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patarimais ir buvo numatytas įžangos žodžio autorius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64501"></a>
 - t-002
+  global_id: t-64501
   teiginys: 'Aleknos «Katalikų Bažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šaltinius kritiškai ir objektyviai vertinti.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-64502"></a>
 - t-003
+  global_id: t-64502
   teiginys: 'A. Alekna išleido « Žemaičiu vysk.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-64503"></a>
 - t-004
+  global_id: t-64503
   teiginys: 'A. Aleknos „Lietuvos istorijos“ antras leidimas buvo išleistas Tilžėje 1923 m.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-64504"></a>
 - t-005
+  global_id: t-64504
   teiginys: 'Antanas Alekna 1922–1930 m. buvo pirmasis Lietuvos istorijos, jos šaltinių ir istorinės geografijos dėstytojas Teologijos-Filosofijos fakultete.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-64505"></a>
 - t-006
+  global_id: t-64505
   teiginys: 'Prof. A. Alekna peržiūrėjo ir patikrino apie Vytautą Didįjį išleistą plačią monografiją.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-64506"></a>
 - t-007
+  global_id: t-64506
   teiginys: 'A. Alekna parašė „Katalikų Bažnyčia Lietuvoje“, išleistą Kaune 1936 m.'
   pagrindžia:
     - c-001

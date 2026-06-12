@@ -29,7 +29,9 @@ Vilniaus miesto amatų cechų visuma.
 
 ## Teiginiai
 
+<a id="claim-t-54846"></a>
 - t-001
+  global_id: t-54846
   teiginys: '1584 m. Steponas Batoras paskelbė Steponą Genserį ir kitus Vilniaus vyskupijos jurisdikcijai priklausančius asmenis laisvus nuo Vilniaus miesto cechų.'
   pagrindžia:
     - c-001

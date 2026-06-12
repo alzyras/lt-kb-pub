@@ -22,7 +22,9 @@ ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūm�
 
 ## Teiginiai
 
+<a id="claim-t-38971"></a>
 - t-001
+  global_id: t-38971
   teiginys: '1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
   pagrindžia:
     - c-001

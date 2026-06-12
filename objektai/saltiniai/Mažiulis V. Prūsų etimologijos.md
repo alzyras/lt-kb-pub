@@ -23,7 +23,9 @@ Dusburgietis teigia, kad mažiulis V.
 
 ## Teiginiai
 
+<a id="claim-t-61169"></a>
 - t-001
+  global_id: t-61169
   teiginys: 'V. Mažiulio „Prūsų etimologijos“ publikuotos „Baltistica“ 1975 m. ir 1978 m. numeriuose.'
   pagrindžia:
     - c-001

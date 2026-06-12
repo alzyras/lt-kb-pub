@@ -18,7 +18,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 
 ## Teiginiai
 
+<a id="claim-t-74000"></a>
 - t-001
+  global_id: t-74000
   teiginys: 'Tiesiogiai Gediminui priklausė tik Aukštaičiai, visos pietinės jotvingų žemės (vadinamoji Juodoji Rusija) ir artimos gudų sritys — Minskas, Vitebskas, Polockas.'
   pagrindžia:
     - c-001

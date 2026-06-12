@@ -18,12 +18,16 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
 
 ## Teiginiai
 
+<a id="claim-t-22258"></a>
 - t-001
+  global_id: t-22258
   teiginys: 'Į proletarinį internacionalizmą orientuotos radikalių kairiųjų organizacijos Lietuvoje veikė nelegaliai ir krašte buvo neįtakingos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183458"></a>
 - t-002
+  global_id: t-183458
   teiginys: 'Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektualas, taip pat negausi LDK valstybingumo.'
   pagrindžia:
     - c-002

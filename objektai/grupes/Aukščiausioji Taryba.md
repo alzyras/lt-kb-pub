@@ -25,12 +25,16 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
 
 ## Teiginiai
 
+<a id="claim-t-40858"></a>
 - t-001
+  global_id: t-40858
   teiginys: 'Sausio 8 d. perversmininkų minia bandė įsiveržti į Aukščiausiosios Tarybos rūmus ir nuversti nepriklausomos Lietuvos valdžią.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40859"></a>
 - t-002
+  global_id: t-40859
   teiginys: 'Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirmininko Vytauto Landsbergio, priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
   pagrindžia:
     - c-002

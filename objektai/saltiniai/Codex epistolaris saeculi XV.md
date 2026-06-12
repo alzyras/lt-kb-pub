@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-34950"></a>
 - t-001
+  global_id: t-34950
   teiginys: 'Codex epistolaris saeculi XV sudarė du tomai, kuriuos A. Lewickis parengė ir 1891 m. išleido Krokuvoje.'
   pagrindžia:
     - c-001

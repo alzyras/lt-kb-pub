@@ -23,7 +23,9 @@ Pasipriešinimo istorija.
 
 ## Teiginiai
 
+<a id="claim-t-18059"></a>
 - t-001
+  global_id: t-18059
   teiginys: 'N. Gaškaitės „Pasipriešinimo istorija. 1944–1953 metai“ išleista Vilniuje 2006 m.'
   pagrindžia:
     - c-001

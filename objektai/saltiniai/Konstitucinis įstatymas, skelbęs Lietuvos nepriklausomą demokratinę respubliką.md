@@ -16,7 +16,9 @@ Po šios apklausos Lietuvos AS priėmė konstitucinį įstatymą, kuris skelbė,
 
 ## Teiginiai
 
+<a id="claim-t-17890"></a>
 - t-001
+  global_id: t-17890
   teiginys: 'Lietuvos AS priėmė konstitucinį įstatymą, skelbusį, kad Lietuva yra Nepriklausoma Demokratinė Respublika.'
   pagrindžia:
     - c-001

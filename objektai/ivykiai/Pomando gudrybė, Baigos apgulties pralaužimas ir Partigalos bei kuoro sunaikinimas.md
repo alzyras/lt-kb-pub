@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59397"></a>
 - t-001
+  global_id: t-59397
   teiginys: 'Dusburgietis teigia, kad sitai padarę, kunigaikštis bei broliai su savo kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami pelenais, o žmones išsivesdami į nelaisvę arba išžudydami.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59398"></a>
 - t-002
+  global_id: t-59398
   teiginys: 'Dusburgietis teigia, kad apie netikėlių išžudymą ir Partigalos pilies bei kuoro sunaikinimą Iš minėtųjų prūsų pilių kasdien į karą traukdavo tiek ginkluotų vyrų, kad broliai negalėjo nei jiems kelio pastoti, nei jų užpulti.'
   pagrindžia:
     - c-001

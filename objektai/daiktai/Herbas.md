@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-34572"></a>
 - t-001
+  global_id: t-34572
   teiginys: 'Horodlės unijos 18 paragrafu 47 lietuvių bajorams buvo suteikti 47 lenkų bajorų herbai.'
   pagrindžia:
     - c-001
@@ -73,7 +75,6 @@ Nenurodyta
 - [[objektai/asmenys/Feliksas Liangurga]]
 - [[objektai/daiktai/Herbai]]
 - [[objektai/grupes/Italų ateiviai]]
-- [[objektai/ivykiai/Italų atvykimas į Lietuvą A. Kojelavičiaus pasakojime]]
 - [[objektai/asmenys/Jokūbas I]]
 - [[objektai/asmenys/Julijonas Dausprungas]]
 - [[objektai/asmenys/Julius Slovackis]]
@@ -83,7 +84,6 @@ Nenurodyta
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/daiktai/Lietuvos valstybės vėliava]]
-- [[objektai/asmenys/Palemonas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/daiktai/Ringrafas]]
 - [[objektai/daiktai/Stulpai]]

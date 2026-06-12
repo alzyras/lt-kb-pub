@@ -32,22 +32,30 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
 
 ## Teiginiai
 
+<a id="claim-t-23231"></a>
 - t-001
+  global_id: t-23231
   teiginys: 'K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-23233"></a>
 - t-002
+  global_id: t-23233
   teiginys: 'Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas, 1650 m.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-23234"></a>
 - t-003
+  global_id: t-23234
   teiginys: 'Kazimiero Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-26715"></a>
 - t-004
+  global_id: t-26715
   teiginys: 'Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650).'
   pagrindžia:
     - c-001

@@ -28,17 +28,23 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
 
 ## Teiginiai
 
+<a id="claim-t-60067"></a>
 - t-001
+  global_id: t-60067
   teiginys: 'Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330 bei jo sūnų Maudelį331 su daugybe ginklanešių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60068"></a>
 - t-002
+  global_id: t-60068
   teiginys: 'Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies paėmimą Kadangi tas pats Tirskas gerai žinojo kelius į gretimas žemes, Karaliaučiaus komtūras 3-ame dešimtmetyje čia, greta naujosios pilies, buvo pastatyti banko rūmai (Gaerte W., Die.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60069"></a>
 - t-003
+  global_id: t-60069
   teiginys: 'Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su visomis savo šeimynomis ir, krikšto.'
   pagrindžia:
     - c-003

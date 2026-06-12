@@ -16,7 +16,9 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
 
 ## Teiginiai
 
+<a id="claim-t-19704"></a>
 - t-001
+  global_id: t-19704
   teiginys: 'Heinricho Hamano „skrajojantis būrys“ buvo iš lietuvių sudaryta zonderkomanda, vykdavusi į provincijos vietoves šaudyti.'
   pagrindžia:
     - c-001

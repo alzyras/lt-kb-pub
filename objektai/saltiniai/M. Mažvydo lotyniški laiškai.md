@@ -22,7 +22,9 @@ Dusburgietis teigia, kad mažvydo lotyniškuose laiškuose — Ragneta, in Ragne
 
 ## Teiginiai
 
+<a id="claim-t-61151"></a>
 - t-001
+  global_id: t-61151
   teiginys: 'Dusburgietis teigia, kad mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M., Pirmoji.., p. 251, 257).'
   pagrindžia:
     - c-001

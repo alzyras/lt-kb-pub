@@ -12,7 +12,6 @@ tags:
   - miestas
   - vieta
 ---
-
 # Rūdninkai
 
 ## Santrauka
@@ -21,23 +20,31 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-85894"></a>
 - t-001
+  global_id: t-85894
   teiginys: 'Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, o Rūdninkai labiau išgarsėjo Žygimanto Senojo ir Žygimanto Augusto laikais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85895"></a>
 - t-002
+  global_id: t-85895
   teiginys: 'Jogailos giminės karaliai mėgo viešėti Rūdninkų kaime, esančiame tarp didelių girių netoli Vilniaus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85896"></a>
 - t-003
+  global_id: t-85896
   teiginys: 'Rūdninkuose bažnyčia galėjo būti nuo seno, bet klebonijos fundacija datuojama Zigmanto III laikais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185127"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad netikėtai mišA tle id ž ia n e tik ė ta i kuose netoli Rūdninkų miesp a k e lė je s u tik ta m telio jis užšoko ant Kazimiero M y k o lu i palydos.'
+  global_id: t-185127
+  teiginys: 'Miškuose netoli Rūdninkų miestelio Mykolas netikėtai užtiko iš Bresto į Vilnių vykusio Kazimiero palydą.'
   pagrindžia:
     - c-004
 
@@ -108,7 +115,7 @@ tags:
     - t-001
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad netikėtai mišA tle id ž ia n e tik ė ta i kuose netoli Rūdninkų miesp a k e lė je s u tik ta m telio jis užšoko ant Kazimiero M y k o lu i palydos.'
+  santrauka: 'Miškuose netoli Rūdninkų miestelio Mykolas netikėtai užtiko iš Bresto į Vilnių vykusio Kazimiero palydą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo

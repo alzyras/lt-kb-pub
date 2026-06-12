@@ -19,7 +19,9 @@ Mickevičiaus, J.
 
 ## Teiginiai
 
+<a id="claim-t-19368"></a>
 - t-001
+  global_id: t-19368
   teiginys: 'A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei.'
   pagrindžia:
     - c-001

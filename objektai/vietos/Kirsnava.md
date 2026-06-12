@@ -19,7 +19,9 @@ Dusburgietis teigia, kad tikras brolis, su 100 raitelių iš Brandenburgo pilies
 
 ## Teiginiai
 
+<a id="claim-t-58698"></a>
 - t-001
+  global_id: t-58698
   teiginys: 'Dusburgietis teigia, kad tikras brolis, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą; kai jis žygiavo atgal, paėmęs didelį grobį Kirsnavos valsčiuje514, priešai, leidęsi jį persekioti, nukovė ir jį, ir 30 vyrų.'
   pagrindžia:
     - c-001

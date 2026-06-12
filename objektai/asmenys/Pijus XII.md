@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19194"></a>
 - t-001
+  global_id: t-19194
   teiginys: 'Popiežiui Pijui XII buvo skirtas 1947 m. pabaigoje į laisvąjį pasaulį nugabentas partizanų vadovybės laiškas.'
   pagrindžia:
     - c-001

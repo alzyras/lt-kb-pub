@@ -20,7 +20,6 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
-
 # Karšuva
 
 ## Santrauka
@@ -29,38 +28,52 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 
 ## Teiginiai
 
+<a id="claim-t-90529"></a>
 - t-001
+  global_id: t-90529
   teiginys: 'XIV a. Karšuvos sritis, apėmusi beveik visą Jūros baseiną, tapo negyvenama dykra.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-90530"></a>
 - t-002
+  global_id: t-90530
   teiginys: 'Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į saugias vietas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-90531"></a>
 - t-003
+  global_id: t-90531
   teiginys: 'Karšuva buvo po du ar tris kartus teriota per Ordino žygius prieš Žemaičių sodybas ir pilis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90532"></a>
 - t-004
+  global_id: t-90532
   teiginys: 'Žemaičiai priešais Jurbarką pasistatė savo pilį Karšuvą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-90533"></a>
 - t-005
+  global_id: t-90533
   teiginys: 'Nesisekė tada lietuviams ir Karšuvos srityje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184972"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad sudeginus po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją.'
+  global_id: t-184972
+  teiginys: 'Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184973"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad vėliau, ir tais pačiais, ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo je Karšuvos žemę, kad gyventojai, nematydami iš eities, turėjo su visu turtu išsikelti į Lietuvą.'
+  global_id: t-184973
+  teiginys: 'Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.'
   pagrindžia:
     - c-007
 
@@ -142,7 +155,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - t-002
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad sudeginus po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją.'
+  santrauka: 'Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     105
@@ -165,7 +178,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - t-006
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad vėliau, ir tais pačiais, ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo je Karšuvos žemę, kad gyventojai, nematydami iš eities, turėjo su visu turtu išsikelti į Lietuvą.'
+  santrauka: 'Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sutelktu būriu užgriuvę iš pasalų nieko nenu-

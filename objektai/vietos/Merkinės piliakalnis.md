@@ -16,7 +16,9 @@ Merkinės piliakalnis – vienas gražiausių Lietuvos piliakalnių, ant kurių 
 
 ## Teiginiai
 
+<a id="claim-t-21625"></a>
 - t-001
+  global_id: t-21625
   teiginys: 'Merkinės piliakalnis – vienas gražiausių Lietuvos piliakalnių, ant kurių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai XIII–XIV a.'
   pagrindžia:
     - c-001

@@ -17,17 +17,23 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
 
 ## Teiginiai
 
+<a id="claim-t-89486"></a>
 - t-001
+  global_id: t-89486
   teiginys: 'Vydūno tikrasis vardas buvo Vilius Storasta.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89487"></a>
 - t-002
+  global_id: t-89487
   teiginys: 'Dusburgietis teigia, kad šią mintį palaikė kiti, tarp jų Vydūnas (Vydūnas., Sieben Hundert Jahre..., p. 131).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89488"></a>
 - t-003
+  global_id: t-89488
   teiginys: 'Tilžėje gyvenęs rašytojas filosofas Vydūnas vadovavo vietos lietuviams ir dėl to patyrė persekiojimą.'
   pagrindžia:
     - c-003

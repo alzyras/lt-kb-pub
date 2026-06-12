@@ -27,7 +27,9 @@ Dusburgietis teigia, kad upės krante, greta pilies, augo miestas, 1246 m. gavę
 
 ## Teiginiai
 
+<a id="claim-t-91949"></a>
 - t-001
+  global_id: t-91949
   teiginys: 'Dusburgietis teigia, kad upės krante, greta pilies, augo miestas, 1246 m. gavęs Liubeko teises (Gierszewski S., Elbląg, p. 22, 25).'
   pagrindžia:
     - c-001

@@ -24,13 +24,17 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
 
 ## Teiginiai
 
+<a id="claim-t-69876"></a>
 - t-001
+  global_id: t-69876
   teiginys: 'Lietuvos teritorijos rytinė linija ėjo ties Šafranovo dvaru.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-69877"></a>
 - t-002
-  teiginys: 'Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos upe, ji ėjo ties Šafranovo dvaru, toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo ežerą, per Miastros ežerą, Bliados ežero rytų šonu.'
+  global_id: t-69877
+  teiginys: 'Lietuvos teritorijos rytinė linija ėjo ties Šafranovo dvaru, Drujos upe ir per kelis ežerus.'
   pagrindžia:
     - c-001
 

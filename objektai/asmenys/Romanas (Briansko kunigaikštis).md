@@ -17,7 +17,9 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 
 ## Teiginiai
 
+<a id="claim-t-40404"></a>
 - t-001
+  global_id: t-40404
   teiginys: 'Briansko kunigaikštis Romanas buvo priverstas su sūnumi Olegu dalyvauti antpuolyje prieš Lietuvą.'
   pagrindžia:
     - c-001

@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62330"></a>
 - t-001
+  global_id: t-62330
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip žuvo Konradas, Vokietijos kunigas, persikėlęs į Lietuvą stabmeldžių atversti 1285 viešpaties metais Konradas, Vokietijos kunigas, persikėlė į Lietuvos kraštą atversti stabmeldžių.'
   pagrindžia:
     - c-001

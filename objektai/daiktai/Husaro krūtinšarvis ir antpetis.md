@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39252"></a>
 - t-001
+  global_id: t-39252
   teiginys: 'XVII a. husaro krūtinšarvis ir antpetis priklausė Abiejų Tautų Respublikos karybos aplinkai.'
   pagrindžia:
     - c-001

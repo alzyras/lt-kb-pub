@@ -19,7 +19,9 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
 
 ## Teiginiai
 
+<a id="claim-t-86174"></a>
 - t-001
+  global_id: t-86174
   teiginys: 'Dambravos kaimas prie Vilniaus buvo tarp valdų, kuriomis iškilmingu aktu buvo aprūpinta Vilniaus katedra.'
   pagrindžia:
     - c-001

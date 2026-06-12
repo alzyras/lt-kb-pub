@@ -18,17 +18,23 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
 
 ## Teiginiai
 
+<a id="claim-t-23534"></a>
 - t-001
+  global_id: t-23534
   teiginys: 'Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarams išsiuntė per 50 dokumentų apie sovietų valdžios politiką Lietuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23535"></a>
 - t-002
+  global_id: t-23535
   teiginys: 'Maldininkai religinėse manifestacijose įsigydavo draustų relikvijų ir nelegaliai išspausdintos religinės literatūros.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-23536"></a>
 - t-003
+  global_id: t-23536
   teiginys: 'LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.'
   pagrindžia:
     - c-002

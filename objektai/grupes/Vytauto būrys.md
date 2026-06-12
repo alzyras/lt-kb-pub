@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-39019"></a>
 - t-001
+  global_id: t-39019
   teiginys: '14-ame kvartale stovėjęs Vytauto būrys nebuvo apsuptas ir smogė rusams į nugarą.'
   pagrindžia:
     - c-001

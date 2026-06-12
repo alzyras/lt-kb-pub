@@ -17,12 +17,16 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 
 ## Teiginiai
 
+<a id="claim-t-70155"></a>
 - t-001
+  global_id: t-70155
   teiginys: 'Sovietų santvarkai hipių veikla (dėmesys savo vidiniam pasauliui, absoliučios laisvės išpažinimas, karinės tarnybos sovietų kariuomenėje vengimas, „išsišokantis apsirengimo stilius“, ilgi plaukai) niekaip nesiderino su homo sovieticus nustatyto gyvenimo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70156"></a>
 - t-002
+  global_id: t-70156
   teiginys: 'Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymių, kuris partijai įsakius dirbs bet kur pagal žinomos dainos žodžius „Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“.'
   pagrindžia:
     - c-001

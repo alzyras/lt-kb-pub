@@ -19,25 +19,40 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-72726"></a>
 - t-001
+  global_id: t-72726
   teiginys: 'Nuskurę plikbajoriai seimelio metu būdavo maitinami didiko atgabentų virtuvių ir tik tada sočiai pavalgydavo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72728"></a>
 - t-002
+  global_id: t-72728
   teiginys: 'Po seimelio ponas plikbajoriams dar padalindavo po truputį pinigų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-72729"></a>
 - t-003
-  teiginys: 'Taip pat iš anksto didiko atgabentos virtuvės pagamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo alkani ir tikrai sočiai pavalgydavo tik seimelio metu.'
+  global_id: t-72729
+  teiginys: 'Seimelių metu didikų virtuvės maitindavo plikbajorius, kurie, anot šaltinio, sočiai pavalgydavo tik seimelyje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72730"></a>
 - t-004
+  global_id: t-72730
   teiginys: 'Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-182971"></a>
+- t-005
+  global_id: t-182971
+  teiginys: 'Didikai į seimelius suveždavo plikbajorius iš okolicų, nes šie turėjo lygų balsą su didikais ir galėjo ginklu paremti pono nuomonę.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -89,7 +104,7 @@ tags:
     - t-002
 
 - c-004
-  santrauka: 'Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo.'
+  santrauka: 'Didikai į seimelius suveždavo plikbajorius iš okolicų, nes šie turėjo lygų balsą su didikais ir galėjo ginklu paremti pono nuomonę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O ją patraukti tebuvo galima tik protek-

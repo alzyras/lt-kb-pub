@@ -16,7 +16,9 @@ Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyb
 
 ## Teiginiai
 
+<a id="claim-t-58728"></a>
 - t-001
+  global_id: t-58728
   teiginys: 'Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p. (Skomantburg) Skorpiono žvaigždynas Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas) Skronaitė (Scroneyte, Scroneiten), p.'
   pagrindžia:
     - c-001

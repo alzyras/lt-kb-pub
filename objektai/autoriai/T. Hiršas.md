@@ -25,7 +25,9 @@ Dusburgietis teigia, kad hiršas mano, kad čia esanti rašybos klaida (turėtų
 
 ## Teiginiai
 
+<a id="claim-t-91955"></a>
 - t-001
+  global_id: t-91955
   teiginys: 'Dusburgietis teigia, kad hiršas mano, kad čia esanti rašybos klaida (turėtų būti Culvensem), kad tai Kulva (kituose to meto šaltiniuose — Kolwa, Colwe, Koluwe — Weg.'
   pagrindžia:
     - c-001

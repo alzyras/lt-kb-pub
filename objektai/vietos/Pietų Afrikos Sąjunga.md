@@ -16,12 +16,16 @@ sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
 
 ## Teiginiai
 
+<a id="claim-t-77144"></a>
 - t-001
+  global_id: t-77144
   teiginys: 'Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77145"></a>
 - t-002
+  global_id: t-77145
   teiginys: 'Per 20 metų apie 30 proc. iš Lietuvos emigravusių gyventojų sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.'
   pagrindžia:
     - c-001

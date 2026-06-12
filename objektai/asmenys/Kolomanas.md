@@ -19,7 +19,9 @@ Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Koloma
 
 ## Teiginiai
 
+<a id="claim-t-60357"></a>
 - t-001
+  global_id: t-60357
   teiginys: 'Totoriams įsiveržus į Vengriją ir Lenkiją, mūšyje žuvo Vengrijos karaliaus brolis Kolomanas.'
   pagrindžia:
     - c-001

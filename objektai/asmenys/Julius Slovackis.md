@@ -16,7 +16,9 @@ Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, k
 
 ## Teiginiai
 
+<a id="claim-t-19011"></a>
 - t-001
+  global_id: t-19011
   teiginys: 'Julius Slovackis buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.'
   pagrindžia:
     - c-001

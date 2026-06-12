@@ -25,7 +25,9 @@ Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška 
 
 ## Teiginiai
 
+<a id="claim-t-58946"></a>
 - t-001
+  global_id: t-58946
   teiginys: 'Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška Lisske (pr.'
   pagrindžia:
     - c-001

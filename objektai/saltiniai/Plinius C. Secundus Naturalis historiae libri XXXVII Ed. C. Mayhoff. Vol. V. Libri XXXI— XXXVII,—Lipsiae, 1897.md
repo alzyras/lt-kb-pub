@@ -24,7 +24,9 @@ Dusburgietis teigia, kad plinius C.
 
 ## Teiginiai
 
+<a id="claim-t-61229"></a>
 - t-001
+  global_id: t-61229
   teiginys: 'C. Pliniaus Secundus veikalo „Naturalis historiae“ penktasis tomas, apimantis XXXI–XXXVII knygas, C. Mayhoffo parengtas Leipcige 1897 m.'
   pagrindžia:
     - c-001

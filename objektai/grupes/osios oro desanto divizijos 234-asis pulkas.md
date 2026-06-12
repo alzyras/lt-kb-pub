@@ -16,7 +16,9 @@ Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko
 
 ## Teiginiai
 
+<a id="claim-t-80651"></a>
 - t-001
+  global_id: t-80651
   teiginys: 'Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko, karių su kovinėmis desanto mašinomis BMD-1 ir BMD-2 (dėl vikšrinės važiuoklės šnekamojoje kalboje žmonių dažnai vadintomis tanketėmis, t.'
   pagrindžia:
     - c-001

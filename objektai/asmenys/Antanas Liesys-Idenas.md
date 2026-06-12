@@ -16,7 +16,9 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 
 ## Teiginiai
 
+<a id="claim-t-40024"></a>
 - t-001
+  global_id: t-40024
   teiginys: 'Antanas Liesys-Idenas buvo Vakarų Lietuvos srities Agitacijos ir propagandos skyriaus viršininkas.'
   pagrindžia:
     - c-001

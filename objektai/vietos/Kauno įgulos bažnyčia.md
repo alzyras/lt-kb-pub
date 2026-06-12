@@ -17,7 +17,9 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
 
 ## Teiginiai
 
+<a id="claim-t-21486"></a>
 - t-001
+  global_id: t-21486
   teiginys: 'Kauno įgulos bažnyčioje buvo įkurtas Skulptūros ir vitražo muziejus.'
   pagrindžia:
     - c-001

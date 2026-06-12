@@ -16,7 +16,9 @@ Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėlia
 
 ## Teiginiai
 
+<a id="claim-t-91966"></a>
 - t-001
+  global_id: t-91966
   teiginys: 'Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.'
   pagrindžia:
     - c-001

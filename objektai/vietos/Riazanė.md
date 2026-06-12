@@ -23,7 +23,6 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
-
 # Riazanė
 
 ## Santrauka
@@ -32,78 +31,108 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-99062"></a>
 - t-001
+  global_id: t-99062
   teiginys: 'Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėti joms didelę įtaką.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-99063"></a>
 - t-002
+  global_id: t-99063
   teiginys: 'Į Vytauto suvažiavimą atvyko Riazanės kunigaikščiai.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-99064"></a>
 - t-003
+  global_id: t-99064
   teiginys: '1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-99065"></a>
 - t-004
+  global_id: t-99065
   teiginys: 'Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I (1389-1425), su kuriuo oficialiai laikėsi taikos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-99066"></a>
 - t-005
+  global_id: t-99066
   teiginys: 'Riazanės kunigaikštis Olegas atkakliai prašė paleisti Vilniaus Aukštutinėje pilyje kalintą savo žentą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-99067"></a>
 - t-006
+  global_id: t-99067
   teiginys: 'Vytautas siekė Riazanę ir kitas rytų žemes paimti savo valdžion arba turėti joms didelę įtaką.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-99068"></a>
 - t-007
-  teiginys: 'Žygio metu buvo pasiekta Riazanė.'
+  global_id: t-99068
+  teiginys: 'Vytauto žygio į Maskvą metu buvo pasiekta Riazanė.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-99069"></a>
 - t-008
+  global_id: t-99069
   teiginys: 'Jurgis pabėgo į Riazanę pas savo uošvį kunigaikštį Olegą, kuris jį priėmė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-99070"></a>
 - t-009
+  global_id: t-99070
   teiginys: 'Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-99071"></a>
 - t-010
+  global_id: t-99071
   teiginys: 'Riazanei buvo palikta teisė pačiai pasirinkti sau globą.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-99072"></a>
 - t-011
+  global_id: t-99072
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-99073"></a>
 - t-012
+  global_id: t-99073
   teiginys: 'Vytautas ties Niekudavu sutriuškino Riazanės kunigaikščio eiles.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-99074"></a>
 - t-013
+  global_id: t-99074
   teiginys: 'Maskvos valdovas tačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar Tverės kunigaikštį Mykolą10 11.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-183088"></a>
 - t-014
-  teiginys: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
+  global_id: t-183088
+  teiginys: 'Vytauto žygio metu buvo pasiektos Tula, Kaluga ir Riazanė.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-185123"></a>
 - t-015
-  teiginys: 'Kojelavičius teigia, kad kai kijeviečiai, įveikę''baimę ir mintis apie pasidavimą, atgavo drąsą ir atstūmė lie tuvius ginklais bei narsa nuo sienų, iš paskutiniųjų trukdydami Gediminui laimėti pergalę, Stanislovas gė dingai pabėgo net į Riazanę, kur, neturėdamas nei ka riuomenės, nei.'
+  global_id: t-185123
+  teiginys: 'Stanislovas, kijeviečiams ginantis nuo Gedimino, pabėgo į Riazanę ir ten išsižadėjo bet kokių vilčių.'
   pagrindžia:
     - c-012
 
@@ -261,6 +290,7 @@ amziai:
     - t-011
 
 - c-009
+  santrauka: 'Vytauto žygio į Maskvą metu buvo pasiekta Riazanė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytautas
@@ -293,7 +323,7 @@ amziai:
     - t-002
 
 - c-011
-  santrauka: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
+  santrauka: 'Vytauto žygio metu buvo pasiektos Tula, Kaluga ir Riazanė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, jis pats pasidarė
@@ -308,7 +338,7 @@ amziai:
     - t-014
 
 - c-012
-  santrauka: 'Kojelavičius teigia, kad kai kijeviečiai, įveikę''baimę ir mintis apie pasidavimą, atgavo drąsą ir atstūmė lie tuvius ginklais bei narsa nuo sienų, iš paskutiniųjų trukdydami Gediminui laimėti pergalę, Stanislovas gė dingai pabėgo net į Riazanę, kur, neturėdamas nei ka riuomenės, nei.'
+  santrauka: 'Stanislovas, kijeviečiams ginantis nuo Gedimino, pabėgo į Riazanę ir ten išsižadėjo bet kokių vilčių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Be abejo, miestas ilgai būtų valiojęs stabdyti per­

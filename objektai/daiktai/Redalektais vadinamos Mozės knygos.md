@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87117"></a>
 - t-001
+  global_id: t-87117
   teiginys: 'Žydams buvo leidžiama prisiekti redalektais vadinamomis Mozės knygomis tik didelėse arba valdovo asmens iškeltose bylose.'
   pagrindžia:
     - c-001

@@ -17,12 +17,16 @@ rties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
 
 ## Teiginiai
 
+<a id="claim-t-45869"></a>
 - t-001
+  global_id: t-45869
   teiginys: 'Sutartyje Jogaila pažadėjo vesti Jadvygą, įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45870"></a>
 - t-002
+  global_id: t-45870
   teiginys: 'Krėvos sutartyje Jogaila pažadėjo įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos.'
   pagrindžia:
     - c-002

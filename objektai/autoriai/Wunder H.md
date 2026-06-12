@@ -27,7 +27,9 @@ Dusburgietis teigia, kad senuoju prūsišku vardu vadino pilį ir kryžiuočiai 
 
 ## Teiginiai
 
+<a id="claim-t-60635"></a>
 - t-001
+  global_id: t-60635
   teiginys: 'Dusburgietis teigia, kad senuoju prūsišku vardu vadino pilį ir kryžiuočiai (1239 m. dokumente Kirsberg — CDP, 1, Nr. 50; Wunder H., Siedlungs..., p. 170).'
   pagrindžia:
     - c-001

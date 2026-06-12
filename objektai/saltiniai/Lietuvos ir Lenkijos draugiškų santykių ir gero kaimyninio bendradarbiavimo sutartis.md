@@ -25,12 +25,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-21153"></a>
 - t-001
+  global_id: t-21153
   teiginys: 'Lietuvos ir Lenkijos sutarties preambulėje pasmerktas smurtas tarpusavio santykiuose ir patvirtintas abiejų šalių teritorijų vientisumas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183365"></a>
 - t-002
+  global_id: t-183365
   teiginys: '1994 m. balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartis.'
   pagrindžia:
     - c-002

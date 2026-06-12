@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Dorogobužas
 
 ## Santrauka
 
-Kojelavičius teigia, kad tuo tar pu priešas ne tik sveikas paspruko nepuolamas, bet, sudeginęs Dorogobužą nrikirtęs miške medžių, vi sai užtvėrė karaliaus kariuo menei kelią.
+Priešas sudegino Dorogobužą ir miške nukirstais medžiais užtvėrė kelią karaliaus kariuomenei.
 
 ## Teiginiai
 
+<a id="claim-t-185285"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tuo tar pu priešas ne tik sveikas paspruko nepuolamas, bet, sudeginęs Dorogobužą nrikirtęs miške medžių, vi sai užtvėrė karaliaus kariuo menei kelią.'
+  global_id: t-185285
+  teiginys: 'Priešas sudegino Dorogobužą ir miške nukirstais medžiais užtvėrė kelią karaliaus kariuomenei.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tuo tar pu priešas ne tik sveikas paspruko nepuolamas, bet, sudeginęs Dorogobužą nrikirtęs miške medžių, vi sai užtvėrė karaliaus kariuo menei kelią.'
+  santrauka: 'Priešas sudegino Dorogobužą ir miške nukirstais medžiais užtvėrė kelią karaliaus kariuomenei.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dėl žymiau­

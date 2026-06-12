@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40724"></a>
 - t-001
+  global_id: t-40724
   teiginys: 'Karacenos šarvų komplektas priskiriamas Abiejų Tautų Respublikai ir datuojamas XVIII a.'
   pagrindžia:
     - c-001

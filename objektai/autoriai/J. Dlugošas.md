@@ -28,63 +28,87 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 
 ## Teiginiai
 
+<a id="claim-t-172865"></a>
 - t-001
+  global_id: t-172865
   teiginys: 'J. Dlugošas aprašė Vorsklos mūšį, kuriame Edigėjaus kariuomenė atrodė akimis neaprėpiama.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-172866"></a>
 - t-002
+  global_id: t-172866
   teiginys: 'Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, atvykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-172867"></a>
 - t-003
+  global_id: t-172867
   teiginys: 'J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje rikiavo lietuvių kariuomenę pulkais ir daliniais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-172868"></a>
 - t-004
+  global_id: t-172868
   teiginys: 'Petro Dusburgiečio leidinio įvade J. Dlugošas pristatomas kaip autorius, savo Lenkijos istorijos „Analuose, arba kronikose“ panaudojęs Mikalojaus iš Jerošino vertimą.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-172869"></a>
 - t-005
+  global_id: t-172869
   teiginys: 'J. Dlugošas tarp Švitrigailos ir Livonijos ordino pajėgų mini apie 100 Prūsijos magistro karių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-172870"></a>
 - t-006
+  global_id: t-172870
   teiginys: 'J. Dlugošas tvirtino, kad Vilniaus Žemutinės pilies dvejus vartus padegė kažkurie iš apgultųjų.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-172873"></a>
 - t-007
+  global_id: t-172873
   teiginys: 'Dlugošas mini, kad priešas, jau manęs esąs saugus, viename miške buvo apsuptas ir užblokuotas medžių užtvaromis, ir iš už jų priedangos gausiai strėlėmis apšaudomas, buvo priverstas pasiduoti.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-172874"></a>
 - t-008
+  global_id: t-172874
   teiginys: 'J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-172875"></a>
 - t-009
+  global_id: t-172875
   teiginys: 'J. Dlugošas nurodė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-172876"></a>
 - t-010
+  global_id: t-172876
   teiginys: 'Šiame leidinyje J. Dlugošo raštai naudojami aprašant Vytauto kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-172878"></a>
 - t-012
+  global_id: t-172878
   teiginys: 'Dobeslavas: „Norėčiau, kad patikėtum, magistre, jog Vytauto kariuomenė yra ne tik didelė ir galinga, bet apsiginklavusi puikiausia ginkluote.“ VYTAUTAS RIKIUOJA PULKUS Dlugošas aprašo tai, kaip Vytautas žygio metu (liepos 5 d.) stovykloje išrikiavęs tvarkė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184606"></a>
 - t-013
-  teiginys: 'Kojelavičius teigia, kad šitaip priekaištavo karaliui eiliniai kariai, kurie visuomet mėgsta laidyti liežuvį, tačiau, antra vertus, netrūko, pasak Dlugošo, lenkų stovykloje didikų, kurie apsuptiesiems teikė žinių ir maisto.'
+  global_id: t-184606
+  teiginys: 'Pasak Dlugošo, lenkų stovykloje buvo didikų, kurie Lucko apsuptiesiems teikė žinių ir maisto.'
   pagrindžia:
     - c-011
 
@@ -290,7 +314,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-011
 
 - c-011
-  santrauka: 'Kojelavičius teigia, kad šitaip priekaištavo karaliui eiliniai kariai, kurie visuomet mėgsta laidyti liežuvį, tačiau, antra vertus, netrūko, pasak Dlugošo, lenkų stovykloje didikų, kurie apsuptiesiems teikė žinių ir maisto.'
+  santrauka: 'Pasak Dlugošo, lenkų stovykloje buvo didikų, kurie Lucko apsuptiesiems teikė žinių ir maisto.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žmonės visuomet linkę ką įtari­
@@ -317,3 +341,21 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   statusas: verified
   pagrindžia:
     - t-013
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Boleslovas]]
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/grupes/Vilniaus prastuomenė]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Dobeslavas Skoračevskis]]
+- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]

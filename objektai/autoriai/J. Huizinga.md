@@ -16,7 +16,9 @@ Huizinga) yra labai platus objektas.
 
 ## Teiginiai
 
+<a id="claim-t-100126"></a>
 - t-001
+  global_id: t-100126
   teiginys: 'Huizinga) yra labai platus objektas.'
   pagrindžia:
     - c-001

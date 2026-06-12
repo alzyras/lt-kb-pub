@@ -17,7 +17,9 @@ Dusburgietis teigia, kad problemą bandyta spręsti dar XV a.: Prūsijos vardas 
 
 ## Teiginiai
 
+<a id="claim-t-60420"></a>
 - t-001
+  global_id: t-60420
   teiginys: 'Dusburgietis teigia, kad problemą bandyta spręsti dar XV a.: Prūsijos vardas buvo siejamas su Bitinijos karaliumi (II a.'
   pagrindžia:
     - c-001

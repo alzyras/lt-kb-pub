@@ -16,7 +16,9 @@ Ružancovo vadovaujama „Jiezno ypatingoji rinktinė“, sudaryta iš 3 kuopų 
 
 ## Teiginiai
 
+<a id="claim-t-39981"></a>
 - t-001
+  global_id: t-39981
   teiginys: 'A. Ružancovas vadovavo Jiezno ypatingajai rinktinei, sudarytai iš 3 kuopų su 4 kulkosvaidžiais.'
   pagrindžia:
     - c-001

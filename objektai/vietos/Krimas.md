@@ -17,15 +17,26 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
 
 ## Teiginiai
 
+<a id="claim-t-68250"></a>
 - t-001
+  global_id: t-68250
   teiginys: 'Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo chanatas (Perekopu vadinosi jų sostinės pilis).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-68251"></a>
 - t-002
+  global_id: t-68251
   teiginys: 'Sudaręs sąjungą su Krimo chanu, jis jautėsi gana stiprus; maža to, jis ragino chaną pulti Lietuvą.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-183034"></a>
+- t-004
+  global_id: t-183034
+  teiginys: 'Jonas III sudarė sąjungą su Krimo chanu ir ragino chaną pulti Lietuvą.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -76,7 +87,7 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
     - t-003
 
 - c-004
-  santrauka: 'Sudaręs sąjungą su Krimo chanu, jis jautėsi gana stiprus; maža to, jis ragino chaną pulti Lietuvą.'
+  santrauka: 'Jonas III sudarė sąjungą su Krimo chanu ir ragino chaną pulti Lietuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kazimieras bandė užtarti pabėgusį Tverės

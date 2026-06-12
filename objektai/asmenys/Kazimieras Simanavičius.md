@@ -16,7 +16,9 @@ Simanavičius pirmasis aptarė daugiapakopės raketos idėją ir raketinės arti
 
 ## Teiginiai
 
+<a id="claim-t-39577"></a>
 - t-001
+  global_id: t-39577
   teiginys: 'Simanavičius pirmasis aptarė daugiapakopės raketos idėją ir raketinės artilerijos idėją apskritai.'
   pagrindžia:
     - c-001

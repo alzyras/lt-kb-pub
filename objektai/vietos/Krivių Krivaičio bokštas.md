@@ -17,7 +17,9 @@ Krivių Krivaičio, vyriausiojo kunigo, bokštas.
 
 ## Teiginiai
 
+<a id="claim-t-86200"></a>
 - t-001
+  global_id: t-86200
   teiginys: 'Krivių Krivaičio, vyriausiojo kunigo, bokštas.'
   pagrindžia:
     - c-001

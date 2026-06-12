@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-80664"></a>
 - t-001
+  global_id: t-80664
   teiginys: '~- Rėkė "baškon" įsilipę, Nuleistuko spyruoklė Spynos galinės padėties fiksatorius Nuleistukas Dėtuvės fiksatorius Pistoletinė rankena Spyna juda pirmyn-atgal, kol pirštas atleidžia nuleistuką ir šis pakelia į viršų spynos galinės padėties fiksatorių, kuris.'
   pagrindžia:
     - c-001

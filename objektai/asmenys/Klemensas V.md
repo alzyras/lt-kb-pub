@@ -29,27 +29,37 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
 
 ## Teiginiai
 
+<a id="claim-t-59925"></a>
 - t-001
+  global_id: t-59925
   teiginys: 'Dusburgietis teigia, kad apie popiežiaus mirtį Tų pačių metų balandžio 20 dieną mirė popiežius Klemensas, praslinkus metams nuo tos dienos, kai ėmė rodytis kometa (Ptol.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59926"></a>
 - t-002
+  global_id: t-59926
   teiginys: 'Dusburgietis teigia, kad apie tamplierių ordino panaikinimą 1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet apaštališkojo sosto parengiamasis veiksmas — tamplierių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-59927"></a>
 - t-003
+  global_id: t-59927
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena ir.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-59928"></a>
 - t-004
+  global_id: t-59928
   teiginys: 'Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių, imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė Klemensas V, popiežius (Ptol.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59929"></a>
 - t-005
+  global_id: t-59929
   teiginys: 'Dusburgietis teigia, kad apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą 1313 viešpaties metais, gegužės 5 dieną, popiežius Klemensas V kanonizavo šventą Petrą išpažintoją, kadaise popiežių Celestiną V, ir liepė jį gerbti birželio 14 dieną (Mart.'
   pagrindžia:
     - c-003

@@ -25,12 +25,16 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
 
 ## Teiginiai
 
+<a id="claim-t-93061"></a>
 - t-001
+  global_id: t-93061
   teiginys: '1396 m. Ostrogo kunigaikštis Feodoras iš Vytauto priėmė privilegiją, patvirtinusią ir išplėtusią jo žemes.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-93062"></a>
 - t-002
+  global_id: t-93062
   teiginys: '1396 m. Ostrogo kunigaikštis Feodoras iš Vytauto priėmė privilegiją, kuri tvirtino ir plėtė jo žemes.'
   pagrindžia:
     - c-001

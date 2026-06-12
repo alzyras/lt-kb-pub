@@ -18,7 +18,9 @@ Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir Krėvos kunigaikštis Alek
 
 ## Teiginiai
 
+<a id="claim-t-87423"></a>
 - t-001
+  global_id: t-87423
   teiginys: 'Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.'
   pagrindžia:
     - c-001

@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-71563"></a>
 - t-001
+  global_id: t-71563
   teiginys: 'Buvo mėgiami gintaro ir stiklo karoliai.'
   pagrindžia:
     - c-001

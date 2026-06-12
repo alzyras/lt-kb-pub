@@ -17,7 +17,9 @@ Bolševikams priartėjus prie Kėdainių, savanorių būriai, nesulaukdami iš K
 
 ## Teiginiai
 
+<a id="claim-t-41809"></a>
 - t-001
+  global_id: t-41809
   teiginys: 'Bolševikams priartėjus prie Kėdainių, savanorių būriai, nesulaukdami iš Kauno žadėtų ginklų, sausio 14 d. pasitraukė į Kruopius (10 km nuo Kėdainių Kauno link).'
   pagrindžia:
     - c-001

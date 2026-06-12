@@ -18,12 +18,16 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
 
 ## Teiginiai
 
+<a id="claim-t-01342"></a>
 - t-001
+  global_id: t-01342
   teiginys: '1639 m. po šūvio iš kalvinų bažnyčios šventoriaus Vilniuje minia apgriovė kalvinų bažnyčią, o seimo sprendimu ji buvo nugriauta.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01343"></a>
 - t-002
+  global_id: t-01343
   teiginys: 'Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.'
   pagrindžia:
     - c-002

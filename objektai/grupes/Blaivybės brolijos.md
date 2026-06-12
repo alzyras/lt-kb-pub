@@ -18,7 +18,9 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
 
 ## Teiginiai
 
+<a id="claim-t-19661"></a>
 - t-001
+  global_id: t-19661
   teiginys: 'Blaivybės brolijoms priklausė per 80 proc. vyskupijos gyventojų katalikų.'
   pagrindžia:
     - c-001

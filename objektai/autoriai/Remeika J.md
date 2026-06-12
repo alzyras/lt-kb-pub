@@ -17,12 +17,16 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
 
 ## Teiginiai
 
+<a id="claim-t-91933"></a>
 - t-001
+  global_id: t-91933
   teiginys: 'Dusburgietis teigia, kad 34, p. 107, 112; Remeika J., Ką kalneliai.., p. 88; Matusas J., Senovės prūsų..., p. 54; LAA, 2, p. 143—144, 42; Lietuvininkai, p. 229—230; Basanavičius J., Iš gyvenimo vėlių..., p. 181—2).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-91934"></a>
 - t-002
+  global_id: t-91934
   teiginys: 'Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose — tai laumių gyvenvietė (Remeika J., Ką kalneliai..., p. 15).'
   pagrindžia:
     - c-002

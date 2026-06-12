@@ -18,12 +18,16 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
 
 ## Teiginiai
 
+<a id="claim-t-20098"></a>
 - t-001
+  global_id: t-20098
   teiginys: 'Vokietijos ir Lenkijos karo metu Šaulių sąjunga kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183203"></a>
 - t-002
+  global_id: t-183203
   teiginys: 'O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vyriausybę jėga atsiimti Vilnių.'
   pagrindžia:
     - c-002

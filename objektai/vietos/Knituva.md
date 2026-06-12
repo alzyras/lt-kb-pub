@@ -19,7 +19,9 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
 
 ## Teiginiai
 
+<a id="claim-t-28527"></a>
 - t-001
+  global_id: t-28527
   teiginys: 'Knituva buvo viena iš septynių Žemaičių aukštumos sričių, kurių 31 atstovas darė taiką su Vytautu ir ordinu.'
   pagrindžia:
     - c-001

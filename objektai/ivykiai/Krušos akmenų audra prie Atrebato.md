@@ -32,7 +32,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62345"></a>
 - t-001
+  global_id: t-62345
   teiginys: 'Dusburgietis teigia, kad apie didžiulius krušos akmenis Prie Atrebato liepos mėnesį kilo be galo smarki audra, o iš dangaus krito tokie dideli akmenys, kad visiškai išmušė pasėlius, vynuogynus ir miškelius (Ptol.'
   pagrindžia:
     - c-001

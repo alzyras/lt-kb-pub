@@ -20,7 +20,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Bernardas (Šv. Teofrido vienuolyno abatas)
 
 ## Santrauka
@@ -29,13 +28,17 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
 
 ## Teiginiai
 
+<a id="claim-t-60250"></a>
 - t-001
+  global_id: t-60250
   teiginys: 'Bernardas, Šv. Teofrido vienuolyno abatas, 1324 m. buvo popiežiaus Jono XXII pasiųstas į Livoniją kaip legatas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184674"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad teofrido vienuolyno abatas Bernardas.'
+  global_id: t-184674
+  teiginys: 'Šv. Teofrido vienuolyno abatas Bernardas kartu su Alėto vyskupu Baltramiejumi tapo pasiuntiniu taikos ir krikšto reikalu.'
   pagrindžia:
     - c-002
 
@@ -68,7 +71,7 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad teofrido vienuolyno abatas Bernardas.'
+  santrauka: 'Šv. Teofrido vienuolyno abatas Bernardas kartu su Alėto vyskupu Baltramiejumi tapo pasiuntiniu taikos ir krikšto reikalu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo rei­
@@ -84,3 +87,11 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/legatai]]
+- [[objektai/zodynas/netikėliai]]

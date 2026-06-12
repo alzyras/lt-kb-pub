@@ -17,7 +17,9 @@ Tiesa, pastarojoj sutarty nerandame jokio teoretinio santykių apibrėžimo, kok
 
 ## Teiginiai
 
+<a id="claim-t-36823"></a>
 - t-001
+  global_id: t-36823
   teiginys: 'Vytauto santykiai su Lenkija buvo apibrėžti kaip valdomojo su aukštesniu perdėtiniu.'
   pagrindžia:
     - c-001

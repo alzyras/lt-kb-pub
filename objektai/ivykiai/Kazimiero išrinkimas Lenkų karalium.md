@@ -29,7 +29,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01658"></a>
 - t-001
+  global_id: t-01658
   teiginys: 'Vladislovui 1444 m. žuvus, po trejų metų derybų lenkai išsirinko Kazimierą savo karaliumi.'
   pagrindžia:
     - c-001

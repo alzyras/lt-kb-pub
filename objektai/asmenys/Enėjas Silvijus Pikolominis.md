@@ -16,7 +16,9 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
 
 ## Teiginiai
 
+<a id="claim-t-26440"></a>
 - t-001
+  global_id: t-26440
   teiginys: 'Enėjas Silvijus Pikolominis „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė pagiriamuosius žodžius.'
   pagrindžia:
     - c-001

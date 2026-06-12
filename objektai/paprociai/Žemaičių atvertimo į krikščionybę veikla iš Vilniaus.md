@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87292"></a>
 - t-001
+  global_id: t-87292
   teiginys: 'Vilnius buvo centras, iš kurio karalius ir Vytautas, atgavę Žemaičių žemę, ėmėsi jos gyventojų atvertimo į krikščionybę.'
   pagrindžia:
     - c-001

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad šalčininkai (Salsenicka, Salsenîken) Šaltuona, u.
 
 ## Teiginiai
 
+<a id="claim-t-85644"></a>
 - t-001
+  global_id: t-85644
   teiginys: '1382 m. kryžiuočiai, niokodami kraštą, buvo pasiekę Šalčininkus ir Trakus.'
   pagrindžia:
     - c-001

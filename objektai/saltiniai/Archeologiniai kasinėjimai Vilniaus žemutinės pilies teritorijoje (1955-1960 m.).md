@@ -27,7 +27,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31619"></a>
 - t-001
+  global_id: t-31619
   teiginys: '„Archeologiniai kasinėjimai Vilniaus žemutinės pilies teritorijoje (1955-1960 m.)“ buvo skelbti AkMD 4, 6, 9 ir 11 tomuose.'
   pagrindžia:
     - c-001

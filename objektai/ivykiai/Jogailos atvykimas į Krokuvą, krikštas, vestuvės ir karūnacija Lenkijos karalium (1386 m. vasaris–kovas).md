@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35831"></a>
 - t-001
+  global_id: t-35831
   teiginys: '1386 m. vasario 15 d. Krokuvoje įvyko iškilmingas Jogailos ir kitų jo giminaičių krikštas.'
   pagrindžia:
     - c-001

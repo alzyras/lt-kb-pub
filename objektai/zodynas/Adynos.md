@@ -23,12 +23,16 @@ Vartojamos formos: `adynas`, `sambrėškis`, `brėkšta`, `santėmis`, `sutemo`,
 
 ## Teiginiai
 
+<a id="claim-t-07721"></a>
 - t-001
+  global_id: t-07721
   teiginys: 'Adynos šiame tekste reiškia 24 dienos ir nakties valandas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-07722"></a>
 - t-002
+  global_id: t-07722
   teiginys: 'Adynos turėjo konkrečius vardus, tarp jų sambrėškį, vakarą, naktovidą, pietus ir saulėlydį.'
   pagrindžia:
     - c-001
@@ -200,6 +204,8 @@ Vartojamos formos: `adynas`, `sambrėškis`, `brėkšta`, `santėmis`, `sutemo`,
 - [[objektai/posakiai/„nepriklausoma demokratiškai sutvarkyta valstybė etnografinėmis ribomis...“]]
 - [[objektai/asmenys/Christiaan Barnard]]
 - [[objektai/asmenys/Davidas Suchetas]]
+- [[objektai/ivykiai/Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių]]
+- [[objektai/grupes/Graikai]]
 - [[objektai/ivykiai/Lietuviškos spaudos ir organizacijų kūrimasis Pietų Amerikoje (1927–1936 m.)]]
 - [[objektai/grupes/Mokomoji kuopa]]
 - [[objektai/ivykiai/Pirmoji pasaulyje žmogaus širdies persodinimo operacija (1967 m.)]]

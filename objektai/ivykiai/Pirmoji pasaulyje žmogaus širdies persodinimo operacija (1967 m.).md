@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20453"></a>
 - t-001
+  global_id: t-20453
   teiginys: '1967 m. litvakų palikuonis Christiaan Barnard Pietų Afrikos Respublikoje atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.'
   pagrindžia:
     - c-001

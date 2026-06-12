@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-02002"></a>
 - t-001
+  global_id: t-02002
   teiginys: 'Vėliau seimeliai buvo šaukiami atskiriems reikalams ir turėjo skirtingus vardus pagal atliekamą funkciją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-02003"></a>
 - t-002
+  global_id: t-02003
   teiginys: 'Seimeliuose bajorija svarstydavo savo reikalus, rinkdavo teismą, kitus urėdus ir atstovus į seimą.'
   pagrindžia:
     - c-002

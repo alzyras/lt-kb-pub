@@ -23,12 +23,16 @@ liepa-spalis vos atkariautos teritorijos Starajos Rusos miesto ir jį sudegino, 
 
 ## Teiginiai
 
+<a id="claim-t-80183"></a>
 - t-001
+  global_id: t-80183
   teiginys: 'Starajos Rusos miestas buvo sudegintas, o jo įgula sunaikinta.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-80184"></a>
 - t-002
+  global_id: t-80184
   teiginys: 'RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis vos atkariautos teritorijos Starajos Rusos miesto ir jį sudegino, o įgulą „išmušė“.'
   pagrindžia:
     - c-001

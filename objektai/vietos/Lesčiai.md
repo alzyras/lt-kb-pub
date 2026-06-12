@@ -22,7 +22,9 @@ Kazimieraicio : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES ) Leipalingis Armoni
 
 ## Teiginiai
 
+<a id="claim-t-41862"></a>
 - t-001
+  global_id: t-41862
   teiginys: '1950 m. liepos 22 d. Lesčių kaimo rajone, Daugėliškių miške, MGB 208-ojo pulko kareiviai puolė partizanų bunkerį.'
   pagrindžia:
     - c-001

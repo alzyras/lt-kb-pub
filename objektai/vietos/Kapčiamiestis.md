@@ -16,7 +16,9 @@ Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapč
 
 ## Teiginiai
 
+<a id="claim-t-80605"></a>
 - t-001
+  global_id: t-80605
   teiginys: 'Lenkų raiteliai vakare užėmė Kapčiamiestį.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Net pirkliai negalėjo jaustis saugūs dėl jo nežaboto gobšumo, ir Vilnius ė
 
 ## Teiginiai
 
+<a id="claim-t-86834"></a>
 - t-001
+  global_id: t-86834
   teiginys: 'Net pirkliai negalėjo jaustis saugūs dėl jo nežaboto gobšumo, ir Vilnius ėmė vis labiau smukti.'
   pagrindžia:
     - c-001

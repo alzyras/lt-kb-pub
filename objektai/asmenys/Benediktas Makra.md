@@ -26,7 +26,9 @@ Imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas (
 
 ## Teiginiai
 
+<a id="claim-t-28988"></a>
 - t-001
+  global_id: t-28988
   teiginys: 'Imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas (1413).'
   pagrindžia:
     - c-001

@@ -23,12 +23,16 @@ periodo_grupes: []
 
 ## Teiginiai
 
+<a id="claim-t-87562"></a>
 - t-001
+  global_id: t-87562
   teiginys: '1631 m. kunigas Pilypas Frizijus prie Vilniaus kapitulos 4000 auksinų pridėjo 1500 savų ir 5500 auksinų perdavė Vilniaus kahalo žydams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87563"></a>
 - t-002
+  global_id: t-87563
   teiginys: '1632 m. sausio 2 d. Akademijos rektorius Pilypas Frizijus nupirko mūrinį namą ir Valerijono bursai mokėjo 400 auksinų činšo.'
   pagrindžia:
     - c-002

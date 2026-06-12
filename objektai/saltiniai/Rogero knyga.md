@@ -22,7 +22,9 @@ Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'- Idrisi (1100-
 
 ## Teiginiai
 
+<a id="claim-t-31905"></a>
 - t-001
+  global_id: t-31905
   teiginys: '„Rogero knygos“ skyriuje apie rytų Pabaltijį Al-Idrisi, pasak Ivinskio, jau buvo paminėjęs Kauną.'
   pagrindžia:
     - c-001

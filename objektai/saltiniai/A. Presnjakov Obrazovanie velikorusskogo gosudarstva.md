@@ -22,7 +22,9 @@ Presnjakov, A.
 
 ## Teiginiai
 
+<a id="claim-t-31593"></a>
 - t-001
+  global_id: t-31593
   teiginys: 'A. Presnjakovo „Obrazovanie velikorusskogo gosudarstva“ išleista Petrograde 1918 m.'
   pagrindžia:
     - c-001

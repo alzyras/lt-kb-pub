@@ -22,7 +22,9 @@ leisto Lietuvių Bibliografinės Tarnybos Biu­ letenio Knygų Lentyna (pradėta
 
 ## Teiginiai
 
+<a id="claim-t-32359"></a>
 - t-001
+  global_id: t-32359
   teiginys: 'Lietuvių Bibliografinės Tarnybos biuletenis „Knygų lentyna“ buvo pradėtas leisti Vokietijos Memmingene.'
   pagrindžia:
     - c-001

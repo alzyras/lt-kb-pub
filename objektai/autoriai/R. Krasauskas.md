@@ -24,7 +24,9 @@ Krasauskas, R.
 
 ## Teiginiai
 
+<a id="claim-t-30940"></a>
 - t-001
+  global_id: t-30940
   teiginys: 'R. Krasauskas parašė straipsnį „Medininkų diecezijos įsteigimas ir aprūpinimas“ Lietuvos enciklopedijos 18 tome.'
   pagrindžia:
     - c-001

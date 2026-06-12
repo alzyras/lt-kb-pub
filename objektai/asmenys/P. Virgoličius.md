@@ -17,7 +17,9 @@ Virgoličiaus pajėgos turėjo užimti Lietuvą.
 
 ## Teiginiai
 
+<a id="claim-t-80741"></a>
 - t-001
+  global_id: t-80741
   teiginys: 'Virgoličiaus pajėgos turėjo užimti Lietuvą.'
   pagrindžia:
     - c-001

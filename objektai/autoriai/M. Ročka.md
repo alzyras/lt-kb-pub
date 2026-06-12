@@ -24,7 +24,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-88030"></a>
 - t-001
+  global_id: t-88030
   teiginys: 'Štai, [vertė MRočka], Vilnius, Mintis, 1966.'
   pagrindžia:
     - c-001

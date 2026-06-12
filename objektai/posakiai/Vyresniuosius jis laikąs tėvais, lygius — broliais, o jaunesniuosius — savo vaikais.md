@@ -21,7 +21,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-06884"></a>
 - t-001
+  global_id: t-06884
   teiginys: 'Gediminas laiške aiškino norą būti paklusniu popiežiaus sūnumi ir teigė vyresniuosius laikąs tėvais, lygius broliais, o jaunesniuosius savo vaikais.'
   pagrindžia:
     - c-001

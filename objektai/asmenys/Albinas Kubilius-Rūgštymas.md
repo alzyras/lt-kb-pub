@@ -24,7 +24,9 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
 
 ## Teiginiai
 
+<a id="claim-t-39996"></a>
 - t-001
+  global_id: t-39996
   teiginys: '1949 m. spalio 24 d. buvo suimtas Algimanto apygardos štabo pareigūnas Albinas Kubilius-Rūgštymas.'
   pagrindžia:
     - c-001

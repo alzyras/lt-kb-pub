@@ -17,7 +17,9 @@ Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“.
 
 ## Teiginiai
 
+<a id="claim-t-22049"></a>
 - t-001
+  global_id: t-22049
   teiginys: 'LDK pakraščių priklausomybė svyravo tarp įvairaus laipsnio siuzereniteto ir hegemonijos.'
   pagrindžia:
     - c-001

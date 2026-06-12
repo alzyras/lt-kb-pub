@@ -19,7 +19,9 @@ Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, 
 
 ## Teiginiai
 
+<a id="claim-t-59159"></a>
 - t-001
+  global_id: t-59159
   teiginys: 'Pasakojime apie Baigos pilį magistrą ramino Dovydo žodžiai „Tegul tas dalykas neatima iš tavęs drąsos“.'
   pagrindžia:
     - c-001

@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-101527"></a>
 - t-001
+  global_id: t-101527
   teiginys: '1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą ir pasisakė už tautinę Lietuvos kariuomenę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101528"></a>
 - t-002
+  global_id: t-101528
   teiginys: '1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą.'
   pagrindžia:
     - c-001

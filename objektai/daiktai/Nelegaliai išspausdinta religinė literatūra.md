@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-23463"></a>
 - t-001
+  global_id: t-23463
   teiginys: 'Religinėse manifestacijose maldininkai įsigydavo nelegaliai išspausdintų maldaknygių, katekizmų ir Šventojo Rašto leidinių.'
   pagrindžia:
     - c-001

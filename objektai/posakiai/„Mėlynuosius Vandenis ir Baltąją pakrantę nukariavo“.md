@@ -16,7 +16,9 @@ sakoma, kad rudenį Algirdas „Mėlynuosius Vandenis ir Baltąją pakrantę nuk
 
 ## Teiginiai
 
+<a id="claim-t-41487"></a>
 - t-001
+  global_id: t-41487
   teiginys: 'Metraštyje sakoma, kad rudenį Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
   pagrindžia:
     - c-001

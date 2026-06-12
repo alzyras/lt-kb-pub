@@ -50,67 +50,93 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 
 ## Teiginiai
 
+<a id="claim-t-54964"></a>
 - t-001
+  global_id: t-54964
   teiginys: 'Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54965"></a>
 - t-002
+  global_id: t-54965
   teiginys: 'Rygos arkivyskupas Fridrichas pasiuntė pasiuntinius pas lietuvių valdovą ir sudarė susitarimus prieš Ordiną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54966"></a>
 - t-003
+  global_id: t-54966
   teiginys: 'Vytenis laišku prašė popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą atsiųsti minoritų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-54967"></a>
 - t-004
+  global_id: t-54967
   teiginys: 'Šaltinio pasakojime Rygos arkivyskupas kaltinamas Gedimino vardu parengęs ir išsiuntinėjęs laiškus prieš Kryžiuočių ordiną.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-54968"></a>
 - t-005
+  global_id: t-54968
   teiginys: 'Po Gedimino laiškų paskelbimo Rygos arkivyskupas nuvyko į popiežiaus rūmus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-54969"></a>
 - t-006
+  global_id: t-54969
   teiginys: 'Dusburgo citatoje Jonas XXII pasiuntė du legatus į Livoniją Fridricho ir Rygos miestiečių prašymu.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-89710"></a>
 - t-007
+  global_id: t-89710
   teiginys: 'Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti jam minoritų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89711"></a>
 - t-008
+  global_id: t-89711
   teiginys: 'Rygos arkivyskupą Fridrichą Ordino broliai klastingai išmetė iš bažnyčios.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89712"></a>
 - t-009
+  global_id: t-89712
   teiginys: 'Rygos arkivyskupas Fridrichas įkalbėjo popiežių Joną XXII pasiųsti į Livoniją du legatus pakrikštyti lietuvių ir rusų karaliaus.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-89713"></a>
 - t-010
+  global_id: t-89713
   teiginys: 'Kryžiuočiai manė, kad Rygos arkivyskupas Fridrichas iš senos neapykantos atsikvietė lietuvių priešą į Livoniją.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-89714"></a>
 - t-011
+  global_id: t-89714
   teiginys: 'Vytenis laišku prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonus į jau pastatytą bažnyčią.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-89715"></a>
 - t-012
+  global_id: t-89715
   teiginys: 'Arkivyskupui nieko kita neliko, tik tvirtai laikytis savojo plano.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-89716"></a>
 - t-013
+  global_id: t-89716
   teiginys: 'Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą ginče su.'
   pagrindžia:
     - c-005

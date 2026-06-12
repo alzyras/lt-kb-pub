@@ -26,7 +26,9 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
 
 ## Teiginiai
 
+<a id="claim-t-63525"></a>
 - t-001
+  global_id: t-63525
   teiginys: 'Chaim Soutin buvo Vakaruose garsus dailininkas, siejamas su Lietuvos emigrantais arba jų šeimomis.'
   pagrindžia:
     - c-001

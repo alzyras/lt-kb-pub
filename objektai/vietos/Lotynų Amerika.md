@@ -17,7 +17,9 @@ Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicij
 
 ## Teiginiai
 
+<a id="claim-t-21583"></a>
 - t-001
+  global_id: t-21583
   teiginys: 'Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekonomikos.'
   pagrindžia:
     - c-001

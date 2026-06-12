@@ -19,12 +19,16 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
 
 ## Teiginiai
 
+<a id="claim-t-87564"></a>
 - t-001
+  global_id: t-87564
   teiginys: 'Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų į pastatytą bažnyčią.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87565"></a>
 - t-002
+  global_id: t-87565
   teiginys: 'Vytenis laišku prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius.'
   pagrindžia:
     - c-002

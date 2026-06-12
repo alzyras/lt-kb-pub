@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Iškilmingas aukšto svečio sutikimas lauke su palapine, kilimu ir garbės vieta
 
 ## Santrauka
 
-Kojelavičius teigia, kad aleksandras jį pasitiko už penkių mylių: pastačius plyname lauke puošnią pala pinę, jo laukė prie plačiu kilimu užtiesto kelio, kuriuo Sich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie karaliaus.
+Aleksandras Šich Achmetą pasitiko už penkių mylių, plyname lauke pastačius puošnią palapinę ir plačiu kilimu užtiesus kelią.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185860"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad aleksandras jį pasitiko už penkių mylių: pastačius plyname lauke puošnią pala pinę, jo laukė prie plačiu kilimu užtiesto kelio, kuriuo Sich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie karaliaus.'
+  global_id: t-185860
+  teiginys: 'Aleksandras Šich Achmetą pasitiko už penkių mylių, plyname lauke pastačius puošnią palapinę ir plačiu kilimu užtiesus kelią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad aleksandras jį pasitiko už penkių mylių: pastačius plyname lauke puošnią pala pinę, jo laukė prie plačiu kilimu užtiesto kelio, kuriuo Sich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie karaliaus.'
+  santrauka: 'Aleksandras Šich Achmetą pasitiko už penkių mylių, plyname lauke pastačius puošnią palapinę ir plačiu kilimu užtiesus kelią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Į seimą atvyko iš Vilniaus
@@ -59,3 +60,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/asmenys/Šich Achmetas]]

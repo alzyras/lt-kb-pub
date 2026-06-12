@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66482"></a>
 - t-001
+  global_id: t-66482
   teiginys: 'Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai taip įsiteikė broliams, kad šie jiems sugrąžino paimtas į nelaisvę jų žmonas ir vaikus; šitai nepatiko nei.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66483"></a>
 - t-002
+  global_id: t-66483
   teiginys: 'Dusburgietis teigia, kad apie bartų sugrįžimą ir daugybės lietuvių žūtį Kai broliai rengėsi pulti anksčiau minėtąją Gardino pilį, kurie ne kurie bartai, pastaruoju metu pabėgę iš Pagudės, subūrė drauge su lietuviais kariuomenę ir patraukė prieš Lenkiją, iš kur, neskaitant kitų ten.'
   pagrindžia:
     - c-002

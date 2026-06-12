@@ -22,7 +22,9 @@ Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apr
 
 ## Teiginiai
 
+<a id="claim-t-02248"></a>
 - t-001
+  global_id: t-02248
   teiginys: 'Oginskio projekte siūlyta kunigaikštijoje be apribojimų palikti Lietuvos Statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
   pagrindžia:
     - c-001

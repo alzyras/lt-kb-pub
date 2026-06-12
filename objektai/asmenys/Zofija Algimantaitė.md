@@ -17,7 +17,9 @@ ją Algimantaitę, Vytauto dvare išauklėtą ir, be to, giminaitę, bet jos kar
 
 ## Teiginiai
 
+<a id="claim-t-34776"></a>
 - t-001
+  global_id: t-34776
   teiginys: 'Zofija Algimantaitė buvo išauklėta Vytauto dvare ir laikyta jo giminaite.'
   pagrindžia:
     - c-001

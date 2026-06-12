@@ -19,12 +19,16 @@ Jį pakeitė iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis. V
 
 ## Teiginiai
 
+<a id="claim-t-40363"></a>
 - t-001
+  global_id: t-40363
   teiginys: 'Iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis pakeitė ankstesnį Lietuvos sukilėlių vadą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40364"></a>
 - t-002
+  global_id: t-40364
   teiginys: 'Vietoje Jokūbo Jasinskio Lietuvos sukilėlių vadu paskirtas lenkų generolas Michalas Velhorskis nesugebėjo tinkamai vadovauti.'
   pagrindžia:
     - c-001

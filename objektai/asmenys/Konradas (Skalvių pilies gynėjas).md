@@ -18,7 +18,9 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
 
 ## Teiginiai
 
+<a id="claim-t-60478"></a>
 - t-001
+  global_id: t-60478
   teiginys: 'Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis Konradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo.'
   pagrindžia:
     - c-001

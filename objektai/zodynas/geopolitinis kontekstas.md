@@ -17,7 +17,9 @@ Stengtasi pateikti daug kontekstinės informacijos, nupasakojančios kiekvieno l
 
 ## Teiginiai
 
+<a id="claim-t-80624"></a>
 - t-001
+  global_id: t-80624
   teiginys: 'Stengtasi pateikti daug kontekstinės informacijos, nupasakojančios kiekvieno laikotarpio karybos, ginkluotės raidos tendencijas bei regiono geopolitinį kontekstą.'
   pagrindžia:
     - c-001

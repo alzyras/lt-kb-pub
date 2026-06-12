@@ -18,7 +18,9 @@ Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir
 
 ## Teiginiai
 
+<a id="claim-t-86208"></a>
 - t-001
+  global_id: t-86208
   teiginys: 'Losičiai buvo dovanojami kartu su Horodiščės ir Losičių žemėmis bei visais kaimiečiais.'
   pagrindžia:
     - c-001

@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87243"></a>
 - t-001
+  global_id: t-87243
   teiginys: 'Prie Kreivosios pilies stovėjo apvalus plytų ir akmens bokštas su langu, pro kurį žyniai ir pranašai skelbdavo pranašystes žmonėms.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183829"></a>
 - t-002
+  global_id: t-183829
   teiginys: 'Padavimuose dabartinė katedros varpinė tapatinta su bokštu, iš kurio Lizdeika ir jo pirmtakai Vilniaus pagonims skelbdavo pranašystes.'
   pagrindžia:
     - c-001

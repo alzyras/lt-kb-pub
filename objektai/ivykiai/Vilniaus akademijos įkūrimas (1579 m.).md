@@ -35,17 +35,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66953"></a>
 - t-001
+  global_id: t-66953
   teiginys: 'Kliūčių akademijai kurti atsirado pačioje Lietuvoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66954"></a>
 - t-002
+  global_id: t-66954
   teiginys: 'Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o vėliau dar labiau pragarsėjęs teologas, rašytojas ir pamokslininkas Petras Skarga.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66955"></a>
 - t-003
+  global_id: t-66955
   teiginys: '1578 m. Vilniaus jėzuitams paprašius leisti įkurti akademiją, Steponas Batoras sutiko ir davė privilegijos raštą.'
   pagrindžia:
     - c-001

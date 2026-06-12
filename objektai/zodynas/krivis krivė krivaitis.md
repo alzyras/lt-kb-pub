@@ -18,22 +18,30 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
 
 ## Teiginiai
 
+<a id="claim-t-58814"></a>
 - t-001
+  global_id: t-58814
   teiginys: 'Krivis arba krivaitis aiškinamas kaip luominis vyriausiojo žynio vardas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58815"></a>
 - t-002
+  global_id: t-58815
   teiginys: 'Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų207 bei.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58816"></a>
 - t-003
+  global_id: t-58816
   teiginys: 'Dusburgietis teigia, kad mežinskio nuomone, krivis — tikrinis paskutinio Nadruvos žynio vardas (Мержинский А.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-58817"></a>
 - t-004
+  global_id: t-58817
   teiginys: 'Dusburgietis teigia, kad vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis J., Pagonybės..., p. 107).'
   pagrindžia:
     - c-003

@@ -14,12 +14,16 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
 
 ## Teiginiai
 
+<a id="claim-t-67398"></a>
 - t-001
+  global_id: t-67398
   teiginys: 'Henriko Latvio kronika yra viena iš pirmųjų Pabaltijyje vokiečių kronikų ir buvo surašyta 1225-27 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67399"></a>
 - t-002
+  global_id: t-67399
   teiginys: 'HChL santrumpa žymi L. Arbusowo ir Alb. Bauerio parengtą „Heinrici Chronicon Livoniae“ leidimą, išleistą Hanoveryje 1955 m.'
   pagrindžia:
     - c-002

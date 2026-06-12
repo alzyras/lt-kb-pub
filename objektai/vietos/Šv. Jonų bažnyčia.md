@@ -17,7 +17,9 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
 
 ## Teiginiai
 
+<a id="claim-t-21955"></a>
 - t-001
+  global_id: t-21955
   teiginys: 'Šv. Jonų bažnyčioje buvo įkurtas Mokslo muziejus.'
   pagrindžia:
     - c-001

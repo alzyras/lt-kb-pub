@@ -28,7 +28,9 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
 
 ## Teiginiai
 
+<a id="claim-t-87708"></a>
 - t-001
+  global_id: t-87708
   teiginys: 'Jokūbas I, lietuvių kilmės pranciškonas, Vilniaus dieceziją valdė 1400-1407 m. ir skatino pagonis priimti krikščionybę.'
   pagrindžia:
     - c-001

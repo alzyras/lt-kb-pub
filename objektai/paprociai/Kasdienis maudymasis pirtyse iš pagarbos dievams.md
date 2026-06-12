@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-89446"></a>
 - t-001
+  global_id: t-89446
   teiginys: 'Dusburgietis teigia, kad kitą dieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia tesėti susitarimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89447"></a>
 - t-002
+  global_id: t-89447
   teiginys: 'Dusburgietis teigia, kad iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti pirties tiesiog kęste nekenčia.'
   pagrindžia:
     - c-001

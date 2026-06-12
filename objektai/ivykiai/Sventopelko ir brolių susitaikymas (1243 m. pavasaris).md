@@ -41,22 +41,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-89403"></a>
 - t-001
+  global_id: t-89403
   teiginys: 'Sventopelko ir brolių taika buvo sudaryta 1243 m. pavasarį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89404"></a>
 - t-002
+  global_id: t-89404
   teiginys: 'Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį, o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą].'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89405"></a>
 - t-003
+  global_id: t-89405
   teiginys: 'Dusburgietis teigia, kad sitai padarius, sugrąžino brolius bei kitus belaisvius, kuriuos beįmanė surasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų; šios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89406"></a>
 - t-004
+  global_id: t-89406
   teiginys: 'Dusburgietis teigia, kad apie Sventopelko ir brolių susitaikymą Kai viską šitaip sutvarkė, iš gailestingojo dievo malonės kunigaikštis Sventopelkas, iki šiol toks kietasprandis, toks atkaklus ir klastingas, kad nei prašymais, nei už pinigus, nei grasinimais nesidavė palenkiamas ir.'
   pagrindžia:
     - c-002

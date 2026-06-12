@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62900"></a>
 - t-001
+  global_id: t-62900
   teiginys: 'Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų padarinių.'
   pagrindžia:
     - c-001

@@ -25,17 +25,23 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 
 ## Teiginiai
 
+<a id="claim-t-65144"></a>
 - t-001
+  global_id: t-65144
   teiginys: 'Rusijos imperijoje estai turėjo kultūrinių galimybių ir švietimo sąlygų, kurių siekė etniniai lietuviai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65145"></a>
 - t-002
+  global_id: t-65145
   teiginys: '1260 m. Klaipėdoje estai minimi tarp Ordino prievarta buriamų karių iš užgrobtų žemių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-65146"></a>
 - t-003
+  global_id: t-65146
   teiginys: 'Tolesnės kovos eigoje „broliams puolant lietuvius“, kuršiai „ėmė trauktis, kai estai tai pamatė, drauge bėgti suskato, palikę mūšio lauką“.'
   pagrindžia:
     - c-003

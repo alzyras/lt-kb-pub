@@ -29,12 +29,16 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
 
 ## Teiginiai
 
+<a id="claim-t-173341"></a>
 - t-001
+  global_id: t-173341
   teiginys: '1349 m. Lenkijos Kazimieras siekė Avinjono palankumo, pranešdamas Klemensui VI apie Kęstučio norą krikštytis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-173342"></a>
 - t-002
+  global_id: t-173342
   teiginys: '1323 m. rudenį popiežius į Avinjoną pakvietė didįjį magistrą Karolį.'
   pagrindžia:
     - c-002

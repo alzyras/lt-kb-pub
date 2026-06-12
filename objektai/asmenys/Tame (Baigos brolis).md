@@ -25,7 +25,9 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
 
 ## Teiginiai
 
+<a id="claim-t-60444"></a>
 - t-001
+  global_id: t-60444
   teiginys: 'Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpaties metais brolis Tame, kilęs iš Meiseno, penkiasdešimt šeštus metus gyveno Baigoje, tiek pat metų išbuvęs Teutonų ordine, o per 30 metų iki savo mirties nė karto neišėjęs už šios pilies sienų.'
   pagrindžia:
     - c-001

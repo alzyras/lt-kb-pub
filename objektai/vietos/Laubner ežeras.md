@@ -18,7 +18,9 @@ Sąjungininkai sustojo ties Laubner ežeru. Sąjungininku kariuomenė sustojo ar
 
 ## Teiginiai
 
+<a id="claim-t-36349"></a>
 - t-001
+  global_id: t-36349
   teiginys: 'Sąjungininkai sustojo ties Laubner ežeru.'
   pagrindžia:
     - c-001

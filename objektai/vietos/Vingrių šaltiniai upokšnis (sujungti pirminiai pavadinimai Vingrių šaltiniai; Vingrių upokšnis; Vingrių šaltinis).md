@@ -27,27 +27,37 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
 
 ## Teiginiai
 
+<a id="claim-t-174583"></a>
 - t-001
+  global_id: t-174583
   teiginys: 'Prie miesto, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-174584"></a>
 - t-002
+  global_id: t-174584
   teiginys: 'Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-174585"></a>
 - t-003
+  global_id: t-174585
   teiginys: 'Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-174586"></a>
 - t-004
+  global_id: t-174586
   teiginys: 'Kelias iš Žemutinės pilies vakarinių vartų ėjo per tiltą per Vingrių upokšnį, kuris greta Vilnios įtekėjo į Viliją.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-174587"></a>
 - t-005
+  global_id: t-174587
   teiginys: 'Iš vakarų atitekėjęs Vingrių upokšnis įtekėjo į Viliją visai greta Vilnios žiočių.'
   pagrindžia:
     - c-001

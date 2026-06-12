@@ -49,22 +49,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-45488"></a>
 - t-001
+  global_id: t-45488
   teiginys: 'Londone 1935) sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-45489"></a>
 - t-002
+  global_id: t-45489
   teiginys: 'Iš Lietuvos emigrantų kilęs Tony Zemaicis sukūrė gitarą „Zemaitis“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45490"></a>
 - t-003
+  global_id: t-45490
   teiginys: 'Tony Zemaicis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45491"></a>
 - t-004
+  global_id: t-45491
   teiginys: 'Gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-38977"></a>
 - t-001
+  global_id: t-38977
   teiginys: 'Neseniai suformuota lietuvių aviacijos eskadrilė buvo panaudota operacijoje.'
   pagrindžia:
     - c-001

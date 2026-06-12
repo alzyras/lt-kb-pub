@@ -27,7 +27,9 @@ Dusburgietis teigia, kad apie Inocentą V, popiežių, ir Rudolfą, Romos karali
 
 ## Teiginiai
 
+<a id="claim-t-60334"></a>
 - t-001
+  global_id: t-60334
   teiginys: 'Dusburgietis teigia, kad apie Inocentą V, popiežių, ir Rudolfą, Romos karalių 1275 viešpaties metais valdė Inocentas V, popiežius, anksčiau vadinęsis pamokslininkų ordino broliu Petru iš Tarantezo, ir Rudolfas, Romos karalius (Mart.'
   pagrindžia:
     - c-001

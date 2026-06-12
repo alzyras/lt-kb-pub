@@ -18,12 +18,16 @@ Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų turtai ir dvarai
 
 ## Teiginiai
 
+<a id="claim-t-03021"></a>
 - t-001
+  global_id: t-03021
   teiginys: 'Kaduko teisė leido be įpėdinių išmirusios bajorų šeimos turtus ir dvarus perimti kunigaikščiui ir perduoti juos savo valia.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182950"></a>
 - t-002
+  global_id: t-182950
   teiginys: 'Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų turtai ir dvarai atitekdavo kunigaikščiui, ir jis savo valia atiduodavo juos kam nors kitam (tai vadinamoji kaduko teisė).'
   pagrindžia:
     - c-002

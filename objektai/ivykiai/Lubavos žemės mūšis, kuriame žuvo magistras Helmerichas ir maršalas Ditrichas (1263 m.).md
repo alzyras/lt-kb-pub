@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62869"></a>
 - t-001
+  global_id: t-62869
   teiginys: 'Dusburgietis teigia, kad toje vietoje, kur įvyko mūšis, vėliau gyveno vienas atsiskyrėlis, kuris naktimis dažnai matydavo degančias žvakes, aiškiai liudijančias, jog čia žuvusieji jau buvo nuo kankinių karaliaus gavę kankinių vainikus. 393 Kad mūšis įvyko 1263 m.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-62870"></a>
 - t-002
+  global_id: t-62870
   teiginys: 'Dusburgietis teigia, kad apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę kitokio turto, kurį.'
   pagrindžia:
     - c-002

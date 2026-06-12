@@ -18,7 +18,9 @@ Vilniuje 1907 m. buvo įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti li
 
 ## Teiginiai
 
+<a id="claim-t-02213"></a>
 - t-001
+  global_id: t-02213
   teiginys: 'Lietuvių Mokslo Draugija leido žurnalą „Lietuvių Tauta“.'
   pagrindžia:
     - c-001

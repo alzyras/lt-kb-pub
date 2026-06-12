@@ -17,7 +17,9 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
 
 ## Teiginiai
 
+<a id="claim-t-32299"></a>
 - t-001
+  global_id: t-32299
   teiginys: 'XII–XIII a. sandūroje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemę.'
   pagrindžia:
     - c-001

@@ -26,7 +26,9 @@ Pasvalyje ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą kunigaikšči
 
 ## Teiginiai
 
+<a id="claim-t-78074"></a>
 - t-001
+  global_id: t-78074
   teiginys: 'Vladimiras Dubeneckis buvo 1935 m. atidaryto Vytauto Didžiojo karo muziejaus architektas.'
   pagrindžia:
     - c-001

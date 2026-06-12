@@ -10,7 +10,6 @@ tags:
   - grupe
   - upė
 ---
-
 # Gotai
 
 ## Santrauka
@@ -19,13 +18,17 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
 
 ## Teiginiai
 
+<a id="claim-t-31185"></a>
 - t-001
+  global_id: t-31185
   teiginys: 'Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į rytus, į Rytprūsių plotą iki Alnos upės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184474"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad dalis alanų drauge su gotais ir hunais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie vergovinės Romos imperijos sugrio vimo.'
+  global_id: t-184474
+  teiginys: 'Gotai drauge su dalimi alanų ir hunais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie Romos imperijos sugriovimo.'
   pagrindžia:
     - c-002
 
@@ -51,7 +54,7 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad dalis alanų drauge su gotais ir hunais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie vergovinės Romos imperijos sugrio vimo.'
+  santrauka: 'Gotai drauge su dalimi alanų ir hunais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie Romos imperijos sugriovimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Viena sarmatų
@@ -68,3 +71,34 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Hunai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/zodynas/alanai]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/asmenys/Feletėjas]]
+- [[objektai/asmenys/Fridrichas]]
+- [[objektai/grupes/Herulai]]
+- [[objektai/autoriai/Jordanas]]
+- [[objektai/autoriai/Jordanes]]
+- [[objektai/autoriai/Jornandesas]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/autoriai/K. Būga]]
+- [[objektai/autoriai/Kassiodoras]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/asmenys/Palemonas]]
+- [[objektai/ivykiai/Palemono išrinkimas Lietuvos valdovu A. Kojelavičiaus pasakojime]]
+- [[objektai/paprociai/Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje]]
+- [[objektai/autoriai/Thunmanas]]
+- [[objektai/grupes/Vidivarii]]
+- [[objektai/zodynas/Vidivarijai]]
+- [[objektai/zodynas/Vidivarijai nomen gentile nomen sociale]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/posakiai/pacatum hominum genus omnino]]
+- [[objektai/grupes/Žemaičiai]]

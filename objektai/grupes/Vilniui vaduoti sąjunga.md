@@ -17,12 +17,16 @@ Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis m
 
 ## Teiginiai
 
+<a id="claim-t-20077"></a>
 - t-001
+  global_id: t-20077
   teiginys: 'Priėmus Lenkijos ultimatumą paleista 700 000 narių turėjusi patriotinė Vilniui vaduoti sąjunga.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183196"></a>
 - t-002
+  global_id: t-183196
   teiginys: 'Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiuntinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių turėjusią patriotinę „Vilniui vaduoti sąjungą“.'
   pagrindžia:
     - c-002

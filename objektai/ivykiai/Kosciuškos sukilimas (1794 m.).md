@@ -35,17 +35,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66634"></a>
 - t-001
+  global_id: t-66634
   teiginys: 'Po keleto mėnesių įvyko sukilimas, vadovaujamas Kosciuškos, kuris pastatė savo valdžią; o netrukus po to buvo atliktas paskutinis Respublikos padalinimas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66635"></a>
 - t-002
+  global_id: t-66635
   teiginys: 'Sukilėliai visą valdžią atidavė generolui Kosciuškai (jis buvo kilęs iš Naugarduko vaivadijos ir laikė save lietuviu).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66637"></a>
 - t-003
+  global_id: t-66637
   teiginys: 'Kosciuška, norėdamas sukelti valstiečius, išleido atsišaukimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę (tokių atsišaukimų buvo išleistų ir lietuviškų).'
   pagrindžia:
     - c-003

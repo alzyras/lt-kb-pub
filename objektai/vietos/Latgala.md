@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02535"></a>
 - t-001
+  global_id: t-02535
   teiginys: 'Štumdorfo taika Lietuvai ir Lenkijai grąžino tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai.'
   pagrindžia:
     - c-001

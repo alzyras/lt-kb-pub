@@ -29,18 +29,24 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
 
 ## Teiginiai
 
+<a id="claim-t-05941"></a>
 - t-001
+  global_id: t-05941
   teiginys: 'H. Lowmiański 1931–1932 m. Vilniuje išleido dviejų tomų veikalą „Studja nad początkami społeczeństwa i państwa litewskiego“.'
   pagrindžia:
     - c-001
     - c-002
 
+<a id="claim-t-05942"></a>
 - t-002
+  global_id: t-05942
   teiginys: 'H. Lowmiański darė išvadą, kad 58 000 km² latvių gyvenamame plote buvo apie 145 000 gyventojų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-05943"></a>
 - t-003
+  global_id: t-05943
   teiginys: 'H. Lowmiański išgarsėjo dviejų tomų veikalu apie Lietuvos visuomenės ir valstybės pradžią.'
   pagrindžia:
     - c-003

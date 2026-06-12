@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86958"></a>
 - t-001
+  global_id: t-86958
   teiginys: 'Tačiau pavasarį sukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė visą Lietuvą.'
   pagrindžia:
     - c-001

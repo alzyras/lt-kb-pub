@@ -16,7 +16,9 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 
 ## Teiginiai
 
+<a id="claim-t-40883"></a>
 - t-001
+  global_id: t-40883
   teiginys: 'Gedimino būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.'
   pagrindžia:
     - c-001

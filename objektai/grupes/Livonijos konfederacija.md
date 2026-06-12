@@ -29,7 +29,9 @@ Suomijos įlanka, „ 5 1558 m. Maskvos kariuomenė užėmė dalį Livonijos kon
 
 ## Teiginiai
 
+<a id="claim-t-41065"></a>
 - t-001
+  global_id: t-41065
   teiginys: '1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.'
   pagrindžia:
     - c-001

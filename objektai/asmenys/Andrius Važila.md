@@ -27,12 +27,16 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
 
 ## Teiginiai
 
+<a id="claim-t-87385"></a>
 - t-001
+  global_id: t-87385
   teiginys: 'Vyskupas Andrius Važila gavo popiežiaus patvirtinimą perimti Vilniaus vyskupiją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87386"></a>
 - t-002
+  global_id: t-87386
   teiginys: '1397 m. Jogaila ir Vytautas laidavo Vilniaus vyskupui Andriui Važilai dviejų šimtų markių metines pajamas.'
   pagrindžia:
     - c-001

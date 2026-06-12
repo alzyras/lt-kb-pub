@@ -26,7 +26,9 @@ Zakrzewski, W.
 
 ## Teiginiai
 
+<a id="claim-t-31090"></a>
 - t-001
+  global_id: t-31090
   teiginys: 'W. Zakrzewski 1890 m. paskelbė darbą „Bitwa pod Grunwaldem“.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 
 ## Teiginiai
 
+<a id="claim-t-02538"></a>
 - t-001
+  global_id: t-02538
   teiginys: 'Lauksodyje veikė viena iš mažesnių jėzuitų mokyklų.'
   pagrindžia:
     - c-001

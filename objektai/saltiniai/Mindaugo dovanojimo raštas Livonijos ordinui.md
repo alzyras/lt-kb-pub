@@ -12,29 +12,32 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Mindaugo dovanojimo raštas Livonijos ordinui
 
 ## Santrauka
 
-Kojelavičius teigia, kad todėl tegu jis kuo greičiausiai priimąs krikščionybę, tegu pripažįstąs, jog brolėnai teisėtai dovanoję žemes, o savo teises į šias žemes tegu perlei džiąs riterių ordinui. Kojelavičius teigia, kad tad pasiuntinybės akivaizdoje jis viešai priėmė šventąją 1252 m e ta i krikščionybę ir raštu pripa žino amžiams dovanojęs Jotvingijos, Žemaitijos, Kuršo ir Veizių kraštus.
+Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir perleistų teises į žemes riterių ordinui. 1252 m. Mindaugas pasiuntinybės akivaizdoje priėmė krikščionybę ir raštu pripažino amžiams dovanojęs Jotvingijos, Žemaitijos, Kuršo ir Veizių kraštus.
 
 ## Teiginiai
 
+<a id="claim-t-186318"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad todėl tegu jis kuo greičiausiai priimąs krikščionybę, tegu pripažįstąs, jog brolėnai teisėtai dovanoję žemes, o savo teises į šias žemes tegu perlei džiąs riterių ordinui.'
+  global_id: t-186318
+  teiginys: 'Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir perleistų teises į žemes riterių ordinui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186319"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad tad pasiuntinybės akivaizdoje jis viešai priėmė šventąją 1252 m e ta i krikščionybę ir raštu pripa žino amžiams dovanojęs Jotvingijos, Žemaitijos, Kuršo ir Veizių kraštus.'
+  global_id: t-186319
+  teiginys: '1252 m. Mindaugas pasiuntinybės akivaizdoje priėmė krikščionybę ir raštu pripažino amžiams dovanojęs Jotvingijos, Žemaitijos, Kuršo ir Veizių kraštus.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad todėl tegu jis kuo greičiausiai priimąs krikščionybę, tegu pripažįstąs, jog brolėnai teisėtai dovanoję žemes, o savo teises į šias žemes tegu perlei džiąs riterių ordinui.'
+  santrauka: 'Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir perleistų teises į žemes riterių ordinui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tačiau
@@ -53,7 +56,7 @@ Kojelavičius teigia, kad todėl tegu jis kuo greičiausiai priimąs krikščion
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad tad pasiuntinybės akivaizdoje jis viešai priėmė šventąją 1252 m e ta i krikščionybę ir raštu pripa žino amžiams dovanojęs Jotvingijos, Žemaitijos, Kuršo ir Veizių kraštus.'
+  santrauka: '1252 m. Mindaugas pasiuntinybės akivaizdoje priėmė krikščionybę ir raštu pripažino amžiams dovanojęs Jotvingijos, Žemaitijos, Kuršo ir Veizių kraštus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadan­

@@ -23,7 +23,9 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikos nuorašas buvo ir Livonijoj
 
 ## Teiginiai
 
+<a id="claim-t-61272"></a>
 - t-001
+  global_id: t-61272
   teiginys: 'Dusburgietis teigia, kad petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.) pilies bažnyčioje.'
   pagrindžia:
     - c-001

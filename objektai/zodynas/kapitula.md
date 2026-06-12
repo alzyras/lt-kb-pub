@@ -26,17 +26,23 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 
 ## Teiginiai
 
+<a id="claim-t-70167"></a>
 - t-001
+  global_id: t-70167
   teiginys: 'Ordino kapitulai sutikus, kryžiuočių viršininkas pavedė Vytautui valdyti Naują Marienburgo pilį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70168"></a>
 - t-002
+  global_id: t-70168
   teiginys: 'Ordino kapitula turi sutikti, kad Vytautui būtų pavesta valdyti Naują Marienburgo pilį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182951"></a>
 - t-003
+  global_id: t-182951
   teiginys: 'XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė rusai.'
   pagrindžia:
     - c-003

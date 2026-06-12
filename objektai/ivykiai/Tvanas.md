@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20523"></a>
 - t-001
+  global_id: t-20523
   teiginys: '„Tvanas“ buvo Rusijos ir Švedijos invazija į Lietuvą ir Lenkiją 1654–1667 m., ištikusi valdant Vazų dinastijai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183280"></a>
 - t-002
+  global_id: t-183280
   teiginys: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
   pagrindžia:
     - c-001

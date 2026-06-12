@@ -17,12 +17,16 @@ Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įs
 
 ## Teiginiai
 
+<a id="claim-t-39622"></a>
 - t-001
+  global_id: t-39622
   teiginys: 'P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltui per Nemuną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-39623"></a>
 - t-002
+  global_id: t-39623
   teiginys: 'P. Liatukas vasario 8 d. įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę.'
   pagrindžia:
     - c-002

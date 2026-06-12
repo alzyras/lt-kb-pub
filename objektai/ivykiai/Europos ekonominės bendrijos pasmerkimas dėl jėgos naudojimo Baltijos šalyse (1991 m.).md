@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-26393"></a>
 - t-001
+  global_id: t-26393
   teiginys: '1991 m., po Lietuvos sausio 13 d. įvykių, EEB (nuo 1993 m. ES) griežtai pasmerkė jėgos naudojimą Baltijos šalyse.'
   pagrindžia:
     - c-001

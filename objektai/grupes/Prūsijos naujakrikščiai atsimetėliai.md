@@ -25,22 +25,30 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 
 ## Teiginiai
 
+<a id="claim-t-89176"></a>
 - t-001
+  global_id: t-89176
   teiginys: 'Dusburgietis teigia, kad taigi sutelkė visą galybę savo kariuomenės ir Prūsijos naujakrikščių, elgdamasis klastingai kaip ir anksčiau, nes buvo be galo suktas; Padalijo kariuomenę į dvi dalis, viena turėjo pulti pilį iš priekio, kita — iš kitos pusės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89177"></a>
 - t-002
+  global_id: t-89177
   teiginys: 'Dusburgietis teigia, kad apie maldininkus ir Prūsijos žemei sugrąžintą taiką Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos kunigaikščiai, kurie pajuto jiems begalinį palankumą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89178"></a>
 - t-003
+  global_id: t-89178
   teiginys: 'Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89179"></a>
 - t-004
+  global_id: t-89179
   teiginys: 'Dusburgietis teigia, kad įvyko šitaip todėl, kad pats Kristus, kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams širdis, tad į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais ir Merzeburgo vyskupas310 bei grafas Henrikas iš.'
   pagrindžia:
     - c-001

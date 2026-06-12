@@ -27,7 +27,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87874"></a>
 - t-001
+  global_id: t-87874
   teiginys: 'Vaitiekus Janavičius 1507 m. Melnike buvo paminėtas kaip karališkasis rūmininkas ir Kauno seniūnas.'
   pagrindžia:
     - c-001

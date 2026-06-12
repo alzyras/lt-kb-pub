@@ -18,12 +18,16 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 
 ## Teiginiai
 
+<a id="claim-t-32787"></a>
 - t-001
+  global_id: t-32787
   teiginys: 'Wulfstanas pažymėjo socialinius skirtumus, nes aisčių kunigai ir turtingieji gėrė kumelių pieną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-32788"></a>
 - t-002
+  global_id: t-32788
   teiginys: 'Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kunigų » (mūsiškai kunigaikščių) įsirengtos gynimuisi tarpusavio vaiduose ir nesantaikoje, XII-XIII amž. ėmė tarnauti gintis nuo išorinių priešų.'
   pagrindžia:
     - c-002

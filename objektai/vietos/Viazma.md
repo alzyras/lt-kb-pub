@@ -27,22 +27,30 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 
 ## Teiginiai
 
+<a id="claim-t-69558"></a>
 - t-001
+  global_id: t-69558
   teiginys: 'Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos paliaubos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-69559"></a>
 - t-002
+  global_id: t-69559
   teiginys: 'Vytautas, pasiuntęs belaisvį Hlebą į Krokuvą, užėmė Smolensko leną Viazmą ir naujai prijungtose žemėse paskyrė vietininkus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-69560"></a>
 - t-003
+  global_id: t-69560
   teiginys: 'Viazmos kunigaikščiai (rytinė Smolensko žemių dalis) taip pat sukilo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184406"></a>
 - t-005
+  global_id: t-184406
   teiginys: 'Maskviečiai gi be sėkmės buvo apgulę Viazmą.'
   pagrindžia:
     - c-005

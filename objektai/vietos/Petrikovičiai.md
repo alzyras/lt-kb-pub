@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Petrikovičiai
 
 ## Santrauka
 
-Kojelavičius teigia, kad slucko kunigaikštienė Anastazija pasirū pino išstatyti visose pakelėse, kur šie galėjo traukti, bajorų Ir kaimiečių būrius; nuo jų kardų apie Kopylį ir Petrikovičius žuvo galybė skitų.
+Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai apie Kopylį ir Petrikovičius nukovė daug skitų.
 
 ## Teiginiai
 
+<a id="claim-t-185295"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad slucko kunigaikštienė Anastazija pasirū pino išstatyti visose pakelėse, kur šie galėjo traukti, bajorų Ir kaimiečių būrius; nuo jų kardų apie Kopylį ir Petrikovičius žuvo galybė skitų.'
+  global_id: t-185295
+  teiginys: 'Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai apie Kopylį ir Petrikovičius nukovė daug skitų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad slucko kunigaikštienė Anastazija pasirū pino išstatyti visose pakelėse, kur šie galėjo traukti, bajorų Ir kaimiečių būrius; nuo jų kardų apie Kopylį ir Petrikovičius žuvo galybė skitų.'
+  santrauka: 'Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai apie Kopylį ir Petrikovičius nukovė daug skitų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ne ge­

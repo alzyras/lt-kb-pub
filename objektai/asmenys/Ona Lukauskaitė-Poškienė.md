@@ -16,7 +16,9 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
 
 ## Teiginiai
 
+<a id="claim-t-19182"></a>
 - t-001
+  global_id: t-19182
   teiginys: 'Ona Lukauskaitė-Poškienė buvo poetė ir buvusi kalinė.'
   pagrindžia:
     - c-001

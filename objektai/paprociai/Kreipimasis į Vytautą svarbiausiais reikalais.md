@@ -38,22 +38,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-93031"></a>
 - t-001
+  global_id: t-93031
   teiginys: 'Lenkų pakancleriai, vyskupai ir senatoriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami patarimo ir paramos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-93032"></a>
 - t-002
+  global_id: t-93032
   teiginys: 'Žodžiu, visur Vytautas buvo reikalingas, pageidaujamas ir laukiamas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-93033"></a>
 - t-003
+  global_id: t-93033
   teiginys: 'Vytautui užtariant lenkų šlėktą ir tarpininkaujant, Jogaila Červinsko stovykloje padidino bajorijos luomo teises.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-93034"></a>
 - t-004
+  global_id: t-93034
   teiginys: 'Lenkų pakancleriai, vyskupai ir senatoriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami patarimo arba paramos.'
   pagrindžia:
     - c-001

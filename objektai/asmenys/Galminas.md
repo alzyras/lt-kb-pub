@@ -27,7 +27,9 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
 
 ## Teiginiai
 
+<a id="claim-t-30231"></a>
 - t-001
+  global_id: t-30231
   teiginys: 'Galminas su Rumbaudu, Getautu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.'
   pagrindžia:
     - c-001

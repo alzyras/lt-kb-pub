@@ -19,12 +19,16 @@ Tai buvo vadinamosios privilegijos (lex privata). Lietuvoje, įvedus krikščion
 
 ## Teiginiai
 
+<a id="claim-t-70291"></a>
 - t-001
+  global_id: t-70291
   teiginys: 'Lietuvoje, įvedus krikščionybę, Jogaila taip pat paskelbė raštu pirmąją visam kraštui privilegiją, kurioje buvo surašytos apsikrikštijusių bajorų teisės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70292"></a>
 - t-002
+  global_id: t-70292
   teiginys: 'Tai buvo vadinamosios privilegijos (lex privata).'
   pagrindžia:
     - c-001

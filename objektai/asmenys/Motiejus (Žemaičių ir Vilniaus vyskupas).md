@@ -28,32 +28,44 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
 
 ## Teiginiai
 
+<a id="claim-t-176551"></a>
 - t-001
+  global_id: t-176551
   teiginys: 'Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui ir priėmė Švenčiausiąjį bei paskutinį patepimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-176552"></a>
 - t-002
+  global_id: t-176552
   teiginys: 'Motiejus buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas, vėliau tapęs Žemaičių ir Vilniaus vyskupu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176554"></a>
 - t-003
+  global_id: t-176554
   teiginys: 'Motiejus mokėsi Krokuvoje, įgijo laisvųjų mokslų magistro laipsnį, buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-176555"></a>
 - t-004
+  global_id: t-176555
   teiginys: 'Vyskupas Motiejus 1430 m. spalio 27 d. užmerkė Vytautui akis ir jo kūną nulydėjo į Vytauto pastatytą katedrą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176556"></a>
 - t-005
+  global_id: t-176556
   teiginys: 'Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui ir priėmė paskutinį patepimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-176557"></a>
 - t-006
+  global_id: t-176557
   teiginys: 'Motiejus buvo pirmasis Žemaičių ir vėliau Vilniaus vyskupas, paskirtas Vytautui jį rekomendavus.'
   pagrindžia:
     - c-005

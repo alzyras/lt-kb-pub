@@ -27,22 +27,30 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
 
 ## Teiginiai
 
+<a id="claim-t-108338"></a>
 - t-001
+  global_id: t-108338
   teiginys: 'Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-108339"></a>
 - t-002
+  global_id: t-108339
   teiginys: 'Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė lietuvių tautos kovą dėl nepriklausomybės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-108340"></a>
 - t-003
+  global_id: t-108340
   teiginys: 'Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa, nors yra pasmerkusi Sovietų Sąjungos įvykdytą agresiją prieš tris Baltijos valstybes, ir laikosi pozicijos, kad Lietuva, Estija ir Latvija neva savo noru įstojo į SSRS ir kad SSRS dėl savo ano meto.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-108341"></a>
 - t-004
+  global_id: t-108341
   teiginys: 'Rusija Lietuvai išliko svarbi ekonominė partnerė, tačiau artimesni Lietuvos ir Rusijos santykiai nesusiklostė.'
   pagrindžia:
     - c-002

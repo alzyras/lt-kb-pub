@@ -27,12 +27,16 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
 
 ## Teiginiai
 
+<a id="claim-t-87582"></a>
 - t-001
+  global_id: t-87582
   teiginys: 'Per puolimą sučiuptas lietuvių vadas Sudimantas prūsų buvo nuteistas pakarti kaip išdavikas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87583"></a>
 - t-002
+  global_id: t-87583
   teiginys: 'Sudimantas vadovavo pilies sargybai ir sutrukdė Vytauto šalininkams užimti Vilnių.'
   pagrindžia:
     - c-001

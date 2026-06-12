@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-87620"></a>
 - t-001
+  global_id: t-87620
   teiginys: 'Andrejus Stankovičius buvo vienas iš Vilniaus namo dokumento liudininkų.'
   pagrindžia:
     - c-001

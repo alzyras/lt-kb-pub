@@ -19,7 +19,9 @@ Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsb
 
 ## Teiginiai
 
+<a id="claim-t-31190"></a>
 - t-001
+  global_id: t-31190
   teiginys: 'Hohenzollernai buvo viena iš trijų dinastijų, kurių protėviai dalijosi Lietuvą-Lenkiją ir kurios vienu metu buvo nuverstos nuo sostų.'
   pagrindžia:
     - c-001

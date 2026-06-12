@@ -45,17 +45,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-64929"></a>
 - t-001
+  global_id: t-64929
   teiginys: 'Dlugošo aprašymu, Vytautas prieš mirtį pavedė Lietuvą Jogailai ir liepė jam atiduoti iždo ir pilių raktus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64930"></a>
 - t-002
+  global_id: t-64930
   teiginys: '1382 m. birželio 12 d. Hanulo Jogailai įteikė pilies raktus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64931"></a>
 - t-003
+  global_id: t-64931
   teiginys: 'Prahos gyventojai Kaributui įdavė miesto raktus ir pavedė jam karo vadovybę.'
   pagrindžia:
     - c-003

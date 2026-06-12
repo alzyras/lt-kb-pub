@@ -17,12 +17,16 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
 
 ## Teiginiai
 
+<a id="claim-t-19638"></a>
 - t-001
+  global_id: t-19638
   teiginys: 'Vilnijoje lietuvių Vietinės rinktinės daliniai susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183118"></a>
 - t-002
+  global_id: t-183118
   teiginys: 'Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais.'
   pagrindžia:
     - c-002

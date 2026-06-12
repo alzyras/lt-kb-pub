@@ -24,7 +24,9 @@ Lietuvos diplomatijos istorija (1925–1940).
 
 ## Teiginiai
 
+<a id="claim-t-18039"></a>
 - t-001
+  global_id: t-18039
   teiginys: 'Vytauto Žalio „Lietuvos diplomatijos istorijos (1925–1940)“ pirmas tomas išleistas Vilniuje 2007 m.'
   pagrindžia:
     - c-001

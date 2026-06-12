@@ -18,7 +18,9 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.
 
 ## Teiginiai
 
+<a id="claim-t-88061"></a>
 - t-001
+  global_id: t-88061
   teiginys: 'Hermanas Corneris Komeris buvo dominikonas, kurio kronika cituojama apie Vilniaus miestiečių palankumą Jogailai.'
   pagrindžia:
     - c-001

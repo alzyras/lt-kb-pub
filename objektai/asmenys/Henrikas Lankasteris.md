@@ -27,17 +27,23 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
 
 ## Teiginiai
 
+<a id="claim-t-87428"></a>
 - t-001
+  global_id: t-87428
   teiginys: 'Henrikas Lankasteris apie 1390 m. buvojo prie Vilniaus ir Prūsijoje išgarsėjo riteriškais žygiais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87429"></a>
 - t-002
+  global_id: t-87429
   teiginys: 'Henrikas Lankasteris, Derbio grafas, dalyvavo Vilniaus apgultyje 1390 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87430"></a>
 - t-003
+  global_id: t-87430
   teiginys: 'Derbio grafas Henrikas, Lankasterio kunigaikščio Jono vyresnysis sūnus, vadovavo Gdansko uoste išsilaipinusiems lankininkams.'
   pagrindžia:
     - c-001

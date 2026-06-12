@@ -23,7 +23,9 @@ Antrame plane matyti Trakų salos pilis.
 
 ## Teiginiai
 
+<a id="claim-t-38656"></a>
 - t-001
+  global_id: t-38656
   teiginys: 'Trakų salos pilis buvo baigta statyti 1409 m.'
   pagrindžia:
     - c-001

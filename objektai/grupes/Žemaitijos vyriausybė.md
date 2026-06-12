@@ -18,7 +18,9 @@ Bendros sukilimo vadovybės Lietuvoje nebuvo, daug „vyriausybių“ veikė kon
 
 ## Teiginiai
 
+<a id="claim-t-77833"></a>
 - t-001
+  global_id: t-77833
   teiginys: 'Bendros sukilimo vadovybės Lietuvoje nebuvo, daug „vyriausybių“ veikė konkrečios apskrities teritorijoje, o viena tokių „vyriausybių“ pasiskelbė Žemaitijos vyriausybe.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sos
 
 ## Teiginiai
 
+<a id="claim-t-21267"></a>
 - t-001
+  global_id: t-21267
   teiginys: 'Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos.'
   pagrindžia:
     - c-001

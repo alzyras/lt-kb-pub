@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67007"></a>
 - t-001
+  global_id: t-67007
   teiginys: 'Šapokos istorijoje paneigiama, kad Čičinskas 1652 m. pirmasis liberum veto teise išardė seimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67008"></a>
 - t-002
+  global_id: t-67008
   teiginys: 'Iki 1652 m. po Liublino unijos buvo iširę dar 13 bendrųjų seimų, o 1652 m. seimas iširo protestuojant vienam Čičinskui.'
   pagrindžia:
     - c-001

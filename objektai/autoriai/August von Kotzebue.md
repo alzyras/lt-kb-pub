@@ -24,37 +24,51 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 
 ## Teiginiai
 
+<a id="claim-t-87938"></a>
 - t-001
+  global_id: t-87938
   teiginys: 'Augustas von Kotzebue išrašė tris Gedimino laiškus iš slaptojo Kryžiuočių archyvo Karaliaučiuje ir įdėjo juos į savo veikalą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87939"></a>
 - t-002
+  global_id: t-87939
   teiginys: 'Mat nemaža miesto dalis su- 15 Nors Kotzebue loco cit.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87940"></a>
 - t-003
+  global_id: t-87940
   teiginys: 'Kotzebue rašinyje „Switrigail“ gynė Švitrigailą, vaizduodamas jį kaip herojų ir didį žmogų.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-87941"></a>
 - t-004
+  global_id: t-87941
   teiginys: 'Kotzebue veikale pateikti skundo punktai atitiko Raynaldo 1324 m. nurodytus punktus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-87942"></a>
 - t-005
+  global_id: t-87942
   teiginys: 'Kotzebue tikėjosi Gedimino laiškų originalus rasti Ordino archyve ir apkaltinti Ordiną nauja piktadaryste.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87944"></a>
 - t-006
+  global_id: t-87944
   teiginys: 'Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-87945"></a>
 - t-007
+  global_id: t-87945
   teiginys: 'Kotzebue citavo Slaptajame archyve buvusį Švitrigailos laišką didžiajam magistrui, rašytą iš Trakų 1432 m. rugpjūčio 13 d.'
   pagrindžia:
     - c-007

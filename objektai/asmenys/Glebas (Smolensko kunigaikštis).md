@@ -17,7 +17,9 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 
 ## Teiginiai
 
+<a id="claim-t-40124"></a>
 - t-001
+  global_id: t-40124
   teiginys: 'Smolensko kunigaikštis Glebas buvo priverstas kartu su totoriais dalyvauti antpuolyje prieš Lietuvą.'
   pagrindžia:
     - c-001

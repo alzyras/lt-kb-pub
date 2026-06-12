@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59683"></a>
 - t-001
+  global_id: t-59683
   teiginys: 'Dusburgietis teigia, kad kodėl nelyginant patrakėlis Judas tą pačią dieną valgei jo valgymą bei gėrei jo gėrimą, o po to praliejai jo kūno kraują, pervėręs jį durklu?'
   pagrindžia:
     - c-001

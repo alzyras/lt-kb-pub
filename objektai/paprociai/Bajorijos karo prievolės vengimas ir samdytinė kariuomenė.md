@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01914"></a>
 - t-001
+  global_id: t-01914
   teiginys: 'Ankstyvesni karai Lietuvai baigdavosi nelaimingai, nes bajorija nenorėjo kariauti ir mokėti karui reikalingų mokesčių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01915"></a>
 - t-002
+  global_id: t-01915
   teiginys: 'Bajorijai nenorint eiti į karą, jos vietoje buvo įvesta samdytinė kariuomenė.'
   pagrindžia:
     - c-002

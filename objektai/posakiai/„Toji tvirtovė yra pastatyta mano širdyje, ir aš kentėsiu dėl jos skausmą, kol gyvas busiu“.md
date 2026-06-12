@@ -22,7 +22,9 @@ Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvir
 
 ## Teiginiai
 
+<a id="claim-t-100006"></a>
 - t-001
+  global_id: t-100006
   teiginys: 'Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu »^236.'
   pagrindžia:
     - c-001

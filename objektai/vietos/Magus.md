@@ -16,7 +16,9 @@ Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje 
 
 ## Teiginiai
 
+<a id="claim-t-32331"></a>
 - t-001
+  global_id: t-32331
   teiginys: 'Žemė „Magus“ laikoma lietuvių ir latvių plotais.'
   pagrindžia:
     - c-001

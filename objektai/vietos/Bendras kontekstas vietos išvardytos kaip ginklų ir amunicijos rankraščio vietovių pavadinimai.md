@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86293"></a>
 - t-001
+  global_id: t-86293
   teiginys: 'Ginklų ir amunicijos rankraštyje vietovių pavadinimai buvo išdėstyti pagal planus, pradedant Vilniaus arsenalu.'
   pagrindžia:
     - c-001

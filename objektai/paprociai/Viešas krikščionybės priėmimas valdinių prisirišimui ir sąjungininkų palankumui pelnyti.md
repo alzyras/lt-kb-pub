@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Viešas krikščionybės priėmimas valdinių prisirišimui ir sąjungininkų palankumui pelnyti
 
 ## Santrauka
 
-Kojelavičius teigia, kad norėdami savo valdinius la biau prie savęs prisirišti, jie viešai priėmė šventąją krikščionybę.
+Erdivydas, Vykintas ir Tautvilas viešai priėmė krikščionybę, norėdami labiau prie savęs prisirišti valdinius.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185905"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad norėdami savo valdinius la biau prie savęs prisirišti, jie viešai priėmė šventąją krikščionybę.'
+  global_id: t-185905
+  teiginys: 'Erdivydas, Vykintas ir Tautvilas viešai priėmė krikščionybę, norėdami labiau prie savęs prisirišti valdinius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad norėdami savo valdinius la biau prie savęs prisirišti, jie viešai priėmė šventąją krikščionybę.'
+  santrauka: 'Erdivydas, Vykintas ir Tautvilas viešai priėmė krikščionybę, norėdami labiau prie savęs prisirišti valdinius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jau­
@@ -58,3 +59,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Tautvilas]]
+- [[objektai/asmenys/Vykintas]]

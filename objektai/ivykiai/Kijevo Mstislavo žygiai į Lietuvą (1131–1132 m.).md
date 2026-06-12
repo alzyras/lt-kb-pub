@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31429"></a>
 - t-001
+  global_id: t-31429
   teiginys: 'Kijevo Mstislavas 1131 m. grįžo iš žygio į Lietuvą su daug belaisvių, o 1132 m. jo žygis baigėsi pralaimėjimu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-31430"></a>
 - t-002
+  global_id: t-31430
   teiginys: 'Metraščiuose 1131–1132 m. minimi Kijevo Mstislavo žygiai į Lietuvą galėjo būti vienas ir tas pats žygis.'
   pagrindžia:
     - c-001

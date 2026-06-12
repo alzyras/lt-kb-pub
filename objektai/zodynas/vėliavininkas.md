@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # vėliavininkas
 
 ## Santrauka
 
-Kojelavičius teigia, kad žuvus tame pačiame mūšyje vėliavininkui Henrikui fon Tyzenhauzenui, kariuomenės vėliava su dievo mo tinos mergelės, Livonijos globėjos, atvaizdu pateko į lietuvių rankas.
+Mūšyje žuvus vėliavininkui Henrikui fon Tyzenhauzenui, Livonijos kariuomenės vėliava pateko į lietuvių rankas.
 
 ## Teiginiai
 
+<a id="claim-t-185416"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad žuvus tame pačiame mūšyje vėliavininkui Henrikui fon Tyzenhauzenui, kariuomenės vėliava su dievo mo tinos mergelės, Livonijos globėjos, atvaizdu pateko į lietuvių rankas.'
+  global_id: t-185416
+  teiginys: 'Mūšyje žuvus vėliavininkui Henrikui fon Tyzenhauzenui, Livonijos kariuomenės vėliava pateko į lietuvių rankas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad žuvus tame pačiame mūšyje vėliavininkui Henrikui fon Tyzenhauzenui, kariuomenės vėliava su dievo mo tinos mergelės, Livonijos globėjos, atvaizdu pateko į lietuvių rankas.'
+  santrauka: 'Mūšyje žuvus vėliavininkui Henrikui fon Tyzenhauzenui, Livonijos kariuomenės vėliava pateko į lietuvių rankas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žuvo Livonijos magist­
@@ -41,3 +42,13 @@ Kojelavičius teigia, kad žuvus tame pačiame mūšyje vėliavininkui Henrikui 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/zodynas/vėliava]]
+- [[objektai/asmenys/Degenhartas]]
+- [[objektai/asmenys/Fridrichas (riteris)]]
+- [[objektai/asmenys/Jonas Hanulaitis]]

@@ -29,32 +29,44 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 
 ## Teiginiai
 
+<a id="claim-t-75058"></a>
 - t-001
+  global_id: t-75058
   teiginys: 'Kovos su švedais paliko gilų pėdsaką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75059"></a>
 - t-002
+  global_id: t-75059
   teiginys: 'ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75060"></a>
 - t-003
+  global_id: t-75060
   teiginys: '1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75061"></a>
 - t-004
+  global_id: t-75061
   teiginys: 'Švedai sugriovė nedidelius Lietuvos uostus Palangoje ir Šventojoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75062"></a>
 - t-005
+  global_id: t-75062
   teiginys: '1655–1660 m. švedai kariavo Lietuvos ir Lenkijos teritorijose, bet Lietuvoje įsitvirtinti jiems nepavyko.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75063"></a>
 - t-006
+  global_id: t-75063
   teiginys: 'Švedija siekė viešpatauti Baltijos jūroje, vadindama šį tikslą dominium maris Baltici.'
   pagrindžia:
     - c-001
@@ -251,4 +263,5 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/posakiai/„tvanas“]]
 - [[objektai/ivykiai/Karas su Maskva (1609–1613 m.)]]
 - [[objektai/ivykiai/Maskvos ir Švedų užpuolimas Lietuvai (1654–1655 m.)]]
+- [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]
 - [[objektai/zodynas/rokošas]]

@@ -53,7 +53,9 @@ Sovietmečiu Kryžių kalnas tapo tikėjimo laisvės simboliu: valdžiai draudž
 
 ## Teiginiai
 
+<a id="claim-t-20811"></a>
 - t-001
+  global_id: t-20811
   teiginys: 'Kryžių kalnas tapo simboliu ir buvo pramintas lietuviška Golgota.'
   pagrindžia:
     - c-001

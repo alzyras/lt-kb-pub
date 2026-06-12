@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Padėkos pamaldos už karinę pergalę
 
 ## Santrauka
 
-Kojelavičius teigia, kad surengęs stovykloje kareiviškas pamaldas ir pa dėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis suskaičiavo belaisvius ir, atrinkęs tris šimtus aštuo niasdešimt žymiausių bajorų, išsiuntė juos karaliui su laišku apie pergalę. Kojelavičius teigia, kad ost rogiškis, sugrįžęs į Vilnių, iš visos širdies padėkojo aukščiausiajam, pastatydamas didelį Nedalomosios trejybės vienuolyną ir jį paskirdamas vienuoliams, kurie, 6 3 4 I laikydamiesi rusų apeigų, paklūsta Romos popiežiui.
+Po pergalės Ostrogiškis stovykloje surengė kareiviškas pamaldas, padėkojo Dievui ir išsiuntė karaliui 380 žymiausių belaisvių bajorų. Sugrįžęs į Vilnių, Ostrogiškis padėkojo Dievui pastatydamas Nedalomosios Trejybės vienuolyną Romos popiežiui paklūstantiems rusų apeigų vienuoliams.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,20 +29,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185879"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad surengęs stovykloje kareiviškas pamaldas ir pa dėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis suskaičiavo belaisvius ir, atrinkęs tris šimtus aštuo niasdešimt žymiausių bajorų, išsiuntė juos karaliui su laišku apie pergalę.'
+  global_id: t-185879
+  teiginys: 'Po pergalės Ostrogiškis stovykloje surengė kareiviškas pamaldas, padėkojo Dievui ir išsiuntė karaliui 380 žymiausių belaisvių bajorų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185880"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad ost rogiškis, sugrįžęs į Vilnių, iš visos širdies padėkojo aukščiausiajam, pastatydamas didelį Nedalomosios trejybės vienuolyną ir jį paskirdamas vienuoliams, kurie, 6 3 4 I laikydamiesi rusų apeigų, paklūsta Romos popiežiui.'
+  global_id: t-185880
+  teiginys: 'Sugrįžęs į Vilnių, Ostrogiškis padėkojo Dievui pastatydamas Nedalomosios Trejybės vienuolyną Romos popiežiui paklūstantiems rusų apeigų vienuoliams.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad surengęs stovykloje kareiviškas pamaldas ir pa dėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis suskaičiavo belaisvius ir, atrinkęs tris šimtus aštuo niasdešimt žymiausių bajorų, išsiuntė juos karaliui su laišku apie pergalę.'
+  santrauka: 'Po pergalės Ostrogiškis stovykloje surengė kareiviškas pamaldas, padėkojo Dievui ir išsiuntė karaliui 380 žymiausių belaisvių bajorų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Į nelaisvę pakliuvo
@@ -63,7 +66,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad ost rogiškis, sugrįžęs į Vilnių, iš visos širdies padėkojo aukščiausiajam, pastatydamas didelį Nedalomosios trejybės vienuolyną ir jį paskirdamas vienuoliams, kurie, 6 3 4 I laikydamiesi rusų apeigų, paklūsta Romos popiežiui.'
+  santrauka: 'Sugrįžęs į Vilnių, Ostrogiškis padėkojo Dievui pastatydamas Nedalomosios Trejybės vienuolyną Romos popiežiui paklūstantiems rusų apeigų vienuoliams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ost­
@@ -88,3 +91,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/žygūnai]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Konstantinas Ostrogiškis]]

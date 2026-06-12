@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-88056"></a>
 - t-001
+  global_id: t-88056
   teiginys: 'Gadebuscho „Livl. Jahrb.“ nurodytas kaip šaltinis, papildantis žinias apie nepaprastą šaltį.'
   pagrindžia:
     - c-001

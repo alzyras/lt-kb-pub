@@ -16,7 +16,9 @@ Stryjkovskio — laikydami juos pirmykščia pagonybe. Brasta Lietuvos Herodotas
 
 ## Teiginiai
 
+<a id="claim-t-30860"></a>
 - t-001
+  global_id: t-30860
   teiginys: 'XIX a. istorikai romantikai Motiejaus Stryjkovskio aprašymus nekritiškai laikė pirmykštės pagonybės liudijimu.'
   pagrindžia:
     - c-001

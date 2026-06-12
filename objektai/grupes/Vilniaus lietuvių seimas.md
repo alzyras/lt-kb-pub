@@ -12,34 +12,39 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Vilniaus lietuvių seimas (seimas, XV a.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad esą visuomenė galinti būti rami tik tada, kai karalius asmeniškai val dysiąs Lietuvą; svetur išvykusio karaliaus žodis ne greitai juos pasiekiąs ir paprastai negalįs būti veiks mingas. Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal d a u ją paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais Algirdo proanūkį. Kojelavičius teigia, kad karalius, g erai žinodamas, kiek rū pesčių jo tėvui sukėlė šitaip valdomos Lietuvos žemės, nutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko gero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi rai nieko n esak ė, n en o rėd am as p erd au g.
+1461 m. Vilniaus lietuvių seime luomai pareiškė, kad visuomenė bus rami tik karaliui asmeniškai valdant Lietuvą. Vilniaus lietuvių seime luomai prašė paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį. Karalius nutarė atmesti siūlymą skirti Lietuvai vietininką, bet viešai prašė atidėti klausimą dėl karo su kryžiuočiais.
 
 ## Teiginiai
 
+<a id="claim-t-185438"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad esą visuomenė galinti būti rami tik tada, kai karalius asmeniškai val dysiąs Lietuvą; svetur išvykusio karaliaus žodis ne greitai juos pasiekiąs ir paprastai negalįs būti veiks mingas.'
+  global_id: t-185438
+  teiginys: '1461 m. Vilniaus lietuvių seime luomai pareiškė, kad visuomenė bus rami tik karaliui asmeniškai valdant Lietuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185439"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal d a u ją paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais Algirdo proanūkį.'
+  global_id: t-185439
+  teiginys: 'Vilniaus lietuvių seime luomai prašė paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185440"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad karalius, g erai žinodamas, kiek rū pesčių jo tėvui sukėlė šitaip valdomos Lietuvos žemės, nutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko gero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi rai nieko n esak ė, n en o rėd am as p erd au g.'
+  global_id: t-185440
+  teiginys: 'Karalius nutarė atmesti siūlymą skirti Lietuvai vietininką, bet viešai prašė atidėti klausimą dėl karo su kryžiuočiais.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad esą visuomenė galinti būti rami tik tada, kai karalius asmeniškai val dysiąs Lietuvą; svetur išvykusio karaliaus žodis ne greitai juos pasiekiąs ir paprastai negalįs būti veiks mingas.'
+  santrauka: '1461 m. Vilniaus lietuvių seime luomai pareiškė, kad visuomenė bus rami tik karaliui asmeniškai valdant Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atvyko į jį prieš Velykas gausybė žmonių. Visi
@@ -58,7 +63,7 @@ Kojelavičius teigia, kad esą visuomenė galinti būti rami tik tada, kai karal
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal d a u ją paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais Algirdo proanūkį.'
+  santrauka: 'Vilniaus lietuvių seime luomai prašė paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kas be ko, jie visi neišpasakytai trokštą, kad
@@ -86,7 +91,7 @@ Kojelavičius teigia, kad esą visuomenė galinti būti rami tik tada, kai karal
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad karalius, g erai žinodamas, kiek rū pesčių jo tėvui sukėlė šitaip valdomos Lietuvos žemės, nutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko gero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi rai nieko n esak ė, n en o rėd am as p erd au g.'
+  santrauka: 'Karalius nutarė atmesti siūlymą skirti Lietuvai vietininką, bet viešai prašė atidėti klausimą dėl karo su kryžiuočiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius, g erai žinodamas, kiek rū­
@@ -111,3 +116,15 @@ Kojelavičius teigia, kad esą visuomenė galinti būti rami tik tada, kai karal
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/asmenys/Simonas Olelkaitis]]
+- [[objektai/ivykiai/Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.)]]

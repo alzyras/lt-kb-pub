@@ -24,7 +24,9 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 
 ## Teiginiai
 
+<a id="claim-t-80647"></a>
 - t-001
+  global_id: t-80647
   teiginys: 'Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos brigados, mjr.'
   pagrindžia:
     - c-001

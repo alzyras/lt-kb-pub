@@ -23,7 +23,9 @@ Dusburgietis teigia, kad apie vieną švenčiausiosios mergelės stebuklą 1302 
 
 ## Teiginiai
 
+<a id="claim-t-59082"></a>
 - t-001
+  global_id: t-59082
   teiginys: '1302 m. Perudžoje nukirsta plėšiko galva paprašė atvesti kunigą, nes Marija neleido jam mirti neišpažinus nuodėmių.'
   pagrindžia:
     - c-001

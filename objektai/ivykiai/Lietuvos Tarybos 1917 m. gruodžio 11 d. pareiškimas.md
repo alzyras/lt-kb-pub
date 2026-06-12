@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01717"></a>
 - t-001
+  global_id: t-01717
   teiginys: 'Tiek karo vadovybė, tiek vyriausybė ir reichstagas reikalavo, kad Lietuva įeitų į federaciją su Vokietija, susirišdama su ja militarinėmis ir ekonominėmis konvencijomis.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Dar duodame žinoti, Jūsų Prakilnybe Malonusis Pone Magistrė, ir apie tai, ka
 
 ## Teiginiai
 
+<a id="claim-t-86835"></a>
 - t-001
+  global_id: t-86835
   teiginys: 'Vytautas įsakė vokiečių pirkliams apie Sekmines palikti jo kraštą.'
   pagrindžia:
     - c-001

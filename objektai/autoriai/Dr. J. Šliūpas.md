@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-01029"></a>
 - t-001
+  global_id: t-01029
   teiginys: 'Dr. J. Šliūpas tvarkė „Aušrą“, kol vokiečių valdžia privertė jį išvažiuoti į Ameriką.'
   pagrindžia:
     - c-001

@@ -35,22 +35,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66915"></a>
 - t-001
+  global_id: t-66915
   teiginys: 'Suvalkų derybos pasibaigė susitarimu, kurį abi šalys pasirašė 1920 metų spalių mėn.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66916"></a>
 - t-002
+  global_id: t-66916
   teiginys: 'Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66917"></a>
 - t-003
+  global_id: t-66917
   teiginys: 'Prasidėjus Suvalkų deryboms, lenkų kariuomenė peržengė demarkacijos liniją ir veržėsi į Gardino–Varėnos ruožą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66918"></a>
 - t-004
+  global_id: t-66918
   teiginys: 'Pagaliau Lenkija vėl pasiūlė Lietuvai derybas Suvalkuose (rugsėjo mėn.'
   pagrindžia:
     - c-003

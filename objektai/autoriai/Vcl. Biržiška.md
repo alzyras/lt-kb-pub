@@ -25,7 +25,9 @@ Biržiška : Senųjų lietuviškų knygų istorija , I, Chicago, Ill 1953, 39-52
 
 ## Teiginiai
 
+<a id="claim-t-100121"></a>
 - t-001
+  global_id: t-100121
   teiginys: 'Vcl. Biržiška parašė veikalą „Senųjų lietuviškų knygų istorija“, kurio pirmasis tomas išleistas 1953 m. Čikagoje.'
   pagrindžia:
     - c-001

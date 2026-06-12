@@ -24,22 +24,30 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
 
 ## Teiginiai
 
+<a id="claim-t-75556"></a>
 - t-001
+  global_id: t-75556
   teiginys: 'Tačiau kolektyvizacija staigiai nusmukdė Lietuvos žemės ūkį – nepriklausomos Lietuvos žemės ūkio prieškarinį gamybos lygį pagal javų Raudonosios gurguolės.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75557"></a>
 - t-002
+  global_id: t-75557
   teiginys: 'Kolektyvizacija sovietinėse respublikose reiškė privačios nuosavybės naikinimą žemės ūkyje ir kolektyvinių ūkių steigimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75558"></a>
 - t-003
+  global_id: t-75558
   teiginys: 'Po kolektyvizacijos LSSR javų derlingumo, gyvulių skaičiaus ir produktyvumo lygį pasiekė tik po 20 metų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75559"></a>
 - t-004
+  global_id: t-75559
   teiginys: 'Kolektyvizacija sovietmečiu reiškė vienkiemių naikinimą ir jų savininkų kėlimą į kolektyvines gyvenvietes, miestelius ar miestus.'
   pagrindžia:
     - c-002

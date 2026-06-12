@@ -18,7 +18,9 @@ Voldemaro, o vėliau uždarė ir pusiau slaptą, ginkluotą radikaliausių tauti
 
 ## Teiginiai
 
+<a id="claim-t-19696"></a>
 - t-001
+  global_id: t-19696
   teiginys: 'A. Smetona uždarė pusiau slaptą ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“.'
   pagrindžia:
     - c-001

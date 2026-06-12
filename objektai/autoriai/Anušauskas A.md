@@ -16,7 +16,9 @@ Anušauskas A.
 
 ## Teiginiai
 
+<a id="claim-t-17683"></a>
 - t-001
+  global_id: t-17683
   teiginys: 'A. Anušauskas parašė veikalą „Teroras. 1940–1958 m.“, išleistą Vilniuje 2012 m.'
   pagrindžia:
     - c-001

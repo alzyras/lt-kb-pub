@@ -41,32 +41,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-71798"></a>
 - t-001
+  global_id: t-71798
   teiginys: '„Draugas“ atsivesdavo ir tarnus, kurie į rikiuotę nestodavo, o užsiimdavo ūkine veikla, saugodavo stovyklą ir kitaip užtikrindavo „draugo“ ir jo mūšiui, dalyvaudavo visi husarai „draugai“, todėl kiekvienas vėliavų pirmos eilės karys puikiai žinodavo mūšio.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71799"></a>
 - t-002
+  global_id: t-71799
   teiginys: 'Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71800"></a>
 - t-003
+  global_id: t-71800
   teiginys: 'XVII a. pavyzdžio husarų organizacija ATR egzistavo iki XVIII a.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-71801"></a>
 - t-004
+  global_id: t-71801
   teiginys: 'Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-71802"></a>
 - t-005
+  global_id: t-71802
   teiginys: 'Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71803"></a>
 - t-006
+  global_id: t-71803
   teiginys: '„Draugų“ palydos buvo vieninteliai vieneLietuvos ir Lenkijos husarai - vienintelė xvii a.'
   pagrindžia:
     - c-004

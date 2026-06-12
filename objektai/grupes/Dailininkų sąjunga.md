@@ -16,7 +16,9 @@ Nuo rašytojų neatsiliko Dailininkų sąjunga, ekonomistai ir filosofai.
 
 ## Teiginiai
 
+<a id="claim-t-19667"></a>
 - t-001
+  global_id: t-19667
   teiginys: 'Sąjūdžio priešistorėje Dailininkų sąjunga įsitraukė į visuomeninį aktyvumą kartu su ekonomistais ir filosofais.'
   pagrindžia:
     - c-001

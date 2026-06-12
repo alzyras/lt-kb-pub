@@ -25,7 +25,9 @@ Ekdahl, S.
 
 ## Teiginiai
 
+<a id="claim-t-31909"></a>
 - t-001
+  global_id: t-31909
   teiginys: 'S. Ekdahlio „Der Krieg zwischen dem Deutschen Orden und Polen-Litauen im Jahre 1422“ paskelbta „ZfO“ 13 tome 1964 m., p. 614-651.'
   pagrindžia:
     - c-001

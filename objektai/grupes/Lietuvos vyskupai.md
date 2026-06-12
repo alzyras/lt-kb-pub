@@ -19,7 +19,9 @@ Tada popiežius pasiskubino ir tam pavojui už­ kirsti kelią: jis uždraudė L
 
 ## Teiginiai
 
+<a id="claim-t-35714"></a>
 - t-001
+  global_id: t-35714
   teiginys: 'Popiežius uždraudė Lietuvos vyskupams ir Kulmijos vyskupui karūnuoti Vytautą.'
   pagrindžia:
     - c-001

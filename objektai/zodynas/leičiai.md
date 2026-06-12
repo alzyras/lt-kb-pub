@@ -17,7 +17,9 @@ Bendrųjų Informacinių blokų sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJ
 
 ## Teiginiai
 
+<a id="claim-t-80627"></a>
 - t-001
+  global_id: t-80627
   teiginys: 'Bendrųjų Informacinių blokų sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS p. 29, „LEIČIAI - VALDOVO VALIOS ĮGYVENDINTOJAI“, Karolis Zikaras.'
   pagrindžia:
     - c-001

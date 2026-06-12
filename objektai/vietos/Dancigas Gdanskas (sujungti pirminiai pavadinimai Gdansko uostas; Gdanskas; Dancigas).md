@@ -19,17 +19,23 @@ Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pa
 
 ## Teiginiai
 
+<a id="claim-t-86009"></a>
 - t-001
+  global_id: t-86009
   teiginys: 'Pinigai, paimti už Maskvos kalinius, buvo ką tik atgabenti iš Gdansko ir siūlyta juos laikinai sulaikyti dvare.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86010"></a>
 - t-002
+  global_id: t-86010
   teiginys: 'Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86011"></a>
 - t-003
+  global_id: t-86011
   teiginys: 'Torunės seime dėl ginčų su Gdansku nebuvo nustatytos rinkliavos, tačiau Batoras vėliau įsakė tuojau pat rinkti muitus.'
   pagrindžia:
     - c-003

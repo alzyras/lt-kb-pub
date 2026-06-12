@@ -34,32 +34,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66665"></a>
 - t-001
+  global_id: t-66665
   teiginys: 'Pirmasis lietuviškas laikraštis Pietų Amerikoje „Brazilijos Lietuvis“ pasirodė 1927 m., bet ėjo neilgai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66666"></a>
 - t-002
+  global_id: t-66666
   teiginys: 'Lietuviškos spaudos ir organizacijų kūrimasis Pietų Amerikoje (1927–1936 m.): 1931 m. Lietuvos valdžiai remiant, Buenos Airės mieste buvo įkurtas kelių organizacijų centras, pavadintas Lietuvių Namais. Tačiau yra organizacijų, kurios šalinasi Lietuvių Namų ir tuo būdu skaldo tautiškąjį veikimą Argentinoje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66667"></a>
 - t-003
+  global_id: t-66667
   teiginys: 'Sao Paule buvo suorganizuota lietuvių parapija ir pastatyta bažnyčia, pašventinta 1936 m. vasario 16 d.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-66668"></a>
 - t-004
+  global_id: t-66668
   teiginys: 'Kunigas T. Radžius Urugvajuje subūrė tautiškas lietuvių organizacijas į Urugvajaus Lietuvių Klubą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66669"></a>
 - t-005
+  global_id: t-66669
   teiginys: '1929 m. į Sao Paulą atvykęs pirmasis Lietuvos konsulas rėmė lietuvių organizacijas, spaudą, mokyklų kūrimą ir parapijos organizavimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66670"></a>
 - t-006
+  global_id: t-66670
   teiginys: 'Lietuviškos spaudos ir organizacijų kūrimasis Pietų Amerikoje (1927–1936 m.): jau 1931 m. čia susikūrė Lietuvių Sąjunga Bra- zilijoje. Ji ėmė leisti savaitraštį „Lietuvį Brazilijo- je", kurs vėliau buvo pavadintas „Lietuviu".'
   pagrindžia:
     - c-006

@@ -17,7 +17,9 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 
 ## Teiginiai
 
+<a id="claim-t-02282"></a>
 - t-001
+  global_id: t-02282
   teiginys: 'Spa protokolu Lenkija įsipareigojo atsitraukti už Kerzono linijos ir liepos 10 d. atiduoti Vilniaus sritį Lietuvai.'
   pagrindžia:
     - c-001

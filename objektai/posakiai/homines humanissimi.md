@@ -22,7 +22,9 @@ Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), 
 
 ## Teiginiai
 
+<a id="claim-t-31557"></a>
 - t-001
+  global_id: t-31557
   teiginys: 'Adomas Bremenietis sembus arba prūsus vadino „homines humanissimi“ ir teigė, kad jie gelbėja pavojuje atsidūrusius jūroje.'
   pagrindžia:
     - c-001

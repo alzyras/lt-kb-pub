@@ -16,7 +16,9 @@ Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, 
 
 ## Teiginiai
 
+<a id="claim-t-18961"></a>
 - t-001
+  global_id: t-18961
   teiginys: 'Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių mokosi Rusijos ir kitų respublikų demokratai.'
   pagrindžia:
     - c-001

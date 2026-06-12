@@ -19,12 +19,16 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 
 ## Teiginiai
 
+<a id="claim-t-86139"></a>
 - t-001
+  global_id: t-86139
   teiginys: 'Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86140"></a>
 - t-002
+  global_id: t-86140
   teiginys: 'Iš Žemutinės pilies vakarinių vartų kelias vedė per tiltus per Vilnią ir Vingrių upokšnį.'
   pagrindžia:
     - c-002

@@ -19,17 +19,23 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 
 ## Teiginiai
 
+<a id="claim-t-60061"></a>
 - t-001
+  global_id: t-60061
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję, turėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą, Samborą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60062"></a>
 - t-002
+  global_id: t-60062
   teiginys: 'Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60063"></a>
 - t-003
+  global_id: t-60063
   teiginys: 'Dusburgietis teigia, kad samboras, matydamas, kad iš savo dalies negalėsiąs gyventi taip iškilniai, kaip dera jo padėties žmogui, atidavė ją broliams, kad šie jį bei jo šeimyną visa kuo aprūpintų.'
   pagrindžia:
     - c-003

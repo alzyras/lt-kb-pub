@@ -17,7 +17,9 @@ Bet iš kitos pusės, susitikimas su mažalenkiais galėjo jį įtikinti, kad Le
 
 ## Teiginiai
 
+<a id="claim-t-35743"></a>
 - t-001
+  global_id: t-35743
   teiginys: 'Susitikimas su mažalenkiais galėjo Vytautą įtikinti, kad Lenkija neišsižadės naudos iš Lietuvos susilpnėjimo.'
   pagrindžia:
     - c-001

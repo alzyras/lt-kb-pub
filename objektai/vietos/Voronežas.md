@@ -24,14 +24,17 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
 
 ## Teiginiai
 
+<a id="claim-t-181304"></a>
 - t-001
-  teiginys: 'Lietuvių tremtiniai Rusijoje Lietuvių Komitetas, persikėlęs į Petrapilį (dabartinį Leningradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuomenės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).'
+  global_id: t-181304
+  teiginys: 'Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     ##### 2. Lietuvių tremtiniai Rusijoje

@@ -46,7 +46,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77918"></a>
 - t-001
+  global_id: t-77918
   teiginys: 'Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir vilties šaltinio, prasmė.'
   pagrindžia:
     - c-001

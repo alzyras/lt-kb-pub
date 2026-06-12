@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01633"></a>
 - t-001
+  global_id: t-01633
   teiginys: '1898 m. Klaipėdos apygardoje į imperijos parlamentą buvo išrinktas pirmasis lietuvių atstovas Jonas Smalakys.'
   pagrindžia:
     - c-001

@@ -36,12 +36,16 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
 
 ## Teiginiai
 
+<a id="claim-t-45013"></a>
 - t-001
+  global_id: t-45013
   teiginys: 'XVI a. šeštajame-septintajame dešimtmetyje beveik visi Lietuvos didikai buvo perėję į reformaciją, o kalvinizmas vėliau pradėjo nykti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45014"></a>
 - t-002
+  global_id: t-45014
   teiginys: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
   pagrindžia:
     - c-002

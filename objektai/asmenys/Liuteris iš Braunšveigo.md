@@ -26,7 +26,9 @@ Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liute
 
 ## Teiginiai
 
+<a id="claim-t-60380"></a>
 - t-001
+  global_id: t-60380
   teiginys: 'Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo (1331 — 1335 m.) laikais, tačiau rankraštis buvo sunaikintas.'
   pagrindžia:
     - c-001

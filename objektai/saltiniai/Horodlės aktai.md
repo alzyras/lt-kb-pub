@@ -27,7 +27,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88308"></a>
 - t-001
+  global_id: t-88308
   teiginys: 'Horodlės seime Lietuvai išduotas unijos aktas buvo laikomas Kunigaikščių Radvilų Nesvyžiaus archyve.'
   pagrindžia:
     - c-001

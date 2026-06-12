@@ -18,12 +18,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-50874"></a>
 - t-001
+  global_id: t-50874
   teiginys: 'K. Heinlis teigė, kad Vytautui pasiekti savo tikslą buvo sunkiau negu jo pirmtakams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-50875"></a>
 - t-002
+  global_id: t-50875
   teiginys: 'K. Heinl teigė, kad Vytautui valdžią įgyti buvo sunkiau nei pirmtakams, bet jis tikslą pasiekė puikiau už juos.'
   pagrindžia:
     - c-001

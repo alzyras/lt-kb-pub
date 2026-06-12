@@ -27,7 +27,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31985"></a>
 - t-001
+  global_id: t-31985
   teiginys: 'W. Zakrzewskio darbas „Bitwa pod Grunwaldem“ paskelbtas „RTPNP“ 17 tome 1890 m., p. 11-28.'
   pagrindžia:
     - c-001

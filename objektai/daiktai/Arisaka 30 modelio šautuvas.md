@@ -47,7 +47,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39240"></a>
 - t-001
+  global_id: t-39240
   teiginys: 'Japoniškas 30 modelio Arisaka šautuvas buvo 1897 m. modelio ginklas, kurio šovinys buvo 6,5x50 mm SR, o dėtuvėje tilpo 5 šoviniai.'
   pagrindžia:
     - c-001

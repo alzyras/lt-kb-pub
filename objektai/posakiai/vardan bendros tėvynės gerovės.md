@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # vardan bendros tėvynės gerovės
 
 ## Santrauka
 
-Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal d a u ją paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais Algirdo proanūkį.
+Vardan bendros tėvynės gerovės lietuviai prašė paskirti Simoną Olelkaitį Lietuvos vietininku.
 
 ## Teiginiai
 
+<a id="claim-t-185484"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal d a u ją paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais Algirdo proanūkį.'
+  global_id: t-185484
+  teiginys: 'Vardan bendros tėvynės gerovės lietuviai prašė paskirti Simoną Olelkaitį Lietuvos vietininku.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal d a u ją paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais Algirdo proanūkį.'
+  santrauka: 'Vardan bendros tėvynės gerovės lietuviai prašė paskirti Simoną Olelkaitį Lietuvos vietininku.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Esą visuomenė
@@ -47,3 +48,9 @@ Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės j
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Lietuviai]]

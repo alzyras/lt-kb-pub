@@ -16,7 +16,9 @@ Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv.
 
 ## Teiginiai
 
+<a id="claim-t-86279"></a>
 - t-001
+  global_id: t-86279
   teiginys: 'Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv.'
   pagrindžia:
     - c-001

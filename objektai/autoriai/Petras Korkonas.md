@@ -27,7 +27,9 @@ Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkviet�
 
 ## Teiginiai
 
+<a id="claim-t-88080"></a>
 - t-001
+  global_id: t-88080
   teiginys: 'Petras Korkonas 1621 m. rašė, kad Petras Goštautas į Vilnių atkvietė Šv. Pranciškaus vienuolius.'
   pagrindžia:
     - c-001

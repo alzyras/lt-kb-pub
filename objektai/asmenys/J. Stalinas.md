@@ -28,47 +28,65 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
 
 ## Teiginiai
 
+<a id="claim-t-101639"></a>
 - t-001
+  global_id: t-101639
   teiginys: 'Po J. Stalino mirties 1953 m. SSRS susilpnėjo rusinimas, o valdžia pradėjo labiau pasitikėti vietiniais lietuviais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101640"></a>
 - t-002
+  global_id: t-101640
   teiginys: 'J. Stalino laikais okupacinė valdžia siekė fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-101641"></a>
 - t-003
+  global_id: t-101641
   teiginys: 'J. Stalino laikais okupacinė valdžia stengėsi fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-101642"></a>
 - t-004
+  global_id: t-101642
   teiginys: 'Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžiagą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-101643"></a>
 - t-005
+  global_id: t-101643
   teiginys: 'J. Stalino veikalus mokytojai buvo verčiami studijuoti kartu su V. Lenino ir Karlo Markso veikalais.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-101644"></a>
 - t-006
+  global_id: t-101644
   teiginys: 'J. Stalinas buvo vaizduojamas statulomis, statytomis Lietuvos valstybingumą liudijusių paminklų vietose.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-101645"></a>
 - t-007
+  global_id: t-101645
   teiginys: 'Lietuvoje tikėta, kad Vakarai pakils į žygį prieš J. Stalino SSRS.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-101646"></a>
 - t-008
+  global_id: t-101646
   teiginys: 'Stalino statulų, prikabinėta komunistinių šūkių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-101647"></a>
 - t-009
+  global_id: t-101647
   teiginys: 'J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros griovimas, siekiant išrauti bet kokį tautiškumą.'
   pagrindžia:
     - c-003

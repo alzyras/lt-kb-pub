@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Bažnytinio turto grobstymas ir vienuolynų užgrobimas reformacijos neramumų metu Livonijoje
 
 ## Santrauka
 
-Kojelavičius teigia, kad neil gai trukus sektos pasekėjai, iš seno tykoję užgrobti bažnyčios turtus, įniko grobstyti šventovių brangeny bes, brautis į vienuolynus, savintis dvasininkų mantą ir žemes.
+Livonijoje Liuterio sektos pasekėjai ėmė grobstyti šventovių brangenybes, brautis į vienuolynus ir savintis dvasininkų mantą bei žemes.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185912"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad neil gai trukus sektos pasekėjai, iš seno tykoję užgrobti bažnyčios turtus, įniko grobstyti šventovių brangeny bes, brautis į vienuolynus, savintis dvasininkų mantą ir žemes.'
+  global_id: t-185912
+  teiginys: 'Livonijoje Liuterio sektos pasekėjai ėmė grobstyti šventovių brangenybes, brautis į vienuolynus ir savintis dvasininkų mantą bei žemes.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad neil gai trukus sektos pasekėjai, iš seno tykoję užgrobti bažnyčios turtus, įniko grobstyti šventovių brangeny bes, brautis į vienuolynus, savintis dvasininkų mantą ir žemes.'
+  santrauka: 'Livonijoje Liuterio sektos pasekėjai ėmė grobstyti šventovių brangenybes, brautis į vienuolynus ir savintis dvasininkų mantą bei žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Į Liuterio sektą perėjo Livo-
@@ -61,3 +62,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/autoriai/Liuteris]]
+- [[objektai/asmenys/Vilhelmas]]
+- [[objektai/zodynas/magistras]]

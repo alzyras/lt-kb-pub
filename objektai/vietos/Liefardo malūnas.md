@@ -18,7 +18,9 @@ Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis toki
 
 ## Teiginiai
 
+<a id="claim-t-58586"></a>
 - t-001
+  global_id: t-58586
   teiginys: 'Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis tokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum pilis.'
   pagrindžia:
     - c-001

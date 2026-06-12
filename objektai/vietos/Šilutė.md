@@ -24,17 +24,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-69891"></a>
 - t-001
+  global_id: t-69891
   teiginys: 'Sukilimo vadui Jonui BudriuiPolovinskui įteiktos špagos fragmentas Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas sausio 19 d. Šilutėje sušaukė vadinamąjį Visuotinį seimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-69892"></a>
 - t-002
+  global_id: t-69892
   teiginys: 'Sukilėlių pajėgos Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas įsikūrė Šilutėje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-69893"></a>
 - t-003
+  global_id: t-69893
   teiginys: '1923 m. sausio 9 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje paskelbė manifestą, kuriuo buvo pranešta, jog Krašto direktorija yra nušalinama, valdžią į savo rankas perima Valstybės taryba.'
   pagrindžia:
     - c-002

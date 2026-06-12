@@ -17,7 +17,6 @@ tags:
 amziai: []
 periodo_grupes: []
 ---
-
 # Elžbieta
 
 ## Santrauka
@@ -26,58 +25,80 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 
 ## Teiginiai
 
+<a id="claim-t-82291"></a>
 - t-001
+  global_id: t-82291
   teiginys: 'Dusburgietis teigia, kad apie šventos Elžbietos mirtį 1231 viešpaties metais, lapkričio 19 dieną, mirė šventa Elžbieta.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-82292"></a>
 - t-002
+  global_id: t-82292
   teiginys: 'Dusburgietis teigia, kad kelerių metų šventa Elžbieta ištekėjo už vyro 1221 viešpaties metais Elžbieta pasiėmė į vyrus Tiuringijos markgrafą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82293"></a>
 - t-003
+  global_id: t-82293
   teiginys: 'Dusburgietis teigia, kad apie šventos Elžbietos gimimą 1207 viešpaties metais gimė šventa Elžbieta.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-82294"></a>
 - t-004
+  global_id: t-82294
   teiginys: 'Elžbieta buvo Vengrijos karalienė ir Jadvygos motina.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-82295"></a>
 - t-005
+  global_id: t-82295
   teiginys: 'Karalienė Elžbieta, bijodama prarasti Lenkiją, 1384 m. pasiuntė į Krokuvą keturiolikmetę dukterį Jadvygą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82296"></a>
 - t-006
+  global_id: t-82296
   teiginys: 'Karalienė Elžbieta po Velykų su dukterimis ir sūnumi kardinolu Fridrichu atvyko į Vilnių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-82297"></a>
 - t-007
+  global_id: t-82297
   teiginys: 'Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-82298"></a>
 - t-008
+  global_id: t-82298
   teiginys: 'Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje, brolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-82299"></a>
 - t-009
+  global_id: t-82299
   teiginys: 'Aleksandro motina karalienė Elžbieta su dukterimis ir sūnumi Fridrichu po Velykų atvyko į Vilnių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184257"></a>
 - t-010
+  global_id: t-184257
   teiginys: 'Karalienė Elžbieta sutiko po 1383 m. Velykų išsiųsti Jadvygą lenkams, jei ši po karūnavimo trejiems metams grįš į Vengriją.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-184696"></a>
 - t-011
-  teiginys: 'Kojelavičius teigia, kad nutarta susigimi niuoti su Austrijos valdovų šeima ir paprašyti Augustui Romos karaliaus Ferdinando dukters Elžbietos rankos.'
+  global_id: t-184696
+  teiginys: 'Žygimantui Augustui buvo paprašyta Romos karaliaus Ferdinando dukters Elžbietos rankos.'
   pagrindžia:
     - c-010
 
@@ -239,7 +260,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     - t-010
 
 - c-010
-  santrauka: 'Kojelavičius teigia, kad nutarta susigimi niuoti su Austrijos valdovų šeima ir paprašyti Augustui Romos karaliaus Ferdinando dukters Elžbietos rankos.'
+  santrauka: 'Žygimantui Augustui buvo paprašyta Romos karaliaus Ferdinando dukters Elžbietos rankos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     1543 m e ta i
@@ -263,3 +284,34 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   statusas: verified
   pagrindžia:
     - t-011
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Karolis]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/asmenys/Vosylius]]
+- [[objektai/zodynas/vėliava]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+- [[objektai/asmenys/Fridrichas]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/grupes/Karmelio kalno atsiskyrėlių ordinas]]
+- [[objektai/asmenys/Kazimieras Jogailaitis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]
+- [[objektai/asmenys/Leopoldas (Austrijos erchercogas)]]
+- [[objektai/grupes/Mokinių slėnio brolių ordinas]]
+- [[objektai/paprociai/Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės]]
+- [[objektai/posakiai/visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas]]
+- [[objektai/daiktai/Altorius]]
+- [[objektai/zodynas/landgrafas]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
+- [[objektai/ivykiai/Šventos Elžbietos kanonizavimas (1235 m.)]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

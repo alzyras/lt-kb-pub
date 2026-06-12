@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62427"></a>
 - t-001
+  global_id: t-62427
   teiginys: 'Dusburgietis teigia, kad apie Paštuvos valsčiaus nusiaubimą 1316 viešpaties metais, žiemą, brolis Henrikas, maršalas, su daugybe raitelių netikėtai įsiveržė į Paštuvos valsčių ir jį nusiaubė, degindamas bei plėšdamas, o penkis šimtus žmonių paėmė į nelaisvę ar nukovė.'
   pagrindžia:
     - c-001

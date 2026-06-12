@@ -26,12 +26,16 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 
 ## Teiginiai
 
+<a id="claim-t-43827"></a>
 - t-001
+  global_id: t-43827
   teiginys: 'Piltene vadintos buvusios Kuršo vyskupystės žemės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-43828"></a>
 - t-002
+  global_id: t-43828
   teiginys: 'Danai tuo metu turėjo buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos vyskupystę.'
   pagrindžia:
     - c-001

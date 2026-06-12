@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31881"></a>
 - t-001
+  global_id: t-31881
   teiginys: 'P. Šležo „Kauno pilies išgriovimas“ paskelbtas „Židinyje“ 1932 m. Nr. 10, p. 271 ir toliau.'
   pagrindžia:
     - c-001

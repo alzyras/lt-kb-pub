@@ -19,7 +19,9 @@ Radvilos fundacija), Pašiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-
 
 ## Teiginiai
 
+<a id="claim-t-02667"></a>
 - t-001
+  global_id: t-02667
   teiginys: 'Pašiaušėje veikusi jėzuitų kolegija atsirado bajoro Beinarto fundacijos pagrindu.'
   pagrindžia:
     - c-001

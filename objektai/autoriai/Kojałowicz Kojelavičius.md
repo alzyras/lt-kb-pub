@@ -16,7 +16,9 @@ f Kojelavičius Pagraudenę vadina apylinkę Žemaitijoje: pograudienb C S 7/7 S
 
 ## Teiginiai
 
+<a id="claim-t-87997"></a>
 - t-001
+  global_id: t-87997
   teiginys: 'Kojelavičius Pagraudenę vadino Žemaitijos apylinke.'
   pagrindžia:
     - c-001

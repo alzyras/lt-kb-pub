@@ -24,12 +24,16 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
 
 ## Teiginiai
 
+<a id="claim-t-58538"></a>
 - t-001
+  global_id: t-58538
   teiginys: 'Diunamiundės XIII a. Ordino statytas įtvirtintas vienuolynas XIV a. pradžioje buvo perstatytas į pilį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58539"></a>
 - t-002
+  global_id: t-58539
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 viešpaties metais, kitą dieną po švento Jokūbo, apaštalo (liepos 26), Livonijos teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį599.'
   pagrindžia:
     - c-001

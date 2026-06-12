@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-91906"></a>
 - t-001
+  global_id: t-91906
   teiginys: 'Dusburgietis teigia, kad apie krikščionių pergalingą mūšį, kuriame krito penki tūkstančiai prūsų Šitai padarę, magistras brolis Hermanas ir kiti broliai suburė žiemą231, kai stipriausias šaltis buvo viską sukaustęs, minėtuosius maldininkus, karštai trokštančius sutramdyti prūsų.'
   pagrindžia:
     - c-001

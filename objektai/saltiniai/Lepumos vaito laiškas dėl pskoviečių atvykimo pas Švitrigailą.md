@@ -17,7 +17,9 @@ Slaptajame archyve yra Lepumos vaito laiškas, datuotas Šv.
 
 ## Teiginiai
 
+<a id="claim-t-88443"></a>
 - t-001
+  global_id: t-88443
   teiginys: 'Slaptajame archyve yra Lepumos vaito laiškas, datuotas Šv.'
   pagrindžia:
     - c-001

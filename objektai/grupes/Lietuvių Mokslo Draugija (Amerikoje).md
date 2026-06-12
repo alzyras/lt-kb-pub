@@ -17,7 +17,9 @@ Tada Šliūpo rūpesčiu buvo įsteigta Lietuvių Mokslo Draugystė, kuri leido 
 
 ## Teiginiai
 
+<a id="claim-t-74051"></a>
 - t-001
+  global_id: t-74051
   teiginys: 'Šliūpo rūpesčiu įsteigta Lietuvių Mokslo Draugystė leido mėnesinį literatūros ir mokslo žurnalą „Apšvietą“ ir kelias knygas.'
   pagrindžia:
     - c-001

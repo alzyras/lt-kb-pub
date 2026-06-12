@@ -26,7 +26,9 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
 
 ## Teiginiai
 
+<a id="claim-t-86201"></a>
 - t-001
+  global_id: t-86201
   teiginys: 'Andrius, Dmitrijaus Doniškio bendražygis, 1380 m. rugsėjo 8 d. Kulikovo lauke daug prisidėjo prie pergalės prieš totorius.'
   pagrindžia:
     - c-001

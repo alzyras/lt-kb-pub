@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-34496"></a>
 - t-001
+  global_id: t-34496
   teiginys: 'Tuoj po Vorsklos smūgio sukilo Smolenskas.'
   pagrindžia:
     - c-001

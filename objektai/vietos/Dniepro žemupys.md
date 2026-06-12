@@ -17,7 +17,9 @@ iš Dniepro žemupio išjudėjo slavai, siekdami įsikurti pratuštėjusiuose ge
 
 ## Teiginiai
 
+<a id="claim-t-32133"></a>
 - t-001
+  global_id: t-32133
   teiginys: 'Apie VI a. po Kr. iš Dniepro žemupio pajudėję slavai užėmė ir pamažu asimiliavo dalį rytinių baltų žemių.'
   pagrindžia:
     - c-001

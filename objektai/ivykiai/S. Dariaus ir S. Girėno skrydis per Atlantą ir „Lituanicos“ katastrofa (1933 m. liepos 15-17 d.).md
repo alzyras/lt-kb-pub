@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66865"></a>
 - t-001
+  global_id: t-66865
   teiginys: '1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu „Pienocentro“ pastatas Kaune (apie 1938).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66866"></a>
 - t-002
+  global_id: t-66866
   teiginys: 'Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei ir šis priesakas tapo tūkstančių jaunuolių ir merginų siekiu.'
   pagrindžia:
     - c-002

@@ -25,7 +25,9 @@ Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civili
 
 ## Teiginiai
 
+<a id="claim-t-77790"></a>
 - t-001
+  global_id: t-77790
   teiginys: 'Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civilinę metrikaciją (didelis finansinis smūgis katalikų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų dvasininkams), ėmė mažinti karininkų skaičių.'
   pagrindžia:
     - c-001

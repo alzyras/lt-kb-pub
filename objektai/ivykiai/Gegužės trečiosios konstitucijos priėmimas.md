@@ -43,32 +43,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75098"></a>
 - t-001
+  global_id: t-75098
   teiginys: 'Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75099"></a>
 - t-002
+  global_id: t-75099
   teiginys: 'Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75100"></a>
 - t-003
+  global_id: t-75100
   teiginys: 'Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75101"></a>
 - t-004
+  global_id: t-75101
   teiginys: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75102"></a>
 - t-005
+  global_id: t-75102
   teiginys: 'Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstatymas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75103"></a>
 - t-006
+  global_id: t-75103
   teiginys: 'Konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja.'
   pagrindžia:
     - c-002

@@ -17,7 +17,9 @@ Kryžiuočiai, pamanę, jog mūšis laimėtas, užtraukė pergalės giesmę „K
 
 ## Teiginiai
 
+<a id="claim-t-41482"></a>
 - t-001
+  global_id: t-41482
   teiginys: 'Kryžiuočiai, pamanę, jog mūšis laimėtas, užtraukė pergalės giesmę „Kristus prisikėlė“.'
   pagrindžia:
     - c-001

@@ -19,12 +19,16 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
 
 ## Teiginiai
 
+<a id="claim-t-58576"></a>
 - t-001
+  global_id: t-58576
   teiginys: 'Kriukuose Ordino broliai atsitraukė į kaimą, kai po žygio Notangoje rado priešų užstotus kelius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58577"></a>
 - t-002
+  global_id: t-58577
   teiginys: 'Kriukai buvo kaimas per 6 kilometrus į pietus nuo Kroicburgo, netoli ežerėlio tarp Kaustros ir Pasmaros upių.'
   pagrindžia:
     - c-001

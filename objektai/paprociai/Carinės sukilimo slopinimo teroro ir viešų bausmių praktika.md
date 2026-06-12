@@ -45,38 +45,52 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75351"></a>
 - t-001
+  global_id: t-75351
   teiginys: 'Gegužės pradžioje prie Biržų Zigmanto Sierakausko sukilėlių kariuomenė buvo sumušta, o sužeistas vadas pateko į nelaisvę ir buvo viešai pakartas Vilniuje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75352"></a>
 - t-002
+  global_id: t-75352
   teiginys: 'Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno gubernijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo galimybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75353"></a>
 - t-003
+  global_id: t-75353
   teiginys: 'Anglijai ir Prancūzijai apsiribojus diplomatinėmis notomis, Rusijos vyriausybė ryžtingai slopino sukilimą.'
   pagrindžia:
     - c-002
     - c-003
 
+<a id="claim-t-75354"></a>
 - t-004
+  global_id: t-75354
   teiginys: 'Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75355"></a>
 - t-005
+  global_id: t-75355
   teiginys: '1863 m. pabaigoje į sukilimo slopintojų rankas pakliuvo Antanas Mackevičius ir Konstantinas Kalinauskas, abu netrukus buvo viešai pakarti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75356"></a>
 - t-006
+  global_id: t-75356
   teiginys: '1863 m. pabaigoje A. Mackevičius ir K. Kalinauskas pateko sukilimo slopintojams į rankas ir netrukus buvo viešai pakarti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183305"></a>
 - t-007
+  global_id: t-183305
   teiginys: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
   pagrindžia:
     - c-004

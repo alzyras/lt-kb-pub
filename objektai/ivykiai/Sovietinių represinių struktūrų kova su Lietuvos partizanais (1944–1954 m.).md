@@ -41,17 +41,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75278"></a>
 - t-001
+  global_id: t-75278
   teiginys: 'Represinės institucijos trėmė partizanų šeimas ir rėmėjus, kankino pasipriešinimo dalyvius bei viešai niekino žuvusių partizanų kūnus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75279"></a>
 - t-002
+  global_id: t-75279
   teiginys: 'Dislokuoti visuose valsčiuose jie saugojo sovietinį aktyvą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183275"></a>
 - t-003
+  global_id: t-183275
   teiginys: 'Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė: 1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst.'
   pagrindžia:
     - c-003

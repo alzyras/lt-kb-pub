@@ -41,17 +41,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75201"></a>
 - t-001
+  global_id: t-75201
   teiginys: 'Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos pirmasis valdovas buvo Mindaugas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75202"></a>
 - t-002
+  global_id: t-75202
   teiginys: 'Lietuvių plėšiamieji žygiai rodė jų stiprėjančią galią ir padėjo pagrindus greitai atsirasiančiai Lietuvos valstybei.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75203"></a>
 - t-003
+  global_id: t-75203
   teiginys: 'Paprastai manoma, kad iš šių proistorinių gelmių ateina tokios kultūrinės vertybės kaip lietuvių kalba, tautosaka ir folkloras, taip pat lietuvių pagoniškoji religija, nors šios išsikristalizavimas šiandien dažniausiai priskiriamas jau valstybės kūrimosi.'
   pagrindžia:
     - c-001

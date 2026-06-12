@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66922"></a>
 - t-001
+  global_id: t-66922
   teiginys: 'Dusburgietis teigia, kad jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per Vyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o visa kita pavertė pelenais bei degėsiais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66923"></a>
 - t-002
+  global_id: t-66923
   teiginys: 'Dusburgietis teigia, kad ir viešpaties dvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su priešais, bet, pasikliaudami viešpačiu, jie narsiai bei ryžtingai užpuolė priešus, esančius prie Kulmo miesto, ir užvirė smarkios kautynės.'
   pagrindžia:
     - c-002

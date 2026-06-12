@@ -18,12 +18,16 @@ Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai 
 
 ## Teiginiai
 
+<a id="claim-t-59169"></a>
 - t-001
+  global_id: t-59169
   teiginys: 'Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai pradėjo įtikinėti krikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59170"></a>
 - t-002
+  global_id: t-59170
   teiginys: 'Pagudėnai grasino krikščionims, kad šie bus išžudyti ir sunaikinti, jei neatiduos pilies ir nepasiduos.'
   pagrindžia:
     - c-001

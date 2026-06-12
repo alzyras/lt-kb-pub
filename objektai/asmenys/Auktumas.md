@@ -19,7 +19,9 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 
 ## Teiginiai
 
+<a id="claim-t-60242"></a>
 - t-001
+  global_id: t-60242
   teiginys: 'Prūsams atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.'
   pagrindžia:
     - c-001

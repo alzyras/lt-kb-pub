@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-77855"></a>
 - t-001
+  global_id: t-77855
   teiginys: 'Žinoma, kad lietuviai tapo „revizionistais per prievartą“.'
   pagrindžia:
     - c-001

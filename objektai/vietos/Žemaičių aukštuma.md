@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-32740"></a>
 - t-001
+  global_id: t-32740
   teiginys: 'Žemaičių aukštumoje išaugo ištisos ginamųjų pilių grandinės.'
   pagrindžia:
     - c-001

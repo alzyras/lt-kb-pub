@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62819"></a>
 - t-001
+  global_id: t-62819
   teiginys: 'Dusburgietis teigia, kad apie Karaliaučiaus, arba Tvankstės, pilies pastatymą Valdovui Čekijos karaliui išvykus, magistras ir broliai netruko paruošti visa, kas reikalinga pilių statybai, ir, pasitelkę jiems ištikimus prūsus, atžygiavo su didele kariuomene 1255 viešpaties metais ir.'
   pagrindžia:
     - c-002

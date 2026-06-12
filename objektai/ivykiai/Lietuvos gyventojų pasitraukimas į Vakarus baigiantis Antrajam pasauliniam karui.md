@@ -39,17 +39,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-45355"></a>
 - t-001
+  global_id: t-45355
   teiginys: 'Lietuvos diplomatinė tarnyba ir išeivija Baigiantis Antrajam pasauliniam karui, bijodami artėjančios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45356"></a>
 - t-002
+  global_id: t-45356
   teiginys: 'Pabėgėlių gretas papildė nacių okupacijos metais prievarta į Vokietiją dirbti išvežti lietuviai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183241"></a>
 - t-004
+  global_id: t-183241
   teiginys: 'Tarp lietuvių dipukų buvo 400 Kauno ir Vilniaus universiteto dėstytojų, pusė rašytojų sąjungos narių, tūkstančiai mokytojų, inžinierių.'
   pagrindžia:
     - c-002

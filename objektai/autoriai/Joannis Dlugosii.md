@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-80751"></a>
 - t-001
+  global_id: t-80751
   teiginys: '57 „LIETUVOS KARIUOMENĖ ŠNIPO AKIMIS“, Joannis Dlugosii Opera omnia, cura Alexandri Przedziecki edita, t.'
   pagrindžia:
     - c-001

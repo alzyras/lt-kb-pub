@@ -17,7 +17,9 @@ Kaip kiekviena sutartis taip ir ši pasiliko sutartimi: galingi gyvenimo faktai 
 
 ## Teiginiai
 
+<a id="claim-t-36000"></a>
 - t-001
+  global_id: t-36000
   teiginys: 'Sutartis gali likti be vertės, kai galingi gyvenimo faktai ją pralenkia arba paverčia tylinčiu popieriumi.'
   pagrindžia:
     - c-001

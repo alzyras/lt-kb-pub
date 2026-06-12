@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-21036"></a>
 - t-001
+  global_id: t-21036
   teiginys: 'Lietuva ir ES priėmė deklaraciją dėl politinio dialogo tarp ES ir Lietuvos.'
   pagrindžia:
     - c-001

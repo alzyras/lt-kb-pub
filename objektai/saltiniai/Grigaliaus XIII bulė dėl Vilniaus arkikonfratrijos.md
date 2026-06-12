@@ -27,7 +27,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88423"></a>
 - t-001
+  global_id: t-88423
   teiginys: '1573 m. vasario 3 d., valdant Žygimantui Augustui, buvo funduota Vilniaus arkikonfratrija.'
   pagrindžia:
     - c-001

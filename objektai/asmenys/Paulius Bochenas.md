@@ -27,7 +27,9 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
 
 ## Teiginiai
 
+<a id="claim-t-87817"></a>
 - t-001
+  global_id: t-87817
   teiginys: '1677 m. Paulius Bochenas pardavė mūrinį namą Bernardinų gatvėje Eustachijui Kotovičiui už 750 auksinų.'
   pagrindžia:
     - c-001

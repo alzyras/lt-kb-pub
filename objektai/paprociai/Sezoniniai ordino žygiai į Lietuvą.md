@@ -44,22 +44,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-05363"></a>
 - t-001
+  global_id: t-05363
   teiginys: 'Po 1345 metų kryžiuočiai prieš Lietuvą išplėtojo reguliarią reysų sistemą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05364"></a>
 - t-002
+  global_id: t-05364
   teiginys: '1345–1382 metais ordino kronikose suregistruota 66 Prūsų kryžiuočių ir 30 Livonijos žygių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-97139"></a>
 - t-003
-  teiginys: 'Ordinas gebėjo kasmet suruošti į Lietuvą ne mažiau, kaip du žygius: vienas paprastai būdavo sausio ar vasario mėnesį, o antras — vasaros gale, dažniausiai rugpiūčio mėnesį.'
+  global_id: t-97139
+  teiginys: 'Ordinas kasmet rengdavo į Lietuvą bent du žygius: vieną sausį ar vasarį, kitą vasaros pabaigoje, dažniausiai rugpjūtį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-97140"></a>
 - t-004
+  global_id: t-97140
   teiginys: 'Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių ir 30—iš Livonijos.'
   pagrindžia:
     - c-003
@@ -109,6 +117,7 @@ Nenurodyta
     - t-004
 
 - c-004
+  santrauka: 'Ordinas kasmet rengdavo į Lietuvą bent du žygius: vieną sausį ar vasarį, kitą vasaros pabaigoje, dažniausiai rugpjūtį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ordinas gebėjo kasmet suruošti į Lietuvą ne mažiau, kaip du žy-

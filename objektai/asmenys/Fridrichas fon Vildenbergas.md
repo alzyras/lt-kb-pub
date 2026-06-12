@@ -28,12 +28,16 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
 
 ## Teiginiai
 
+<a id="claim-t-87501"></a>
 - t-001
+  global_id: t-87501
   teiginys: 'Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš Švabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir daug kitų riterių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87502"></a>
 - t-002
+  global_id: t-87502
   teiginys: '1324 m. Mevėje magistras Fridrichas fon Vildenbergas liepė parengti mažesniųjų brolių laiško nuorašą.'
   pagrindžia:
     - c-001

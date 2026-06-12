@@ -26,7 +26,9 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 
 ## Teiginiai
 
+<a id="claim-t-100112"></a>
 - t-001
+  global_id: t-100112
   teiginys: 'Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 1401 šis Kęstučio anūkas tapo antruoju Krokuvos universiteto rektoriumi (Fijałek).'
   pagrindžia:
     - c-001

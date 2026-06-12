@@ -22,7 +22,9 @@ Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai, kad jis 124
 
 ## Teiginiai
 
+<a id="claim-t-32045"></a>
 - t-001
+  global_id: t-32045
   teiginys: 'Mindaugas 1244 m. žygyje į Kuršą prie Ambotės buvo atvedęs didelę kariuomenę.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Šešerių metų paliaubų sutartis tarp Lietuvos ir Maskvos
 
 ## Santrauka
 
-Kojelavičius teigia, kad išvykstantiems pasiuntiniams buvo nurodyta, kad amžina taika galinti būti sudaryta, jei gu Maskvos valdovas priimsiąs šias svarbiausias są- 5 73 lygas: atstatyti pilis, sugrąSudaro šešerių m e tų žinti belaisvius bei perbėgėpa lia u b a s liūs ir įtraukti į.
+Lietuva ir Maskva vargais negalais sutarė dėl šešerių metų paliaubų, kurios Lietuvai buvo sudarytos prastomis sąlygomis.
 
 ## Teiginiai
 
+<a id="claim-t-186348"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad išvykstantiems pasiuntiniams buvo nurodyta, kad amžina taika galinti būti sudaryta, jei gu Maskvos valdovas priimsiąs šias svarbiausias są- 5 73 lygas: atstatyti pilis, sugrąSudaro šešerių m e tų žinti belaisvius bei perbėgėpa lia u b a s liūs ir įtraukti į.'
+  global_id: t-186348
+  teiginys: 'Lietuva ir Maskva vargais negalais sutarė dėl šešerių metų paliaubų, kurios Lietuvai buvo sudarytos prastomis sąlygomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad išvykstantiems pasiuntiniams buvo nurodyta, kad amžina taika galinti būti sudaryta, jei gu Maskvos valdovas priimsiąs šias svarbiausias są- 5 73 lygas: atstatyti pilis, sugrąSudaro šešerių m e tų žinti belaisvius bei perbėgėpa lia u b a s liūs ir įtraukti į.'
+  santrauka: 'Lietuva ir Maskva vargais negalais sutarė dėl šešerių metų paliaubų, kurios Lietuvai buvo sudarytos prastomis sąlygomis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Išvykstantiems pasiuntiniams buvo

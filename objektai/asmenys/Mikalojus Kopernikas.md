@@ -19,7 +19,9 @@ Be to, rengė astronomo Mikalojaus Ko­ perniko raštus, dalyvavo leidžiant sen
 
 ## Teiginiai
 
+<a id="claim-t-87785"></a>
 - t-001
+  global_id: t-87785
   teiginys: 'Mikalojus Kopernikas buvo astronomas, kurio raštus rengė M. Balinskis.'
   pagrindžia:
     - c-001

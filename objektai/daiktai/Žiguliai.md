@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39311"></a>
 - t-001
+  global_id: t-39311
   teiginys: 'Žmogus su automobiliu „Žiguliais“ pavežė ginkluotus pasakotojo bendražygius į Žvėryno pusę.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Dusburgietis teigia, kad švabija, švabai Švandenas Švarcburgas Švedija Šve
 
 ## Teiginiai
 
+<a id="claim-t-59046"></a>
 - t-001
+  global_id: t-59046
   teiginys: 'Dusburgietis teigia, kad švabija, švabai Švandenas Švarcburgas Švedija Šventainė, u.'
   pagrindžia:
     - c-001

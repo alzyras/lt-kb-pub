@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08285"></a>
 - t-001
+  global_id: t-08285
   teiginys: 'Giliojoje senovėje pėsčiųjų ginklas buvo brūklys.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08286"></a>
 - t-002
+  global_id: t-08286
   teiginys: 'Brūklių drūktieji galai vėliau buvo pripilami švino, o trumpesni jų variantai vadinti strypais.'
   pagrindžia:
     - c-002

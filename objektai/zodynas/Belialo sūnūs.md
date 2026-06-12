@@ -18,7 +18,9 @@ Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių
 
 ## Teiginiai
 
+<a id="claim-t-58896"></a>
 - t-001
+  global_id: t-58896
   teiginys: 'Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos tu globoji.'
   pagrindžia:
     - c-001

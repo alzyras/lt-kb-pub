@@ -19,7 +19,9 @@ Demokratija Lietuvoje, pasak A.
 
 ## Teiginiai
 
+<a id="claim-t-20839"></a>
 - t-001
+  global_id: t-20839
   teiginys: 'A. Smetona Lietuvos demokratiją lygino su vaikams nupirktais per dideliais batais.'
   pagrindžia:
     - c-001

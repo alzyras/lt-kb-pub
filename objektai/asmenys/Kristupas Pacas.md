@@ -18,17 +18,23 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 
 ## Teiginiai
 
+<a id="claim-t-79090"></a>
 - t-001
+  global_id: t-79090
   teiginys: 'Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gražųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas Mykolas pastatė taip pat gražiausią Vilniuje barokinę šv.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-79091"></a>
 - t-002
+  global_id: t-79091
   teiginys: 'Vienas iš jų, Mykolas, buvo hetmonas ir Vilniaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, — Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas, o penktas, Petras, — Žemaičių seniūnas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79092"></a>
 - t-003
+  global_id: t-79092
   teiginys: 'Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklaravusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai, vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos, Kristupo ir Mykolo.'
   pagrindžia:
     - c-002

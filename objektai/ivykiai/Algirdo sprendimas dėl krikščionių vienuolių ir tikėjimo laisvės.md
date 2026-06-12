@@ -34,17 +34,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-55117"></a>
 - t-001
+  global_id: t-55117
   teiginys: 'Algirdas viešai nubaudė pranciškonų nužudymo vadeivas ir liepė paskelbti krikščionių vienuolių gyvenimo bei tikėjimo laisvę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55118"></a>
 - t-002
+  global_id: t-55118
   teiginys: 'Po Algirdo sprendimo Goštautas vėl atsikvietė vienuolių iš Lenkijos ir pastatydino mūrinę bažnyčią bei vienuolyną Smėlynėje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81825"></a>
 - t-003
+  global_id: t-81825
   teiginys: 'Algirdas viešai nubaudė žiauraus poelgio vadus ir paskelbė valią nevaržomai gyventi krikščionių vienuoliams bei laisvai išpažinti tikėjimą.'
   pagrindžia:
     - c-001

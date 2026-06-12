@@ -37,17 +37,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-09538"></a>
 - t-001
+  global_id: t-09538
   teiginys: 'Didesnė ginkluotės dalis galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-09539"></a>
 - t-002
+  global_id: t-09539
   teiginys: 'Po operacijų išduota ginkluotė turėjo būti grąžinama.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-09540"></a>
 - t-003
+  global_id: t-09540
   teiginys: 'Panaši valstybinės ginkluotės saugojimo, išdavimo ir grąžinimo praktika buvo taikoma Kryžiuočių ordine.'
   pagrindžia:
     - c-001

@@ -16,17 +16,23 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
 
 ## Teiginiai
 
+<a id="claim-t-66324"></a>
 - t-001
+  global_id: t-66324
   teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., suėmė daug pogrindinės spaudos leidėjų ir.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66325"></a>
 - t-002
+  global_id: t-66325
   teiginys: '1943–1944 m. pogrindyje veikė Vyriausiasis Lietuvos išlaisvinimo komitetas (VLIK’as), suvienijęs skirtingas lietuvių politines jėgas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66326"></a>
 - t-003
+  global_id: t-66326
   teiginys: 'JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios organizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasaulio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vyriausiasis Lietuvos išlaisvinimo komitetas.'
   pagrindžia:
     - c-002

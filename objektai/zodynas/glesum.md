@@ -16,7 +16,9 @@ Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbin�
 
 ## Teiginiai
 
+<a id="claim-t-28586"></a>
 - t-001
+  global_id: t-28586
   teiginys: 'Tacitas rašė, kad Aestii Baltijos jūros pakraščiuose ir krante rinko gintarą, kurį vadino glesum.'
   pagrindžia:
     - c-001

@@ -25,18 +25,17 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 
 ## Teiginiai
 
+<a id="claim-t-72534"></a>
 - t-001
-  teiginys: 'Pagaliau penktoje dalyje signatarai apsiima pripažinti po ratifikacijos teisėtais Lietuvos vyriausybės aktus, kuriais ji palaikė tvarką šalyje.'
-  pagrindžia:
-    - c-001
-
-- t-002
+  global_id: t-72534
   teiginys: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
   pagrindžia:
     - c-001
 
-- t-003
-  teiginys: 'Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d. 4.'
+<a id="claim-t-72535"></a>
+- t-002
+  global_id: t-72535
+  teiginys: 'Lietuvos seimas konvenciją ratifikavo tų pačių metų liepos 30 d.'
   pagrindžia:
     - c-001
 
@@ -56,7 +55,6 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
     - t-002
     - t-001
 

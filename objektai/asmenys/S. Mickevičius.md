@@ -16,7 +16,9 @@ Mickevičius.
 
 ## Teiginiai
 
+<a id="claim-t-40410"></a>
 - t-001
+  global_id: t-40410
   teiginys: 'S. Mickevičius buvo bolševikų 7-ojo „lietuviškojo“ pulko komisaras.'
   pagrindžia:
     - c-001

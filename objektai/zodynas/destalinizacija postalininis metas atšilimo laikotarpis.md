@@ -24,17 +24,23 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
 
 ## Teiginiai
 
+<a id="claim-t-22113"></a>
 - t-001
+  global_id: t-22113
   teiginys: 'Po J. Stalino mirties, atšilimo laikotarpiu, kultūriniame gyvenime imta nuolaidžiau vertinti tautinį kultūrinį palikimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-22114"></a>
 - t-002
+  global_id: t-22114
   teiginys: 'Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-22115"></a>
 - t-003
+  global_id: t-22115
   teiginys: 'Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiškai pažeidinėjamos žmogaus teisės ir laisvės, tačiau toliau vykdytas gyventojų priverstinis ideologinis apdorojimas, taikomi administraciniai metodai.'
   pagrindžia:
     - c-001

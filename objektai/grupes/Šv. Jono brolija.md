@@ -28,12 +28,16 @@ Vilniaus religinė miesto brolija.
 
 ## Teiginiai
 
+<a id="claim-t-54835"></a>
 - t-001
+  global_id: t-54835
   teiginys: 'Šv. Jono brolijai priklausę gyventojai turėjo rūpintis bažnyčios reikmėmis, pastatais ir papuošimu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54836"></a>
 - t-002
+  global_id: t-54836
   teiginys: 'Dalis Šv. Jono bažnyčios pajamų priklausė Šv. Jono brolijai priklausiusiems Vilniaus gyventojams.'
   pagrindžia:
     - c-001

@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59629"></a>
 - t-001
+  global_id: t-59629
   teiginys: 'Dusburgietis teigia, kad čia Dusburgietis pateikia oficialią Ordino pradžios tradiciją (pagal Statutų prologą).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59630"></a>
 - t-002
+  global_id: t-59630
   teiginys: 'Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai iŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį, Vokietijos.'
   pagrindžia:
     - c-002

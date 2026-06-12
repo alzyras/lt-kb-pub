@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Smolensko atėmimas iš Jurijaus ir valdžios perdavimas Glėbui
 
 ## Santrauka
 
-Kojelavičius teigia, kad kaip įprasta tiems, kurių visas karingumas tik ant liežuvio, Jurijus, suvokęs, jog netrukus prasidės grumtynės, o jam neužtenka nei jėgų, nei narsos, nedrįso nei atvirai į kovos lauką traukti, nei už Smolensko pylimų gintis, todėl, nieko nelaukęs, pabėgo su.
+Jurijus pabėgo iš Smolensko pas uošvį, o jo palikti smolenskiečiai atidavė pilį ir žemę Vytautui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185828"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kaip įprasta tiems, kurių visas karingumas tik ant liežuvio, Jurijus, suvokęs, jog netrukus prasidės grumtynės, o jam neužtenka nei jėgų, nei narsos, nedrįso nei atvirai į kovos lauką traukti, nei už Smolensko pylimų gintis, todėl, nieko nelaukęs, pabėgo su.'
+  global_id: t-185828
+  teiginys: 'Jurijus pabėgo iš Smolensko pas uošvį, o jo palikti smolenskiečiai atidavė pilį ir žemę Vytautui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kaip įprasta tiems, kurių visas karingumas tik ant liežuvio, Jurijus, suvokęs, jog netrukus prasidės grumtynės, o jam neužtenka nei jėgų, nei narsos, nedrįso nei atvirai į kovos lauką traukti, nei už Smolensko pylimų gintis, todėl, nieko nelaukęs, pabėgo su.'
+  santrauka: 'Jurijus pabėgo iš Smolensko pas uošvį, o jo palikti smolenskiečiai atidavė pilį ir žemę Vytautui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kaip
@@ -67,3 +68,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jurijus]]
+- [[objektai/grupes/Smolenskiečiai]]

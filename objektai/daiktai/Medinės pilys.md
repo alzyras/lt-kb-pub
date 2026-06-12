@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19569"></a>
 - t-001
+  global_id: t-19569
   teiginys: 'Merkinės piliakalnis – vienas gražiausių Lietuvos piliakalnių, ant kurių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai XIII–XIV a.'
   pagrindžia:
     - c-001

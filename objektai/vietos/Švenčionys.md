@@ -25,7 +25,9 @@ Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines ž
 
 ## Teiginiai
 
+<a id="claim-t-183644"></a>
 - t-001
+  global_id: t-183644
   teiginys: 'Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).'
   pagrindžia:
     - c-001

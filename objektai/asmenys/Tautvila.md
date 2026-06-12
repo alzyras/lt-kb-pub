@@ -19,7 +19,9 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
 
 ## Teiginiai
 
+<a id="claim-t-87601"></a>
 - t-001
+  global_id: t-87601
   teiginys: 'Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.'
   pagrindžia:
     - c-001

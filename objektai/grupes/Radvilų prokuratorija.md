@@ -24,7 +24,9 @@ Su skausmu ir pa­ sibaisėjimu tenka pripažinti, kad 1828 metais tuometinė Ra
 
 ## Teiginiai
 
+<a id="claim-t-86818"></a>
 - t-001
+  global_id: t-86818
   teiginys: '1828 m. Radvilų prokuratorija pardavė Barboros rūmų griuvėsius už 500 sidabrinių rublių plytoms.'
   pagrindžia:
     - c-001

@@ -3,7 +3,6 @@ tipas: vieta
 pavadinimas: 'Tula'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
@@ -25,19 +24,17 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-69431"></a>
 - t-001
-  teiginys: 'Žygio metu buvo pasiekta Tula.'
+  global_id: t-69431
+  teiginys: 'Vytauto žygio metu buvo pasiekta Tula, Kaluga ir Riazanė.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto žygio metu buvo pasiekta Tula, Kaluga ir Riazanė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytautas
@@ -55,7 +52,7 @@ amziai:
     - t-001
 
 - c-002
-  santrauka: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
+  santrauka: 'Vytauto žygio metu buvo pasiekta Tula, Kaluga ir Riazanė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, jis pats pasidarė

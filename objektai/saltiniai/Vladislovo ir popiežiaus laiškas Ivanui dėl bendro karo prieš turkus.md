@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vladislovo ir popiežiaus laiškas Ivanui dėl bendro karo prieš turkus
 
 ## Santrauka
 
-Kojelavičius teigia, kad štai todėl, kardinolo patariamas, Veng rijos karalius Vladislovas pasiuntė Zigmantą Santajį pas Ivaną su savo bei popiežiaus laišku, kuriame jie išsamiai paaiškino, koks pavojus gresia krikš čionių šalims iš turkų, jau užėmusių Graikiją bei Tra kiją ir.
+Vladislovas pasiuntė Zigmantą Santajį pas Ivaną su savo ir popiežiaus laišku dėl bendro krikščionių karo prieš turkus.
 
 ## Teiginiai
 
+<a id="claim-t-186346"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad štai todėl, kardinolo patariamas, Veng rijos karalius Vladislovas pasiuntė Zigmantą Santajį pas Ivaną su savo bei popiežiaus laišku, kuriame jie išsamiai paaiškino, koks pavojus gresia krikš čionių šalims iš turkų, jau užėmusių Graikiją bei Tra kiją ir.'
+  global_id: t-186346
+  teiginys: 'Vladislovas pasiuntė Zigmantą Santajį pas Ivaną su savo ir popiežiaus laišku dėl bendro krikščionių karo prieš turkus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad štai todėl, kardinolo patariamas, Veng rijos karalius Vladislovas pasiuntė Zigmantą Santajį pas Ivaną su savo bei popiežiaus laišku, kuriame jie išsamiai paaiškino, koks pavojus gresia krikš čionių šalims iš turkų, jau užėmusių Graikiją bei Tra kiją ir.'
+  santrauka: 'Vladislovas pasiuntė Zigmantą Santajį pas Ivaną su savo ir popiežiaus laišku dėl bendro krikščionių karo prieš turkus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šiam sumanymui įgyvendinti, po­

@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Otokaro ir Teodoriko sandora bei Otokaro nužudymas Ravenoje (493 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad sąlygos buvo priimtos, tačiau neilgai tvėrė taika ir valdymo sandora: jie bu vo ne tiek bendrininkai, kiek varžovai.
+Teodorikas pasikvietė Otokarą į puotą Ravenoje, pasiuntė žudikus ir atėmė iš jo gyvybę bei sostą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185758"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad sąlygos buvo priimtos, tačiau neilgai tvėrė taika ir valdymo sandora: jie bu vo ne tiek bendrininkai, kiek varžovai.'
+  global_id: t-185758
+  teiginys: 'Teodorikas pasikvietė Otokarą į puotą Ravenoje, pasiuntė žudikus ir atėmė iš jo gyvybę bei sostą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad sąlygos buvo priimtos, tačiau neilgai tvėrė taika ir valdymo sandora: jie bu vo ne tiek bendrininkai, kiek varžovai.'
+  santrauka: 'Teodorikas pasikvietė Otokarą į puotą Ravenoje, pasiuntė žudikus ir atėmė iš jo gyvybę bei sostą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sąlygos buvo priimtos,
@@ -59,3 +60,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Herulai]]

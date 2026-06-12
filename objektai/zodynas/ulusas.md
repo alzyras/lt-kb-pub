@@ -18,7 +18,9 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
 
 ## Teiginiai
 
+<a id="claim-t-86621"></a>
 - t-001
+  global_id: t-86621
   teiginys: 'Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisvę ir suteikė žemės valdų bei laisvių.'
   pagrindžia:
     - c-001

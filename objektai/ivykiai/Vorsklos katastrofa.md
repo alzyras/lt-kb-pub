@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35904"></a>
 - t-001
+  global_id: t-35904
   teiginys: 'Vorsklos katastrofoje žuvo Vytauto kariuomenė, o jo valstybę užplūdę totoriai pasiekė net Kijevą.'
   pagrindžia:
     - c-001

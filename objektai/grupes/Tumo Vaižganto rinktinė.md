@@ -24,7 +24,9 @@ Margio rinktinės žvalgybos sk. Likę Šarūno ir Kunigaikščio Margio rinktin
 
 ## Teiginiai
 
+<a id="claim-t-41183"></a>
 - t-001
+  global_id: t-41183
   teiginys: 'Likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai sujungti į vieną - Tumo Vaižganto rinktinę ir įtraukti į Vytauto, o Žaliosios rinktinės kovotojai - į Vyčio apygardas.'
   pagrindžia:
     - c-001

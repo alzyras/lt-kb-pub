@@ -19,7 +19,9 @@ Kočubinskij), jog prieš­ istoriniais laikais baltai yra gyvenę žymiai tolia
 
 ## Teiginiai
 
+<a id="claim-t-30512"></a>
 - t-001
+  global_id: t-30512
   teiginys: 'A. Kočubinskij prieš Pirmąjį pasaulinį karą teigė, kad priešistoriniais laikais baltai gyveno gerokai toliau į rytus.'
   pagrindžia:
     - c-001

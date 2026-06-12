@@ -17,7 +17,9 @@ LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo dip
 
 ## Teiginiai
 
+<a id="claim-t-19246"></a>
 - t-001
+  global_id: t-19246
   teiginys: 'Stasys Antanas Bačkis 1983–1991 m. ėjo Lietuvos diplomatinės tarnybos diplomatijos šefo pareigas.'
   pagrindžia:
     - c-001

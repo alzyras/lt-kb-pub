@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-40824"></a>
 - t-001
+  global_id: t-40824
   teiginys: '201-asis pėstininkų pulkas kovose prieš lietuvius šiame ruože patyrė nuostolių.'
   pagrindžia:
     - c-001

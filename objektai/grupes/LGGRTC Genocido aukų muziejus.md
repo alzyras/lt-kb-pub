@@ -27,7 +27,9 @@ Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono valstybin
 
 ## Teiginiai
 
+<a id="claim-t-77827"></a>
 - t-001
+  global_id: t-77827
   teiginys: 'Leidinyje panaudotos nuotraukos iš LGGRTC Genocido aukų muziejaus fondų.'
   pagrindžia:
     - c-001

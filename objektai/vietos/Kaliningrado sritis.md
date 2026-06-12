@@ -25,22 +25,30 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
 
 ## Teiginiai
 
+<a id="claim-t-76355"></a>
 - t-001
+  global_id: t-76355
   teiginys: 'Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruose įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje atiduota 50-čiai metų administruoti SSRS.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-76356"></a>
 - t-002
+  global_id: t-76356
   teiginys: 'Maskva grasino prijungti Klaipėdos kraštą prie Kaliningrado srities, jeigu Lietuva siektų atkurti nepriklausomybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-76357"></a>
 - t-003
+  global_id: t-76357
   teiginys: 'Vokietija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabartinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-76358"></a>
 - t-004
+  global_id: t-76358
   teiginys: 'Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva.'
   pagrindžia:
     - c-001

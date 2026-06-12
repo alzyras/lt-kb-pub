@@ -26,12 +26,16 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
 
 ## Teiginiai
 
+<a id="claim-t-58690"></a>
 - t-001
+  global_id: t-58690
   teiginys: 'Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje, Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58691"></a>
 - t-002
+  global_id: t-58691
   teiginys: 'Dusburgietis teigia, kad burcos žemė Transilvanijoje.'
   pagrindžia:
     - c-002

@@ -18,17 +18,23 @@ Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui sta
 
 ## Teiginiai
 
+<a id="claim-t-68830"></a>
 - t-001
+  global_id: t-68830
   teiginys: 'Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui stabilizavusis, sudarė karinę administraciją ir pavadino ją Oberostu (nuo Oberbefehlshaber Ost – Vyriausioji Rytų kariuomenės vadovybė).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-68831"></a>
 - t-002
+  global_id: t-68831
   teiginys: 'Į pietus nutįsusi Oberosto teritorija forma kone sutapo su 1793–1795 m. ribomis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-68832"></a>
 - t-003
+  global_id: t-68832
   teiginys: 'O Oberosto karinis kolonijinis režimas plėšė valstiečius, – nusavindavo maistą, apkrovė dideliais mokesčiais ir prievolėmis, pramonės įmones išvežė į Vokietiją, o mokyklose pradėjo germanizaciją (lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų.'
   pagrindžia:
     - c-002

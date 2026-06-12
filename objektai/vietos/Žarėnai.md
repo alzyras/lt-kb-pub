@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-42391"></a>
 - t-001
+  global_id: t-42391
   teiginys: '1949 m. gegužės 21 d. MGB vidaus kariuomenės 32-asis šaulių pulkas Žarėnų valsčiuje aptiko Žarėnų kuopos partizanų stovyklą.'
   pagrindžia:
     - c-001

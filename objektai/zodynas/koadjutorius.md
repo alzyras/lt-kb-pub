@@ -17,7 +17,9 @@ Protasevičius ir jo koadjutorius, pačių jėzuitų į katalikybę atverstas vy
 
 ## Teiginiai
 
+<a id="claim-t-03036"></a>
 - t-001
+  global_id: t-03036
   teiginys: 'Jurgis Radvila buvo vyskupo Protasevičiaus koadjutorius ir pačių jėzuitų į katalikybę atverstas vyskupas.'
   pagrindžia:
     - c-001

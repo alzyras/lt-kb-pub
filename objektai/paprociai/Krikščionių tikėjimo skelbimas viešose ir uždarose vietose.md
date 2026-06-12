@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Krikščionių tikėjimo skelbimas viešose ir uždarose vietose
 
 ## Santrauka
 
-Kojelavičius teigia, kad be to, paskelbtas įstatymas, leidžian tis ilgainiui krikščionims netrukdomiems viešose ir už darose vietose skelbti savo tikėjimo tiesas.
+Algirdas paskelbė įstatymą, leidusį krikščionims netrukdomai skelbti tikėjimo tiesas viešose ir uždarose vietose.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185876"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad be to, paskelbtas įstatymas, leidžian tis ilgainiui krikščionims netrukdomiems viešose ir už darose vietose skelbti savo tikėjimo tiesas.'
+  global_id: t-185876
+  teiginys: 'Algirdas paskelbė įstatymą, leidusį krikščionims netrukdomai skelbti tikėjimo tiesas viešose ir uždarose vietose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad be to, paskelbtas įstatymas, leidžian tis ilgainiui krikščionims netrukdomiems viešose ir už darose vietose skelbti savo tikėjimo tiesas.'
+  santrauka: 'Algirdas paskelbė įstatymą, leidusį krikščionims netrukdomai skelbti tikėjimo tiesas viešose ir uždarose vietose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sugrįžęs iš Maskvos žygio, Algirdas, gal
@@ -65,3 +66,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

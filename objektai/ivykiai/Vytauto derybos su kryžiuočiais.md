@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-95974"></a>
 - t-001
+  global_id: t-95974
   teiginys: 'Antras Vytauto bėgimas į Prusus (1390— 1392).'
   pagrindžia:
     - c-001

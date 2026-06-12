@@ -27,12 +27,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-180060"></a>
 - t-001
+  global_id: t-180060
   teiginys: 'Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-180061"></a>
 - t-002
+  global_id: t-180061
   teiginys: '1385 m. rugpjūčio 14 d. Kriavo pilyje buvo surašytas aktas, vėliau atgabentas į Krokuvą.'
   pagrindžia:
     - c-001

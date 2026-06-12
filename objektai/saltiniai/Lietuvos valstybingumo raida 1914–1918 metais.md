@@ -24,7 +24,9 @@ Lietuvos valstybingumo raida 1914–1918 metais.
 
 ## Teiginiai
 
+<a id="claim-t-78155"></a>
 - t-001
+  global_id: t-78155
   teiginys: 'Lietuvos valstybingumo raida 1914–1918 metais.'
   pagrindžia:
     - c-001

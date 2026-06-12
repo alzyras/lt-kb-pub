@@ -27,7 +27,9 @@ Karaliui, turinčiam tokias dide­ les karinės amunicijos atsargas, nesunku buv
 
 ## Teiginiai
 
+<a id="claim-t-87670"></a>
 - t-001
+  global_id: t-87670
   teiginys: '1557 m. žygis į Livoniją prieš magistrą Firstenbergą baigėsi jo nuolankumu Žygimantui Augustui ir valdžios Livonijoje pripažinimu.'
   pagrindžia:
     - c-001

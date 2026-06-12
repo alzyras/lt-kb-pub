@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-36359"></a>
 - t-001
+  global_id: t-36359
   teiginys: 'Lhasa aprašyta kaip šventasis Tibeto miestas, į kurį vietos tautelės neįsileisdavo europiečių.'
   pagrindžia:
     - c-001

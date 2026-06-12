@@ -18,12 +18,16 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 
 ## Teiginiai
 
+<a id="claim-t-54116"></a>
 - t-001
+  global_id: t-54116
   teiginys: 'J. Fijałek parašė darbą „Wnuk Kiejstuta, Jan książę drohiczyński“, paskelbtą 1914 m. „KH“ 28 tome.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54117"></a>
 - t-002
+  global_id: t-54117
   teiginys: 'J. Fijałek parašė darbą „Wnuk Kiejstuta, Jan książę drohiczyński“, publikuotą 1914 m. „KH“ 28 tome.'
   pagrindžia:
     - c-001

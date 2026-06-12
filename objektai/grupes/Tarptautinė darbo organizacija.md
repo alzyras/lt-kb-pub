@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-20037"></a>
 - t-001
+  global_id: t-20037
   teiginys: '1991 m. pabaigoje Lietuva buvo priimta į JT specializuotas įstaigas, tarp jų ir Tarptautinę darbo organizaciją.'
   pagrindžia:
     - c-001

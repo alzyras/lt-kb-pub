@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Švitrigailos nesėkmingas 1434 m. puolimas ir Kaributaičio perėjimas pas lenkus
 
 ## Santrauka
 
-Kojelavičius teigia, kad pasipiktinę tokiu žiaurumu, Kaributaičio vasalai ir valdiniai, slaptai susitarę su Bučackiais, sumušė Bo leslovo kariuomenę, o Kaributaitį paleido į laisvę.
+Kaributaičio vasalai ir valdiniai, susitarę su Bučackiais, sumušė Boleslovo kariuomenę ir paleido Teodorą Kaributaitį į laisvę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185793"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pasipiktinę tokiu žiaurumu, Kaributaičio vasalai ir valdiniai, slaptai susitarę su Bučackiais, sumušė Bo leslovo kariuomenę, o Kaributaitį paleido į laisvę.'
+  global_id: t-185793
+  teiginys: 'Kaributaičio vasalai ir valdiniai, susitarę su Bučackiais, sumušė Boleslovo kariuomenę ir paleido Teodorą Kaributaitį į laisvę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pasipiktinę tokiu žiaurumu, Kaributaičio vasalai ir valdiniai, slaptai susitarę su Bučackiais, sumušė Bo leslovo kariuomenę, o Kaributaitį paleido į laisvę.'
+  santrauka: 'Kaributaičio vasalai ir valdiniai, susitarę su Bučackiais, sumušė Boleslovo kariuomenę ir paleido Teodorą Kaributaitį į laisvę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat neseniai, prasi­
@@ -57,3 +58,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Boleslovas]]
+- [[objektai/grupes/Lenkai]]

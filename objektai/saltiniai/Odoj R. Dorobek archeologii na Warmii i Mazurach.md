@@ -22,7 +22,9 @@ Dusburgietis teigia, kad dorobek archeologii na Warmii i Mazurach —Z otchłani
 
 ## Teiginiai
 
+<a id="claim-t-61202"></a>
 - t-001
+  global_id: t-61202
   teiginys: 'R. Odoj straipsnis „Dorobek archeologii na Warmii i Mazurach“ paskelbtas 1965 m. žurnalo „Z otchłani wieków“ 2 sąsiuvinyje, p. 95–105.'
   pagrindžia:
     - c-001

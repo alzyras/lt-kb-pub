@@ -16,7 +16,9 @@ Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicin
 
 ## Teiginiai
 
+<a id="claim-t-41120"></a>
 - t-001
+  global_id: t-41120
   teiginys: 'Raudonojo Kryžiaus pastangomis M. Mažvydo bibliotekoje įkurtas punktas, atsakingas už pirmąją medicinos pagalbą ir evakuaciją iš Parlamento prieigų.'
   pagrindžia:
     - c-001

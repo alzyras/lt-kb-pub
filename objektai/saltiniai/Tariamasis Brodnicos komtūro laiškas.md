@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Tariamasis Brodnicos komtūro laiškas
 
 ## Santrauka
 
-Kojelavičius teigia, kad jis sugalvojo parašyti tariamąjį Brodnicos komtūro laišką, kuriuo ordino ma gistrui pranešama, kokia vargana padėtis Brodnicoje, kad gyventojai čia visiškai neturi nei maisto, nei gink lų. Kojelavičius teigia, kad žygūną sugavo, laišką perskaitė ir patikėjo klastote, ir šitaip klastūnas pasiekė, ko norėjo.
+Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką apie varganą Brodnicos padėtį. Vytautas patikėjo tariamuoju Brodnicos komtūro laišku ir dėl jo nutraukė Kulmo apgulą.
 
 ## Teiginiai
 
+<a id="claim-t-186322"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad jis sugalvojo parašyti tariamąjį Brodnicos komtūro laišką, kuriuo ordino ma gistrui pranešama, kokia vargana padėtis Brodnicoje, kad gyventojai čia visiškai neturi nei maisto, nei gink lų.'
+  global_id: t-186322
+  teiginys: 'Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką apie varganą Brodnicos padėtį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186323"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad žygūną sugavo, laišką perskaitė ir patikėjo klastote, ir šitaip klastūnas pasiekė, ko norėjo.'
+  global_id: t-186323
+  teiginys: 'Vytautas patikėjo tariamuoju Brodnicos komtūro laišku ir dėl jo nutraukė Kulmo apgulą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad jis sugalvojo parašyti tariamąjį Brodnicos komtūro laišką, kuriuo ordino ma gistrui pranešama, kokia vargana padėtis Brodnicoje, kad gyventojai čia visiškai neturi nei maisto, nei gink lų.'
+  santrauka: 'Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką apie varganą Brodnicos padėtį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Rodė­
@@ -55,7 +58,7 @@ Kojelavičius teigia, kad jis sugalvojo parašyti tariamąjį Brodnicos komtūro
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad žygūną sugavo, laišką perskaitė ir patikėjo klastote, ir šitaip klastūnas pasiekė, ko norėjo.'
+  santrauka: 'Vytautas patikėjo tariamuoju Brodnicos komtūro laišku ir dėl jo nutraukė Kulmo apgulą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žy­

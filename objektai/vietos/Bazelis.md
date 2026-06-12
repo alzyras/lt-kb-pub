@@ -27,19 +27,24 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-168699"></a>
 - t-001
-  teiginys: 'Bažnyčios suvažiavimas Bazely ir bažnytinės unijos klausimas Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.'
+  global_id: t-168699
+  teiginys: 'Švitrigailos ir Zigmanto kovos metu Bazelyje vyko visuotinis Bažnyčios suvažiavimas, kuriame buvo iškeltas bažnytinės unijos klausimas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183000"></a>
 - t-002
-  teiginys: 'Bazelio suvažiavimas, prasidėjęs 1431 m., tęsėsi iki 1449 m., t.'
+  global_id: t-183000
+  teiginys: 'Bazelio suvažiavimas prasidėjo 1431 m. ir tęsėsi iki 1449 m.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Švitrigailos ir Zigmanto kovos metu Bazelyje vyko visuotinis Bažnyčios suvažiavimas, kuriame buvo iškeltas bažnytinės unijos klausimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **3. Bažnyčios suvažiavimas Bazely ir bažnytinės unijos**
@@ -55,7 +60,7 @@ amziai:
     - t-001
 
 - c-002
-  santrauka: 'Bazelio suvažiavimas, prasidėjęs 1431 m., tęsėsi iki 1449 m., t.'
+  santrauka: 'Bazelio suvažiavimas prasidėjo 1431 m. ir tęsėsi iki 1449 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau patsai unijos klausimas nemirė. Juo ėmė rūpintis

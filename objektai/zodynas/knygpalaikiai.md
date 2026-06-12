@@ -16,7 +16,9 @@ Lietuviai tų knygpalaikių neėmė nė į rankas, o slaptųjų knygų skaičius
 
 ## Teiginiai
 
+<a id="claim-t-03035"></a>
 - t-001
+  global_id: t-03035
   teiginys: 'Lietuviai neėmė į rankas valdžios leistų rusiškomis raidėmis spausdintų knygpalaikių.'
   pagrindžia:
     - c-001

@@ -18,12 +18,16 @@ Vyskupijoje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenk
 
 ## Teiginiai
 
+<a id="claim-t-74516"></a>
 - t-001
+  global_id: t-74516
   teiginys: 'Lenkų krikščionys demokratai vyskupijoje rėmėsi lenkų nacionalizmo doktrina ir stiprino lenkų kalbos pozicijas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74517"></a>
 - t-002
+  global_id: t-74517
   teiginys: 'Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.'
   pagrindžia:
     - c-002

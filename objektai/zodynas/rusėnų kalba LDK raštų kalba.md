@@ -18,27 +18,37 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-169927"></a>
 - t-001
+  global_id: t-169927
   teiginys: 'Vienuolynuose rašoma bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169928"></a>
 - t-002
+  global_id: t-169928
   teiginys: 'Filologai LDK raštinėse vyravusią raštijos kalbą siūlo vadinti rusėnų kalba.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169930"></a>
 - t-003
+  global_id: t-169930
   teiginys: 'Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169931"></a>
 - t-004
+  global_id: t-169931
   teiginys: 'Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuose, kūrė valdovo raštinę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169932"></a>
 - t-005
+  global_id: t-169932
   teiginys: 'Besiformuojanti rusėnų raštija ankstyvojoje Lietuvos istorijoje virto oficialia LDK raštų kalba.'
   pagrindžia:
     - c-004

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad vanagas A.
 
 ## Teiginiai
 
+<a id="claim-t-61341"></a>
 - t-001
+  global_id: t-61341
   teiginys: 'A. Vanago straipsnis „Galindai Ispanijoje ir Amerikoje“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1965 m.'
   pagrindžia:
     - c-001

@@ -23,7 +23,9 @@ Plačiai pasiremdamas Kauno vyskupijos kurijos archyvine medžiaga, jis išleido
 
 ## Teiginiai
 
+<a id="claim-t-32236"></a>
 - t-001
+  global_id: t-32236
   teiginys: 'Veikalas „Žemaičių vysk. M. Valančius“ buvo parengtas plačiai remiantis Kauno vyskupijos kurijos archyvine medžiaga.'
   pagrindžia:
     - c-001

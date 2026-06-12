@@ -23,17 +23,23 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
 
 ## Teiginiai
 
+<a id="claim-t-41206"></a>
 - t-001
+  global_id: t-41206
   teiginys: 'Vakaruose 1433 m. Lenkijai suartėjus su čekų husitais, Ordinui kilo didelė grėsmė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41207"></a>
 - t-002
+  global_id: t-41207
   teiginys: 'Ordinas, pirmiausia jo Livonijos šaka, toliau liko Švitrigailos rėmėja, nes siekė, kad pastarasis organizuotų platų pietryčių frontą (su voluiniečiais, podoliečiais, totoriais) prieš Lenkiją, kuri su husitais vakaruose rengėsi kovoti prieš Ordiną.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-41208"></a>
 - t-003
+  global_id: t-41208
   teiginys: 'Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais.'
   pagrindžia:
     - c-002

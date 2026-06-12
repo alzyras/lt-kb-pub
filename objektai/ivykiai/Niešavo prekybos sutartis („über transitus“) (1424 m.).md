@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35870"></a>
 - t-001
+  global_id: t-35870
   teiginys: '1424 m. Niešavoje sudaryta prekybos sutartis „über transitus“ nustatė laisvą tranzitinę prekybą tarp kelių kraštų pirklių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-35871"></a>
 - t-002
+  global_id: t-35871
   teiginys: 'Niešavos prekybos sutartis užbaigė lietuvių prekybą ilgai trikdžiusius neramumus.'
   pagrindžia:
     - c-002

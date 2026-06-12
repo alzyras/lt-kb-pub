@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-34909"></a>
 - t-001
+  global_id: t-34909
   teiginys: '„Kalba“ buvo bendrinės kalbos žurnalo pirmasis sąsiuvinis, redaguotas Prano Skardžiaus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-34910"></a>
 - t-002
+  global_id: t-34910
   teiginys: '„Kalbos“ numeryje buvo įdėtas paskutinis prof. Jablonskio-Rygiškių Jono straipsnis.'
   pagrindžia:
     - c-002

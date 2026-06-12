@@ -33,232 +33,324 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 
 ## Teiginiai
 
+<a id="claim-t-181162"></a>
 - t-001
+  global_id: t-181162
   teiginys: 'Rengiantis 1579 m. buvo samdomi kareiviai Vengrijoje ir Vokietijoje, perkami ir gaminami ginklai.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-181163"></a>
 - t-002
+  global_id: t-181163
   teiginys: 'Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-181164"></a>
 - t-003
+  global_id: t-181164
   teiginys: '1939 m. rugsėjo 28 d. slaptu protokolu Lietuva pateko į SSRS įtakos sferą, o Vokietija gavo Liublino vaivadiją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-181165"></a>
 - t-004
+  global_id: t-181165
   teiginys: 'Nacių Vokietijos planuose Baltijos šalys laikytos vokiečių „gynybine erdve“, kuri palaipsniui turėjo susilieti su Trečiuoju Reichu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-181167"></a>
 - t-005
-  teiginys: 'Neišnyko nė senas papratimas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specialūs kryžiaus žygiai.'
+  global_id: t-181167
+  teiginys: 'Kryžiuočių ordino veikloje išliko paprotys kviesti svečius iš Vokietijos.'
   pagrindžia:
     - c-026
 
+<a id="claim-t-181168"></a>
 - t-006
+  global_id: t-181168
   teiginys: '1939 m. rugpjūčio 23 d. Vokietija ir SSRS slaptu protokolu pasidalijo regioną įtakos sferomis, o Lietuva atiteko Vokietijai.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-181169"></a>
 - t-007
+  global_id: t-181169
   teiginys: 'Po 1629 m. paliaubų su ATR, Švedijos karaliaus Gustavo Adolfo vadovaujama švedų kariuomenė ėmė skinti pergales prieš katalikų kariuomenes Trisdešimtmečio karo mūšių laukuose (1618- 1648 m.), Vokietijoje.'
   pagrindžia:
     - c-022
 
+<a id="claim-t-181170"></a>
 - t-008
+  global_id: t-181170
   teiginys: 'Vokietijos universitetuose besimokę didikų vaikai protestantų mokslą parsiveždavo į Lietuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-181172"></a>
 - t-009
+  global_id: t-181172
   teiginys: '1918 m. kovo 23 d. Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet siejo ją su glaudžiais ryšiais su Vokietija.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-181173"></a>
 - t-010
+  global_id: t-181173
   teiginys: 'Rygos pasiuntiniai pranešė popiežiui, kad buvo svarstytas Gedimino laiškų į Vokietiją tikrumas.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-181175"></a>
 - t-011
-  teiginys: 'Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla), 1579 m.'
+  global_id: t-181175
+  teiginys: 'Rengiant 1579 m. žygį prieš caro kariuomenę, kareivių buvo prisisamdyta Vengrijoje ir Vokietijoje.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-181176"></a>
 - t-012
+  global_id: t-181176
   teiginys: 'Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-181178"></a>
 - t-013
+  global_id: t-181178
   teiginys: 'Daugelis vyko į Vokietiją; bet kadangi ten universitetai buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-181179"></a>
 - t-014
+  global_id: t-181179
   teiginys: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-181180"></a>
 - t-015
+  global_id: t-181180
   teiginys: 'Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių, svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų ir sunkių derybų pasirašyta.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-181181"></a>
 - t-016
+  global_id: t-181181
   teiginys: 'Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sferomis: Suomija, Estija ir Latvija atiteko.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-181182"></a>
 - t-017
+  global_id: t-181182
   teiginys: '1928 m. sausio 29 d. po ilgų derybų buvo pasirašyta Lietuvos ir Vokietijos sienos sutartis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-181183"></a>
 - t-018
+  global_id: t-181183
   teiginys: 'Tiesa, Versalio taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietuvos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai.'
   pagrindžia:
     - c-028
 
+<a id="claim-t-181184"></a>
 - t-019
+  global_id: t-181184
   teiginys: 'Dusburgietis teigia, kad jo vadovavimo metais Ordinas taip sustiprėjo, kad neilgai trukus po jo mirties šiame Ordine jau buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos šeimose.'
   pagrindžia:
     - c-031
 
+<a id="claim-t-181185"></a>
 - t-020
+  global_id: t-181185
   teiginys: 'Į Vokietijos protestantiškus universitetus išvykę studentai dažnai grįždavo protestantais.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-181186"></a>
 - t-021
+  global_id: t-181186
   teiginys: 'Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją administravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis okupacinis valdymas.'
   pagrindžia:
     - c-020
 
+<a id="claim-t-181187"></a>
 - t-022
+  global_id: t-181187
   teiginys: 'Iš Vokietijos ir toliau buvo kviečiami svečiai, o kovoms imta skelbti specialius kryžiaus žygius.'
   pagrindžia:
     - c-026
 
+<a id="claim-t-181188"></a>
 - t-023
+  global_id: t-181188
   teiginys: 'Vokietija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabartinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai.'
   pagrindžia:
     - c-030
 
+<a id="claim-t-181189"></a>
 - t-024
+  global_id: t-181189
   teiginys: 'Lietuvos diplomatijoje buvo siūloma susigrąžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-181190"></a>
 - t-025
+  global_id: t-181190
   teiginys: 'Daliai lietuvių inteligentų pasitraukus į Peterburgą, likę Vilniuje ir Kaune suvokė, kad Vokietija planuoja aneksuoti okupuotas teritorijas, jas kolonizuoti ir germanizuoti.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-181191"></a>
 - t-026
+  global_id: t-181191
   teiginys: 'Rygos pasiuntiniai popiežiui pranešė, kad buvo svarstytas Gedimino laiškų, rašytų į Vokietiją, tikrumas.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-181192"></a>
 - t-027
+  global_id: t-181192
   teiginys: '1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-181193"></a>
 - t-028
+  global_id: t-181193
   teiginys: 'Negalime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrąžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-181194"></a>
 - t-029
+  global_id: t-181194
   teiginys: 'Pabėgėlių gretas papildė nacių okupacijos metais prievarta išvežti į Vokietiją dirbti lietuviai.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-181195"></a>
 - t-030
+  global_id: t-181195
   teiginys: 'Susitikime dalyvavo Vokietijos pasiuntiniai, Silezijos kunigaikščiai ir Hanzos atstovai.'
   pagrindžia:
     - c-027
 
+<a id="claim-t-181196"></a>
 - t-031
+  global_id: t-181196
   teiginys: 'Karolis Tryrietis 1323 m. rugpjūčio viduryje buvo Vokietijoje.'
   pagrindžia:
     - c-023
 
+<a id="claim-t-181197"></a>
 - t-032
+  global_id: t-181197
   teiginys: 'Išvykę į Vokietijos universitetus jaunuoliai dažnai vėl pereidavo į protestantizmą.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-181198"></a>
 - t-033
+  global_id: t-181198
   teiginys: 'Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-181199"></a>
 - t-034
+  global_id: t-181199
   teiginys: 'Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo Vokietijon.'
   pagrindžia:
     - c-024
 
+<a id="claim-t-181200"></a>
 - t-035
+  global_id: t-181200
   teiginys: 'Lietuvių konferencija numatė santykius su Vokietija, jeigu ši prieš Taikos konferenciją pripažintų Lietuvos valstybę.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-181201"></a>
 - t-036
+  global_id: t-181201
   teiginys: 'LAF aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-181202"></a>
 - t-037
+  global_id: t-181202
   teiginys: 'Lietuvos sovietizacija 1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietuvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu okupuotos ir dvi gretimos Baltijos valstybės.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-181203"></a>
 - t-038
+  global_id: t-181203
   teiginys: '1940 m. birželio 16 d. sovietų divizijos per Lietuvą strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-181204"></a>
 - t-039
+  global_id: t-181204
   teiginys: 'Kaltinamieji teigė, kad Klaipėdą laiko Vokietijos dalimi ir nurodymus gaudavo iš Vokietijos nacių.'
   pagrindžia:
     - c-025
 
+<a id="claim-t-181205"></a>
 - t-040
+  global_id: t-181205
   teiginys: 'Pasiuntiniai su vainikais, išgirdę apie pasienio trukdymus, grįžo į Vokietiją.'
   pagrindžia:
     - c-024
 
+<a id="claim-t-181206"></a>
 - t-041
+  global_id: t-181206
   teiginys: 'Karolis Tryrietis 1323 m. rugpjūčio viduryje dar buvo Vokietijoje.'
   pagrindžia:
     - c-023
 
+<a id="claim-t-181207"></a>
 - t-042
+  global_id: t-181207
   teiginys: 'Lietuvos pagrindinėmis užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija (antroje vietoje).'
   pagrindžia:
     - c-029
 
+<a id="claim-t-181208"></a>
 - t-043
+  global_id: t-181208
   teiginys: 'Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aštuonios sutartys ir pasiekta daugiausia.'
   pagrindžia:
     - c-021
 
+<a id="claim-t-181209"></a>
 - t-044
+  global_id: t-181209
   teiginys: 'Aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo detalių.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-181210"></a>
 - t-045
+  global_id: t-181210
   teiginys: 'Vilniaus konferencijoje svarstyta, kad Lietuvos interesai labiau krypsta į Vakarus, tai yra į Vokietiją.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-183107"></a>
 - t-046
+  global_id: t-183107
   teiginys: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
   pagrindžia:
     - c-032

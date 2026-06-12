@@ -25,22 +25,30 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 
 ## Teiginiai
 
+<a id="claim-t-181244"></a>
 - t-001
-  teiginys: 'Barborai mirus, jis vedė pirmosios žmonos seserį Habsburgaitę, tačiau su ja negyveno; ji išvažiavo į Vieną.'
+  global_id: t-181244
+  teiginys: 'Po Barboros Radvilaitės mirties Zigmantas Augustas vedė Habsburgaitę, bet su ja negyveno, o ji išvyko į Vieną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-181245"></a>
 - t-002
+  global_id: t-181245
   teiginys: 'Zigmanto Augusto žmona Habsburgaitė netrukus mirė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182891"></a>
 - t-003
-  teiginys: 'Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdomosios Vengrijos bei Čekijos.'
+  global_id: t-182891
+  teiginys: 'Zigmantas rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdytų Vengrijos ir Čekijos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-182892"></a>
 - t-004
+  global_id: t-182892
   teiginys: 'Visi kaimynai valdovai ruošėsi po jo mirties įžengti į Lietuvos ir Lenkijos sostus, o ypač tuo rūpinosi Austrų Habsburgai ir caras Jonas IV.'
   pagrindžia:
     - c-004
@@ -65,6 +73,7 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
     - t-002
 
 - c-002
+  santrauka: 'Po Barboros Radvilaitės mirties Zigmantas Augustas vedė Habsburgaitę, bet su ja negyveno, o ji išvyko į Vieną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau
@@ -80,7 +89,7 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
     - t-001
 
 - c-003
-  santrauka: 'Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdomosios Vengrijos bei Čekijos.'
+  santrauka: 'Zigmantas rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdytų Vengrijos ir Čekijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Antrasis karas su Maskva** Lietuvai buvo daug nelaiminges-

@@ -26,12 +26,16 @@ Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenė
 
 ## Teiginiai
 
+<a id="claim-t-60096"></a>
 - t-001
+  global_id: t-60096
   teiginys: 'Dusburgietis teigia, kad 224 Burggrafas Burchardas iš Magdeburgo, kilęs iš tos pačios giminės kaip ir Brunonas iŠ Kverfurfo (mir.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60097"></a>
 - t-002
+  global_id: t-60097
   teiginys: 'Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenės ir ginklanešių lydimas kilnusis vyras ir kariauti įgudęs Saksonijos karys Magdeburgo burggrafas224, pravarde Trumparankis, jis per vienus metus, kuriuos ten praleido, atplaukė čia ir perkėlė su magistru bei.'
   pagrindžia:
     - c-001

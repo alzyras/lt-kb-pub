@@ -13,12 +13,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai ėmė silpti maras, beveik porą metų baisiai siaubęs Lenkiją, lietuvių kariuomenė įsiveržė į Sandomiro vaiva diją ir, sumušusi lenkus, bandžiusius ginkluota kova užkirsti kelią grobikams, ją visą nuniokojo kalaviju bei ugnimi. Kojelavičius teigia, kad kovėsi jis ir su vienu lietuvių pulku, užpuolusiu karaliaus sto vyklą: lietuviai tapo išsklaidyti, o pats kunigaikštis L en kai, su m u šę lie tu v iu s, atg a u n a d a lį V o ly n ė s Kęstutis gyvas pakliuvo į priešų rankas.
+Lietuvių kariuomenė įsiveržė į Sandomiro vaivadiją, sumušė ją gynusius lenkus ir nuniokojo kraštą kalaviju bei ugnimi. Kazimierui kovusis su karaliaus stovyklą užpuolusiu lietuvių pulku, lietuviai buvo išsklaidyti, o Kęstutis pateko į nelaisvę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -34,20 +33,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185610"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai ėmė silpti maras, beveik porą metų baisiai siaubęs Lenkiją, lietuvių kariuomenė įsiveržė į Sandomiro vaiva diją ir, sumušusi lenkus, bandžiusius ginkluota kova užkirsti kelią grobikams, ją visą nuniokojo kalaviju bei ugnimi.'
+  global_id: t-185610
+  teiginys: 'Lietuvių kariuomenė įsiveržė į Sandomiro vaivadiją, sumušė ją gynusius lenkus ir nuniokojo kraštą kalaviju bei ugnimi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185611"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kovėsi jis ir su vienu lietuvių pulku, užpuolusiu karaliaus sto vyklą: lietuviai tapo išsklaidyti, o pats kunigaikštis L en kai, su m u šę lie tu v iu s, atg a u n a d a lį V o ly n ė s Kęstutis gyvas pakliuvo į priešų rankas.'
+  global_id: t-185611
+  teiginys: 'Kazimierui kovusis su karaliaus stovyklą užpuolusiu lietuvių pulku, lietuviai buvo išsklaidyti, o Kęstutis pateko į nelaisvę.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai ėmė silpti maras, beveik porą metų baisiai siaubęs Lenkiją, lietuvių kariuomenė įsiveržė į Sandomiro vaiva diją ir, sumušusi lenkus, bandžiusius ginkluota kova užkirsti kelią grobikams, ją visą nuniokojo kalaviju bei ugnimi.'
+  santrauka: 'Lietuvių kariuomenė įsiveržė į Sandomiro vaivadiją, sumušė ją gynusius lenkus ir nuniokojo kraštą kalaviju bei ugnimi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai ėmė silpti maras, beveik
@@ -74,7 +77,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kovėsi jis ir su vienu lietuvių pulku, užpuolusiu karaliaus sto vyklą: lietuviai tapo išsklaidyti, o pats kunigaikštis L en kai, su m u šę lie tu v iu s, atg a u n a d a lį V o ly n ė s Kęstutis gyvas pakliuvo į priešų rankas.'
+  santrauka: 'Kazimierui kovusis su karaliaus stovyklą užpuolusiu lietuvių pulku, lietuviai buvo išsklaidyti, o Kęstutis pateko į nelaisvę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat nuo to laiko, kai Vengrijos kunigaikštis
@@ -100,3 +103,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kolomanas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/grupes/Lenkai]]

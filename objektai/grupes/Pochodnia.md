@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19964"></a>
 - t-001
+  global_id: t-19964
   teiginys: 'Pochodnia („Deglas“) buvo lenkų kultūros organizacija, padėjusi švietimui ir gavusi pinigų iš Lenkijos.'
   pagrindžia:
     - c-001

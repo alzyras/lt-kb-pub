@@ -36,17 +36,23 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
 
 ## Teiginiai
 
+<a id="claim-t-55266"></a>
 - t-001
+  global_id: t-55266
   teiginys: 'Lietuvoje pilininkai valdė miestą panašiai kaip Lenkijoje kaštelionai ir vykdė teisminę priežiūrą kartu su seniūnu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55267"></a>
 - t-002
+  global_id: t-55267
   teiginys: 'Vilniaus pilininkas su miestiečiais sumušė Kęstučio įgulą ir Žemutinę bei Aukštutinę pilis atidavė Jogailai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89572"></a>
 - t-003
+  global_id: t-89572
   teiginys: 'Dusburgietis teigia, kad kai jie plaukė pro jau minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis, kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį, galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą.'
   pagrindžia:
     - c-003

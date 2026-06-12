@@ -16,14 +16,17 @@ O visai emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos yra įsteigt
 
 ## Teiginiai
 
+<a id="claim-t-74028"></a>
 - t-001
-  teiginys: 'O visai emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos yra įsteigta speciali referentūra.'
+  global_id: t-74028
+  teiginys: 'Emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos buvo įsteigta speciali referentūra.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos buvo įsteigta speciali referentūra.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Emigra-

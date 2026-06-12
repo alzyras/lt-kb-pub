@@ -16,7 +16,9 @@ Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo
 
 ## Teiginiai
 
+<a id="claim-t-19244"></a>
 - t-001
+  global_id: t-19244
   teiginys: 'Stanislovas Rapolionis kartu su Abraomu Kulviečiu tapo vienu pirmųjų 1544 m. įkurto Karaliaučiaus universiteto profesorių.'
   pagrindžia:
     - c-001

@@ -26,7 +26,9 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
 
 ## Teiginiai
 
+<a id="claim-t-29025"></a>
 - t-001
+  global_id: t-29025
   teiginys: '1415 m. į Konstancą atsiųstiems pakrikštytiems žemaičių bajorams vadovavo Vytauto didikas Jurgis Gedgaudas.'
   pagrindžia:
     - c-001

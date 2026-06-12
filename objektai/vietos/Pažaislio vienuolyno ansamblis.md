@@ -16,7 +16,9 @@ Petro ir Povilo bažnyčia ar Pažaislio vienuolyno ansamblis prie Kauno.
 
 ## Teiginiai
 
+<a id="claim-t-77782"></a>
 - t-001
+  global_id: t-77782
   teiginys: 'Petro ir Povilo bažnyčia ar Pažaislio vienuolyno ansamblis prie Kauno.'
   pagrindžia:
     - c-001

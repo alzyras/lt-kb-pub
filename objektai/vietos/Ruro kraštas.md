@@ -17,12 +17,16 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
 
 ## Teiginiai
 
+<a id="claim-t-21761"></a>
 - t-001
+  global_id: t-21761
   teiginys: 'Vakaruose vyko ginčai dėl nesumokėtų Vokietijos reparacijų ir prancūzų dalinių įvedimo į Ruro kraštą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183629"></a>
 - t-002
+  global_id: t-183629
   teiginys: 'Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokiečių reparacijų ir prancūzų dalinių įvedimo į Ruro kraštą.'
   pagrindžia:
     - c-002

@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75210"></a>
 - t-001
+  global_id: t-75210
   teiginys: 'Barselonos olimpinėse žaidynėse iškovojo pirmą aukso medalį nepriklausomai Lietuvai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75211"></a>
 - t-002
+  global_id: t-75211
   teiginys: 'Lietuvos vyrų krepšinio rinktinė 1992, 1996 ir 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius.'
   pagrindžia:
     - c-001

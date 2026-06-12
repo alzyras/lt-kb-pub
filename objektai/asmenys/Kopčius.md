@@ -19,7 +19,9 @@ Jis buvo ypač parankus ginant miestų sienas bei pilis ## Puslapis 81 žuvusio 
 
 ## Teiginiai
 
+<a id="claim-t-80736"></a>
 - t-001
+  global_id: t-80736
   teiginys: 'Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.'
   pagrindžia:
     - c-001

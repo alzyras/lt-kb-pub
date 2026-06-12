@@ -28,7 +28,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87689"></a>
 - t-001
+  global_id: t-87689
   teiginys: 'Henrikas Plauenas 1468 m. Vilniuje lenkėsi prieš Kazimiero Jogailaičio sostą.'
   pagrindžia:
     - c-001

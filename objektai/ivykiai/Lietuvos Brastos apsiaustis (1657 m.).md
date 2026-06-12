@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-80678"></a>
 - t-001
+  global_id: t-80678
   teiginys: 'Po metų vykusi apsiaustis sėkmingesnė, miestas galiausia pasidavė priešui, po ko buvo gerokai suniokotas.'
   pagrindžia:
     - c-001

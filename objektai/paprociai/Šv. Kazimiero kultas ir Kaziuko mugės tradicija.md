@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54372"></a>
 - t-001
+  global_id: t-54372
   teiginys: 'Jau XVI a. pradžioje karalaitis Kazimieras buvo garbinamas Vilniaus apylinkėse.'
   pagrindžia:
     - c-001

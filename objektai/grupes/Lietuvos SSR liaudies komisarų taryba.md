@@ -23,12 +23,16 @@ rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausi
 
 ## Teiginiai
 
+<a id="claim-t-45085"></a>
 - t-001
+  global_id: t-45085
   teiginys: 'Lietuvos SSR liaudies komisarų taryba buvo patvirtinta formaliai aukščiausiąja respublikos vykdomąja valdžia ir pakeitė Liaudies vyriausybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45086"></a>
 - t-002
+  global_id: t-45086
   teiginys: 'Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį: rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba, kitą dieną formaliai aukščiausiąja.'
   pagrindžia:
     - c-002

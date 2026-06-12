@@ -26,12 +26,16 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
 
 ## Teiginiai
 
+<a id="claim-t-97462"></a>
 - t-001
+  global_id: t-97462
   teiginys: 'Marija buvo vienintelė likusi Haličo-Volinijos Riurikaičių giminės atžala.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97463"></a>
 - t-002
+  global_id: t-97463
   teiginys: 'Marija buvo vienintelė likusi Haličo-Volinijos Riurikaičių giminės atžala ir žuvusių brolių sesuo.'
   pagrindžia:
     - c-002

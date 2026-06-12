@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31782"></a>
 - t-001
+  global_id: t-31782
   teiginys: '„Laiškai Lietuviams“ 1958 m. Čikagoje buvo nurodyti kaip 5–9 numerių leidinys.'
   pagrindžia:
     - c-001

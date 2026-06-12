@@ -38,17 +38,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-93028"></a>
 - t-001
-  teiginys: 'Kadangi tuo metu Lietuvoje teko rūpintis, kad katalikybė pirmautų ne tik prieš naikinamą pagonybę, bet ir prieš rytų apeigų Bažnyčią, todėl Jogailos duotoje privilegijoje visos teisės pripažįstamos tik katalikams, o rytų apeigų krikščionys net suvaržomi.'
+  global_id: t-93028
+  teiginys: 'Jogailos privilegijoje visos teisės pripažintos tik katalikams, o rytų apeigų krikščionys buvo suvaržyti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-93029"></a>
 - t-002
+  global_id: t-93029
   teiginys: 'Iki Jogailos privilegijos bajorai dėl dvarų ir kraičių turėjo atsiklausti didžiojo kunigaikščio.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-93030"></a>
 - t-003
+  global_id: t-93030
   teiginys: 'Apsikrikštijusiems bajorams suteikta pilna laisvė šeimos reikaluose, įskaitant dukterų išleidimą už vyro.'
   pagrindžia:
     - c-001
@@ -71,6 +77,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Jogailos privilegijoje visos teisės pripažintos tik katalikams, o rytų apeigų krikščionys buvo suvaržyti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kadangi tuo

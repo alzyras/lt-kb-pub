@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Pelužio antpuolis per Lietuvos didikų puotą (1286 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad be galybės šeimynykščių ir kitokių menkos padėties žmonių, žuvo septynios dešim tys kunigaikščių bei didikų; pats jaunikis bei jaunoji, visos tarybos narių žmonos bei dukros su didžiuliu grobiu buvo išgabentos į Karaliaučių.
+Per Pelužio antpuolį žuvo septyniasdešimt kunigaikščių bei didikų, o jaunikis, jaunoji ir tarybos narių šeimos buvo išgabenti į Karaliaučių.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185761"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad be galybės šeimynykščių ir kitokių menkos padėties žmonių, žuvo septynios dešim tys kunigaikščių bei didikų; pats jaunikis bei jaunoji, visos tarybos narių žmonos bei dukros su didžiuliu grobiu buvo išgabentos į Karaliaučių.'
+  global_id: t-185761
+  teiginys: 'Per Pelužio antpuolį žuvo septyniasdešimt kunigaikščių bei didikų, o jaunikis, jaunoji ir tarybos narių šeimos buvo išgabenti į Karaliaučių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad be galybės šeimynykščių ir kitokių menkos padėties žmonių, žuvo septynios dešim tys kunigaikščių bei didikų; pats jaunikis bei jaunoji, visos tarybos narių žmonos bei dukros su didžiuliu grobiu buvo išgabentos į Karaliaučių.'
+  santrauka: 'Per Pelužio antpuolį žuvo septyniasdešimt kunigaikščių bei didikų, o jaunikis, jaunoji ir tarybos narių šeimos buvo išgabenti į Karaliaučių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nelauktas svečias
@@ -64,3 +65,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Pelužis]]

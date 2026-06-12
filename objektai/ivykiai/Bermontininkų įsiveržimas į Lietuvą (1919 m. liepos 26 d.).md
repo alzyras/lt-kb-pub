@@ -41,22 +41,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66493"></a>
 - t-001
+  global_id: t-66493
   teiginys: '1919 m. liepos 26 d. ties Kuršėnais iš Latvijos į Lietuvos teritoriją įžengė stipri jungtinė vokiečių ir rusų kariuomenė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66494"></a>
 - t-002
+  global_id: t-66494
   teiginys: '1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji bermontininkai, vadovaujami plk.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66495"></a>
 - t-003
+  global_id: t-66495
   teiginys: '1919 m. spalį bermontininkai užėmė Šiaulius, Biržus, Linkuvą ir Radviliškį, kai šiaurinėje Lietuvos dalyje dar nebuvo Lietuvos kariuomenės.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66496"></a>
 - t-004
+  global_id: t-66496
   teiginys: 'Lietuvos vyriausybė negalėjo užkirsti jai kelio, nes tuo metu Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte.'
   pagrindžia:
     - c-002

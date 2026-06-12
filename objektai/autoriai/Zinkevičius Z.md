@@ -16,7 +16,9 @@ Dusburgietis teigia, kad zinkevičius Z., Lietuvių kalbos kilmė, p. 252.
 
 ## Teiginiai
 
+<a id="claim-t-60829"></a>
 - t-001
+  global_id: t-60829
   teiginys: 'Dusburgietis teigia, kad zinkevičius Z., Lietuvių kalbos kilmė, p. 252.'
   pagrindžia:
     - c-001

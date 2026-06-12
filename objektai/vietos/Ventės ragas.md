@@ -24,12 +24,16 @@ kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį S
 
 ## Teiginiai
 
+<a id="claim-t-80308"></a>
 - t-001
+  global_id: t-80308
   teiginys: 'Kryžiuočiai prie Nemuno žiočių, Ventės rage, statė pilį, vadintą Vindenburgu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-80309"></a>
 - t-002
+  global_id: t-80309
   teiginys: '1360 m. kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį Skalvos žemėje (netoli Tilžės), o kitą prie Nemuno žiočių — Ventės rage (Vindenburgą).'
   pagrindžia:
     - c-001

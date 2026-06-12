@@ -27,7 +27,9 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
 
 ## Teiginiai
 
+<a id="claim-t-30407"></a>
 - t-001
+  global_id: t-30407
   teiginys: 'Vasibutas su Rumbaudu ir kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą.'
   pagrindžia:
     - c-001

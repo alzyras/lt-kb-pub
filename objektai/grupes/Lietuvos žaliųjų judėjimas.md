@@ -16,7 +16,9 @@ Stiprėjo Lietuvos žaliųjų judėjimas.
 
 ## Teiginiai
 
+<a id="claim-t-19920"></a>
 - t-001
+  global_id: t-19920
   teiginys: 'Stiprėjo Lietuvos žaliųjų judėjimas.'
   pagrindžia:
     - c-001

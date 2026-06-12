@@ -24,7 +24,9 @@ Dusburgietis teigia, kad jis garsėjo kaip itin švelnus žmogus, visiems rodės
 
 ## Teiginiai
 
+<a id="claim-t-59109"></a>
 - t-001
+  global_id: t-59109
   teiginys: 'Dusburgietis teigia, kad jis garsėjo kaip itin švelnus žmogus, visiems rodėsi toks malonus, jog apie jį tikrai buvo galima sakyti, kad jį mylėjo ir dievas, ir žmonės.'
   pagrindžia:
     - c-001

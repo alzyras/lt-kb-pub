@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis
 
 ## Santrauka
 
-Kojelavičius teigia, kad vėliau su didesne kariauna, kurioje vien kryžiuočių buvo tūkstantis riterių, įsiver žė į Lietuvą pats magistras Meinhardas, žiauriai nu siaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos ugnimi.
+Magistras Meinhardas su didesne kariauna įsiveržė į Lietuvą ir ugnimi nusiaubė Paštuvos bei Gaižuvos valsčius.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185754"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vėliau su didesne kariauna, kurioje vien kryžiuočių buvo tūkstantis riterių, įsiver žė į Lietuvą pats magistras Meinhardas, žiauriai nu siaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos ugnimi.'
+  global_id: t-185754
+  teiginys: 'Magistras Meinhardas su didesne kariauna įsiveržė į Lietuvą ir ugnimi nusiaubė Paštuvos bei Gaižuvos valsčius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vėliau su didesne kariauna, kurioje vien kryžiuočių buvo tūkstantis riterių, įsiver žė į Lietuvą pats magistras Meinhardas, žiauriai nu siaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos ugnimi.'
+  santrauka: 'Magistras Meinhardas su didesne kariauna įsiveržė į Lietuvą ir ugnimi nusiaubė Paštuvos bei Gaižuvos valsčius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to jis su savo kariais pasuko kita
@@ -59,3 +60,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Jazbutas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/magistras]]

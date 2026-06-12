@@ -27,12 +27,16 @@ Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaug
 
 ## Teiginiai
 
+<a id="claim-t-64802"></a>
 - t-001
+  global_id: t-64802
   teiginys: 'Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra R., Lietuva..., p. 153).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64803"></a>
 - t-002
+  global_id: t-64803
   teiginys: 'Dusburgietis teigia, kad sis antpuolis, matyt, susijęs su Traidenio politika vakaruose (Paszkiewicz H., Jagiellonowie.., p. 130—131).'
   pagrindžia:
     - c-001

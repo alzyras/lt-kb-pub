@@ -26,17 +26,23 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 
 ## Teiginiai
 
+<a id="claim-t-86749"></a>
 - t-001
+  global_id: t-86749
   teiginys: 'Vilniaus disidentai nepajėgė sutelkti tokių stiprių pajėgų kovai su jėzuitais, kokias turėjo šis ordinas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86750"></a>
 - t-002
+  global_id: t-86750
   teiginys: 'Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto uolumo ir darbštumo žmogus, turėjo atremti priešininkus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86751"></a>
 - t-003
+  global_id: t-86751
   teiginys: '1581 m. Vilniuje buvo atvirai užpulti reformatų maldos namai ir Danieliaus Lenčickio prižiūrėta spaustuvė.'
   pagrindžia:
     - c-003

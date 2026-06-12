@@ -26,14 +26,17 @@ Be to, jis yra įkūręs Amerikos Lietuvių Katalikų Federaciją, kuri jungia v
 
 ## Teiginiai
 
+<a id="claim-t-74044"></a>
 - t-001
-  teiginys: 'Be to, jis yra įkūręs Amerikos Lietuvių Katalikų Federaciją, kuri jungia visas katalikiškąsias Amerikos lietuvių organizacijas ir ypatingai rūpinasi švietimu ir mokyklų steigimu.'
+  global_id: t-74044
+  teiginys: 'Amerikos Lietuvių Katalikų Federacija jungė katalikiškąsias Amerikos lietuvių organizacijas ir rūpinosi švietimu bei mokyklų steigimu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Amerikos Lietuvių Katalikų Federacija jungė katalikiškąsias Amerikos lietuvių organizacijas ir rūpinosi švietimu bei mokyklų steigimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, jis yra įkūręs Amerikos Lietuvių Ka-

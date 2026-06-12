@@ -23,7 +23,9 @@ Suredagavo jis taip pat «Prūsijos valdžios gromatos, pagraudenimai ir apsakym
 
 ## Teiginiai
 
+<a id="claim-t-31897"></a>
 - t-001
+  global_id: t-31897
   teiginys: '„Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“ buvo išleista 1960 m. su pratarmė.'
   pagrindžia:
     - c-001

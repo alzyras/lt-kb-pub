@@ -29,12 +29,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86737"></a>
 - t-001
+  global_id: t-86737
   teiginys: 'Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86738"></a>
 - t-002
+  global_id: t-86738
   teiginys: 'Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu.'
   pagrindžia:
     - c-002

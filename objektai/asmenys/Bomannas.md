@@ -25,12 +25,16 @@ Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys,
 
 ## Teiginiai
 
+<a id="claim-t-87487"></a>
 - t-001
+  global_id: t-87487
   teiginys: 'Švitrigailos valdymo laikais Vilniaus miestietis Bomannas prekiavo su Gdansku.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87488"></a>
 - t-002
+  global_id: t-87488
   teiginys: 'Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų Vilniaus gyventojui Bomannui, vykusiam į Gdanską prekybos reikalais.'
   pagrindžia:
     - c-002

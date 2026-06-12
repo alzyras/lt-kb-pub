@@ -16,7 +16,9 @@ Eilinis Kurauskas atbėgo pas mane.
 
 ## Teiginiai
 
+<a id="claim-t-80738"></a>
 - t-001
+  global_id: t-80738
   teiginys: 'Eilinis Kurauskas atbėgo pas mane.'
   pagrindžia:
     - c-001

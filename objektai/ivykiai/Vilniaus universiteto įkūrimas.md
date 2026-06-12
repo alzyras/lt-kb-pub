@@ -42,27 +42,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-71774"></a>
 - t-001
+  global_id: t-71774
   teiginys: 'Yra ir kitas senojo Vilniaus universiteto istorinės reikšmės aspektas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-71775"></a>
 - t-002
+  global_id: t-71775
   teiginys: 'Tačiau Steponas Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus universiteto – kūrimu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71776"></a>
 - t-003
+  global_id: t-71776
   teiginys: 'Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzuitais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-71777"></a>
 - t-004
+  global_id: t-71777
   teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71778"></a>
 - t-005
+  global_id: t-71778
   teiginys: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
   pagrindžia:
     - c-004

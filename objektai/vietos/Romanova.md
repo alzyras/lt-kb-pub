@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Romanova
 
 ## Santrauka
 
-Kojelavičius teigia, kad jis pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui, tu rinčiam saugoti tikėjimą; šitai tvirtina prieš keturis šimtmečius surašytame veikale Petras iš Dusburgo, Li vonijos riterių kunigas ir istorikas, gyvenęs arčiau anų laikų nei mūsų.
+Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti.
 
 ## Teiginiai
 
+<a id="claim-t-185273"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad jis pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui, tu rinčiam saugoti tikėjimą; šitai tvirtina prieš keturis šimtmečius surašytame veikale Petras iš Dusburgo, Li vonijos riterių kunigas ir istorikas, gyvenęs arčiau anų laikų nei mūsų.'
+  global_id: t-185273
+  teiginys: 'Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad jis pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui, tu rinčiam saugoti tikėjimą; šitai tvirtina prieš keturis šimtmečius surašytame veikale Petras iš Dusburgo, Li vonijos riterių kunigas ir istorikas, gyvenęs arčiau anų laikų nei mūsų.'
+  santrauka: 'Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Daug kartų iš naujo

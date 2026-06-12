@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-41197"></a>
 - t-001
+  global_id: t-41197
   teiginys: 'Vilniaus pavieto milicijos batalionas buvo įgulos sudėtyje kartu su keliais eskadronais ir kitais sukilėlių padaliniais.'
   pagrindžia:
     - c-001

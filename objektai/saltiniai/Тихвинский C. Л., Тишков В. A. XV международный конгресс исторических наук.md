@@ -22,7 +22,9 @@ Dusburgietis teigia, kad тихвинский C.
 
 ## Teiginiai
 
+<a id="claim-t-61477"></a>
 - t-001
+  global_id: t-61477
   teiginys: 'C. L. Тихвинский ir V. A. Тишков straipsnis „XV международный конгресс исторических наук“ paskelbtas 1980 m. leidinio „ВИ“ 12 numeryje, p. 3–23.'
   pagrindžia:
     - c-001

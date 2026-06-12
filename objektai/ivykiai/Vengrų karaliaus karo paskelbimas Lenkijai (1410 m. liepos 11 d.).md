@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35893"></a>
 - t-001
+  global_id: t-35893
   teiginys: '1410 m. liepos 11 d. sąjungininkams sustojus prie Soldau, Vengrijos pasiuntinys įteikė Jogailai raštą, kuriuo Vengrijos karalius skelbė Lenkijai karą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-35894"></a>
 - t-002
+  global_id: t-35894
   teiginys: 'Vengrijos pasiuntinys Jogailai pranešė, kad vengrai neketina kariauti ir karo paskelbimu siekia iš Ordino gauti daugiau pinigų.'
   pagrindžia:
     - c-001

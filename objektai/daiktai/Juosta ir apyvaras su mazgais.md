@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59686"></a>
 - t-001
+  global_id: t-59686
   teiginys: 'Dusburgietis teigia, kad štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį ar sutartį, susikalba dėl vienokio ar kitokio dienų skaičiaus, jie paprastai, šitai padarę, pirmąją dieną įkerta kokį ženklą į medį arba užmezga mazgą apyvaruosė ar juostoje.'
   pagrindžia:
     - c-001

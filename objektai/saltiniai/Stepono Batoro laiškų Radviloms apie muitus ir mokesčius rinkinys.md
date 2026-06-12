@@ -25,7 +25,9 @@ Dviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms, turinys: apie mui
 
 ## Teiginiai
 
+<a id="claim-t-88479"></a>
 - t-001
+  global_id: t-88479
   teiginys: 'Dviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms, turinys: apie muitus ir mokesčius Vilniaus pirkliams ir miestiečiams •328 • VIII PRIEDAS.'
   pagrindžia:
     - c-001

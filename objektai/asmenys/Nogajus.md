@@ -27,7 +27,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87807"></a>
 - t-001
+  global_id: t-87807
   teiginys: 'Nogajaus mongolai 1272 m. kartu su Haličo kunigaikščiais puolė Lietuvą.'
   pagrindžia:
     - c-001

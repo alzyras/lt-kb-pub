@@ -23,17 +23,23 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
 
 ## Teiginiai
 
+<a id="claim-t-72703"></a>
 - t-001
-  teiginys: ') Molodečnoj, kuri, be abejo, tokiam dideliam plotui negalėjo paruošti kiek reikiant mokytojų.'
+  global_id: t-72703
+  teiginys: '1864 m. Molodečne įsteigta mokytojų seminarija negalėjo parengti pakankamai mokytojų Lietuvos ir baltarusių švietimo apygardoms.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72704"></a>
 - t-002
+  global_id: t-72704
   teiginys: '1866 m. Veiveriuose įsteigta mokytojų seminarija rengė pradžios mokyklų mokytojus ir dėstė lietuvių kalbą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72705"></a>
 - t-003
+  global_id: t-72705
   teiginys: '1872 m. Panevėžyje įsteigta mokytojų seminarija rengė mokytojus visai Lietuvai, išskyrus Užnemunę.'
   pagrindžia:
     - c-002

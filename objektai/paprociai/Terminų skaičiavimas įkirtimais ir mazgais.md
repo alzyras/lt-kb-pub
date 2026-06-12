@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62718"></a>
 - t-001
+  global_id: t-62718
   teiginys: 'Dusburgietis teigia, kad 214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais.'
   pagrindžia:
     - c-002

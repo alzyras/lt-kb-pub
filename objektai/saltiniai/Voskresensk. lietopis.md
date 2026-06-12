@@ -16,7 +16,9 @@ b) Voskresensk.
 
 ## Teiginiai
 
+<a id="claim-t-36127"></a>
 - t-001
+  global_id: t-36127
   teiginys: '„Voskresensk. lietopis“ cituoja Vytauto žodžius apie ketinimą nugalėti carą Temir Kutlujų ir pasodinti Tachtamyšą.'
   pagrindžia:
     - c-001

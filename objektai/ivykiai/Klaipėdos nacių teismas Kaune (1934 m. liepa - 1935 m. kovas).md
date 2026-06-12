@@ -40,17 +40,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75114"></a>
 - t-001
+  global_id: t-75114
   teiginys: 'Po Klaipėdos nacių teismo prezidentas Antanas Smetona mirties bausmę pakeitė kalėjimu iki gyvos galvos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75115"></a>
 - t-002
+  global_id: t-75115
   teiginys: 'Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75116"></a>
 - t-003
+  global_id: t-75116
   teiginys: 'Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išrikiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų uniformomis, instrukcijomis, lapeliais, ginklais.'
   pagrindžia:
     - c-001

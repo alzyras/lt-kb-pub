@@ -44,22 +44,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-168690"></a>
 - t-001
+  global_id: t-168690
   teiginys: 'Pirmoji Lietuvos rašliava apibūdinama kaip istorinė ir publicistiška.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-168691"></a>
 - t-002
+  global_id: t-168691
   teiginys: 'Istoriškoji lietuvių rašliava paskutiniaisiais metais buvo gerokai paaugusi.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-168692"></a>
 - t-003
+  global_id: t-168692
   teiginys: 'Rašliava vartojama kaip istorinės raštijos pavadinimas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-168695"></a>
 - t-005
+  global_id: t-168695
   teiginys: 'Iškilus unijos klausimui, Lenkijoje atsirado publicistiškos rašliavos, kurioje Lietuva buvo žeminama kaip nedėkinga ir maištaujanti valstybė.'
   pagrindžia:
     - c-002

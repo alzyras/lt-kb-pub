@@ -22,7 +22,9 @@ Dusburgietis teigia, kad crome H.
 
 ## Teiginiai
 
+<a id="claim-t-61062"></a>
 - t-001
+  global_id: t-61062
   teiginys: 'H. Crome veikalas apie ankstyvuosius Sembos piliakalnius paskelbtas 1940 m. leidinio „Prussia“ 34 tome.'
   pagrindžia:
     - c-001

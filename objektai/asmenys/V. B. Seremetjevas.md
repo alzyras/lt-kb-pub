@@ -18,7 +18,9 @@ Seremetjevas (apie 15000 karių) užėmė Polocką ir Dysną, A.
 
 ## Teiginiai
 
+<a id="claim-t-40482"></a>
 - t-001
+  global_id: t-40482
   teiginys: 'Rusų karvedys V. B. Seremetjevas su maždaug 15 000 karių užėmė Polocką ir Dysną.'
   pagrindžia:
     - c-001

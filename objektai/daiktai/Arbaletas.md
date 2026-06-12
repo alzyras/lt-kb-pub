@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-64899"></a>
 - t-001
+  global_id: t-64899
   teiginys: 'XIV-XV a. Lietuvoje arbaletas buvo labiausiai paplitęs šaunamasis ginklas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64900"></a>
 - t-002
+  global_id: t-64900
   teiginys: 'Dusburgietis teigia, kad dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo, kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti.'
   pagrindžia:
     - c-001

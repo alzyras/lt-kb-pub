@@ -32,12 +32,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66604"></a>
 - t-001
+  global_id: t-66604
   teiginys: 'Pabūgęs visko netekti, Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį (1706 m.).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66605"></a>
 - t-002
+  global_id: t-66605
   teiginys: 'Sumanęs suduoti Augustui smūgį skaudžiausioje vietoje, Karolis nužygiavo į Saksoniją.'
   pagrindžia:
     - c-002

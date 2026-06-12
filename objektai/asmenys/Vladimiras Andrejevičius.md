@@ -17,7 +17,9 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
 
 ## Teiginiai
 
+<a id="claim-t-39674"></a>
 - t-001
+  global_id: t-39674
   teiginys: 'Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio.'
   pagrindžia:
     - c-001

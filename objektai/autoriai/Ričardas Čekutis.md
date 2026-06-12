@@ -28,7 +28,9 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
 
 ## Teiginiai
 
+<a id="claim-t-40672"></a>
 - t-001
+  global_id: t-40672
   teiginys: 'Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.'
   pagrindžia:
     - c-001

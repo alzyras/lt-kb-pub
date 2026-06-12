@@ -27,22 +27,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86445"></a>
 - t-001
+  global_id: t-86445
   teiginys: '1390 m. Vladislovo Jogailos privilegijoje Vilniaus kapitulai Vilija buvo pavadinta Vigilia.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86446"></a>
 - t-002
+  global_id: t-86446
   teiginys: '5 Žodį Vilija, jeigu jo kilmės imtume ieškoti lietuvių kalboje, galima tarti kilus nuo Wiloju [vilioju] - gundau, arba nuo Wilius [vylius] - klasta, tad tokiu atveju Vilija reikštų Vilioklė.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-86447"></a>
 - t-003
+  global_id: t-86447
   teiginys: 'Vilija seniau vadinta Neris arba Neria, nes, autoriaus manymu, upė išrausė gilią vagą ir suformavo aukštas smėlingas pakrantes.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86448"></a>
 - t-004
+  global_id: t-86448
   teiginys: 'Kryžiuočių archyvo senajame Lietuvos kelių aprašyme minima Nerige yra dabartinė Vilija.'
   pagrindžia:
     - c-002

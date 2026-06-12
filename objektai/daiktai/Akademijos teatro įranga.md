@@ -41,17 +41,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-55027"></a>
 - t-001
+  global_id: t-55027
   teiginys: 'Akademijos teatre buvo lentomis išklota nuožulni aktorių pakyla, ant audinio pieštos dekoracijos, paravanai, kėdės, suolai ir balkonai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55028"></a>
 - t-002
+  global_id: t-55028
   teiginys: 'Prie teatro buvo podėlis scenos rykams laikyti su užrakinamomis durimis, pakopomis, plytelių grindimis, dūmtraukiu ir švino rėmų langu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-81839"></a>
 - t-003
+  global_id: t-81839
   teiginys: 'Iš teatro leistis - mediniai laipteliai, o nuo jų po kaire ranka - laiptai žemyn, mūro, lentomis apkalti; prie jų durys su vidiniu užraktu ir raktu, ant vyrių įtaisytu, į podėlį scenos rykams laikyti, į jį įeiti - 4 pakopų laipteliai, grindys plytelių.'
   pagrindžia:
     - c-002

@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08328"></a>
 - t-001
+  global_id: t-08328
   teiginys: 'Kareiviui į kapą dėjo seidoką arba svilksnį kaip vieną iš įkapių.'
   pagrindžia:
     - c-001

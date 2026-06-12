@@ -25,7 +25,9 @@ Ir Algirdas, ir Maskvos kunigaikštis tuo pačiu laiku dėjo stiprių pastangų 
 
 ## Teiginiai
 
+<a id="claim-t-32755"></a>
 - t-001
+  global_id: t-32755
   teiginys: 'Algirdas siekė savo valstybės ribose atnaujinti arkivyskupo metropolito sostą graikų tikėjimo gyventojams.'
   pagrindžia:
     - c-001

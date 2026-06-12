@@ -25,12 +25,16 @@ Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi
 
 ## Teiginiai
 
+<a id="claim-t-86541"></a>
 - t-001
+  global_id: t-86541
   teiginys: '1323 metais Liubeke parengtame notariniame instrumente aprašytas prie laiško prikabintas apvalus Gedimino vaško antspaudas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86542"></a>
 - t-002
+  global_id: t-86542
   teiginys: 'Notariniame instrumente buvo įrašyti tariamieji Gedimino laiškai dviem ordinams ir pajūrio miestams.'
   pagrindžia:
     - c-002

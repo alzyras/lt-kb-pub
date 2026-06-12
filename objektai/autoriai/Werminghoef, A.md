@@ -26,12 +26,16 @@ Werminghoef, A.
 
 ## Teiginiai
 
+<a id="claim-t-54139"></a>
 - t-001
+  global_id: t-54139
   teiginys: 'A. Werminghoefas 1910 m. Berlyne paskelbė darbą apie Tannenbergo mūšį ir jo reikšmę vokietybei Rytuose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54140"></a>
 - t-002
+  global_id: t-54140
   teiginys: 'A. Werminghoef 1910 m. Berlyne išleido veikalą apie Tannenbergo mūšį ir jo reikšmę vokietybei Rytuose.'
   pagrindžia:
     - c-001

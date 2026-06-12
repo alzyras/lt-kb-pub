@@ -19,22 +19,30 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 
 ## Teiginiai
 
+<a id="claim-t-69238"></a>
 - t-001
+  global_id: t-69238
   teiginys: 'Tad lietuvių inteligentija iškeliavo dviem kryptimis – į Vakarus ar į Sibirą...'
   pagrindžia:
     - c-003
 
+<a id="claim-t-69239"></a>
 - t-002
+  global_id: t-69239
   teiginys: 'Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-69240"></a>
 - t-003
+  global_id: t-69240
   teiginys: 'Pusė jų 1941 m. balandį–birželį išvežti į SSRS gilumą, daugiausia Sibirą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-69241"></a>
 - t-004
+  global_id: t-69241
   teiginys: 'Represinės institucijos, slopindamos partizaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse.'
   pagrindžia:
     - c-001

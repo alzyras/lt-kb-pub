@@ -22,7 +22,9 @@ Būtėnas, P.
 
 ## Teiginiai
 
+<a id="claim-t-31877"></a>
 - t-001
+  global_id: t-31877
   teiginys: 'P. Būtėno „Lietuvos sostinė Vilnius“ paskelbta žurnale „Karys“ 1973 m. Nr. 8, p. 264-266.'
   pagrindžia:
     - c-001

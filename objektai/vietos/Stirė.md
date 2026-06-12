@@ -17,7 +17,9 @@ Prie Stirės įvyko Švitrigailos pajėgoms nesékmingas mūšis.
 
 ## Teiginiai
 
+<a id="claim-t-42167"></a>
 - t-001
+  global_id: t-42167
   teiginys: 'Prie Stirės įvyko Švitrigailos pajėgoms nesėkmingas mūšis.'
   pagrindžia:
     - c-001

@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67058"></a>
 - t-001
+  global_id: t-67058
   teiginys: 'Valstiečiai tuo tarpu pradėjo būkštauti, kad iš skelbiamosios laisvės nieko neišeis; bijodami, kad iš sutarčių su ponais gali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo daryti sutartis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67059"></a>
 - t-002
+  global_id: t-67059
   teiginys: 'Su valstiečiais turėjo būti sudarytos specialios sutartys.'
   pagrindžia:
     - c-001

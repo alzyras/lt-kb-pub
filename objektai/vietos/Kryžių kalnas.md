@@ -26,12 +26,16 @@ Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir
 
 ## Teiginiai
 
+<a id="claim-t-21527"></a>
 - t-001
+  global_id: t-21527
   teiginys: 'Kryžių kalnas tapo simboliu ir buvo pramintas lietuviška Golgota.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183612"></a>
 - t-002
+  global_id: t-183612
   teiginys: 'Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir vilties šaltinio, prasmė.'
   pagrindžia:
     - c-001

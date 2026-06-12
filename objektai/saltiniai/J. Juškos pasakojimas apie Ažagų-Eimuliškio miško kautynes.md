@@ -30,12 +30,16 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
 
 ## Teiginiai
 
+<a id="claim-t-67411"></a>
 - t-001
+  global_id: t-67411
   teiginys: 'J. Juška teigė, kad Ažagų-Eimuliškio miško kautynėse okupantų pajėgos žmonių skaičiumi galėjo būti 10 ar 20 kartų pranašesnės už partizanus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67412"></a>
 - t-002
+  global_id: t-67412
   teiginys: 'J. Juška pasakojo, kad Ažagų-Eimuliškio miško kautynės prasidėjo ankstų rytą ir truko iki pavakario.'
   pagrindžia:
     - c-001

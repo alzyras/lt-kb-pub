@@ -28,27 +28,37 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
 
 ## Teiginiai
 
+<a id="claim-t-78007"></a>
 - t-001
+  global_id: t-78007
   teiginys: '1950 m. uždraustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78008"></a>
 - t-002
+  global_id: t-78008
   teiginys: 'Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78009"></a>
 - t-003
+  global_id: t-78009
   teiginys: 'Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir demonstracijas įsakus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78010"></a>
 - t-004
+  global_id: t-78010
   teiginys: 'Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-78011"></a>
 - t-005
+  global_id: t-78011
   teiginys: 'Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos Žymantienės-Žemaitės sodri realistinė sociali proza.'
   pagrindžia:
     - c-004

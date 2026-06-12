@@ -18,22 +18,37 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
 
 ## Teiginiai
 
+<a id="claim-t-66036"></a>
 - t-001
+  global_id: t-66036
   teiginys: 'Prancūziškoji partija atskirai paskelbė išrinktu princą Kontį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66037"></a>
 - t-002
+  global_id: t-66037
   teiginys: '1672 m. mirus jos kandidatui, Prancūziškoji partija nebesiekė pašalinti karaliaus ir norėjo sunaikinti bajorų partiją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66038"></a>
 - t-003
-  teiginys: 'Todėl stipriausia atrodė Prancūzų partija.'
+  global_id: t-66038
+  teiginys: 'Prancūzų partija atrodė stipriausia po to, kai Jokūbą silpnino nepopuliarumas ir šeimos kivirčai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-182916"></a>
+- t-004
+  global_id: t-182916
+  teiginys: 'Prancūzų partija atrodė stipriausia, o Liudviko XIV atstovas papirko daugumą didikų.'
+  pagrindžia:
+    - c-004
+
+<a id="claim-t-182917"></a>
 - t-005
+  global_id: t-182917
   teiginys: 'Prancūziškoji partija tačiau atskirai paskelbė išrinktu princą Kontį.'
   pagrindžia:
     - c-005
@@ -69,6 +84,7 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
     - t-002
 
 - c-003
+  santrauka: 'Prancūzų partija atrodė stipriausia po to, kai Jokūbą silpnino nepopuliarumas ir šeimos kivirčai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet Jokūbas buvo nepo-
@@ -85,7 +101,7 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
     - t-003
 
 - c-004
-  santrauka: 'Todėl stipriausia atrodė Prancūzų partija.'
+  santrauka: 'Prancūzų partija atrodė stipriausia, o Liudviko XIV atstovas papirko daugumą didikų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, jo šei-

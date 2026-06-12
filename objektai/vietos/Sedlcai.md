@@ -19,12 +19,16 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
 
 ## Teiginiai
 
+<a id="claim-t-58722"></a>
 - t-001
+  global_id: t-58722
   teiginys: 'Dusburgietis teigia, kad 169 Kaimas Sedlce (D.— Cedelicze) buvęs į pietus nuo Vyslos, kiek į šiaurę nuo Inovroclavo (minimas XIII a.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58723"></a>
 - t-002
+  global_id: t-58723
   teiginys: 'Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169.'
   pagrindžia:
     - c-002

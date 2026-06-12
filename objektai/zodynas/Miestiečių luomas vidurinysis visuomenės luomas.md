@@ -19,17 +19,23 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
 
 ## Teiginiai
 
+<a id="claim-t-86498"></a>
 - t-001
+  global_id: t-86498
   teiginys: 'M. Balinskis Lietuvos miestų ir miestiečių luomo vėlavimą siejo su politinio, ekonominio ir kultūrinio gyvenimo atsilikimu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86499"></a>
 - t-002
+  global_id: t-86499
   teiginys: 'Lietuvos miestiečių luomas, nepaisant privilegijų, neįgijo nei didelių turtų, nei ypatingo visuomeninio svorio.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86500"></a>
 - t-003
+  global_id: t-86500
   teiginys: 'Lietuvos miestiečių luomas susikūrė tik XIV amžiuje ir vėlavo panašiai kaip bendra šalies civilizacijos raida.'
   pagrindžia:
     - c-001

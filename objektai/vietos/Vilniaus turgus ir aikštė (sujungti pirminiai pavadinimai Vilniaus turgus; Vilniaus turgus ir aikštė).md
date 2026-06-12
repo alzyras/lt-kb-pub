@@ -19,12 +19,16 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
 
 ## Teiginiai
 
+<a id="claim-t-86160"></a>
 - t-001
+  global_id: t-86160
   teiginys: 'Vilniaus vyskupui leista aikštėje ir bažnyčios teritorijoje įrengti tiek mėsinių, kiek jis anksčiau turėjo turguje ir Vilniaus aikštėje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86161"></a>
 - t-002
+  global_id: t-86161
   teiginys: 'Dėl mėsinių Vilniaus turguje ir aikštėje kilo ginčas tarp Vilniaus vyskupo Povilo ir miesto vaito, tarėjų bei miestiečių.'
   pagrindžia:
     - c-001

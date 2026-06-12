@@ -17,7 +17,9 @@ Dusburgietis teigia, kad intaką Zelvą; pastarosios intakas Sasva (Pružanų rj
 
 ## Teiginiai
 
+<a id="claim-t-60619"></a>
 - t-001
+  global_id: t-60619
   teiginys: 'Dusburgietis teigia, kad etninio lietuvių ploto rytiniame pakraštyje — Dainavos (Dojnova) gyvenvietės prie Radoškovičių ir kitur (Ochmański J., Litewska granica..., p..'
   pagrindžia:
     - c-001

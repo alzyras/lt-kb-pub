@@ -19,7 +19,9 @@ Dalyvavusio sprendime raštininko Stanislo­ vo Veeno ranka.
 
 ## Teiginiai
 
+<a id="claim-t-87864"></a>
 - t-001
+  global_id: t-87864
   teiginys: 'Stanislovas Veenas buvo raštininkas, dalyvavęs 1501 m. Baltramiejaus šventės metu priimtame sprendime.'
   pagrindžia:
     - c-001

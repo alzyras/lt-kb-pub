@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Konstantinas Karigaila (kunigaikštis)
 
 ## Santrauka
 
-Kojelavičius teigia, kad nelaimė tapo dar skaudesnė, kai žuvo kunigaikštis Konstantinas Karigaila, Jogailos brolis.
+Kunigaikštis Konstantinas Karigaila, Jogailos brolis, žuvo po to, kai Vytautas įsakė jam nukirsti galvą.
 
 ## Teiginiai
 
+<a id="claim-t-186131"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad nelaimė tapo dar skaudesnė, kai žuvo kunigaikštis Konstantinas Karigaila, Jogailos brolis.'
+  global_id: t-186131
+  teiginys: 'Kunigaikštis Konstantinas Karigaila, Jogailos brolis, žuvo po to, kai Vytautas įsakė jam nukirsti galvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad nelaimė tapo dar skaudesnė, kai žuvo kunigaikštis Konstantinas Karigaila, Jogailos brolis.'
+  santrauka: 'Kunigaikštis Konstantinas Karigaila, Jogailos brolis, žuvo po to, kai Vytautas įsakė jam nukirsti galvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kas liks
@@ -44,3 +45,8 @@ Kojelavičius teigia, kad nelaimė tapo dar skaudesnė, kai žuvo kunigaikštis 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

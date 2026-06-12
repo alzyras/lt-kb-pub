@@ -23,7 +23,9 @@ Lietuvos istorija ligi Liublino unijos.
 
 ## Teiginiai
 
+<a id="claim-t-34969"></a>
 - t-001
+  global_id: t-34969
   teiginys: 'M. Liubavskio „Lietuvos istorija ligi Liublino unijos“ lietuviškas vertimas išleistas Vilniuje 1922 m. dviem dalimis.'
   pagrindžia:
     - c-001

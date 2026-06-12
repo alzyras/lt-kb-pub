@@ -27,7 +27,9 @@ Talkininkų kryžiuočių liko tik keletas, tarp jų žuvo tarnaudami senajai T�
 
 ## Teiginiai
 
+<a id="claim-t-39563"></a>
 - t-001
+  global_id: t-39563
   teiginys: 'Talkininkų kryžiuočių liko tik keletas, tarp jų žuvo tarnaudami senajai Tėvynei du kryžiuočiai lietuviai, Jonas ir Tomas Survilos.'
   pagrindžia:
     - c-001

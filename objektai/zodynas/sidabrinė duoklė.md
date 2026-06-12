@@ -18,17 +18,23 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
 
 ## Teiginiai
 
+<a id="claim-t-12588"></a>
 - t-001
+  global_id: t-12588
   teiginys: 'Sidabrinė duoklė šiame tekste reiškia mokestį pinigais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-12589"></a>
 - t-002
+  global_id: t-12589
   teiginys: 'Piniginis paklusnybės mokestis, lotyniškai vadintas tributum, dažniausiai buvo žinomas sidabrinės, arba serebsčinos, vardu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70327"></a>
 - t-003
+  global_id: t-70327
   teiginys: 'Kai kurių sričių valstiečiai jau labai anksti mokėjo sidabrinę duoklę – mokestį sidabriniais pinigais.'
   pagrindžia:
     - c-002

@@ -26,7 +26,9 @@ Dusburgietis teigia, kad rimantienė.
 
 ## Teiginiai
 
+<a id="claim-t-60773"></a>
 - t-001
+  global_id: t-60773
   teiginys: 'Dusburgietis teigia, kad rimantienė.'
   pagrindžia:
     - c-001

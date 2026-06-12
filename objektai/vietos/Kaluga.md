@@ -16,13 +16,17 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02483"></a>
 - t-001
+  global_id: t-02483
   teiginys: 'Žygio metu buvo pasiekta Kaluga, taip pat Tula ir Riazanė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183024"></a>
 - t-002
-  teiginys: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
+  global_id: t-183024
+  teiginys: 'Vytauto žygio į Maskvą metu buvo pasiektos Tula, Kaluga ir Riazanė.'
   pagrindžia:
     - c-002
 
@@ -46,7 +50,7 @@ tags:
     - t-001
 
 - c-002
-  santrauka: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
+  santrauka: 'Vytauto žygio į Maskvą metu buvo pasiektos Tula, Kaluga ir Riazanė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, jis pats pasidarė

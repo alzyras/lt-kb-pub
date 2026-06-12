@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77914"></a>
 - t-001
+  global_id: t-77914
   teiginys: 'Gimė naujos tradicijos – 1924 m. Kaune surengta pirmoji šalies dainų šventė.'
   pagrindžia:
     - c-001

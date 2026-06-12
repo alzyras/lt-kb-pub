@@ -16,7 +16,9 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
 
 ## Teiginiai
 
+<a id="claim-t-03056"></a>
 - t-001
+  global_id: t-03056
   teiginys: 'Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas Adomas Čartoriskis.'
   pagrindžia:
     - c-001

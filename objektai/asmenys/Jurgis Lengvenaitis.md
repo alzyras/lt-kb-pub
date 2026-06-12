@@ -18,7 +18,9 @@ Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išven
 
 ## Teiginiai
 
+<a id="claim-t-87743"></a>
 - t-001
+  global_id: t-87743
   teiginys: 'Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės kartu su Švitrigaila išvengė sutriuškinimo.'
   pagrindžia:
     - c-001

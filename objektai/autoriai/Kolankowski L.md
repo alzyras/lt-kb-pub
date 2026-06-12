@@ -25,7 +25,9 @@ Dusburgietis teigia, kad kolankowski L.
 
 ## Teiginiai
 
+<a id="claim-t-60728"></a>
 - t-001
+  global_id: t-60728
   teiginys: 'Kolankowski L. parašė darbą „Litwini a Prusacy“, paskelbtą 1931 m. Lvove istorikų suvažiavimo leidinyje.'
   pagrindžia:
     - c-001

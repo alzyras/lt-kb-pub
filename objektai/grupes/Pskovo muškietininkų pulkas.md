@@ -16,12 +16,16 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
 
 ## Teiginiai
 
+<a id="claim-t-78425"></a>
 - t-001
+  global_id: t-78425
   teiginys: 'Mėginta šautuvus gaminti Gardine, tačiau vadovybė savais gamintojais nepasitikėjo Rusijos pajėgos Lietuviams puolant balandžio 23 d. Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas batalionas ir trys kompanijos (kuopos), Pskovo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78426"></a>
 - t-002
+  global_id: t-78426
   teiginys: 'Vilniaus rusų įguloje buvo du Pskovo muškietininkų pulko batalionai.'
   pagrindžia:
     - c-002

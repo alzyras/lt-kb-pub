@@ -26,42 +26,58 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 
 ## Teiginiai
 
+<a id="claim-t-78896"></a>
 - t-001
+  global_id: t-78896
   teiginys: 'Iš pradžių kartečė naudota ginant arba šturmuojant tvirtoves, o nuo Trisdešimtmečio karo plačiai taikyta ir lauko kautynėse.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-78897"></a>
 - t-002
+  global_id: t-78897
   teiginys: 'Ankstyvesnių laikų kartečės užtaisai buvo maišeliuose, aprišamuose virvėmis, vėliau atsirado kartečė cilindro formos metalinėse dėžutėse.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78898"></a>
 - t-003
+  global_id: t-78898
   teiginys: 'Ankstyvieji kartečės užtaisai buvo dedami į virvėmis aprišamus maišelius, o vėliau atsirado cilindro formos metalinėse dėžutėse laikoma kartečė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78899"></a>
 - t-004
+  global_id: t-78899
   teiginys: 'Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudojama muškietų kulkų kartečė.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-78900"></a>
 - t-005
+  global_id: t-78900
   teiginys: 'Tačiau apskritai kartečė buvo skirta žeisti priešo karius gan nedideliu atstumu, nemaža kartečės kulkų sklaida neleido jos efektyviai naudoti tolimesniais atstumais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78901"></a>
 - t-006
+  global_id: t-78901
   teiginys: 'Kartečė buvo skirstoma pagal kulkų svorį į artimojo ir tolimojo nuotolių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78902"></a>
 - t-007
+  global_id: t-78902
   teiginys: 'Kartečė buvo skirta žeisti priešo karius nedideliu atstumu, nes didelė kulkų sklaida neleido jos efektyviai naudoti toliau.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78903"></a>
 - t-008
+  global_id: t-78903
   teiginys: 'Kartečėmis šaudė visi pabūklų tipai, netgi mortyros, nepaisant jų aukštos šaudymo trajektorijos.'
   pagrindžia:
     - c-004

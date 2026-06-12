@@ -16,7 +16,9 @@ Būdamas ir premjeru, ir užsienio reikalų ministru jau ne visur spėjo, konfli
 
 ## Teiginiai
 
+<a id="claim-t-77809"></a>
 - t-001
+  global_id: t-77809
   teiginys: 'Būdamas ir premjeru, ir užsienio reikalų ministru jau ne visur spėjo, konfliktavo su keliais savo ministrais ir pradėjo pretenduoti į vienvaldystę šalyje.'
   pagrindžia:
     - c-001

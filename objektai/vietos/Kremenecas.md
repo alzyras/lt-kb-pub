@@ -17,7 +17,6 @@ tags:
 amziai:
   - 'XV'
 ---
-
 # Kremenecas
 
 ## Santrauka
@@ -26,13 +25,17 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
 
 ## Teiginiai
 
+<a id="claim-t-32259"></a>
 - t-001
+  global_id: t-32259
   teiginys: 'Švitrigaila dėl naujo sąmokslo su ordinu buvo uždarytas į Kremeneco kalėjimą Volinijoje, iš kur pabėgo tik 1418 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184990"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad bajorai, vadovaujami karaliaus vadų Cioleko ir Šafraneco, griebėsi ginklo: pirmas baisiai sumušė įsi brovėlius netoli Chelmo, o antras — prie Kremeneco.'
+  global_id: t-184990
+  teiginys: 'Karaliaus vadas Šafranecas prie Kremeneco smarkiai sumušė įsibrovėlius.'
   pagrindžia:
     - c-002
 
@@ -56,7 +59,7 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad bajorai, vadovaujami karaliaus vadų Cioleko ir Šafraneco, griebėsi ginklo: pirmas baisiai sumušė įsi brovėlius netoli Chelmo, o antras — prie Kremeneco.'
+  santrauka: 'Karaliaus vadas Šafranecas prie Kremeneco smarkiai sumušė įsibrovėlius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Abie­

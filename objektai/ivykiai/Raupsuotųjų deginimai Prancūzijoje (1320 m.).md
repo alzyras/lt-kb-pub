@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62453"></a>
 - t-001
+  global_id: t-62453
   teiginys: 'Dusburgietis teigia, kad apie raupsuotųjų deginimų Prancūzijoje 1320 viešpaties metais Prancūzijoje buvo deginami raupsuotieji.'
   pagrindžia:
     - c-001

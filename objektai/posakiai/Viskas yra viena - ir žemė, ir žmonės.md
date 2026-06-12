@@ -17,7 +17,9 @@ Tai reiškia: „Žemaitijos žemė yra ir visada bu­ vo vienas ir tas pats, ka
 
 ## Teiginiai
 
+<a id="claim-t-86845"></a>
 - t-001
+  global_id: t-86845
   teiginys: 'Posakiu „Viskas yra viena - ir žemė, ir žmonės“ aiškinta, kodėl valdovo titule nerašomas Žemaitijos vardas.'
   pagrindžia:
     - c-001

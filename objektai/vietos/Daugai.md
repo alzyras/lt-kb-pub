@@ -27,32 +27,44 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 
 ## Teiginiai
 
+<a id="claim-t-118262"></a>
 - t-001
+  global_id: t-118262
   teiginys: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-118263"></a>
 - t-002
+  global_id: t-118263
   teiginys: 'Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezinkelį pro Lentvarį pulti Vilnių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-118264"></a>
 - t-003
+  global_id: t-118264
   teiginys: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, netoli Alytaus, per tariamą medžioklę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-118265"></a>
 - t-004
+  global_id: t-118265
   teiginys: 'Tokis imperatoriaus sprendimas, kuris kryžiuočiams daugiau pripažino, negu jie patys per paskutines derybas buvo užsiprašę, suerzino tiek Vytautą tiek Jogailą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-118266"></a>
 - t-005
+  global_id: t-118266
   teiginys: 'Vytautas ir Jogaila viešėjo Dauguose, kai sužinojo apie jiems įžeidžiantį ir neteisingą sprendimą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-118267"></a>
 - t-006
+  global_id: t-118267
   teiginys: 'Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduoti Daugus bei Žąslius.'
   pagrindžia:
     - c-003

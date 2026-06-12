@@ -17,7 +17,9 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
 
 ## Teiginiai
 
+<a id="claim-t-36637"></a>
 - t-001
+  global_id: t-36637
   teiginys: 'Vytautas Uždauguvyje turėjo vietininkų mokesčiams rinkti, nors ten nebuvo jo dvarų.'
   pagrindžia:
     - c-001

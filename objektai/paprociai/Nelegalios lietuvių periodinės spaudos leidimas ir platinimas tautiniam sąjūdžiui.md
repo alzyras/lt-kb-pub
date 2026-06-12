@@ -47,37 +47,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54314"></a>
 - t-001
+  global_id: t-54314
   teiginys: '1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido savo spaudą lietuvių ir lenkų kalbomis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54315"></a>
 - t-002
+  global_id: t-54315
   teiginys: 'Slaptai leistas ir nelegaliai platintas mėnraštis telkė tautinio sąjūdžio jėgas ir kėlė lietuvių kultūrinių bei švietimo teisių reikalavimus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-54316"></a>
 - t-003
+  global_id: t-54316
   teiginys: '„Varpas“ laikėsi liberalios demokratijos pozicijų, kartais krypo į socialdemokratiją, svarstė politinės santvarkos klausimus, kritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54318"></a>
 - t-004
-  teiginys: 'Slaptai leistas ir nelegaliai platintas mėnraštis telkė naujas tautinio sąjūdžio jėgas ir opoziciškai vertino caro valdžią.'
-  pagrindžia:
-    - c-001
-
-- t-005
+  global_id: t-54318
   teiginys: 'Po trejų metų sustojusi „Aušra“ išplėtė lietuvių tautinio ugdymo tęsėjų gretas, kurios ėmė leisti naujus periodinius leidinius lietuvių kalba.'
   pagrindžia:
     - c-003
 
-- t-006
+<a id="claim-t-54319"></a>
+- t-005
+  global_id: t-54319
   teiginys: 'Sustojusi „Aušra“ išplėtė savarankiškos lietuvių tautos ugdymo tęsėjų gretas ir paskatino naujus lietuviškus periodinius leidinius.'
   pagrindžia:
     - c-003
 
-- t-007
+<a id="claim-t-183327"></a>
+- t-006
+  global_id: t-183327
   teiginys: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
   pagrindžia:
     - c-004
@@ -139,7 +146,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-004
   santrauka: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
@@ -159,7 +166,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
     - t-002
 
 - c-005
@@ -176,7 +183,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai

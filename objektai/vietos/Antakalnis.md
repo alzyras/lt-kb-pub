@@ -17,47 +17,65 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
 
 ## Teiginiai
 
+<a id="claim-t-83136"></a>
 - t-001
+  global_id: t-83136
   teiginys: 'Dabartinių Lukiškių ir Antakalnio užuomazgos siejamos su vienišomis trobomis palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-83137"></a>
 - t-002
+  global_id: t-83137
   teiginys: 'Antakalnio pavadinimas aiškinamas kaip kilęs iš lietuviškų žodžių „ant to kalno“ arba „ant pakalnės“.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-83138"></a>
 - t-003
+  global_id: t-83138
   teiginys: 'Dabartinio Antakalnio užuomazgos buvo vienišos trobos palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-83139"></a>
 - t-004
+  global_id: t-83139
   teiginys: 'Balińskis Antakalnio pavadinimą aiškina kaip nuo seno lietuvišką, siejamą su ant kalno arba ant pakalnės formomis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-83140"></a>
 - t-005
+  global_id: t-83140
   teiginys: 'Jėzuitai pralaimėjo teisme dėl plytinės, žemės sklypo ir lankos Antakalnyje, nes neturėjo nuosavybės dokumentų.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-83141"></a>
 - t-006
+  global_id: t-83141
   teiginys: 'Viršupio dvaras buvo prie pat Vilniaus, už Antakalnio priemiesčio.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-83142"></a>
 - t-007
+  global_id: t-83142
   teiginys: 'Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-83143"></a>
 - t-008
+  global_id: t-83143
   teiginys: 'Pagal vieną padavimą Goštautas Antakalnyje pastatydino Šv. Petro bažnyčią pagonių šventyklos vietoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-83144"></a>
 - t-009
+  global_id: t-83144
   teiginys: 'Antakalnyje, dabartinės Šv. Petro bažnyčios vietoje, minima medinė visiems lietuvių dievams pašvęsta šventovė.'
   pagrindžia:
     - c-002

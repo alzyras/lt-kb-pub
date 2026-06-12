@@ -25,7 +25,9 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 
 ## Teiginiai
 
+<a id="claim-t-87544"></a>
 - t-001
+  global_id: t-87544
   teiginys: 'Lietuvos maršalka Chreptavičius pateikė ataskaitą apie Vilniaus monetų kalyklos veiklą ir jos pajamas karaliaus iždui.'
   pagrindžia:
     - c-001

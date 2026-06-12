@@ -18,12 +18,16 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
 
 ## Teiginiai
 
+<a id="claim-t-40966"></a>
 - t-001
+  global_id: t-40966
   teiginys: 'Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė didžiajam etmonui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40967"></a>
 - t-002
+  global_id: t-40967
   teiginys: 'Rotmistro A.Vainos husarams buvo pasiųstas pastiprinimas — kelios kuršiečių reitarų kuopos.'
   pagrindžia:
     - c-002

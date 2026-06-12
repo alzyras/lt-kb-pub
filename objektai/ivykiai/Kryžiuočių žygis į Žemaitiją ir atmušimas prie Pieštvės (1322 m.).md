@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62843"></a>
 - t-001
+  global_id: t-62843
   teiginys: 'Dusburgietis teigia, kad po triuškinančio smūgio Medininkų žemėje Ordinas, sulaukęs daug talkininkų iš Vokietijos, Čekijos ir kitur, 1322 m. vėl niokojo Žemaitiją, pasiekdamas Raseinius, Ariogalą, tačiau buvo atremtas prie Pieštvės pilies Dubysos ir Nemuno santakoje.'
   pagrindžia:
     - c-001

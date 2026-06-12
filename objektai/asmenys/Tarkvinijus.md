@@ -16,7 +16,9 @@ Dusburgietis teigia, kad netgi žiaurusis Tarkvinijus, tiek daug sugalvojęs vis
 
 ## Teiginiai
 
+<a id="claim-t-60445"></a>
 - t-001
+  global_id: t-60445
   teiginys: 'Dusburgietis teigia, kad netgi žiaurusis Tarkvinijus, tiek daug sugalvojęs visokių kankinimo būdų, šitokio nesugalvojo.'
   pagrindžia:
     - c-001

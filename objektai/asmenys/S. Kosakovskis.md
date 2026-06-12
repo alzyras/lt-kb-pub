@@ -16,7 +16,9 @@ Kosakovskis.
 
 ## Teiginiai
 
+<a id="claim-t-40407"></a>
 - t-001
+  global_id: t-40407
   teiginys: 'S. Kosakovskis buvo paskutinysis LDK didysis etmonas ir generolas, suimtas Milerio name Vilniuje.'
   pagrindžia:
     - c-001

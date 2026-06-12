@@ -33,12 +33,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66602"></a>
 - t-001
+  global_id: t-66602
   teiginys: '1707 m. pradžioje Karoliui XII grįžus iš Saksonijos, rusai pradėjo trauktis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66603"></a>
 - t-002
+  global_id: t-66603
   teiginys: 'Sužeistas Karolis XII išsigelbėjo pabėgęs į Turkus, o jo kariuomenės viena dalis žuvo, kita pateko į nelaisvę (1709 m.).'
   pagrindžia:
     - c-002

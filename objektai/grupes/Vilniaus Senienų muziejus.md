@@ -47,17 +47,23 @@ Mokslinė ir kultūros institucija.
 
 ## Teiginiai
 
+<a id="claim-t-55074"></a>
 - t-001
+  global_id: t-55074
   teiginys: 'Vilniaus Senienų muziejus buvo įkurtas Eustachijaus Tiškevičiaus iniciatyva.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55075"></a>
 - t-002
+  global_id: t-55075
   teiginys: 'Vilniaus Senienų muziejus apibūdinamas kaip mokslinė institucija, sutelkusi krašto visuomenę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81727"></a>
 - t-003
+  global_id: t-81727
   teiginys: 'Eustachijaus Tiškevičiaus iniciatyva įkurtas Vilniaus Senienų muziejus sutelkė krašto visuomenę.'
   pagrindžia:
     - c-002

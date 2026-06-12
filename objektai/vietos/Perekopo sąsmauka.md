@@ -16,12 +16,16 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
 
 ## Teiginiai
 
+<a id="claim-t-42021"></a>
 - t-001
+  global_id: t-42021
   teiginys: 'Įtvirtinta Perekopo sąsmauka saugojo sunkiai pasiekiamą totorių bazę, iš kurios jie galėjo leistis į tolimus žygius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183799"></a>
 - t-002
+  global_id: t-183799
   teiginys: 'Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „gerai užrakinamus Krymo vartus“ - įtvirtintą Perekopo sąsmauką - totoriai turėjo sunkiai pasiekiamą lizdą, iš kurio, savo ruožtu, galėdavo nesunkiai leistis į tolimus žygius.'
   pagrindžia:
     - c-001

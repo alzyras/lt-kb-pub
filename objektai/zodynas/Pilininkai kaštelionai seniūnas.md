@@ -18,7 +18,9 @@ Kaip Lenkijoje kaštelionai, taip Lietuvoje anuomet pilininkai valdė miestą, v
 
 ## Teiginiai
 
+<a id="claim-t-86638"></a>
 - t-001
+  global_id: t-86638
   teiginys: 'Lietuvoje pilininkai valdė miestą ir vykdė teisminę priežiūrą kartu su bendruomenės parinktu seniūnu.'
   pagrindžia:
     - c-001

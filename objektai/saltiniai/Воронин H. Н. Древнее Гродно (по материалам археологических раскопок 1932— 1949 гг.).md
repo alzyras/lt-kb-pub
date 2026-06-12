@@ -24,7 +24,9 @@ Dusburgietis teigia, kad воронин H.
 
 ## Teiginiai
 
+<a id="claim-t-61412"></a>
 - t-001
+  global_id: t-61412
   teiginys: 'N. N. Voronino darbas apie senąjį Gardiną rėmėsi 1932-1949 m. archeologinių kasinėjimų medžiaga ir išleistas Maskvoje 1954 m.'
   pagrindžia:
     - c-001

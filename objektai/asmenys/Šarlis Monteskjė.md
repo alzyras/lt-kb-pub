@@ -17,12 +17,16 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
 
 ## Teiginiai
 
+<a id="claim-t-19353"></a>
 - t-001
+  global_id: t-19353
   teiginys: 'Šarlio Monteskjė valdžių padalijimo principu buvo remtasi aptariant valstybės politinę santvarką Konstitucijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183577"></a>
 - t-002
+  global_id: t-183577
   teiginys: 'Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Monteskjė (Charles de Montesquieu) valdžių padalijimo principu.'
   pagrindžia:
     - c-002

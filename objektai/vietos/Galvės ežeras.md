@@ -28,17 +28,23 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
 
 ## Teiginiai
 
+<a id="claim-t-79347"></a>
 - t-001
+  global_id: t-79347
   teiginys: 'Priešais centrinius vartus buvo iškastas gynybinis griovys, susijungiantis su ežeru.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79348"></a>
 - t-002
+  global_id: t-79348
   teiginys: 'Galvės ežero salos pilis buvo minima kaip žymiausias Vytauto garbės ir pasididžiavimo statinys.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183017"></a>
 - t-003
+  global_id: t-183017
   teiginys: 'Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.'
   pagrindžia:
     - c-003

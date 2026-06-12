@@ -17,7 +17,9 @@ Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba nervingai tąs
 
 ## Teiginiai
 
+<a id="claim-t-15627"></a>
 - t-001
+  global_id: t-15627
   teiginys: 'Konstitucinė monarchija liko Lietuvos Tarybos darbotvarkėje, Berlyne svarstant personalinę uniją su Saksonija arba Prūsija.'
   pagrindžia:
     - c-001

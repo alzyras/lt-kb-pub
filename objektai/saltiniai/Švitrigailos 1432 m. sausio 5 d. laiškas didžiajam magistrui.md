@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88512"></a>
 - t-001
+  global_id: t-88512
   teiginys: '1432 m. sausio 5 d. laiške didžiajam magistrui Švitrigaila rašė, kad karalius išlaisvino Rampoldą ir Goštautą.'
   pagrindžia:
     - c-001

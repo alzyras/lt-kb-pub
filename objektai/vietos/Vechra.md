@@ -19,7 +19,9 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
 
 ## Teiginiai
 
+<a id="claim-t-32638"></a>
 - t-001
+  global_id: t-32638
   teiginys: 'Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.'
   pagrindžia:
     - c-001

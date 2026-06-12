@@ -18,7 +18,9 @@ Dusburgietis teigia, kad batakių dvaras atsirado XV a., o miestelis XVI a,— L
 
 ## Teiginiai
 
+<a id="claim-t-91953"></a>
 - t-001
+  global_id: t-91953
   teiginys: 'Dusburgietis teigia, kad batakių dvaras atsirado XV a., o miestelis XVI a,— Lietuvos TSR urbanistikos paminklai, 4, p. 5—8 (Miškinis A.).'
   pagrindžia:
     - c-001

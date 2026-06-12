@@ -19,17 +19,23 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
 
 ## Teiginiai
 
+<a id="claim-t-64662"></a>
 - t-001
+  global_id: t-64662
   teiginys: 'Dusburgietis teigia, kad tai atsispindi ir paprotinėje teisėje: už moters užmušimą ar sužeidimą baudžiama dvigubai didesnėmis baudomis negu už vyro (Jurginis J., Lietuvių šeima..., p. 249—255; to paties, Baudžiavos..., p. 96—98; Лукшайтe И.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64663"></a>
 - t-002
+  global_id: t-64663
   teiginys: 'Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J., Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89; Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės baltų..., p. 221—223, 234.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-64667"></a>
 - t-003
+  global_id: t-64667
   teiginys: 'Dusburgietis teigia, kad vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis J., Pagonybės..., p. 107).'
   pagrindžia:
     - c-002

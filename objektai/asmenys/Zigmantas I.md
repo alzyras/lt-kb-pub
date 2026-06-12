@@ -29,17 +29,23 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
 
 ## Teiginiai
 
+<a id="claim-t-114074"></a>
 - t-001
+  global_id: t-114074
   teiginys: 'Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o 1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40 metų, 1538 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-114075"></a>
 - t-002
+  global_id: t-114075
   teiginys: '1429 m. sausio 9–29 d. Lucko suvažiavime Zigmantas I susitiko su Vytautu ir Jogaila aptarti Vidurio ir Rytų Europos politikos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-114076"></a>
 - t-003
+  global_id: t-114076
   teiginys: 'Zigmantas I rėmė Vytauto vainikavimo planą, kuriuo siekta regione sukurti atsvarą Lenkijai.'
   pagrindžia:
     - c-001

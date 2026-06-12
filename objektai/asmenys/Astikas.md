@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Astikas
 
 ## Santrauka
 
-Kojelavičius teigia, kad manvydas susitarė su Goštautu bei Astiku, laikantis senojo susitarimo su len kais, paskelbti valdovu patį karalių Vladislovą.
+Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą, laikydamiesi senojo susitarimo su lenkais.
 
 ## Teiginiai
 
+<a id="claim-t-186182"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad manvydas susitarė su Goštautu bei Astiku, laikantis senojo susitarimo su len kais, paskelbti valdovu patį karalių Vladislovą.'
+  global_id: t-186182
+  teiginys: 'Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą, laikydamiesi senojo susitarimo su lenkais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad manvydas susitarė su Goštautu bei Astiku, laikantis senojo susitarimo su len kais, paskelbti valdovu patį karalių Vladislovą.'
+  santrauka: 'Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą, laikydamiesi senojo susitarimo su lenkais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
@@ -41,3 +42,9 @@ Kojelavičius teigia, kad manvydas susitarė su Goštautu bei Astiku, laikantis 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Manvydas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)]]

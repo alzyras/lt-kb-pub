@@ -17,7 +17,9 @@ Tačiau, kai prasidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos šia
 
 ## Teiginiai
 
+<a id="claim-t-02730"></a>
 - t-001
+  global_id: t-02730
   teiginys: 'Rusinimo laikotarpiu rusų valdžia Lietuvos gubernijas ėmė vadinti Rusijos šiaurės vakarų kraštu.'
   pagrindžia:
     - c-001

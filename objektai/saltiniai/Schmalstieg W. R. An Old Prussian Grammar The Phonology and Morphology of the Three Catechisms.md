@@ -22,7 +22,9 @@ Dusburgietis teigia, kad schmalstieg W.
 
 ## Teiginiai
 
+<a id="claim-t-61286"></a>
 - t-001
+  global_id: t-61286
   teiginys: 'W. R. Schmalstiego „An Old Prussian Grammar: The Phonology and Morphology of the Three Catechisms“ buvo išleista Londone 1974 m.'
   pagrindžia:
     - c-001

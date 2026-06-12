@@ -26,32 +26,44 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
 
 ## Teiginiai
 
+<a id="claim-t-92727"></a>
 - t-001
+  global_id: t-92727
   teiginys: 'Maskvos kunigaikštija buvo apsupta žemių, kurios vienu ar kitu būdu pripažino Vytauto autoritetą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-92728"></a>
 - t-002
+  global_id: t-92728
   teiginys: 'Pskovo ir Naugardo respublikos labiau šliejosi prie Livonijos ordino ir Maskvos, priešingų Vytauto įsigalėjimui Rytuose.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-92729"></a>
 - t-003
+  global_id: t-92729
   teiginys: 'Rusų kronikos Vytautui priskyrė siekį, padėjus Tochtamyšui tapti chanu, pačiam įsitvirtinti Didžiojoje Maskvos kunigaikštijoje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-92730"></a>
 - t-004
+  global_id: t-92730
   teiginys: 'Tveriaus kunigaikštis, turėjęs žemes Maskvos kairėje, 1427 m. buvo užmezgęs taikius santykius su Vytautu.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-92731"></a>
 - t-005
+  global_id: t-92731
   teiginys: 'Maskvos kunigaikštija, kurioje viešpatavo nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos sūnus Vosylius, atsparumo nerodė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-92732"></a>
 - t-006
+  global_id: t-92732
   teiginys: 'Rusų kronikos Vytautui priskyrė susitarimą su Tochtamyšu, pagal kurį jis ketino valdyti Didžiąją Maskvos kunigaikštiją ir visą Rusiją.'
   pagrindžia:
     - c-003

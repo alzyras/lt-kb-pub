@@ -17,12 +17,16 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
 
 ## Teiginiai
 
+<a id="claim-t-42087"></a>
 - t-001
+  global_id: t-42087
   teiginys: 'Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-42088"></a>
 - t-002
+  global_id: t-42088
   teiginys: 'Pagal nurodytą tvarką dalinys 2 val. turėjo būti Ramygaloje, o 4 val. vykti į šiaurę vieškeliu Ramygala-Panevėžys.'
   pagrindžia:
     - c-002

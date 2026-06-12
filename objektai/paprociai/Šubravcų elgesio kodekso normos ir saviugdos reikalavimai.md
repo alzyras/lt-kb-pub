@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54737"></a>
 - t-001
+  global_id: t-54737
   teiginys: 'Šubravcų kodeksas smerkė girtavimą ir azartinius žaidimus, o XII straipsnis reikalavo, kad narys kauptų nuosavą biblioteką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54738"></a>
 - t-002
+  global_id: t-54738
   teiginys: 'Šubravcų draugijos kodekse narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų.'
   pagrindžia:
     - c-001

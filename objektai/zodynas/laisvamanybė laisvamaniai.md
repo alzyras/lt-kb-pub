@@ -17,12 +17,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-44093"></a>
 - t-001
+  global_id: t-44093
   teiginys: 'Šliūpas visą gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei susipratimo ir dėl laisvamanybės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-44094"></a>
 - t-002
+  global_id: t-44094
   teiginys: 'Apie Šliūpą susibūrė griežtesnieji tautininkai ir laisvamaniai.'
   pagrindžia:
     - c-002

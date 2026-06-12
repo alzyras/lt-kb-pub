@@ -24,7 +24,9 @@ Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo pozicij
 
 ## Teiginiai
 
+<a id="claim-t-21118"></a>
 - t-001
+  global_id: t-21118
   teiginys: 'Lietuvių konferencijos sprendimai rodė dalyvių ir dalies Lietuvos visuomenės orientaciją į Vokietiją bei reikalavo kolaboruoti jos tarnybose.'
   pagrindžia:
     - c-001

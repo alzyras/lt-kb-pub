@@ -28,47 +28,65 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
 
 ## Teiginiai
 
+<a id="claim-t-75642"></a>
 - t-001
+  global_id: t-75642
   teiginys: 'Aleksandras (didysis kunigaikštis): jonui Albrechtui mirus, Aleksandras buvo išrinktas ir Lenkų karalium.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-75643"></a>
 - t-002
+  global_id: t-75643
   teiginys: 'Aleksandras (didysis kunigaikštis): alekandro pinigai: 11 — pinigėlis; 12 — pusskatikis; 13 — skatikas (skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75644"></a>
 - t-003
+  global_id: t-75644
   teiginys: 'Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75645"></a>
 - t-004
+  global_id: t-75645
   teiginys: 'Aleksandras (didysis kunigaikštis): 5. Aleksandro asmuo ir jo mirtis 201.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75646"></a>
 - t-005
+  global_id: t-75646
   teiginys: 'Aleksandras (didysis kunigaikštis): po Vytauto, iki Aleksandro laikų, Lietuvoje pinigai vėl nebebuvo kalami. Buvo vartojami svetimi pinigai (daugiausia Prahos skatikai).'
   pagrindžia:
     - c-007
 
+<a id="claim-t-75647"></a>
 - t-006
+  global_id: t-75647
   teiginys: 'Aleksandras (didysis kunigaikštis): lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-75648"></a>
 - t-007
+  global_id: t-75648
   teiginys: 'Aleksandras (didysis kunigaikštis): aleksandras mirė 1506 m. ir buvo palaidotas Vilniaus katedroje.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-75649"></a>
 - t-008
+  global_id: t-75649
   teiginys: 'Aleksandras 1495 m. įsakymu išvarė žydus iš Lietuvos ir konfiskavo jų turtus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-75650"></a>
 - t-009
+  global_id: t-75650
   teiginys: 'XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių.'
   pagrindžia:
     - c-001

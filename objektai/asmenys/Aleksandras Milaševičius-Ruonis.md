@@ -16,7 +16,9 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 
 ## Teiginiai
 
+<a id="claim-t-40001"></a>
 - t-001
+  global_id: t-40001
   teiginys: 'Aleksandras Milaševičius-Ruonis buvo Vakarų Lietuvos srities vadas.'
   pagrindžia:
     - c-001

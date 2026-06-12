@@ -19,7 +19,9 @@ Balinskiui laišką, kuriame apibūdino liūdną istorijos mokslo būklę.
 
 ## Teiginiai
 
+<a id="claim-t-88427"></a>
 - t-001
+  global_id: t-88427
   teiginys: 'Balinskiui laišką, kuriame apibūdino liūdną istorijos mokslo būklę.'
   pagrindžia:
     - c-001

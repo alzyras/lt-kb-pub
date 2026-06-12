@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87246"></a>
 - t-001
+  global_id: t-87246
   teiginys: 'Raštas buvo tvirtinamas antspaudu, o jo tikrumu netikintys asmenys laiškuose skelbti tiesos nedraugais ir tikėjimo priešais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87247"></a>
 - t-002
+  global_id: t-87247
   teiginys: 'Trijuose laiškuose antspaudo niekintojai buvo pasmerkti kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Ir kai karalius ėjo mels­ tis (galėjo būti ryto kokia 10 valanda), jam buvo 
 
 ## Teiginiai
 
+<a id="claim-t-95912"></a>
 - t-001
+  global_id: t-95912
   teiginys: 'Grünvaldo apylinkėse pasirodžiusios priešų vėliavos rodė, kad kryžiuočiai atvyko prie Grünvaldo ir Tannenbergo.'
   pagrindžia:
     - c-001

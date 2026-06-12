@@ -24,12 +24,16 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
 
 ## Teiginiai
 
+<a id="claim-t-86073"></a>
 - t-001
+  global_id: t-86073
   teiginys: 'Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės, pastačius apvalaus bokšto pavidalo paminklą, išlikusį iki [Vyskupo seminarijos fundacija iš vyskupo stalo dvaro, vadinamo Vozgėliškėmis [Vaisgėliškis].'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86074"></a>
 - t-002
+  global_id: t-86074
   teiginys: 'Kasparas Bekešas buvo palaidotas ant kalno už Vilniaus miesto, po apvaliu bokštu.'
   pagrindžia:
     - c-001

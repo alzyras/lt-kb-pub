@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Valdovo meilės ryšių viešas smerkimas apkalbomis ir pašiepiamomis dainelėmis
 
 ## Santrauka
 
-Kojelavičius teigia, kad didikai, ir lenkai, ir lietuviai, pradėjo nekęsti šios ne lygių žmonių meilės, visokie liežuvautojai — drąsiai ty čiotis iš nepadorių santykių ir pašiepiamas daineles dainuoti.
+Lenkų ir lietuvių didikai smerkė nelygių žmonių meilę, o liežuvautojai iš nepadorių santykių tyčiojosi pašiepiamomis dainelėmis.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185899"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad didikai, ir lenkai, ir lietuviai, pradėjo nekęsti šios ne lygių žmonių meilės, visokie liežuvautojai — drąsiai ty čiotis iš nepadorių santykių ir pašiepiamas daineles dainuoti.'
+  global_id: t-185899
+  teiginys: 'Lenkų ir lietuvių didikai smerkė nelygių žmonių meilę, o liežuvautojai iš nepadorių santykių tyčiojosi pašiepiamomis dainelėmis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad didikai, ir lenkai, ir lietuviai, pradėjo nekęsti šios ne lygių žmonių meilės, visokie liežuvautojai — drąsiai ty čiotis iš nepadorių santykių ir pašiepiamas daineles dainuoti.'
+  santrauka: 'Lenkų ir lietuvių didikai smerkė nelygių žmonių meilę, o liežuvautojai iš nepadorių santykių tyčiojosi pašiepiamomis dainelėmis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Su­
@@ -56,3 +57,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Augustas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]

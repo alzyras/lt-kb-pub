@@ -16,7 +16,9 @@ Daug painių klausimų Daukantas paliko, kaip jis pats sakosi, « mokytiems vyra
 
 ## Teiginiai
 
+<a id="claim-t-31561"></a>
 - t-001
+  global_id: t-31561
   teiginys: 'Daug painių klausimų Daukantas paliko, kaip jis pats sakosi, « mokytiems vyrams išnagrinėti »^55.'
   pagrindžia:
     - c-001

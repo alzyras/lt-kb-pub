@@ -29,27 +29,37 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 
 ## Teiginiai
 
+<a id="claim-t-111432"></a>
 - t-001
+  global_id: t-111432
   teiginys: '1396 m. Tochtamišas su savo šalininkais ir gausia šeima prisiglaudė Lietuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-111433"></a>
 - t-002
+  global_id: t-111433
   teiginys: 'Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė savo pasiuntinius pas lietuvių didįjį kunigaikštį Vytautą, kad išduotų jam pabėgusį „carą“ Tochtamišą, jo priešą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-111435"></a>
 - t-003
+  global_id: t-111435
   teiginys: 'Čia buvo ir Tochtamišo totoriai (keli tūkstančiai), 400 pavienių lenkų riterių, tokių kaip Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas bei kiti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-111436"></a>
 - t-004
+  global_id: t-111436
   teiginys: '1419 m. Vytautas Vilniaus pilyje didžiosios ordos chanu paskelbė Tochtamišo giminaitį Betsabutą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-111437"></a>
 - t-005
+  global_id: t-111437
   teiginys: 'Tochtamišas iš pradžių buvo Timuro globojamas, o 1391 m. buvo jo sumuštas.'
   pagrindžia:
     - c-003

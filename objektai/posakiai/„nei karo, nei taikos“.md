@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-20922"></a>
 - t-001
+  global_id: t-20922
   teiginys: '1922 m. sausį po rinkimų Vilniaus krašte–Vidurinėje Lietuvoje Lietuva liko „nei karo, nei taikos“ situacijoje.'
   pagrindžia:
     - c-001

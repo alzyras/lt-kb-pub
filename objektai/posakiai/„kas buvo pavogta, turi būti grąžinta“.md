@@ -16,7 +16,9 @@ Landsbergis atkakliai ir tvirtai paisė tik moralios politikos principų – „
 
 ## Teiginiai
 
+<a id="claim-t-77847"></a>
 - t-001
+  global_id: t-77847
   teiginys: 'Landsbergis atkakliai ir tvirtai paisė tik moralios politikos principų – „kas buvo pavogta, turi būti grąžinta“.'
   pagrindžia:
     - c-001

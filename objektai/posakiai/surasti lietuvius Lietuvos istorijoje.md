@@ -26,12 +26,16 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
 
 ## Teiginiai
 
+<a id="claim-t-97295"></a>
 - t-001
+  global_id: t-97295
   teiginys: 'Šapoka poliublininių laikų tyrimuose „ieškojo lietuvių“ ir rašė apie Lietuvos ir Lenkijos santykius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97296"></a>
 - t-002
+  global_id: t-97296
   teiginys: '„Ieškodamas lietuvių“ poliublininiuose laikuose, tyrėjas skelbė straipsnius periodikoje nuo 1931 ir 1933 m.'
   pagrindžia:
     - c-001

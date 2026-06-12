@@ -19,7 +19,9 @@ Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb),
 
 ## Teiginiai
 
+<a id="claim-t-35257"></a>
 - t-001
+  global_id: t-35257
   teiginys: 'Kanauninkas Mykolas Trombas buvo siunčiamas pas popiežių, bet Vokietijoje jį sulaikė Habsburgai.'
   pagrindžia:
     - c-001

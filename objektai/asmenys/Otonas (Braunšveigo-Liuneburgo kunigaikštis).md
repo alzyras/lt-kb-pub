@@ -26,12 +26,16 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
 
 ## Teiginiai
 
+<a id="claim-t-60189"></a>
 - t-001
+  global_id: t-60189
   teiginys: 'Dusburgietis teigia, kad 253 Braunšveigo—Liuneburgo hercogas (nuo 1236 m.) Otonas Kūdikis (Otto das Kind), Henriko Liūto vaikaitis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60190"></a>
 - t-002
+  global_id: t-60190
   teiginys: 'Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant gaivus vanduo troškulio iškamuotam ar iš tolimos šalies laukiama gera žinia į pagalbą broliams, atsidūrusiems sunkioje padėtyje252, į Prūsijos žemę su daugybe maldininkų atvyko kilnusis ir pamaldusis Otonas.'
   pagrindžia:
     - c-002

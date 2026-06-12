@@ -16,7 +16,9 @@ Compositio Pruss., p. 35, parašyta: Tandem Christianissimum principem dominum C
 
 ## Teiginiai
 
+<a id="claim-t-88412"></a>
 - t-001
+  global_id: t-88412
   teiginys: '„Compositio Pruss“ rašoma, kad karaliaus brolis Kazimieras, vadintas Cortgello, buvo nužudytas ir paniekintas.'
   pagrindžia:
     - c-001

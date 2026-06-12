@@ -19,17 +19,23 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
 
 ## Teiginiai
 
+<a id="claim-t-34763"></a>
 - t-001
+  global_id: t-34763
   teiginys: 'Čekų karaliui Vaclovui įsikišus, tarp kariaujančių pusių buvo sudarytos vienų metų paliaubos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-34764"></a>
 - t-002
+  global_id: t-34764
   teiginys: 'Vaclovas Pragietis ginčą tarp Vytauto, Jogailos ir Ordino išsprendė Lietuvos nenaudai, atiduodamas Žemaitiją kryžiuočiams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184287"></a>
 - t-003
+  global_id: t-184287
   teiginys: 'Vaclovas Pragiečius išsprendė Vytauto, Jogailos ir Ordino ginčą Lietuvos nenaudai.'
   pagrindžia:
     - c-003

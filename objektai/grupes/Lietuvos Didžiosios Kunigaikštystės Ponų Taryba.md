@@ -25,7 +25,9 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
 
 ## Teiginiai
 
+<a id="claim-t-86840"></a>
 - t-001
+  global_id: t-86840
   teiginys: '1560 m. Vilniuje vykusiame Lietuvos Didžiosios Kunigaikštystės Ponų Tarybos seime karalius leido bajorams rinkti delegatus.'
   pagrindžia:
     - c-001

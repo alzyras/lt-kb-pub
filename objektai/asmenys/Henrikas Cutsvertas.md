@@ -20,7 +20,6 @@ amziai:
 periodo_grupes:
   - 'viduramžiai'
 ---
-
 # Henrikas Cutsvertas
 
 ## Santrauka
@@ -29,33 +28,45 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
 
 ## Teiginiai
 
+<a id="claim-t-59915"></a>
 - t-001
+  global_id: t-59915
   teiginys: 'Dusburgietis teigia, kad apie Aukaimio valsčiaus nusiaubimą Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis Henrikas Cutsvertas, minėtasis Baigos komtūras, su 20 brolių ir tūkstančiu penkiais šimtais vyrų išjojo537 link Junigedos pilies.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59916"></a>
 - t-002
+  global_id: t-59916
   teiginys: 'Dusburgietis teigia, kad brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos, kai karalius bus iškeliavęs iš savo žemės, ir ten nusigauti su brolių kariuomene; jis subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-59917"></a>
 - t-003
+  global_id: t-59917
   teiginys: 'Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą ir 29 brolius su 1200 vyrų, turėjusių jam pastoti kelią.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59918"></a>
 - t-004
+  global_id: t-59918
   teiginys: 'Dusburgietis teigia, kad šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59919"></a>
 - t-005
+  global_id: t-59919
   teiginys: 'Henrikas Cutsvertas, prūso įspėtas apie gresiančią išdavystę Lietuvoje, paprašė patarimo, kaip išvengti pavojaus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184712"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad pasivijęs jį, atsitraukiantį su dideliu grobiu, Jazbutas įniko persekioti užN u žu d o m a s lie tu v ių pakaimę vorą, kuriai tuomet k u n ig a ik štis J a zb u ta s vadovavo Henrikas Cutsvertas.'
+  global_id: t-184712
+  teiginys: 'Henrikas Cutsvertas vadovavo užpakalinei vorai ir ietimi persmeigė lietuvių kunigaikštį Jazbutą.'
   pagrindžia:
     - c-006
 
@@ -142,7 +153,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad pasivijęs jį, atsitraukiantį su dideliu grobiu, Jazbutas įniko persekioti užN u žu d o m a s lie tu v ių pakaimę vorą, kuriai tuomet k u n ig a ik štis J a zb u ta s vadovavo Henrikas Cutsvertas.'
+  santrauka: 'Henrikas Cutsvertas vadovavo užpakalinei vorai ir ietimi persmeigė lietuvių kunigaikštį Jazbutą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pasivijęs jį, atsitraukiantį su dideliu grobiu,
@@ -173,3 +184,20 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
   statusas: verified
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/posakiai/nedera tuščiomis rankomis grįžti namo]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/vėliava]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
+- [[objektai/ivykiai/Brolių išsigelbėjimas nuo planuotos išdavystės žygyje į Lietuvą (1292 m.)]]

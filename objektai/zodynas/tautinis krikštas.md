@@ -27,12 +27,16 @@ Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lie
 
 ## Teiginiai
 
+<a id="claim-t-101609"></a>
 - t-001
+  global_id: t-101609
   teiginys: 'Lenkų romantikų kūryba prisidėjo prie lietuvių tautinės savimonės plėtotės ir lietuviškai kalbančio kaimo tautinio krikšto.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101610"></a>
 - t-002
+  global_id: t-101610
   teiginys: 'Lietuvių tautiniam krikštui didelę reikšmę turėjo lenkų romantikų kūryba ir lietuviškai rašyta Maironio poezija.'
   pagrindžia:
     - c-001

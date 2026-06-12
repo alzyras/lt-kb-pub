@@ -23,7 +23,9 @@ Daugelis kronikų aprašė ir Europoje plačiai išgarsino tai, kaip jis bemedž
 
 ## Teiginiai
 
+<a id="claim-t-32053"></a>
 - t-001
+  global_id: t-32053
   teiginys: '1361 m. Lietuvos pasienyje, Augustavo giriose, į kryžiuočių nelaisvę pateko kronikose plačiai aprašytas asmuo.'
   pagrindžia:
     - c-001

@@ -28,7 +28,9 @@ Dalyvavo ir Lancasterio grafas Derby, būsimasis Anglijos karalius Henrikas IV (
 
 ## Teiginiai
 
+<a id="claim-t-30261"></a>
 - t-001
+  global_id: t-30261
   teiginys: 'Būsimasis Anglijos karalius Henrikas IV dalyvavo žygyje kaip Lancasterio grafas Derby ir paliko smulkias jo sąskaitas.'
   pagrindžia:
     - c-001

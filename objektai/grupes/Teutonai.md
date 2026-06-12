@@ -16,7 +16,9 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 
 ## Teiginiai
 
+<a id="claim-t-07849"></a>
 - t-001
+  global_id: t-07849
   teiginys: 'Teutonai pavergė pajūryje gyvenusius erulius ir kraštovardžiams pridėdavo savo žodį land.'
   pagrindžia:
     - c-001
@@ -141,7 +143,7 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/autoriai/M. Perlbachas]]
 - [[objektai/posakiai/Man liūdna, kad mano mielieji sūnūs]]
-- [[objektai/asmenys/Mangoldas [iš Šternbergo]]]
+- [Mangoldas [iš Šternbergo]](/objektai/asmenys/Mangoldas%20%5Bi%C5%A1%20%C5%A0ternbergo%5D)
 - [[objektai/asmenys/Mergelė Marija]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Mongolai]]

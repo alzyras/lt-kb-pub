@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59704"></a>
 - t-001
+  global_id: t-59704
   teiginys: 'Dusburgietis teigia, kad kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius Torunės, Karaliaučiaus, Berlyno ir kt.'
   pagrindžia:
     - c-001

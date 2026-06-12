@@ -18,7 +18,9 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
 
 ## Teiginiai
 
+<a id="claim-t-87789"></a>
 - t-001
+  global_id: t-87789
   teiginys: 'Mikalojus Ungarns iš besiskundžiančiųjų pusės aiškino, kad kaltinamasis turi pripažinti civilinę teisę ir auksakalių cechą.'
   pagrindžia:
     - c-001

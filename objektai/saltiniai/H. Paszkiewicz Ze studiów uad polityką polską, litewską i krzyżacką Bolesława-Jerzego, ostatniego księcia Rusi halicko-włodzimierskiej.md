@@ -23,7 +23,9 @@ Paszkiewicz, H.
 
 ## Teiginiai
 
+<a id="claim-t-31698"></a>
 - t-001
+  global_id: t-31698
   teiginys: 'H. Paszkiewicziaus „Ze studiów nad polityką polską, litewską i krzyżacką Bolesława-Jerzego“ paskelbta AW 2 tome 1924 m., p. 31–67.'
   pagrindžia:
     - c-001

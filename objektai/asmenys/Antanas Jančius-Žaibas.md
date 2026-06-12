@@ -25,7 +25,9 @@ Taip pat užpultas Antano Jančio-Žaibo bunkeris Šimonių girioje prie Iženos
 
 ## Teiginiai
 
+<a id="claim-t-80704"></a>
 - t-001
+  global_id: t-80704
   teiginys: 'Taip pat užpultas Antano Jančio-Žaibo bunkeris Šimonių girioje prie Iženos upelio, jame žuvo 6 partizanai.'
   pagrindžia:
     - c-001

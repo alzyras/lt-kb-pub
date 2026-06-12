@@ -25,7 +25,9 @@ Inžinerijos pulkininkui Jokūbui Jasinskui vadovaujant pradėtas statyti antras
 
 ## Teiginiai
 
+<a id="claim-t-41948"></a>
 - t-001
+  global_id: t-41948
   teiginys: 'Jokūbui Jasinskui vadovaujant Senajame Muchavece buvo užverstos dvi brastos, o prie tilto per Muchaveco upę supiltas pylimas.'
   pagrindžia:
     - c-001

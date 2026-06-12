@@ -17,7 +17,9 @@ Svetimšalių autoramento „vokiškojo“ tipo pėstininkas-ietininkas (pikinie
 
 ## Teiginiai
 
+<a id="claim-t-42496"></a>
 - t-001
+  global_id: t-42496
   teiginys: 'Pikinierius buvo svetimšalių autoramento vokiškojo tipo pėstininkas-ietininkas.'
   pagrindžia:
     - c-001

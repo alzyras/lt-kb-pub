@@ -26,7 +26,9 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
 
 ## Teiginiai
 
+<a id="claim-t-87912"></a>
 - t-001
+  global_id: t-87912
   teiginys: 'Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėtai gauna privilegiją Vilniaus vaitystei, bet ją Jonas Kazimieras panaikina sausio 15 d. dekretu - 1667 15.'
   pagrindžia:
     - c-001

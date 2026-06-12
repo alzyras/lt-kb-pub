@@ -40,22 +40,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75171"></a>
 - t-001
+  global_id: t-75171
   teiginys: 'Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75172"></a>
 - t-002
+  global_id: t-75172
   teiginys: 'Rugpjūtį žlugus Maskvos pučui, per kurį komunistai mėgino susigrąžinti valdžią Sovietų Sąjungoje, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75173"></a>
 - t-003
+  global_id: t-75173
   teiginys: 'Lietuvos tarptautinis pripažinimas užtruko, nes Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gorbačiovo reformoms.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183251"></a>
 - t-004
+  global_id: t-183251
   teiginys: '1991 m. vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę.'
   pagrindžia:
     - c-003

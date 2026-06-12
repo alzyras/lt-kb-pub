@@ -29,7 +29,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-88490"></a>
 - t-001
+  global_id: t-88490
   teiginys: 'Vilniaus kapitulos rankraščiuose buvo Žygimanto Senojo 1542 m. privilegija prieš eretikus, duota Vilniaus vyskupui.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-18978"></a>
 - t-001
+  global_id: t-18978
   teiginys: 'Jonas Kauneckas priklausė 1978 m. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.'
   pagrindžia:
     - c-001

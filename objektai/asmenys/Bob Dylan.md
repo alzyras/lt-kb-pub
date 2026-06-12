@@ -16,12 +16,16 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 
 ## Teiginiai
 
+<a id="claim-t-18855"></a>
 - t-001
+  global_id: t-18855
   teiginys: 'Bob Dylan yra kilęs iš Lietuvos emigrantų: jo senelė gimė Lietuvoje ir 1902 m. su šeima emigravo į JAV.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-18856"></a>
 - t-002
+  global_id: t-18856
   teiginys: 'Bob Dylan grojo Tony Zemaicio sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.'
   pagrindžia:
     - c-001

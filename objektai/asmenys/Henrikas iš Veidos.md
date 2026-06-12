@@ -27,12 +27,16 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
 
 ## Teiginiai
 
+<a id="claim-t-60136"></a>
 - t-001
+  global_id: t-60136
   teiginys: 'Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos žemės magistras, vadovavo aštuonerius metus296.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60137"></a>
 - t-002
+  global_id: t-60137
   teiginys: 'Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis.'
   pagrindžia:
     - c-001

@@ -30,12 +30,16 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
 
 ## Teiginiai
 
+<a id="claim-t-54762"></a>
 - t-001
+  global_id: t-54762
   teiginys: 'Gedimino vardu skelbtame laiške antspaudo tikrumu abejojantieji vadinami tiesos nedraugais, velnio garbintojais, tikėjimo priešais, bedieviais, melagiais ir negarbingais žmonėmis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54763"></a>
 - t-002
+  global_id: t-54763
   teiginys: 'Trijuose Gedimino laiškuose antspaudo tikrumu netikintieji pasmerkti kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės.'
   pagrindžia:
     - c-002

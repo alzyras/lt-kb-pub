@@ -27,7 +27,9 @@ Kare su švedais Naugardui padėjo Pskovas, kur buvo lietuvių vietininkas Jurgi
 
 ## Teiginiai
 
+<a id="claim-t-39568"></a>
 - t-001
+  global_id: t-39568
   teiginys: 'Jurgis Vytautaitis buvo lietuvių vietininkas Pskove ir balandžio 13 d. žuvo mūšyje prie Izborsko.'
   pagrindžia:
     - c-001

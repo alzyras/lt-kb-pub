@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jurijus Sviatoslavovičius
 
 ## Santrauka
 
-Kojelavičius teigia, kad taip pat ir Jurijus Sviatoslavovičius, Smolensko valdovas, nors ir elgėsi kaip neabejotinas priešas, kol Vytautas dar nebuvo atvykęs, tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne draugiškus jausmus ir prijungė, puoselėdamas tam tik rus sumanymus.
+Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, prijungė savo karines jėgas prie Vytauto.
 
 ## Teiginiai
 
+<a id="claim-t-186120"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad taip pat ir Jurijus Sviatoslavovičius, Smolensko valdovas, nors ir elgėsi kaip neabejotinas priešas, kol Vytautas dar nebuvo atvykęs, tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne draugiškus jausmus ir prijungė, puoselėdamas tam tik rus sumanymus.'
+  global_id: t-186120
+  teiginys: 'Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, prijungė savo karines jėgas prie Vytauto.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad taip pat ir Jurijus Sviatoslavovičius, Smolensko valdovas, nors ir elgėsi kaip neabejotinas priešas, kol Vytautas dar nebuvo atvykęs, tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne draugiškus jausmus ir prijungė, puoselėdamas tam tik rus sumanymus.'
+  santrauka: 'Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, prijungė savo karines jėgas prie Vytauto.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Drucko kunigaikščiai, pirmųjų Rusios valdo­
@@ -50,3 +51,7 @@ Kojelavičius teigia, kad taip pat ir Jurijus Sviatoslavovičius, Smolensko vald
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rusai]]

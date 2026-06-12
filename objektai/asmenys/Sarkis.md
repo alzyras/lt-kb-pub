@@ -18,17 +18,23 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
 
 ## Teiginiai
 
+<a id="claim-t-60064"></a>
 - t-001
+  global_id: t-60064
   teiginys: 'Dusburgietis teigia, kad tačiau pačią pirmąją naktį, kai broliai ilsėjosi savo palapinėse, Sarkis, be galo stiprus vyras, sutraukė pančius, kuriais buvo pririštas prie medžio, ir, nutvėręs kalaviją, nužudė vieną brolį bei tris ginklanešius, o kitam nukirto ranką, tačiau ir pats šioje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60065"></a>
 - t-002
+  global_id: t-60065
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas galingas skalvių vyras, vardu Sarkis, pilininkas Sarkų pilies473, šitaip pavadintos nuo jo vardo ir stovėjusios toje Skalvos dalyje, kuri Lietuvos žemės pasienyje474.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60066"></a>
 - t-003
+  global_id: t-60066
   teiginys: 'Dusburgietis teigia, kad sarkis pasiuntė savo žygūnus pas Klaipėdos komtūrą, nuolankiai ir pamaldžiai jį prašydamas atžygiuoti su savo ginklanešiais ir jį, norintį su visais namais ir šeimyna išsižadėti stabmeldystės ir priimti krikšto malonę, smurtu išsivesti, nes jis išvengsiąs netikėlių rankų tada, kai atsidursiąs galingo žmogaus globoje.'
   pagrindžia:
     - c-003

@@ -23,57 +23,79 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
 
 ## Teiginiai
 
+<a id="claim-t-46002"></a>
 - t-001
+  global_id: t-46002
   teiginys: 'Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-46003"></a>
 - t-002
+  global_id: t-46003
   teiginys: 'Tyzenhauzo reformos buvo vienas iš svarbiausių XVIII a.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-46004"></a>
 - t-003
+  global_id: t-46004
   teiginys: 'Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais sutapo Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos ūkį, pradžia.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-46005"></a>
 - t-004
+  global_id: t-46005
   teiginys: 'Antano Tyzenhauzo reformos datuojamos 1767 m. ir siejamos su Apšvietos epochos pradžia.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-46006"></a>
 - t-005
+  global_id: t-46006
   teiginys: 'Antanas Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-46007"></a>
 - t-006
+  global_id: t-46007
   teiginys: 'Antano Tyzenhauzo 1767 m. reformos kartais laikomos vienu iš Apšvietos epochos pradžios įvykių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-46008"></a>
 - t-007
+  global_id: t-46008
   teiginys: 'Antano Tyzenhauzo reformos buvo vienas svarbiausių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-46009"></a>
 - t-008
+  global_id: t-46009
   teiginys: 'Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-46010"></a>
 - t-009
+  global_id: t-46010
   teiginys: 'Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-46011"></a>
 - t-010
+  global_id: t-46011
   teiginys: 'Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-46012"></a>
 - t-011
+  global_id: t-46012
   teiginys: 'Antano Tyzenhauzo veiklos pradžia sutapo su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais.'
   pagrindžia:
     - c-004

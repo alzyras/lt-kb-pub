@@ -28,17 +28,23 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
 
 ## Teiginiai
 
+<a id="claim-t-86734"></a>
 - t-001
+  global_id: t-86734
   teiginys: 'Tuo laikotarpiu Mazovijoje valdė Venceslavas, o 1325 metais kitose krašto žemėse viešpatavo Ziemovitas ir Traidenis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86735"></a>
 - t-002
+  global_id: t-86735
   teiginys: 'Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems dalyvaujant karūnuotis Lietuvos karaliumi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86736"></a>
 - t-003
+  global_id: t-86736
   teiginys: 'Gedimino laiškų užuomina apie Mazoviją leido manyti, kad Mazovijos kunigaikštis buvo Lietuvos valdovo sąjungininkas.'
   pagrindžia:
     - c-002
@@ -143,3 +149,4 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Ziemovitas]]
+- [[objektai/asmenys/Zemovitas]]

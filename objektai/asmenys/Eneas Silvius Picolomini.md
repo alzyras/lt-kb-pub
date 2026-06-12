@@ -17,7 +17,9 @@ Nors Eneas Silvius Picolomini ir perdeda, pa­ sakodamas apie jo žiaurumą, bet
 
 ## Teiginiai
 
+<a id="claim-t-35059"></a>
 - t-001
+  global_id: t-35059
   teiginys: 'Eneas Silvius Picolomini pasakojo apie Vytauto žiaurumą, nors šaltinyje pažymima, kad jis perdėjo.'
   pagrindžia:
     - c-001

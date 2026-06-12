@@ -16,7 +16,9 @@ Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. suša
 
 ## Teiginiai
 
+<a id="claim-t-20049"></a>
 - t-001
+  global_id: t-20049
   teiginys: 'Tilžės gestapo būrys 1941 m. birželio 24 d. Gargžduose sušaudė 201 žydą, vėliau Kretingoje 214 ir Palangoje 111.'
   pagrindžia:
     - c-001

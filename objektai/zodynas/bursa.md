@@ -26,12 +26,16 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
 
 ## Teiginiai
 
+<a id="claim-t-86415"></a>
 - t-001
+  global_id: t-86415
   teiginys: 'Valerijonas Protasevičius neturtingiems studentams įsteigė Valerijono bursą ir pavedė ją jėzuitų priežiūrai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86416"></a>
 - t-002
+  global_id: t-86416
   teiginys: 'Valerijono bursos fundacijos dokumentas buvo datuotas 1579 m. Vilniuje, vyskupo dvare ir įprastuose rezidencijos namuose.'
   pagrindžia:
     - c-001

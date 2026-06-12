@@ -16,7 +16,9 @@ Dusburgietis teigia, kad todėl jis tarė Skomantui: „Negi tam čia mane atsiv
 
 ## Teiginiai
 
+<a id="claim-t-59102"></a>
 - t-001
+  global_id: t-59102
   teiginys: 'Dusburgietis teigia, kad todėl jis tarė Skomantui: „Negi tam čia mane atsivedei, kad tas žmogus mane užgauliotų įžeidžiamais žodžiais?“ Jam atsakė Skomantas: „Apgailestauju, kad esi koneveikiamas, jeigu drįsti, atsikeršyk už tau daromas nuoskaudas, o aš tau padėsiu“.'
   pagrindžia:
     - c-001

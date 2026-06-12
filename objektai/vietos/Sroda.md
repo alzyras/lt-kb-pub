@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Sroda
 
 ## Santrauka
 
-Kojelavičius teigia, kad keliaudamas iš Poznanės į Srodą, vos neprarado gyvybės.
+Keliaudamas iš Poznanės į Srodą karalius vos nežuvo, kai audros žaibas nutrenkė du jo kinkinio palydovus ir kelis arklius.
 
 ## Teiginiai
 
+<a id="claim-t-185307"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad keliaudamas iš Poznanės į Srodą, vos neprarado gyvybės.'
+  global_id: t-185307
+  teiginys: 'Keliaudamas iš Poznanės į Srodą karalius vos nežuvo, kai audros žaibas nutrenkė du jo kinkinio palydovus ir kelis arklius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad keliaudamas iš Poznanės į Srodą, vos neprarado gyvybės.'
+  santrauka: 'Keliaudamas iš Poznanės į Srodą karalius vos nežuvo, kai audros žaibas nutrenkė du jo kinkinio palydovus ir kelis arklius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pa­

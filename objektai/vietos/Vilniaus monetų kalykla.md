@@ -34,17 +34,23 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
 
 ## Teiginiai
 
+<a id="claim-t-55252"></a>
 - t-001
+  global_id: t-55252
   teiginys: 'Vilniaus monetų kalykla, prižiūrima Ulriko Hozijaus, veikė energingiau ir teikė karaliaus iždui nemaža pajamų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55253"></a>
 - t-002
+  global_id: t-55253
   teiginys: 'Lietuvos Metrikos žinioje nurodyta, kad Vilniaus monetų kalykla per ketverius metus davė valdovui 60 920 auksinų pajamų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85154"></a>
 - t-003
+  global_id: t-85154
   teiginys: 'Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemaža pajamų karaliaus iždui.'
   pagrindžia:
     - c-003

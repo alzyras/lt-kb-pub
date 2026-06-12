@@ -24,7 +24,9 @@ Dusburgietis teigia, kad lites ac res gestae inter Polonos et Ordinemque crucife
 
 ## Teiginiai
 
+<a id="claim-t-61147"></a>
 - t-001
+  global_id: t-61147
   teiginys: '„Lites ac res gestae inter Polonos et Ordinemque cruciferorum“ pirmasis tomas išleistas Poznanėje 1890 m.'
   pagrindžia:
     - c-001

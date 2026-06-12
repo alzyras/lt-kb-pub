@@ -25,7 +25,9 @@ Szameitat : Bibliographie des Memellandes (Ostdeutsche Beiträge aus dem Göttin
 
 ## Teiginiai
 
+<a id="claim-t-30850"></a>
 - t-001
+  global_id: t-30850
   teiginys: 'M. Szameitat parengė Klaipėdos krašto bibliografiją „Bibliographie des Memellandes“, 1957 m. išleistą Viurcburge.'
   pagrindžia:
     - c-001

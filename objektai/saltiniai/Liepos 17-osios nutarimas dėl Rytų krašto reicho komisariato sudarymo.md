@@ -18,7 +18,9 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
 
 ## Teiginiai
 
+<a id="claim-t-21109"></a>
 - t-001
+  global_id: t-21109
   teiginys: 'Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.'
   pagrindžia:
     - c-001

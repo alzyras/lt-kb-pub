@@ -19,12 +19,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-42467"></a>
 - t-001
+  global_id: t-42467
   teiginys: 'Karų kulminaciniai momentai leidinyje suprantami kaip mūšiai, per kuriuos rodoma kovų už Lietuvos valstybę istorija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183714"></a>
 - t-002
+  global_id: t-183714
   teiginys: 'Šio leidinio tikslas - per karų kulminacinius momentus (mūšius) parodyti ilgaamžę kovų už Lietuvos valstybę istoriją.'
   pagrindžia:
     - c-002

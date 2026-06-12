@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vaitiekus Kiočka
 
 ## Santrauka
 
-Kojelavičius teigia, kad vaitiekus Kiočka nieko kito nesugebėjo padaryti, tik užprotestuoti per pasiuntinį V a itie k ų K iočką dėl šios skriaudos.
+Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaikščių valdų prijungimo prie Maskvos.
 
 ## Teiginiai
 
+<a id="claim-t-186262"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vaitiekus Kiočka nieko kito nesugebėjo padaryti, tik užprotestuoti per pasiuntinį V a itie k ų K iočką dėl šios skriaudos.'
+  global_id: t-186262
+  teiginys: 'Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaikščių valdų prijungimo prie Maskvos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vaitiekus Kiočka nieko kito nesugebėjo padaryti, tik užprotestuoti per pasiuntinį V a itie k ų K iočką dėl šios skriaudos.'
+  santrauka: 'Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaikščių valdų prijungimo prie Maskvos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dėl šių priežasčių Severs­
@@ -49,3 +50,9 @@ Kojelavičius teigia, kad vaitiekus Kiočka nieko kito nesugebėjo padaryti, tik
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
+- [[objektai/zodynas/kunigaikščiai]]

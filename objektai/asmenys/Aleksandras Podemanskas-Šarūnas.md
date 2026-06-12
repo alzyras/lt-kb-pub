@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-78938"></a>
 - t-001
+  global_id: t-78938
   teiginys: 'Aleksandras Podemanskas-Šarūnas talkino Jono Neifalto-Lakūno vadovaujamam partizanų koviniam vienetui.'
   pagrindžia:
     - c-001

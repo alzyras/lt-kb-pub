@@ -16,7 +16,9 @@ de Comitibus Aquae Vivae, laišką.
 
 ## Teiginiai
 
+<a id="claim-t-36101"></a>
 - t-001
+  global_id: t-36101
   teiginys: 'Pr. de Comitibus Aquae Vivae laiškas gyrė Vytautą ir atkalbinėjo jį nuo sumanymo karūnuotis.'
   pagrindžia:
     - c-001

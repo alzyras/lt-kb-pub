@@ -17,7 +17,9 @@ Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę – apsisa
 
 ## Teiginiai
 
+<a id="claim-t-20113"></a>
 - t-001
+  global_id: t-20113
   teiginys: 'Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę – apsisaugojo nuo politinių saitų su Šventąja Romos imperija.'
   pagrindžia:
     - c-001

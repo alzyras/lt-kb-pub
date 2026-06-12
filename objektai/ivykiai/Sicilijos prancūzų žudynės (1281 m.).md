@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62476"></a>
 - t-001
+  global_id: t-62476
   teiginys: '1281 m. Sicilijos karalystėje palermiečiai išžudė ten gyvenusius prancūzus, tiek vyrus, tiek moteris.'
   pagrindžia:
     - c-001

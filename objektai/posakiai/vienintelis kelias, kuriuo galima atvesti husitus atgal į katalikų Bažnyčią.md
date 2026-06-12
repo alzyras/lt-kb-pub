@@ -25,12 +25,16 @@ Vytautas tad stojo vidury tarp husitų ir popiežiaus. Tad Vytautas įsakė grį
 
 ## Teiginiai
 
+<a id="claim-t-34408"></a>
 - t-001
+  global_id: t-34408
   teiginys: 'Vytautas manė, kad Kaributo siuntimas buvo vienintelis kelias atvesti husitus atgal į katalikų Bažnyčią.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-34409"></a>
 - t-002
+  global_id: t-34409
   teiginys: 'Vytautas čekams husitams rašė, kad norėjo juos grąžinti Bažnyčiai ir galėtų tarpininkauti tarp jų ir Zigmanto.'
   pagrindžia:
     - c-001

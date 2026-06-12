@@ -13,15 +13,14 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - kronika
   - mūšis
   - ordinas
+  - upė
 amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
 ---
-
 # Henrikas Botelis
 
 ## Santrauka
@@ -30,18 +29,24 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
 
 ## Teiginiai
 
+<a id="claim-t-116281"></a>
 - t-001
+  global_id: t-116281
   teiginys: 'Dusburgietis teigia, kad henriko Botelio.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-116283"></a>
 - t-002
+  global_id: t-116283
   teiginys: 'Dusburgietis teigia, kad jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius, kurių reikalavo prūsai, kad kiti, paimti į nelaisvę, išliktų gyvi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184711"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad žuvo tada pats Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, papras tai vadinamų broliais.'
+  global_id: t-184711
+  teiginys: 'Mūšyje žuvo Prūsijos maršalas Henrikas Botelis, Livonijos magistras ir šimtas penkiasdešimt ordino riterių.'
   pagrindžia:
     - c-004
 
@@ -108,7 +113,7 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   statusas: verified
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad žuvo tada pats Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, papras tai vadinamų broliais.'
+  santrauka: 'Mūšyje žuvo Prūsijos maršalas Henrikas Botelis, Livonijos magistras ir šimtas penkiasdešimt ordino riterių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Taigi pasitrau-
@@ -128,3 +133,24 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Estai]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/apostazija]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/įkaitai]]
+- [[objektai/grupes/Bartai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/zodynas/Ordino brolis]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/grupes/Varmiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- [[objektai/asmenys/Burchardas iš Hornhauzeno]]

@@ -26,17 +26,23 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
 
 ## Teiginiai
 
+<a id="claim-t-31050"></a>
 - t-001
+  global_id: t-31050
   teiginys: 'V. Urbanavičius tyrinėjo degintinius kapus ir XIV a. laidoseną Lietuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-31051"></a>
 - t-002
+  global_id: t-31051
   teiginys: 'V. Urbanavičius parašė darbą „Rumšiškėnai XIV-XVI amžiais“, išleistą Vilniuje 1970 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-31052"></a>
 - t-003
+  global_id: t-31052
   teiginys: 'V. Urbanavičius tyrė XIV a. degintinius kapus Lietuvoje, senųjų tikėjimų reliktus ir XIV-XVII a. laidoseną.'
   pagrindžia:
     - c-003

@@ -24,7 +24,9 @@ Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerij
 
 ## Teiginiai
 
+<a id="claim-t-26473"></a>
 - t-001
+  global_id: t-26473
   teiginys: 'Dr. Inga Vinogradnaitė buvo knygos „Lietuvos istorija“ redakcinės kolegijos narė.'
   pagrindžia:
     - c-001

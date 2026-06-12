@@ -19,7 +19,9 @@ Anglijos istori­ joje yra išlikusių pėdsakų, kad anuomet žymus tos tautos 
 
 ## Teiginiai
 
+<a id="claim-t-87908"></a>
 - t-001
+  global_id: t-87908
   teiginys: 'Anglijos karalius Henrikas V pasitelkė teologą Tomą Waldeną į Vladislovo Jogailos derybas su kryžiuočiais.'
   pagrindžia:
     - c-001

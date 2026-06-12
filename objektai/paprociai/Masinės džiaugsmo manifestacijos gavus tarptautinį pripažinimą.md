@@ -52,7 +52,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-20817"></a>
 - t-001
+  global_id: t-20817
   teiginys: '1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.'
   pagrindžia:
     - c-001

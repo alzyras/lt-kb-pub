@@ -25,7 +25,9 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
 
 ## Teiginiai
 
+<a id="claim-t-77844"></a>
 - t-001
+  global_id: t-77844
   teiginys: 'Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „landsbergininkus“.'
   pagrindžia:
     - c-001

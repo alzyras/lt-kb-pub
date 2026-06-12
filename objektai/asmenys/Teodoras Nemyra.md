@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Teodoras Nemyra
 
 ## Santrauka
 
-Kojelavičius teigia, kad išvengė nelaisvės ar mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va lavičius, Teodoras Nemyra, Bogdanas Maskevičius; šie garsūs pulkų vadai, sužeisti ir beveik visai išsekę, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš.
+Teodoras Nemyra, sužeistas ir beveik išsekęs, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš pavojaus.
 
 ## Teiginiai
 
+<a id="claim-t-186259"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad išvengė nelaisvės ar mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va lavičius, Teodoras Nemyra, Bogdanas Maskevičius; šie garsūs pulkų vadai, sužeisti ir beveik visai išsekę, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš.'
+  global_id: t-186259
+  teiginys: 'Teodoras Nemyra, sužeistas ir beveik išsekęs, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš pavojaus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad išvengė nelaisvės ar mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va lavičius, Teodoras Nemyra, Bogdanas Maskevičius; šie garsūs pulkų vadai, sužeisti ir beveik visai išsekę, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš.'
+  santrauka: 'Teodoras Nemyra, sužeistas ir beveik išsekęs, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš pavojaus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip pakliuvo į nelaisvę
@@ -51,3 +52,8 @@ Kojelavičius teigia, kad išvengė nelaisvės ar mirties vos vienas kitas: Ivan
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Kardas]]
+- [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]

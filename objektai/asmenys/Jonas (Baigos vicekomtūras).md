@@ -25,7 +25,9 @@ Dusburgietis teigia, kad šitokia sutartis nepatiko dievo numylėtam broliui Jon
 
 ## Teiginiai
 
+<a id="claim-t-60339"></a>
 - t-001
+  global_id: t-60339
   teiginys: 'Dusburgietis teigia, kad šitokia sutartis nepatiko dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius, pasikliovus viešpačiu, drąsiai stoti į kovą.'
   pagrindžia:
     - c-001

@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35858"></a>
 - t-001
+  global_id: t-35858
   teiginys: '1421 m. Livonijos ordinas sudarė amžiną taiką su Didžiuoju Naugardu.'
   pagrindžia:
     - c-001

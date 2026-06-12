@@ -26,25 +26,31 @@ Jį valdė Vilniaus generalgubernatorius.
 
 ## Teiginiai
 
+<a id="claim-t-45820"></a>
 - t-001
+  global_id: t-45820
   teiginys: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-45822"></a>
 - t-002
+  global_id: t-45822
   teiginys: 'Imperijos sostinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė tarpinė grandis – generalgubernatoriaus institucija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182947"></a>
 - t-003
-  teiginys: 'Jį valdė Vilniaus generalgubernatorius.'
+  global_id: t-182947
+  teiginys: 'Rusijos šiaurės vakarų kraštą valdė Vilniaus generalgubernatorius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Jį valdė Vilniaus generalgubernatorius.'
+  santrauka: 'Rusijos šiaurės vakarų kraštą valdė Vilniaus generalgubernatorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visos tos trys gubernijos iš pradžių ir Rusų valdžios buvo

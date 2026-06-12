@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-23492"></a>
 - t-001
+  global_id: t-23492
   teiginys: '1889 m. pradėtas leisti žurnalas „Varpas“ plėtojo „Aušros“ idėjas.'
   pagrindžia:
     - c-001

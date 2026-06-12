@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87020"></a>
 - t-001
+  global_id: t-87020
   teiginys: '1323 m. per Užgavėnes lietuviai įsiveržė į Revelio žemę ir Dorpato vyskupiją, pagrobė 4000 žmonių ir sudegino 42 parapijų bažnyčias.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87021"></a>
 - t-002
+  global_id: t-87021
   teiginys: 'Kunigaikštystėje buvo apiplėšti ir sudeginti ištisi kaimai bei dešimtys bažnyčių, o paimtų į nelaisvę žmonių skaičius siekė apie 9000.'
   pagrindžia:
     - c-001

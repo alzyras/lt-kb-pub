@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-34539"></a>
 - t-001
+  global_id: t-34539
   teiginys: 'Jogaila atsisakė čekų husitų siūlyto karališko vainiko, o Vytautas vėliau sutiko rūpintis jų reikalais.'
   pagrindžia:
     - c-001

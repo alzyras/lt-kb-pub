@@ -16,7 +16,9 @@ Dusburgietis teigia, kad tuo tarpu lietuviai savo dievams kaip auką sudegino br
 
 ## Teiginiai
 
+<a id="claim-t-60288"></a>
 - t-001
+  global_id: t-60288
   teiginys: 'Dusburgietis teigia, kad tuo tarpu lietuviai savo dievams kaip auką sudegino brolį Gerhardą, pravarde Rudė, Sembos fogtą, apvilktą šarvais ir užsodintą ant savo kovos žirgo579.'
   pagrindžia:
     - c-001

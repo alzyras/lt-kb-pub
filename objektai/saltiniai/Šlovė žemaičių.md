@@ -26,12 +26,16 @@ poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo
 
 ## Teiginiai
 
+<a id="claim-t-75538"></a>
 - t-001
+  global_id: t-75538
   teiginys: 'Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalba (žemaičių tarme), poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis manifestas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75539"></a>
 - t-002
+  global_id: t-75539
   teiginys: 'Eilėraštis „Šlovė žemaičių“ laikytas kone šio sąjūdžio himnu ar poetiniu manifestu.'
   pagrindžia:
     - c-001

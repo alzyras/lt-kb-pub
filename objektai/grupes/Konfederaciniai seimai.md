@@ -17,12 +17,16 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
 
 ## Teiginiai
 
+<a id="claim-t-72117"></a>
 - t-001
-  teiginys: 'Dėl jos daugybė seimų turėjo išsiskirstyti, nieko nenuveikę.'
+  global_id: t-72117
+  teiginys: 'Konfederaciniai seimai buvo skirti seimų iširimui išvengti ir numatytus klausimus spręsdavo balsų dauguma.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72118"></a>
 - t-002
+  global_id: t-72118
   teiginys: 'Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prieš tą blogybę būdavo nukreipti vadinamieji konfederaciniai seimai.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Se­ niau ji priklausė Eperješams, vėliau - Gelgaudams; kadangi išvengė gai
 
 ## Teiginiai
 
+<a id="claim-t-86790"></a>
 - t-001
+  global_id: t-86790
   teiginys: 'Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.'
   pagrindžia:
     - c-001

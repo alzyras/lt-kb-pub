@@ -29,7 +29,9 @@ Prochaska: Dzieje Witolda, 1914, 306-308 p. (^26) Žr.
 
 ## Teiginiai
 
+<a id="claim-t-31599"></a>
 - t-001
+  global_id: t-31599
   teiginys: 'A. Prochaskos „Dzieje Witolda“ cituojamas 1914 m. leidimo 306-308 puslapiais.'
   pagrindžia:
     - c-001

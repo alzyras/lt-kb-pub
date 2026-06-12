@@ -27,12 +27,16 @@ Tuo būdu su šia pirmąja Bažnyčios privilegija atsirado Lietuvoje bažnytin�
 
 ## Teiginiai
 
+<a id="claim-t-45751"></a>
 - t-001
+  global_id: t-45751
   teiginys: '1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, kuria buvo įsteigiama ir aprūpinama vyskupo institucija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45752"></a>
 - t-002
+  global_id: t-45752
   teiginys: 'O juk Lietuvos krikšto metu Jogaila suteikė privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų nuosavybę, ir Vilniaus miestiečiams, suteikdamas jiems savivaldą.'
   pagrindžia:
     - c-002

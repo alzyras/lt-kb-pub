@@ -26,17 +26,23 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 
 ## Teiginiai
 
+<a id="claim-t-79083"></a>
 - t-001
+  global_id: t-79083
   teiginys: 'Mozūrijos kunigaikštis Konradas 1226–1228 m. pakvietė Ordiną ir padovanojo jam Kulmo žemę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79084"></a>
 - t-002
+  global_id: t-79084
   teiginys: 'Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-79085"></a>
 - t-003
+  global_id: t-79085
   teiginys: 'Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.'
   pagrindžia:
     - c-002
@@ -181,6 +187,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - [[objektai/ivykiai/Štarkenbergo pilies užgrobimas ir įgulos išžudymas|Štarkenbergo pilies užgrobimas ir įgulos išžudymas (pilis)]]
 - [[objektai/paprociai/Šv. Mykolo dienos bažnyčių lankymas]]
 - [[objektai/asmenys/Konradas (Landsbergo markgrafas)]]
-- [[objektai/asmenys/Konradas Celneris]]
+- [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]
 - [[objektai/ivykiai/Noihauzo pilies pastatymas Kuršių nerijoje|Noihauzo pilies pastatymas Kuršių nerijoje (pilis)]]
 - [[objektai/ivykiai/Salyno sutartis]]

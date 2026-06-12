@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02790"></a>
 - t-001
+  global_id: t-02790
   teiginys: '1466 m. Torne buvo pasirašyta taika, kuria ordinas pasidarė Lenkijos vasalu ir perleido jai daug žemių.'
   pagrindžia:
     - c-001

@@ -36,12 +36,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01890"></a>
 - t-001
+  global_id: t-01890
   teiginys: 'Šiaulių ekonomijos sukilėliai norėjo susidėti su Ukrainos valstiečiais, bet atvykusi kariuomenė jų sukilimą žiauriai numalšino.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01891"></a>
 - t-002
+  global_id: t-01891
   teiginys: '1769 m. Šiaulių ekonomijos valstiečių sukilimas buvo ypač garsus valstiečių sukilimų atvejis.'
   pagrindžia:
     - c-001

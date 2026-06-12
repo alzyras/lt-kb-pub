@@ -18,7 +18,9 @@ Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į 
 
 ## Teiginiai
 
+<a id="claim-t-87841"></a>
 - t-001
+  global_id: t-87841
   teiginys: 'Maršalka Radvila globojo Geremferdeną, kai šis po įvesdinimo Vilniuje buvo išsiųstas į ordą.'
   pagrindžia:
     - c-001

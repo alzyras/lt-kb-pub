@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35852"></a>
 - t-001
+  global_id: t-35852
   teiginys: '1409 m. Lenčicos suvažiavime viršų gavo bendradarbiavimo su Lietuva idėja.'
   pagrindžia:
     - c-001

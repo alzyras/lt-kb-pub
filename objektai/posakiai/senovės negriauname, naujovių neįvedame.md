@@ -21,12 +21,16 @@ Lietuvių kunigaikščių posakis apibūdina užimtų žemių tvarkos išlaikymo
 
 ## Teiginiai
 
+<a id="claim-t-13509"></a>
 - t-001
+  global_id: t-13509
   teiginys: 'Frazė „senovės negriauname, naujovių neįvedame“ vadinama lietuvių kunigaikščių posakiu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-13510"></a>
 - t-002
+  global_id: t-13510
   teiginys: 'Posakis „senovės negriauname, naujovių neįvedame“ apibūdino taktiką palikti senąsias kunigaikštijų struktūras.'
   pagrindžia:
     - c-001

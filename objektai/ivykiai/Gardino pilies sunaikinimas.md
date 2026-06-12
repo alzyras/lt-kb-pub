@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62783"></a>
 - t-001
+  global_id: t-62783
   teiginys: 'Dusburgietis teigia, kad apie Gardino pilies sunaikinimą 1284 viešpaties metais tas pats magistras, kuriam niekad nebuvo gana karų su netikėliais, sutelkė stiprią kariuomenę ir vasarą su vadovu Skomantu patraukė prieš Gardino pilį520; persikėlęs per Nemuną, jis išdėstė savo šaulius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-62784"></a>
 - t-002
+  global_id: t-62784
   teiginys: 'Dusburgietis teigia, kad po to tūkstantis aštuoni šimtai vyrų užpuolė šios pilies apylinkes, jas nusiaubė, degindami bei piešdami, ir patraukė namo su didžiausiu grobiu, paėmę daug žmonių į nelaisvę ar išžudę.'
   pagrindžia:
     - c-003

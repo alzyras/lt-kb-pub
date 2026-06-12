@@ -45,22 +45,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67138"></a>
 - t-001
+  global_id: t-67138
   teiginys: 'Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalba (žemaičių tarme), poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis manifestas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67139"></a>
 - t-002
+  global_id: t-67139
   teiginys: 'Vilniaus universiteto aplinkoje susibūrę žemaičių inteligentai susitarė plėtoti aukštąją kultūrą lietuvių kalba ir rūpintis liaudies švietimu gimtąja kalba.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67140"></a>
 - t-003
+  global_id: t-67140
   teiginys: 'Vilniaus universiteto aplinkoje susibūrę inteligentai siekė plėtoti aukštąją kultūrą lietuvių kalba ir rūpintis liaudies švietimu gimtąja kalba.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183321"></a>
 - t-004
+  global_id: t-183321
   teiginys: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
   pagrindžia:
     - c-003

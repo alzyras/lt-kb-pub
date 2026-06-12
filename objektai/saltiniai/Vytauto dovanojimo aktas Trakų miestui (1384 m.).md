@@ -25,7 +25,9 @@ Vis dėlto pirmieji nusveria antruo­ sius: juk visos Vytauto dorybės tik jo pa
 
 ## Teiginiai
 
+<a id="claim-t-88499"></a>
 - t-001
+  global_id: t-88499
   teiginys: '1384 m. rugpjūčio 23 d. Vytauto dovanojimo aktas Trakų miestui liudija, kad tuo metu Vytautas jau buvo krikščionis.'
   pagrindžia:
     - c-001

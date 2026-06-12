@@ -16,7 +16,9 @@ Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo toto
 
 ## Teiginiai
 
+<a id="claim-t-36258"></a>
 - t-001
+  global_id: t-36258
   teiginys: 'Vytautas savo valdymo pabaigoje valdė Juodmarių pakraščio totorius.'
   pagrindžia:
     - c-001

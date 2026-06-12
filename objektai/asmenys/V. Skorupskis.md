@@ -16,7 +16,9 @@ Skorupskio vadovaujamai kolonai (1-ojo pėst.
 
 ## Teiginiai
 
+<a id="claim-t-40490"></a>
 - t-001
+  global_id: t-40490
   teiginys: 'V. Skorupskio vadovaujamai viduriniajai kolonai buvo įsakyta pulti Degučių-Zarasų kryptimi.'
   pagrindžia:
     - c-001

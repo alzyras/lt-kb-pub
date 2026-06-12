@@ -24,7 +24,9 @@ Boissonade, P.
 
 ## Teiginiai
 
+<a id="claim-t-30891"></a>
 - t-001
+  global_id: t-30891
   teiginys: 'P. Boissonade 1923 m. Paryžiuje paskelbė darbą „Du nouveau sur la Chanson de Roland“.'
   pagrindžia:
     - c-001

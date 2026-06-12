@@ -18,7 +18,9 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
 
 ## Teiginiai
 
+<a id="claim-t-88413"></a>
 - t-001
+  global_id: t-88413
   teiginys: 'Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“, kai Lietuvos praeities tyrimų dar buvo nedaug.'
   pagrindžia:
     - c-001

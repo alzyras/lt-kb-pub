@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39319"></a>
 - t-001
+  global_id: t-39319
   teiginys: 'Žasto, dilbio, kelio ir blauzdos apsaugos yra XIV a. pabaigos-XV a. rekonstrukcija.'
   pagrindžia:
     - c-001

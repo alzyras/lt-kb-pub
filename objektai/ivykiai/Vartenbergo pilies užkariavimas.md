@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62522"></a>
 - t-001
+  global_id: t-62522
   teiginys: 'Dusburgietis teigia, kad apie Vartenbergo pilies užkariavimą Pagonys, tiek kartų ir taip gausiai lieję krikščionių kraują, ir toliau nesiliovė jų persekioję.'
   pagrindžia:
     - c-001

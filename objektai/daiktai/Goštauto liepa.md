@@ -47,12 +47,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87027"></a>
 - t-001
+  global_id: t-87027
   teiginys: '1621 metais Petras Korkonas rašė, kad Petro Goštauto pasodinta liepa buvo vešli, drūta ir vadinta Goštauto liepa.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87028"></a>
 - t-002
+  global_id: t-87028
   teiginys: 'Senosios Goštauto liepos vardo tradicija galėjo būti priskirta vėlesniam laikotarpiui.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Karinėms operacijoms ėmėsi vadovauti į Vilnių atvykęs sssR gynybos vicemin
 
 ## Teiginiai
 
+<a id="claim-t-40514"></a>
 - t-001
+  global_id: t-40514
   teiginys: 'Karinėms operacijoms ėmėsi vadovauti į Vilnių atvykęs sssR gynybos viceministras, buvęs sssR oro desanto kariuomenės vadas generolas pulkininkas Vladislavas Ačalovas ir sssR sausumos kariuomenės TANKAI PRIEŠ BEGINKLIUS ŽMONES Sausio 13 d.'
   pagrindžia:
     - c-001

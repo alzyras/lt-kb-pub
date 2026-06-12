@@ -45,17 +45,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-47814"></a>
 - t-001
+  global_id: t-47814
   teiginys: 'Ano laiko apyrankių ir kitų papuošalų ornamentai buvo tiesiogiai giminingi lietuvių kaimo audinių ir juostų raštams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-47815"></a>
 - t-002
+  global_id: t-47815
   teiginys: 'Ano laiko apyrankių ir kitų papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo audinių ir juostų raštams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-47816"></a>
 - t-003
+  global_id: t-47816
   teiginys: 'Kai kurių papuošalų prototipai yra randami dar prieškristiniais laikais keltų plotuose.'
   pagrindžia:
     - c-001
@@ -105,3 +111,4 @@ Nenurodyta
 - [[objektai/daiktai/Gintaro ir stiklo karoliai]]
 - [[objektai/autoriai/Henrikas Latvis]]
 - [[objektai/daiktai/Juostos]]
+- [[objektai/daiktai/Lietuvos žalvario (bronzos) amžiaus dirbiniai]]

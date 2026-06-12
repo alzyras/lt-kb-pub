@@ -16,7 +16,9 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 
 ## Teiginiai
 
+<a id="claim-t-18962"></a>
 - t-001
+  global_id: t-18962
   teiginys: 'Jimi Hendrixas grojo Tony''o Zemaicio sukurta gitara „Zemaitis“.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vla
 
 ## Teiginiai
 
+<a id="claim-t-19205"></a>
 - t-001
+  global_id: t-19205
   teiginys: 'Romain Garry užaugo Vilniuje ir tapo dukartiniu Gonkūrų premijos laureatu.'
   pagrindžia:
     - c-001

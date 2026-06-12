@@ -24,7 +24,9 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
 
 ## Teiginiai
 
+<a id="claim-t-59045"></a>
 - t-001
+  global_id: t-59045
   teiginys: 'Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos karaliumi Tais pačiais metais, šventos Kotrynos dieną (lapkričio 25), Vokietijos valdovai elektoriai vieningai išrinko Henriką, Liuksemburgo grafą, Romos karaliumi (Mart.'
   pagrindžia:
     - c-001

@@ -24,12 +24,16 @@ Ji apie 1330 m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas n
 
 ## Teiginiai
 
+<a id="claim-t-97510"></a>
 - t-001
+  global_id: t-97510
   teiginys: 'Po arkivyskupo Teofilio mirties apie 1330 m. nebuvo paskirtas naujas įpėdinis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97511"></a>
 - t-002
+  global_id: t-97511
   teiginys: 'Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.'
   pagrindžia:
     - c-002

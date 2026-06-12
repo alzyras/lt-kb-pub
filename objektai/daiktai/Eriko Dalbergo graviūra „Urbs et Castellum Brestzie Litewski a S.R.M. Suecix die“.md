@@ -46,12 +46,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40709"></a>
 - t-001
+  global_id: t-40709
   teiginys: 'Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“ vaizduoja 1657 m. švedų apsiaustą Lietuvos Brastą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40710"></a>
 - t-002
+  global_id: t-40710
   teiginys: 'Eriko Dalbergo graviūroje matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, dengtos pylimais ir gabionais.'
   pagrindžia:
     - c-002

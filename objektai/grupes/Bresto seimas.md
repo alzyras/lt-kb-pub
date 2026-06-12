@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Bresto seimas (seimas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad k ad iš esm ės n iek o n eb u v o su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u v o u žd rau sta b et k ą spręsti, ir jie tu rė jo ap ie v isk ą p ra n ešti luom am s, susirinkusiem s į B resto seim ą.
+Pasiuntiniams buvo uždrausta ką nors spręsti, todėl jie turėjo viską pranešti luomams, susirinkusiems į Bresto seimą.
 
 ## Teiginiai
 
+<a id="claim-t-185448"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad k ad iš esm ės n iek o n eb u v o su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u v o u žd rau sta b et k ą spręsti, ir jie tu rė jo ap ie v isk ą p ra n ešti luom am s, susirinkusiem s į B resto seim ą.'
+  global_id: t-185448
+  teiginys: 'Pasiuntiniams buvo uždrausta ką nors spręsti, todėl jie turėjo viską pranešti luomams, susirinkusiems į Bresto seimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad k ad iš esm ės n iek o n eb u v o su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u v o u žd rau sta b et k ą spręsti, ir jie tu rė jo ap ie v isk ą p ra n ešti luom am s, susirinkusiem s į B resto seim ą.'
+  santrauka: 'Pasiuntiniams buvo uždrausta ką nors spręsti, todėl jie turėjo viską pranešti luomams, susirinkusiems į Bresto seimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     K adangi šios sąlygos turinčios
@@ -40,3 +41,8 @@ Kojelavičius teigia, kad k ad iš esm ės n iek o n eb u v o su tarta, rodo v �
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/seimas]]

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jurgis Nosuta
 
 ## Santrauka
 
-Kojelavičius teigia, kad negi jie nemato, koks grėsmingas Jurgis Nosuta, kuris, užėmęs Palenkę ir patraukęs čia į Mykolo pusę daugybę bajorų bei didikų, ketina netrukus pergalin gus ginklus nukreipti prieš Lietuvą?
+Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei didikų.
 
 ## Teiginiai
 
+<a id="claim-t-186224"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad negi jie nemato, koks grėsmingas Jurgis Nosuta, kuris, užėmęs Palenkę ir patraukęs čia į Mykolo pusę daugybę bajorų bei didikų, ketina netrukus pergalin gus ginklus nukreipti prieš Lietuvą?'
+  global_id: t-186224
+  teiginys: 'Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei didikų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad negi jie nemato, koks grėsmingas Jurgis Nosuta, kuris, užėmęs Palenkę ir patraukęs čia į Mykolo pusę daugybę bajorų bei didikų, ketina netrukus pergalin gus ginklus nukreipti prieš Lietuvą?'
+  santrauka: 'Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei didikų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Argi jie pasitiki ištiki­
@@ -40,3 +41,8 @@ Kojelavičius teigia, kad negi jie nemato, koks grėsmingas Jurgis Nosuta, kuris
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/daiktai/Ginklai]]

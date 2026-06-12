@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02212"></a>
 - t-001
+  global_id: t-02212
   teiginys: '„Lietuvių Laikraštis“ buvo pirmasis lietuviškas laikraštis po spaudos atgavimo.'
   pagrindžia:
     - c-001

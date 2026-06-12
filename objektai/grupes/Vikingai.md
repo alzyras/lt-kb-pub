@@ -24,13 +24,17 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
 
 ## Teiginiai
 
+<a id="claim-t-66261"></a>
 - t-001
+  global_id: t-66261
   teiginys: 'Palei upių prekybos kelią ilgainiui atsirado vikingų sodybų, kurių gyventojai saugojo pirklius nuo plėšikų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182930"></a>
 - t-002
-  teiginys: 'Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmonių, saugančių upe keliaujančius pirklius nuo plėšikų.'
+  global_id: t-182930
+  teiginys: 'Prie Dauguvos ir Dniepro kelio į Bizantiją ilgainiui atsirado vikingų sodybų, saugojusių upe keliaujančius pirklius nuo plėšikų.'
   pagrindžia:
     - c-002
 
@@ -53,7 +57,7 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
     - t-001
 
 - c-002
-  santrauka: 'Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmonių, saugančių upe keliaujančius pirklius nuo plėšikų.'
+  santrauka: 'Prie Dauguvos ir Dniepro kelio į Bizantiją ilgainiui atsirado vikingų sodybų, saugojusių upe keliaujančius pirklius nuo plėšikų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vienas iš jų svar-

@@ -16,12 +16,16 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
 
 ## Teiginiai
 
+<a id="claim-t-121296"></a>
 - t-001
+  global_id: t-121296
   teiginys: 'Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centrai, būtent, Deltuva (prie Ukmergės)^216 ir Nalšėnai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-121297"></a>
 - t-002
+  global_id: t-121297
   teiginys: 'Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek iš pirktų žemių ir privažiuojamų .'
   pagrindžia:
     - c-001

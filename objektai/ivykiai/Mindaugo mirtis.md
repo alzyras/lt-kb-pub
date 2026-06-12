@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35867"></a>
 - t-001
+  global_id: t-35867
   teiginys: '1263 m. Mindaugas žuvo dėl giminės nesantaikos.'
   pagrindžia:
     - c-001

@@ -26,22 +26,30 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
 
 ## Teiginiai
 
+<a id="claim-t-78375"></a>
 - t-001
+  global_id: t-78375
   teiginys: '1943 m. įstojo į Lietuvos laisvės armijos (LLA) organizaciją, jam suteiktas jaunesniojo leitenanto laipsnis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78376"></a>
 - t-002
+  global_id: t-78376
   teiginys: 'Lietuvos laisvės armija buvo slapta karinė organizacija, įkurta Kazio Veverskio iniciatyva 1941 m. Vilniuje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78377"></a>
 - t-003
+  global_id: t-78377
   teiginys: 'Tarnavo Lietuvos kariuomenėje, buvo Šaulių sąjungos narys.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-78378"></a>
 - t-004
+  global_id: t-78378
   teiginys: '1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės armijos grupes.'
   pagrindžia:
     - c-002

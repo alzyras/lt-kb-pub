@@ -18,7 +18,9 @@ Urbonas, O.
 
 ## Teiginiai
 
+<a id="claim-t-30887"></a>
 - t-001
+  global_id: t-30887
   teiginys: 'O. Urbonas parašė veikalą „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“, išleistą 1960 m. Brooklyne.'
   pagrindžia:
     - c-001

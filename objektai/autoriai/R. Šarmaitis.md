@@ -24,7 +24,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-30951"></a>
 - t-001
+  global_id: t-30951
   teiginys: 'R. Šarmaitis 1963 m. žurnale „Komunistas“ paskelbė straipsnį „Iš marksistinių-lenininių pozicijų“.'
   pagrindžia:
     - c-001

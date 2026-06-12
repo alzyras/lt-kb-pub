@@ -27,12 +27,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88296"></a>
 - t-001
+  global_id: t-88296
   teiginys: '1493 m. Aleksandro Jogailaičio dovanojimo aktas Maksimui Vasiljevičiui buvo surašytas slavų kalba ir puikiai išsilaikęs.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88297"></a>
 - t-002
+  global_id: t-88297
   teiginys: '1493 m. sausio 13 d. Aleksandras Jogailaitis Vilniuje dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą Užupyje už Vilnelės.'
   pagrindžia:
     - c-001

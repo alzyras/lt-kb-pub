@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87128"></a>
 - t-001
+  global_id: t-87128
   teiginys: 'Pilies gynėjai iškėlė vėliavas su kryžiais kaip ženklą, kad kovoja su Vytauto gretose buvusiais nepakrikštytais lietuviais ir žemaičiais.'
   pagrindžia:
     - c-001

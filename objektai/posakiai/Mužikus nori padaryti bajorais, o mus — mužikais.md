@@ -18,12 +18,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-67278"></a>
 - t-001
+  global_id: t-67278
   teiginys: 'Bajorija šūkiu „Mužikus nori padaryti bajorais, o mus — mužikais“ protestavo prieš valstiečiams numatytus palengvinimus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67279"></a>
 - t-002
+  global_id: t-67279
   teiginys: 'Mužikus nori padaryti bajorais, o mus — mužikais: jame buvo nuostatų, palengvinančių valstiečių būklę ir paimančių juos įstatymo globon.'
   pagrindžia:
     - c-002

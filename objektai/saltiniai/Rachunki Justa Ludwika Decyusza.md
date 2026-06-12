@@ -25,7 +25,9 @@ IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Au
 
 ## Teiginiai
 
+<a id="claim-t-88470"></a>
 - t-001
+  global_id: t-88470
   teiginys: 'IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Augusto Municipalinė teisė (willkühr - saviiždininko; iš rankraščio išspausdinvalė vok., vert.'
   pagrindžia:
     - c-001

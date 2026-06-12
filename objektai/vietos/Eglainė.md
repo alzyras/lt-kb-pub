@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-38460"></a>
 - t-001
+  global_id: t-38460
   teiginys: 'Į Vidugirių kaimą buvo atvykę iš Eglainės 6-ojo pėstininkų Pilėnų Kunigaikščio Margio pulko batalionai.'
   pagrindžia:
     - c-001

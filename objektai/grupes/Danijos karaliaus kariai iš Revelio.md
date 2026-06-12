@@ -19,12 +19,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-40871"></a>
 - t-001
+  global_id: t-40871
   teiginys: 'Danijos karaliaus kariai iš Revelio nepritarė patarimui kautis be žirgų, nes dėl sunkios ginkluotės manė neatsilaikysią mūšyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40872"></a>
 - t-002
+  global_id: t-40872
   teiginys: 'Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį.'
   pagrindžia:
     - c-002

@@ -41,17 +41,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75262"></a>
 - t-001
+  global_id: t-75262
   teiginys: 'Stasys Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75263"></a>
 - t-002
+  global_id: t-75263
   teiginys: 'Smetonai slaptą memorandumą, kuriame išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus, mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75264"></a>
 - t-003
+  global_id: t-75264
   teiginys: 'S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.'
   pagrindžia:
     - c-001

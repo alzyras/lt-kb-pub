@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67123"></a>
 - t-001
+  global_id: t-67123
   teiginys: 'Tuo būdu šitokiam seime veto teisė jau nebeveikė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67124"></a>
 - t-002
+  global_id: t-67124
   teiginys: 'Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prieš tą blogybę būdavo nukreipti vadinamieji konfederaciniai seimai.'
   pagrindžia:
     - c-001

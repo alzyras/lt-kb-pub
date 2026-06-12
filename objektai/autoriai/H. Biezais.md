@@ -25,7 +25,9 @@ Biezais, H.
 
 ## Teiginiai
 
+<a id="claim-t-30626"></a>
 - t-001
+  global_id: t-30626
   teiginys: 'H. Biezais 1954 m. Upsaloje paskelbė darbą apie baltų tautų religijos šaltinius ir ankstesnių tyrimų rezultatus.'
   pagrindžia:
     - c-001

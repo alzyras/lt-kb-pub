@@ -16,7 +16,9 @@ Jis pranešė liūdną naujieną: Puvočių kaime, poilsio metu netikėtai prie�
 
 ## Teiginiai
 
+<a id="claim-t-80600"></a>
 - t-001
+  global_id: t-80600
   teiginys: 'Jis pranešė liūdną naujieną: Puvočių kaime, poilsio metu netikėtai priešo užkluptas, žuvo Marcinkonių bataliono vadas Šernas (Itn.'
   pagrindžia:
     - c-001

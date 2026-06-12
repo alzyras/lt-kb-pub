@@ -17,12 +17,16 @@ Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti 
 
 ## Teiginiai
 
+<a id="claim-t-01173"></a>
 - t-001
+  global_id: t-01173
   teiginys: 'Šernas „Lietuviškoje Ceitungoje“ pradėjo spausdinti patriotiškus straipsnius apie lietuvių praeitį ir svetimųjų jungą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01174"></a>
 - t-002
+  global_id: t-01174
   teiginys: '1878 m. Šerno redaguojama „Lietuviška Ceitunga“ ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais.'
   pagrindžia:
     - c-002

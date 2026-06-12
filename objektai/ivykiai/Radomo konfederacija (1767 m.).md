@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01784"></a>
 - t-001
+  global_id: t-01784
   teiginys: 'Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01785"></a>
 - t-002
+  global_id: t-01785
   teiginys: '1767 m. Repninui kurstant, Radomas buvo numatytas prieš karalių ir Čartoriskius nukreiptų konfederacijų centru.'
   pagrindžia:
     - c-002

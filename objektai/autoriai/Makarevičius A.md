@@ -17,7 +17,9 @@ Dusburgietis teigia, kad iII, 347; Zajączkowski S., Studya..., p. 40—41; SZM,
 
 ## Teiginiai
 
+<a id="claim-t-60745"></a>
 - t-001
+  global_id: t-60745
   teiginys: 'A. Makarevičius siejo Paštuvos pilį su Jaučakių piliakalniu į rytus nuo Vilkijos.'
   pagrindžia:
     - c-001

@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86946"></a>
 - t-001
+  global_id: t-86946
   teiginys: '1325 m. Vilniuje Gediminas sudarė sutartį su Lokietka dėl bendros kovos su Prūsijos ordinu.'
   pagrindžia:
     - c-001

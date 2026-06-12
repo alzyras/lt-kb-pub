@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35857"></a>
 - t-001
+  global_id: t-35857
   teiginys: 'Livonijos ordinas sudarė su Pskovu dešimties metų sutartį, kuri buvo nukreipta prieš Vytautą.'
   pagrindžia:
     - c-001

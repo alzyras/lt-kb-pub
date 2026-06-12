@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86941"></a>
 - t-001
+  global_id: t-86941
   teiginys: 'Algirdo valdymo pradžioje jo žmonos atkvieti Šv. Bazilijaus ordino vienuoliai įsikūrė Vilniuje ir turėjo medinę bažnyčią.'
   pagrindžia:
     - c-001

@@ -26,92 +26,128 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 
 ## Teiginiai
 
+<a id="claim-t-170285"></a>
 - t-001
+  global_id: t-170285
   teiginys: '1933 m. išleidęs Berlyne disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž. pradžios, 1934).'
   pagrindžia:
     - c-004
 
+<a id="claim-t-170286"></a>
 - t-002
+  global_id: t-170286
   teiginys: 'Kovo 23 d. Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė Lietuvos deklaraciją Vokietijos kancleriui Georgui von Hertlingui.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-170287"></a>
 - t-003
+  global_id: t-170287
   teiginys: '1932 m. Berlyne Konstantinas Avižonis parašė disertaciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 m.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-170288"></a>
 - t-004
+  global_id: t-170288
   teiginys: 'Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-170289"></a>
 - t-005
+  global_id: t-170289
   teiginys: 'Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-170291"></a>
 - t-006
+  global_id: t-170291
   teiginys: '„Systematisches Verzeichnis der Quellen und Hülfsmittel zur Geschichte Estlands, Livlands und Kurlands“ buvo išleistas Berlyne 1878 m.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-170292"></a>
 - t-007
+  global_id: t-170292
   teiginys: 'Naciams Berlyne sulaikius LAF vadą Kazį Škirpą, Laikinosios vyriausybės vadovu tapo Juozas Ambrazevičius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-170293"></a>
 - t-008
+  global_id: t-170293
   teiginys: 'Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konfliktą.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-170294"></a>
 - t-009
+  global_id: t-170294
   teiginys: 'Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį Kaunui sakė Maskva ir Berlynas.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-170295"></a>
 - t-010
+  global_id: t-170295
   teiginys: 'Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento teisėmis dėstė 1940-1943 [44] Vilniaus universitete.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-170296"></a>
 - t-011
+  global_id: t-170296
   teiginys: 'Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čempionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas), boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo garsenybė Johnny Unitas (Jonas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-170297"></a>
 - t-012
+  global_id: t-170297
   teiginys: 'Z. Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-170298"></a>
 - t-013
+  global_id: t-170298
   teiginys: 'Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje vidurinių amžių istorijoje.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-170299"></a>
 - t-014
+  global_id: t-170299
   teiginys: 'Dusburgietis teigia, kad berlyno karališkosios bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-170300"></a>
 - t-015
+  global_id: t-170300
   teiginys: 'Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-170301"></a>
 - t-016
+  global_id: t-170301
   teiginys: 'K. Avižonis 1932 m. Berlyne parašė disertaciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 m.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-170302"></a>
 - t-017
+  global_id: t-170302
   teiginys: 'Z. Ivinskio veikalas „Geschichte des Bauernstandes in Litauen“ buvo išleistas Berlyne 1933 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-170303"></a>
 - t-018
+  global_id: t-170303
   teiginys: 'Smetona skubiai išvyko į Berlyną, kur pasirašė 100 mln.'
   pagrindžia:
     - c-013

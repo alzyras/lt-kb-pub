@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Stanislovas Narbutas
 
 ## Santrauka
 
-Kojelavičius teigia, kad pats Aleksandras, norėdamas parodyti, jog ir jis ne prieštarauja taikai, nusiuntė į Maskvą Stanislovą Nar butą.
+Aleksandras nusiuntė Stanislovą Narbutą į Maskvą parodyti, kad pats neprieštarauja taikai.
 
 ## Teiginiai
 
+<a id="claim-t-186256"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pats Aleksandras, norėdamas parodyti, jog ir jis ne prieštarauja taikai, nusiuntė į Maskvą Stanislovą Nar butą.'
+  global_id: t-186256
+  teiginys: 'Aleksandras nusiuntė Stanislovą Narbutą į Maskvą parodyti, kad pats neprieštarauja taikai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pats Aleksandras, norėdamas parodyti, jog ir jis ne prieštarauja taikai, nusiuntė į Maskvą Stanislovą Nar butą.'
+  santrauka: 'Aleksandras nusiuntė Stanislovą Narbutą į Maskvą parodyti, kad pats neprieštarauja taikai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Broliai karaliai visaip

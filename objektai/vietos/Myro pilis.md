@@ -17,7 +17,9 @@ Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje (M
 
 ## Teiginiai
 
+<a id="claim-t-21632"></a>
 - t-001
+  global_id: t-21632
   teiginys: 'Myro pilis prie Nesvyžiaus yra gotikinių LDK cerkvių stiliaus analogas rezidencijų architektūroje.'
   pagrindžia:
     - c-001

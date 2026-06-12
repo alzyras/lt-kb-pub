@@ -18,7 +18,9 @@ Maskvos, totorių ir valakų pirkliai, kaskart vis gausiau atvykstantys į Vilni
 
 ## Teiginiai
 
+<a id="claim-t-86811"></a>
 - t-001
+  global_id: t-86811
   teiginys: 'Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metų muges, galėjo mainytis prekėmis tik su Vilniaus pirkliais.'
   pagrindžia:
     - c-001

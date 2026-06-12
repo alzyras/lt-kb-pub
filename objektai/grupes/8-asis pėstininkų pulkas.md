@@ -16,7 +16,9 @@ p. dalys, turinčios apsaugoti divizijos vadovybe ir sustiprinti kitus pulkus.
 
 ## Teiginiai
 
+<a id="claim-t-40830"></a>
 - t-001
+  global_id: t-40830
   teiginys: 'Į Ukmergę atvykusios 8-ojo pėstininkų pulko dalys turėjo apsaugoti divizijos vadovybę ir sustiprinti kitus pulkus.'
   pagrindžia:
     - c-001

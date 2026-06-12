@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-64968"></a>
 - t-001
+  global_id: t-64968
   teiginys: 'Ant tos pačios malkinės Brutenis liepė uždegti ugnį, o abu seneliai su ja sudegė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64970"></a>
 - t-002
+  global_id: t-64970
   teiginys: 'Abu seneliai galiausiai sudegė kartu su malkine.'
   pagrindžia:
     - c-002

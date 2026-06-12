@@ -22,7 +22,9 @@ NoPL = Novgorodskaja pervaja letopis’ staršego i mladšego izvodov, išl.
 
 ## Teiginiai
 
+<a id="claim-t-100201"></a>
 - t-001
+  global_id: t-100201
   teiginys: 'NoPL = Novgorodskaja pervaja letopis’ staršego i mladšego izvodov, išl.'
   pagrindžia:
     - c-001

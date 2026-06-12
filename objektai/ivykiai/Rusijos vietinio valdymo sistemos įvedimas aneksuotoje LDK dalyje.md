@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-25115"></a>
 - t-001
+  global_id: t-25115
   teiginys: '1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema, prižiūrima vietos administracijos.'
   pagrindžia:
     - c-001

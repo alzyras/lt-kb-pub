@@ -18,12 +18,16 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 
 ## Teiginiai
 
+<a id="claim-t-20038"></a>
 - t-001
+  global_id: t-20038
   teiginys: 'Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183186"></a>
 - t-002
+  global_id: t-183186
   teiginys: 'Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.'
   pagrindžia:
     - c-001

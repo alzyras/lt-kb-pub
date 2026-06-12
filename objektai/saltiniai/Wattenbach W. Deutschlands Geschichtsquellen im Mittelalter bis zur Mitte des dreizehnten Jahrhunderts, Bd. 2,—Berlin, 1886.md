@@ -24,7 +24,9 @@ Dusburgietis teigia, kad wattenbach W.
 
 ## Teiginiai
 
+<a id="claim-t-61363"></a>
 - t-001
+  global_id: t-61363
   teiginys: 'W. Wattenbacho „Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des dreizehnten Jahrhunderts“ antras tomas išleistas Berlyne 1886 m.'
   pagrindžia:
     - c-001

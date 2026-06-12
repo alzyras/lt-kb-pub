@@ -25,12 +25,16 @@ Dėl to atgaivinta Seimo institucija.
 
 ## Teiginiai
 
+<a id="claim-t-19711"></a>
 - t-001
+  global_id: t-19711
   teiginys: 'IV Seimo kandidatus galėjo kelti tautininkų kontroliuojamos savivaldybės, bet ne visuomeninės organizacijos ar piliečių grupės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183133"></a>
 - t-002
+  global_id: t-183133
   teiginys: 'Dėl to atgaivinta Seimo institucija.'
   pagrindžia:
     - c-002

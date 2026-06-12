@@ -27,7 +27,9 @@ Ljubavskij : Litovsko-Russkij sejm, Maskva 1900, 355-360 p. Plg.
 
 ## Teiginiai
 
+<a id="claim-t-30841"></a>
 - t-001
+  global_id: t-30841
   teiginys: 'M. Ljubavskij parašė veikalą „Litovsko-Russkij sejm“, išleistą Maskvoje 1900 m.'
   pagrindžia:
     - c-001

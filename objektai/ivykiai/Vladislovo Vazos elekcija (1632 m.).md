@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01857"></a>
 - t-001
+  global_id: t-01857
   teiginys: 'Vladislovo Vazos elekcija užtruko vos pusę valandos, nes jis neturėjo priešininkų.'
   pagrindžia:
     - c-001

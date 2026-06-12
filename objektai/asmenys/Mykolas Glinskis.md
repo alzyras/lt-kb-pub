@@ -22,102 +22,123 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Mykolas Glinskis
 
 ## Santrauka
 
 Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir savo favorita, dvaro maršalką, kunigaikštį Mykolą Glinskį, o pats grįžo į Vilnių. Kur kas geriau karybos meną išmanė totorių kilmės Mykolas Glinskis. Tuo pat metu Glinskis išsiuntė žvalgybinį husarų būrį, kuriam pavyko užklupti nedidelį totorių padalinį.
 
-## Ryšiai
-
-### Teminiai klasteriai
-- [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/grupes/Ateitis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-
 ## Teiginiai
 
+<a id="claim-t-82624"></a>
 - t-001
+  global_id: t-82624
   teiginys: 'Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidelį totorių padalinį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82625"></a>
 - t-002
+  global_id: t-82625
   teiginys: 'Paskutiniai totoriai buvo išgaudyti rugpjūčio 8 d. Mūšio nugalėtojas Mykolas Glinskis triumfuodamas grįžo į Vilnių YD rugpjūčio 12 d.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-82626"></a>
 - t-003
+  global_id: t-82626
   teiginys: 'Mykolas Glinskis jaunystėje mokėsi karybos Italijoje, tarnavo imperatoriaus Frydricho dvare ir Lietuvoje formavo husarų dalinius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82627"></a>
 - t-004
+  global_id: t-82627
   teiginys: 'Po Aleksandro mirties lietuviai bijojo vežti jo palaikus į Krokuvą dėl pavojingos Mykolo Glinskio puikybės.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-82628"></a>
 - t-005
+  global_id: t-82628
   teiginys: 'Mykolas Glinskis vedė į kovą su priešais paskubomis surinktus 10 000 bajorų, kareivių ir ginkluotų žmonių.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-82629"></a>
 - t-006
+  global_id: t-82629
   teiginys: 'Mykolas Glinskis davė komandą puolimui, po kurios LDK kariuomenė pakilo į ataką.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-82630"></a>
 - t-007
+  global_id: t-82630
   teiginys: 'Mykolas Glinskis kartu su Stanislovu Kiška buvo paskirtas vienu vyriausiųjų kariuomenės vadų.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-82631"></a>
 - t-008
+  global_id: t-82631
   teiginys: '1506 m. rugpjūtį Mykolas Glinskis vedė apie 10 000 bajorų, kareivių ir ginkluotų žmonių į kovą su Krymo ordos kariais ties Klecku.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184799"></a>
 - t-009
-  teiginys: 'Kojelavičius teigia, kad ir Glinskio pažadai, ir maskvėnų viltys turė jo rimtą pagrindą: didžiulė dauguma tos žemės bajorų atvirai linko į Glinskį.'
+  global_id: t-184799
+  teiginys: 'Didžioji dauguma Smolensko žemės bajorų atvirai linko į Mykolą Glinskį.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-184800"></a>
 - t-010
-  teiginys: 'Kojelavičius teigia, kad glinskis, puo selėdamas jau kartą atmestus sumanymus, po senovei troško vienu smūgiu viską sėkmingai bei laimingai pa baigti, todėl, visą naktį nesudėjęs nė bluosto, guodė ir drąsino maskvėnų pulkų vadus bei kunigaikščius, sa kydamas gerai žinąs, jog.'
+  global_id: t-184800
+  teiginys: 'Mykolas Glinskis visą naktį drąsino maskvėnų vadus, žadėdamas lengvą pergalę prieš menkas karaliaus pajėgas.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-184801"></a>
 - t-011
-  teiginys: 'Kojelavičius teigia, kad nedelsiant turi būti grąžinta karaliui tai, ką Mykolas Glinskis esąs užėmęs kara liaus valdose ar kaip savo tėvoniją, ar kaip Lietuvos didžiųjų kunigaikščių beneficiją ar pagaliau jėga už grobęs ir įkurdinęs ten savo įgulas, o jis pats privalo likti Maskvos.'
+  global_id: t-184801
+  teiginys: 'Pagal sutarties sąlygas Mykolas Glinskis turėjo likti Maskvos kunigaikštystėje kaip tremtinys be vilties sugrįžti.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-184802"></a>
 - t-012
-  teiginys: 'Kojelavičius teigia, kad begalvojant apie susidariusią padėtį ir besvarstant visokiausius planus, jam kilo mintis, jog toks gabus žmogus, kaip Glinskis, galėtų padaryti tai, ko pats neįstengė pasiekti.'
+  global_id: t-184802
+  teiginys: 'Vasilijus manė, kad Mykolas Glinskis galėtų padėti maskvėnams užimti pilį, kurios pats Vasilijus neįstengė paimti.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-184803"></a>
 - t-013
-  teiginys: 'Kojelavičius teigia, kad mykolas Glinskis bodėjosi dabartine padėtimi, kai niekuo negalima pasitikėti; visur matydamas rusų barbariškumą, juto širdyje gailestį dėl savo veiksmų.'
+  global_id: t-184803
+  teiginys: 'Mykolas Glinskis gailėjosi savo veiksmų ir per giminaitį laišku paprašė karaliaus atleidimo.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-184804"></a>
 - t-014
-  teiginys: 'Kojelavičius teigia, kad vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos.'
+  global_id: t-184804
+  teiginys: 'Vasilijus įsakė surakinti Mykolą Glinskį grandinėmis ir išvežti iš stovyklos į Viazmą.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-184805"></a>
 - t-015
-  teiginys: 'Kojelavičius teigia, kad pats Vasilijus, beje, irgi gerai žino jo, kad Glinskis, sulaukęs iš jo malonės, dar ištikimiau jam tarnausiąs ir ateityje teiksiąs kur kas daugiau nau dos Maskvos valstybei, nei būtų pridaręs žalos, pa sprukdamas slapta į Lietuvą.'
+  global_id: t-184805
+  teiginys: 'Vasilijus grąžino Mykolui Glinskiui laisvę ir pagarbą, o vėliau paskyrė jį savo mažamečio sūnaus globėju.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-184806"></a>
 - t-016
-  teiginys: 'Kojelavičius teigia, kad glinskį apkal tino, kad antrą kartą mėginęs pabėgti į Lietuvą, jį su ėmė, ir Ovčina, valdžios žmogus ir kunigaikščio globė jas, pasmerkė myriop: išdūrė akis, įmetė į kalėjimą, kuriame varginga mirtimi ir užbaigė gyvenimą, šitaip nutraukdamas permainingą savo.'
+  global_id: t-184806
+  teiginys: 'Ovčina apkaltino Mykolą Glinskį antru mėginimu bėgti į Lietuvą, pasmerkė jį mirti ir įkalino apakintą.'
   pagrindžia:
     - c-016
 
@@ -295,7 +316,7 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     - t-007
 
 - c-009
-  santrauka: 'Kojelavičius teigia, kad ir Glinskio pažadai, ir maskvėnų viltys turė jo rimtą pagrindą: didžiulė dauguma tos žemės bajorų atvirai linko į Glinskį.'
+  santrauka: 'Didžioji dauguma Smolensko žemės bajorų atvirai linko į Mykolą Glinskį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pri­
@@ -321,7 +342,7 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     - t-009
 
 - c-010
-  santrauka: 'Kojelavičius teigia, kad glinskis, puo selėdamas jau kartą atmestus sumanymus, po senovei troško vienu smūgiu viską sėkmingai bei laimingai pa baigti, todėl, visą naktį nesudėjęs nė bluosto, guodė ir drąsino maskvėnų pulkų vadus bei kunigaikščius, sa kydamas gerai žinąs, jog.'
+  santrauka: 'Mykolas Glinskis visą naktį drąsino maskvėnų vadus, žadėdamas lengvą pergalę prieš menkas karaliaus pajėgas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat stovykla, apsupta pylimu bei grioviais ir gi­
@@ -351,7 +372,7 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     - t-010
 
 - c-011
-  santrauka: 'Kojelavičius teigia, kad nedelsiant turi būti grąžinta karaliui tai, ką Mykolas Glinskis esąs užėmęs kara liaus valdose ar kaip savo tėvoniją, ar kaip Lietuvos didžiųjų kunigaikščių beneficiją ar pagaliau jėga už grobęs ir įkurdinęs ten savo įgulas, o jis pats privalo likti Maskvos.'
+  santrauka: 'Pagal sutarties sąlygas Mykolas Glinskis turėjo likti Maskvos kunigaikštystėje kaip tremtinys be vilties sugrįžti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pilys bus atstatomos ta tvarka, kuri sužymėta anks­
@@ -372,7 +393,7 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     - t-011
 
 - c-012
-  santrauka: 'Kojelavičius teigia, kad begalvojant apie susidariusią padėtį ir besvarstant visokiausius planus, jam kilo mintis, jog toks gabus žmogus, kaip Glinskis, galėtų padaryti tai, ko pats neįstengė pasiekti.'
+  santrauka: 'Vasilijus manė, kad Mykolas Glinskis galėtų padėti maskvėnams užimti pilį, kurios pats Vasilijus neįstengė paimti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vasilijui, praradusiam, nesėkminguose antpuoliuo­
@@ -392,10 +413,18 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     - t-012
 
 - c-013
-  santrauka: 'Kojelavičius teigia, kad mykolas Glinskis bodėjosi dabartine padėtimi, kai niekuo negalima pasitikėti; visur matydamas rusų barbariškumą, juto širdyje gailestį dėl savo veiksmų.'
+  santrauka: 'Mykolas Glinskis gailėjosi savo veiksmų ir per giminaitį laišku paprašė karaliaus atleidimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
-    Atsimindamas, kokia sėkmė jį
+    Tuo tarpu Glinskis suvo-
+    T ia g išk a s
+    M y k o lo
+    kė, jog visos jo viltys bergž-
+    G lin sk io  g a la s
+    džios ir tuščios, nes Vasili­
+    jus, žodžiu pažadėjęs jam ati­
+    duoti Smolenską ir šitaip atsilyginti už paramą, nė
+    nesirengė to daryti. Atsimindamas, kokia sėkmė jį
     anksčiau lydėjusi, jis bodėjosi dabartine padėtimi, kai
     niekuo negalima pasitikėti; visur matydamas rusų bar­
     bariškumą, juto širdyje gailestį dėl savo veiksmų. Kiek­
@@ -412,7 +441,7 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     - t-013
 
 - c-014
-  santrauka: 'Kojelavičius teigia, kad vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos.'
+  santrauka: 'Vasilijus įsakė surakinti Mykolą Glinskį grandinėmis ir išvežti iš stovyklos į Viazmą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vasilijus įsakė surakinti Glinskį grandinėmis
@@ -430,7 +459,7 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     - t-014
 
 - c-015
-  santrauka: 'Kojelavičius teigia, kad pats Vasilijus, beje, irgi gerai žino jo, kad Glinskis, sulaukęs iš jo malonės, dar ištikimiau jam tarnausiąs ir ateityje teiksiąs kur kas daugiau nau dos Maskvos valstybei, nei būtų pridaręs žalos, pa sprukdamas slapta į Lietuvą.'
+  santrauka: 'Vasilijus grąžino Mykolui Glinskiui laisvę ir pagarbą, o vėliau paskyrė jį savo mažamečio sūnaus globėju.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pats Vasilijus, beje, irgi gerai žino­
@@ -452,7 +481,7 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     - t-015
 
 - c-016
-  santrauka: 'Kojelavičius teigia, kad glinskį apkal tino, kad antrą kartą mėginęs pabėgti į Lietuvą, jį su ėmė, ir Ovčina, valdžios žmogus ir kunigaikščio globė jas, pasmerkė myriop: išdūrė akis, įmetė į kalėjimą, kuriame varginga mirtimi ir užbaigė gyvenimą, šitaip nutraukdamas permainingą savo.'
+  santrauka: 'Ovčina apkaltino Mykolą Glinskį antru mėginimu bėgti į Lietuvą, pasmerkė jį mirti ir įkalino apakintą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Begėdė, užsirūstinusi dėl teisingų pa­
@@ -471,3 +500,31 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
   statusas: verified
   pagrindžia:
     - t-016
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/karvedys]]
+
+### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/daiktai/Ginklai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/daiktai/Pilys]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/daiktai/Trimitai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/beneficija]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/flangas]]
+- [[objektai/zodynas/husarai]]
+- [[objektai/zodynas/karyba]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/ivykiai/Vasilijaus taikos prašymas ir taika su maskvėnais]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/zodynas/globėjas]]
+- [[objektai/grupes/Krymo orda]]

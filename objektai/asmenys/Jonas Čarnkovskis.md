@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jonas Čarnkovskis
 
 ## Santrauka
 
-Kojelavičius teigia, kad viskam vadovauti paskyrė Joną Čarnkovskį.
+Jonas Čarnkovskis vadovavo Lenkijos pasienio kelių apsaugai ir suėmė Cigalą iš Vienos bei Zigmantą Rotą.
 
 ## Teiginiai
 
+<a id="claim-t-186218"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad viskam vadovauti paskyrė Joną Čarnkovskį.'
+  global_id: t-186218
+  teiginys: 'Jonas Čarnkovskis vadovavo Lenkijos pasienio kelių apsaugai ir suėmė Cigalą iš Vienos bei Zigmantą Rotą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad viskam vadovauti paskyrė Joną Čarnkovskį.'
+  santrauka: 'Jonas Čarnkovskis vadovavo Lenkijos pasienio kelių apsaugai ir suėmė Cigalą iš Vienos bei Zigmantą Rotą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jedlnioje sukvietė lenkų seimą, kuris nu­
@@ -43,3 +44,8 @@ Kojelavičius teigia, kad viskam vadovauti paskyrė Joną Čarnkovskį.
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/žygūnai]]

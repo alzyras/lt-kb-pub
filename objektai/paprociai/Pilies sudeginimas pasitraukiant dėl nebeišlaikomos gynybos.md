@@ -39,13 +39,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62711"></a>
 - t-001
+  global_id: t-62711
   teiginys: 'Dusburgietis teigia, kad miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė, manydami daugiau nebegalėsią priešintis prasidėjus antpuoliui. Todėl, sudeginę pilį bei miestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos reikmenų, kiek ant pečių.'
   pagrindžia:
     - c-001
     - c-002
 
+<a id="claim-t-62712"></a>
 - t-002
+  global_id: t-62712
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis Pamedės žemėje buvo pilis, vardu Spitenbergas431, kurioje gyveno broliai. Antrosios atskalūnybės metais prūsai tiek kartų ją kamavo antpuoliais, kad negalima buvo joje ilgiau.'
   pagrindžia:
     - c-003

@@ -25,7 +25,9 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
 
 ## Teiginiai
 
+<a id="claim-t-60385"></a>
 - t-001
+  global_id: t-60385
   teiginys: 'Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje, po to Romoje, popiežiaus kurijoje, 1278 m. buvo paskirtas Gnezno arkivyskupu (todėl „Polonus“), bet mirė ten nenuvykęs.'
   pagrindžia:
     - c-001

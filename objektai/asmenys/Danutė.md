@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Danutė
 
 ## Santrauka
 
-Kojelavičius teigia, kad ten jį atpažino duktė Danutė, Mazovijos kunigaikščio Jonušo žmona; gražiai dukters priimtas, atgaivintas žolelėmis ir pirtimi, aprūpintas žirgais ir palydovu, sugrįžo į Lietuvą, be galo nudžiugindamas brolius kunigaikščius ir visą tautą.
+Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykusį tėvą ir padėjo jam grįžti į Lietuvą.
 
 ## Teiginiai
 
+<a id="claim-t-186193"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad ten jį atpažino duktė Danutė, Mazovijos kunigaikščio Jonušo žmona; gražiai dukters priimtas, atgaivintas žolelėmis ir pirtimi, aprūpintas žirgais ir palydovu, sugrįžo į Lietuvą, be galo nudžiugindamas brolius kunigaikščius ir visą tautą.'
+  global_id: t-186193
+  teiginys: 'Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykusį tėvą ir padėjo jam grįžti į Lietuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad ten jį atpažino duktė Danutė, Mazovijos kunigaikščio Jonušo žmona; gražiai dukters priimtas, atgaivintas žolelėmis ir pirtimi, aprūpintas žirgais ir palydovu, sugrįžo į Lietuvą, be galo nudžiugindamas brolius kunigaikščius ir visą tautą.'
+  santrauka: 'Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykusį tėvą ir padėjo jam grįžti į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pasakojama, kad viskas buvę taip sumaniai pa­
@@ -46,3 +47,10 @@ Kojelavičius teigia, kad ten jį atpažino duktė Danutė, Mazovijos kunigaikš
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/daiktai/Žirgai]]

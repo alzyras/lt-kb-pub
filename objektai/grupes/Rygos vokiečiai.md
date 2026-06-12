@@ -18,7 +18,9 @@ Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes ir magistrui Dani
 
 ## Teiginiai
 
+<a id="claim-t-31351"></a>
 - t-001
+  global_id: t-31351
   teiginys: 'Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais nebuvo palanki Livonijos ordino magistrui Andriui von Stirlandui.'
   pagrindžia:
     - c-001

@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Maskvėnų paliaubų pažeidimai prie Usviatų ir Stanislovo Paco atsakomasis žygis
 
 ## Santrauka
 
-Kojelavičius teigia, kad v asiliju i Z aborovskiui, k u ris k araliau s v a rd u n u sisk u n d ė dėl d arom ų skriaudų, Iv an as atsakė, k ad U sviatai bei Ū la jo rankose, k ad čia staty ti pilis jam v isai n ed rau d žia paliaubos, o V oronečą k araliau s žm onės p astatė p aliau.
+Maskvėnai prie Usviatų, Dauguvos ir Ūlos statė įtvirtinimus, plėšė kaimynines žemes ir nesėkmingai bandė užimti Voronečą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185619"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad v asiliju i Z aborovskiui, k u ris k araliau s v a rd u n u sisk u n d ė dėl d arom ų skriaudų, Iv an as atsakė, k ad U sviatai bei Ū la jo rankose, k ad čia staty ti pilis jam v isai n ed rau d žia paliaubos, o V oronečą k araliau s žm onės p astatė p aliau.'
+  global_id: t-185619
+  teiginys: 'Maskvėnai prie Usviatų, Dauguvos ir Ūlos statė įtvirtinimus, plėšė kaimynines žemes ir nesėkmingai bandė užimti Voronečą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad v asiliju i Z aborovskiui, k u ris k araliau s v a rd u n u sisk u n d ė dėl d arom ų skriaudų, Iv an as atsakė, k ad U sviatai bei Ū la jo rankose, k ad čia staty ti pilis jam v isai n ed rau d žia paliaubos, o V oronečą k araliau s žm onės p astatė p aliau.'
+  santrauka: 'Maskvėnai prie Usviatų, Dauguvos ir Ūlos statė įtvirtinimus, plėšė kaimynines žemes ir nesėkmingai bandė užimti Voronečą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     P rie U sviatų ir
@@ -54,3 +55,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/zodynas/paliaubos]]

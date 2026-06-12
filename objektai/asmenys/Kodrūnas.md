@@ -26,7 +26,9 @@ Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę
 
 ## Teiginiai
 
+<a id="claim-t-60356"></a>
 - t-001
+  global_id: t-60356
   teiginys: 'Kodrūnas, apgultos prūsų pilies vadas, talkino broliams užimant Baigos pilį.'
   pagrindžia:
     - c-001

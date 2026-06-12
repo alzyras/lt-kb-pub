@@ -17,7 +17,9 @@ Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— 
 
 ## Teiginiai
 
+<a id="claim-t-58927"></a>
 - t-001
+  global_id: t-58927
   teiginys: 'Territorium castri Dusburgiečio kronikoje reiškia pilies apygardą.'
   pagrindžia:
     - c-001

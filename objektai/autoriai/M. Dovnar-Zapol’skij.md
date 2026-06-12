@@ -16,7 +16,9 @@ Dovnar - Zapol’skij, Maskva 1899.
 
 ## Teiginiai
 
+<a id="claim-t-29550"></a>
 - t-001
+  global_id: t-29550
   teiginys: 'M. F. Dovnar-Zapol’skij 1899 m. Maskvoje išleido „Akty Litovsko-Russkogo gosudarstva“ pirmąjį sąsiuvinį.'
   pagrindžia:
     - c-001

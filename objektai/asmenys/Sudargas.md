@@ -14,14 +14,12 @@ atnaujinta: ''
 tags:
   - asmuo
   - karas
-  - kronika
   - ordinas
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
 ---
-
 # Sudargas
 
 ## Santrauka
@@ -30,18 +28,24 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
 
 ## Teiginiai
 
+<a id="claim-t-60210"></a>
 - t-001
+  global_id: t-60210
   teiginys: 'Dusburgietis teigia, kad kronikoje Sudargas, kaip lietuvių karo vadas, figūruoja 1308—1317 m. įvykių aprašyme (III, 303, 311, 332).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60211"></a>
 - t-002
+  global_id: t-60211
   teiginys: 'Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184834"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad sis pralaimėjimas atnešė nelaimę ne tik kraštui, bet ir Sudargo šeimynai, nes netikėtai pasirodęs priešas paėmė į nelaisvę žmoną, sūnus ir visus šeimynykščius.'
+  global_id: t-184834
+  teiginys: 'Po pralaimėjimo priešas paėmė į nelaisvę Sudargo žmoną, sūnus ir visus šeimynykščius.'
   pagrindžia:
     - c-003
 
@@ -79,7 +83,7 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad sis pralaimėjimas atnešė nelaimę ne tik kraštui, bet ir Sudargo šeimynai, nes netikėtai pasirodęs priešas paėmė į nelaisvę žmoną, sūnus ir visus šeimynykščius.'
+  santrauka: 'Po pralaimėjimo priešas paėmė į nelaisvę Sudargo žmoną, sūnus ir visus šeimynykščius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai Chris-
@@ -99,3 +103,20 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Albrechtas]]
+- [[objektai/asmenys/Albrechtas iš Hageno]]
+- [[objektai/asmenys/Fridrichas]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/ivykiai/Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę|Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis)]]
+- [[objektai/daiktai/Pilies vartai|Pilies vartai (pilis, XIV a.)]]
+- [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]
+- [[objektai/zodynas/ariergardas]]
+- [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
+- [[objektai/ivykiai/Žemaičių žygis į Sembą (1308 m.)]]

@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31769"></a>
 - t-001
+  global_id: t-31769
   teiginys: 'Z. Ivinskio „Krikščionybės kelias Lietuvon“ paskelbtas 1938 m. TK 5-ajame numeryje, p. 273–311.'
   pagrindžia:
     - c-001

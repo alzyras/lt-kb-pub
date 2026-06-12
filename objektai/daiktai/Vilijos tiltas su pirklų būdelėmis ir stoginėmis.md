@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87096"></a>
 - t-001
+  global_id: t-87096
   teiginys: '1529 m. Albertas Goštautas gavo karaliaus leidimą per Viliją nutiesti akmeninį arba plytinį tiltą su pirklių būdelėmis ar stoginėmis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87097"></a>
 - t-002
+  global_id: t-87097
   teiginys: 'Karalius leido Hozijui pastatyti tiltą per Viliją vietoje nepatogios perkėlos ir imti nustatytą mokestį iš pravažiuojančiųjų.'
   pagrindžia:
     - c-002

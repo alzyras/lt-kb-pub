@@ -24,17 +24,23 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
 
 ## Teiginiai
 
+<a id="claim-t-109625"></a>
 - t-001
+  global_id: t-109625
   teiginys: '1916 m. birželį Lozanos pavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti nepriklausomybę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-109626"></a>
 - t-002
+  global_id: t-109626
   teiginys: 'Kai 1916 m. birželį Lozanos pavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti savo šalies nepriklausomybę, karinė vokiečių valdžia neleido daug spekuliuoti šia tema.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-109627"></a>
 - t-003
+  global_id: t-109627
   teiginys: 'JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą (vedėjas Juozas Gabrys-Paršaitis ir kt.), publikacijas užsienio kalbomis apie Lietuvą, kuriose kėlė Lietuvos nepriklausomybės reikalą.'
   pagrindžia:
     - c-001

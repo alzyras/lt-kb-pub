@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-32511"></a>
 - t-001
+  global_id: t-32511
   teiginys: 'Pagal Stryjkovskį buvo restauruoti Livonijos Ronneburgo analai ir nekrologas.'
   pagrindžia:
     - c-001

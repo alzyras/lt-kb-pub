@@ -18,7 +18,9 @@ Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie ga
 
 ## Teiginiai
 
+<a id="claim-t-21108"></a>
 - t-001
+  global_id: t-21108
   teiginys: 'Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie gavo balsų daugumą.'
   pagrindžia:
     - c-001

@@ -33,17 +33,23 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
 
 ## Teiginiai
 
+<a id="claim-t-36049"></a>
 - t-001
+  global_id: t-36049
   teiginys: 'Alfredas Didysis, versdamas „Historiarum liber VII adversus paganos“, pridėjo žinių apie Baltijos pajūrio tautas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-36050"></a>
 - t-002
+  global_id: t-36050
   teiginys: '„Historiarum liber VII adversus paganos“ šiame veikale minima kaip Orosijaus knyga.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-36051"></a>
 - t-003
+  global_id: t-36051
   teiginys: 'Alfredas Didysis, versdamas Orosijaus „Historiarum liber VII adversus paganos“, pridėjo žinių apie Baltijos pakraščių tautas ir aisčius.'
   pagrindžia:
     - c-001

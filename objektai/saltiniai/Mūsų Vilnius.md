@@ -17,12 +17,16 @@ Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis m
 
 ## Teiginiai
 
+<a id="claim-t-21210"></a>
 - t-001
+  global_id: t-21210
   teiginys: 'Lietuviams teko nutraukti žurnalo „Mūsų Vilnius“ leidimą ir paleisti 700 000 narių turėjusią „Vilniui vaduoti sąjungą“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183378"></a>
 - t-002
+  global_id: t-183378
   teiginys: 'Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiuntinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių turėjusią patriotinę „Vilniui vaduoti sąjungą“.'
   pagrindžia:
     - c-002

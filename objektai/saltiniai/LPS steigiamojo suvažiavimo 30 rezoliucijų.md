@@ -16,12 +16,16 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
 
 ## Teiginiai
 
+<a id="claim-t-21101"></a>
 - t-001
+  global_id: t-21101
   teiginys: 'LPS steigiamasis suvažiavimas priėmė 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo ir demokratijos klausimais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183375"></a>
 - t-002
+  global_id: t-183375
   teiginys: 'Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.'
   pagrindžia:
     - c-002

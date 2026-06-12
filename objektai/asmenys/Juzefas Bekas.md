@@ -16,7 +16,9 @@ Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef Be
 
 ## Teiginiai
 
+<a id="claim-t-19037"></a>
 - t-001
+  global_id: t-19037
   teiginys: '1936 m. sausį Lenkijos užsienio reikalų ministras Juzefas Bekas savo kalboje išplūdo Lietuvą.'
   pagrindžia:
     - c-001

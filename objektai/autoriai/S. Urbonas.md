@@ -16,7 +16,9 @@ Urbonas.
 
 ## Teiginiai
 
+<a id="claim-t-19469"></a>
 - t-001
+  global_id: t-19469
   teiginys: 'S. Urbonas buvo 2010 m. Vilniuje išleisto leidinio „Čiurlionis Vilniuje“ sudarytojas.'
   pagrindžia:
     - c-001

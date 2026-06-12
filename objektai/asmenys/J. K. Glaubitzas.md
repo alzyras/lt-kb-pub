@@ -16,7 +16,9 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 
 ## Teiginiai
 
+<a id="claim-t-22423"></a>
 - t-001
+  global_id: t-22423
   teiginys: 'J. K. Glaubitzas buvo garsiausias Vilniaus baroko mokyklos architektas, sukūręs Basųjų karmelitų bažnyčią Mstislavlyje.'
   pagrindžia:
     - c-001

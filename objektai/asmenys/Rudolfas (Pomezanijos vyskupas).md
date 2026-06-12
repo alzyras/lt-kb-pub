@@ -19,7 +19,9 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
 
 ## Teiginiai
 
+<a id="claim-t-87847"></a>
 - t-001
+  global_id: t-87847
   teiginys: 'Pomezanijos vyskupas Rudolfas Elblionge su kitais vyskupais surengė pasitarimą dėl taikos sutarties ir prisidėjo prie laiško Livonijai.'
   pagrindžia:
     - c-001

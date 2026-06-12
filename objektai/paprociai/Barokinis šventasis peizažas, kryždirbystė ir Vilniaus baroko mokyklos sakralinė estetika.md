@@ -45,17 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67056"></a>
 - t-001
-  teiginys: 'Lietuvoje barokas ryškiausiai reiškėsi bažnyčių architektūroje ir išaugo į savitą Vilniaus baroko mokyklą.'
-  pagrindžia:
-    - c-001
-
-- t-002
+  global_id: t-67056
   teiginys: 'Lietuvos barokas architektūroje perėjo nuo importo etapo prie savitos Vilniaus baroko mokyklos ir medinio provincijos baroko.'
   pagrindžia:
     - c-001
 
-- t-003
+<a id="claim-t-67057"></a>
+- t-002
+  global_id: t-67057
   teiginys: 'Ryčiausia ir šiauriausia Europoje baroko architektūra Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco, port.'
   pagrindžia:
     - c-001
@@ -87,8 +86,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

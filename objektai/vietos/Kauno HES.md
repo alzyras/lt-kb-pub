@@ -16,7 +16,9 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
 
 ## Teiginiai
 
+<a id="claim-t-21475"></a>
 - t-001
+  global_id: t-21475
   teiginys: 'Atšilimo laikotarpiu Kauno HES minima tarp didelių naujų pramonės objektų, statytų sparčios sovietinės industrializacijos ir urbanizacijos metu.'
   pagrindžia:
     - c-001

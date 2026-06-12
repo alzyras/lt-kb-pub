@@ -18,7 +18,9 @@ m n Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir 
 
 ## Teiginiai
 
+<a id="claim-t-87716"></a>
 - t-001
+  global_id: t-87716
   teiginys: 'Jonas de Lovenbinkė paminėtas tarp Ordino Livonijoje pusės atstovų.'
   pagrindžia:
     - c-001

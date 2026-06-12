@@ -39,17 +39,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20156"></a>
 - t-001
+  global_id: t-20156
   teiginys: 'Smetona sudarė sau sąlygas vėl būti perrenkamas – ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-20157"></a>
 - t-002
+  global_id: t-20157
   teiginys: 'Nuo 1931 m. gegužės 2 d. apskričių tarybos rinkdavo ypatingus tautos atstovus, o šie rinkdavo prezidentą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183214"></a>
 - t-003
+  global_id: t-183214
   teiginys: '1931 m. gegužės 2 d. savivaldybės tapo apskričių viršininkų organais, o apskričių tarybos rinkdavo prezidentą renkančius ypatinguosius tautos atstovus.'
   pagrindžia:
     - c-003

@@ -18,7 +18,9 @@ N aują impulsą savo veiklai Europos šalių tautiniai sąjūdžiai gavo 1914 m
 
 ## Teiginiai
 
+<a id="claim-t-19201"></a>
 - t-001
+  global_id: t-19201
   teiginys: 'Į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą 1914 m. birželio 28 d. Sarajeve buvo paleisti šūviai.'
   pagrindžia:
     - c-001

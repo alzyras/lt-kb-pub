@@ -16,7 +16,9 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
 
 ## Teiginiai
 
+<a id="claim-t-99974"></a>
 - t-001
+  global_id: t-99974
   teiginys: 'Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.'
   pagrindžia:
     - c-001

@@ -28,27 +28,37 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 
 ## Teiginiai
 
+<a id="claim-t-89286"></a>
 - t-001
+  global_id: t-89286
   teiginys: 'Dusburgietis teigia, kad 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291 m.) įsikūrusių šioje žemėje, procesas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89287"></a>
 - t-002
+  global_id: t-89287
   teiginys: 'Dusburgietis teigia, kad tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89288"></a>
 - t-003
+  global_id: t-89288
   teiginys: 'Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89289"></a>
 - t-004
+  global_id: t-89289
   teiginys: 'Dusburgietis teigia, kad apie tamplierių ordino panaikinimą 1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet apaštališkojo sosto parengiamasis veiksmas — tamplierių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89290"></a>
 - t-005
+  global_id: t-89290
   teiginys: 'Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų padarinių.'
   pagrindžia:
     - c-003

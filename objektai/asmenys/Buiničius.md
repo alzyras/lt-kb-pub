@@ -27,7 +27,9 @@ Jam vadovavo majoras Jacenka ir štabo viršininkas majoras Buiničius.
 
 ## Teiginiai
 
+<a id="claim-t-40074"></a>
 - t-001
+  global_id: t-40074
   teiginys: 'Majoras Buiničius buvo NKVD kariuomenės 220-ojo Kutuzovo ordino pulko štabo viršininkas Kalniškės miško mūšyje.'
   pagrindžia:
     - c-001

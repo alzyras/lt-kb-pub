@@ -24,7 +24,9 @@ Dusburgietis teigia, kad matusevičiūtė I.
 
 ## Teiginiai
 
+<a id="claim-t-60750"></a>
 - t-001
+  global_id: t-60750
   teiginys: 'I. Matusevičiūtė 1939 m. paskelbė straipsnį „Kiek naujos medžiagos prūsų vardynui“.'
   pagrindžia:
     - c-001

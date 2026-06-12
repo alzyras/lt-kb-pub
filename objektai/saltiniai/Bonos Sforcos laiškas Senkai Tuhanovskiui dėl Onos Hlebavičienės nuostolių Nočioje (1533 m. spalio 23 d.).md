@@ -27,12 +27,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88243"></a>
 - t-001
+  global_id: t-88243
   teiginys: '1533 m. spalio 23 d. Vilniuje datuotu laišku Bona Sforca liepė Senkai Tuhanovskiui ištirti Onos Hlebavičienės patirtus nuostolius Nočioje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88244"></a>
 - t-002
+  global_id: t-88244
   teiginys: '1533 m. spalio 23 d. Vilniuje rašytame Bonos Sforcos laiške įsakyta ištirti Onos Hlebavičienės nuostolius Nočioje.'
   pagrindžia:
     - c-001

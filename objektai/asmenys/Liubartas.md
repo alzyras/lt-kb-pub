@@ -25,86 +25,111 @@ periodo_grupes:
 
 Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos paveldėjimo teisių turėtojas, ilgai gynęs Lietuvos interesus prieš Lenkiją.
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/asmenys/Boleslovas]]
-
 ## Teiginiai
 
+<a id="claim-t-05195"></a>
 - t-001
+  global_id: t-05195
   teiginys: 'Liubartas buvo vienas iš Gedimino sūnų, kurie, gavę dalis stačiatikių srityse, priėmė jų tikėjimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05197"></a>
 - t-002
+  global_id: t-05197
   teiginys: 'Remdamasis paveldėjimo teisėmis, Liubartas įsitvirtino Volinijoje ir beveik iki mirties 1385 m. su Lenkija kovojo dėl kitos palikimo dalies.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-12192"></a>
 - t-003
+  global_id: t-12192
   teiginys: 'Liubartas vedė vienturtę Volynijos kunigaikščio įpėdinę.'
   pagrindžia:
     - c-003
     - c-004
 
+<a id="claim-t-12193"></a>
 - t-004
+  global_id: t-12193
   teiginys: '1340 m., mirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Kazimieras Didysis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-93459"></a>
 - t-006
-  teiginys: 'Likusiąją Lenkijos pasienio dalį, Voluinę su Lucku, valdė Liubartas.'
+  global_id: t-93459
+  teiginys: 'Liubartas valdė Voluinę su Lucku Lenkijos pasienyje.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-93460"></a>
 - t-007
-  teiginys: 'Voluinę Liubartas vis dėlto atlaikė.'
+  global_id: t-93460
+  teiginys: 'Liubartas atlaikė kovas dėl Voluinės.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-93461"></a>
 - t-008
-  teiginys: 'Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kunigaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.'
+  global_id: t-93461
+  teiginys: 'Prieš Gedimino mirtį Liubartas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-93462"></a>
 - t-009
-  teiginys: 'Lietuvos interesus čia gynė Liubartas.'
+  global_id: t-93462
+  teiginys: 'Kovose dėl Voluinės Lietuvos interesus gynė Liubartas.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-93463"></a>
 - t-010
+  global_id: t-93463
   teiginys: '1340 m. dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Boleslovo giminaitis Kazimieras Didysis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184773"></a>
 - t-011
-  teiginys: 'Kojelavičius teigia, kad pirmiausia jis ap žiūrėjo lietuvių karius, po to atsikvietė pagalbon iš šiaurinės Rusios brolių Liubarto ir Pisimanto pulkus.'
+  global_id: t-184773
+  teiginys: 'Liubartas ir Pisimantas iš šiaurinės Rusios buvo pakviesti į pagalbą su savo pulkais.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-184774"></a>
 - t-012
-  teiginys: 'Kojelavičius teigia, kad šiame mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Pisimantas bei Liubartas, Treniotos broliai.'
+  global_id: t-184774
+  teiginys: 'Liubartas, Pisimantas, Drucko kunigaikštis Michailas ir Lucko valdovas Andrejus žuvo tame pačiame mūšyje.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-184775"></a>
 - t-013
-  teiginys: 'Kojelavičius teigia, kad mat Rusią valdė Algirdo broliai: Liubartas — Lvovą, Kęstutis — dideles žemes kitur Rusioje, o Jurgis Narimantaitis, jų brolėnas,— Kremenecą.'
+  global_id: t-184775
+  teiginys: 'Algirdo brolis Liubartas valdė Lvovą Rusioje.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-184776"></a>
 - t-014
-  teiginys: 'Kojelavičius teigia, kad to pat karo metu Vladimire apsuptas Liubartas išvengė lenkų ne laisvės dėl vieno kario ypatingo drąsumo.'
+  global_id: t-184776
+  teiginys: 'Vladimire apsuptas Liubartas išvengė lenkų nelaisvės dėl Bogdano iš Ivanicos drąsos.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-184777"></a>
 - t-015
-  teiginys: 'Kojelavičius teigia, kad tais pačiais metais Kazimieras, Lenkijos kara lius, pasinaudojęs proga, jog lietuviai įsitraukė į karą su kryžiuočiais, atėmė iš jų rusų valdas išvijęs iš Vo lynės Algirdo brolį Liubartą.'
+  global_id: t-184777
+  teiginys: 'Kazimieras išvijo Algirdo brolį Liubartą iš Volynės, kai lietuviai buvo įsitraukę į karą su kryžiuočiais.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-184778"></a>
 - t-016
-  teiginys: 'Kojelavičius teigia, kad liubartas be kovos ir be didesnių pastangų atgavo neseniai iš jo atimtą tėvoniją, seno je medinėje pilyje įrengė visokių gynybinių įtvirtini mų ir įkurdino stiprią įgulą, o naują, Kazimiero įsa kymu dvejus metus statytą iš degtų plytų ir pareika lavusią.'
+  global_id: t-184778
+  teiginys: 'Liubartas be kovos atgavo iš jo neseniai atimtą tėvoniją, sustiprino senąją pilį ir paliepė sugriauti naująją.'
   pagrindžia:
     - c-014
 
@@ -176,6 +201,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - t-010
 
 - c-005
+  santrauka: 'Liubartas atlaikė kovas dėl Voluinės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet kadangi tai bu-
@@ -191,6 +217,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - t-007
 
 - c-006
+  santrauka: 'Liubartas valdė Voluinę su Lucku Lenkijos pasienyje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Likusiąją Lenkijos pasienio dalį, Voluinę su Lucku, valdė Liu-
@@ -202,6 +229,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - t-006
 
 - c-007
+  santrauka: 'Prieš Gedimino mirtį Liubartas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos valstybei grėsė pavo-
@@ -218,6 +246,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - t-008
 
 - c-008
+  santrauka: 'Kovose dėl Voluinės Lietuvos interesus gynė Liubartas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dėl Voluinės
@@ -233,7 +262,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - t-009
 
 - c-009
-  santrauka: 'Kojelavičius teigia, kad pirmiausia jis ap žiūrėjo lietuvių karius, po to atsikvietė pagalbon iš šiaurinės Rusios brolių Liubarto ir Pisimanto pulkus.'
+  santrauka: 'Liubartas ir Pisimantas iš šiaurinės Rusios buvo pakviesti į pagalbą su savo pulkais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl imanti šviesti
@@ -253,7 +282,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - t-011
 
 - c-010
-  santrauka: 'Kojelavičius teigia, kad šiame mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Pisimantas bei Liubartas, Treniotos broliai.'
+  santrauka: 'Liubartas, Pisimantas, Drucko kunigaikštis Michailas ir Lucko valdovas Andrejus žuvo tame pačiame mūšyje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mažai vis dėlto ką pe­
@@ -289,7 +318,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - t-012
 
 - c-011
-  santrauka: 'Kojelavičius teigia, kad mat Rusią valdė Algirdo broliai: Liubartas — Lvovą, Kęstutis — dideles žemes kitur Rusioje, o Jurgis Narimantaitis, jų brolėnas,— Kremenecą.'
+  santrauka: 'Algirdo brolis Liubartas valdė Lvovą Rusioje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tad šis, norėdamas apginti savo teises į Ru­
@@ -307,7 +336,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - t-013
 
 - c-012
-  santrauka: 'Kojelavičius teigia, kad to pat karo metu Vladimire apsuptas Liubartas išvengė lenkų ne laisvės dėl vieno kario ypatingo drąsumo.'
+  santrauka: 'Vladimire apsuptas Liubartas išvengė lenkų nelaisvės dėl Bogdano iš Ivanicos drąsos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kovėsi jis
@@ -336,7 +365,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - t-014
 
 - c-013
-  santrauka: 'Kojelavičius teigia, kad tais pačiais metais Kazimieras, Lenkijos kara lius, pasinaudojęs proga, jog lietuviai įsitraukė į karą su kryžiuočiais, atėmė iš jų rusų valdas išvijęs iš Vo lynės Algirdo brolį Liubartą.'
+  santrauka: 'Kazimieras išvijo Algirdo brolį Liubartą iš Volynės, kai lietuviai buvo įsitraukę į karą su kryžiuočiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kęstutis mė­
@@ -365,7 +394,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - t-015
 
 - c-014
-  santrauka: 'Kojelavičius teigia, kad liubartas be kovos ir be didesnių pastangų atgavo neseniai iš jo atimtą tėvoniją, seno je medinėje pilyje įrengė visokių gynybinių įtvirtini mų ir įkurdino stiprią įgulą, o naują, Kazimiero įsa kymu dvejus metus statytą iš degtų plytų ir pareika lavusią.'
+  santrauka: 'Liubartas be kovos atgavo iš jo neseniai atimtą tėvoniją, sustiprino senąją pilį ir paliepė sugriauti naująją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo
@@ -399,3 +428,30 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   statusas: verified
   pagrindžia:
     - t-016
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/autoriai/J. Puzyna]]
+- [[objektai/ivykiai/Kazimiero konfliktas dėl Rusios ir sutartis su lietuvių valdovu|Kazimiero konfliktas dėl Rusios ir sutartis su lietuvių valdovu (sutartis)]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
+- [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
+- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
+- [[objektai/asmenys/Kazimieras Didysis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
+- [[objektai/ivykiai/Kazimiero įvykdytas rusų valdų perėmimas iš lietuvių (1366 m.)]]
+- [[objektai/asmenys/Pisimantas]]

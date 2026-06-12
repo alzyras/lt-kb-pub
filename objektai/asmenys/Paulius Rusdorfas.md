@@ -24,17 +24,23 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 
 ## Teiginiai
 
+<a id="claim-t-87452"></a>
 - t-001
+  global_id: t-87452
   teiginys: 'Didysis magistras Paulius Rusdorfas atsiuntė kunigaikštienei Julijonai gydomųjų gėrimų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87453"></a>
 - t-002
+  global_id: t-87453
   teiginys: 'Paulius Rusdorfas kaip kryžiuočių magistras dalyvavo taikos sutartyje su Vytautu ir Mazovijos kunigaikščiais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87454"></a>
 - t-003
+  global_id: t-87454
   teiginys: 'Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už jai atsiųstus gėrimus.'
   pagrindžia:
     - c-002

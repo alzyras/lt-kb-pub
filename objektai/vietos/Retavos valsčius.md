@@ -24,17 +24,23 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
 
 ## Teiginiai
 
+<a id="claim-t-91352"></a>
 - t-001
+  global_id: t-91352
   teiginys: 'Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaubė, piešdami bei degindami, o paskui, patraukę 456 Abu Bartos užpuolimai (III, 173—174) vyko, atrodo, 1273— 1274 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-91353"></a>
 - t-002
+  global_id: t-91353
   teiginys: 'Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-91354"></a>
 - t-003
+  global_id: t-91354
   teiginys: 'Retavos valsčius buvo Nadruvoje, o tyrėjai jį bandė lokalizuoti keliose skirtingose vietose.'
   pagrindžia:
     - c-003

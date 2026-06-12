@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-91922"></a>
 - t-001
+  global_id: t-91922
   teiginys: 'Dusburgietis teigia, kad jo sūnus, ilgai nesulaukdamas tėvo, suskato jo ieškoti Prūsijoje, bet nesurado, tačiau begrįždamas sustojo viename kaime, kur vyskupas šventino kapines.'
   pagrindžia:
     - c-001

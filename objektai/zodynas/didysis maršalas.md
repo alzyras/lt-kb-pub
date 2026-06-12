@@ -24,7 +24,9 @@ Dusburgietis teigia, kad pabaigoje kryžiuočių žvalgų pranešimų pagrindu s
 
 ## Teiginiai
 
+<a id="claim-t-58898"></a>
 - t-001
+  global_id: t-58898
   teiginys: 'Dusburgietis teigia, kad pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus 100 kelių į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti, kad tokie — visų pirma karinio pobūdžio — pranešimai buvo kaupti ir anksčiau.'
   pagrindžia:
     - c-001

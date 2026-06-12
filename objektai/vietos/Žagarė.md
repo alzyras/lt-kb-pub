@@ -17,7 +17,9 @@ Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę 
 
 ## Teiginiai
 
+<a id="claim-t-99969"></a>
 - t-001
+  global_id: t-99969
   teiginys: 'Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę nuo Žagarės)^164 , jie pasistatė minėtą Dobę, kurią tuoj, sukilėliams talkininkaudami, puolė žemaičiai^165.'
   pagrindžia:
     - c-001

@@ -19,12 +19,16 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
 
 ## Teiginiai
 
+<a id="claim-t-58880"></a>
 - t-001
+  global_id: t-58880
   teiginys: 'Dusburgietis teigia, kad sodžių, tiek ir vieno kiemo nobilio gyvenvietę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58881"></a>
 - t-002
+  global_id: t-58881
   teiginys: 'Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užpuolė aplinkinius kaimus244, degindami juos ir piešdami.'
   pagrindžia:
     - c-002

@@ -16,7 +16,9 @@ Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. suša
 
 ## Teiginiai
 
+<a id="claim-t-19997"></a>
 - t-001
+  global_id: t-19997
   teiginys: '1941 m. birželį SD Einsatzgruppen organizavo terorą, per kurį pasienyje buvo šaudomi žydai Gargžduose, Kretingoje, Palangoje ir kitur.'
   pagrindžia:
     - c-001

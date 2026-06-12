@@ -25,43 +25,59 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 
 ## Teiginiai
 
+<a id="claim-t-172067"></a>
 - t-001
+  global_id: t-172067
   teiginys: 'Tūkstančiui rinktinių anglų lankininkų, išsilaipinusių Gdansko uoste, vadovavo Derbio grafas Henrikas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-172069"></a>
 - t-002
+  global_id: t-172069
   teiginys: 'Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: duodecem talenta cerae Pud dieta, de curia castri nostri Viln.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-172070"></a>
 - t-003
+  global_id: t-172070
   teiginys: 'Anglų lankininkų narsa ir mūšiuose įgytas sumanumas prisidėjo prie Lietuvos patirtų smūgių Vilniaus apgultyje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-172071"></a>
 - t-004
+  global_id: t-172071
   teiginys: 'Anglų lankininkų narsa ir sumanumas kartu su patrankų poveikiu lėmė didžiausius Lietuvos smūgius.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-172072"></a>
 - t-005
+  global_id: t-172072
   teiginys: 'Rugpjūtį į Prūsiją atvykę savanoriai iš Anglijos ir Prancūzijos norėjo kariauti su pagonimis.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-172073"></a>
 - t-006
+  global_id: t-172073
   teiginys: 'Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos, norėjusių kartu su kryžiuočiais kariauti su pagonimis.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-172074"></a>
 - t-007
+  global_id: t-172074
   teiginys: 'Anglai buvo sutartiniai prekybos partneriai, kuriems leista gyventi ir prekiauti Žemaičiuose bei Kalne.'
   pagrindžia:
     - c-001
     - c-002
 
+<a id="claim-t-172075"></a>
 - t-008
+  global_id: t-172075
   teiginys: 'Vilniaus puolimo metu Derbio kunigaikštis ir anglų pėstininkai kartu su Vytautu bei žemaičiais kovėsi su Karigaila.'
   pagrindžia:
     - c-003

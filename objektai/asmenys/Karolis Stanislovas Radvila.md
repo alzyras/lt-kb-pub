@@ -26,7 +26,9 @@ Jai vadovauti buvo pakviestas iš šalies 1764 m. išvarytas buvęs respublikona
 
 ## Teiginiai
 
+<a id="claim-t-40273"></a>
 - t-001
+  global_id: t-40273
   teiginys: 'Karolis Stanislovas Radvila buvo pakviestas vadovauti konfederatams po to, kai 1764 m. buvo išvarytas iš šalies.'
   pagrindžia:
     - c-001

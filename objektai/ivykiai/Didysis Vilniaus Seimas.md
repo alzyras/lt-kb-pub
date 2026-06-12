@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77881"></a>
 - t-001
+  global_id: t-77881
   teiginys: 'Didysis Vilniaus Seimas, gavus valdžios sutikimą, vyko Vilniaus Miesto salėje gruodžio 4–5 dienomis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77882"></a>
 - t-002
+  global_id: t-77882
   teiginys: 'Joje reikalauta suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu renkamą Seimą Vilniuje.'
   pagrindžia:
     - c-002

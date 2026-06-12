@@ -16,7 +16,9 @@ Labai neaiškiai tuos pat siekimus tada paskelbė ir Vilniaus lietuvių būrys R
 
 ## Teiginiai
 
+<a id="claim-t-02329"></a>
 - t-001
+  global_id: t-02329
   teiginys: '1914 m. rugpjūtį Vilniaus lietuvių būrys Rusijos vyriausybei įteikė viešąją deklaraciją, gavusią „gintarinės“ vardą.'
   pagrindžia:
     - c-001

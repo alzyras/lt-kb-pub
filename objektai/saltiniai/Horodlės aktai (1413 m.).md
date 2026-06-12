@@ -27,7 +27,9 @@ Kai kurie stačiatikiai, ypač jų di­ duomenė, buvo nepatenkinti ir tuo, kad 
 
 ## Teiginiai
 
+<a id="claim-t-12451"></a>
 - t-001
+  global_id: t-12451
   teiginys: '1413 m. Horodlės unija nesuteikė privilegijų stačiatikiams, ypač jų diduomenei.'
   pagrindžia:
     - c-001

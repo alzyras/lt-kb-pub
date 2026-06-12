@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40695"></a>
 - t-001
+  global_id: t-40695
   teiginys: 'Baltijos kryžius buvo teikiamas pasižymėjusiems bermontininkams vokiečiams.'
   pagrindžia:
     - c-001

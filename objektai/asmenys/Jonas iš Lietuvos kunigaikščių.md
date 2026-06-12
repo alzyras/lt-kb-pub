@@ -19,7 +19,9 @@ Be to, sinodas kuo įsakmiausiai įsako vi­ siems klebonams miestuose ir kai­ 
 
 ## Teiginiai
 
+<a id="claim-t-87431"></a>
 - t-001
+  global_id: t-87431
   teiginys: 'Jonas iš Lietuvos kunigaikščių, Vilniaus vyskupas, patvirtino Vilniaus diecezijos nuostatus.'
   pagrindžia:
     - c-001

@@ -19,12 +19,16 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
 
 ## Teiginiai
 
+<a id="claim-t-19942"></a>
 - t-001
+  global_id: t-19942
   teiginys: 'Gegužės trečiosios konstitucija įformino miestiečių teises ir pirmą kartą užsiminė apie valstybės globą valstiečiams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183172"></a>
 - t-002
+  global_id: t-183172
   teiginys: 'Miestiečių teises ir įformino Gegužės trečiosios konstitucija.'
   pagrindžia:
     - c-002

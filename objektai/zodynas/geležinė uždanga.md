@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-22145"></a>
 - t-001
+  global_id: t-22145
   teiginys: '1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per „geležinę uždangą“ nugabeno partizanų dokumentus į laisvąjį pasaulį.'
   pagrindžia:
     - c-001

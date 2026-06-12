@@ -25,7 +25,9 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 
 ## Teiginiai
 
+<a id="claim-t-60388"></a>
 - t-001
+  global_id: t-60388
   teiginys: 'Mindotė žuvo Ordino kariuomenei 1314 metais puolant Sizditės pilį Medininkų valsčiuje.'
   pagrindžia:
     - c-001

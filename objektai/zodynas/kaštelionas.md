@@ -18,22 +18,30 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 
 ## Teiginiai
 
+<a id="claim-t-12548"></a>
 - t-001
+  global_id: t-12548
   teiginys: 'Unijos akto 11 paragrafu Jogaila ir Vytautas pažadėjo Vilniuje ir Trakuose įsteigti Lenkijos pavyzdžio kašteliono pareigybę.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-12549"></a>
 - t-002
+  global_id: t-12549
   teiginys: 'Vilniuje ir Trakuose turėjo būti įsteigtos vaivados ir kašteliono pareigybės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176244"></a>
 - t-003
-  teiginys: 'Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai.'
+  global_id: t-176244
+  teiginys: 'Kaštelionai karo reikaluose ir teismuose buvo tarsi Vilniaus ir Trakų vaivadų padėjėjai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176246"></a>
 - t-004
+  global_id: t-176246
   teiginys: 'Vėliau Žemaitijai buvo paskirtas ir kaštelionas (1566 m.).'
   pagrindžia:
     - c-003
@@ -54,6 +62,7 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
     - t-002
 
 - c-002
+  santrauka: 'Kaštelionai karo reikaluose ir teismuose buvo tarsi Vilniaus ir Trakų vaivadų padėjėjai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik Vilniaus ir Trakų
@@ -96,7 +105,7 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
     - t-001
 
 - c-005
-  santrauka: 'Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai.'
+  santrauka: 'Kaštelionai karo reikaluose ir teismuose buvo tarsi Vilniaus ir Trakų vaivadų padėjėjai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tai buvo lenkiškojo tipo urėdai,
@@ -130,7 +139,6 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 - [[objektai/asmenys/Eustachijus Valavičius]]
 - [[objektai/grupes/Evangelikai reformatai Vilniuje]]
 - [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas]]
-- [[objektai/asmenys/Ivanas (Maskvos valdovas)]]
 - [[objektai/asmenys/Jonas (Vilniaus vyskupas)]]
 - [[objektai/asmenys/Jonas Chojevskis]]
 - [[objektai/asmenys/Jonas Hlebavičius]]

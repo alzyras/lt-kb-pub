@@ -18,7 +18,9 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
 
 ## Teiginiai
 
+<a id="claim-t-60433"></a>
 - t-001
+  global_id: t-60433
   teiginys: 'Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, trys jų tarnai ir vienas pamedėnas, vardu Sirenas, kurį laikė grandinėmis surakintą, nes buvo kažkuo prasikaltęs.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-40135"></a>
 - t-001
+  global_id: t-40135
   teiginys: 'Švedų reitaras Henrikas Vrede atidavė karaliui savo žirgą ir žuvo, o Karolis IX dėl to išsigelbėjo.'
   pagrindžia:
     - c-001

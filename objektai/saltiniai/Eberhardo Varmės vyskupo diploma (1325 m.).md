@@ -24,7 +24,9 @@ Tačiau apgaulė greitai išaiškėjo, jau Varmės vyskupas Eberhardas 1325 meta
 
 ## Teiginiai
 
+<a id="claim-t-88147"></a>
 - t-001
+  global_id: t-88147
   teiginys: 'Tačiau apgaulė greitai išaiškėjo, jau Varmės vyskupas Eberhardas 1325 metais rašo: Quidam - factis caritatem negantes, que ambiciosa non est, nugis victum querentes in populo apud fideles predicare et asserere mendaciter sunt inventi, quod (Lethowini) Gristi.'
   pagrindžia:
     - c-001

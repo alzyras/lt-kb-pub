@@ -19,12 +19,16 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
 
 ## Teiginiai
 
+<a id="claim-t-66151"></a>
 - t-001
-  teiginys: 'Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 704 narius, o dabar turi 300 su viršum kuopų ir 20.000 narių.'
+  global_id: t-66151
+  teiginys: 'Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių turėjo 704 narius, o 1936 m. turėjo daugiau kaip 300 kuopų ir 20 000 narių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66152"></a>
 - t-002
+  global_id: t-66152
   teiginys: 'Susivienijimas Lietuvių Rymo Katalikų Amerikoje įkūrė Amerikos Lietuvių Katalikų Federaciją, jungusią katalikiškas Amerikos lietuvių organizacijas.'
   pagrindžia:
     - c-002
@@ -32,6 +36,7 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių turėjo 704 narius, o 1936 m. turėjo daugiau kaip 300 kuopų ir 20 000 narių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Susivienijimas Lietuvių Rymo Katalikų

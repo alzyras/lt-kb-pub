@@ -16,7 +16,9 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 
 ## Teiginiai
 
+<a id="claim-t-40923"></a>
 - t-001
+  global_id: t-40923
   teiginys: 'Klarko būrys veikė Žuvinto paliose ir Buktos (Žaliosios) miške kartu su kitais partizanų būriais.'
   pagrindžia:
     - c-001

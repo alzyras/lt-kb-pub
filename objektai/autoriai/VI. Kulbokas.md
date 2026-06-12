@@ -16,7 +16,9 @@ Kulbokas, Lietuvių literatūrinė kritika tremtyje, spaus­ dinama.
 
 ## Teiginiai
 
+<a id="claim-t-100122"></a>
 - t-001
+  global_id: t-100122
   teiginys: 'Vl. Kulbokas rengė spaudai darbą „Lietuvių literatūrinė kritika tremtyje“.'
   pagrindžia:
     - c-001

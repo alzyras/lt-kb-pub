@@ -25,17 +25,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-78161"></a>
 - t-001
+  global_id: t-78161
   teiginys: 'Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78162"></a>
 - t-002
+  global_id: t-78162
   teiginys: '1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, o per Šimonių girios apgultį žuvo beveik visa apygardos vadovybė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78163"></a>
 - t-003
+  global_id: t-78163
   teiginys: 'Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir Žalioji.'
   pagrindžia:
     - c-001

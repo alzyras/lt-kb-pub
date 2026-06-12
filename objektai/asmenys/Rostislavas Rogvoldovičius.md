@@ -25,7 +25,9 @@ PIRMAS SKYRIUS ROSTISLAV AS, Rogvoldo sūnus, Polocko kunigaikštis, didž.
 
 ## Teiginiai
 
+<a id="claim-t-87572"></a>
 - t-001
+  global_id: t-87572
   teiginys: 'PIRMAS SKYRIUS ROSTISLAV AS, Rogvoldo sūnus, Polocko kunigaikštis, didž.'
   pagrindžia:
     - c-001

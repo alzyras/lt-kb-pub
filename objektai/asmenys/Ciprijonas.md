@@ -16,7 +16,9 @@ Tai buvo bulgaras Ciprijonas, kurį Algirdas per didelius vargus buvo išgavęs 
 
 ## Teiginiai
 
+<a id="claim-t-35044"></a>
 - t-001
+  global_id: t-35044
   teiginys: 'Ciprijonas buvo bulgaras ir atskiras Kijevo metropolitas Lietuvai, vėliau Maskvoje suvienijęs Rusijos ir Lietuvos stačiatikius.'
   pagrindžia:
     - c-001

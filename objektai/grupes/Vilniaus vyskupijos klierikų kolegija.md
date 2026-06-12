@@ -30,42 +30,58 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 
 ## Teiginiai
 
+<a id="claim-t-55100"></a>
 - t-001
+  global_id: t-55100
   teiginys: 'Jurgis Radvila Vilniaus diecezijoje nusprendė steigti ir funduoti kolegiją dėl kunigų ir kitų patarnautojų trūkumo.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-55101"></a>
 - t-002
+  global_id: t-55101
   teiginys: 'Kolegijoje turėjo būti išlaikomas ir dievobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuolių skaičius.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-55102"></a>
 - t-003
+  global_id: t-55102
   teiginys: 'Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti skyrė Vozgėliškių dvarelį Vilniaus paviete.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55103"></a>
 - t-004
+  global_id: t-55103
   teiginys: 'Vozgėliškių dvarelis su teisėmis, pajamomis, medžiokle, žūkle ir dominijos teise buvo neatšaukiamai perduotas klierikų kolegijai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55104"></a>
 - t-005
+  global_id: t-55104
   teiginys: 'Karaliaus Stepono buvo prašoma priimti Vilniaus seminariją į savo globą ir gynybą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-55105"></a>
 - t-006
+  global_id: t-55105
   teiginys: 'Klierikų mokymas ir kolegijos vadovavimas buvo patikėti Vilniaus Jėzaus draugijos kolegijai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-81748"></a>
 - t-007
+  global_id: t-81748
   teiginys: 'Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams išlaikyti bei auklėti.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-81749"></a>
 - t-008
+  global_id: t-81749
   teiginys: 'Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti pridėjo Vozgėliškėmis vadintą dvarelį Vilniaus paviete.'
   pagrindžia:
     - c-001

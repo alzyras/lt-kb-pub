@@ -24,7 +24,9 @@ periodo_grupes: []
 
 ## Teiginiai
 
+<a id="claim-t-26454"></a>
 - t-001
+  global_id: t-26454
   teiginys: 'Martynas Knakfusas 1769 m. tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus Verkiuose.'
   pagrindžia:
     - c-001

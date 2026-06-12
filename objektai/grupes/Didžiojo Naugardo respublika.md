@@ -23,42 +23,58 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
 
 ## Teiginiai
 
+<a id="claim-t-05243"></a>
 - t-001
+  global_id: t-05243
   teiginys: 'Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-05244"></a>
 - t-002
+  global_id: t-05244
   teiginys: 'Nuo XII amžiaus antros pusės ginkluoti plėšiamieji puolimai pasiekdavo Novgorodo prekybos respubliką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05245"></a>
 - t-003
+  global_id: t-05245
   teiginys: 'Prieš Algirdo mirtį Naugarde laimėjo Maskvos įtaka, ir 1375 m. Didysis Naugardas padarė sutartį su Dimitru.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-12357"></a>
 - t-004
+  global_id: t-12357
   teiginys: 'Didysis Naugardas atsisakė pradėti karą su vokiečiais, nes turėjo atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-12358"></a>
 - t-005
+  global_id: t-12358
   teiginys: 'Vytautui gyvenimo pabaigoje pasisekė paimti savo įtakon Pskovą ir Didįjį Naugardą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-103735"></a>
 - t-006
+  global_id: t-103735
   teiginys: 'Nuo XII amž. antros pusės yra žinomi tokių burių ginkluoti plėšiamieji puolimai iki pat turtingųjų prekybos respublikų (Pskovo, Novgorodo) šiaurėje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-103736"></a>
 - t-007
+  global_id: t-103736
   teiginys: 'Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-103737"></a>
 - t-008
+  global_id: t-103737
   teiginys: 'Ilgą laiką panašiai buvo ir su Naugardo respublika, nors Algirdas siekė ją priversti paklusti.'
   pagrindžia:
     - c-002

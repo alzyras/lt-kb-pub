@@ -16,7 +16,9 @@ Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai pri
 
 ## Teiginiai
 
+<a id="claim-t-86594"></a>
 - t-001
+  global_id: t-86594
   teiginys: 'Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai prieglauda buvo įrengta, ir įpareigojami dėl panaikinto tos pačios prieglaudos klebono titulo, kurį sau prisiėmė.'
   pagrindžia:
     - c-001

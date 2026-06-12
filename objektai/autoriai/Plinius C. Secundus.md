@@ -16,7 +16,9 @@ Dusburgietis teigia, kad romos imperatorius Gajus Julijus Cezaris Germanikas, pr
 
 ## Teiginiai
 
+<a id="claim-t-64820"></a>
 - t-001
+  global_id: t-64820
   teiginys: 'Dusburgietis teigia, kad romos imperatorius Gajus Julijus Cezaris Germanikas, pramintas Kaligula, valdė 37—41 m. Plinijus Vyresnysis (23—79 m.) pateikia žinių, kad Nerono viešpatavimo metais (54—68 m.) gladiatorių kautynių organizatorius Julijus politiniais, gal ir kariniais tikslais.'
   pagrindžia:
     - c-001

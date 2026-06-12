@@ -50,12 +50,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54745"></a>
 - t-001
+  global_id: t-54745
   teiginys: 'M. Balińskis abejojo teiginiu, kad 1548 m. Vilniaus miestiečiai galėjo naudoti antspaudą su pagonių milžinu Alkiu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54746"></a>
 - t-002
+  global_id: t-54746
   teiginys: 'Viešiesiems reikalams Vilniaus magistratas galėjo naudoti tik senąjį miesto antspaudą su šv. Kristoforo atvaizdu ant raudono lako.'
   pagrindžia:
     - c-001

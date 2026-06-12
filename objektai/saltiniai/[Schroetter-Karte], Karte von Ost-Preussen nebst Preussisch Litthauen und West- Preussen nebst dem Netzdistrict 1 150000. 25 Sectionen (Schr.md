@@ -27,7 +27,9 @@ Dusburgietis teigia, kad [Schroetter-Karte], Karte von Ost-Preussen nebst Preuss
 
 ## Teiginiai
 
+<a id="claim-t-61288"></a>
 - t-001
+  global_id: t-61288
   teiginys: '„Schroetter-Karte“ yra 1796-1802 m. sudarytas 25 sekcijų 1:150000 mastelio Rytų Prūsijos, Prūsų Lietuvos, Vakarų Prūsijos ir Netzdistrict žemėlapis.'
   pagrindžia:
     - c-001

@@ -25,12 +25,16 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
 
 ## Teiginiai
 
+<a id="claim-t-60177"></a>
 - t-001
+  global_id: t-60177
   teiginys: 'Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais metais ir tuo pat laiku vienas Varmės vyskupystės vyras, vardu Muka, su 19 plėšikautojų patraukė link Lietuvos, aptiko dykrose 45 lietuvių raitelius, sumaniai juos apsupo ir visus nukovė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60178"></a>
 - t-002
+  global_id: t-60178
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį Kitą kartą tas pats Muka patraukė su būriu plėšikautojų prieš netikėlius ir, atvykęs į dykras, išvydo daugybę Lietuvos raitelių; pabūgęs tokios gausybės bei galybės, numetė į šalį valgį bei gėrimą ir visa kita, kas galėjo trukdyti, ir su savo.'
   pagrindžia:
     - c-001

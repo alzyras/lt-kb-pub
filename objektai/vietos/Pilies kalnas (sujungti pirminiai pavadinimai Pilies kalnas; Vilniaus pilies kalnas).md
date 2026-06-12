@@ -25,22 +25,30 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
 
 ## Teiginiai
 
+<a id="claim-t-86047"></a>
 - t-001
+  global_id: t-86047
   teiginys: 'Kalnas, ant kurio stovėjo Aukštutinė pilis, nuslinko ant Manvydo namo ir pridarė daug nuostolių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86048"></a>
 - t-002
+  global_id: t-86048
   teiginys: 'Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus Pilies kalną ištiko griūtis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86050"></a>
 - t-003
+  global_id: t-86050
   teiginys: '1396 m. Vilniaus Pilies kalną ištiko smarki griūtis, kurios nuošliaužos užslinko ant vaivados Manvydo rūmų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86051"></a>
 - t-004
+  global_id: t-86051
   teiginys: 'Vilniaus Pilies kalno griūtis palietė kalną, bet pilies mūrai liko sveiki.'
   pagrindžia:
     - c-004

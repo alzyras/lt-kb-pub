@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Stanislovas Pacas
 
 ## Santrauka
 
-Kojelavičius teigia, kad stanislovas Pacas patraukė persekioti niokojančių maskvėnų.
+Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių Ostrogiškių valdas.
 
 ## Teiginiai
 
+<a id="claim-t-186081"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad stanislovas Pacas patraukė persekioti niokojančių maskvėnų.'
+  global_id: t-186081
+  teiginys: 'Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių Ostrogiškių valdas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad stanislovas Pacas patraukė persekioti niokojančių maskvėnų.'
+  santrauka: 'Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių Ostrogiškių valdas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo metu, kai Gardine pasiuntiniai derėjosi dėl
@@ -43,3 +44,10 @@ Kojelavičius teigia, kad stanislovas Pacas patraukė persekioti niokojančių m
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/daiktai/Parakas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/ivykiai/Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas]]

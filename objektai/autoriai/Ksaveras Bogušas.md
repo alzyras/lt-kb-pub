@@ -30,17 +30,23 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
 
 ## Teiginiai
 
+<a id="claim-t-23235"></a>
 - t-001
+  global_id: t-23235
   teiginys: 'Ksaveras Bogušas apibūdintas kaip iš Lietuvos kilęs kunigas ir teologas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23236"></a>
 - t-002
+  global_id: t-23236
   teiginys: 'Bogušo knygelė „Apie lietuvių tautos ir kalbos kilmę“ siejama su mintimi apie lietuvių kalbos tinkamumą atskirai aukštajai kultūrai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-26607"></a>
 - t-003
+  global_id: t-26607
   teiginys: '1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.'
   pagrindžia:
     - c-002

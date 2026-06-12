@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20233"></a>
 - t-001
+  global_id: t-20233
   teiginys: 'Kryžių kalnas, kurį 1993 m. aplankė popiežius Jonas Paulius II, tapo simboliu ir buvo pramintas lietuviška Golgota.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183229"></a>
 - t-002
+  global_id: t-183229
   teiginys: 'Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir vilties šaltinio, prasmė.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Dusburgietis teigia, kad intako Auksinės žemupio vietovardžius Kreiwutschen i
 
 ## Teiginiai
 
+<a id="claim-t-61361"></a>
 - t-001
+  global_id: t-61361
   teiginys: 'Dusburgietis teigia, kad intako Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen su Kriviu ir Romove resp. Romuva (Friederici W., Über die Lage Romow’s..., p. 227— 253).'
   pagrindžia:
     - c-001

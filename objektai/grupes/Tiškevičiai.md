@@ -16,7 +16,9 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 
 ## Teiginiai
 
+<a id="claim-t-20050"></a>
 - t-001
+  global_id: t-20050
   teiginys: 'XVI a. Tiškevičiai buvo priskirti prie įtakingų rusėnų giminių, laikiusių save LDK piliečiais.'
   pagrindžia:
     - c-001

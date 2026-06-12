@@ -21,47 +21,65 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
 
 ## Teiginiai
 
+<a id="claim-t-169166"></a>
 - t-001
+  global_id: t-169166
   teiginys: 'Slanimas: be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-169168"></a>
 - t-002
+  global_id: t-169168
   teiginys: 'Slanimas priklausė vadinamajai Juodajai Rusijai, kuri jau buvo tapusi nebeginčijamu Lietuvos kraštu.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-169169"></a>
 - t-003
+  global_id: t-169169
   teiginys: 'Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169170"></a>
 - t-004
+  global_id: t-169170
   teiginys: 'Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasilaikė Slanimą ir Valkaviską.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-169171"></a>
 - t-005
+  global_id: t-169171
   teiginys: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-169174"></a>
 - t-007
+  global_id: t-169174
   teiginys: 'Lietuvos generaliniai seimeliai iš pradžių vykdavo Volkoviske, o vėliau Slanime.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169175"></a>
 - t-008
+  global_id: t-169175
   teiginys: 'Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169176"></a>
 - t-009
-  teiginys: '38 psl.) lietuviškąsias Gardino, Naugarduko, Slanimo ir Volkovisko sritis.'
+  global_id: t-169176
+  teiginys: 'Lietuviai iš totorių nugalėtų Voluinės kunigaikščių atsiėmė Slanimo sritį.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-169177"></a>
 - t-010
+  global_id: t-169177
   teiginys: 'Slanimas: garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
   pagrindžia:
     - c-001
@@ -145,6 +163,7 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
     - t-002
 
 - c-006
+  santrauka: 'Lietuviai iš totorių nugalėtų Voluinės kunigaikščių atsiėmė Slanimo sritį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš totorių nugalėtų Voluinės kunigaikščių lietuviai atsi-

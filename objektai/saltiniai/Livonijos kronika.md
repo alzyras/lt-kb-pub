@@ -12,29 +12,32 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Livonijos kronika
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai Jo k a ra i k a rtu su LiKurše patyrė abipusius prav o n ijo s ord in u laimėjimus ir Livonijos ma gistras Ditrichas, ir Mindau gas, Tautvilas, padedamas Livonijos ir Polocko pulkų, užpuolė savo dėdę pačioje Lietuvoje, kur, niekam ne pastojus kelio. Kojelavičius teigia, kad tais pačiais metais, kaip sako Livonijos metraštis, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, magistras žuvo su penkiasdešimčia šio ordino brolių.
+Tautvilas, padedamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didelį grobį į Polocką. Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.
 
 ## Teiginiai
 
+<a id="claim-t-186294"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai Jo k a ra i k a rtu su LiKurše patyrė abipusius prav o n ijo s ord in u laimėjimus ir Livonijos ma gistras Ditrichas, ir Mindau gas, Tautvilas, padedamas Livonijos ir Polocko pulkų, užpuolė savo dėdę pačioje Lietuvoje, kur, niekam ne pastojus kelio.'
+  global_id: t-186294
+  teiginys: 'Tautvilas, padedamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didelį grobį į Polocką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186295"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad tais pačiais metais, kaip sako Livonijos metraštis, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, magistras žuvo su penkiasdešimčia šio ordino brolių.'
+  global_id: t-186295
+  teiginys: 'Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai Jo k a ra i k a rtu su LiKurše patyrė abipusius prav o n ijo s ord in u laimėjimus ir Livonijos ma gistras Ditrichas, ir Mindau gas, Tautvilas, padedamas Livonijos ir Polocko pulkų, užpuolė savo dėdę pačioje Lietuvoje, kur, niekam ne pastojus kelio.'
+  santrauka: 'Tautvilas, padedamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didelį grobį į Polocką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai
@@ -61,7 +64,7 @@ Kojelavičius teigia, kad kai Jo k a ra i k a rtu su LiKurše patyrė abipusius 
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad tais pačiais metais, kaip sako Livonijos metraštis, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, magistras žuvo su penkiasdešimčia šio ordino brolių.'
+  santrauka: 'Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėl­

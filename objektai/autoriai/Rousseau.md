@@ -17,12 +17,16 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
 
 ## Teiginiai
 
+<a id="claim-t-64834"></a>
 - t-001
+  global_id: t-64834
   teiginys: 'Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D''''''''Alembert († 1783 m.), Diderot († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64835"></a>
 - t-002
+  global_id: t-64835
   teiginys: 'XVIII a. viduryje daugiausia domėtasi šviečiamosios literatūros autoriais, kurie rašė apie valstybę, tarp jų Rousseau ir Mably.'
   pagrindžia:
     - c-002

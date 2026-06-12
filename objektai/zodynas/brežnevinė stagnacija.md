@@ -16,7 +16,9 @@ LLL buvo paskutinė rezistencijos organizacija, kuri brežnevinės stagnacijos l
 
 ## Teiginiai
 
+<a id="claim-t-77789"></a>
 - t-001
+  global_id: t-77789
   teiginys: 'LLL buvo paskutinė rezistencijos organizacija, kuri brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir dvasią.'
   pagrindžia:
     - c-001

@@ -28,19 +28,27 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
 
 ## Teiginiai
 
+<a id="claim-t-176403"></a>
 - t-001
+  global_id: t-176403
   teiginys: 'Henrikas von Plauenas po 1410 m. smūgio rengė Ordino revanšą ir rinko jėgas iš Vakarų Europos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176404"></a>
 - t-002
+  global_id: t-176404
   teiginys: 'Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI prašyti pagalbos prieš Vytautą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176405"></a>
 - t-003
-  teiginys: 'Henrikas von Plauenas buvo Švitco komtūras.'
+  global_id: t-176405
+  teiginys: 'Henrikas von Plauenas citatoje įvardijamas kaip Švitco komtūras.'
   pagrindžia:
+    - c-003
+    - c-006
     - c-003
 
 ## Reikšmingi paminėjimai
@@ -83,6 +91,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
     - t-001
 
 - c-003
+  santrauka: 'Henrikas von Plauenas citatoje įvardijamas kaip Švitco komtūras.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lichtenšteino, 17) Nešavos komturi-

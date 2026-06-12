@@ -17,17 +17,23 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
 
 ## Teiginiai
 
+<a id="claim-t-55019"></a>
 - t-001
+  global_id: t-55019
   teiginys: 'Pranciškus Malevskis vadovavo senosios Lietuvos Metrikos padaliniui, priskirtam Senato Trečiajam departamentui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55020"></a>
 - t-002
+  global_id: t-55020
   teiginys: 'Pranciškus Malevskis Balinskio medžiagos rinkiniams parūpino gausių išrašų apie Vilnių iš Lietuvos Metrikos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81962"></a>
 - t-003
+  global_id: t-81962
   teiginys: 'Pranciškus Malevskis iš senosios Lietuvos Metrikos parūpino gausių išrašų apie Vilnių.'
   pagrindžia:
     - c-002

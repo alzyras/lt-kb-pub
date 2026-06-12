@@ -17,7 +17,9 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
 
 ## Teiginiai
 
+<a id="claim-t-60277"></a>
 - t-001
+  global_id: t-60277
   teiginys: 'Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyveno brolis Heinemanas ir brolis Fridrichas, kuriuodu vienas kitą taip mylėjo, kad vienas be kito nenorėjo ne tik gyventi, bet ir mirti.'
   pagrindžia:
     - c-001

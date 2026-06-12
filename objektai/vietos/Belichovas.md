@@ -19,12 +19,16 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
 
 ## Teiginiai
 
+<a id="claim-t-58527"></a>
 - t-001
+  global_id: t-58527
   teiginys: 'Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58528"></a>
 - t-002
+  global_id: t-58528
   teiginys: 'Belichovas buvo gyvenvietė dešiniajame Osos žemupio krante, 9 km į šiaurės rytus nuo Grudziondzo.'
   pagrindžia:
     - c-001

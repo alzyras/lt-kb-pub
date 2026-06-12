@@ -17,12 +17,16 @@ Kas kita Vytautas, kurį ir patys lietuviai pripažino tikruoju Kęstučio įpė
 
 ## Teiginiai
 
+<a id="claim-t-34431"></a>
 - t-001
+  global_id: t-34431
   teiginys: 'Lietuviai Vytautą pripažino tikruoju Kęstučio įpėdiniu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184253"></a>
 - t-002
+  global_id: t-184253
   teiginys: 'Kas kita Vytautas, kurį ir patys lietuviai pripažino tikruoju Kęstučio įpėdiniu.'
   pagrindžia:
     - c-002

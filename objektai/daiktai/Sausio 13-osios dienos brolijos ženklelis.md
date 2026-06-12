@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40760"></a>
 - t-001
+  global_id: t-40760
   teiginys: 'Sausio 13-osios dienos brolijos ženklelio dailininkas buvo Domantas Vildžiūnas.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Ivanskas
 
 ## Santrauka
 
-Kojelavičius teigia, kad a b i k ariau n o s, su si ju n g u sio s p rie Ivansko, tu rė jo v ė lia u žy g iu o ti į V ilnių.
+Dvi priešo kariuomenės turėjo susijungti prie Ivansko ir vėliau žygiuoti į Vilnių.
 
 ## Teiginiai
 
+<a id="claim-t-185263"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad a b i k ariau n o s, su si ju n g u sio s p rie Ivansko, tu rė jo v ė lia u žy g iu o ti į V ilnių.'
+  global_id: t-185263
+  teiginys: 'Dvi priešo kariuomenės turėjo susijungti prie Ivansko ir vėliau žygiuoti į Vilnių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad a b i k ariau n o s, su si ju n g u sio s p rie Ivansko, tu rė jo v ė lia u žy g iu o ti į V ilnių.'
+  santrauka: 'Dvi priešo kariuomenės turėjo susijungti prie Ivansko ir vėliau žygiuoti į Vilnių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ivanui Se-

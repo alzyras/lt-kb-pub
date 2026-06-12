@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31410"></a>
 - t-001
+  global_id: t-31410
   teiginys: '1292 ir 1294 m. ordino kariuomenė nusiaubė Gaižuvos ir prie Vilkijos buvusias Pačtuvos sritis.'
   pagrindžia:
     - c-001

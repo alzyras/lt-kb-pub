@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Lietuvių nesėkmingas puolimas prieš Skalvių pilį (1293 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad pirmąjį stai gų smūgį ketino nukreipti į Skalvių miestą ir pilį.
+Lietuvių puolėjai pirmąjį staigų smūgį ketino nukreipti į Skalvių miestą ir pilį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185743"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pirmąjį stai gų smūgį ketino nukreipti į Skalvių miestą ir pilį.'
+  global_id: t-185743
+  teiginys: 'Lietuvių puolėjai pirmąjį staigų smūgį ketino nukreipti į Skalvių miestą ir pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pirmąjį stai gų smūgį ketino nukreipti į Skalvių miestą ir pilį.'
+  santrauka: 'Lietuvių puolėjai pirmąjį staigų smūgį ketino nukreipti į Skalvių miestą ir pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto vis­
@@ -58,3 +59,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Liudvikas]]
+- [[objektai/grupes/Skalviai]]
+- [[objektai/grupes/Lietuviai]]

@@ -12,14 +12,12 @@ date_end: '1429'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - laiškas
   - ordinas
   - tauta
   - vieta
 amziai:
   - 'XV'
 ---
-
 # Lenčica
 
 ## Santrauka
@@ -28,38 +26,52 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 
 ## Teiginiai
 
+<a id="claim-t-94354"></a>
 - t-001
+  global_id: t-94354
   teiginys: 'Po pareiškimo Jogailai Vytauto pasiuntiniai greitai išvyko iš Lenčicos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-94355"></a>
 - t-002
+  global_id: t-94355
   teiginys: '1409 m. visuotiniame Lenčicos suvažiavime viršų gavo bendradarbiavimo su Lietuva idėja.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-94356"></a>
 - t-003
+  global_id: t-94356
   teiginys: '1429 m. birželio 18 d. Vytauto pasiuntiniai Lenčicoje įteikė Jogailai Vytauto laišką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-94357"></a>
 - t-004
+  global_id: t-94357
   teiginys: '1429 m. birželio 18 d. Vytauto delegatai Gedgaudas ir Rumbaudas atvyko į Lenčicą ir įteikė Jogailai Vytauto laišką.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185003"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad mat bemaž tuo pačiu metu Vytenis lyg niekur nieko, tarytum tėvynė būtų visiškai saugi nuo prieV y te n is įsiv e ržia į šo, Mazovijos pasieniais įsiL en k iją ir u žim a Lenveržė, sutelkęs žygiui tūksčicą tantį aštuonis šimtus raitelių, į Lenčicos kraštą.'
+  global_id: t-185003
+  teiginys: 'Vytenis su 1800 raitelių įsiveržė į Lenčicos kraštą ir netikėtu antpuoliu užėmė Lenčicos miestą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-185004"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad atleidęs žygūną, jis sušaukė Lenčicoje seimą.'
+  global_id: t-185004
+  teiginys: 'Karalius, atleidęs kryžiuočių žygūną, sušaukė seimą Lenčicoje.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-185005"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad mažosios Lenkijos bei Volynės ka riams paliepė rinktis į Volbožą, Didžiosios Lenkijos — į Lenčicą.'
+  global_id: t-185005
+  teiginys: 'Jogaila Didžiosios Lenkijos kariams liepė rinktis į Lenčicą kovai su Prūsija.'
   pagrindžia:
     - c-007
 
@@ -127,7 +139,7 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
     - t-001
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad mat bemaž tuo pačiu metu Vytenis lyg niekur nieko, tarytum tėvynė būtų visiškai saugi nuo prieV y te n is įsiv e ržia į šo, Mazovijos pasieniais įsiL en k iją ir u žim a Lenveržė, sutelkęs žygiui tūksčicą tantį aštuonis šimtus raitelių, į Lenčicos kraštą.'
+  santrauka: 'Vytenis su 1800 raitelių įsiveržė į Lenčicos kraštą ir netikėtu antpuoliu užėmė Lenčicos miestą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat bemaž tuo
@@ -158,7 +170,7 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad atleidęs žygūną, jis sušaukė Lenčicoje seimą.'
+  santrauka: 'Karalius, atleidęs kryžiuočių žygūną, sušaukė seimą Lenčicoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip paprastai esti, kai vienoje
@@ -181,7 +193,7 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
     - t-006
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad mažosios Lenkijos bei Volynės ka riams paliepė rinktis į Volbožą, Didžiosios Lenkijos — į Lenčicą.'
+  santrauka: 'Jogaila Didžiosios Lenkijos kariams liepė rinktis į Lenčicą kovai su Prūsija.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius Jogaila, matydamas tokią

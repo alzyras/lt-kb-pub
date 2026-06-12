@@ -36,22 +36,30 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 
 ## Teiginiai
 
+<a id="claim-t-64945"></a>
 - t-001
+  global_id: t-64945
   teiginys: 'Jogaila paimtas vėliavas nugabeno į Krokuvą, į Vavelio pilį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64946"></a>
 - t-002
+  global_id: t-64946
   teiginys: 'Prie šio rinkinio vėliau buvo pridėtos dar penkios kituose mūšiuose paimtos vėliavos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64947"></a>
 - t-003
+  global_id: t-64947
   teiginys: 'Iki mūsų laikų iš šio vėliavų rinkinio liko tik XV a. pabaigoje padaryti piešiniai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-64948"></a>
 - t-004
+  global_id: t-64948
   teiginys: 'Tanenbergo mūšyje lietuviams ir lenkams teko 51 kryžiuočių kariuomenės vėliava.'
   pagrindžia:
     - c-001

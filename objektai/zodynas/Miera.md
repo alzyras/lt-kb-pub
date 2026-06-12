@@ -23,7 +23,9 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 
 ## Teiginiai
 
+<a id="claim-t-70031"></a>
 - t-001
+  global_id: t-70031
   teiginys: 'Miera arba saikas citatoje apima storumo ir tekumo matavimus, o svoriui minimas svaras arba voga.'
   pagrindžia:
     - c-001
@@ -56,7 +58,6 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/asmenys/Andrius Sniadeckis]]
 - [[objektai/asmenys/Antanas Buračas]]
 - [[objektai/ivykiai/Antrasis Panevėžio puolimas]]
-- [[objektai/autoriai/Atmesti paminėjimai]]
 - [[objektai/asmenys/Augustas II]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
 - [[objektai/daiktai/Bombardos]]
@@ -77,7 +78,7 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/paprociai/Išeiginės aukos per metines viešes]]
 - [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
 - [[objektai/asmenys/J. Aukštuolaitis]]
-- [[objektai/posakiai/Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti k]]
+- [Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti k](/objektai/posakiai/Jie%20ir%20%C5%BEemes%20paver%C4%8Dia%20tyrais%2C%20kaip%20tai%20matyti%20%C5%BDiemgaloje%20ir%20daugelyje%20kit%C5%B3%20%5Bviet%C5%B3%5D.%20Ta%C4%8Diau%20jie%20sako%2C%20jog%20tai%20daro%20d%C4%97l%20to%2C%20kad%20nori%20apginti%20k)
 - [[objektai/autoriai/Joachimas Lelevelis (istorikas)]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/ivykiai/Jogailos mirtis, Vladislovo Jogailaičio pakėlimas į karalius ir sąjungos su Lietuva atnaujinimas (1434 m.)]]
@@ -230,7 +231,6 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]
 - [[objektai/posakiai/„savotiška arba nesisteminė karalystė“]]
 - [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
-- [[objektai/asmenys/Jurgis Algimantaitis]]
 - [[objektai/ivykiai/Lietuvos kariuomenės dalinės demobilizacijos pradžia prieš J. Urbšio kelionę į Maskvą (1939 m. spalio 2 d. išvakarės)]]
 - [[objektai/paprociai/Raitas keliavimas į bažnyčią, mugę ir kitas vietas]]
 - [[objektai/asmenys/Stanislovas Kiška]]

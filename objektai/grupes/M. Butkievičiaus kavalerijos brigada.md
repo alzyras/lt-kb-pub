@@ -16,7 +16,9 @@ Butkievičiaus kavalerijos brigada ir iki dienos pabaigos ji pasiekia Videniški
 
 ## Teiginiai
 
+<a id="claim-t-41078"></a>
 - t-001
+  global_id: t-41078
   teiginys: 'Plk. M. Butkievičiaus kavalerijos brigada prasiveržė į lietuvių užnugarį ir iki dienos pabaigos pasiekė Videniškio rajoną.'
   pagrindžia:
     - c-001

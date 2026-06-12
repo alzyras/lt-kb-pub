@@ -18,7 +18,9 @@ Daukantas persikėlė į Sankt Peterburgą, įsidarbino Rusijos valstybės Senat
 
 ## Teiginiai
 
+<a id="claim-t-21030"></a>
 - t-001
+  global_id: t-21030
   teiginys: 'Simonas Daukantas išleido beletrizuotą etninių lietuvių kultūros studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“.'
   pagrindžia:
     - c-001

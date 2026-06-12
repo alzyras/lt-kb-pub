@@ -17,7 +17,9 @@ Matusevičiaus Trakų sukilėlių daliniai, palaikomi 2-ojo šaulių pulko batal
 
 ## Teiginiai
 
+<a id="claim-t-80645"></a>
 - t-001
+  global_id: t-80645
   teiginys: 'Matusevičiaus Trakų sukilėlių daliniai, palaikomi 2-ojo šaulių pulko bataliono, puolė rusų kairįjį sparną, tačiau rusų 6-asis karabinierių pulkas ataką atmušė.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
 
 ## Teiginiai
 
+<a id="claim-t-60352"></a>
 - t-001
+  global_id: t-60352
   teiginys: 'Juodutis buvo Naudžioto, sembų valstiečių išrinkto karvedžio, tėvas.'
   pagrindžia:
     - c-001

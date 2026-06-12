@@ -17,7 +17,9 @@ Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio p
 
 ## Teiginiai
 
+<a id="claim-t-21629"></a>
 - t-001
+  global_id: t-21629
   teiginys: 'Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
   pagrindžia:
     - c-001

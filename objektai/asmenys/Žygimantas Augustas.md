@@ -21,7 +21,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Žygimantas Augustas (arkivyskupas, XVI a.)
 
 ## Santrauka
@@ -30,88 +29,122 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 
 ## Teiginiai
 
+<a id="claim-t-182749"></a>
 - t-001
+  global_id: t-182749
   teiginys: 'Gavęs šią žinią, Žygimantas Augustas net apsiverkė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183581"></a>
 - t-002
+  global_id: t-183581
   teiginys: 'Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo pastatydino Vilniaus Žemutinę pilį, įdiegė daug naujų dalykų: nuo „itališkų pasivaikščiojimų“ – pokylių šokių – iki...'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183582"></a>
 - t-003
+  global_id: t-183582
   teiginys: 'Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės vaivadijas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183845"></a>
 - t-004
+  global_id: t-183845
   teiginys: '1555 m. Žygimantas Augustas patvirtino Radvilos dovanojimą gydytojui Cimermanui.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-183846"></a>
 - t-005
+  global_id: t-183846
   teiginys: '1546 m. Žygimanto Augusto laikais būsimos vaistinės vietoje stovėjo medinis namas su dideliu sklypu.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-183847"></a>
 - t-006
+  global_id: t-183847
   teiginys: 'Kotryna Jogailaitė, Žygimanto Augusto sesuo, Vilniuje susituokė su Suomijos kunigaikščiu Jonu.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-183848"></a>
 - t-007
+  global_id: t-183848
   teiginys: 'Ten visas laisvesnes akimirkas Augustas praleisdavo šalia Barboros, kol pagaliau su ja susituokė30.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-183849"></a>
 - t-008
+  global_id: t-183849
   teiginys: '1547 m. Žygimantas Augustas paskelbė potvarkį dėl supirkinėtojų, už miesto branginusių iš kaimų atvežamus produktus.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-183850"></a>
 - t-009
+  global_id: t-183850
   teiginys: 'Žygimantas Augustas po kelerių metų patvirtino Paleckiui dovanotą stiklo gamybos privilegiją.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-183851"></a>
 - t-010
+  global_id: t-183851
   teiginys: 'Barboros bažnyčia, kurią Augustas nemažomis lėšomis pastatydino mylimos žmonos atminimui, po jos mirties visur ieškodamas paguodos savo skausmui numalšinti35.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-183852"></a>
 - t-011
+  global_id: t-183852
   teiginys: '1557 m. žygis į Livoniją baigėsi, kai didysis magistras pripažino Žygimanto Augusto valdžią Livonijoje.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-183853"></a>
 - t-012
+  global_id: t-183853
   teiginys: '1564 m. liepos 7 d. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Statuto galios.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-183854"></a>
 - t-013
+  global_id: t-183854
   teiginys: 'Mirdamas Knišine Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-184910"></a>
 - t-014
-  teiginys: 'Kojelavičius teigia, kad 1543 m e ta i Ž y g im a n ta s A u g u s ta s v e d a a u strų k u n ig a ik š ty tę E lžb ietą Sugrįžęs į Lenkiją, kara lius suskato apvesdinti sūnų Augustą.'
+  global_id: t-184910
+  teiginys: '1543 m. Žygimantas Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-184911"></a>
 - t-015
-  teiginys: 'Kojelavičius teigia, kad sužinojęs apie šį sambrūzdį, karalius Augustas, suskatęs ginti arkivyskupą, išsiuntė pas magistrą vie ną kilmingą bajorą.'
+  global_id: t-184911
+  teiginys: 'Karalius Žygimantas Augustas, gindamas arkivyskupą, išsiuntė pas magistrą kilmingą bajorą.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-184912"></a>
 - t-016
-  teiginys: 'Kojelavičius teigia, kad jų atsimetimą nuo prosenelių tikėjimo karalius Augustas slėpė net ir Lietuvoje, ir štai dėl to pasklido apie jį žmonėse viso kių negerų kalbų, kad esąs perėjęs į liuteronų atskalą18.'
+  global_id: t-184912
+  teiginys: 'Žygimantas Augustas slėpė Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, todėl pasklido gandai apie jo palankumą liuteronybei.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-184913"></a>
 - t-017
-  teiginys: 'Kojelavičius teigia, kad šis veiksmas didžiai įžeidė Romos popiežių, kuris, Augustui tuokiantis su Kotryna, leido jam ne paisyti įstatymų, draudžiančių K a ra liu s A u g u sta s išpo žmonos mirties vesti jos sisk iria su žm o n a seserį.'
+  global_id: t-184913
+  teiginys: 'Žygimanto Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį.'
   pagrindžia:
     - c-017
 
@@ -369,7 +402,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - t-013
 
 - c-014
-  santrauka: 'Kojelavičius teigia, kad 1543 m e ta i Ž y g im a n ta s A u g u s ta s v e d a a u strų k u n ig a ik š ty tę E lžb ietą Sugrįžęs į Lenkiją, kara lius suskato apvesdinti sūnų Augustą.'
+  santrauka: '1543 m. Žygimantas Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     1543 m e ta i
@@ -395,7 +428,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - t-014
 
 - c-015
-  santrauka: 'Kojelavičius teigia, kad sužinojęs apie šį sambrūzdį, karalius Augustas, suskatęs ginti arkivyskupą, išsiuntė pas magistrą vie ną kilmingą bajorą.'
+  santrauka: 'Karalius Žygimantas Augustas, gindamas arkivyskupą, išsiuntė pas magistrą kilmingą bajorą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kapituliacijos sąlygos nebuvo sun­
@@ -415,7 +448,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - t-015
 
 - c-016
-  santrauka: 'Kojelavičius teigia, kad jų atsimetimą nuo prosenelių tikėjimo karalius Augustas slėpė net ir Lietuvoje, ir štai dėl to pasklido apie jį žmonėse viso kių negerų kalbų, kad esąs perėjęs į liuteronų atskalą18.'
+  santrauka: 'Žygimantas Augustas slėpė Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, todėl pasklido gandai apie jo palankumą liuteronybei.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neteisėtu būdu įsigiję žemių ir dvarų, jie pa­
@@ -444,7 +477,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - t-016
 
 - c-017
-  santrauka: 'Kojelavičius teigia, kad šis veiksmas didžiai įžeidė Romos popiežių, kuris, Augustui tuokiantis su Kotryna, leido jam ne paisyti įstatymų, draudžiančių K a ra liu s A u g u sta s išpo žmonos mirties vesti jos sisk iria su žm o n a seserį.'
+  santrauka: 'Žygimanto Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šis veiksmas didžiai įžeidė Romos popiežių,
@@ -467,3 +500,59 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   statusas: verified
   pagrindžia:
     - t-017
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Augustas]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/daiktai/Ginklai]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/asmenys/Karolis]]
+- [[objektai/asmenys/Kotryna]]
+- [[objektai/grupes/Liuteronai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
+- [[objektai/grupes/Lietuvos ponų taryba]]
+- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/zodynas/Magdeburgo teisė]]
+- [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]
+- [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]
+- [[objektai/grupes/Radvilų giminė]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/paprociai/Vilniaus miestiečių bylinėjimasis pagal Magdeburgo teisę]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/grupes/Vilniaus pirkliai]]
+- [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai]]
+- [[objektai/zodynas/muitas thelonea]]
+- [[objektai/zodynas/sufraganas kleras arkipresbiteris]]
+- [[objektai/ivykiai/Žygimanto Augusto generalinio potvarkio dėl lietuviškų monetų paskelbimas (1572 m. kovo 26 d.)]]
+- [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/grupes/Vilniaus akademijos kolegija]]
+- [[objektai/grupes/Vilniaus jėzuitų kolegija]]
+- [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai]]
+- [[objektai/zodynas/mansionieriai]]
+- [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]
+- [[objektai/ivykiai/Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje]]
+- [[objektai/daiktai/Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos]]
+- [[objektai/asmenys/Elžbieta]]
+- [[objektai/asmenys/Firstenbergas (Livonijos ordino magistras)]]
+- [[objektai/asmenys/Jonas (Suomijos kunigaikštis)]]
+- [[objektai/asmenys/Kotryna Jogailaitė]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/paprociai/Vilniaus padienininkų rinkimasis prie rotušės]]
+- [[objektai/zodynas/atskala]]
+- [[objektai/zodynas/supirkinėtojai ir padienininkai]]
+- [[objektai/daiktai/Šakutė]]

@@ -16,7 +16,9 @@ Trumpojoje Lietuvos metraščių redakcijoje (xv a.
 
 ## Teiginiai
 
+<a id="claim-t-41581"></a>
 - t-001
+  global_id: t-41581
   teiginys: 'Trumpojoje Lietuvos metraščių redakcijoje įrašytas „Pasakojimas apie Podolę“ yra plačiausias šaltinis apie Mėlynųjų Vandenų temą.'
   pagrindžia:
     - c-001

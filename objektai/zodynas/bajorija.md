@@ -19,7 +19,9 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
 
 ## Teiginiai
 
+<a id="claim-t-02959"></a>
 - t-001
+  global_id: t-02959
   teiginys: 'Iškilus kunigaikščiams, senieji apylinkių vadai rikiai tapo aukštesniuoju visuomenės sluoksniu, vadinamu bajorija.'
   pagrindžia:
     - c-001

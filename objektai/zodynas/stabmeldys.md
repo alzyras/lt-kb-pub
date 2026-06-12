@@ -19,17 +19,23 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
 
 ## Teiginiai
 
+<a id="claim-t-42510"></a>
 - t-001
+  global_id: t-42510
   teiginys: 'Stabmeldžiai svaidė ietis į krikščionis, o rusai strėlėmis sužeidė daug vyrų ir žirgų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-42511"></a>
 - t-002
+  global_id: t-42511
   teiginys: 'Viena stabmeldė pranešė magistrui, kad lietuvių karalius telkia kariuomenę Sembos žemei nusiaubti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-42512"></a>
 - t-003
+  global_id: t-42512
   teiginys: 'Sausio 24-osios išvakarėse į stabmeldžių žemę įžengę kariai žudė gyventojus ir degino kraštą.'
   pagrindžia:
     - c-003
@@ -93,7 +99,7 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vygandas]]
 - [[objektai/autoriai/Vygandas Marburgietis]]
-- [[objektai/asmenys/Zygfridas iš Da[he]nfeldo]]
+- [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]

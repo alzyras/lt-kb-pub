@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87092"></a>
 - t-001
+  global_id: t-87092
   teiginys: 'Mykolo bažnyčia buvo išmūryti didieji maldos namai.'
   pagrindžia:
     - c-001

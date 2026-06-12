@@ -18,7 +18,9 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
 
 ## Teiginiai
 
+<a id="claim-t-87797"></a>
 - t-001
+  global_id: t-87797
   teiginys: 'Motiejus Porempskis buvo vienas iš besiskundžiančiųjų, reikalavusių kaltinamajam taikyti privilegijoje numatytą bausmę.'
   pagrindžia:
     - c-001

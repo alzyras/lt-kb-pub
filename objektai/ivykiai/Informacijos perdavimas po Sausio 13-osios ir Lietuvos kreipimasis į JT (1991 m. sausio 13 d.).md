@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20208"></a>
 - t-001
+  global_id: t-20208
   teiginys: 'Sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios informacijos.'
   pagrindžia:
     - c-001

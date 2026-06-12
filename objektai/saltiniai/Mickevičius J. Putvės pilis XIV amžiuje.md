@@ -25,17 +25,23 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
 
 ## Teiginiai
 
+<a id="claim-t-60956"></a>
 - t-001
+  global_id: t-60956
   teiginys: 'J. Mickevičiaus straipsnis „Putvės pilis XIV amžiuje“ paskelbtas 1940 m. žurnalo „Gimtasai kraštas“ 3-4 numeryje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60957"></a>
 - t-002
+  global_id: t-60957
   teiginys: 'Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės kaimu prie Akmenos (Jūros intako) į pietryčius nuo Šilalės, su ten buvusiu (upės nuplautu) arba gretimo Kreivių kaimo piliakalniu (SRP, 2, p. 673—675; SZM, p. 201; Biržiška V., Kryžiuočių keliai..., p. 32—33.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60958"></a>
 - t-003
+  global_id: t-60958
   teiginys: 'Dusburgietis teigia, kad kreiviai (anksčiau vadinti Kryvos vardu — Mickevičius J.) ir gretimas Romės Laukas, matyt, buvo susiję su pagonišku kultu (žr.'
   pagrindžia:
     - c-003

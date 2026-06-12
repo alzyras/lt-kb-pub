@@ -23,7 +23,9 @@ Velykis, pulk., Griunvaldas, Karo Archyvas, II tom. Kaunas, 1925.
 
 ## Teiginiai
 
+<a id="claim-t-34994"></a>
 - t-001
+  global_id: t-34994
   teiginys: 'Pulk. Velykio „Griunvaldas“ publikuotas „Karo Archyvo“ II tome Kaune 1925 m.'
   pagrindžia:
     - c-001

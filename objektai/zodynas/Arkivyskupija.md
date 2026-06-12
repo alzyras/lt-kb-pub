@@ -22,7 +22,9 @@ Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl 
 
 ## Teiginiai
 
+<a id="claim-t-32746"></a>
 - t-001
+  global_id: t-32746
   teiginys: 'Naugarduke Gedimino palaikyta Lietuvos stačiatikių arkivyskupija apie 1330 m. žlugo po arkivyskupo Teofilio mirties.'
   pagrindžia:
     - c-001

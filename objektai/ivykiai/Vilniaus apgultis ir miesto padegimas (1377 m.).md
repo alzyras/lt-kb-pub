@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54694"></a>
 - t-001
+  global_id: t-54694
   teiginys: '1377 m. birželio pabaigoje Gotfridas Lindenas ir Redigeris Elneris su 12 000 žmonių sustojo prie Vilniaus.'
   pagrindžia:
     - c-001

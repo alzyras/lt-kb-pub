@@ -18,7 +18,9 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
 
 ## Teiginiai
 
+<a id="claim-t-22261"></a>
 - t-001
+  global_id: t-22261
   teiginys: 'Naciai manė, kad „rasės atžvilgiu svetimus elementus“ būtina pašalinti.'
   pagrindžia:
     - c-001

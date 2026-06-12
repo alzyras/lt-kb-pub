@@ -22,12 +22,16 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Apygradoje prasidė
 
 ## Teiginiai
 
+<a id="claim-t-41084"></a>
 - t-001
+  global_id: t-41084
   teiginys: 'Prisikėlimo apygardoje atkurta P. Lukšio rinktinė netrukus buvo pervadinta Maironio rinktine.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41085"></a>
 - t-002
+  global_id: t-41085
   teiginys: 'Prisikėlimo apygardos reorganizacijos metu Maironio rinktinės vadas Juozas Paliūnas-Rytas tapo apygardos vado pavaduotoju.'
   pagrindžia:
     - c-002

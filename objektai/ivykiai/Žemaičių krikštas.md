@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35925"></a>
 - t-001
+  global_id: t-35925
   teiginys: 'Žalgirio mūšis ir Torno taika galutinai išsprendė Žemaičių krikšto klausimą.'
   pagrindžia:
     - c-001

@@ -27,12 +27,16 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-78960"></a>
 - t-001
+  global_id: t-78960
   teiginys: 'Burundajus vadovavo Aukso ordos totoriams per didelį antpuolį, kurį Lietuva atrėmė žiemą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78961"></a>
 - t-002
+  global_id: t-78961
   teiginys: '1258-1259 m. žiemą Lietuva atrėmė didžiulį Aukso ordos totorių, vadovaujamų Burundajaus, bei jiems jau pavaldžios Haličo-Voluinės Rusios antpuolį.'
   pagrindžia:
     - c-001

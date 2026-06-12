@@ -16,7 +16,9 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
 
 ## Teiginiai
 
+<a id="claim-t-80743"></a>
 - t-001
+  global_id: t-80743
   teiginys: 'Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadovaujama karininko Sangino, puls dvaro klojimą, kuriame [miegojo] dvi bolševikų kuopos.'
   pagrindžia:
     - c-001

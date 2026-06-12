@@ -19,7 +19,9 @@ Padariniai Tarpukario Lietuvos generalinio štabo majoras Vytautas Bulvičius sa
 
 ## Teiginiai
 
+<a id="claim-t-63358"></a>
 - t-001
+  global_id: t-63358
   teiginys: 'Vytautas Bulvičius knygoje „Karinis valstybės rengimas“ ragino tautą bijoti ne nepriklausomybės netekimo kariaujant, o laisvės praradimo be kovos.'
   pagrindžia:
     - c-001

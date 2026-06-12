@@ -16,7 +16,9 @@ Salio, ir kalbininkų Talmanto, Laurynaičio ir Kuzmickio straipsniai.
 
 ## Teiginiai
 
+<a id="claim-t-96055"></a>
 - t-001
+  global_id: t-96055
   teiginys: 'Salio, ir kalbininkų Talmanto, Laurynaičio ir Kuzmickio straipsniai.'
   pagrindžia:
     - c-001

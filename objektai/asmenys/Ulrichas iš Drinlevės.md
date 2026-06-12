@@ -24,7 +24,9 @@ Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulric
 
 ## Teiginiai
 
+<a id="claim-t-60450"></a>
 - t-001
+  global_id: t-60450
   teiginys: 'Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras, ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie.'
   pagrindžia:
     - c-001

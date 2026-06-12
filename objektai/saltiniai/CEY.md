@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-31644"></a>
 - t-001
+  global_id: t-31644
   teiginys: 'CEY 117 numeris pateiktas kaip šaltinio nuoroda.'
   pagrindžia:
     - c-001

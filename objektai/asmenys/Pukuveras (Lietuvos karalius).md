@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-39631"></a>
 - t-001
+  global_id: t-39631
   teiginys: 'Pukuveras tais pačiais metais pasiuntė savo sūnų Vytenį su didele kariuomene į Bresto žemę Lenkijoje.'
   pagrindžia:
     - c-001

@@ -28,12 +28,16 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 
 ## Teiginiai
 
+<a id="claim-t-63828"></a>
 - t-001
+  global_id: t-63828
   teiginys: 'Kiprijonas 1390-1406 m. buvo Kijevo ir visos Rusios metropolitas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63829"></a>
 - t-002
+  global_id: t-63829
   teiginys: 'Greičiausiai Vytauto iniciatyva per Maskvos didįjį kunigaikštį Vasilijų Konstantinopolio patriarchas ragino Kijevo metropolitą Kiprijoną kviesti tikinčiuosius į karą prieš totorius.'
   pagrindžia:
     - c-001

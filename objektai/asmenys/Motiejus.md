@@ -26,7 +26,9 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
 
 ## Teiginiai
 
+<a id="claim-t-63987"></a>
 - t-001
+  global_id: t-63987
   teiginys: 'Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui ir priėmė Švenčiausiąjį bei paskutinį patepimą.'
   pagrindžia:
     - c-001

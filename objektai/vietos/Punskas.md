@@ -25,22 +25,30 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
 
 ## Teiginiai
 
+<a id="claim-t-71963"></a>
 - t-001
+  global_id: t-71963
   teiginys: 'Paskutinė federacijos su Lenkija galimybė Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviški Seinai ir Punskas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71964"></a>
 - t-002
+  global_id: t-71964
   teiginys: 'Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71965"></a>
 - t-003
+  global_id: t-71965
   teiginys: 'Rugsėjo 22 d. „Gediminas“ susirėmė su lenkų artilerija už Punsko, prie Smalėnų miestelio.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183623"></a>
 - t-004
+  global_id: t-183623
   teiginys: 'Savo ruožtu Lietuva nustojo teisės reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tautinių mažumų klausimas kartais dar kelia karštas diskusijas.'
   pagrindžia:
     - c-003

@@ -27,7 +27,9 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 
 ## Teiginiai
 
+<a id="claim-t-87898"></a>
 - t-001
+  global_id: t-87898
   teiginys: 'Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas.'
   pagrindžia:
     - c-001
@@ -93,3 +95,4 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - [[objektai/daiktai/Aukuras]]
 - [[objektai/paprociai/Mirusiųjų kūnų deginimas Šventaragio slėnyje]]
 - [[objektai/paprociai/Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje]]
+- [[objektai/paprociai/Valdovų deginimo ir laidojimo apeigos Šventaragyje]]

@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-31055"></a>
 - t-001
+  global_id: t-31055
   teiginys: 'V. Černeckis rašė apie kapitalistinės pramonės formavimąsi Kaune 1861–1913 m.'
   pagrindžia:
     - c-001

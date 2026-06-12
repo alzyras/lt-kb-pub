@@ -24,17 +24,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-42268"></a>
 - t-001
+  global_id: t-42268
   teiginys: 'Antanas Šukys prisiminė, kad 6-ojo pėstininkų pulko kariai Vidugirių kaime susitiko to paties pulko I batalioną.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-42269"></a>
 - t-002
+  global_id: t-42269
   teiginys: 'Vidugirių kaime rasta ką tik iš Eglainės atvykusių 6-ojo pėstininkų pulko batalionų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-42270"></a>
 - t-003
+  global_id: t-42270
   teiginys: '1920 m. rugsėjo 22 d. 6-ojo pėstininkų pulko kariai buvo prie mūšyje netoli Vidugirio žuvusio leitenanto Jono Kuklierio kūno.'
   pagrindžia:
     - c-002

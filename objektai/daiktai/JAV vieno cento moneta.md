@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-64932"></a>
 - t-001
+  global_id: t-64932
   teiginys: 'JAV vieno cento monetos autoriumi įvardijamas iš Šiaulių kilęs skulptorius Victor David Brenneris.'
   pagrindžia:
     - c-001

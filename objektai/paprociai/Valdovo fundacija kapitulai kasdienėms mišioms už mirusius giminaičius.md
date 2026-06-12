@@ -47,12 +47,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87229"></a>
 - t-001
+  global_id: t-87229
   teiginys: 'Vytautas privilegijoje nurodė maldomis rūpintis jo ir mirusių brolių Kazimiero Karigailos bei Aleksandro Vyganto sveikata.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87230"></a>
 - t-002
+  global_id: t-87230
   teiginys: '1396 m. Vytautas kapitulai dovanojo Cudzeniškių valdą ir įpareigojo kasdien aukoti mišias už mirusius brolius Karigailą ir Vygantą.'
   pagrindžia:
     - c-001

@@ -27,17 +27,23 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
 
 ## Teiginiai
 
+<a id="claim-t-58490"></a>
 - t-001
+  global_id: t-58490
   teiginys: 'Dusburgietis teigia, kad kai prūsai šią pilį sunaikino, 1326 m. buvo pastatyta antroji Štarkenbergo pilis kair.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58491"></a>
 - t-002
+  global_id: t-58491
   teiginys: 'Teutonų ordino didysis magistras Anonas įsakė pastatyti Štarkenbergo pilį Osos pakrantėje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58492"></a>
 - t-003
+  global_id: t-58492
   teiginys: 'Prūsai užėmė Štarkenbergo pilį, išžudė jos brolius ir gyventojus, o pačią pilį sudegino.'
   pagrindžia:
     - c-003

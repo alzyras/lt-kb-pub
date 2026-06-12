@@ -26,7 +26,9 @@ LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento Lietuv
 
 ## Teiginiai
 
+<a id="claim-t-78126"></a>
 - t-001
+  global_id: t-78126
   teiginys: '1940 m. liepos 15 d. F. Ruzvelto įsakymas įšaldė JAV bankuose laikytas Baltijos valstybių lėšas.'
   pagrindžia:
     - c-001

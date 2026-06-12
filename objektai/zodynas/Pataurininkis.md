@@ -17,7 +17,9 @@ Tai buvo žmogus, kurį dar Algirdas dėl didelių gabumų iš kepėjo sūnaus i
 
 ## Teiginiai
 
+<a id="claim-t-86637"></a>
 - t-001
+  global_id: t-86637
   teiginys: 'Tai buvo žmogus, kurį dar Algirdas dėl didelių gabumų iš kepėjo sūnaus iki rūmų pataurininkio iškėlė.'
   pagrindžia:
     - c-001
@@ -52,7 +54,6 @@ Tai buvo žmogus, kurį dar Algirdas dėl didelių gabumų iš kepėjo sūnaus i
 - [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]
 - [[objektai/asmenys/Eustachijus Valavičius]]
 - [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas]]
-- [[objektai/asmenys/Ivanas (Maskvos valdovas)]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Jonas iš Zabrežjės]]
 - [[objektai/grupes/Lietuvos luomai]]

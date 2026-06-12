@@ -27,12 +27,16 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87512"></a>
 - t-001
+  global_id: t-87512
   teiginys: 'Turkijos čiaušas Ibrahimas su dvidešimt dviem tarnais turėjo būti aprūpintas nakvyne Vilniaus mieste.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87513"></a>
 - t-002
+  global_id: t-87513
   teiginys: 'Turkijos imperatoriaus čiaušas Ibrahimas buvo atsiųstas pas karalių ir, atvykęs iš Maskvos, paliko Vilniuje tarnus, žirgus bei daiktus.'
   pagrindžia:
     - c-001

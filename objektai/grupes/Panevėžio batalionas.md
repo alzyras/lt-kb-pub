@@ -22,7 +22,9 @@ BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kov
 
 ## Teiginiai
 
+<a id="claim-t-80657"></a>
 - t-001
+  global_id: t-80657
   teiginys: 'BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio ir jo apylinkių gyventojų įteikta vėliava.'
   pagrindžia:
     - c-001

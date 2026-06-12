@@ -22,7 +22,9 @@ Korčino aktas, stojo skersai kelio Vytauto siekimams Lietuvoj, ypač buvo aišk
 
 ## Teiginiai
 
+<a id="claim-t-34975"></a>
 - t-001
+  global_id: t-34975
   teiginys: 'N. Korčino aktas kliudė Vytauto siekiams Lietuvoje ir buvo nukreiptas prieš jo pretenzijas į Lucką.'
   pagrindžia:
     - c-001

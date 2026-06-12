@@ -19,12 +19,16 @@ Seimų rūšys. Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šauk
 
 ## Teiginiai
 
+<a id="claim-t-03051"></a>
 - t-001
+  global_id: t-03051
   teiginys: 'Po konvokacinio seimo primas jo nustatytu laiku šaukdavo elekcinį seimą, kuriame buvo tvarkomi karaliaus rinkimo formalumai ir sąlygos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-03052"></a>
 - t-002
+  global_id: t-03052
   teiginys: 'Konvokaciniai seimai būdavo šaukiami mirus karaliui, o juos šaukdavo Gniezno arkivyskupas, laikytas valstybės galva tarpuvaldžiu.'
   pagrindžia:
     - c-002

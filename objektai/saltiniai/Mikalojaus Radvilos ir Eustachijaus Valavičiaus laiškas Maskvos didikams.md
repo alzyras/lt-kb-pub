@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Mikalojaus Radvilos ir Eustachijaus Valavičiaus laiškas Maskvos didikams
 
 ## Santrauka
 
-Kojelavičius teigia, kad lietuvių senato va dovai Mikalojus Radvila ir Eustachijus Valavičius iš siuntė Maskvos didikams savo laišką, kuriame štai ką pareiškė.
+Lietuvių senato vadovai Mikalojus Radvila ir Eustachijus Valavičius išsiuntė Maskvos didikams laišką dėl karo vengiančio karaliaus pozicijos.
 
 ## Teiginiai
 
+<a id="claim-t-186341"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad lietuvių senato va dovai Mikalojus Radvila ir Eustachijus Valavičius iš siuntė Maskvos didikams savo laišką, kuriame štai ką pareiškė.'
+  global_id: t-186341
+  teiginys: 'Lietuvių senato vadovai Mikalojus Radvila ir Eustachijus Valavičius išsiuntė Maskvos didikams laišką dėl karo vengiančio karaliaus pozicijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad lietuvių senato va dovai Mikalojus Radvila ir Eustachijus Valavičius iš siuntė Maskvos didikams savo laišką, kuriame štai ką pareiškė.'
+  santrauka: 'Lietuvių senato vadovai Mikalojus Radvila ir Eustachijus Valavičius išsiuntė Maskvos didikams laišką dėl karo vengiančio karaliaus pozicijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai dėl to jis ir prašąs, kad, paisydamas

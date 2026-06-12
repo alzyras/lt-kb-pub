@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos
 
 ## Santrauka
 
-Kojelavičius teigia, kad kadangi prie šas nežinojo, kas dedasi, keli tūkstančiai raitelių, apie vidudienį laimingai persikėK a ia liu s Ž y g im a n ta s lę per upę, užgriuvo stovykm a sk v ė n u s su m u ša lą, kai maskvėnai stiprinosi, ir pradėjo kruvinas kauty nes, kol priešai. Kojelavičius teigia, kad glinskis, puo selėdamas jau kartą atmestus sumanymus, po senovei troško vienu smūgiu viską sėkmingai bei laimingai pa baigti, todėl, visą naktį nesudėjęs nė bluosto, guodė ir drąsino maskvėnų pulkų vadus bei kunigaikščius, sa kydamas gerai žinąs, jog. Kojelavičius teigia, kad kai, išaušus dienai, paaiškėjo, jog priešas pabėgo, kareiviai apiplėšė stovyklą, tačiau karalius, didikų patartas, nesiryžo persekioti maskvėnų.
+Keli tūkstančiai raitelių apie vidudienį perėjo Dneprą ir netikėtai užpuolė besitvirtinančių maskvėnų stovyklą. Glinskis visą naktį drąsino maskvėnų vadus, žadėdamas lengvą pergalę, bet apie vidurnaktį maskvėnai paliko stovyklą ir gurguoles. Paaiškėjus, kad maskvėnai pabėgo, kareiviai apiplėšė jų stovyklą, o karalius, didikų patartas, atsisakė juos persekioti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,25 +26,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185561"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kadangi prie šas nežinojo, kas dedasi, keli tūkstančiai raitelių, apie vidudienį laimingai persikėK a ia liu s Ž y g im a n ta s lę per upę, užgriuvo stovykm a sk v ė n u s su m u ša lą, kai maskvėnai stiprinosi, ir pradėjo kruvinas kauty nes, kol priešai.'
+  global_id: t-185561
+  teiginys: 'Keli tūkstančiai raitelių apie vidudienį perėjo Dneprą ir netikėtai užpuolė besitvirtinančių maskvėnų stovyklą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185562"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad glinskis, puo selėdamas jau kartą atmestus sumanymus, po senovei troško vienu smūgiu viską sėkmingai bei laimingai pa baigti, todėl, visą naktį nesudėjęs nė bluosto, guodė ir drąsino maskvėnų pulkų vadus bei kunigaikščius, sa kydamas gerai žinąs, jog.'
+  global_id: t-185562
+  teiginys: 'Glinskis visą naktį drąsino maskvėnų vadus, žadėdamas lengvą pergalę, bet apie vidurnaktį maskvėnai paliko stovyklą ir gurguoles.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185563"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad kai, išaušus dienai, paaiškėjo, jog priešas pabėgo, kareiviai apiplėšė stovyklą, tačiau karalius, didikų patartas, nesiryžo persekioti maskvėnų.'
+  global_id: t-185563
+  teiginys: 'Paaiškėjus, kad maskvėnai pabėgo, kareiviai apiplėšė jų stovyklą, o karalius, didikų patartas, atsisakė juos persekioti.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kadangi prie šas nežinojo, kas dedasi, keli tūkstančiai raitelių, apie vidudienį laimingai persikėK a ia liu s Ž y g im a n ta s lę per upę, užgriuvo stovykm a sk v ė n u s su m u ša lą, kai maskvėnai stiprinosi, ir pradėjo kruvinas kauty nes, kol priešai.'
+  santrauka: 'Keli tūkstančiai raitelių apie vidudienį perėjo Dneprą ir netikėtai užpuolė besitvirtinančių maskvėnų stovyklą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi prie­
@@ -72,7 +77,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad glinskis, puo selėdamas jau kartą atmestus sumanymus, po senovei troško vienu smūgiu viską sėkmingai bei laimingai pa baigti, todėl, visą naktį nesudėjęs nė bluosto, guodė ir drąsino maskvėnų pulkų vadus bei kunigaikščius, sa kydamas gerai žinąs, jog.'
+  santrauka: 'Glinskis visą naktį drąsino maskvėnų vadus, žadėdamas lengvą pergalę, bet apie vidurnaktį maskvėnai paliko stovyklą ir gurguoles.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Glinskis, puo­
@@ -101,7 +106,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad kai, išaušus dienai, paaiškėjo, jog priešas pabėgo, kareiviai apiplėšė stovyklą, tačiau karalius, didikų patartas, nesiryžo persekioti maskvėnų.'
+  santrauka: 'Paaiškėjus, kad maskvėnai pabėgo, kareiviai apiplėšė jų stovyklą, o karalius, didikų patartas, atsisakė juos persekioti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po šio įvykio Glinskis, nelyginant sumažėjęs ne
@@ -122,3 +127,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/zodynas/didysis kunigaikštis]]

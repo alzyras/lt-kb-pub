@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39126"></a>
 - t-001
+  global_id: t-39126
   teiginys: 'Baro konfederacija nepasiekė savo tikslų atsikratyti svetimų šalių įtakos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-39127"></a>
 - t-002
+  global_id: t-39127
   teiginys: '1768 m. prieš Rusijos kontrolę nusistatę lenkų ir lietuvių didikai bei bajorai susibūrė į Baro konfederaciją.'
   pagrindžia:
     - c-001

@@ -26,32 +26,44 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 
 ## Teiginiai
 
+<a id="claim-t-74137"></a>
 - t-001
+  global_id: t-74137
   teiginys: '1918 m. įtakingiausios JAV lietuvių katalikų ir tautininkų organizacijos pareikalavo Lietuvos nepriklausomybės.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-74138"></a>
 - t-002
+  global_id: t-74138
   teiginys: 'Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74139"></a>
 - t-003
+  global_id: t-74139
   teiginys: 'JAV lietuvių siunčiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo darbams.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-74140"></a>
 - t-004
+  global_id: t-74140
   teiginys: 'Apie 350 000 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-74141"></a>
 - t-005
+  global_id: t-74141
   teiginys: '00 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-74142"></a>
 - t-006
+  global_id: t-74142
   teiginys: 'Amerikos lietuviai siuntė paramą karo aukoms ir prašė prezidento Woodrow Wilsono paskelbti Lietuvos karo aukų dieną.'
   pagrindžia:
     - c-002

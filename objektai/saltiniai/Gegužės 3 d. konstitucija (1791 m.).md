@@ -32,52 +32,72 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-78088"></a>
 - t-001
+  global_id: t-78088
   teiginys: 'Nors Gegužės trečiosios konstitucija radikalumu toli gražu neprilygo Prancūzijos revoliucijos dokumentams, būtent ją reikėtų laikyti riba tarp senosios bajoriškosios santvarkos ir moderniųjų laikų, taigi riba tarp Baroko ir Apšvietos epochų.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-78089"></a>
 - t-002
+  global_id: t-78089
   teiginys: 'Gegužės trečiosios konstitucijos pagrindu buvo įsteigtas antspaudo ministro užsienio reikalams postas.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-78090"></a>
 - t-003
+  global_id: t-78090
   teiginys: 'Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78091"></a>
 - t-004
+  global_id: t-78091
   teiginys: '70; Tautos, kalbos, raštijos 72; Vilniaus universitetas 78; Ryčiausia ir šiauriausia Europoje baroko architektūra 82; Gaonas ir „Šiaurės Jeruzalė“ 83 ANKSČIAUSIA KONSTITUCIJA EUROPOJE IR JOS PANAIKINIMAS 85 Apšvieta ateina į LDK 85; Gegužės trečiosios.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78092"></a>
 - t-005
+  global_id: t-78092
   teiginys: 'Nors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus rusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną padalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-78093"></a>
 - t-006
+  global_id: t-78093
   teiginys: 'Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-78094"></a>
 - t-007
+  global_id: t-78094
   teiginys: 'Konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-78095"></a>
 - t-008
+  global_id: t-78095
   teiginys: 'Šių bandymų viršūne tapo 1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimo priimta konstitucija, kurioje naikinamas valdovų elekcijos principas ir skelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios reiškėjas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78096"></a>
 - t-009
+  global_id: t-78096
   teiginys: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės 3 d. konstituciją.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-78097"></a>
 - t-010
+  global_id: t-78097
   teiginys: 'Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstatymas.'
   pagrindžia:
     - c-010

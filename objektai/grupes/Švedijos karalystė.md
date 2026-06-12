@@ -18,7 +18,9 @@ Kuoknesės pilies išsaugojimas turėjo svarbią strateginę reikšmę Lietuvos 
 
 ## Teiginiai
 
+<a id="claim-t-39023"></a>
 - t-001
+  global_id: t-39023
   teiginys: 'Kuoknesės pilies išsaugojimas turėjo svarbią strateginę reikšmę Lietuvos Didžiajai Kunigaikštystei, tęsiant tolesnes kovas su Švedijos karalyste.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Aleksandras Bokevičius
 
 ## Santrauka
 
-Kojelavičius teigia, kad pirmiausia pasiuntė T ariam asi d ė l ta ik o s Aleksandrą Bokevičių, taurų su m a sk v ė n a is jaunikaitį, turėjusį pranešti Vasilijui, jog neilgai trukus atvyks legatai.
+Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks legatai.
 
 ## Teiginiai
 
+<a id="claim-t-186093"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pirmiausia pasiuntė T ariam asi d ė l ta ik o s Aleksandrą Bokevičių, taurų su m a sk v ė n a is jaunikaitį, turėjusį pranešti Vasilijui, jog neilgai trukus atvyks legatai.'
+  global_id: t-186093
+  teiginys: 'Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks legatai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pirmiausia pasiuntė T ariam asi d ė l ta ik o s Aleksandrą Bokevičių, taurų su m a sk v ė n a is jaunikaitį, turėjusį pranešti Vasilijui, jog neilgai trukus atvyks legatai.'
+  santrauka: 'Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks legatai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pirmiausia
@@ -50,3 +51,8 @@ Kojelavičius teigia, kad pirmiausia pasiuntė T ariam asi d ė l ta ik o s Alek
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/legatai]]

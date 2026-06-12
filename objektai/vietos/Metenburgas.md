@@ -18,7 +18,9 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
 
 ## Teiginiai
 
+<a id="claim-t-36406"></a>
 - t-001
+  global_id: t-36406
   teiginys: 'Ordino magistras liepė netoli Gardino pastatyti Metenburgą, kuriame buvo įkurdinta kryžiuočių įgula.'
   pagrindžia:
     - c-001

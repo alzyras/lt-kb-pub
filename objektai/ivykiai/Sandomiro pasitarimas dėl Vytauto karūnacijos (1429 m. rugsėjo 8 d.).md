@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35875"></a>
 - t-001
+  global_id: t-35875
   teiginys: 'Sandomiro suvažiavime Olesnickis pasiūlė Vytautui Jogailos karūną, tačiau abejojama, ar tam pritarė Jogaila.'
   pagrindžia:
     - c-001

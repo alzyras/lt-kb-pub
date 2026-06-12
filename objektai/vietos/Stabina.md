@@ -17,7 +17,9 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
 
 ## Teiginiai
 
+<a id="claim-t-02773"></a>
 - t-001
+  global_id: t-02773
   teiginys: 'Lietuvos vyriausybė pasiūlė laikiną demarkacijos liniją, kuri turėjo eiti per Grabovą, Augustavą ir Stabiną.'
   pagrindžia:
     - c-001

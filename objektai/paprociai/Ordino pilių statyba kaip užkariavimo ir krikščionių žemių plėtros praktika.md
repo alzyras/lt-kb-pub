@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62703"></a>
 - t-001
+  global_id: t-62703
   teiginys: 'Dusburgietis teigia, kad kronikininkas parodo, kad užkariavimus Ordinas įtvirtina savo pilių statyba, tai darydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-62704"></a>
 - t-002
+  global_id: t-62704
   teiginys: 'Dusburgietis teigia, kad antra vertus, Petras iš Dusburgo kartais atvirai pasako, jog pagrindinis Ordino siekimas — grobti naujas žemes.'
   pagrindžia:
     - c-002

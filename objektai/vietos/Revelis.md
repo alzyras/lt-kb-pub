@@ -19,7 +19,9 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 
 ## Teiginiai
 
+<a id="claim-t-69146"></a>
 - t-001
+  global_id: t-69146
   teiginys: 'Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę (šiaurinę Estiją).'
   pagrindžia:
     - c-002

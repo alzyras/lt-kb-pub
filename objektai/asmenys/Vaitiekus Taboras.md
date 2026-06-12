@@ -22,7 +22,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Vaitiekus Taboras (vyskupas, XV–XVI a.)
 
 ## Santrauka
@@ -31,33 +30,45 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
 
 ## Teiginiai
 
+<a id="claim-t-87411"></a>
 - t-001
+  global_id: t-87411
   teiginys: 'Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas Laskis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87412"></a>
 - t-002
+  global_id: t-87412
   teiginys: 'Vilniaus vyskupas Vaitiekus Taboras ragino ir rėmė miestiečius, apjuosusius Vilnių mūro pylimu.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-87413"></a>
 - t-003
+  global_id: t-87413
   teiginys: 'Vaitiekus Taboras, lietuvių bajoras nuo Eišiškių, 1491 m. buvo iškeltas į vyskupus ir mirė 1507 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87414"></a>
 - t-004
+  global_id: t-87414
   teiginys: 'Vilniaus vyskupas Vaitiekus Taboras kartu su graikų tikėjimo dvasininku Foma sutuokė didįjį kunigaikštį su Elena.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184852"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras.'
+  global_id: t-184852
+  teiginys: 'Po Vilniaus vyskupo Andriaus mirties jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184853"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad vaitiekus Taboras, pa prašęs aukščiausiąjį laiminti valstybę, trumpa kalba pa ragino kunigaikštį neiškrypti iš prosenelių praminto ke lio ir uždėjo vainiką, užimamos valdžios žymenį.'
+  global_id: t-184853
+  teiginys: 'Kojelavičius pasakoja, kad Vaitiekus Taboras meldė Dievo laiminti valstybę, ragino kunigaikštį sekti prosenelių keliu ir uždėjo jam valdžios vainiką.'
   pagrindžia:
     - c-006
 
@@ -139,7 +150,7 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
     - t-002
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras.'
+  santrauka: 'Po Vilniaus vyskupo Andriaus mirties jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Keliais mėnesiais
@@ -171,7 +182,7 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad vaitiekus Taboras, pa prašęs aukščiausiąjį laiminti valstybę, trumpa kalba pa ragino kunigaikštį neiškrypti iš prosenelių praminto ke lio ir uždėjo vainiką, užimamos valdžios žymenį.'
+  santrauka: 'Vaitiekus Taboras paprašė Dievo laiminti valstybę, paragino kunigaikštį sekti prosenelių keliu ir uždėjo jam valdžios vainiką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Stanislovo
@@ -191,3 +202,17 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
   statusas: verified
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Aleksandro lektika]]
+- [[objektai/grupes/Graikai]]
+- [[objektai/grupes/Jogailaičiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Maskvos pasiuntiniai]]
+- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]
+- [[objektai/paprociai/Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą]]

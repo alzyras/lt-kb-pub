@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-34568"></a>
 - t-001
+  global_id: t-34568
   teiginys: 'Apie gegužės 20 d. Vytautas įsiveržė į Vilniaus srities Medininkus ir po aštuonių dienų grįžo su dideliu grobiu.'
   pagrindžia:
     - c-001

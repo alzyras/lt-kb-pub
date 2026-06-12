@@ -19,7 +19,9 @@ Vilnius, drau­ ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
 
 ## Teiginiai
 
+<a id="claim-t-86780"></a>
 - t-001
+  global_id: t-86780
   teiginys: 'Žygimanto grupuotė kartu su Švitrigailos šalininkais vėl pavertė Vilnių politinės kovos taikiniu.'
   pagrindžia:
     - c-001

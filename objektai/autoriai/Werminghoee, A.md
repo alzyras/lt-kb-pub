@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-31077"></a>
 - t-001
+  global_id: t-31077
   teiginys: 'A. Werminghoee 1914 m. paskelbė darbą apie Ludwigo Bavariečio dokumentą Vokiečių ordino magistrui.'
   pagrindžia:
     - c-001

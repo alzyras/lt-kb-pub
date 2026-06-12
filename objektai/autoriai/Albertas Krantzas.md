@@ -24,17 +24,23 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
 
 ## Teiginiai
 
+<a id="claim-t-54997"></a>
 - t-001
+  global_id: t-54997
   teiginys: 'Albertas Krantzas priskirtas vėlesniems kronikininkams, kurie Gedimino laiškų klausimą siejo su arkivyskupu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54998"></a>
 - t-002
+  global_id: t-54998
   teiginys: 'Pasak Alberto Krantzo, Gediminas pareiškė, kad popiežiaus nei pažinojo, nei troško pažinti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-81884"></a>
 - t-003
+  global_id: t-81884
   teiginys: 'Albertas Krantzas teigė, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.'
   pagrindžia:
     - c-003

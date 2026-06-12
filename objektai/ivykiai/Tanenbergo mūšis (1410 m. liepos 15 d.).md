@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-95954"></a>
 - t-001
+  global_id: t-95954
   teiginys: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-95955"></a>
 - t-002
+  global_id: t-95955
   teiginys: 'Prieš Tanenbergo mūšį kryžiuočių kariuomenė per audringą naktį nužygiavo nuo Löbau iki Grünvaldo ir atvyko pavargusi.'
   pagrindžia:
     - c-001

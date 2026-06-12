@@ -17,7 +17,9 @@ Lopata R.
 
 ## Teiginiai
 
+<a id="claim-t-17751"></a>
 - t-001
+  global_id: t-17751
   teiginys: 'R. Lopata parašė veikalą „Lietuvos valstybingumo raida 1914–1918 metais“, išleistą Vilniuje 1996 m.'
   pagrindžia:
     - c-001

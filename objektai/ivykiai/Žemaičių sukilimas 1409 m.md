@@ -37,40 +37,54 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67016"></a>
 - t-001
+  global_id: t-67016
   teiginys: '1409 m. gegužę žemaičiai sudegino Skirsnemunę ir puolė kitas naujas pilis bei Klaipėdą.'
   pagrindžia:
-    - c-005
+    - c-002
 
+<a id="claim-t-67017"></a>
 - t-002
-  teiginys: 'Tatai Vytauto santykius su ordinu visai nutraukė, ir jis, jau nebesislėpdamas, nusiuntė į Žemaičius savo bajorų ir paėmė juos į savo valdžią.'
+  global_id: t-67017
+  teiginys: '1409 m. Ordino sulaikyti Jogailos javai nutraukė Vytauto santykius su Ordinu; Vytautas pasiuntė bajorus į Žemaičius ir paėmė Žemaičius į savo valdžią.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-67018"></a>
 - t-003
+  global_id: t-67018
   teiginys: 'Tų pačių įvykių fone ordinas 1409.VIII.6 buvo priverstas skelbti karą Lenkijai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67019"></a>
 - t-004
+  global_id: t-67019
   teiginys: '1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lietuvon ir uždraudė ten pardavinėti arklius, galvijus ir medų.'
   pagrindžia:
-    - c-002
+    - c-001
 
+<a id="claim-t-67020"></a>
 - t-005
+  global_id: t-67020
   teiginys: 'Lig šiol laisvi buvusieji žemaičiai buvo varomi prie darbų ir buvo apdėti dideliais mokesčiais; keliai į Aukštaičius buvo budriai saugomi.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-67021"></a>
 - t-006
+  global_id: t-67021
   teiginys: 'Po Racionžo taikos Vytautas dėjosi norįs laikytis taikos sąlygų ir net pats padėjo ordinui pavergti nepasiduodančius Žemaičius.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-67022"></a>
 - t-007
+  global_id: t-67022
   teiginys: 'Kai sukilimas apėmė visą Žemaičių kraštą, ordino vietininkas pasitraukė į Prūsus ir sudegino Dubysos pilį.'
   pagrindžia:
-    - c-003
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -167,6 +181,7 @@ Nenurodyta
     - t-006
 
 - c-007
+  santrauka: '1409 m. Ordino sulaikyti Jogailos javai nutraukė Vytauto santykius su Ordinu; Vytautas pasiuntė bajorus į Žemaičius ir paėmė Žemaičius į savo valdžią.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tais pačiais 1409 m. Lietuvoje buvo nederlius. Jogaila, norė-

@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-40330"></a>
 - t-001
+  global_id: t-40330
   teiginys: 'Mathias Ziindt 1568 m. graviūroje pavaizdavo Gardiną 1567 m. vykusio seimo metu.'
   pagrindžia:
     - c-001

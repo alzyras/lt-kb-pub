@@ -24,7 +24,9 @@ Rėklaitis : Einführung in die Kunstgeschichtsforschung des Groß- iürstentums
 
 ## Teiginiai
 
+<a id="claim-t-30909"></a>
 - t-001
+  global_id: t-30909
   teiginys: 'P. Rėklaitis parašė darbą „Einführung in die Kunstgeschichtsforschung des Großfürstentums Litauen“, išleistą Marburge 1962 m.'
   pagrindžia:
     - c-001

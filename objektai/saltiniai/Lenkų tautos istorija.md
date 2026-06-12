@@ -17,7 +17,9 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
 
 ## Teiginiai
 
+<a id="claim-t-31786"></a>
 - t-001
+  global_id: t-31786
   teiginys: 'Adomo Stanislovo Naruševičiaus šešių tomų veikalas „Lenkų tautos istorija“ plačiai apėmė ir Lietuvos istoriją.'
   pagrindžia:
     - c-001

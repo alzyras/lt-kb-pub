@@ -27,7 +27,9 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
 
 ## Teiginiai
 
+<a id="claim-t-87844"></a>
 - t-001
+  global_id: t-87844
   teiginys: 'Arkikomtūras Redigeris Elneris su Ordino maršalu Gotfridu Lindenu buvo pasiųstas užimti Vilniaus.'
   pagrindžia:
     - c-001

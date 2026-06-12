@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-88302"></a>
 - t-001
+  global_id: t-88302
   teiginys: '65 Dinaburgo komtūro laiškus, Slapt.'
   pagrindžia:
     - c-001

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad otrębski J.
 
 ## Teiginiai
 
+<a id="claim-t-61206"></a>
 - t-001
+  global_id: t-61206
   teiginys: 'J. Otrębskio „Gramatyka języka litewskiego“ pirmasis tomas išleistas Varšuvoje 1958 m.'
   pagrindžia:
     - c-001

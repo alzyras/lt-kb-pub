@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Gotesverderio pilies pastatymas ir sunaikinimas (1367 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad šią naują pilį, esančią per vieną mylią nuo Kauno, pavadino Gotesverderiu.
+Kryžiuočiai prie Nemuno, beveik priešais Kauną, per šešis mėnesius pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185702"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad šią naują pilį, esančią per vieną mylią nuo Kauno, pavadino Gotesverderiu.'
+  global_id: t-185702
+  teiginys: 'Kryžiuočiai prie Nemuno, beveik priešais Kauną, per šešis mėnesius pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad šią naują pilį, esančią per vieną mylią nuo Kauno, pavadino Gotesverderiu.'
+  santrauka: 'Kryžiuočiai prie Nemuno, beveik priešais Kauną, per šešis mėnesius pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat kryžiuočiai, nusiaubę arčiau Prūsijos esan­
@@ -60,3 +61,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]

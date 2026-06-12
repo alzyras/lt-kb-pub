@@ -26,7 +26,9 @@ Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA žvaigždė k
 
 ## Teiginiai
 
+<a id="claim-t-78045"></a>
 - t-001
+  global_id: t-78045
   teiginys: 'Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA žvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio motina Senda Berenson-Abbot (Senda Berenson-Abot, g.'
   pagrindžia:
     - c-001

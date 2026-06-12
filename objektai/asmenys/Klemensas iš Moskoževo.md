@@ -25,7 +25,9 @@ Apie tai galima spręsti iš to, kad Jogaila, kartu su „brangiausia žmona“,
 
 ## Teiginiai
 
+<a id="claim-t-35189"></a>
 - t-001
+  global_id: t-35189
   teiginys: 'Jogaila per seną gynėją Klemensą iš Moskoževo pasiuntė į Vilnių papuoštą knygą apie Kristaus kančias.'
   pagrindžia:
     - c-001

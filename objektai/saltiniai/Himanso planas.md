@@ -19,27 +19,37 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“. 1921 m. vasar
 
 ## Teiginiai
 
+<a id="claim-t-45674"></a>
 - t-001
+  global_id: t-45674
   teiginys: 'Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietuvos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų Trojos arklys.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-45675"></a>
 - t-002
+  global_id: t-45675
   teiginys: 'Lenkijos ir Lietuvos federacijos planas suiro, o triumfavo...'
   pagrindžia:
     - c-003
 
+<a id="claim-t-45676"></a>
 - t-003
+  global_id: t-45676
   teiginys: 'Pagal Himanso planą Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karines bei ekonomines konvencijas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-45677"></a>
 - t-004
+  global_id: t-45677
   teiginys: '1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją, pritariančią Himanso planui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183360"></a>
 - t-005
+  global_id: t-183360
   teiginys: 'Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.'
   pagrindžia:
     - c-004

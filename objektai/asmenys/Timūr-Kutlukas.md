@@ -19,22 +19,30 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 
 ## Teiginiai
 
+<a id="claim-t-40467"></a>
 - t-001
+  global_id: t-40467
   teiginys: 'Timūr-Kutlukas, rengdamasis žygiui į Sarajų, reikalavo, kad Vytautas išduotų jo priešą Tochtamišą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40468"></a>
 - t-002
+  global_id: t-40468
   teiginys: 'Timūr-Kutlukas vadovavo totorių pajėgoms, kuriose buvo ir Krymo emyro Edygos kariai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183762"></a>
 - t-003
+  global_id: t-183762
   teiginys: 'Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė savo pasiuntinius pas lietuvių didįjį kunigaikštį Vytautą, kad išduotų jam pabėgusį „carą“ Tochtamišą, jo priešą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183763"></a>
 - t-004
+  global_id: t-183763
   teiginys: 'Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai.'
   pagrindžia:
     - c-004

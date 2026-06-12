@@ -23,7 +23,9 @@ Dusburgietis teigia, kad mažiulis V.
 
 ## Teiginiai
 
+<a id="claim-t-61168"></a>
 - t-001
+  global_id: t-61168
   teiginys: 'V. Mažiulio „Pasaulio tautų kalbos“ išleista 1979 m.'
   pagrindžia:
     - c-001

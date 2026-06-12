@@ -27,7 +27,9 @@ Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo geru
 
 ## Teiginiai
 
+<a id="claim-t-87899"></a>
 - t-001
+  global_id: t-87899
   teiginys: 'Karalaitis Kazimieras mirė nuo džiovos Žemutinėje pilyje kovo 4 d.'
   pagrindžia:
     - c-001

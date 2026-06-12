@@ -34,22 +34,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-55201"></a>
 - t-001
+  global_id: t-55201
   teiginys: 'Balińskio pateiktame 1420 m. Vytauto laiško kontekste Žemaitijos ir Lietuvos tapatumas grindžiamas viena kalba ir tais pačiais žmonėmis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55202"></a>
 - t-002
+  global_id: t-55202
   teiginys: 'Balińskio vertime formulė perteikiama žodžiais „viskas yra viena - ir žemė, ir žmonės“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71821"></a>
 - t-003
+  global_id: t-71821
   teiginys: 'Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71822"></a>
 - t-004
+  global_id: t-71822
   teiginys: 'Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys žmonės »^14.'
   pagrindžia:
     - c-001

@@ -47,22 +47,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35569"></a>
 - t-001
+  global_id: t-35569
   teiginys: 'Vytautas sutiko priimti čekų karūną ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-35570"></a>
 - t-002
+  global_id: t-35570
   teiginys: 'Čekai pasiūlė Vytautui karūnuotis jų karaliaus karūna.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-35571"></a>
 - t-003
+  global_id: t-35571
   teiginys: 'Vėliau Vytautas nuo husitų siūlytos karūnos atsisakė, nes ji galėjo per brangiai kaštuoti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-35572"></a>
 - t-004
+  global_id: t-35572
   teiginys: '1420 m. husitai pasiūlė Jogailai Šv. Vaclovo karūną.'
   pagrindžia:
     - c-001

@@ -49,7 +49,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31461"></a>
 - t-001
+  global_id: t-31461
   teiginys: '1918 metai ilgai buvo laikomi viena kertinių politiškai svarbių Lietuvos istorijos datų kaip nepriklausomybės pradžia.'
   pagrindžia:
     - c-001

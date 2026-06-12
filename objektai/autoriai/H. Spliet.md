@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-30631"></a>
 - t-001
+  global_id: t-30631
   teiginys: 'H. Splietas 1953 m. Sinsheime paskelbė veikalą „Die Briefe Gedimins“.'
   pagrindžia:
     - c-001

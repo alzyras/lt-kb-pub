@@ -17,12 +17,16 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
 
 ## Teiginiai
 
+<a id="claim-t-58648"></a>
 - t-001
+  global_id: t-58648
   teiginys: 'Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391 juos tikriausiai užtiksią.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58649"></a>
 - t-002
+  global_id: t-58649
   teiginys: 'Dusburgietis teigia, kad 391 D.— Wangrapia, Jer.— an der Wangrapien; vėliau — Angerapp. Vangrapė (literatūroje — Ungurupė arba Unguriškė, dab.'
   pagrindžia:
     - c-001

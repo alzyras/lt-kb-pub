@@ -26,7 +26,9 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 
 ## Teiginiai
 
+<a id="claim-t-24932"></a>
 - t-001
+  global_id: t-24932
   teiginys: '1976 m. gegužės 12 d. buvo įkurta pirmoji Maskvos Helsinkio grupė, vadovaujama Jurijaus Orlovo.'
   pagrindžia:
     - c-001

@@ -25,12 +25,16 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
 
 ## Teiginiai
 
+<a id="claim-t-115142"></a>
 - t-001
+  global_id: t-115142
   teiginys: 'Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-115143"></a>
 - t-002
+  global_id: t-115143
   teiginys: 'Valakijos vaivada kartu su kryžiuočiais ir Švitrigaila sudarė sąjungą prieš Lenkiją.'
   pagrindžia:
     - c-001

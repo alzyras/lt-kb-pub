@@ -28,17 +28,23 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
 
 ## Teiginiai
 
+<a id="claim-t-60665"></a>
 - t-001
+  global_id: t-60665
   teiginys: 'Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romene rytų Nadruvoje, į pietus nuo Pilkalnio (Тоерреn M., HCGP, p. 26—27 ir žemėlapis).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60666"></a>
 - t-002
+  global_id: t-60666
   teiginys: 'Dusburgietis teigia, kad paėmę pilį, kryžiuočiai čia įsitvirtino, pastatė mūrinę pilį, o šalia jos rytų pusėje — didelį papilį (Тоерреn M., HCCP, p. 203; Boetticher A., Die Bau.., 2, p. 17—18).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60667"></a>
 - t-003
+  global_id: t-60667
   teiginys: 'Dusburgietis teigia, kad sembos pusiasalio pietvakarių kampas (Тоерреn M., Historisch.., p. 21).'
   pagrindžia:
     - c-002

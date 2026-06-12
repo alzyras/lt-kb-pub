@@ -17,12 +17,16 @@ Bolševikai tą dieną į lietuvių pusę paleido užtvarą ir tęsė puolimą K
 
 ## Teiginiai
 
+<a id="claim-t-78194"></a>
 - t-001
+  global_id: t-78194
   teiginys: 'Kėdainių įgulos savanoriai pirmąjį kovos krikštą patyrė sulaikydami bolševikų puolimą Kėdainių link.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78195"></a>
 - t-002
+  global_id: t-78195
   teiginys: 'Vasario 7 d. anksti ryte Kėdainių įgula iš Kauno gavo šautuvų, šovinių ir rankinių granatų.'
   pagrindžia:
     - c-002

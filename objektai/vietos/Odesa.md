@@ -24,12 +24,16 @@ Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet
 
 ## Teiginiai
 
+<a id="claim-t-68833"></a>
 - t-001
+  global_id: t-68833
   teiginys: 'Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet masiškiausia ekonominė emigracija nuo 1868 m. vyko į JAV.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-68834"></a>
 - t-002
+  global_id: t-68834
   teiginys: 'Odesos universiteto istorikas V. V. Antonovičius iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties.'
   pagrindžia:
     - c-002

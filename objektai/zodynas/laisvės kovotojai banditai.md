@@ -16,7 +16,9 @@ Suvažiavime patvirtintas naujas organizacijos pavadinimas: Lietuvos laisvės ko
 
 ## Teiginiai
 
+<a id="claim-t-22206"></a>
 - t-001
+  global_id: t-22206
   teiginys: 'Partizanų suvažiavime patvirtintas LLKS pavadinimas, o partizanai pradėti vadinti laisvės kovotojais; sovietų valdžia juos vadino banditais.'
   pagrindžia:
     - c-001

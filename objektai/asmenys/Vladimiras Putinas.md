@@ -16,7 +16,9 @@ Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrą
 
 ## Teiginiai
 
+<a id="claim-t-19325"></a>
 - t-001
+  global_id: t-19325
   teiginys: 'Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia sugriuvusios SSRS teritorijoje.'
   pagrindžia:
     - c-001

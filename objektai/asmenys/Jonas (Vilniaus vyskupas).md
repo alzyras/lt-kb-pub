@@ -27,7 +27,9 @@ Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui 
 
 ## Teiginiai
 
+<a id="claim-t-87713"></a>
 - t-001
+  global_id: t-87713
   teiginys: 'Vilniaus vyskupas Jonas 1533 m. liepos 26 d. Vilniuje dalyvavo kaip karaliaus Žygimanto rašto liudininkas.'
   pagrindžia:
     - c-001

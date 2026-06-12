@@ -25,7 +25,9 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
 
 ## Teiginiai
 
+<a id="claim-t-26355"></a>
 - t-001
+  global_id: t-26355
   teiginys: '1413 m. Salyno derybose Vytautas pareiškė, kad Ordinas nori išplėšti jo tėvų palikimą ir atimti Veliuonos pilį.'
   pagrindžia:
     - c-001

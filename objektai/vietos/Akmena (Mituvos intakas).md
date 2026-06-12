@@ -16,7 +16,9 @@ Dusburgietis teigia, kad akmena (Mituvos intakas), u.
 
 ## Teiginiai
 
+<a id="claim-t-90278"></a>
 - t-001
+  global_id: t-90278
   teiginys: 'Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.'
   pagrindžia:
     - c-001

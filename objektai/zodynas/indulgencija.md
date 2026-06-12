@@ -25,7 +25,9 @@ Martynas V pa­ skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupij�
 
 ## Teiginiai
 
+<a id="claim-t-36782"></a>
 - t-001
+  global_id: t-36782
   teiginys: 'Martynas V suteikė indulgencijų Vytautui ir jo patarėjams.'
   pagrindžia:
     - c-001

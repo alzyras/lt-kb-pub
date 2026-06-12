@@ -47,12 +47,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-13464"></a>
 - t-001
+  global_id: t-13464
   teiginys: 'Bona Sforca į Lenkiją ir Lietuvą atnešė šakutę kaip itališkos kultūros naujovę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-13465"></a>
 - t-002
+  global_id: t-13465
   teiginys: 'Šakutė tuo metu buvo nežinoma Lietuvoje ir Skandinavijos šalyse.'
   pagrindžia:
     - c-001

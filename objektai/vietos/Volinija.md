@@ -25,32 +25,44 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
 
 ## Teiginiai
 
+<a id="claim-t-48788"></a>
 - t-001
+  global_id: t-48788
   teiginys: '1349 m. Kazimieras siekė Avignono palankumo ir patogesnės padėties tolesnei kovai Volinijoje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-48789"></a>
 - t-002
+  global_id: t-48789
   teiginys: 'Liubartas turėjo savo dalį Volinijoje ir galėjo reikšti pretenzijas į kitas Haličo-Vladimiro žemes.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-48790"></a>
 - t-003
+  global_id: t-48790
   teiginys: 'Konflikte su lenkais buvo ginčijamasi dėl Podolės ir Volinijos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-48791"></a>
 - t-004
+  global_id: t-48791
   teiginys: 'Po kietų kovų su Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-48792"></a>
 - t-005
+  global_id: t-48792
   teiginys: 'Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-48793"></a>
 - t-006
+  global_id: t-48793
   teiginys: 'Per 60 metų išgyvenęs pietuose, Liubartas su brolių pagalba didžiajai Lietuvos kunigaikštijai apgynė Voliniją.'
   pagrindžia:
     - c-003

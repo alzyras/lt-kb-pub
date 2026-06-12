@@ -19,7 +19,9 @@ Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam
 
 ## Teiginiai
 
+<a id="claim-t-86590"></a>
 - t-001
+  global_id: t-86590
   teiginys: 'Valdiniams uždrausta per Vilijos upę nuo Nemenčinės dvaro iki Kernavės statyti mažus tiltelius, vadinamus jazais.'
   pagrindžia:
     - c-001

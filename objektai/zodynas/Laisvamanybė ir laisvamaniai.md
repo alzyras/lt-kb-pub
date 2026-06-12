@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-10883"></a>
 - t-001
+  global_id: t-10883
   teiginys: 'Laisvamanybė pateikiama kaip viena iš pagrindinių J. Šliūpo gyvenimo kovų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-10884"></a>
 - t-002
+  global_id: t-10884
   teiginys: 'Laisvamaniai kartu su griežtesniaisiais tautininkais susibūrė apie Joną Šliūpą.'
   pagrindžia:
     - c-002

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # tam aš šaukiuosi į teisėjus dievą
 
 ## Santrauka
 
-Kojelavičius teigia, kad turėdamas galvoje tas didžias užduotis, ku rias man kelia dievo užkrauta našta, manyčiau, jog mano pareiga atitraukti tave nuo sumanymų, kurie prieštarauja ir mūsų teisėms, ir tavo priesaikai.
+Kojelavičius perteikia kalbėtojo formulę, kuria šis šaukiasi Dievo teisėju prieš priesaiką ir teises pažeidžiančius sumanymus.
 
 ## Teiginiai
 
+<a id="claim-t-185482"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad turėdamas galvoje tas didžias užduotis, ku rias man kelia dievo užkrauta našta, manyčiau, jog mano pareiga atitraukti tave nuo sumanymų, kurie prieštarauja ir mūsų teisėms, ir tavo priesaikai.'
+  global_id: t-185482
+  teiginys: 'Kojelavičius perteikia kalbėtojo formulę, kuria šis šaukiasi Dievo teisėju prieš priesaiką ir teises pažeidžiančius sumanymus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad turėdamas galvoje tas didžias užduotis, ku rias man kelia dievo užkrauta našta, manyčiau, jog mano pareiga atitraukti tave nuo sumanymų, kurie prieštarauja ir mūsų teisėms, ir tavo priesaikai.'
+  santrauka: 'Lietuvos ganytoju save vadinęs kalbėtojas šaukėsi Dievo teisėju prieš priesaiką ir teises pažeidžiančius sumanymus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Reiškiu tau savo pripažinimą ir pa­

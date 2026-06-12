@@ -37,12 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19542"></a>
 - t-001
+  global_id: t-19542
   teiginys: 'Lietuvos valdžia kruopščiai rinko kaltinamąją medžiagą, atliko kratas, per kurias išaiškėjo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus, kurstomosios literatūros.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-19543"></a>
 - t-002
+  global_id: t-19543
   teiginys: 'Teismo salės pasienyje buvo išrikiuota 300 dėžių su įrodymais, tarp jų svastikomis, vėliavomis, uniformomis ir ginklais.'
   pagrindžia:
     - c-002

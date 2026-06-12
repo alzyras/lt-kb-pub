@@ -16,17 +16,23 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
 
 ## Teiginiai
 
+<a id="claim-t-70279"></a>
 - t-001
+  global_id: t-70279
   teiginys: 'Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. parašė kaizeriui peticiją ir surinko po ja net 16.400 parašų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70280"></a>
 - t-002
+  global_id: t-70280
   teiginys: '1882 m. lietuviai kreipėsi į kaizerį su nauja peticija, tačiau negavo net atsakymo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-70281"></a>
 - t-003
+  global_id: t-70281
   teiginys: 'Kadangi tuo pat metu buvo rašomos peticijos dėl lietuvių kalbos grąžinimo į mokyklas, tai konservatoriai, norėdami įsipirkti į lietuvių malonę, dėjosi pritarią tiems lietuvių rūpesčiams, o iš tikro parlamente lietuvių reikalų neužtardavo nė vienu žodžiu.'
   pagrindžia:
     - c-002

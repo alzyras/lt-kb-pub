@@ -17,7 +17,9 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
 
 ## Teiginiai
 
+<a id="claim-t-40845"></a>
 - t-001
+  global_id: t-40845
   teiginys: 'MGB-KGB agentai-smogikai atliko svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.'
   pagrindžia:
     - c-001

@@ -26,7 +26,9 @@ Pagamintas parlamento gynėjo, kūrėjo savanorio Vyganto Jociaus 2010 m. Analog
 
 ## Teiginiai
 
+<a id="claim-t-39677"></a>
 - t-001
+  global_id: t-39677
   teiginys: 'Parlamento gynėjas ir kūrėjas savanoris Vygantas Jocius 2010 m. pagamino demonstracinę butelio su padegamuoju skysčiu versiją.'
   pagrindžia:
     - c-001

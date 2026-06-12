@@ -27,22 +27,30 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 
 ## Teiginiai
 
+<a id="claim-t-69030"></a>
 - t-001
+  global_id: t-69030
   teiginys: 'Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-69032"></a>
 - t-002
+  global_id: t-69032
   teiginys: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-69033"></a>
 - t-003
+  global_id: t-69033
   teiginys: 'Prienų kleboną pralotą Karpavičių Prūsijos valdžia pasirinko pirmuoju Vygrių vyskupu.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-69034"></a>
 - t-004
+  global_id: t-69034
   teiginys: '7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti jį iš pietų.'
   pagrindžia:
     - c-001

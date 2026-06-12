@@ -27,17 +27,23 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 
 ## Teiginiai
 
+<a id="claim-t-69313"></a>
 - t-001
+  global_id: t-69313
   teiginys: 'Ji siekė juk tolimiausius kraštus: rytuose Kaffą, pietuose Krokuvą ir Breslavą, vakaruose Stralsundą, šiaurėje Dorpatą ir Naugardą^1 ).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-69314"></a>
 - t-002
+  global_id: t-69314
   teiginys: 'Stralsundas buvo vienas Hanzos miestų, suteikusių lietuvių ir lenkų pirkliams panašias privilegijas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-69315"></a>
 - t-003
+  global_id: t-69315
   teiginys: 'Gegužės 26 d. vienas iš laiškų buvo pasiųstas Hanzos miestams, tarp jų Stralsundui.'
   pagrindžia:
     - c-003

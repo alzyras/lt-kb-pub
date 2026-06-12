@@ -18,7 +18,9 @@ Senosios Lietuvos valstybės laikais, nuo pat krikšto, visa etnografinė Lietuv
 
 ## Teiginiai
 
+<a id="claim-t-02606"></a>
 - t-001
+  global_id: t-02606
   teiginys: 'Rusų valdymo laikais etnografinė Lietuva buvo įtraukta į naujai sudarytą Mogilevo arkivyskupiją.'
   pagrindžia:
     - c-001

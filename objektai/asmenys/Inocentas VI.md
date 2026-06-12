@@ -19,7 +19,9 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 
 ## Teiginiai
 
+<a id="claim-t-35100"></a>
 - t-001
+  global_id: t-35100
   teiginys: 'Inocentas VI buvo popiežius, kurio santykiuose su Algirdu kartą tarpininkavo Poznanės vyskupas Dobrogostas.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Pilyje (Gedimino kalne), kur ji išbuvo iki XV amž.
 
 ## Teiginiai
 
+<a id="claim-t-36238"></a>
 - t-001
+  global_id: t-36238
   teiginys: 'Jogailos pastatyta Šv. Martyno bažnyčia Aukštutinėje pilyje ant Gedimino kalno išbuvo iki XV amžiaus.'
   pagrindžia:
     - c-001

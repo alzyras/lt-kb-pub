@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87202"></a>
 - t-001
+  global_id: t-87202
   teiginys: 'Vilniaus Šv. Stanislovo katedra, Šv. Martyno ir Šv. Jono bažnyčios laikytos įkurtomis buvusiose pagonių apeigų vietose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87203"></a>
 - t-002
+  global_id: t-87203
   teiginys: 'Krikščionių bažnyčias buvo raginama steigti ten, kur anksčiau stovėjo pagonių šventyklos ar šventos giraitės.'
   pagrindžia:
     - c-001

@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87258"></a>
 - t-001
+  global_id: t-87258
   teiginys: 'Akademija neturėjo atskiro turto, bet dalis kolegijai užrašytų pajamų buvo skirta teisės profesoriams, studentams ir varguoliams.'
   pagrindžia:
     - c-001

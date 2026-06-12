@@ -19,7 +19,9 @@ Dusburgietis teigia, kad hugonas sušakosiąs ir ateityje duosiąs gausybę vais
 
 ## Teiginiai
 
+<a id="claim-t-60330"></a>
 - t-001
+  global_id: t-60330
   teiginys: 'Hugonas, Tiberiados valdovo Radolfo brolis, buvo tarp Jeruzalės karalystės baronų, pritarusių siųsti legatus dėl ligoninės patvirtinimo.'
   pagrindžia:
     - c-001

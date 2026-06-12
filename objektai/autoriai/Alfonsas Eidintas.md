@@ -32,27 +32,37 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
 
 ## Teiginiai
 
+<a id="claim-t-169877"></a>
 - t-001
+  global_id: t-169877
   teiginys: 'Alfonsas Eidintas, redaktorius Į v a d a s LIETUVA – VIDURIO EUROPOS DALIS „Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169878"></a>
 - t-002
+  global_id: t-169878
   teiginys: 'Alfonsui Eidintui nurodytos 2013 m. leidimo autorių teisės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169879"></a>
 - t-003
+  global_id: t-169879
   teiginys: 'Alfonsas Eidintas parašė knygą „Antanas Smetona ir jo aplinka“, išleistą Vilniuje 2012 m.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169880"></a>
 - t-004
+  global_id: t-169880
   teiginys: 'Alfonsas Eidintas buvo „Lietuvos istorijos“ redaktorius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169881"></a>
 - t-005
+  global_id: t-169881
   teiginys: 'Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų.'
   pagrindžia:
     - c-001

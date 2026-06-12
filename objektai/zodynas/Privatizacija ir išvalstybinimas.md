@@ -17,12 +17,16 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
 
 ## Teiginiai
 
+<a id="claim-t-22017"></a>
 - t-001
+  global_id: t-22017
   teiginys: 'Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų pasaulio ekonomikos standartus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-22018"></a>
 - t-002
+  global_id: t-22018
   teiginys: 'Įsivyravo požiūris, kad privatizacija buvusi „neteisinga“ iš esmės.'
   pagrindžia:
     - c-002

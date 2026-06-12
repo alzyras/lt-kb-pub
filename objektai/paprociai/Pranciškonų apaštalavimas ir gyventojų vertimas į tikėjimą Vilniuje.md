@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87181"></a>
 - t-001
+  global_id: t-87181
   teiginys: 'Vilniuje religijų įvairovė palūžusios pagonybės akivaizdoje kėlė piktumų tarp skirtingo tikėjimo žmonių ir jų dvasininkų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87182"></a>
 - t-002
+  global_id: t-87182
   teiginys: 'Lietuvoje apaštalavę pranciškonai dėl drąsaus ir uolaus gyventojų vertimo į tikėjimą patirdavo skaudžių kančių.'
   pagrindžia:
     - c-001

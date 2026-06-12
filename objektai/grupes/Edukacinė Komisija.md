@@ -29,68 +29,95 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 
 ## Teiginiai
 
+<a id="claim-t-107733"></a>
 - t-001
+  global_id: t-107733
   teiginys: 'Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukacinės komisijos veiklą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-107734"></a>
 - t-002
-  teiginys: ', Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos komisijos.'
+  global_id: t-107734
+  teiginys: 'Targovicos konfederacija perskyrė nuo 1773 m. veikusią bendrą Edukacinę Komisiją į atskiras Lietuvos ir Lenkijos komisijas.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-107735"></a>
 - t-003
+  global_id: t-107735
   teiginys: 'Edukacinė Komisija perėmė panaikinto jėzuitų ordino mokyklas ir ėmė rūpintis visu švietimu.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-107736"></a>
 - t-004
+  global_id: t-107736
   teiginys: 'Edukacinė Komisija buvo laikoma pirmu Europoje atveju, kai švietimą perėmė valstybė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-107737"></a>
 - t-005
-  teiginys: 'Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tiesiog vagia.'
+  global_id: t-107737
+  teiginys: '1776 m. panaikinus Dalomąsias Komisijas, visi jų valdyti turtai buvo pavesti Edukacinei Komisijai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-107738"></a>
 - t-006
+  global_id: t-107738
   teiginys: 'Vilniuje gyvenęs autorius kurį laiką dirbo Edukacinėje teismo komisijoje.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-107739"></a>
 - t-007
-  teiginys: 'Viskas sugrįžo į senąją būklę, o kai kuriais atžvilgiais valstybių atskirumas net dar padidėjo; pav., Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos.'
+  global_id: t-107739
+  teiginys: 'Targovicos konfederacija bendrą Edukacinę Komisiją padalijo į atskiras Lietuvos ir Lenkijos komisijas.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-107740"></a>
 - t-008
+  global_id: t-107740
   teiginys: 'Edukacinė Komisija buvo įkurta kaip bendra Lietuvos ir Lenkijos institucija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-107741"></a>
 - t-009
+  global_id: t-107741
   teiginys: 'Edukacinės komisijos veikla sulaukė pagyrimo, priešingai nei XVII-XVIII a. jėzuitų ordino veikla.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-107742"></a>
 - t-010
+  global_id: t-107742
   teiginys: 'Edukacinė komisija sumodernino ir supasaulietino mokymo programą (įvedė privalomą rašymą ir skaičiavimą, bendrojo lavinimo elementus ėmė jungti su praktinių žemės ūkio, amatų įgūdžių ugdymu), įvedė gamtos ir tiksliųjų mokslų disciplinas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-107743"></a>
 - t-011
+  global_id: t-107743
   teiginys: '1776 m. panaikinus komisijas, jų turtai buvo pavesti Edukacinei Komisijai.'
   pagrindžia:
     - c-002
+    - c-008
 
+<a id="claim-t-107744"></a>
 - t-012
+  global_id: t-107744
   teiginys: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-182888"></a>
 - t-013
-  teiginys: 'Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati valstybė.'
+  global_id: t-182888
+  teiginys: 'A. Šapokos redaguotoje istorijoje Edukacinė Komisija vertinama kaip pirmas Europoje atvejis, kai švietimą perėmė valstybė.'
   pagrindžia:
     - c-011
 
@@ -254,7 +281,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     - t-012
 
 - c-011
-  santrauka: 'Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati valstybė.'
+  santrauka: 'A. Šapokos redaguotoje istorijoje Edukacinė Komisija vertinama kaip pirmas Europoje atvejis, kai švietimą perėmė valstybė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tad paskutiniaisiais Respublikos gyvenimo metais

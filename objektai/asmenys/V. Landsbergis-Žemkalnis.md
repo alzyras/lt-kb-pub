@@ -24,7 +24,9 @@ Landsbergis-Žemkalnis L I E T U V O S I S T O R I J A 174 lėktuvėliu „Litua
 
 ## Teiginiai
 
+<a id="claim-t-78038"></a>
 - t-001
+  global_id: t-78038
   teiginys: 'V. Landsbergis-Žemkalnis buvo Kaune stovėjusio „Pienocentro“ pastato architektas.'
   pagrindžia:
     - c-001

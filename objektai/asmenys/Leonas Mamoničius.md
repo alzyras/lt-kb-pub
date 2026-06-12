@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87915"></a>
 - t-001
+  global_id: t-87915
   teiginys: '1620 m. Leonas Mamoničius ėjo Vilniaus burmistro nuo stačiatikių pareigas.'
   pagrindžia:
     - c-001

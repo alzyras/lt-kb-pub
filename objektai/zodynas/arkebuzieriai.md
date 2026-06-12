@@ -17,12 +17,16 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
 
 ## Teiginiai
 
+<a id="claim-t-42430"></a>
 - t-001
+  global_id: t-42430
   teiginys: 'Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai savo ugnimi stengėsi husarus sulaikyti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-42431"></a>
 - t-002
+  global_id: t-42431
   teiginys: 'Kitose tercijos rikiuotės vietose didžiąją dalį šaulių sudarė ne tokiais galingais ginklais aprūpinti arkebuzieriai.'
   pagrindžia:
     - c-001

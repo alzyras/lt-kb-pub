@@ -19,7 +19,9 @@ Pagaliau garantavo Vilniui pelną nuo vadinamosios šinkorystės, arba vyno, mid
 
 ## Teiginiai
 
+<a id="claim-t-86561"></a>
 - t-001
+  global_id: t-86561
   teiginys: 'Žygimantas garantavo Vilniui pajamas iš šinkorystės, apėmusios vyno, midaus ir alaus smukles.'
   pagrindžia:
     - c-001

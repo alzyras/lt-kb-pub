@@ -44,17 +44,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-55149"></a>
 - t-001
+  global_id: t-55149
   teiginys: '1365 m. Vinrichas Kniprodė su didele kariauna įsiveržė į Lietuvą ir, sudeginęs valsčius iki Kernavės bei Maišiagalos, priartėjo prie Vilniaus pilių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81836"></a>
 - t-002
+  global_id: t-81836
   teiginys: '1365 m. didysis Prūsijos magistras Vinrichas Kniprodė su didele kariauna įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81837"></a>
 - t-003
+  global_id: t-81837
   teiginys: 'Keturių Butauto tarnų perbėgimas į Vilnių suardė Vinricho Kniprodės planus ir privertė jį nutraukti apgultį.'
   pagrindžia:
     - c-002

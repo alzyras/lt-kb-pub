@@ -16,7 +16,9 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 
 ## Teiginiai
 
+<a id="claim-t-100141"></a>
 - t-001
+  global_id: t-100141
   teiginys: 'Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai ir stavanai ligi alanų; už jų igilionai...'
   pagrindžia:
     - c-001

@@ -31,7 +31,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-06869"></a>
 - t-001
+  global_id: t-06869
   teiginys: '1336 m. kunigaikščio Margio vadovaujami lietuviai, nebegalėdami apsiginti, verčiau rinkosi žūti ugnyje, negu pasiduoti vokiečiams.'
   pagrindžia:
     - c-001

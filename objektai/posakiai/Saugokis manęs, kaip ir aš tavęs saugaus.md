@@ -29,12 +29,16 @@ Formulė pateikiama kaip Skirgailos perspėjimas Vytautui, beveik prilygstantis 
 
 ## Teiginiai
 
+<a id="claim-t-50929"></a>
 - t-001
+  global_id: t-50929
   teiginys: 'Skirgaila per tarną Varšą perdavė Vytautui perspėjimą: „Saugokis manęs, kaip ir aš tavęs saugaus.“'
   pagrindžia:
     - c-001
 
+<a id="claim-t-50930"></a>
 - t-002
+  global_id: t-50930
   teiginys: 'Skirgaila, matydamas sau pavojų, per tarną Varšą perdavė Vytautui perspėjimą: „Saugokis manęs, kaip ir aš tavęs saugaus“.'
   pagrindžia:
     - c-001

@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19544"></a>
 - t-001
+  global_id: t-19544
   teiginys: 'Po Žalgirio mūšio lenkai ir lietuviai pasidalijo Ordino vėliavas kaip karo grobio dalį.'
   pagrindžia:
     - c-001

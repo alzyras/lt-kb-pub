@@ -31,12 +31,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-06866"></a>
 - t-001
+  global_id: t-06866
   teiginys: 'XX a. pradžioje pagarba žalčiams kai kur dar buvo išlikusi, o miškų ir pamiškių senose trobose neseniai tebebuvo laikomi žalčiai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-06867"></a>
 - t-002
+  global_id: t-06867
   teiginys: 'Aisčiai namuose laikė šventuosius žalčius kaip namų globėjus, o juos įvesdavo į paskirtą guolį su apeigomis.'
   pagrindžia:
     - c-001

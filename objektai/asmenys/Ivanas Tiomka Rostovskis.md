@@ -17,7 +17,9 @@ bojarinų Grigorijaus Fiodorovičiaus Davidovo, Ivano Andrejevičiaus Čeliadnin
 
 ## Teiginiai
 
+<a id="claim-t-40150"></a>
 - t-001
+  global_id: t-40150
   teiginys: 'Ivanas Tiomka Rostovskis buvo vienas iš vaivadų, vadovavusių Maskvos valdovo Vasilijaus III pasiųstoms pajėgoms.'
   pagrindžia:
     - c-001

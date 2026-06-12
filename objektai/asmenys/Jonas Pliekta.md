@@ -25,7 +25,9 @@ Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais, tačiau kodėl tebuvo vi
 
 ## Teiginiai
 
+<a id="claim-t-87730"></a>
 - t-001
+  global_id: t-87730
   teiginys: 'Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais, tačiau kodėl tebuvo vienerius metus, nėra jokių žinių4.'
   pagrindžia:
     - c-001

@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-100137"></a>
 - t-001
+  global_id: t-100137
   teiginys: 'St. Kutrzeba 1914 m. paskelbė darbą „Unja Litwy z Polską“.'
   pagrindžia:
     - c-001

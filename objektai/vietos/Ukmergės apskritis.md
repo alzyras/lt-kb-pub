@@ -23,12 +23,16 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 
 ## Teiginiai
 
+<a id="claim-t-42222"></a>
 - t-001
+  global_id: t-42222
   teiginys: 'Didžiosios kovos apygardoje buvo įkurtos dvi rinktinės: „A“ Trakų apskrityje ir „B“ Ukmergės apskrityje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-42223"></a>
 - t-002
+  global_id: t-42223
   teiginys: 'Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidūrimų kovėsi su sovietais.'
   pagrindžia:
     - c-001

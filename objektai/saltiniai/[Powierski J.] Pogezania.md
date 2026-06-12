@@ -22,7 +22,9 @@ Dusburgietis teigia, kad [Powierski J.] Pogezania.— SSS, Wrocław—Warszawa�
 
 ## Teiginiai
 
+<a id="claim-t-61251"></a>
 - t-001
+  global_id: t-61251
   teiginys: 'J. Powierskio straipsnis „Pogezania“ publikuotas SSS 1970 m. 4 tomo 1 dalyje.'
   pagrindžia:
     - c-001

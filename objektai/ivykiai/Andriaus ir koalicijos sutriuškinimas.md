@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66447"></a>
 - t-001
+  global_id: t-66447
   teiginys: 'Po Andriaus ir jo koalicijos sutriuškinimo Smolenskas vėl pateko Lietuvos įtakai, o Jogaila Lietuvoje nebeturėjo priešų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66448"></a>
 - t-002
+  global_id: t-66448
   teiginys: 'Andriaus ir koalicijos sutriuškinimas: jogailos valdžiai visą laiką nepaklusnus Polocko kunigaikštis Andrius buvo nuga- lėtas iš Krokuvos grįžusių Skirgailos su Vytautu. Polocką už- ėmė Skirgaila; suimtasis Andrius buvo nusiųstas Jogailai į Krokuvą. Jo sąjungininkas, Smolensko kunigaikštis.'
   pagrindžia:
     - c-002

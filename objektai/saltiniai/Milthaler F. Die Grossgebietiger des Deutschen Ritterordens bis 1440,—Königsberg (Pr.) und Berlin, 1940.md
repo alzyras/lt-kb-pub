@@ -24,7 +24,9 @@ Dusburgietis teigia, kad milthaler F.
 
 ## Teiginiai
 
+<a id="claim-t-61182"></a>
 - t-001
+  global_id: t-61182
   teiginys: 'F. Milthalerio „Die Grossgebietiger des Deutschen Ritterordens bis 1440“ išleista Karaliaučiuje ir Berlyne 1940 m.'
   pagrindžia:
     - c-001

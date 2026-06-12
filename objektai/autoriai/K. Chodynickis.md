@@ -16,7 +16,9 @@ Chodynickis ir J.
 
 ## Teiginiai
 
+<a id="claim-t-30732"></a>
 - t-001
+  global_id: t-30732
   teiginys: 'K. Chodynickis daug dėmesio skyrė atskiriems Gediminaičių laikų klausimams ir Lietuvos seniesiems šaltiniams.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Lietuvos pajėgos Čekistinę operacijos pusę koordinavo naujai Maskvos paskirt
 
 ## Teiginiai
 
+<a id="claim-t-40427"></a>
 - t-001
+  global_id: t-40427
   teiginys: 'Stanislavas Caplinas koordinavo čekistinę operacijos pusę kaip naujai Maskvos paskirtas SSRS KGB padalinio Lietuvoje pirmininko pavaduotojas.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
 
 ## Teiginiai
 
+<a id="claim-t-32039"></a>
 - t-001
+  global_id: t-32039
   teiginys: 'Pirmajame amžiuje po Kr. Vyslos žemupio gotai įsikūrė Rytprūsių plote iki Alnos upės.'
   pagrindžia:
     - c-001

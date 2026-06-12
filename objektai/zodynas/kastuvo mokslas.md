@@ -17,7 +17,9 @@ Kadangi anie tolimi nuo rytų Europos autoriai beveik visai nieko nepasako apie 
 
 ## Teiginiai
 
+<a id="claim-t-32782"></a>
 - t-001
+  global_id: t-32782
   teiginys: 'Baltų gyvenimą menkai aprašius rašytiniams šaltiniams, jų praeičiai tirti reikėjo kastuvo mokslo.'
   pagrindžia:
     - c-001

@@ -23,7 +23,9 @@ Urbanavičius, V.
 
 ## Teiginiai
 
+<a id="claim-t-31956"></a>
 - t-001
+  global_id: t-31956
   teiginys: 'V. Urbanavičiaus „XIV-XVII amžių monetos Lietuvos kapinynuose“ išspausdintas AkMD 24 tome 1967 m., p. 61-74.'
   pagrindžia:
     - c-001

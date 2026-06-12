@@ -12,7 +12,6 @@ tags:
   - pilis
   - valdovas
 ---
-
 # Seversko Naugardas
 
 ## Santrauka
@@ -21,18 +20,24 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
 
 ## Teiginiai
 
+<a id="claim-t-86233"></a>
 - t-001
+  global_id: t-86233
   teiginys: 'Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Kaributą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185137"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad to krašto sostinė Seversko Naugardas — nemažas miestas, garsėjęs ne tik valdovo, bet ir kitų žmonių turtais.'
+  global_id: t-185137
+  teiginys: 'Seversko Naugardas buvo Seversko krašto sostinė, garsėjusi valdovo ir kitų žmonių turtais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185138"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad čia jau seniai gyveno Seversko kuni gaikščiai.'
+  global_id: t-185138
+  teiginys: 'Seversko Naugarde nuo seno gyveno Seversko kunigaikščiai.'
   pagrindžia:
     - c-003
 
@@ -68,7 +73,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad to krašto sostinė Seversko Naugardas — nemažas miestas, garsėjęs ne tik valdovo, bet ir kitų žmonių turtais.'
+  santrauka: 'Seversko Naugardas buvo Seversko krašto sostinė, garsėjusi valdovo ir kitų žmonių turtais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nenorėdamas, kad nu-
@@ -94,7 +99,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad čia jau seniai gyveno Seversko kuni gaikščiai.'
+  santrauka: 'Seversko Naugarde nuo seno gyveno Seversko kunigaikščiai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Čia jau seniai gyveno Seversko kuni­

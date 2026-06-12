@@ -19,12 +19,16 @@ Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tu
 
 ## Teiginiai
 
+<a id="claim-t-58630"></a>
 - t-001
+  global_id: t-58630
   teiginys: 'Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą leidimo ir jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros ir Sainos593, santakoje, Lunenburgo [Liūno] pilį594.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58631"></a>
 - t-002
+  global_id: t-58631
   teiginys: 'Saina, dar vadinama Sajna, yra kairysis Gubros intakas.'
   pagrindžia:
     - c-002

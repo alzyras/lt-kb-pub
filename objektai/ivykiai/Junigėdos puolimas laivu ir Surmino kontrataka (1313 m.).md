@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31423"></a>
 - t-001
+  global_id: t-31423
   teiginys: '1313 m. Vytenis pasiuntė Surminą su 100 laivų prieš kryžiuočius, atplaukusius pulti Junigėdos.'
   pagrindžia:
     - c-001

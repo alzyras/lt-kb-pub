@@ -16,7 +16,9 @@ Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų, juos persek
 
 ## Teiginiai
 
+<a id="claim-t-22337"></a>
 - t-001
+  global_id: t-22337
   teiginys: 'Sovietų valdžiai katalikai buvo ypač neparankūs, nes katalikybė siejosi su „vakarietiškumu“ ir Vatikanu, nepavaldžiu Maskvai.'
   pagrindžia:
     - c-001

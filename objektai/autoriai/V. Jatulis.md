@@ -25,7 +25,9 @@ Jatulis.
 
 ## Teiginiai
 
+<a id="claim-t-31029"></a>
 - t-001
+  global_id: t-31029
   teiginys: 'V. Jatulis redagavo 1964-1975 m. Romoje leistus „Monumenta Ucrainae Historica“ tomus.'
   pagrindžia:
     - c-001

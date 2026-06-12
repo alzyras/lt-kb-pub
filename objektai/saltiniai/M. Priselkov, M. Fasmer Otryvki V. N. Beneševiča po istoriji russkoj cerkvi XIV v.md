@@ -25,7 +25,9 @@ Priselkov, M.
 
 ## Teiginiai
 
+<a id="claim-t-31841"></a>
 - t-001
+  global_id: t-31841
   teiginys: 'M. Priselkovo ir M. Fasmerio „Otryvki V. N. Beneševiča po istoriji russkoj cerkvi XIV v.“ publikuota 1916 m., p. 49–61.'
   pagrindžia:
     - c-001

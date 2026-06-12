@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31663"></a>
 - t-001
+  global_id: t-31663
   teiginys: 'Chr. Stango „Die westrussische Kanzleisprache des Grossfurstentums Litauen“ išleista Osle 1935 m.'
   pagrindžia:
     - c-001

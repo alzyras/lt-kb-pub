@@ -25,12 +25,16 @@ Navickaitė-Kuncienė, O. Navickaitė, O.
 
 ## Teiginiai
 
+<a id="claim-t-30884"></a>
 - t-001
+  global_id: t-30884
   teiginys: 'O. Navickaitė-Kuncienė 1966 m. paskelbė darbą apie seniausių X-XIII a. svorio matų sistemų Lietuvoje klausimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-30885"></a>
 - t-002
+  global_id: t-30885
   teiginys: 'O. Navickaitė paskelbė darbą apie Veršvų kapinyno laidojimo papročius.'
   pagrindžia:
     - c-002

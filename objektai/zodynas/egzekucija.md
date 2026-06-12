@@ -19,18 +19,24 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02983"></a>
 - t-001
+  global_id: t-02983
   teiginys: 'Egzekucija buvo vadinama įstatymų vykdymo politika.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-02984"></a>
 - t-002
+  global_id: t-02984
   teiginys: 'Ginčuose su lenkais lietuviai reikalavo garantijos, kad Lietuvoje nebūtų vykdoma egzekucija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182943"></a>
 - t-003
-  teiginys: 'Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebūsianti vykdoma vadinamoji egzekucija.'
+  global_id: t-182943
+  teiginys: 'Ginčuose su lenkais lietuviai reikalavo garantijos, kad Lietuvoje nebūtų vykdoma vadinamoji egzekucija.'
   pagrindžia:
     - c-003
 
@@ -70,7 +76,7 @@ tags:
     - t-002
 
 - c-003
-  santrauka: 'Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebūsianti vykdoma vadinamoji egzekucija.'
+  santrauka: 'Ginčuose su lenkais lietuviai reikalavo garantijos, kad Lietuvoje nebūtų vykdoma vadinamoji egzekucija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos

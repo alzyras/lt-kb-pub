@@ -18,12 +18,16 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
 
 ## Teiginiai
 
+<a id="claim-t-02955"></a>
 - t-001
+  global_id: t-02955
   teiginys: 'Po Zigmanto Augusto ir vėlesnių karalių mirties atskiri Lietuvos seimai savarankiškai spręsdavo, ką rinkti valdovu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-02956"></a>
 - t-002
+  global_id: t-02956
   teiginys: 'Atskiri Lietuvos seimai ypač dažnai būdavo šaukiami per karą su Maskva ir tarpuvaldžiais.'
   pagrindžia:
     - c-001

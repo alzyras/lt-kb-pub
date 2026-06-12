@@ -28,62 +28,86 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 
 ## Teiginiai
 
+<a id="claim-t-101653"></a>
 - t-001
+  global_id: t-101653
   teiginys: 'Spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio pagalbos, Vilniaus krašto perdavimo ir dalies pietvakarių Lietuvos perdavimo Vokietijai sutartis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101654"></a>
 - t-002
+  global_id: t-101654
   teiginys: 'Stalino statulų, prikabinėta komunistinių šūkių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-101655"></a>
 - t-003
+  global_id: t-101655
   teiginys: 'Sovietmečiu mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus bei komunistų partijos dokumentus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-101656"></a>
 - t-004
+  global_id: t-101656
   teiginys: 'Josifo Stalino valdymo metais komunistų partija kontroliavo ir cenzūravo lietuvių kultūrą, siekdama išrauti tautiškumą ir skleisti komunistinę ideologiją.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-101657"></a>
 - t-005
+  global_id: t-101657
   teiginys: '1953 m. mirus Josifui Stalinui, SSRS susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti vietiniais lietuviais, o kalinius ir tremtinius imta leisti į laisvę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-101658"></a>
 - t-006
+  global_id: t-101658
   teiginys: 'Josifo Stalino laikais okupacinė valdžia siekė fiziškai naikinti ir tremti dvasininkiją, o bažnyčias versti sandėliais.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-101659"></a>
 - t-007
+  global_id: t-101659
   teiginys: 'Josifas Stalinas ir V. Molotovas agresyviai spaudė Lietuvą prieš spalio 10 d. pasirašant Vilniaus perdavimo ir savitarpio pagalbos su SSRS sutartis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-101660"></a>
 - t-008
+  global_id: t-101660
   teiginys: 'Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžiagą.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-101661"></a>
 - t-009
+  global_id: t-101661
   teiginys: 'Sovietų valdžia Lietuvos valstybingumo paminklų vietose statė J. Stalino, V. Lenino ir sovietinio kario nugalėtojo statulas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-101662"></a>
 - t-010
+  global_id: t-101662
   teiginys: 'Stalino valdymo metais vyko tiesmukas lietuvių kultūros griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kultūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo komunistų partija: primesta marksistinė-lenininė.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-101663"></a>
 - t-011
+  global_id: t-101663
   teiginys: 'Josifo Stalino laikais okupacinė valdžia siekė fiziškai naikinti ir tremti dvasininkiją, o bažnyčias paversti sandėliais.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-101664"></a>
 - t-012
+  global_id: t-101664
   teiginys: 'J. Stalino SSRS buvo laikoma jėga, prieš kurią Baltijos šalių pasipriešinimo dalyviai tikėjosi Vakarų žygio.'
   pagrindžia:
     - c-009

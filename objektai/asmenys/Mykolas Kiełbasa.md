@@ -17,7 +17,9 @@ Vadas (Mykolas Kiełbasa) atsakęs, kad dabar ne laikas esąs karalių gelbėti.
 
 ## Teiginiai
 
+<a id="claim-t-34820"></a>
 - t-001
+  global_id: t-34820
   teiginys: 'Mykolas Kiełbasa, artimiausios vėliavos vadas, atsakė, kad tuo metu ne laikas gelbėti karalių.'
   pagrindžia:
     - c-001

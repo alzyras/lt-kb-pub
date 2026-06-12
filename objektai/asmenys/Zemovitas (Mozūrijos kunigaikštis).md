@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-40545"></a>
 - t-001
+  global_id: t-40545
   teiginys: '1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.'
   pagrindžia:
     - c-001

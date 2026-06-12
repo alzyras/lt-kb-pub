@@ -25,7 +25,9 @@ Manhardt, W.
 
 ## Teiginiai
 
+<a id="claim-t-31070"></a>
 - t-001
+  global_id: t-31070
   teiginys: 'W. Manhardt 1936 m. Rygoje išleido „Letto-Preussische Götterlehre“, kuriame buvo surinkti beveik visi šaltiniai.'
   pagrindžia:
     - c-001

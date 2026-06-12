@@ -38,13 +38,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62731"></a>
 - t-001
+  global_id: t-62731
   teiginys: 'Dusburgietis teigia, kad pagal seną paprotį, kurį prūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211.'
   pagrindžia:
     - c-002
     - c-004
 
+<a id="claim-t-62732"></a>
 - t-002
+  global_id: t-62732
   teiginys: 'Dusburgietis, regis, supainiojo nelaisvos šeimynos moters padėtį su žmonos kaip gyvenimo draugės padėtimi.'
   pagrindžia:
     - c-001

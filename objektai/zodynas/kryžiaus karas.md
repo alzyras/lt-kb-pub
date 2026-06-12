@@ -49,23 +49,31 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 
 ## Teiginiai
 
+<a id="claim-t-05440"></a>
 - t-001
+  global_id: t-05440
   teiginys: '1254 m. pradžioje buvo skelbiamas kryžiaus karas ordinui ginti prieš totorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05441"></a>
 - t-002
+  global_id: t-05441
   teiginys: 'Kryžiaus karo žygio vadovavimas šiame šaltinyje siejamas su Prūsų riterių magistru.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-05442"></a>
 - t-003
+  global_id: t-05442
   teiginys: 'Popiežiaus Aleksandro IV bulėmis įsakyta intensyviau skelbti kryžiaus karus prieš pagonis.'
   pagrindžia:
     - c-003
     - c-004
 
+<a id="claim-t-184356"></a>
 - t-004
+  global_id: t-184356
   teiginys: 'Jomis įsakoma dar intensyviau skelbti kryžiaus karus prieš pagonis.'
   pagrindžia:
     - c-005

@@ -39,17 +39,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67196"></a>
 - t-001
+  global_id: t-67196
   teiginys: 'Rašto vartojimas valstybės ir Bažnyčios reikaluose: gediminas pirmasis ketino sukultūrinti Lietuvą ir kvietėsi amatininkų, pirklių ir riterių iš Vakarų. Taip pat nuo jo laikų korespondencijai su Vakarų valdovais buvo pradėta naudotis Lietuvoje gyvenusių vienuolių patarnavimais: mat, tik jie ge- riausiai galėjo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67197"></a>
 - t-002
+  global_id: t-67197
   teiginys: 'Nuo XIV a. pabaigos gudų rašto kalba Lietuvoje tapo valstybine rašto kalba ir vartota valstybės bei Bažnyčios reikalams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67198"></a>
 - t-003
+  global_id: t-67198
   teiginys: 'Rašto vartojimas valstybės ir Bažnyčios reikaluose: patys lietuviai tada apseidavo iš viso be jokio rašto. Valstybėje vidaus reikalams raštas nebuvo vartojamas net iki XIV amžiaus pabaigos. O kai valstybės gyvenime pradėjo vartoti raštą, jį pasiskolino iš kitų. Pirmieji Lietuvos raštai buvo įvairūs laiškai į.'
   pagrindžia:
     - c-002

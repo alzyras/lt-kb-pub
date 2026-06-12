@@ -25,35 +25,16 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 
 ## Teiginiai
 
+<a id="claim-t-68384"></a>
 - t-001
+  global_id: t-68384
   teiginys: 'Dusburgietis teigia, kad dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p. 185—189.'
-  pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: 'Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo plaukiama Deimena pro Labguvą į Prieglių, juo — pro Karaliaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    183 psl.), jis pasi-
-    darė svarbiausias Lenkijos žemės produktų eksporto centras.
-    Lietuva kad ir neturėjo savo uosto, tačiau ir ji stengėsi ekspor-
-    tuoti savo javus. Ji veždavo savo prekes Nemunu; iš Nemuno
-    kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo
-    plaukiama Deimena pro Labguvą į Prieglių, juo — pro Kara-
-    liaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.

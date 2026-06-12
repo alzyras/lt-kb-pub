@@ -18,7 +18,6 @@ amziai:
   - 'XII'
   - 'XXI'
 ---
-
 # Narevas
 
 ## Santrauka
@@ -27,18 +26,24 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 
 ## Teiginiai
 
+<a id="claim-t-175392"></a>
 - t-001
+  global_id: t-175392
   teiginys: 'Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių tuo metu kontroliuojamos Viznos apylinkes prie Narevo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-175393"></a>
 - t-002
+  global_id: t-175393
   teiginys: 'Žygiavo tarp Narevo ir Bugo upių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185059"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad šie, prieš keletą dienų grobį bei kariuomenę perkėlę per Narevą, pasislėpė miško tan kynėse.'
+  global_id: t-185059
+  teiginys: 'Lietuviai, prieš kelias dienas perkėlę grobį ir kariuomenę per Narevą, pasislėpė miško tankmėje.'
   pagrindžia:
     - c-003
 
@@ -77,7 +82,7 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
     - t-001
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad šie, prieš keletą dienų grobį bei kariuomenę perkėlę per Narevą, pasislėpė miško tan kynėse.'
+  santrauka: 'Lietuviai, prieš kelias dienas perkėlę grobį ir kariuomenę per Narevą, pasislėpė miško tankmėje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu Lešekas Juodasis,

@@ -16,17 +16,23 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
 
 ## Teiginiai
 
+<a id="claim-t-53890"></a>
 - t-001
+  global_id: t-53890
   teiginys: 'Maršalas A. P. Sapiega pasitraukė kartu su B. P. Sapiega ir totorių vėliavomis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-53891"></a>
 - t-002
+  global_id: t-53891
   teiginys: 'J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-53892"></a>
 - t-003
+  global_id: t-53892
   teiginys: 'J. P. Sapiegos husarų ir petihorų vėliavos turėjo atlaikyti pagrindinį Švedijos kariuomenės smūgį.'
   pagrindžia:
     - c-003

@@ -24,7 +24,9 @@ Tad, pasirodykime laisvės verti ir tą dieną, kada kovos pradžia atrodys SAVA
 
 ## Teiginiai
 
+<a id="claim-t-40243"></a>
 - t-001
+  global_id: t-40243
   teiginys: 'Justino Gustaičio laiškas buvo rastas pamestame pase Aukščiausiosios Tarybos rūmuose 1991 m. vasario mėnesį.'
   pagrindžia:
     - c-001

@@ -26,7 +26,9 @@ Nieborowski, P.
 
 ## Teiginiai
 
+<a id="claim-t-30907"></a>
 - t-001
+  global_id: t-30907
   teiginys: 'P. Nieborowskis parašė darbą „Der deutsche Orden und Polen in der Zeit des grössten Konfliktes“.'
   pagrindžia:
     - c-001

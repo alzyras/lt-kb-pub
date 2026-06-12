@@ -25,22 +25,30 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
 
 ## Teiginiai
 
+<a id="claim-t-20869"></a>
 - t-001
+  global_id: t-20869
   teiginys: 'Į Gegužės trečiosios konstituciją buvo sugrąžintas valstybės dualizmo, tai yra federacijos, principas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-20870"></a>
 - t-002
+  global_id: t-20870
   teiginys: 'Gegužės trečiosios konstitucijoje frazė „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183503"></a>
 - t-003
+  global_id: t-183503
   teiginys: 'Gegužės 3-iosios konstitucijos formuluotė „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183504"></a>
 - t-004
+  global_id: t-183504
   teiginys: 'Remiantis šiuo įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendrose vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijose – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai turėjo būti paeiliui lenkai ir.'
   pagrindžia:
     - c-002

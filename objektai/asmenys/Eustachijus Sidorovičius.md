@@ -18,7 +18,9 @@ Pirkliai reikalą išdėstė per įgaliotinius: Eustachijų Sidorovičių ir Gri
 
 ## Teiginiai
 
+<a id="claim-t-87664"></a>
 - t-001
+  global_id: t-87664
   teiginys: 'Eustachijus Sidorovičius buvo vienas iš graikų tikėjimo Vilniaus pirklių įgaliotinių byloje prieš vaitą Stanislovą Sabiną.'
   pagrindžia:
     - c-001

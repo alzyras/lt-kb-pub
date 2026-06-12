@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87192"></a>
 - t-001
+  global_id: t-87192
   teiginys: 'Algirdas viešai nubaudė žiauraus poelgio vadus ir paskelbė krikščionių vienuoliams laisvę nevaržomai gyventi bei išpažinti tikėjimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87193"></a>
 - t-002
+  global_id: t-87193
   teiginys: 'Algirdas toleravo krikščionybę, bet dar nedraudė Perkūno garbinimo ir nekeitė pagonių šventyklų krikščionių bažnyčiomis.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Užsitęsusio karo metu mirė vyskupas ir daugy bė pralotų; drauge su jais žu
 
 ## Teiginiai
 
+<a id="claim-t-03124"></a>
 - t-001
+  global_id: t-03124
   teiginys: 'Užsitęsusio karo metu mirus vyskupui ir daugeliui pralotų, buvo prarasta valdovų kapų vietos paslaptis.'
   pagrindžia:
     - c-001

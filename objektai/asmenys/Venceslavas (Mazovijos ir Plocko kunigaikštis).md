@@ -28,7 +28,9 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
 
 ## Teiginiai
 
+<a id="claim-t-87880"></a>
 - t-001
+  global_id: t-87880
   teiginys: 'Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, Mazovijos kunigaikštis]0.'
   pagrindžia:
     - c-001

@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77921"></a>
 - t-001
+  global_id: t-77921
   teiginys: 'Statomos puošnios vienuolynų bažnyčios su prabangiais altoriais, jose – daugybė paveikslų, skulptūrų bei freskų, o nuo XV a.'
   pagrindžia:
     - c-001

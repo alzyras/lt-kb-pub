@@ -26,49 +26,67 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 
 ## Teiginiai
 
+<a id="claim-t-78414"></a>
 - t-001
+  global_id: t-78414
   teiginys: 'Dusburgietis teigia, kad antra — Pamedė192, kurioje [gyveno] pamedėnai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78415"></a>
 - t-002
+  global_id: t-78415
   teiginys: 'Dusburgietis teigia, kad apie vienos pilaitės užkariavimą Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją įsibrovė ir, pagavę bei išžudę visus žmones.'
   pagrindžia:
     - c-011
     - c-006
 
+<a id="claim-t-78417"></a>
 - t-003
+  global_id: t-78417
   teiginys: 'Dusburgietis teigia, kad ilgainiui pilyje vėl kilo toks baisus badas, kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie jų prisidėjusius, pasitraukti iš čia į kitas vietas, žadėdami palikti jiems visas teises bei laisves, kad galėtų ten.'
   pagrindžia:
     - c-001
     - c-005
 
+<a id="claim-t-78419"></a>
 - t-004
+  global_id: t-78419
   teiginys: 'Dusburgietis teigia, kad apie daugelio pilių sunaikinimą ir pamedėnų pavergimą Pamedės žemėje buvo valsčius, vardu Reisiai, kuriame gyveno daug garsių vyrų ir drąsių karių; minėtasis valdovas, ryžtingai imdamasis darbo, drąsiai juos užpuolė, kamuodamas grobstymais bei gaisrais ir.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-78420"></a>
 - t-005
+  global_id: t-78420
   teiginys: 'Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-78421"></a>
 - t-006
+  global_id: t-78421
   teiginys: 'Dusburgietis teigia, kad jo patarti ir paskatinti, visi, išskyrus ištikimuosius pamedėnus, susimokė dar kartą atsimesti nuo krikščionybės.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-78422"></a>
 - t-007
+  global_id: t-78422
   teiginys: '1260 m. Klaipėdoje pamedėnai minimi tarp Ordino pavaldžių užgrobtų žemių karių, prievarta telktų prieš Lietuvą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78423"></a>
 - t-008
+  global_id: t-78423
   teiginys: '1260 m. Klaipėdoje prieš Lietuvą sutelktose Ordino pajėgose buvo ir prievarta buriami pamedėnai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78424"></a>
 - t-009
+  global_id: t-78424
   teiginys: 'Dusburgietis teigia, kad nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.'
   pagrindžia:
     - c-008

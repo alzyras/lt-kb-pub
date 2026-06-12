@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87103"></a>
 - t-001
+  global_id: t-87103
   teiginys: 'Vytenis prašė atsiųsti minoritų, kuriems norėjo skirti jau pastatytą bažnyčią.'
   pagrindžia:
     - c-001

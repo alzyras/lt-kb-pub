@@ -35,27 +35,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66488"></a>
 - t-001
+  global_id: t-66488
   teiginys: 'Muravjovo laikais buvo uždarytos 32 su sukilimu sietos bažnyčios, 52 koplyčios ir apie 20 vienuolynų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66489"></a>
 - t-002
+  global_id: t-66489
   teiginys: 'Muravjovo laikais buvo uždrausta statyti naujas ir remontuoti senas bažnyčias, rengti procesijas ir viešai sakyti pamokslus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66490"></a>
 - t-003
+  global_id: t-66490
   teiginys: 'Bažnyčios ir religinio gyvenimo suvaržymas Muravjovo laikais: žemaičių vyskupystės centras tuo tarpu buvo Varniai. Kad lengviau būtų prižiūrėti vyskupą ir kapitulą, buvo įsakyta vyskupui su visomis įstaigomis persikelti į Kauną, kur buvo gubernatorius. Čia gubernatoriui buvo liepta stropiai sekti, kad niekas iš.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66491"></a>
 - t-004
+  global_id: t-66491
   teiginys: 'Muravjovo laikais valdžia paėmė į savo kontrolę visą Bažnyčios veiklą, nes bažnyčias ir vienuolynus laikė Rusijos valdžios priešais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66492"></a>
 - t-005
+  global_id: t-66492
   teiginys: 'Bažnyčios ir religinio gyvenimo suvaržymas Muravjovo laikais: užkliuvo Muravjovui ir Lietuvos kaimuose bei pakelėse stovį kryžiai. Esą, kunigai tyčia jų daugybę pristatą, norėdami įrodyti krašto katalikiškumą ir skirtingumą nuo Rusijos. Todėl ir jie buvo uždrausti statyti be leidimo; buvo leidžiami statyti tik tokie.'
   pagrindžia:
     - c-005

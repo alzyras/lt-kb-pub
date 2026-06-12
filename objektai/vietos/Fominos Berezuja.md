@@ -16,7 +16,9 @@ Nusigandę Fominos Berezujos kunigaikš­ čiai, patys geruoju prisidėjo prie V
 
 ## Teiginiai
 
+<a id="claim-t-36221"></a>
 - t-001
+  global_id: t-36221
   teiginys: 'Fominos Berezujos kunigaikščiai, išsigandę Vytauto, geruoju prie jo prisidėjo.'
   pagrindžia:
     - c-001

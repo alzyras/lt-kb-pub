@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Pasak Kojelavičiaus, Rygos katedros kolegijos atsimetimas ir karaliaus lapkričio 26 d. apsaugos raštas
 
 ## Santrauka
 
-Kojelavičius teigia, kad rygos arkivyskupo katedros dvasininkai, pa mynę bet kokį teisėtumą ir pasidaliję didžiules tos kolegijos valdas, šventvagiškai išsižadėjo skaistybės.
+Pasak Kojelavičiaus, Rygos arkivyskupo katedros dvasininkai pasidalijo kolegijos valdas ir išsižadėjo skaistybės.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185760"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad rygos arkivyskupo katedros dvasininkai, pa mynę bet kokį teisėtumą ir pasidaliję didžiules tos kolegijos valdas, šventvagiškai išsižadėjo skaistybės.'
+  global_id: t-185760
+  teiginys: 'Pasak Kojelavičiaus, Rygos arkivyskupo katedros dvasininkai pasidalijo kolegijos valdas ir išsižadėjo skaistybės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad rygos arkivyskupo katedros dvasininkai, pa mynę bet kokį teisėtumą ir pasidaliję didžiules tos kolegijos valdas, šventvagiškai išsižadėjo skaistybės.'
+  santrauka: 'Pasak Kojelavičiaus, Rygos arkivyskupo katedros dvasininkai pasidalijo kolegijos valdas ir išsižadėjo skaistybės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tais pačiais metais kara­
@@ -55,3 +56,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Liuteronai]]

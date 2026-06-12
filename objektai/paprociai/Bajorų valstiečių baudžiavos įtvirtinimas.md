@@ -34,17 +34,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01927"></a>
 - t-001
+  global_id: t-01927
   teiginys: 'Bajorija siekė draudimo didžiajam kunigaikščiui priimti pabėgusius bajorų valstiečius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01928"></a>
 - t-002
+  global_id: t-01928
   teiginys: '1434 m. Zigmantas bajorų valstiečius atleido nuo mokesčių javais, o vėliau jie buvo atleisti ir nuo kitų prievolių valstybei.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-01929"></a>
 - t-003
+  global_id: t-01929
   teiginys: 'Privilegija paliko bajorų dvaruose gyvenusius valstiečius visiškoje jų ponų valdžioje.'
   pagrindžia:
     - c-003

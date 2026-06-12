@@ -14,24 +14,25 @@ amziai:
   - 'XVI'
   - 'XVII'
 ---
-
 # Seimų pamokslai
 
 ## Santrauka
 
-Kojelavičius teigia, kad uoliausias religinės, tautinės ir valstybinės integracijos skelbėjas buvo pirmas jos rektorius Petras Skarga (1536—1612), žymus pamokslininkas ir publi cistas.
+Petro Skargos „Seimų pamoksluose“ pasisakoma už stiprią jungtinės valstybės valdžią su karaliumi priešakyje.
 
 ## Teiginiai
 
+<a id="claim-t-186345"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad uoliausias religinės, tautinės ir valstybinės integracijos skelbėjas buvo pirmas jos rektorius Petras Skarga (1536—1612), žymus pamokslininkas ir publi cistas.'
+  global_id: t-186345
+  teiginys: 'Petro Skargos „Seimų pamoksluose“ pasisakoma už stiprią jungtinės valstybės valdžią su karaliumi priešakyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad uoliausias religinės, tautinės ir valstybinės integracijos skelbėjas buvo pirmas jos rektorius Petras Skarga (1536—1612), žymus pamokslininkas ir publi cistas.'
+  santrauka: 'Petro Skargos „Seimų pamoksluose“ pasisakoma už stiprią jungtinės valstybės valdžią su karaliumi priešakyje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Abi politinės tendencijos rado šalininkų ir Akade­

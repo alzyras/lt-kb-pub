@@ -17,12 +17,16 @@ Zenavičiaus LDK husarai atakavo puolančius turkus “8 iš dešinės, o Kuchov
 
 ## Teiginiai
 
+<a id="claim-t-40058"></a>
 - t-001
+  global_id: t-40058
   teiginys: 'B. Zenavičiaus vadovaujami LDK husarai iš dešinės atakavo puolančius turkus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40059"></a>
 - t-002
+  global_id: t-40059
   teiginys: 'Etmono svainis B. Zenavičius žuvo šiame mūšyje.'
   pagrindžia:
     - c-002

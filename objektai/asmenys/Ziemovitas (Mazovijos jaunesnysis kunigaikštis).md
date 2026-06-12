@@ -19,7 +19,9 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
 
 ## Teiginiai
 
+<a id="claim-t-87892"></a>
 - t-001
+  global_id: t-87892
   teiginys: 'Mazovijos jaunesnysis kunigaikštis Ziemovitas vedė Jogailos seserį Aleksandrą.'
   pagrindžia:
     - c-001

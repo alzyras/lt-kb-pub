@@ -27,12 +27,16 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
 
 ## Teiginiai
 
+<a id="claim-t-87419"></a>
 - t-001
+  global_id: t-87419
   teiginys: 'Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas Laskis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87420"></a>
 - t-002
+  global_id: t-87420
   teiginys: 'Jonas Zabžezinskis 1533 metų spalio 26 dieną dovanojimo aktu Vilniaus vyskupui Jonui perdavė mūrinį namą.'
   pagrindžia:
     - c-001

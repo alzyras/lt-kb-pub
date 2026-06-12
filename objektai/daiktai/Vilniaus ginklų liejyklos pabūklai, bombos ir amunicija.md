@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87126"></a>
 - t-001
+  global_id: t-87126
   teiginys: 'Vilniaus ginklų liejykloje buvo išlieta daug pabūklų, gamintos bombos ir kiti karo reikmenys.'
   pagrindžia:
     - c-001

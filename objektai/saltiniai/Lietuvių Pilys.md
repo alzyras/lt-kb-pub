@@ -23,7 +23,9 @@ LieP = Lietuvos Pilys, red. J.
 
 ## Teiginiai
 
+<a id="claim-t-31792"></a>
 - t-001
+  global_id: t-31792
   teiginys: '„Lietuvos Pilys“ buvo J. Jurginio redaguotas devynių autorių tyrinėjimų rinkinys apie mūrines Lietuvos pilis, išleistas Vilniuje 1971 m.'
   pagrindžia:
     - c-001

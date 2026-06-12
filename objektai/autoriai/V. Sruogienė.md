@@ -16,7 +16,9 @@ Sruogienė, V.
 
 ## Teiginiai
 
+<a id="claim-t-31045"></a>
 - t-001
+  global_id: t-31045
   teiginys: 'V. Sruogienė parašė straipsnį „Norimantas“ Lietuvių enciklopedijai.'
   pagrindžia:
     - c-001

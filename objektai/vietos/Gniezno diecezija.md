@@ -19,7 +19,9 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
 
 ## Teiginiai
 
+<a id="claim-t-86185"></a>
 - t-001
+  global_id: t-86185
   teiginys: 'Vilniaus katedrai skirtų pajamų dalimi buvo turtinga Klodovo klebonija Gniezno diecezijoje.'
   pagrindžia:
     - c-001

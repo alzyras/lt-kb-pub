@@ -11,7 +11,6 @@ tags:
   - bajorija
   - dinastija
 ---
-
 # Palemonas
 
 ## Santrauka
@@ -20,25 +19,26 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
 
 ## Teiginiai
 
+<a id="claim-t-19185"></a>
 - t-001
+  global_id: t-19185
   teiginys: 'Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių dinastija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184814"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad pagal kilmę bei karinius nuopelnus buvo vardijami vadai: Palemonas, arba Publijus Libonas, herbo Stulpai, Julijonas Dausprungas;, kurio giminės herbas Kentauras, Prosperas Cezarinas — her bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba Rožynas.'
+  global_id: t-184814
+  teiginys: 'Mirus lietuvių valdovui, Palemonas buvo bendru balsavimu išrinktas nauju valdovu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184815"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad mirus jų valdovui, bendru balsavimu buvo išrinktas Palemonas.'
+  global_id: t-184815
+  teiginys: 'Pasak Kojelavičiaus, Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais.'
   pagrindžia:
     - c-003
-
-- t-004
-  teiginys: 'Kojelavičius teigia, kad tadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie tuvoje daugelio dievų garbinimo: senąsias apeigas jis dargi papildė naujais prietarais.'
-  pagrindžia:
-    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -60,38 +60,7 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad pagal kilmę bei karinius nuopelnus buvo vardijami vadai: Palemonas, arba Publijus Libonas, herbo Stulpai, Julijonas Dausprungas;, kurio giminės herbas Kentauras, Prosperas Cezarinas — her bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba Rožynas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Galimas daiktas, alanai, arba herulai (kurie,
-    istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
-    ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
-    pasitraukė iš tėvynės ir pasuko į tas žemes, kurios
-    buvo tinkamiausios įsikurti ir neniokojamos karų. Pa­
-    galiau nesvarbu, dėl kokios dingsties, reikalo ar būti­
-    nybės jie leidosi į tokį tolimą kelią, vieną dalyką se­
-    noliai atkakliai tvirtina: ateivių italų esą buvę penki
-    šimtai kilmingųjų. Pagal kilmę bei karinius nuopelnus
-    buvo vardijami vadai: Palemonas, arba Publijus Libo-
-    nas, herbo Stulpai,
-    Julijonas
-    Dausprungas;,
-    kurio
-    59
-
-    ## Puslapis 58
-
-    giminės herbas Kentauras, Prosperas Cezarinas — her­
-    bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba
-    Rožynas.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Kojelavičius teigia, kad mirus jų valdovui, bendru balsavimu buvo išrinktas Palemonas.'
+  santrauka: 'Mirus lietuvių valdovui, Palemonas buvo bendru balsavimu išrinktas nauju valdovu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lietuviai, suža­
@@ -110,10 +79,10 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
-  santrauka: 'Kojelavičius teigia, kad tadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie tuvoje daugelio dievų garbinimo: senąsias apeigas jis dargi papildė naujais prietarais.'
+- c-003
+  santrauka: 'Pasak Kojelavičiaus, Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Daug kartų iš naujo
@@ -132,4 +101,28 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/grupes/Gotai]]
+- [[objektai/grupes/Langobardai]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/grupes/Rusėnai]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/asmenys/Barkus]]
+- [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]
+- [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/paprociai/Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje]]
+- [[objektai/paprociai/Valdovo rinkimas bendru balsavimu ir bendruomenės valia]]
+- [[objektai/daiktai/Valtys]]
+- [[objektai/zodynas/Variagai]]
+- [[objektai/zodynas/politinė tauta lietuvių nacija]]
+- [[objektai/ivykiai/Palemono išrinkimas Lietuvos valdovu A. Kojelavičiaus pasakojime]]
+- [[objektai/daiktai/Stulpai]]

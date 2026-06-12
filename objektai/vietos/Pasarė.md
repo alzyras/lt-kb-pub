@@ -19,12 +19,16 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
 
 ## Teiginiai
 
+<a id="claim-t-58610"></a>
 - t-001
+  global_id: t-58610
   teiginys: 'Pasarė, vėliau vadinta Pasarge, tapatinama su dabartine Paslenka, įtekančia į Aismares žemiau Branevo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58611"></a>
 - t-002
+  global_id: t-58611
   teiginys: 'Brunsbergo pilis ir miestas buvo pastatyti Pasarės, vadintos Serijos upe, žemupyje esančioje saloje.'
   pagrindžia:
     - c-002

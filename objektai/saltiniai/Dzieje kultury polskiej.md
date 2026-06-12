@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31670"></a>
 - t-001
+  global_id: t-31670
   teiginys: 'A. Brücknerio „Dzieje kultury polskiej“ I tomas išleistas Krokuvoje 1931 m.'
   pagrindžia:
     - c-001

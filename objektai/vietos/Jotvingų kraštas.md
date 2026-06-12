@@ -18,19 +18,24 @@ Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo jotvingų
 
 ## Teiginiai
 
+<a id="claim-t-74008"></a>
 - t-001
-  teiginys: 'Mindaugas jo gyvenamajai vietai buvo paskyręs pietines Lietuvos sritis (jotvingų žemėje).'
+  global_id: t-74008
+  teiginys: 'Mindaugas vyskupui Vitui gyvenamąją vietą paskyrė pietinėse Lietuvos srityse, jotvingų žemėje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74009"></a>
 - t-002
-  teiginys: 'Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo jotvingų krašte.'
+  global_id: t-74009
+  teiginys: '1009 m. vasario 14 d. jotvingų krašte buvo nužudytas aisčių krašte apaštalavęs asmuo ir jo palydovai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mindaugas vyskupui Vitui gyvenamąją vietą paskyrė pietinėse Lietuvos srityse, jotvingų žemėje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Maždaug kartu su Kristijonu čia vyskupu buvo įšventintas lenkų
@@ -45,6 +50,7 @@ Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo jotvingų
     - t-001
 
 - c-002
+  santrauka: '1009 m. vasario 14 d. jotvingų krašte buvo nužudytas aisčių krašte apaštalavęs asmuo ir jo palydovai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Toli įėjęs į aisčių kraštą, jis 1009 metais

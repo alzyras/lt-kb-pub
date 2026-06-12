@@ -26,7 +26,9 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
 
 ## Teiginiai
 
+<a id="claim-t-20835"></a>
 - t-001
+  global_id: t-20835
   teiginys: 'Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška Golgota.'
   pagrindžia:
     - c-001

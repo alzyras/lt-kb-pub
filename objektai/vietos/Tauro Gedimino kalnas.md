@@ -25,7 +25,9 @@ Aukštutinė pilis ant Tauro kalno. • — 201 Gedimino (vert.
 
 ## Teiginiai
 
+<a id="claim-t-86107"></a>
 - t-001
+  global_id: t-86107
   teiginys: 'Aukštutinė pilis ant Tauro kalno.'
   pagrindžia:
     - c-001

@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87102"></a>
 - t-001
+  global_id: t-87102
   teiginys: 'Vilniaus vyskupas Mikalojus Dzerško arba Dzerškavičius savo antspaude turėjo Stumbro ženklą.'
   pagrindžia:
     - c-001

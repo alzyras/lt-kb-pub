@@ -32,7 +32,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62524"></a>
 - t-001
+  global_id: t-62524
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip prisikėlė vienas miręs riteris Vermandua [grafystėje] atgijo vienas miręs riteris, daug ką daugeliui žmonių išpranašavo ir ilgai išgyveno, nei valgydamas, nei gerdamas (Ptol.'
   pagrindžia:
     - c-001

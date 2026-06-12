@@ -18,7 +18,9 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
 
 ## Teiginiai
 
+<a id="claim-t-19156"></a>
 - t-001
+  global_id: t-19156
   teiginys: '1251 m. pavasarį arba vasaros pradžioje Morta kartu su Mindaugu gavo krikštą.'
   pagrindžia:
     - c-001

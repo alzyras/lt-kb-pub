@@ -27,17 +27,23 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
 
 ## Teiginiai
 
+<a id="claim-t-63836"></a>
 - t-001
+  global_id: t-63836
   teiginys: 'Sukilimo vadu Lietuvoje tapo Konstantinas Kalinauskas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63837"></a>
 - t-002
+  global_id: t-63837
   teiginys: '1863 m. pabaigoje Konstantinas Kalinauskas pateko į sukilimo slopintojų rankas ir netrukus buvo viešai pakartas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-63838"></a>
 - t-003
+  global_id: t-63838
   teiginys: 'Michailo Muravjovo įsakymu Konstantinas Kalinauskas buvo pakartas kartu su kitais sukilėliais.'
   pagrindžia:
     - c-003

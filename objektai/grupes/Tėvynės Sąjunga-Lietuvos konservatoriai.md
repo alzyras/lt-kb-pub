@@ -24,12 +24,16 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
 
 ## Teiginiai
 
+<a id="claim-t-75008"></a>
 - t-001
+  global_id: t-75008
   teiginys: 'Landsbergio vadovaujamus konservatorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75010"></a>
 - t-002
+  global_id: t-75010
   teiginys: 'Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos kompromisas, labiau į parlamentinį valdymą orientuota sistema, nes prezidentinei valdymo formai nepritarta.'
   pagrindžia:
     - c-002

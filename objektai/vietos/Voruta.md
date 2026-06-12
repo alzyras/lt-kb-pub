@@ -19,7 +19,9 @@ Tuo tarpu Vykintas, Tautvilas ir Erdvilas su savo jėgomis apsupo Mindaugą jo p
 
 ## Teiginiai
 
+<a id="claim-t-74017"></a>
 - t-001
+  global_id: t-74017
   teiginys: 'Kronikose Voruta vadinta Mindaugo pilimi, kurią apsupo Vykintas, Tautvilas ir Erdvilas.'
   pagrindžia:
     - c-001

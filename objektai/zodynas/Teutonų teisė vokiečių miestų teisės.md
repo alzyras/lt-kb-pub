@@ -27,7 +27,9 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
 
 ## Teiginiai
 
+<a id="claim-t-86642"></a>
 - t-001
+  global_id: t-86642
   teiginys: 'Krokuva 1257 m. gavo teutonų teises, o Poznanė ir Sandomiras pagal vokiečių miestų teisę ėmė tvarkytis XIII a.'
   pagrindžia:
     - c-001

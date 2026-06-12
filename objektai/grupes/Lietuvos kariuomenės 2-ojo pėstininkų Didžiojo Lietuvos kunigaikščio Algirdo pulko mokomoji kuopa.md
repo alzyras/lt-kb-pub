@@ -24,7 +24,9 @@ p. 208, Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikšč
 
 ## Teiginiai
 
+<a id="claim-t-41041"></a>
 - t-001
+  global_id: t-41041
   teiginys: 'Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko mokomoji kuopa 1920 m. lapkričio 22 d. buvo Giedraičių apylinkėse.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Anot vieno budelio – „buvo baisu šaudyti, bet maniau, kad tai reikalinga Li
 
 ## Teiginiai
 
+<a id="claim-t-20887"></a>
 - t-001
+  global_id: t-20887
   teiginys: 'Vienas budelis sakė manęs, kad šaudymas buvo reikalingas Lietuvos nepriklausomybei, nes okupantai tai įsakė ir skatino.'
   pagrindžia:
     - c-001

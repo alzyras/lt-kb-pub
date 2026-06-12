@@ -22,12 +22,16 @@ Pašuto, Očerki po istorii Galicko-Volynskoj Rusi , 1950, 259. Pašuto, V.
 
 ## Teiginiai
 
+<a id="claim-t-31954"></a>
 - t-001
+  global_id: t-31954
   teiginys: 'V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista Maskvoje 1950 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-31955"></a>
 - t-002
+  global_id: t-31955
   teiginys: 'V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista 1950 m.'
   pagrindžia:
     - c-001

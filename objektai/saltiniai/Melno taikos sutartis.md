@@ -25,7 +25,9 @@ Vilniaus miesto reikšmė jau anais laikais buvo tokia didelė, kad lygia greta 
 
 ## Teiginiai
 
+<a id="claim-t-88263"></a>
 - t-001
+  global_id: t-88263
   teiginys: 'Vilniaus miesto reikšmė jau anais laikais buvo tokia didelė, kad lygia greta svarbiausių karalystės miestų, jam buvo leista laiduoti sutarties, sudarytos su kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.'
   pagrindžia:
     - c-001

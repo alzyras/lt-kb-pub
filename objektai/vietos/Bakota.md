@@ -19,7 +19,9 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
 
 ## Teiginiai
 
+<a id="claim-t-32073"></a>
 - t-001
+  global_id: t-32073
   teiginys: 'Karijotaičiai Podolėje statė pilis, tarp jų Kamieniecą, Smotryčą ir Bakotą.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Romos tikėjimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad juk jis įsakęs Vilniaus vys kupui Vaitiekui Taborui ir P a sk elb ia A le k sa n d - Smolensko Juozapui Soltarui karą nui ne kartą raginti Eleną pereiti į Romos tikėjimą; li gi šiol rūmuose nesanti pastatyta Elenos reikalams koplyčia; rusai verčiami.
+Aleksandras įsakė Vilniaus vyskupui Vaitiekui Taborui ir Smolensko Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.
 
 ## Teiginiai
 
+<a id="claim-t-185409"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad juk jis įsakęs Vilniaus vys kupui Vaitiekui Taborui ir P a sk elb ia A le k sa n d - Smolensko Juozapui Soltarui karą nui ne kartą raginti Eleną pereiti į Romos tikėjimą; li gi šiol rūmuose nesanti pastatyta Elenos reikalams koplyčia; rusai verčiami.'
+  global_id: t-185409
+  teiginys: 'Aleksandras įsakė Vilniaus vyskupui Vaitiekui Taborui ir Smolensko Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad juk jis įsakęs Vilniaus vys kupui Vaitiekui Taborui ir P a sk elb ia A le k sa n d - Smolensko Juozapui Soltarui karą nui ne kartą raginti Eleną pereiti į Romos tikėjimą; li gi šiol rūmuose nesanti pastatyta Elenos reikalams koplyčia; rusai verčiami.'
+  santrauka: 'Aleksandras įsakė Vilniaus vyskupui Vaitiekui Taborui ir Smolensko Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šis, labiau
@@ -50,3 +51,13 @@ Kojelavičius teigia, kad juk jis įsakęs Vilniaus vys kupui Vaitiekui Taborui 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+- [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/daiktai/Taurės]]
+- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/ivykiai/Maskvos valdovo karo paskelbimas Aleksandrui]]

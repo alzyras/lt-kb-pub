@@ -25,7 +25,9 @@ Po šių Vytauto pasisekimų Jogaila smarkiai susirūpina Lietuvos reikalais: no
 
 ## Teiginiai
 
+<a id="claim-t-35998"></a>
 - t-001
+  global_id: t-35998
   teiginys: 'Jogaila, siekdamas pašalinti Vytauto įtaką Lietuvoje, paskyrė savo vietininku pravoslavą Skirgailą, vadinamą „dux Russiae“.'
   pagrindžia:
     - c-001

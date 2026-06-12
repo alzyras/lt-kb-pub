@@ -19,12 +19,16 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
 
 ## Teiginiai
 
+<a id="claim-t-173439"></a>
 - t-001
+  global_id: t-173439
   teiginys: 'Gotlando salai buvo adresuotas vienas iš trijų 1323 m. gegužės 26 d. laiškų Hanzos miestams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-173440"></a>
 - t-002
+  global_id: t-173440
   teiginys: 'Apie 650 m. iš Gotlando ir vidurio Švedijos prasidėjo didelė švedų ekspansija.'
   pagrindžia:
     - c-001

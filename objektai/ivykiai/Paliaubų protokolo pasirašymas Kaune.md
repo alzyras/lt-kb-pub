@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-41340"></a>
 - t-001
+  global_id: t-41340
   teiginys: '1920 m. lapkričio 29 d. Kaune L. Želigovskio ir Lietuvos atstovai pasirašė paliaubų protokolą.'
   pagrindžia:
     - c-001

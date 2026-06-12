@@ -16,7 +16,9 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 
 ## Teiginiai
 
+<a id="claim-t-02406"></a>
 - t-001
+  global_id: t-02406
   teiginys: 'Lietuvos eksporto kelias iš Nemuno per Giliją ir Kuršmares ėjo Deimena pro Labguvą į Prieglių.'
   pagrindžia:
     - c-001

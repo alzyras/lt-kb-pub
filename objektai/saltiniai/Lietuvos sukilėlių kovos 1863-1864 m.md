@@ -25,12 +25,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-97268"></a>
 - t-001
+  global_id: t-97268
   teiginys: '„Lietuvos sukilėlių kovos 1863-1864 m.“ buvo išleista 1969 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97269"></a>
 - t-002
+  global_id: t-97269
   teiginys: 'Veikalas „Lietuvos sukilėlių kovos 1863-1864 m.“ nurodytas kaip 1969 m. publikacija.'
   pagrindžia:
     - c-001

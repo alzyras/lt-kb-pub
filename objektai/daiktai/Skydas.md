@@ -42,22 +42,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08329"></a>
 - t-001
+  global_id: t-08329
   teiginys: 'Skydais lietuviai dangstėsi nuo priešų smūgių; jie buvo pailgai apvalūs, pinti iš žilvičių arba tašyti iš lentos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08330"></a>
 - t-002
+  global_id: t-08330
   teiginys: 'Baltos vėliavos skyde buvo vaizduojami ženklai ir žmogus su meškos galva.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-111284"></a>
 - t-003
+  global_id: t-111284
   teiginys: 'Dažniausiai nenaudodavo skydo, neretai jų kojos ir rankos būdavo neapsaugotos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-111285"></a>
 - t-004
+  global_id: t-111285
   teiginys: 'Dusburgietis teigia, kad sūduviai dėl to labai džiaugėsi, tuo tarpu susikrimtęs Martynas ilgokai daužėsi po mišką, kol sušaukė savo išsklaidytus bendrus; kadangi visi jų ginklai buvo pagrobti, jis slaptomis, priešams miegant, vieną po kito išvogė jų skydus, kalavijus bei ietis, o.'
   pagrindžia:
     - c-003

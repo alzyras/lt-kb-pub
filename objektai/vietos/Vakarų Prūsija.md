@@ -24,7 +24,9 @@ Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną 
 
 ## Teiginiai
 
+<a id="claim-t-42239"></a>
 - t-001
+  global_id: t-42239
   teiginys: 'Nuo 1466 m. Vakarų Prūsija ir Varmė buvo tiesiogiai prijungtos prie Lenkijos.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
 
 ## Teiginiai
 
+<a id="claim-t-87616"></a>
 - t-001
+  global_id: t-87616
   teiginys: 'Aleksandras Jurgėvičius 1501 metais Gardine minėtas kaip Vilniaus kaštelionas ir Gardino seniūnas.'
   pagrindžia:
     - c-001

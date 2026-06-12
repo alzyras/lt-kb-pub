@@ -16,7 +16,9 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
 
 ## Teiginiai
 
+<a id="claim-t-87619"></a>
 - t-001
+  global_id: t-87619
   teiginys: 'Anastazija valdė Dobrynės kunigaikštystę maždaug tuo metu, kai ši smarkiai nukentėjo per lietuvių antpuolį.'
   pagrindžia:
     - c-001

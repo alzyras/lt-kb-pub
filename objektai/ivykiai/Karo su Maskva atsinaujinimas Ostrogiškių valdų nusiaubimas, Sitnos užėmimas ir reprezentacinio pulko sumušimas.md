@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad nieko nenuveikę, pasiuntiniai patraukė atgal, ir kaštai vėl įsiplieskė karas, kurį maskvėnai pradėjo, nė nelau kdami, kol pasibaigs paliau bos. Kojelavičius teigia, kad tuo metu, kai Gardine pasiuntiniai derėjosi dėl taikos, iš Seversko žemės įsiveržusi kariuomenė nusiau bė kunigaikščių Ostrogiškių valdas.
+Taikos pasiuntiniams nieko nepasiekus, maskvėnai atnaujino karą nelaukdami paliaubų pabaigos. Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185584"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad nieko nenuveikę, pasiuntiniai patraukė atgal, ir kaštai vėl įsiplieskė karas, kurį maskvėnai pradėjo, nė nelau kdami, kol pasibaigs paliau bos.'
+  global_id: t-185584
+  teiginys: 'Taikos pasiuntiniams nieko nepasiekus, maskvėnai atnaujino karą nelaukdami paliaubų pabaigos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185585"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad tuo metu, kai Gardine pasiuntiniai derėjosi dėl taikos, iš Seversko žemės įsiveržusi kariuomenė nusiau bė kunigaikščių Ostrogiškių valdas.'
+  global_id: t-185585
+  teiginys: 'Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad nieko nenuveikę, pasiuntiniai patraukė atgal, ir kaštai vėl įsiplieskė karas, kurį maskvėnai pradėjo, nė nelau kdami, kol pasibaigs paliau bos.'
+  santrauka: 'Taikos pasiuntiniams nieko nepasiekus, maskvėnai atnaujino karą nelaukdami paliaubų pabaigos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kad jie galop patys suprastų, kokie
@@ -65,7 +68,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad tuo metu, kai Gardine pasiuntiniai derėjosi dėl taikos, iš Seversko žemės įsiveržusi kariuomenė nusiau bė kunigaikščių Ostrogiškių valdas.'
+  santrauka: 'Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo metu, kai Gardine pasiuntiniai derėjosi dėl
@@ -80,3 +83,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Ivanas]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/daiktai/Parakas]]
+- [[objektai/asmenys/Stanislovas]]
+- [[objektai/asmenys/Stanislovas Pacas]]
+- [[objektai/zodynas/kunigaikščiai]]

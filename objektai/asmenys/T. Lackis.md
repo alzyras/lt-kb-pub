@@ -17,12 +17,16 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
 
 ## Teiginiai
 
+<a id="claim-t-40456"></a>
 - t-001
+  global_id: t-40456
   teiginys: 'Lackio vadovaujami 200 husarų padarė lankstą ir visa jėga smogė į besikaunančių švedų raitelių kairįjį sparną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40457"></a>
 - t-002
+  global_id: t-40457
   teiginys: 'T. Lackio husarai pasitiko švedų gvardijos kavaleriją ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius.'
   pagrindžia:
     - c-001

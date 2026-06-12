@@ -24,12 +24,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-02156"></a>
 - t-001
+  global_id: t-02156
   teiginys: '1618 m. Divilino kaime (prie Maskvos) buvo padarytos 16 metų paliaubos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-02157"></a>
 - t-002
+  global_id: t-02157
   teiginys: 'Divilino paliaubų sutartimi Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, o Lenkijai priskirti Černigovas ir Naugardas Sieverskas.'
   pagrindžia:
     - c-002

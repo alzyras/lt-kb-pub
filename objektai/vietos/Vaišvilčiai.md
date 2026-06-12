@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-32629"></a>
 - t-001
+  global_id: t-32629
   teiginys: 'Nuo Vaišvilčių kaimo Nevėžio aukštupyje siena buvo pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru.'
   pagrindžia:
     - c-001

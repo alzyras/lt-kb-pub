@@ -24,12 +24,16 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
 
 ## Teiginiai
 
+<a id="claim-t-52464"></a>
 - t-001
-  teiginys: 'Tuo būdu pirmosios tautos, su kuriomis aisčiams teko susidurti ankstyvaisiais istoriniais laikais, buvo ateiviai skandinavai ir slavai: pietuose lenkai ir voluiniečiai, o rytuose gudai.'
+  global_id: t-52464
+  teiginys: 'Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su lenkais ir voluiniečiais, o rytuose su gudais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-52465"></a>
 - t-002
+  global_id: t-52465
   teiginys: 'Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su slavais: lenkais ir voluiniečiais.'
   pagrindžia:
     - c-001
@@ -59,4 +63,3 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/grupes/Gudai]]
-- [[objektai/grupes/Skandinavai]]

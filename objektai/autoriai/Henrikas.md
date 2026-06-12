@@ -20,18 +20,24 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 
 ## Teiginiai
 
+<a id="claim-t-10128"></a>
 - t-001
+  global_id: t-10128
   teiginys: 'Henrikas Latvis siejamas su „Livonijos kronika“, kurioje aprašomas lietuvių būdas kovoje prie Dauguvos 1207 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-10129"></a>
 - t-002
+  global_id: t-10129
   teiginys: 'Šiame leidinyje Henriko Latvio „Livonijos kronika“ naudojama aprašant lietuvių kovos būdą ir Lietuvos valdžios siekį valdyti kitas gentis.'
   pagrindžia:
     - c-001
     - c-002
 
+<a id="claim-t-64609"></a>
 - t-003
+  global_id: t-64609
   teiginys: 'Livonijos ordino kronikininkas Henrikas Latvis rašė, kad lietuviai tuose kraštuose viešpatavo krikščioniškoms ir pagoniškoms tautoms.'
   pagrindžia:
     - c-003
@@ -177,7 +183,6 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - [[objektai/ivykiai/Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje]]
 - [[objektai/asmenys/Rudolfas (Tiberiados valdovas)]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
-- [[objektai/paprociai/Taikos susitarimo tvirtinimas priesaika ir parašais]]
 - [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje]]
 - [[objektai/posakiai/Tikiu dievą tėvą, visagalį]]
 - [[objektai/grupes/Totoriai]]

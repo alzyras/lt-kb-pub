@@ -16,7 +16,9 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 
 ## Teiginiai
 
+<a id="claim-t-19349"></a>
 - t-001
+  global_id: t-19349
   teiginys: 'Nobelio premijos laureatas Česlovas Milošas save laikė paskutiniu LDK piliečiu.'
   pagrindžia:
     - c-001

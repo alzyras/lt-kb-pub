@@ -28,12 +28,16 @@ Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mū
 
 ## Teiginiai
 
+<a id="claim-t-69432"></a>
 - t-001
+  global_id: t-69432
   teiginys: 'Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mūšyje, o Tautvilas su Erdvilu pabėgo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-69433"></a>
 - t-002
+  global_id: t-69433
   teiginys: '91, 167, 169, 210 Tureiskas 201 Turkija 23 Turovas 225, 242, 245, 297 Tverai Žemaičiuose, 171 Tverca, upė 158 Tverė (Kalininas), kng-ja ir kng.'
   pagrindžia:
     - c-001

@@ -35,22 +35,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75222"></a>
 - t-001
+  global_id: t-75222
   teiginys: 'Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75223"></a>
 - t-002
+  global_id: t-75223
   teiginys: 'Po Lietuvos įstojimo į ES padidėjo šalies prekybos ir eksportuojamų prekių gamybos apimtys.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75224"></a>
 - t-003
+  global_id: t-75224
   teiginys: '2004 m. gegužės 1 d. Lietuva įstojo į ES ir įgijo teisę kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75225"></a>
 - t-004
+  global_id: t-75225
   teiginys: 'Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
   pagrindžia:
     - c-003

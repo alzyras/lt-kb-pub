@@ -17,7 +17,9 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
 
 ## Teiginiai
 
+<a id="claim-t-71551"></a>
 - t-001
+  global_id: t-71551
   teiginys: 'P. Tarasenka 1929 m. Kaune išleido veikalą „Lietuvos archeologijos medžiaga“.'
   pagrindžia:
     - c-002

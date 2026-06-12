@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Klemenso VI laiškas įvairiems krikščioniškųjų šalių valdovams dėl karo prieš lietuvius ir žemaičius
 
 ## Santrauka
 
-Kojelavičius teigia, kad traukiantiems į kovą prieš lietuvius ir žemaičius jis žadėjo tas dieviškas malones, kurių paprastai susi laukia maldininkai, kurie, davę įžadus, pamaldžiai ap lanko Kristaus karstą Jeruzalėje ar šv.
+Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias malones kaip Jeruzalės, Kompostelos ar Romos maldininkams.
 
 ## Teiginiai
 
+<a id="claim-t-186297"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad traukiantiems į kovą prieš lietuvius ir žemaičius jis žadėjo tas dieviškas malones, kurių paprastai susi laukia maldininkai, kurie, davę įžadus, pamaldžiai ap lanko Kristaus karstą Jeruzalėje ar šv.'
+  global_id: t-186297
+  teiginys: 'Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias malones kaip Jeruzalės, Kompostelos ar Romos maldininkams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad traukiantiems į kovą prieš lietuvius ir žemaičius jis žadėjo tas dieviškas malones, kurių paprastai susi laukia maldininkai, kurie, davę įžadus, pamaldžiai ap lanko Kristaus karstą Jeruzalėje ar šv.'
+  santrauka: 'Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias malones kaip Jeruzalės, Kompostelos ar Romos maldininkams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Traukiantiems į kovą prieš lietuvius ir žemaičius

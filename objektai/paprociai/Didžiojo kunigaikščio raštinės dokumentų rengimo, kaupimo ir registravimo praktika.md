@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54230"></a>
 - t-001
+  global_id: t-54230
   teiginys: 'Lietuvos Metrikos dokumentai laikomi svarbiausiu LDK istorijos šaltiniu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183307"></a>
 - t-002
+  global_id: t-183307
   teiginys: 'Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.'
   pagrindžia:
     - c-002

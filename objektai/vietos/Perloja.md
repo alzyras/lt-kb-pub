@@ -27,22 +27,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-50178"></a>
 - t-001
+  global_id: t-50178
   teiginys: 'Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, todėl jie kitą, gruodžio 16 d. puolė Perlojos stribų įgulą ir ją sunaikino.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-50179"></a>
 - t-002
+  global_id: t-50179
   teiginys: 'Gruodžio 16 d. Marcinkonių bataliono vyrai puolė Perlojos stribų įgulą ir ją sunaikino.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-50180"></a>
 - t-003
+  global_id: t-50180
   teiginys: 'Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė 5 stribus, o partizanai nuostolių nepatyrė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-50181"></a>
 - t-004
+  global_id: t-50181
   teiginys: 'Dar 5 stribai nukauti kitą dieną Perlojoje Marcinkonių bataliono vyrų (partizanai nuostolių nepatyrė).'
   pagrindžia:
     - c-002

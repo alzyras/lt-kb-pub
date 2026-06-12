@@ -19,7 +19,9 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
 
 ## Teiginiai
 
+<a id="claim-t-86227"></a>
 - t-001
+  global_id: t-86227
   teiginys: 'Pomezanijos vyskupas Rudolfas Elblionge dalyvavo pasitarime dėl taikos sutarties.'
   pagrindžia:
     - c-001

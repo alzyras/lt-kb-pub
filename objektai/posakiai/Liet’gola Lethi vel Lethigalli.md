@@ -16,12 +16,16 @@ Latvijos Henrikas juos vadino « Lethi vel Le t ­ th igalli», kartą paaiškin
 
 ## Teiginiai
 
+<a id="claim-t-31549"></a>
 - t-001
+  global_id: t-31549
   teiginys: 'Latvijos Henrikas tikruosius latvius vadino „Lethi vel Lethigalli“ ir aiškino, kad jie tiksliai vadinami Lethigalli.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184359"></a>
 - t-002
+  global_id: t-184359
   teiginys: 'Nestoro kronikoje tikrieji latviai vadinti „Liet’gola“, o Latvijos Henrikas juos įvardijo kaip „Lethi vel Lethigalli“.'
   pagrindžia:
     - c-002

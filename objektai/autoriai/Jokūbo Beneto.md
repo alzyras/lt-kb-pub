@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-80748"></a>
 - t-001
+  global_id: t-80748
   teiginys: 'Jokūbo Beneto poema „Viešpaties dešinės galybė“ buvo išleista 1674 m.'
   pagrindžia:
     - c-001

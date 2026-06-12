@@ -27,12 +27,16 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-88049"></a>
 - t-001
+  global_id: t-88049
   teiginys: 'Waddyngas ir Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88050"></a>
 - t-002
+  global_id: t-88050
   teiginys: 'Balińskis Waddyngo pasakojimą laikė painiu ir nepatikimu dėl neaiškių šaltinių.'
   pagrindžia:
     - c-002

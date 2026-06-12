@@ -19,7 +19,9 @@ Jo istorinis vaidmuo neatsiejamas nuo didžiulį poveikį visiems žydams turėj
 
 ## Teiginiai
 
+<a id="claim-t-22092"></a>
 - t-001
+  global_id: t-22092
   teiginys: 'Vilniaus Gaonas inicijavo akcijas prieš chasidizmą ir savo autoritetu sustabdė jo plitimą Lietuvoje.'
   pagrindžia:
     - c-001

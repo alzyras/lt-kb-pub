@@ -17,17 +17,23 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
 
 ## Teiginiai
 
+<a id="claim-t-75600"></a>
 - t-001
+  global_id: t-75600
   teiginys: 'Posakis „Kalta istorija“ vartojamas aiškinant, kad dėl Lietuvos istorijos komplikuotumo nekalti Lietuvos istorikai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75601"></a>
 - t-002
+  global_id: t-75601
   teiginys: 'Pasakojimas apie Lietuvos istoriją galėjo atrodyti atveriantis daug aštrių prieštaravimų ir pernelyg kritiškas kaimynams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75602"></a>
 - t-003
+  global_id: t-75602
   teiginys: 'Dėl Lietuvos istorijos komplikuotumo Lietuvos istorikai nelaikomi kaltais.'
   pagrindžia:
     - c-002

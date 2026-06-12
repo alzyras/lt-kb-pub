@@ -16,12 +16,16 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
 
 ## Teiginiai
 
+<a id="claim-t-70102"></a>
 - t-001
+  global_id: t-70102
   teiginys: 'Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti aukštosiose mokyklose, jie ignoruojami, sekami, jiems prikaišiojama „antisovietinė veikla“ ir „buržuazinis nacionalizmas“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70103"></a>
 - t-002
+  global_id: t-70103
   teiginys: 'Nusižengusieji buvo kaltinami „buržuaziniu nacionalizmu“, neigiama Vakarų kultūros įtaka.'
   pagrindžia:
     - c-002

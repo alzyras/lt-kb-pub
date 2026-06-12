@@ -28,27 +28,37 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 
 ## Teiginiai
 
+<a id="claim-t-58313"></a>
 - t-001
+  global_id: t-58313
   teiginys: 'Dusburgietis teigia, kad rugsėjo 30—spalio 11 Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai puldinėjo su dviem apgulos mašinomis ir daugybe šaulių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58314"></a>
 - t-002
+  global_id: t-58314
   teiginys: 'Kristmemelis panemunyje buvo pastatytas siekiant praplėsti krikščionių žemes.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-58315"></a>
 - t-003
+  global_id: t-58315
   teiginys: 'Kristmemelio pilis greičiausiai stovėjo Maštaičių arba Norkūnų piliakalnyje kairiajame Nemuno krante žemiau dabartinio Gelgaudiškio.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-58316"></a>
 - t-004
+  global_id: t-58316
   teiginys: 'Dusburgietis teigia, kad po to jie nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58317"></a>
 - t-005
+  global_id: t-58317
   teiginys: 'Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino lietuviai146.'
   pagrindžia:
     - c-002

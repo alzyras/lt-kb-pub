@@ -22,55 +22,60 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Tautvilas
 
 ## Santrauka
 
 Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaugo buvo išsiųsti į rusų sritis. Tautvilas buvo nužudytas, ir valdžią paėmė Treniota.
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
-- [[objektai/grupes/Rygos vokiečiai]]
-- [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.)]]
-- [[objektai/asmenys/Vikintas]]
-
 ## Teiginiai
 
+<a id="claim-t-121171"></a>
 - t-001
+  global_id: t-121171
   teiginys: 'Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-121172"></a>
 - t-002
+  global_id: t-121172
   teiginys: 'Mindaugo sūnėnas Tautvilas įsitvirtino Polocke, kai Lietuvos valdžia plito Baltojoje Rusijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-121173"></a>
 - t-003
+  global_id: t-121173
   teiginys: 'Mindaugo sūnėnas Tautvilas įsigyveno Polocke, kai Lietuvos valdžia plito Baltojoje Rusioje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-121174"></a>
 - t-004
+  global_id: t-121174
   teiginys: 'Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-121175"></a>
 - t-005
+  global_id: t-121175
   teiginys: 'Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-121176"></a>
 - t-006
+  global_id: t-121176
   teiginys: 'Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184840"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad todėl, norėdamas sutvir tinti padėtį prieš bet kokius galimus varžovus, jis iš kvietė iš Polocko savo pusbrolį Tautvilą.'
+  global_id: t-184840
+  teiginys: 'Tautvilas Treniotos kvietimu atvyko iš Polocko ir slapta su savaisiais rengė naują sąmokslą prieš Treniotą.'
   pagrindžia:
     - c-006
 
@@ -184,7 +189,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - t-003
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad todėl, norėdamas sutvir tinti padėtį prieš bet kokius galimus varžovus, jis iš kvietė iš Polocko savo pusbrolį Tautvilą.'
+  santrauka: 'Tautvilas Treniotos kvietimu atvyko iš Polocko ir slapta su savaisiais rengė naują sąmokslą prieš Treniotą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ko galėjo tikėtis iš tų, kuriuos jis savo pavyzdžiu bu­
@@ -206,3 +211,28 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   statusas: verified
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
+- [[objektai/grupes/Rygos vokiečiai]]
+- [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.)]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/posakiai/Ugnimi ir kalaviju]]
+- [[objektai/asmenys/Vikintas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Algardas Hohenšteino grafas]]
+- [[objektai/posakiai/Kraštą ugnimi ir kalaviju nusiaubę]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/asmenys/Tautvila]]
+- [[objektai/ivykiai/Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/paprociai/Jaunikaičių siuntimas puldinėti kaimynus karo mokymuisi]]
+- [[objektai/paprociai/Viešas krikščionybės priėmimas valdinių prisirišimui ir sąjungininkų palankumui pelnyti]]
+- [[objektai/asmenys/Edividas]]

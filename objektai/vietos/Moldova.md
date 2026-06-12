@@ -19,7 +19,9 @@ Tuo pat metu Lenki­ joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, 
 
 ## Teiginiai
 
+<a id="claim-t-86215"></a>
 - t-001
+  global_id: t-86215
   teiginys: 'Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais kovojo Jogaila.'
   pagrindžia:
     - c-001

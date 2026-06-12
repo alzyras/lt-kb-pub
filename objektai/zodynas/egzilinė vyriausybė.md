@@ -25,7 +25,9 @@ Iš pradžių penktame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties (e
 
 ## Teiginiai
 
+<a id="claim-t-183418"></a>
 - t-001
+  global_id: t-183418
   teiginys: 'Iš pradžių penktame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties (egzilinę) vyriausybę, tačiau, retėjant diplomatų gretoms, įgijo simbolinės raiškos formą, nes valstybės laikėsi nuostatos pripažinti tik tuos Lietuvos diplomatus, kurie diplomatinėje.'
   pagrindžia:
     - c-001

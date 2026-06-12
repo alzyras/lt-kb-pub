@@ -17,7 +17,9 @@ Dusburgietis teigia, kad nemaža žinių galėjo pateikti ir „krikščioniški
 
 ## Teiginiai
 
+<a id="claim-t-59119"></a>
 - t-001
+  global_id: t-59119
   teiginys: 'Dusburgietis teigia, kad nemaža žinių galėjo pateikti ir „krikščioniškieji plėšikautojai“ (latrunkuliai), veikę Ordino labui.'
   pagrindžia:
     - c-001

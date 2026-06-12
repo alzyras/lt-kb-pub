@@ -16,7 +16,9 @@ The history of Lithuania before 1795 / [translated by Irena Zujienė ...
 
 ## Teiginiai
 
+<a id="claim-t-26474"></a>
 - t-001
+  global_id: t-26474
   teiginys: 'Irena Zujienė buvo viena iš knygos „The history of Lithuania before 1795“ vertėjų.'
   pagrindžia:
     - c-001

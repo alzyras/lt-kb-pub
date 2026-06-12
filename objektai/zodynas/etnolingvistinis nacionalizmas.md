@@ -16,7 +16,9 @@ Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideologinės pakrai
 
 ## Teiginiai
 
+<a id="claim-t-22137"></a>
 - t-001
+  global_id: t-22137
   teiginys: 'Lietuvių ir lenkų politinės grupuotės laikėsi etnolingvistinio nacionalizmo pozicijų ir kitos pusės siekius laikė neteisėtais.'
   pagrindžia:
     - c-001

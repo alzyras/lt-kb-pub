@@ -26,7 +26,9 @@ Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Feder
 
 ## Teiginiai
 
+<a id="claim-t-21154"></a>
 - t-001
+  global_id: t-21154
   teiginys: 'Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   pagrindžia:
     - c-001

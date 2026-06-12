@@ -24,12 +24,16 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
 
 ## Teiginiai
 
+<a id="claim-t-60086"></a>
 - t-001
+  global_id: t-60086
   teiginys: 'Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris perdavė kroniką Vilniaus vaitui Augustinui Rotundui (mirusiam 1582 m.).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60087"></a>
 - t-002
+  global_id: t-60087
   teiginys: 'Dusburgietis teigia, kad sis tekstas rodo, jog tuo metu Rotundas Dusburgiečio rankraščio arba dar nebuvo turėjęs, arba jo plačiau nepanaudojo75.'
   pagrindžia:
     - c-002

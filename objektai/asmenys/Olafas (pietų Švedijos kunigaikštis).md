@@ -19,7 +19,9 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 
 ## Teiginiai
 
+<a id="claim-t-19181"></a>
 - t-001
+  global_id: t-19181
   teiginys: 'Pietų Švedijos kunigaikštis Olafas buvo pakrikštytas 1008 m.'
   pagrindžia:
     - c-001

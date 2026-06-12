@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40687"></a>
 - t-001
+  global_id: t-40687
   teiginys: 'Vokiškojo tipo alebarda datuojama XVI a., o kita alebarda - XVI a. antrąja puse-XVII a.'
   pagrindžia:
     - c-001

@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-40924"></a>
 - t-001
+  global_id: t-40924
   teiginys: 'Klevo kuopa 1945 m. buvo Kretingos apskrities partizanų kuopa.'
   pagrindžia:
     - c-001

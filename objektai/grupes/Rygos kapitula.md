@@ -19,12 +19,16 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
 
 ## Teiginiai
 
+<a id="claim-t-86747"></a>
 - t-001
+  global_id: t-86747
   teiginys: 'Rygos kapitula minima tarp 1323 m. Vilniuje sudarytos taikos sutarties tarpininkų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86748"></a>
 - t-002
+  global_id: t-86748
   teiginys: 'Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi Rygos kapitulai grąžinti paimtą turtą ir jos nebepuldinėti.'
   pagrindžia:
     - c-002

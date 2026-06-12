@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-31738"></a>
 - t-001
+  global_id: t-31738
   teiginys: '„Jaunutis, Gedimino sūnus“ nurodytas LE 9 tome, 355–356 puslapiuose.'
   pagrindžia:
     - c-001

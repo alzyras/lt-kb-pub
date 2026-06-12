@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje
 
 ## Santrauka
 
-Kojelavičius teigia, kad teisybė, nors Italijos gilumoje niekas galbūt nesimeldė kitaip, nei leidžia krikščionių apeigos, tačiau greta Alpių esan čiose žemėse, kurias pirmiausia niokojo, tarpekliais verždamosi į Italiją, barbarų gentys, atkakliai laikėsi visokiausių prietarų liekanos. Kojelavičius teigia, kad tadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie tuvoje daugelio dievų garbinimo: senąsias apeigas jis dargi papildė naujais prietarais.
+Kojelavičiaus pasakojime Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais. Kojelavičiaus pasakojime Palemonas Romanovą paskyrė vyriausiajam žyniui, turėjusiam saugoti tikėjimą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,20 +29,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185889"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad teisybė, nors Italijos gilumoje niekas galbūt nesimeldė kitaip, nei leidžia krikščionių apeigos, tačiau greta Alpių esan čiose žemėse, kurias pirmiausia niokojo, tarpekliais verždamosi į Italiją, barbarų gentys, atkakliai laikėsi visokiausių prietarų liekanos.'
+  global_id: t-185889
+  teiginys: 'Kojelavičiaus pasakojime Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185890"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad tadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie tuvoje daugelio dievų garbinimo: senąsias apeigas jis dargi papildė naujais prietarais.'
+  global_id: t-185890
+  teiginys: 'Kojelavičiaus pasakojime Palemonas Romanovą paskyrė vyriausiajam žyniui, turėjusiam saugoti tikėjimą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad teisybė, nors Italijos gilumoje niekas galbūt nesimeldė kitaip, nei leidžia krikščionių apeigos, tačiau greta Alpių esan čiose žemėse, kurias pirmiausia niokojo, tarpekliais verždamosi į Italiją, barbarų gentys, atkakliai laikėsi visokiausių prietarų liekanos.'
+  santrauka: 'Kojelavičiaus pasakojime Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Teisybė,
@@ -65,7 +68,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad tadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie tuvoje daugelio dievų garbinimo: senąsias apeigas jis dargi papildė naujais prietarais.'
+  santrauka: 'Kojelavičiaus pasakojime Palemonas Romanovą paskyrė vyriausiajam žyniui, turėjusiam saugoti tikėjimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie­
@@ -82,3 +85,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Gotai]]
+- [[objektai/grupes/Langobardai]]
+- [[objektai/asmenys/Palemonas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/barbarai]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]

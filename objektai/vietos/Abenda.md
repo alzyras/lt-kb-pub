@@ -24,17 +24,23 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
 
 ## Teiginiai
 
+<a id="claim-t-58424"></a>
 - t-001
+  global_id: t-58424
   teiginys: 'Abenda minima XIV a. vidurio Sembos vyskupo dokumentuose vakarinėje Semboje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58425"></a>
 - t-002
+  global_id: t-58425
   teiginys: 'Dusburgietis teigia, kad manoma, kad Abendos vardas galėjęs būti Betin, t.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58426"></a>
 - t-003
+  global_id: t-58426
   teiginys: 'Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509 įsibrovė į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent: Abendą ir Pabečius510; nužudę 150 krikščionių, jie.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ XVI amž. žinios (Herberstein, Guagnini, Lasicius), jog Žemaičiuose tebuvę v
 
 ## Teiginiai
 
+<a id="claim-t-30624"></a>
 - t-001
+  global_id: t-30624
   teiginys: 'Guagnini kartu su Herbersteinu ir Lasiciu pateikė netikslių XVI a. žinių, kad Žemaičiuose naudoti tik mediniai arklų noragai.'
   pagrindžia:
     - c-001

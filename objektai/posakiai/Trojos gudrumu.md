@@ -16,12 +16,16 @@ Planas buvo išduotas, ir «Trojos gudrumu» sostinėje įsistiprinti nepavyko.
 
 ## Teiginiai
 
+<a id="claim-t-28721"></a>
 - t-001
+  global_id: t-28721
   teiginys: '„Trojos gudrumu“ vadintas planas netikėtai užimti Vilnių buvo išduotas ir sostinėje įsitvirtinti nepavyko.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184362"></a>
 - t-002
+  global_id: t-184362
   teiginys: 'Planas buvo išduotas, ir «Trojos gudrumu» sostinėje įsistiprinti nepavyko.'
   pagrindžia:
     - c-002

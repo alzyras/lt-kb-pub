@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59694"></a>
 - t-001
+  global_id: t-59694
   teiginys: 'Dusburgietis teigia, kad žinių, kad kartą, jam koplyčioje prieš altorių beklūpint ir beprašant dievą parodyti kokiu ženklu, ar esąs pelnęs jo malonę, medinis nukryžiuotasis, prieš kurį jis meldėsi, ištiesė savo rankas ir jį palaimino kryžiaus ženklu, kurį išvydęs šis patenkintas.'
   pagrindžia:
     - c-001

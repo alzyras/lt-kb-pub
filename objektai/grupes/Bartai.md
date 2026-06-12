@@ -18,7 +18,6 @@ tags:
 amziai:
   - 'XIII'
 ---
-
 # Bartai
 
 ## Santrauka
@@ -27,7 +26,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 
 ## Teiginiai
 
+<a id="claim-t-88523"></a>
 - t-001
+  global_id: t-88523
   teiginys: 'Dusburgietis teigia, kad apie antrąjį Bartenšteino pilies sugriovimą Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams, labai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje, broliams iš jos pasitraukus, buvo.'
   pagrindžia:
     - c-001
@@ -36,70 +37,96 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-007
     - c-014
 
+<a id="claim-t-88524"></a>
 - t-002
+  global_id: t-88524
   teiginys: 'Bartų vadas Divanas, pravarde Klokinis, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88525"></a>
 - t-003
+  global_id: t-88525
   teiginys: '1274 m. bartai kartu su pagudėnais, varmiais, notangais ir sembais grįžo į Bažnyčios bendruomenę ir davė įkaitų.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-88526"></a>
 - t-004
+  global_id: t-88526
   teiginys: 'Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu jie bematant.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88527"></a>
 - t-005
+  global_id: t-88527
   teiginys: 'Dusburgietis teigia, kad 1251 m. dokumente — Barta major et minor Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-88528"></a>
 - t-006
+  global_id: t-88528
   teiginys: 'Dusburgietis teigia, kad dokumente — Barta major et minor Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai.'
   pagrindžia:
     - c-004
     - c-008
 
+<a id="claim-t-88529"></a>
 - t-007
+  global_id: t-88529
   teiginys: 'Bartų vadas Divanas sutelkė stiprią kariuomenę ir dar kartą apiplėšė Kristburgo bei Marienburgo apylinkes.'
   pagrindžia:
     - c-005
     - c-011
 
+<a id="claim-t-88530"></a>
 - t-008
+  global_id: t-88530
   teiginys: 'Per pilies puolimą brolis Arnoldas Krofas arbaleto strėle peršovė bartų vadui Divanui kaklą, o po Divano žūties kiti pasitraukė.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-88531"></a>
 - t-009
+  global_id: t-88531
   teiginys: 'Dusburgietis teigia, kad nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-88532"></a>
 - t-010
+  global_id: t-88532
   teiginys: 'Dusburgietis teigia, kad šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi juos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis, pasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių, bado nualintų.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-88533"></a>
 - t-011
+  global_id: t-88533
   teiginys: 'Bartai buvo viena iš vakarinių baltų, arba prūsų, genčių, žinomų Rytprūsiuose.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-88534"></a>
 - t-012
+  global_id: t-88534
   teiginys: '1251 m. dokumente Barta minima kaip didžioji ir mažoji Barta.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-88535"></a>
 - t-013
+  global_id: t-88535
   teiginys: 'Po prūsų atkritimo nuo krikščionių tikėjimo bartai savo kariuomenės vadu išsirinko Divaną.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-184473"></a>
 - t-014
-  teiginys: 'Kojelavičius teigia, kad tą pralaimėjimą jie pa tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos, kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje, vildamiesi, jog už naują išdavystę kryžiuočiai jiems atleis jų ankstesnį nusikaltimą.'
+  global_id: t-184473
+  teiginys: 'Bartai Numa ir Derska, pabėgę iš Prūsijos į Lietuvą, išdavė lietuvių būrius, tikėdamiesi kryžiuočių atleidimo.'
   pagrindžia:
     - c-016
 
@@ -376,7 +403,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-008
 
 - c-016
-  santrauka: 'Kojelavičius teigia, kad tą pralaimėjimą jie pa tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos, kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje, vildamiesi, jog už naują išdavystę kryžiuočiai jiems atleis jų ankstesnį nusikaltimą.'
+  santrauka: 'Bartai Numa ir Derska, pabėgę iš Prūsijos į Lietuvą, išdavė lietuvių būrius, tikėdamiesi kryžiuočių atleidimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu keletas kitų lietuvių būrių
@@ -394,3 +421,62 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   statusas: verified
   pagrindžia:
     - t-014
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/asmenys/Divanas]]
+- [[objektai/daiktai/Ginklai]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Henrikas Botelis]]
+- [[objektai/asmenys/Henrikas iš Svarcburgo]]
+- [[objektai/asmenys/Herkus Mantas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Linkas]]
+- [[objektai/asmenys/Maudelis]]
+- [[objektai/grupes/Nadruviai]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/grupes/Skalviai]]
+- [[objektai/grupes/Varmiai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/įkaitai]]
+- [[objektai/zodynas/žygūnai]]
+- [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]
+- [[objektai/asmenys/Auktumas]]
+- [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
+- [[objektai/ivykiai/Bartų sugrįžimas pas brolius ir lietuvių išžudymas]]
+- [[objektai/asmenys/Derska]]
+- [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
+- [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]
+- [[objektai/grupes/Elbingo miestiečiai]]
+- [[objektai/paprociai/Elbingo miestiečių nuolatinis ginklų laikymas prie savęs]]
+- [[objektai/ivykiai/Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.)]]
+- [[objektai/asmenys/Glanda]]
+- [[objektai/asmenys/Glapas]]
+- [[objektai/asmenys/Kaltis]]
+- [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]
+- [[objektai/ivykiai/Liefardo malūno paėmimas ir Elbingo miestiečių žūtis]]
+- [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]
+- [[objektai/asmenys/Numa]]
+- [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis]]
+- [[objektai/ivykiai/Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas]]
+- [[objektai/asmenys/Tirskas]]
+- [[objektai/ivykiai/Varmių, notangų ir bartų pasidavimas ir kelių pilių pastatymas (1241 m.)]]
+- [[objektai/ivykiai/Vizenburgo pilies kautynės ir apleidimas (1263 m.)]]
+- [[objektai/zodynas/bažnyčios visuotinybė]]
+- [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]
+- [[objektai/daiktai/Arbaletas]]
+- [[objektai/asmenys/Arnoldas Krofas]]
+- [[objektai/ivykiai/Antrasis Bartenšteino pilies sugriovimas|Antrasis Bartenšteino pilies sugriovimas (pilis)]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]

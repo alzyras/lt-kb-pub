@@ -24,12 +24,16 @@ Be lietuvių, mūšyje dalyvavo į pagalbą prieš mėnesį karaliaus atsiųsti 
 
 ## Teiginiai
 
+<a id="claim-t-38968"></a>
 - t-001
+  global_id: t-38968
   teiginys: 'Mūšyje lietuviams talkino Kuršo ir Žiemgalos kunigaikštystės daliniai - apie 300 Fridricho Ketlerio reitarų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183656"></a>
 - t-002
+  global_id: t-183656
   teiginys: 'Be lietuvių, mūšyje dalyvavo į pagalbą prieš mėnesį karaliaus atsiųsti Lenkijos pėstininkų daliniai (trys lenkų pėstininkų kuopos - apie 300 karių, viena jų mūšio metu saugojo lietuvių stovyklą), ir lietuviams talkininkavusių leninės Kuršo ir Žiemgalos.'
   pagrindžia:
     - c-002

@@ -35,17 +35,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67001"></a>
 - t-001
+  global_id: t-67001
   teiginys: 'Po mėnesio nesutarimų Zamoiskio partija paskelbė išrinktu Zigmantą Vazą, o jos priešininkai – Maksimilijoną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67002"></a>
 - t-002
+  global_id: t-67002
   teiginys: '1587 m. elekcijoje kandidatais buvo Maksimilijonas, Maskvos caras Teodoras ir Švedijos karalaitis Zigmantas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67003"></a>
 - t-003
+  global_id: t-67003
   teiginys: '1587 m. elekcijos seime Zamoiskis ir jo priešininkai suvažiavo su kariuomenėmis, o lietuviai reikalavo jas pašalinti.'
   pagrindžia:
     - c-001

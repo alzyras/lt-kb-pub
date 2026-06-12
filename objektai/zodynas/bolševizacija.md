@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-22083"></a>
 - t-001
+  global_id: t-22083
   teiginys: 'Kaltinimus „bolševizacija“ papildė kaltinimai polonizacija, kai vyriausybė leido lenkams steigti 70 lenkiškų mokyklų.'
   pagrindžia:
     - c-001

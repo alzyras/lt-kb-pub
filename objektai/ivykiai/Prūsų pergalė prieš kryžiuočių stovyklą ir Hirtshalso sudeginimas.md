@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad per Notangos kraštą įžengę į priešų žemę, jie, ketindami per kelti karo židinį į šalies gilumą, Prūsijos centre parin P rūsai išsiža d a k r i k ščio n ių tik ė jim o ir a tsim e ta n u o k r y žiu o čių riuos beįmanė pagauti, žiau riai nukankino; jie. Kojelavičius teigia, kad štai todėl jie nutarė kokia nors nedidele pergale atimti priešui iš pat pradžių progą džiaugsmui ir įbauginti atšiaurias širdis: puolimas būsiąs silpnes nis, jeigu, prieš kovą patyrę kokią nesėkmę, suvoks labiau turį bijoti, negu drąsą rodyti. Kojelavičius teigia, kad kai pasirodė iš užnugario grėsmingi barbarai, kurių vokiečiai laukė iš priekio, netikėtai kilo įtarimas ir baimė, jog paimta stovykla; tada, susidūrus kariuo menėms, prasidėjo žiaurus mūšis.
+Prūsai Notangos krašte įrengė pylimu ir gynybiniu grioviu sustiprintą stovyklą. Prūsai puolė negausiai saugomą kryžiuočių stovyklą, ją paėmė pirmuoju antpuoliu ir išžudė apsaugos karius. Prūsams pasirodžius iš užnugario, prasidėjo žiaurus mūšis, kuriame krikščionys galiausiai buvo sumušti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,25 +26,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185534"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad per Notangos kraštą įžengę į priešų žemę, jie, ketindami per kelti karo židinį į šalies gilumą, Prūsijos centre parin P rūsai išsiža d a k r i k ščio n ių tik ė jim o ir a tsim e ta n u o k r y žiu o čių riuos beįmanė pagauti, žiau riai nukankino; jie.'
+  global_id: t-185534
+  teiginys: 'Prūsai Notangos krašte įrengė pylimu ir gynybiniu grioviu sustiprintą stovyklą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185535"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad štai todėl jie nutarė kokia nors nedidele pergale atimti priešui iš pat pradžių progą džiaugsmui ir įbauginti atšiaurias širdis: puolimas būsiąs silpnes nis, jeigu, prieš kovą patyrę kokią nesėkmę, suvoks labiau turį bijoti, negu drąsą rodyti.'
+  global_id: t-185535
+  teiginys: 'Prūsai puolė negausiai saugomą kryžiuočių stovyklą, ją paėmė pirmuoju antpuoliu ir išžudė apsaugos karius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185536"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad kai pasirodė iš užnugario grėsmingi barbarai, kurių vokiečiai laukė iš priekio, netikėtai kilo įtarimas ir baimė, jog paimta stovykla; tada, susidūrus kariuo menėms, prasidėjo žiaurus mūšis.'
+  global_id: t-185536
+  teiginys: 'Prūsams pasirodžius iš užnugario, prasidėjo žiaurus mūšis, kuriame krikščionys galiausiai buvo sumušti.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad per Notangos kraštą įžengę į priešų žemę, jie, ketindami per kelti karo židinį į šalies gilumą, Prūsijos centre parin P rūsai išsiža d a k r i k ščio n ių tik ė jim o ir a tsim e ta n u o k r y žiu o čių riuos beįmanė pagauti, žiau riai nukankino; jie.'
+  santrauka: 'Prūsai Notangos krašte įrengė pylimu ir gynybiniu grioviu sustiprintą stovyklą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Per No-
@@ -85,7 +90,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad štai todėl jie nutarė kokia nors nedidele pergale atimti priešui iš pat pradžių progą džiaugsmui ir įbauginti atšiaurias širdis: puolimas būsiąs silpnes nis, jeigu, prieš kovą patyrę kokią nesėkmę, suvoks labiau turį bijoti, negu drąsą rodyti.'
+  santrauka: 'Prūsai puolė negausiai saugomą kryžiuočių stovyklą, ją paėmė pirmuoju antpuoliu ir išžudė apsaugos karius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai todėl jie nutarė kokia nors nedidele
@@ -110,7 +115,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad kai pasirodė iš užnugario grėsmingi barbarai, kurių vokiečiai laukė iš priekio, netikėtai kilo įtarimas ir baimė, jog paimta stovykla; tada, susidūrus kariuo menėms, prasidėjo žiaurus mūšis.'
+  santrauka: 'Prūsams pasirodžius iš užnugario, prasidėjo žiaurus mūšis, kuriame krikščionys galiausiai buvo sumušti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai pasirodė iš užnugario grėsmingi barbarai,
@@ -126,3 +131,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

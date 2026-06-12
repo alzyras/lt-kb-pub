@@ -26,17 +26,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-182851"></a>
 - t-001
+  global_id: t-182851
   teiginys: 'Vytautas Didysis Volkoviske pastatė bažnyčią.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183108"></a>
 - t-002
+  global_id: t-183108
   teiginys: 'Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183109"></a>
 - t-003
+  global_id: t-183109
   teiginys: 'Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.'
   pagrindžia:
     - c-003

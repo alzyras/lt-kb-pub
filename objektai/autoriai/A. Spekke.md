@@ -24,7 +24,9 @@ SpHL = Spekke, A.
 
 ## Teiginiai
 
+<a id="claim-t-30542"></a>
 - t-001
+  global_id: t-30542
   teiginys: 'A. Spekke 1951 m. Stokholme paskelbė veikalą „History of Latvia, an outline“.'
   pagrindžia:
     - c-001

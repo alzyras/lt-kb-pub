@@ -25,7 +25,9 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
 
 ## Teiginiai
 
+<a id="claim-t-58742"></a>
 - t-001
+  global_id: t-58742
   teiginys: 'Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos turtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos kunigaikštystėje kraštą, vardu Vancka, kur.'
   pagrindžia:
     - c-001

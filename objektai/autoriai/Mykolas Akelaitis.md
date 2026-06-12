@@ -16,7 +16,9 @@ Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.) ir Mykolas Akelaitis (1828�
 
 ## Teiginiai
 
+<a id="claim-t-01120"></a>
 - t-001
+  global_id: t-01120
   teiginys: 'Mykolas Akelaitis kartu su Antanu Tatare parašė eilių ir išleido kelias liaudžiai naudingas lietuviškas knygas.'
   pagrindžia:
     - c-001

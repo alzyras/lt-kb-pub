@@ -23,12 +23,16 @@ Vilniaus - (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, 
 
 ## Teiginiai
 
+<a id="claim-t-93072"></a>
 - t-001
+  global_id: t-93072
   teiginys: 'Kitokios institucijos minėtais dokumentais nebuvo įsteigtos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-93073"></a>
 - t-002
+  global_id: t-93073
   teiginys: 'Vytauto vasalystės dokumentas buvo išduotas 1386 m. gegužės 10 d.'
   pagrindžia:
     - c-001

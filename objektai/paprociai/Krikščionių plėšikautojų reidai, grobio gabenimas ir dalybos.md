@@ -39,17 +39,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59739"></a>
 - t-001
+  global_id: t-59739
   teiginys: 'Martynas su bendrais prie Bugo užpuolė prekių laivą, išžudė upeivius, nuplukdė grobį į Torunę ir pasidalijo pinigus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59740"></a>
 - t-002
+  global_id: t-59740
   teiginys: 'Dusburgietis teigia, kad martynas nukovė 10 vyrų pirtyje, pagrobė arklių, gyvulių bei kitko ir išsivarė į nelaisvę moteris bei vaikus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59741"></a>
 - t-003
+  global_id: t-59741
   teiginys: 'Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro], vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų.'
   pagrindžia:
     - c-002

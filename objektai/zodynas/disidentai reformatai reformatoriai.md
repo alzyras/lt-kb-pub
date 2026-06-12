@@ -27,17 +27,23 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 
 ## Teiginiai
 
+<a id="claim-t-86463"></a>
 - t-001
+  global_id: t-86463
   teiginys: 'Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto uolumo ir darbštumo žmogus, turėjo atremti priešininkus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86464"></a>
 - t-002
+  global_id: t-86464
   teiginys: 'Disidentai reformatai Lietuvoje negalėjo sutelkti tokių stiprių pajėgų kovai su jėzuitais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86465"></a>
 - t-003
+  global_id: t-86465
   teiginys: 'Andrius Volanas Vilniuje buvo laikomas uoliu reformatų idėjų skleidėju.'
   pagrindžia:
     - c-003

@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31405"></a>
 - t-001
+  global_id: t-31405
   teiginys: '1292 m. grįždami nuo Junigėdos kryžiuočiai teriojo pernai sudegintos Aukaimio pilies sritį.'
   pagrindžia:
     - c-001

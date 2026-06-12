@@ -27,12 +27,16 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 
 ## Teiginiai
 
+<a id="claim-t-87536"></a>
 - t-001
+  global_id: t-87536
   teiginys: 'Šv. Dvasios dominikonų bažnyčioje priešais karaliaus Aleksandro portretą buvo kunigo Korčiako paveikslas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87537"></a>
 - t-002
+  global_id: t-87537
   teiginys: 'Kunigas Korčiakas buvo Aleksandro kapelionas; po Korčiako mirties Aleksandras Šv. Dvasios kleboniją perdavė dominikonams.'
   pagrindžia:
     - c-002

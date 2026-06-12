@@ -28,12 +28,16 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
 
 ## Teiginiai
 
+<a id="claim-t-87590"></a>
 - t-001
+  global_id: t-87590
   teiginys: 'Vinrichas Kniprodė 1365 metais su didele kariauna įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87591"></a>
 - t-002
+  global_id: t-87591
   teiginys: 'Vinrichas Kniprodė 1375 metais dėl staigaus atodrėkio ir upių polaidžio turėjo skubiai trauktis atgal į Prūsiją.'
   pagrindžia:
     - c-001

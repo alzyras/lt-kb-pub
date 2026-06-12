@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-39864"></a>
 - t-001
+  global_id: t-39864
   teiginys: 'A. Daugirdas 2011 m. Vilniuje paskelbė darbą apie Vilniaus pedagoginio universiteto studentų-savanorių kuopą 1991-1996 m.'
   pagrindžia:
     - c-001

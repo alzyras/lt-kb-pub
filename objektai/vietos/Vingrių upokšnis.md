@@ -18,12 +18,16 @@ Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestu
 
 ## Teiginiai
 
+<a id="claim-t-86264"></a>
 - t-001
+  global_id: t-86264
   teiginys: 'Kelias iš Žemutinės pilies vakarinių vartų ėjo per tiltą per Vingrių upokšnį, kuris greta Vilnios įtekėjo į Viliją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86265"></a>
 - t-002
+  global_id: t-86265
   teiginys: 'Iš vakarų atitekėjęs Vingrių upokšnis įtekėjo į Viliją visai greta Vilnios žiočių.'
   pagrindžia:
     - c-001

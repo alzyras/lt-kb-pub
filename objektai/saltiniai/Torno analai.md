@@ -19,7 +19,9 @@ Remiantis Torno analų žinia, dar gali būti samprotaujama, kad Jogaila atsisak
 
 ## Teiginiai
 
+<a id="claim-t-31941"></a>
 - t-001
+  global_id: t-31941
   teiginys: 'Torno analų žinia leido samprotauti, kad Jogaila pas magistrą nevyko paveiktas Julijonos.'
   pagrindžia:
     - c-001

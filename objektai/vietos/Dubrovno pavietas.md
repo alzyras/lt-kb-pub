@@ -19,7 +19,9 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
 
 ## Teiginiai
 
+<a id="claim-t-86181"></a>
 - t-001
+  global_id: t-86181
   teiginys: 'Dubrovno pavietas atiteko Vilniaus katedrai ir kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.'
   pagrindžia:
     - c-001

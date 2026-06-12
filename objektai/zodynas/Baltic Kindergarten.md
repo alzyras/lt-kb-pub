@@ -19,7 +19,9 @@ Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo
 
 ## Teiginiai
 
+<a id="claim-t-21977"></a>
 - t-001
+  global_id: t-21977
   teiginys: 'Atkurtos Lietuvos URM jauni diplomatai dėl ambicijų, energijos ir netradicinių žingsnių gavo epitetą „Baltic Kindergarten“.'
   pagrindžia:
     - c-001

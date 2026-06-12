@@ -19,12 +19,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-88298"></a>
 - t-001
+  global_id: t-88298
   teiginys: 'Vilniaus auksakalių cecho prašymu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo Aleksandro privilegijai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88299"></a>
 - t-002
+  global_id: t-88299
   teiginys: 'Steponas Genseris kaltintas nepaklusęs Aleksandro suteiktai ir vėliau patvirtintai Vilniaus auksakalių cecho privilegijai.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
 
 ## Teiginiai
 
+<a id="claim-t-40423"></a>
 - t-001
+  global_id: t-40423
   teiginys: 'Murza Sivindukas, kunigaikščio Madyko sūnus, vadovavo mūšyje dalyvavusiems totoriams.'
   pagrindžia:
     - c-001

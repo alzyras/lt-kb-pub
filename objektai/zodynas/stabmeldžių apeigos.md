@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # stabmeldžių apeigos
 
 ## Santrauka
 
-Kojelavičius teigia, kad algirdas, nors viešai laikėsi stabmeldžių apeigų, ta čiau, neseniai savo žmonos Julijonos, Vitebsko kuni gaikščio dukters, noru sutikęs priimti krikščionybę, ne atmetė rusų apeigų ir rusams Vitebske pastatė porą šventovių. Kojelavičius teigia, kad čia įsikūrę vienuo liai, Goštauto globojami, uoliai užsiėmė šventąja pjū timi, ramiai stengdamiesi įveikti stabmeldžių prieta rus.
+Algirdas viešai laikėsi stabmeldžių apeigų, bet Julijonos noru sutiko priimti krikščionybę. Goštauto globojami vienuoliai stengėsi įveikti stabmeldžių prietarus.
 
 ## Teiginiai
 
+<a id="claim-t-185394"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad algirdas, nors viešai laikėsi stabmeldžių apeigų, ta čiau, neseniai savo žmonos Julijonos, Vitebsko kuni gaikščio dukters, noru sutikęs priimti krikščionybę, ne atmetė rusų apeigų ir rusams Vitebske pastatė porą šventovių.'
+  global_id: t-185394
+  teiginys: 'Algirdas viešai laikėsi stabmeldžių apeigų, bet Julijonos noru sutiko priimti krikščionybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185395"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad čia įsikūrę vienuo liai, Goštauto globojami, uoliai užsiėmė šventąja pjū timi, ramiai stengdamiesi įveikti stabmeldžių prieta rus.'
+  global_id: t-185395
+  teiginys: 'Goštauto globojami vienuoliai stengėsi įveikti stabmeldžių prietarus.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad algirdas, nors viešai laikėsi stabmeldžių apeigų, ta čiau, neseniai savo žmonos Julijonos, Vitebsko kuni gaikščio dukters, noru sutikęs priimti krikščionybę, ne atmetė rusų apeigų ir rusams Vitebske pastatė porą šventovių.'
+  santrauka: 'Algirdas viešai laikėsi stabmeldžių apeigų, bet Julijonos noru sutiko priimti krikščionybę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat rusai nuo senų senovės įpratę Velykų dieną do­
@@ -47,7 +50,7 @@ Kojelavičius teigia, kad algirdas, nors viešai laikėsi stabmeldžių apeigų,
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad čia įsikūrę vienuo liai, Goštauto globojami, uoliai užsiėmė šventąja pjū timi, ramiai stengdamiesi įveikti stabmeldžių prieta rus.'
+  santrauka: 'Goštauto globojami vienuoliai stengėsi įveikti stabmeldžių prietarus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kryžiaus baž­
@@ -68,3 +71,12 @@ Kojelavičius teigia, kad algirdas, nors viešai laikėsi stabmeldžių apeigų,
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/margutis]]
+- [[objektai/zodynas/stabmeldžiai]]
+- [[objektai/asmenys/Julijona]]

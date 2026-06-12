@@ -17,7 +17,9 @@ Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiaus
 
 ## Teiginiai
 
+<a id="claim-t-01280"></a>
 - t-001
+  global_id: t-01280
   teiginys: 'Voroneže sukurta Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba skleidė nepriklausomybės šūkį.'
   pagrindžia:
     - c-001

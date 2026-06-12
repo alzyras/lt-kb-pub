@@ -21,7 +21,6 @@ amziai:
   - 'XIII'
   - 'XV'
 ---
-
 # Didžioji Lenkija
 
 ## Santrauka
@@ -30,33 +29,45 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 
 ## Teiginiai
 
+<a id="claim-t-173358"></a>
 - t-001
+  global_id: t-173358
   teiginys: '1431 m. Didžiojoje Lenkijoje įsiplieskė karas su Kryžiuočių ordinu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-173359"></a>
 - t-002
+  global_id: t-173359
   teiginys: 'Sudarant Liublino uniją, Didžioji Lenkija ir Mažoji Lenkija turėjo atskirus atstovų suvažiavimus, vadintus generaliniais seimeliais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-173361"></a>
 - t-003
+  global_id: t-173361
   teiginys: '1431 m. Didžiojoje Lenkijoje kilo karas su Kryžiuočių ordinu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183009"></a>
 - t-004
+  global_id: t-183009
   teiginys: 'Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184939"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad valdovas, sugrįžęs iš Prūsijos, gavo ži nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy giuoti.'
+  global_id: t-184939
+  teiginys: 'Iš Prūsijos grįžęs valdovas sutelkė kariuomenę prie Gardino ir įsiveržė į Didžiosios Lenkijos žemes.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184940"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad pa sirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius į Didžiąją Lenkiją.'
+  global_id: t-184940
+  teiginys: 'Pasirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius išvyko į Didžiąją Lenkiją.'
   pagrindžia:
     - c-006
 
@@ -143,7 +154,7 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad valdovas, sugrįžęs iš Prūsijos, gavo ži nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy giuoti.'
+  santrauka: 'Iš Prūsijos grįžęs valdovas sutelkė kariuomenę prie Gardino ir įsiveržė į Didžiosios Lenkijos žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Valdovas, sugrįžęs iš Prūsijos, gavo ži­
@@ -174,7 +185,7 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad pa sirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius į Didžiąją Lenkiją.'
+  santrauka: 'Pasirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius išvyko į Didžiąją Lenkiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     397

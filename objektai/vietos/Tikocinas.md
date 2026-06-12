@@ -18,7 +18,6 @@ tags:
 amziai:
   - 'XIV'
 ---
-
 # Tikocinas
 
 ## Santrauka
@@ -27,28 +26,38 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
 
 ## Teiginiai
 
+<a id="claim-t-85857"></a>
 - t-001
+  global_id: t-85857
   teiginys: 'Apie 1345 m. Goštautui išvykus į Palenkės Tikociną, Vilniuje prastuomenė užėmė pranciškonų vienuolyną.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-85858"></a>
 - t-002
+  global_id: t-85858
   teiginys: 'Tikocine buvę ginklai ir karinė amunicija turėjo likti ten kaip valdovo nuosavoje pilyje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85859"></a>
 - t-003
+  global_id: t-85859
   teiginys: 'Šiai bažnyčiai visą bažnytinį auksą, sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą, kuris prie mūsų visada būna mišioms ir kas tik yra pas Zaleskį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pacifikalus, liktorius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85860"></a>
 - t-004
+  global_id: t-85860
   teiginys: 'Testamente nurodyta, kad Tikocine buvę apmušalai ir kiti užtiesalai turėjo atitekti karalaitėms seserims.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185158"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad kol jis pats gyveno Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs, tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen kėję, arba Poleksijoje), minia, kažin kieno sukursty ta, žiauriai su jais susidorojo.'
+  global_id: t-185158
+  teiginys: 'Goštautas kartą išvyko į Tikociną Palenkėje, arba Poleksijoje.'
   pagrindžia:
     - c-005
 
@@ -178,7 +187,7 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
     - t-001
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad kol jis pats gyveno Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs, tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen kėję, arba Poleksijoje), minia, kažin kieno sukursty ta, žiauriai su jais susidorojo.'
+  santrauka: 'Goštautas kartą išvyko į Tikociną Palenkėje, arba Poleksijoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat Goštautas buvo la-

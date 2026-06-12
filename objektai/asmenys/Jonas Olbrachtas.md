@@ -15,39 +15,46 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Jonas Olbrachtas
 
 ## Santrauka
 
-Kojelavičius teigia, kad štai todėl pasirūpino, kad popiežius Inocentas paskelbtų Fridrichą Krokuvos arkivyskupu ir įtrauktų į šventąją kardinolų tarybą, be to, visomis priemonėmis stengė si pelnyti lenkų palankumą Jonui Olbrachtui, kurį ke tino palikti savo įpėdiniu. Kojelavičius teigia, kad kunigaikštis Jonas Olbrachtas, uoliai vykdyda- 1489 m eta i mas, kas buvo tėvo nurodyta, K u n ig a ik štis J o n a s greitai sutelkė Rusioje ir LieO lb ia c h ta s sum u ša tuvoje kariuomenę ir, patrausk itu s kęs į priekį su ryžtingiausiais vyrais, prie. Kojelavičius teigia, kad jonas Olbrachtas stojo į lemtingą mūšį.
+Karalius Kazimieras siekė pelnyti lenkų palankumą Jonui Olbrachtui, kurį ketino palikti savo įpėdiniu. Jonas Olbrachtas 1489 m. sutelkė Rusioje ir Lietuvoje kariuomenę ir prie Savranės upės susikovė su priešu. Jonas Olbrachtas su maža kariuomene stojo į lemtingą mūšį su stipria vengrų kariuomene ir po pralaimėjimo vos paspruko.
 
 ## Teiginiai
 
+<a id="claim-t-185963"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad štai todėl pasirūpino, kad popiežius Inocentas paskelbtų Fridrichą Krokuvos arkivyskupu ir įtrauktų į šventąją kardinolų tarybą, be to, visomis priemonėmis stengė si pelnyti lenkų palankumą Jonui Olbrachtui, kurį ke tino palikti savo įpėdiniu.'
+  global_id: t-185963
+  teiginys: 'Karalius Kazimieras siekė pelnyti lenkų palankumą Jonui Olbrachtui, kurį ketino palikti savo įpėdiniu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185964"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kunigaikštis Jonas Olbrachtas, uoliai vykdyda- 1489 m eta i mas, kas buvo tėvo nurodyta, K u n ig a ik štis J o n a s greitai sutelkė Rusioje ir LieO lb ia c h ta s sum u ša tuvoje kariuomenę ir, patrausk itu s kęs į priekį su ryžtingiausiais vyrais, prie.'
+  global_id: t-185964
+  teiginys: 'Jonas Olbrachtas 1489 m. sutelkė Rusioje ir Lietuvoje kariuomenę ir prie Savranės upės susikovė su priešu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185965"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad jonas Olbrachtas stojo į lemtingą mūšį.'
+  global_id: t-185965
+  teiginys: 'Jonas Olbrachtas su maža kariuomene stojo į lemtingą mūšį su stipria vengrų kariuomene ir po pralaimėjimo vos paspruko.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185966"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad jonas Olbrachtas neprieštarauja taikai, nusiuntė į Maskvą Stanislovą Narbutą.'
+  global_id: t-185966
+  teiginys: 'Jonas Olbrachtas per Aleksandrą Skorutą ragino Ivaną sutikti su teisingomis taikos sąlygomis.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad štai todėl pasirūpino, kad popiežius Inocentas paskelbtų Fridrichą Krokuvos arkivyskupu ir įtrauktų į šventąją kardinolų tarybą, be to, visomis priemonėmis stengė si pelnyti lenkų palankumą Jonui Olbrachtui, kurį ke tino palikti savo įpėdiniu.'
+  santrauka: 'Karalius Kazimieras siekė pelnyti lenkų palankumą Jonui Olbrachtui, kurį ketino palikti savo įpėdiniu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius, jausdamas, jog
@@ -73,7 +80,7 @@ Kojelavičius teigia, kad štai todėl pasirūpino, kad popiežius Inocentas pas
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kunigaikštis Jonas Olbrachtas, uoliai vykdyda- 1489 m eta i mas, kas buvo tėvo nurodyta, K u n ig a ik štis J o n a s greitai sutelkė Rusioje ir LieO lb ia c h ta s sum u ša tuvoje kariuomenę ir, patrausk itu s kęs į priekį su ryžtingiausiais vyrais, prie.'
+  santrauka: 'Jonas Olbrachtas 1489 m. sutelkė Rusioje ir Lietuvoje kariuomenę ir prie Savranės upės susikovė su priešu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl, sužinojęs, jog skitai
@@ -103,7 +110,7 @@ Kojelavičius teigia, kad štai todėl pasirūpino, kad popiežius Inocentas pas
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad jonas Olbrachtas stojo į lemtingą mūšį.'
+  santrauka: 'Jonas Olbrachtas su maža kariuomene stojo į lemtingą mūšį su stipria vengrų kariuomene ir po pralaimėjimo vos paspruko.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jonas beturėjo vos keturis tūkstančius karių, kai susi­
@@ -118,7 +125,7 @@ Kojelavičius teigia, kad štai todėl pasirūpino, kad popiežius Inocentas pas
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad jonas Olbrachtas neprieštarauja taikai, nusiuntė į Maskvą Stanislovą Narbutą.'
+  santrauka: 'Jonas Olbrachtas per Aleksandrą Skorutą ragino Ivaną sutikti su teisingomis taikos sąlygomis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Poznanėje netrukus
@@ -136,3 +143,14 @@ Kojelavičius teigia, kad štai todėl pasirūpino, kad popiežius Inocentas pas
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.)]]
+- [[objektai/ivykiai/Jono Olbrachto pergalė prie Savranės ir skitų stovyklos sutriuškinimas prie Kopistrino (1489 m.)]]
+- [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]
+- [[objektai/grupes/Šventoji kardinolų taryba|Šventoji kardinolų taryba (institucija, XV a.)]]

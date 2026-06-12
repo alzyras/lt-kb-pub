@@ -28,12 +28,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-13513"></a>
 - t-001
+  global_id: t-13513
   teiginys: '70; Tautos, kalbos, raštijos 72; Vilniaus universitetas 78; Ryčiausia ir šiauriausia Europoje baroko architektūra 82; Gaonas ir „Šiaurės Jeruzalė“ 83 ANKSČIAUSIA KONSTITUCIJA EUROPOJE IR JOS PANAIKINIMAS 85 Apšvieta ateina į LDK 85; Gegužės trečiosios.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-13514"></a>
 - t-002
+  global_id: t-13514
   teiginys: '1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio įžadu.'
   pagrindžia:
     - c-002

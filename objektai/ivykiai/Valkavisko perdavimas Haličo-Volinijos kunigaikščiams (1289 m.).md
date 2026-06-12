@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31480"></a>
 - t-001
+  global_id: t-31480
   teiginys: '1289 m. Budikidas ir jo brolis Budivydas taikai palaikyti perdavė Valkaviską.'
   pagrindžia:
     - c-001

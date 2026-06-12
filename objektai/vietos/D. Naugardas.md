@@ -19,12 +19,16 @@ Naugardo miestiečių valstybė. Naugardu, 1262 m. nužygiavo į Livonijos ordin
 
 ## Teiginiai
 
+<a id="claim-t-67768"></a>
 - t-001
+  global_id: t-67768
   teiginys: 'Naugardu, 1262 m. nužygiavo į Livonijos ordino žemę net iki Cėsio (Vendeno).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67769"></a>
 - t-002
+  global_id: t-67769
   teiginys: 'Naugardo miestiečių valstybė.'
   pagrindžia:
     - c-001

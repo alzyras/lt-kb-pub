@@ -19,7 +19,9 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 
 ## Teiginiai
 
+<a id="claim-t-86635"></a>
 - t-001
+  global_id: t-86635
   teiginys: 'Mažesniųjų brolių Prūsijos kustodas ir Torunės, Kulmo, Braunsbergo bei Neuenbergo gvardijonai stojo ginti kryžiuočių dėl Gedimino skundo popiežiui.'
   pagrindžia:
     - c-001

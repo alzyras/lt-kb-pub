@@ -29,7 +29,9 @@ Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomi
 
 ## Teiginiai
 
+<a id="claim-t-28594"></a>
 - t-001
+  global_id: t-28594
   teiginys: 'Socialiniu atžvilgiu ši epocha pasižymėjo išryškėjusia luomine diferenciacija.'
   pagrindžia:
     - c-001

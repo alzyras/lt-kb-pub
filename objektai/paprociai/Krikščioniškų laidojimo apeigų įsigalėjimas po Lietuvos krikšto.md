@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77936"></a>
 - t-001
+  global_id: t-77936
   teiginys: 'Ryškiausios permainos po krikšto buvo išorinės.'
   pagrindžia:
     - c-001

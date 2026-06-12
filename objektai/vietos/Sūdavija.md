@@ -17,7 +17,9 @@ Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad 
 
 ## Teiginiai
 
+<a id="claim-t-36595"></a>
 - t-001
+  global_id: t-36595
   teiginys: 'Sūdavija su Jotvingija buvo laikomos lietuvių kraštais, dėl kurių negalėjo kilti ginčas.'
   pagrindžia:
     - c-001

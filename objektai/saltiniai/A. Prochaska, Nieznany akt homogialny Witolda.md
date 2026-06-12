@@ -16,7 +16,9 @@ Prochaska, Nieznany akt homogialny Witolda, Kwartalnik histor.
 
 ## Teiginiai
 
+<a id="claim-t-36032"></a>
 - t-001
+  global_id: t-36032
   teiginys: 'A. Prochaskos darbas „Nieznany akt homogialny Witolda“ nurodytas „Kwartalnik historyczny“ IX tome, 234 puslapyje.'
   pagrindžia:
     - c-001

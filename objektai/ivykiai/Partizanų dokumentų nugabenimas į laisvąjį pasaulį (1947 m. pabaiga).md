@@ -41,17 +41,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75255"></a>
 - t-001
+  global_id: t-75255
   teiginys: '1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per geležinę uždangą į laisvąjį pasaulį nugabeno partizanų dokumentus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75256"></a>
 - t-002
+  global_id: t-75256
   teiginys: 'Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių partizanų ir MGB kadrinių karininkų) būrius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75257"></a>
 - t-003
+  global_id: t-75257
   teiginys: 'Po partizanų dokumentų nugabenimo į Vakarus pirmą kartą užmegzti ryšiai tarp partizanų ir pasitraukusių lietuvių organizacijų.'
   pagrindžia:
     - c-002

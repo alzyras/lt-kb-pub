@@ -21,12 +21,16 @@ Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo met
 
 ## Teiginiai
 
+<a id="claim-t-29204"></a>
 - t-001
+  global_id: t-29204
   teiginys: 'Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo metų (1861) emigracijoje nepaleido plunksnos iš rankos, yra nemaža palietęs ir Didžiosios Lietuvos Kunigaikštystės istoriją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184351"></a>
 - t-002
+  global_id: t-184351
   teiginys: 'Jokimas Lelevelis parašė Aug.'
   pagrindžia:
     - c-002

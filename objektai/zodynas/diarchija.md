@@ -24,22 +24,30 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
 
 ## Teiginiai
 
+<a id="claim-t-131654"></a>
 - t-001
+  global_id: t-131654
   teiginys: 'Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas dualizmu arba diarchija.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-131655"></a>
 - t-002
+  global_id: t-131655
   teiginys: 'Diarchija apibūdinama kaip dviejų asmenų valdymo sistema, susidariusi Algirdo ir Kęstučio laikais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-131656"></a>
 - t-003
+  global_id: t-131656
   teiginys: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-131657"></a>
 - t-004
+  global_id: t-131657
   teiginys: 'Lietuvos žemių dviejų kunigaikščių valdymas istorikų vadintas dualizmu arba diarchija ir nežuvo po Algirdo mirties 1377 m.'
   pagrindžia:
     - c-002

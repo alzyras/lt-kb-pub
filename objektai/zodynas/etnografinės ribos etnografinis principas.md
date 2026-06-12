@@ -25,32 +25,44 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 
 ## Teiginiai
 
+<a id="claim-t-101580"></a>
 - t-001
+  global_id: t-101580
   teiginys: 'Delegacija derybose dėl sienų turėjo remtis etnografiniu principu ir daryti būtiniausias ekonomines korektyvas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-101581"></a>
 - t-002
+  global_id: t-101581
   teiginys: 'Konferencijos rezoliucijoje būsima Lietuvos valstybė apibrėžta kaip demokratiška nepriklausoma valstybė etnografinėmis ribomis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101582"></a>
 - t-003
+  global_id: t-101582
   teiginys: '1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-101583"></a>
 - t-004
+  global_id: t-101583
   teiginys: 'Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, Suvalkų ir Gardino gubernijose, dalis Kuršo.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-183421"></a>
 - t-005
+  global_id: t-183421
   teiginys: 'Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstybės modelio kontūrus – „nepriklausoma demokratiškai sutvarkyta valstybė etnografinėmis ribomis su būtinai reikalingomis ekonominiam gyvenimui korektyvomis“, kurios galutinę struktūrą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-183422"></a>
 - t-006
+  global_id: t-183422
   teiginys: 'Delegacija buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu darant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipėdą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad Lietuva būtų priimta į Tautų.'
   pagrindžia:
     - c-006

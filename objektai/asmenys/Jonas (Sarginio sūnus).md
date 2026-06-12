@@ -19,7 +19,9 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
 
 ## Teiginiai
 
+<a id="claim-t-60343"></a>
 - t-001
+  global_id: t-60343
   teiginys: 'Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis.'
   pagrindžia:
     - c-001

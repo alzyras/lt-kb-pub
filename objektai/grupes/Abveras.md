@@ -16,7 +16,9 @@ Kadangi karinė LAF dalis bendradarbiavo su Abveru, nurodyta pirmiausia užimti 
 
 ## Teiginiai
 
+<a id="claim-t-19624"></a>
 - t-001
+  global_id: t-19624
   teiginys: 'Karinė LAF dalis bendradarbiavo su Abveru ir turėjo pirmiausia užimti tiltus, geležinkelio mazgus, oro uostus bei fabrikus.'
   pagrindžia:
     - c-001

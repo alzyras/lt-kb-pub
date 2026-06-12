@@ -17,7 +17,9 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
 
 ## Teiginiai
 
+<a id="claim-t-21986"></a>
 - t-001
+  global_id: t-21986
   teiginys: 'Po 1992 m. ir 1996 m. rinkimų buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „landsbergininkus“.'
   pagrindžia:
     - c-001

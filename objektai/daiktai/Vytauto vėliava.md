@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-97105"></a>
 - t-001
+  global_id: t-97105
   teiginys: 'Po Vytauto vėliava kovėsi apie 50 kunigaikščių, iš kurių daugiau kaip dvidešimt žuvo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97106"></a>
 - t-002
+  global_id: t-97106
   teiginys: '000 kritusių, nes iš viso Vytauto pusėje kovojančių krikščionių tebuvo bent dešimtį kartų mažiau.'
   pagrindžia:
     - c-002

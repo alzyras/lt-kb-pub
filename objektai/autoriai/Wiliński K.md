@@ -24,7 +24,9 @@ Dusburgietis teigia, kad wiliński K.
 
 ## Teiginiai
 
+<a id="claim-t-60818"></a>
 - t-001
+  global_id: t-60818
   teiginys: 'K. Wilińskis 1984 m. Lodzėje paskelbė darbą apie X–XIII a. lenkų ir prūsų kovas.'
   pagrindžia:
     - c-001

@@ -23,7 +23,9 @@ Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip b
 
 ## Teiginiai
 
+<a id="claim-t-86098"></a>
 - t-001
+  global_id: t-86098
   teiginys: 'Dusburgas Pagraudenę pirmą kartą mini prie 1304 m., aprašydamas Eberhardo de Virnemburgo žygį į Lietuvos valsčių.'
   pagrindžia:
     - c-001

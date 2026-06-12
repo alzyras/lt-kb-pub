@@ -39,17 +39,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67210"></a>
 - t-001
+  global_id: t-67210
   teiginys: 'Konstitucija numatė, kad tautos atstovai į seimą renkami kas treji metai visuotiniu, lygiu, tiesioginiu ir slaptu balsavimu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67211"></a>
 - t-002
+  global_id: t-67211
   teiginys: '1919 m. lapkričio 20 d. paskelbtas Steigiamojo seimo rinkimų įstatymas numatė rinkti po vieną atstovą nuo 15 000 gyventojų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67212"></a>
 - t-003
+  global_id: t-67212
   teiginys: 'Steigiamojo seimo rinkimų tvarka: rinkimai į steigiamąjį seimą buvo paskelbti jau 1920 metų pradžioje, o renkamosios dienos nustatytos balandžio mėn. 14—15 (vėliau pratęsus — ir 16).'
   pagrindžia:
     - c-003

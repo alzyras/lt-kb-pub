@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75096"></a>
 - t-001
+  global_id: t-75096
   teiginys: 'Lietuvos disidentų siekis buvo tautos savasties išsaugojimas, priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75097"></a>
 - t-002
+  global_id: t-75097
   teiginys: '1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais ir padėjo leisti žurnalą „Sintaksis“.'
   pagrindžia:
     - c-001

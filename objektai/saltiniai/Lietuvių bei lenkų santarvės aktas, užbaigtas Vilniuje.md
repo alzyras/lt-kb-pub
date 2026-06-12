@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lietuvių bei lenkų santarvės aktas, užbaigtas Vilniuje
 
 ## Santrauka
 
-Kojelavičius teigia, kad štai todėl ir buvo pasiųsti į Piotrkovą Vil niaus vyskupas Vaitiekus Taboras, maršalas Jonas Zaberezinskis bei Lietuvos pataurininkis Mikalojus savo trijų brolių: ar Vladis- 5 69 Radvila, kurie atvyko į seimą čia balsuoti Lietuvos luo mų vardu, kaip numatyta.
+Aleksandras pasirūpino Vilniuje užbaigti lietuvių bei lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.
 
 ## Teiginiai
 
+<a id="claim-t-186336"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad štai todėl ir buvo pasiųsti į Piotrkovą Vil niaus vyskupas Vaitiekus Taboras, maršalas Jonas Zaberezinskis bei Lietuvos pataurininkis Mikalojus savo trijų brolių: ar Vladis- 5 69 Radvila, kurie atvyko į seimą čia balsuoti Lietuvos luo mų vardu, kaip numatyta.'
+  global_id: t-186336
+  teiginys: 'Aleksandras pasirūpino Vilniuje užbaigti lietuvių bei lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad štai todėl ir buvo pasiųsti į Piotrkovą Vil niaus vyskupas Vaitiekus Taboras, maršalas Jonas Zaberezinskis bei Lietuvos pataurininkis Mikalojus savo trijų brolių: ar Vladis- 5 69 Radvila, kurie atvyko į seimą čia balsuoti Lietuvos luo mų vardu, kaip numatyta.'
+  santrauka: 'Aleksandras pasirūpino Vilniuje užbaigti lietuvių bei lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai todėl ir buvo pasiųsti į Piotrkovą Vil­

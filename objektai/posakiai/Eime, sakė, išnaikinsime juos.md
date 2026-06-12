@@ -18,7 +18,9 @@ Dusburgietis teigia, kad „Eime, sakė, išnaikinsime juos, kad šios tautos ne
 
 ## Teiginiai
 
+<a id="claim-t-59091"></a>
 - t-001
+  global_id: t-59091
   teiginys: 'Dusburgietis teigia, kad „Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo niekas nebeminėtų“.'
   pagrindžia:
     - c-001

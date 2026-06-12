@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62762"></a>
 - t-001
+  global_id: t-62762
   teiginys: 'Dusburgietis teigia, kad šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį ir nukovė daugiau nei du tūkstančius priešo karių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-62763"></a>
 - t-002
+  global_id: t-62763
   teiginys: 'Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai užpuolė.'
   pagrindžia:
     - c-001

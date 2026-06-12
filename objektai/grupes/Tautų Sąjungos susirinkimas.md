@@ -19,17 +19,23 @@ Pirmasis visuotinis Tautų S-gos susirinkimas (1920. S-gos susirinkimas, be to, 
 
 ## Teiginiai
 
+<a id="claim-t-66187"></a>
 - t-001
+  global_id: t-66187
   teiginys: 'Pirmasis visuotinis Tautų Sąjungos susirinkimas 1920 m. svarstė Lietuvos, Latvijos ir Estijos prašymą, bet jo dar nepatenkino.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66188"></a>
 - t-002
-  teiginys: 'Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.) visų trijų Pabaltijo valstybių priėmimo klausimas buvo teigiamai išspręstas, tačiau ne be sunkenybių Lietuvai.'
+  global_id: t-66188
+  teiginys: '1921 m. visuotiniame Tautų Sąjungos susirinkime visų trijų Pabaltijo valstybių priėmimo klausimas buvo išspręstas teigiamai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66189"></a>
 - t-003
+  global_id: t-66189
   teiginys: 'Visuotinis Tautų Sąjungos susirinkimas nusprendė būsimą Pabaltijo valstybių priėmimą sieti su pasižadėjimais saugoti mažumų teises.'
   pagrindžia:
     - c-002

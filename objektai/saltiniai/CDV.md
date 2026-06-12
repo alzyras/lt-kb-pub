@@ -26,7 +26,9 @@ Lotynišką krikštą pa­ darant lietuviams privalomu ir draudžiant mišrias m
 
 ## Teiginiai
 
+<a id="claim-t-31641"></a>
 - t-001
+  global_id: t-31641
   teiginys: 'CDV I tomo medžiaga nurodyta 13-15 puslapiuose.'
   pagrindžia:
     - c-001

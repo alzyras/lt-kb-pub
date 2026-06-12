@@ -26,12 +26,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-32616"></a>
 - t-001
+  global_id: t-32616
   teiginys: '1285 m. pavasarį Tverės sritį plėšė tie patys užpuolikai, kurie 1284 m. vėl žygiavo į Lenkiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184405"></a>
 - t-002
+  global_id: t-184405
   teiginys: '1284 jie vėl žygiavo Lenkijon; 1285 pavasarį plėšė Tverės sritį.'
   pagrindžia:
     - c-002

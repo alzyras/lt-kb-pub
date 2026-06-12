@@ -37,22 +37,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-46891"></a>
 - t-001
+  global_id: t-46891
   teiginys: 'Lietaukos upelis, dešinysis Neries intakas, tekėjo Lietuvos žemės link, nebūtinai pačioje Lietuvoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-46892"></a>
 - t-002
+  global_id: t-46892
   teiginys: 'Iki šiol labiausiai paplitusi versija buvo Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį netoli Kernavės, vardo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-46893"></a>
 - t-003
+  global_id: t-46893
   teiginys: 'Labiausiai paplitusi versija Lietuvos vardą kildino iš nedidelio Lietaukos upelio, įtekančio į Nerį netoli Kernavės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-46894"></a>
 - t-004
+  global_id: t-46894
   teiginys: 'Paplitusi versija Lietuvos vardą kildino iš nedidelio Lietaukos upelio, įtekančio į Nerį netoli Kernavės.'
   pagrindžia:
     - c-001

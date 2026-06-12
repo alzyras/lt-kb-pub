@@ -24,7 +24,9 @@ Dusburgietis teigia, kad grunau S.
 
 ## Teiginiai
 
+<a id="claim-t-61076"></a>
 - t-001
+  global_id: t-61076
   teiginys: 'S. Grunau „Preussische Chronik“ pirmasis tomas, parengtas M. Perlbacho, išleistas Leipcige 1875 m.'
   pagrindžia:
     - c-001

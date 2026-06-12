@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vytauto sukilimas prieš Kazimierą Skirgailą ir nepavykęs Vilniaus užėmimas (sukilimas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad žy giuoti paskatino Kazimiero išvykimas: jis buvo išjojęs į Polocką, kuris esąs nuo Vilniaus už 50 mylių.
+Vytautą žygiuoti į Vilnių paskatino Kazimiero išvykimas į Polocką, kuris laikytas esančiu už 50 mylių nuo Vilniaus.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185788"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad žy giuoti paskatino Kazimiero išvykimas: jis buvo išjojęs į Polocką, kuris esąs nuo Vilniaus už 50 mylių.'
+  global_id: t-185788
+  teiginys: 'Vytautą žygiuoti į Vilnių paskatino Kazimiero išvykimas į Polocką, kuris laikytas esančiu už 50 mylių nuo Vilniaus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad žy giuoti paskatino Kazimiero išvykimas: jis buvo išjojęs į Polocką, kuris esąs nuo Vilniaus už 50 mylių.'
+  santrauka: 'Vytautą žygiuoti į Vilnių paskatino Kazimiero išvykimas į Polocką, kuris laikytas esančiu už 50 mylių nuo Vilniaus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Maištas prasidėjo verži-
@@ -57,3 +58,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/įgula]]

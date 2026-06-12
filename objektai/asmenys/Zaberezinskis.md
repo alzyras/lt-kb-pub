@@ -16,7 +16,9 @@ Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos
 
 ## Teiginiai
 
+<a id="claim-t-40543"></a>
 - t-001
+  global_id: t-40543
   teiginys: 'Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos atmušė.'
   pagrindžia:
     - c-001

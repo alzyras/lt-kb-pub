@@ -25,7 +25,9 @@ Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus s
 
 ## Teiginiai
 
+<a id="claim-t-100013"></a>
 - t-001
+  global_id: t-100013
   teiginys: 'Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus sūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.'
   pagrindžia:
     - c-001

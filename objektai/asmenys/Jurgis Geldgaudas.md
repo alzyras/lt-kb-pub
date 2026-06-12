@@ -27,7 +27,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-35174"></a>
 - t-001
+  global_id: t-35174
   teiginys: 'Jurgis Geldgaudas 1415 m. pabaigoje vadovavo į Konstanciją atvykusiai žemaičių delegacijai.'
   pagrindžia:
     - c-001

@@ -28,27 +28,37 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
 
 ## Teiginiai
 
+<a id="claim-t-89516"></a>
 - t-001
+  global_id: t-89516
   teiginys: 'Dusburgietis teigia, kad iš šio vertimo Dusburgiečio kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89517"></a>
 - t-002
+  global_id: t-89517
   teiginys: 'Dusburgietis teigia, kad problemą bandyta spręsti dar XV a.: Prūsijos vardas buvo siejamas su Bitinijos karaliumi (II a. pr. m. e.) Prūsijumi (Długossii J. Annales..., kn. II, p. 216); kitur Prūsijos pradžia siejama su Pruteniu ir Videvučiu (SRP, 4, p. 293—298; Jurginis J..'
   pagrindžia:
     - c-005
 
+<a id="claim-t-89518"></a>
 - t-003
+  global_id: t-89518
   teiginys: 'Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89519"></a>
 - t-004
+  global_id: t-89519
   teiginys: 'J. Dlugošas Mazovijos nusiaubimą ir Plocko sudeginimą siejo su 1222 m., nors tie įvykiai galėtų būti 1224 ar 1225 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89520"></a>
 - t-005
+  global_id: t-89520
   teiginys: 'Dusburgietis teigia, kad 491 Greičiausiai kalbama apie lietuvių kariuomenės įsiveržimą 1282 m. rudenį į Sandomežo žemę ir mūšį Ruvne (Równe), Sandomežo žemės šiaurės rytuose, į pietus nuo Drohičino (Długosz J., Roczniki..., kn. 7 (1974), p. 282—285; Krakowski S., Obrona..., p..'
   pagrindžia:
     - c-002

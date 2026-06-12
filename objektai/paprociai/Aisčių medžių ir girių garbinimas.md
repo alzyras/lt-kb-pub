@@ -30,12 +30,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-07763"></a>
 - t-001
+  global_id: t-07763
   teiginys: 'Senieji kalnėnai ir žemaičiai girias taupė ir laikė šventomis, todėl be girių kunigo žinios į jas nebuvo galima nei įžengti, nei žalio virbelio išlaužti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-07764"></a>
 - t-002
+  global_id: t-07764
   teiginys: 'Ąžuolus ir ąžuolynus kalnėnai bei žemaičiai garbino ypač stipriai, juos kirsti galėjo tik kunigai, o ąžuolynai ir lieknai veikė kaip šventos garbinimo vietos.'
   pagrindžia:
     - c-002

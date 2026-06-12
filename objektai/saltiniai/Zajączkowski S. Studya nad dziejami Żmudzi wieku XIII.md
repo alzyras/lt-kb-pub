@@ -28,42 +28,58 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 
 ## Teiginiai
 
+<a id="claim-t-60862"></a>
 - t-001
+  global_id: t-60862
   teiginys: 'Dusburgietis teigia, kad čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p. 35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185).'
   pagrindžia:
     - c-005
 
+<a id="claim-t-60863"></a>
 - t-002
+  global_id: t-60863
   teiginys: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-60864"></a>
 - t-003
+  global_id: t-60864
   teiginys: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima lyginant Ordino pilies vietą prie Maštaičių piliakalnio.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-60865"></a>
 - t-004
+  global_id: t-60865
   teiginys: 'Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; Łowmiański H., Studja..., 2, p. 97; Lietuvių karas..., p. 190), tačiau ten, Nemuno deš.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-60866"></a>
 - t-005
+  global_id: t-60866
   teiginys: 'Dusburgietis teigia, kad nemuno kranto kyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio (Zajączkowski S., Studya..., p. 39—40; SZM, p. 230; LAA, 2, p. 151, Nr. 664).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60867"></a>
 - t-006
+  global_id: t-60867
   teiginys: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ siejama su Kalsheimo lauko lokalizavimu į vakarus nuo Veliuonos.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-60868"></a>
 - t-007
+  global_id: t-60868
   teiginys: 'Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60869"></a>
 - t-008
+  global_id: t-60869
   teiginys: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima aiškinant, kad Junigedos valsčiaus centras buvo Veliuona.'
   pagrindžia:
     - c-002

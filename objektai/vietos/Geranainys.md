@@ -16,13 +16,17 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 
 ## Teiginiai
 
+<a id="claim-t-02452"></a>
 - t-001
+  global_id: t-02452
   teiginys: 'Geranainyse buvo įkurta pijarų mokykla.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183018"></a>
 - t-002
-  teiginys: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
+  global_id: t-183018
+  teiginys: 'Geranainyse veikė viena iš pijarų įkurtų mokyklų.'
   pagrindžia:
     - c-001
 

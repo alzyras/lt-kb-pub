@@ -28,42 +28,58 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
 
 ## Teiginiai
 
+<a id="claim-t-170918"></a>
 - t-001
+  global_id: t-170918
   teiginys: 'Lietuvai reikėjo rūpintis atgautos sostinės Vilniaus ir Vilniaus krašto integracijos reikalais, tai reikalavo nemažai lėšų – karo metu kraštas nualintas, modernios pramonės įmonės išvežtos į SSRS.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-170919"></a>
 - t-002
+  global_id: t-170919
   teiginys: 'Lenkija suprato šią taktiką ir, siekdama padaryti Lietuvą sukalbamesnę, ėmėsi ekonominių ir kultūrinių sankcijų prieš Vilniaus krašto lietuvių organizacijas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-170920"></a>
 - t-003
+  global_id: t-170920
   teiginys: 'Apie 350 000 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-170922"></a>
 - t-004
+  global_id: t-170922
   teiginys: 'Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo 2 028 971 (be Vilniaus ir Klaipėdos kraštų).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-170923"></a>
 - t-005
+  global_id: t-170923
   teiginys: 'Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).'
   pagrindžia:
     - c-004
 
+<a id="claim-t-170924"></a>
 - t-006
+  global_id: t-170924
   teiginys: 'Būtent ši samprata iškilo 1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-170925"></a>
 - t-007
+  global_id: t-170925
   teiginys: 'Tačiau ji negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto, nors sustiprino regiono šalių bendradarbiavimą.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-183106"></a>
 - t-008
+  global_id: t-183106
   teiginys: 'Todėl, užmezgus oficialinius santykius su Vatikanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lietuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuotasis Vilniaus kraštas.'
   pagrindžia:
     - c-008

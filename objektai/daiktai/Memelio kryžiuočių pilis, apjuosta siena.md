@@ -46,7 +46,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87031"></a>
 - t-001
+  global_id: t-87031
   teiginys: 'Per žemaičių antpuolį Memelyje kryžiuočių pilis išliko sveika, nors miestas buvo sudegintas.'
   pagrindžia:
     - c-001

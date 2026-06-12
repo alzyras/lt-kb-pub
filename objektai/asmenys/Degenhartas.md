@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Degenhartas
 
 ## Santrauka
 
-Kojelavičius teigia, kad vestfalijos vėliavininkas Degenhartas, atleidęs kaltes savo priešininkams, nužudžiusiems jo tėvą.
+Vestfalijos vėliavininkas Degenhartas atleido savo priešininkams, nužudžiusiems jo tėvą.
 
 ## Teiginiai
 
+<a id="claim-t-186194"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vestfalijos vėliavininkas Degenhartas, atleidęs kaltes savo priešininkams, nužudžiusiems jo tėvą.'
+  global_id: t-186194
+  teiginys: 'Vestfalijos vėliavininkas Degenhartas atleido savo priešininkams, nužudžiusiems jo tėvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vestfalijos vėliavininkas Degenhartas, atleidęs kaltes savo priešininkams, nužudžiusiems jo tėvą.'
+  santrauka: 'Vestfalijos vėliavininkas Degenhartas atleido savo priešininkams, nužudžiusiems jo tėvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pagaliau pats Konradas, puotos kėlėjas, dėl to, kad iš
@@ -37,3 +38,9 @@ Kojelavičius teigia, kad vestfalijos vėliavininkas Degenhartas, atleidęs kalt
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/vėliavininkas]]

@@ -25,7 +25,9 @@ Hruševskis. Hruševskyj : HrlU, IV, 1905, 181 p. KULTŪRINIS LYGIS PAGONIŠKOJE
 
 ## Teiginiai
 
+<a id="claim-t-30833"></a>
 - t-001
+  global_id: t-30833
   teiginys: 'M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo Kijevo žemės istoriją iki mongolų laikų.'
   pagrindžia:
     - c-001

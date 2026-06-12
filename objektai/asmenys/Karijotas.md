@@ -20,12 +20,16 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
 
 ## Teiginiai
 
+<a id="claim-t-179639"></a>
 - t-001
+  global_id: t-179639
   teiginys: 'Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje įsikūrę dėdės Karijoto Gediminaičio sūnūs, ypač Borisas ir Konstantinas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183748"></a>
 - t-002
+  global_id: t-183748
   teiginys: 'Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo Algirdo brolio Karijoto, valdančio Lietuvos Naugarduką, sūnūs - trys broliai Karijotaičiai, leidus Algirdui, su Lietuvos žemės pagalba, patraukė į Podolės žemę (Mažoji Podolė tarp.'
   pagrindžia:
     - c-002

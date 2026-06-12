@@ -17,7 +17,9 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
 
 ## Teiginiai
 
+<a id="claim-t-20833"></a>
 - t-001
+  global_id: t-20833
   teiginys: 'Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo rex, o Algirdas laiškuose Bizantijai – bazileus.'
   pagrindžia:
     - c-001

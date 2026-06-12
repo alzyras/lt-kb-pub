@@ -19,7 +19,9 @@ Dusburgietis teigia, kad konradas (Landsbergo markgrafas) sušakosiąs ir ateity
 
 ## Teiginiai
 
+<a id="claim-t-60360"></a>
 - t-001
+  global_id: t-60360
   teiginys: 'Landsbergo markgrafas Konradas buvo tarp didikų, pritarusių pasiūlymui prašyti popiežiaus patvirtinti naują ligoninę.'
   pagrindžia:
     - c-001

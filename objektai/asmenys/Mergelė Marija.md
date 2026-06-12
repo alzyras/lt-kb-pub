@@ -28,32 +28,44 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 
 ## Teiginiai
 
+<a id="claim-t-59888"></a>
 - t-001
+  global_id: t-59888
   teiginys: 'Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam vis dėlto leistų pasilikti savo brolių bendrijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59889"></a>
 - t-002
+  global_id: t-59889
   teiginys: 'Mergelė Marija, pasirodžiusi broliui Hermanui Saracėnui prieš žygį į Kuršą, pakvietė jį į savo sūnaus puotą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-59890"></a>
 - t-003
+  global_id: t-59890
   teiginys: 'Dusburgietis teigia, kad šit bėga prūsai, bėga Livonijos žmonės, šit broliai ir kai kurie kiti, iš visų pusių priešo apsupti, tvirtai laikosi ir narsiai ginasi, vaje, šit jie žūsta, dabar matau švenčiausiąją mergelę Mariją, šventąsias mergeles ir dievo angelus, kylančius su jų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-59891"></a>
 - t-004
+  global_id: t-59891
   teiginys: 'Dusburgietis teigia, kad mergelė Marija trečią dieną, kaip buvo sakęs, pasimirė, o visi žmonės patikėjo jos žodžiais.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-59892"></a>
 - t-005
+  global_id: t-59892
   teiginys: 'Dusburgietis teigia, kad tačiau kitą naktį jam pasirodė švenčiausioji mergelė Marija, kuri jį taip pagydė vienu švelniu savo rankos prilietimu, kad minėtasis brolis Petras, antrą kartą jį išvydęs, nepastebėjo ant jo odos jokių sužalojimo žymių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59893"></a>
 - t-006
+  global_id: t-59893
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį Su šiuo broliu Hermanu, jau priimtu į Ordiną ir darančiu vieną dorovingą darbą po kito, švenčiausioji mergelė Marija ne kartą buvo kalbėjusi slaptai ir draugiškai, o vieną sykį švenčiausioji mergelė jam pasirodė nuliūdusiu veidu ir, kai jis.'
   pagrindžia:
     - c-004

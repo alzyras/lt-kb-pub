@@ -19,12 +19,16 @@ Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalka
 
 ## Teiginiai
 
+<a id="claim-t-19295"></a>
 - t-001
+  global_id: t-19295
   teiginys: 'Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-19296"></a>
 - t-002
+  global_id: t-19296
   teiginys: 'Sovietmečiu Lietuvos miestuose ir miesteliuose buvo pristatyta V. Lenino statulų.'
   pagrindžia:
     - c-001

@@ -28,12 +28,16 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
 
 ## Teiginiai
 
+<a id="claim-t-79026"></a>
 - t-001
+  global_id: t-79026
   teiginys: 'Po 1629 m. paliaubų su ATR, Švedijos karaliaus Gustavo Adolfo vadovaujama švedų kariuomenė ėmė skinti pergales prieš katalikų kariuomenes Trisdešimtmečio karo mūšių laukuose (1618- 1648 m.), Vokietijoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79027"></a>
 - t-002
+  global_id: t-79027
   teiginys: 'Sostas atiteko Karoliui X Gustavui, Gustavo Adolfo sesers ir Vokietijos Cveibriukeno kunigaikščio sūnui.'
   pagrindžia:
     - c-001

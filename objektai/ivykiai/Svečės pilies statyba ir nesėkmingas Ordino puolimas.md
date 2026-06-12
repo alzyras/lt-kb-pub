@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66924"></a>
 - t-001
+  global_id: t-66924
   teiginys: 'Dusburgietis teigia, kad jis mat norėjo neleisti statyti čia pilies.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66925"></a>
 - t-002
+  global_id: t-66925
   teiginys: 'Sventopelkas pradėjo statyti Svečės pilį priešais Kulmą, kad trukdytų broliams plaukioti Vysla aukštyn ir žemyn.'
   pagrindžia:
     - c-001

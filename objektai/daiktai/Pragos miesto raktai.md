@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35550"></a>
 - t-001
+  global_id: t-35550
   teiginys: 'Pragos gyventojai iškilmingai sutiko Kaributą, įteikė jam miesto raktus ir pavedė karo vadovybę.'
   pagrindžia:
     - c-001

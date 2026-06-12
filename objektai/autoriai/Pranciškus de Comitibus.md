@@ -16,7 +16,9 @@ Gi Pranciškus de Comitibus yra užrašęs, kad Vytauto bijojo ir jį gerbė ne 
 
 ## Teiginiai
 
+<a id="claim-t-35472"></a>
 - t-001
+  global_id: t-35472
   teiginys: 'Pranciškus de Comitibus užrašė, kad Vytauto bijojo ir jį gerbė totorių ciesorius, vyriausiasis chanas.'
   pagrindžia:
     - c-001

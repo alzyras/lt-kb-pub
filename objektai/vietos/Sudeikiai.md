@@ -18,7 +18,9 @@ Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras,
 
 ## Teiginiai
 
+<a id="claim-t-36589"></a>
 - t-001
+  global_id: t-36589
   teiginys: 'Sukilimo pradžioje Raseinių apskrityje buvo sudegintas Sudeikių dvaras.'
   pagrindžia:
     - c-001

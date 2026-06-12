@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-01070"></a>
 - t-001
+  global_id: t-01070
   teiginys: 'Juozas Arnulfas Giedraitis buvo laikomas karštu žemaičių patriotu ir uoliu švietimo rėmėju.'
   pagrindžia:
     - c-001

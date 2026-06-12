@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87239"></a>
 - t-001
+  global_id: t-87239
   teiginys: 'Moskoževskis iš tvirtovės išvarė įtartinus žmones, galėjusius slapta palaikyti Vytautą, ir penkias savaites atrėmė apgultį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87240"></a>
 - t-002
+  global_id: t-87240
   teiginys: 'Aukštutinės pilies gynėjai, bijodami išdavystės, iš pilies išvijo rusus ir įtartinus žmones.'
   pagrindžia:
     - c-002

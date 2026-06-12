@@ -42,32 +42,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75231"></a>
 - t-001
+  global_id: t-75231
   teiginys: 'Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje ir Latvijoje buvusius konclagerius, apie 3,5 tūkst.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-75232"></a>
 - t-002
+  global_id: t-75232
   teiginys: 'Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-75233"></a>
 - t-003
+  global_id: t-75233
   teiginys: 'Apie 50 tūkst. žydų buvo laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75234"></a>
 - t-004
+  global_id: t-75234
   teiginys: 'Dėl nacių rasinės genocidinės politikos Lietuva liko be šimtmečiais gyvenusios spalvingiausios savo etninės dalies – žydų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75235"></a>
 - t-005
+  global_id: t-75235
   teiginys: 'Lietuvos žydų Holokaustas buvo viena iš didžiulių Lietuvos patirtų netekčių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75236"></a>
 - t-006
+  global_id: t-75236
   teiginys: '1943 m. naciai naikino Lietuvos miestų getus, kasė ir degino nužudytųjų kūnus.'
   pagrindžia:
     - c-003

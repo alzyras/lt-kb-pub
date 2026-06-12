@@ -26,27 +26,37 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 
 ## Teiginiai
 
+<a id="claim-t-68996"></a>
 - t-001
+  global_id: t-68996
   teiginys: 'Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kitas importuotas dirbinys.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-68997"></a>
 - t-002
+  global_id: t-68997
   teiginys: 'Dusburgietis teigia, kad magistras ir broliai su jais bei su kunigaikščiu Kazimieru ir su savaisiais įsibrovė į Pomeranijos žemę ir, devynetą dienų ir naktų tai viena, tai kita kryptimi smogdami stiprius ir žiaurius smūgius, taip ją nusiaubė, kad nebeliko ten nė vieno kampelio, kurio.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-68998"></a>
 - t-003
+  global_id: t-68998
   teiginys: 'Vysla, tekėdama nuo Krokuvos į Pomeraniją ir įtekėdama į jūrą prie Gdansko, skyrė Lenkiją bei Pomeraniją nuo Prūsijos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-69000"></a>
 - t-004
+  global_id: t-69000
   teiginys: '1396 m. Vytautas sudarė laisvos prekybos sutartis su Štetino, Pomeranijos, hercogu, Rygos arkivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-69001"></a>
 - t-005
+  global_id: t-69001
   teiginys: 'Dusburgietis teigia, kad apie taikos atkūrimą tarp Sventopelko ir brolių Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis Sventopelkas, kuris anksčiau kaip riaumojantis liūtas suko ratą po rato, bausdamasis sunaikinti brolius bei tikėjimo daigyną.'
   pagrindžia:
     - c-005

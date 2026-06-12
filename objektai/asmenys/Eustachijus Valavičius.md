@@ -9,7 +9,6 @@ atnaujinta: ''
 tags:
   - asmuo
 ---
-
 # Eustachijus Valavičius
 
 ## Santrauka
@@ -18,13 +17,17 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-87424"></a>
 - t-001
+  global_id: t-87424
   teiginys: 'Eustachijus Valavičius buvo Vilniaus kaštelionas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184697"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad sutiko ir priėmė maskvėnus pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas Točinskis ir Mikalojus Konča, o vedė derybas tokie orūs vyrai, kaip Vilniaus vaivada.'
+  global_id: t-184697
+  teiginys: 'Maršalas Eustachijus Valavičius dalyvavo derybose su maskvėnų pasiuntiniais.'
   pagrindžia:
     - c-002
 
@@ -47,7 +50,7 @@ tags:
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad sutiko ir priėmė maskvėnus pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas Točinskis ir Mikalojus Konča, o vedė derybas tokie orūs vyrai, kaip Vilniaus vaivada.'
+  santrauka: 'Maršalas Eustachijus Valavičius dalyvavo derybose su maskvėnų pasiuntiniais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius
@@ -76,3 +79,18 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/zodynas/Pataurininkis]]
+- [[objektai/grupes/Valavičiai]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/kaštelionas]]
+- [[objektai/zodynas/stalininkas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]
+- [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas]]
+- [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/manu proprio M.P]]

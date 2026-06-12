@@ -19,7 +19,9 @@ Liubavskis. Liubavskij : Oblastnoe delenie (LOD); Litovsko-russkij sejm (ČIObč
 
 ## Teiginiai
 
+<a id="claim-t-30836"></a>
 - t-001
+  global_id: t-30836
   teiginys: 'M. K. Liubavskis, naudodamas Lietuvos Metriką ir senus dokumentus, reikšmingai prisidėjo prie Lietuvos istorijos tyrimų.'
   pagrindžia:
     - c-001

@@ -24,12 +24,16 @@ Jaroszewicz, Obraz Litwy pod względem jej cywilizacyi, I—III (1844) ;.
 
 ## Teiginiai
 
+<a id="claim-t-30677"></a>
 - t-001
+  global_id: t-30677
   teiginys: 'J. Jaroszewicziaus „Obraz Litwy pod względem jej cywilizacji“ pirmasis tomas išėjo Vilniuje 1846 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-30678"></a>
 - t-002
+  global_id: t-30678
   teiginys: 'J. Jaroszewiczius teigė, kad lietuviai daržoves pradėjo auginti artimiau susipažinę su slavais.'
   pagrindžia:
     - c-002

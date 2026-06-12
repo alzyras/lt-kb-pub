@@ -33,12 +33,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66836"></a>
 - t-001
+  global_id: t-66836
   teiginys: 'Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija, lietuvių ir latvių giminėms iš karto irgi nelabai sekėsi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66837"></a>
 - t-002
+  global_id: t-66837
   teiginys: 'O Mindaugo laikais jie pavergė ir patį Polocką.'
   pagrindžia:
     - c-001

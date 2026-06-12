@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59691"></a>
 - t-001
+  global_id: t-59691
   teiginys: 'Dusburgietis teigia, kad šitai išgirdęs, komtūras susirūpino ir patraukė su saviškiais link Karaliaučiaus, o parplaukęs laivais į Brandenburgą, čia išvadavo nuo prūsų brolius ir kitus iš savo šeimynos, nuolat puldinėjamus, kurie gynėsi šios pilies mediniame kuore, ir juos sveikus.'
   pagrindžia:
     - c-001

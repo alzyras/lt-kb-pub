@@ -22,7 +22,9 @@ Dusburgietis teigia, kad kuzavinis К.
 
 ## Teiginiai
 
+<a id="claim-t-61114"></a>
 - t-001
+  global_id: t-61114
   teiginys: 'K. Kuzavinio „Etymologica“ paskelbta 1966 m. žurnalo „Baltistica“ 1 tomo 2 numeryje, p. 177–184.'
   pagrindžia:
     - c-001

@@ -19,12 +19,16 @@ Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams pav
 
 ## Teiginiai
 
+<a id="claim-t-88345"></a>
 - t-001
+  global_id: t-88345
   teiginys: 'Vaitiekus Slavenckis aprašė Alantos valdas, jų priklausinius ir derlius, o sąrašus su antspaudu ir parašu atidavė iždui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183833"></a>
 - t-002
+  global_id: t-183833
   teiginys: 'Valdovas davė Gabrieliui Bekešui Vaitiekaus Slavenckio sudarytų Alantos valdų rejestrų nuorašą.'
   pagrindžia:
     - c-002

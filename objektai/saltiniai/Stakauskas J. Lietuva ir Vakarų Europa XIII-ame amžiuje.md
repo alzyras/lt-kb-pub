@@ -22,7 +22,9 @@ Dusburgietis teigia, kad stakauskas J.
 
 ## Teiginiai
 
+<a id="claim-t-61296"></a>
 - t-001
+  global_id: t-61296
   teiginys: 'J. Stakausko veikalas „Lietuva ir Vakarų Europa XIII-ame amžiuje“ išleistas 1934 m.'
   pagrindžia:
     - c-001

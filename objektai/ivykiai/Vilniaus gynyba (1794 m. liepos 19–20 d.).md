@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-80676"></a>
 - t-001
+  global_id: t-80676
   teiginys: 'Antroji kovų fazė: Vilniaus gynyba Liepos 19 d. gen.'
   pagrindžia:
     - c-001

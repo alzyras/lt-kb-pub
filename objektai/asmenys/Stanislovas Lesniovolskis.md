@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Stanislovas Lesniovolskis
 
 ## Santrauka
 
-Kojelavičius teigia, kad s taig a ten su sirgęs, suprato, jo g n eb e p ajėg s ja u v ad o v a u ti k a riu o m enei, todėl savo p areig as p erd av ė S tanislovui Lesniovolskiui, p atard am as atidžiai žv alg y ti v isą p ak ra n tę ir sek ti priešą.
+Susirgęs Zebžidovskis perdavė pareigas Stanislovui Lesniovolskiui ir patarė žvalgyti pakrantę bei sekti priešą.
 
 ## Teiginiai
 
+<a id="claim-t-186080"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad s taig a ten su sirgęs, suprato, jo g n eb e p ajėg s ja u v ad o v a u ti k a riu o m enei, todėl savo p areig as p erd av ė S tanislovui Lesniovolskiui, p atard am as atidžiai žv alg y ti v isą p ak ra n tę ir sek ti priešą.'
+  global_id: t-186080
+  teiginys: 'Susirgęs Zebžidovskis perdavė pareigas Stanislovui Lesniovolskiui ir patarė žvalgyti pakrantę bei sekti priešą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad s taig a ten su sirgęs, suprato, jo g n eb e p ajėg s ja u v ad o v a u ti k a riu o m enei, todėl savo p areig as p erd av ė S tanislovui Lesniovolskiui, p atard am as atidžiai žv alg y ti v isą p ak ra n tę ir sek ti priešą.'
+  santrauka: 'Susirgęs Zebžidovskis perdavė pareigas Stanislovui Lesniovolskiui ir patarė žvalgyti pakrantę bei sekti priešą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Z ebžidovskis pro Polocką
@@ -46,3 +47,8 @@ Kojelavičius teigia, kad s taig a ten su sirgęs, suprato, jo g n eb e p ajėg 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/ivykiai/Maskvėnų įsiveržimas į Baltarusiją ir lietuvių bei lenkų atsakomasis žygis]]

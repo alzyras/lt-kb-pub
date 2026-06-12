@@ -18,18 +18,24 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-70315"></a>
 - t-001
+  global_id: t-70315
   teiginys: '1427 m. pradžioje buvo penki saarai, bet metų pabaigoje galutinai įsigalėjo Vytauto palaikomas Machmetas.'
   pagrindžia:
     - c-002
     - c-003
 
+<a id="claim-t-70316"></a>
 - t-002
+  global_id: t-70316
   teiginys: 'Vytauto laikais Orda buvo suskilusi, o atskiri saarai nuolat kariavo tarpusavyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70318"></a>
 - t-003
+  global_id: t-70318
   teiginys: 'Vytautas apie 30 metų rėmė saarus ir sulaukė totorių tarpe sau visiškai paklusnių valdovų.'
   pagrindžia:
     - c-002

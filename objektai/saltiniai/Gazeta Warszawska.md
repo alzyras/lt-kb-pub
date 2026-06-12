@@ -18,12 +18,16 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
 
 ## Teiginiai
 
+<a id="claim-t-88251"></a>
 - t-001
+  global_id: t-88251
   teiginys: 'Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos laikraštis).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88252"></a>
 - t-002
+  global_id: t-88252
   teiginys: '„Gazeta Warszawska“ spausdintuose straipsniuose M. Balińskis aprašė Vilniaus archeologinės komisijos veiklą ir lenkų literatūros problemas.'
   pagrindžia:
     - c-001

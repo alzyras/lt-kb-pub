@@ -36,17 +36,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54327"></a>
 - t-001
+  global_id: t-54327
   teiginys: 'Užnemunėje veikė privati moterų gimnazija, kurioje dėstyta lietuvių kalba.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183331"></a>
 - t-002
-  teiginys: 'Užnemunėje veikė privati moterų gimnazija dėstomąja lietuvių kalba, o kaime vaikų mokymo namuose valdžia nebedraudė.'
-  pagrindžia:
-    - c-001
-
-- t-003
+  global_id: t-183331
   teiginys: 'Be to, mokyklas leista steigti ir privatiems asmenims bei visuomeninėms organizacijoms, jose galėjo būti mokoma ir lietuvių, taip pat lenkų kalba.'
   pagrindžia:
     - c-001
@@ -67,7 +66,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
     - t-001
 
 ## Ryšiai

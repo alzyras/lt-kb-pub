@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-36073"></a>
 - t-001
+  global_id: t-36073
   teiginys: '„Lietuvos geografija“ buvo Lietuvos universiteto profesorių ir specialistų pripažinta tinkamu vadovėliu mokykloms.'
   pagrindžia:
     - c-001

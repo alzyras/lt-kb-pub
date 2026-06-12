@@ -25,12 +25,16 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 
 ## Teiginiai
 
+<a id="claim-t-66063"></a>
 - t-001
-  teiginys: 'Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buvo sukūrę aukštą kultūrą, aisčiai galėjo turėti tik retų, atsitiktinių santykių (jie galėjo parduoti romėnų pirkliams nebent savo gražųjį gintarą).'
+  global_id: t-66063
+  teiginys: 'Aisčiai su romėnais galėjo turėti tik retų atsitiktinių ryšių, daugiausia per gintaro prekybą romėnų pirkliams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66064"></a>
 - t-002
+  global_id: t-66064
   teiginys: 'Romėnų rašytojas Tacitas pirmojo amžiaus pabaigoje veikale „Germania“ pirmasis paminėjo mūsų krašto gyventojus.'
   pagrindžia:
     - c-001
@@ -53,6 +57,7 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     - t-002
 
 - c-002
+  santrauka: 'Aisčiai su romėnais galėjo turėti tik retų atsitiktinių ryšių, daugiausia per gintaro prekybą romėnų pirkliams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Su

@@ -16,12 +16,16 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
 
 ## Teiginiai
 
+<a id="claim-t-41028"></a>
 - t-001
+  global_id: t-41028
   teiginys: 'Po antrosios sovietų okupacijos Lietuvos išlaisvinimo taryba veikė pogrindyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183659"></a>
 - t-002
+  global_id: t-183659
   teiginys: 'Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tarybai.'
   pagrindžia:
     - c-002

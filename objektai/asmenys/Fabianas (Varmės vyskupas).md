@@ -31,7 +31,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87666"></a>
 - t-001
+  global_id: t-87666
   teiginys: 'Fabianas buvo Varmės vyskupas, kurio išrinkimą Žygimantas sutiko pripažinti galiojančiu.'
   pagrindžia:
     - c-001

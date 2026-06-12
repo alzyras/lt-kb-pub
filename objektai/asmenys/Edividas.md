@@ -26,7 +26,9 @@ Tuo pat metu Lietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno Min
 
 ## Teiginiai
 
+<a id="claim-t-35053"></a>
 - t-001
+  global_id: t-35053
   teiginys: 'Mindaugo sūnėnas Edividas įsigyveno Drutske, kai Lietuvos valdžia plito Baltojoje Rusijoje.'
   pagrindžia:
     - c-001

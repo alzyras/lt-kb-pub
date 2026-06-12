@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31504"></a>
 - t-001
+  global_id: t-31504
   teiginys: '1311 m. Vytenis plėšė Sembą, Natangą ir Varmę, bet Woplaukeno lygumose jo kariuomenė buvo sumušta.'
   pagrindžia:
     - c-001

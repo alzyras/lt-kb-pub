@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XVI'
 ---
-
 # Žygimanto II mirtis
 
 ## Santrauka
 
-Kojelavičius teigia, kad aprimo šis sambrūzdis, kai atėjo žinia apie Žygi manto mirtį.
+Žygimantas II mirė per Velykas, grįždamas iš Piotrkovo į Krokuvą, būdamas daugiau kaip aštuoniasdešimties metų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185844"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad aprimo šis sambrūzdis, kai atėjo žinia apie Žygi manto mirtį.'
+  global_id: t-185844
+  teiginys: 'Žygimantas II mirė per Velykas, grįždamas iš Piotrkovo į Krokuvą, būdamas daugiau kaip aštuoniasdešimties metų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad aprimo šis sambrūzdis, kai atėjo žinia apie Žygi manto mirtį.'
+  santrauka: 'Žygimantas II mirė per Velykas, grįždamas iš Piotrkovo į Krokuvą, būdamas daugiau kaip aštuoniasdešimties metų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Aprimo šis sambrūzdis, kai atėjo žinia apie Žygi­
@@ -68,3 +69,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Žygimantas]]

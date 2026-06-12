@@ -26,7 +26,9 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
 
 ## Teiginiai
 
+<a id="claim-t-88074"></a>
 - t-001
+  global_id: t-88074
   teiginys: 'Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Nerye ir Neria.'
   pagrindžia:
     - c-001

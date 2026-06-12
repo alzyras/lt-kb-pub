@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86899"></a>
 - t-001
+  global_id: t-86899
   teiginys: 'Vilniaus Jėzaus draugijos kolegijai buvo suteikta ekonominė ir administracinė valdžia seminarijai valdyti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86901"></a>
 - t-002
+  global_id: t-86901
   teiginys: 'Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams išlaikyti bei auklėti.'
   pagrindžia:
     - c-002

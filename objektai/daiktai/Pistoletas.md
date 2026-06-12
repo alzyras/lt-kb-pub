@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40752"></a>
 - t-001
+  global_id: t-40752
   teiginys: 'Lenkas negalėjo panaudoti pistoleto, nes viena ranka laikė pavadžius, o kita kardą.'
   pagrindžia:
     - c-001

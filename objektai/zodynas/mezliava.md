@@ -21,17 +21,23 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
 
 ## Teiginiai
 
+<a id="claim-t-08676"></a>
 - t-001
+  global_id: t-08676
   teiginys: '`Mezliava` šiame tekste reiškia prievolinę duoklę vyresniesiems.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08677"></a>
 - t-002
+  global_id: t-08677
   teiginys: 'Mezliavą svietas skirdavo ūkės reikalų nuo namų darbo atitrauktiems vyresniesiems išlaikyti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70235"></a>
 - t-003
+  global_id: t-70235
   teiginys: 'Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavomis; visa, kas į dvarą buvo sunešama produktais, vadinosi duoklėmis.'
   pagrindžia:
     - c-002

@@ -23,7 +23,9 @@ Nepašykštėjo čia ir Žygimantas Augustas, dalydamas gausius savo prieraišum
 
 ## Teiginiai
 
+<a id="claim-t-86193"></a>
 - t-001
+  global_id: t-86193
   teiginys: 'Nepašykštėjo čia ir Žygimantas Augustas, dalydamas gausius savo prieraišumo 30 Ši slapta santuoka įvyko 1547 metų rugsėjo mėnesį Karalių koplyčioje Vilniuje.'
   pagrindžia:
     - c-001

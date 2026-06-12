@@ -17,7 +17,9 @@ Ochmańskio raštai, P. Ochmański, J.
 
 ## Teiginiai
 
+<a id="claim-t-30692"></a>
 - t-001
+  global_id: t-30692
   teiginys: 'J. Ochmańskio raštai rodė, kad po Antrojo pasaulinio karo jaunoji lenkų istorikų karta į Lietuvos praeitį žvelgė objektyviau.'
   pagrindžia:
     - c-001

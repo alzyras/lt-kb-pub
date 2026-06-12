@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31404"></a>
 - t-001
+  global_id: t-31404
   teiginys: 'Po aštuonių dienų Apuolės apgulos švedų karalius Olafas privertė kuršius atiduoti danų grobį, sudaryti taiką, mokėti duoklę ir duoti 30 įkaitų.'
   pagrindžia:
     - c-001

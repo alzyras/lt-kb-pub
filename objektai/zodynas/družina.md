@@ -24,7 +24,9 @@ Pradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­ tas, p
 
 ## Teiginiai
 
+<a id="claim-t-32773"></a>
 - t-001
+  global_id: t-32773
   teiginys: 'Nalšėnų Daumantas, bijodamas patekti Vaišvilkui į rankas, pabėgo į Pskovą su šeima, bajorais ir palydovais, vadinamais družina.'
   pagrindžia:
     - c-001

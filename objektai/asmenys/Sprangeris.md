@@ -16,7 +16,9 @@ Sprangerio vadovaujamas dalinys, veikiantis pagal atskirą įsakymą, turėjo u�
 
 ## Teiginiai
 
+<a id="claim-t-40425"></a>
 - t-001
+  global_id: t-40425
   teiginys: 'Sprangerio vadovaujamas dalinys turėjo užimti Šimonių-Kupiškio liniją ir apsaugoti Ukmergės rinktinės kairįjį sparną.'
   pagrindžia:
     - c-001

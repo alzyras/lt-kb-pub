@@ -46,17 +46,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87063"></a>
 - t-001
+  global_id: t-87063
   teiginys: '1505 metais karalius nurodė Vilniaus miestą apjuosti mūro siena, o negalintiems jos statyti leido tverti statinių tvorą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87064"></a>
 - t-002
+  global_id: t-87064
   teiginys: 'Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spaso) bažnyčia ir penktuosius - nuo Pilies.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87065"></a>
 - t-003
+  global_id: t-87065
   teiginys: '1506 metais Vilniaus miestiečiai, remiami vyskupo Vaitiekaus Taboro, apjuosė miestą mūro pylimu vietoj medinių statinių.'
   pagrindžia:
     - c-001

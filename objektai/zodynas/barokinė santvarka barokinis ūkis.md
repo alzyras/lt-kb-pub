@@ -26,12 +26,16 @@ Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o
 
 ## Teiginiai
 
+<a id="claim-t-22078"></a>
 - t-001
+  global_id: t-22078
   teiginys: 'Barokinės santvarkos ir barokinio ūkio sąvokos siejamos su luomine bajorų santvarka ir lažiniu palivarkiniu ūkiu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183402"></a>
 - t-002
+  global_id: t-183402
   teiginys: 'Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės architektūros manifestu paprastai laikoma Vilniaus Šv.'
   pagrindžia:
     - c-001

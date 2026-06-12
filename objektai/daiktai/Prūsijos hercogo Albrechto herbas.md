@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59703"></a>
 - t-001
+  global_id: t-59703
   teiginys: 'Dusburgietis teigia, kad nuorašo viršelyje yra Karaliaučiaus bibliotekos įkūrėjo Prūsijos hercogo Albrechto (mirusio 1568 m.) herbas, rodąs tuometinį jo šeimininką.'
   pagrindžia:
     - c-001

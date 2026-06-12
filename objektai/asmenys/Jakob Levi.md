@@ -24,7 +24,9 @@ Jakob Levi, iš Vilniaus, 1427 m. rašė hebrajiškas knygas ir turėjo Moreno, 
 
 ## Teiginiai
 
+<a id="claim-t-87697"></a>
 - t-001
+  global_id: t-87697
   teiginys: 'Jakob Levi, iš Vilniaus, 1427 m. rašė hebrajiškas knygas ir turėjo Moreno, t.'
   pagrindžia:
     - c-001

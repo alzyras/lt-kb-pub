@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87111"></a>
 - t-001
+  global_id: t-87111
   teiginys: 'Pasakojama, kad Gediminas medžiodamas strėle iš kilpinės pašovė didžiulį taurą ir pribaigė jį ant Tauro kalnu vadinto kalno.'
   pagrindžia:
     - c-001

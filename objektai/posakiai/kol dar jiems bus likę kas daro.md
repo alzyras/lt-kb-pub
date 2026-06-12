@@ -18,7 +18,9 @@ Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užk
 
 ## Teiginiai
 
+<a id="claim-t-59117"></a>
 - t-001
+  global_id: t-59117
   teiginys: 'Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius, įsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne kurios žemiau aprašytos kovos vyko po karo su nadruviais.'
   pagrindžia:
     - c-001

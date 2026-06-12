@@ -16,7 +16,9 @@ Tuojau pat į kautynes įsitraukė ir Žaliosios rinktinės Aušros (vadas Ignas
 
 ## Teiginiai
 
+<a id="claim-t-41220"></a>
 - t-001
+  global_id: t-41220
   teiginys: 'Žaliosios rinktinės Aušros būrys, vadovaujamas Igno Gasčiūno-Artojo, įsitraukė į kautynes.'
   pagrindžia:
     - c-001

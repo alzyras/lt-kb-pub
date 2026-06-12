@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-39620"></a>
 - t-001
+  global_id: t-39620
   teiginys: '1396 m. Riazanės didysis kunigaikštis Olegas ir kiti „ėjo prieš Lietuvą ir daug pikto padarė“.'
   pagrindžia:
     - c-001

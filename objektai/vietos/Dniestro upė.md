@@ -26,7 +26,9 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
 
 ## Teiginiai
 
+<a id="claim-t-41686"></a>
 - t-001
+  global_id: t-41686
   teiginys: 'Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. sudarytą taiką buvo atkurta siena tarp Abiejų Tautų Respublikos ir Turkijos, ėjusi palei Dniestro upę.'
   pagrindžia:
     - c-001

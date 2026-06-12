@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
 ---
-
 # Treniotos žygis į Mazoviją (1264 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad iš tiesų Treniota vėles nėms kartoms tapo žinomas daugiau dėl to, kad nusi kalstamai nužudė savo dėdę ir ginklu užgrobė valdžią, o ne dėl kokių žygdarbių; trumpą jo viešpata vimą, nepraėjus nė metams, nutraukė staigi mirtis; jis nuo sosto tapo nustumtas tuo. Kojelavičius teigia, kad koks žiaurus būtų buvęs krikščionims, jei gu dievai jį būtų laikę gyvą, geriausiai jis parodė tada, kai, paėmęs valdžią, pradėjo niokoti Mazoviją.
+Treniota, paėmęs valdžią, pradėjo niokoti Mazoviją ir sudegino kaimus ligi pat Červinsko. Treniotos žygio į Mazoviją metu buvo sugriauta Oršimovo pilis, o kaimai ligi Červinsko sudeginti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185649"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad iš tiesų Treniota vėles nėms kartoms tapo žinomas daugiau dėl to, kad nusi kalstamai nužudė savo dėdę ir ginklu užgrobė valdžią, o ne dėl kokių žygdarbių; trumpą jo viešpata vimą, nepraėjus nė metams, nutraukė staigi mirtis; jis nuo sosto tapo nustumtas tuo.'
+  global_id: t-185649
+  teiginys: 'Treniota, paėmęs valdžią, pradėjo niokoti Mazoviją ir sudegino kaimus ligi pat Červinsko.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185650"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad koks žiaurus būtų buvęs krikščionims, jei gu dievai jį būtų laikę gyvą, geriausiai jis parodė tada, kai, paėmęs valdžią, pradėjo niokoti Mazoviją.'
+  global_id: t-185650
+  teiginys: 'Treniotos žygio į Mazoviją metu buvo sugriauta Oršimovo pilis, o kaimai ligi Červinsko sudeginti.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad iš tiesų Treniota vėles nėms kartoms tapo žinomas daugiau dėl to, kad nusi kalstamai nužudė savo dėdę ir ginklu užgrobė valdžią, o ne dėl kokių žygdarbių; trumpą jo viešpata vimą, nepraėjus nė metams, nutraukė staigi mirtis; jis nuo sosto tapo nustumtas tuo.'
+  santrauka: 'Treniota, paėmęs valdžią, pradėjo niokoti Mazoviją ir sudegino kaimus ligi pat Červinsko.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš tiesų Treniota vėles­
@@ -80,7 +83,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad koks žiaurus būtų buvęs krikščionims, jei gu dievai jį būtų laikę gyvą, geriausiai jis parodė tada, kai, paėmęs valdžią, pradėjo niokoti Mazoviją.'
+  santrauka: 'Treniotos žygio į Mazoviją metu buvo sugriauta Oršimovo pilis, o kaimai ligi Červinsko sudeginti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Koks žiaurus būtų buvęs krikščionims, jei­
@@ -102,3 +105,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Treniota]]
+- [[objektai/zodynas/žygis]]

@@ -19,12 +19,16 @@ Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį 
 
 ## Teiginiai
 
+<a id="claim-t-20971"></a>
 - t-001
+  global_id: t-20971
   teiginys: 'Vytauto politika buvo siejama su „švento valdovo“ įvaizdžiu, lyginant jį su šventuoju tapusiu Vengrijos valdovu Steponu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183515"></a>
 - t-002
+  global_id: t-183515
   teiginys: 'Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.'
   pagrindžia:
     - c-002

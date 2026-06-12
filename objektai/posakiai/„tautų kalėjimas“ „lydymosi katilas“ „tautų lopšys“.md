@@ -17,12 +17,16 @@ Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų atmini
 
 ## Teiginiai
 
+<a id="claim-t-20952"></a>
 - t-001
+  global_id: t-20952
   teiginys: 'LDK į istoriją įėjo ne kaip „tautų kalėjimas“ ar „lydymosi katilas“, o kaip „tautų lopšys“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183511"></a>
 - t-002
+  global_id: t-183511
   teiginys: 'Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.'
   pagrindžia:
     - c-001

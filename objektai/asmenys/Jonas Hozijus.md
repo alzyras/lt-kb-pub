@@ -28,27 +28,37 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 
 ## Teiginiai
 
+<a id="claim-t-173180"></a>
 - t-001
+  global_id: t-173180
   teiginys: '1547 m. Jono Hozijaus parduotas sklypas ir mūrinis namas su spaustuve atiteko Sebastijonui Vitinskiui.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-173181"></a>
 - t-002
+  global_id: t-173181
   teiginys: 'Jonui Hozijui pasitraukus iš pareigų, karalius Švč. Trejybės prieglaudos vyriausiojo globėjo titulą perkėlė sau.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-173182"></a>
 - t-003
+  global_id: t-173182
   teiginys: 'Dominikonai tiktai sergėjo, kad pats miestas į jų vienuolyną vieną kanalą nukreiptų ir kad nedraustų nutiesti vamzdžių į Vilniaus pilininko Jono Hozijaus namus, esančius Vokiečių gatvėje, nes jam suteikta tokia teisė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-173184"></a>
 - t-004
+  global_id: t-173184
   teiginys: 'Jonas Hozijus ir jo įpėdiniai buvo įpareigoti kasmet teikti prieglaudos ir tilto pajamų bei išlaidų ataskaitą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-173185"></a>
 - t-005
+  global_id: t-173185
   teiginys: 'Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir provizoriumi, kad rinktų tilto muitą prieglaudos statybai.'
   pagrindžia:
     - c-003

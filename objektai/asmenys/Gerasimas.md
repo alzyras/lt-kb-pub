@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-87678"></a>
 - t-001
+  global_id: t-87678
   teiginys: 'Švitrigaila įsakė sudeginti metropolitą Gerasimą.'
   pagrindžia:
     - c-001

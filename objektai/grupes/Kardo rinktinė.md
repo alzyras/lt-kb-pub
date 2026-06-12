@@ -29,7 +29,9 @@ Kairėje ŽEMAIČIŲ APYGARDOS Kardo rinktinės vadas Kazimieras Kontrimas-Tėva
 
 ## Teiginiai
 
+<a id="claim-t-38962"></a>
 - t-001
+  global_id: t-38962
   teiginys: '1949 m. Kazimieras Kontrimas-Tėvas vadovavo Žemaičių apygardos Kardo rinktinei.'
   pagrindžia:
     - c-001

@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59717"></a>
 - t-001
+  global_id: t-59717
   teiginys: 'Dusburgietis teigia, kad kartą vakarėjant jis išvydo link jo atjojant juodų juodžiausiu žirgu raitelį, kuris jam tarė: „Henrikai, eikš su manimi, bet vienui vienas, nuvesiu tave į tokią vietą, kur tu pelnysi didelį grobį“.'
   pagrindžia:
     - c-001
@@ -94,7 +96,6 @@ Nenurodyta
 - [[objektai/asmenys/Jonas Lonei]]
 - [[objektai/ivykiai/Jono Olbrachto pergalė prie Savranės ir skitų stovyklos sutriuškinimas prie Kopistrino (1489 m.)]]
 - [[objektai/posakiai/Kai aš atvykau pas didįjį kunigaikštį]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]]
 - [[objektai/grupes/Kiršenšteinai]]
 - [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
@@ -126,7 +127,7 @@ Nenurodyta
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zygfridas iš Da[he]nfeldo]]
+- [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
 - [[objektai/posakiai/aš tą užstatytą arklį paėmiau už savo pinigus]]
 - [[objektai/zodynas/bombarda]]
 - [[objektai/zodynas/gurguolė]]

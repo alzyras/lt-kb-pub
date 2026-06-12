@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Miesto ir žemių atidavimas nugalėtojui prisiekiant paklusnumą (miestas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad nors rusai dar nebuvo 2 03 Verčiau pasiduodant išsaugoti šiokią tokią valstybę, kad ir nugalėtojo valdomą, nei viską atkakliu prie šinimusi prarasti. Kojelavičius teigia, kad visi luo mai, išėję iš miesto, sveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kuni gaikštį, prisiekdami su visomis žemėmis paklusti jo valdžiai.
+Apsupto Kijevo rusai nutarė patys atiduoti pilį ir miestą, manydami, kad pasidavę išsaugos bent nugalėtojo valdomą valstybę. Kijevo luomai, išėję iš miesto, pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,20 +29,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185877"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad nors rusai dar nebuvo 2 03 Verčiau pasiduodant išsaugoti šiokią tokią valstybę, kad ir nugalėtojo valdomą, nei viską atkakliu prie šinimusi prarasti.'
+  global_id: t-185877
+  teiginys: 'Apsupto Kijevo rusai nutarė patys atiduoti pilį ir miestą, manydami, kad pasidavę išsaugos bent nugalėtojo valdomą valstybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185878"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad visi luo mai, išėję iš miesto, sveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kuni gaikštį, prisiekdami su visomis žemėmis paklusti jo valdžiai.'
+  global_id: t-185878
+  teiginys: 'Kijevo luomai, išėję iš miesto, pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad nors rusai dar nebuvo 2 03 Verčiau pasiduodant išsaugoti šiokią tokią valstybę, kad ir nugalėtojo valdomą, nei viską atkakliu prie šinimusi prarasti.'
+  santrauka: 'Apsupto Kijevo rusai nutarė patys atiduoti pilį ir miestą, manydami, kad pasidavę išsaugos bent nugalėtojo valdomą valstybę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     K ije v a s  a p su p a m a s ir
@@ -68,7 +71,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad visi luo mai, išėję iš miesto, sveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kuni gaikštį, prisiekdami su visomis žemėmis paklusti jo valdžiai.'
+  santrauka: 'Kijevo luomai, išėję iš miesto, pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl pa­
@@ -88,3 +91,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/posakiai/Kijevo ir Rusios didįjį kunigaikštį]]
+- [[objektai/posakiai/Verčiau pasiduodant išsaugoti šiokią tokią valstybę]]

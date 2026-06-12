@@ -26,7 +26,9 @@ Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
 
 ## Teiginiai
 
+<a id="claim-t-78141"></a>
 - t-001
+  global_id: t-78141
   teiginys: 'Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų kalba – 1835–1841 m. Vilniuje lenkų kalba išeina devyni tomai karo inžinieriaus ir istoriko Teodoro Narbuto „Lietuvių tautos istorijos“, skirtos Lietuvos istorijai iki Liublino.'
   pagrindžia:
     - c-001

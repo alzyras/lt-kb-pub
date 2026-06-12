@@ -42,17 +42,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-07519"></a>
 - t-001
+  global_id: t-07519
   teiginys: '1812 m. D. Poška iš tuščiavidurio ąžuolo padarė tris trobeles, kuriose buvo įtaisyti muziejėliai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-07520"></a>
 - t-002
+  global_id: t-07520
   teiginys: 'D. Poška savo Baublyje įtaisė senienų muziejų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-07521"></a>
 - t-003
+  global_id: t-07521
   teiginys: 'D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose prie Skaudvilės.'
   pagrindžia:
     - c-002

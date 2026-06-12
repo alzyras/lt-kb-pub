@@ -16,7 +16,9 @@ Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
 
 ## Teiginiai
 
+<a id="claim-t-30852"></a>
 - t-001
+  global_id: t-30852
   teiginys: 'Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.'
   pagrindžia:
     - c-001

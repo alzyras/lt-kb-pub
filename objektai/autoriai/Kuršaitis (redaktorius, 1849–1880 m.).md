@@ -32,22 +32,30 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
 
 ## Teiginiai
 
+<a id="claim-t-11073"></a>
 - t-001
+  global_id: t-11073
   teiginys: 'Kuršaitis buvo „Keleivio“ redaktorius ir lietuvių kalbos gramatikos, žodyno bei kitų raštų autorius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-11074"></a>
 - t-002
+  global_id: t-11074
   teiginys: 'Kuršaičio „Keleivis“ ragino lietuvius uoliai dalyvauti rinkimuose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-11075"></a>
 - t-003
+  global_id: t-11075
   teiginys: 'Kuršaitis redagavo lietuvišką laikraštį „Keleivį“ ir buvo Karaliaučiaus lietuvių seminarijos profesorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-11076"></a>
 - t-004
+  global_id: t-11076
   teiginys: 'Kuršaitis 1849—1880 m. leido „Keleivį“.'
   pagrindžia:
     - c-004

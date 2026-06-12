@@ -17,7 +17,9 @@ Lietuvių kalba geriausiai iš visų gyvųjų indoeuropiečių kalbų išlaikė 
 
 ## Teiginiai
 
+<a id="claim-t-20873"></a>
 - t-001
+  global_id: t-20873
   teiginys: 'Antuanas Mejė lietuvių valstiečio kalbą siejo su prosenelių kalbos pažinimu.'
   pagrindžia:
     - c-001

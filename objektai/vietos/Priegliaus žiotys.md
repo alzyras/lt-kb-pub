@@ -16,15 +16,26 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
 
 ## Teiginiai
 
+<a id="claim-t-69028"></a>
 - t-001
+  global_id: t-69028
   teiginys: 'Kelionės į aisčių kraštą metu Vysla išplaukęs misionierius pasiekė Priegliaus žiotis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-69029"></a>
 - t-002
+  global_id: t-69029
   teiginys: 'Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-183081"></a>
+- t-003
+  global_id: t-183081
+  teiginys: 'Šv. Vaitiekus, išplaukęs Vysla į jūrą, pasiekė aisčių krašto krantą Priegliaus žiotyse.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -45,7 +56,7 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
     - t-002
 
 - c-002
-  santrauka: 'Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse.'
+  santrauka: 'Šv. Vaitiekus, išplaukęs Vysla į jūrą, pasiekė aisčių krašto krantą Priegliaus žiotyse.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį,

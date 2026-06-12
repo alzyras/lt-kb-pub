@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77919"></a>
 - t-001
+  global_id: t-77919
   teiginys: 'Jos garbinimas susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.'
   pagrindžia:
     - c-001

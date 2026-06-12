@@ -17,7 +17,9 @@ Vladislovas buvo Čekų ir Vengrų karalius. Jis tuo tarpu gyveno Silezijoje, ku
 
 ## Teiginiai
 
+<a id="claim-t-64248"></a>
 - t-001
+  global_id: t-64248
   teiginys: 'Vladislovas buvo Čekų ir Vengrų karalius.'
   pagrindžia:
     - c-001

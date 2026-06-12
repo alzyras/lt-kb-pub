@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-80737"></a>
 - t-001
+  global_id: t-80737
   teiginys: 'Žygimanto Augusto paradiniai šarvai, pagaminti Niunberge meistro Kunzo Lochnerio, XVI a.'
   pagrindžia:
     - c-001

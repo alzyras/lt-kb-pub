@@ -25,17 +25,23 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
 
 ## Teiginiai
 
+<a id="claim-t-171658"></a>
 - t-001
+  global_id: t-171658
   teiginys: 'Geležinkelio linija Klaipėda–Šiauliai per Kretingą ir Kužius buvo baigta tiesti tik 1936 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-171659"></a>
 - t-002
+  global_id: t-171659
   teiginys: 'Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta į Kretingą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183032"></a>
 - t-003
+  global_id: t-183032
   teiginys: 'IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje.'
   pagrindžia:
     - c-003

@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-39829"></a>
 - t-001
+  global_id: t-39829
   teiginys: '1-ojo būrio kareivis Šidiškis prašė leidimo pulti lenkus durtuvais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183771"></a>
 - t-002
+  global_id: t-183771
   teiginys: '1 būrio kareiviai Cipkevičius ir Šidiškis prašė, kad leisčiau jiems pulti lenkus durtuvais.'
   pagrindžia:
     - c-002

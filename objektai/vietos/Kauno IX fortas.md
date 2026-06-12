@@ -16,7 +16,9 @@ Be to, Kauno IX forte sušaudyti apie 6–8 tūkst.
 
 ## Teiginiai
 
+<a id="claim-t-21476"></a>
 - t-001
+  global_id: t-21476
   teiginys: 'Kauno IX forte sušaudyta apie 6–8 tūkst. žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos.'
   pagrindžia:
     - c-001

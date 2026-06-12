@@ -16,7 +16,9 @@ XII amž. pradžioje surašytai seniausiai Anonimo, vad. Mar­ tyno Galio, kroni
 
 ## Teiginiai
 
+<a id="claim-t-31617"></a>
 - t-001
+  global_id: t-31617
   teiginys: 'XII a. pradžioje surašytoje Anonimo, vadinamo Martynu Galiu, kronikoje iš baltų buvo žinomas tik prūsų vardas.'
   pagrindžia:
     - c-001

@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39309"></a>
 - t-001
+  global_id: t-39309
   teiginys: 'Dolegos vedamo pirmojo pulko kareiviai prie šonų turėjo šoblias, ant pečių - muškietus, ant galvų - konfederatkes.'
   pagrindžia:
     - c-001

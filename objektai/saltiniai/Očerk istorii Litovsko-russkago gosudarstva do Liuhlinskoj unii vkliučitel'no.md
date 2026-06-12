@@ -29,7 +29,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31874"></a>
 - t-001
+  global_id: t-31874
   teiginys: '„Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliučitel''''no“ išleistas Maskvoje 1910 m., o antrasis leidimas pasirodė 1915 m.'
   pagrindžia:
     - c-001

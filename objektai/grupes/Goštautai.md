@@ -16,7 +16,9 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 
 ## Teiginiai
 
+<a id="claim-t-19697"></a>
 - t-001
+  global_id: t-19697
   teiginys: 'XVI a. tarp įtakingiausių giminių lietuviškos kilmės buvo Goštautai ir Radvilos.'
   pagrindžia:
     - c-001

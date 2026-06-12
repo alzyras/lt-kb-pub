@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39305"></a>
 - t-001
+  global_id: t-39305
   teiginys: 'XIII a. kalavijas, saugomas VDKM, rastas Raudonėje.'
   pagrindžia:
     - c-001

@@ -19,22 +19,30 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
 
 ## Teiginiai
 
+<a id="claim-t-19738"></a>
 - t-001
+  global_id: t-19738
   teiginys: 'Kariuomenės ir Iždo komisijose Lenkija ir LDK turėjo turėti po lygiai narių, o jų pirmininkai turėjo būti paeiliui lenkai ir lietuviai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-19739"></a>
 - t-002
+  global_id: t-19739
   teiginys: 'Iždo ir karo komisijų pirmininkai įėjo į Teisių sargybą – vyriausybę, turėjusią padėti valdovui tvarkyti valstybės reikalus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183140"></a>
 - t-003
+  global_id: t-183140
   teiginys: 'Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo, karo, policijos komisijų – pirmininkai (ministrai).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183141"></a>
 - t-004
+  global_id: t-183141
   teiginys: 'Remiantis šiuo įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendrose vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijose – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai turėjo būti paeiliui lenkai ir.'
   pagrindžia:
     - c-004

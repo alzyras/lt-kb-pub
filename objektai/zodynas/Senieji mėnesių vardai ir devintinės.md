@@ -23,17 +23,23 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 
 ## Teiginiai
 
+<a id="claim-t-07718"></a>
 - t-001
+  global_id: t-07718
   teiginys: 'Tarp senųjų mėnesių vardų minimi siekis, karvelis, kirmėšų, šilo mėnuo ir spalių mėnuo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-07719"></a>
 - t-002
+  global_id: t-07719
   teiginys: 'Senieji metai buvo dalijami į trylika mėnesių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-07720"></a>
 - t-003
+  global_id: t-07720
   teiginys: 'Senųjų mėnesių sistemoje kiekvienas mėnuo turėjo po 27 dienas ir dalijosi į tris devintinėmis vadintas dalis.'
   pagrindžia:
     - c-001
@@ -701,7 +707,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/daiktai/TT pistoletas]]
 - [[objektai/autoriai/Tadas Korsakas]]
 - [[objektai/asmenys/Tadas Kosciuška]]
-- [[objektai/paprociai/Taikos susitarimo tvirtinimas priesaika ir parašais]]
 - [[objektai/grupes/Tamplierių ordinas]]
 - [[objektai/ivykiai/Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.)]]
 - [[objektai/ivykiai/Targovicos ir Vilniaus konfederacijų susijungimas Brastoje]]
@@ -784,7 +789,7 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]
 - [[objektai/grupes/Vilniui vaduoti sąjunga]]
-- [[objektai/asmenys/Vimaras [Gneomiras]]]
+- [Vimaras [Gneomiras]](/objektai/asmenys/Vimaras%20%5BGneomiras%5D)
 - [[objektai/asmenys/Vincentas iš Šamotulų]]
 - [[objektai/asmenys/Virginijus Česnulevičius]]
 - [[objektai/asmenys/Virgoličius]]
@@ -797,7 +802,7 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/asmenys/Vladislavas Ačalovas]]
 - [[objektai/asmenys/Vladislovas Lokietka]]
 - [[objektai/asmenys/Vladislovas Vaza]]
-- [[objektai/asmenys/Vojakas [Vojachas]]]
+- [Vojakas [Vojachas]](/objektai/asmenys/Vojakas%20%5BVojachas%5D)
 - [[objektai/ivykiai/Vokietijos ir Sovietų Sąjungos karo pradžia ir Lietuvos užėmimas (1941 m. birželio 22-25 d.)]]
 - [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]
 - [[objektai/ivykiai/Vokietijos ultimatumas ir Klaipėdos krašto perdavimas Vokietijai (1939 m. kovo 20-23 d.)]]
@@ -998,13 +1003,15 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/posakiai/Jeigu visi darysime taip, kaip padarė mūsų broliai, ir nekovosime prieš pagonis dėl savo gyvybės ir savo įstatymo, anie greitai išnaikins mu]]
 - [[objektai/ivykiai/Jogailos sugrįžimas į Vilnių (1382 m. birželio 12 d.)]]
 - [[objektai/asmenys/Jonas (Baigos vicekomtūras)]]
+- [[objektai/ivykiai/Jono Olbrachto pergalė prie Savranės ir skitų stovyklos sutriuškinimas prie Kopistrino (1489 m.)]]
 - [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
+- [[objektai/asmenys/Karolis]]
 - [[objektai/ivykiai/Kristijono kryžiaus žygio įteisinimas ir įvykdymas]]
 - [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]
 - [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]
 - [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]
 - [[objektai/grupes/Lietuvių nacionalistų partija]]
-- [[objektai/asmenys/Liudvikas Libencelė]]
+- [[objektai/asmenys/Liubartas]]
 - [[objektai/asmenys/Martynas Paleckis]]
 - [[objektai/asmenys/Martynas V]]
 - [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje]]
@@ -1035,4 +1042,4 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/zodynas/pertvarka perestroika]]
 - [[objektai/zodynas/stabmeldys]]
 - [[objektai/zodynas/tranzitas]]
-- [[objektai/posakiai/„vidurainės [A. Smetonos terminas – Red.] linijos“]]
+- [„vidurainės [A. Smetonos terminas – Red.] linijos“](/objektai/posakiai/%E2%80%9Evidurain%C4%97s%20%5BA.%20Smetonos%20terminas%20%E2%80%93%20Red.%5D%20linijos%E2%80%9C)

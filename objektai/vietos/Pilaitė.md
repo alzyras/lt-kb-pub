@@ -19,7 +19,9 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
 
 ## Teiginiai
 
+<a id="claim-t-85941"></a>
 - t-001
+  global_id: t-85941
   teiginys: 'Pilaitė, buvusi jėzuitų valda dešiniajame Vilijos krante, Balińskio laikyta viena seniausių įtvirtintų vietovių prie Vilniaus.'
   pagrindžia:
     - c-001

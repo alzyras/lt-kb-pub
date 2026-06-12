@@ -39,27 +39,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67147"></a>
 - t-001
+  global_id: t-67147
   teiginys: 'Bajorijos nuomonė ir jos pritarimas dar būdavo svarbūs, sprendžiant klausimą santykių su Lenkija: tuo tarpu, kai Lenkija remdavosi senaisiais dokumentais, Lietuva turėjo remtis savo visuomenės balsu.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-67148"></a>
 - t-002
+  global_id: t-67148
   teiginys: 'Nuo XVI a. vidurio Lietuvos bajorijos seimas tapo toks įtakingas, kad be jo nebūdavo sprendžiamas joks svarbesnis reikalas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67149"></a>
 - t-003
+  global_id: t-67149
   teiginys: 'Ilgainiui vietos bajorija vis daugiau reikšmės skyrė provincijos atstovų parinkimui į seimą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-67150"></a>
 - t-004
+  global_id: t-67150
   teiginys: 'Lietuvos bajorijos seimai pirmiausia buvo reikalingi renkant naują didįjį kunigaikštį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67151"></a>
 - t-005
+  global_id: t-67151
   teiginys: 'Į tokiuos seimus atvykdavo visa ponų taryba, visi aukštesnieji valstybės urėdai ir kas tik norįs iš bajorų.'
   pagrindžia:
     - c-003

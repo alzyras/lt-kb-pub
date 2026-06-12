@@ -17,7 +17,9 @@ Or­ dino kariuomenė užtraukė pergalės giesmę „Christ ist erstan­ den“
 
 ## Teiginiai
 
+<a id="claim-t-35966"></a>
 - t-001
+  global_id: t-35966
   teiginys: 'Ordino kariuomenė užtraukė pergalės giesmę „Christ ist erstanden“ ir pakilusia nuotaika kovojo toliau.'
   pagrindžia:
     - c-001

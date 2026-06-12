@@ -25,7 +25,9 @@ Kryczyński, St.: Tatarzy litewscy.
 
 ## Teiginiai
 
+<a id="claim-t-29246"></a>
 - t-001
+  global_id: t-29246
   teiginys: 'St. Kryczyński 1938 m. Varšuvoje paskelbė istorinę-etnografinę monografiją „Tatarzy litewscy“.'
   pagrindžia:
     - c-001

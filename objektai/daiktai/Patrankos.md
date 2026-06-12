@@ -45,42 +45,58 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-176197"></a>
 - t-001
+  global_id: t-176197
   teiginys: 'Žalgirio mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų sumišimo nesukėlė.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-176198"></a>
 - t-002
+  global_id: t-176198
   teiginys: 'Žalgirio mūšyje patrankos buvo vartotos tik pradžioje.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-176199"></a>
 - t-003
+  global_id: t-176199
   teiginys: 'XV a. patrankos buvo griozdiškos, didelės, sunkiai pervežamos ir labiau tiko tvirtovėms griauti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176200"></a>
 - t-004
+  global_id: t-176200
   teiginys: 'Prie Drevencos kryžiuočiai sustiprino upės krantus ir apstatė juos patrankomis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176201"></a>
 - t-005
+  global_id: t-176201
   teiginys: 'Skirgaila Trakų piliai ginti iš Ordino maršalkos dovanų gavo keletą didelių patrankų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-176203"></a>
 - t-006
+  global_id: t-176203
   teiginys: 'Patrankos keldavo daug triukšmo, bet duodavo mažai naudos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-176204"></a>
 - t-007
+  global_id: t-176204
   teiginys: 'Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik pradžioje tevartojo.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-176205"></a>
 - t-008
+  global_id: t-176205
   teiginys: 'Mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet jos sąjungininkų kariuomenėje sumišimo nesukėlė.'
   pagrindžia:
     - c-005

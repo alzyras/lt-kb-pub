@@ -25,17 +25,23 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 
 ## Teiginiai
 
+<a id="claim-t-85973"></a>
 - t-001
+  global_id: t-85973
   teiginys: 'Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85974"></a>
 - t-002
+  global_id: t-85974
   teiginys: 'Karalius testamentu pavedė seserims plėsti Švč. Trejybės prieglaudą, supirkinėjant aplinkinius namus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85976"></a>
 - t-003
+  global_id: t-85976
   teiginys: '1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.'
   pagrindžia:
     - c-003

@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41217"></a>
 - t-001
+  global_id: t-41217
   teiginys: '1921 m. buvo įsteigtas šarvuotų traukinių pulkas, kurį be „Gedimino“ sudarė dar du nauji traukiniai „Kęstutis“ ir „Algirdas“.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-35986"></a>
 - t-001
+  global_id: t-35986
   teiginys: 'Jogaila išvertė į lietuvių kalbą maldas „Tėve mūsų“ ir „Tikiu Dievą“.'
   pagrindžia:
     - c-001

@@ -17,7 +17,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Ona (vyskupas, XIV a.)
 
 ## Santrauka
@@ -26,13 +25,17 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-173198"></a>
 - t-001
+  global_id: t-173198
   teiginys: 'Vytauto žmona Ona 1400 m. liepą Prūsuose lankė stebuklingas vietas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184809"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad stanislovo bažnyčioje, ir Vytautas, ir jo žmona Ona buvo labai iškilmingai pakelti į sostą Vil niaus vyskupo Andriaus Vasilos pagal nuo seno įpras tas apeigas, krikščionių tikėjimo apvalytas nuo bet kokių prietarų tikėjimo.'
+  global_id: t-184809
+  teiginys: 'Vilniaus šv. Stanislovo bažnyčioje Vytautas ir jo žmona Ona buvo iškilmingai pakelti į sostą vyskupo Andriaus Vasilos.'
   pagrindžia:
     - c-002
 
@@ -51,7 +54,7 @@ periodo_grupes:
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad stanislovo bažnyčioje, ir Vytautas, ir jo žmona Ona buvo labai iškilmingai pakelti į sostą Vil niaus vyskupo Andriaus Vasilos pagal nuo seno įpras tas apeigas, krikščionių tikėjimo apvalytas nuo bet kokių prietarų tikėjimo.'
+  santrauka: 'Vilniaus šv. Stanislovo bažnyčioje Vytautas ir jo žmona Ona buvo iškilmingai pakelti į sostą vyskupo Andriaus Vasilos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tai buvo karštos prigim­
@@ -72,3 +75,9 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Andrius Vasila]]

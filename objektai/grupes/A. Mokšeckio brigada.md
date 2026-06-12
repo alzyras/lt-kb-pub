@@ -16,7 +16,9 @@ Mokšeckio brigada priverčia iš Širvintų pasitraukti 7-ajj pest.
 
 ## Teiginiai
 
+<a id="claim-t-38939"></a>
 - t-001
+  global_id: t-38939
   teiginys: 'Gen. A. Mokšeckio brigada privertė 7-ąjį pėstininkų pulką pasitraukti iš Širvintų.'
   pagrindžia:
     - c-001

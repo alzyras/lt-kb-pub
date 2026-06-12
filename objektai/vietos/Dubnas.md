@@ -19,7 +19,9 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
 
 ## Teiginiai
 
+<a id="claim-t-86180"></a>
 - t-001
+  global_id: t-86180
   teiginys: 'Dubno paviete buvę dideli valsčiai su renkamais mokesčiais buvo skirti Vilniaus katedrai aprūpinti.'
   pagrindžia:
     - c-001

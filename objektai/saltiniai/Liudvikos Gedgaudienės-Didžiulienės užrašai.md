@@ -23,22 +23,30 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
 
 ## Teiginiai
 
+<a id="claim-t-49256"></a>
 - t-001
+  global_id: t-49256
   teiginys: 'Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didžiulienės užrašų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-49257"></a>
 - t-002
+  global_id: t-49257
   teiginys: 'Liudvikos Gedgaudienės-Didžiulienės užrašuose minima į Salas atėjusi Lietuvos kariuomenė, sudaryta iš trijų didelių pulkų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-49258"></a>
 - t-003
+  global_id: t-49258
   teiginys: 'Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios moters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-49259"></a>
 - t-004
+  global_id: t-49259
   teiginys: 'Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuomenė ir pulkų pulkai žmonių klausę tyrame lauke ir net verkę girdėdami sakant:.'
   pagrindžia:
     - c-002

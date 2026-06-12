@@ -25,7 +25,9 @@ Dembinskio daliniai, kurie turėjo imituoti puolimą per Neries Žaliąjį tilt�
 
 ## Teiginiai
 
+<a id="claim-t-40131"></a>
 - t-001
+  global_id: t-40131
   teiginys: 'Panerių mūšyje H. Dembinskio daliniai turėjo imituoti puolimą per Neries Žaliąjį tiltą, tačiau šio plano įgyvendinti nepavyko.'
   pagrindžia:
     - c-001

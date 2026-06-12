@@ -25,27 +25,37 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 
 ## Teiginiai
 
+<a id="claim-t-168683"></a>
 - t-001
+  global_id: t-168683
   teiginys: 'Protestantizmas labai greitai pasiekė Lietuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-168684"></a>
 - t-002
+  global_id: t-168684
   teiginys: 'Apskritai karalių Vazų laikais jau visiškai paaiškėjo, kad protestantizmas Lietuvoje išnyks.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-168686"></a>
 - t-003
+  global_id: t-168686
   teiginys: 'Be to, labai daug pakenkė protestantizmui įvairių jo sektų savitarpio nesutikimai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-168688"></a>
 - t-004
+  global_id: t-168688
   teiginys: 'XVI a. protestantizmo banga Lietuvoje paveikė katalikybę, bet amžiaus pabaigoje jėzuitai padėjo jai atsigauti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-168689"></a>
 - t-005
+  global_id: t-168689
   teiginys: 'protestantizmas: lietuvos didikų tarpe labiausiai buvo įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo- rijos tarpe — liuteranizmas.'
   pagrindžia:
     - c-002

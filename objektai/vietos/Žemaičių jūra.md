@@ -41,27 +41,37 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 
 ## Teiginiai
 
+<a id="claim-t-92017"></a>
 - t-001
+  global_id: t-92017
   teiginys: 'Žemaičių jūra siejama su žuvėdų karėmis ir prekybos plėtra.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-92018"></a>
 - t-002
+  global_id: t-92018
   teiginys: 'Į Žemaičių jūrą tekėjo šiaurinės upės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-92020"></a>
 - t-003
+  global_id: t-92020
   teiginys: 'Šią jūrą kai kurie raštininkai vadino Rusų mare.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-92021"></a>
 - t-004
+  global_id: t-92021
   teiginys: 'Žemaičių jūra šiame fragmente yra konkretus jūros vardas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-92022"></a>
 - t-005
+  global_id: t-92022
   teiginys: 'Žemaičių jūra per 1000 metų nuseko kelias uolektis.'
   pagrindžia:
     - c-001

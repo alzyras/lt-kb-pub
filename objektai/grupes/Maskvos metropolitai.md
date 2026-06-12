@@ -19,12 +19,16 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
 
 ## Teiginiai
 
+<a id="claim-t-86762"></a>
 - t-001
+  global_id: t-86762
   teiginys: 'Maskvos metropolitas Fotijas siekė išprašyti Kijevo metropolijos prijungimą prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86763"></a>
 - t-002
+  global_id: t-86763
   teiginys: 'Maskvos metropolitų religinė viršenybė Lietuvos rusiškojo tikėjimo vyskupams Vytautui buvo vienas didžiausių nepatogumų.'
   pagrindžia:
     - c-001

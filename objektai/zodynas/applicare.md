@@ -22,7 +22,9 @@ Lyginant įvairius laiko tekstus, kur vengrų kanceliarijoje buvo vartojamas ter
 
 ## Teiginiai
 
+<a id="claim-t-32758"></a>
 - t-001
+  global_id: t-32758
   teiginys: 'Lyginant įvairius laiko tekstus, kur vengrų kanceliarijoje buvo vartojamas terminas «applicare», išryškėjo, kad tas žodis tereiškė tapimą lenininku.'
   pagrindžia:
     - c-001

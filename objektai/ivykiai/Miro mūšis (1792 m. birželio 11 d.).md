@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-41325"></a>
 - t-001
+  global_id: t-41325
   teiginys: 'Birželio 11 d. prie Miro įvyko pirmasis didelis mūšis, kuriame Lietuvos kariuomenė patyrė pirmąją nesėkmę.'
   pagrindžia:
     - c-001

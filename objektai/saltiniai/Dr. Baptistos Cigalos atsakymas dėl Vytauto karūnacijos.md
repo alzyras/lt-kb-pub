@@ -19,12 +19,16 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
 
 ## Teiginiai
 
+<a id="claim-t-36039"></a>
 - t-001
+  global_id: t-36039
   teiginys: 'Dr. Baptista Cigala Zigmanto pavedimu atsakė į Krokuvos profesoriaus nuomonę dėl karūnacijos teisės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-36040"></a>
 - t-002
+  global_id: t-36040
   teiginys: 'Cigala antrame savo atsakyme gina, kad karūnacijai atlikti nereikalingas popiežiaus patvirtinimas.'
   pagrindžia:
     - c-002

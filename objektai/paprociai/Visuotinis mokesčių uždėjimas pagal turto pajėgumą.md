@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87290"></a>
 - t-001
+  global_id: t-87290
   teiginys: 'Jis (Vytautas) visame krašte uždėjo didžiulius mokesčius kiekvienam, be jokių skirtumų, pagal jo turtą: bajorams, miestiečiams ir prastuomenei.'
   pagrindžia:
     - c-001

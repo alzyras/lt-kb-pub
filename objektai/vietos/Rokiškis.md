@@ -22,7 +22,9 @@ Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėž
 
 ## Teiginiai
 
+<a id="claim-t-42100"></a>
 - t-001
+  global_id: t-42100
   teiginys: 'Panevėžio rinktinė turėjo veržtis Kėdainių–Panevėžio–Rokiškio kryptimi.'
   pagrindžia:
     - c-001

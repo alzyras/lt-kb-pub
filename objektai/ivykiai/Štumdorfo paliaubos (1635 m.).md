@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01892"></a>
 - t-001
+  global_id: t-01892
   teiginys: 'Po ilgų derybų Lenkijos ponai prieš karaliaus valią sudarė 26 metų paliaubas.'
   pagrindžia:
     - c-001

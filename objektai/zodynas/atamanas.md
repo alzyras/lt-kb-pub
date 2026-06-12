@@ -17,12 +17,16 @@ Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duokl
 
 ## Teiginiai
 
+<a id="claim-t-42433"></a>
 - t-001
+  global_id: t-42433
   teiginys: 'Karijotaičiai susidraugavo su vietiniais atamanais ir ėmė ginti Podolės žemę bei neduoti duoklės baskakams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-42434"></a>
 - t-002
+  global_id: t-42434
   teiginys: 'Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
   pagrindžia:
     - c-001

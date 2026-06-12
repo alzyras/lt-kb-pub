@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01763"></a>
 - t-001
+  global_id: t-01763
   teiginys: 'Padalinamasis seimas konstitucijomis skyrė milžiniškas pinigų sumas didikams, pasidarbavusiems rusams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01764"></a>
 - t-002
+  global_id: t-01764
   teiginys: 'Per 1773–1775 m. padalinamąjį seimą buvo sunaikintos valstybės pajamos, išgrobsčius daugumą valstybės dvarų ir iždo pinigus.'
   pagrindžia:
     - c-002

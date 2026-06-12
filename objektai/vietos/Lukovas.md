@@ -9,7 +9,6 @@ atnaujinta: ''
 tags:
   - vieta
 ---
-
 # Lukovas
 
 ## Santrauka
@@ -18,13 +17,17 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
 
 ## Teiginiai
 
+<a id="claim-t-86082"></a>
 - t-001
+  global_id: t-86082
   teiginys: 'Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuviškų kapų pridėjo 2 flor.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185035"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad sutelkęs didesnę nei paprastai kariuomenę, jis patrau kė į karą ir užpuolė lenkų kraštą; nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę.'
+  global_id: t-185035
+  teiginys: 'Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę.'
   pagrindžia:
     - c-002
 
@@ -44,7 +47,7 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad sutelkęs didesnę nei paprastai kariuomenę, jis patrau kė į karą ir užpuolė lenkų kraštą; nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę.'
+  santrauka: 'Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Staigiai ir be var­

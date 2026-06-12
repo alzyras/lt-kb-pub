@@ -25,7 +25,9 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 
 ## Teiginiai
 
+<a id="claim-t-181595"></a>
 - t-001
+  global_id: t-181595
   teiginys: 'Ona Vytautienė savo meile padėjo išgelbėti Vytautą nuo neišvengiamos pražūties.'
   pagrindžia:
     - c-001
@@ -76,7 +78,6 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/paprociai/Svetimų laiškų neskaitymas ir sudeginimas pagal testatoriaus valią]]
 - [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)]]
-- [[objektai/posakiai/Veneros nuodai atbukino narsią širdį]]
 - [[objektai/grupes/Vilniaus jėzuitų kolegija]]
 - [[objektai/zodynas/mansionieriai]]
 - [[objektai/zodynas/provizija]]
@@ -85,3 +86,6 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 - [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai]]
 - [[objektai/ivykiai/Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.)]]
 - [[objektai/asmenys/Julijona]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]
+- [[objektai/asmenys/Ona (Vytauto žmona)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

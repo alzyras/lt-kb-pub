@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-23347"></a>
 - t-001
+  global_id: t-23347
   teiginys: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė regioną autonomine Lietuvos dalimi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23348"></a>
 - t-002
+  global_id: t-23348
   teiginys: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną autonomine Lietuvos dalimi.'
   pagrindžia:
     - c-001

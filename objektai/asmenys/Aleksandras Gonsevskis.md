@@ -24,7 +24,9 @@ Apsiaustųjų pajėgų aprūpinimo papildymus organizavo Smolensko vaivada Aleks
 
 ## Teiginiai
 
+<a id="claim-t-39999"></a>
 - t-001
+  global_id: t-39999
   teiginys: 'Smolensko vaivada Aleksandras Gonsevskis organizavo apsiaustųjų pajėgų aprūpinimo papildymus su 6 tūkst. apylinkėse veikusių karių.'
   pagrindžia:
     - c-001

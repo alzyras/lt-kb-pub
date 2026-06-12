@@ -18,7 +18,9 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 
 ## Teiginiai
 
+<a id="claim-t-40442"></a>
 - t-001
+  global_id: t-40442
   teiginys: 'Stanislovui Liubomirskiui LDK kariuomenė laikinai pakluso tik karalaičiui Vladislovui ją įkalbėjus.'
   pagrindžia:
     - c-001

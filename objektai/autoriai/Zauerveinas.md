@@ -17,17 +17,23 @@ Kitas didelis lietuvių kalbos garbintojas buvo net ne lietuvis, o tikras vokiet
 
 ## Teiginiai
 
+<a id="claim-t-54144"></a>
 - t-001
+  global_id: t-54144
   teiginys: 'S. Zauerveinas buvo giesmės „Lietuviai esame mes gimę“ autorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54145"></a>
 - t-002
+  global_id: t-54145
   teiginys: 'Zauerveinas tyrė lietuvių kalbą, kovojo už lietuvių teises ir lietuvių laikraščiuose kėlė tautos susipratimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54146"></a>
 - t-003
+  global_id: t-54146
   teiginys: 'Zauerveinas, miręs 1904 m., tyrė lietuvių kalbą, kovojo už lietuvių teises ir rašė lietuvių laikraščiuose.'
   pagrindžia:
     - c-001

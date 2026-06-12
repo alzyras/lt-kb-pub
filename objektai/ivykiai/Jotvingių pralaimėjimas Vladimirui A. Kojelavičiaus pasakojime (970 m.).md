@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jotvingių pralaimėjimas Vladimirui A. Kojelavičiaus pasakojime (970 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad vladimiro tė vas Sviatoslavas, per žygį į Trakiją smarkiai sumušęs graikus, grįždamas su ta pa čia pergalinga kariuomene, I P e č e n e g a i su m u ša ru su s P a lem o n o sū n ū s L ie tu v o s v a ld o v a i: Barku s, S p era , K ū nasiju s, arb a K ū n.
+Kojelavičiaus pasakojime jotvingiai buvo Vladimiro įveikti, pavergti ir įpareigoti kasmet mokėti nustatytą duoklę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185709"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vladimiro tė vas Sviatoslavas, per žygį į Trakiją smarkiai sumušęs graikus, grįždamas su ta pa čia pergalinga kariuomene, I P e č e n e g a i su m u ša ru su s P a lem o n o sū n ū s L ie tu v o s v a ld o v a i: Barku s, S p era , K ū nasiju s, arb a K ū n.'
+  global_id: t-185709
+  teiginys: 'Kojelavičiaus pasakojime jotvingiai buvo Vladimiro įveikti, pavergti ir įpareigoti kasmet mokėti nustatytą duoklę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vladimiro tė vas Sviatoslavas, per žygį į Trakiją smarkiai sumušęs graikus, grįždamas su ta pa čia pergalinga kariuomene, I P e č e n e g a i su m u ša ru su s P a lem o n o sū n ū s L ie tu v o s v a ld o v a i: Barku s, S p era , K ū nasiju s, arb a K ū n.'
+  santrauka: 'Kojelavičiaus pasakojime jotvingiai buvo Vladimiro įveikti, pavergti ir įpareigoti kasmet mokėti nustatytą duoklę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ši tauta,
@@ -78,3 +79,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/daiktai/Taurės]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/zodynas/duoklė]]

@@ -26,7 +26,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-31009"></a>
 - t-001
+  global_id: t-31009
   teiginys: 'A. Szyszmanas 1936 m. Vilniuje paskelbė veikalą „Osadnictwo karaimskie na ziemiach Wielkiego Księstwa Litewskiego“.'
   pagrindžia:
     - c-001

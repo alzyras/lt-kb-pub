@@ -27,22 +27,30 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
 
 ## Teiginiai
 
+<a id="claim-t-177099"></a>
 - t-001
+  global_id: t-177099
   teiginys: '1920 m. kovose prie Giedraičių lietuvių artilerija veikė prieš lenkų dalinius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-177101"></a>
 - t-002
+  global_id: t-177101
   teiginys: 'Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-177102"></a>
 - t-003
+  global_id: t-177102
   teiginys: 'Viena svarbiausių lenkų puolimo krypčių buvo Ukmergės link pro Giedraičius su galutiniu tikslu pulti Kauną iš šiaurės rytų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-177104"></a>
 - t-005
+  global_id: t-177104
   teiginys: 'Adamkavičiaus vadovaujama 1-oji divizija spalio 29-31 d. sėkmingai kontraatakavo ir išvadavo Giedraičius.'
   pagrindžia:
     - c-004

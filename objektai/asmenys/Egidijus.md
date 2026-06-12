@@ -26,7 +26,9 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 
 ## Teiginiai
 
+<a id="claim-t-60271"></a>
 - t-001
+  global_id: t-60271
   teiginys: 'Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol.'
   pagrindžia:
     - c-001

@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54373"></a>
 - t-001
+  global_id: t-54373
   teiginys: 'Vytautas pradėjo Mergelės Marijos garbinimo tradiciją Lietuvoje, siekdamas įtraukti Lietuvą į Europos katalikiškųjų šalių gretas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54374"></a>
 - t-002
+  global_id: t-54374
   teiginys: 'Vytautas pradėjo Mergelės Marijos garbinimo tradiciją Lietuvoje.'
   pagrindžia:
     - c-001

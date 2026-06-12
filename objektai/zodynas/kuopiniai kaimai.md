@@ -19,17 +19,23 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
 
 ## Teiginiai
 
+<a id="claim-t-32789"></a>
 - t-001
+  global_id: t-32789
   teiginys: 'Gyvendami savo medinėse šiaudais dengtose dvišlaičiais stogais triobose, lietuviai, kaip ir kiti baltai, būrėsi į kuopinius kaimus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-32790"></a>
 - t-002
+  global_id: t-32790
   teiginys: 'Istorinių laikų sandūroje šalia įprastinių kuopinių kaimų pasitaikydavo lietuvių viensėdžių sodybų, bet kaiminės sodybos dominavo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-32791"></a>
 - t-003
+  global_id: t-32791
   teiginys: 'Antrame tūkstantmetyje pr. Kr. Rytprūsiuose palei žemutinę Vyslą jau buvo kuopinių kaimų.'
   pagrindžia:
     - c-001

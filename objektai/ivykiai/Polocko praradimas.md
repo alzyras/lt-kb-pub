@@ -32,7 +32,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-16735"></a>
 - t-001
+  global_id: t-16735
   teiginys: '1563 m. Polocko praradimas parodė, kad Lietuvai reikėjo Lenkijos paramos.'
   pagrindžia:
     - c-001

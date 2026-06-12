@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-100223"></a>
 - t-001
+  global_id: t-100223
   teiginys: ': Kovos bruožai dėl Žemaičių ir jų sienų, Athenaeum, VI, 1935, 54-117 p. — (”) Vytauto Didžiojo perijodo (^37) DlugO, XIII, 119 p.'
   pagrindžia:
     - c-001

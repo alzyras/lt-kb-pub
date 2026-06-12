@@ -18,17 +18,23 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
 
 ## Teiginiai
 
+<a id="claim-t-18861"></a>
 - t-001
+  global_id: t-18861
   teiginys: 'Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir krikštijosi.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-18862"></a>
 - t-002
+  global_id: t-18862
   teiginys: 'Brunono Bonifacijaus misija ir Lietuvos atradimas liko istorijos fragmentas, nes po to beveik 200 metų Lietuva neminima.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-18863"></a>
 - t-003
+  global_id: t-18863
   teiginys: 'Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą, čia pakrikštijo vadą Netimerą ir vėliau žuvo nuo jo brolio rankos.'
   pagrindžia:
     - c-001

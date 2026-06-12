@@ -26,12 +26,16 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
 
 ## Teiginiai
 
+<a id="claim-t-30525"></a>
 - t-001
+  global_id: t-30525
   teiginys: 'A. Nasonovas yra 1950 m. Maskvoje ir Leningrade išleistos „Novgorodskoji pervaja letopis“ leidinio autorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-30526"></a>
 - t-002
+  global_id: t-30526
   teiginys: 'A. N. Nasonovas yra 1940 m. Maskvoje išleisto veikalo „Mongoly i Rus’. Istorija tatarskoj politiki na Rusi“ autorius.'
   pagrindžia:
     - c-002

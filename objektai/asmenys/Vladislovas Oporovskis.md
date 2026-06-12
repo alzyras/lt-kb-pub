@@ -17,7 +17,9 @@ Būdamas pilnas nemalonės naujiems karūnos politikos vai­ rininkams, kancleri
 
 ## Teiginiai
 
+<a id="claim-t-35322"></a>
 - t-001
+  global_id: t-35322
   teiginys: 'Vladislovas Oporovskis, pakeltas pakancleriu, kliudė Vytauto siekimams karūnos politikoje.'
   pagrindžia:
     - c-001

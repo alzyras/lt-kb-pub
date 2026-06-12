@@ -17,12 +17,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-38385"></a>
 - t-001
+  global_id: t-38385
   teiginys: 'Rastas Raudonėje, VDKM, Artūro Užgalio nuotr.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183805"></a>
 - t-002
+  global_id: t-183805
   teiginys: 'Šilainiai, Raudonė, Kejėnai, vDKM, Artūro Užgalio nuotr.'
   pagrindžia:
     - c-002

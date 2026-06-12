@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-35744"></a>
 - t-001
+  global_id: t-35744
   teiginys: 'Jogaila su Pamario kunigaikščių sąjunga rėmė koaliciją, kuri priešinosi Vytautui dėl Smolensko.'
   pagrindžia:
     - c-001

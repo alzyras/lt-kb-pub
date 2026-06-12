@@ -24,12 +24,16 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
 
 ## Teiginiai
 
+<a id="claim-t-40398"></a>
 - t-001
+  global_id: t-40398
   teiginys: 'Povilas Morkūnas-Rimantas per Prisikėlimo apygardos reorganizaciją tapo jos vadu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183759"></a>
 - t-002
+  global_id: t-183759
   teiginys: 'Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas MorkūnasRimantas, pavaduotoju - Maironio rinktinės vadas Juozas Paliūnas-Rytas.'
   pagrindžia:
     - c-002

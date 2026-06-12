@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad žiauri šio karo baigtis paskatino krikščionių K a rin ė g u d r y b ė k o v o j e p rieš k r y ž iu o čius valdovus griebtis ginklo. Kojelavičius teigia, kad diK rik ščio n ių kunidžiules kariaunas atvedė į g a ik ščių ž y g is p rieš Prūsiją Čekijos karalius, lie tu v iu s Brandenburgo markgrafas, Tiuringijos landgrafas, Braunšveigo kunigaikštis; kadangi kariuomenė tapo sutelkta smarkiai įrudenėjus, o žiemos.
+Po kryžiuočių pralaimėjimo krikščionių valdovai surinko kariuomenes ir atvedė jas į Prūsiją. Čekijos karalius, Brandenburgo markgrafas, Tiuringijos landgrafas ir Braunšveigo kunigaikštis atvedė kariuomenes į Prūsiją, bet lietuvių nepuolė.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185720"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad žiauri šio karo baigtis paskatino krikščionių K a rin ė g u d r y b ė k o v o j e p rieš k r y ž iu o čius valdovus griebtis ginklo.'
+  global_id: t-185720
+  teiginys: 'Po kryžiuočių pralaimėjimo krikščionių valdovai surinko kariuomenes ir atvedė jas į Prūsiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185721"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad diK rik ščio n ių kunidžiules kariaunas atvedė į g a ik ščių ž y g is p rieš Prūsiją Čekijos karalius, lie tu v iu s Brandenburgo markgrafas, Tiuringijos landgrafas, Braunšveigo kunigaikštis; kadangi kariuomenė tapo sutelkta smarkiai įrudenėjus, o žiemos.'
+  global_id: t-185721
+  teiginys: 'Čekijos karalius, Brandenburgo markgrafas, Tiuringijos landgrafas ir Braunšveigo kunigaikštis atvedė kariuomenes į Prūsiją, bet lietuvių nepuolė.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad žiauri šio karo baigtis paskatino krikščionių K a rin ė g u d r y b ė k o v o j e p rieš k r y ž iu o čius valdovus griebtis ginklo.'
+  santrauka: 'Po kryžiuočių pralaimėjimo krikščionių valdovai surinko kariuomenes ir atvedė jas į Prūsiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tada kryžiuočiai patyrė di­
@@ -80,7 +83,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad diK rik ščio n ių kunidžiules kariaunas atvedė į g a ik ščių ž y g is p rieš Prūsiją Čekijos karalius, lie tu v iu s Brandenburgo markgrafas, Tiuringijos landgrafas, Braunšveigo kunigaikštis; kadangi kariuomenė tapo sutelkta smarkiai įrudenėjus, o žiemos.'
+  santrauka: 'Čekijos karalius, Brandenburgo markgrafas, Tiuringijos landgrafas ir Braunšveigo kunigaikštis atvedė kariuomenes į Prūsiją, bet lietuvių nepuolė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Di-
@@ -111,3 +114,14 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/landgrafas]]

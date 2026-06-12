@@ -16,7 +16,9 @@ Jau Ptolemajas II a.
 
 ## Teiginiai
 
+<a id="claim-t-17607"></a>
 - t-001
+  global_id: t-17607
   teiginys: 'Ptolemajas II a. žinojo galindus ir jotvingius, arba sūduvius.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Sliesoriūno straipsniai^117.
 
 ## Teiginiai
 
+<a id="claim-t-30610"></a>
 - t-001
+  global_id: t-30610
   teiginys: 'F. Sliesoriūnas rašė straipsnius apie 1831 m. sukilimą.'
   pagrindžia:
     - c-001

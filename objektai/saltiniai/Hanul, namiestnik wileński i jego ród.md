@@ -22,7 +22,9 @@ Semkowicz, Wb.: Hanul, namiestnik wileński i jego ród , AW, t.
 
 ## Teiginiai
 
+<a id="claim-t-31701"></a>
 - t-001
+  global_id: t-31701
   teiginys: 'Wb. Semkowicziaus „Hanul, namiestnik wileński i jego ród“ paskelbta AW 7 tome 1930 m., p. 1–20.'
   pagrindžia:
     - c-001

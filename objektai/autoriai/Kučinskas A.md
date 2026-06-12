@@ -19,7 +19,9 @@ Dusburgietis teigia, kad tokiais atvejais nepaisoma argumentų, leidžiančių a
 
 ## Teiginiai
 
+<a id="claim-t-60738"></a>
 - t-001
+  global_id: t-60738
   teiginys: 'Dusburgietis teigia, kad tokiais atvejais nepaisoma argumentų, leidžiančių abejoti Kęstučio priesaikos tikrumu ir jo, kaip vyriausiojo kunigo, funkcijomis (Kučinskas A., Kęstutis..., p. 128—131).'
   pagrindžia:
     - c-001

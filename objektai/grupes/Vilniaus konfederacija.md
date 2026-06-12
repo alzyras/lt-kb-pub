@@ -18,7 +18,9 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
 
 ## Teiginiai
 
+<a id="claim-t-20071"></a>
 - t-001
+  global_id: t-20071
   teiginys: 'Vilniaus konfederacija 1792 m. birželio 25 d. pritarė Targovicos konfederacijai.'
   pagrindžia:
     - c-001

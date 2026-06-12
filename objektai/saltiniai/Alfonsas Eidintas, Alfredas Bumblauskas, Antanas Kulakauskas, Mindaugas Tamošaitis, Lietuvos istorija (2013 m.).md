@@ -30,30 +30,40 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
 
 ## Teiginiai
 
+<a id="claim-t-12997"></a>
 - t-001
+  global_id: t-12997
   teiginys: 'Bibliografinėje eilutėje leidinys nurodytas kaip 2012 m. 280 puslapių knyga.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-12998"></a>
 - t-002
+  global_id: t-12998
   teiginys: 'Leidinio rengėjai siekė glausto, lengvai skaitomo, tiesos ir atvirumo kriterijais grįsto Lietuvos istorijos veikalo.'
   pagrindžia:
     - c-001
     - c-007
     - c-002
 
+<a id="claim-t-13000"></a>
 - t-003
+  global_id: t-13000
   teiginys: 'Redaktoriaus žodyje leidinio chronologinė aprėptis siejama su 1009 m. ir Lietuvos virsmu visateise Europos Sąjungos nare 2004 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-13110"></a>
 - t-004
+  global_id: t-13110
   teiginys: 'Redaktoriaus žodyje skyrių autorystė paskirstoma Alfredui Bumblauskui, Antanui Kulakauskui, Alfonsui Eidintui ir Mindaugui Tamošaičiui.'
   pagrindžia:
     - c-004
     - c-005
 
+<a id="claim-t-13111"></a>
 - t-005
+  global_id: t-13111
   teiginys: 'Redaktoriaus žodyje leidinys įvardytas kaip pirmas bandymas nuo 1990 m. valstybės atkūrimo aprėpti Lietuvos istorijos distanciją.'
   pagrindžia:
     - c-003

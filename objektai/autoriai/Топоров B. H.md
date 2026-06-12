@@ -19,12 +19,16 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
 
 ## Teiginiai
 
+<a id="claim-t-175153"></a>
 - t-001
+  global_id: t-175153
   teiginys: 'Топоров B. H. siejo mitologinį personažą su šaknimi „vėl-“ vadinamajame pagrindiniame mite.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-175154"></a>
 - t-002
+  global_id: t-175154
   teiginys: 'Топоров B. H. veikale apie prūsų kalbą aptarė Krivį.'
   pagrindžia:
     - c-002

@@ -21,7 +21,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-03500"></a>
 - t-001
+  global_id: t-03500
   teiginys: '„Acta Baltico-Slavica“ yra Balstogės mokslo draugijos nuo 1964 m. leidžiamas žurnalas, iki 1970 m. turėjęs septynis tomus.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-39499"></a>
 - t-001
+  global_id: t-39499
   teiginys: 'Bronius Liesis-Naktis žuvo 1949 m. rugpjūčio 13 d. Užpelkių miške sunaikinus Prisikėlimo apygardos štabą.'
   pagrindžia:
     - c-001

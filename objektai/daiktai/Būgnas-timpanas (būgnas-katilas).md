@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40701"></a>
 - t-001
+  global_id: t-40701
   teiginys: 'Būgnas-timpanas buvo vienas iš dviejų Vilniaus Šv. apaštalų Petro ir Povilo bažnyčioje saugomų būgnų.'
   pagrindžia:
     - c-001

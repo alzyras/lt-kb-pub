@@ -26,7 +26,9 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
 
 ## Teiginiai
 
+<a id="claim-t-56938"></a>
 - t-001
+  global_id: t-56938
   teiginys: 'Dusburgietis teigia, kad petro Dusburgiečio kronika Epocha, šaltiniai, tendencija, reikšmė Viduramžių rašytiniai istoriniai šaltiniai skirstomi į dokumentus, juridinius ir pasakojamuosius, arba naratyvinius (iš lot.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vrocl
 
 ## Teiginiai
 
+<a id="claim-t-86197"></a>
 - t-001
+  global_id: t-86197
   teiginys: 'Švitrigaila prašė, kad didysis magistras palydėtų Vroclavo vyskupą Konradą į Kistriną.'
   pagrindžia:
     - c-001

@@ -16,12 +16,16 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 
 ## Teiginiai
 
+<a id="claim-t-01540"></a>
 - t-001
+  global_id: t-01540
   teiginys: '„Žiburys“ buvo viena iš trijų ypatingą reikšmę turėjusių švietimo draugijų, veikusių kartu su „Rytu“ ir „Saule“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182933"></a>
 - t-002
+  global_id: t-182933
   teiginys: 'Marijampolėje veikęs „Žiburys“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų.'
   pagrindžia:
     - c-002

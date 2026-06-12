@@ -16,7 +16,9 @@ Laskowski, O.
 
 ## Teiginiai
 
+<a id="claim-t-30786"></a>
 - t-001
+  global_id: t-30786
   teiginys: 'O. Laskowskis 1929 m. Varšuvoje išleido išsamų strateginį tyrinėjimą „Grunwald“.'
   pagrindžia:
     - c-001

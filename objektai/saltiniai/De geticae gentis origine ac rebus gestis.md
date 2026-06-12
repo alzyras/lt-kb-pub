@@ -19,7 +19,9 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
 
 ## Teiginiai
 
+<a id="claim-t-88414"></a>
 - t-001
+  global_id: t-88414
   teiginys: 'Veikale „De geticae gentis origine ac rebus gestis“ Jornandes minėjo prie Vyslos žiočių įsikūrusius vidivarijus.'
   pagrindžia:
     - c-001

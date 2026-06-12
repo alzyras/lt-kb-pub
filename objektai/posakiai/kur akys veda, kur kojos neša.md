@@ -17,7 +17,9 @@ Dusburgietis teigia, kad 30 išvengusių mirties lietuvių greitai nukūrė link
 
 ## Teiginiai
 
+<a id="claim-t-59120"></a>
 - t-001
+  global_id: t-59120
   teiginys: 'Dusburgietis teigia, kad 30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės ir jai pranešė, ką jiems padarė broliai; juos pagavo tokia baimė ir apėmė toks siaubas, kad, kitų nelaukdami, pabėgo kur akys veda, kur kojos neša ir prarado galybę žmonių bei arklių, kurių.'
   pagrindžia:
     - c-001

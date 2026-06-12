@@ -44,52 +44,72 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75212"></a>
 - t-001
+  global_id: t-75212
   teiginys: 'Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-75213"></a>
 - t-002
+  global_id: t-75213
   teiginys: 'Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-75214"></a>
 - t-003
+  global_id: t-75214
   teiginys: 'Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-75215"></a>
 - t-004
+  global_id: t-75215
   teiginys: '2004 Lietuva tampa ES ir NATO nare.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75216"></a>
 - t-005
+  global_id: t-75216
   teiginys: '2004 m. gegužės 1 d. Lietuva įstojo į ES ir įgijo teisę kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-75217"></a>
 - t-006
+  global_id: t-75217
   teiginys: 'Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-75218"></a>
 - t-007
+  global_id: t-75218
   teiginys: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75219"></a>
 - t-008
+  global_id: t-75219
   teiginys: '1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75220"></a>
 - t-009
+  global_id: t-75220
   teiginys: 'Po Lietuvos įstojimo į ES padidėjo šalies prekybos ir eksportuojamų prekių gamybos apimtys.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-75221"></a>
 - t-010
+  global_id: t-75221
   teiginys: '1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO.'
   pagrindžia:
     - c-003

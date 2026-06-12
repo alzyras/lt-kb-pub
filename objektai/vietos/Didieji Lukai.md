@@ -19,12 +19,16 @@ Didieji Lukai: lietuviai, matydami, kad karo sunkumus tenka nešti beveik jiems 
 
 ## Teiginiai
 
+<a id="claim-t-67778"></a>
 - t-001
+  global_id: t-67778
   teiginys: 'Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti tik Didieji Lukai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67779"></a>
 - t-002
+  global_id: t-67779
   teiginys: 'Didieji Lukai: lietuviai, matydami, kad karo sunkumus tenka nešti beveik jiems vieniems, įkalbinėjo karalių daryti taiką, net nepaėmus Didžiųjų Lukų tvirtovės, jei tik caras pasiūlytų priimtinesnes sąlygas.'
   pagrindžia:
     - c-001

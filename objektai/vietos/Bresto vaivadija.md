@@ -17,7 +17,9 @@ Oginskis telkė respublikonų pajėgas Žemaitijoje, Višnioveckiai organizavo b
 
 ## Teiginiai
 
+<a id="claim-t-41631"></a>
 - t-001
+  global_id: t-41631
   teiginys: 'Bresto vaivadijoje Višnioveckiai organizavo LDK pietų bajoriją ir telkė savo šalininkus, tarnus bei rekrūtus iš Voluinės dvarų.'
   pagrindžia:
     - c-001

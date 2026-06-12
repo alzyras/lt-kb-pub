@@ -48,12 +48,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-47808"></a>
 - t-001
+  global_id: t-47808
   teiginys: 'E. Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-47809"></a>
 - t-002
+  global_id: t-47809
   teiginys: 'Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t.'
   pagrindžia:
     - c-001

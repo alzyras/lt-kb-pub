@@ -19,7 +19,9 @@ Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijo
 
 ## Teiginiai
 
+<a id="claim-t-35340"></a>
 - t-001
+  global_id: t-35340
   teiginys: 'Vyguntas kartu su Jogailos motina Julijona ir broliais pritarė Jogailos sutarčių su Ordinais įsipareigojimams.'
   pagrindžia:
     - c-001

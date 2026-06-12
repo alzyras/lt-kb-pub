@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66638"></a>
 - t-001
+  global_id: t-66638
   teiginys: 'Dusburgietis teigia, kad bandoma Kresmenos ieškoti ir toliau į šiaurės rytus, tarp Suvalkų ir Seinų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66639"></a>
 - t-002
+  global_id: t-66639
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo kariuomenę ir.'
   pagrindžia:
     - c-002

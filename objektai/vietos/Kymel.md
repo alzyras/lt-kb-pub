@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-32292"></a>
 - t-001
+  global_id: t-32292
   teiginys: '1295 m. kryžiuočiai sunaikino prie Nemuno stovėjusią stiprią Kymel pilį.'
   pagrindžia:
     - c-001

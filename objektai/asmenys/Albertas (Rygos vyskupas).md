@@ -19,7 +19,9 @@ Albertas buvo Rygos vyskupas ir vienas Livonijos vokiečių valdžios kūrėjų.
 
 ## Teiginiai
 
+<a id="claim-t-09984"></a>
 - t-001
+  global_id: t-09984
   teiginys: 'Rygos vyskupas Albertas nugalėjo Visvaldį.'
   pagrindžia:
     - c-001

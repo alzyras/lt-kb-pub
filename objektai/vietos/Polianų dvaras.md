@@ -16,7 +16,9 @@ Aplink Polianų dvarą prie Ašmenos buvo rasta daug kartų.
 
 ## Teiginiai
 
+<a id="claim-t-86226"></a>
 - t-001
+  global_id: t-86226
   teiginys: 'Aplink Polianų dvarą prie Ašmenos buvo rasta daug kartų.'
   pagrindžia:
     - c-001

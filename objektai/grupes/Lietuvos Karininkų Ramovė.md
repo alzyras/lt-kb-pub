@@ -30,7 +30,9 @@ Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą �
 
 ## Teiginiai
 
+<a id="claim-t-31288"></a>
 - t-001
+  global_id: t-31288
   teiginys: 'Lietuvos Karininkų Ramovės iniciatyva Janulaitis parašė plačią monografiją apie Kęstutį, bet ją išspausdinti sutrukdė 1940 m. įvykiai.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-36138"></a>
 - t-001
+  global_id: t-36138
   teiginys: 'Motiejaus K. Wołonczewskio „Żemajtiu Wiskupiste“ buvo išleista Vilniuje 1848 m.'
   pagrindžia:
     - c-001

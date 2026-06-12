@@ -26,37 +26,51 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 
 ## Teiginiai
 
+<a id="claim-t-174175"></a>
 - t-001
+  global_id: t-174175
   teiginys: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-174176"></a>
 - t-002
+  global_id: t-174176
   teiginys: '1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-174177"></a>
 - t-003
+  global_id: t-174177
   teiginys: 'Šventaragio slėnyje Vilnia įteka į Viliją.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-174178"></a>
 - t-004
+  global_id: t-174178
   teiginys: 'Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose buvo žinoma jau XII amžiuje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-174183"></a>
 - t-009
+  global_id: t-174183
   teiginys: 'Iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-174184"></a>
 - t-010
+  global_id: t-174184
   teiginys: 'Prie Vilnios buvusios tvirtovės palei krantą pažemiais trobelės tęsėsi iki pat Vilijos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-174187"></a>
 - t-012
+  global_id: t-174187
   teiginys: 'Gediminas, statydindamas pilį, iškasė Vilniai naują vagą ir iškastomis žemėmis paaukštino Pilies kalną.'
   pagrindžia:
     - c-003

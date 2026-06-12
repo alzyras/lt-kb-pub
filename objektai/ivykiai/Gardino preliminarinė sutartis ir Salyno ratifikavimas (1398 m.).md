@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-95956"></a>
 - t-001
+  global_id: t-95956
   teiginys: '1398 m. Gardine padarė preliminarinę (prirengiamąją) sutartį, kuria Vytautas: 1.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-95957"></a>
 - t-002
+  global_id: t-95957
   teiginys: '1398 m. spalio 12 d. Gardino sutartis buvo iškilmingai ratifikuota Salyno saloje Nemune.'
   pagrindžia:
     - c-002

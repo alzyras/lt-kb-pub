@@ -19,7 +19,9 @@ Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelt
 
 ## Teiginiai
 
+<a id="claim-t-58761"></a>
 - t-001
+  global_id: t-58761
   teiginys: 'Į Elbingo pilį buvo pasiųsta imperatoriaus Fridricho II magistrui perduota didelė šventojo kryžiaus dalis.'
   pagrindžia:
     - c-001

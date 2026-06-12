@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19965"></a>
 - t-001
+  global_id: t-19965
   teiginys: '„Ašies“ susidarymas kilus politinei krizei dėl užsienio intervencijos rodė pasikeitus opozicinių partijų veiklos taktiką.'
   pagrindžia:
     - c-001

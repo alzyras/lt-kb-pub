@@ -17,12 +17,16 @@ Bumblauskas A.
 
 ## Teiginiai
 
+<a id="claim-t-64571"></a>
 - t-001
+  global_id: t-64571
   teiginys: 'A. Bumblausko veikalas „Senosios Lietuvos istorija 1009-1795“ išleistas Vilniuje 2005 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64572"></a>
 - t-002
+  global_id: t-64572
   teiginys: 'A. Bumblauskas parašė veikalą „Lietuvos Didžioji Kunigaikštija ir jos tradicija“, išleistą Vilniuje 2010 m.'
   pagrindžia:
     - c-001

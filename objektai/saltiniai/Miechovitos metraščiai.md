@@ -19,7 +19,9 @@ Miechovita, Bielskis, o ypač Strijkovskis savo metraščiuose, su­ pykę už k
 
 ## Teiginiai
 
+<a id="claim-t-88452"></a>
 - t-001
+  global_id: t-88452
   teiginys: 'Miechovita savo metraščiuose kritikavo Aleksandro Balinskio gydymą Vilniuje, per kurį karalius Aleksandras vos neužduso garo vonioje.'
   pagrindžia:
     - c-001

@@ -25,12 +25,9 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
 
 ## Teiginiai
 
+<a id="claim-t-68034"></a>
 - t-001
-  teiginys: 'Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą Kaišiadorių ir Alytaus kryptimis.'
-  pagrindžia:
-    - c-002
-
-- t-002
+  global_id: t-68034
   teiginys: 'Vokiečių okupacijos metais buvo geležinkelių apsaugos policininkas Kaišiadoryse.'
   pagrindžia:
     - c-001
@@ -48,36 +45,4 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    2 d.) sustabdyti kraujo praliejimą ir susitarti
-    geruoju bendros kovos reikalui prieš bolševikus; be to, ji tikino,
-    kad kariuomenių užimtosios pozicijos neturėsiančios sprendžia-
-    mos reikšmės būsimųjų sienų nustatymui. Santarvei ypač rū-
-    pėjo, kad tarp valstybių, kariaujančių su bolševikais, nebūtų
-    vaidų. Tačiau lenkai ne tik kad nesustabdė kovos, bet dar
-    ėmė veržtis į Lietuvą Kaišiadorių ir Alytaus kryptimis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą Kaišiadorių ir Alytaus kryptimis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Santarvei ypač rū-
-    pėjo, kad tarp valstybių, kariaujančių su bolševikais, nebūtų
-    vaidų. Tačiau lenkai ne tik kad nesustabdė kovos, bet dar
-    ėmė veržtis į Lietuvą Kaišiadorių ir Alytaus kryptimis. Lie-
-    tuvos delegacija tada vėl kreipėsi į konferenciją, kad ji nustatytų
-    laikinę demarkacijos liniją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003

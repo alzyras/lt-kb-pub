@@ -17,7 +17,9 @@ Sukilėlių pajėgos Sukilėlių kariuomenės pagrindą Panerių mūšyje sudar�
 
 ## Teiginiai
 
+<a id="claim-t-39006"></a>
 - t-001
+  global_id: t-39006
   teiginys: 'Trakų sukilėlių daliniai buvo tarp Lietuvos sukilėlių junginių, sudariusių Panerių mūšio sukilėlių kariuomenės pagrindą.'
   pagrindžia:
     - c-001

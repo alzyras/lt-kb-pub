@@ -25,12 +25,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-36467"></a>
 - t-001
+  global_id: t-36467
   teiginys: 'Jogaila rugpjūčio 5 d. atvyko į Ostrovą netoli Lydos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184317"></a>
 - t-002
+  global_id: t-184317
   teiginys: '1392 m. Vytauto ir Jogailos sudaryta Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti.'
   pagrindžia:
     - c-002

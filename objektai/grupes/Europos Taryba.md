@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19687"></a>
 - t-001
+  global_id: t-19687
   teiginys: '1993 m. Lietuva buvo priimta į Europos Tarybą.'
   pagrindžia:
     - c-001

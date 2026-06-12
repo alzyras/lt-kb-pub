@@ -20,7 +20,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Kunonas (Brandenburgo komtūras)
 
 ## Santrauka
@@ -29,18 +28,24 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
 
 ## Teiginiai
 
+<a id="claim-t-60163"></a>
 - t-001
+  global_id: t-60163
   teiginys: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 metais Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės pilis ir iki pamatų sudegino jų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60164"></a>
 - t-002
+  global_id: t-60164
   teiginys: 'Dusburgietis teigia, kad apie Notangos žemės nuniokojimą ir 250 krikščionių mirtį 1299 metais Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius ir keletą dienų jos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184760"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad kunonas, gavęs žinią apie priešą, spėjo, jog šie braunasi į Notangą (mat ši buvo arčiausiai); tada sku biai patraukė su būriu į šalį ir, parinkęs gerą vietą pasaloms, pradėjo laukti jų pasirodant.'
+  global_id: t-184760
+  teiginys: 'Kunonas, gavęs žinią apie priešą, patraukė su būriu į Notangą ir parinkęs vietą pasalai laukė lietuvių pasirodant.'
   pagrindžia:
     - c-003
 
@@ -88,7 +93,7 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad kunonas, gavęs žinią apie priešą, spėjo, jog šie braunasi į Notangą (mat ši buvo arčiausiai); tada sku biai patraukė su būriu į šalį ir, parinkęs gerą vietą pasaloms, pradėjo laukti jų pasirodant.'
+  santrauka: 'Kunonas, gavęs žinią apie priešą, patraukė su būriu į Notangą ir parinkęs vietą pasalai laukė lietuvių pasirodant.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai
@@ -110,3 +115,16 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Laivai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį]]
+- [[objektai/ivykiai/Brandenburgo komtūro žygis į Lietuvą ir lietuvių atsakomasis žygis į Prūsiją (1299 m.)]]
+- [[objektai/ivykiai/Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)]]
+- [[objektai/ivykiai/Junigėdos ir Pieštvės pilių papilių sudeginimas (1298 m.)]]
+- [[objektai/ivykiai/Notangos žemės nuniokojimas ir 250 krikščionių žūtis (1299 m.)]]

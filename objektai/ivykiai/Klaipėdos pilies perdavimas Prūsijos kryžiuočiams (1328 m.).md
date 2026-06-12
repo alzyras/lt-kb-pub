@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01667"></a>
 - t-001
+  global_id: t-01667
   teiginys: '1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Kijevo Rusia šiame šaltinyje minima kaip 988 m. Bizantijos krikštą priėmęs
 
 ## Teiginiai
 
+<a id="claim-t-181458"></a>
 - t-001
+  global_id: t-181458
   teiginys: 'Lietuva patyrė Kijevo Rusios agresiją.'
   pagrindžia:
     - c-001

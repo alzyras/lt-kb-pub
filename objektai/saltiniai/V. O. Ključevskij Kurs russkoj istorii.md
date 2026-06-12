@@ -23,7 +23,9 @@ Ključevskij : Kurs russkoj istorii, I, Maskva 1956, 30-45 p.
 
 ## Teiginiai
 
+<a id="claim-t-31952"></a>
 - t-001
+  global_id: t-31952
   teiginys: 'V. O. Ključevskio „Kurs russkoj istorii“ pirmasis tomas išleistas Maskvoje 1956 m.'
   pagrindžia:
     - c-001

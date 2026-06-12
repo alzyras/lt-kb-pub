@@ -17,7 +17,9 @@ Dusburgietis teigia, kad sis, atkeliavęs į šventąjį miestą, pamatė, jog n
 
 ## Teiginiai
 
+<a id="claim-t-60432"></a>
 - t-001
+  global_id: t-60432
   teiginys: 'Dusburgietis teigia, kad sis, atkeliavęs į šventąjį miestą, pamatė, jog nedorėliai nepagarbiai elgiasi šventose vietose, jog godotinas vyras Simeonas, miesto patriarchas, kartu su savo valdiniais nelyginant niekingas vergas, puolęs į visišką neviltį, kenčia begalinę priespaudą.'
   pagrindžia:
     - c-001

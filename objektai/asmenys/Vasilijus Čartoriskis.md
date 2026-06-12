@@ -16,7 +16,9 @@ Antra: Pinsko kunigaikš­ tis nebuvo joks Narimantas, bet Va­ silijus Čertori
 
 ## Teiginiai
 
+<a id="claim-t-87879"></a>
 - t-001
+  global_id: t-87879
   teiginys: 'Vasilijus Čartoriskis buvo Pinsko kunigaikštis, Karigailos sūnus ir Algirdo vaikaitis.'
   pagrindžia:
     - c-001

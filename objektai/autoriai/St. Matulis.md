@@ -24,7 +24,9 @@ Matulis : Kun.
 
 ## Teiginiai
 
+<a id="claim-t-30997"></a>
 - t-001
+  global_id: t-30997
   teiginys: 'St. Matulis 1961 m. LASD IV tome paskelbė darbą „Kun. prof. dr. Jonas Totoraitis“.'
   pagrindžia:
     - c-001

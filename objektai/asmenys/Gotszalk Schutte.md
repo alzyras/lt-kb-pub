@@ -26,7 +26,9 @@ Be to, į Žemaičių vyskupiją pareiškė pretenzijų Rygos arkivyskupai (Gots
 
 ## Teiginiai
 
+<a id="claim-t-35080"></a>
 - t-001
+  global_id: t-35080
   teiginys: 'Rygos arkivyskupas Gotszalk Schutte reiškė pretenzijas į Žemaičių vyskupiją.'
   pagrindžia:
     - c-001

@@ -29,52 +29,72 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
 
 ## Teiginiai
 
+<a id="claim-t-182764"></a>
 - t-001
+  global_id: t-182764
   teiginys: 'Jono Budrio vadovaujamas Klaipėdos sukilimas padėjo Lietuvai XX a. pirmoje pusėje susigrąžinti Klaipėdos kraštą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183030"></a>
 - t-002
-  teiginys: 'Klaipėdos krašto atskyrimas nuo Vokietijos.'
+  global_id: t-183030
+  teiginys: 'Taikos konferencija atskyrė Klaipėdos kraštą nuo Vokietijos, bet jo neprijungė prie Lietuvos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183602"></a>
 - t-003
+  global_id: t-183602
   teiginys: 'Tiesa, Versalio taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietuvos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183603"></a>
 - t-004
+  global_id: t-183603
   teiginys: 'Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-183604"></a>
 - t-005
+  global_id: t-183604
   teiginys: '1925 m. Klaipėdos krašto gyventojų surašymo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000 vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo lietuviškai.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-183605"></a>
 - t-006
+  global_id: t-183605
   teiginys: 'Abi šalys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos pusėje.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-183606"></a>
 - t-007
+  global_id: t-183606
   teiginys: 'Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svarbių problemų darėsi nesėkmingas Klaipėdos integravimas, nes Klaipėda niekaip „neprilipo“ prie Lietuvos, o vokiškoji Klaipėdos krašto direktorija labiau klausė Vokietijos nurodymų.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-183607"></a>
 - t-008
+  global_id: t-183607
   teiginys: 'Įvesti mokymą lietuviškai pagal mokinių kilmę nepavyko, o nurodymai tarnautojams darbe kalbėti lietuviškai, dalyvauti lietuviškose šventėse davė atvirkščią rezultatą – oponentai efektyviai kliudė integruoti Klaipėdos kraštą.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-183608"></a>
 - t-009
+  global_id: t-183608
   teiginys: 'Klaipėdos kraštas daugeliu išsivystymo parametrų buvo panašesnis į Latviją ir Estiją, negu į Didžiąją Lietuvą.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-183609"></a>
 - t-010
+  global_id: t-183609
   teiginys: 'Tarpukariu Lietuva su Vokietija konfliktavo dėl Klaipėdos krašto, o su Lenkija – dėl Vilniaus krašto.'
   pagrindžia:
     - c-010
@@ -94,7 +114,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
     - t-001
 
 - c-002
-  santrauka: 'Klaipėdos krašto atskyrimas nuo Vokietijos.'
+  santrauka: 'Taikos konferencija atskyrė Klaipėdos kraštą nuo Vokietijos, bet jo neprijungė prie Lietuvos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Klaipėdos krašto atskyrimas nuo Vokietijos.** Taikos kon-

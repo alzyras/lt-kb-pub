@@ -45,7 +45,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87087"></a>
 - t-001
+  global_id: t-87087
   teiginys: 'Prie Strėvos upės žemaičių būriai prikirto medžių ir jais užvertė atsitraukiančios kariaunos kelią.'
   pagrindžia:
     - c-001

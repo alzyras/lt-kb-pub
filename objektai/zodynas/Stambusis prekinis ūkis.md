@@ -17,7 +17,9 @@ Kaime susiklostė sudėtinga gyventojų socialinė struktūra: žemdirbiai, įk�
 
 ## Teiginiai
 
+<a id="claim-t-22024"></a>
 - t-001
+  global_id: t-22024
   teiginys: 'Stambųjį prekinį ūkį siekė plėtoti žemę atgavę žemdirbiai, papildomai nuomoję ar pirkę kitų paveldėtojų atgautas žemes.'
   pagrindžia:
     - c-001

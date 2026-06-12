@@ -24,7 +24,9 @@ Kulikauskas, pateikęs duomenų apie seniausiai Lietuvoje augintus javus (AkMD, 
 
 ## Teiginiai
 
+<a id="claim-t-30905"></a>
 - t-001
+  global_id: t-30905
   teiginys: 'P. Kulikauskas parašė darbą „Kurmaičių (Kretingos raj.) plokštinio kapinyno tyrinėjimai“.'
   pagrindžia:
     - c-001

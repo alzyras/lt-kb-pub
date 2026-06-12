@@ -12,34 +12,39 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Ugnimi ir kalaviju
 
 ## Santrauka
 
-Kojelavičius teigia, kad len kams pasitraukus į miestus ir neleidus savo turtą nio koti ir savintis, jis, vienur ir kitur nesutikęs pasiprie šinimo, ugnimi ir kalaviju smarkiai nusiaubė aplinki nius kaimus ir dvarus, išžudęs galybę silpnų senių bei vaikų, be kito grobio, išsivarė. Kojelavičius teigia, kad jie netru ko užimti Sochačevo ir Plocko apygardas; dvarus ir visa kita, ko negalėjo išsigabenti iš krašto kaip gro bio, sunaikino ugnimi ir kalaviju. Kojelavičius teigia, kad todėl, sužinojęs, jog skitai dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug nimi ir kalaviju, jis ryžtingiau nei bet kada anksčiau pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai pavaduoti.
+Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusiaubė aplinkinius kaimus bei dvarus. Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju. Skitams dviem voromis užpuolus Lenkiją ir siaubiant ją ugnimi bei kalaviju, karalius įsitraukė į karą dėl Podolės.
 
 ## Teiginiai
 
+<a id="claim-t-185464"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad len kams pasitraukus į miestus ir neleidus savo turtą nio koti ir savintis, jis, vienur ir kitur nesutikęs pasiprie šinimo, ugnimi ir kalaviju smarkiai nusiaubė aplinki nius kaimus ir dvarus, išžudęs galybę silpnų senių bei vaikų, be kito grobio, išsivarė.'
+  global_id: t-185464
+  teiginys: 'Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusiaubė aplinkinius kaimus bei dvarus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185465"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad jie netru ko užimti Sochačevo ir Plocko apygardas; dvarus ir visa kita, ko negalėjo išsigabenti iš krašto kaip gro bio, sunaikino ugnimi ir kalaviju.'
+  global_id: t-185465
+  teiginys: 'Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185466"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad todėl, sužinojęs, jog skitai dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug nimi ir kalaviju, jis ryžtingiau nei bet kada anksčiau pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai pavaduoti.'
+  global_id: t-185466
+  teiginys: 'Skitams dviem voromis užpuolus Lenkiją ir siaubiant ją ugnimi bei kalaviju, karalius įsitraukė į karą dėl Podolės.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad len kams pasitraukus į miestus ir neleidus savo turtą nio koti ir savintis, jis, vienur ir kitur nesutikęs pasiprie šinimo, ugnimi ir kalaviju smarkiai nusiaubė aplinki nius kaimus ir dvarus, išžudęs galybę silpnų senių bei vaikų, be kito grobio, išsivarė.'
+  santrauka: 'Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusiaubė aplinkinius kaimus bei dvarus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Staigiai ir be var­
@@ -68,7 +73,7 @@ Kojelavičius teigia, kad len kams pasitraukus į miestus ir neleidus savo turt�
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad jie netru ko užimti Sochačevo ir Plocko apygardas; dvarus ir visa kita, ko negalėjo išsigabenti iš krašto kaip gro bio, sunaikino ugnimi ir kalaviju.'
+  santrauka: 'Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lietuviai, kelerius metus vengę niokoti to­
@@ -100,7 +105,7 @@ Kojelavičius teigia, kad len kams pasitraukus į miestus ir neleidus savo turt�
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad todėl, sužinojęs, jog skitai dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug nimi ir kalaviju, jis ryžtingiau nei bet kada anksčiau pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai pavaduoti.'
+  santrauka: 'Skitams dviem voromis užpuolus Lenkiją ir siaubiant ją ugnimi bei kalaviju, karalius įsitraukė į karą dėl Podolės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai
@@ -132,3 +137,25 @@ Kojelavičius teigia, kad len kams pasitraukus į miestus ir neleidus savo turt�
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Algardas Hohenšteino grafas]]
+- [[objektai/asmenys/Helvigas fon Goldbachas]]
+- [[objektai/posakiai/Kraštą ugnimi ir kalaviju nusiaubę]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Lešekas]]
+- [[objektai/ivykiai/Lietuvių pagalba Konradui užimant Gostininą ir vėlesnis įsiveržimas į Mazoviją]]
+- [[objektai/asmenys/Petras (Krokuvos vaivada)]]
+- [[objektai/asmenys/Tautvila]]
+- [[objektai/asmenys/Tautvilas]]
+- [[objektai/ivykiai/Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.)]]
+- [[objektai/asmenys/Kazimieras Jogailaitis]]
+- [[objektai/ivykiai/Skitų įsiveržimas į Lenkiją ir Kazimiero įsitraukimas į karą dėl Podolės (1488 m.)]]

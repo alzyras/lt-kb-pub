@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-34553"></a>
 - t-001
+  global_id: t-34553
   teiginys: '1392 m. rudenį kryžiuočiai įsiveržė į Lietuvą, užpuolė Suražiaus pilį, ją paėmė ir sudegino.'
   pagrindžia:
     - c-001

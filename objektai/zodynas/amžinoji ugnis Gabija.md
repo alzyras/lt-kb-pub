@@ -17,12 +17,16 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
 
 ## Teiginiai
 
+<a id="claim-t-86509"></a>
 - t-001
+  global_id: t-86509
   teiginys: 'Po Vilniaus gyventojų krikšto amžinoji ugnis buvo iškilmingai užgesinta.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86510"></a>
 - t-002
+  global_id: t-86510
   teiginys: 'Šventaragio slėnyje degė lietuvių garbinama amžinoji ugnis Gabija.'
   pagrindžia:
     - c-001

@@ -27,7 +27,9 @@ Bibliografia Regionu Białostockiego, red. U.
 
 ## Teiginiai
 
+<a id="claim-t-31632"></a>
 - t-001
+  global_id: t-31632
   teiginys: '„Bibliografia Regionu Białostockiego“ redagavo U. Lewicka ir J. Pochodowiczius; jos pirmasis tomas išėjo Balstogėje 1964 m.'
   pagrindžia:
     - c-001

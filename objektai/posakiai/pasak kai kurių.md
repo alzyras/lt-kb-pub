@@ -25,7 +25,9 @@ Dusburgietis teigia, kad kai kuriose vietose Dusburgietis kartais prasitaria ra�
 
 ## Teiginiai
 
+<a id="claim-t-59145"></a>
 - t-001
+  global_id: t-59145
   teiginys: 'Dusburgietis kai kuriose vietose nurodė rašantis pagal kitų pasakojimus formule „pasak kai kurių“.'
   pagrindžia:
     - c-001

@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-05298"></a>
 - t-001
+  global_id: t-05298
   teiginys: '1044 m. Jaroslavas vėl žygiavo į Lietuvą ir pavasarį įkūrė Naugarduką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05299"></a>
 - t-002
+  global_id: t-05299
   teiginys: 'XI amž. rusų metraščiai vos du kartu tepaminėjo lietuvių ir Kijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi Jaroslavo žygiai nereiškia tik vienos karinės ekspedicijos.'
   pagrindžia:
     - c-002

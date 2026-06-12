@@ -26,7 +26,9 @@ Dusburgietis teigia, kad vileišis V.
 
 ## Teiginiai
 
+<a id="claim-t-62662"></a>
 - t-001
+  global_id: t-62662
   teiginys: 'V. Vileišis yra 1935 m. Kaune išleisto veikalo „Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje“ autorius.'
   pagrindžia:
     - c-001

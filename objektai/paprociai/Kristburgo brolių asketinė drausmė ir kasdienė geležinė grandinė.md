@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62687"></a>
 - t-001
+  global_id: t-62687
   teiginys: 'Dusburgietis teigia, kad buvo dar vienas brolis, kuris ant pliko kūno kasdien iki mirties juosėjo sunkią geležinę grandinę toje vietoje, kur paprastai juosiama naktinė juosta.'
   pagrindžia:
     - c-001

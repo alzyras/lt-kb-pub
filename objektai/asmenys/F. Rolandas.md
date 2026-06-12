@@ -25,7 +25,9 @@ Rolando pajėgas pasukti kairiau, Nėries link.
 
 ## Teiginiai
 
+<a id="claim-t-80732"></a>
 - t-001
+  global_id: t-80732
   teiginys: 'Rolando pajėgas pasukti kairiau, Nėries link.'
   pagrindžia:
     - c-001

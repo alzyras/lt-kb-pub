@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-67591"></a>
 - t-001
+  global_id: t-67591
   teiginys: 'Vytauto rašte imperatoriui Zigmantui nurodomas 1420 m. Vroclave priimto Zigmanto sprendimo neteisingumas.'
   pagrindžia:
     - c-001

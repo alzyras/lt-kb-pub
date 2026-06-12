@@ -26,7 +26,9 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
 
 ## Teiginiai
 
+<a id="claim-t-87819"></a>
 - t-001
+  global_id: t-87819
   teiginys: 'Stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad būtų sumokėta skola Plockiui.'
   pagrindžia:
     - c-001

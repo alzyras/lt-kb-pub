@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Petras Semaška
 
 ## Santrauka
 
-Kojelavičius teigia, kad sužinojęs apie šį seimą, išsirengė į ke lią ir maskvėnų legatas, kurį, karaliui paliepus, su di dele pagarba atlydėjo į Liubliną žymūs didikai Teodoras Tiškevičius, Aleksandras Žitomirskis, Grigalius ir Eus tachijus Valavičiai, Teodoras Vodka ir Petras Semaš.
+Petras Semaška buvo tarp didikų, kurie karaliaus paliepimu atlydėjo maskvėnų legatą į Liubliną.
 
 ## Teiginiai
 
+<a id="claim-t-186247"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad sužinojęs apie šį seimą, išsirengė į ke lią ir maskvėnų legatas, kurį, karaliui paliepus, su di dele pagarba atlydėjo į Liubliną žymūs didikai Teodoras Tiškevičius, Aleksandras Žitomirskis, Grigalius ir Eus tachijus Valavičiai, Teodoras Vodka ir Petras Semaš.'
+  global_id: t-186247
+  teiginys: 'Petras Semaška buvo tarp didikų, kurie karaliaus paliepimu atlydėjo maskvėnų legatą į Liubliną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad sužinojęs apie šį seimą, išsirengė į ke lią ir maskvėnų legatas, kurį, karaliui paliepus, su di dele pagarba atlydėjo į Liubliną žymūs didikai Teodoras Tiškevičius, Aleksandras Žitomirskis, Grigalius ir Eus tachijus Valavičiai, Teodoras Vodka ir Petras Semaš.'
+  santrauka: 'Petras Semaška buvo tarp didikų, kurie karaliaus paliepimu atlydėjo maskvėnų legatą į Liubliną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kitais metais susirinko Liublino seimas, į kurį su-
@@ -40,3 +41,7 @@ Kojelavičius teigia, kad sužinojęs apie šį seimą, išsirengė į ke lią i
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Maskvėnai]]

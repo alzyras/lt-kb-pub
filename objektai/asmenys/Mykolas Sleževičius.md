@@ -27,42 +27,58 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 
 ## Teiginiai
 
+<a id="claim-t-75987"></a>
 - t-001
+  global_id: t-75987
   teiginys: 'Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, greitai kūrė Lietuvos karines pajėgas.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-75988"></a>
 - t-002
+  global_id: t-75988
   teiginys: 'Prezidentas Kazys Grinius, spaudžiamas perversmininkų, atstatydino Mykolo Sleževičiaus vyriausybę.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-75989"></a>
 - t-003
+  global_id: t-75989
   teiginys: 'Sleževičius pabrėžė, kad lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dvarininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-75990"></a>
 - t-004
+  global_id: t-75990
   teiginys: 'Mykolas Sleževičius nepriklausomybės kovose konsolidavo centrinę administraciją ir kvietė tautines mažumas priešintis įsiveržėliams.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75991"></a>
 - t-005
+  global_id: t-75991
   teiginys: 'Mykolas Sleževičius vadovavo vyriausybei, kurioje dominavo valstiečiai liaudininkai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75992"></a>
 - t-006
+  global_id: t-75992
   teiginys: 'Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-75993"></a>
 - t-007
+  global_id: t-75993
   teiginys: 'Sleževičius paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo dvarus, visi, kas sveiki, turi griebtis ginklo“.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75994"></a>
 - t-008
+  global_id: t-75994
   teiginys: 'Mykolas Sleževičius laikėsi šūkio „Kova eina, ji eis iki Seimas bus sušauktas“.'
   pagrindžia:
     - c-002

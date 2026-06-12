@@ -27,12 +27,16 @@ Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­ džiant iš 1379 m. suta
 
 ## Teiginiai
 
+<a id="claim-t-36840"></a>
 - t-001
+  global_id: t-36840
   teiginys: 'Jogailai išsikėlus į Lenkiją, Lietuva ir toliau liko valdoma dviejų kunigaikščių: Jogailos kaip supremus dux ir Vytauto kaip magnus dux.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-36841"></a>
 - t-002
+  global_id: t-36841
   teiginys: 'Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis.'
   pagrindžia:
     - c-002

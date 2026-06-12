@@ -17,12 +17,16 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
 
 ## Teiginiai
 
+<a id="claim-t-18826"></a>
 - t-001
+  global_id: t-18826
   teiginys: 'Antanas Terleckas buvo vienas iš prieš sovietų santvarką kovojusių asmenų ir buvo teistas tris kartus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-18827"></a>
 - t-002
+  global_id: t-18827
   teiginys: 'LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos nepriklausomybę taikiomis priemonėmis.'
   pagrindžia:
     - c-001

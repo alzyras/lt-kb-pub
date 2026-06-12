@@ -17,7 +17,9 @@ Norėdami, kad šis mūsų valios pareiški­ mas greičiau pasiektų žmones, �
 
 ## Teiginiai
 
+<a id="claim-t-86244"></a>
 - t-001
+  global_id: t-86244
   teiginys: '1571 m. gegužės 6 d. valdovas įsakė vieną savo testamento nuorašą laikyti Tikocino pilyje.'
   pagrindžia:
     - c-001

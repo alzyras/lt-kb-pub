@@ -19,7 +19,9 @@ davė labai reikšmingus fenomenus, kurių trumpa formulė būtų tokia – duon
 
 ## Teiginiai
 
+<a id="claim-t-20890"></a>
 - t-001
+  global_id: t-20890
   teiginys: 'Abiejų Tautų Respublikos XVII–XVIII a. įnašas į Europos ir pasaulio civilizaciją apibendrintas formule „duona, tolerancija, demokratija, konstitucija, barokas“.'
   pagrindžia:
     - c-001

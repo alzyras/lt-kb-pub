@@ -17,12 +17,16 @@ Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Ker
 
 ## Teiginiai
 
+<a id="claim-t-40283"></a>
 - t-001
+  global_id: t-40283
   teiginys: 'Livonijos magistras Kerskorfas žuvo Pabaisko, arba Šventosios, mūšyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183749"></a>
 - t-002
+  global_id: t-183749
   teiginys: 'Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Kerskorfas, maršalas Nesselrodė, žuvo dauguma Livonijos komtūrų ir riterijos krito, paimta į nelaisvę daug Švitrigailos karių.'
   pagrindžia:
     - c-002

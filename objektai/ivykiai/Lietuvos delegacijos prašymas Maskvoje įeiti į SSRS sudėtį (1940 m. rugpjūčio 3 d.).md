@@ -40,22 +40,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75137"></a>
 - t-001
+  global_id: t-75137
   teiginys: 'Kadangi okupantų paskirtas Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo neteisėti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75138"></a>
 - t-002
+  global_id: t-75138
   teiginys: 'Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas jų turtas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75139"></a>
 - t-003
+  global_id: t-75139
   teiginys: 'J. Paleckio vadovaujama 20 asmenų delegacija 1940 m. rugpjūčio 3 d. Maskvoje pasiprašė neva savanoriškai įeiti į SSRS sudėtį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183238"></a>
 - t-004
+  global_id: t-183238
   teiginys: 'J. Paleckio vadovaujama 20 asmenų delegacija 1940 m. rugpjūčio 3 d. Maskvoje paprašė Lietuvą įtraukti į SSRS sudėtį.'
   pagrindžia:
     - c-001

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
 
 ## Teiginiai
 
+<a id="claim-t-61074"></a>
 - t-001
+  global_id: t-61074
   teiginys: 'M. Mažvydas 1549 m. Ragainėje lietuviškai parašė „Giesmę šv. Ambraziejaus“.'
   pagrindžia:
     - c-001

@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01606"></a>
 - t-001
+  global_id: t-01606
   teiginys: '1922 m. gruodžio 20 d. Anglija, Prancūzija, Italija ir Japonija pripažino Lietuvą, iškeldamos sąlygą dėl Nemuno navigacijos režimo.'
   pagrindžia:
     - c-001

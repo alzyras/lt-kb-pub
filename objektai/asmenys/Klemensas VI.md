@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Klemensas VI
 
 ## Santrauka
 
-Kojelavičius teigia, kad pats Klemensas v a ld o v ų ž y g is p rie š VI, Romos popiežius, laišku lie tu v iu s pakvietė į karą įvairius krikščioniškųjų šalių valdo- 2 3 2 vus.
+Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus į karą prieš lietuvius.
 
 ## Teiginiai
 
+<a id="claim-t-186227"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pats Klemensas v a ld o v ų ž y g is p rie š VI, Romos popiežius, laišku lie tu v iu s pakvietė į karą įvairius krikščioniškųjų šalių valdo- 2 3 2 vus.'
+  global_id: t-186227
+  teiginys: 'Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus į karą prieš lietuvius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pats Klemensas v a ld o v ų ž y g is p rie š VI, Romos popiežius, laišku lie tu v iu s pakvietė į karą įvairius krikščioniškųjų šalių valdo- 2 3 2 vus.'
+  santrauka: 'Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus į karą prieš lietuvius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pats Klemensas
@@ -52,3 +53,8 @@ Kojelavičius teigia, kad pats Klemensas v a ld o v ų ž y g is p rie š VI, Ro
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

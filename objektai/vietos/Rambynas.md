@@ -19,7 +19,9 @@ Dusburgietis teigia, kad panemunėje esama Rambyno (žr.
 
 ## Teiginiai
 
+<a id="claim-t-58714"></a>
 - t-001
+  global_id: t-58714
   teiginys: 'Dusburgietis teigia, kad panemunėje esama Rambyno (žr.'
   pagrindžia:
     - c-001

@@ -18,7 +18,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Augustas Liudvigas Šleceris
 
 ## Santrauka
@@ -27,14 +26,17 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
 
 ## Teiginiai
 
+<a id="claim-t-184465"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad j. Jurginio įvade nurodoma, kad Augustas Liudvigas Šleceris vieną veikalą paskyrė Lietuvai kaip buvusiai savarankiškai valstybei, nurodant 1776 m. išleistą „Geschichte von Littauen, als einem eigenen Grossfūrstenthume, bis zum J. 1569“.'
+  global_id: t-184465
+  teiginys: 'Augustas Liudvigas Šleceris 1776 m. išleido veikalą apie Lietuvą kaip buvusią savarankišką valstybę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Augustas Liudvigas Šleceris 1776 m. išleido veikalą apie Lietuvą kaip buvusią savarankišką valstybę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vieną knygą jis

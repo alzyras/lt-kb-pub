@@ -27,12 +27,16 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
 
 ## Teiginiai
 
+<a id="claim-t-80105"></a>
 - t-001
+  global_id: t-80105
   teiginys: 'Leningradas, dabar Sankt Peterburgas, buvo vienas pagrindinių iš Lietuvos išvežamų maisto produktų vartotojų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-80109"></a>
 - t-002
+  global_id: t-80109
   teiginys: 'Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis seimas Varšuvoje.'
   pagrindžia:
     - c-002

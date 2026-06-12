@@ -13,12 +13,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Skitų įsiveržimas į Lenkiją ir Kazimiero įsitraukimas į karą dėl Podolės (1488 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad su kruto visi nelyginant iš gilaus miego pabudę tik tada, kai sukrėtė širdis tarytum netoliese staiga blykstelėjęs žaibas skitų įsibrovimas. Kojelavičius teigia, kad todėl, sužinojęs, jog skitai dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug nimi ir kalaviju, jis ryžtingiau nei bet kada anksčiau pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai pavaduoti.
+Kazimieras, sužinojęs apie skitų įsiveržimą į Lenkiją, pradėjo ryžtingiau rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -34,43 +33,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185771"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad su kruto visi nelyginant iš gilaus miego pabudę tik tada, kai sukrėtė širdis tarytum netoliese staiga blykstelėjęs žaibas skitų įsibrovimas.'
+  global_id: t-185771
+  teiginys: 'Kazimieras, sužinojęs apie skitų įsiveržimą į Lenkiją, pradėjo ryžtingiau rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Kojelavičius teigia, kad todėl, sužinojęs, jog skitai dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug nimi ir kalaviju, jis ryžtingiau nei bet kada anksčiau pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai pavaduoti.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad su kruto visi nelyginant iš gilaus miego pabudę tik tada, kai sukrėtė širdis tarytum netoliese staiga blykstelėjęs žaibas skitų įsibrovimas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Netru­
-    kus liautasi grasinti ginklu:
-    šitai patenkino neveiklų
-    karalių, tačiau valstybei iš to buvo maža naudos. Su­
-    kruto visi nelyginant iš gilaus miego pabudę tik tada,
-    kai sukrėtė širdis tarytum netoliese staiga blykstelėjęs
-    žaibas skitų įsibrovimas.
-    Karalius, jausdamas, jog
-    1488 m e ta i
-    diena nuo dienos vis labiau
-    silpsta, žinojo, kad artėja pa­
-    skutinioji, todėl iš visų jėgų stengėsi, išnaudodamas vi­
-    sokias progas, iškelti sūnus į deramas aukštybes.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kojelavičius teigia, kad todėl, sužinojęs, jog skitai dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug nimi ir kalaviju, jis ryžtingiau nei bet kada anksčiau pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai pavaduoti.'
+  santrauka: 'Kazimieras, sužinojęs apie skitų įsiveržimą į Lenkiją, pradėjo ryžtingiau rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai
@@ -101,4 +74,13 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Kazimieras Jogailaitis]]
+- [[objektai/posakiai/Ugnimi ir kalaviju]]

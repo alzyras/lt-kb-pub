@@ -17,22 +17,30 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
 
 ## Teiginiai
 
+<a id="claim-t-49483"></a>
 - t-001
+  global_id: t-49483
   teiginys: 'Povilas Lukšys žuvo nuo ugnies iš Taučiūnų dvaro ir buvo pirmasis Nepriklausomybės kovose žuvęs Lietuvos savanoris.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-49484"></a>
 - t-002
+  global_id: t-49484
   teiginys: 'Povilas Lukšys buvo paskirtas sustiprinto 17 žmonių žvalgybos patrulio vyresniojo padėjėju.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-49485"></a>
 - t-003
+  global_id: t-49485
   teiginys: 'Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių kaimo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-49486"></a>
 - t-004
+  global_id: t-49486
   teiginys: 'Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, kurie nepastebėti užėjo besirengiantiems apėjimui bolševikams į užnugarį ir netikėtai juos apmėtę granatomis bei apšaudę privertė iš Eigulių kaimo skubiai trauktis į Juodikio mišką.'
   pagrindžia:
     - c-001

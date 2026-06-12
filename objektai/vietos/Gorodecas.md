@@ -15,7 +15,6 @@ tags:
 amziai:
   - 'XIV'
 ---
-
 # Gorodecas
 
 ## Santrauka
@@ -24,13 +23,17 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
 
 ## Teiginiai
 
+<a id="claim-t-28339"></a>
 - t-001
+  global_id: t-28339
   teiginys: 'Gorodecas buvo viena iš paskutinių rytinių slavų pilių į rytus nuo lietuvių etnografinės ribos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184957"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad arčiausiai puolančiųjų plytėjo Mingailos valdinių žemės: norėdamas atkeršyta už jų nu siaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai jas užėmė, šiek tiek anksčiau su kariuomene patraukę ligi Gorodeco miesto.'
+  global_id: t-184957
+  teiginys: 'Polockiečiai su kariuomene patraukė iki Gorodeco miesto, bet Mingaila juos užpuolė ir privertė sprukti.'
   pagrindžia:
     - c-002
 
@@ -52,7 +55,7 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad arčiausiai puolančiųjų plytėjo Mingailos valdinių žemės: norėdamas atkeršyta už jų nu siaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai jas užėmė, šiek tiek anksčiau su kariuomene patraukę ligi Gorodeco miesto.'
+  santrauka: 'Polockiečiai su kariuomene patraukė iki Gorodeco miesto, bet Mingaila juos užpuolė ir privertė sprukti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Patys

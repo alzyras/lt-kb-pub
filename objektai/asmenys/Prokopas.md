@@ -17,7 +17,9 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
 
 ## Teiginiai
 
+<a id="claim-t-35268"></a>
 - t-001
+  global_id: t-35268
   teiginys: 'Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.'
   pagrindžia:
     - c-001

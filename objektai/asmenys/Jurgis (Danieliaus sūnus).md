@@ -26,7 +26,9 @@ Kai dėl įtakos Naugarde varžėsi Tverės ir Maskvos kunigaikščiai, Gedimina
 
 ## Teiginiai
 
+<a id="claim-t-30316"></a>
 - t-001
+  global_id: t-30316
   teiginys: 'Maskvos kunigaikštis Jurgis, Danieliaus sūnus, 1325 m. žuvo totorių ordoje.'
   pagrindžia:
     - c-001

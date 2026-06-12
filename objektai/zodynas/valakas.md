@@ -23,22 +23,30 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
 
 ## Teiginiai
 
+<a id="claim-t-72774"></a>
 - t-001
+  global_id: t-72774
   teiginys: 'Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūkį ir įvedantį valakų sistemą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72775"></a>
 - t-002
+  global_id: t-72775
   teiginys: 'Valakas kai kur buvo 30—33 margų, o kai kur siekė net 44 margus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-72776"></a>
 - t-003
+  global_id: t-72776
   teiginys: 'Su šia reforma valakas pasidarė ūkio vienetas: nuo jo buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-72778"></a>
 - t-004
+  global_id: t-72778
   teiginys: 'Valstiečiams duodamieji valakai nebuvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo mažesni, o kur žemė būdavo prastesnė, — didesni.'
   pagrindžia:
     - c-002

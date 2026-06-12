@@ -46,7 +46,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40761"></a>
 - t-001
+  global_id: t-40761
   teiginys: 'Tokio tipo Ž | kalavijų randama ir to laikotarpio 1= kapuose Lietuvoje Lietuvoje karių kapuose rastos sidabruotos geležinės XI-XIII a.'
   pagrindžia:
     - c-001

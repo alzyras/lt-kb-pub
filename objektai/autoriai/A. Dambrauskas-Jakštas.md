@@ -24,7 +24,9 @@ Dambrauskas-Jakštas, Užgesę Žiburiai, XVI-502 psl., Roma^2 1975.
 
 ## Teiginiai
 
+<a id="claim-t-30503"></a>
 - t-001
+  global_id: t-30503
   teiginys: 'A. Dambrausko-Jakšto „Užgesę Žiburiai“ antrasis leidimas 1975 m. išėjo Romoje.'
   pagrindžia:
     - c-001

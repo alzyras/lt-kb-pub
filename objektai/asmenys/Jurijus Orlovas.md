@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19034"></a>
 - t-001
+  global_id: t-19034
   teiginys: 'Jurijus Orlovas vadovavo 1976 m. gegužės 12 d. įkurtai pirmajai Maskvos Helsinkio grupei.'
   pagrindžia:
     - c-001

@@ -34,42 +34,58 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
 
 ## Teiginiai
 
+<a id="claim-t-13521"></a>
 - t-001
+  global_id: t-13521
   teiginys: '1939 m. rugpjūčio 23 d. Vokietija ir SSRS pasirašė nacių ir sovietų nepuolimo sutartį su papildomu slaptuoju protokolu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-13523"></a>
 - t-002
+  global_id: t-13523
   teiginys: 'Svarbiausių datų sąraše 1940 m. birželio 15 d. Sovietų Sąjungos įvykdyta Lietuvos okupacija ir aneksija aiškinama kaip Molotovo–Ribentropo pakto realizavimas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-13524"></a>
 - t-003
+  global_id: t-13524
   teiginys: '1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas, minint pakto pasirašymo 50-ąsias metines.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-13525"></a>
 - t-004
+  global_id: t-13525
   teiginys: '1989 m. Lietuvos SSR Aukščiausiosios Tarybos sudaryta komisija viešai pasmerkė pakto ir slaptųjų protokolų padarinius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-13526"></a>
 - t-005
+  global_id: t-13526
   teiginys: '1989 m. rugpjūčio 23 d. Baltijos kelias paminėjo pakto pasirašymo 50-ąsias sukaktuves gyva žmonių grandine nuo Vilniaus iki Talino.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-23405"></a>
 - t-006
+  global_id: t-23405
   teiginys: 'LLL apie save ypač drąsiai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Ribentropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-24565"></a>
 - t-007
+  global_id: t-24565
   teiginys: '1940 VI 15 realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuoja ir aneksuoja Lietuvos Respubliką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-26663"></a>
 - t-008
+  global_id: t-26663
   teiginys: 'LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui.'
   pagrindžia:
     - c-002

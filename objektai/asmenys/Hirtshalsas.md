@@ -18,7 +18,9 @@ Dusburgietis teigia, kad po šių skerdynių notangai, sumanę savo dievams paau
 
 ## Teiginiai
 
+<a id="claim-t-175204"></a>
 - t-001
+  global_id: t-175204
   teiginys: 'Dusburgietis teigia, kad po šių skerdynių notangai, sumanę savo dievams paaukoti auką, metė burtus paimtų į nelaisvę teutonų akivaizdoje, ir burtai abu kartus krito vienam Magdeburgo366 miestiečiui, kilmingam ir turtingam vyrui, vardu Hirtshalsas, kuris, patekęs į tokią bėdą, paprašė.'
   pagrindžia:
     - c-001

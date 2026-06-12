@@ -26,27 +26,37 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
 
 ## Teiginiai
 
+<a id="claim-t-85023"></a>
 - t-001
+  global_id: t-85023
   teiginys: 'Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio iš miesto į Užupį, už Vilnelės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85024"></a>
 - t-002
+  global_id: t-85024
   teiginys: '1493 m. Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui pievą Užupyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85025"></a>
 - t-003
+  global_id: t-85025
   teiginys: 'Nuo sklypų Užupyje buvo skaičiuojami 168 auksinai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85026"></a>
 - t-004
+  global_id: t-85026
   teiginys: 'Aleksandras dovanojo Maksimui Vasiljevičiui pievą prie kelio iš Vilniaus į Užupį už Vilnelės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85028"></a>
 - t-006
+  global_id: t-85028
   teiginys: 'Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau daliai pavyko prasiveržti ir užimti Paupį bei Užupį, pastarasis buvo padegtas.'
   pagrindžia:
     - c-004

@@ -29,12 +29,16 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
 
 ## Teiginiai
 
+<a id="claim-t-78029"></a>
 - t-001
+  global_id: t-78029
   teiginys: 'Antanas Baranauskas 1859 m. išreiškė civilizuotos, aukštąją kultūrą turinčios lietuvių tautos viziją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78030"></a>
 - t-002
+  global_id: t-78030
   teiginys: 'Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.'
   pagrindžia:
     - c-001

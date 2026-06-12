@@ -17,7 +17,9 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 
 ## Teiginiai
 
+<a id="claim-t-60393"></a>
 - t-001
+  global_id: t-60393
   teiginys: 'Nameda, Pasdraupučio motina iš Mantiminų giminės, paragino sūnus ginti savo gyvybę ir gentį nuo priešų.'
   pagrindžia:
     - c-001

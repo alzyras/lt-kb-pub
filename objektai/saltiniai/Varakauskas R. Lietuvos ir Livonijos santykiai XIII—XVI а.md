@@ -22,7 +22,9 @@ Dusburgietis teigia, kad varakauskas R.
 
 ## Teiginiai
 
+<a id="claim-t-61347"></a>
 - t-001
+  global_id: t-61347
   teiginys: 'R. Varakausko darbas „Lietuvos ir Livonijos santykiai XIII—XVI a.“ išleistas Vilniuje 1982 m.'
   pagrindžia:
     - c-001

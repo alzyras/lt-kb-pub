@@ -18,7 +18,9 @@ Tur būt, Gediminas nebuvo tiek daug ketinęs, kiek du pranciškonai (Bertoldas 
 
 ## Teiginiai
 
+<a id="claim-t-30212"></a>
 - t-001
+  global_id: t-30212
   teiginys: 'Pranciškonas Bertoldas su Henriku į Gedimino laišką veikiausiai įrašė daugiau, negu Gediminas buvo ketinęs.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Juozapas (Konstantinopolio patriarchas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad mažai tesutramdė užsispyrėlius ir Josifo, Kijevo metropolito, pavyzdys bei rūpestis, ir Nifono, Konstantinopolio p a t riarcho, tais metais išleistas laiškas, kuris rimčių rim čiausiai ragino visus rusus tvirtai laikytis tos tikėjimo santarvės, dėl kurios.
+Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame tartasi dėl Rytų ir Romos bažnyčių tikėjimo santarvės.
 
 ## Teiginiai
 
+<a id="claim-t-186221"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mažai tesutramdė užsispyrėlius ir Josifo, Kijevo metropolito, pavyzdys bei rūpestis, ir Nifono, Konstantinopolio p a t riarcho, tais metais išleistas laiškas, kuris rimčių rim čiausiai ragino visus rusus tvirtai laikytis tos tikėjimo santarvės, dėl kurios.'
+  global_id: t-186221
+  teiginys: 'Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame tartasi dėl Rytų ir Romos bažnyčių tikėjimo santarvės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mažai tesutramdė užsispyrėlius ir Josifo, Kijevo metropolito, pavyzdys bei rūpestis, ir Nifono, Konstantinopolio p a t riarcho, tais metais išleistas laiškas, kuris rimčių rim čiausiai ragino visus rusus tvirtai laikytis tos tikėjimo santarvės, dėl kurios.'
+  santrauka: 'Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame tartasi dėl Rytų ir Romos bažnyčių tikėjimo santarvės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Beje, d a r vienas dalykas užgavo jiems širdis:
@@ -58,3 +59,24 @@ Kojelavičius teigia, kad mažai tesutramdė užsispyrėlius ir Josifo, Kijevo m
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Abiejų Tautų konfederacija]]
+- [[objektai/asmenys/Ignotas Masalskis]]
+- [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
+- [[objektai/ivykiai/Maskvos valdovo karo paskelbimas Aleksandrui]]
+- [[objektai/zodynas/Romos tikėjimas]]
+- [[objektai/grupes/Seversko kunigaikščiai]]
+- [[objektai/asmenys/Simonas Kosakovskis]]
+- [[objektai/ivykiai/Targovicos ir Vilniaus konfederacijų susijungimas Brastoje]]
+- [[objektai/grupes/Targovicos konfederacija]]
+- [[objektai/grupes/Vilniaus konfederacija]]
+- [[objektai/ivykiai/Vilniaus konfederacijos pritarimas Targovicos konfederacijai]]
+- [[objektai/zodynas/jakobinizmas]]
+- [[objektai/zodynas/jakobinizmas jakobinų klubas]]
+- [[objektai/zodynas/jozefinizmas]]
+- [[objektai/zodynas/tėvonija]]
+- [[objektai/grupes/Šubravcų draugija]]
+- [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]

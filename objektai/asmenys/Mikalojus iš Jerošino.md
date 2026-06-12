@@ -28,12 +28,16 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
 
 ## Teiginiai
 
+<a id="claim-t-60171"></a>
 - t-001
+  global_id: t-60171
   teiginys: 'Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60172"></a>
 - t-002
+  global_id: t-60172
   teiginys: 'Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis į vokiečių kalbą išvertė Mikalojus iš Jerošino.'
   pagrindžia:
     - c-002

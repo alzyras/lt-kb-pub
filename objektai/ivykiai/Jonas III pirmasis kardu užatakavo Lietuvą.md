@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31420"></a>
 - t-001
+  global_id: t-31420
   teiginys: '1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karu užatakavo Lietuvą.'
   pagrindžia:
     - c-001

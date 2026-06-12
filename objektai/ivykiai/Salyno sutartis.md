@@ -45,42 +45,58 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
 
 ## Teiginiai
 
+<a id="claim-t-12411"></a>
 - t-001
+  global_id: t-12411
   teiginys: '1398 m. spalio 12 d. Salyno saloje sutartį ratifikavo abiejų ordinų magistrai, vyskupai ir Vytautas su žmona Ona.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-12412"></a>
 - t-002
+  global_id: t-12412
   teiginys: 'Salyne Vytautas elgėsi kaip aukščiausiasis Lietuvos ir Rusijos kunigaikštis, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-12413"></a>
 - t-003
+  global_id: t-12413
   teiginys: 'Šiame veikale Salyno sutartis aiškinama kaip Vytauto galybės gestas Lenkijai ir grasinimas unijai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66867"></a>
 - t-004
-  teiginys: '1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu buvo pasirašyta taikos sutartis.'
+  global_id: t-66867
+  teiginys: 'Salyno sutartis buvo pasirašyta 1398 m. Salyne, kur Vytautas sutiko Ordinui užleisti Žemaičius iki Nevėžio.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66868"></a>
 - t-005
+  global_id: t-66868
   teiginys: 'Ivinskis pabrėžia, kad Salyno amžinosios taikos įgyvendinimas būtų reiškęs Lietuvos nustūmimą nuo jūros.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-66869"></a>
 - t-006
+  global_id: t-66869
   teiginys: 'Salyno suvažiavimo puotoje Vytautas buvo paskelbtas Lietuvos karaliumi.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-66870"></a>
 - t-007
+  global_id: t-66870
   teiginys: 'Salyno sutartimi Vytautas užleido ordinui visus Žemaičius ir pirmą kartą apytikriai nužymėjo ordinui tenkančių žemių sienas.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-66871"></a>
 - t-008
+  global_id: t-66871
   teiginys: '1398 m. balandžio 23 d. Gardine buvo surašyta preliminarinė taika, o spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.'
   pagrindžia:
     - c-005
@@ -149,6 +165,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
     - t-003
 
 - c-004
+  santrauka: 'Salyno sutartis buvo pasirašyta 1398 m. Salyne, kur Vytautas sutiko Ordinui užleisti Žemaičius iki Nevėžio.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau

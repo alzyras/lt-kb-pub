@@ -17,7 +17,6 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
-
 # Mstislavlis
 
 ## Santrauka
@@ -26,23 +25,31 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 
 ## Teiginiai
 
+<a id="claim-t-182082"></a>
 - t-001
+  global_id: t-182082
   teiginys: 'Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182083"></a>
 - t-002
+  global_id: t-182083
   teiginys: 'Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropiecą, Mstislavlį ir kt.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182085"></a>
 - t-003
+  global_id: t-182085
   teiginys: 'Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185058"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad praradę viltį užkariauti Smolenską, jie savo jėgas patraukė prie Mstislavlio, bet ir čia nesusilaukė dides nės sėkmės.'
+  global_id: t-185058
+  teiginys: 'Praradę viltį užimti Smolenską, Šemiačičiai patraukė prie Mstislavlio, bet ir ten nepasiekė didesnės sėkmės.'
   pagrindžia:
     - c-004
 
@@ -88,7 +95,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad praradę viltį užkariauti Smolenską, jie savo jėgas patraukė prie Mstislavlio, bet ir čia nesusilaukė dides nės sėkmės.'
+  santrauka: 'Praradę viltį užimti Smolenską, Šemiačičiai patraukė prie Mstislavlio, bet ir ten nepasiekė didesnės sėkmės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neimdami į rankas kir-

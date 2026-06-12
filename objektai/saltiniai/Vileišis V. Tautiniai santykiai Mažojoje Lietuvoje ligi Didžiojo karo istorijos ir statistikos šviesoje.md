@@ -24,7 +24,9 @@ Dusburgietis teigia, kad vileišis V.
 
 ## Teiginiai
 
+<a id="claim-t-61350"></a>
 - t-001
+  global_id: t-61350
   teiginys: 'V. Vileišio darbas apie tautinius santykius Mažojoje Lietuvoje ligi Didžiojo karo išleistas Kaune 1935 m.'
   pagrindžia:
     - c-001

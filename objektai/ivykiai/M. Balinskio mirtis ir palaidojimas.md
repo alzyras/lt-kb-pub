@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86956"></a>
 - t-001
+  global_id: t-86956
   teiginys: 'Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.'
   pagrindžia:
     - c-001

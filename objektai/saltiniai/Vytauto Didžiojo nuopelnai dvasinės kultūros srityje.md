@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31976"></a>
 - t-001
+  global_id: t-31976
   teiginys: 'Pr. Penkausko „Vytauto Didžiojo nuopelnai dvasinės kultūros srityje“ paskelbtas 1931 m. „Athenaeum“ II tomo 1 numeryje.'
   pagrindžia:
     - c-001

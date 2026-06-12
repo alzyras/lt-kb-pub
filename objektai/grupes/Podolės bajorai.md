@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86817"></a>
 - t-001
+  global_id: t-86817
   teiginys: 'Podolės bajorai, vadovaujami Gregoro Kierdėjaus, sugavo Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos.'
   pagrindžia:
     - c-001

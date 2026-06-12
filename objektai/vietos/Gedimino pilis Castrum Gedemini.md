@@ -28,22 +28,30 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
 
 ## Teiginiai
 
+<a id="claim-t-85890"></a>
 - t-001
+  global_id: t-85890
   teiginys: 'Hartknochas Gedimino pilį, vadintą Castrum Gedemini, tapatino su Vilniumi, bet Balińskis šią nuomonę atmetė.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-85891"></a>
 - t-002
+  global_id: t-85891
   teiginys: 'Balińskis atmetė Hartknocho prielaidą, kad Vilnius galėjo būti Castrum Gedemini, ir Gedimino pilį veikiau siejo su Veliuona.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85892"></a>
 - t-003
+  global_id: t-85892
   teiginys: '1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85893"></a>
 - t-004
+  global_id: t-85893
   teiginys: 'Kita užuomina Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] yra prie 1317 m. (1.'
   pagrindžia:
     - c-001

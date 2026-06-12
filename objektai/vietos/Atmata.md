@@ -16,7 +16,9 @@ Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
 
 ## Teiginiai
 
+<a id="claim-t-58682"></a>
 - t-001
+  global_id: t-58682
   teiginys: 'Dusburgietis teigia, kad atlanto vandenynas Atmata, u.'
   pagrindžia:
     - c-001

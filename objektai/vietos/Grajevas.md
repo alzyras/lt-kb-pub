@@ -17,7 +17,9 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
 
 ## Teiginiai
 
+<a id="claim-t-32181"></a>
 - t-001
+  global_id: t-32181
   teiginys: 'Senoje jotvingių žemėje siena ėjo Luko aukštupyje, aukščiau Grajevo ir Točilovo ežerų.'
   pagrindžia:
     - c-001

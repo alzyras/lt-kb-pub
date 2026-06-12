@@ -19,17 +19,23 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-80579"></a>
 - t-001
+  global_id: t-80579
   teiginys: 'Lietuvos kariuomenės pėstininko žieminė kepurė Lietuvos kariuomenės dalinius į rytus, palaipsniui užiminėjo svarbias gelezinkelio stotis ir strategiškai svarbius kelius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-80580"></a>
 - t-002
+  global_id: t-80580
   teiginys: 'Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Baltijos valstybių priešas – bermontininkai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-80581"></a>
 - t-003
+  global_id: t-80581
   teiginys: 'Šiaurės Lietuva atsidūrė bermontininkų rankose, o judėdami į pietus jie pasiekė net Raseinius.'
   pagrindžia:
     - c-002

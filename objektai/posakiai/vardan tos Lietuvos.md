@@ -28,7 +28,9 @@ Formulė pateikiama kaip patriotinė kovos ir ištvermės ašis, siejama su Vyta
 
 ## Teiginiai
 
+<a id="claim-t-36022"></a>
 - t-001
+  global_id: t-36022
   teiginys: 'Posakis „vardan tos Lietuvos“ siejamas su patriotizmu, praeities meile ir jėgomis kovoje.'
   pagrindžia:
     - c-002

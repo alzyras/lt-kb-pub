@@ -31,77 +31,107 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 
 ## Teiginiai
 
+<a id="claim-t-91235"></a>
 - t-001
+  global_id: t-91235
   teiginys: 'Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-91236"></a>
 - t-002
+  global_id: t-91236
   teiginys: '1940 m. birželio 14-osios rytą vermachtas įžengė į Paryžių.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-91237"></a>
 - t-003
-  teiginys: 'Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo brolis Karolis IX stengėsi kai kuriuos punktus pakeisti, bet, delegacijoms nenusileidus, su viskuo sutiko ir prisiekė.'
+  global_id: t-91237
+  teiginys: 'Paryžiuje Henrikas ir Karolis IX mėgino pakeisti kai kuriuos artikulų punktus, bet delegacijoms nenusileidus sutiko ir prisiekė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-91238"></a>
 - t-004
+  global_id: t-91238
   teiginys: 'Jaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su pasauline literatūra, menu.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-91239"></a>
 - t-005
+  global_id: t-91239
   teiginys: 'Pirmą kartą lietuviai prisistatė 1900 m. Paryžiaus pasaulinėje parodoje.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-91240"></a>
 - t-006
+  global_id: t-91240
   teiginys: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-91241"></a>
 - t-007
+  global_id: t-91241
   teiginys: 'Dusburgietis teigia, kad šis reskriptas buvo perskaitytas ir sudegintas Paryžiuje, karaliaus rūmuose, daugybės dvasininkų bei pasauliečių akivaizdoje.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-91242"></a>
 - t-008
+  global_id: t-91242
   teiginys: 'Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-91243"></a>
 - t-009
+  global_id: t-91243
   teiginys: 'Dusburgietis teigia, kad apkaltintas erezija Tamplierių ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo Paryžiuje 1314 m.69 Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-91244"></a>
 - t-010
+  global_id: t-91244
   teiginys: 'Po susitikimo Paryžiuje su Augustu Zaleskiu A. Voldemarą Kauno stotyje pasitiko karininkai, priešinęsi deryboms su Lenkija.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-91245"></a>
 - t-011
+  global_id: t-91245
   teiginys: 'Voldemaras šį kartą nubaustas ypač rimtai – iš Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...'
   pagrindžia:
     - c-007
 
+<a id="claim-t-91246"></a>
 - t-012
+  global_id: t-91246
   teiginys: 'Versalio sistemoje Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-91247"></a>
 - t-013
+  global_id: t-91247
   teiginys: 'Dusburgietis teigia, kad tuo pat metu Paryžiuje daugiau triūsė augustinų ordinas, kai jį tvarkė nauji magistrai (Ptol.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-91248"></a>
 - t-014
+  global_id: t-91248
   teiginys: 'Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-91249"></a>
 - t-015
+  global_id: t-91249
   teiginys: 'Dusburgietis teigia, kad paryžiuje sugriuvo abudu tiltai, kurių nė žymės nebeliko, kitos provincijos irgi patyrė baisybę nuostolių.'
   pagrindžia:
     - c-005
@@ -109,6 +139,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Paryžiuje Henrikas ir Karolis IX mėgino pakeisti kai kuriuos artikulų punktus, bet delegacijoms nenusileidus sutiko ir prisiekė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Karaliui prisiimtų sąlygų nevykdant, Henriko artikulai

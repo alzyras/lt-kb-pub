@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-88442"></a>
 - t-001
+  global_id: t-88442
   teiginys: '16 Slaptajame Karaliaučiaus archyve yra keletas laiškų originalų, aprašančių šį Švitrigailos pabėgimą.'
   pagrindžia:
     - c-001

@@ -26,22 +26,30 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
 
 ## Teiginiai
 
+<a id="claim-t-101620"></a>
 - t-001
+  global_id: t-101620
   teiginys: 'XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lietuvą, Čekiją ir Vengriją, todėl rytinė Vidurio Europa vadinta „jogailaičių Europa“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101621"></a>
 - t-002
+  global_id: t-101621
   teiginys: 'Krikščionybės forposto idėja buvo nukreipta prieš stačiatikišką Maskvą ir siejosi su krikščioniškojo mentaliteto įsigalėjimu visuomenės elite.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-101622"></a>
 - t-003
+  global_id: t-101622
   teiginys: 'Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – cechai, edukacijoje – europinė švietimo sistema.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183493"></a>
 - t-004
+  global_id: t-183493
   teiginys: 'Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a.'
   pagrindžia:
     - c-003

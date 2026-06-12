@@ -25,7 +25,9 @@ Alseikos: „Vytauto D.
 
 ## Teiginiai
 
+<a id="claim-t-34951"></a>
 - t-001
+  global_id: t-34951
   teiginys: 'Dr. A. Alseikos „Vytauto D. sumanymas vainikuotis Lietuvos karaliaus vainiku“ išleistas Vilniuje 1924 m.'
   pagrindžia:
     - c-001

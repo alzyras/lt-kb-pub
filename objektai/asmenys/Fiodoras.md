@@ -19,7 +19,9 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
 
 ## Teiginiai
 
+<a id="claim-t-40106"></a>
 - t-001
+  global_id: t-40106
   teiginys: 'Mirus Ivano IV palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusių Riurikaičių dinastija.'
   pagrindžia:
     - c-001

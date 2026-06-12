@@ -14,24 +14,25 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Hanulas
 
 ## Santrauka
 
-Kojelavičius teigia, kad į Lenkiją nutarė siųsti be 1385 m e ta i J o g a ila p erša si J a d v y g a i, len k ų k a ra lie nei galo garbingus piršlius, pa siuntinybei vadovavo Skir gaila ir Vygandas Vasilijus, arba, kaip kiti vadina, Bori sas, valdovo broliai, be to, Hanulas.
+1385 m. Jogailos pasiuntinybėje į Lenkiją Hanulas dalyvavo kaip Vilniaus seniūnas.
 
 ## Teiginiai
 
+<a id="claim-t-186207"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad į Lenkiją nutarė siųsti be 1385 m e ta i J o g a ila p erša si J a d v y g a i, len k ų k a ra lie nei galo garbingus piršlius, pa siuntinybei vadovavo Skir gaila ir Vygandas Vasilijus, arba, kaip kiti vadina, Bori sas, valdovo broliai, be to, Hanulas.'
+  global_id: t-186207
+  teiginys: '1385 m. Jogailos pasiuntinybėje į Lenkiją Hanulas dalyvavo kaip Vilniaus seniūnas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad į Lenkiją nutarė siųsti be 1385 m e ta i J o g a ila p erša si J a d v y g a i, len k ų k a ra lie nei galo garbingus piršlius, pa siuntinybei vadovavo Skir gaila ir Vygandas Vasilijus, arba, kaip kiti vadina, Bori sas, valdovo broliai, be to, Hanulas.'
+  santrauka: '1385 m. Jogailos pasiuntinybėje į Lenkiją Hanulas dalyvavo kaip Vilniaus seniūnas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Apie tai sužinojo kai­
@@ -70,3 +71,20 @@ Kojelavičius teigia, kad į Lenkiją nutarė siųsti be 1385 m e ta i J o g a i
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Vygandas]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/daiktai/Iždo ir pilių raktai]]
+- [[objektai/ivykiai/Jogailos paleidimas į Krėvą ir jo kontrpuolimas užimant Vilnių bei Trakus]]
+- [[objektai/ivykiai/Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)]]
+- [[objektai/daiktai/Pilies raktai|Pilies raktai (pilis)]]
+- [[objektai/zodynas/Pilininkas capitaneus seniūnas]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Vytauto pralaimėjimas netoli Vilniaus (1382 m.)]]
+- [[objektai/zodynas/seniūnas]]

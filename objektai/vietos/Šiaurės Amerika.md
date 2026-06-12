@@ -25,13 +25,10 @@ Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi
 
 ## Teiginiai
 
+<a id="claim-t-44042"></a>
 - t-001
-  teiginys: 'Didžioji lietuvių kolonija Šiaurės Amerikoje nuo karo pradžios šelpė nukentėjusią tėvynę ir reikalavo autonomijos, vėliau nepriklausomybės.'
-  pagrindžia:
-    - c-001
-
-- t-002
-  teiginys: 'Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi šelpti nukentėjusią tėvynę ir reikalavo iš pradžių autonomijos, o vėliau ir nepriklausomybės.'
+  global_id: t-44042
+  teiginys: 'Lietuvių kolonija Šiaurės Amerikoje nuo karo pradžios šelpė nukentėjusią Lietuvą ir iš pradžių reikalavo autonomijos, vėliau nepriklausomybės.'
   pagrindžia:
     - c-001
 

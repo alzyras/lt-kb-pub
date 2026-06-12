@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-80629"></a>
 - t-001
+  global_id: t-80629
   teiginys: '115, „LIETUVOS LENGVOJI KAVALERIJA“, Lietuvos kariuomenė svetimšalių akimis xv1- XVIII a., p. 150-151.'
   pagrindžia:
     - c-001

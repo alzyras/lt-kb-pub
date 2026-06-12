@@ -22,7 +22,9 @@ Be to, šios kautynės sunkiomis žiemos sąlygomis suteikė nejkainojamos patir
 
 ## Teiginiai
 
+<a id="claim-t-41709"></a>
 - t-001
+  global_id: t-41709
   teiginys: 'Žinios apie Dzūkijos partizanų sėkmę paskatino kitur Lietuvoje veikusius laisvės kovotojus imtis aktyvesnių veiksmų.'
   pagrindžia:
     - c-001

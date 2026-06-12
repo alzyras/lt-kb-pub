@@ -19,13 +19,17 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-67594"></a>
 - t-001
+  global_id: t-67594
   teiginys: '1919 m. birželio 20 d. įstatymas numatė žemės reformai naudoti ne tik valstybės, bet ir privačią žemę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67595"></a>
 - t-002
-  teiginys: 'Didžiosios žemės reformos įstatymas buvo išleistas tik 1922 metais (kovo 29 d.).'
+  global_id: t-67595
+  teiginys: 'Didžiosios žemės reformos įstatymas buvo išleistas 1922 m. kovo 29 d.'
   pagrindžia:
     - c-002
 
@@ -55,6 +59,7 @@ tags:
     - t-001
 
 - c-002
+  santrauka: 'Didžiosios žemės reformos įstatymas buvo išleistas 1922 m. kovo 29 d.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Didžiosios žemės reformos įstatymas buvo

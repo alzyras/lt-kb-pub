@@ -31,37 +31,51 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 
 ## Teiginiai
 
+<a id="claim-t-102831"></a>
 - t-001
+  global_id: t-102831
   teiginys: 'A. Vijūkas Kojelavičius buvo nuveikta 3 Stryjkowski, Ks.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-102832"></a>
 - t-002
+  global_id: t-102832
   teiginys: 'A. Vijūkas Kojelavičius Pagraudenę vadino Žemaitijos apylinke.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-102833"></a>
 - t-003
+  global_id: t-102833
   teiginys: 'Kojelavičius Pagraudenę vadino apylinke Žemaitijoje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-102834"></a>
 - t-004
+  global_id: t-102834
   teiginys: 'A. Vijūkas Kojelavičius 1651 m. veikale „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ rašė apie Lojevo mūšį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-102835"></a>
 - t-005
+  global_id: t-102835
   teiginys: 'Amžininko Alberto Vijūko-Kojelavičiaus teigimu, Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų, vedina paniekos priešui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-102838"></a>
 - t-006
+  global_id: t-102838
   teiginys: 'Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-102839"></a>
 - t-007
+  global_id: t-102839
   teiginys: 'A. Vijūkas-Kojalavičius 1651 m. parašė veikalą „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“.'
   pagrindžia:
     - c-004

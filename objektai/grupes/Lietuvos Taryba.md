@@ -28,40 +28,52 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 
 ## Teiginiai
 
+<a id="claim-t-182708"></a>
 - t-001
+  global_id: t-182708
   teiginys: 'Konferencijoje išrinkta 20 asmenų Lietuvos Taryba pradėjo veikti rugsėjo 24 d., o jos pirmininku tapo Antanas Smetona.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-182709"></a>
 - t-002
+  global_id: t-182709
   teiginys: 'Tačiau kitoje dalyje Taryba, vykdydama Vokietijos reikalavimą, pasisakė „už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“, kuri būtų įgyvendinta keturiomis konvencijomis (karinė, transporto, finansų, muitų).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182710"></a>
 - t-003
+  global_id: t-182710
   teiginys: '1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-182904"></a>
 - t-004
+  global_id: t-182904
   teiginys: 'Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti tautinių mažumų atstovai.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-182905"></a>
 - t-005
-  teiginys: 'Vyriausybė pradėjo veikti, vaduodamasi vadinamaisiais laikinės konstitucijos pamatiniais dėsniais, kuriuos išleido Valstybės Taryba savo sesijoj spalių mėnesio pabaigoj.'
+  global_id: t-182905
+  teiginys: 'Valstybės Taryba spalio pabaigos sesijoje išleido laikinės konstitucijos pamatinius dėsnius.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-182906"></a>
 - t-006
-  teiginys: 'Prezidiumas savo valdžią turėjo vykdyti per ministerių kabinetą, atsakingą prieš Valstybės Tarybą.'
+  global_id: t-182906
+  teiginys: 'Valstybės Taryba turėjo leisti įstatymus, sudaryti sutartis su kitomis valstybėmis ir naudotis interpeliacijų bei paklausimų teise.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Prezidiumas savo valdžią turėjo vykdyti per ministerių kabinetą, atsakingą prieš Valstybės Tarybą.'
+  santrauka: 'Valstybės Taryba turėjo leisti įstatymus, sudaryti sutartis su kitomis valstybėmis ir naudotis interpeliacijų bei paklausimų teise.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Prezidiumas savo valdžią turėjo vykdyti per ministe-
@@ -152,7 +164,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
     - t-004
 
 - c-006
-  santrauka: 'Vyriausybė pradėjo veikti, vaduodamasi vadinamaisiais laikinės konstitucijos pamatiniais dėsniais, kuriuos išleido Valstybės Taryba savo sesijoj spalių mėnesio pabaigoj.'
+  santrauka: 'Valstybės Taryba spalio pabaigos sesijoje išleido laikinės konstitucijos pamatinius dėsnius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vyriausybė pradėjo veikti, vaduodamasi vadinamaisiais

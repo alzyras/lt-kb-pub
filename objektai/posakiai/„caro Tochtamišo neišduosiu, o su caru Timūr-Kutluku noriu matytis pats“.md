@@ -17,12 +17,16 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 
 ## Teiginiai
 
+<a id="claim-t-41491"></a>
 - t-001
+  global_id: t-41491
   teiginys: 'Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad neišduos Tochtamišo ir nori pats matytis su Timūr-Kutluku.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183722"></a>
 - t-002
+  global_id: t-183722
   teiginys: 'Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė savo pasiuntinius pas lietuvių didįjį kunigaikštį Vytautą, kad išduotų jam pabėgusį „carą“ Tochtamišą, jo priešą.'
   pagrindžia:
     - c-002

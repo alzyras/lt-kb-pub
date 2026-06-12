@@ -16,7 +16,9 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
 
 ## Teiginiai
 
+<a id="claim-t-96054"></a>
 - t-001
+  global_id: t-96054
   teiginys: 'Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.'
   pagrindžia:
     - c-001

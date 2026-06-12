@@ -19,7 +19,9 @@ Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitul
 
 ## Teiginiai
 
+<a id="claim-t-88495"></a>
 - t-001
+  global_id: t-88495
   teiginys: 'Vilniaus tarėjai reikalavo, kad miestas būtų atleistas nuo naujai kapitulos pasisavintos jurisdikcijos.'
   pagrindžia:
     - c-001

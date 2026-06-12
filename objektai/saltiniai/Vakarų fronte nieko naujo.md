@@ -22,7 +22,9 @@ Remarko „VAKARŲ FRONTE NIEKO NAUJO“.
 
 ## Teiginiai
 
+<a id="claim-t-96066"></a>
 - t-001
+  global_id: t-96066
   teiginys: 'Remarko „VAKARŲ FRONTE NIEKO NAUJO“.'
   pagrindžia:
     - c-001

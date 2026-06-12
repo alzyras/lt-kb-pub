@@ -20,7 +20,6 @@ amziai:
   - 'XIII'
   - 'XXI'
 ---
-
 # Brianskas
 
 ## Santrauka
@@ -29,18 +28,24 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-179764"></a>
 - t-001
+  global_id: t-179764
   teiginys: 'Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-179765"></a>
 - t-002
+  global_id: t-179765
   teiginys: '1393 m. pavasarį Briansko ir Naugardo-Sieversko kunigaikštis Dimitras Kaributas buvo nugalėtas kautynėse ir neteko valdos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184937"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad užėmęs Brianską ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis išplėtė lietuvių valdų ribas ligi Putivlio.'
+  global_id: t-184937
+  teiginys: 'Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.'
   pagrindžia:
     - c-003
 
@@ -76,7 +81,7 @@ amziai:
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad užėmęs Brianską ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis išplėtė lietuvių valdų ribas ligi Putivlio.'
+  santrauka: 'Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gediminas, pasilsėjęs čia, kol artimiausios pi­

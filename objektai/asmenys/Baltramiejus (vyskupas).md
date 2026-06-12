@@ -27,7 +27,9 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
 
 ## Teiginiai
 
+<a id="claim-t-30210"></a>
 - t-001
+  global_id: t-30210
   teiginys: 'Vyskupas Baltramiejus 1324 m. vasarop atvyko į Rygą kaip vienas iš dviejų Avinjono legatų.'
   pagrindžia:
     - c-001

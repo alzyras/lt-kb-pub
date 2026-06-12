@@ -25,7 +25,9 @@ Sideravičius: Nuo Durbės iki Žal­ girio (1944).
 
 ## Teiginiai
 
+<a id="claim-t-30749"></a>
 - t-001
+  global_id: t-30749
   teiginys: 'K. Sideravičius 1944 m. paskelbė darbą „Nuo Durbės iki Žalgirio“.'
   pagrindžia:
     - c-001

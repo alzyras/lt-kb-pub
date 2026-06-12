@@ -23,7 +23,9 @@ Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl 
 
 ## Teiginiai
 
+<a id="claim-t-21149"></a>
 - t-001
+  global_id: t-21149
   teiginys: '1919 m. kovo 24 d. Lietuvos delegacijos nota kaltino Lenkiją išnaudojus Lietuvą ir XVI a. unija sukėlus vidinį chaosą.'
   pagrindžia:
     - c-001

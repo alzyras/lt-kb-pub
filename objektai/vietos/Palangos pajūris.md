@@ -16,7 +16,9 @@ Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos so
 
 ## Teiginiai
 
+<a id="claim-t-02652"></a>
 - t-001
+  global_id: t-02652
   teiginys: 'Palangos pajūris nuo Šventosios buvo priskirtas prie Lietuvos.'
   pagrindžia:
     - c-001

@@ -6,34 +6,39 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Andrius Vingaudas
 
 ## Santrauka
 
-Kojelavičius teigia, kad kitoje pusėje Andrius Vingaudas, Trubčevsko kunigaikštis, Jogailos brolis, per sikėlęs per Dauguvą, nelyginant piktas priešas ėmė niokoti lietuvių valdas. Kojelavičius teigia, kad per tą patį susitikimą Vytautas, norėdaA n d iių V in g a u d ą pamas pelnyti šiokį tokį karaleid žia į la isv ę liaus brolių palankumą sau, pamėgino laimėti jų draugys tę, susirūpindamas Andriumi Vingaudu, Trubčevsko ku nigaikščiu. Kojelavičius teigia, kad linkusį į maištus ir su kryžiuočių pagalba siekusį valdžios Andrių Jogaila pirmaisiais savo vieš patavimo metais buvo uždaręs į kalėjimą, kur ligi šiol tebelaikė, šiam nė nežinant, ar liks gyvas, ar ne.
+Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per Dauguvą ir ėmė niokoti lietuvių valdas. Vytautas per susitikimą rūpinosi Andriaus Vingaudo paleidimu, siekdamas pelnyti Jogailos brolių palankumą. Jogaila pirmaisiais savo viešpatavimo metais įkalino Andrių Vingaudą, kuris buvo linkęs maištauti ir su kryžiuočių pagalba siekė valdžios.
 
 ## Teiginiai
 
+<a id="claim-t-185996"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kitoje pusėje Andrius Vingaudas, Trubčevsko kunigaikštis, Jogailos brolis, per sikėlęs per Dauguvą, nelyginant piktas priešas ėmė niokoti lietuvių valdas.'
+  global_id: t-185996
+  teiginys: 'Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per Dauguvą ir ėmė niokoti lietuvių valdas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185997"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad per tą patį susitikimą Vytautas, norėdaA n d iių V in g a u d ą pamas pelnyti šiokį tokį karaleid žia į la isv ę liaus brolių palankumą sau, pamėgino laimėti jų draugys tę, susirūpindamas Andriumi Vingaudu, Trubčevsko ku nigaikščiu.'
+  global_id: t-185997
+  teiginys: 'Vytautas per susitikimą rūpinosi Andriaus Vingaudo paleidimu, siekdamas pelnyti Jogailos brolių palankumą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185998"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad linkusį į maištus ir su kryžiuočių pagalba siekusį valdžios Andrių Jogaila pirmaisiais savo vieš patavimo metais buvo uždaręs į kalėjimą, kur ligi šiol tebelaikė, šiam nė nežinant, ar liks gyvas, ar ne.'
+  global_id: t-185998
+  teiginys: 'Jogaila pirmaisiais savo viešpatavimo metais įkalino Andrių Vingaudą, kuris buvo linkęs maištauti ir su kryžiuočių pagalba siekė valdžios.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kitoje pusėje Andrius Vingaudas, Trubčevsko kunigaikštis, Jogailos brolis, per sikėlęs per Dauguvą, nelyginant piktas priešas ėmė niokoti lietuvių valdas.'
+  santrauka: 'Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per Dauguvą ir ėmė niokoti lietuvių valdas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Konradas Celneris, ne-
@@ -60,7 +65,7 @@ Kojelavičius teigia, kad kitoje pusėje Andrius Vingaudas, Trubčevsko kunigaik
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad per tą patį susitikimą Vytautas, norėdaA n d iių V in g a u d ą pamas pelnyti šiokį tokį karaleid žia į la isv ę liaus brolių palankumą sau, pamėgino laimėti jų draugys tę, susirūpindamas Andriumi Vingaudu, Trubčevsko ku nigaikščiu.'
+  santrauka: 'Vytautas per susitikimą rūpinosi Andriaus Vingaudo paleidimu, siekdamas pelnyti Jogailos brolių palankumą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kad ateityje nesirastų dėl kokio men­
@@ -84,7 +89,7 @@ Kojelavičius teigia, kad kitoje pusėje Andrius Vingaudas, Trubčevsko kunigaik
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad linkusį į maištus ir su kryžiuočių pagalba siekusį valdžios Andrių Jogaila pirmaisiais savo vieš patavimo metais buvo uždaręs į kalėjimą, kur ligi šiol tebelaikė, šiam nė nežinant, ar liks gyvas, ar ne.'
+  santrauka: 'Jogaila pirmaisiais savo viešpatavimo metais įkalino Andrių Vingaudą, kuris buvo linkęs maištauti ir su kryžiuočių pagalba siekė valdžios.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Linkusį į maištus ir su kryžiuočių pagalba
@@ -101,3 +106,13 @@ Kojelavičius teigia, kad kitoje pusėje Andrius Vingaudas, Trubčevsko kunigaik
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Graikai]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/kunigaikščiai]]

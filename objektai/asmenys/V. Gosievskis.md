@@ -26,7 +26,9 @@ Gosievskio pajėgas.
 
 ## Teiginiai
 
+<a id="claim-t-39819"></a>
 - t-001
+  global_id: t-39819
   teiginys: 'V. Gosievskio pajėgas Vilniuje sumušė J. Čerkaskis.'
   pagrindžia:
     - c-001

@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54733"></a>
 - t-001
+  global_id: t-54733
   teiginys: 'Kryžiuočių kariaunoje, po penkių sunkių apsupties savaičių ir plintant ligoms, visiškai baigėsi parakas.'
   pagrindžia:
     - c-001
@@ -75,7 +77,6 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/įgula]]
 - [[objektai/ivykiai/1381 m. kryžiuočių puolimai Kęstučio valdose]]
-- [[objektai/autoriai/Atmesti paminėjimai]]
 - [[objektai/zodynas/Brandskugeliai karkasai]]
 - [[objektai/asmenys/D. Kuruta]]
 - [[objektai/asmenys/D. Osten-Sakenas]]
@@ -83,7 +84,6 @@ Nenurodyta
 - [[objektai/daiktai/Kablinis šautuvas]]
 - [[objektai/ivykiai/Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas]]
 - [[objektai/asmenys/Kopčius]]
-- [[objektai/grupes/Maskvos kunigaikščio reprezentacinis pulkas]]
 - [[objektai/daiktai/Mietas]]
 - [[objektai/autoriai/Mykolas Brenšteinas]]
 - [[objektai/asmenys/Stanislovas Pacas]]

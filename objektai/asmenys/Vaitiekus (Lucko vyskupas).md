@@ -27,7 +27,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87931"></a>
 - t-001
+  global_id: t-87931
   teiginys: '1507 m. Melnike Vaitiekus dalyvavo patvirtinant Trakų žydų privilegijas kaip Lucko vyskupas.'
   pagrindžia:
     - c-001
@@ -109,3 +111,4 @@ periodo_grupes:
 - [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai]]
 - [[objektai/daiktai/Akstys]]
 - [[objektai/asmenys/Vaitiekus Kiočka]]
+- [[objektai/ivykiai/Šešerių metų paliaubos tarp Lietuvos ir Maskvos]]

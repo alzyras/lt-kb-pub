@@ -30,84 +30,115 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 
 ## Teiginiai
 
+<a id="claim-t-95145"></a>
 - t-001
-  teiginys: 'Tik labai sumažėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji jos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr.'
+  global_id: t-95145
+  teiginys: 'Didžioji Lietuvos ir Lenkijos bendrai valdytos Livonijos dalis su Ryga liko Švedijai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-95146"></a>
 - t-002
+  global_id: t-95146
   teiginys: 'Vytenio ir Gedimino laikais Rygos arkivyskupas, kovodamas su ordinu drauge su rygiečiais, ne kartą veikė išvien su Lietuva.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-95147"></a>
 - t-003
+  global_id: t-95147
   teiginys: 'Vytauto laikais Ryga buvo vienas iš prekybos centrų, buvusių netoli Lietuvos.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-95148"></a>
 - t-004
+  global_id: t-95148
   teiginys: 'Ryga: tuo metu Rygoje buvo užmuštas Lietuvos pasiuntinys; tad kaip tik pasitaikė gera proga įsikišti į Livonijos reikalus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-95149"></a>
 - t-005
+  global_id: t-95149
   teiginys: 'Ryga tada buvo labai turtingas miestas.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-95150"></a>
 - t-006
+  global_id: t-95150
   teiginys: 'Kai 1621 m. Ryga atiteko Švedams, laisvajai prekybai užsidarė ir šis kelias.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-95151"></a>
 - t-007
+  global_id: t-95151
   teiginys: '1989 m. rugpjūčio 23 d. Gyvasis Baltijos kelias sudarė rankomis susikibusių žmonių grandinę Vilnius-Ryga-Talinas.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-95152"></a>
 - t-008
+  global_id: t-95152
   teiginys: 'XIII-XIV a. Ryga buvo svarbiausias Lietuvos prekybos punktas, nes laisvas miestas buvo sukalbamesnis už kryžiuočius.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-95153"></a>
 - t-009
+  global_id: t-95153
   teiginys: 'Ryga: tė Rygos pilį (1201 m.), kuri vėliau virto visos valstybės centru ir didžiausiu Livonijos miestu.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-95154"></a>
 - t-010
+  global_id: t-95154
   teiginys: 'Per Rygą ėjo prekyba su Dauguvos ir Dniepro upyno miestais, priklausiusiais ir dar nepriklausiusiais Lietuvai.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-95155"></a>
 - t-011
+  global_id: t-95155
   teiginys: 'Dusburgietis teigia, kad gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-95156"></a>
 - t-012
+  global_id: t-95156
   teiginys: '1201 m. vyskupas Albertas pastatė Rygos pilį, vėliau tapusią valstybės centru ir didžiausiu Livonijos miestu.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-95157"></a>
 - t-013
+  global_id: t-95157
   teiginys: '1313 m. Rygos arkivyskupas ir miestiečiai buvo priversti taikytis su ordinu ir nutraukti sąjungą su Vyteniu.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-95158"></a>
 - t-014
+  global_id: t-95158
   teiginys: 'Ryga nepripažino 1561 m. Livonijos pasidavimo sutarties ir liko nepriklausoma iki 1582 m., kai ją nukariavo Steponas Batoras.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-95159"></a>
 - t-015
-  teiginys: 'Ryga buvo išgelbėta, Livonija atvaduota.'
+  global_id: t-95159
+  teiginys: 'Po kautynių, kuriose žuvo 9 000 švedų, Ryga buvo išgelbėta.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po kautynių, kuriose žuvo 9 000 švedų, Ryga buvo išgelbėta.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     (J. Kosako paveikslas).
@@ -120,6 +151,7 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     - t-015
 
 - c-002
+  santrauka: 'Didžioji Lietuvos ir Lenkijos bendrai valdytos Livonijos dalis su Ryga liko Švedijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Batoro laikais. Tik labai suma-

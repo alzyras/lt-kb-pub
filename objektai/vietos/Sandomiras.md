@@ -20,7 +20,6 @@ amziai:
   - 'XIII'
   - 'XXI'
 ---
-
 # Sandomiras
 
 ## Santrauka
@@ -29,23 +28,31 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
 
 ## Teiginiai
 
+<a id="claim-t-133639"></a>
 - t-001
+  global_id: t-133639
   teiginys: 'Panašiu metu Lenkijoje lietuviai puolė Sandomiro ir Krokuvos žemes.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-133640"></a>
 - t-002
+  global_id: t-133640
   teiginys: 'Tokiu tat laiku Jogaila vėl sukvietė visus savo senatorius į pasitarimą Sandomire (1429 m. rugsėjo 8 d.).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185128"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad sutelkęs didesnę nei paprastai kariuomenę, jis patrau kė į karą ir užpuolė lenkų kraštą; nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę.'
+  global_id: t-185128
+  teiginys: 'Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę ir siaubė jos kaimus bei dvarus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185129"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad iš pradžių jis su kariuomene patraukė prieš Jonušą, Mazovijos ku nigaikštį; iš keršto kaip beįmanydamas nuniokojęs Mazoviją, perkėlė siaubiančius pulkus į Sandomirą, lenkų žemę.'
+  global_id: t-185129
+  teiginys: 'Jogaila, nuniokojęs Mazoviją, perkėlė siaubiančius pulkus į Sandomirą, lenkų žemę.'
   pagrindžia:
     - c-004
 
@@ -85,7 +92,7 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
     - t-001
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad sutelkęs didesnę nei paprastai kariuomenę, jis patrau kė į karą ir užpuolė lenkų kraštą; nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę.'
+  santrauka: 'Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę ir siaubė jos kaimus bei dvarus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Staigiai ir be var­
@@ -114,7 +121,7 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad iš pradžių jis su kariuomene patraukė prieš Jonušą, Mazovijos ku nigaikštį; iš keršto kaip beįmanydamas nuniokojęs Mazoviją, perkėlė siaubiančius pulkus į Sandomirą, lenkų žemę.'
+  santrauka: 'Jogaila, nuniokojęs Mazoviją, perkėlė siaubiančius pulkus į Sandomirą, lenkų žemę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo

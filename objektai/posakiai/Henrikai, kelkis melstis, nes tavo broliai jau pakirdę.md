@@ -18,7 +18,9 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
 
 ## Teiginiai
 
+<a id="claim-t-59094"></a>
 - t-001
+  global_id: t-59094
   teiginys: 'Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį, nelyginant kas kūju būtų daužęs į sieną, ir balsą, kuris sakė: „Henrikai, kelkis melstis, nes tavo broliai jau pakirdę“.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
 
 ## Teiginiai
 
+<a id="claim-t-94746"></a>
 - t-001
+  global_id: t-94746
   teiginys: 'Apie gegužės m. 20 d. jis įsiveržė į Vilniaus srities Medininkus ir, pabuvęs ten astuonias dienas, grįžo su dideliu grobiu^1 ).'
   pagrindžia:
     - c-001

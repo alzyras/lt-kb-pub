@@ -17,7 +17,9 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
 
 ## Teiginiai
 
+<a id="claim-t-88430"></a>
 - t-001
+  global_id: t-88430
   teiginys: 'Janockis teigė, kad Augustas Rotundas Mieleskis Žygimanto Augusto nurodymu pradėjo lotyniškai rašyti Lietuvos istoriją.'
   pagrindžia:
     - c-001

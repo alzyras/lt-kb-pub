@@ -38,17 +38,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67125"></a>
 - t-001
+  global_id: t-67125
   teiginys: 'P.O.W. organizacija slapta rengė sukilimą ir stengėsi į savo pusę patraukti Lietuvos karininkus bei kareivius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67126"></a>
 - t-002
+  global_id: t-67126
   teiginys: 'P.O.W. organizacijos nariai veikė slaptai, turėjo slapyvardžius, o svarbesnius raštus rašė šifru.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67127"></a>
 - t-003
+  global_id: t-67127
   teiginys: 'Konspiracinė P.O.W. organizacijos veikla: organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po 3—4 tos organizacijos komendantūras.'
   pagrindžia:
     - c-002

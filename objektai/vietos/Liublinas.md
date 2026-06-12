@@ -30,83 +30,115 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
 
 ## Teiginiai
 
+<a id="claim-t-173685"></a>
 - t-001
+  global_id: t-173685
   teiginys: '1386 m. Jogaila nuvyko į Liubliną ir ten buvo išrinktas Lenkijos karaliumi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-173686"></a>
 - t-002
+  global_id: t-173686
   teiginys: 'Po ilgokų derybų, per kurias vienų kitiems buvo pasakyta daug karčių žodžių, lietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo 1 d.).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-173687"></a>
 - t-003
+  global_id: t-173687
   teiginys: 'XIV a. Liublino gatvės buvo siejamos su gotikos rūmais, apsuptais aukštų sienų.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-173688"></a>
 - t-004
+  global_id: t-173688
   teiginys: 'Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami, kad abidvi valstybės pasiliktų savarankiškos.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-173689"></a>
 - t-005
+  global_id: t-173689
   teiginys: 'Liubline stovyklininkas Pavlikas keitė lietuviškas monetas į lenkiškas, kad pinigai būtų pasiųsti į Leipcigą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-173690"></a>
 - t-006
+  global_id: t-173690
   teiginys: 'Po tokių sostinės apsaugos priemonių karalius, į Vilnių atvykęs iš Liublino seimo, ėmėsi reikalų su totoriais.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-173691"></a>
 - t-007
-  teiginys: 'Liublino seimo eiga ir unijos aktas.'
+  global_id: t-173691
+  teiginys: 'Liublino seimas unijos klausimui spręsti susirinko 1569 m. sausio 10 d.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-173693"></a>
 - t-008
+  global_id: t-173693
   teiginys: 'Krokuvos ir Liublino gatvės buvo siejamos su gotikos rūmais ir aukštomis sienomis.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-173694"></a>
 - t-009
+  global_id: t-173694
   teiginys: 'Jis džiaugėsi ir Liublino unijoje «įvykusia santaika»^30.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-173695"></a>
 - t-010
+  global_id: t-173695
   teiginys: '1569 m. Liubline galutinai nustatyti abiejų tautų tarpusavio valstybiniai santykiai.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-173696"></a>
 - t-011
+  global_id: t-173696
   teiginys: '1432 m. pradžioje derybos tarp lenkų ir lietuvių strigo (tuo metu Jogaila stovėjo Liubline, Švitrigaila su kryžiuočių atstovais - Brastoje).'
   pagrindžia:
     - c-005
 
+<a id="claim-t-173697"></a>
 - t-012
+  global_id: t-173697
   teiginys: 'Kojalavičius džiaugėsi Liublino unijoje įvykusia santaika.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-173698"></a>
 - t-013
+  global_id: t-173698
   teiginys: 'Vasarį stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad pinigai būtų išsiųsti į Leipcigą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-173699"></a>
 - t-014
+  global_id: t-173699
   teiginys: 'Liublinas Vladislovo Lokietkos laikais, 1317 m., ėmė tvarkytis pagal vokiečių miestų teises.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-173700"></a>
 - t-015
+  global_id: t-173700
   teiginys: '1569 m. lietuvių ir lenkų delegacijos nuo vasario derėjosi Liubline susirinkusio Lenkijos seimo akivaizdoje.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-185020"></a>
 - t-017
-  teiginys: 'Kojelavičius teigia, kad mat len kai ginklu stengėsi iš rusų at siimti Liubliną, kurio buvo netekę prieš penkiasdešimt septynerius metus.'
+  global_id: t-185020
+  teiginys: 'Lenkai siekė ginklu atsiimti iš rusų Liubliną, kurio buvo netekę prieš penkiasdešimt septynerius metus.'
   pagrindžia:
     - c-013
 
@@ -255,6 +287,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - t-004
 
 - c-009
+  santrauka: 'Liublino seimas unijos klausimui spręsti susirinko 1569 m. sausio 10 d.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet vis dėlto pasiliko svar-
@@ -335,7 +368,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - t-006
 
 - c-013
-  santrauka: 'Kojelavičius teigia, kad mat len kai ginklu stengėsi iš rusų at siimti Liubliną, kurio buvo netekę prieš penkiasdešimt septynerius metus.'
+  santrauka: 'Lenkai siekė ginklu atsiimti iš rusų Liubliną, kurio buvo netekę prieš penkiasdešimt septynerius metus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po

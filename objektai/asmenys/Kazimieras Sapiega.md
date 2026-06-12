@@ -16,12 +16,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-49419"></a>
 - t-001
+  global_id: t-49419
   teiginys: 'Kazimieras Sapiega vadovavo artilerijos baterijai, dengusiai Vilniaus įgulos atsitraukimą per Žaliąjį tiltą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-49420"></a>
 - t-002
+  global_id: t-49420
   teiginys: 'Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero Sapiegos, sumaniai vadovaujamos artilerijos baterijos, sėkmingai atsitraukė per Žaliąjį tiltą.'
   pagrindžia:
     - c-001

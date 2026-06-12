@@ -30,27 +30,37 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 
 ## Teiginiai
 
+<a id="claim-t-58825"></a>
 - t-001
+  global_id: t-58825
   teiginys: 'Maldininkai 1096 m. užėmė Jeruzalę ir daugelį kitų miestų bei pilių, išvaduodami juos iš netikėlių rankų.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-58826"></a>
 - t-002
+  global_id: t-58826
   teiginys: 'Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58827"></a>
 - t-003
+  global_id: t-58827
   teiginys: 'Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58828"></a>
 - t-004
+  global_id: t-58828
   teiginys: 'Dusburgietis teigia, kad trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai buvo taip gerai apsišarvavę, kad jų, kopiančių į sienas, pilėnai nestengė sulaikyti nei ietimis, nei kalavijais, nei kokiais kitais ginklais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-58830"></a>
 - t-005
+  global_id: t-58830
   teiginys: 'Dusburgietis teigia, kad neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę.'
   pagrindžia:
     - c-001

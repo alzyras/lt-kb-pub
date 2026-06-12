@@ -17,7 +17,9 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
 
 ## Teiginiai
 
+<a id="claim-t-40252"></a>
 - t-001
+  global_id: t-40252
   teiginys: 'Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus Kaleitų ežero prie Augustavo link.'
   pagrindžia:
     - c-001

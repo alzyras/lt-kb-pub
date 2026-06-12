@@ -26,17 +26,23 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
 
 ## Teiginiai
 
+<a id="claim-t-64646"></a>
 - t-001
+  global_id: t-64646
   teiginys: 'Salio, ir kalbininkų Talmanto, Laurynaičio ir Kuzmickio straipsniai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64647"></a>
 - t-002
+  global_id: t-64647
   teiginys: 'Talmanto vertimas tiesiog iš originalo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64648"></a>
 - t-003
+  global_id: t-64648
   teiginys: 'J. Talmantas redagavo 1935 m. Kaune išleistą Simono Daukanto veikalą „Būdas senovės lietuvių Kalnėnų ir Žemaičių“.'
   pagrindžia:
     - c-003

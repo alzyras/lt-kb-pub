@@ -18,12 +18,16 @@ Tai buvo vergai.
 
 ## Teiginiai
 
+<a id="claim-t-03214"></a>
 - t-001
+  global_id: t-03214
   teiginys: 'Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir privalėję dirbti bajorui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182989"></a>
 - t-002
+  global_id: t-182989
   teiginys: 'Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir dirbę bajoro ar kunigaikščio ūkyje.'
   pagrindžia:
     - c-001

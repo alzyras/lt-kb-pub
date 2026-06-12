@@ -23,7 +23,9 @@ L XL Rusijos kariuomenė užgrobtoje Livonijoje.
 
 ## Teiginiai
 
+<a id="claim-t-41577"></a>
 - t-001
+  global_id: t-41577
   teiginys: 'Rusijos kariuomenė užgrobtoje Livonijoje yra vokiško informacinio leidinio fragmentas apie Maskvos kariuomenės įsiveržimą į Livoniją.'
   pagrindžia:
     - c-001

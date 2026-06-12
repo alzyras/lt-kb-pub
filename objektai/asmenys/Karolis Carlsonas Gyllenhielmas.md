@@ -28,17 +28,23 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
 
 ## Teiginiai
 
+<a id="claim-t-79073"></a>
 - t-001
+  global_id: t-79073
   teiginys: 'Karolis Carlsonas Gyllenhielmas vadovavo švedų kariuomenei, veikusiai prieš lietuvius Livonijoje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-79074"></a>
 - t-002
+  global_id: t-79074
   teiginys: 'Karolis Sudermanas pasiuntė 2400 karių, kurie turėjo pristatyti apsiautusiai švedų kariuomenei maistą ir šaudmenis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79075"></a>
 - t-003
+  global_id: t-79075
   teiginys: 'K. Carlsonas Gyllenhielmas buvo paskirtas vadovauti operacijai.'
   pagrindžia:
     - c-001

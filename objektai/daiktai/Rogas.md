@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08323"></a>
 - t-001
+  global_id: t-08323
   teiginys: 'Senovėje kalnėnai ir žemaičiai mirusį žmogų ant rogo degindavo kartu su jo žirgu.'
   pagrindžia:
     - c-001

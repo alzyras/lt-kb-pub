@@ -27,22 +27,30 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
 
 ## Teiginiai
 
+<a id="claim-t-66077"></a>
 - t-001
+  global_id: t-66077
   teiginys: '1863 m. sukilimui slopinti Vilniaus karinėje apygardoje buvo sutelkta šimtatūkstantinė Rusijos armija, vėliau padidinta dar 1,5 karto.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66078"></a>
 - t-002
+  global_id: t-66078
   teiginys: '1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama karą tarp LLV ir Rusijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66079"></a>
 - t-003
+  global_id: t-66079
   teiginys: '1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama 1792 m. karą tarp LLV ir Rusijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66080"></a>
 - t-004
+  global_id: t-66080
   teiginys: 'Tais pačiais metais Rusija pasiuntė savo gausią kariuomenę į Lietuvą.'
   pagrindžia:
     - c-003

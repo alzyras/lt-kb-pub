@@ -46,7 +46,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77955"></a>
 - t-001
+  global_id: t-77955
   teiginys: 'Po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu priežastis liko Žemaitija.'
   pagrindžia:
     - c-001

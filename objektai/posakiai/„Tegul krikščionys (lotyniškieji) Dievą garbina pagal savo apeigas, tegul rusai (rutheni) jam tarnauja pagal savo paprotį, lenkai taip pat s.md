@@ -19,7 +19,9 @@ Popiežiaus legato pasiuntiniams apie savo ir Lietuvos valsty­ bės tikėjimo k
 
 ## Teiginiai
 
+<a id="claim-t-28759"></a>
 - t-001
+  global_id: t-28759
   teiginys: 'Gediminas popiežiaus legato pasiuntiniams pareiškė, kad skirtingos bendruomenės Dievą gali garbinti pagal savo papročius.'
   pagrindžia:
     - c-001

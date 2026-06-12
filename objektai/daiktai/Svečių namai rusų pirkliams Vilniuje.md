@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87035"></a>
 - t-001
+  global_id: t-87035
   teiginys: '44 Svečių namams skirta privilegija yra: D u b i ń s k i, 1.18.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87036"></a>
 - t-002
+  global_id: t-87036
   teiginys: 'Vilniuje karalius leido pastatyti Svečių namus, kuriuose rusų pirkliai turėjo apsistoti ir sumokėti prekių muitą.'
   pagrindžia:
     - c-001

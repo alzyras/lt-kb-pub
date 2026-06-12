@@ -29,45 +29,62 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 
 ## Teiginiai
 
+<a id="claim-t-93419"></a>
 - t-001
+  global_id: t-93419
   teiginys: 'Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-93420"></a>
 - t-002
+  global_id: t-93420
   teiginys: 'Dusburgietis teigia, kad apie Marienverderio miesto pastatymą Kol Magdeburgo burggrafas užsilaikė Kulme, nes dar nebuvo davęs taip didžiai trokštamų įžadų, atvyko daug kunigaikščių iš Lenkijos: kunigaikštis Konradas227, Kujavijos kunigaikštis228, Krokuvos kunigaikštis ir Vroclavo.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-93421"></a>
 - t-003
+  global_id: t-93421
   teiginys: 'Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių ordino riterius (kryžiuočius).'
   pagrindžia:
     - c-007
 
+<a id="claim-t-93422"></a>
 - t-004
+  global_id: t-93422
   teiginys: 'Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-93423"></a>
 - t-005
+  global_id: t-93423
   teiginys: '1230 m. Mozūrijos kunigaikštis Konradas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė į pagalbą Kryžiuočių ordiną.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-93424"></a>
 - t-006
+  global_id: t-93424
   teiginys: 'Mozūrijos kunigaikštis Konradas pakvietė Ordiną ir padovanojo jam Kulmo žemę, po ko prasidėjo metodiški kryžiaus žygiai į Prūsiją.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-93425"></a>
 - t-007
+  global_id: t-93425
   teiginys: 'Dusburgietis teigia, kad „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas, o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą, apie.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-93426"></a>
 - t-008
-  teiginys: 'Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.'
+  global_id: t-93426
+  teiginys: 'Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir saugoti vietinius bei aplinkinius krikščionis.'
   pagrindžia:
     - c-003
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -106,6 +123,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
     - t-001
 
 - c-003
+  santrauka: 'Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir saugoti vietinius bei aplinkinius krikščionis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet riterių buvo ne-

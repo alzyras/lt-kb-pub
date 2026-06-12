@@ -22,7 +22,9 @@ Paszkiewicz : Polityka miska Kazimierza Wielkiego, Warszawa 1925, 189 p. (^11) Z
 
 ## Teiginiai
 
+<a id="claim-t-31888"></a>
 - t-001
+  global_id: t-31888
   teiginys: 'H. Paszkiewicziaus „Polityka miska Kazimierza Wielkiego“ išleista Varšuvoje 1925 m. ir turi 189 puslapius.'
   pagrindžia:
     - c-001

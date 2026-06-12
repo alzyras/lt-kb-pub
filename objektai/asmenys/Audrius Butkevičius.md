@@ -24,12 +24,16 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
 
 ## Teiginiai
 
+<a id="claim-t-40045"></a>
 - t-001
+  global_id: t-40045
   teiginys: 'Iki šio nutarimo KAD direktorius Audrius Butkevičius vykdė pagrindinį organizacinį ir vadovavimo darbą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40046"></a>
 - t-002
+  global_id: t-40046
   teiginys: '1991 m. Audrius Butkevičius buvo nurodytas tarp Aukščiausiosios Tarybos gynybos štabo narių.'
   pagrindžia:
     - c-001

@@ -28,17 +28,23 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-173147"></a>
 - t-001
+  global_id: t-173147
   teiginys: 'Žygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos seimo kartu su karaliene Elžbieta ir didele dvariškių svita, tais pačiais metais ir su geriausiomis pranašystėmis perėmė valdžios vadžias.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-173148"></a>
 - t-002
+  global_id: t-173148
   teiginys: 'VILNIAUS MIESTO ISTORIJA I I TOMAS 29 to Augusto 1543 metais, numirė VilElžbieta, Vengrijos ir Čekijos karaniuje 1545 metais, palaidota katedliaus, vėliau imperatoriaus Ferdiros bažnyčioje, koplyčioje, šalia kanando, duktė, ištekinta už Žygimanraliaus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-173150"></a>
 - t-003
+  global_id: t-173150
   teiginys: 'Italų meistrai Šv. Stanislovo bažnyčioje pastatė marmurinį antkapį karaliaus žmonai Elžbietai.'
   pagrindžia:
     - c-003

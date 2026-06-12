@@ -24,7 +24,9 @@ Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į a
 
 ## Teiginiai
 
+<a id="claim-t-25555"></a>
 - t-001
+  global_id: t-25555
   teiginys: 'Europos universitetuose Horacijus buvo įprastas skaitomas autorius, vietoje kurio skaityta Motiejaus Kazimiero Sarbievijaus poezija.'
   pagrindžia:
     - c-001

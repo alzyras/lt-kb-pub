@@ -19,12 +19,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86778"></a>
 - t-001
+  global_id: t-86778
   teiginys: 'Švitrigailos grupuotė kartu su Žygimanto šalininkais po vidaus karo išbandymų vėl taikėsi į Vilnių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86779"></a>
 - t-002
+  global_id: t-86779
   teiginys: 'Podolėje Jogaila kovojo su Moldovos kunigaikščių remiamais Švitrigailos šalininkais.'
   pagrindžia:
     - c-002

@@ -16,7 +16,9 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
 
 ## Teiginiai
 
+<a id="claim-t-60267"></a>
 - t-001
+  global_id: t-60267
   teiginys: 'Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę minėtuosius laužų dūmus, visi kaimynystėje gyvenę stabmeldžiai ir įniko juos puldinėti; abiejose šalyse daug karių buvo sunkiai sužeista, žuvo brolis Ditrichas iš Piremonto ir krito daug netikėlių.'
   pagrindžia:
     - c-001

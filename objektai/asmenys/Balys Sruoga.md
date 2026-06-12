@@ -18,7 +18,9 @@ Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Ma
 
 ## Teiginiai
 
+<a id="claim-t-18847"></a>
 - t-001
+  global_id: t-18847
   teiginys: 'Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta Balio Sruogos kūrinių.'
   pagrindžia:
     - c-001

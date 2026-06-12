@@ -17,7 +17,9 @@ Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais tariant, neb
 
 ## Teiginiai
 
+<a id="claim-t-31564"></a>
 - t-001
+  global_id: t-31564
   teiginys: 'Kryžiuočiai bėglį Vytautą, jų žodžiais nebeturėjusį „nei žemės, nei žmonių“, laikė įrankiu spausti Jogailą.'
   pagrindžia:
     - c-001

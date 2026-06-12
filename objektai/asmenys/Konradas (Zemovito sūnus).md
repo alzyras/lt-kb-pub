@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Konradas (Zemovito sūnus)
 
 ## Santrauka
 
-Kojelavičius teigia, kad mindaugas, susilaukęs paramos iš rusų, slaptai ir netikėtai didžiulių miškų takais įsibro vė Mazovijon: jis užklupo kunigaikštį Zemovitą bei jo sūnų Konradą, Jazdovo dvare nerūpestingai vasa ros karštymetyje gyvenančius su visa palyda.
+Mindaugas Jazdovo dvare užklupo Zemovito sūnų Konradą, paėmė jį į nelaisvę ir vėliau grąžino į tėvo valdas.
 
 ## Teiginiai
 
+<a id="claim-t-186128"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mindaugas, susilaukęs paramos iš rusų, slaptai ir netikėtai didžiulių miškų takais įsibro vė Mazovijon: jis užklupo kunigaikštį Zemovitą bei jo sūnų Konradą, Jazdovo dvare nerūpestingai vasa ros karštymetyje gyvenančius su visa palyda.'
+  global_id: t-186128
+  teiginys: 'Mindaugas Jazdovo dvare užklupo Zemovito sūnų Konradą, paėmė jį į nelaisvę ir vėliau grąžino į tėvo valdas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mindaugas, susilaukęs paramos iš rusų, slaptai ir netikėtai didžiulių miškų takais įsibro vė Mazovijon: jis užklupo kunigaikštį Zemovitą bei jo sūnų Konradą, Jazdovo dvare nerūpestingai vasa ros karštymetyje gyvenančius su visa palyda.'
+  santrauka: 'Mindaugas Jazdovo dvare užklupo Zemovito sūnų Konradą, paėmė jį į nelaisvę ir vėliau grąžino į tėvo valdas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
@@ -48,3 +49,9 @@ Kojelavičius teigia, kad mindaugas, susilaukęs paramos iš rusų, slaptai ir n
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/žygis]]

@@ -16,7 +16,9 @@ Skelbta, kad sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos s
 
 ## Teiginiai
 
+<a id="claim-t-77850"></a>
 - t-001
+  global_id: t-77850
   teiginys: 'Skelbta, kad sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos saugumą ir esminių permainų neįvyko.'
   pagrindžia:
     - c-001

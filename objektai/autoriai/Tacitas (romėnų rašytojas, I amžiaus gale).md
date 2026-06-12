@@ -21,12 +21,16 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
 
 ## Teiginiai
 
+<a id="claim-t-63355"></a>
 - t-001
+  global_id: t-63355
   teiginys: 'Tacitas I amžiaus gale veikale „Germania“ pirmasis paminėjo mūsų krašto gyventojus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-63356"></a>
 - t-002
+  global_id: t-63356
   teiginys: 'Tacitas veikale „Germania“ aisčiams paskyrė skyrelį ir trumpai aprašė jų gyvenimą, tikybą bei gintarą.'
   pagrindžia:
     - c-002

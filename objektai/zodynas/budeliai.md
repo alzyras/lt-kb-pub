@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # budeliai
 
 ## Santrauka
 
-Kojelavičius teigia, kad ši taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o dėl narsumo — Achilas, žuvo gimtajame krašte per brolėno kaltę: penktą naktį Jogailos pasiųsti budeliai (žymiausi iš jų — valdovo miegamojo. Kojelavičius teigia, kad vienas sargybinis kar tą įspėjo Oną, jog Vytautui gresianti mirtis, pridurdamas, kad Jogailos siųsti budeliai jau atvyko į Krėvą.
+Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime. Vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir kad Jogailos siųsti budeliai jau atvyko į Krėvą.
 
 ## Teiginiai
 
+<a id="claim-t-185380"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad ši taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o dėl narsumo — Achilas, žuvo gimtajame krašte per brolėno kaltę: penktą naktį Jogailos pasiųsti budeliai (žymiausi iš jų — valdovo miegamojo.'
+  global_id: t-185380
+  teiginys: 'Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185381"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad vienas sargybinis kar tą įspėjo Oną, jog Vytautui gresianti mirtis, pridurdamas, kad Jogailos siųsti budeliai jau atvyko į Krėvą.'
+  global_id: t-185381
+  teiginys: 'Vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir kad Jogailos siųsti budeliai jau atvyko į Krėvą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad ši taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o dėl narsumo — Achilas, žuvo gimtajame krašte per brolėno kaltę: penktą naktį Jogailos pasiųsti budeliai (žymiausi iš jų — valdovo miegamojo.'
+  santrauka: 'Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tą pačią naktį Jogaila, pamynęs draugystės bei
@@ -57,7 +60,7 @@ Kojelavičius teigia, kad ši taip tas didvyris, ne vieną kartą ištrūkęs i�
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad vienas sargybinis kar tą įspėjo Oną, jog Vytautui gresianti mirtis, pridurdamas, kad Jogailos siųsti budeliai jau atvyko į Krėvą.'
+  santrauka: 'Vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir kad Jogailos siųsti budeliai jau atvyko į Krėvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ši
@@ -78,3 +81,18 @@ Kojelavičius teigia, kad ši taip tas didvyris, ne vieną kartą ištrūkęs i�
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Drabužiai]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Šventaragis]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas]]
+- [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)]]
+- [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje]]
+- [[objektai/ivykiai/Kęstučio pasmaugimas Krėvos kalėjime ir represijos jo aplinkai]]
+- [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją]]

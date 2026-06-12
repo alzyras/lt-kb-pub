@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-21971"></a>
 - t-001
+  global_id: t-21971
   teiginys: '1962–1969 m. Vilniuje pastatyti Žirmūnai buvo pirmasis stambiaplokščių daugiabučių mikrorajonas.'
   pagrindžia:
     - c-001

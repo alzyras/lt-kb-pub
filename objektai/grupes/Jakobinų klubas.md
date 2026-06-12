@@ -17,7 +17,9 @@ Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumany
 
 ## Teiginiai
 
+<a id="claim-t-19717"></a>
 - t-001
+  global_id: t-19717
   teiginys: 'Jakobinų klubas oponavo oficialiai sukilimo valdžiai ir jame kilo sumanymas rengti egzekuciją.'
   pagrindžia:
     - c-001

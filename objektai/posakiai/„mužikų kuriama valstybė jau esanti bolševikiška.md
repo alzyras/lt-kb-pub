@@ -17,7 +17,9 @@ O iš Lietuvos pabėgę dvarininkai šaukte šaukė, kad „mužikų" kuriama va
 
 ## Teiginiai
 
+<a id="claim-t-02101"></a>
 - t-001
+  global_id: t-02101
   teiginys: 'Iš Lietuvos pabėgę dvarininkai teigė, kad „mužikų“ kuriama valstybė jau esanti bolševikiška.'
   pagrindžia:
     - c-001

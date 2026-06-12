@@ -26,12 +26,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-68706"></a>
 - t-001
+  global_id: t-68706
   teiginys: '1379 m. Ordino magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikštijos sričių, tarp jų ir Mielniko.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-68707"></a>
 - t-002
+  global_id: t-68707
   teiginys: '1384 m. vasarą Vytautas buvo gavęs dalį tėvo valdų, įskaitant Palenkę su Drohičinu ir Mielniku.'
   pagrindžia:
     - c-002

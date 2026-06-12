@@ -22,7 +22,9 @@ Dusburgietis teigia, kad šeliagovičius M.
 
 ## Teiginiai
 
+<a id="claim-t-61398"></a>
 - t-001
+  global_id: t-61398
   teiginys: 'M. Šeliagovičiaus „Senovės baltų atgarsis“ paskelbtas 1984 m. žurnalo MG 1 numeryje, 32-33 puslapiuose.'
   pagrindžia:
     - c-001

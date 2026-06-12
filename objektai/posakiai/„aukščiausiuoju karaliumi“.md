@@ -32,7 +32,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-25364"></a>
 - t-001
+  global_id: t-25364
   teiginys: '1245–1246 m. vokiečių kronikininkas Mindaugą pavadino „aukščiausiuoju karaliumi“.'
   pagrindžia:
     - c-001

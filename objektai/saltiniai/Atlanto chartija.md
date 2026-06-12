@@ -18,7 +18,9 @@ Iš visų trijų Baltijos valstybių L I E T U V O S I S T O R I J A 210 pasipri
 
 ## Teiginiai
 
+<a id="claim-t-26484"></a>
 - t-001
+  global_id: t-26484
   teiginys: 'Lietuvoje tikėta, kad JAV ir Didžioji Britanija įvykdys Atlanto chartijos pažadus grąžinti nepriklausomybę karo metu ją praradusioms šalims.'
   pagrindžia:
     - c-001

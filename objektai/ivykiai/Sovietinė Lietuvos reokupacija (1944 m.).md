@@ -41,22 +41,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75280"></a>
 - t-001
+  global_id: t-75280
   teiginys: 'Nacių okupaciją keičia sovietinė 1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75281"></a>
 - t-002
+  global_id: t-75281
   teiginys: 'Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75282"></a>
 - t-003
+  global_id: t-75282
   teiginys: '1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75283"></a>
 - t-004
+  global_id: t-75283
   teiginys: '1944 m. vasarą sovietų kariuomenė antrą kartą okupavo Lietuvą ir grąžino stalininį režimą.'
   pagrindžia:
     - c-002

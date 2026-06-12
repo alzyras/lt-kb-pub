@@ -24,7 +24,9 @@ pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos s
 
 ## Teiginiai
 
+<a id="claim-t-35038"></a>
 - t-001
+  global_id: t-35038
   teiginys: 'Boleslovas Jurgis Traidenaitis mirė 1340 m., o po jo dėl Haličo ir Volynijos varžėsi Kazimieras Didysis ir Liubartas.'
   pagrindžia:
     - c-001

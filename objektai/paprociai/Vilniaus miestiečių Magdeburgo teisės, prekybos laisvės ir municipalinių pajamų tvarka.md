@@ -48,27 +48,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87131"></a>
 - t-001
+  global_id: t-87131
   teiginys: '1492 m. Trakuose Aleksandras Vilniui suteikė Magdeburgo teises ir leido miestui laikyti vaško dirbtuvę.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-87132"></a>
 - t-002
+  global_id: t-87132
   teiginys: 'Dar būdamas didžiuoju kunigaikščiu, Kazimieras atleido Vilniaus miestiečius nuo muito mokesčio visoje Lietuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87133"></a>
 - t-003
+  global_id: t-87133
   teiginys: 'Žygimantas Vilniui amžiams suteikė vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-87134"></a>
 - t-004
+  global_id: t-87134
   teiginys: 'Rugsėjo 23 d. Žygimantas leido Vilniaus miestiečiams prekiauti ir be muito gabenti prekes Lietuvos žemėje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87135"></a>
 - t-005
+  global_id: t-87135
   teiginys: 'Kazimiero 1441 m. Brastoje išleista privilegija atnaujino Vilniaus Magdeburgo teises ir nustatė du didžiuosius prekymečius.'
   pagrindžia:
     - c-002

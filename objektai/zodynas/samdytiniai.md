@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # samdytiniai
 
 ## Santrauka
 
-Kojelavičius teigia, kad pilį ir miestą, smarkiai įtvirtin tus, gynė stambios lietuvių bei lenkų samdytinių įgulos.
+Kauno pilį ir miestą gynė stambios lietuvių bei lenkų samdytinių įgulos.
 
 ## Teiginiai
 
+<a id="claim-t-185412"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pilį ir miestą, smarkiai įtvirtin tus, gynė stambios lietuvių bei lenkų samdytinių įgulos.'
+  global_id: t-185412
+  teiginys: 'Kauno pilį ir miestą gynė stambios lietuvių bei lenkų samdytinių įgulos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pilį ir miestą, smarkiai įtvirtin tus, gynė stambios lietuvių bei lenkų samdytinių įgulos.'
+  santrauka: 'Kauno pilį ir miestą gynė stambios lietuvių bei lenkų samdytinių įgulos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi Kaunas Neries ir
@@ -48,3 +49,11 @@ Kojelavičius teigia, kad pilį ir miestą, smarkiai įtvirtin tus, gynė stambi
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
+- [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]
+- [[objektai/zodynas/įgula]]

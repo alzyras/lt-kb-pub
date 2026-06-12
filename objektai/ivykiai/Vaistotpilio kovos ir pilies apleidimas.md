@@ -33,18 +33,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-89412"></a>
 - t-001
+  global_id: t-89412
   teiginys: 'Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu Vaistotpilis389.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89413"></a>
 - t-002
+  global_id: t-89413
   teiginys: 'Dusburgietis teigia, kad šios pilies broliai vieną dieną persekiojo prūsų kariuomenę, apiplėšusią ten du kaimus.'
   pagrindžia:
     - c-001
     - c-002
 
+<a id="claim-t-89414"></a>
 - t-003
+  global_id: t-89414
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Vaistotpilio pilis Nesitenkindami broliams padarytais nuostoliais, prūsai subūrė didžiulę kariuomenę ir apsupo Vaistotpilio pilį; jie smarkiai puolė ją nuo aušros iki sutemų, o broliai narsiai gynėsi.'
   pagrindžia:
     - c-003

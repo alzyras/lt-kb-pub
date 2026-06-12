@@ -19,7 +19,9 @@ Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokrat
 
 ## Teiginiai
 
+<a id="claim-t-22021"></a>
 - t-001
+  global_id: t-22021
   teiginys: 'Įtvirtindama demokratines vertybes Lietuva siekė vykdyti religinio turto restituciją ir grąžinti žydų kultūros vertybes.'
   pagrindžia:
     - c-001

@@ -17,12 +17,16 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
 
 ## Teiginiai
 
+<a id="claim-t-60173"></a>
 - t-001
+  global_id: t-60173
   teiginys: 'Dusburgietis teigia, kad sitai girdėdamas, Miligedas, paprašęs brolių leidimo ir jį gavęs, išėjo ir pradėjo šį bėgantį vytis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60174"></a>
 - t-002
+  global_id: t-60174
   teiginys: 'Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Miligedas, toks drąsus, kad prūsams rodėsi, jog, jį nukovus, pusė pilies įgulos būtų buvusi sunaikinta.'
   pagrindžia:
     - c-002

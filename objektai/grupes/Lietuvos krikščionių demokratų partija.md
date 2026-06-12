@@ -16,22 +16,30 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
 
 ## Teiginiai
 
+<a id="claim-t-74744"></a>
 - t-001
+  global_id: t-74744
   teiginys: 'Po Klaipėdos atplėšimo krikščionys demokratai ir liaudininkai sąlyginai sugrįžo į valdžią.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74745"></a>
 - t-002
+  global_id: t-74745
   teiginys: 'Krikščionys demokratai ir liaudininkai pareikalavo vietoj A. Merkio ministru pirmininku paskirti gen. S. Raštikį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-74746"></a>
 - t-003
+  global_id: t-74746
   teiginys: 'Po ultimatumo priėmimo krikščionių demokratų ir valstiečių liaudininkų lyderiai pradėjo tartis dėl bendros programos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74747"></a>
 - t-004
+  global_id: t-74747
   teiginys: 'Lozoraitį, kurio linija pralaimėjo, nors Lietuvos valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.'
   pagrindžia:
     - c-001

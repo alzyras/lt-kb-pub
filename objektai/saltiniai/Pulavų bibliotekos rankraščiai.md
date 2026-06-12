@@ -29,7 +29,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-88469"></a>
 - t-001
+  global_id: t-88469
   teiginys: 'Pulavų bibliotekos rankraštis detalizavo iki 1565 m. Žygimanto Augusto lėšomis gamintus ginklus ir amuniciją.'
   pagrindžia:
     - c-001

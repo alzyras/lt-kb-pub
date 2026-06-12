@@ -23,7 +23,9 @@ Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liau
 
 ## Teiginiai
 
+<a id="claim-t-26489"></a>
 - t-001
+  global_id: t-26489
   teiginys: '1940 m. liepos 6 d. buvo patvirtintas Lietuvos politinių partijų ir šaulių vadovybės „operatyvinės likvidacijos planas“.'
   pagrindžia:
     - c-001

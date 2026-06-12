@@ -20,27 +20,37 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
 
 ## Teiginiai
 
+<a id="claim-t-176495"></a>
 - t-001
+  global_id: t-176495
   teiginys: 'Lietuvai ir Lenkijai palankus antipopiežius Jonas XXIII, kuris imperatorių Zigmantą buvo prašęs sušaukti šį susirinkimą, Konstancoje buvo atstatytas ir įmestas kalėjiman.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-176496"></a>
 - t-002
+  global_id: t-176496
   teiginys: 'Jonas XXIII atėmė Vokiečių ordinui teises ir privilegijas, kuriomis jis teisino savo užpuolimus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176497"></a>
 - t-003
+  global_id: t-176497
   teiginys: 'Jonas XXIII pagal Jogailos ir Vytauto prašymą panaikino pasenusias Ordino privilegijas į Lietuvą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-176499"></a>
 - t-004
+  global_id: t-176499
   teiginys: 'Jonas XXIII panaikino visas Ordino privilegijas ir teises kariauti Lietuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184282"></a>
 - t-006
+  global_id: t-184282
   teiginys: 'Jonas XXIII pasiūlė Vytautui pavesti bylą su Vokiečių ordinu Konstancijos susirinkimui.'
   pagrindžia:
     - c-006

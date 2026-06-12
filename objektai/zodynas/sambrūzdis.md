@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # sambrūzdis
 
 ## Santrauka
 
-Kojelavičius teigia, kad aprimo šis sambrūzdis, kai atėjo žinia apie Žygi manto mirtį.
+Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žygimanto mirtį.
 
 ## Teiginiai
 
+<a id="claim-t-185411"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad aprimo šis sambrūzdis, kai atėjo žinia apie Žygi manto mirtį.'
+  global_id: t-185411
+  teiginys: 'Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žygimanto mirtį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad aprimo šis sambrūzdis, kai atėjo žinia apie Žygi manto mirtį.'
+  santrauka: 'Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žygimanto mirtį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Patyręs
@@ -44,3 +45,8 @@ Kojelavičius teigia, kad aprimo šis sambrūzdis, kai atėjo žinia apie Žygi 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Žygimantas]]

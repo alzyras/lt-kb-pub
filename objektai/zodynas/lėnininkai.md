@@ -18,7 +18,9 @@ Atvyko Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas su savo žm
 
 ## Teiginiai
 
+<a id="claim-t-36808"></a>
 - t-001
+  global_id: t-36808
   teiginys: 'Į suvažiavimą Vytautas atvyko su gausybe lėnininkų, pasiuntinių, didikų ir kunigaikščių.'
   pagrindžia:
     - c-001

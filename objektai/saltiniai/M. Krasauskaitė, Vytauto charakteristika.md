@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31836"></a>
 - t-001
+  global_id: t-31836
   teiginys: 'M. Krasauskaitės „Vytauto charakteristika“ išspausdinta 1930 m. Kaune išleistame rinkinyje „Vytautas Didysis“, p. 253–265.'
   pagrindžia:
     - c-001

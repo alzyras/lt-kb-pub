@@ -25,7 +25,9 @@ Pochodowicz, t.
 
 ## Teiginiai
 
+<a id="claim-t-30695"></a>
 - t-001
+  global_id: t-30695
   teiginys: 'J. Pochodowicz buvo vienas „Bibliografia Regionu Białostockiego“ redaktorių.'
   pagrindžia:
     - c-001

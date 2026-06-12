@@ -39,17 +39,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67213"></a>
 - t-001
+  global_id: t-67213
   teiginys: 'Lietuvai tapus krikščioniška valstybe, Lietuvos žmonės pradėjo vykti mokytis į Europos universitetus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67214"></a>
 - t-002
+  global_id: t-67214
   teiginys: 'Studijos Europos universitetuose: šiaip, kas norėdavo gauti aukštesniojo ir aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi- ninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67215"></a>
 - t-003
+  global_id: t-67215
   teiginys: 'Studijos Europos universitetuose: kadangi į tolimuosius kraštus tegalėjo vykti mokytis tik turtingųjų bajorų vaikai, todėl mokytų žmo- nių buvo nedaug. Vis dėlto didikai buvo visi baigę aukštuosius mokslus.'
   pagrindžia:
     - c-003

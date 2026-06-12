@@ -23,7 +23,9 @@ periodo_grupes: []
 
 ## Teiginiai
 
+<a id="claim-t-87821"></a>
 - t-001
+  global_id: t-87821
   teiginys: 'Gniezno arkivyskupas Pelka 1253 m. įšventino Petrą ir pirmąjį Lietuvos vyskupą Vitą vyskupais.'
   pagrindžia:
     - c-001

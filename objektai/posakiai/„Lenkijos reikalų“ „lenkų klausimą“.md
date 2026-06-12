@@ -18,7 +18,9 @@ sukilėlių neturėjo jokių galimybių laimėti, viltys, dėtos į valstiečių
 
 ## Teiginiai
 
+<a id="claim-t-20849"></a>
 - t-001
+  global_id: t-20849
   teiginys: 'Kariniu požiūriu 60 tūkst. sukilėlių neturėjo galimybių laimėti, o Vakarai nesiruošė lieti kraujo dėl „Lenkijos reikalų“.'
   pagrindžia:
     - c-001

@@ -26,7 +26,9 @@ Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškė
 
 ## Teiginiai
 
+<a id="claim-t-35328"></a>
 - t-001
+  global_id: t-35328
   teiginys: '1425 m. mirdamas Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Biržiška iš jos pasitraukė.
 
 ## Teiginiai
 
+<a id="claim-t-25694"></a>
 - t-001
+  global_id: t-25694
   teiginys: 'Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui.'
   pagrindžia:
     - c-001

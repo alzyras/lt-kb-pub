@@ -25,7 +25,9 @@ Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos
 
 ## Teiginiai
 
+<a id="claim-t-86572"></a>
 - t-001
+  global_id: t-86572
   teiginys: 'Stabmeldystės pastangos prieš Romos tikėjimo skelbėjus po Vilniaus pranciškonų nužudymo buvo bevaisės.'
   pagrindžia:
     - c-001

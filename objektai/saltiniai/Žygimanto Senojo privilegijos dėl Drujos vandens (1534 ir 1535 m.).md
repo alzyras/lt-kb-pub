@@ -26,7 +26,9 @@ Miesto archyve: Žygimanto Seno­ jo privilegija, datuota Rūdninkuose, 1534 met
 
 ## Teiginiai
 
+<a id="claim-t-88518"></a>
 - t-001
+  global_id: t-88518
   teiginys: 'Miesto archyve buvo Žygimanto Senojo privilegijos dėl Drujos vandens, datuotos 1534 m. liepos 4 d. ir 1535 m. liepos 17 d.'
   pagrindžia:
     - c-001

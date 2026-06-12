@@ -18,7 +18,9 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 
 ## Teiginiai
 
+<a id="claim-t-20902"></a>
 - t-001
+  global_id: t-20902
   teiginys: 'Katedra buvo pašvęsta Krokuvos vyskupo šv. Stanislovo garbei, kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją.'
   pagrindžia:
     - c-001

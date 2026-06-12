@@ -16,12 +16,16 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 
 ## Teiginiai
 
+<a id="claim-t-68837"></a>
 - t-001
+  global_id: t-68837
   teiginys: 'Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Europos dalies (Olandija, Anglija) ir per XVII–XVIII a.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-68838"></a>
 - t-002
+  global_id: t-68838
   teiginys: 'Olandija antrojoje XVI a. pusėje pradėjo kurti respublikinę santvarką.'
   pagrindžia:
     - c-002

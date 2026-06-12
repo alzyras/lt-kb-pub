@@ -28,12 +28,16 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-40147"></a>
 - t-001
+  global_id: t-40147
   teiginys: 'Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusi Riurikaičių dinastija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40148"></a>
 - t-002
+  global_id: t-40148
   teiginys: '1558 m. Ivanas IV Rūstusis užpuolė Livoniją ir užėmė dalį jos žemių, 1559 m. rusai siaubė gilesnes Livonijos sritis.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
 
 ## Teiginiai
 
+<a id="claim-t-87643"></a>
 - t-001
+  global_id: t-87643
   teiginys: 'Didžiojo Naugardo bojarinas Chariničius su Ivanu Jermoliničiumi Vilniuje sudarė sutartį su Švitrigaila dėl saugumo ir prekybos laisvės.'
   pagrindžia:
     - c-001

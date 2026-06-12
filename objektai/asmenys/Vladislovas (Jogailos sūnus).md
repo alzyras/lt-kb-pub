@@ -28,12 +28,16 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
 
 ## Teiginiai
 
+<a id="claim-t-35320"></a>
 - t-001
+  global_id: t-35320
   teiginys: '1425 m. šlėkta pasirinko Jogailos sūnų Vladislovą būsimu valdovu ir karaliumi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-35321"></a>
 - t-002
+  global_id: t-35321
   teiginys: '1425 m. Bresto seime lenkų didikai pripažino Jogailos sūnų Vladislovą sosto įpėdiniu.'
   pagrindžia:
     - c-001

@@ -25,12 +25,16 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
 
 ## Teiginiai
 
+<a id="claim-t-61014"></a>
 - t-001
+  global_id: t-61014
   teiginys: 'Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, apaštališkojo sosto legatas, atsiųstas į Lenkijos žemę, ir brolis Konradas iš Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams skriaudų šiose trijose minėtosios.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-61015"></a>
 - t-002
+  global_id: t-61015
   teiginys: 'Volynės metraštyje teritorija Crasim minima forma Krismence.'
   pagrindžia:
     - c-002

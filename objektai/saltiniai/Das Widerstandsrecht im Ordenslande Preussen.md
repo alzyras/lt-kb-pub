@@ -23,7 +23,9 @@ Weise : Das Widerstandsrecht im Ordenslande Preussen und das mittelalterliche Eu
 
 ## Teiginiai
 
+<a id="claim-t-100159"></a>
 - t-001
+  global_id: t-100159
   teiginys: 'Weise : Das Widerstandsrecht im Ordenslande Preussen und das mittelalterliche Europa (1955); jis išleido StVW.'
   pagrindžia:
     - c-001

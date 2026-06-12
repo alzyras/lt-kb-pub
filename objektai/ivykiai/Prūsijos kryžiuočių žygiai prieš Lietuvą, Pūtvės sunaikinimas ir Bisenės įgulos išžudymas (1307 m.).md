@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad mat į Prūsiją papildymui at- 1307 m e la i vyko kariuomenė, vedama grafo Jono fon Španheimo, kurią sudarė kilmingiausi vokiečių riteriai, su jais ėjo ranka rankon tūkstantis keturi šimtai ordino riterių, turėjusių būti vokiečių sąP rū sijo s k ry žiu o č ių. Kojelavičius teigia, kad vėliau, pirmaisiais vasaros mėnesiais, o galop dar kartą, va sarai baigiantis, Ragainės kryžiuočiai sudegino Pūtvės miestą Jūros pakrantėje, o miestiečius arba paėmė į nelaisvę, arba išžudė; išliko vos vienas kitas, kuris spėjo pasprukti į pilį. Kojelavičius teigia, kad šitaip tada lietuviai tvarkė įgu lų tarnybas, norėdami, kad kariškai lavintųsi jaunuo menė, kuri šiaip dykinėdama lengvai netenka kovinm gumo ir drąsumo.
+1307 m. į Prūsiją atvyko grafo Jono fon Španheimo vedama kariuomenė su kilmingais vokiečių riteriais. Vasaros pabaigoje Ragainės kryžiuočiai sudegino Pūtvės miestą prie Jūros, o miestiečius paėmė į nelaisvę arba išžudė. Lietuviai įgulų tarnybas tvarkė taip, kad kariškai lavintųsi jaunimas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,35 +32,45 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185496"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mat į Prūsiją papildymui at- 1307 m e la i vyko kariuomenė, vedama grafo Jono fon Španheimo, kurią sudarė kilmingiausi vokiečių riteriai, su jais ėjo ranka rankon tūkstantis keturi šimtai ordino riterių, turėjusių būti vokiečių sąP rū sijo s k ry žiu o č ių.'
+  global_id: t-185496
+  teiginys: '1307 m. į Prūsiją atvyko grafo Jono fon Španheimo vedama kariuomenė su kilmingais vokiečių riteriais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185497"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad vėliau, pirmaisiais vasaros mėnesiais, o galop dar kartą, va sarai baigiantis, Ragainės kryžiuočiai sudegino Pūtvės miestą Jūros pakrantėje, o miestiečius arba paėmė į nelaisvę, arba išžudė; išliko vos vienas kitas, kuris spėjo pasprukti į pilį.'
+  global_id: t-185497
+  teiginys: 'Vasaros pabaigoje Ragainės kryžiuočiai sudegino Pūtvės miestą prie Jūros, o miestiečius paėmė į nelaisvę arba išžudė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185498"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad šitaip tada lietuviai tvarkė įgu lų tarnybas, norėdami, kad kariškai lavintųsi jaunuo menė, kuri šiaip dykinėdama lengvai netenka kovinm gumo ir drąsumo.'
+  global_id: t-185498
+  teiginys: 'Lietuviai įgulų tarnybas tvarkė taip, kad kariškai lavintųsi jaunimas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185499"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad vėliau, ir tais pačiais, ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo je Karšuvos žemę, kad gyventojai, nematydami iš eities, turėjo su visu turtu išsikelti į Lietuvą.'
+  global_id: t-185499
+  teiginys: 'Kryžiuočiai nusiaubė Karšuvos žemę Žemaitijoje taip, kad jos gyventojai su turtu išsikėlė į Lietuvą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-185500"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad neteku sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys buvo priešo ir liepsnų sunaikintos, o truputį anksčiau Pūtvės pilį išdavė jos seniūnas Spūdas.'
+  global_id: t-185500
+  teiginys: 'Skronaitės ir Bibervaitės pilys, netekusios gynėjų, buvo sunaikintos priešo ir liepsnų.'
   pagrindžia:
     - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mat į Prūsiją papildymui at- 1307 m e la i vyko kariuomenė, vedama grafo Jono fon Španheimo, kurią sudarė kilmingiausi vokiečių riteriai, su jais ėjo ranka rankon tūkstantis keturi šimtai ordino riterių, turėjusių būti vokiečių sąP rū sijo s k ry žiu o č ių.'
+  santrauka: '1307 m. į Prūsiją atvyko grafo Jono fon Španheimo vedama kariuomenė su kilmingais vokiečių riteriais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat į Prūsiją papildymui at-
@@ -92,7 +101,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad vėliau, pirmaisiais vasaros mėnesiais, o galop dar kartą, va sarai baigiantis, Ragainės kryžiuočiai sudegino Pūtvės miestą Jūros pakrantėje, o miestiečius arba paėmė į nelaisvę, arba išžudė; išliko vos vienas kitas, kuris spėjo pasprukti į pilį.'
+  santrauka: 'Vasaros pabaigoje Ragainės kryžiuočiai sudegino Pūtvės miestą prie Jūros, o miestiečius paėmė į nelaisvę arba išžudė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat silpnas le­
@@ -113,7 +122,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad šitaip tada lietuviai tvarkė įgu lų tarnybas, norėdami, kad kariškai lavintųsi jaunuo menė, kuri šiaip dykinėdama lengvai netenka kovinm gumo ir drąsumo.'
+  santrauka: 'Lietuviai įgulų tarnybas tvarkė taip, kad kariškai lavintųsi jaunimas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip tada lietuviai tvarkė įgu­
@@ -135,7 +144,7 @@ Nenurodyta
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad vėliau, ir tais pačiais, ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo je Karšuvos žemę, kad gyventojai, nematydami iš eities, turėjo su visu turtu išsikelti į Lietuvą.'
+  santrauka: 'Kryžiuočiai nusiaubė Karšuvos žemę Žemaitijoje taip, kad jos gyventojai su turtu išsikėlė į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sutelktu būriu užgriuvę iš pasalų nieko nenu-
@@ -153,7 +162,7 @@ Nenurodyta
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad neteku sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys buvo priešo ir liepsnų sunaikintos, o truputį anksčiau Pūtvės pilį išdavė jos seniūnas Spūdas.'
+  santrauka: 'Skronaitės ir Bibervaitės pilys, netekusios gynėjų, buvo sunaikintos priešo ir liepsnų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neteku­
@@ -171,3 +180,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Pilys]]
+- [[objektai/asmenys/Spūdas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/žygis]]

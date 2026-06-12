@@ -22,7 +22,9 @@ Prie 1270 m. ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (o
 
 ## Teiginiai
 
+<a id="claim-t-100012"></a>
 - t-001
+  global_id: t-100012
   teiginys: 'Prie 1270 m. ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis ».'
   pagrindžia:
     - c-001

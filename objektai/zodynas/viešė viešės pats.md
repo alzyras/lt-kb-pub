@@ -19,7 +19,9 @@ Dusburgietis teigia, kad kunigaikštis valdė keletą ar daugiau kaimų, ten tur
 
 ## Teiginiai
 
+<a id="claim-t-58929"></a>
 - t-001
+  global_id: t-58929
   teiginys: 'Dusburgietis teigia, kad kunigaikštis valdė keletą ar daugiau kaimų, ten turėjo savo šeimynos žmonių (vergų ir baudžiauninkų), be to, jis dar buvo ir viešės (žemdirbių gyvenvietės) valdovas (viešės pats), taip pat visos žemės valdovas, bajorų karo vadas (Łowmiański H., Studja..., 1.'
   pagrindžia:
     - c-001

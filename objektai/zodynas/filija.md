@@ -16,7 +16,9 @@ Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbatio
 
 ## Teiginiai
 
+<a id="claim-t-86587"></a>
 - t-001
+  global_id: t-86587
   teiginys: 'Bažnyčia galėjo būti nukelta arba tapti Pabaisko bažnyčiai priklausančia filija.'
   pagrindžia:
     - c-001

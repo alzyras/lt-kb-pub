@@ -29,17 +29,23 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
 
 ## Teiginiai
 
+<a id="claim-t-86487"></a>
 - t-001
+  global_id: t-86487
   teiginys: 'Vilniaus vaitas ir burmistrai siekė atšaukti Paleckio monopolio privilegiją, nes ji darė vis didesnę žalą miestui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86488"></a>
 - t-002
+  global_id: t-86488
   teiginys: 'Martynas Smigleckis privačios prekybos arba monopolio klausimą aiškino Vilniaus stiklo prekių pavyzdžiu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86489"></a>
 - t-003
+  global_id: t-86489
   teiginys: 'Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje naujais mokesčiais bandė suvaržyti iš Vilniaus gabenamų prekių prekybą.'
   pagrindžia:
     - c-002

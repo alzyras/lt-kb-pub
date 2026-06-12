@@ -25,12 +25,16 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
 
 ## Teiginiai
 
+<a id="claim-t-86742"></a>
 - t-001
+  global_id: t-86742
   teiginys: 'Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje reikštis piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86743"></a>
 - t-002
+  global_id: t-86743
   teiginys: '1586 m. graikų tikėjimo Vilniaus pirkliai apskundė karaliui Vilniaus vaitą Stanislovą Sabiną.'
   pagrindžia:
     - c-002

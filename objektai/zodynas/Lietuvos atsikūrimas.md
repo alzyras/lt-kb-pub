@@ -24,12 +24,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-38725"></a>
 - t-001
+  global_id: t-38725
   teiginys: '1918 m. Lietuvos valstybė atsikūrė padedama modernios lietuvių tautos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183716"></a>
 - t-002
+  global_id: t-183716
   teiginys: '1918 m. Lietuvos valstybė pagaliau atsikūrė, bet jau su modernios lietuvių tautos pagalba.'
   pagrindžia:
     - c-002

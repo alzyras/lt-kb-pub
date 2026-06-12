@@ -16,7 +16,9 @@ Vėliau Vanagas subūrė Merkinės ir Alovės partizanus į 140 vyrų kuopą.
 
 ## Teiginiai
 
+<a id="claim-t-38986"></a>
 - t-001
+  global_id: t-38986
   teiginys: 'Rugpjūtį Vanago vadovaujama 140 vyrų Merkinės ir Alovės partizanų kuopa buvo performuota į Merkinės batalioną.'
   pagrindžia:
     - c-001

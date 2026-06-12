@@ -24,17 +24,23 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
 
 ## Teiginiai
 
+<a id="claim-t-64753"></a>
 - t-001
+  global_id: t-64753
   teiginys: 'Mažvydas rašė lietuviškas protestantiškas knygas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64754"></a>
 - t-002
+  global_id: t-64754
   teiginys: 'Martynas Mažvydas Vaitkūnas 1547 m. išleido pirmąjį lietuvišką katekizmą, kai kurias giesmes ir kelias tikybines knygutes.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64755"></a>
 - t-003
+  global_id: t-64755
   teiginys: 'Martynas Mažvydas Vaitkūnas siejamas su 1570 m. Mažvydo giesmynu.'
   pagrindžia:
     - c-003

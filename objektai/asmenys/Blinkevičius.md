@@ -18,7 +18,9 @@ Po kelių dienų mūsų apylinkės pirmininkas Blinkevičius nusprendė, kad rei
 
 ## Teiginiai
 
+<a id="claim-t-80709"></a>
 - t-001
+  global_id: t-80709
   teiginys: 'Po kelių dienų mūsų apylinkės pirmininkas Blinkevičius nusprendė, kad reikia prašyti Pušaloto valsčiaus valdžios, kad leistų surinkti miške likusius lavonus.'
   pagrindžia:
     - c-001

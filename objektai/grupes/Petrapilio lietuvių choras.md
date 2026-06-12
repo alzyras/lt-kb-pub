@@ -23,7 +23,9 @@ Neteisybę, daromą lietuvių tautai, pagaliau sužinojo ir rusų visuomenė, ir
 
 ## Teiginiai
 
+<a id="claim-t-74053"></a>
 - t-001
+  global_id: t-74053
   teiginys: 'Neteisybę, daromą lietuvių tautai, pagaliau sužinojo ir rusų visuomenė, ir iš pažangiųjų jos sluoksnių vis dažniau pasigirsdavo balsų, raginančių panaikinti spaudos draudimą.'
   pagrindžia:
     - c-001

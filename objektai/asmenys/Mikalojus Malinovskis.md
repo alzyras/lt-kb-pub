@@ -19,12 +19,16 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
 
 ## Teiginiai
 
+<a id="claim-t-87553"></a>
 - t-001
+  global_id: t-87553
   teiginys: 'Mikalojus Malinovskis sutvarkė Radvilų archyvą Kardinalijoje pagal gerai parengtą schemą ir tuo metu buvo Radvilų reikalų prokuratorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87554"></a>
 - t-002
+  global_id: t-87554
   teiginys: 'Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti Radvilų Nesvyžiaus archyvu.'
   pagrindžia:
     - c-002

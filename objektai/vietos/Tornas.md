@@ -25,12 +25,16 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
 
 ## Teiginiai
 
+<a id="claim-t-178209"></a>
 - t-001
+  global_id: t-178209
   teiginys: 'Po 1411 m. Torno sutarties santykiai nepagerėjo, nors joje buvo susitarta dėl laisvos savitarpio prekybos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-178210"></a>
 - t-002
+  global_id: t-178210
   teiginys: 'Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio prekybos.'
   pagrindžia:
     - c-001

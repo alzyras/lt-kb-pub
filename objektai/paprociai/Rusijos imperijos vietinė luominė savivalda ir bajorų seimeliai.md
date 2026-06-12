@@ -46,17 +46,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54337"></a>
 - t-001
+  global_id: t-54337
   teiginys: 'Apskrities bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus pareigūnus ir žemutinės teismų grandies teisėjus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54339"></a>
 - t-002
-  teiginys: 'Apskrities bajorų susirinkimas rinko kai kuriuos viešosios tvarkos pareigūnus ir žemutinės teismų grandies teisėjus.'
-  pagrindžia:
-    - c-001
-
-- t-003
+  global_id: t-54339
   teiginys: '1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema su bajorų susirinkimais.'
   pagrindžia:
     - c-001
@@ -81,7 +80,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
     - t-001
 
 ## Ryšiai

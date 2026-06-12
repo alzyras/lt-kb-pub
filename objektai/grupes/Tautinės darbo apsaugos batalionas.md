@@ -19,12 +19,16 @@ Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąj
 
 ## Teiginiai
 
+<a id="claim-t-20039"></a>
 - t-001
+  global_id: t-20039
   teiginys: '1941 m. birželio 28 d. paleidus sukilėlių būrius, iš savanorių prie Kauno karo komendantūros suformuotas TDA batalionas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183187"></a>
 - t-002
+  global_id: t-183187
   teiginys: 'Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA) batalionas prie Kauno karo komendantūros.'
   pagrindžia:
     - c-002

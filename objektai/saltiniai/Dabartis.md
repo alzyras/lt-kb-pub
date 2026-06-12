@@ -16,7 +16,9 @@ Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį
 
 ## Teiginiai
 
+<a id="claim-t-45672"></a>
 - t-001
+  global_id: t-45672
   teiginys: 'Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lietuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis „Dabartis“.'
   pagrindžia:
     - c-001

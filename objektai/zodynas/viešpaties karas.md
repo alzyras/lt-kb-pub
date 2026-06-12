@@ -19,7 +19,9 @@ Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir �
 
 ## Teiginiai
 
+<a id="claim-t-58941"></a>
 - t-001
+  global_id: t-58941
   teiginys: 'Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino riterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus ginklus“).'
   pagrindžia:
     - c-001

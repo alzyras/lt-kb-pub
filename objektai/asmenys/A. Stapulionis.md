@@ -16,7 +16,9 @@ Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėži
 
 ## Teiginiai
 
+<a id="claim-t-39983"></a>
 - t-001
+  global_id: t-39983
   teiginys: 'A. Stapulionis vadovavo Joniškėlio partizanų batalionui, turėjusiam paremti rinktinės puolimą.'
   pagrindžia:
     - c-001

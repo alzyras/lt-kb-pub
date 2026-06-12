@@ -25,22 +25,30 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 
 ## Teiginiai
 
+<a id="claim-t-79842"></a>
 - t-001
+  global_id: t-79842
   teiginys: 'Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-79843"></a>
 - t-002
+  global_id: t-79843
   teiginys: 'Gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-79844"></a>
 - t-003
+  global_id: t-79844
   teiginys: 'To siekė ir Jogaila, tarpininkaujant abiejų seseriai, Mozūrijos kunigaikštienei Aleksandrai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79845"></a>
 - t-004
+  global_id: t-79845
   teiginys: 'Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose kviečiamiems į Lietuvą vakarų svetimšaliams rekomendavo kelią per Mozūriją.'
   pagrindžia:
     - c-002

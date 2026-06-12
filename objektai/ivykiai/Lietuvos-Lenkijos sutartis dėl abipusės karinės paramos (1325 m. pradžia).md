@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59664"></a>
 - t-001
+  global_id: t-59664
   teiginys: 'Dusburgietis teigia, kad vladislovo Lokietkos valdoma Lenkija stojo į kovą su Brandenburgu — norėta atgauti markgrafų užgrobtas žemes.'
   pagrindžia:
     - c-001

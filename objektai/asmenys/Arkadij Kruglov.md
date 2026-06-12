@@ -16,17 +16,23 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
 
 ## Teiginiai
 
+<a id="claim-t-39347"></a>
 - t-001
+  global_id: t-39347
   teiginys: 'Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-39348"></a>
 - t-002
+  global_id: t-39348
   teiginys: 'Kapitoną Kruglovą nukovė Tigras pirmaisiais šūviais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183730"></a>
 - t-003
+  global_id: t-183730
   teiginys: 'Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij.'
   pagrindžia:
     - c-003

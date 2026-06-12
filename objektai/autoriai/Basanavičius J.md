@@ -19,12 +19,16 @@ Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J
 
 ## Teiginiai
 
+<a id="claim-t-64567"></a>
 - t-001
+  global_id: t-64567
   teiginys: 'Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių.., p. XXXIII).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64568"></a>
 - t-002
+  global_id: t-64568
   teiginys: 'Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių.., p. 190—191), per 400 m į pietus nuo Tamoviškių.'
   pagrindžia:
     - c-002

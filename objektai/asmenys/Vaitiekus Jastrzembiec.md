@@ -17,12 +17,16 @@ Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai 
 
 ## Teiginiai
 
+<a id="claim-t-35309"></a>
 - t-001
+  global_id: t-35309
   teiginys: 'Vaitiekus Jastrzembiec buvo Poznaniaus vyskupas ir Lenkijos kancleris, aiškiai atsidavęs Vytauto reikalams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184289"></a>
 - t-002
+  global_id: t-184289
   teiginys: 'Poznaniaus vyskupas ir Lenkijos kancleris Vaitiekus Jastrzembiec buvo atsidavęs Vytauto reikalams.'
   pagrindžia:
     - c-002

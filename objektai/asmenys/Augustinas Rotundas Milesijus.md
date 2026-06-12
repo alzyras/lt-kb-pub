@@ -27,7 +27,9 @@ Augustinas Rotundas Milesijus (Mieleskis), abiejų teisių daktaras, išrinktas 
 
 ## Teiginiai
 
+<a id="claim-t-87906"></a>
 - t-001
+  global_id: t-87906
   teiginys: 'Augustinas Rotundas Milesijus (Mieleskis), abiejų teisių daktaras, išrinktas iš magistrato narių, tačiau bajoras - 1542 m.'
   pagrindžia:
     - c-001

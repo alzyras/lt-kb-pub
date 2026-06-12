@@ -24,12 +24,16 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
 
 ## Teiginiai
 
+<a id="claim-t-40039"></a>
 - t-001
+  global_id: t-40039
   teiginys: 'Artūras Sakalauskas buvo paskutinis 1991 m. kovoje už laisvę žuvęs Lietuvos savanoris.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40041"></a>
 - t-003
+  global_id: t-40041
   teiginys: 'Augant įtampai, sovietų kariškių provokacijos metu poste prie pagrindinio įvažiavimo į AT rūmus žuvo Lietuvos savanoris Artūras Sakalauskas.'
   pagrindžia:
     - c-001

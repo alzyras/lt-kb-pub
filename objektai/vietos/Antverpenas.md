@@ -13,24 +13,25 @@ atnaujinta: ''
 amziai:
   - 'XVII'
 ---
-
 # Antverpenas
 
 ## Santrauka
 
-Kojelavičius teigia, kad gvagninis, nors jo istorija para šyta lotyniškai ir išspausdinta užsienyje: pirmas tomas išėjo 1650 m. Gdanske, o antras — 1669 m. Antverpene.
+Antrasis Alberto Vijūko-Kojelavičiaus „Lietuvos istorijos“ tomas išėjo 1669 m. Antverpene.
 
 ## Teiginiai
 
+<a id="claim-t-185241"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad gvagninis, nors jo istorija para šyta lotyniškai ir išspausdinta užsienyje: pirmas tomas išėjo 1650 m. Gdanske, o antras — 1669 m. Antverpene.'
+  global_id: t-185241
+  teiginys: 'Antrasis Alberto Vijūko-Kojelavičiaus „Lietuvos istorijos“ tomas išėjo 1669 m. Antverpene.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad gvagninis, nors jo istorija para šyta lotyniškai ir išspausdinta užsienyje: pirmas tomas išėjo 1650 m. Gdanske, o antras — 1669 m. Antverpene.'
+  santrauka: 'Antrasis Alberto Vijūko-Kojelavičiaus „Lietuvos istorijos“ tomas išėjo 1669 m. Antverpene.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     A. Kojelavičius nebegalėjo tikėtis tokio pasiseki­

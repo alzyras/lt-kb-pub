@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-34537"></a>
 - t-001
+  global_id: t-34537
   teiginys: 'Butautas 1365 m. liepos 25 d. su Survila išbėgo į Karaliaučių ir apsikrikštijo Henriko vardu.'
   pagrindžia:
     - c-001

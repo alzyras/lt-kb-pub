@@ -17,7 +17,9 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
 
 ## Teiginiai
 
+<a id="claim-t-63303"></a>
 - t-001
+  global_id: t-63303
   teiginys: 'Audroniui Ažubaliui einant ministro pareigas, Užsienio reikalų ministerija paprašė parengti glaustą Lietuvos istorijos veikalą.'
   pagrindžia:
     - c-001

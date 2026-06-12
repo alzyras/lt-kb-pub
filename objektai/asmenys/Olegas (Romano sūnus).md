@@ -17,7 +17,9 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 
 ## Teiginiai
 
+<a id="claim-t-40378"></a>
 - t-001
+  global_id: t-40378
   teiginys: 'Olegas, Briansko kunigaikščio Romano sūnus, buvo priverstas dalyvauti totorių antpuolyje prieš Lietuvą.'
   pagrindžia:
     - c-001

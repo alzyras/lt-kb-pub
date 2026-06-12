@@ -16,7 +16,9 @@ O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinim
 
 ## Teiginiai
 
+<a id="claim-t-18867"></a>
 - t-001
+  global_id: t-18867
   teiginys: 'Christiaanas Barnardas 1967 m. Pietų Afrikos Respublikoje atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.'
   pagrindžia:
     - c-001

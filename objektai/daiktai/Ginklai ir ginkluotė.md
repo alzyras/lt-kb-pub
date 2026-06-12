@@ -47,32 +47,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-45484"></a>
 - t-001
+  global_id: t-45484
   teiginys: 'Sleževičius paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo dvarus, visi, kas sveiki, turi griebtis ginklo“.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-45485"></a>
 - t-002
+  global_id: t-45485
   teiginys: '1920 m. rugsėjį M. Sleževičius Seime ragino sveikus žmones griebtis ginklo prieš lenkų puolimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-45486"></a>
 - t-003
+  global_id: t-45486
   teiginys: 'Iš bermontininkų paimtas karo grobis svariai papildė Lietuvos kariuomenės ginkluotę.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-45487"></a>
 - t-004
+  global_id: t-45487
   teiginys: '1918 m. gruodžio 21 d. A. Smetona Berlyne pasirašė 100 mln. markių paskolą ginklams įsigyti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183295"></a>
 - t-005
+  global_id: t-183295
   teiginys: 'Iš jų paimtas karo grobis svariai papildė Lietuvos kariuomenės ginkluotę.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-183296"></a>
 - t-006
+  global_id: t-183296
   teiginys: 'Jie atsiuntė iš RSSFR apie 2 000 diversantų su padirbtais lietuviškais dokumentais, nelegaliai gabeno ginklus ir steigė jų sandėlius Kaune ir kituose miestuose, verbavo vietinius gyventojus.'
   pagrindžia:
     - c-005

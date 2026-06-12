@@ -16,7 +16,9 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
 
 ## Teiginiai
 
+<a id="claim-t-19084"></a>
 - t-001
+  global_id: t-19084
   teiginys: 'Kurtas Valdheimas buvo JT generalinis sekretorius, kuriam adresuotas 45 pabaltijiečių memorandumas.'
   pagrindžia:
     - c-001

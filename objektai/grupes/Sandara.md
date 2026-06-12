@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-01472"></a>
 - t-001
+  global_id: t-01472
   teiginys: '1904 m. dr. Gaigalaitis Klaipėdoje įkūrė tikybinę lietuvių draugiją „Sandara“, jungusią viso krašto lietuvius.'
   pagrindžia:
     - c-001

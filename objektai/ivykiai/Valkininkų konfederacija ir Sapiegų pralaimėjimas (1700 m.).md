@@ -44,32 +44,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-10312"></a>
 - t-001
+  global_id: t-10312
   teiginys: 'Daugelis Sapiegų karių, patekusių į nelaisvę, buvo įtraukti į respublikonų kariuomenę.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-78640"></a>
 - t-002
+  global_id: t-78640
   teiginys: 'Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78641"></a>
 - t-003
+  global_id: t-78641
   teiginys: 'Valkininkų kautynės baigėsi Sapiegų pralaimėjimu, o jų kariuomenei vadovavęs Mykolas Sapiega buvo apsuptas ir pasidavė.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-78642"></a>
 - t-004
+  global_id: t-78642
   teiginys: 'Valkininkų mūšis dažnai siejamas su ilgainiui Lietuvą apėmusios suirutės pradžia, privedusios šalį prie situacijos, kai jos likimą labiau nei ji pati ėmė lemti jos kaimynai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78643"></a>
 - t-005
+  global_id: t-78643
   teiginys: 'Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos. Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) — Mykolas Višniaveckis. Vilniaus vyskupui Bžostauskui tarpininkaujant, dar buvo mėginta.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78644"></a>
 - t-006
+  global_id: t-78644
   teiginys: '1700 m. prieš Sapiegas susitelkę būriai iš Lydos ir Ašmenos apylinkių atėjo prie Valkininkų.'
   pagrindžia:
     - c-004

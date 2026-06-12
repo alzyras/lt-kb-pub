@@ -22,7 +22,9 @@ Daugel krito sūnų...
 
 ## Teiginiai
 
+<a id="claim-t-80757"></a>
 - t-001
+  global_id: t-80757
   teiginys: 'A. Ramanausko-Vanago „Daugel krito sūnų...“ paskelbta leidinyje „Partizanų gretose“, išleistame Vilniuje 2007 m.'
   pagrindžia:
     - c-001

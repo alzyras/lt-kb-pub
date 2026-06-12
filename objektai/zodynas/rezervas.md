@@ -23,12 +23,16 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
 
 ## Teiginiai
 
+<a id="claim-t-42503"></a>
 - t-001
+  global_id: t-42503
   teiginys: 'Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūšį metė rezervą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-42504"></a>
 - t-002
+  global_id: t-42504
   teiginys: 'Tuo momentu buvo aktyvuotas lenkų rezervas, kuris pradėjo apeiti kryžiuočius kairėje iš jų dešiniojo flango.'
   pagrindžia:
     - c-002

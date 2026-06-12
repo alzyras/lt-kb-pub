@@ -19,7 +19,9 @@ Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, 
 
 ## Teiginiai
 
+<a id="claim-t-60335"></a>
 - t-001
+  global_id: t-60335
   teiginys: 'Joabas buvo Dovydo kariuomenės vadas, kuris sielojosi dėl saviškių mirties.'
   pagrindžia:
     - c-001

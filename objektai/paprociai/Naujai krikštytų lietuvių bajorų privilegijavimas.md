@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-28926"></a>
 - t-001
+  global_id: t-28926
   teiginys: 'Lietuvos krikščioninimas nuo Kriavo akto buvo siejamas su aktais ir privilegijomis naujai krikštytiems lietuvių bajorams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184348"></a>
 - t-002
+  global_id: t-184348
   teiginys: 'Lietuvos krikščioninimas nuo Krėvos akto buvo siejamas su privilegijomis naujai pakrikštytiems lietuvių bajorams, buvusiems pagonims.'
   pagrindžia:
     - c-002

@@ -26,42 +26,58 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 
 ## Teiginiai
 
+<a id="claim-t-172850"></a>
 - t-001
+  global_id: t-172850
   teiginys: 'Buvo pageidaujama, kad Vilniaus miestiečiai ir pirkliai neprieštaraudami apskaičiuotų ir sumokėtų muitus.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-172851"></a>
 - t-002
+  global_id: t-172851
   teiginys: '1586 m. liepos 11 d. Stepono Batoro sprendimas kilo iš ginčo tarp kai kurių Vilniaus pirklių ir Vilniaus vaito.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-172852"></a>
 - t-003
+  global_id: t-172852
   teiginys: 'Steponas Batoras, Lietuvos senatorių prašomas ir Vilniaus pirkliams protestuojant, laikinai atleido juos nuo naujo muito mokesčio.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-172854"></a>
 - t-004
+  global_id: t-172854
   teiginys: 'Pirkliai per Velykas pagal pataisytą kalendorių pardavinėjo prekes, nepaisydami katalikiškų švenčių.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-172855"></a>
 - t-005
+  global_id: t-172855
   teiginys: 'Vilniaus pirkliai ir gyventojai, remdamiesi privilegijomis, priešinosi muito mokėjimui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-172856"></a>
 - t-006
+  global_id: t-172856
   teiginys: 'Karalius daug kartų draudė muitininkams imti muitą iš Vilniaus pirklių už vašką ir kitas prekes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-172857"></a>
 - t-007
+  global_id: t-172857
   teiginys: 'Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-172858"></a>
 - t-008
+  global_id: t-172858
   teiginys: 'Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado daug lobingų, su svečiais kraštais mainus vykdančių pirklių19.'
   pagrindžia:
     - c-006

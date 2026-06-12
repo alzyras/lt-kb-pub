@@ -16,17 +16,23 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
 
 ## Teiginiai
 
+<a id="claim-t-90339"></a>
 - t-001
+  global_id: t-90339
   teiginys: 'Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei kaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę vieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90340"></a>
 - t-002
+  global_id: t-90340
   teiginys: 'Dusburgietis teigia, kad apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai broliai puldinėjo sembus, norėdami juos vėl pajungti krikščionių tikėjimui.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-90341"></a>
 - t-003
+  global_id: t-90341
   teiginys: 'Dramenava, vėliau vadinta Drebnau, buvo kaimas į pietus nuo Pabečių.'
   pagrindžia:
     - c-002

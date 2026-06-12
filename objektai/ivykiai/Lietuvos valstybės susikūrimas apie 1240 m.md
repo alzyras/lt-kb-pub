@@ -42,17 +42,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75204"></a>
 - t-001
+  global_id: t-75204
   teiginys: '1219 m. Lietuvoje vyriausiojo kunigaikščio dar nėra, bet 1245–1246 m. vokiečių kronikininkas Mindaugą pavadina „aukščiausiuoju karaliumi“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75205"></a>
 - t-002
+  global_id: t-75205
   teiginys: '1245–1246 m. vokiečių kronikininkas Mindaugą pavadino aukščiausiuoju karaliumi, todėl daroma išvada, kad Lietuva jau buvo suvienyta.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75206"></a>
 - t-003
+  global_id: t-75206
   teiginys: 'Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.'
   pagrindžia:
     - c-001

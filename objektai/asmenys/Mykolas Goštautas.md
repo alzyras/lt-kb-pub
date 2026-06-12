@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Mykolas Goštautas
 
 ## Santrauka
 
-Kojelavičius teigia, kad mykolas Goštautas, Lietuvos Didžiosios Kunigaikštystės arklidininkas, valdęs didžiu lius turtus Lietuvoje ir Rusioje, buvo vedęs Glinskio dukterį; dėl šitokios artimos giminystės kai kas manė, jog jis su broliu, vyriausiuoju mokesčių rinkėju, nelikęs.
+Mykolas Goštautas buvo Lietuvos Didžiosios Kunigaikštystės arklidininkas ir Glinskio dukters vyras.
 
 ## Teiginiai
 
+<a id="claim-t-186152"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mykolas Goštautas, Lietuvos Didžiosios Kunigaikštystės arklidininkas, valdęs didžiu lius turtus Lietuvoje ir Rusioje, buvo vedęs Glinskio dukterį; dėl šitokios artimos giminystės kai kas manė, jog jis su broliu, vyriausiuoju mokesčių rinkėju, nelikęs.'
+  global_id: t-186152
+  teiginys: 'Mykolas Goštautas buvo Lietuvos Didžiosios Kunigaikštystės arklidininkas ir Glinskio dukters vyras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mykolas Goštautas, Lietuvos Didžiosios Kunigaikštystės arklidininkas, valdęs didžiu lius turtus Lietuvoje ir Rusioje, buvo vedęs Glinskio dukterį; dėl šitokios artimos giminystės kai kas manė, jog jis su broliu, vyriausiuoju mokesčių rinkėju, nelikęs.'
+  santrauka: 'Mykolas Goštautas buvo Lietuvos Didžiosios Kunigaikštystės arklidininkas ir Glinskio dukters vyras.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mykolas Goštautas, Lietuvos
@@ -43,3 +44,11 @@ Kojelavičius teigia, kad mykolas Goštautas, Lietuvos Didžiosios Kunigaikštys
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/ivykiai/Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.)]]

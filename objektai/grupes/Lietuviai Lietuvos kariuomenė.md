@@ -25,12 +25,16 @@ Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremt
 
 ## Teiginiai
 
+<a id="claim-t-86781"></a>
 - t-001
+  global_id: t-86781
   teiginys: 'Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo Ordino riterių kirstas pagoniškai Lietuvai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86782"></a>
 - t-002
+  global_id: t-86782
   teiginys: 'Lietuviai narsiai atrėmė Ordino riterių puolimą su šv. Jurgio vėliava ir privertė juos grįžti prie likusių karių.'
   pagrindžia:
     - c-001

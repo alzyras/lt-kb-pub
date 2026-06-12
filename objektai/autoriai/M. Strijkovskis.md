@@ -31,104 +31,144 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 
 ## Teiginiai
 
+<a id="claim-t-172880"></a>
 - t-001
+  global_id: t-172880
   teiginys: 'Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-172882"></a>
 - t-003
+  global_id: t-172882
   teiginys: 'Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė visų Lietuvos garbintų dievų šventovė.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-172883"></a>
 - t-004
+  global_id: t-172883
   teiginys: 'Strijkovskis) teigia, kad Algirdas, sutelkęs savo lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą, Čerkasus, ties Mėlynaisiais Vandenimis sumušęs totorius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-172884"></a>
 - t-005
+  global_id: t-172884
   teiginys: 'Motiejus Strijkovskis Dusburgiečio nuorašą panaudojo 1582 m. Karaliaučiuje išspausdintoje Kronikoje.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-172886"></a>
 - t-006
+  global_id: t-172886
   teiginys: 'Motiejus Strijkovskis pateikė istorine tradicija grindžiamų detalių apie Algirdo pergalę prieš totorius prie Mėlynųjų Vandenų.'
   pagrindžia:
     - c-003
     - c-004
 
+<a id="claim-t-172887"></a>
 - t-007
+  global_id: t-172887
   teiginys: 'Motiejus Strijkovskis apsiriko rašydamas, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su kariuomene įsibrovė į Lietuvą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-172888"></a>
 - t-008
+  global_id: t-172888
   teiginys: 'Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-172891"></a>
 - t-011
+  global_id: t-172891
   teiginys: 'Motiejus Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, perimdamas Dlugošo pasakojimą.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-172892"></a>
 - t-012
+  global_id: t-172892
   teiginys: 'Motiejus Strijkovskis teigė, kad Algirdas, sutelkęs lietuvių pajėgas ir žygiuodamas Padniepre, prie Mėlynųjų Vandenų sumušė totorius.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-172893"></a>
 - t-013
+  global_id: t-172893
   teiginys: 'Strijkovskis teigė, kad Gedimino palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-172899"></a>
 - t-019
+  global_id: t-172899
   teiginys: 'Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-172900"></a>
 - t-020
+  global_id: t-172900
   teiginys: 'Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. buvo sunykusi ir sugriuvusi.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-172902"></a>
 - t-022
+  global_id: t-172902
   teiginys: 'Motiejus Strijkovskis XVI a. antrojoje pusėje rašė, kad Gediminas mūšyje prie Irpenės smogė rusams iš šono ir juos sumušė.'
   pagrindžia:
     - c-001
     - c-002
 
+<a id="claim-t-172903"></a>
 - t-023
+  global_id: t-172903
   teiginys: 'Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-172904"></a>
 - t-024
+  global_id: t-172904
   teiginys: 'Motiejaus Strijkovskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ 1846 m. išleista Varšuvoje.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-172905"></a>
 - t-025
+  global_id: t-172905
   teiginys: 'Motiejus Strijkovskis teigė, kad Gedimino palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-172907"></a>
 - t-027
+  global_id: t-172907
   teiginys: 'Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-172908"></a>
 - t-028
+  global_id: t-172908
   teiginys: 'Motiejus Strijkovskis klydo žygio vadovavimą priskirdamas Konradui Valenrodui ir tuo metu vadindamas jį didžiuoju magistru.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-172909"></a>
 - t-029
+  global_id: t-172909
   teiginys: 'Motiejus Strijkovskis 1582 m. Karaliaučiuje išleido „Kronika polska, litewska, żmodzka i wszystkiej Rusi“.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-172912"></a>
 - t-032
+  global_id: t-172912
   teiginys: 'Motiejus Strijkovskis klydo teigdamas, kad miškas lietuviškai vadinamas lauku ir iš šio žodžio kilo Lukiškių pavadinimas.'
   pagrindžia:
     - c-012

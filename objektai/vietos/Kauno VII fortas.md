@@ -24,17 +24,23 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 
 ## Teiginiai
 
+<a id="claim-t-76472"></a>
 - t-001
+  global_id: t-76472
   teiginys: 'Liepos 4 ir 6 d. nacių komanduojama zonderkomanda Kauno VII forte dalyvavo masinėse 3 000 žydų žudynėse.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-76473"></a>
 - t-002
+  global_id: t-76473
   teiginys: 'Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA) batalionas prie Kauno karo komendantūros.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183601"></a>
 - t-003
+  global_id: t-183601
   teiginys: 'Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėties nuostatų sudarymas, konclagerio steigimas VII forte) siekė nuolaidų iš nacių Vokietijos ir plaukė jos politikos farvateryje.'
   pagrindžia:
     - c-003

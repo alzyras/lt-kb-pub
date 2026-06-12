@@ -27,7 +27,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-39851"></a>
 - t-001
+  global_id: t-39851
   teiginys: 'Dieboldo Schillingo Berno kronikoje yra vienas ankstyviausių Žalgirio mūšį vaizduojančių piešinių.'
   pagrindžia:
     - c-001

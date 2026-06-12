@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87260"></a>
 - t-001
+  global_id: t-87260
   teiginys: 'Apgultos Aukštutinės pilies gynėjai pramuštas mūro vietas užtaisydavo žeme, mėšlu, galvijų oda ir vilnų prikimštais maišais.'
   pagrindžia:
     - c-001

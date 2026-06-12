@@ -23,12 +23,16 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
 
 ## Teiginiai
 
+<a id="claim-t-38707"></a>
 - t-001
+  global_id: t-38707
   teiginys: 'Rezervas parėmė koloną, o vadovavimą perėmė karininkas J. Reikala.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-38708"></a>
 - t-002
+  global_id: t-38708
   teiginys: 'Bendrąjį rezervą, vadovaujamą karininko J. Reikalos, sudarė Panevėžio bataliono 2-oji ir 6-oji kuopos bei kiti daliniai.'
   pagrindžia:
     - c-001

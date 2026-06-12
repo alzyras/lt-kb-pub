@@ -19,12 +19,16 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
 
 ## Teiginiai
 
+<a id="claim-t-65847"></a>
 - t-001
+  global_id: t-65847
   teiginys: 'Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami, kad abidvi valstybės pasiliktų savarankiškos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-65849"></a>
 - t-002
+  global_id: t-65849
   teiginys: 'Grįžę į seimą, lietuviai dar ilgai kovojo, stengdamiesi išsiderėti sau palankesnes sąlygas, ir reikalavo grąžinti atplėštąsias žemes, tačiau, karaliui palaikant lenkus, buvo priversti nusileisti.'
   pagrindžia:
     - c-001

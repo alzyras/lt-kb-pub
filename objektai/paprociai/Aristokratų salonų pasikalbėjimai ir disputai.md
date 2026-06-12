@@ -31,7 +31,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01907"></a>
 - t-001
+  global_id: t-01907
   teiginys: 'Aristokratų salonuose vietoj senųjų turnyrų, o kartais ir medžioklių, buvo rengiami pasikalbėjimai ir disputai.'
   pagrindžia:
     - c-001

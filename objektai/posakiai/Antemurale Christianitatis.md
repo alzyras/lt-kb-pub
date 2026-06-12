@@ -32,17 +32,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-78919"></a>
 - t-001
+  global_id: t-78919
   teiginys: '„Antemurale Christianitatis“ siejama su gilia Lietuvos kovos Vakarų civilizacijos vertybių pusėje tradicija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78920"></a>
 - t-002
+  global_id: t-78920
   teiginys: 'Jau pirmieji krikščioniški Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes christiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius, formuodami „antemurale Christianitatis“ ideologiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78921"></a>
 - t-003
+  global_id: t-78921
   teiginys: 'Pirmieji krikščioniški Lietuvos valdovai formavo „antemurale Christianitatis“ ideologiją.'
   pagrindžia:
     - c-001

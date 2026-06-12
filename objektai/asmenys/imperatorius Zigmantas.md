@@ -16,14 +16,17 @@ Sumanymą iškėlė imperatorius Zigmantas. Atšaukimas buvo laišku praneštas 
 
 ## Teiginiai
 
+<a id="claim-t-64434"></a>
 - t-001
-  teiginys: 'Atšaukimas buvo laišku praneštas imperatoriui Zigmantui, kurs laiško nuorašą tuojau nusiuntė Vytautui.'
+  global_id: t-64434
+  teiginys: 'Imperatorius Zigmantas gavo Jogailos sutikimo dėl Vytauto karūnacijos atšaukimo laišką ir jo nuorašą nusiuntė Vytautui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Imperatorius Zigmantas gavo Jogailos sutikimo dėl Vytauto karūnacijos atšaukimo laišką ir jo nuorašą nusiuntė Vytautui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į

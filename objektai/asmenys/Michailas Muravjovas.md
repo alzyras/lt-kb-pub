@@ -27,40 +27,41 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 
 ## Teiginiai
 
+<a id="claim-t-71336"></a>
 - t-001
-  teiginys: 'Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, šis draudimas išplėstas į visą Rusijos imperijos teritoriją ir galiojo ligi 1904 m. pavasario.'
-  pagrindžia:
-    - c-006
-
-- t-002
+  global_id: t-71336
   teiginys: 'Muravjovo Koriko laikais XIX a.'
   pagrindžia:
-    - c-006
+    - c-001
+    - c-003
 
-- t-003
+<a id="claim-t-71337"></a>
+- t-002
+  global_id: t-71337
   teiginys: 'Muravjovui nurodoma, kad 128 sukilėliai nuteisti mirties bausme.'
   pagrindžia:
     - c-002
 
-- t-004
+<a id="claim-t-71338"></a>
+- t-003
+  global_id: t-71338
   teiginys: 'M. Muravjovo laikai XIX a. siejami su Koriko pravarde.'
   pagrindžia:
     - c-001
 
-- t-005
+<a id="claim-t-71339"></a>
+- t-004
+  global_id: t-71339
   teiginys: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
   pagrindžia:
     - c-005
 
-- t-006
+<a id="claim-t-71340"></a>
+- t-005
+  global_id: t-71340
   teiginys: 'Naujasis generalgubernatorius Michailas Muravjovas, pramintas „Koriku“, siekdamas įbauginti Lietuvos gyventojus, įsakė karti sukilėlius.'
   pagrindžia:
     - c-004
-
-- t-007
-  teiginys: 'M. Muravjovas ėmėsi rusinimo politikos ir į pagalbą pasikvietė Ivaną Kornilovą, paskirtą Vilniaus švietimo apygardos globėju.'
-  pagrindžia:
-    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -75,8 +76,8 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-    - t-004
+    - t-001
+    - t-003
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -93,7 +94,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -107,7 +108,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -125,7 +126,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -143,7 +144,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

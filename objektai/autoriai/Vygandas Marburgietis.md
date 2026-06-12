@@ -31,68 +31,94 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 
 ## Teiginiai
 
+<a id="claim-t-172965"></a>
 - t-001
+  global_id: t-172965
   teiginys: '“ „KLASTINGA STABMELDĖ“ Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas pats užpulti priešo teritoriją, jį dezinformuoja „Ir iškilo [Ordino.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-172967"></a>
 - t-002
+  global_id: t-172967
   teiginys: 'Vygandas Marburgietis „Naujojoje Prūsijos kronikoje“ aprašė lietuvių karaliaus dezinformaciją 1345 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-172968"></a>
 - t-003
+  global_id: t-172968
   teiginys: 'Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištrauka pateikta apie 1348 m. Strėvos mūšį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-172969"></a>
 - t-004
+  global_id: t-172969
   teiginys: 'Vygandas Marburgietis pasakojo, kad Karolis Tryrietis popiežiaus rūmuose buvo priimtas pagarbiai ir draugiškai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-172970"></a>
 - t-005
+  global_id: t-172970
   teiginys: 'Vygando Marburgiečio kronikos ištraukos leidinyje pateiktos prie 1348 m. Strėvos mūšio ir pilies šturmo epizodų.'
   pagrindžia:
     - c-004
     - c-002
 
+<a id="claim-t-172971"></a>
 - t-006
+  global_id: t-172971
   teiginys: 'Vygando Marburgiečio „Naujosios Prūsijos kronikos“ ištraukoje aprašomas pilies šturmas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-172972"></a>
 - t-007
+  global_id: t-172972
   teiginys: 'Vygandas Marburgietis pasakojo apie asmens atvykimą pas popiežių ir pagarbų priėmimą popiežiaus rūmuose.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-172973"></a>
 - t-008
+  global_id: t-172973
   teiginys: 'STRĖVOS MUSIS Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie 1348 m. Strėvos mūšį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-172974"></a>
 - t-009
+  global_id: t-172974
   teiginys: 'Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Nerye ir Neria.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-172975"></a>
 - t-010
+  global_id: t-172975
   teiginys: 'Vygandas Marburgietis ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-172976"></a>
 - t-011
+  global_id: t-172976
   teiginys: 'Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad per deginimą atsivėrusi kiaurymė įtraukė jo pelenus.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-172977"></a>
 - t-012
+  global_id: t-172977
   teiginys: 'Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad deginant palaikus atsivėrusi kiaurymė įtraukė pelenus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-172978"></a>
 - t-013
+  global_id: t-172978
   teiginys: 'Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius.'
   pagrindžia:
     - c-001

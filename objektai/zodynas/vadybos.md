@@ -16,7 +16,9 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
 
 ## Teiginiai
 
+<a id="claim-t-26341"></a>
 - t-001
+  global_id: t-26341
   teiginys: 'Nacių okupacijos metais vokiečių valdžia Lietuvos ministerijas pervadino vadybomis.'
   pagrindžia:
     - c-001

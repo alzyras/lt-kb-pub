@@ -22,7 +22,9 @@ Dusburgietis teigia, kad stepinš P.
 
 ## Teiginiai
 
+<a id="claim-t-61298"></a>
 - t-001
+  global_id: t-61298
   teiginys: 'P. Stepinšo „Durbės kauja“ išleista Rygoje 1967 m.'
   pagrindžia:
     - c-001

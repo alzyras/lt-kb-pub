@@ -15,7 +15,6 @@ tags:
 amziai:
   - 'XIV'
 ---
-
 # Bartos žemė
 
 ## Santrauka
@@ -24,18 +23,24 @@ Taigi, Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Lat
 
 ## Teiginiai
 
+<a id="claim-t-79297"></a>
 - t-001
+  global_id: t-79297
   teiginys: 'Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79298"></a>
 - t-002
+  global_id: t-79298
   teiginys: '1347 m. vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bartos žemę iki Girdavų pilies, apgulė Lunenburgą, sunaikino jo papilį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184929"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad lietuviai nuvedė prisiplėšusius grobio karius į Bartos žemę, kur atvirame lauke sustojo pailsėti.'
+  global_id: t-184929
+  teiginys: 'Lietuviai nuvedė grobio prisiplėšusius karius į Bartos žemę, kur atvirame lauke sustojo pailsėti.'
   pagrindžia:
     - c-003
 
@@ -85,7 +90,7 @@ Taigi, Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Lat
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad lietuviai nuvedė prisiplėšusius grobio karius į Bartos žemę, kur atvirame lauke sustojo pailsėti.'
+  santrauka: 'Lietuviai nuvedė grobio prisiplėšusius karius į Bartos žemę, kur atvirame lauke sustojo pailsėti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sutelkta

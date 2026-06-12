@@ -27,12 +27,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-65652"></a>
 - t-001
+  global_id: t-65652
   teiginys: 'Liublino unijos akte Lenkų karalystė ir Didžioji Lietuvos kunigaikštystė apibūdintos kaip viena bendra valstybė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65653"></a>
 - t-002
+  global_id: t-65653
   teiginys: 'Liublino unijos akte Didžioji Lietuvos Kunigaikštystė ir Lenkų karalystė apibūdintos kaip viena bendra valstybė.'
   pagrindžia:
     - c-002

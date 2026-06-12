@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19726"></a>
 - t-001
+  global_id: t-19726
   teiginys: '1991 m. rugsėjo 17 d. Lietuva priimta į Jungtinių Tautų organizaciją, o 1991 m. pabaigoje – į JT specializuotas įstaigas.'
   pagrindžia:
     - c-001

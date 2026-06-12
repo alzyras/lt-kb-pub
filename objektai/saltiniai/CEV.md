@@ -17,7 +17,9 @@ Ilgai ne­ begalėjo laikytis įprastiniai Vakaruose ordino skleidžiami gandai 
 
 ## Teiginiai
 
+<a id="claim-t-31643"></a>
 - t-001
+  global_id: t-31643
   teiginys: 'CEV 53 numeris nurodytas 18 puslapyje.'
   pagrindžia:
     - c-001

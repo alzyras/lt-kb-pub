@@ -28,37 +28,51 @@ Trakų pilis.
 
 ## Teiginiai
 
+<a id="claim-t-95314"></a>
 - t-001
+  global_id: t-95314
   teiginys: 'Skirgaila pasirinko Trakų pilį nuolatine buveine ir iš jos vykdavo į mūšius ar malšinti maištaujančių kunigaikščių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-95316"></a>
 - t-002
+  global_id: t-95316
   teiginys: 'Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link, į Trakų pilį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-95317"></a>
 - t-003
+  global_id: t-95317
   teiginys: 'Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo tik į karo žygius.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-95318"></a>
 - t-004
+  global_id: t-95318
   teiginys: 'Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-95319"></a>
 - t-005
+  global_id: t-95319
   teiginys: 'Vokiečiai buvo išmėginę patrankas imdami Trakų pilį, o 1384 m. Jogaila jas nukreipė prieš Ordiną prie Marienverderio.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-95320"></a>
 - t-006
+  global_id: t-95320
   teiginys: 'Ordino patrankos buvo išmėgintos imant Trakų pilį, o 1384 m. Jogaila jas panaudojo prieš Ordiną prie Marienverderio.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-95321"></a>
 - t-007
+  global_id: t-95321
   teiginys: 'Jogaila gavo iš Ordino maršalkos Kuno von Hattenšteino patrankų, anksčiau vokiečių išmėgintų imant Trakų pilį.'
   pagrindžia:
     - c-001

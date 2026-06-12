@@ -26,12 +26,16 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 
 ## Teiginiai
 
+<a id="claim-t-75793"></a>
 - t-001
+  global_id: t-75793
   teiginys: 'Czesławas Miłoszas buvo 1980 m. Nobelio literatūros premijos laureatas ir šlovino Vilnių už čia išeitą mokslą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75794"></a>
 - t-002
+  global_id: t-75794
   teiginys: 'Nobelio premijos laureatas Czesławas Miłoszas save laikė paskutiniu LDK piliečiu.'
   pagrindžia:
     - c-001

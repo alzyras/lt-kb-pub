@@ -51,22 +51,30 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 
 ## Teiginiai
 
+<a id="claim-t-65923"></a>
 - t-001
+  global_id: t-65923
   teiginys: 'NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-65924"></a>
 - t-002
+  global_id: t-65924
   teiginys: 'Kaip vėliau paaiškėjo, bolševikai tylėjo todėl, kad pirmaisiais šūviais Tigras nukovė tris NKGB dalinio buvusius vadus: kpt.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-65925"></a>
 - t-003
+  global_id: t-65925
   teiginys: 'Atkuriant stalininį režimą Lietuvoje, totalitariniam režimui dirigavo komunistų partija, NKGB ir NKVD struktūros.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65926"></a>
 - t-004
+  global_id: t-65926
   teiginys: 'Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij.'
   pagrindžia:
     - c-003

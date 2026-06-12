@@ -19,12 +19,16 @@ Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA
 
 ## Teiginiai
 
+<a id="claim-t-86842"></a>
 - t-001
+  global_id: t-86842
   teiginys: 'Gediminas laiške dominikonams titulavosi dievo malone lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86843"></a>
 - t-002
+  global_id: t-86843
   teiginys: 'Gediminas laiške pranciškonams save vadino dieviškąja apvaizda lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.'
   pagrindžia:
     - c-002

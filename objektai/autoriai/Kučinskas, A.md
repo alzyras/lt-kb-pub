@@ -25,7 +25,9 @@ Kučinskas, A.
 
 ## Teiginiai
 
+<a id="claim-t-30774"></a>
 - t-001
+  global_id: t-30774
   teiginys: 'A. Kučinskas nurodomas 1934 m. Kaune paskelbto teksto „Gedimino dinastijos kilmė“ autoriumi.'
   pagrindžia:
     - c-001

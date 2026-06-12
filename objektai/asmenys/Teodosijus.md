@@ -27,7 +27,9 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 
 ## Teiginiai
 
+<a id="claim-t-30394"></a>
 - t-001
+  global_id: t-30394
   teiginys: 'Vytautas siekė, kad Polocko vyskupas Teodosijus taptų Lietuvos stačiatikių metropolitu.'
   pagrindžia:
     - c-001

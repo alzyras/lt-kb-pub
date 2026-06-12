@@ -38,17 +38,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67199"></a>
 - t-001
+  global_id: t-67199
   teiginys: 'Seimas būdavo baigiamas atsisveikinimu su karaliumi, per kurį visi vėl bučiuodavo jam ranką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67200"></a>
 - t-002
+  global_id: t-67200
   teiginys: 'Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu: toliau buvo tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo vadinama r u g o m i s.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67201"></a>
 - t-003
+  global_id: t-67201
   teiginys: 'Seimo pradžioje visi bučiuodavo soste sėdinčiam karaliui ranką, o kancleris arba vicekancleris paskelbdavo karaliaus pasiūlymus.'
   pagrindžia:
     - c-002

@@ -39,22 +39,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67060"></a>
 - t-001
+  global_id: t-67060
   teiginys: 'Nustojus vesti blaivybės brolijų narių knygas, blaivybė nesusilpnėjo, o parapijonys statė kryžius ir paminklus jai paminėti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67061"></a>
 - t-002
+  global_id: t-67061
   teiginys: 'XIX a. viduryje Lietuvos blaivybės skelbimas labiausiai paplito vyskupo Motiejaus Valančiaus valdomoje Žemaičių vyskupystėje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67062"></a>
 - t-003
+  global_id: t-67062
   teiginys: '1858 m. pradėtas blaivybės darbas greitai išsiplėtė, o dvarininkai vyskupo raginami ėmė uždarinėti smukles ir bravorus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-67063"></a>
 - t-004
+  global_id: t-67063
   teiginys: 'Blaivybės brolijų ir blaivybės skelbimo praktika: kova su girtybe buvo iš naujo pradėta tik 1908 m., įkūrus Blaivybės Draugiją, kuri ir dabar tebeveikia.'
   pagrindžia:
     - c-001

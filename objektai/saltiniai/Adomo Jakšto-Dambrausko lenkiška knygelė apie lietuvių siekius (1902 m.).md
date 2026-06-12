@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-20995"></a>
 - t-001
+  global_id: t-20995
   teiginys: 'Knygelėje Lietuvos bajorai raginti kalbėti lietuviškai, mylėti savo kraštą, jam dirbti ir rūpintis liaudies švietimu.'
   pagrindžia:
     - c-001

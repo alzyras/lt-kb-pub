@@ -19,7 +19,9 @@ Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponu
 
 ## Teiginiai
 
+<a id="claim-t-86569"></a>
 - t-001
+  global_id: t-86569
   teiginys: 'Karalius Vytenis legatui Pranciškui siuntė laišką, prašydamas atsiųsti du pranciškonų ordino brolius.'
   pagrindžia:
     - c-001

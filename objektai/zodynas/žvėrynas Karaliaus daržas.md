@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86632"></a>
 - t-001
+  global_id: t-86632
   teiginys: 'Prie Rūdninkų, Mendzižečės link, stūksojęs šilas buvo aptvertas statinių tvora ir vadintas žvėrynu.'
   pagrindžia:
     - c-001

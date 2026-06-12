@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XVI'
 ---
-
 # Taikos susitarimas su Prūsijos magistru Albrechtu ir jo paskelbimas Prūsijos kunigaikščiu
 
 ## Santrauka
 
-Kojelavičius teigia, kad albrechtas kunigaikščio teisėmis gaunąs valdyti tą Prūsijos dalį, kuri dabar vadinama kunigaikštyste, tačiau liekąs pa valdus su žeme karaliui; ateityje jo priešai ir draugai būsią tie patys kaip ir Lenkijos.
+Albrechtas kunigaikščio teisėmis gavo valdyti Prūsijos kunigaikštystę, likdamas su žeme pavaldus karaliui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185775"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad albrechtas kunigaikščio teisėmis gaunąs valdyti tą Prūsijos dalį, kuri dabar vadinama kunigaikštyste, tačiau liekąs pa valdus su žeme karaliui; ateityje jo priešai ir draugai būsią tie patys kaip ir Lenkijos.'
+  global_id: t-185775
+  teiginys: 'Albrechtas kunigaikščio teisėmis gavo valdyti Prūsijos kunigaikštystę, likdamas su žeme pavaldus karaliui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad albrechtas kunigaikščio teisėmis gaunąs valdyti tą Prūsijos dalį, kuri dabar vadinama kunigaikštyste, tačiau liekąs pa valdus su žeme karaliui; ateityje jo priešai ir draugai būsią tie patys kaip ir Lenkijos.'
+  santrauka: 'Albrechtas kunigaikščio teisėmis gavo valdyti Prūsijos kunigaikštystę, likdamas su žeme pavaldus karaliui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kry­
@@ -70,3 +71,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Albrechtas]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/legatai]]

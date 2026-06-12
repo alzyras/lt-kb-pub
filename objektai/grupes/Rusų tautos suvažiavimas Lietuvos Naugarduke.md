@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Rusų tautos suvažiavimas Lietuvos Naugarduke
 
 ## Santrauka
 
-Kojelavičius teigia, kad kadangi šias negeras naujoves vykdė ne paprasti žmonės, o žy mieji vyskupai, ypač tie, kurie kilę iš graikų, užkirsti kelią plintančiai blogybei buvo galima ne kitaip, kaip sukvietus viešą pačių ganytojų suvažiavimą. Kojelavičius teigia, kad suvažiavime d ū k o s u v a ž ia v im e suėmė Grigorijų Fotijų, Ki jevo metropolitą, Rusioje 3 9 2 kursčiusį ir plėtusį religinį bruzdėjimą, ir, baudžiant už šį nusikaltimą, pašalino visuotiniu pritarimu iš pareigų.
+Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad būtų stabdomos plintančios bažnytinės naujovės. Rusų tautos suvažiavime Lietuvos Naugarduke Grigorijus Fotijus buvo suimtas ir visuotiniu pritarimu pašalintas iš pareigų.
 
 ## Teiginiai
 
+<a id="claim-t-185446"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kadangi šias negeras naujoves vykdė ne paprasti žmonės, o žy mieji vyskupai, ypač tie, kurie kilę iš graikų, užkirsti kelią plintančiai blogybei buvo galima ne kitaip, kaip sukvietus viešą pačių ganytojų suvažiavimą.'
+  global_id: t-185446
+  teiginys: 'Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad būtų stabdomos plintančios bažnytinės naujovės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185447"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad suvažiavime d ū k o s u v a ž ia v im e suėmė Grigorijų Fotijų, Ki jevo metropolitą, Rusioje 3 9 2 kursčiusį ir plėtusį religinį bruzdėjimą, ir, baudžiant už šį nusikaltimą, pašalino visuotiniu pritarimu iš pareigų.'
+  global_id: t-185447
+  teiginys: 'Rusų tautos suvažiavime Lietuvos Naugarduke Grigorijus Fotijus buvo suimtas ir visuotiniu pritarimu pašalintas iš pareigų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kadangi šias negeras naujoves vykdė ne paprasti žmonės, o žy mieji vyskupai, ypač tie, kurie kilę iš graikų, užkirsti kelią plintančiai blogybei buvo galima ne kitaip, kaip sukvietus viešą pačių ganytojų suvažiavimą.'
+  santrauka: 'Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad būtų stabdomos plintančios bažnytinės naujovės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi
@@ -48,7 +51,7 @@ Kojelavičius teigia, kad kadangi šias negeras naujoves vykdė ne paprasti žmo
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad suvažiavime d ū k o s u v a ž ia v im e suėmė Grigorijų Fotijų, Ki jevo metropolitą, Rusioje 3 9 2 kursčiusį ir plėtusį religinį bruzdėjimą, ir, baudžiant už šį nusikaltimą, pašalino visuotiniu pritarimu iš pareigų.'
+  santrauka: 'Rusų tautos suvažiavime Lietuvos Naugarduke Grigorijus Fotijus buvo suimtas ir visuotiniu pritarimu pašalintas iš pareigų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Suvažiavime
@@ -74,3 +77,12 @@ Kojelavičius teigia, kad kadangi šias negeras naujoves vykdė ne paprasti žmo
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Fotijus]]
+- [[objektai/ivykiai/Naugarduko rusų tautos suvažiavimas ir Grigorijaus Fotijaus nušalinimas]]
+- [[objektai/paprociai/Viešas ganytojų ir rusų tautos suvažiavimas religiniams ginčams spręsti]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

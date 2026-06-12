@@ -27,17 +27,23 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
 
 ## Teiginiai
 
+<a id="claim-t-86484"></a>
 - t-001
+  global_id: t-86484
   teiginys: '1536 m. rugsėjo 9 d. Žygimantas Senasis Vilniuje įsakė paskelbti naujus miesto įstatymus dėl magistrato tvarkos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86485"></a>
 - t-002
+  global_id: t-86485
   teiginys: 'Vilniaus vaito, burmistrų, tarybos narių, šuolininkų ir magistrato raštininkų namai buvo atleisti nuo nakvynės prievolės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86486"></a>
 - t-003
+  global_id: t-86486
   teiginys: '1568 m. Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis tapti bajorais.'
   pagrindžia:
     - c-001

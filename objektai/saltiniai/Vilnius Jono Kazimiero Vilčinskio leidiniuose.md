@@ -23,12 +23,16 @@ Vilnius Jono Kazimiero Vilčinskio leidiniuose: paroda 1999 01 01–1999 04 19.
 
 ## Teiginiai
 
+<a id="claim-t-75536"></a>
 - t-001
+  global_id: t-75536
   teiginys: '„Vilnius Jono Kazimiero Vilčinskio leidiniuose“ buvo paroda, vykusi 1999 m. sausio 1 d.–balandžio 19 d.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75537"></a>
 - t-002
+  global_id: t-75537
   teiginys: 'Vilnius, 2000; Vilnius Jono Kazimiero Vilčinskio leidiniuose: paroda 1999 01 01–1999 04 19.'
   pagrindžia:
     - c-001

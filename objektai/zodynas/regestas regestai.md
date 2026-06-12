@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-28626"></a>
 - t-001
+  global_id: t-28626
   teiginys: 'Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų ir jų santraukų, vadinamų regestais, rinkinį.'
   pagrindžia:
     - c-001

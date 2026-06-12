@@ -34,17 +34,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08339"></a>
 - t-001
+  global_id: t-08339
   teiginys: 'Troba buvo ketvirtasis trobesys, skirtas svečiams žiemą vaišinti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08340"></a>
 - t-002
+  global_id: t-08340
   teiginys: 'Troboje buvo virenė, priemenė, alkierius, kakalys, kaminas ir dūmų kiaurynė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-08341"></a>
 - t-003
+  global_id: t-08341
   teiginys: 'Troboje vyrai ir moterys vakarodami dirbo įvairius darbus, o be stiklo langų dar būdavo langeliai su lentelėmis.'
   pagrindžia:
     - c-003

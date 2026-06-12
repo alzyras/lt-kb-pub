@@ -16,7 +16,9 @@ Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzika
 
 ## Teiginiai
 
+<a id="claim-t-19190"></a>
 - t-001
+  global_id: t-19190
   teiginys: 'Petras Cidzikas buvo kalintas už kovą prieš sovietų santvarką.'
   pagrindžia:
     - c-001

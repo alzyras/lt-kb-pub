@@ -17,7 +17,9 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
 
 ## Teiginiai
 
+<a id="claim-t-87594"></a>
 - t-001
+  global_id: t-87594
   teiginys: 'Zigmantas III, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.'
   pagrindžia:
     - c-001

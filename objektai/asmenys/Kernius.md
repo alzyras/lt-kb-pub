@@ -14,29 +14,32 @@ amziai:
 periodo_grupes:
   - 'viduramžiai'
 ---
-
 # Kernius
 
 ## Santrauka
 
-Kojelavičius teigia, kad kernusijui, arba Kerniui, atidavė valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu tui paskyrė Žemaitiją. Kojelavičius teigia, kad kernius sūnaus — savo įpėdinio.
+Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius neturėjo sūnaus įpėdinio, todėl įsūnijo Živinbudą ir ištekino už jo dukterį Pajautą.
 
 ## Teiginiai
 
+<a id="claim-t-186005"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kernusijui, arba Kerniui, atidavė valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu tui paskyrė Žemaitiją.'
+  global_id: t-186005
+  teiginys: 'Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186006"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kernius sūnaus — savo įpėdinio.'
+  global_id: t-186006
+  teiginys: 'Kernius neturėjo sūnaus įpėdinio, todėl įsūnijo Živinbudą ir ištekino už jo dukterį Pajautą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kernusijui, arba Kerniui, atidavė valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu tui paskyrė Žemaitiją.'
+  santrauka: 'Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kokius jis nuveikė paminėtinus darbus,
@@ -53,7 +56,7 @@ Kojelavičius teigia, kad kernusijui, arba Kerniui, atidavė valdyti Lietuvos ž
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kernius sūnaus — savo įpėdinio.'
+  santrauka: 'Kernius neturėjo sūnaus įpėdinio, todėl įsūnijo Živinbudą ir ištekino už jo dukterį Pajautą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Galbūt šitaip ir bū­
@@ -74,3 +77,8 @@ Kojelavičius teigia, kad kernusijui, arba Kerniui, atidavė valdyti Lietuvos ž
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Pajauta]]
+- [[objektai/asmenys/Živinbudas]]

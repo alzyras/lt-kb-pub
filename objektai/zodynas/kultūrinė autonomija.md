@@ -28,17 +28,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-169913"></a>
 - t-001
+  global_id: t-169913
   teiginys: 'Vokiečių ir lenkų mažumos darė žygių gauti tautinę autonomiją žydų pavyzdžiu, tik rusų mažuma tokių reikalavimų nekėlė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169914"></a>
 - t-002
+  global_id: t-169914
   teiginys: 'Žodžiu, kraštas įgijo kultūrinę autonomiją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169916"></a>
 - t-003
+  global_id: t-169916
   teiginys: 'Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.'
   pagrindžia:
     - c-002

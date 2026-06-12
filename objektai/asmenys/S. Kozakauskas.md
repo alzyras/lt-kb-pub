@@ -17,12 +17,16 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
 
 ## Teiginiai
 
+<a id="claim-t-40408"></a>
 - t-001
+  global_id: t-40408
   teiginys: 'S. Kozakauskas gegužės 10-osios naktį pateko į paporučikio fon Gaso dalinio nelaisvę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40409"></a>
 - t-002
+  global_id: t-40409
   teiginys: 'S. Kozakauskas buvo paskirtas vienu iš batalionų vadų.'
   pagrindžia:
     - c-001

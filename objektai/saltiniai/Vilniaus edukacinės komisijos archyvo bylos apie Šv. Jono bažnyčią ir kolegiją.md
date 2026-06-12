@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-88487"></a>
 - t-001
+  global_id: t-88487
   teiginys: 'Vilniaus edukacinės komisijos archyvo bylose buvo istoriniai-topografiniai duomenys apie Šv. Jono bažnyčią ir to paties vardo kolegiją.'
   pagrindžia:
     - c-001

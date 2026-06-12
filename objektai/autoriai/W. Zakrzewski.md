@@ -26,7 +26,9 @@ Zakrzewski, W.
 
 ## Teiginiai
 
+<a id="claim-t-31074"></a>
 - t-001
+  global_id: t-31074
   teiginys: 'W. Zakrzewski parašė darbą „Bitwa pod Grunwaldem“, paskelbtą 1890 m. leidinyje RTPNP.'
   pagrindžia:
     - c-001

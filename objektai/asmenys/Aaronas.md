@@ -25,7 +25,9 @@ Aaronas, pirmasis Tyneco abatas, o vė­ liau septintasis iš eilės Krokuvos vy
 
 ## Teiginiai
 
+<a id="claim-t-87604"></a>
 - t-001
+  global_id: t-87604
   teiginys: 'Aaronas buvo pirmasis Tyneco abatas ir vėliau septintasis Krokuvos vyskupas, miręs 1059 m. spalio 9 d.'
   pagrindžia:
     - c-001

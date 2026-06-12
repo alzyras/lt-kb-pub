@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Kazimiero įvykdytas rusų valdų perėmimas iš lietuvių (1366 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad tais pačiais metais Kazimieras, Lenkijos kara lius, pasinaudojęs proga, jog lietuviai įsitraukė į karą su kryžiuočiais, atėmė iš jų rusų valdas išvijęs iš Vo lynės Algirdo brolį Liubartą.
+Kazimieras, pasinaudojęs lietuvių karu su kryžiuočiais, atėmė iš lietuvių rusų valdas ir išvijo Liubartą iš Volynės.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185807"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tais pačiais metais Kazimieras, Lenkijos kara lius, pasinaudojęs proga, jog lietuviai įsitraukė į karą su kryžiuočiais, atėmė iš jų rusų valdas išvijęs iš Vo lynės Algirdo brolį Liubartą.'
+  global_id: t-185807
+  teiginys: 'Kazimieras, pasinaudojęs lietuvių karu su kryžiuočiais, atėmė iš lietuvių rusų valdas ir išvijo Liubartą iš Volynės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tais pačiais metais Kazimieras, Lenkijos kara lius, pasinaudojęs proga, jog lietuviai įsitraukė į karą su kryžiuočiais, atėmė iš jų rusų valdas išvijęs iš Vo lynės Algirdo brolį Liubartą.'
+  santrauka: 'Kazimieras, pasinaudojęs lietuvių karu su kryžiuočiais, atėmė iš lietuvių rusų valdas ir išvijo Liubartą iš Volynės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kęstutis mė­
@@ -68,3 +69,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Liubartas]]

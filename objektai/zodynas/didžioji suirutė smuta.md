@@ -16,18 +16,24 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
 
 ## Teiginiai
 
+<a id="claim-t-02975"></a>
 - t-001
+  global_id: t-02975
   teiginys: 'Maskvoje prasidėjęs perversmų periodas vadintas didžiąja suirute (smuta).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-02976"></a>
 - t-002
+  global_id: t-02976
   teiginys: 'Didžiosios suirutės metu Maskva nebebuvo puolanti pusė, o pati buvo puolama.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182941"></a>
 - t-003
-  teiginys: 'Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji suirutė ( smuta ).'
+  global_id: t-182941
+  teiginys: 'Po Teodoro mirties Maskvoje prasidėjo perversmų periodas, vadinamas didžiąja suirute (smuta).'
   pagrindžia:
     - c-003
 
@@ -62,7 +68,7 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
     - t-001
 
 - c-003
-  santrauka: 'Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji suirutė ( smuta ).'
+  santrauka: 'Po Teodoro mirties Maskvoje prasidėjo perversmų periodas, vadinamas didžiąja suirute (smuta).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po jo, 15 metų buvo caru jokiems dideliems

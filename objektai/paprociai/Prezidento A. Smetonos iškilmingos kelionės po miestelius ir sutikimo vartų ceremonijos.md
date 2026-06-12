@@ -53,7 +53,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-20818"></a>
 - t-001
+  global_id: t-20818
   teiginys: '1927 m. vasarą ir rudenį A. Smetona keliavo po miestelius su oficialia palyda ir buvo iškilmingai sutinkamas prie puošnių sutikimo vartų.'
   pagrindžia:
     - c-001

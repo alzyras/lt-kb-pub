@@ -17,7 +17,9 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 
 ## Teiginiai
 
+<a id="claim-t-18879"></a>
 - t-001
+  global_id: t-18879
   teiginys: 'Eduardas Karolis Eichvaldas dirbo universitete kaip vienas iš garsių biologų, kurių darbai buvo žinomi tarptautiniu mastu.'
   pagrindžia:
     - c-001

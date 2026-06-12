@@ -26,7 +26,9 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
 
 ## Teiginiai
 
+<a id="claim-t-87919"></a>
 - t-001
+  global_id: t-87919
   teiginys: 'Mlodyčiui į Leipcigą turėjo būti laiku pasiųsti pinigai skolai sumokėti iš lietuviškų monetų, jas keičiant į lenkiškas.'
   pagrindžia:
     - c-001

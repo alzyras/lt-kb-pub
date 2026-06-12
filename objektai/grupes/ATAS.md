@@ -23,12 +23,16 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
 
 ## Teiginiai
 
+<a id="claim-t-40832"></a>
 - t-001
+  global_id: t-40832
   teiginys: '1991 m. sausio 13 d. Vytautą Landsbergį saugojo ATAS pareigūnai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40833"></a>
 - t-002
+  global_id: t-40833
   teiginys: 'Sausio įvykių metu ATAS darbuotojas Aukščiausiosios Tarybos rūmuose buvo ginkluotas TT pistoletu.'
   pagrindžia:
     - c-001

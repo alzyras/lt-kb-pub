@@ -30,72 +30,100 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 
 ## Teiginiai
 
+<a id="claim-t-178767"></a>
 - t-001
+  global_id: t-178767
   teiginys: 'Jeigu lietuvių skaičius nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra atsitikę su jotvingiais.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-178768"></a>
 - t-002
+  global_id: t-178768
   teiginys: 'II tūkstantmečio pradžioje pradėję formuotis jotvingiai buvo nukariauti ir asimiliuoti Vokiečių ordino.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-178769"></a>
 - t-003
+  global_id: t-178769
   teiginys: '1279 m. per badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-178770"></a>
 - t-004
+  global_id: t-178770
   teiginys: '1282 m. lietuviai drauge su jotvingiais teriojo Liublino ir Sandomiero žemes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-178771"></a>
 - t-005
+  global_id: t-178771
   teiginys: 'Dusburgietis teigia, kad prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-178772"></a>
 - t-006
+  global_id: t-178772
   teiginys: 'Jotvingiai, pasistūmėję į Rusios gilumą, kalba ir papročiais buvo panašūs į slavus.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-178774"></a>
 - t-007
+  global_id: t-178774
   teiginys: 'Toliau į pietvakarius ėjo jotvingių žemė.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-178775"></a>
 - t-008
+  global_id: t-178775
   teiginys: 'Pagal XIII a. duomenis Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-178777"></a>
 - t-009
+  global_id: t-178777
   teiginys: 'Per 1279 metų badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-178778"></a>
 - t-010
+  global_id: t-178778
   teiginys: 'Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių pavyzdys.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-178779"></a>
 - t-011
+  global_id: t-178779
   teiginys: 'Jotvingius badmečiai, marai ir to meto karai privedė prie sunykimo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-178780"></a>
 - t-012
+  global_id: t-178780
   teiginys: 'Apie prūsus ir įsakmiai apie jotvingius yra žinoma, jog, norėdami apsisaugoti nuo priešų, jie turėjo susimesti į sustiprintus kaimus.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-178781"></a>
 - t-013
+  global_id: t-178781
   teiginys: '1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-178782"></a>
 - t-014
+  global_id: t-178782
   teiginys: 'Jotvingių pavyzdys rodo, kad žemės ūkis buvo greitai pažeidžiamas.'
   pagrindžia:
     - c-004
@@ -347,6 +375,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - [[objektai/autoriai/Nalepa J]]
 - [[objektai/grupes/Pamarėnai]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/ivykiai/Jotvingių pralaimėjimas Vladimirui A. Kojelavičiaus pasakojime (970 m.)]]
 - [[objektai/zodynas/vakariniai baltai]]
 - [[objektai/grupes/Prūsijos valstybė]]
 - [[objektai/grupes/Žemaičiai]]

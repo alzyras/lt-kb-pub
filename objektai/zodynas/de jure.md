@@ -27,25 +27,31 @@ Sostas pripažino Lietuvos valstybę de jure (1922.
 
 ## Teiginiai
 
+<a id="claim-t-169910"></a>
 - t-001
+  global_id: t-169910
   teiginys: 'Neilgai trukus Vatikanas, JAV, Ispanija, Olandija, Skandinavijos šalys, o 1922 m. gruodžio 20 d. keturios Antantės valstybės (Prancūzija, Anglija, Italija, Japonija) pripažino Lietuvą de jure.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169911"></a>
 - t-002
+  global_id: t-169911
   teiginys: '1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors didžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182940"></a>
 - t-003
-  teiginys: 'Sostas pripažino Lietuvos valstybę de jure (1922.'
+  global_id: t-182940
+  teiginys: 'Šv. Sostas 1922 m. lapkričio 10 d. pripažino Lietuvos valstybę de jure.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Sostas pripažino Lietuvos valstybę de jure (1922.'
+  santrauka: 'Šv. Sostas 1922 m. lapkričio 10 d. pripažino Lietuvos valstybę de jure.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau tie santykiai pasidarė visai

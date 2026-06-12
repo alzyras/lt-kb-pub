@@ -24,7 +24,9 @@ Dusburgietis teigia, kad matulevičius A.
 
 ## Teiginiai
 
+<a id="claim-t-62645"></a>
 - t-001
+  global_id: t-62645
   teiginys: 'A. Matulevičius 1972 m. paskelbė straipsnį apie lietuvių etninę ribą Prūsijoje XVIII a. pradžioje.'
   pagrindžia:
     - c-001

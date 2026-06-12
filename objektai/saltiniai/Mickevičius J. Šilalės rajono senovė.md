@@ -22,7 +22,9 @@ Dusburgietis teigia, kad mickevičius J.
 
 ## Teiginiai
 
+<a id="claim-t-61179"></a>
 - t-001
+  global_id: t-61179
   teiginys: 'J. Mickevičiaus „Šilalės rajono senovė“ buvo 1968 m. parengtas mašinraštis.'
   pagrindžia:
     - c-001

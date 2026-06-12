@@ -19,7 +19,9 @@ L I E T U V O S I S T O R I J A 36 Lietuvos valdovas Gediminas, titulavęsis Rex
 
 ## Teiginiai
 
+<a id="claim-t-77840"></a>
 - t-001
+  global_id: t-77840
   teiginys: 'Gediminas titulavosi Rex Lethowye ir laiškais Vakarų šalims bei miestams kvietė į Lietuvą pirklius ir amatininkus.'
   pagrindžia:
     - c-001

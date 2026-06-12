@@ -20,37 +20,51 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 
 ## Teiginiai
 
+<a id="claim-t-101688"></a>
 - t-001
+  global_id: t-101688
   teiginys: 'Čiurlionio muziejaus senojo meno ekspozicija.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-101689"></a>
 - t-002
+  global_id: t-101689
   teiginys: 'Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-101690"></a>
 - t-003
+  global_id: t-101690
   teiginys: 'M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101691"></a>
 - t-004
+  global_id: t-101691
   teiginys: 'Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs Varšuvoje ir Leipcige.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-101692"></a>
 - t-005
+  global_id: t-101692
   teiginys: 'Mikalojus Konstantinas Čiurlionis buvo kilęs iš etniškai lietuviškos aplinkos, bet iki to laikotarpio lietuviškai gerai nemokėjo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-101693"></a>
 - t-006
+  global_id: t-101693
   teiginys: 'Čiurlionio kūrybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-101695"></a>
 - t-008
+  global_id: t-101695
   teiginys: 'Po Stalino mirties, atšilimo laikotarpiu, buvo spausdinami Mikalojaus Konstantino Čiurlionio kūrybos albumai.'
   pagrindžia:
     - c-003

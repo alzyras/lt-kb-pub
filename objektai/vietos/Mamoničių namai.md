@@ -23,7 +23,9 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
 
 ## Teiginiai
 
+<a id="claim-t-86086"></a>
 - t-001
+  global_id: t-86086
   teiginys: 'Mamoničių namai, pasak autoriaus, stovėjo dabartinių Sledzinskio namų Nr. 203 vietoje.'
   pagrindžia:
     - c-001

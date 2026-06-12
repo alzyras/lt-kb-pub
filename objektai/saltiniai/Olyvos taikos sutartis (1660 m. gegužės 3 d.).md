@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41573"></a>
 - t-001
+  global_id: t-41573
   teiginys: '1660 m. gegužės 3 d. Lietuva ir Lenkija su Švedija pasirašė Olyvos taikos sutartį.'
   pagrindžia:
     - c-001

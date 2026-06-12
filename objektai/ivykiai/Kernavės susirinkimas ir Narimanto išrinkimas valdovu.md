@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kernavės susirinkimas ir Narimanto išrinkimas valdovu
 
 ## Santrauka
 
-Kojelavičius teigia, kad lietuvių didikams, netekusiems namie valdovo, o svetur — kariuomenės, dabar parūpo kuo greičiausiai sutvarkyti valstybės vidaus reikalus, todėl jie sukvietė susirinkimą Kernavėje.
+Valdovo ir kariuomenės netekę lietuvių didikai sukvietė Kernavės susirinkimą valstybės vidaus reikalams kuo greičiau sutvarkyti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185713"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad lietuvių didikams, netekusiems namie valdovo, o svetur — kariuomenės, dabar parūpo kuo greičiausiai sutvarkyti valstybės vidaus reikalus, todėl jie sukvietė susirinkimą Kernavėje.'
+  global_id: t-185713
+  teiginys: 'Valdovo ir kariuomenės netekę lietuvių didikai sukvietė Kernavės susirinkimą valstybės vidaus reikalams kuo greičiau sutvarkyti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad lietuvių didikams, netekusiems namie valdovo, o svetur — kariuomenės, dabar parūpo kuo greičiausiai sutvarkyti valstybės vidaus reikalus, todėl jie sukvietė susirinkimą Kernavėje.'
+  santrauka: 'Valdovo ir kariuomenės netekę lietuvių didikai sukvietė Kernavės susirinkimą valstybės vidaus reikalams kuo greičiau sutvarkyti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lietuvių didikams, netekusiems
@@ -67,3 +68,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
+- [[objektai/asmenys/Trobius]]

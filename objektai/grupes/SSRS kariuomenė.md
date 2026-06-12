@@ -16,12 +16,16 @@ Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek �
 
 ## Teiginiai
 
+<a id="claim-t-19998"></a>
 - t-001
+  global_id: t-19998
   teiginys: '1940 m. birželio 14 d. ultimatumu SSRS pareikalavo, kad Lietuva įsileistų papildomus sovietų karinius dalinius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183184"></a>
 - t-002
+  global_id: t-183184
   teiginys: 'Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.'
   pagrindžia:
     - c-001

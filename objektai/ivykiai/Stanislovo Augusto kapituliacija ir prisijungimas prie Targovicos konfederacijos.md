@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20505"></a>
 - t-001
+  global_id: t-20505
   teiginys: 'Stanislovo Augusto pozicija 1792 m. gegužės–liepos kare su Rusija buvo susitaikėliška.'
   pagrindžia:
     - c-001

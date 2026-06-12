@@ -25,7 +25,9 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
 
 ## Teiginiai
 
+<a id="claim-t-30614"></a>
 - t-001
+  global_id: t-30614
   teiginys: 'Eleazaro vienuolyno vienuolis Filotiejus laiške Vosyliui III rašė apie siekį jėga atimti žemes iš Lietuvos.'
   pagrindžia:
     - c-001

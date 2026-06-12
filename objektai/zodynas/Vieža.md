@@ -23,12 +23,16 @@ Vartojamos formos: `viežą`, `viežos`.
 
 ## Teiginiai
 
+<a id="claim-t-07713"></a>
 - t-001
+  global_id: t-07713
   teiginys: 'Vieža buvo bausmės duobė, iš kurios vėlesniais laikais buvo galima išsipirkti pinigais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-07714"></a>
 - t-002
+  global_id: t-07714
   teiginys: 'Vieža Daukanto tekste buvo žemėje iškasta, kartais išmūryta duobė kaltininkams nustatytą laiką kalinti.'
   pagrindžia:
     - c-001

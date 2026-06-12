@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-22201"></a>
 - t-001
+  global_id: t-22201
   teiginys: 'Tikinčiųjų teisių gynimo komitetas teigė, kad kulto laisvė praktikoje varžoma, ir siekė katalikams lygių teisių su ateistais.'
   pagrindžia:
     - c-001

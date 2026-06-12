@@ -25,7 +25,9 @@ Vienos tų žemių priklausė jiems tiesiog: jose jie turėjo didelius savo dvar
 
 ## Teiginiai
 
+<a id="claim-t-36779"></a>
 - t-001
+  global_id: t-36779
   teiginys: 'Ekonomijos buvo dideli valdovų dvarai, administruojami jų skiriamų vietininkų.'
   pagrindžia:
     - c-001

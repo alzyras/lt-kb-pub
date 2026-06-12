@@ -47,17 +47,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87136"></a>
 - t-001
+  global_id: t-87136
   teiginys: 'Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr., 9 den.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87137"></a>
 - t-002
+  global_id: t-87137
   teiginys: '1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus, suma siekė 164 zl. 36 gr.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87138"></a>
 - t-003
+  global_id: t-87138
   teiginys: 'Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuviškų kapų pridėjo 2 flor.'
   pagrindžia:
     - c-003

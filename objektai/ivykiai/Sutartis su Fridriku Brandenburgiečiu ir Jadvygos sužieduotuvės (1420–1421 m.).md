@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35878"></a>
 - t-001
+  global_id: t-35878
   teiginys: '1421 m. Jogailos dukra Jadvyga buvo sužieduota su devynerių metų Brandenburgo markgrafo sūnumi Fridriku.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-35879"></a>
 - t-002
+  global_id: t-35879
   teiginys: 'Vytautas ir Jogaila sudarė su Brandenburgo elektoriumi Fridriku puolimo ir gynybos sutartį prieš kryžiuočius.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Alma Mater Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė mon
 
 ## Teiginiai
 
+<a id="claim-t-21000"></a>
 - t-001
+  global_id: t-21000
   teiginys: '„Alma Mater Vilnensis: Vilniaus universiteto istorijos bruožai“ yra kolektyvinė monografija, išleista Vilniuje 2009 m.'
   pagrindžia:
     - c-001

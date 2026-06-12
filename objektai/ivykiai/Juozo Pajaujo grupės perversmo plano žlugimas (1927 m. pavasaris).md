@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20213"></a>
 - t-001
+  global_id: t-20213
   teiginys: '1927 m. pavasarį, suėmus Juozą Pajaujį, žlugo apie jį susibūrusios grupės perversmo planas grąžinti Seimą.'
   pagrindžia:
     - c-001

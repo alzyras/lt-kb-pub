@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39139"></a>
 - t-001
+  global_id: t-39139
   teiginys: '1949 m. rugpjūčio 13 d. Radviliškio rajono Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.'
   pagrindžia:
     - c-001

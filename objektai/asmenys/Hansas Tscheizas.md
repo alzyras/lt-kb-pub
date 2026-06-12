@@ -16,7 +16,9 @@ Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui i
 
 ## Teiginiai
 
+<a id="claim-t-87683"></a>
 - t-001
+  global_id: t-87683
   teiginys: 'Švitrigaila prašė garantijų Hansui Tscheizui, jo svainiui Mikalojui Sachsei ir dvariškiams, vykstantiems į Sileziją.'
   pagrindžia:
     - c-001

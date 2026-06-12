@@ -19,7 +19,9 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
 
 ## Teiginiai
 
+<a id="claim-t-11662"></a>
 - t-001
+  global_id: t-11662
   teiginys: 'Vytautas, išgirdęs giriamą iškalbingą kunigaikštį, trumpai tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis žmogus.'
   pagrindžia:
     - c-001

@@ -24,12 +24,16 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 
 ## Teiginiai
 
+<a id="claim-t-43651"></a>
 - t-001
+  global_id: t-43651
   teiginys: 'Iš Kuršo ir Žiemgalos sudaryta kunigaikštystė turėjo sostinę Jelgavoje, dar vadintoje Mintauja.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-43652"></a>
 - t-002
+  global_id: t-43652
   teiginys: 'Jelgavoje jėzuitai buvo įkūrę vieną iš mažesnių savo mokyklų.'
   pagrindžia:
     - c-002

@@ -22,7 +22,9 @@ Lenkų kariuomenė šios sumaišties metu 1610 m. sumušusi rusus prie Klušino,
 
 ## Teiginiai
 
+<a id="claim-t-41797"></a>
 - t-001
+  global_id: t-41797
   teiginys: 'Lenkų kariuomenė šios sumaišties metu 1610 m. sumušusi rusus prie Klušino, užėmė Maskvą.'
   pagrindžia:
     - c-001

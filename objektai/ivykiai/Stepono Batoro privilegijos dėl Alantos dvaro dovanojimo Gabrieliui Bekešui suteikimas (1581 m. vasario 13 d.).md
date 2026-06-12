@@ -42,17 +42,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86889"></a>
 - t-001
+  global_id: t-86889
   teiginys: 'Steponas Batoras privilegijoje pabrėžė Gabrielio Bekešo nuopelnus tarnaujant valdovui, Karalystei ir Lietuvos Didžiajai Kunigaikštystei.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86890"></a>
 - t-002
+  global_id: t-86890
   teiginys: 'Stepono Batoro privilegija dėl Alantos dvaro dovanojimo buvo rašyta ir duota Varšuvoje 1581 m. vasario 13 d.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86891"></a>
 - t-003
+  global_id: t-86891
   teiginys: 'Stepono Batoro privilegija leido Gabrieliui Bekešui ir jo palikuonims naudotis suteiktomis valdomis kaip nuosava tėvonija.'
   pagrindžia:
     - c-001

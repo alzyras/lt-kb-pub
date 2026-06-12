@@ -24,7 +24,9 @@ Spausdinta Vilniuje pas Joną Karcaną, 1583, in 4to, 54 p. (Chšonstovskio veik
 
 ## Teiginiai
 
+<a id="claim-t-88089"></a>
 - t-001
+  global_id: t-88089
   teiginys: 'Spausdinta Vilniuje pas Joną Karcaną, 1583, in 4to, 54 p. (Chšonstovskio veikalas).'
   pagrindžia:
     - c-001

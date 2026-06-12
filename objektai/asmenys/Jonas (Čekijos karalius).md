@@ -27,7 +27,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-39558"></a>
 - t-001
+  global_id: t-39558
   teiginys: '1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją.'
   pagrindžia:
     - c-001

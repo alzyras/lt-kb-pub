@@ -16,12 +16,16 @@ Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas
 
 ## Teiginiai
 
+<a id="claim-t-21442"></a>
 - t-001
+  global_id: t-21442
   teiginys: 'Stojant į ES buvo keliamas nerašytas reikalavimas uždaryti Ignalinos atominę elektrinę, kuri Europoje laikyta nesaugia.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183594"></a>
 - t-002
+  global_id: t-183594
   teiginys: 'Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas reikalavimas stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė esant nesaugią.'
   pagrindžia:
     - c-002

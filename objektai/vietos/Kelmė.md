@@ -24,12 +24,16 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
 
 ## Teiginiai
 
+<a id="claim-t-36296"></a>
 - t-001
+  global_id: t-36296
   teiginys: '1416 m. Vytautas Kelmėje pastatė vieną iš aštuonių Žemaitijos parapinių bažnyčių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-36297"></a>
 - t-002
+  global_id: t-36297
   teiginys: 'Vytautas Kelmėje pastatė vieną iš Žemaitijos bažnyčių, priklausiusių plačiam jo statytų bažnyčių tinklui.'
   pagrindžia:
     - c-001

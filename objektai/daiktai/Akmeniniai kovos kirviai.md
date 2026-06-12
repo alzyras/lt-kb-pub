@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-71553"></a>
 - t-001
+  global_id: t-71553
   teiginys: 'Indoeuropiečiai, pasiekę Nemuno baseiną ir Baltijos jūrą, buvo ginkluoti akmeniniais kovos kirviais.'
   pagrindžia:
     - c-001

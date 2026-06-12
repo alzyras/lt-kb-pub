@@ -24,12 +24,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-75441"></a>
 - t-001
+  global_id: t-75441
   teiginys: '1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis į Vakarus nugabeno apygardų sudarytus okupacinės valdžios aukų sąrašus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75442"></a>
 - t-002
+  global_id: t-75442
   teiginys: 'Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių partizanų ir MGB kadrinių karininkų) būrius.'
   pagrindžia:
     - c-001

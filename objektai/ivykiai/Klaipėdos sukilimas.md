@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-80677"></a>
 - t-001
+  global_id: t-80677
   teiginys: 'Klaipėdos sukilimo priešistorėje minima, kad 1905 m. Didžiajame Vilniaus seime iškelta lietuviškų žemių sujungimo į vieną valstybę idėja.'
   pagrindžia:
     - c-001

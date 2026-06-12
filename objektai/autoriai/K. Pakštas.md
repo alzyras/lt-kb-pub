@@ -28,7 +28,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-30747"></a>
 - t-001
+  global_id: t-30747
   teiginys: 'K. Pakštas 1950 m. „Aiduose“ paskelbė straipsnį „Keletas samprotavimų apie Lietuvos ribas“.'
   pagrindžia:
     - c-001

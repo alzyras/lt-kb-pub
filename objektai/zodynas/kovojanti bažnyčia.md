@@ -19,7 +19,9 @@ Dusburgietis teigia, kad šit koks reikšmingas ženklas pasirodęs kovojančios
 
 ## Teiginiai
 
+<a id="claim-t-58937"></a>
 - t-001
+  global_id: t-58937
   teiginys: 'Brolių karo sėkmė Prūsijoje vadinama reikšmingu ženklu kovojančios bažnyčios padangėje.'
   pagrindžia:
     - c-001

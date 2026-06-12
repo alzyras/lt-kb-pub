@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Langobardų įsiveržimas į Italiją (559 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad atgavęs Italiją, jis, mi rus Justinianui, buvo kviečiamas atgal į Bizantiją, o herulai, vedami Alueto ir Filimunto, iš ten pasitrau kė ir per Liguriją nukako į Trakiją, ketindami kaip ir anksčiau tarnauti imperatoriaus kariuomenėje, tuo tar pu likusieji.
+Apie 559 metus Albojino vedami langobardai iškeliavo iš Panonijos ir su didžiule kariuomene įsiveržė į Italiją.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185810"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad atgavęs Italiją, jis, mi rus Justinianui, buvo kviečiamas atgal į Bizantiją, o herulai, vedami Alueto ir Filimunto, iš ten pasitrau kė ir per Liguriją nukako į Trakiją, ketindami kaip ir anksčiau tarnauti imperatoriaus kariuomenėje, tuo tar pu likusieji.'
+  global_id: t-185810
+  teiginys: 'Apie 559 metus Albojino vedami langobardai iškeliavo iš Panonijos ir su didžiule kariuomene įsiveržė į Italiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad atgavęs Italiją, jis, mi rus Justinianui, buvo kviečiamas atgal į Bizantiją, o herulai, vedami Alueto ir Filimunto, iš ten pasitrau kė ir per Liguriją nukako į Trakiją, ketindami kaip ir anksčiau tarnauti imperatoriaus kariuomenėje, tuo tar pu likusieji.'
+  santrauka: 'Apie 559 metus Albojino vedami langobardai iškeliavo iš Panonijos ir su didžiule kariuomene įsiveržė į Italiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atgavęs Italiją, jis, mi­
@@ -62,3 +63,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Gepidai]]
+- [[objektai/grupes/Herulai]]
+- [[objektai/grupes/Langobardai]]
+- [[objektai/autoriai/Prokopijus]]

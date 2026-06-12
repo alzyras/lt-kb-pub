@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Spera
 
 ## Santrauka
 
-Kojelavičius teigia, kad spera, trečiasis sūnus, nu keliavęs gerokai į rytus, valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių, pastatė prie didžiulio eže ro pilį.
+Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie didžiulio ežero pastatė pilį.
 
 ## Teiginiai
 
+<a id="claim-t-186163"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad spera, trečiasis sūnus, nu keliavęs gerokai į rytus, valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių, pastatė prie didžiulio eže ro pilį.'
+  global_id: t-186163
+  teiginys: 'Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie didžiulio ežero pastatė pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad spera, trečiasis sūnus, nu keliavęs gerokai į rytus, valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių, pastatė prie didžiulio eže ro pilį.'
+  santrauka: 'Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie didžiulio ežero pastatė pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tas miestas su pilimi, įkūrėjo at­
@@ -38,3 +39,8 @@ Kojelavičius teigia, kad spera, trečiasis sūnus, nu keliavęs gerokai į rytu
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Lietuvos ginkluota pagalba Prūsijai prieš Boleslovą Narsųjį]]
+- [[objektai/daiktai/Medinės pilys]]

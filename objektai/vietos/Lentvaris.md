@@ -16,12 +16,16 @@ Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė
 
 ## Teiginiai
 
+<a id="claim-t-41861"></a>
 - t-001
+  global_id: t-41861
   teiginys: 'Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183791"></a>
 - t-002
+  global_id: t-183791
   teiginys: 'Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezinkelį pro Lentvarį pulti Vilnių.'
   pagrindžia:
     - c-001

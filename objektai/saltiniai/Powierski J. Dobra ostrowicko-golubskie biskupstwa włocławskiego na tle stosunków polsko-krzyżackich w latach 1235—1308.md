@@ -29,17 +29,23 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
 
 ## Teiginiai
 
+<a id="claim-t-60959"></a>
 - t-001
+  global_id: t-60959
   teiginys: 'Dusburgietis teigia, kad 555 Aprašomas 1302—1303 m. žiemos puolimas (Powierski J., Dobra..., p. 201).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60960"></a>
 - t-002
+  global_id: t-60960
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų 540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p. 156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60961"></a>
 - t-003
+  global_id: t-60961
   teiginys: 'Dusburgietis teigia, kad dėl to, prisiartinus brolių kariuomenei, jis slapta atidarė pilies vartus, ir broliai, ten įsibrovę, visus išžudė, išskyrus vieną, būtent Sudargo sūnų, kuris vis dėlto buvo sunkiai 554 Konradas Žakas, atrodo, ne pastatė Goliubo pilį, o tik ją pritaikė.'
   pagrindžia:
     - c-002

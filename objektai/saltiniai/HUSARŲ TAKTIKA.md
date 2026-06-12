@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-39945"></a>
 - t-001
+  global_id: t-39945
   teiginys: '„Husarų taktika“ iliustracijos autoriumi nurodytas dailininkas Andžej Geglis.'
   pagrindžia:
     - c-001

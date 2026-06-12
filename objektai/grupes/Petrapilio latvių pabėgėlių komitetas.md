@@ -17,12 +17,16 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 
 ## Teiginiai
 
+<a id="claim-t-72599"></a>
 - t-001
+  global_id: t-72599
   teiginys: 'Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi nepriklausomos Latvijos sukūrimu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72600"></a>
 - t-002
+  global_id: t-72600
   teiginys: 'Kai Rusijoje kilo revoliucija, beveik visa Latvija buvo užimta vokiečių, kurie svajojo paimti į savo valdžią visą Pabaltijį.'
   pagrindžia:
     - c-002

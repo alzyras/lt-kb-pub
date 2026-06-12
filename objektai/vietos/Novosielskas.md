@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-36461"></a>
 - t-001
+  global_id: t-36461
   teiginys: 'Novosielsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikščių tarpe.'
   pagrindžia:
     - c-001

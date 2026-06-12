@@ -17,7 +17,9 @@ Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą
 
 ## Teiginiai
 
+<a id="claim-t-101575"></a>
 - t-001
+  global_id: t-101575
   teiginys: 'Iki Atgimimo sovietmečiu drausta viešai kalbėti apie pokario masines gyventojų deportacijas ir partizanų kovas.'
   pagrindžia:
     - c-001

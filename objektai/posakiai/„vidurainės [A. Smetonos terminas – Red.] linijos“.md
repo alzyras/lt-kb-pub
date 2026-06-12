@@ -24,7 +24,9 @@ Smetona stengėsi laikytis „vidurainės [A.
 
 ## Teiginiai
 
+<a id="claim-t-26349"></a>
 - t-001
+  global_id: t-26349
   teiginys: 'A. Smetona „viduraine linija“ vadino siekį užsienio politikoje nesusisieti su konkrečia valstybe ar jų grupe.'
   pagrindžia:
     - c-001

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad lietuviškoji tarybinė enciklopedija.— T.
 
 ## Teiginiai
 
+<a id="claim-t-61132"></a>
 - t-001
+  global_id: t-61132
   teiginys: 'Trečiasis „Lietuviškosios tarybinės enciklopedijos“ tomas išleistas 1978 m.'
   pagrindžia:
     - c-001

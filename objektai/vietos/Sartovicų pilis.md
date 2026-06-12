@@ -19,7 +19,9 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 
 ## Teiginiai
 
+<a id="claim-t-58721"></a>
 - t-001
+  global_id: t-58721
   teiginys: 'Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1.'
   pagrindžia:
     - c-001

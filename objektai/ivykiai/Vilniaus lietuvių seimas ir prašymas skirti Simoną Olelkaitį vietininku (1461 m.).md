@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad esą visuomenė galinti būti rami tik tada, kai karalius asmeniškai val dysiąs Lietuvą; svetur išvykusio karaliaus žodis ne greitai juos pasiekiąs ir paprastai negalįs būti veiks mingas. Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal d a u ją paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais Algirdo proanūkį.
+1461 m. Vilniaus seime Lietuvos luomai pareiškė, kad visuomenė gali būti rami tik karaliui asmeniškai valdant Lietuvą. 1461 m. Vilniaus seime Lietuvos luomai prašė paskirti Simoną Olelkaitį Lietuvos vietininku.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185653"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad esą visuomenė galinti būti rami tik tada, kai karalius asmeniškai val dysiąs Lietuvą; svetur išvykusio karaliaus žodis ne greitai juos pasiekiąs ir paprastai negalįs būti veiks mingas.'
+  global_id: t-185653
+  teiginys: '1461 m. Vilniaus seime Lietuvos luomai pareiškė, kad visuomenė gali būti rami tik karaliui asmeniškai valdant Lietuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185654"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal d a u ją paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais Algirdo proanūkį.'
+  global_id: t-185654
+  teiginys: '1461 m. Vilniaus seime Lietuvos luomai prašė paskirti Simoną Olelkaitį Lietuvos vietininku.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad esą visuomenė galinti būti rami tik tada, kai karalius asmeniškai val dysiąs Lietuvą; svetur išvykusio karaliaus žodis ne greitai juos pasiekiąs ir paprastai negalįs būti veiks mingas.'
+  santrauka: '1461 m. Vilniaus seime Lietuvos luomai pareiškė, kad visuomenė gali būti rami tik karaliui asmeniškai valdant Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atvyko į jį prieš Velykas gausybė žmonių. Visi
@@ -65,7 +68,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad štai to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal d a u ją paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais Algirdo proanūkį.'
+  santrauka: '1461 m. Vilniaus seime Lietuvos luomai prašė paskirti Simoną Olelkaitį Lietuvos vietininku.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kas be ko, jie visi neišpasakytai trokštą, kad
@@ -91,3 +94,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Lietuvos luomai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/asmenys/Simonas Olelkaitis]]
+- [[objektai/grupes/Vilniaus lietuvių seimas|Vilniaus lietuvių seimas (seimas, XV a.)]]

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad labuda G.
 
 ## Teiginiai
 
+<a id="claim-t-61121"></a>
 - t-001
+  global_id: t-61121
   teiginys: 'G. Labudos recenzija apie M. Hellmanno „Über die Grundlagen und die Entstehung des Ordensstaates in Preussen“ paskelbta 1964 m. Torunėje, ZHP 29 tome.'
   pagrindžia:
     - c-001

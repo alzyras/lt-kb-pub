@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-41273"></a>
 - t-001
+  global_id: t-41273
   teiginys: '1794 m. gegužės 4 d. Tadas Kosciuška pašalino Jokūbą Jasinskį iš Lietuvos sukilėlių vado pareigų.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Fridrichas (Meiseno markgrafas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad greta jo įsitai sė Fridrichas, Meiseno markgrafas, nė vienas jo šeimos vyras nebuvo palikęs kovos rikiuotės.
+Fridrichas buvo Meiseno markgrafas, kurio šeimos vyrai, pasak Kojelavičiaus, nepalikdavo kovos rikiuotės.
 
 ## Teiginiai
 
+<a id="claim-t-186202"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad greta jo įsitai sė Fridrichas, Meiseno markgrafas, nė vienas jo šeimos vyras nebuvo palikęs kovos rikiuotės.'
+  global_id: t-186202
+  teiginys: 'Fridrichas buvo Meiseno markgrafas, kurio šeimos vyrai, pasak Kojelavičiaus, nepalikdavo kovos rikiuotės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad greta jo įsitai sė Fridrichas, Meiseno markgrafas, nė vienas jo šeimos vyras nebuvo palikęs kovos rikiuotės.'
+  santrauka: 'Fridrichas buvo Meiseno markgrafas, kurio šeimos vyrai, pasak Kojelavičiaus, nepalikdavo kovos rikiuotės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Galustalėje
@@ -40,3 +41,7 @@ Kojelavičius teigia, kad greta jo įsitai sė Fridrichas, Meiseno markgrafas, n
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Fridrichas]]

@@ -26,7 +26,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-34968"></a>
 - t-001
+  global_id: t-34968
   teiginys: 'J. Gabrio „Lietuvių-Lenkų unija“ buvo išleista Filadelfijoje 1915 m.'
   pagrindžia:
     - c-001

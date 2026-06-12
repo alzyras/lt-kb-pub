@@ -25,27 +25,37 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 
 ## Teiginiai
 
+<a id="claim-t-88142"></a>
 - t-001
+  global_id: t-88142
   teiginys: 'Petras pranešė Dinaburgo komtūrui, kad Švitrigaila su gausia kariauna ir paramos pulkais patraukė toliau.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-88143"></a>
 - t-002
+  global_id: t-88143
   teiginys: 'Laiškas Livonijos magistrui buvo rašytas Liksnoje antrą savaitę po Velykų, greičiausiai 1396 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88144"></a>
 - t-003
+  global_id: t-88144
   teiginys: 'Dinaburgo komtūras iš Liksnos į Lietuvą pasiuntė Petrą surinkti žinių apie Švitrigailą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-88145"></a>
 - t-004
+  global_id: t-88145
   teiginys: 'Dinaburgo komtūras (parašas) Originalą atitinka: Dr.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-88146"></a>
 - t-005
+  global_id: t-88146
   teiginys: 'Dinaburgo komtūras Livonijos magistrui pranešė, kad Švitrigaila išėjo iš nelaisvės, o Vilniuje griuvo Pilies kalnas.'
   pagrindžia:
     - c-001

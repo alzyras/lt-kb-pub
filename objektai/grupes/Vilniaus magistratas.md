@@ -27,87 +27,121 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 
 ## Teiginiai
 
+<a id="claim-t-172804"></a>
 - t-001
+  global_id: t-172804
   teiginys: 'Vilniaus magistratas viešai iš didžiojo kunigaikščio rankų priėmė Magdeburgo teisių atnaujinimo ir patvirtinimo privilegijas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-172805"></a>
 - t-002
+  global_id: t-172805
   teiginys: '1524 m. karalius priekaištavo Vilniaus magistratui dėl nesutarimų su bendruomene ir nubaudė jį šimto kapų grašių bauda.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-172806"></a>
 - t-003
+  global_id: t-172806
   teiginys: 'Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė Vilniaus magistratui už tam tikrą sumą, įpareigodamas, kad magistratas procentus, nuo sumos už tą mūrinį namą gaunamus, mokėtų Švč.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-172807"></a>
 - t-004
+  global_id: t-172807
   teiginys: 'Vilniaus tarėjams buvo nurodyta su ponais tartis dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-172809"></a>
 - t-005
+  global_id: t-172809
   teiginys: '1545 m. gegužės 4 d. įsakymu Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-172811"></a>
 - t-006
+  global_id: t-172811
   teiginys: '1786 m. rugpjūčio 19 d. iš Vilniaus magistrato ir miesto knygos buvo išduota privilegijos ištrauka ribų komisijos teismui.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-172812"></a>
 - t-007
+  global_id: t-172812
   teiginys: '1667 m. balandžio 4 d. Vilniaus magistratas stojo į teismą su Šv. Jono bažnyčia dėl ankstesnių potvarkių.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-172813"></a>
 - t-008
+  global_id: t-172813
   teiginys: 'Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis pereiti į bajorų luomą.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-172814"></a>
 - t-009
+  global_id: t-172814
   teiginys: 'Karaliaus įsakymas skelbė, kad Vilniaus vaito, advokato ar tarėjų draudimai naudotis vyskupo mėsinėmis turguje negalioja.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-172815"></a>
 - t-010
+  global_id: t-172815
   teiginys: 'Vilniaus kapitula teigė, kad bausti bažnyčios valdinius priklauso jai, o ne Vilniaus miestui ar tarėjams.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-172816"></a>
 - t-011
+  global_id: t-172816
   teiginys: 'Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-172817"></a>
 - t-012
+  global_id: t-172817
   teiginys: 'Jais patvirtinama, kad magistrato paskirtis - valdyti miestą.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-172818"></a>
 - t-013
+  global_id: t-172818
   teiginys: 'Žygimanto Augusto privilegija nuo nakvynės ir apsistojimo prievolės atleido Vilniaus magistrato raštininkų namus ir butus.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-172819"></a>
 - t-014
+  global_id: t-172819
   teiginys: 'Karaliaus Žygimanto 1522 m. įsakymu miesto sargyba ir policija buvo sugrąžinta Vilniaus magistratui.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-172820"></a>
 - t-015
+  global_id: t-172820
   teiginys: '1654 m. liepos 4 d. įvykdytas sprendimas byloje dėl patronato teisių patenkino Vilniaus magistrato ieškinį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-172821"></a>
 - t-016
+  global_id: t-172821
   teiginys: 'Vilniaus magistratas per savo valdytojus disponavo mūriniais namais, kurių pajamos buvo skirtos koplyčios poreikiams.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-172822"></a>
 - t-017
+  global_id: t-172822
   teiginys: 'Vilniaus magistratas gavo teisę siųsti du arba tris patarėjus į didžiuosius seimus Karalystėje ar Lietuvoje.'
   pagrindžia:
     - c-002

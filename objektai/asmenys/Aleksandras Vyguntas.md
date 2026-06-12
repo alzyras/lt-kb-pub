@@ -24,7 +24,9 @@ Pati re­ forma nepasisekė, nes Vygunto mirtis (1392 m. birželio 28 d.) suard�
 
 ## Teiginiai
 
+<a id="claim-t-35011"></a>
 - t-001
+  global_id: t-35011
   teiginys: 'Vygunto mirtis 1392 m. birželio 28 d. suardė reformos planus.'
   pagrindžia:
     - c-001

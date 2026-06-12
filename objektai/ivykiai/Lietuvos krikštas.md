@@ -44,12 +44,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-182841"></a>
 - t-001
+  global_id: t-182841
   teiginys: 'Lietuvos krikšto metu Vytautas aktyviai aiškino žmonėms tikėjimą ir ragino juos krikštytis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183247"></a>
 - t-002
+  global_id: t-183247
   teiginys: 'Alegoriniame Europos šalių žygyje prie kryžiaus Lietuva vaizduota kaip paskutinė ir pėsčia valstybė.'
   pagrindžia:
     - c-002

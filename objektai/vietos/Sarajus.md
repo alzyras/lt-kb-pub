@@ -17,7 +17,9 @@ Kipčako, arba vadinamosios Auksinės, Ordos chanai (iš Sarajaus) rinkdavo iš 
 
 ## Teiginiai
 
+<a id="claim-t-02741"></a>
 - t-001
+  global_id: t-02741
   teiginys: 'Iš Sarajaus veikę Auksinės Ordos chanai rinkdavo mokesčius ir skirdavo kunigaikščius.'
   pagrindžia:
     - c-001

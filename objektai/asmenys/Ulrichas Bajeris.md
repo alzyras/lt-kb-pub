@@ -17,17 +17,23 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
 
 ## Teiginiai
 
+<a id="claim-t-60070"></a>
 - t-001
+  global_id: t-60070
   teiginys: 'Dusburgietis teigia, kad šiame kare krito nukauti brolis Ulrichas Bajeris, Tepliavos komtūras, bei 4 vyrai, o brolis Liudvikas iš Libencelės pakliuvo į nelaisvę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60071"></a>
 - t-002
+  global_id: t-60071
   teiginys: 'Dusburgietis teigia, kad apie brolio Ulricho kovas su sūduviais Tas brolis Ulrichas garsėjo narsa.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60072"></a>
 - t-003
+  global_id: t-60072
   teiginys: 'Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį Tuo metu, kai netikėlių kariuomenė buvo Sembos žemėje, brolis Ulrichas Bajeris, Tepliavos komtūras, su 12 brolių ir 250 raitelių įsiveržė į Sūduvą ir, neskaitant kitų nuostolių, kurių pridarė.'
   pagrindžia:
     - c-002

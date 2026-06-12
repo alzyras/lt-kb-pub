@@ -27,12 +27,16 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
 
 ## Teiginiai
 
+<a id="claim-t-87508"></a>
 - t-001
+  global_id: t-87508
   teiginys: 'Prūsijos ordino didysis magistras pasiuntė Gotfridą Lindeną su Redigeriu Elneriu užimti Vilniaus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87509"></a>
 - t-002
+  global_id: t-87509
   teiginys: 'Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir nesėkmingai veržėsi iki Vilniaus tvirtovių.'
   pagrindžia:
     - c-001

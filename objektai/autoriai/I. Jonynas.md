@@ -26,7 +26,9 @@ Jonynas, lg. : JakG, I, 127-135 ; II, 5-59 p. — (”) Naujausi Gedimino dinast
 
 ## Teiginiai
 
+<a id="claim-t-30643"></a>
 - t-001
+  global_id: t-30643
   teiginys: 'Ig. Jonynas 1939 m. „Naujojoje Romuvoje“ paskelbė straipsnį „Lietuvių gentys iki XIX a.“.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Ji ne tik gynė svarbų kelią tarp Prūsų ir Livonijos per patogią Kuršių N
 
 ## Teiginiai
 
+<a id="claim-t-32287"></a>
 - t-001
+  global_id: t-32287
   teiginys: 'Kuršių Neringa buvo patogaus kelio tarp Prūsijos ir Livonijos dalis, kurį turėjo ginti Klaipėdos pilis.'
   pagrindžia:
     - c-001

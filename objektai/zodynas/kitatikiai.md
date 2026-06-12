@@ -27,22 +27,30 @@ Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII am
 
 ## Teiginiai
 
+<a id="claim-t-71990"></a>
 - t-001
+  global_id: t-71990
   teiginys: 'Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII amžiuje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71991"></a>
 - t-002
-  teiginys: 'Kitatikių mokyklos Be katalikų, švietimu dar rūpinosi ir kitatikiai.'
+  global_id: t-71991
+  teiginys: 'Be katalikų, švietimu rūpinosi ir kitatikiai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71992"></a>
 - t-003
+  global_id: t-71992
   teiginys: 'Kitatikiai rūpinosi švietimu, daugiausia tikybos reikalais, o jų mokyklos buvo pritaikytos bažnytiniams reikalams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71993"></a>
 - t-004
+  global_id: t-71993
   teiginys: 'Be katalikų, švietimu rūpinosi ir kitatikiai, kurių mokyklos daugiausia buvo pritaikytos bažnytiniams reikalams.'
   pagrindžia:
     - c-002

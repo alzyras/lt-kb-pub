@@ -17,7 +17,9 @@ Sukilėlių pajėgos Sukilėlių kariuomenės pagrindą Panerių mūšyje sudar�
 
 ## Teiginiai
 
+<a id="claim-t-38961"></a>
 - t-001
+  global_id: t-38961
   teiginys: 'Panerių mūšyje Kališo raitininkų eskadronai buvo tarp Lenkijos sukilėlių junginių.'
   pagrindžia:
     - c-001

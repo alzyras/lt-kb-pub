@@ -25,22 +25,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86116"></a>
 - t-001
+  global_id: t-86116
   teiginys: '1396 m. Vilniaus pilies kalną ištiko smarki griūtis, kurios nuošliaužos užslinko ant vaivados Manvydo rūmų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86117"></a>
 - t-002
+  global_id: t-86117
   teiginys: 'Vilniaus pilies kalno griūtis palietė tik kalną, o pilies mūrai išliko sveiki.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86118"></a>
 - t-003
+  global_id: t-86118
   teiginys: 'Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus pilies kalną ištiko griūtis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-86119"></a>
 - t-004
+  global_id: t-86119
   teiginys: 'Vilniaus pilies kalnas nuslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
   pagrindžia:
     - c-001

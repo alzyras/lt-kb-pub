@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20460"></a>
 - t-001
+  global_id: t-20460
   teiginys: 'Abraomas Kulvietis siekė lietuvių kalbą padaryti švietimo sistemos pagrindu ir išugdyti lietuvių inteligentiją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-20461"></a>
 - t-002
+  global_id: t-20461
   teiginys: '1517 m. Martynas Liuteris pradėjo reformaciją, laikomą viena reikšmingiausių Naujųjų amžių apraiškų.'
   pagrindžia:
     - c-001

@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31968"></a>
 - t-001
+  global_id: t-31968
   teiginys: '„Vitoldiana“ paskelbta AW 7 tome 1930 m., p. 494-504, ir siejama su Dubysos sutartimis.'
   pagrindžia:
     - c-001

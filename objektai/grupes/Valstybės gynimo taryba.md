@@ -18,7 +18,9 @@ Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m. Valstyb
 
 ## Teiginiai
 
+<a id="claim-t-20058"></a>
 - t-001
+  global_id: t-20058
   teiginys: 'Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą, pagal kurį apie 20 proc. biudžeto teko krašto gynybai.'
   pagrindžia:
     - c-001

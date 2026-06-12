@@ -25,7 +25,9 @@ Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui 
 
 ## Teiginiai
 
+<a id="claim-t-88491"></a>
 - t-001
+  global_id: t-88491
   teiginys: 'Vilniaus magistrato knygose buvo išrašas apie 1536 m. rugpjūčio 6 d. Žygimanto Senojo privilegiją rinkti muitą ant tilto per Viliją.'
   pagrindžia:
     - c-001

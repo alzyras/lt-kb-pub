@@ -43,27 +43,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-78722"></a>
 - t-001
+  global_id: t-78722
   teiginys: 'Per nacionalines šventes minimos Liepos 6-osios, Vasario 16-osios ir Kovo 11-osios Lietuvos valstybingumo datos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78723"></a>
 - t-002
+  global_id: t-78723
   teiginys: 'Tačiau svarbiausia, kodėl Lietuvai reikia prisiminti mūšius - ji kaip valstybė buvo naikinama ir turėjo kurtis arba keltis net tris kartus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78724"></a>
 - t-003
+  global_id: t-78724
   teiginys: 'Visus šiuos tris kartus minime per nacionalines šventes ir kalbame apie Liepos 6-osios Lietuvą (1253-aisiais tą dieną buvo karūnuotas Mindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką (1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78725"></a>
 - t-004
+  global_id: t-78725
   teiginys: 'Jau vien šios aplinkybės neleidžia tiesiogiai lyginti ir gretinti Švedijos ir Lietuvos istorijos, juo labiau kad niekada nesibodėjo savo karų istorijos, ir tai lengva pamatyti Stokholme, kuris yra kupinas paminklų savo karvedžiams ir valdovams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78726"></a>
 - t-005
+  global_id: t-78726
   teiginys: 'Šis minėjimas siejamas su valstybės kūrimu, atkūrimu ir atsiskyrimu nuo sovietų imperijos.'
   pagrindžia:
     - c-001

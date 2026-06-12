@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vytauto Vilniaus apgultis ir atsitraukimas į Prūsiją
 
 ## Santrauka
 
-Kojelavičius teigia, kad vytautas, smarkiai karu nusiaubęs aplinkui kraštą, sustojo dar nepasiekęs Vilniaus už keturių mylių prie Trakų ne todėl, kad norėjo tą pilį supti, bet todėl, kad ketino ten sutelkti niokotojų pulkus ir po to su viso mis jėgomis traukti į sostinę. Kojelavičius teigia, kad keletą kartų pabandęs užimti šias pilis, bu vo priverstas nutraukti apsiaustį ir išvesti kariuomenę atgal į Prūsiją nepajėgęs įveikti gynėjų narsumo.
+Vytautas prie Trakų telkė niokotojų pulkus, ketindamas vėliau su visomis jėgomis traukti į Vilnių. Po kelių nesėkmingų bandymų užimti Vilniaus pilis Vytautas nutraukė apsiaustį ir išvedė kariuomenę atgal į Prūsiją.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185664"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vytautas, smarkiai karu nusiaubęs aplinkui kraštą, sustojo dar nepasiekęs Vilniaus už keturių mylių prie Trakų ne todėl, kad norėjo tą pilį supti, bet todėl, kad ketino ten sutelkti niokotojų pulkus ir po to su viso mis jėgomis traukti į sostinę.'
+  global_id: t-185664
+  teiginys: 'Vytautas prie Trakų telkė niokotojų pulkus, ketindamas vėliau su visomis jėgomis traukti į Vilnių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185665"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad keletą kartų pabandęs užimti šias pilis, bu vo priverstas nutraukti apsiaustį ir išvesti kariuomenę atgal į Prūsiją nepajėgęs įveikti gynėjų narsumo.'
+  global_id: t-185665
+  teiginys: 'Po kelių nesėkmingų bandymų užimti Vilniaus pilis Vytautas nutraukė apsiaustį ir išvedė kariuomenę atgal į Prūsiją.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vytautas, smarkiai karu nusiaubęs aplinkui kraštą, sustojo dar nepasiekęs Vilniaus už keturių mylių prie Trakų ne todėl, kad norėjo tą pilį supti, bet todėl, kad ketino ten sutelkti niokotojų pulkus ir po to su viso mis jėgomis traukti į sostinę.'
+  santrauka: 'Vytautas prie Trakų telkė niokotojų pulkus, ketindamas vėliau su visomis jėgomis traukti į Vilnių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas, smarkiai karu nusiaubęs aplinkui kraštą,
@@ -71,7 +74,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad keletą kartų pabandęs užimti šias pilis, bu vo priverstas nutraukti apsiaustį ir išvesti kariuomenę atgal į Prūsiją nepajėgęs įveikti gynėjų narsumo.'
+  santrauka: 'Po kelių nesėkmingų bandymų užimti Vilniaus pilis Vytautas nutraukė apsiaustį ir išvedė kariuomenę atgal į Prūsiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Aukštutinę pilį, stovinčią ant
@@ -89,3 +92,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/apsiaustis]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

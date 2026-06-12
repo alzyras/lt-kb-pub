@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31801"></a>
 - t-001
+  global_id: t-31801
   teiginys: '(^106) Jis dar parašė : Lietuvos Didžiųjų Kunigaikščių metraštis (AkMD, t.'
   pagrindžia:
     - c-001

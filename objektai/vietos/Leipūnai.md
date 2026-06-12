@@ -26,25 +26,26 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
 
 ## Teiginiai
 
+<a id="claim-t-111669"></a>
 - t-001
+  global_id: t-111669
   teiginys: 'Sapiegų daliniai nužygiavo iki Lieponių (Leipūnų) smuklės ir čia - už vienos mylios (7 km) nuo respublikonų stovyklos Valkininkuose, sustojo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-111671"></a>
 - t-002
+  global_id: t-111671
   teiginys: 'Valkininkų kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-111672"></a>
 - t-003
+  global_id: t-111672
   teiginys: '." Kiti minėjo Leipūnų laukuose žuvusius sūnus, tėvus ir kitus gimines.'
   pagrindžia:
     - c-001
-
-- t-004
-  teiginys: 'Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -73,7 +74,7 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
     - t-001
 
 - c-002
-  santrauka: 'Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).'
+  santrauka: 'Valkininkų kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Višniaveckis jį nu-

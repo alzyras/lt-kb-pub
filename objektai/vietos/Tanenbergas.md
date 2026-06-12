@@ -19,7 +19,9 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
 
 ## Teiginiai
 
+<a id="claim-t-63398"></a>
 - t-001
+  global_id: t-63398
   teiginys: 'Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos.'
   pagrindžia:
     - c-001

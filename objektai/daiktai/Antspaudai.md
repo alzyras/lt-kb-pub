@@ -44,17 +44,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86979"></a>
 - t-001
+  global_id: t-86979
   teiginys: 'Buvo ir tos privilegijos Žygimanto Augusto patvirtinimas su dviem antspaudais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86981"></a>
 - t-002
+  global_id: t-86981
   teiginys: 'Komisarai prisiekusių liudininkų žinias apie Pabaisko bažnyčios įkūrimą aprašė ir patvirtino savo antspaudais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86982"></a>
 - t-003
+  global_id: t-86982
   teiginys: 'Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako.'
   pagrindžia:
     - c-003
@@ -185,6 +191,7 @@ Nenurodyta
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/paprociai/Politinių susitarimų tvirtinimas valstybiniais aktais, parašais ir antspaudais]]
 - [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]
 - [[objektai/daiktai/Valstybės antspaudai]]
 - [[objektai/daiktai/Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai]]

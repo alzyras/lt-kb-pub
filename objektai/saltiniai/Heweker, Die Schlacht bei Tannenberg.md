@@ -25,7 +25,9 @@ Heweker, Die Schlacht bei Tannenberg, Diss.
 
 ## Teiginiai
 
+<a id="claim-t-36048"></a>
 - t-001
+  global_id: t-36048
   teiginys: 'Hewekerio „Die Schlacht bei Tannenberg“ buvo disertacija, išleista Berlyne 1906 m.'
   pagrindžia:
     - c-001

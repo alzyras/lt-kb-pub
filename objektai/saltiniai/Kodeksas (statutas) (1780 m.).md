@@ -23,7 +23,9 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.
 
 ## Teiginiai
 
+<a id="claim-t-02198"></a>
 - t-001
+  global_id: t-02198
   teiginys: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
   pagrindžia:
     - c-001

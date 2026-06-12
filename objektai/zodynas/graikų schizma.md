@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # graikų schizma
 
 ## Santrauka
 
-Kojelavičius teigia, kad mat rusų vyskupams tais metais atvirai prisidėjus prie graikų schizmos, Konstantinas, išpažin damas rusų tikėjimą, perėjo į jų pusę ir išsižadėjo pa klusnumo Romos popiežiui.
+Konstantinas, išpažindamas rusų tikėjimą, prisidėjo prie graikų schizmos ir išsižadėjo paklusnumo Romos popiežiui.
 
 ## Teiginiai
 
+<a id="claim-t-185386"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mat rusų vyskupams tais metais atvirai prisidėjus prie graikų schizmos, Konstantinas, išpažin damas rusų tikėjimą, perėjo į jų pusę ir išsižadėjo pa klusnumo Romos popiežiui.'
+  global_id: t-185386
+  teiginys: 'Konstantinas, išpažindamas rusų tikėjimą, prisidėjo prie graikų schizmos ir išsižadėjo paklusnumo Romos popiežiui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mat rusų vyskupams tais metais atvirai prisidėjus prie graikų schizmos, Konstantinas, išpažin damas rusų tikėjimą, perėjo į jų pusę ir išsižadėjo pa klusnumo Romos popiežiui.'
+  santrauka: 'Konstantinas, išpažindamas rusų tikėjimą, prisidėjo prie graikų schizmos ir išsižadėjo paklusnumo Romos popiežiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat rusų vyskupams tais metais atvirai
@@ -48,3 +49,12 @@ Kojelavičius teigia, kad mat rusų vyskupams tais metais atvirai prisidėjus pr
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Antspaudai]]
+- [[objektai/grupes/Graikai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/senatas]]

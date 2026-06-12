@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-21436"></a>
 - t-001
+  global_id: t-21436
   teiginys: '2004 m. pabaigoje Lietuvai pasiūlyta vadovauti Afganistano Goro provincijos atkūrimo grupei.'
   pagrindžia:
     - c-001

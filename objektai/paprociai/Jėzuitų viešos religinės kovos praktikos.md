@@ -39,17 +39,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67104"></a>
 - t-001
+  global_id: t-67104
   teiginys: 'Vilniaus vyskupas Protasevičius kovai su protestantais atsikvietė jėzuitus, kurie Vilniuje įkūrė pirmą aukštesniąją mokyklą Lietuvoje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67105"></a>
 - t-002
+  global_id: t-67105
   teiginys: 'Jėzuitų viešos religinės kovos praktikos: jėzuitai, kurie labai nepalankiomis sąlygomis pradėjo savo darbą Lietuvoje, dabar jau buvo labai sustiprėję. Ypač didelė jų įtaka buvo Vilniuje; čia jie ruošė viešus disputus (ginčus) su protestantų teologais ir visose bažnyčiose turėjo savo pamokslininkų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67106"></a>
 - t-003
+  global_id: t-67106
   teiginys: 'Jėzuitų viešos religinės kovos praktikos: be mokyklų, katalikiškai auklėjančių jaunąją kartą, jėzuitai dar kovojo su protestantais ir kitokiais būdais. Jie ruošdavo tikybinius disputus, kuriuose savo moksliškumu nugalėdavo protestantų teologus. Kai protestantai pradėjo vengti disputų, jie tokiuos.'
   pagrindžia:
     - c-002

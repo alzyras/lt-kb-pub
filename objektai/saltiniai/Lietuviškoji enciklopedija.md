@@ -22,7 +22,9 @@ Dusburgietis teigia, kad lietuviškoji enciklopedija.—T.
 
 ## Teiginiai
 
+<a id="claim-t-61131"></a>
 - t-001
+  global_id: t-61131
   teiginys: 'Aštuntasis „Lietuviškosios enciklopedijos“ tomas išleistas Kaune 1940 m.'
   pagrindžia:
     - c-001

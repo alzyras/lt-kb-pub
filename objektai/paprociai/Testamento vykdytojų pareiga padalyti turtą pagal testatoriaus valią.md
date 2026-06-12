@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87304"></a>
 - t-001
+  global_id: t-87304
   teiginys: 'Testatorius prašė sosto įpėdinio ir abiejų valstybių luomų tarybų netrukdyti padalyti jo turtų pagal pareikštą valią.'
   pagrindžia:
     - c-001

@@ -26,7 +26,9 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 
 ## Teiginiai
 
+<a id="claim-t-87647"></a>
 - t-001
+  global_id: t-87647
   teiginys: 'Apie 1580 m. Vilniuje klestėjo evangelikų reformatų Danieliaus iš Lenčicos spaustuvė.'
   pagrindžia:
     - c-001

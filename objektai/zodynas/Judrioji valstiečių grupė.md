@@ -16,7 +16,9 @@ Vėliau sutinkama gausi valstiečių grupė, vad. «judrioji » (« pochožije �
 
 ## Teiginiai
 
+<a id="claim-t-32751"></a>
 - t-001
+  global_id: t-32751
   teiginys: 'Judrioji valstiečių grupė buvo gausi anksčiau laisvų ūkininkų grupė, turėjusi teisę išsikelti kito pono priklausomybėn.'
   pagrindžia:
     - c-001

@@ -46,12 +46,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87233"></a>
 - t-001
+  global_id: t-87233
   teiginys: '1505 m. karalius metams atleido Vilniaus gyventojus nuo karo tarnybos su sąlyga, kad jie apjuos miestą mūro siena.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87234"></a>
 - t-002
+  global_id: t-87234
   teiginys: 'Vilniaus miestiečiai turėjo dieną ir naktį eiti sargybą prie miesto vartų.'
   pagrindžia:
     - c-001

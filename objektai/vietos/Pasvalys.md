@@ -26,19 +26,24 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
 
 ## Teiginiai
 
+<a id="claim-t-171948"></a>
 - t-001
-  teiginys: 'Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruošė į žygį ir sustojo Pasvaly.'
+  global_id: t-171948
+  teiginys: 'Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185082"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad kai pulkai sustojo S ė k m in g a s ž y g is į Liprie Pasvalio, įsakė Mikalov o n iją j ui Radvilai patraukti į prie kį su lengvųjų raitelių vėlia vomis, įsibrauti į Livoniją ir nusiaubti priešo kraštą.'
+  global_id: t-185082
+  teiginys: 'Pulkams sustojus prie Pasvalio, Mikalojui Radvilai įsakyta su lengvųjų raitelių vėliavomis įsibrauti į Livoniją.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu Zigmantas Augustas, matydamas irstan-
@@ -54,7 +59,7 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
     - t-001
 
 - c-002
-  santrauka: 'Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruošė į žygį ir sustojo Pasvaly.'
+  santrauka: 'Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo metu Rygoje buvo užmuštas
@@ -70,7 +75,7 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad kai pulkai sustojo S ė k m in g a s ž y g is į Liprie Pasvalio, įsakė Mikalov o n iją j ui Radvilai patraukti į prie kį su lengvųjų raitelių vėlia vomis, įsibrauti į Livoniją ir nusiaubti priešo kraštą.'
+  santrauka: 'Pulkams sustojus prie Pasvalio, Mikalojui Radvilai įsakyta su lengvųjų raitelių vėliavomis įsibrauti į Livoniją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Į pagalbą atskubėjo Jurgis bei

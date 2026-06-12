@@ -17,7 +17,9 @@ Pirmasis didelis mūšis įvyko birželio 11 d. prie Miro.
 
 ## Teiginiai
 
+<a id="claim-t-41934"></a>
 - t-001
+  global_id: t-41934
   teiginys: 'Pirmasis didelis mūšis įvyko birželio 11 d. prie Miro.'
   pagrindžia:
     - c-001

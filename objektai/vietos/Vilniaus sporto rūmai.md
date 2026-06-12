@@ -25,7 +25,9 @@ Kadangi Baltijos valstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS d
 
 ## Teiginiai
 
+<a id="claim-t-26335"></a>
 - t-001
+  global_id: t-26335
   teiginys: 'Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas vyko Vilniaus sporto rūmuose 1988 m. spalio 22–23 d.'
   pagrindžia:
     - c-001

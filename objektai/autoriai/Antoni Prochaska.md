@@ -19,7 +19,9 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
 
 ## Teiginiai
 
+<a id="claim-t-35431"></a>
 - t-001
+  global_id: t-35431
   teiginys: 'Antoni Prochaska dokumentą, kurį Danilavičius ir Koneczny laikė falsifikatu, pripažino autentišku.'
   pagrindžia:
     - c-001

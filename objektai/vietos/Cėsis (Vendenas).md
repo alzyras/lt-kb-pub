@@ -18,7 +18,9 @@ Cėsis (Vendenas): jungą su D. Naugardu, 1262 m. nužygiavo į Livonijos ordino
 
 ## Teiginiai
 
+<a id="claim-t-67766"></a>
 - t-001
+  global_id: t-67766
   teiginys: 'Cėsis (Vendenas): jungą su D. Naugardu, 1262 m. nužygiavo į Livonijos ordino žemę net iki Cėsio (Vendeno).'
   pagrindžia:
     - c-001

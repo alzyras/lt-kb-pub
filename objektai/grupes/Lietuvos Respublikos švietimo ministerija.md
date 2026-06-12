@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19844"></a>
 - t-001
+  global_id: t-19844
   teiginys: 'Lietuvos Respublikos švietimo ministerijos iniciatyva grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją.'
   pagrindžia:
     - c-001

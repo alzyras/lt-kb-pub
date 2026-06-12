@@ -27,22 +27,30 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-19170"></a>
 - t-001
+  global_id: t-19170
   teiginys: 'Netimeras buvo Lietuvos „karalius“, kuris, Brunonui Bonifacijui atvykus į Lietuvą, įtikėjo ir krikštijosi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-19171"></a>
 - t-002
+  global_id: t-19171
   teiginys: 'Brunonas Bonifacijus apkrikštijo lietuvių vadą Netimerą, o vėliau žuvo nuo Netimero brolio rankos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-19172"></a>
 - t-003
+  global_id: t-19172
   teiginys: 'Lietuvos „karaliaus“ Netimero krikštas datuojamas 1009 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183561"></a>
 - t-004
+  global_id: t-183561
   teiginys: 'Čia apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio brolio rankos.'
   pagrindžia:
     - c-003

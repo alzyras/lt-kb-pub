@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lietuvos senato atsakomasis laiškas Jakovui Zachariničiui dėl pasiuntinybės ir taikos
 
 ## Santrauka
 
-Kojelavičius teigia, kad maskvėnai dėl to pasijuto smarkiai užgauti, ir Jakovas Zachariničius Ivano var du pareiškė skundą, į kurį laišku atsakė lietuvių se natas.
+Jakovui Zachariničiui Ivano vardu pareiškus skundą, Lietuvos senatas atsakė laišku dėl pasiuntinių vykimo į Maskvą ir taikos.
 
 ## Teiginiai
 
+<a id="claim-t-186337"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad maskvėnai dėl to pasijuto smarkiai užgauti, ir Jakovas Zachariničius Ivano var du pareiškė skundą, į kurį laišku atsakė lietuvių se natas.'
+  global_id: t-186337
+  teiginys: 'Jakovui Zachariničiui Ivano vardu pareiškus skundą, Lietuvos senatas atsakė laišku dėl pasiuntinių vykimo į Maskvą ir taikos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad maskvėnai dėl to pasijuto smarkiai užgauti, ir Jakovas Zachariničius Ivano var du pareiškė skundą, į kurį laišku atsakė lietuvių se natas.'
+  santrauka: 'Jakovui Zachariničiui Ivano vardu pareiškus skundą, Lietuvos senatas atsakė laišku dėl pasiuntinių vykimo į Maskvą ir taikos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Maskvėnai dėl to pasijuto

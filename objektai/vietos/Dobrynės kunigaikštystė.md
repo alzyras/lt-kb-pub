@@ -18,12 +18,16 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
 
 ## Teiginiai
 
+<a id="claim-t-86142"></a>
 - t-001
+  global_id: t-86142
   teiginys: 'Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86143"></a>
 - t-002
+  global_id: t-86143
   teiginys: 'Užimtame Dobrynės mieste žuvo apie du tūkstančius gyventojų, o kunigaikštystėje buvo plėšiami ir deginami kaimai bei bažnyčios.'
   pagrindžia:
     - c-001

@@ -22,7 +22,9 @@ Dusburgietis teigia, kad nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod re
 
 ## Teiginiai
 
+<a id="claim-t-61195"></a>
 - t-001
+  global_id: t-61195
   teiginys: 'Rinkinys „Nazwy miast Pomorza Gdańskiego“ išleistas 1978 m., jį redagavo H. Górnowiczas ir Z. Brockis.'
   pagrindžia:
     - c-001

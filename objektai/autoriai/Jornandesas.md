@@ -19,7 +19,9 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
 
 ## Teiginiai
 
+<a id="claim-t-88069"></a>
 - t-001
+  global_id: t-88069
   teiginys: 'Jornandesas Vyslos žiotyse gyvenusiai tautai suteikė vidivarijų vardą.'
   pagrindžia:
     - c-001

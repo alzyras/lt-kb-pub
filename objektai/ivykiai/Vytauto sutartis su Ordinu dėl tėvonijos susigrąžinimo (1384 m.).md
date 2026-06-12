@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86970"></a>
 - t-001
+  global_id: t-86970
   teiginys: '1384 m. Ordinas sutartimi prisiekė atgauti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių savo paveldėjimo teises būtų perleidęs kryžiuočiams.'
   pagrindžia:
     - c-001

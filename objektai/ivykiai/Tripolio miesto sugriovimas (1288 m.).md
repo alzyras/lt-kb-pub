@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62514"></a>
 - t-001
+  global_id: t-62514
   teiginys: 'Dusburgietis teigia, kad apie Mikalojų IV, popiežių, bei karalių Rudolfą ir apie Tripolio miesto sugriovimą 1288 viešpaties metais valdė Mikalojus IV, popiežius, priklausęs mažesniųjų brolių ordinui, ir Rudolfas, Romos karalius.'
   pagrindžia:
     - c-001

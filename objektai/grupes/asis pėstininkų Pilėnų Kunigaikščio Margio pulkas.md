@@ -18,12 +18,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-80639"></a>
 - t-001
+  global_id: t-80639
   teiginys: '6-ojo pėstininkų pulko kariai ir vadas Vidugirių kaime susitiko to paties pulko I batalioną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-80640"></a>
 - t-002
+  global_id: t-80640
   teiginys: 'Batalionas, [...], ankstyvą popietį pasiekė Aukštadvario miestelį ir išsirikiavo prieš 6 pėstininkų Pilėnų Kunigaikščio Margio pulko štabą.'
   pagrindžia:
     - c-002

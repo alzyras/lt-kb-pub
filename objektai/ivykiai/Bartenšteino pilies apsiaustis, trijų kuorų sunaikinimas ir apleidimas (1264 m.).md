@@ -42,22 +42,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66478"></a>
 - t-001
+  global_id: t-66478
   teiginys: 'Dusburgietis teigia, kad apie Bartenšteino pilies apleidimą Prūsams atstačius kuorus, ketvirtaisiais [apsupimo] metais, taigi 1264 viešpaties metais, broliai, trūkdami maisto ir negalėdami ilgiau prūsams priešintis, tris kartus vis dėlto juos apgavo štai kokiu būdu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66479"></a>
 - t-002
+  global_id: t-66479
   teiginys: 'Dusburgietis teigia, kad apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66480"></a>
 - t-003
+  global_id: t-66480
   teiginys: 'Dusburgietis teigia, kad apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo, kurį šiems reikėjo perkelti iš vieno kuoro į kitą ir kuriame prūsai buvo pratę virti savo šventenybes.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66481"></a>
 - t-004
+  global_id: t-66481
   teiginys: 'Bartenšteino pilį palikę broliai pasitraukė į Karaliaučių ir Elbingą, o priešai vėliau įsibrovė į pilį ir ją panaudojo puldinėjimams.'
   pagrindžia:
     - c-004

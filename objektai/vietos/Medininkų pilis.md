@@ -52,27 +52,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-109758"></a>
 - t-001
+  global_id: t-109758
   teiginys: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-109759"></a>
 - t-002
+  global_id: t-109759
   teiginys: 'Vytauto laikais Medininkų pilis buvo dar mūrais sustiprinta.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-109760"></a>
 - t-003
+  global_id: t-109760
   teiginys: 'Medininkų pilį sudarė keli mediniai pastatai, apjuosti aukšta siena ir grioviu.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-109761"></a>
 - t-004
+  global_id: t-109761
   teiginys: 'Šventasis Kazimieras dažnai viešėdavo Medininkų pilyje, stovėjusioje prie Ašmenos kelio per keturias mylias nuo Vilniaus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-109762"></a>
 - t-005
+  global_id: t-109762
   teiginys: 'Šventasis Kazimieras dažnai viešėdavęs Medininkų pilyje, buvusioje per keturias mylias nuo Vilniaus prie Ašmenos kelio.'
   pagrindžia:
     - c-003

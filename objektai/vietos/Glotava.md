@@ -25,12 +25,16 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
 
 ## Teiginiai
 
+<a id="claim-t-58556"></a>
 - t-001
+  global_id: t-58556
   teiginys: 'Dusburgietis teigia, kad manoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H., Studia..., 2, p. 16, 25; MGP, p. 54).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58557"></a>
 - t-002
+  global_id: t-58557
   teiginys: 'Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai įsibrovė į Varmės vyskupystės Glotavos valsčių553, sudegino vieną kaimą, kur išžudė ar pagrobė viską, ką ten rado gyvą.'
   pagrindžia:
     - c-002

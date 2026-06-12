@@ -28,87 +28,121 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
 
 ## Teiginiai
 
+<a id="claim-t-169681"></a>
 - t-001
+  global_id: t-169681
   teiginys: '1840 m. panaikintas Lietuvos Statutas, o teismų sistema surusinta.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169682"></a>
 - t-002
+  global_id: t-169682
   teiginys: 'Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169683"></a>
 - t-003
+  global_id: t-169683
   teiginys: 'Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-169684"></a>
 - t-004
+  global_id: t-169684
   teiginys: 'Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė tokius žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“ Ypač Vytauto kultas pradėtas puoselėti XVI a., kai Lietuvos visuomenė suskato.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-169685"></a>
 - t-005
+  global_id: t-169685
   teiginys: 'Valstybė – Lietuvos Didžioji Kunigaikštija – buvo sukurta XIII a.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-169686"></a>
 - t-006
+  global_id: t-169686
   teiginys: 'Šio visuomenės raidos etapo rašto poreikius Vakarų Europoje tenkino vienuolijos, tačiau Lietuvoje jų trūko, o rašto poreikis sparčiai didėjo.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-169687"></a>
 - t-007
+  global_id: t-169687
   teiginys: 'Valdant Gediminui ir Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga Vidurio ir Rytų Europos jėga.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-169689"></a>
 - t-008
+  global_id: t-169689
   teiginys: 'Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169690"></a>
 - t-009
+  global_id: t-169690
   teiginys: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-169691"></a>
 - t-010
+  global_id: t-169691
   teiginys: 'Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-169692"></a>
 - t-011
+  global_id: t-169692
   teiginys: 'Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-169693"></a>
 - t-012
+  global_id: t-169693
   teiginys: 'Šia kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-169694"></a>
 - t-013
+  global_id: t-169694
   teiginys: 'Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169695"></a>
 - t-014
+  global_id: t-169695
   teiginys: 'Nepaisant kultūrinių praradimų (nesuspėta suformuoti lietuviakalbio raštijos modelio), XVI a.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-169696"></a>
 - t-015
+  global_id: t-169696
   teiginys: 'Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-169697"></a>
 - t-016
+  global_id: t-169697
   teiginys: 'Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietuvon, lietuvių kariuomenė talkino lenkams, o lenkų –.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-169698"></a>
 - t-017
+  global_id: t-169698
   teiginys: 'Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Kunigaikštija.'
   pagrindžia:
     - c-014

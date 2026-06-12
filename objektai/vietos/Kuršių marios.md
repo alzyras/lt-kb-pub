@@ -28,27 +28,37 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
 
 ## Teiginiai
 
+<a id="claim-t-68371"></a>
 - t-001
+  global_id: t-68371
   teiginys: 'Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-68372"></a>
 - t-002
+  global_id: t-68372
   teiginys: 'Dusburgietis teigia, kad kai vėliau traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-68374"></a>
 - t-003
+  global_id: t-68374
   teiginys: '1252 m. Livonijos ordinas pradėjo statyti pilį ten, kur Kuršių marios jungiasi su Baltija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-68375"></a>
 - t-004
+  global_id: t-68375
   teiginys: 'Dusburgietis teigia, kad traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama, vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos globojo, kai traukė per ploną Kuršių marių ledą (III, 285).'
   pagrindžia:
     - c-004
 
+<a id="claim-t-68376"></a>
 - t-005
+  global_id: t-68376
   teiginys: 'Dusburgietis teigia, kad ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa.'
   pagrindžia:
     - c-003

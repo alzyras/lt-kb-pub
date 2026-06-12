@@ -22,7 +22,9 @@ Apie laidoseną Laivių kapinyne rašė ir E.
 
 ## Teiginiai
 
+<a id="claim-t-32298"></a>
 - t-001
+  global_id: t-32298
   teiginys: 'E. Butėnienė rašė apie laidoseną Laivių kapinyne.'
   pagrindžia:
     - c-001

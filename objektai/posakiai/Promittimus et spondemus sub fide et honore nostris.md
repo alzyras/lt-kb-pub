@@ -25,7 +25,9 @@ Warschaviensis et Wilnensis, promittimus et spondemus sub fide et honore nostris
 
 ## Teiginiai
 
+<a id="claim-t-86870"></a>
 - t-001
+  global_id: t-86870
   teiginys: 'Formule „promittimus et spondemus sub fide et honore nostris“ Vilnius su kitais miestais įsipareigojo rūpintis amžinosios taikos laikymusi.'
   pagrindžia:
     - c-001

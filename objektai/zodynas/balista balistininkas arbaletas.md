@@ -19,12 +19,16 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
 
 ## Teiginiai
 
+<a id="claim-t-58846"></a>
 - t-001
+  global_id: t-58846
   teiginys: 'Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas, ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus] piliai padegti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58847"></a>
 - t-002
+  global_id: t-58847
   teiginys: 'Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis lankas, kurio templė įtempiama suktuvu.'
   pagrindžia:
     - c-001

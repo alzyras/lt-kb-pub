@@ -31,7 +31,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87483"></a>
 - t-001
+  global_id: t-87483
   teiginys: 'Andrius Kopernikas 1514 m. buvo Varmės kanauninkas, kuriam rašė Lenkijos karalius Žygimantas.'
   pagrindžia:
     - c-001

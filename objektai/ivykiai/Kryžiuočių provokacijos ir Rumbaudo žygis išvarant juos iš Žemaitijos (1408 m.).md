@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad užgrobę visus grūdus, J ie su daro k elia s progabenamus Vysla, kryžiuočiai gas karu i juos išsivežė kitur. Kojelavičius teigia, kad kadangi karalius nesi ėmė jokių skubių priemonių atsiteisti už šiuos darbus, nenorėdamas elgtis neapgalvotai, kryžiuočiai, tarytum negalėdami pakęsti beveik ištisus metus trunkančios ramybės ir to, kad dėl karaliaus nuolaidumo nuolatos atidėliojamas karas. Kojelavičius teigia, kad vytautas, gavęs apie tai žinią, nutarė užbėgti priešui už akių gal dėl to, kad iš prigimties buvo smarkesnio būdo, o gal todėl, kad, žinodamas tikrą padėtį, nieku būdu ne sitikėjo iš kryžiuočių taikos.
+Kryžiuočiai užgrobė Vysla gabentus grūdus, kuriuos Jogaila buvo skyręs nuniokotai Lietuvai paremti. Kryžiuočiai Ragainėje užpuolė pagal sutartį gyvenusius lietuvių pirklius, vienus nužudė, o iš kitų atėmė turtą. Vytautas įsakė maršalui Rumbaudui skubiai sutelkti kariuomenę ir išvyti kryžiuočius iš visos Žemaitijos.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,25 +32,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185595"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad užgrobę visus grūdus, J ie su daro k elia s progabenamus Vysla, kryžiuočiai gas karu i juos išsivežė kitur.'
+  global_id: t-185595
+  teiginys: 'Kryžiuočiai užgrobė Vysla gabentus grūdus, kuriuos Jogaila buvo skyręs nuniokotai Lietuvai paremti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185596"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kadangi karalius nesi ėmė jokių skubių priemonių atsiteisti už šiuos darbus, nenorėdamas elgtis neapgalvotai, kryžiuočiai, tarytum negalėdami pakęsti beveik ištisus metus trunkančios ramybės ir to, kad dėl karaliaus nuolaidumo nuolatos atidėliojamas karas.'
+  global_id: t-185596
+  teiginys: 'Kryžiuočiai Ragainėje užpuolė pagal sutartį gyvenusius lietuvių pirklius, vienus nužudė, o iš kitų atėmė turtą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185597"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad vytautas, gavęs apie tai žinią, nutarė užbėgti priešui už akių gal dėl to, kad iš prigimties buvo smarkesnio būdo, o gal todėl, kad, žinodamas tikrą padėtį, nieku būdu ne sitikėjo iš kryžiuočių taikos.'
+  global_id: t-185597
+  teiginys: 'Vytautas įsakė maršalui Rumbaudui skubiai sutelkti kariuomenę ir išvyti kryžiuočius iš visos Žemaitijos.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad užgrobę visus grūdus, J ie su daro k elia s progabenamus Vysla, kryžiuočiai gas karu i juos išsivežė kitur.'
+  santrauka: 'Kryžiuočiai užgrobė Vysla gabentus grūdus, kuriuos Jogaila buvo skyręs nuniokotai Lietuvai paremti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Norėdamas palengvinti nuniokotos tėvynės dalią,
@@ -75,7 +80,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kadangi karalius nesi ėmė jokių skubių priemonių atsiteisti už šiuos darbus, nenorėdamas elgtis neapgalvotai, kryžiuočiai, tarytum negalėdami pakęsti beveik ištisus metus trunkančios ramybės ir to, kad dėl karaliaus nuolaidumo nuolatos atidėliojamas karas.'
+  santrauka: 'Kryžiuočiai Ragainėje užpuolė pagal sutartį gyvenusius lietuvių pirklius, vienus nužudė, o iš kitų atėmė turtą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat nors jie gerai žinojo, jog lietu­
@@ -103,7 +108,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad vytautas, gavęs apie tai žinią, nutarė užbėgti priešui už akių gal dėl to, kad iš prigimties buvo smarkesnio būdo, o gal todėl, kad, žinodamas tikrą padėtį, nieku būdu ne sitikėjo iš kryžiuočių taikos.'
+  santrauka: 'Vytautas įsakė maršalui Rumbaudui skubiai sutelkti kariuomenę ir išvyti kryžiuočius iš visos Žemaitijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas,
@@ -132,3 +137,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/stabmeldžiai]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Rumbaudas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

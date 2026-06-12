@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19610"></a>
 - t-001
+  global_id: t-19610
   teiginys: 'Sukilimo legenda tapo jauna dvarininkaitė Emilija Pliaterytė (Emilia Plater-Broel), kovojusi su vyriška apranga ir ant žirgo.'
   pagrindžia:
     - c-001

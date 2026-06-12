@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20592"></a>
 - t-001
+  global_id: t-20592
   teiginys: '1923 m. buvo panaikintas žydų ministro be portfelio postas Lietuvos vyriausybėje.'
   pagrindžia:
     - c-001

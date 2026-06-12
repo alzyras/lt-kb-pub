@@ -16,12 +16,16 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
 
 ## Teiginiai
 
+<a id="claim-t-20866"></a>
 - t-001
+  global_id: t-20866
   teiginys: 'Sovietmečiu nepavyko visiškai parklupdyti Lietuvos kultūros ir sugrūsti jos į „Prokrusto komunistinę lovą“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183502"></a>
 - t-002
+  global_id: t-183502
   teiginys: 'Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepaliesta stalinizmo represijų, atėjusi iš naujų visuomenės sluoksnių – visiškai parklupdyti Lietuvos kultūrą, sugrūsti ją į Prokrusto komunistinę lovą sovietmečiu nepavyko.'
   pagrindžia:
     - c-002

@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-42229"></a>
 - t-001
+  global_id: t-42229
   teiginys: '1363 m. pradžioje buvo siaubiama Upytės žemė Nevėžio aukštupyje ir gretimos apylinkės.'
   pagrindžia:
     - c-001

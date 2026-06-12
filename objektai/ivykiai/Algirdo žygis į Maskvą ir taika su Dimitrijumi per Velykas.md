@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas
 
 ## Santrauka
 
-Kojelavičius teigia, kad šitaip, kadangi ir Maskvos valdovas nepaprastai bi jojo visokių netikėtumų, ir lietuvis norėjo laiku iš vengti visokių atsitiktinumų, jie be didelio vargo su tarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi mas žymiausiųjų palydovų ir T a ik o s ta ip m a.
+Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185550"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad šitaip, kadangi ir Maskvos valdovas nepaprastai bi jojo visokių netikėtumų, ir lietuvis norėjo laiku iš vengti visokių atsitiktinumų, jie be didelio vargo su tarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi mas žymiausiųjų palydovų ir T a ik o s ta ip m a.'
+  global_id: t-185550
+  teiginys: 'Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad šitaip, kadangi ir Maskvos valdovas nepaprastai bi jojo visokių netikėtumų, ir lietuvis norėjo laiku iš vengti visokių atsitiktinumų, jie be didelio vargo su tarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi mas žymiausiųjų palydovų ir T a ik o s ta ip m a.'
+  santrauka: 'Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip, kadangi ir Maskvos valdovas nepaprastai bi­
@@ -70,3 +71,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Akademijos teatro įranga]]
+- [[objektai/daiktai/Altorius]]
+- [[objektai/asmenys/Dimitrijus]]
+- [[objektai/daiktai/Ietis]]
+- [[objektai/zodynas/viečė]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

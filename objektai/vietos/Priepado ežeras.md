@@ -24,7 +24,9 @@ Jie žinojo apie slaptą išėjimą iš bunkerio, kuris buvo įrengtas prie eže
 
 ## Teiginiai
 
+<a id="claim-t-42049"></a>
 - t-001
+  global_id: t-42049
   teiginys: '1949 m. lapkričio 1 d. Šimonių girioje prie Priepado ežero MGB karių apsuptame bunkeryje po atkaklios kovos žuvo 7 partizanai.'
   pagrindžia:
     - c-001

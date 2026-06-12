@@ -18,7 +18,9 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
 
 ## Teiginiai
 
+<a id="claim-t-87832"></a>
 - t-001
+  global_id: t-87832
   teiginys: 'Pilypas Glazeris su kitais skundėjais reikalavo, kad kaltinamasis pripažintų auksakalių cechą ir paklustų jo taisyklėms.'
   pagrindžia:
     - c-001

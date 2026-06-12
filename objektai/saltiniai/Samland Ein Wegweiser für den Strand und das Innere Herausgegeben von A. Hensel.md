@@ -25,7 +25,9 @@ Dusburgietis teigia, kad samland: Ein Wegweiser für den Strand und das Innere/ 
 
 ## Teiginiai
 
+<a id="claim-t-61282"></a>
 - t-001
+  global_id: t-61282
   teiginys: 'A. Henselio parengtas „Samland: Ein Wegweiser für den Strand und das Innere“ buvo išleistas Karaliaučiuje 1911 m.'
   pagrindžia:
     - c-001

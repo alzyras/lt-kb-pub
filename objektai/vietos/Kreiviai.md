@@ -23,7 +23,9 @@ Dusburgietis teigia, kad akmenos krante, Kreivių kaime (Jucaičių apyl.
 
 ## Teiginiai
 
+<a id="claim-t-58699"></a>
 - t-001
+  global_id: t-58699
   teiginys: 'Kreivių kaime, kairiajame Akmenos krante, yra Pilės kalva su ovalia aikštele ir terasomis papėdėje.'
   pagrindžia:
     - c-001

@@ -25,22 +25,30 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
 
 ## Teiginiai
 
+<a id="claim-t-75451"></a>
 - t-001
+  global_id: t-75451
   teiginys: 'Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75452"></a>
 - t-002
+  global_id: t-75452
   teiginys: 'Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75453"></a>
 - t-003
+  global_id: t-75453
   teiginys: '1975 m. Helsinkio Baigiamuoju aktu jo dalyvės įsipareigojo gerbti žmogaus teises.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75454"></a>
 - t-004
+  global_id: t-75454
   teiginys: 'Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kanados ir 33 Europos valstybių (tarp jų ir Sovietų Sąjungos) pasirašytas Baigiamasis aktas – jį pasirašiusios valstybės įsipareigojo gerbti žmogaus teises savo viduje.'
   pagrindžia:
     - c-001

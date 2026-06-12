@@ -16,12 +16,16 @@ Kas galėjo įspėti, kad Sofijos anūkas Jonas III Vytauto imperijos palikuonia
 
 ## Teiginiai
 
+<a id="claim-t-79159"></a>
 - t-001
+  global_id: t-79159
   teiginys: 'Sofijos Vytautaitės lankymasis su vaikais pas Vytautą Smolenske garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79160"></a>
 - t-002
+  global_id: t-79160
   teiginys: 'Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigaikštienės su vaikais lankymasis Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.'
   pagrindžia:
     - c-001

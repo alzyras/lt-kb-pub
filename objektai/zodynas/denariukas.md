@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-34255"></a>
 - t-001
+  global_id: t-34255
   teiginys: 'Šalia jų kursavo ir lietuviški denariukai, atsiradę 1387-1390 m. Jų vienoje pusėje yra ieties galas, o antroj vad. Gedimino stulpai; arba vienoje pusėje su smaigaliu, nulenktu žemyn ir greta ieties viršuje iš kairės pusės kryžius, o antroje tie patys stulpai.'
   pagrindžia:
     - c-001

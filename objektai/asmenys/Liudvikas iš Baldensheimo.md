@@ -24,7 +24,9 @@ Dusburgietis teigia, kad apie brolį Liudviką, septintą Prūsijos žemės magi
 
 ## Teiginiai
 
+<a id="claim-t-60378"></a>
 - t-001
+  global_id: t-60378
   teiginys: 'Dusburgietis teigia, kad apie brolį Liudviką, septintą Prūsijos žemės magistrą Brolis Liudvikas iš Baldensheimo, septintas Prūsijos magistras, vadovavo nuo 1265 viešpaties metų šešerius metus396.'
   pagrindžia:
     - c-001

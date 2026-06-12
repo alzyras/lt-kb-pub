@@ -19,7 +19,9 @@ bojarinų Grigorijaus Fiodorovičiaus Davidovo, Ivano Andrejevičiaus Čeliadnin
 
 ## Teiginiai
 
+<a id="claim-t-40143"></a>
 - t-001
+  global_id: t-40143
   teiginys: 'Ivanas Andrejevičius Čeliadninas buvo vienas iš vaivadų, vadovavusių Maskvos valdovo Vasilijaus III pasiųstoms pajėgoms.'
   pagrindžia:
     - c-001

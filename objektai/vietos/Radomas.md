@@ -28,18 +28,24 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
 
 ## Teiginiai
 
+<a id="claim-t-69126"></a>
 - t-001
+  global_id: t-69126
   teiginys: 'Lenkų bajorai Vilniaus ir Radomo susitarimo dokumentą surašė Radome.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-69127"></a>
 - t-002
+  global_id: t-69127
   teiginys: 'Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185117"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad šich Achmeto nusiskundimus turėjusį svarstyti seimą karalius nukėlė į Radomą: kadangi svars tyti reikėjo ir lenkams, ir lietuviams vienodai rūpimą reikalą, karalius pareikalavo šaukti bendrą abiejų tau tų seimą.'
+  global_id: t-185117
+  teiginys: 'Karalius Šich Achmeto skundus turėjusį svarstyti bendrą lenkų ir lietuvių seimą nukėlė į Radomą.'
   pagrindžia:
     - c-004
 
@@ -91,7 +97,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad šich Achmeto nusiskundimus turėjusį svarstyti seimą karalius nukėlė į Radomą: kadangi svars tyti reikėjo ir lenkams, ir lietuviams vienodai rūpimą reikalą, karalius pareikalavo šaukti bendrą abiejų tau tų seimą.'
+  santrauka: 'Karalius Šich Achmeto skundus turėjusį svarstyti bendrą lenkų ir lietuvių seimą nukėlė į Radomą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vienas kitam pareiškę

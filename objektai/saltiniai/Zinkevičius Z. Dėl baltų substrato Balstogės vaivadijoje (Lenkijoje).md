@@ -22,7 +22,9 @@ Dusburgietis teigia, kad zinkevičius Z.
 
 ## Teiginiai
 
+<a id="claim-t-61385"></a>
 - t-001
+  global_id: t-61385
   teiginys: 'Z. Zinkevičiaus straipsnis „Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje)“ publikuotas 1975 m. „Baltistica“ 11 tomo 2 sąsiuvinyje.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-21612"></a>
 - t-001
+  global_id: t-21612
   teiginys: 'J. Žemaitis-Vytautas po pusantrų metų tardymų buvo sušaudytas Maskvos Butyrkų kalėjime.'
   pagrindžia:
     - c-001

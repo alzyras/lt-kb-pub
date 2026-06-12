@@ -16,7 +16,9 @@ Adalberto (Vaitiekaus) biografas Canaparius, kuris kalbėjo apie « Pruzzorum fi
 
 ## Teiginiai
 
+<a id="claim-t-30580"></a>
 - t-001
+  global_id: t-30580
   teiginys: 'Canaparius, šv. Adalberto biografas, 999 m. pirmasis paminėjo tikrąjį prūsų vardą, kalbėdamas apie „Pruzzorum fines“.'
   pagrindžia:
     - c-001

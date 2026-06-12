@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59715"></a>
 - t-001
+  global_id: t-59715
   teiginys: 'Broliai paženklino save šventojo kryžiaus ženklu ir prasiveržė pro didelę lietuvių kariuomenę.'
   pagrindžia:
     - c-001

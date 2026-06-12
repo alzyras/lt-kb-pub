@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86256"></a>
 - t-001
+  global_id: t-86256
   teiginys: 'Sprendimu miesto sienoje nurodyta palikti penkerius Vilniaus miesto vartus, tarp jų vartus prie kelio į Trakus ir prie Pilies.'
   pagrindžia:
     - c-001

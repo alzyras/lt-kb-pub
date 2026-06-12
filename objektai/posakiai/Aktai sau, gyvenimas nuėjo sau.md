@@ -26,18 +26,24 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
 
 ## Teiginiai
 
+<a id="claim-t-67254"></a>
 - t-001
+  global_id: t-67254
   teiginys: 'Unijos dokumentas liko juridiniu aktu, o politinis gyvenimas savo raida nuėjo kitu keliu.'
   pagrindžia:
     - c-003
     - c-001
 
+<a id="claim-t-67255"></a>
 - t-002
+  global_id: t-67255
   teiginys: 'Pastarosios unijos dokumentas liko dokumentu, o gyvenimas savo logikos raida nuėjo kitu keliu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184251"></a>
 - t-003
+  global_id: t-184251
   teiginys: 'Aktai sau, gyvenimas nuėjo sau.'
   pagrindžia:
     - c-003

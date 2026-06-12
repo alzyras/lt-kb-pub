@@ -16,7 +16,9 @@ Dusburgietis teigia, kad klausiamas, dėl ko esąs ant jų taip įtūžęs, atsa
 
 ## Teiginiai
 
+<a id="claim-t-59126"></a>
 - t-001
+  global_id: t-59126
   teiginys: 'Dusburgietis teigia, kad klausiamas, dėl ko esąs ant jų taip įtūžęs, atsakydavo: „Man būtų visai nesvarbu, ką su jais darau, jeigu nerūpėtų, kad būčiau jų sužeistas penkiomis žaizdomis, kaip už mane buvo sužeistas Kristus“.'
   pagrindžia:
     - c-001

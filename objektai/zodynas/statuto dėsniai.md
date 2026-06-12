@@ -25,17 +25,23 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
 
 ## Teiginiai
 
+<a id="claim-t-70335"></a>
 - t-001
-  teiginys: 'O valstybinių urėdų jie niekuomet negalėjo gauti Lietuvoje, nes unijos akte reikalaujamieji pakeisti statuto nuostatai niekad nebuvo pakeisti.'
+  global_id: t-70335
+  teiginys: 'Unijos akte reikalauti pakeisti statuto nuostatai Lietuvoje nebuvo pakeisti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70336"></a>
 - t-002
+  global_id: t-70336
   teiginys: 'Statuto dėsniai draudė lenkams įsigyti dvarų Lietuvoje, o vienas unijos nuostatas reikalavo šį draudimą panaikinti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182978"></a>
 - t-003
+  global_id: t-182978
   teiginys: 'Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalaująs panaikinti visus Lietuvos įstatymus (statuto dėsnius), draudžiančius lenkams įsigyti Lietuvoje dvarų.'
   pagrindžia:
     - c-003
@@ -62,6 +68,7 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
     - t-002
 
 - c-002
+  santrauka: 'Unijos akte reikalauti pakeisti statuto nuostatai Lietuvoje nebuvo pakeisti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vėliau jiems buvo leista įsigyti dvarų tik ve-

@@ -23,7 +23,9 @@ Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įt
 
 ## Teiginiai
 
+<a id="claim-t-86315"></a>
 - t-001
+  global_id: t-86315
   teiginys: 'Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų.'
   pagrindžia:
     - c-001

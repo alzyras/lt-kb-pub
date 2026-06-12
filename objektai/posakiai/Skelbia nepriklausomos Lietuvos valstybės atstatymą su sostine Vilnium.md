@@ -23,7 +23,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-67284"></a>
 - t-001
+  global_id: t-67284
   teiginys: '1917 m. gruodžio 11 d. Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą su sostine Vilniumi.'
   pagrindžia:
     - c-001

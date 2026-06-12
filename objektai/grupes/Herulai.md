@@ -12,7 +12,6 @@ tags:
   - miestas
   - tauta
 ---
-
 # Herulai
 
 ## Santrauka
@@ -21,23 +20,31 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 
 ## Teiginiai
 
+<a id="claim-t-86794"></a>
 - t-001
+  global_id: t-86794
   teiginys: 'Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184475"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad mat Teodorikas, Otokarą dėl akių meiliai į puotą pasikvietęs, pa siuntė žudikus ir menėje atėmė gyvybę bei sostą; po to, pasistengęs į savo pusę patraukti herulų kariuome nę, lengvai juos perkalbėjo.'
+  global_id: t-184475
+  teiginys: 'Po Otokaro nužudymo Teodorikas patraukė į savo pusę herulų kariuomenę ir lengvai ją perkalbėjo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184476"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad atgavęs Italiją, jis, mi rus Justinianui, buvo kviečiamas atgal į Bizantiją, o herulai, vedami Alueto ir Filimunto, iš ten pasitrau kė ir per Liguriją nukako į Trakiją, ketindami kaip ir anksčiau tarnauti imperatoriaus kariuomenėje, tuo tar pu likusieji.'
+  global_id: t-184476
+  teiginys: 'Herulai, vedami Alueto ir Filimunto, pasitraukė per Liguriją į Trakiją, ketindami tarnauti imperatoriaus kariuomenėje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184477"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad galimas daiktas, alanai, arba herulai (kurie, istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie pasitraukė iš tėvynės ir pasuko į tas žemes, kurios buvo tinkamiausios įsikurti ir neniokojamos karų.'
+  global_id: t-184477
+  teiginys: 'Kojelavičius spėjo, kad alanai arba herulai, ilgėdamiesi taikos, galėjo pirmieji pasitraukti iš tėvynės į karo neniokotas žemes.'
   pagrindžia:
     - c-004
 
@@ -72,7 +79,7 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad mat Teodorikas, Otokarą dėl akių meiliai į puotą pasikvietęs, pa siuntė žudikus ir menėje atėmė gyvybę bei sostą; po to, pasistengęs į savo pusę patraukti herulų kariuome nę, lengvai juos perkalbėjo.'
+  santrauka: 'Po Otokaro nužudymo Teodorikas patraukė į savo pusę herulų kariuomenę ir lengvai ją perkalbėjo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat Teodori-
@@ -98,7 +105,7 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad atgavęs Italiją, jis, mi rus Justinianui, buvo kviečiamas atgal į Bizantiją, o herulai, vedami Alueto ir Filimunto, iš ten pasitrau kė ir per Liguriją nukako į Trakiją, ketindami kaip ir anksčiau tarnauti imperatoriaus kariuomenėje, tuo tar pu likusieji.'
+  santrauka: 'Herulai, vedami Alueto ir Filimunto, pasitraukė per Liguriją į Trakiją, ketindami tarnauti imperatoriaus kariuomenėje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kita jų dalis,
@@ -121,7 +128,7 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad galimas daiktas, alanai, arba herulai (kurie, istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie pasitraukė iš tėvynės ir pasuko į tas žemes, kurios buvo tinkamiausios įsikurti ir neniokojamos karų.'
+  santrauka: 'Kojelavičius spėjo, kad alanai arba herulai, ilgėdamiesi taikos, galėjo pirmieji pasitraukti iš tėvynės į karo neniokotas žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gal, palikę Italiją, šia kryptimi pasuko tie, kurie no­
@@ -142,3 +149,28 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Germanai]]
+- [[objektai/grupes/Gotai]]
+- [[objektai/asmenys/Justinianas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/Vidivarijai]]
+- [[objektai/asmenys/Belizarijus]]
+- [[objektai/grupes/Gepidai]]
+- [[objektai/grupes/Italų ateiviai]]
+- [[objektai/asmenys/Julijonas Dausprungas]]
+- [[objektai/grupes/Langobardai]]
+- [[objektai/ivykiai/Langobardų įsiveržimas į Italiją (559 m.)]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/asmenys/Odoakras]]
+- [[objektai/asmenys/Orestas]]
+- [[objektai/ivykiai/Otokaro ir Teodoriko sandora bei Otokaro nužudymas Ravenoje (493 m.)]]
+- [[objektai/autoriai/Prokopijus]]
+- [[objektai/grupes/Skyrai]]
+- [[objektai/ivykiai/Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.)]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/alanai]]
+- [[objektai/zodynas/už įstatymo ribų]]

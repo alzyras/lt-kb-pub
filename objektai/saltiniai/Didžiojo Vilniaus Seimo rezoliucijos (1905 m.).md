@@ -24,7 +24,9 @@ Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju 3 skyriu
 
 ## Teiginiai
 
+<a id="claim-t-21038"></a>
 - t-001
+  global_id: t-21038
   teiginys: 'Į Didįjį Vilniaus Seimą susirinko apie 2 000 delegatų iš beveik visos etnografinės Lietuvos.'
   pagrindžia:
     - c-001

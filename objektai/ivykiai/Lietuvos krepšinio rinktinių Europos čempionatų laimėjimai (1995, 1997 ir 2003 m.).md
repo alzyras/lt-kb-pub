@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20317"></a>
 - t-001
+  global_id: t-20317
   teiginys: 'Lietuvos krepšininkai trečią kartą tapo Europos čempionais, o moterų krepšinio rinktinė 1997 m. laimėjo Europos čempionatą.'
   pagrindžia:
     - c-001

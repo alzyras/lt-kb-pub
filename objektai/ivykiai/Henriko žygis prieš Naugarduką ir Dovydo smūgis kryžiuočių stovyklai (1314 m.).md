@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad jeigu lietuviai, parodę tokį narsu mą, būtų turėję ten daugiau 1314 m e ta i karių ir jėgų, tikrai būtų kry žiuočiai netekę visos stovyk los, mat penki kariai, nakties tamsoje prasigavę pro sargybas, prisėlino beveik ligi pačių vadų ir, keletą priešų nužudę. Kojelavičius teigia, kad dėl to kryžiuočiai skaudžiai kentė maisto stoką, nes kaimuose, neseniai nusiaubtuose, jie nieko negalėjo rasti alkiui numalšinti.
+Penki lietuvių kariai naktį prasigavo pro kryžiuočių sargybas, nužudė kelis priešus, paėmė grobio ir sveiki grįžo pas savuosius. Kryžiuočiai per žygį kentė maisto stoką, nes neseniai nusiaubtuose kaimuose nerado kuo numalšinti alkio.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185520"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad jeigu lietuviai, parodę tokį narsu mą, būtų turėję ten daugiau 1314 m e ta i karių ir jėgų, tikrai būtų kry žiuočiai netekę visos stovyk los, mat penki kariai, nakties tamsoje prasigavę pro sargybas, prisėlino beveik ligi pačių vadų ir, keletą priešų nužudę.'
+  global_id: t-185520
+  teiginys: 'Penki lietuvių kariai naktį prasigavo pro kryžiuočių sargybas, nužudė kelis priešus, paėmė grobio ir sveiki grįžo pas savuosius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185521"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad dėl to kryžiuočiai skaudžiai kentė maisto stoką, nes kaimuose, neseniai nusiaubtuose, jie nieko negalėjo rasti alkiui numalšinti.'
+  global_id: t-185521
+  teiginys: 'Kryžiuočiai per žygį kentė maisto stoką, nes neseniai nusiaubtuose kaimuose nerado kuo numalšinti alkio.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad jeigu lietuviai, parodę tokį narsu mą, būtų turėję ten daugiau 1314 m e ta i karių ir jėgų, tikrai būtų kry žiuočiai netekę visos stovyk los, mat penki kariai, nakties tamsoje prasigavę pro sargybas, prisėlino beveik ligi pačių vadų ir, keletą priešų nužudę.'
+  santrauka: 'Penki lietuvių kariai naktį prasigavo pro kryžiuočių sargybas, nužudė kelis priešus, paėmė grobio ir sveiki grįžo pas savuosius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Surminas grįžo pas valdovą nugalė­
@@ -78,7 +81,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad dėl to kryžiuočiai skaudžiai kentė maisto stoką, nes kaimuose, neseniai nusiaubtuose, jie nieko negalėjo rasti alkiui numalšinti.'
+  santrauka: 'Kryžiuočiai per žygį kentė maisto stoką, nes neseniai nusiaubtuose kaimuose nerado kuo numalšinti alkio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dėl to kryžiuočiai
@@ -99,3 +102,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Surminas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Henrikas fon Plockė]]

@@ -45,22 +45,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54275"></a>
 - t-001
-  teiginys: 'Lietuviškos mokyklos prie Telšių vyskupijos bažnyčių visiškai nukonkuravo valdiškas mokyklas rusų kalba.'
-  pagrindžia:
-    - c-002
-
-- t-002
+  global_id: t-54275
   teiginys: '1841 m. valdžia davė leidimą steigti mokyklas prie Telšių (Žemaičių) vyskupijos bažnyčių, jose leista mokyti skaityti ir rašyti lietuviškai, tikybos tiesų, nurodyta supažindinti mokinius su rusų abėcėle.'
   pagrindžia:
     - c-001
 
-- t-003
+<a id="claim-t-54276"></a>
+- t-002
+  global_id: t-54276
   teiginys: 'Telšių vyskupijos bažnytinės mokyklos nukonkuravo valdiškas mokyklas, kuriose mokyta rusų kalba.'
   pagrindžia:
     - c-002
 
-- t-005
+<a id="claim-t-183320"></a>
+- t-004
+  global_id: t-183320
   teiginys: 'Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas.'
   pagrindžia:
     - c-002
@@ -82,8 +83,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-    - t-002
+    - t-003
+    - t-001
 
 - c-002
   santrauka: 'Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas.'
@@ -108,8 +109,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
-    - t-003
+    - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

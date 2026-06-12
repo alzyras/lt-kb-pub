@@ -17,7 +17,9 @@ Mažas upeliu­ kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama P
 
 ## Teiginiai
 
+<a id="claim-t-86252"></a>
 - t-001
+  global_id: t-86252
   teiginys: 'Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalnų šlaitus.'
   pagrindžia:
     - c-001

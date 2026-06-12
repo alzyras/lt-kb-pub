@@ -18,12 +18,16 @@ Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyveni
 
 ## Teiginiai
 
+<a id="claim-t-30721"></a>
 - t-001
+  global_id: t-30721
   teiginys: 'K. Avižonis parašė Lietuvių enciklopedijos straipsnį „Vladimiras“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-30723"></a>
 - t-002
+  global_id: t-30723
   teiginys: 'K. Avižonis tyrė poliublininius laikus, parašė veikalą apie bajorus Vazų laikų Lietuvoje ir kelias kritiškas istorijos studijas.'
   pagrindžia:
     - c-001

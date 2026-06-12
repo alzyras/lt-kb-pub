@@ -17,7 +17,9 @@ Sūnėnų tvirtas laidavimo žo­ dis ir gudriai pareikštas noras eiti į deryb
 
 ## Teiginiai
 
+<a id="claim-t-87717"></a>
 - t-001
+  global_id: t-87717
   teiginys: 'Jonas Hanulaitis buvo Lietuvos vėliavininkas ir Žygimanto Kęstutaičio laikais pasižymėjo Pabaisko mūšyje.'
   pagrindžia:
     - c-001

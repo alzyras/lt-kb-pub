@@ -17,7 +17,9 @@ Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl 
 
 ## Teiginiai
 
+<a id="claim-t-21168"></a>
 - t-001
+  global_id: t-21168
   teiginys: 'Sureguliavus santykius su sąjungininkais, Lietuva su Vokietija pasirašė prekybos ir laivininkystės sutartį.'
   pagrindžia:
     - c-001

@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59701"></a>
 - t-001
+  global_id: t-59701
   teiginys: 'Dusburgietis teigia, kad kai jis brovėsi į jo karalystę, to krašto kaimiečiai su pjūklais taip papjovė medžius miškuose, kuriais turėjo vengrai grįždami žygiuoti, kad vienas medis griūdamas parblokštų kitą ir taip toliau.'
   pagrindžia:
     - c-001

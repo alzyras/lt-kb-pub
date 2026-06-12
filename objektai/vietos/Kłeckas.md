@@ -25,7 +25,9 @@ Be to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­ čių funda
 
 ## Teiginiai
 
+<a id="claim-t-86301"></a>
 - t-001
+  global_id: t-86301
   teiginys: 'Mikalojus Radvila apie 1514 m. pergalės prieš totorius ties Kłecku atminimui prie Vilijos pastatė Šv. Jurgio bažnyčią.'
   pagrindžia:
     - c-001

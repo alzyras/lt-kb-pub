@@ -26,7 +26,9 @@ Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
 
 ## Teiginiai
 
+<a id="claim-t-56951"></a>
 - t-001
+  global_id: t-56951
   teiginys: 'Prastuomenė Dusburgiečio kronikoje vadinama communis populus arba ignobiles.'
   pagrindžia:
     - c-001

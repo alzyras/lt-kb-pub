@@ -15,29 +15,32 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Vasiljevičius (Maskvos valdovas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai Tvėrėje ar dėl M a s k v o s ku n ig a ik šMaskvos valdovo Vasiljevitis užima T v e r ę čiaus klastos, ar dėl kokių ki tų priežasčių kilo maištas, ku nigaikštis, valdinių išvytas iš savo senolių valdų, pabė go pas karalių. Kojelavičius teigia, kad to dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau bomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai jį pagerbęs, bet nieko doro nepažadėjęs.
+Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti savo jėgas. Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryti žalos Lietuvos valdoms.
 
 ## Teiginiai
 
+<a id="claim-t-186019"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai Tvėrėje ar dėl M a s k v o s ku n ig a ik šMaskvos valdovo Vasiljevitis užima T v e r ę čiaus klastos, ar dėl kokių ki tų priežasčių kilo maištas, ku nigaikštis, valdinių išvytas iš savo senolių valdų, pabė go pas karalių.'
+  global_id: t-186019
+  teiginys: 'Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti savo jėgas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186020"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad to dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau bomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai jį pagerbęs, bet nieko doro nepažadėjęs.'
+  global_id: t-186020
+  teiginys: 'Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryti žalos Lietuvos valdoms.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai Tvėrėje ar dėl M a s k v o s ku n ig a ik šMaskvos valdovo Vasiljevitis užima T v e r ę čiaus klastos, ar dėl kokių ki tų priežasčių kilo maištas, ku nigaikštis, valdinių išvytas iš savo senolių valdų, pabė go pas karalių.'
+  santrauka: 'Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti savo jėgas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai Tvėrėje ar dėl
@@ -67,7 +70,7 @@ Kojelavičius teigia, kad kai Tvėrėje ar dėl M a s k v o s ku n ig a ik šMas
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad to dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau bomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai jį pagerbęs, bet nieko doro nepažadėjęs.'
+  santrauka: 'Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryti žalos Lietuvos valdoms.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     To­
@@ -92,3 +95,20 @@ Kojelavičius teigia, kad kai Tvėrėje ar dėl M a s k v o s ku n ig a ik šMas
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+- [[objektai/asmenys/Jonas Gornostajus]]
+- [[objektai/grupes/Krymo orda]]
+- [[objektai/grupes/Lietuvos pasiuntiniai Maskvoje]]
+- [[objektai/ivykiai/Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.)]]
+- [[objektai/grupes/Maskvos pasiuntiniai]]
+- [[objektai/grupes/Perekopo orda]]
+- [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]
+- [[objektai/grupes/Radvilų giminė]]
+- [[objektai/paprociai/Tarpvalstybinio ginčo tvarkymas per įgaliotus derybininkus, atstovus ir protesto pasiuntinius]]
+- [[objektai/ivykiai/Vasiljevičiaus ir Andrejaus skverbimasis į Lietuvos valdas bei derybos dėl žalos (1487 m.)]]
+- [[objektai/zodynas/bojarinai]]
+- [[objektai/asmenys/Šach Achmedas]]

@@ -25,7 +25,9 @@ Tada Lietuvos sostinėje regėdavo kupranuga­ rius, dryžuotom gūniom apdangst
 
 ## Teiginiai
 
+<a id="claim-t-87703"></a>
 - t-001
+  global_id: t-87703
   teiginys: 'Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, iš Juodosios jūros pakrančių siųsdavo į Vilnių turtingas dovanas.'
   pagrindžia:
     - c-001

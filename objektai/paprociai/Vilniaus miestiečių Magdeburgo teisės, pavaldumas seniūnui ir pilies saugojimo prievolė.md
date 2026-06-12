@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87235"></a>
 - t-001
+  global_id: t-87235
   teiginys: 'Jogaila suteikė Vilniui Magdeburgo teises, tačiau miestiečiai liko pavaldūs Vilniaus seniūnui ir privalėjo saugoti Vilniaus pilį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87236"></a>
 - t-002
+  global_id: t-87236
   teiginys: 'Pirmosios Lietuvoje Vilniaus miesto teisės būtų pagerinusios miesto būklę, jei šalies nebūtų sukrėtęs vidaus karas.'
   pagrindžia:
     - c-002

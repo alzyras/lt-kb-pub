@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-99949"></a>
 - t-001
+  global_id: t-99949
   teiginys: '4, 155, 209 Skirsnemunė (Christmemel) 211, 220, 224, 277, 332, 334 Skynimai 135 Skytija 103 Skomantas (Skomandas) 204, 205 Skronaičių pilis 219 Skrupskelis Ig.'
   pagrindžia:
     - c-001

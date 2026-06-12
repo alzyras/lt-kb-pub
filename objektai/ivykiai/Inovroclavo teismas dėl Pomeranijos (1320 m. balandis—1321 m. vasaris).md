@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59646"></a>
 - t-001
+  global_id: t-59646
   teiginys: 'Dusburgietis teigia, kad vladislovo Lokietkos suvienyta Lenkija bandė diplomatijos priemonėmis atgauti kryžiuočių užgrobtą Pomeraniją.'
   pagrindžia:
     - c-001

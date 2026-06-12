@@ -19,17 +19,23 @@ Lietuvoje, įvedus krikščionybę, Jogaila taip pat paskelbė raštu pirmąją 
 
 ## Teiginiai
 
+<a id="claim-t-67519"></a>
 - t-001
+  global_id: t-67519
   teiginys: 'Jogailos privilegija visas teises pripažino tik katalikams, o rytų apeigų krikščionis suvaržė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67520"></a>
 - t-002
+  global_id: t-67520
   teiginys: 'Įvedus Lietuvoje krikščionybę, Jogaila raštu paskelbė pirmąją visam kraštui privilegiją su apsikrikštijusių bajorų teisėmis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67521"></a>
 - t-003
+  global_id: t-67521
   teiginys: 'Privilegija nustatė, kad bajorai galėjo laisvai valdyti savo žemes, bet turėjo atlikti karo tarnybą ir taisyti bei statyti pilis.'
   pagrindžia:
     - c-003

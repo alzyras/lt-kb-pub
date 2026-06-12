@@ -16,7 +16,9 @@ Sruogienė, V.
 
 ## Teiginiai
 
+<a id="claim-t-31022"></a>
 - t-001
+  global_id: t-31022
   teiginys: 'V. Daugirdaitė-Sruogienė parašė Lietuvių enciklopedijos straipsnį apie Norimantą.'
   pagrindžia:
     - c-001

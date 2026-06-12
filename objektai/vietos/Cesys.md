@@ -17,7 +17,9 @@ Padaręs sąjungą su Aleksandru Nevskiu (Didž. Naugarde)^183 , drauge su Treni
 
 ## Teiginiai
 
+<a id="claim-t-32101"></a>
 - t-001
+  global_id: t-32101
   teiginys: 'Mindaugas su Treniota nesėkmingai puolė Cesio, arba Wendeno, pilį Livonijoje.'
   pagrindžia:
     - c-001

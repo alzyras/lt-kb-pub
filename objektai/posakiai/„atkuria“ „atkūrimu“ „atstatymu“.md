@@ -25,17 +25,23 @@ Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba
 
 ## Teiginiai
 
+<a id="claim-t-104215"></a>
 - t-001
+  global_id: t-104215
   teiginys: 'Taryba priėmė naują rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų valstybinių ryšių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-104216"></a>
 - t-002
+  global_id: t-104216
   teiginys: '1918 m. vasario 16 d. akto žodis „atkuria“ siejo Lietuvos nepriklausomybę su LDK valstybingumu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-104217"></a>
 - t-003
+  global_id: t-104217
   teiginys: 'Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė naują rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su.'
   pagrindžia:
     - c-001

@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75347"></a>
 - t-001
+  global_id: t-75347
   teiginys: 'Sąjūdžio ženklą su Gedimino stulpais sukūrė dailininkai Giedrius Reimeris ir Algimantas Nasvytis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75348"></a>
 - t-002
+  global_id: t-75348
   teiginys: 'Sąjūdžio ženklą su Gedimino stulpais kūrė Giedrius Reimeris ir Algimantas Nasvytis.'
   pagrindžia:
     - c-002

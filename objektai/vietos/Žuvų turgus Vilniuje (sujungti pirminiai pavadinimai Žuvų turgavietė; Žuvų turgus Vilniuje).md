@@ -27,12 +27,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86290"></a>
 - t-001
+  global_id: t-86290
   teiginys: '1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai skyrė pajamas iš Liaudanskų mūrinio namo Žuvų turgavietės gale.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86291"></a>
 - t-002
+  global_id: t-86291
   teiginys: 'Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.'
   pagrindžia:
     - c-001

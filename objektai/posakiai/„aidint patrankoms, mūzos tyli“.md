@@ -19,7 +19,9 @@ Sakoma: aidint patrankoms, mūzos tyli.
 
 ## Teiginiai
 
+<a id="claim-t-26528"></a>
 - t-001
+  global_id: t-26528
   teiginys: 'Livonijos karo metu Steponas Batoras rūpinosi Vilniaus universiteto, vadinamo mūzų prieglobsčiu, kūrimu.'
   pagrindžia:
     - c-001

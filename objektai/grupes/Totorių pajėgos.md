@@ -18,17 +18,23 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
 
 ## Teiginiai
 
+<a id="claim-t-78527"></a>
 - t-001
+  global_id: t-78527
   teiginys: 'Aukso ordos chanas Timūr-Kutlukas į mūšį įsijungė su didele totorių jėga.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78528"></a>
 - t-002
+  global_id: t-78528
   teiginys: 'Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamišo totoriai, talkininkai iš Lenkijos, Kryžiuočių ordino kariai, moldavai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78529"></a>
 - t-003
+  global_id: t-78529
   teiginys: 'Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.'
   pagrindžia:
     - c-003

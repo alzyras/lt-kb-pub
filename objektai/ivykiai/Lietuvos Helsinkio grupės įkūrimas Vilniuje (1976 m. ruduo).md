@@ -41,17 +41,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75140"></a>
 - t-001
+  global_id: t-75140
   teiginys: '1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, stebėjusi Helsinkio Baigiamojo akto nuostatų įgyvendinimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75141"></a>
 - t-002
+  global_id: t-75141
   teiginys: 'Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75142"></a>
 - t-003
+  global_id: t-75142
   teiginys: 'Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.'
   pagrindžia:
     - c-001

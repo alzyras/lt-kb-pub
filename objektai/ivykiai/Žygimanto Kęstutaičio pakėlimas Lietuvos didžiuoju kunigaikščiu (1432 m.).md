@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Žygimanto Kęstutaičio pakėlimas Lietuvos didžiuoju kunigaikščiu (1432 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad k e t v i r t a k n y g a APIE LIETUVIŲ PRAEITĮ, KAI VALDĖ ŽYGIMANTAS I KĘSTUTAITIS Ž y g im a n ta s K ąstu - ta itis ta m tik ro m is są ly g o m is ta m p a Lie- 1432 m e ta i Karaliaus pasiuntiniai ne daug vargo, kol įtikino Žygi mantą sutikti su. Kojelavičius teigia, kad valstybės ištarme buvo įsakyta Liudvikui kaip priešui kartu su savo draugais kuo greičiausiai išsinešdinti iš Lietuvos.
+1432 m. karaliaus pasiuntiniai įtikino Žygimantą Kęstutaitį sutikti su valdovo ir valstybės keltais reikalavimais. Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185686"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad k e t v i r t a k n y g a APIE LIETUVIŲ PRAEITĮ, KAI VALDĖ ŽYGIMANTAS I KĘSTUTAITIS Ž y g im a n ta s K ąstu - ta itis ta m tik ro m is są ly g o m is ta m p a Lie- 1432 m e ta i Karaliaus pasiuntiniai ne daug vargo, kol įtikino Žygi mantą sutikti su.'
+  global_id: t-185686
+  teiginys: '1432 m. karaliaus pasiuntiniai įtikino Žygimantą Kęstutaitį sutikti su valdovo ir valstybės keltais reikalavimais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185687"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad valstybės ištarme buvo įsakyta Liudvikui kaip priešui kartu su savo draugais kuo greičiausiai išsinešdinti iš Lietuvos.'
+  global_id: t-185687
+  teiginys: 'Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad k e t v i r t a k n y g a APIE LIETUVIŲ PRAEITĮ, KAI VALDĖ ŽYGIMANTAS I KĘSTUTAITIS Ž y g im a n ta s K ąstu - ta itis ta m tik ro m is są ly g o m is ta m p a Lie- 1432 m e ta i Karaliaus pasiuntiniai ne daug vargo, kol įtikino Žygi mantą sutikti su.'
+  santrauka: '1432 m. karaliaus pasiuntiniai įtikino Žygimantą Kęstutaitį sutikti su valdovo ir valstybės keltais reikalavimais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     ## Puslapis 441
@@ -90,7 +93,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad valstybės ištarme buvo įsakyta Liudvikui kaip priešui kartu su savo draugais kuo greičiausiai išsinešdinti iš Lietuvos.'
+  santrauka: 'Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto lėmė ne jo, o blaiviau galvojan­
@@ -103,3 +106,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Liudvikas (Torunės komtūras)]]

@@ -26,7 +26,9 @@ Damoklo kardas tikrai pakibo ant unijos, kurią taip smarkiai gynė lenkai ir, i
 
 ## Teiginiai
 
+<a id="claim-t-35967"></a>
 - t-001
+  global_id: t-35967
   teiginys: '1430 m. kovą Jogailos pašaukti lenkai susivažiavo į Jedlną ieškoti paramos unijai, kuriai kilo pavojus dėl Vytauto veiksmų.'
   pagrindžia:
     - c-001

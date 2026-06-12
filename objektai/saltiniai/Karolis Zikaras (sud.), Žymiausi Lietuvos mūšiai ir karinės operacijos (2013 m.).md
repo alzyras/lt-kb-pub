@@ -42,22 +42,30 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
 
 ## Teiginiai
 
+<a id="claim-t-08804"></a>
 - t-001
+  global_id: t-08804
   teiginys: 'Leidykla nurodoma UAB „ALIO“, leidinį spausdino UAB „Petro ofsetas“, o tiražas siekė 2000 egzempliorių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-08806"></a>
 - t-002
+  global_id: t-08806
   teiginys: 'Leidinys pateikiamas kaip straipsnių rinkinys „Žymiausi Lietuvos mūšiai ir karinės operacijos“, kurio atsakingasis redaktorius ir sudarytojas yra Karolis Zikaras; jis išleistas Vilniuje 2013 m. ir turi ISBN 978-9986-827-05-4.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-08810"></a>
 - t-003
+  global_id: t-08810
   teiginys: 'Leidinys skirtas supažindinti skaitytoją su įvairių laikų Lietuvos karų istorija per mūšių prizmę, atrenkant svarbesnius ar įdomesnius susirėmimus, kuriuose buvo ginami Lietuvos valstybės interesai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08811"></a>
 - t-004
+  global_id: t-08811
   teiginys: 'Leidinio tikslas yra per karų kulminacinius momentus parodyti ilgaamžę kovų už Lietuvos valstybę istoriją ir pateikti Lietuvos kario įvaizdį bei karybos, ginkluotės ir regiono geopolitinio konteksto apžvalgą.'
   pagrindžia:
     - c-004

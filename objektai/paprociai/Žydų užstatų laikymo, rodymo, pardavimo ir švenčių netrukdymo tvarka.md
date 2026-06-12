@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87242"></a>
 - t-001
+  global_id: t-87242
   teiginys: 'Taip pat jeigu žydas paimtų iš krikščionies užstatą ir per visus metus laikytų, o tas užstatas tų pinigų nesiektų, Atmintinė - bylą laimėjusio mokesmėtą bylą ar turto perleidimo įrašytis teisėjui ir jo pavaduotojui už laimą į teismo knygas (vert.'
   pagrindžia:
     - c-001

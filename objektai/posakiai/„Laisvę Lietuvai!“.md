@@ -23,12 +23,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-77837"></a>
 - t-001
+  global_id: t-77837
   teiginys: '1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-77838"></a>
 - t-002
+  global_id: t-77838
   teiginys: 'Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą.'
   pagrindžia:
     - c-001

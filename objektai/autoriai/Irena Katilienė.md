@@ -24,7 +24,9 @@ Irena Katilienė nurodyta kaip viena iš „Vilniaus miesto istorijos“ vertėj
 
 ## Teiginiai
 
+<a id="claim-t-55007"></a>
 - t-001
+  global_id: t-55007
   teiginys: 'Irena Katilienė buvo viena iš 2007 m. lietuviško „Vilniaus miesto istorijos“ vertimo autorių.'
   pagrindžia:
     - c-001

@@ -32,12 +32,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-02018"></a>
 - t-001
+  global_id: t-02018
   teiginys: 'Iki statuto seimo darbai vyko be nustatytos tvarkos ir dažnai iširdavo atstovams nesusitarus išrinkti maršalkos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-02019"></a>
 - t-002
+  global_id: t-02019
   teiginys: 'Atstovų priesaikos griežtai laikytis seimelių instrukcijų buvo uždraustos, nes dėl jų anksčiau iširdavo daug seimų.'
   pagrindžia:
     - c-001

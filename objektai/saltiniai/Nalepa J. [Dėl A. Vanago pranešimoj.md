@@ -22,7 +22,9 @@ Dusburgietis teigia, kad nalepa J.
 
 ## Teiginiai
 
+<a id="claim-t-61188"></a>
 - t-001
+  global_id: t-61188
   teiginys: 'J. Nalepos tekstas „Dėl A. Vanago pranešimo“ paskelbtas ABS 1976 m. 9 tome, p. 81–86.'
   pagrindžia:
     - c-001

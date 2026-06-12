@@ -16,7 +16,9 @@ Grunskis E.
 
 ## Teiginiai
 
+<a id="claim-t-19398"></a>
 - t-001
+  global_id: t-19398
   teiginys: 'E. Grunskis parašė knygą „Lietuvos gyventojų trėmimai 1941, 1944–1953 metais“, išleistą Vilniuje 1995 m.'
   pagrindžia:
     - c-001

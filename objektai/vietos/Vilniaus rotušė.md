@@ -24,7 +24,9 @@ Taip pat, kad miesto gyventojai savo reikmėms galėtų lengviau pasisamdyti pa�
 
 ## Teiginiai
 
+<a id="claim-t-86258"></a>
 - t-001
+  global_id: t-86258
   teiginys: '1547 m. Vilniuje padieniams darbininkams nurodyta rinktis prie rotušės, kad miestiečiai galėtų lengviau juos pasisamdyti.'
   pagrindžia:
     - c-001

@@ -16,12 +16,16 @@ Susiformavo dvi kultūrinės kryptys – etnokultūrinis sąjūdis ir dėl Vakar
 
 ## Teiginiai
 
+<a id="claim-t-22160"></a>
 - t-001
+  global_id: t-22160
   teiginys: 'Sovietinėje sistemoje egzistavę hipių ar pankų judėjimai protestavo prieš pačią tą sistemą, o ne prieš vartotojišką visuomenę kaip hipiai Vakaruose.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-22161"></a>
 - t-002
+  global_id: t-22161
   teiginys: 'Dėl Vakarų kultūros įtakos susidarė jaunimo roko muzikos grupių, hipių, pankų, rokerių ir kitų bendrijos.'
   pagrindžia:
     - c-001

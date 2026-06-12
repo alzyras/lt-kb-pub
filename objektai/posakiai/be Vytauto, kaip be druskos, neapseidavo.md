@@ -18,7 +18,9 @@ Bet keisčiausia tai, kad toji pati bajorija, kuri be Vytauto, kaip be druskos, 
 
 ## Teiginiai
 
+<a id="claim-t-35994"></a>
 - t-001
+  global_id: t-35994
   teiginys: 'Lenkų bajorija, kuriai Vytauto nuopelnai buvo dideli, beveik visa pasipriešino jo sumanymui karūnuotis.'
   pagrindžia:
     - c-001

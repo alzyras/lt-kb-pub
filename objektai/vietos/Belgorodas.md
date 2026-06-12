@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Belgorodas
 
 ## Santrauka
 
-Kojelavičius teigia, kad gediminas, pasilsėjęs čia, kol artimiausios pi lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida vė nugalėtojui, patraukė į Severską.
+Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė nugalėtojui.
 
 ## Teiginiai
 
+<a id="claim-t-185279"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad gediminas, pasilsėjęs čia, kol artimiausios pi lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida vė nugalėtojui, patraukė į Severską.'
+  global_id: t-185279
+  teiginys: 'Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė nugalėtojui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad gediminas, pasilsėjęs čia, kol artimiausios pi lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida vė nugalėtojui, patraukė į Severską.'
+  santrauka: 'Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė nugalėtojui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Visi luo­

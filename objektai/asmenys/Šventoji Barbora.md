@@ -19,17 +19,23 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
 
 ## Teiginiai
 
+<a id="claim-t-60079"></a>
 - t-001
+  global_id: t-60079
   teiginys: 'Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba skrynią, o joje sidabrinę dėžutę, o toje dėžutėje šventos mergelės bei kankinės Barboros galvą, kurią išvydę kniūpsti puolė ant žemės, dėkodami dievui už tokios šlovingos dovanos suradimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60080"></a>
 - t-002
+  global_id: t-60080
   teiginys: 'Dusburgietis teigia, kad šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta, tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60081"></a>
 - t-003
+  global_id: t-60081
   teiginys: 'Šventoji Barbora moteriai tris kartus pasirodė naktį ir sakė ketinanti eiti į Kulmo miestą klausyti mišių.'
   pagrindžia:
     - c-002

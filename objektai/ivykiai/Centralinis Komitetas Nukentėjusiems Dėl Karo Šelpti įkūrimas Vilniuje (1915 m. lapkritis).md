@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01602"></a>
 - t-001
+  global_id: t-01602
   teiginys: 'Centralinio komiteto pirmininku buvo Rusijos Dūmos atstovas M. Yčas.'
   pagrindžia:
     - c-001

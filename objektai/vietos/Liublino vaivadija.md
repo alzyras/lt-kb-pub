@@ -17,7 +17,9 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 
 ## Teiginiai
 
+<a id="claim-t-21570"></a>
 - t-001
+  global_id: t-21570
   teiginys: '1939 m. rugsėjo 28 d. slaptuoju Reicho ir SSRS protokolu Vokietija už Lietuvos patekimą į SSRS įtakos sferą gavo Liublino vaivadiją.'
   pagrindžia:
     - c-001

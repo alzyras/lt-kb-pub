@@ -22,7 +22,9 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
 
 ## Teiginiai
 
+<a id="claim-t-86188"></a>
 - t-001
+  global_id: t-86188
   teiginys: '1241 m. Hamburgas su Liubeku sudarė karinę sąjungą, prie kurios tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas.'
   pagrindžia:
     - c-001

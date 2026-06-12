@@ -19,7 +19,9 @@ Nepaprastas Rin­ gailės grožis taip pakerėjo Mazovijos kunigaikštį Henrik�
 
 ## Teiginiai
 
+<a id="claim-t-87685"></a>
 - t-001
+  global_id: t-87685
   teiginys: 'Mazovijos kunigaikštis Henrikas, atvykęs pas Vytautą su slaptu Jogailos pavedimu, vedė Ringailę.'
   pagrindžia:
     - c-001

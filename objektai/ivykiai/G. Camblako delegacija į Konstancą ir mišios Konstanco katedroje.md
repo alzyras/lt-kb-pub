@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20184"></a>
 - t-001
+  global_id: t-20184
   teiginys: 'G. Camblako ekumeninės mišios Konstanco katedroje paliko amžininkams tokį įspūdį, kad buvo išsamiai vaizduojamos kronikose.'
   pagrindžia:
     - c-001

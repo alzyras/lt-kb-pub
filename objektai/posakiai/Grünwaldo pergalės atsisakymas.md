@@ -17,7 +17,9 @@ Ją Dlugošas vėl kritikavo, kad « visai klaidingu būdu ir beveik pajuokai bu
 
 ## Teiginiai
 
+<a id="claim-t-28699"></a>
 - t-001
+  global_id: t-28699
   teiginys: 'Dlugošas kritikavo Grünwaldo pergalės atsisakymą, teigdamas, kad jis nedavė naudos Lenkijai, bet buvo labai naudingas Lietuvai.'
   pagrindžia:
     - c-001

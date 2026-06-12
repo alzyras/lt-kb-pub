@@ -30,12 +30,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-36115"></a>
 - t-001
+  global_id: t-36115
   teiginys: 'Torno sutartis atsižvelgė į Lietuvos interesus: Lietuvai buvo grąžinta Žemaitija, o Lenkijai naudos nesuteikta.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-36116"></a>
 - t-002
+  global_id: t-36116
   teiginys: 'Torno sutartis laikyta palankia Lietuvai, nes Lietuvai buvo grąžinta Žemaitija, o Lenkijai ji naudos nesuteikė.'
   pagrindžia:
     - c-001

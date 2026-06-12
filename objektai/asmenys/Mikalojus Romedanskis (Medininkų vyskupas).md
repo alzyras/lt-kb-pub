@@ -27,7 +27,9 @@ Kaip paaiškėjo iš antrojo Medininkų vyskupo Mikalojaus Romedanskio konsekrac
 
 ## Teiginiai
 
+<a id="claim-t-30363"></a>
 - t-001
+  global_id: t-30363
   teiginys: '1427 m. popiežius įsakė Medininkų vyskupui Mikalojui Romedanskiui savo priesaiką nusiųsti Gniezno arkivyskupui.'
   pagrindžia:
     - c-001

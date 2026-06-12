@@ -25,12 +25,16 @@ Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eili
 
 ## Teiginiai
 
+<a id="claim-t-60975"></a>
 - t-001
+  global_id: t-60975
   teiginys: 'Dusburgietis teigia, kad 348 Eiliuotojoje Livonijos kronikoje, kuriai įvykis artimesnis chronologijos ir teritorijos požiūriu, rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius; kuršiais pasekę ir estai (LRCh, eil.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60976"></a>
 - t-002
+  global_id: t-60976
   teiginys: 'Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil.'
   pagrindžia:
     - c-002

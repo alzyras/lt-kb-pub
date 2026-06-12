@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-32018"></a>
 - t-001
+  global_id: t-32018
   teiginys: '„Zbiór praw litewskich“ išleistas Poznanėje 1841 m.; cituojami leidinio p. 1–2.'
   pagrindžia:
     - c-001

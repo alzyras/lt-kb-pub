@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Ištikimybės pasižadėjimas valdovui ir jo įpėdiniams
 
 ## Santrauka
 
-Kojelavičius teigia, kad taip pat ir Jurijus Sviatoslavovičius, Smolensko valdovas, nors ir elgėsi kaip neabejotinas priešas, kol Vytautas dar nebuvo atvykęs, tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne draugiškus jausmus ir prijungė, puoselėdamas tam tik rus sumanymus.
+Drucko kunigaikščiai po sutriuškinimo pažadėjo ir prisiekė ištikimybę Vytautui bei jo įpėdiniams.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185872"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad taip pat ir Jurijus Sviatoslavovičius, Smolensko valdovas, nors ir elgėsi kaip neabejotinas priešas, kol Vytautas dar nebuvo atvykęs, tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne draugiškus jausmus ir prijungė, puoselėdamas tam tik rus sumanymus.'
+  global_id: t-185872
+  teiginys: 'Drucko kunigaikščiai po sutriuškinimo pažadėjo ir prisiekė ištikimybę Vytautui bei jo įpėdiniams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad taip pat ir Jurijus Sviatoslavovičius, Smolensko valdovas, nors ir elgėsi kaip neabejotinas priešas, kol Vytautas dar nebuvo atvykęs, tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne draugiškus jausmus ir prijungė, puoselėdamas tam tik rus sumanymus.'
+  santrauka: 'Drucko kunigaikščiai po sutriuškinimo pažadėjo ir prisiekė ištikimybę Vytautui bei jo įpėdiniams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Greitai užpuolęs ir užėmęs Oršą, jis patraukė
@@ -64,3 +65,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jurijus]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikščiai]]

@@ -25,7 +25,9 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
 
 ## Teiginiai
 
+<a id="claim-t-25191"></a>
 - t-001
+  global_id: t-25191
   teiginys: 'Alvydas Jokubaitis buvo „Lietuvos istorijos“ redakcinės kolegijos narys.'
   pagrindžia:
     - c-001

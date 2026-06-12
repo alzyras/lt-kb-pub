@@ -16,7 +16,9 @@ Draugijos narių leidžiamas humoristinis laikraštis Wiadomości brukowe (Grind
 
 ## Teiginiai
 
+<a id="claim-t-88507"></a>
 - t-001
+  global_id: t-88507
   teiginys: 'Humoristinį laikraštį „Wiadomości brukowe“ leido Šubravcų draugijos nariai, o jame aktyviai bendradarbiavo Michałas Balińskis.'
   pagrindžia:
     - c-001

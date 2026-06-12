@@ -18,7 +18,6 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
-
 # Druckas
 
 ## Santrauka
@@ -27,23 +26,31 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 
 ## Teiginiai
 
+<a id="claim-t-67840"></a>
 - t-001
+  global_id: t-67840
   teiginys: 'Prieš metus įvykęs jų žygis leido jiems „smagintis“ Vilniaus ir Polocko, Vitebsko ir Drucko, Naugarduko ir Slucko apylinkėse - tikrajame LDK branduolyje, tankiausiai apgyventame ir turtingiausiame krašte.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67841"></a>
 - t-002
+  global_id: t-67841
   teiginys: 'Druckas buvo paimtas kartu su Orša prieš priartėjant prie Vitebsko.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67842"></a>
 - t-003
+  global_id: t-67842
   teiginys: 'Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolensko, kita, vadovaujama patyrusio karvedžio kunigaikščio Petro Šuiskio, iš Polocko traukė į Drucką.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184947"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad greitai užpuolęs ir užėmęs Oršą, jis patraukė į Drucką.'
+  global_id: t-184947
+  teiginys: 'Užpuolęs ir užėmęs Oršą, Vytautas patraukė į Drucką.'
   pagrindžia:
     - c-004
 
@@ -106,7 +113,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     - t-002
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad greitai užpuolęs ir užėmęs Oršą, jis patraukė į Drucką.'
+  santrauka: 'Užpuolęs ir užėmęs Oršą, Vytautas patraukė į Drucką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautui ir pačiam rūpėjo šis karas, nes troško, kad

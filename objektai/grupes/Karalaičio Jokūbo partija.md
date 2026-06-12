@@ -16,13 +16,17 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
 
 ## Teiginiai
 
+<a id="claim-t-01344"></a>
 - t-001
+  global_id: t-01344
   teiginys: 'Dauguma Karalaičio Jokūbo partijos šalininkų perėjo į Augusto pusę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182894"></a>
 - t-002
-  teiginys: 'Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pusę.'
+  global_id: t-182894
+  teiginys: 'Karalaičio Jokūbo partijos dauguma perėjo į Saksų elektoriaus Fridriko Augusto pusę.'
   pagrindžia:
     - c-002
 
@@ -49,7 +53,7 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
     - t-001
 
 - c-002
-  santrauka: 'Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pusę.'
+  santrauka: 'Karalaičio Jokūbo partijos dauguma perėjo į Saksų elektoriaus Fridriko Augusto pusę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet jis per

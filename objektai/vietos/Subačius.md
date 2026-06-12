@@ -17,12 +17,16 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
 
 ## Teiginiai
 
+<a id="claim-t-42170"></a>
 - t-001
+  global_id: t-42170
   teiginys: 'Gegužės 27 d. Panevėžio rinktinė, persekiodama priešą, užėmė Troškūnus ir Subačių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-42171"></a>
 - t-002
+  global_id: t-42171
   teiginys: 'Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pasitraukė Subačiaus kryptimi ir įsitvirtino Kupiškyje.'
   pagrindžia:
     - c-001

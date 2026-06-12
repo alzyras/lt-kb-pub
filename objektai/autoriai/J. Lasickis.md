@@ -17,7 +17,9 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
 
 ## Teiginiai
 
+<a id="claim-t-30684"></a>
 - t-001
+  global_id: t-30684
   teiginys: 'S. Stanevičius kritikavo J. Lasickio knygutę apie žemaičių dievus, nes joje paprasti kalbos žodžiai esą paversti dievų vardais.'
   pagrindžia:
     - c-001

@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-11049"></a>
 - t-001
+  global_id: t-11049
   teiginys: 'Vytauto valdymo pradžioje turėjo būti pastatyta mūrinė Lydos pilis.'
   pagrindžia:
     - c-001

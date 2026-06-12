@@ -17,7 +17,9 @@ VII amž. gale jie įsi­ kūrė Grobine, kur turėjo savo svarbią karinę baz�
 
 ## Teiginiai
 
+<a id="claim-t-28344"></a>
 - t-001
+  global_id: t-28344
   teiginys: 'VII a. pabaigoje švedai įsikūrė Grobinėje, kur turėjo svarbią karinę bazę Seeburgą.'
   pagrindžia:
     - c-001

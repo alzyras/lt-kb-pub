@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77957"></a>
 - t-001
+  global_id: t-77957
   teiginys: 'Nacionalinė kultūra, nereguliuojama ir nevaržoma, atsiskleidė visa savo pilnatve, užaugo nauja išsilavinusių gabių žmonių karta, gebėjusi atsiverti pasaulio sukurtoms vertybėms, interpretuoti jas lietuviškoje dirvoje.'
   pagrindžia:
     - c-001

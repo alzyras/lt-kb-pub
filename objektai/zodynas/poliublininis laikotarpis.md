@@ -44,7 +44,9 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 
 ## Teiginiai
 
+<a id="claim-t-05602"></a>
 - t-001
+  global_id: t-05602
   teiginys: 'Stryjkovskis rašė pirmais poliublininiais dešimtmečiais.'
   pagrindžia:
     - c-002
@@ -53,22 +55,30 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     - c-001
     - c-004
 
+<a id="claim-t-05603"></a>
 - t-002
+  global_id: t-05603
   teiginys: 'Poliublininiame laikotarpyje iki T. Narbuto laikų atskiros Lietuvos istorijos tradicija nebebuvo tęsiama.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-05606"></a>
 - t-003
+  global_id: t-05606
   teiginys: 'Pirmieji poliublininiai dešimtmečiai siejami su laikotarpiu po Liublino įvykių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-97286"></a>
 - t-004
+  global_id: t-97286
   teiginys: 'Pirmaisiais poliublininiais dešimtmečiais rašęs Stryjkovskis perėmė Lietuvos didikų valstybingumo sąmonę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-97287"></a>
 - t-005
+  global_id: t-97287
   teiginys: 'Kojalavičius įtvirtino tradiciją poliublininiu laikotarpiu nebetęsti atskiros Lietuvos istorijos.'
   pagrindžia:
     - c-003

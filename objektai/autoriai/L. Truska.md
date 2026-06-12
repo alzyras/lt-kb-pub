@@ -26,7 +26,9 @@ Truska: Emigracija iš Lietuvos 1868-1914 m. (AkMD, t.
 
 ## Teiginiai
 
+<a id="claim-t-30784"></a>
 - t-001
+  global_id: t-30784
   teiginys: 'L. Truska parašė studiją „Emigracija iš Lietuvos 1868-1914 m.“.'
   pagrindžia:
     - c-001

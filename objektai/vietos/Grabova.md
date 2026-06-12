@@ -26,12 +26,16 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
 
 ## Teiginiai
 
+<a id="claim-t-67983"></a>
 - t-001
+  global_id: t-67983
   teiginys: '1414–1418 m. paliaubų pasitarimuose Grabovoje Vytautas gynė prekybos reikalus su Ordinu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67984"></a>
 - t-002
+  global_id: t-67984
   teiginys: 'Lietuvos vyriausybės siūlyta laikinoji demarkacijos linija turėjo eiti per Grabovą, Augustavą ir Stabiną.'
   pagrindžia:
     - c-002

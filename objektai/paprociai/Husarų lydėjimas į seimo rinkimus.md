@@ -42,17 +42,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67083"></a>
 - t-001
+  global_id: t-67083
   teiginys: 'Husarai buvo bajorai, kuriuos karalius ir etmonai pagerbdavo suteikdami draugo vardą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67084"></a>
 - t-002
+  global_id: t-67084
   teiginys: 'Daugelis husarų gaudavo rentas iš etmonų bei didelių senjorų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67085"></a>
 - t-003
+  global_id: t-67085
   teiginys: 'Visi šie kariai yra bajorai, o ypač husarai, karalius ir etmonai juos pagerbė suL Ąteikdami draugo [Touariche] vardą, kuris reiškia draugą arba palydovą, jie valgo už jų Fax stalo, savo provincijoje yra labai vertinami ir netgi gerbiami, o dauguma gauna.'
   pagrindžia:
     - c-001

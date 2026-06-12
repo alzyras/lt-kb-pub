@@ -29,17 +29,23 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
 
 ## Teiginiai
 
+<a id="claim-t-56965"></a>
 - t-001
+  global_id: t-56965
   teiginys: 'Dusburgietis teigia, kad minėtieji broliai, valdovės Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo į kovą, tačiau prūsai, puolę iš priekio, jau pirmajame susirėmime lenkams pasileidus bėgti, minėtuosius brolius mirtinai sužeidė ir daugybę žmonių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-56966"></a>
 - t-002
+  global_id: t-56966
   teiginys: 'Valdovė Agota po mūšio įsakė surinkti kovos lauke likusius pusgyvius Ordino brolius ir patikėti juos gydytojams.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-56967"></a>
 - t-003
+  global_id: t-56967
   teiginys: 'Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes.'
   pagrindžia:
     - c-001

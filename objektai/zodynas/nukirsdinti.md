@@ -16,7 +16,9 @@ Kai Jogaila jį perdavė pusbroliui, tuoj pat Vytautas jį atidavė nukirsdinti.
 
 ## Teiginiai
 
+<a id="claim-t-32800"></a>
 - t-001
+  global_id: t-32800
   teiginys: 'Vytautas liepė nukirsdinti Jogailos jam perduotą asmenį, o dauguma kitų belaisvių buvo paleisti.'
   pagrindžia:
     - c-001

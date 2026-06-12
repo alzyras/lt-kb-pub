@@ -29,22 +29,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-88198"></a>
 - t-001
+  global_id: t-88198
   teiginys: 'Po Stepono Batoro mirties Lietuvos ponų taryba prašė Kristupo Radvilos atvykti prie mirusio valdovo kūno arba skubiai atsiųsti savo nuomonę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88199"></a>
 - t-002
+  global_id: t-88199
   teiginys: 'Lietuvos ponų tarybos laiškas Kristupui Radvilai buvo sutvirtintas aštuoniais antspaudais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-88200"></a>
 - t-003
+  global_id: t-88200
   teiginys: '1586 m. gruodžio 13 d. Gardine rašytas Lietuvos ponų tarybos laiškas Kristupui Radvilai pranešė apie Stepono Batoro mirtį ir galimą maištą dėl neišmokėtos algos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88201"></a>
 - t-004
+  global_id: t-88201
   teiginys: 'Lietuvos ponų taryba Kristupui Radvilai pranešė, kad gydytojai laiku neįspėjo apie pavojų Stepono Batoro sveikatai.'
   pagrindžia:
     - c-004

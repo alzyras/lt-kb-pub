@@ -16,12 +16,16 @@ Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žin
 
 ## Teiginiai
 
+<a id="claim-t-20963"></a>
 - t-001
+  global_id: t-20963
   teiginys: 'Stalinizmo epochoje saugumo pareigūnai vienodai galėjo suimti profesorių, ministrą ar eilinį žmogų, todėl šia prasme buvo „visi lygūs“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183513"></a>
 - t-002
+  global_id: t-183513
   teiginys: 'Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žinomesnis, tuo sunkiau jam buvo iškelti baudžiamąją bylą (stalinizmo epochoje buvo „visi lygūs“ – saugumo pareigūnai vienodai galėjo suimti ir profesorių, ir ministrą, ir eilinį žmogų).'
   pagrindžia:
     - c-002

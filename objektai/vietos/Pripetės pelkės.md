@@ -17,12 +17,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-98888"></a>
 - t-001
+  global_id: t-98888
   teiginys: 'Pripetės pelkės ilgus amžius iš pietų pusės saugojo baltus kaip gamtinė judėjimo kliūtis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-98889"></a>
 - t-002
+  global_id: t-98889
   teiginys: 'Pripetės pelkės ilgus amžius iš pietų pusės saugojo baltus kaip sunkiai pereinama gamtinė kliūtis.'
   pagrindžia:
     - c-001

@@ -29,7 +29,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-80722"></a>
 - t-001
+  global_id: t-80722
   teiginys: 'Žukauskas vedė liuteronę Zozefing Hasdorfaitę ir perėjo į evangelikų reformatorių tikėjimą | tapti vyresniaisiais karininkais.'
   pagrindžia:
     - c-001

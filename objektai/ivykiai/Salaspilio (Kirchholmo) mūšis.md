@@ -45,17 +45,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77874"></a>
 - t-001
+  global_id: t-77874
   teiginys: '1605 m. prie Kirchholmo netoli Rygos J. K. Chodkevičiaus vadovaujama LDK kariuomenė nugalėjo 12 tūkst. švedų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-77875"></a>
 - t-002
+  global_id: t-77875
   teiginys: 'Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77876"></a>
 - t-003
+  global_id: t-77876
   teiginys: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
   pagrindžia:
     - c-002

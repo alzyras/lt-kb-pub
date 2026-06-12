@@ -16,7 +16,9 @@ Dusburgietis teigia, kad jis buvo pramintas Vatmaliu nuo vilnonių drabužių, v
 
 ## Teiginiai
 
+<a id="claim-t-58930"></a>
 - t-001
+  global_id: t-58930
   teiginys: 'Dusburgietis teigia, kad jis buvo pramintas Vatmaliu nuo vilnonių drabužių, vadina mų Watmal, kuriuos įsakė išduoti broliams.'
   pagrindžia:
     - c-001

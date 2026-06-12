@@ -17,12 +17,16 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
 
 ## Teiginiai
 
+<a id="claim-t-69579"></a>
 - t-001
+  global_id: t-69579
   teiginys: 'Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą, ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus arkikatedrą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-69580"></a>
 - t-002
+  global_id: t-69580
   teiginys: 'Uždarytoje Vilniaus arkikatedroje buvo atidaryta Paveikslų galerija.'
   pagrindžia:
     - c-001

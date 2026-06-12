@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41184"></a>
 - t-001
+  global_id: t-41184
   teiginys: 'Chotino link artėjusią Turkijos kariuomenę sudarė apie 100000 karių, įskaitant spahius, janičarus, totorius, moldavus ir valakus.'
   pagrindžia:
     - c-001

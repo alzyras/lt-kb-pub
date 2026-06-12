@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-32136"></a>
 - t-001
+  global_id: t-32136
   teiginys: '1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.'
   pagrindžia:
     - c-001

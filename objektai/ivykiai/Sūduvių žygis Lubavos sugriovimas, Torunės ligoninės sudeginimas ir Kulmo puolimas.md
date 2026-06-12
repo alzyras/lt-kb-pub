@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59429"></a>
 - t-001
+  global_id: t-59429
   teiginys: 'Dusburgietis teigia, kad apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos pilies bei miesto sugriovimą Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59430"></a>
 - t-002
+  global_id: t-59430
   teiginys: 'Dusburgietis teigia, kad vienas sūduvių karys, stiprus vyras, leidosi paskui vieną krikščionę, kuri tuo metu spruko į pelkes; kai jau ketino ją nužudyti, ši, užmiršusi savo lyties trapumą, drąsiai pasipriešino.'
   pagrindžia:
     - c-002

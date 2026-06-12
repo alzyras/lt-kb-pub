@@ -24,7 +24,9 @@ Be senesnių­ jų lietuvių ir rusų kunigaikščių — tėvynainių (otčici)
 
 ## Teiginiai
 
+<a id="claim-t-36820"></a>
 - t-001
+  global_id: t-36820
   teiginys: 'Lietuvių ir rusų kunigaikščiai tėvynainiai, arba otčici, turėjo visišką nuosavybės teisę į savo valdomas žemes.'
   pagrindžia:
     - c-001

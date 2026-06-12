@@ -17,7 +17,9 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
 
 ## Teiginiai
 
+<a id="claim-t-74045"></a>
 - t-001
+  global_id: t-74045
   teiginys: 'Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.'
   pagrindžia:
     - c-001

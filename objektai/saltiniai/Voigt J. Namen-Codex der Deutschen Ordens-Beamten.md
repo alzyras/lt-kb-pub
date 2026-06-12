@@ -24,7 +24,9 @@ Dusburgietis teigia, kad voigt J.
 
 ## Teiginiai
 
+<a id="claim-t-61354"></a>
 - t-001
+  global_id: t-61354
   teiginys: 'J. Voigto „Namen-Codex der Deutschen Ordens-Beamten“ išleistas Karaliaučiuje 1843 m.'
   pagrindžia:
     - c-001

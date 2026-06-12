@@ -27,7 +27,9 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 
 ## Teiginiai
 
+<a id="claim-t-58869"></a>
 - t-001
+  global_id: t-58869
   teiginys: 'Dusburgietis teigia, kad tuo tarpu stalininkas Druzigeris, su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo žemėje ir Lenkijoje kilo toks baisus krikščionių.'
   pagrindžia:
     - c-002
@@ -79,7 +81,6 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 - [[objektai/asmenys/Eustachijus Valavičius]]
 - [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas]]
 - [[objektai/asmenys/Henrikas iš Lichtenšteino]]
-- [[objektai/asmenys/Ivanas (Maskvos valdovas)]]
 - [[objektai/asmenys/Jonas Hlebavičius]]
 - [[objektai/asmenys/Jurgis (Lucko vyskupas)]]
 - [[objektai/asmenys/Jurgis Astikaitis]]

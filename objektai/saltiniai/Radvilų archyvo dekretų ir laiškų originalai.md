@@ -17,7 +17,9 @@ Onos bažnyčia / p. 297 • Faksimilės, paimtos iš dekretų ir laiškų, esan
 
 ## Teiginiai
 
+<a id="claim-t-88471"></a>
 - t-001
+  global_id: t-88471
   teiginys: 'Radvilų archyvo dekretų ir laiškų originalų faksimilėse pateiktas Aleksandro Jogailaičio dovanojimas Vilniaus miestiečiui Maksimui.'
   pagrindžia:
     - c-001

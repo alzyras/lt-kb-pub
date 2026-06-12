@@ -22,7 +22,9 @@ Chodynicki, K.
 
 ## Teiginiai
 
+<a id="claim-t-31647"></a>
 - t-001
+  global_id: t-31647
   teiginys: 'K. Chodynickio straipsnis „Geneza dynastii Giedymina“ paskelbtas 1926 m. KH 40 tome, 541-566 puslapiuose.'
   pagrindžia:
     - c-001

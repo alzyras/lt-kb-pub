@@ -34,12 +34,16 @@ Cituojama „Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)“
 
 ## Teiginiai
 
+<a id="claim-t-41554"></a>
 - t-001
+  global_id: t-41554
   teiginys: 'Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas yra 1575 m. Venecijos pasiuntinio Girolamo Lippomano teksto ištrauka.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41555"></a>
 - t-002
+  global_id: t-41555
   teiginys: 'Lenkijos ir Lietuvos kariuomenė stovyklose apsisupdavo amunicijos, provianto ir kitų reikmenų vežimais, palikdama tik kelis praėjimus.'
   pagrindžia:
     - c-001

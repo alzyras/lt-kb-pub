@@ -24,7 +24,9 @@ Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž. visuomeninių-socialinių
 
 ## Teiginiai
 
+<a id="claim-t-31063"></a>
 - t-001
+  global_id: t-31063
   teiginys: 'W. Kamienieckis parašė kelias studijas apie XIV-XV a. Lietuvos visuomeninius ir socialinius santykius.'
   pagrindžia:
     - c-001

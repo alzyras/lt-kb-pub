@@ -17,7 +17,9 @@ Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Rohlando būrys
 
 ## Teiginiai
 
+<a id="claim-t-01465"></a>
 - t-001
+  global_id: t-01465
   teiginys: 'Rohlando būrys po kelių dienų padėjo ginklus ir perėjo į Prūsiją.'
   pagrindžia:
     - c-001

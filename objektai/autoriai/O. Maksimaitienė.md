@@ -26,7 +26,9 @@ Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augu
 
 ## Teiginiai
 
+<a id="claim-t-30883"></a>
 - t-001
+  global_id: t-30883
   teiginys: 'O. Maksimaitienė pateikė duomenų apie 1863 m. sukilėlių kovinius veiksmus Augustavo gubernijoje ir jų antspaudus.'
   pagrindžia:
     - c-001

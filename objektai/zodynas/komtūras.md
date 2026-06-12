@@ -29,17 +29,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-182848"></a>
 - t-001
+  global_id: t-182848
   teiginys: 'Vytauto krikštatėvis buvo Ragainės komtūras, turėjęs tokį pat Vigando vardą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183715"></a>
 - t-002
+  global_id: t-183715
   teiginys: '1348 m. didysis komtūras Vinrichas iš Kniprodės dalyvavo Strėvos mūšyje ir narsiai kovėsi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183834"></a>
 - t-003
+  global_id: t-183834
   teiginys: 'Ordino maršalas Gotfridas Lindenas su komtūrais sudegino Semeliškes Trakų paviete ir veržėsi iki Vilniaus tvirtovių.'
   pagrindžia:
     - c-003
@@ -99,7 +105,7 @@ amziai:
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Zygfridas iš Da[he]nfeldo]]
+- [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/įgula]]
 - [[objektai/asmenys/Albertas (Karaliaučiaus komtūras)]]
@@ -171,7 +177,7 @@ amziai:
 - [[objektai/asmenys/Luterbergas]]
 - [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/asmenys/Mangoldas [iš Šternbergo]]]
+- [Mangoldas [iš Šternbergo]](/objektai/asmenys/Mangoldas%20%5Bi%C5%A1%20%C5%A0ternbergo%5D)
 - [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
 - [[objektai/asmenys/Markvardas Zalzbachas]]
 - [[objektai/asmenys/Martynas iš Golino]]
@@ -253,9 +259,14 @@ amziai:
 - [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Gotfridas Lindenas]]
 - [[objektai/asmenys/Albertas iš Meiseno]]
+- [[objektai/ivykiai/Brandenburgo komtūro žygis į Lietuvą ir lietuvių atsakomasis žygis į Prūsiją (1299 m.)]]
 - [[objektai/asmenys/Folradas]]
 - [[objektai/asmenys/Henrikas Cutsvertas]]
 - [[objektai/asmenys/Herkus Mantas]]
 - [[objektai/ivykiai/Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)]]
+- [[objektai/ivykiai/Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)]]
+- [[objektai/ivykiai/Kryžiuočių žygis į Junigedos apylinkes ir Kolainių pilies sudeginimas (1291 m.)]]
+- [[objektai/ivykiai/Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę|Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis)]]
+- [[objektai/asmenys/Liudvikas (Torunės komtūras)]]
 - [[objektai/asmenys/Pinas]]
 - [[objektai/ivykiai/Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)]]

@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-95959"></a>
 - t-001
+  global_id: t-95959
   teiginys: '1392 m. Vytauto ir Jogailos Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti.'
   pagrindžia:
     - c-001

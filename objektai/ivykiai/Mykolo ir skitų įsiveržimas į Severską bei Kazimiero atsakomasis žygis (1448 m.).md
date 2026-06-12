@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Mykolo ir skitų įsiveržimas į Severską bei Kazimiero atsakomasis žygis (1448 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad k ol visi lau k ė šio susitikim o, tu rė ju sio įv y k ti g e gužės pabaigoje, Mykolas su 1448 m e ta i sk itais įsiv eržė į Severską ir, Sum u ša M y k o lą Sesum ušęs greitosiom is sutelkv e r s k e tas jėg as, jam p asto ju sias k e lią, p aėm ė Brianską.
+1448 m. Mykolui su skitais įsiveržus į Severską, Kazimieras atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185755"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad k ol visi lau k ė šio susitikim o, tu rė ju sio įv y k ti g e gužės pabaigoje, Mykolas su 1448 m e ta i sk itais įsiv eržė į Severską ir, Sum u ša M y k o lą Sesum ušęs greitosiom is sutelkv e r s k e tas jėg as, jam p asto ju sias k e lią, p aėm ė Brianską.'
+  global_id: t-185755
+  teiginys: '1448 m. Mykolui su skitais įsiveržus į Severską, Kazimieras atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad k ol visi lau k ė šio susitikim o, tu rė ju sio įv y k ti g e gužės pabaigoje, Mykolas su 1448 m e ta i sk itais įsiv eržė į Severską ir, Sum u ša M y k o lą Sesum ušęs greitosiom is sutelkv e r s k e tas jėg as, jam p asto ju sias k e lią, p aėm ė Brianską.'
+  santrauka: '1448 m. Mykolui su skitais įsiveržus į Severską, Kazimieras atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     V ilniaus
@@ -65,3 +66,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/zodynas/skitai]]

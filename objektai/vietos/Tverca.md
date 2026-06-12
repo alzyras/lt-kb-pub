@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-99956"></a>
 - t-001
+  global_id: t-99956
   teiginys: '91, 167, 169, 210 Tureiskas 201 Turkija 23 Turovas 225, 242, 245, 297 Tverai Žemaičiuose, 171 Tverca, upė 158 Tverė (Kalininas), kng-ja ir kng.'
   pagrindžia:
     - c-001

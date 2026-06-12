@@ -16,7 +16,9 @@ Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.
 
 ## Teiginiai
 
+<a id="claim-t-80733"></a>
 - t-001
+  global_id: t-80733
   teiginys: 'Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.'
   pagrindžia:
     - c-001

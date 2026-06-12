@@ -18,7 +18,9 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 
 ## Teiginiai
 
+<a id="claim-t-02392"></a>
 - t-001
+  global_id: t-02392
   teiginys: 'Per karūnacinį seimą Maksimilijonas ties Byčina pralaimėjo mūšį, pateko į Zamoiskio nelaisvę ir turėjo atsisakyti sosto.'
   pagrindžia:
     - c-001

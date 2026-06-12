@@ -25,7 +25,9 @@ M. K. Pacas žuvo 1665 metais prie Mogiliavo, kai miestą buvo apgulę lauko etm
 
 ## Teiginiai
 
+<a id="claim-t-40314"></a>
 - t-001
+  global_id: t-40314
   teiginys: 'Lauko etmono M. K. Paco kariai 1665 metais buvo apgulę Mogiliavą.'
   pagrindžia:
     - c-001

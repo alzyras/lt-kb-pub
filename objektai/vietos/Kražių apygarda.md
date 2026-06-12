@@ -16,7 +16,9 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 
 ## Teiginiai
 
+<a id="claim-t-02508"></a>
 - t-001
+  global_id: t-02508
   teiginys: 'Kražių apygardoje šios mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.'
   pagrindžia:
     - c-001

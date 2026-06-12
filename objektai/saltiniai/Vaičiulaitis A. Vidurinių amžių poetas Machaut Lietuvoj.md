@@ -23,7 +23,9 @@ Dusburgietis teigia, kad vaičiulaitis A.
 
 ## Teiginiai
 
+<a id="claim-t-61334"></a>
 - t-001
+  global_id: t-61334
   teiginys: 'A. Vaičiulaičio „Vidurinių amžių poetas Machaut Lietuvoj“ paskelbta 1940 m. Kaune išleistų „Suvažiavimo darbų“ trečiame tome.'
   pagrindžia:
     - c-001

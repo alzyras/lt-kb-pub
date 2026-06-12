@@ -26,18 +26,24 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
 
 ## Teiginiai
 
+<a id="claim-t-182724"></a>
 - t-001
+  global_id: t-182724
   teiginys: '1914 m. Gintarinėje deklaracijoje lietuviai siekė sujungti Didžiąją ir Mažąją Lietuvą bei gauti autonomiją Rusijos tautų šeimoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182725"></a>
 - t-002
+  global_id: t-182725
   teiginys: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183010"></a>
 - t-003
-  teiginys: 'Ten buvo pradėta rūpintis liaudim, kuriai buvo spausdinamos lietuviškos protestantiškos knygos.'
+  global_id: t-183010
+  teiginys: 'Iš Didžiosios Lietuvos buvo kilę daugelis lietuviškas protestantiškas knygas rašiusių autorių.'
   pagrindžia:
     - c-003
 
@@ -85,7 +91,7 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
     - t-001
 
 - c-003
-  santrauka: 'Ten buvo pradėta rūpintis liaudim, kuriai buvo spausdinamos lietuviškos protestantiškos knygos.'
+  santrauka: 'Iš Didžiosios Lietuvos buvo kilę daugelis lietuviškas protestantiškas knygas rašiusių autorių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ten buvo pradėta rūpintis liaudim, ku-

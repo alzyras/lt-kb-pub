@@ -12,24 +12,25 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Šventoji kardinolų taryba (institucija, XV a.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad štai todėl pasirūpino, kad popiežius Inocentas paskelbtų Fridrichą Krokuvos arkivyskupu ir įtrauktų į šventąją kardinolų tarybą, be to, visomis priemonėmis stengė si pelnyti lenkų palankumą Jonui Olbrachtui, kurį ke tino palikti savo įpėdiniu.
+Popiežius Inocentas paskelbė Fridrichą Krokuvos arkivyskupu ir įtraukė jį į Šventąją kardinolų tarybą.
 
 ## Teiginiai
 
+<a id="claim-t-185463"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad štai todėl pasirūpino, kad popiežius Inocentas paskelbtų Fridrichą Krokuvos arkivyskupu ir įtrauktų į šventąją kardinolų tarybą, be to, visomis priemonėmis stengė si pelnyti lenkų palankumą Jonui Olbrachtui, kurį ke tino palikti savo įpėdiniu.'
+  global_id: t-185463
+  teiginys: 'Popiežius Inocentas paskelbė Fridrichą Krokuvos arkivyskupu ir įtraukė jį į Šventąją kardinolų tarybą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad štai todėl pasirūpino, kad popiežius Inocentas paskelbtų Fridrichą Krokuvos arkivyskupu ir įtrauktų į šventąją kardinolų tarybą, be to, visomis priemonėmis stengė si pelnyti lenkų palankumą Jonui Olbrachtui, kurį ke tino palikti savo įpėdiniu.'
+  santrauka: 'Popiežius Inocentas paskelbė Fridrichą Krokuvos arkivyskupu ir įtraukė jį į Šventąją kardinolų tarybą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius, jausdamas, jog
@@ -53,3 +54,10 @@ Kojelavičius teigia, kad štai todėl pasirūpino, kad popiežius Inocentas pas
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Jonas Olbrachtas]]

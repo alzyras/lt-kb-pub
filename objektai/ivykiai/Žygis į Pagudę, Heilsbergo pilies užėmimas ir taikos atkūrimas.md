@@ -33,12 +33,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62964"></a>
 - t-001
+  global_id: t-62964
   teiginys: 'Dusburgietis teigia, kad magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius, subūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė, plėsdami ir degindami, žudydami vyrus, o moteris bei vaikus išsivarydami į.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-62965"></a>
 - t-002
+  global_id: t-62965
   teiginys: 'Dusburgietis teigia, kad be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo taika.'
   pagrindžia:
     - c-001

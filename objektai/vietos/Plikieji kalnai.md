@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86225"></a>
 - t-001
+  global_id: t-86225
   teiginys: 'Strijkovskio pasakojime Gediminas medžiojo girioje tarp kalnų, kurie vadinti Plikaisiais.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Režimo ramstis buvo policija ir gerai veikiantis Valstybės saugumo departament
 
 ## Teiginiai
 
+<a id="claim-t-20059"></a>
 - t-001
+  global_id: t-20059
   teiginys: 'Režimo ramstis buvo policija ir gerai veikiantis Valstybės saugumo departamentas.'
   pagrindžia:
     - c-001

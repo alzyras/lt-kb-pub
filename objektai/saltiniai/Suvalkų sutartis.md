@@ -23,12 +23,16 @@ Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė 
 
 ## Teiginiai
 
+<a id="claim-t-10546"></a>
 - t-001
+  global_id: t-10546
   teiginys: 'Inscenizavus Lenkijos kariuomenės 1-osios lietuviųbaltarusių divizijos (jai vadovauti jis buvo paskirtas 1920 m. spalio pradžioje) maištą, pažeidžiant Suvalkų taikos sutartį įsiveržti į Lietuvą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78876"></a>
 - t-002
+  global_id: t-78876
   teiginys: 'LIETUVOS RESPUBLIKA Kautynių priešistorė Tebevykstant Lietuvos ir Lenkijos deryboms Suvalkuose, lenkai slapta rengėsi užimti Vilnių.'
   pagrindžia:
     - c-002

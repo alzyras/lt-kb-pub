@@ -17,27 +17,37 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 
 ## Teiginiai
 
+<a id="claim-t-64236"></a>
 - t-001
+  global_id: t-64236
   teiginys: 'Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir Lietuvos savitarpio pagalbos sutartis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-64237"></a>
 - t-002
+  global_id: t-64237
   teiginys: 'Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64238"></a>
 - t-003
+  global_id: t-64238
   teiginys: 'Molotovo rankų ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutartimi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovietinę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos 10 val.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-64239"></a>
 - t-004
+  global_id: t-64239
   teiginys: 'Viačeslavas Molotovas 1940 m. birželio 7 d. Maskvoje brutaliu elgesiu sukrėtė Antaną Merkį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64240"></a>
 - t-005
+  global_id: t-64240
   teiginys: 'Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo.'
   pagrindžia:
     - c-003

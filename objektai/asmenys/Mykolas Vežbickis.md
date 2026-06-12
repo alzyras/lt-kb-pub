@@ -24,7 +24,9 @@ Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blo
 
 ## Teiginiai
 
+<a id="claim-t-87803"></a>
 - t-001
+  global_id: t-87803
   teiginys: '1746 m. Mykolas Vežbickis su Kazimieru Vežbickiu skyrė Vilniaus akademijos bibliotekai lėšų knygoms gausinti.'
   pagrindžia:
     - c-001

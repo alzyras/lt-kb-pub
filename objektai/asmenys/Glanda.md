@@ -19,7 +19,9 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 
 ## Teiginiai
 
+<a id="claim-t-60294"></a>
 - t-001
+  global_id: t-60294
   teiginys: 'Prūsams vėl atkritus nuo tikėjimo, sembai išsirinko Glandą savo kariuomenės vadu ir vyresniuoju.'
   pagrindžia:
     - c-001

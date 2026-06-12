@@ -19,12 +19,16 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
 
 ## Teiginiai
 
+<a id="claim-t-63665"></a>
 - t-001
+  global_id: t-63665
   teiginys: 'Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą „Atheneum“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-63666"></a>
 - t-002
+  global_id: t-63666
   teiginys: 'Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia, savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kalba rašyta poezija.'
   pagrindžia:
     - c-002

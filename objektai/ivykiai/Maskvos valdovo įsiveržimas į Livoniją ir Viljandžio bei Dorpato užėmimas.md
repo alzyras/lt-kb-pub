@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad po magistro ir kiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš tus patvirtino savo parašais, be magistro, dar du rite rių išrinkti vyrai: Henrikas Štendichas, Kuldygos kom tūras, ir Kristupas iš Viljandžio, krašto maršalas. Kojelavičius teigia, kad maskvėnai, į šį žygį patraukę su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.
+Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią buvo sakęsis telkiąs karui prieš skitus ir švedus. Maskvėnai su 120 tūkstančių vyrų žygiu netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185750"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad po magistro ir kiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš tus patvirtino savo parašais, be magistro, dar du rite rių išrinkti vyrai: Henrikas Štendichas, Kuldygos kom tūras, ir Kristupas iš Viljandžio, krašto maršalas.'
+  global_id: t-185750
+  teiginys: 'Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią buvo sakęsis telkiąs karui prieš skitus ir švedus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185751"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad maskvėnai, į šį žygį patraukę su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.'
+  global_id: t-185751
+  teiginys: 'Maskvėnai su 120 tūkstančių vyrų žygiu netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad po magistro ir kiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš tus patvirtino savo parašais, be magistro, dar du rite rių išrinkti vyrai: Henrikas Štendichas, Kuldygos kom tūras, ir Kristupas iš Viljandžio, krašto maršalas.'
+  santrauka: 'Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią buvo sakęsis telkiąs karui prieš skitus ir švedus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po magistro ir
@@ -68,7 +71,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad maskvėnai, į šį žygį patraukę su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.'
+  santrauka: 'Maskvėnai su 120 tūkstančių vyrų žygiu netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Maskvėnai, į šį žygį patraukę
@@ -84,3 +87,17 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Augustas]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Ivanas]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Švedai]]
+- [[objektai/asmenys/Vilhelmas Fiurstenbergas]]

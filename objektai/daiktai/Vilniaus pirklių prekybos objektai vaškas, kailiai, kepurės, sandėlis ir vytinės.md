@@ -45,17 +45,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87005"></a>
 - t-001
+  global_id: t-87005
   teiginys: 'Žaliaminės odos ir ypač vaškas tuo metu buvo svarbiausios Vilniaus pirklių išvežamosios prekės.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87006"></a>
 - t-002
+  global_id: t-87006
   teiginys: 'Miesto lėšomis pastatyti kailiadirbių namai turguje leido ant sienų pardavimui kabinti kepures ir kailius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87007"></a>
 - t-003
+  global_id: t-87007
   teiginys: 'Karaliaus raštu Vilniaus vaitui leista į užsienį parduoti tris vaško gabalus po 50 akmenų.'
   pagrindžia:
     - c-002

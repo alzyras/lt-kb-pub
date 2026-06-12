@@ -45,22 +45,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54324"></a>
 - t-001
+  global_id: t-54324
   teiginys: 'Netrukus Varšuvoje ir Vilniuje kilo patriotinių manifestacijų banga, nuslūgusi tik po to, kai vasaros pabaigoje caro valdžia įvedė karo padėtį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54325"></a>
 - t-002
+  global_id: t-54325
   teiginys: '1794 m. sukilimo metu Targovicos konfederatų egzekucijos sumanymas kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54326"></a>
 - t-003
+  global_id: t-54326
   teiginys: 'Kai kurių Targovicos konfederatų egzekucijos sumanymas kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183329"></a>
 - t-004
+  global_id: t-183329
   teiginys: 'Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube.'
   pagrindžia:
     - c-003

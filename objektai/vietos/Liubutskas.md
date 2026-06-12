@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-36362"></a>
 - t-001
+  global_id: t-36362
   teiginys: 'Liubutsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikštėlių tarpe.'
   pagrindžia:
     - c-001

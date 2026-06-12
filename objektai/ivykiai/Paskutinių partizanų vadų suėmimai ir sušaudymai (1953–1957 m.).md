@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-26382"></a>
 - t-001
+  global_id: t-26382
   teiginys: '1953 m. agentai išdavė J. Žemaitį-Vytautą, o po pusantrų metų tardymų jis buvo sušaudytas Maskvos Butyrkų kalėjime.'
   pagrindžia:
     - c-001

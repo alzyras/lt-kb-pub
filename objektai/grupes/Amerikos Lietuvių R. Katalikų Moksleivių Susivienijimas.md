@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-01268"></a>
 - t-001
+  global_id: t-01268
   teiginys: 'Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimą 1912 m. Čikagoje įkūrė Amerikos Lietuvių Katalikų Federacija.'
   pagrindžia:
     - c-001

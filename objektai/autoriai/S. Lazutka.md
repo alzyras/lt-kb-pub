@@ -16,7 +16,9 @@ Lazutka, E.
 
 ## Teiginiai
 
+<a id="claim-t-19468"></a>
 - t-001
+  global_id: t-19468
   teiginys: 'S. Lazutka kartu su E. Gudavičiumi parengė „Pirmojo Lietuvos Statuto“ nuorašų faksimilių leidinio pirmo tomo antrą dalį.'
   pagrindžia:
     - c-001

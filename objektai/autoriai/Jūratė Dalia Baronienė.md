@@ -24,7 +24,9 @@ Jūratė Dalia Baronienė nurodyta kaip „Vilniaus miesto istorijos“ vertėja
 
 ## Teiginiai
 
+<a id="claim-t-55008"></a>
 - t-001
+  global_id: t-55008
   teiginys: 'Jūratė Dalia Baronienė buvo viena iš 2007 m. lietuviško „Vilniaus miesto istorijos“ vertimo autorių.'
   pagrindžia:
     - c-001

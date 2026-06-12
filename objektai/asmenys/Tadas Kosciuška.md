@@ -30,47 +30,65 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 
 ## Teiginiai
 
+<a id="claim-t-82733"></a>
 - t-001
+  global_id: t-82733
   teiginys: '1794 m. lapkričio 16 d. Rusijos ir Prūsijos kariuomenių pastangomis Tado Kosciuškos vadovaujamas sukilimas buvo galutinai numalšintas visoje ATR teritorijoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82734"></a>
 - t-002
+  global_id: t-82734
   teiginys: 'Tadas Kosciuška: po vieno mūšio sužeistas Kosciuška pateko į nelaisvę. Netrukus po to buvo likviduotas ir visas sukilimas.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-82736"></a>
 - t-003
+  global_id: t-82736
   teiginys: '1794 m. kovą Lenkijoje prasidėjo sukilimas, kuriam vadovavo iš LDK kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Tadas Kosciuška.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-82737"></a>
 - t-004
+  global_id: t-82737
   teiginys: 'Tadas Kosciuška: pirmieji popieriniai pinigai buvo išleisti tik Kosciuškos sukilimo metu.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-82738"></a>
 - t-005
+  global_id: t-82738
   teiginys: 'Jų spaudžiamas vyriausiasis Lenkijos ir LDK sukilėlių vadas Tadas Kosciuška gegužės 4 d. pašalino Jasinskį iš Lietuvos sukilėlių vado pareigų.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-82739"></a>
 - t-006
+  global_id: t-82739
   teiginys: 'Kosciuškos sukilimo metu tapęs Vilniaus gvardijos vadu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82740"></a>
 - t-007
+  global_id: t-82740
   teiginys: 'Tadas Kosciuška mėgino gelbėti Lenkijos-Lietuvos valstybę jos žlugimo išvakarėse.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-82741"></a>
 - t-008
+  global_id: t-82741
   teiginys: 'Tadas Kosciuška, norėdamas sukelti valstiečius, leido atsišaukimus, žadėdamas laisvę prisidėjusiems prie sukilimo.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-82742"></a>
 - t-009
+  global_id: t-82742
   teiginys: 'Tadas Kosciuška pasižymėjo Amerikos nepriklausomybės kovose, buvo Jurgio Vašingtono draugas ir 1794 m. sukilimo vadas.'
   pagrindžia:
     - c-006

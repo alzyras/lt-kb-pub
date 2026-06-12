@@ -17,7 +17,9 @@ Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijo
 
 ## Teiginiai
 
+<a id="claim-t-18913"></a>
 - t-001
+  global_id: t-18913
   teiginys: 'Kovo 23 d. Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui.'
   pagrindžia:
     - c-001

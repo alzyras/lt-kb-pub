@@ -17,7 +17,9 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
 
 ## Teiginiai
 
+<a id="claim-t-80650"></a>
 - t-001
+  global_id: t-80650
   teiginys: 'Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstininkų regimento (pulko) dvi sumažintos kuopos, 7-ojo fuzilierių regimento dvi sumažintos kuopos, LDK tribunolo vengrų vėliavos dalinio 50 karių, artilerijos ir inžinerijos korpusų.'
   pagrindžia:
     - c-001

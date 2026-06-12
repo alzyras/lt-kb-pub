@@ -24,7 +24,9 @@ Dusburgietis teigia, kad karaliaučiaus karališkos bibliotekos tekstas, kaip pa
 
 ## Teiginiai
 
+<a id="claim-t-61094"></a>
 - t-001
+  global_id: t-61094
   teiginys: 'Karaliaučiaus karališkos bibliotekos Dusburgiečio kronikos tekstas 1540 m. sausio 16 d. pradėtas perrašinėti iš P. Speratui priklausiusios knygos.'
   pagrindžia:
     - c-001

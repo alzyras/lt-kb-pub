@@ -17,12 +17,16 @@ Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygia
 
 ## Teiginiai
 
+<a id="claim-t-58594"></a>
 - t-001
+  global_id: t-58594
   teiginys: 'Medrabos pilis galėjusi būti Meškininkų piliakalnyje, į šiaurės vakarus nuo Jurbarko kairiajame Mituvos krante.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58595"></a>
 - t-002
+  global_id: t-58595
   teiginys: 'Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygiavo su tūkstančiu Sembos vyrų ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link Medrabos pilies534, per kurią.'
   pagrindžia:
     - c-002

@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-26383"></a>
 - t-001
+  global_id: t-26383
   teiginys: '1940 m. liepos 6 d. Valstybės saugumo departamento direktorius A. Sniečkus leido suimti agituojančiuosius prieš Liaudies vyriausybę.'
   pagrindžia:
     - c-001

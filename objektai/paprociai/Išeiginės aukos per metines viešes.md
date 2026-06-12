@@ -30,7 +30,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-07768"></a>
 - t-001
+  global_id: t-07768
   teiginys: 'Per metines viešes viršaitis ar viršininkas kartu su žyniais ir svietu atlikdavo viešą aukos apeigą po didžiuoju ąžuolu.'
   pagrindžia:
     - c-001

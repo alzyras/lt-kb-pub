@@ -19,7 +19,9 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
 
 ## Teiginiai
 
+<a id="claim-t-36573"></a>
 - t-001
+  global_id: t-36573
   teiginys: 'Sienos linija nuo Šešupės buvo nuvesta tiesiai į Nemuną prie Smalininkų, o iš ten į Palangą.'
   pagrindžia:
     - c-001

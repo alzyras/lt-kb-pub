@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė
 
 ## Santrauka
 
-Kojelavičius teigia, kad boleslovas, jau po pirmo antpuolio užėmęs Breslaują, nusiaubė didelius Lietuvos plotus ir priartėjo su kariuomene prie Ukmergės.
+1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185516"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad boleslovas, jau po pirmo antpuolio užėmęs Breslaują, nusiaubė didelius Lietuvos plotus ir priartėjo su kariuomene prie Ukmergės.'
+  global_id: t-185516
+  teiginys: '1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad boleslovas, jau po pirmo antpuolio užėmęs Breslaują, nusiaubė didelius Lietuvos plotus ir priartėjo su kariuomene prie Ukmergės.'
+  santrauka: '1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vladislovui ro-
@@ -59,3 +60,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
+- [[objektai/zodynas/Karinės vadovybės rangai|karinės vadovybės rangai]]
+- [[objektai/asmenys/Boleslovas]]
+- [[objektai/asmenys/Boleslovas Švitrigaila]]
+- [[objektai/asmenys/Švitrigaila]]

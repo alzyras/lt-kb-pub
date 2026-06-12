@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-26415"></a>
 - t-001
+  global_id: t-26415
   teiginys: '1926 m. gruodžio 17 d. perversmo metu šarvuočiai buvo prie Vyriausiojo štabo.'
   pagrindžia:
     - c-001

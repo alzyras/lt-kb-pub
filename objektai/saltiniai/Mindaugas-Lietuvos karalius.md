@@ -28,7 +28,9 @@ Pažymėtini Šležo stambesni darbai (at­ spaudai) : 1) «Klaipėdos miesto is
 
 ## Teiginiai
 
+<a id="claim-t-31849"></a>
 - t-001
+  global_id: t-31849
   teiginys: 'Šležas 1934 m. paskelbė darbą „Mindaugas-Lietuvos karalius“.'
   pagrindžia:
     - c-001

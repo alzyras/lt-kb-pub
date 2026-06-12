@@ -17,7 +17,6 @@ tags:
 amziai: []
 periodo_grupes: []
 ---
-
 # Živinbudas
 
 ## Santrauka
@@ -26,30 +25,33 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 
 ## Teiginiai
 
+<a id="claim-t-60477"></a>
 - t-001
+  global_id: t-60477
   teiginys: 'Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23, Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija) 1219 m. sudarė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184901"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad todėl, sukvietęs didikus ir paaiškinęs jiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš Julijono Dausprungo palikuonių, pajėgų valdyti jauni kaitį, netrukus jam į žmonas atidavė vienturtę dukterį Pajautą, o kraičio pridėjo Lietuvos kunigaikštystę.'
+  global_id: t-184901
+  teiginys: 'Živinbudas buvo įsūnytas kaip įpėdinis, vedė Pajautą ir kaip kraitį gavo Lietuvos kunigaikštystę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184902"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad t r e č i a k n y g a APIE LIETUVIŲ PRAEITĮ, KAI VALDĖ JULIJONO DAUSPRUNGO SEIMĄ Z iv in b u d a s — L ietu v o s , o M o n tv ila — Ž e m a itijo s k u n ig a ik š tis Živinbudas, po Kerniaus mirties paskelbtas valdovu, Stulpus, kuriuos Palemonaičiai.'
+  global_id: t-184902
+  teiginys: 'Po Kerniaus mirties valdovu paskelbtas Živinbudas valstybės sostinę iš Deltuvos perkėlė į Kernavę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184904"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad živinbudas susirgo ir pasimirė, vyras, kuris pelnytai priskirtinas prie žymiausių Lietuvos didvyrių.'
+  global_id: t-184904
+  teiginys: 'Ligos kamuojamas Živinbudas, išgirdęs apie pergalę ir pamatęs sūnų Kukovaitį, perdavė jam valdžią.'
   pagrindžia:
     - c-004
-
-- t-005
-  teiginys: 'Kojelavičius teigia, kad živinbudas nykte nyko ligos kamuojamas, tačiau kai išgirdo, jog priešas įveiktas, ir kai išvydo nugalėtoją sūnų, gerokai atsigavo jo dvasia, bepaliekanti kūną; baigdamas gyvenimą, jis deramu laiku perdavė valdžią sūnui, kurį po pergalės triumfuojantį matė savo akimis.'
-  pagrindžia:
-    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -72,7 +74,7 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad todėl, sukvietęs didikus ir paaiškinęs jiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš Julijono Dausprungo palikuonių, pajėgų valdyti jauni kaitį, netrukus jam į žmonas atidavė vienturtę dukterį Pajautą, o kraičio pridėjo Lietuvos kunigaikštystę.'
+  santrauka: 'Živinbudas buvo įsūnytas kaip įpėdinis, vedė Pajautą ir kaip kraitį gavo Lietuvos kunigaikštystę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Galbūt šitaip ir bū­
@@ -95,7 +97,7 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad t r e č i a k n y g a APIE LIETUVIŲ PRAEITĮ, KAI VALDĖ JULIJONO DAUSPRUNGO SEIMĄ Z iv in b u d a s — L ietu v o s , o M o n tv ila — Ž e m a itijo s k u n ig a ik š tis Živinbudas, po Kerniaus mirties paskelbtas valdovu, Stulpus, kuriuos Palemonaičiai.'
+  santrauka: 'Po Kerniaus mirties valdovu paskelbtas Živinbudas valstybės sostinę iš Deltuvos perkėlė į Kernavę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi mano pagrindinis ketinimas — glaustai
@@ -129,34 +131,7 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad živinbudas susirgo ir pasimirė, vyras, kuris pelnytai priskirtinas prie žymiausių Lietuvos didvyrių.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Atleidęs
-    pasiuntinius, įsakė juos klyst-
-    82
-
-    ## Puslapis 81
-
-    itin reikšminga, nes rusai vėliau ėmė rodyti lietuvių
-    valdovui ne tik didesnę pagarbą bei palankumą, bet
-    ir pastovesnę ištikimybę. Tuo pat metu miręs Vykin­
-    tas, Žemaitijos kunigaikštis, paliko savo įpėdiniu bro­
-    lį Erdvilą, tačiau šis, manydamas, jog vieno valdovo
-    per maža skirtingoms valstybėms, kaip per maža vie­
-    nos sielos į dvi dalis padalytam kūnui, be to, norėda­
-    mas atsiteisti už pagalbą, kurios neseniai sulaukė, per­
-    leido Živinbudui visas teises į Žemaitiją. Tačiau neilgai
-    trukus jis susirgo ir pasimirė, vyras, kuris pelnytai
-    priskirtinas prie žymiausių Lietuvos didvyrių.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Kojelavičius teigia, kad živinbudas nykte nyko ligos kamuojamas, tačiau kai išgirdo, jog priešas įveiktas, ir kai išvydo nugalėtoją sūnų, gerokai atsigavo jo dvasia, bepaliekanti kūną; baigdamas gyvenimą, jis deramu laiku perdavė valdžią sūnui, kurį po pergalės triumfuojantį matė savo akimis.'
+  santrauka: 'Ligos kamuojamas Živinbudas, išgirdęs apie pergalę ir pamatęs sūnų Kukovaitį, perdavė jam valdžią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu Skirmantas
@@ -198,4 +173,23 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Popiežius Honorijus II]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/baltų sąjunga]]
+- [[objektai/zodynas/priešmindauginė Lietuva]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/Pajauta]]
+- [[objektai/asmenys/Kernius]]
+- [[objektai/ivykiai/Kryžiaus žygis į Prūsiją (1218 m.)]]
+- [[objektai/ivykiai/Lietuvos sutartis su Volyne (1219 m.)]]
+- [[objektai/grupes/Pamarėnai]]

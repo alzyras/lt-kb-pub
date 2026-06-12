@@ -16,7 +16,9 @@ Kopenhagos derybos vėliau dar buvo tęsiamos Luganoj (Šveicarijoje).
 
 ## Teiginiai
 
+<a id="claim-t-02572"></a>
 - t-001
+  global_id: t-02572
   teiginys: 'Kopenhagos derybos dėl Nemuno atidarymo vėliau buvo tęsiamos Lugane, Šveicarijoje.'
   pagrindžia:
     - c-001

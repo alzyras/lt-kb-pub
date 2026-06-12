@@ -28,12 +28,16 @@ Dusburgietis teigia, kad der Orden..., p. 259—269; HP, 1, 1, p. 428; Górski K
 
 ## Teiginiai
 
+<a id="claim-t-60602"></a>
 - t-001
+  global_id: t-60602
   teiginys: 'Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo pilį 1280 m. (Schmid B., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje Malborka, р.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60603"></a>
 - t-002
+  global_id: t-60603
   teiginys: 'K. Górskis Dobrynės ordino įkūrimą siejo su 1228 m. dokumentuose išlikusiomis pirmosiomis žiniomis.'
   pagrindžia:
     - c-002

@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-95971"></a>
 - t-001
+  global_id: t-95971
   teiginys: '1236 m. Mindaugas turėjo Lietuvoje pirmaujančią reikšmę ir tais metais surengė didelį žygį į Mozūrus.'
   pagrindžia:
     - c-001

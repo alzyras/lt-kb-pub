@@ -17,7 +17,9 @@ Po karūnacijos visi Lietuvos gubernijų seimeliai, — atsakydami į klausimą,
 
 ## Teiginiai
 
+<a id="claim-t-01403"></a>
 - t-001
+  global_id: t-01403
   teiginys: 'Po karūnacijos visi Lietuvos gubernijų seimeliai, — atsakydami į klausimą, kuriuo būdu, jų nuomone, reikėtų pagerinti valstiečių būklę, — pareiškė, kad pirmąja sąlyga jie laiką baudžiavos panaikinimą ir kad jie patys mielai atsižadą savo teisių valstiečiams.'
   pagrindžia:
     - c-001

@@ -33,33 +33,45 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 
 ## Teiginiai
 
+<a id="claim-t-05457"></a>
 - t-001
+  global_id: t-05457
   teiginys: 'Lietuvos proistorė jau yra atskiras mokslas.'
   pagrindžia:
     - c-001
     - c-002
 
+<a id="claim-t-05458"></a>
 - t-002
+  global_id: t-05458
   teiginys: 'Proistorė čia siejama su archeologiniais duomenimis ir kitais metodais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05607"></a>
 - t-003
+  global_id: t-05607
   teiginys: 'Lietuvos proistorė jau buvo išaugusi į atskirą mokslą, tyrinėjamą kitais metodais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05608"></a>
 - t-004
+  global_id: t-05608
   teiginys: 'Lietuvos proistorė apima seniausius laikus, paremtus archeologiniais duomenimis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70293"></a>
 - t-005
+  global_id: t-70293
   teiginys: 'Lietuvos proistorė yra jau plačiai išaugusi į atskirą mokslą, kur tyrinėjama kitais metodais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70294"></a>
 - t-006
+  global_id: t-70294
   teiginys: 'Lietuvos proistorei geriau pažinti padėjo gausūs archeologiniai kasinėjimai ir tyrinėjimai.'
   pagrindžia:
     - c-003

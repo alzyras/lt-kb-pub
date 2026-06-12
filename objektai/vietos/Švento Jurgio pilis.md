@@ -26,17 +26,23 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
 
 ## Teiginiai
 
+<a id="claim-t-91839"></a>
 - t-001
+  global_id: t-91839
   teiginys: 'Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio kalno Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas ten Livonijos broliams iš Prūsijos žemės kaip magistras.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-91840"></a>
 - t-002
+  global_id: t-91840
   teiginys: 'Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kitą žemę, be to, dėl lipšnaus būdo vienodai vieniems ir kitiems malonus, jis patvarkė, kad, lygiomis dalimis panaudojant Livonijos ir Prūsijos brolių lėšas ir darbą, Karšuvos žemėje343, ant švento Jurgio.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-91841"></a>
 - t-003
+  global_id: t-91841
   teiginys: '1260 m. Livonijos ir Prūsijos broliai ketino nugabenti maisto Švento Jurgio pilies broliams.'
   pagrindžia:
     - c-002

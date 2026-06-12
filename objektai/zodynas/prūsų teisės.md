@@ -18,17 +18,23 @@ prūsų teisės: tačiau kai kuriems ir naujai kuriamuose dvaruose buvo duodamos
 
 ## Teiginiai
 
+<a id="claim-t-72738"></a>
 - t-001
+  global_id: t-72738
   teiginys: 'Ordino žemėse kai kuriems naujai kuriamiems dvarams buvo suteikiamos prūsų teisės, todėl jų valstiečiai vadinti prūsais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72739"></a>
 - t-002
-  teiginys: 'Tuo būdu ordino dokumentuose matome rytuose ir lietuvių ir prūsų, o vakaruose tik prūsus, nes ten naujų dvarų jau nebebuvo kuriama, ir valstiečių su naujomis teisėmis nebeatsirado.'
+  global_id: t-72739
+  teiginys: 'Ordino dokumentuose rytuose minėti ir lietuviai, ir prūsai, o vakaruose tik prūsai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72740"></a>
 - t-003
+  global_id: t-72740
   teiginys: 'Kai kuriems naujai kuriamų dvarų valstiečiams buvo duodamos „prūsų“ teisės, todėl jie buvo vadinami prūsais.'
   pagrindžia:
     - c-001

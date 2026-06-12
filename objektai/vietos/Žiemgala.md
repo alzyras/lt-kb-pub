@@ -28,32 +28,44 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 
 ## Teiginiai
 
+<a id="claim-t-99904"></a>
 - t-001
+  global_id: t-99904
   teiginys: 'Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-99905"></a>
 - t-002
+  global_id: t-99905
   teiginys: 'Ordinas kaltintas Žiemgalos ir kitų kraštų vertimu dykynėmis, teigiant, kad tai daroma krikščionybei ginti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-99906"></a>
 - t-003
+  global_id: t-99906
   teiginys: '1259-1260 m. žiemą Žiemgaloje buvo pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-99907"></a>
 - t-004
+  global_id: t-99907
   teiginys: 'Ordinas Žiemgalą ir kitus kraštus vertė dykynėmis, teigdamas, kad tai daro krikščionybei ginti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-99908"></a>
 - t-005
+  global_id: t-99908
   teiginys: '1259-1260 m. žiemą Žiemgaloje pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183117"></a>
 - t-006
+  global_id: t-183117
   teiginys: 'Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam nepasisekė visiškai nugalėti ordino.'
   pagrindžia:
     - c-004

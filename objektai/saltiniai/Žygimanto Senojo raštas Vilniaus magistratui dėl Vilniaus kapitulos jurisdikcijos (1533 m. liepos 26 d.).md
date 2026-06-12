@@ -26,12 +26,16 @@ Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO 
 
 ## Teiginiai
 
+<a id="claim-t-88169"></a>
 - t-001
+  global_id: t-88169
   teiginys: 'Žygimanto Senojo raštas Vilniaus magistratui buvo susijęs su vyskupo nesikišimu į miesto jurisdikcijoje tarnaujančiųjų teises.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88170"></a>
 - t-002
+  global_id: t-88170
   teiginys: 'Vilniaus tarėjai miesto vardu reikalavo būti atleisti nuo jurisdikcijos, kurią, jų teigimu, naujai pasisavino kapitula.'
   pagrindžia:
     - c-001

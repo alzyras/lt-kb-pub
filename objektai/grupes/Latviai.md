@@ -23,84 +23,74 @@ amziai:
   - 'XIII'
   - 'XXI'
 ---
-
 # Latviai
 
 ## Santrauka
 
 Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, tai iš jų visų susiformavo latvių tauta.
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/asmenys/A. Stapulionis]]
-- [[objektai/grupes/Andrejaus Vlasovo armija]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
-- [[objektai/grupes/Bolševikai]]
-- [[objektai/autoriai/H. Lowmiański]]
-- [[objektai/grupes/Joniškėlio partizanų batalionas]]
-- [[objektai/grupes/Latvių Tautos Taryba|Latvių Tautos Taryba (institucija)]]
-- [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]
-- [[objektai/posakiai/Liet’gola Lethi vel Lethigalli]]
-- [[objektai/grupes/Lybiai]]
-- [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
-- [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas|Petrapilio latvių pabėgėlių komitetas (institucija)]]
-- [[objektai/ivykiai/Polocko pavergimas Mindaugo laikais]]
-- [[objektai/grupes/Prūsijos valstybė]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Tautų Sąjungos susirinkimas]]
-- [[objektai/asmenys/Teobaldas fon Betmanas Holvegas]]
-- [[objektai/grupes/Vokiečių saksų batalionas]]
-- [[objektai/zodynas/sulatvinimas]]
-- [[objektai/grupes/Žiemgaliai]]
-- [[objektai/ivykiai/„Aušros“ leidimo pradžia]]
-- [[objektai/grupes/Aisčiai]]
-
 ## Teiginiai
 
+<a id="claim-t-169584"></a>
 - t-001
+  global_id: t-169584
   teiginys: 'Latvijos Henrikas tikruosius latvius vadino „Lethi vel Lethigalli“ ir aiškino, kad jie deramai vadinami Lethigalli.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169585"></a>
 - t-002
+  global_id: t-169585
   teiginys: 'Balinskis latvius priskyrė vienai iš šešių pagrindinių lietuvių tautos atšakų.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-169586"></a>
 - t-003
+  global_id: t-169586
   teiginys: 'II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių ir latvių tautos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169587"></a>
 - t-004
+  global_id: t-169587
   teiginys: 'Kronikoje vaizduojamu laikotarpiu latviai, lietuviai ir prūsai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-169588"></a>
 - t-005
+  global_id: t-169588
   teiginys: 'Latvių ten atliktas asimiliacijos faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių sritis yra asimiliavę lietuviai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169589"></a>
 - t-006
+  global_id: t-169589
   teiginys: 'Tikrieji latviai Nestoro kronikai buvo žinomi kaip Liet''''gola.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169591"></a>
 - t-007
+  global_id: t-169591
   teiginys: 'XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-169592"></a>
 - t-008
+  global_id: t-169592
   teiginys: 'Tikrieji latviai naujojo geležies amžiaus pradžioje pradėjo ryškiau kalbiškai skirtis nuo lietuvių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184516"></a>
 - t-009
-  teiginys: 'Kojelavičius teigia, kad grėsminga tebuvo šiaurė, tačiau tos pusės saugumą laidavo tai, kad vokiečiai ir latviai, įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti Lietuvos.'
+  global_id: t-184516
+  teiginys: 'Vokiečiai ir latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos.'
   pagrindžia:
     - c-007
 
@@ -220,7 +210,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-004
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad grėsminga tebuvo šiaurė, tačiau tos pusės saugumą laidavo tai, kad vokiečiai ir latviai, įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti Lietuvos.'
+  santrauka: 'Vokiečiai ir latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-
@@ -249,3 +239,63 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   statusas: verified
   pagrindžia:
     - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/A. Stapulionis]]
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Andrejaus Vlasovo armija]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/autoriai/H. Lowmiański]]
+- [[objektai/grupes/Joniškėlio partizanų batalionas]]
+- [[objektai/grupes/Latvių Tautos Taryba|Latvių Tautos Taryba (institucija)]]
+- [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]
+- [[objektai/posakiai/Liet’gola Lethi vel Lethigalli]]
+- [[objektai/grupes/Lybiai]]
+- [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
+- [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas|Petrapilio latvių pabėgėlių komitetas (institucija)]]
+- [[objektai/ivykiai/Polocko pavergimas Mindaugo laikais]]
+- [[objektai/grupes/Prūsijos valstybė]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Tautų Sąjungos susirinkimas]]
+- [[objektai/asmenys/Teobaldas fon Betmanas Holvegas]]
+- [[objektai/grupes/Vokiečių saksų batalionas]]
+- [[objektai/zodynas/sulatvinimas]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/ivykiai/„Aušros“ leidimo pradžia]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/grupes/Gotai]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/grupes/Herulai]]
+- [[objektai/asmenys/Kukovaitis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Prūsijos žemė]]
+- [[objektai/asmenys/Skirmantas]]
+- [[objektai/grupes/Sėliai]]
+- [[objektai/zodynas/Vidivarijai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Vokiečių ordinas]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės]]
+- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
+- [[objektai/grupes/Estai]]
+- [[objektai/autoriai/F. Bopas]]
+- [[objektai/autoriai/J. Endzelynas]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/autoriai/Labuda G]]
+- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- [[objektai/ivykiai/Nepriklausomosios Latvių valstybės įkūrimas (1918 m. lapkričio 18 d.)]]
+- [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]
+- [[objektai/zodynas/Prūsijos žemė terra Prussiae]]
+- [[objektai/grupes/SSRS liaudies deputatų II suvažiavimas]]
+- [[objektai/asmenys/Treniota]]
+- [[objektai/autoriai/V. Mažiulis]]
+- [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]
+- [[objektai/zodynas/akcijos]]
+- [[objektai/zodynas/terrula žemelė]]
+- [[objektai/zodynas/vakariniai baltai]]
+- [[objektai/asmenys/Aleksandras Balinskis]]

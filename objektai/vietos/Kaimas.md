@@ -19,12 +19,16 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 
 ## Teiginiai
 
+<a id="claim-t-58560"></a>
 - t-001
+  global_id: t-58560
   teiginys: 'Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58561"></a>
 - t-002
+  global_id: t-58561
   teiginys: 'Kaimas buvo to paties vardo valsčiaus centras rytų Semboje, į vakarus nuo Deimenos.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 
 
 ## Teiginiai
 
+<a id="claim-t-35338"></a>
 - t-001
+  global_id: t-35338
   teiginys: 'Vydimantas buvo žinomas Žemaičių bajoras, kurio dukterį Birutę vedė Kęstutis.'
   pagrindžia:
     - c-001

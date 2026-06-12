@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39272"></a>
 - t-001
+  global_id: t-39272
   teiginys: 'PPS 41 buvo gausiai gamintas Antrojo pasaulinio karo pistoletas-kulkosvaidis, kurį Lietuvos partizanai dažnai naudojo iki pasipriešinimo kovų pabaigos.'
   pagrindžia:
     - c-001

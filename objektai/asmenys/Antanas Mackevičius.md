@@ -27,47 +27,65 @@ Mackevičius, vėliau K.
 
 ## Teiginiai
 
+<a id="claim-t-75694"></a>
 - t-001
+  global_id: t-75694
   teiginys: 'Kauno gubernijoje vienas pirmųjų sukilimo organizatorių buvo kunigas Antanas Mackevičius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75695"></a>
 - t-002
+  global_id: t-75695
   teiginys: 'Po Z. Sierakausko mirties Antanas Mackevičius paskirtas Kauno gubernijos sukilėlių karo vadu.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-75696"></a>
 - t-003
+  global_id: t-75696
   teiginys: 'Mackevičiui nepavyko tinkamai išdėstyti gynybai savo šaulių, klampioje vietovėje sukilėlių kavalerija buvo neveiksminga.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-75697"></a>
 - t-004
+  global_id: t-75697
   teiginys: 'Mackevičius stovykloje laikė mišias, atlikinėjo naujokų įšventinimo apeigas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75698"></a>
 - t-005
+  global_id: t-75698
   teiginys: 'Antanas Mackevičius po Z. Sierakausko mirties buvo paskirtas Kauno gubernijos sukilėlių karo vadu.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-75699"></a>
 - t-006
+  global_id: t-75699
   teiginys: 'Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-75700"></a>
 - t-007
+  global_id: t-75700
   teiginys: 'Zigmantas Sierakauskas vienai sukilėlių kariuomenės kolonai pavedė vadovauti Antanui Mackevičiui.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75701"></a>
 - t-008
+  global_id: t-75701
   teiginys: 'Kunigas Mackevičius sakė pamokslą lenkiškai ir lietuviškai, ragindamas eiti už tikėjimą, Lietuvą ir lietuvius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75702"></a>
 - t-009
+  global_id: t-75702
   teiginys: 'Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.'
   pagrindžia:
     - c-007

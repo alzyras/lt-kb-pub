@@ -22,7 +22,9 @@ Jono bažnyčios Apaštališkojo Sosto valia inkorporavimas į Aka­ demijos kol
 
 ## Teiginiai
 
+<a id="claim-t-88436"></a>
 - t-001
+  global_id: t-88436
   teiginys: 'Kardinolas Pranciškus Komendonas patvirtino parapijinės Šv. Jono bažnyčios inkorporavimą į Akademijos kolegiją.'
   pagrindžia:
     - c-001

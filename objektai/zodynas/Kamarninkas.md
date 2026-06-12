@@ -19,12 +19,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-28554"></a>
 - t-001
+  global_id: t-28554
   teiginys: 'Ordinas į Žemaičius siuntė kamarninkus žmonėms teisti ir valdyti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-28555"></a>
 - t-002
+  global_id: t-28555
   teiginys: 'Ordino kamarninkai Žemaičiuose vėl ėmė matuoti laukus ir surašinėti gyventojus.'
   pagrindžia:
     - c-001

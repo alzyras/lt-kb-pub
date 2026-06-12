@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad tuo būdu sutvarkę Rusioje reikalus taip, kaip norėjo, lietuviai pasijuto saugiau ir pradėjo keršyti kryžiuočiams už praėjusių metų skriaudas. Kojelavičius teigia, kad vėliau sūnaus žygį pakartojo tėvas Kęstutis, Jis, iš seno įpratęs kariauti K ę s tu č io k a lin is su m a n u m a s veikiau sumanumu nei jėga, Mazovijos pasieniais nuvedė kariuomenę į tą Prūsijos pa kraštį, kuris, būdamas gana toli nuo Lietuvos, rodėsi. Kojelavičius teigia, kad mat miškuose (kuriais kryžiuočiai turėjo trauktyti grioviai labai trukdė judėti.
+Po reikalų Rusioje sutvarkymo lietuviai pradėjo keršyti kryžiuočiams už ankstesnių metų skriaudas. Kęstutis Mazovijos pasieniu nuvedė kariuomenę į menkai įtvirtintą Prūsijos pakraštį ir prie Saldavos bei Neidenburgo sumušė kryžiuočius. Lietuvių pasaloje kryžiuočiai sugriuvo į šakomis ir velėnomis pridengtus griovius, prarado vadus ir dalį karių.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,25 +32,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185655"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tuo būdu sutvarkę Rusioje reikalus taip, kaip norėjo, lietuviai pasijuto saugiau ir pradėjo keršyti kryžiuočiams už praėjusių metų skriaudas.'
+  global_id: t-185655
+  teiginys: 'Po reikalų Rusioje sutvarkymo lietuviai pradėjo keršyti kryžiuočiams už ankstesnių metų skriaudas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185656"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad vėliau sūnaus žygį pakartojo tėvas Kęstutis, Jis, iš seno įpratęs kariauti K ę s tu č io k a lin is su m a n u m a s veikiau sumanumu nei jėga, Mazovijos pasieniais nuvedė kariuomenę į tą Prūsijos pa kraštį, kuris, būdamas gana toli nuo Lietuvos, rodėsi.'
+  global_id: t-185656
+  teiginys: 'Kęstutis Mazovijos pasieniu nuvedė kariuomenę į menkai įtvirtintą Prūsijos pakraštį ir prie Saldavos bei Neidenburgo sumušė kryžiuočius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185657"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad mat miškuose (kuriais kryžiuočiai turėjo trauktyti grioviai labai trukdė judėti.'
+  global_id: t-185657
+  teiginys: 'Lietuvių pasaloje kryžiuočiai sugriuvo į šakomis ir velėnomis pridengtus griovius, prarado vadus ir dalį karių.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tuo būdu sutvarkę Rusioje reikalus taip, kaip norėjo, lietuviai pasijuto saugiau ir pradėjo keršyti kryžiuočiams už praėjusių metų skriaudas.'
+  santrauka: 'Po reikalų Rusioje sutvarkymo lietuviai pradėjo keršyti kryžiuočiams už ankstesnių metų skriaudas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo būdu sutvarkę
@@ -77,7 +82,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad vėliau sūnaus žygį pakartojo tėvas Kęstutis, Jis, iš seno įpratęs kariauti K ę s tu č io k a lin is su m a n u m a s veikiau sumanumu nei jėga, Mazovijos pasieniais nuvedė kariuomenę į tą Prūsijos pa kraštį, kuris, būdamas gana toli nuo Lietuvos, rodėsi.'
+  santrauka: 'Kęstutis Mazovijos pasieniu nuvedė kariuomenę į menkai įtvirtintą Prūsijos pakraštį ir prie Saldavos bei Neidenburgo sumušė kryžiuočius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vėliau sūnaus žygį
@@ -107,7 +112,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad mat miškuose (kuriais kryžiuočiai turėjo trauktyti grioviai labai trukdė judėti.'
+  santrauka: 'Lietuvių pasaloje kryžiuočiai sugriuvo į šakomis ir velėnomis pridengtus griovius, prarado vadus ir dalį karių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat miškuose (kuriais kryžiuočiai turėjo trauk-
@@ -124,3 +129,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

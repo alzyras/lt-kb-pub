@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31895"></a>
 - t-001
+  global_id: t-31895
   teiginys: '„Prie lietuviškų spaudinių uždraudimo istorijos“ 1969 m. paskelbta BBK 7 tome, 223-235 puslapiuose.'
   pagrindžia:
     - c-001

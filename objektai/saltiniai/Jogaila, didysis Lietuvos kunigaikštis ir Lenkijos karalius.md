@@ -25,12 +25,16 @@ Originali yra nebaigta studija : « Jogaila, didysis Lietuvos kunigaikštis ir L
 
 ## Teiginiai
 
+<a id="claim-t-97253"></a>
 - t-001
+  global_id: t-97253
   teiginys: 'Studija „Jogaila, didysis Lietuvos kunigaikštis ir Lenkijos karalius“ liko nebaigta ir buvo skelbta „Židinyje“ 1935–1936 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97254"></a>
 - t-002
+  global_id: t-97254
   teiginys: ') Lietuviškoje Enciklopedijoje (Kaune) rodė jo gilią erudiciją.'
   pagrindžia:
     - c-001

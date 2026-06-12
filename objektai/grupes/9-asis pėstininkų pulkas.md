@@ -16,7 +16,9 @@ Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pu
 
 ## Teiginiai
 
+<a id="claim-t-40831"></a>
 - t-001
+  global_id: t-40831
   teiginys: 'Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pulkų pradėjo kontrpuolimą ir po permainingų ir nemažai nuostolių pareikalavusių kovų atsiėmė po paskutinio lenkų puolimo prarastas Lietuvos žemes.'
   pagrindžia:
     - c-001

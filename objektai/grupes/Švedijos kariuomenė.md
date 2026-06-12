@@ -26,12 +26,16 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
 
 ## Teiginiai
 
+<a id="claim-t-41213"></a>
 - t-001
+  global_id: t-41213
   teiginys: 'Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41214"></a>
 - t-002
+  global_id: t-41214
   teiginys: 'Chodkevičius siekė neleisti švedams susijungti, tačiau to padaryti nepavyko ir rugsėjo 23 d. Švedijos kariuomenė apgulė Rygą.'
   pagrindžia:
     - c-002

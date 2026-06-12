@@ -16,7 +16,9 @@ Dusburgietis teigia, kad turėdami omenyje prūsų dievų triadą (Patulas, Patr
 
 ## Teiginiai
 
+<a id="claim-t-60707"></a>
 - t-001
+  global_id: t-60707
   teiginys: 'Algirdas Greimas veikale „Apie dievus...“ aptarė prūsų dievų triadą ir dievus žemininkus.'
   pagrindžia:
     - c-001

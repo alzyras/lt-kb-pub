@@ -17,7 +17,9 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
 
 ## Teiginiai
 
+<a id="claim-t-63359"></a>
 - t-001
+  global_id: t-63359
   teiginys: 'Vytautas Petkevičius buvo tarp garsių visuomenės veikėjų, parėmusių LPS tautinio atgimimo idėjas.'
   pagrindžia:
     - c-001

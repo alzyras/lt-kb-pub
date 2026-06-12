@@ -26,27 +26,37 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
 
 ## Teiginiai
 
+<a id="claim-t-175164"></a>
 - t-001
+  global_id: t-175164
   teiginys: 'Dusburgietis teigia, kad čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p. 35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185).'
   pagrindžia:
     - c-005
 
+<a id="claim-t-175165"></a>
 - t-002
+  global_id: t-175165
   teiginys: 'Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatinti su vietove prie Mituvos aukštupio — Skeršpile (1915 m. — Szkerkszpile; Tarasenka P., Lietuvos archeologinė medžiaga, p. 245; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185 ir žemėl.), tačiau dab.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-175166"></a>
 - t-003
+  global_id: t-175166
   teiginys: 'H. ir G. Mortensenų veikalas nurodomas kaip darbas, kuriame Pagraudės ieškota labiau į rytus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-175167"></a>
 - t-004
+  global_id: t-175167
   teiginys: 'H. Mortenseno ir G. Mortenseno „Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts“ išleista dviem dalimis 1937 ir 1938 m.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-175169"></a>
 - t-005
+  global_id: t-175169
   teiginys: 'H. ir G. Mortensenų veikalas minimas tarp darbų, kuriuose Kolainių pilies ieškota toliau į rytus už Bisenės.'
   pagrindžia:
     - c-002

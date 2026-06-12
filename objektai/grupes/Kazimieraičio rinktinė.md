@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-80654"></a>
 - t-001
+  global_id: t-80654
   teiginys: '1948 m. jis buvo paskirtas Kazimieraičio rinktinės vadu, ėjo ir Dainavos apygardos vado pavaduotojo pareigas.'
   pagrindžia:
     - c-001

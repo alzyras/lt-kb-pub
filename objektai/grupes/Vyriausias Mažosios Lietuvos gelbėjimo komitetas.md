@@ -17,17 +17,23 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-66320"></a>
 - t-001
+  global_id: t-66320
   teiginys: 'Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66321"></a>
 - t-002
+  global_id: t-66321
   teiginys: '1923 m. sausio 17 d. VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66322"></a>
 - t-003
+  global_id: t-66322
   teiginys: '1923 m. sausio 6 d. Šilutėje sudarytas Vyriausias Mažosios Lietuvos gelbėjimo komitetas (VMLGK) po trijų dienų paprašė Lietuvos ateiti į pagalbą.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be por
 
 ## Teiginiai
 
+<a id="claim-t-78079"></a>
 - t-001
+  global_id: t-78079
   teiginys: 'Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras.'
   pagrindžia:
     - c-001

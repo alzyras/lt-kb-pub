@@ -22,7 +22,9 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
 
 ## Teiginiai
 
+<a id="claim-t-61226"></a>
 - t-001
+  global_id: t-61226
   teiginys: 'Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvydas M., Pirmoji lietuviška knyga, p. 104—105).'
   pagrindžia:
     - c-001

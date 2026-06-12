@@ -24,7 +24,9 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
 
 ## Teiginiai
 
+<a id="claim-t-32372"></a>
 - t-001
+  global_id: t-32372
   teiginys: 'Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą kartą 1259 m. prie Mituvos ir Imsrės žiočių į Nemuną (Karšuvos srityje) statėsi bendrą pilį Georgenburgą — Jurbarką.'
   pagrindžia:
     - c-001

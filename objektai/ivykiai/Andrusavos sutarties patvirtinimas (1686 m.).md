@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01573"></a>
 - t-001
+  global_id: t-01573
   teiginys: '1686 m. Andrusavos sutartis buvo patvirtinta su didelėmis nuolaidomis Maskvai, tačiau caras neprisidėjo prie karo su turkais.'
   pagrindžia:
     - c-001

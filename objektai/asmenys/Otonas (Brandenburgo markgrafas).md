@@ -28,7 +28,9 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 
 ## Teiginiai
 
+<a id="claim-t-60188"></a>
 - t-001
+  global_id: t-60188
   teiginys: '1266 m. Brandenburgo markgrafas Otonas su sūnumi ir broliu patraukė į Prūsiją tramdyti prūsų sukilimo.'
   pagrindžia:
     - c-001

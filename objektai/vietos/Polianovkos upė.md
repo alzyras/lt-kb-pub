@@ -25,7 +25,9 @@ Po mūšio Prie Polianovkos upės Lietuva ir Lenkija su Rusija sudarė „amžin
 
 ## Teiginiai
 
+<a id="claim-t-38530"></a>
 - t-001
+  global_id: t-38530
   teiginys: 'Prie Polianovkos upės Lietuva ir Lenkija su Rusija sudarė „amžinosios taikos“ sutartį.'
   pagrindžia:
     - c-001

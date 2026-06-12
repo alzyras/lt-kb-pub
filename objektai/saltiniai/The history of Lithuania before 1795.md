@@ -24,7 +24,9 @@ The history of Lithuania before 1795 / [translated by Irena Zujienė ...
 
 ## Teiginiai
 
+<a id="claim-t-78157"></a>
 - t-001
+  global_id: t-78157
   teiginys: 'The history of Lithuania before 1795 / [translated by Irena Zujienė ...'
   pagrindžia:
     - c-001

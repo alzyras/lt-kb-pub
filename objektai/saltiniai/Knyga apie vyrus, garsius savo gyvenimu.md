@@ -17,7 +17,9 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
 
 ## Teiginiai
 
+<a id="claim-t-26485"></a>
 - t-001
+  global_id: t-26485
   teiginys: 'Enėjas Silvijus Pikolominis „Knygoje apie vyrus, garsius savo gyvenimu“ išaukštino Vytautą ir jo tėvynę.'
   pagrindžia:
     - c-001

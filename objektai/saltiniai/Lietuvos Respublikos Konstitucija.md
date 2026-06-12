@@ -25,7 +25,9 @@ Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdym
 
 ## Teiginiai
 
+<a id="claim-t-78153"></a>
 - t-001
+  global_id: t-78153
   teiginys: 'Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį.'
   pagrindžia:
     - c-001

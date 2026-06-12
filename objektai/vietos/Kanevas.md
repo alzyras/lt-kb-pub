@@ -18,7 +18,6 @@ tags:
 amziai:
   - 'XIV'
 ---
-
 # Kanevas
 
 ## Santrauka
@@ -27,13 +26,17 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41759"></a>
 - t-001
+  global_id: t-41759
   teiginys: 'XVI a. vidurio Kanevo pilies aprašo padavime sakoma, kad Kanevą su Čerkasais įkūrė Gediminas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184968"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad gediminas, pasilsėjęs čia, kol artimiausios pi lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida vė nugalėtojui, patraukė į Severską.'
+  global_id: t-184968
+  teiginys: 'Gediminui užėmus Kijevą, Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pilys pasidavė nugalėtojui.'
   pagrindžia:
     - c-002
 
@@ -60,7 +63,7 @@ amziai:
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad gediminas, pasilsėjęs čia, kol artimiausios pi lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida vė nugalėtojui, patraukė į Severską.'
+  santrauka: 'Gediminui užėmus Kijevą, Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pilys pasidavė nugalėtojui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Visi luo­

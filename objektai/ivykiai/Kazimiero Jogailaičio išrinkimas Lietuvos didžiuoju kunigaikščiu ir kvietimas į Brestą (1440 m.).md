@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad kiti manė, kad karaliaus išrinkimas didžiuoju kunigaikščiu gali atnešti daugiau žalos nei naudos, nes, neseniai pa keltas į Vengrijos karaliaus sostą ir atskirtas nuo Lietu vos tokių didelių nuotolių, negalėsiąs laiku nei žinios apie pavojų gauti, nei ką. Kojelavičius teigia, kad štai todėl kuo grei čiausiai sušaukė Breste seimą, nes kelias į tą miestą Kazi mierui buvo artimas, o kitų grupuočių vadovams tolo kas. Kojelavičius teigia, kad štai todėl Kazimieras, pasak Lietuvos istori kų, negavęs lenkų pritarimo, slaptai iškeliavęs iš Sandomiro į Brestą.
+Po ginčų daugelis Lietuvos didikų nutarė valdovu rinkti karaliaus Vladislovo brolį Kazimierą. Lietuvos didikai Breste skubiai sušaukė seimą, nes Kazimierui kelias į Brestą buvo artimas. Pasak Lietuvos istorikų, Kazimieras be lenkų pritarimo slapta iškeliavo iš Sandomiro į Brestą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,25 +32,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185586"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kiti manė, kad karaliaus išrinkimas didžiuoju kunigaikščiu gali atnešti daugiau žalos nei naudos, nes, neseniai pa keltas į Vengrijos karaliaus sostą ir atskirtas nuo Lietu vos tokių didelių nuotolių, negalėsiąs laiku nei žinios apie pavojų gauti, nei ką.'
+  global_id: t-185586
+  teiginys: 'Po ginčų daugelis Lietuvos didikų nutarė valdovu rinkti karaliaus Vladislovo brolį Kazimierą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185587"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad štai todėl kuo grei čiausiai sušaukė Breste seimą, nes kelias į tą miestą Kazi mierui buvo artimas, o kitų grupuočių vadovams tolo kas.'
+  global_id: t-185587
+  teiginys: 'Lietuvos didikai Breste skubiai sušaukė seimą, nes Kazimierui kelias į Brestą buvo artimas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185588"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad štai todėl Kazimieras, pasak Lietuvos istori kų, negavęs lenkų pritarimo, slaptai iškeliavęs iš Sandomiro į Brestą.'
+  global_id: t-185588
+  teiginys: 'Pasak Lietuvos istorikų, Kazimieras be lenkų pritarimo slapta iškeliavo iš Sandomiro į Brestą.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kiti manė, kad karaliaus išrinkimas didžiuoju kunigaikščiu gali atnešti daugiau žalos nei naudos, nes, neseniai pa keltas į Vengrijos karaliaus sostą ir atskirtas nuo Lietu vos tokių didelių nuotolių, negalėsiąs laiku nei žinios apie pavojų gauti, nei ką.'
+  santrauka: 'Po ginčų daugelis Lietuvos didikų nutarė valdovu rinkti karaliaus Vladislovo brolį Kazimierą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
@@ -79,7 +84,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad štai todėl kuo grei čiausiai sušaukė Breste seimą, nes kelias į tą miestą Kazi mierui buvo artimas, o kitų grupuočių vadovams tolo kas.'
+  santrauka: 'Lietuvos didikai Breste skubiai sušaukė seimą, nes Kazimierui kelias į Brestą buvo artimas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kiti parėmė šį siūlymą
@@ -103,7 +108,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad štai todėl Kazimieras, pasak Lietuvos istori kų, negavęs lenkų pritarimo, slaptai iškeliavęs iš Sandomiro į Brestą.'
+  santrauka: 'Pasak Lietuvos istorikų, Kazimieras be lenkų pritarimo slapta iškeliavo iš Sandomiro į Brestą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Godžiai trokštantis valdžios viršūnių jaunikaitis
@@ -120,3 +125,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Manvydas]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/grupes/Lietuvos didikai]]

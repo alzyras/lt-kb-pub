@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-36826"></a>
 - t-001
+  global_id: t-36826
   teiginys: 'Vaidyla iš dvaro duonkepio padėjėjo buvo pakeltas didžiojo kunigaikščio rūmininku, o vėliau tapo vyno pilstytoju.'
   pagrindžia:
     - c-001

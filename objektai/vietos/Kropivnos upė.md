@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kropivnos upė
 
 ## Santrauka
 
-Kojelavičius teigia, kad po šių įvykių Čeliadninas, praradęs pirmykštį užmojį, pamanė, kad, turėdamas Dneprą už nugaros, gali būti priverstas kau tis nepatogiomis sąlygomis, todėl, atitraukęs visas jė gas už upės, apsistojo Kropivnos upės pakrantėse, tarp Oršos ir Dubrovnos. Kojelavičius teigia, kad kova pavirto tikromis skerdynėmis, ne maža maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje.
+Čeliadninas atitraukė visas jėgas už upės ir apsistojo Kropivnos upės pakrantėse tarp Oršos ir Dubrovnos. Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje.
 
 ## Teiginiai
 
+<a id="claim-t-185266"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad po šių įvykių Čeliadninas, praradęs pirmykštį užmojį, pamanė, kad, turėdamas Dneprą už nugaros, gali būti priverstas kau tis nepatogiomis sąlygomis, todėl, atitraukęs visas jė gas už upės, apsistojo Kropivnos upės pakrantėse, tarp Oršos ir Dubrovnos.'
+  global_id: t-185266
+  teiginys: 'Čeliadninas atitraukė visas jėgas už upės ir apsistojo Kropivnos upės pakrantėse tarp Oršos ir Dubrovnos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185267"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kova pavirto tikromis skerdynėmis, ne maža maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje.'
+  global_id: t-185267
+  teiginys: 'Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad po šių įvykių Čeliadninas, praradęs pirmykštį užmojį, pamanė, kad, turėdamas Dneprą už nugaros, gali būti priverstas kau tis nepatogiomis sąlygomis, todėl, atitraukęs visas jė gas už upės, apsistojo Kropivnos upės pakrantėse, tarp Oršos ir Dubrovnos.'
+  santrauka: 'Čeliadninas atitraukė visas jėgas už upės ir apsistojo Kropivnos upės pakrantėse tarp Oršos ir Dubrovnos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo
@@ -49,7 +52,7 @@ Kojelavičius teigia, kad po šių įvykių Čeliadninas, praradęs pirmykštį 
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kova pavirto tikromis skerdynėmis, ne maža maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje.'
+  santrauka: 'Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Konstantinas, pasukęs su savo kariais į

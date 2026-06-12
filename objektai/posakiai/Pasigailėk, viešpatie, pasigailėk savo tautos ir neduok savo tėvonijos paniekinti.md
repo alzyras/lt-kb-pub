@@ -19,7 +19,9 @@ Dusburgietis teigia, kad tuo metu, kai šitai vyko, Kulmo broliai, susirinkę dr
 
 ## Teiginiai
 
+<a id="claim-t-59147"></a>
 - t-001
+  global_id: t-59147
   teiginys: 'Kulmo broliai, kilmingieji ir miestiečiai meldėsi žodžiais „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo tėvonijos paniekinti“.'
   pagrindžia:
     - c-001

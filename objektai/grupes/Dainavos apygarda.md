@@ -22,7 +22,9 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
 
 ## Teiginiai
 
+<a id="claim-t-80653"></a>
 - t-001
+  global_id: t-80653
   teiginys: 'Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.'
   pagrindžia:
     - c-001

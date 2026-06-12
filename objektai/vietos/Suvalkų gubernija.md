@@ -16,7 +16,9 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
 
 ## Teiginiai
 
+<a id="claim-t-15332"></a>
 - t-001
+  global_id: t-15332
   teiginys: 'Nuo 1867 m. Lietuvos Užnemunė priklausė Suvalkų gubernijai, apėmusiai maždaug šeštadalį dabartinės Lietuvos teritorijos.'
   pagrindžia:
     - c-001

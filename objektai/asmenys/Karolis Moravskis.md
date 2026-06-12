@@ -17,7 +17,9 @@ Prieš priemiesčius stovėjo 2-asis regimentas, vadovaujamas Karolio Moravskio 
 
 ## Teiginiai
 
+<a id="claim-t-40272"></a>
 - t-001
+  global_id: t-40272
   teiginys: 'Karolis Moravskis vadovavo 2-ajam regimentui, stovėjusiam prieš priemiesčius prie Lietuvos Brastos.'
   pagrindžia:
     - c-001

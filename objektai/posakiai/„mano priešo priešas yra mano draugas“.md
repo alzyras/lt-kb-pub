@@ -23,17 +23,23 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
 
 ## Teiginiai
 
+<a id="claim-t-54390"></a>
 - t-001
+  global_id: t-54390
   teiginys: 'Lietuvių ir rygiečių sąjunga buvo grindžiama principu „mano priešo priešas yra mano draugas“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54391"></a>
 - t-002
+  global_id: t-54391
   teiginys: 'Lietuvių ir rygiečių sąjunga buvo grindžiama dėsniu „mano priešo priešas yra mano draugas“ ir iš viso truko tris dešimtmečius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184368"></a>
 - t-003
+  global_id: t-184368
   teiginys: 'Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.'
   pagrindžia:
     - c-002

@@ -24,27 +24,37 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-49399"></a>
 - t-001
+  global_id: t-49399
   teiginys: 'K. Škirpos vadovaujamai kairiajai kolonai buvo įsakyta pulti Mukulių dvaro, Medinių, Sniegiškių, Štadvilių, Jaunaikių ir Krasnos kryptimi.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-49400"></a>
 - t-002
+  global_id: t-49400
   teiginys: 'Rugsėjo 5 d. K. Škirpos ir Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-49401"></a>
 - t-003
+  global_id: t-49401
   teiginys: 'Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos sunaikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos tęsia nevaisingą Suvalkų puolimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-49402"></a>
 - t-004
+  global_id: t-49402
   teiginys: 'K. Škirpa vadovavo Vilniaus batalionui, kuriam buvo įsakyta saugoti Paltynų-Žaiginio barą iki 1919 m.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-49403"></a>
 - t-005
+  global_id: t-49403
   teiginys: 'K. Škirpos rezervas buvo pasiųstas pulti Suvalkų pro Krasnapolį, bet lietuviai sutiko stiprų lenkų pasipriešinimą.'
   pagrindžia:
     - c-001

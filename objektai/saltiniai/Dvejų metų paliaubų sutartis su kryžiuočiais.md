@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Dvejų metų paliaubų sutartis su kryžiuočiais
 
 ## Santrauka
 
-Kojelavičius teigia, kad be abejo, šitai buvo galegato pasiūlytomis lingas skydas, ypač prieš Jopaliaubomis gailą ir Vytautą, kurie, visai neseniai priėmę krikščionių tikėjimą ir nė trupučio jam neatšalę, karštai gerbė po piežiaus žodį. Kojelavičius teigia, kad danijos karalius ir Pomeranijos kunigaikštis, atvykę kryžiuočiams į pagalbą ir supratę, kas teisus ir netei sus, pasipiktino ir, atvirai atsisakę remti kryžiuočius, perėjo į Jogailos ir Vytauto pusę, pasirašydami sutartį, kuria pasižadėjo padėti kovoti prieš.
+Jogaila ir Vytautas, arkivyskupo Baltramiejaus Kapros skatinami, antrą kartą sutiko sudaryti dvejų metų paliaubas su kryžiuočiais. Danijos karalius ir Pomeranijos kunigaikštis perėjo į Jogailos ir Vytauto pusę ir pasižadėjo padėti kovoti prieš kryžiuočius, jei šie nepaisytų paliaubų.
 
 ## Teiginiai
 
+<a id="claim-t-186309"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad be abejo, šitai buvo galegato pasiūlytomis lingas skydas, ypač prieš Jopaliaubomis gailą ir Vytautą, kurie, visai neseniai priėmę krikščionių tikėjimą ir nė trupučio jam neatšalę, karštai gerbė po piežiaus žodį.'
+  global_id: t-186309
+  teiginys: 'Jogaila ir Vytautas, arkivyskupo Baltramiejaus Kapros skatinami, antrą kartą sutiko sudaryti dvejų metų paliaubas su kryžiuočiais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186310"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad danijos karalius ir Pomeranijos kunigaikštis, atvykę kryžiuočiams į pagalbą ir supratę, kas teisus ir netei sus, pasipiktino ir, atvirai atsisakę remti kryžiuočius, perėjo į Jogailos ir Vytauto pusę, pasirašydami sutartį, kuria pasižadėjo padėti kovoti prieš.'
+  global_id: t-186310
+  teiginys: 'Danijos karalius ir Pomeranijos kunigaikštis perėjo į Jogailos ir Vytauto pusę ir pasižadėjo padėti kovoti prieš kryžiuočius, jei šie nepaisytų paliaubų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad be abejo, šitai buvo galegato pasiūlytomis lingas skydas, ypač prieš Jopaliaubomis gailą ir Vytautą, kurie, visai neseniai priėmę krikščionių tikėjimą ir nė trupučio jam neatšalę, karštai gerbė po piežiaus žodį.'
+  santrauka: 'Jogaila ir Vytautas, arkivyskupo Baltramiejaus Kapros skatinami, antrą kartą sutiko sudaryti dvejų metų paliaubas su kryžiuočiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi daliniai jau
@@ -54,7 +57,7 @@ Kojelavičius teigia, kad be abejo, šitai buvo galegato pasiūlytomis lingas sk
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad danijos karalius ir Pomeranijos kunigaikštis, atvykę kryžiuočiams į pagalbą ir supratę, kas teisus ir netei sus, pasipiktino ir, atvirai atsisakę remti kryžiuočius, perėjo į Jogailos ir Vytauto pusę, pasirašydami sutartį, kuria pasižadėjo padėti kovoti prieš.'
+  santrauka: 'Danijos karalius ir Pomeranijos kunigaikštis perėjo į Jogailos ir Vytauto pusę ir pasižadėjo padėti kovoti prieš kryžiuočius, jei šie nepaisytų paliaubų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     397

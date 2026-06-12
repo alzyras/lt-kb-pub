@@ -23,7 +23,9 @@ Gidžiūnas, V.
 
 ## Teiginiai
 
+<a id="claim-t-31950"></a>
 - t-001
+  global_id: t-31950
   teiginys: 'V. Gidžiūno „Vytauto kovos dėl valdžios ir pastangos tapti Lietuvos karalium“ 1973 m. spausdinta „Karyje“, p. 221–228 ir 266–273.'
   pagrindžia:
     - c-001

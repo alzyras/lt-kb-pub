@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Julijonas Dausprungas
 
 ## Santrauka
 
-Kojelavičius teigia, kad pagal kilmę bei karinius nuopelnus buvo vardijami vadai: Palemonas, arba Publijus Libonas, herbo Stulpai, Julijonas Dausprungas;, kurio giminės herbas Kentauras, Prosperas Cezarinas — her bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba Rožynas.
+Kojelavičiaus perpasakotoje tradicijoje Julijonas Dausprungas įvardijamas kaip vienas iš kilmingųjų italų vadų, kurio giminės herbas buvo Kentauras.
 
 ## Teiginiai
 
+<a id="claim-t-186050"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pagal kilmę bei karinius nuopelnus buvo vardijami vadai: Palemonas, arba Publijus Libonas, herbo Stulpai, Julijonas Dausprungas;, kurio giminės herbas Kentauras, Prosperas Cezarinas — her bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba Rožynas.'
+  global_id: t-186050
+  teiginys: 'Kojelavičiaus perpasakotoje tradicijoje Julijonas Dausprungas įvardijamas kaip vienas iš kilmingųjų italų vadų, kurio giminės herbas buvo Kentauras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pagal kilmę bei karinius nuopelnus buvo vardijami vadai: Palemonas, arba Publijus Libonas, herbo Stulpai, Julijonas Dausprungas;, kurio giminės herbas Kentauras, Prosperas Cezarinas — her bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba Rožynas.'
+  santrauka: 'Kojelavičiaus perpasakotoje tradicijoje Julijonas Dausprungas įvardijamas kaip vienas iš kilmingųjų italų vadų, kurio giminės herbas buvo Kentauras.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Galimas daiktas, alanai, arba herulai (kurie,
@@ -52,3 +53,10 @@ Kojelavičius teigia, kad pagal kilmę bei karinius nuopelnus buvo vardijami vad
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Herbas]]
+- [[objektai/grupes/Herulai]]
+- [[objektai/daiktai/Kentauras]]
+- [[objektai/grupes/Italų ateiviai]]

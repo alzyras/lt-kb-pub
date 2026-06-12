@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08287"></a>
 - t-001
+  global_id: t-08287
   teiginys: 'Tris dievų stabai buvo įstatyti ąžuolo uoksuose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08288"></a>
 - t-002
+  global_id: t-08288
   teiginys: 'Per metines viešas aukas žmonės meldėsi prie šėtroje stovinčio aukuro ir dievo stabo.'
   pagrindžia:
     - c-002

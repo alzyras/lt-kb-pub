@@ -22,42 +22,58 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
 
 ## Teiginiai
 
+<a id="claim-t-55004"></a>
 - t-001
+  global_id: t-55004
   teiginys: 'Ignacas Onacevičius vyko į Karaliaučių rinkti istorinių dokumentų iš slaptojo Kryžiuočių ordino archyvo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55005"></a>
 - t-002
+  global_id: t-55005
   teiginys: 'Mykolas Balinskis dėkojo Ignacui Onacevičiui už pagalbą istoriniais dokumentais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55006"></a>
 - t-003
+  global_id: t-55006
   teiginys: 'Ignacas Onacevičius Balinskiui perdavė pastabas ir žinias, tinkamas Vilniaus istorijos darbui.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-81903"></a>
 - t-004
+  global_id: t-81903
   teiginys: 'M. Balinskis dėkojo Ignui Onacevičiui už pagalbą istoriniais dokumentais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-81904"></a>
 - t-005
+  global_id: t-81904
   teiginys: 'Ignacas Onacevičius pateikė pastabų, kuriomis M. Balinskis rėmėsi taisydamas žygio į Vilnių aprašymą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-81905"></a>
 - t-006
+  global_id: t-81905
   teiginys: 'Ignas Onacevičius Karaliaučiuje rinko istorinius dokumentus iš slaptojo Kryžiuočių ordino archyvo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81906"></a>
 - t-007
+  global_id: t-81906
   teiginys: 'Profesorius Onacevičius 1823 m. Varšuvoje išleido Albertrandžio rankraščiais paremtą veikalą „Stepono Batoro valdymas“.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-81907"></a>
 - t-008
+  global_id: t-81907
   teiginys: 'Ignacas Onacevičius perdavė M. Balinskiui pastabas ir įdomias žinias, tinkamas Vilniaus istorijos darbui.'
   pagrindžia:
     - c-005

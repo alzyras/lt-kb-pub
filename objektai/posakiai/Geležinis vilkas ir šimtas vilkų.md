@@ -25,7 +25,9 @@ Gedimi­ nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne regėjo 
 
 ## Teiginiai
 
+<a id="claim-t-86854"></a>
 - t-001
+  global_id: t-86854
   teiginys: 'Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas atrodė toks galingas, tarsi staugtų šimtas vilkų.'
   pagrindžia:
     - c-001

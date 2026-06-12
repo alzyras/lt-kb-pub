@@ -17,12 +17,16 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
 
 ## Teiginiai
 
+<a id="claim-t-70147"></a>
 - t-001
+  global_id: t-70147
   teiginys: 'Vokietėjimas ir vokietinimas nebuvo visą laiką vienodas ir XIX amž., — būtent pirmoje to amžiaus pusėje karštai rūpinosi vokietinimu tik patys Mažosios Lietuvos vokiečiai, o antrojoje pusėje to ėmėsi ir pati centro valdžia.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-70148"></a>
 - t-002
+  global_id: t-70148
   teiginys: 'Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje, todėl ji nespėjo suvokietinti visų lietuvių.'
   pagrindžia:
     - c-001

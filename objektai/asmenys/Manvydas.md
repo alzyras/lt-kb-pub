@@ -20,7 +20,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Manvydas
 
 ## Santrauka
@@ -29,33 +28,45 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 
 ## Teiginiai
 
+<a id="claim-t-87374"></a>
 - t-001
+  global_id: t-87374
   teiginys: 'Manvydo rūmai stovėjo Vilniuje pilies kalno pietų pusėje, tarp kalno ir Vilnelės upės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87375"></a>
 - t-002
+  global_id: t-87375
   teiginys: '1396 m. Vilniuje Manvydas minėtas kaip Vilniaus vaivada tarp dokumento liudytojų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87376"></a>
 - t-003
+  global_id: t-87376
   teiginys: 'Trakų vaivada Manvydas įspėjo Švitrigailą, todėl šis, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87377"></a>
 - t-004
+  global_id: t-87377
   teiginys: 'Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-87378"></a>
 - t-005
+  global_id: t-87378
   teiginys: 'O Manvydas, Trakų vaivada, buvo sučiuptas ir, Žygimanto įsakymu, nukirsdintas20.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184780"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad manvydas susitarė su Goštautu bei Astiku, laikantis senojo susitarimo su len kais, paskelbti valdovu patį karalių Vladislovą.'
+  global_id: t-184780
+  teiginys: 'Manvydas susitarė su Goštautu ir Astiku paskelbti valdovu karalių Vladislovą pagal senąjį susitarimą su lenkais.'
   pagrindžia:
     - c-006
 
@@ -181,7 +192,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - t-004
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad manvydas susitarė su Goštautu bei Astiku, laikantis senojo susitarimo su len kais, paskelbti valdovu patį karalių Vladislovą.'
+  santrauka: 'Manvydas susitarė su Goštautu ir Astiku paskelbti valdovu karalių Vladislovą pagal senąjį susitarimą su lenkais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
@@ -199,3 +210,20 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   statusas: verified
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Astikas]]
+- [[objektai/ivykiai/Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/daiktai/Manvydo rūmai ir Aukštutinės pilies mūrai]]
+- [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)]]
+- [[objektai/zodynas/manu proprio M.P]]
+- [[objektai/zodynas/pataurininkis rykūnė]]
+- [[objektai/zodynas/rotmistras]]

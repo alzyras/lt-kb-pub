@@ -17,7 +17,9 @@ Tų pačių metų liepos 13 d., grįždami iš žygio, Dzūkų būrio partizanai
 
 ## Teiginiai
 
+<a id="claim-t-40877"></a>
 - t-001
+  global_id: t-40877
   teiginys: 'Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais.'
   pagrindžia:
     - c-001

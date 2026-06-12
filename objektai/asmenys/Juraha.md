@@ -25,7 +25,9 @@ Juraha taip pat prie kole­ gijos pastarąją priskyrė, o kolegijos namą, vadi
 
 ## Teiginiai
 
+<a id="claim-t-87530"></a>
 - t-001
+  global_id: t-87530
   teiginys: 'Akademijos rektorius Juraha 1756 m. Valerijono mūrinį namą priskyrė prie kolegijos.'
   pagrindžia:
     - c-001

@@ -22,7 +22,9 @@ Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo Annales Quedlinbur
 
 ## Teiginiai
 
+<a id="claim-t-31558"></a>
 - t-001
+  global_id: t-31558
   teiginys: 'Posakis „in confinio Rusciae et Lituae“ Annales Quedlinburgenses nusakė vietą, kur 1009 m. buvo nužudytas misionierius šv. Bruno su 18 palydovų.'
   pagrindžia:
     - c-001

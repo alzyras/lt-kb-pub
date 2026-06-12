@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19615"></a>
 - t-001
+  global_id: t-19615
   teiginys: 'Vytauto Didžiojo mirties 500-ųjų metinių minėjimo metu Lietuvoje jam buvo statomi paminklai.'
   pagrindžia:
     - c-001

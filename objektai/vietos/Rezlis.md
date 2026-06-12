@@ -27,12 +27,16 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 
 ## Teiginiai
 
+<a id="claim-t-58620"></a>
 - t-001
+  global_id: t-58620
   teiginys: 'Rezlis, dabartinis Rešelis, buvo į šiaurės rytus nuo Olštino, o jo vardas kildinamas iš prūsų kalbos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58621"></a>
 - t-002
+  global_id: t-58621
   teiginys: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
   pagrindžia:
     - c-002

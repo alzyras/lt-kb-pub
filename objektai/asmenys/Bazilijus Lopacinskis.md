@@ -28,7 +28,9 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
 
 ## Teiginiai
 
+<a id="claim-t-87631"></a>
 - t-001
+  global_id: t-87631
   teiginys: '1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
   pagrindžia:
     - c-001

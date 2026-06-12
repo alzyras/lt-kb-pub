@@ -29,27 +29,37 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 
 ## Teiginiai
 
+<a id="claim-t-60905"></a>
 - t-001
+  global_id: t-60905
   teiginys: 'Dusburgietis teigia, kad manoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H., Studia..., 2, p. 16, 25; MGP, p. 54).'
   pagrindžia:
     - c-005
 
+<a id="claim-t-60908"></a>
 - t-002
+  global_id: t-60908
   teiginys: 'Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro upių; Zilijos valsčius tuo metu greičiausiai buvo į šiaurę nuo Bebro—Elko santakos, jis galėjo aprėpti ir Raigardo (Rajgród) apylinkes, eiti link Augustavo (Kamiński A., Jaćwież, p. 46— 47, 96—98; to paties.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60909"></a>
 - t-003
+  global_id: t-60909
   teiginys: 'Dusburgietis teigia, kad medininkų žemė, atrodo, susiformavo XIV a., kai į ją buvo sujungti Žemaitijos centriniai valsčiai ir sudaryta vieninga gynybos prieš Ordino agresiją sistema, kurios centras, matyt, buvęs Medvėgalyje (Łowmiański H., Studja..., 2, p. 81—82).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60911"></a>
 - t-004
+  global_id: t-60911
   teiginys: 'Dusburgietis teigia, kad vidurį, o rašytiniuose šaltiniuose minima nuo 1372 m. (Rositen — SRP, 2, p. 102, 665, 667, 674; Łowmiański H., Studja..., 2, p. 32; plg.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60912"></a>
 - t-005
+  global_id: t-60912
   teiginys: 'Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augustavo (Łowmiański H., Studja..., 2, p. 43).'
   pagrindžia:
     - c-004

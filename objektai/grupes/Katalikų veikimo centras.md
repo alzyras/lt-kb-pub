@@ -17,7 +17,9 @@ Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat
 
 ## Teiginiai
 
+<a id="claim-t-19747"></a>
 - t-001
+  global_id: t-19747
   teiginys: 'Katalikų veikimo centras neleido tautininkams monopolizuoti ideologinės ir organizacinės erdvės.'
   pagrindžia:
     - c-001

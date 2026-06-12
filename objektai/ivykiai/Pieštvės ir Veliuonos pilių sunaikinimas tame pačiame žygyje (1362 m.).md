@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Pieštvės ir Veliuonos pilių sunaikinimas tame pačiame žygyje (1362 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad tuo pačiu žygiu sugriovė Pieštvės ir Veliuo nos pilis: pirmąją išsigandę gynėjai atidavė be kovos, antrąją paėmė po keturias dienas užtrukusios apgulties.
+Tuo pačiu žygiu kryžiuočiai sugriovė Pieštvės ir Veliuonos pilis: Pieštvę gynėjai atidavė be kovos, o Veliuona paimta po keturių dienų apgulties.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185823"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tuo pačiu žygiu sugriovė Pieštvės ir Veliuo nos pilis: pirmąją išsigandę gynėjai atidavė be kovos, antrąją paėmė po keturias dienas užtrukusios apgulties.'
+  global_id: t-185823
+  teiginys: 'Tuo pačiu žygiu kryžiuočiai sugriovė Pieštvės ir Veliuonos pilis: Pieštvę gynėjai atidavė be kovos, o Veliuona paimta po keturių dienų apgulties.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tuo pačiu žygiu sugriovė Pieštvės ir Veliuo nos pilis: pirmąją išsigandę gynėjai atidavė be kovos, antrąją paėmė po keturias dienas užtrukusios apgulties.'
+  santrauka: 'Tuo pačiu žygiu kryžiuočiai sugriovė Pieštvės ir Veliuonos pilis: Pieštvę gynėjai atidavė be kovos, o Veliuona paimta po keturių dienų apgulties.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pagerbdami
@@ -66,3 +67,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/žygis]]

@@ -19,7 +19,9 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 
 ## Teiginiai
 
+<a id="claim-t-02506"></a>
 - t-001
+  global_id: t-02506
   teiginys: 'Valdymo pabaigoje Kopiliuje liko viena iš atskirų kunigaikštysčių.'
   pagrindžia:
     - c-001

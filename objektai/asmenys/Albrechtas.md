@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-18766"></a>
 - t-001
+  global_id: t-18766
   teiginys: 'Kunigaikštis Albrechtas Prūsijoje priglobė 1542 m. iš Vilniaus emigravusį A. Kulvietį.'
   pagrindžia:
     - c-001

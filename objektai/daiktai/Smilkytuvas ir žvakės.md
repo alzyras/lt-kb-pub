@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59706"></a>
 - t-001
+  global_id: t-59706
   teiginys: 'Pasak mirštančio Kulmo pilėno, Marija ėjo paskui dvi mergeles su degančiomis žvakėmis ir smilkė žuvusiuosius smilkytuvu.'
   pagrindžia:
     - c-001

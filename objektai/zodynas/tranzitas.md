@@ -24,22 +24,30 @@ Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė n
 
 ## Teiginiai
 
+<a id="claim-t-70358"></a>
 - t-001
+  global_id: t-70358
   teiginys: 'Tautų Sąjunga, nepatenkinta tokiais menkais derybų rezultatais, pavedė susisiekimo ir tranzito komisijai ištirti, ar Lietuva nenusižengia internacionaliniams savo pasižadėjimams, trukdydama tranzitą iš Lenkijos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-70359"></a>
 - t-002
-  teiginys: 'Kadangi tatai nepavyko, tai Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė norą, kad Lietuva užmegztų santykius su Lenkija ir netrukdytų prekybos nei tranzito (1924.'
+  global_id: t-70359
+  teiginys: '1924 m. birželio 2 d. Ambasadorių Konferencija pareiškė norą, kad Lietuva netrukdytų prekybos ir tranzito su Lenkija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70360"></a>
 - t-003
+  global_id: t-70360
   teiginys: '1924 m. birželio 2 d. Ambasadorių Konferencija pageidavo, kad Lietuva užmegztų santykius su Lenkija ir netrukdytų prekybos bei tranzito.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70361"></a>
 - t-004
+  global_id: t-70361
   teiginys: '1926 m. sausio 27 d. Lietuvos vyriausybė išleido „tranzitinio miško plukdymo Nemunu taisykles“.'
   pagrindžia:
     - c-002

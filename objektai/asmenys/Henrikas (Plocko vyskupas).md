@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Henrikas (Plocko vyskupas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad priėmus nutarimą, ieškota žmogaus, kuriam be pavojaus galima būtų patikėti šią slaptą užduotį, mat jis turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va dovauti galop parinko Henriką, mozūrų.
+Henrikas, Zemovito sūnus ir Plocko vyskupas, buvo parinktas vadovauti karaliaus pasiuntinybei pas Vytautą.
 
 ## Teiginiai
 
+<a id="claim-t-186042"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad priėmus nutarimą, ieškota žmogaus, kuriam be pavojaus galima būtų patikėti šią slaptą užduotį, mat jis turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va dovauti galop parinko Henriką, mozūrų.'
+  global_id: t-186042
+  teiginys: 'Henrikas, Zemovito sūnus ir Plocko vyskupas, buvo parinktas vadovauti karaliaus pasiuntinybei pas Vytautą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad priėmus nutarimą, ieškota žmogaus, kuriam be pavojaus galima būtų patikėti šią slaptą užduotį, mat jis turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va dovauti galop parinko Henriką, mozūrų.'
+  santrauka: 'Henrikas, Zemovito sūnus ir Plocko vyskupas, buvo parinktas vadovauti karaliaus pasiuntinybei pas Vytautą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl ir buvo nutar­
@@ -62,3 +63,9 @@ Kojelavičius teigia, kad priėmus nutarimą, ieškota žmogaus, kuriam be pavoj
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

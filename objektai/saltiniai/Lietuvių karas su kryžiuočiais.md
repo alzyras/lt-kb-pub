@@ -17,12 +17,16 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
 
 ## Teiginiai
 
+<a id="claim-t-67441"></a>
 - t-001
+  global_id: t-67441
   teiginys: 'Dusburgietis teigia, kad 573 D.— per David castellanum de Gartha, Jer.— des burcgrêven von Garten — SRP, 1, p. 603; Dovydas Gardiniškis, Lietuvos didžiojo kunigaikščio vietininkas, Gardino pilininkas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67442"></a>
 - t-002
+  global_id: t-67442
   teiginys: 'Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR istorija.'
   pagrindžia:
     - c-002

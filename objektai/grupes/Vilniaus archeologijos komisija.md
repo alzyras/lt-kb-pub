@@ -38,12 +38,16 @@ Archeologijos ir mokslo komisija.
 
 ## Teiginiai
 
+<a id="claim-t-55076"></a>
 - t-001
+  global_id: t-55076
   teiginys: 'M. Balinskis straipsniuose Gazeta Warszawska detaliai aprašė Vilniaus archeologijos komisijos veiklą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81662"></a>
 - t-002
+  global_id: t-81662
   teiginys: 'Michałas Balińskis laikraštyje „Gazeta Warszawska“ detaliai aprašė Vilniaus archeologijos komisijos veiklą.'
   pagrindžia:
     - c-001

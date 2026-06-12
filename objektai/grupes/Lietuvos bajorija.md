@@ -30,116 +30,153 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 
 ## Teiginiai
 
+<a id="claim-t-96706"></a>
 - t-001
+  global_id: t-96706
   teiginys: 'Trakuose sušauktas seimas turėjo parengti paskutinį smūgį Rusios ir Lietuvos bajorijai.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-96707"></a>
 - t-002
+  global_id: t-96707
   teiginys: 'Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-96708"></a>
 - t-003
+  global_id: t-96708
   teiginys: 'Kojalavičiaus laikais Lietuvos bajorijos sluoksniuose jau ryškiau matėsi savos valstybingumo sąmonės silpnėjimas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-96709"></a>
 - t-004
+  global_id: t-96709
   teiginys: 'Vytautui pirmą kartą pabėgus pas Ordiną, prie jo prisidėjo nemažai bajorų iš tikrosios Lietuvos ir ypač Žemaitijos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-96710"></a>
 - t-005
+  global_id: t-96710
   teiginys: 'Lietuvos Didžiosios Kunigaikštystės bajorai šaukimo metu privalėjo vykdyti krašto karinę tarnybą ir vykti į karą.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-96711"></a>
 - t-006
+  global_id: t-96711
   teiginys: 'Po Vytauto mirties Lietuvos bajorai, nieko nesiklausę, paskelbė savo valdovu Švitrigailą.'
   pagrindžia:
     - c-008
     - c-013
 
+<a id="claim-t-96712"></a>
 - t-007
+  global_id: t-96712
   teiginys: 'Pirmą kartą pabėgęs pas Ordiną, Vytautas sulaukė nemažai bajorų iš tikrosios Lietuvos ir Žemaičių paramos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-96713"></a>
 - t-008
+  global_id: t-96713
   teiginys: 'Kojalavičius rašė tuo metu, kai Lietuvos bajorijos sluoksniuose jau ryškėjo savos valstybingumo sąmonės silpnėjimas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-96715"></a>
 - t-010
+  global_id: t-96715
   teiginys: 'Napoleonas leido Lietuvos bajorijai sudaryti laikiną savo valdžią.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-96716"></a>
 - t-011
+  global_id: t-96716
   teiginys: 'Vasaliniai kunigaikščiai ir Lietuvos bajorai tapo ypatingu Žygimanto neapykantos taikiniu.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-96717"></a>
 - t-012
+  global_id: t-96717
   teiginys: 'Katalikiškajai Lietuvos bajorijai didžiojo kunigaikščio elgesys buvo nepriimtinas.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-96718"></a>
 - t-013
+  global_id: t-96718
   teiginys: 'Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono globoje.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-96719"></a>
 - t-014
+  global_id: t-96719
   teiginys: 'Lietuvos bajorijos suvažiavimas Vilniuje nutarė pačiam carui išdėstyti sunkią bajorijos būklę.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-96720"></a>
 - t-015
+  global_id: t-96720
   teiginys: '1560 metais Vilniuje vykusiame Ponų Tarybos seime karalius leido Lietuvos bajorams rinkti delegatus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-96721"></a>
 - t-016
-  teiginys: 'Po ilgų derybų, 1401 m. buvo pasiektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais dokumentais: atskirais dokumentais jį patvirtino Vytautas, Jogaila, Lietuvos ir Lenkų bajorai.'
+  global_id: t-96721
+  teiginys: '1401 m. susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos bajorai ir Lenkijos bajorai.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-96722"></a>
 - t-017
+  global_id: t-96722
   teiginys: 'Despotiškas didžiojo kunigaikščio elgesys su kai kuriais bajorais papiktino didžiąją Lietuvos krašto dalį.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-96723"></a>
 - t-018
+  global_id: t-96723
   teiginys: 'Vasaliniai kunigaikščiai ir Lietuvos bajorai tapo ypatingu Žygimanto Kęstutaičio neapykantos taikiniu.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-96724"></a>
 - t-019
+  global_id: t-96724
   teiginys: 'Bajorijos atsiunčiamoms delegacijoms jis nieko tikro nežadėjo, nes dar tebebuvo neaiški karo pabaiga.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-96725"></a>
 - t-020
-  teiginys: 'Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.'
+  global_id: t-96725
+  teiginys: 'Lietuvos bajorijai buvo leista sudaryti laikinę Lietuvos vyriausybę, kuriai vadovavo grafas Soltanas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-96726"></a>
 - t-021
+  global_id: t-96726
   teiginys: '1560 m. Vilniaus seime karalius leido bajorams rinkti delegatus į lietuvių tautos reprezentavimo rūmus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-182901"></a>
 - t-022
+  global_id: t-182901
   teiginys: 'Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laikąs jį ir Lietuvos bajorus laisvais ar nelaisvais.'
   pagrindžia:
     - c-015
-
-- t-023
-  teiginys: 'Jo valdymo metu Lietuva jau tiek sutvirtėjo, jog apie jos priklausomybę Lenkijai nebegalėjo būti nė kalbos, ir Lietuvos bajorai tuojau po jo mirties, nieko nesiklausę, paskelbė savo valdovu Švitrigailą.'
-  pagrindžia:
-    - c-016
 
 ## Reikšmingi paminėjimai
 
@@ -200,6 +237,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-002
 
 - c-004
+  santrauka: 'Lietuvos bajorijai buvo leista sudaryti laikinę Lietuvos vyriausybę, kuriai vadovavo grafas Soltanas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau jis leido Lietuvos bajorijai sudaryti lai-
@@ -421,7 +459,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-022
 
 - c-016
-  santrauka: 'Jo valdymo metu Lietuva jau tiek sutvirtėjo, jog apie jos priklausomybę Lenkijai nebegalėjo būti nė kalbos, ir Lietuvos bajorai tuojau po jo mirties, nieko nesiklausę, paskelbė savo valdovu Švitrigailą.'
+  santrauka: 'Po Vytauto mirties Lietuvos bajorai, nieko nesiklausę, paskelbė savo valdovu Švitrigailą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytautas dabar nebepabūgo sueiti su
@@ -500,6 +538,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/luomas „tauta“]]
 - [[objektai/zodynas/politinė tauta lietuvių nacija]]
+- [[objektai/grupes/Lenkijos bajorai]]
 - [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/grupes/Laikinė Lietuvos vyriausybė]]
 - [[objektai/grupes/Lietuvos Didžiosios Kunigaikštystės Ponų Taryba]]

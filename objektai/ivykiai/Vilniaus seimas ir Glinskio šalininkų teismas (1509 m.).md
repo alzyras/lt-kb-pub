@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XVI'
 ---
-
 # Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad karalius ketino atkeršyti už šią skriau dą, tačiau, Vladislovui, Vengrijos karaliui, tarpininkau jant, atgriaudėjanti karo audra buvo išsklaidyta, ka dangi Bogdanas pažadėjo sąžiningai grąžinti viską, ką Po to Lietuvos luomai bu vo sušaukti į Vilniaus seimą. Kojelavičius teigia, kad mykolas Goštautas, Lietuvos Didžiosios Kunigaikštystės arklidininkas, valdęs didžiu lius turtus Lietuvoje ir Rusioje, buvo vedęs Glinskio dukterį; dėl šitokios artimos giminystės kai kas manė, jog jis su broliu, vyriausiuoju mokesčių rinkėju, nelikęs.
+1509 m. Vilniaus seime nutarta teisti Glinskio šalininkus, o žymiausieji iš jų buvo įkalinti Trakuose. Mykolas Goštautas buvo vedęs Glinskio dukterį, todėl kai kas įtarė jį ir jo brolį prisidėjus prie Glinskio antpuolio.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185784"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad karalius ketino atkeršyti už šią skriau dą, tačiau, Vladislovui, Vengrijos karaliui, tarpininkau jant, atgriaudėjanti karo audra buvo išsklaidyta, ka dangi Bogdanas pažadėjo sąžiningai grąžinti viską, ką Po to Lietuvos luomai bu vo sušaukti į Vilniaus seimą.'
+  global_id: t-185784
+  teiginys: '1509 m. Vilniaus seime nutarta teisti Glinskio šalininkus, o žymiausieji iš jų buvo įkalinti Trakuose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185785"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad mykolas Goštautas, Lietuvos Didžiosios Kunigaikštystės arklidininkas, valdęs didžiu lius turtus Lietuvoje ir Rusioje, buvo vedęs Glinskio dukterį; dėl šitokios artimos giminystės kai kas manė, jog jis su broliu, vyriausiuoju mokesčių rinkėju, nelikęs.'
+  global_id: t-185785
+  teiginys: 'Mykolas Goštautas buvo vedęs Glinskio dukterį, todėl kai kas įtarė jį ir jo brolį prisidėjus prie Glinskio antpuolio.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad karalius ketino atkeršyti už šią skriau dą, tačiau, Vladislovui, Vengrijos karaliui, tarpininkau jant, atgriaudėjanti karo audra buvo išsklaidyta, ka dangi Bogdanas pažadėjo sąžiningai grąžinti viską, ką Po to Lietuvos luomai bu vo sušaukti į Vilniaus seimą.'
+  santrauka: '1509 m. Vilniaus seime nutarta teisti Glinskio šalininkus, o žymiausieji iš jų buvo įkalinti Trakuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius ketino atkeršyti už šią skriau­
@@ -70,7 +73,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad mykolas Goštautas, Lietuvos Didžiosios Kunigaikštystės arklidininkas, valdęs didžiu lius turtus Lietuvoje ir Rusioje, buvo vedęs Glinskio dukterį; dėl šitokios artimos giminystės kai kas manė, jog jis su broliu, vyriausiuoju mokesčių rinkėju, nelikęs.'
+  santrauka: 'Mykolas Goštautas buvo vedęs Glinskio dukterį, todėl kai kas įtarė jį ir jo brolį prisidėjus prie Glinskio antpuolio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mykolas Goštautas, Lietuvos
@@ -90,3 +93,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lietuvos luomai]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/asmenys/Mykolas Goštautas]]

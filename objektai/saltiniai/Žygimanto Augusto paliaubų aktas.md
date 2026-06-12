@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Žygimanto Augusto paliaubų aktas
 
 ## Santrauka
 
-Kojelavičius teigia, kad vėliau bemaž po kiekvieno karo reikėjo už taiką mokėti arba ištisa že me, arba kokia apygarda; retai pavykdavo ką iš priešo atgauti; Žygimanto Augusto paliaubų aktas galutinai 5 3 0 pakirto jėgas, o visa valstybė suiro mūsų laikais, kai ją visomis jėgomis iš.
+Kojelavičiaus vertinimu, Žygimanto Augusto paliaubų aktas galutinai pakirto Lietuvos valstybės jėgas.
 
 ## Teiginiai
 
+<a id="claim-t-186349"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad vėliau bemaž po kiekvieno karo reikėjo už taiką mokėti arba ištisa že me, arba kokia apygarda; retai pavykdavo ką iš priešo atgauti; Žygimanto Augusto paliaubų aktas galutinai 5 3 0 pakirto jėgas, o visa valstybė suiro mūsų laikais, kai ją visomis jėgomis iš.'
+  global_id: t-186349
+  teiginys: 'Kojelavičiaus vertinimu, Žygimanto Augusto paliaubų aktas galutinai pakirto Lietuvos valstybės jėgas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad vėliau bemaž po kiekvieno karo reikėjo už taiką mokėti arba ištisa že me, arba kokia apygarda; retai pavykdavo ką iš priešo atgauti; Žygimanto Augusto paliaubų aktas galutinai 5 3 0 pakirto jėgas, o visa valstybė suiro mūsų laikais, kai ją visomis jėgomis iš.'
+  santrauka: 'Kojelavičiaus vertinimu, Žygimanto Augusto paliaubų aktas galutinai pakirto Lietuvos valstybės jėgas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Užėmęs

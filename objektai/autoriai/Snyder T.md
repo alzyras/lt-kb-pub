@@ -17,7 +17,9 @@ Snyder T.
 
 ## Teiginiai
 
+<a id="claim-t-17697"></a>
 - t-001
+  global_id: t-17697
   teiginys: 'T. Snyderis parašė knygą „Tautų rekonstrukcija. Lietuva, Lenkija, Ukraina, Baltarusija 1569–1999“, išleistą Vilniuje 2003 m.'
   pagrindžia:
     - c-001

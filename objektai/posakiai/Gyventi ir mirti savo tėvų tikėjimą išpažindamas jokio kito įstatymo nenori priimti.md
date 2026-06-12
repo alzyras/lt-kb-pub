@@ -25,7 +25,9 @@ Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreik�
 
 ## Teiginiai
 
+<a id="claim-t-86850"></a>
 - t-001
+  global_id: t-86850
   teiginys: 'Dusburgo pranešimu, Gediminas per pasiuntinį pareiškė, kad nepriims kitų teisių ir laikysis tų, kurių laikėsi jo tėvai.'
   pagrindžia:
     - c-001

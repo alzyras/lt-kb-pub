@@ -27,7 +27,9 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
 
 ## Teiginiai
 
+<a id="claim-t-30310"></a>
 - t-001
+  global_id: t-30310
   teiginys: '1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius.'
   pagrindžia:
     - c-001

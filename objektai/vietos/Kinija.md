@@ -23,17 +23,23 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
 
 ## Teiginiai
 
+<a id="claim-t-76525"></a>
 - t-001
+  global_id: t-76525
   teiginys: 'Vilniaus akademiją steigę jėzuitai manė, kad per Maskoviją ir totorius galima pasiekti Kiniją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-76526"></a>
 - t-002
+  global_id: t-76526
   teiginys: 'Andrius Rudamina Kinijoje misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-76527"></a>
 - t-003
+  global_id: t-76527
   teiginys: 'Šios ambicijos nebeatrodo geografiškai tokios naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Rudaminą, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba.'
   pagrindžia:
     - c-001

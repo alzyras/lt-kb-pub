@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-55171"></a>
 - t-001
+  global_id: t-55171
   teiginys: 'Išstudijavę Jano Lasickio knygą, Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-81873"></a>
 - t-002
+  global_id: t-81873
   teiginys: 'Vilniuje veikusi šubravcų draugija išgarsėjo, o jos nariai pasivadino senovės lietuvių dievybių vardais.'
   pagrindžia:
     - c-001

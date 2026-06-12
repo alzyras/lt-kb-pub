@@ -25,7 +25,9 @@ Dusburgietis teigia, kad baryczowa M.
 
 ## Teiginiai
 
+<a id="claim-t-60674"></a>
 - t-001
+  global_id: t-60674
   teiginys: 'M. Baryczowa 1936 m. paskelbė darbą „Augustyn Rotundus“.'
   pagrindžia:
     - c-001

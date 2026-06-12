@@ -16,7 +16,9 @@ Pirmoji iš šių dviejų kariuomenių yra Karūnos armija ir priklauso Lenkijos
 
 ## Teiginiai
 
+<a id="claim-t-41488"></a>
 - t-001
+  global_id: t-41488
   teiginys: 'Respublikoje viena kariuomenė buvo Karūnos armija, o kita priklausė Lietuvos Didžiajai Kunigaikštystei.'
   pagrindžia:
     - c-001

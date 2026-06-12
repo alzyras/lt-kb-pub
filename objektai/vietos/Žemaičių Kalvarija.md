@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-21969"></a>
 - t-001
+  global_id: t-21969
   teiginys: 'Po 1958 m. valdžia ribojo atlaidų lankymą Žemaičių Kalvarijoje ir Šiluvoje.'
   pagrindžia:
     - c-001

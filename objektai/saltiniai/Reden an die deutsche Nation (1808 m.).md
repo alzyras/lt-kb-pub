@@ -23,7 +23,9 @@ Tada pirmą kartą tautų teisės buvo pradėtos ginti ir literatūroje (pirmasi
 
 ## Teiginiai
 
+<a id="claim-t-02273"></a>
 - t-001
+  global_id: t-02273
   teiginys: 'Fichtė 1808 m. išleido veikalą „Reden an die deutsche Nation“, kuriame aiškiai kėlė tautų teises.'
   pagrindžia:
     - c-001

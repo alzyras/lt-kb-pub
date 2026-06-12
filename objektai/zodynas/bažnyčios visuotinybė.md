@@ -25,7 +25,9 @@ Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmoni�
 
 ## Teiginiai
 
+<a id="claim-t-58895"></a>
 - t-001
+  global_id: t-58895
   teiginys: '1274 m. pagudėnai, varmiai, notangai, bartai ir sembai grįžo į šventosios motinos bažnyčios visuotinybę.'
   pagrindžia:
     - c-001

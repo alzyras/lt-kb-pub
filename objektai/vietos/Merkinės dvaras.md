@@ -25,12 +25,16 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
 
 ## Teiginiai
 
+<a id="claim-t-43781"></a>
 - t-001
+  global_id: t-43781
   teiginys: 'Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-43782"></a>
 - t-002
+  global_id: t-43782
   teiginys: 'Merkinės dvaro valstiečiai buvo atleisti vien už piniginį mokestį ir gavo savivaldybę.'
   pagrindžia:
     - c-001

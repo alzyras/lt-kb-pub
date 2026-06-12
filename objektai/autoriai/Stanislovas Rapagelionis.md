@@ -16,12 +16,16 @@ Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesm
 
 ## Teiginiai
 
+<a id="claim-t-05727"></a>
 - t-001
+  global_id: t-05727
   teiginys: 'Stanislovas Rapagelionis vertė dalį giesmių, kurias Mažvydas paskelbė greta 1547 m. pirmojo lietuviško katekizmo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05728"></a>
 - t-002
+  global_id: t-05728
   teiginys: 'Stanislovas Rapagelionis buvo tarp lietuvių, rašiusių tikybines knygas Mažojoje Lietuvoje.'
   pagrindžia:
     - c-002

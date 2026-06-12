@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20506"></a>
 - t-001
+  global_id: t-20506
   teiginys: 'Prezidentas 1940 m. balandį po ambicijų konflikto atleido populiarų kariuomenės vadą Stasį Raštikį iš pareigų.'
   pagrindžia:
     - c-001

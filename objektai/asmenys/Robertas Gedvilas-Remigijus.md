@@ -16,7 +16,9 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 
 ## Teiginiai
 
+<a id="claim-t-40403"></a>
 - t-001
+  global_id: t-40403
   teiginys: 'Robertas Gedvilas-Remigijus buvo Kęstučio apygardos štabo viršininkas.'
   pagrindžia:
     - c-001

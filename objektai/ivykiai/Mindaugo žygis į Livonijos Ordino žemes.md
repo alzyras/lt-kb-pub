@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35868"></a>
 - t-001
+  global_id: t-35868
   teiginys: '1244 m., pasak eiliuotosios Livonijos kronikos, Mindaugas su 30 000 lietuvių nuniokojo Livonijos ordino žemes.'
   pagrindžia:
     - c-001

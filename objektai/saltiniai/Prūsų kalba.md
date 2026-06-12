@@ -22,7 +22,9 @@ Dusburgietis teigia, kad prūsų kalba —MLTE, 1968, 2, p. 935—936.
 
 ## Teiginiai
 
+<a id="claim-t-61265"></a>
 - t-001
+  global_id: t-61265
   teiginys: '„Prūsų kalba“ nurodyta kaip MLTE 1968 m. antro tomo 935–936 puslapių publikacija.'
   pagrindžia:
     - c-001

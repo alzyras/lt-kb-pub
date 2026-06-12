@@ -23,7 +23,9 @@ Tačiau dalis etninės Lietuvos yra už šiandieninės Lietuvos ribų, antra ver
 
 ## Teiginiai
 
+<a id="claim-t-13519"></a>
 - t-001
+  global_id: t-13519
   teiginys: 'Tačiau dalis etninės Lietuvos yra už šiandieninės Lietuvos ribų, antra vertus, Lietuvos vardu vadinamos į vakarus nuo etninių žemių esančios senųjų žemaičių, dalies jotvingių, sėlių, žiemgalių ir prūsų teritorijos.'
   pagrindžia:
     - c-001

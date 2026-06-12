@@ -12,24 +12,25 @@ atnaujinta: ''
 amziai:
   - 'XVI'
 ---
-
 # Karalienės Bonos testamentas
 
 ## Santrauka
 
-Kojelavičius teigia, kad tiesa, vėliau tinkama forma surašytame prieš pat mirtį testamente ji sūnų Augustą paskyrė viso savo turto paveldėtoju, tačiau dėl jos tar no Papakodos suktybių paskutinioji velionės valia buvo neįvykdyta, o visas turtas vėjais paleistas.
+Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
 
 ## Teiginiai
 
+<a id="claim-t-186332"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tiesa, vėliau tinkama forma surašytame prieš pat mirtį testamente ji sūnų Augustą paskyrė viso savo turto paveldėtoju, tačiau dėl jos tar no Papakodos suktybių paskutinioji velionės valia buvo neįvykdyta, o visas turtas vėjais paleistas.'
+  global_id: t-186332
+  teiginys: 'Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tiesa, vėliau tinkama forma surašytame prieš pat mirtį testamente ji sūnų Augustą paskyrė viso savo turto paveldėtoju, tačiau dėl jos tar no Papakodos suktybių paskutinioji velionės valia buvo neįvykdyta, o visas turtas vėjais paleistas.'
+  santrauka: 'Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po ilgų ir karštų ginčų tais pačiais metais leista

@@ -18,7 +18,9 @@ Susiformavo tvirta kontrabandinės knygnešystės tradicija, ir į XIX a.
 
 ## Teiginiai
 
+<a id="claim-t-22189"></a>
 - t-001
+  global_id: t-22189
   teiginys: 'Knygnešystė apėmė Rytprūsiuose spausdintos lietuviškos spaudos tradiciniu raidynu nelegalų platinimą Lietuvoje.'
   pagrindžia:
     - c-001

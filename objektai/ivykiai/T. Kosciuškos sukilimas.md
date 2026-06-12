@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77916"></a>
 - t-001
+  global_id: t-77916
   teiginys: 'Kosciuškos sukilimo metu tapęs Vilniaus gvardijos vadu.'
   pagrindžia:
     - c-001

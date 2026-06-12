@@ -18,12 +18,16 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
 
 ## Teiginiai
 
+<a id="claim-t-86069"></a>
 - t-001
+  global_id: t-86069
   teiginys: 'Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia stovėta pilies, nėra, nors ji buvo mūrinė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86070"></a>
 - t-002
+  global_id: t-86070
   teiginys: 'Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno Veliuonoje šlaitus.'
   pagrindžia:
     - c-001

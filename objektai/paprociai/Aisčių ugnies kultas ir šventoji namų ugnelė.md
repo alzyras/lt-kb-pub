@@ -35,27 +35,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-10815"></a>
 - t-001
+  global_id: t-10815
   teiginys: 'Aisčiai ugnį laikė dievybe, per ją susižinodavo su dievais ir degindavo jiems aukas; kai kuriose vietose nuolat kūrenama amžinoji ugnis buvo savotiška šventovė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-10816"></a>
 - t-002
+  global_id: t-10816
   teiginys: 'Namų židinyje nuolat kūrenama šventoji namų ugnelė buvo vadinama gabija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-12421"></a>
 - t-003
+  global_id: t-12421
   teiginys: 'Senovės Lietuvoje nėra rimtų liudijimų apie tikybos šventnamius, o šventosios ugnies pastogės, jei buvo, neišsiskyrė iš paprastų trobesių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-12422"></a>
 - t-004
+  global_id: t-12422
   teiginys: 'Svetimšaliams labiausiai į akis krito lietuvių ugnies kultas, su kuriuo buvo siejami medžiai, ištisi miškai ir kai kurie gyvuliai, pavyzdžiui, žalčiai, petrelės ir Dievo karvytės.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-93015"></a>
 - t-005
+  global_id: t-93015
   teiginys: 'Ligšiol yra žinoma keletas kulto tarnų vardų, bet jokio organizacinio ryšio tarp jų neužtikta^2 ), Taip pat nėra jokių rimtų liudijimų, kad senovės Lietuvoje būtų buvę kokių tikybos šventnamių.'
   pagrindžia:
     - c-003

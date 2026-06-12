@@ -24,7 +24,9 @@ Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blo
 
 ## Teiginiai
 
+<a id="claim-t-87752"></a>
 - t-001
+  global_id: t-87752
   teiginys: '1746 m. Kazimieras Vežbickis su Mykolu Vežbickiu skyrė bibliotekai lėšų iš namų ir sklypų pajamų knygoms gausinti.'
   pagrindžia:
     - c-001

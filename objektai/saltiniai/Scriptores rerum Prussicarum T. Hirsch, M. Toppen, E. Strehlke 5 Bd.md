@@ -28,7 +28,9 @@ Dusburgietis teigia, kad scriptores rerum Prussicarum / T.
 
 ## Teiginiai
 
+<a id="claim-t-61291"></a>
 - t-001
+  global_id: t-61291
   teiginys: 'Penkių tomų „Scriptores rerum Prussicarum“ leidinys išėjo Leipcige 1861–1874 m.'
   pagrindžia:
     - c-001

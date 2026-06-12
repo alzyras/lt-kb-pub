@@ -25,32 +25,44 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 
 ## Teiginiai
 
+<a id="claim-t-47953"></a>
 - t-001
+  global_id: t-47953
   teiginys: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-47954"></a>
 - t-002
+  global_id: t-47954
   teiginys: 'Jogaila paskyrė savo brolį Lengvenį Didžiojo Naugardo kunigaikščiu, ir Lengvenis ten buvo pakviestas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-47955"></a>
 - t-003
+  global_id: t-47955
   teiginys: 'Naugardo kunigaikščius — « maitinimuisi » (« na kormlenije ») — nuskyrė savo brolį Lengvenį, kuris ir buvo ten pakviestas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-47956"></a>
 - t-004
+  global_id: t-47956
   teiginys: 'Lengvenis grįžo atgal ir, kaip vienas veikliausių Vytauto karo vadų, jam kelioliką metų ištikimai tarnavo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-47957"></a>
 - t-005
+  global_id: t-47957
   teiginys: 'Lengvenis grįžo ir keliolika metų ištikimai tarnavo Vytautui kaip vienas veikliausių jo karo vadų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-47958"></a>
 - t-006
+  global_id: t-47958
   teiginys: 'Lengvenis prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai.'
   pagrindžia:
     - c-003

@@ -22,17 +22,23 @@ Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų para
 
 ## Teiginiai
 
+<a id="claim-t-72711"></a>
 - t-001
+  global_id: t-72711
   teiginys: 'Savų parapijinių mokyklų turėjo vos pusė lietuviškųjų parapijų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72712"></a>
 - t-002
-  teiginys: 'Kitas, pats svarbusis jos rūpestis yra mokyklų steigimas.'
+  global_id: t-72712
+  teiginys: 'Lietuvių kunigų sąjungai Amerikoje svarbus rūpestis buvo mokyklų steigimas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-72713"></a>
 - t-003
+  global_id: t-72713
   teiginys: 'Amerikoje lietuvių mokyklų skaičius nuo apie 30 mokyklų 1919 m. išaugo iki 72, o daugumą jų išlaikė parapijos.'
   pagrindžia:
     - c-002
@@ -68,6 +74,7 @@ Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų para
     - t-003
 
 - c-003
+  santrauka: 'Lietuvių kunigų sąjungai Amerikoje svarbus rūpestis buvo mokyklų steigimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kitas, pats svar-

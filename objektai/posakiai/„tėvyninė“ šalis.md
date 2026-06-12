@@ -16,7 +16,9 @@ Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Li
 
 ## Teiginiai
 
+<a id="claim-t-20955"></a>
 - t-001
+  global_id: t-20955
   teiginys: 'Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.'
   pagrindžia:
     - c-001

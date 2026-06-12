@@ -16,7 +16,9 @@ Vžesnievskis, S.
 
 ## Teiginiai
 
+<a id="claim-t-40094"></a>
 - t-001
+  global_id: t-40094
   teiginys: 'E. Vžesnievskis buvo paskirtas bataliono vadu.'
   pagrindžia:
     - c-001

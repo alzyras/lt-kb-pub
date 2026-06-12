@@ -19,7 +19,9 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
 
 ## Teiginiai
 
+<a id="claim-t-87790"></a>
 - t-001
+  global_id: t-87790
   teiginys: 'Mikolajus Kulmietis buvo neseniai miręs, kai Varmės, Sembos ir Pomezanijos vyskupai Elbinge surengė pasitarimą.'
   pagrindžia:
     - c-001

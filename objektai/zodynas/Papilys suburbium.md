@@ -25,17 +25,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86505"></a>
 - t-001
+  global_id: t-86505
   teiginys: '1317 metais Ragainės komtūras Fridrichas de Libencelė su 150 žmonių neįstengė užimti Gedimino pilies, bet sudegino jos papilį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86506"></a>
 - t-002
+  global_id: t-86506
   teiginys: 'Ragainės komtūras Tomas Aldenburgas su 44 broliais ir 400 vyrų iš Sembos bei Natangos švintant sudegino Gedimino pilies papilį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183835"></a>
 - t-003
+  global_id: t-183835
   teiginys: '1324 metų birželio 11 dieną Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.'
   pagrindžia:
     - c-003

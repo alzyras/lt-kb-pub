@@ -18,17 +18,23 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 
 ## Teiginiai
 
+<a id="claim-t-58427"></a>
 - t-001
+  global_id: t-58427
   teiginys: 'Dusburgietis teigia, kad arsa resp. Arsė tapatinta ir su Vangrape (Tepenas M.).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58428"></a>
 - t-002
+  global_id: t-58428
   teiginys: 'Dusburgietis teigia, kad arsos upelis ir čia nežinomas, tik spėjamas, kaip ir prie mūsų minėtų Tamoviškių. Pastarųjų pirminė forma Cammow bei išlikę vietovardžiai leistų, mūsų nuomone, Dusburgiečio aprašytos pilies vietą sieti su vėlesne kryžiuočių Tamoviškių pilimi į rytus nuo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58429"></a>
 - t-003
+  global_id: t-58429
   teiginys: 'Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras su didele kariuomene perėjo Nadruvos žemę, plėšdamas ir degindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė, tinkamai parengęs visa, kas tam reikalinga; abiem šalims.'
   pagrindžia:
     - c-003

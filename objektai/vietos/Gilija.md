@@ -16,7 +16,9 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 
 ## Teiginiai
 
+<a id="claim-t-02454"></a>
 - t-001
+  global_id: t-02454
   teiginys: 'Lietuvos javų eksporto kelias iš Nemuno ėjo per jo šaką Giliją toliau į Kuršmares ir Dancigą.'
   pagrindžia:
     - c-001

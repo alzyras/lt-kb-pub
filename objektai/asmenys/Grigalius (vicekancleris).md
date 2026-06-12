@@ -26,7 +26,9 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 
 ## Teiginiai
 
+<a id="claim-t-60296"></a>
 - t-001
+  global_id: t-60296
   teiginys: 'Apie 1226 (1230) m. vicekancleris Grigalius dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.'
   pagrindžia:
     - c-001

@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # taikytojas
 
 ## Santrauka
 
-Kojelavičius teigia, kad ivanas atmetė šį prašymą, tačiau pažadėjo atsiųsti taikytojus, kurie ir atsiteis už skriaudas, bet tada, kai karalius jam surašysiąs, kokių nuostolių pridaryta. Kojelavičius teigia, kad šitokiu atkakliu elgesiu galop palaužė maskvėnus ir privertė juos tuojau pat paskirti taikytojus, kurie, nuvykę į Sebežo kraštą, turėjo susipažinti su padėtimi ir įsakyti grąžinti užgrobtus kaimus bei at lyginti kitus nuostolius.
+Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuostolius. Maskvėnai turėjo paskirti taikytojus, kurie Sebežo krašte įsakytų grąžinti kaimus ir atlyginti nuostolius.
 
 ## Teiginiai
 
+<a id="claim-t-185369"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad ivanas atmetė šį prašymą, tačiau pažadėjo atsiųsti taikytojus, kurie ir atsiteis už skriaudas, bet tada, kai karalius jam surašysiąs, kokių nuostolių pridaryta.'
+  global_id: t-185369
+  teiginys: 'Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuostolius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185370"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad šitokiu atkakliu elgesiu galop palaužė maskvėnus ir privertė juos tuojau pat paskirti taikytojus, kurie, nuvykę į Sebežo kraštą, turėjo susipažinti su padėtimi ir įsakyti grąžinti užgrobtus kaimus bei at lyginti kitus nuostolius.'
+  global_id: t-185370
+  teiginys: 'Maskvėnai turėjo paskirti taikytojus, kurie Sebežo krašte įsakytų grąžinti kaimus ir atlyginti nuostolius.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad ivanas atmetė šį prašymą, tačiau pažadėjo atsiųsti taikytojus, kurie ir atsiteis už skriaudas, bet tada, kai karalius jam surašysiąs, kokių nuostolių pridaryta.'
+  santrauka: 'Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuostolius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nerasdamas kitos dings­
@@ -48,7 +51,7 @@ Kojelavičius teigia, kad ivanas atmetė šį prašymą, tačiau pažadėjo atsi
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad šitokiu atkakliu elgesiu galop palaužė maskvėnus ir privertė juos tuojau pat paskirti taikytojus, kurie, nuvykę į Sebežo kraštą, turėjo susipažinti su padėtimi ir įsakyti grąžinti užgrobtus kaimus bei at lyginti kitus nuostolius.'
+  santrauka: 'Maskvėnai turėjo paskirti taikytojus, kurie Sebežo krašte įsakytų grąžinti kaimus ir atlyginti nuostolius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vildamiesi, jog ta proga galės
@@ -69,3 +72,9 @@ Kojelavičius teigia, kad ivanas atmetė šį prašymą, tačiau pažadėjo atsi
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Ivanas]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/grupes/Žydai]]

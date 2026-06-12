@@ -18,12 +18,16 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
 
 ## Teiginiai
 
+<a id="claim-t-60179"></a>
 - t-001
+  global_id: t-60179
   teiginys: 'Dusburgietis teigia, kad naudžiotas atskleidė visas šios atskalūnybės paslaptis ir išvardijo svarbiausius jos sumanytojus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60180"></a>
 - t-002
+  global_id: t-60180
   teiginys: 'Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai, ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas.'
   pagrindžia:
     - c-001

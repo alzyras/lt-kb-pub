@@ -26,7 +26,9 @@ gruodžio 15 d. į visuotinį Bažnyčios sinodą Konstancijoje nusiuntė net 60
 
 ## Teiginiai
 
+<a id="claim-t-35494"></a>
 - t-001
+  global_id: t-35494
   teiginys: 'Prof. kunigas dr. J. Fijalek teigė, kad „Propositio Samaytarum“ dėl graudumo ir šiandien sunku skaityti sausomis akimis.'
   pagrindžia:
     - c-001

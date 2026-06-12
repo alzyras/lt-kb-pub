@@ -25,12 +25,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-68322"></a>
 - t-001
+  global_id: t-68322
   teiginys: 'Salynas, vokiškai vadintas Sallinwerder, turėjo būti viena iš Nemuno salų tarp Nevėžio žiočių ir Kulautuvos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-68323"></a>
 - t-002
+  global_id: t-68323
   teiginys: 'Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magistro Konrado delegacijų susitikime buvo patvirtinta kryžiuočiams užleista Žemaitija iki Nevėžio ir Sūduva iki Šešupės aukštupio.'
   pagrindžia:
     - c-001

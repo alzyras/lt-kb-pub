@@ -26,7 +26,9 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 
 ## Teiginiai
 
+<a id="claim-t-60342"></a>
 - t-001
+  global_id: t-60342
   teiginys: 'Kancleris Jonas buvo tarp liudytojų, dalyvavusių apie 1226 arba 1230 m. patvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.'
   pagrindžia:
     - c-001

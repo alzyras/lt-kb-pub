@@ -27,12 +27,16 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-39419"></a>
 - t-001
+  global_id: t-39419
   teiginys: '1311 m. per Užgavėnes Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-39420"></a>
 - t-002
+  global_id: t-39420
   teiginys: 'Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkiją, į Bresto žemę.'
   pagrindžia:
     - c-002

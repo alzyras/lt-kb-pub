@@ -19,7 +19,9 @@ Ordinis apie tai plačiai pasa­ koja.
 
 ## Teiginiai
 
+<a id="claim-t-88329"></a>
 - t-001
+  global_id: t-88329
   teiginys: '„Responsio per Procuratorem Ordinis“ pasakojo apie arkivyskupo Fridricho pasiuntinius pas lietuvių valdovą.'
   pagrindžia:
     - c-001

@@ -28,27 +28,37 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
 
 ## Teiginiai
 
+<a id="claim-t-179907"></a>
 - t-001
+  global_id: t-179907
   teiginys: 'Dusburgietis teigia, kad apie Gedimino pilies ir jos papilio sudeginimą Tuo pat metu Ragainės broliai su savo valdiniais apyaušryje, kai lietuviai dar miegojo, slaptai įsibrovė į Gedimino pilies papilį ir jį visą su žmonėmis, moterimis ir vaikais bei visais namų apyvokos daiktais iki.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-179908"></a>
 - t-002
+  global_id: t-179908
   teiginys: 'Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-179909"></a>
 - t-003
+  global_id: t-179909
   teiginys: 'Dusburgietis teigia, kad tačiau brolių vėliava su savo sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis grafas iš Hoinbergo bei daugybė kitų kilmingųjų buvo įšventinti į riterius.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-179910"></a>
 - t-004
+  global_id: t-179910
   teiginys: 'Dusburgietis teigia, kad antra kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150 vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-179913"></a>
 - t-005
+  global_id: t-179913
   teiginys: 'Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė Kvėdarną, Gedimino pilį, Gegužkalnį ir Aukaimį.'
   pagrindžia:
     - c-003

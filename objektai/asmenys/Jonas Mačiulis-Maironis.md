@@ -19,32 +19,44 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 
 ## Teiginiai
 
+<a id="claim-t-63722"></a>
 - t-001
+  global_id: t-63722
   teiginys: 'Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-63723"></a>
 - t-002
+  global_id: t-63723
   teiginys: 'Jonas Mačiulis-Maironis tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-63724"></a>
 - t-003
+  global_id: t-63724
   teiginys: 'Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia, savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kalba rašyta poezija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63725"></a>
 - t-004
+  global_id: t-63725
   teiginys: 'Poetas Maironis laikomas tautos Atgimimo dainiumi Lietuvos Respublikos ištakų kontekste.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-63726"></a>
 - t-005
+  global_id: t-63726
   teiginys: 'Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-63727"></a>
 - t-006
+  global_id: t-63727
   teiginys: 'Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.'
   pagrindžia:
     - c-006

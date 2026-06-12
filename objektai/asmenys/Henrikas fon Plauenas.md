@@ -24,7 +24,9 @@ Naujasis magistras Henrikas fon Plauenas spėjo pasirengti ir apsigynė.
 
 ## Teiginiai
 
+<a id="claim-t-40136"></a>
 - t-001
+  global_id: t-40136
   teiginys: 'Naujasis magistras Henrikas fon Plauenas spėjo pasirengti ir apsigynė.'
   pagrindžia:
     - c-001

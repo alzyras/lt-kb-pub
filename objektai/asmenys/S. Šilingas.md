@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19219"></a>
 - t-001
+  global_id: t-19219
   teiginys: 'S. Šilingas 1918 m. lapkričio 2 d. buvo Tarybos prezidiumo vicepirmininkas.'
   pagrindžia:
     - c-001

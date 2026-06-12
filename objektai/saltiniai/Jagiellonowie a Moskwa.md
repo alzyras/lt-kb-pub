@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31736"></a>
 - t-001
+  global_id: t-31736
   teiginys: 'H. Paszkiewicziaus „Jagiellonowie a Moskwa“ pirmasis tomas „Litwa a Moskwa w XIII i XIV wieku“ išleistas Varšuvoje 1933 m.'
   pagrindžia:
     - c-001

@@ -26,38 +26,52 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
 
 ## Teiginiai
 
+<a id="claim-t-111382"></a>
 - t-001
+  global_id: t-111382
   teiginys: 'Vokiečių Prūsija tapo Lenkijos karūnos vasale.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-111383"></a>
 - t-002
+  global_id: t-111383
   teiginys: 'Geremferdenas atvyko į Didžiosios Kunigaikštystės sostinę, kad būtų pripažintas Lietuvos vasalu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-111384"></a>
 - t-003
+  global_id: t-111384
   teiginys: '1384 m. sausio 30 d. Karaliaučiuje Vytautas išdavė magistrui raštą, pasižadėdamas būti jo vasalu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-111385"></a>
 - t-004
+  global_id: t-111385
   teiginys: 'Geremferdenas atvyko į Vilnių, kad būtų pripažintas Lietuvos vasalu ir iš Vytauto rankų priimtų įvesdinimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-111386"></a>
 - t-005
+  global_id: t-111386
   teiginys: 'Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-111387"></a>
 - t-006
+  global_id: t-111387
   teiginys: 'Ankstyvaisiais Viduramžiais popiežiai maloningai priimdavo valstybių krikštus, ir šios tapdavo popiežiaus ar imperatoriaus vasalėmis.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-182988"></a>
 - t-007
-  teiginys: 'Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir išlikusiems sričių kunigaikščiams leido reikšti ištikimybės priesaikas Jogailai, tačiau valdyti jis valdė pats vienas: Jogaila be jo nieko negalėjo padaryti Lietuvoje.'
+  global_id: t-182988
+  teiginys: 'Vytautas žodžiais dėjosi esąs Jogailos ir Lenkijos vasalas, bet Lietuvą valdė pats vienas.'
   pagrindžia:
     - c-007
 
@@ -174,7 +188,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - t-006
 
 - c-007
-  santrauka: 'Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir išlikusiems sričių kunigaikščiams leido reikšti ištikimybės priesaikas Jogailai, tačiau valdyti jis valdė pats vienas: Jogaila be jo nieko negalėjo padaryti Lietuvoje.'
+  santrauka: 'Vytautas žodžiais dėjosi esąs Jogailos ir Lenkijos vasalas, bet Lietuvą valdė pats vienas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šituo

@@ -16,7 +16,9 @@ Onos bažnyčios atsiradimo žr.
 
 ## Teiginiai
 
+<a id="claim-t-86287"></a>
 - t-001
+  global_id: t-86287
   teiginys: 'Onos bažnyčios atsiradimo žr.'
   pagrindžia:
     - c-001

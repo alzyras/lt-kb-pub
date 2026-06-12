@@ -33,17 +33,23 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
 
 ## Teiginiai
 
+<a id="claim-t-73355"></a>
 - t-001
+  global_id: t-73355
   teiginys: 'Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-73356"></a>
 - t-002
+  global_id: t-73356
   teiginys: 'Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-73358"></a>
 - t-003
+  global_id: t-73358
   teiginys: 'Nuo XI amž., kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis vokiečių pirkliai.'
   pagrindžia:
     - c-001

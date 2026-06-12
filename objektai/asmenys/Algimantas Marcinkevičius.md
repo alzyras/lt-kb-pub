@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-78042"></a>
 - t-001
+  global_id: t-78042
   teiginys: 'Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vytauto Sirvydžio kardiochirurgijos mokykla.'
   pagrindžia:
     - c-001

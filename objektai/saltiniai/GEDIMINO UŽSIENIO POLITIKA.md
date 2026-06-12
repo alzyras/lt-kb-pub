@@ -16,7 +16,9 @@ P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.
 
 ## Teiginiai
 
+<a id="claim-t-80763"></a>
 - t-001
+  global_id: t-80763
   teiginys: 'P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.'
   pagrindžia:
     - c-001

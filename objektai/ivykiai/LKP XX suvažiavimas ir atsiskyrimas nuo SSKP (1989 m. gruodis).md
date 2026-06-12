@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20244"></a>
 - t-001
+  global_id: t-20244
   teiginys: 'LKP XX suvažiavime 855 iš 1 033 delegatų balsavo už savarankišką LKP, todėl partija atsiskyrė nuo SSKP.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183261"></a>
 - t-002
+  global_id: t-183261
   teiginys: 'Komunistų partijos veiklai didelę įtaką turėjo 1989 m. gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst.'
   pagrindžia:
     - c-001

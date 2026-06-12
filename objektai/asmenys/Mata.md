@@ -19,17 +19,23 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
 
 ## Teiginiai
 
+<a id="claim-t-60055"></a>
 - t-001
+  global_id: t-60055
   teiginys: 'Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60056"></a>
 - t-002
+  global_id: t-60056
   teiginys: 'Dusburgietis teigia, kad šitai išgirdę, broliai ir visa kariuomenė sukruto rengtis kovai, norėdami išvaduoti iš priešo rankų Kristaus krauju atpirktas sielas; vienas kilmingas pamedėnas, vardu Mata345, Pipino sūnus, brolio maršalo Henriko346 paklaustas, kaip reikėtų pulti priešus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60057"></a>
 - t-003
+  global_id: t-60057
   teiginys: 'Dusburgietis teigia, kad šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata; kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė Kristaus tikėjimą222.'
   pagrindžia:
     - c-001

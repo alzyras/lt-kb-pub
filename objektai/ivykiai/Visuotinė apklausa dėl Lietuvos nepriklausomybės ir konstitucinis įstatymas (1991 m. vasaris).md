@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77911"></a>
 - t-001
+  global_id: t-77911
   teiginys: 'Tačiau, nors karo veiksmai prieš Lietuvą ir buvo pristabdyti, sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo Lietuvos radiją ir televiziją, valdė kitus strateginius šalies objektus.'
   pagrindžia:
     - c-001

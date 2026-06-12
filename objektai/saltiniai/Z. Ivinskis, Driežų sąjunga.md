@@ -16,7 +16,9 @@ Ivinskis, Z. Ivinskis: Dubysos pilis , LE, t.
 
 ## Teiginiai
 
+<a id="claim-t-31997"></a>
 - t-001
+  global_id: t-31997
   teiginys: 'Z. Ivinskio tekstas „Driežų sąjunga“ nurodytas LE 5 tome, 184–185 puslapiuose.'
   pagrindžia:
     - c-001

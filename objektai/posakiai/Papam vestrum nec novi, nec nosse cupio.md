@@ -36,23 +36,31 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
 
 ## Teiginiai
 
+<a id="claim-t-55187"></a>
 - t-001
+  global_id: t-55187
   teiginys: 'Krantzas Gediminui priskyrė lotynišką pareiškimą „Papam vestrum nec novi, nec nosse cupio“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55188"></a>
 - t-002
+  global_id: t-55188
   teiginys: 'Formulė „Papam vestrum nec novi, nec nosse cupio“ lietuviškai aiškinama kaip „Jūsų Tėvo nei pažinojau, nei trokštu pažinti“.'
   pagrindžia:
     - c-001
     - c-002
 
+<a id="claim-t-55189"></a>
 - t-003
+  global_id: t-55189
   teiginys: '„Papam vestrum nec novi, nec nosse cupio“ reiškė pareiškimą, kad popiežiaus nei pažinojo, nei troško pažinti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-82143"></a>
 - t-004
+  global_id: t-82143
   teiginys: 'Posakis „Papam vestrum nec novi, nec nosse cupio“ buvo pateiktas kaip atsakymas popiežiaus pasiuntiniams.'
   pagrindžia:
     - c-002

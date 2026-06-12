@@ -17,7 +17,9 @@ O kadangi tas mūras kadaise buvo įpareigotas už Uršulę ir Mauricijų pamald
 
 ## Teiginiai
 
+<a id="claim-t-86624"></a>
 - t-001
+  global_id: t-86624
   teiginys: 'O kadangi tas mūras kadaise buvo įpareigotas už Uršulę ir Mauricijų pamaldoms viderkaftą mokėti, kasmet po 140 auksinų, todėl tasai t.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86513"></a>
 - t-001
+  global_id: t-86513
   teiginys: '1542 m. Vilniuje išleistas dekretas suteikė Vilniaus ir kitiems Lietuvos vyskupams valdžią tirti ir bausti atskalūnus.'
   pagrindžia:
     - c-001

@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20296"></a>
 - t-001
+  global_id: t-20296
   teiginys: 'Diplomatai savo atstovaujamose valstybėse simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais, dalyvavo įvairių šalių ambasadų, oficialių įstaigų priėmimuose.'
   pagrindžia:
     - c-001

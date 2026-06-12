@@ -24,12 +24,16 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
 
 ## Teiginiai
 
+<a id="claim-t-38711"></a>
 - t-001
+  global_id: t-38711
   teiginys: 'Dragūnus buvo galima naudoti ir kaip kavaleriją, tačiau mažiau efektyvią.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-38712"></a>
 - t-002
+  global_id: t-38712
   teiginys: 'Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti.'
   pagrindžia:
     - c-001

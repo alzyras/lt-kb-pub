@@ -25,12 +25,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86529"></a>
 - t-001
+  global_id: t-86529
   teiginys: 'Akademijos rektorius Juraha viderkafto mokestį nuo mūrinio namo priskyrė kahale investuotoms sumoms.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86530"></a>
 - t-002
+  global_id: t-86530
   teiginys: 'Vilniaus kahalas iki 1763 m. nuo 5500 auksinų sumos Valerijono konvikto gyventojams mokėjo 8 procentus.'
   pagrindžia:
     - c-002

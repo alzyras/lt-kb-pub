@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77909"></a>
 - t-001
+  global_id: t-77909
   teiginys: 'Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.'
   pagrindžia:
     - c-001

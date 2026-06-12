@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87146"></a>
 - t-001
+  global_id: t-87146
   teiginys: 'Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų Vilniaus gyventojui Bomannui, vykstančiam į Gdanską prekybos reikalais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87147"></a>
 - t-002
+  global_id: t-87147
   teiginys: 'Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.'
   pagrindžia:
     - c-002

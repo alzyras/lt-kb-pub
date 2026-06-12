@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-02336"></a>
 - t-001
+  global_id: t-02336
   teiginys: 'Angerburgo pilis minima tarp Lietuvai artimesnių pilių, įkurtų 1335 metais.'
   pagrindžia:
     - c-001

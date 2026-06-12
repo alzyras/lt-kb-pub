@@ -18,7 +18,9 @@ Rusijoje 1917 metų kovo mėnesį iš visokių srovių buvo sudaryta Lietuvių T
 
 ## Teiginiai
 
+<a id="claim-t-01389"></a>
 - t-001
+  global_id: t-01389
   teiginys: '1917 m. kovą Rusijoje iš įvairių srovių buvo sudaryta Lietuvių Tautos Taryba, sušaukusi Rusijoje išblaškytų lietuvių seimą Petrapilyje.'
   pagrindžia:
     - c-001

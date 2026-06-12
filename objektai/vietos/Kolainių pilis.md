@@ -28,37 +28,51 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
 
 ## Teiginiai
 
+<a id="claim-t-68234"></a>
 - t-001
+  global_id: t-68234
   teiginys: 'Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-68235"></a>
 - t-002
+  global_id: t-68235
   teiginys: 'Surminas paliko Kolainių pilį po to, kai Ordino broliai dėl sąmyšio turėjo nutraukti jos apgulą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-68236"></a>
 - t-003
+  global_id: t-68236
   teiginys: '1290 m. magistras su riteriais ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-68237"></a>
 - t-004
+  global_id: t-68237
   teiginys: 'Dusburgietis teigia, kad kai jie plaukė pro jau minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis, kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį, galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-68238"></a>
 - t-005
+  global_id: t-68238
   teiginys: 'Dusburgietis teigia, kad apie Kolainių pilies užpuolimą 1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas, magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais pėstininkų.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-68239"></a>
 - t-006
+  global_id: t-68239
   teiginys: 'Dusburgietis teigia, kad tiksliau kol kas nelokalizuota Kolainių pilis dažniausiai siejama su Kalnėnais į vak.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184389"></a>
 - t-007
+  global_id: t-184389
   teiginys: '1290 m. Ordino magistras su daugeliu riterių ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.'
   pagrindžia:
     - c-007

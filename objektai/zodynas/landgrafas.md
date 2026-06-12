@@ -26,17 +26,23 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
 
 ## Teiginiai
 
+<a id="claim-t-58822"></a>
 - t-001
+  global_id: t-58822
   teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino didįjį magistrą Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis magistras, mirė liepos 24 dieną, o palaidotas Markburge.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58823"></a>
 - t-002
+  global_id: t-58823
   teiginys: 'Dusburgietis teigia, kad apie Tiuringijos landgrafo išrinkimą Romos karaliumi 1246 metais Tiuringijos landgrafas buvo išrinktas Romos karaliumi (Ptol.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58824"></a>
 - t-003
+  global_id: t-58824
   teiginys: 'Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.'
   pagrindžia:
     - c-002
@@ -126,5 +132,6 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
 - [[objektai/paprociai/Teutonų namų ordino įvilktuvių apeiga]]
 - [[objektai/asmenys/Volfgeris]]
 - [[objektai/asmenys/Elžbieta]]
+- [[objektai/ivykiai/Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

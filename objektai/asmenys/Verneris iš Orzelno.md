@@ -31,77 +31,107 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 
 ## Teiginiai
 
+<a id="claim-t-64221"></a>
 - t-001
+  global_id: t-64221
   teiginys: 'Dusburgietis, pvz., tiksliai nurodo, kada buvo išrinktas magistru jo amžininkas ir globėjas Verneris iš Orzelno — 1324 m. liepos 6 d. (III, 354).'
   pagrindžia:
     - c-004
 
+<a id="claim-t-64222"></a>
 - t-002
+  global_id: t-64222
   teiginys: 'Vernerio iš Orzelno laikais Kryžiuočių ordino statute buvo pabrėžtas pamaldumas ir apriboti pasaulietiniai brolių poreikiai.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-64223"></a>
 - t-003
+  global_id: t-64223
   teiginys: 'Generalinėje kapituloje Verneris nustatė kunigams kasdien po sumos skaityti evangeliją „Pradžioje buvo žodis“ ir nurodė broliams klauptis ties žodžiais „Ir žodis tapo kūnu“.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-64224"></a>
 - t-004
+  global_id: t-64224
   teiginys: 'Dusburgietis teigia, kad norint atremti visus Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą, didžiajam magistrui Verneriui reikėjo kronikos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-64225"></a>
 - t-005
+  global_id: t-64225
   teiginys: 'Norint atremti Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą, Verneriui reikėjo kronikos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-64226"></a>
 - t-006
+  global_id: t-64226
   teiginys: 'Dusburgietis teigia, kad pRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-64227"></a>
 - t-007
+  global_id: t-64227
   teiginys: 'Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė, kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos kiekvieną dieną turį skaityti evangeliją.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-64228"></a>
 - t-008
+  global_id: t-64228
   teiginys: '1326 m. Petras iš Dusburgo užbaigtą „Prūsijos žemės kroniką“ įteikė Verneriui iš Orzelno.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64229"></a>
 - t-009
+  global_id: t-64229
   teiginys: 'Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio 18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo paties nedorybių, nužudė brolį Vernerį, didįjį magistrą.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-64230"></a>
 - t-010
+  global_id: t-64230
   teiginys: 'Dusburgietis teigia, kad veikalas buvęs įteiktas didžiajam magistrui Verneriui peržiūrėti ir pataisyti, jei kas jame bus taisytina.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-64231"></a>
 - t-011
+  global_id: t-64231
   teiginys: 'Dusburgietis teigia, kad su šiais visais patraukė link Lietuvos brolis Verneris, 200 brolių ir 18 tūkstančių karių, neskaitant pėstijos, ir grabnyčių išvakarėse apsupo Medvėgalio pilį601, kuri po ilgų kovų pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-64232"></a>
 - t-012
+  global_id: t-64232
   teiginys: 'Didysis magistras Verneris iš Orzelno ėmėsi restauruoti Kryžiuočių ordiną.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-64233"></a>
 - t-013
+  global_id: t-64233
   teiginys: 'Veikalas buvo įteiktas Verneriui peržiūrėti ir pataisyti, jei kas jame būtų taisytina.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64234"></a>
 - t-014
+  global_id: t-64234
   teiginys: 'Dusburgietis teigia, kad 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-64235"></a>
 - t-015
+  global_id: t-64235
   teiginys: 'Dusburgietis teigia, kad apie brolį Vernerį, didįjį bei Prūsijos žemės magistrą Brolis Verneris iš Orzelno, keturioliktas didysis ir dvidešimtas Prūsijos žemės magistras, tais metais, būtent 1324 viešpaties metų liepos mėnesio 6 dieną, buvo išrinktas vyriausiojoje būstinėje.'
   pagrindžia:
     - c-012

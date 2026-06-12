@@ -25,7 +25,9 @@ Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą A
 
 ## Teiginiai
 
+<a id="claim-t-88510"></a>
 - t-001
+  global_id: t-88510
   teiginys: '1432 m. lapkričio 30 d. laiške Livonijos magistrui Švitrigaila užsiminė, kad žmona Sofija jam pagimdė sūnų.'
   pagrindžia:
     - c-001

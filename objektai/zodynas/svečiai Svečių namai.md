@@ -19,12 +19,16 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 
 ## Teiginiai
 
+<a id="claim-t-86552"></a>
 - t-001
+  global_id: t-86552
   teiginys: '44 Svečių namams skirta privilegija yra: D u b i ń s k i, 1.18.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86553"></a>
 - t-002
+  global_id: t-86553
   teiginys: 'Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie savo atvykimą iškart pranešti pilininkui4 3 44.'
   pagrindžia:
     - c-002

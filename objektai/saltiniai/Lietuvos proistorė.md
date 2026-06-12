@@ -22,7 +22,9 @@ Gimbutienė (Gimbutas), Marija : Lietuvos proistorė, LE, t.
 
 ## Teiginiai
 
+<a id="claim-t-31821"></a>
 - t-001
+  global_id: t-31821
   teiginys: 'Marijos Gimbutienės „Lietuvos proistorė“ paskelbta „Lietuvių enciklopedijos“ 15 tome, 269-291 puslapiuose.'
   pagrindžia:
     - c-001

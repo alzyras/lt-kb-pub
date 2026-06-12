@@ -37,22 +37,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75342"></a>
 - t-001
+  global_id: t-75342
   teiginys: 'Pasakojime apie prūsų dievų trejybę aprašytas jų kultas, kulto tarnų hierarchija ir vaidilutės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75343"></a>
 - t-002
+  global_id: t-75343
   teiginys: 'Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų ir griausmų dievas, o trečiasis – javų dievas Patrimpas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75344"></a>
 - t-003
+  global_id: t-75344
   teiginys: 'Prūsų dievų trejybei priklausė požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75345"></a>
 - t-004
+  global_id: t-75345
   teiginys: 'Prūsijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus.'
   pagrindžia:
     - c-001

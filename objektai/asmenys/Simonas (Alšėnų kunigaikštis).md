@@ -27,12 +27,16 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87573"></a>
 - t-001
+  global_id: t-87573
   teiginys: 'Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87574"></a>
 - t-002
+  global_id: t-87574
   teiginys: '1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.'
   pagrindžia:
     - c-002

@@ -23,7 +23,9 @@ Tūkstančiui rinktinių anglų 21 To įsidėmėtino žygio į Vilnių apra­ š
 
 ## Teiginiai
 
+<a id="claim-t-88419"></a>
 - t-001
+  global_id: t-88419
   teiginys: 'Įsidėmėtino žygio į Vilnių aprašymas buvo nepasirašytas išspausdintas 1829 metų „Dziennik Wileński“ Nr. 1.'
   pagrindžia:
     - c-001

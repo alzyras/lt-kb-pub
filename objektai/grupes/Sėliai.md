@@ -24,13 +24,10 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
 
 ## Teiginiai
 
+<a id="claim-t-52441"></a>
 - t-001
+  global_id: t-52441
   teiginys: 'Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.'
-  pagrindžia:
-    - c-001
-
-- t-002
-  teiginys: 'Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir žemaičių, gyveno kuršiai, kairiajame Dauguvos žemupio krante — žiemgaliai, kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apskritis, gyveno sėliai, o į šiaurę.'
   pagrindžia:
     - c-001
 

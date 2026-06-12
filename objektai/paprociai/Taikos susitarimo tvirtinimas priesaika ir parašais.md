@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Taikos susitarimo tvirtinimas priesaika ir parašais
 
 ## Santrauka
 
-Kojelavičius teigia, kad todėl ma gistras su trimis šimtais bajorų atvyko pas karalių ir, paremtas Mikalojaus Radvilos, Nesvyžiaus kunigaikš čio, pasirašė ilgalaikį taikos susitarimą šitokiomis są lygomis. Kojelavičius teigia, kad jeigu Mask vos valdovas užpulsiąs ar Livoniją, ar Lietuvą, į kovą privalėsiančios stoti jungtinės abiejų tautų jėgos, be to, nė viena tauta negalėsianti atskirai sudaryti nei pa liaubų, nei pastovios taikos susitarimo.
+Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir pasirašė ilgalaikį taikos susitarimą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,20 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185894"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad todėl ma gistras su trimis šimtais bajorų atvyko pas karalių ir, paremtas Mikalojaus Radvilos, Nesvyžiaus kunigaikš čio, pasirašė ilgalaikį taikos susitarimą šitokiomis są lygomis.'
+  global_id: t-185894
+  teiginys: 'Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir pasirašė ilgalaikį taikos susitarimą.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Kojelavičius teigia, kad jeigu Mask vos valdovas užpulsiąs ar Livoniją, ar Lietuvą, į kovą privalėsiančios stoti jungtinės abiejų tautų jėgos, be to, nė viena tauta negalėsianti atskirai sudaryti nei pa liaubų, nei pastovios taikos susitarimo.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad todėl ma gistras su trimis šimtais bajorų atvyko pas karalių ir, paremtas Mikalojaus Radvilos, Nesvyžiaus kunigaikš čio, pasirašė ilgalaikį taikos susitarimą šitokiomis są lygomis.'
+  santrauka: 'Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir pasirašė ilgalaikį taikos susitarimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kas be ko, sunkios sąlygos,
@@ -63,36 +59,8 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Kojelavičius teigia, kad jeigu Mask vos valdovas užpulsiąs ar Livoniją, ar Lietuvą, į kovą privalėsiančios stoti jungtinės abiejų tautų jėgos, be to, nė viena tauta negalėsianti atskirai sudaryti nei pa liaubų, nei pastovios taikos susitarimo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Jeigu Mask­
-    vos valdovas užpulsiąs ar Livoniją, ar Lietuvą, į kovą
-    privalėsiančios
-    stoti jungtinės abiejų tautų jėgos, be
-    700
-
-    ## Puslapis 699
-
-    to, nė viena tauta negalėsianti atskirai sudaryti nei pa­
-    liaubų, nei pastovios taikos susitarimo. Po magistro ir
-    kiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš­
-    tus patvirtino savo parašais, be magistro, dar du rite­
-    rių išrinkti vyrai: Henrikas Štendichas, Kuldygos kom­
-    tūras, ir Kristupas iš Viljandžio, krašto maršalas.
-    Numalšinęs Livoniją ir iš­
-    siuntęs į Maskvą Palenkės
-    vaivadą Vasilijų Tiškevičių,
-    maršalą Mykolą Pašušvinskį
-    bei Lietuvos raštininką Joną
-    Gaiką, turėjusius derėtis su
-    maskvėnais dėl taikos, kara­
-    lius iš stovyklos patraukė į
-    Lenkiją, manydamas, jog ateina visuotinės ramybės me­
-    tas.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/magistras]]

@@ -18,7 +18,9 @@ Zolotarenkos (apie br 20000 karių) laikė apsiautę Gomelį "bei kitus miestus 
 
 ## Teiginiai
 
+<a id="claim-t-40142"></a>
 - t-001
+  global_id: t-40142
   teiginys: 'I. Zolotarenkos vadovaujami apie 20 000 kazokų laikė apsiautę Gomelį bei kitus miestus ir priartėjo prie Senojo Bychovo.'
   pagrindžia:
     - c-001

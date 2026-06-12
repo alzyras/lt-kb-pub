@@ -44,27 +44,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-78700"></a>
 - t-001
+  global_id: t-78700
   teiginys: 'Pirmieji krikščioniški Lietuvos valdovai patys organizavo kryžiaus žygius prieš totorius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78701"></a>
 - t-002
+  global_id: t-78701
   teiginys: 'Jau pirmieji krikščioniški Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes christiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius, formuodami „antemurale Christianitatis“ ideologiją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78702"></a>
 - t-003
+  global_id: t-78702
   teiginys: 'Vytautas ir pats buvo reagavęs į Serbijos sunaikinimą prie Kosovo (1389) - organizavo analogišką Nikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu 1399 m. prie Vorsklos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78703"></a>
 - t-004
+  global_id: t-78703
   teiginys: 'Pirmieji krikščioniški Lietuvos valdovai patys pradėjo organizuoti kryžiaus žygius prieš totorius, formuodami „antemurale Christianitatis“ ideologiją.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78704"></a>
 - t-005
+  global_id: t-78704
   teiginys: 'Vytautas organizavo Nikopoliui analogišką kryžiaus žygį, kuris 1399 m. baigėsi pralaimėjimu prie Vorsklos.'
   pagrindžia:
     - c-001

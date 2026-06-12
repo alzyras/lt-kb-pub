@@ -50,7 +50,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-13781"></a>
 - t-001
+  global_id: t-13781
   teiginys: 'Pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas Lietuvos auksas.'
   pagrindžia:
     - c-001

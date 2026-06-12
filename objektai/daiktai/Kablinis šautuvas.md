@@ -39,17 +39,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-78652"></a>
 - t-001
+  global_id: t-78652
   teiginys: 'Kablinis šautuvas buvo 22 mm kalibro ginklas, datuojamas XV a. pabaiga-XVI a. pradžia.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78653"></a>
 - t-002
+  global_id: t-78653
   teiginys: 'Šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78654"></a>
 - t-003
+  global_id: t-78654
   teiginys: 'Priekyje, prie ginklo apačios, pritvirtintas stačiai žemyn nukreiptas kablys, skirtas sušvelninti šūvio atatranką, kuri būdavo ypač stipri naudojant tokio didelio kalibro šautuvus.'
   pagrindžia:
     - c-003

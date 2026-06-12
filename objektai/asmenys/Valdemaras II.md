@@ -18,7 +18,9 @@ Dusburgietis teigia, kad 160—161), kai Danijos karaliaus Valdemaro II valdžia
 
 ## Teiginiai
 
+<a id="claim-t-60457"></a>
 - t-001
+  global_id: t-60457
   teiginys: 'Danijos karaliaus Valdemaro II valdžia plito vokiečių užkariautoje Livonijoje ir Rygoje.'
   pagrindžia:
     - c-001

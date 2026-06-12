@@ -42,22 +42,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66519"></a>
 - t-001
+  global_id: t-66519
   teiginys: 'Prūsai prie Pagansčių kaimo netikėtai užpuolė krikščionis iš dviejų pusių, nukovė dvylika brolių ir penkis šimtus vyrų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66520"></a>
 - t-002
+  global_id: t-66520
   teiginys: 'Divano ir Linko puolimas Kulmo žemėje datuojamas 1271 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66521"></a>
 - t-003
+  global_id: t-66521
   teiginys: 'Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, trys jų tarnai ir vienas pamedėnas, vardu Sirenas, kurį laikė grandinėmis surakintą, nes buvo kažkuo prasikaltęs.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66522"></a>
 - t-004
+  global_id: t-66522
   teiginys: 'Divanas Klokinis ir Linkas su didele kariuomene įsibrovė į Kulmo žemę, o jų pajėgos patraukė prie Traupeino pilies.'
   pagrindžia:
     - c-001

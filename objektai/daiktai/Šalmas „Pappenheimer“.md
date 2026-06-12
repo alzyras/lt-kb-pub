@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-80685"></a>
 - t-001
+  global_id: t-80685
   teiginys: 'Buvo kavalerijai skirtas šalmas, kurį ilgą laikotarpį naudojo raitarai, o tam tikrais atvejais ir ATR husarų vėliavų eiliniai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-80686"></a>
 - t-002
+  global_id: t-80686
   teiginys: 'Šalmas „Pappenheimer“ (pavadinmas kilęs nuo garsaus karvedžio pavardės) - tai vakarietiška iš rytų perimto šyšako (vok.'
   pagrindžia:
     - c-001

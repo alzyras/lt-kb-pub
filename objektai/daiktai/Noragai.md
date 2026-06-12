@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08310"></a>
 - t-001
+  global_id: t-08310
   teiginys: 'Laukai buvo ariami medžio noragais, ne geležiniais, o kai kurie storastos bandė įsakyti arti gelžiniais noragais.'
   pagrindžia:
     - c-001

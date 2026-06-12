@@ -16,7 +16,9 @@ Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komitet
 
 ## Teiginiai
 
+<a id="claim-t-40236"></a>
 - t-001
+  global_id: t-40236
   teiginys: 'Juozas Jermalavičius buvo vienas iš komunistų lyderių, vadovavusių apie 400 „raudonraiščių“.'
   pagrindžia:
     - c-001

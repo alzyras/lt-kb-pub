@@ -25,12 +25,16 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
 
 ## Teiginiai
 
+<a id="claim-t-75881"></a>
 - t-001
+  global_id: t-75881
   teiginys: 'Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio mintys apie tautos dvasią liaudies kalboje ir kultūroje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75882"></a>
 - t-002
+  global_id: t-75882
   teiginys: 'Tokia nuostata nugalėjo daugumoje Vakarų Europos valstybių, jos laikėsi ir lenkiškai kalbantis buvusios LLV elitas iki pat 1831 m. Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Johann Gottfried Herder) ir kitų vokiečių romantizmo.'
   pagrindžia:
     - c-002

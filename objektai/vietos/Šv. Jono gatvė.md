@@ -23,7 +23,9 @@ Jono gatvės į Vyskupų, šalimais Jono Hozijaus namo (Šv.
 
 ## Teiginiai
 
+<a id="claim-t-86282"></a>
 - t-001
+  global_id: t-86282
   teiginys: 'Jono gatvės į Vyskupų, šalimais Jono Hozijaus namo (Šv.'
   pagrindžia:
     - c-001

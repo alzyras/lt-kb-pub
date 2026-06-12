@@ -28,117 +28,163 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 
 ## Teiginiai
 
+<a id="claim-t-90342"></a>
 - t-001
+  global_id: t-90342
   teiginys: 'Elbingo broliai, stokodami išteklių ir laukdami laivų, siuntė atgal laivus bei žygūnus sužinoti padėties Kulmo žemėje.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-90343"></a>
 - t-002
+  global_id: t-90343
   teiginys: 'Dusburgietis teigia, kad šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė vienas pasirodyti.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-90344"></a>
 - t-003
+  global_id: t-90344
   teiginys: 'Dusburgietis teigia, kad torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-90345"></a>
 - t-004
+  global_id: t-90345
   teiginys: 'Dusburgietis teigia, kad dar kartų apie tą patį Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami, pasiuntė atgal laivus ir savo žygūnus, gavę tikslesnių žinių apie padėtį Kulmo žemėje.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-90346"></a>
 - t-005
+  global_id: t-90346
   teiginys: 'Dusburgietis teigia, kad jiems atsitraukiant, atskubėjo priešpriešiais 60 krikščionių vyrų, kuriuos siuntė į pagalbą Elbingo broliai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-90347"></a>
 - t-006
+  global_id: t-90347
   teiginys: '1303 m. didysis magistras Gotfridas Elbingo kapituloje atsisakė savo pareigų.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-90348"></a>
 - t-007
+  global_id: t-90348
   teiginys: 'Dusburgietis teigia, kad sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės, apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias kryžiuočių pilis Varmės žemėje, Rudino miesto užkariavimus ir kt.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-90349"></a>
 - t-008
+  global_id: t-90349
   teiginys: 'Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-90350"></a>
 - t-009
+  global_id: t-90350
   teiginys: 'Sventopelkas puolė Elbingo pilį ir miestą, manydamas, kad ten beveik neliko nei brolių, nei miestiečių.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-90351"></a>
 - t-010
+  global_id: t-90351
   teiginys: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-90352"></a>
 - t-011
+  global_id: t-90352
   teiginys: 'Dusburgietis teigia, kad apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie Pagudės kilmingieji, tiesa, vos.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-90353"></a>
 - t-012
+  global_id: t-90353
   teiginys: 'Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį 1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami nusileisti, paslėpė.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-90354"></a>
 - t-013
+  global_id: t-90354
   teiginys: '1237 m. Elbingo pilis buvo pastatyta toje vietoje, kur Elbingo upė įteka į Gėlo vandens marias.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90355"></a>
 - t-014
+  global_id: t-90355
   teiginys: '1303 m. Gotfridas Elbingo kapituloje atsisakė didžiojo magistro pareigų, o ten pat buvo išrinktas Zigfridas iš Foichtvangeno.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-90356"></a>
 - t-015
+  global_id: t-90356
   teiginys: 'Dusburgietis teigia, kad apie karą su pagudėnais ir Elbingo pilies pastatymą Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra pagudėnus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90357"></a>
 - t-016
+  global_id: t-90357
   teiginys: 'Laivai padėjo pastatyti Elbingo ir Baigos pilis bei saugoti Gėlo vandens marias.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-90358"></a>
 - t-017
+  global_id: t-90358
   teiginys: '1237 m. Ordino broliai Pagudėje pastatė pilį prie Elbingo upės ir pavadino ją Elbingu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90359"></a>
 - t-018
+  global_id: t-90359
   teiginys: 'Dusburgietis teigia, kad žiemą ši kariuomenė atžygiavo į Elbingą, tačiau velnias, žmonių giminės priešas, sumanė išardyti šį žygį vardan tikėjimo, dievo apvaizdos teikiamo žmonių išganymui, jis mat sukurstė viename malūne susiginčyti du vyrus, vieną — iš Saksonijos, o kitą — iš.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-90360"></a>
 - t-019
+  global_id: t-90360
   teiginys: 'Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus laivus; priartėjęs prie Santyro, jis ten išvydo.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-90361"></a>
 - t-020
+  global_id: t-90361
   teiginys: 'Dusburgietis teigia, kad štai nuo Elbingo brolių iš mūšio lauko išsibėgiojo didelė prūsų kariuomenė, stebuklingai nedidelio kryžiuočių būrelio vietoje išvydusi didžiulę kariuomenę (III, 17).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-90362"></a>
 - t-021
+  global_id: t-90362
   teiginys: 'Dusburgietis teigia, kad apie Elbingo pilies ir miesto puolimą Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei brolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto, ketindamas užimti.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-90363"></a>
 - t-022
+  global_id: t-90363
   teiginys: 'Dusburgietis teigia, kad 242 Elbingo (dab.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-90364"></a>
 - t-023
+  global_id: t-90364
   teiginys: 'Dusburgietis teigia, kad dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237 viešpaties įsikūnijimo metais į Pagudės žemę, į tą salą, kuri, pasak kai kurių, esanti Elbingo upės.'
   pagrindžia:
     - c-001

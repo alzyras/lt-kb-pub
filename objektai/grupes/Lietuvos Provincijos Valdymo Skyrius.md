@@ -25,13 +25,17 @@ Prasidėjus sukilimui Lenkijoje, po poros mėnesių ir Lietuvoje susidarė revol
 
 ## Teiginiai
 
+<a id="claim-t-65770"></a>
 - t-001
+  global_id: t-65770
   teiginys: 'Prasidėjus sukilimui Lenkijoje, po poros mėnesių ir Lietuvoje susidarė revoliucinis komitetas, pasivadinęs Lietuvos Provincijos Valdymo Skyrium.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65771"></a>
 - t-002
-  teiginys: 'Prasidėjus sukilimui Lenkijoje, po poros mėnesių ir Lietuvoje susidarė revoliucinis komitetas, pasivadinęs Lietuvos Provincijos Valdymo Skyrium. Norėdamas įtraukti į sukilimą valstiečius, jis skleidė lenkiškus ir lietuviškus atsišaukimus, kuriuose buvo.'
+  global_id: t-65771
+  teiginys: 'Lietuvos Provincijos Valdymo Skyrius valstiečiams į sukilimą įtraukti skleidė lenkiškus ir lietuviškus atsišaukimus.'
   pagrindžia:
     - c-001
 

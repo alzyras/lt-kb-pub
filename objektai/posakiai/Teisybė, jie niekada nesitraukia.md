@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-41466"></a>
 - t-001
+  global_id: t-41466
   teiginys: 'Posakis „Teisybė, jie niekada nesitraukia“ apibūdina raitelius kaip nesitraukiančius ir visu greičiu puolančius.'
   pagrindžia:
     - c-001

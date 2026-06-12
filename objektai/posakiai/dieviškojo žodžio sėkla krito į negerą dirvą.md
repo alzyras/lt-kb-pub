@@ -19,7 +19,9 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 
 ## Teiginiai
 
+<a id="claim-t-59090"></a>
 - t-001
+  global_id: t-59090
   teiginys: 'Vyskupas Kristijonas dažnai ragino prūsus atsisakyti stabų, tačiau dieviškojo žodžio sėkla tarp jų krito į negerą dirvą.'
   pagrindžia:
     - c-001

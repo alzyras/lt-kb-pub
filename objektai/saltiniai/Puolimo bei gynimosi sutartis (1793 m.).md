@@ -23,7 +23,9 @@ Be to, Rusijai reikalaujant, su ja buvo padaryta puolimo bei gynimosi sutartis.
 
 ## Teiginiai
 
+<a id="claim-t-02272"></a>
 - t-001
+  global_id: t-02272
   teiginys: 'Rusijai reikalaujant buvo sudaryta puolimo bei gynimosi sutartis su Rusija.'
   pagrindžia:
     - c-001

@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės
 
 ## Santrauka
 
-Kojelavičius teigia, kad karalius, padrąsintas Vytauto tylėjimo, nu mojo ranka į visokius nemalonumus, kurių ši santuoka galėjo pridaryti valdovo rūmams. Kojelavičius teigia, kad pataikūniškai aiškindamas įstatymus pagal valdovo norus, jis pareiškė, jog santuoka būsian ti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro- 3 9 6 mos bažnyčia.
+Vytautui tylint, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą. Kujavijos vyskupas Jonas Kropidlas pareiškė, kad Vytauto santuoka bus teisėta, ir surišo sutuoktinius pagal Romos bažnyčios tvarką.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,20 +29,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185862"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad karalius, padrąsintas Vytauto tylėjimo, nu mojo ranka į visokius nemalonumus, kurių ši santuoka galėjo pridaryti valdovo rūmams.'
+  global_id: t-185862
+  teiginys: 'Vytautui tylint, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185863"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad pataikūniškai aiškindamas įstatymus pagal valdovo norus, jis pareiškė, jog santuoka būsian ti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro- 3 9 6 mos bažnyčia.'
+  global_id: t-185863
+  teiginys: 'Kujavijos vyskupas Jonas Kropidlas pareiškė, kad Vytauto santuoka bus teisėta, ir surišo sutuoktinius pagal Romos bažnyčios tvarką.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad karalius, padrąsintas Vytauto tylėjimo, nu mojo ranka į visokius nemalonumus, kurių ši santuoka galėjo pridaryti valdovo rūmams.'
+  santrauka: 'Vytautui tylint, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius, padrąsintas Vytauto tylėjimo, nu­
@@ -63,7 +66,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad pataikūniškai aiškindamas įstatymus pagal valdovo norus, jis pareiškė, jog santuoka būsian ti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro- 3 9 6 mos bažnyčia.'
+  santrauka: 'Kujavijos vyskupas Jonas Kropidlas pareiškė, kad Vytauto santuoka bus teisėta, ir surišo sutuoktinius pagal Romos bažnyčios tvarką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Galbūt atkakliu ne­
@@ -86,3 +89,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Edigejus]]
+- [[objektai/asmenys/Elžbieta]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Jonas Kropidlas|Jonas Kropidlas (vyskupas)]]
+- [[objektai/asmenys/Leopoldas (Austrijos erchercogas)]]

@@ -16,7 +16,9 @@ Konstantinas Žukas.
 
 ## Teiginiai
 
+<a id="claim-t-40292"></a>
 - t-001
+  global_id: t-40292
   teiginys: 'Pulkininkas leitenantas Konstantinas Žukas buvo paskirtas į pareigas Lietuvos kariuomenėje.'
   pagrindžia:
     - c-001

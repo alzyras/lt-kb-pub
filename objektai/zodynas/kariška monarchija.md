@@ -19,7 +19,9 @@ Kariška monarchija, jeigu taip trum­ pai galima išsireikšti.
 
 ## Teiginiai
 
+<a id="claim-t-36787"></a>
 - t-001
+  global_id: t-36787
   teiginys: 'Kariškoje monarchijoje valstybės priešakyje stovėjo nevaržomas didysis kunigaikštis, valdęs monarcho teisėmis.'
   pagrindžia:
     - c-001

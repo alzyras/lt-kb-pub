@@ -16,7 +16,9 @@ Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-A
 
 ## Teiginiai
 
+<a id="claim-t-18859"></a>
 - t-001
+  global_id: t-18859
   teiginys: '1990 m. kovo 11 d. Bronislovas Kuzmickas buvo Lietuvos Respublikos Aukščiausiosios Tarybos pirmininko pavaduotojas.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 
 ## Teiginiai
 
+<a id="claim-t-19186"></a>
 - t-001
+  global_id: t-19186
   teiginys: 'Paul McCartney grojo Tony’o Zemaicio sukurta gitara „Zemaitis“.'
   pagrindžia:
     - c-001

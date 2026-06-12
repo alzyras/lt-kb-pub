@@ -19,12 +19,16 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 
 ## Teiginiai
 
+<a id="claim-t-28564"></a>
 - t-001
+  global_id: t-28564
   teiginys: 'Kojalavičiaus laikais Lietuvos bajorijoje buvo pastebimas savos valstybingumo sąmonės silpnėjimas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-28565"></a>
 - t-002
+  global_id: t-28565
   teiginys: 'Stryjkovskis ryškino Lietuvos valstybinį patriotizmą ir gynė atskirą Lietuvos valstybinę sąmonę.'
   pagrindžia:
     - c-002

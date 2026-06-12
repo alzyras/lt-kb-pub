@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-32413"></a>
 - t-001
+  global_id: t-32413
   teiginys: 'Baltai, nedaug tepajudėdami, ir toliau pasiliko gyventi Nemuno-Dauguvos-Dniepro plote.'
   pagrindžia:
     - c-001

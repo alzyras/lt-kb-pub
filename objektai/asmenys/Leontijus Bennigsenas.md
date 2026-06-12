@@ -16,7 +16,9 @@ Leontijus Benningsenas. Leontijus Bennigsenas trimis kavalerijos pulkais, remiam
 
 ## Teiginiai
 
+<a id="claim-t-40305"></a>
 - t-001
+  global_id: t-40305
   teiginys: 'Gen. mjr. Leontijus Bennigsenas trimis kavalerijos pulkais, remiamas kazokų pulko, atakavo lietuvių įtvirtinimus prie Vilniaus.'
   pagrindžia:
     - c-001

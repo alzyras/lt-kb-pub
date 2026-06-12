@@ -39,17 +39,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87051"></a>
 - t-001
+  global_id: t-87051
   teiginys: 'Ordino riteriai puolė į mūšį nešini šv. Jurgio vėliava, bet lietuviai juos atrėmė ir privertė grįžti patyrus nuostolių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87052"></a>
 - t-002
+  global_id: t-87052
   teiginys: 'Pilies gynėjai iškėlė vėliavas su kryžiais, rodydami, kad kovoja su pagonimis Vytauto gretose.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87053"></a>
 - t-003
+  global_id: t-87053
   teiginys: 'Atsitraukdamas ties Rudamina Vytautas neteko daug saviškių ir keturių kariuomenės ženklų.'
   pagrindžia:
     - c-001

@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Karine klasta paimamas kryžiuočių laivas
 
 ## Santrauka
 
-Kojelavičius teigia, kad kryžiuočiai neįtarė nei klastos, nei pavojaus: krantai, medžiais ap augę, rodė, kad kraštas, ko gero, negyvenamas, moteris tikrai nešauktų taip garsiai, jeigu arti kur būtų buvę priešų.
+Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185802"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kryžiuočiai neįtarė nei klastos, nei pavojaus: krantai, medžiais ap augę, rodė, kad kraštas, ko gero, negyvenamas, moteris tikrai nešauktų taip garsiai, jeigu arti kur būtų buvę priešų.'
+  global_id: t-185802
+  teiginys: 'Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kryžiuočiai neįtarė nei klastos, nei pavojaus: krantai, medžiais ap augę, rodė, kad kraštas, ko gero, negyvenamas, moteris tikrai nešauktų taip garsiai, jeigu arti kur būtų buvę priešų.'
+  santrauka: 'Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kryžiuočiai
@@ -56,3 +57,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/asmenys/Nodamas]]

@@ -18,7 +18,9 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 
 ## Teiginiai
 
+<a id="claim-t-28359"></a>
 - t-001
+  global_id: t-28359
   teiginys: 'Jūros upės krantu siena pasislinko vieną mylią į šiaurę, o Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui.'
   pagrindžia:
     - c-001

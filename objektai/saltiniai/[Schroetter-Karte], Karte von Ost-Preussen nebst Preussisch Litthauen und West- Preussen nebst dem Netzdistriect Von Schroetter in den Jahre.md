@@ -26,7 +26,9 @@ Dusburgietis teigia, kad [Schroetter-Karte], Karte von Ost-Preussen nebst Preuss
 
 ## Teiginiai
 
+<a id="claim-t-61289"></a>
 - t-001
+  global_id: t-61289
   teiginys: 'Schroetterio Rytų Prūsijos, Prūsų Lietuvos, Vakarų Prūsijos ir Notecės distrikto žemėlapis sudarytas 1796-1802 m. 1:150000 masteliu.'
   pagrindžia:
     - c-001

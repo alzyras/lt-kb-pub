@@ -23,7 +23,9 @@ Politinis atšilimas ir liberalizacijos ženklai kultūriniame gyvenime nereišk
 
 ## Teiginiai
 
+<a id="claim-t-70328"></a>
 - t-001
+  global_id: t-70328
   teiginys: 'Politinio atšilimo metais dauguma užsienio ar ikikarinių leidinių tebebuvo laikomi vadinamuosiuose specfonduose.'
   pagrindžia:
     - c-001

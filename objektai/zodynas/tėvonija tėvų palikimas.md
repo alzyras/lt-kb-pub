@@ -19,22 +19,30 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 
 ## Teiginiai
 
+<a id="claim-t-70366"></a>
 - t-001
+  global_id: t-70366
   teiginys: 'Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų kunigaikščių dovanota vokiečiams.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-70368"></a>
 - t-002
+  global_id: t-70368
   teiginys: 'Voluinėje tėvonijas sukūrė Sanguškos, Čartoriskiai, Vyšnioveckiai ir kitos Gediminaičių šakos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70369"></a>
 - t-003
+  global_id: t-70369
   teiginys: 'Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183484"></a>
 - t-005
+  global_id: t-183484
   teiginys: 'Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.'
   pagrindžia:
     - c-005

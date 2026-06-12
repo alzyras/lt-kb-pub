@@ -18,7 +18,9 @@ Dusburgietis teigia, kad o kitoje vietoje, kai žuvo tie, kurie susirado mirtį 
 
 ## Teiginiai
 
+<a id="claim-t-59104"></a>
 - t-001
+  global_id: t-59104
   teiginys: 'Makabiejų knygos žodžiai apie kovą už gyvybę ir įstatymą skatino magistrą ir brolius ginti Prūsijos žemę nuo karaliaus antpuolių.'
   pagrindžia:
     - c-001

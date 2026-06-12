@@ -19,12 +19,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86753"></a>
 - t-001
+  global_id: t-86753
   teiginys: 'Prie Vilniaus ne daugiau kaip 200 Burgundijos šaulių ir 300 kitų karių laikinai įsirengė įtvirtinimus iš statybinių medžiagų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86754"></a>
 - t-002
+  global_id: t-86754
   teiginys: 'Burgundijos šauliai taikliais šūviais ir narsa atrėmė puolimą, nors patys patyrė didelių nuostolių.'
   pagrindžia:
     - c-002

@@ -43,22 +43,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54310"></a>
 - t-001
-  teiginys: 'Vilniaus universitete veikė studentų organizacijos, rūpinusios kultūriniu ir doroviniu tobulėjimu, tiesa, laisve ir Tėvyne.'
-  pagrindžia:
-    - c-001
-
-- t-002
+  global_id: t-54310
   teiginys: 'Nors jokių sąmokslų šios organizacijos nerezgė, jos kūrė atmosferą, neskatinančią paklusnumo valdžiai.'
   pagrindžia:
     - c-001
 
-- t-003
+<a id="claim-t-54311"></a>
+- t-002
+  global_id: t-54311
   teiginys: 'Universitete veikė studentų organizacijos, kurios rūpinosi kultūriniu ir doroviniu tobulėjimu bei ištikimybe tiesai, laisvei ir Tėvynei.'
   pagrindžia:
     - c-002
 
-- t-004
+<a id="claim-t-183325"></a>
+- t-003
+  global_id: t-183325
   teiginys: 'Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas.'
   pagrindžia:
     - c-002
@@ -78,7 +79,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-002
   santrauka: 'Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas.'
@@ -98,8 +99,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
     - t-003
+    - t-002
 
 - c-003
   santrauka: 'Nors jokių sąmokslų šios organizacijos nerezgė, jos kūrė atmosferą, neskatinančią paklusnumo valdžiai.'
@@ -114,7 +115,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

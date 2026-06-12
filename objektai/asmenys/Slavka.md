@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Slavka
 
 ## Santrauka
 
-Kojelavičius teigia, kad kambarinis Slavka, užgulęs leisgyvį valdovą, norėjo savo kūnu užstoti jį nuo smūgių, tačiau Jonas nuvilko jį į šalį ir išmetė pro langą; nieko negali sa kyti, žmogus buvo vertas tauresnės dalios, nes paliko busimosioms kartoms pavyzdį, koks ištikimas turi.
+Kambarinis Slavka savo kūnu bandė užstoti leisgyvį valdovą nuo smūgių, bet Jonas jį nuvilko į šalį ir išmetė pro langą.
 
 ## Teiginiai
 
+<a id="claim-t-186162"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kambarinis Slavka, užgulęs leisgyvį valdovą, norėjo savo kūnu užstoti jį nuo smūgių, tačiau Jonas nuvilko jį į šalį ir išmetė pro langą; nieko negali sa kyti, žmogus buvo vertas tauresnės dalios, nes paliko busimosioms kartoms pavyzdį, koks ištikimas turi.'
+  global_id: t-186162
+  teiginys: 'Kambarinis Slavka savo kūnu bandė užstoti leisgyvį valdovą nuo smūgių, bet Jonas jį nuvilko į šalį ir išmetė pro langą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kambarinis Slavka, užgulęs leisgyvį valdovą, norėjo savo kūnu užstoti jį nuo smūgių, tačiau Jonas nuvilko jį į šalį ir išmetė pro langą; nieko negali sa kyti, žmogus buvo vertas tauresnės dalios, nes paliko busimosioms kartoms pavyzdį, koks ištikimas turi.'
+  santrauka: 'Kambarinis Slavka savo kūnu bandė užstoti leisgyvį valdovą nuo smūgių, bet Jonas jį nuvilko į šalį ir išmetė pro langą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tada Skabeika,

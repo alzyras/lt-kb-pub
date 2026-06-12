@@ -52,12 +52,16 @@ Po pirmojo privatizacijos dešimtmečio masinis nedarbas skatino masinę Lietuvo
 
 ## Teiginiai
 
+<a id="claim-t-23370"></a>
 - t-001
+  global_id: t-23370
   teiginys: 'Masinis nedarbas po stambių įmonių bankrotų paskatino masinę Lietuvos gyventojų emigraciją nuo 1990 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23371"></a>
 - t-002
+  global_id: t-23371
   teiginys: 'Dauguma emigrantų buvo jauni darbingo amžiaus žmonės, o emigracijos padariniu įvardytas protų nutekėjimas.'
   pagrindžia:
     - c-001

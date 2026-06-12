@@ -26,22 +26,30 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
 
 ## Teiginiai
 
+<a id="claim-t-89583"></a>
 - t-001
+  global_id: t-89583
   teiginys: 'Dusburgietis teigia, kad šitokie dvasiniai šulai iškirsti išminties ranka to šventojo tikėjimo namuose, kuriuos taip pastatydino jo šventenybė popiežius, kad, pasipylus ant jų godumo liūčiai ir užplūdus juos prabangos potvyniui, puikybės vėjui juos užgriuvus ir įsibrovus į vidų, jie.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89584"></a>
 - t-002
+  global_id: t-89584
   teiginys: 'Dusburgietis teigia, kad štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89585"></a>
 - t-003
+  global_id: t-89585
   teiginys: 'Dusburgietis teigia, kad mat prie jo skuba visuotinė bažnyčia, trokšdama išgirsti ir pažinti jo mokymą, nelyginant karalienė Saba, norėjusi patirti Saliamono išmintingumą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89586"></a>
 - t-004
+  global_id: t-89586
   teiginys: 'Dusburgietis teigia, kad kadangi parašyta: „Dvasia teikia gyvybę, o kūnas nieko neduoda“, todėl buvo reikalingi šiam namui septyni kitoniški šulai — dvasiniai, kurių trimis, būtent: klusnumu, neturtu ir skaistybe, rėmėsi visiems privaloma drausmė, o keturi kiti, būtent: gailestis.'
   pagrindžia:
     - c-001

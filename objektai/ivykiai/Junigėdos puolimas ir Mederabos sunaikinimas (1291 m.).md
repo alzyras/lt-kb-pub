@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31422"></a>
 - t-001
+  global_id: t-31422
   teiginys: '1291 m. kryžiuočiai puolė Junigėdą, jos nepaėmė, bet netoliese sunaikino Mederabos pilį.'
   pagrindžia:
     - c-001

@@ -17,12 +17,16 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
 
 ## Teiginiai
 
+<a id="claim-t-39673"></a>
 - t-001
+  global_id: t-39673
   teiginys: 'Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183767"></a>
 - t-002
+  global_id: t-183767
   teiginys: 'Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio.'
   pagrindžia:
     - c-002

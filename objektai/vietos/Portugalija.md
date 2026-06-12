@@ -23,12 +23,16 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
 
 ## Teiginiai
 
+<a id="claim-t-47099"></a>
 - t-001
+  global_id: t-47099
   teiginys: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-47100"></a>
 - t-002
+  global_id: t-47100
   teiginys: 'O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispanijai?'
   pagrindžia:
     - c-002

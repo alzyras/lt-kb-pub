@@ -44,12 +44,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-45547"></a>
 - t-001
+  global_id: t-45547
   teiginys: 'Vilniaus Verkių rūmų interjeras pavaizduotas J. K. Vilčinskio „Vilniaus albume“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45548"></a>
 - t-002
+  global_id: t-45548
   teiginys: 'Vilniaus Verkių rūmų interjeras pavaizduotas J. K. Vilčinskio „Vilniaus albume“ P. Benoist 1848 m. kūrinyje.'
   pagrindžia:
     - c-002

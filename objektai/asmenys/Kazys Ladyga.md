@@ -28,7 +28,9 @@ Paveiksle pavaizduoti Radviliškį atakuojantys 1-ojo pėstininkų pulko kariai,
 
 ## Teiginiai
 
+<a id="claim-t-40281"></a>
 - t-001
+  global_id: t-40281
   teiginys: 'Kazys Ladyga 1914 m. baigė Vilniaus karo mokyklą, dalyvavo Pirmajame pasauliniame kare ir buvo du kartus sužeistas.'
   pagrindžia:
     - c-001

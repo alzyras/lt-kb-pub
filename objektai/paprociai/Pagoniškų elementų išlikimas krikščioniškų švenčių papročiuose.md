@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-169876"></a>
 - t-001
+  global_id: t-169876
   teiginys: 'Pagoniškos šventės Lietuvoje išliko krikščioniškųjų švenčių sluoksnyje, o žilos senovės elementai lėmė tautosakos, folkloro ir tautodailės savitumą.'
   pagrindžia:
     - c-001

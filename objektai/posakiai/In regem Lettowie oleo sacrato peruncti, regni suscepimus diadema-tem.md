@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-99999"></a>
 - t-001
+  global_id: t-99999
   teiginys: '(^118) « In regem Lettowie oleo sacrato peruncti, regni suscepimus diadematem » (LUB I, 243).'
   pagrindžia:
     - c-001

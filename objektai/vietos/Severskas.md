@@ -18,7 +18,6 @@ tags:
 amziai:
   - 'XV'
 ---
-
 # Severskas
 
 ## Santrauka
@@ -27,28 +26,38 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
 
 ## Teiginiai
 
+<a id="claim-t-86104"></a>
 - t-001
+  global_id: t-86104
   teiginys: 'Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lietuvos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185133"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad todėl, net nepabandęs laimės kovos lauke, kuo greičiausiai pabėgo į Severską.'
+  global_id: t-185133
+  teiginys: 'Levas, net nepabandęs kovoti lauke, kuo greičiausiai pabėgo į Severską.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185134"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad gediminas, pasilsėjęs čia, kol artimiausios pi lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida vė nugalėtojui, patraukė į Severską.'
+  global_id: t-185134
+  teiginys: 'Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185135"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad nenorėdamas, kad nugalėtieji turėtų laiko kokioje S u m u ša S e v e r s k o kavietoje atsikvėpti, jis išsiuntė iiu s lengvųjų raitelių būrius bė gančiųjų persekioti, tuo tarpu pats, surinkęs grobį, su pagrindinėmis jėgomis patraukė į Severską.'
+  global_id: t-185135
+  teiginys: 'Vytautas, pasiuntęs lengvuosius raitelius persekioti bėgančiųjų, su pagrindinėmis jėgomis patraukė į Severską.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-185136"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad k ol visi lau k ė šio susitikim o, tu rė ju sio įv y k ti g e gužės pabaigoje, Mykolas su 1448 m e ta i sk itais įsiv eržė į Severską ir, Sum u ša M y k o lą Sesum ušęs greitosiom is sutelkv e r s k e tas jėg as, jam p asto ju sias k e lią, p aėm ė Brianską.'
+  global_id: t-185136
+  teiginys: 'Mykolas su skitais įsiveržė į Severską, sumušė jam kelią pastojusias jėgas ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.'
   pagrindžia:
     - c-005
 
@@ -84,7 +93,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad todėl, net nepabandęs laimės kovos lauke, kuo greičiausiai pabėgo į Severską.'
+  santrauka: 'Levas, net nepabandęs kovoti lauke, kuo greičiausiai pabėgo į Severską.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to nuvedė pulkus prieš Levą, Lucko ku-
@@ -106,7 +115,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad gediminas, pasilsėjęs čia, kol artimiausios pi lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida vė nugalėtojui, patraukė į Severską.'
+  santrauka: 'Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Visi luo­
@@ -129,7 +138,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad nenorėdamas, kad nugalėtieji turėtų laiko kokioje S u m u ša S e v e r s k o kavietoje atsikvėpti, jis išsiuntė iiu s lengvųjų raitelių būrius bė gančiųjų persekioti, tuo tarpu pats, surinkęs grobį, su pagrindinėmis jėgomis patraukė į Severską.'
+  santrauka: 'Vytautas, pasiuntęs lengvuosius raitelius persekioti bėgančiųjų, su pagrindinėmis jėgomis patraukė į Severską.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas, šitai išvy-
@@ -168,7 +177,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad k ol visi lau k ė šio susitikim o, tu rė ju sio įv y k ti g e gužės pabaigoje, Mykolas su 1448 m e ta i sk itais įsiv eržė į Severską ir, Sum u ša M y k o lą Sesum ušęs greitosiom is sutelkv e r s k e tas jėg as, jam p asto ju sias k e lią, p aėm ė Brianską.'
+  santrauka: 'Mykolas su skitais įsiveržė į Severską, sumušė jam kelią pastojusias jėgas ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­

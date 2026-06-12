@@ -39,22 +39,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-55161"></a>
 - t-001
+  global_id: t-55161
   teiginys: 'Vilnius savo kilimo pradžioje turėjo laikytis tokios tvarkos, kokia buvo ir kitur leninio valdymo aplinkoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55162"></a>
 - t-002
+  global_id: t-55162
   teiginys: 'Pilininkai valdė miestą, vykdydami teisminę priežiūrą kartu su bendruomenės parinktu seniūnu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-55163"></a>
 - t-003
+  global_id: t-55163
   teiginys: 'Vilniaus kilimo pradžioje pilininkai valdė miestą ir teisminę priežiūrą vykdė su bendruomenės parinktu seniūnu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-81870"></a>
 - t-004
+  global_id: t-81870
   teiginys: 'Gedimino dėka Vilnius iš mažos gyvenvietės iškilo iki miesto ir tapo Lietuvos sostine.'
   pagrindžia:
     - c-003

@@ -16,7 +16,9 @@ Vakarų radijo stotims „Kronika“ tapo pagrindiniu medžiagos apie Lietuvą �
 
 ## Teiginiai
 
+<a id="claim-t-21117"></a>
 - t-001
+  global_id: t-21117
   teiginys: 'Lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas buvo išspausdintas pirmajame „Kronikos“ numeryje.'
   pagrindžia:
     - c-001

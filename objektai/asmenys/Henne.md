@@ -17,17 +17,23 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 
 ## Teiginiai
 
+<a id="claim-t-35087"></a>
 - t-001
+  global_id: t-35087
   teiginys: 'Henne buvo įžymiausias Vytauto juokdarys ir kartu vokiečių agentas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-35088"></a>
 - t-002
+  global_id: t-35088
   teiginys: 'Henne keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184259"></a>
 - t-003
+  global_id: t-184259
   teiginys: 'Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo, sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo Henne, drauge ir vokiečių agentas.'
   pagrindžia:
     - c-003

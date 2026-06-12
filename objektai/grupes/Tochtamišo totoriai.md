@@ -19,22 +19,30 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-171389"></a>
 - t-001
+  global_id: t-171389
   teiginys: 'Tochtamišo totoriai buvo įtraukti į Lietuvos jungtinių pajėgų sudėtį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-171391"></a>
 - t-002
+  global_id: t-171391
   teiginys: 'Vytauto kariuomenėje prie Vorsklos buvo keli tūkstančiai Tochtamišo totorių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-171392"></a>
 - t-003
+  global_id: t-171392
   teiginys: 'Tochtamišo karių dalis, jau prieš mūšį susisiekusi su priešais, galėjo pereiti į chano Timūr-Kutluko šalininkų pusę (greta stovėta keletą dienų).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183668"></a>
 - t-004
+  global_id: t-183668
   teiginys: 'Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamišo totoriai, talkininkai iš Lenkijos, Kryžiuočių ordino kariai, moldavai.'
   pagrindžia:
     - c-003

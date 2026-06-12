@@ -16,7 +16,9 @@ Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašyt
 
 ## Teiginiai
 
+<a id="claim-t-32772"></a>
 - t-001
+  global_id: t-32772
   teiginys: 'Mindaugo donacijos kryžiuočiams suteikė tik formalią teisę į užrašytas sritis, kurias jie galėjo užvaldyti tik savo jėga.'
   pagrindžia:
     - c-001

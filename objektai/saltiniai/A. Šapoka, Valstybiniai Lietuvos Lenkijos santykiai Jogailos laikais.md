@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31612"></a>
 - t-001
+  global_id: t-31612
   teiginys: 'A. Šapokos „Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais“ išspausdinta rinkinyje „Jogaila“ Kaune 1935 m., p. 185–266.'
   pagrindžia:
     - c-001

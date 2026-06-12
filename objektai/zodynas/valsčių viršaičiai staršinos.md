@@ -23,18 +23,24 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
 
 ## Teiginiai
 
+<a id="claim-t-03210"></a>
 - t-001
+  global_id: t-03210
   teiginys: '1861 m. įkurtų valsčių viršaičiai ir raštininkai buvo atstatyti po Muravjovo pertvarkymo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-03211"></a>
 - t-002
+  global_id: t-03211
   teiginys: 'Nauji viršaičių rinkimai buvo apsaugoti nuo dvarininkų įtakos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182987"></a>
 - t-003
-  teiginys: 'Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstatymu.'
+  global_id: t-182987
+  teiginys: '1861 m. įkurtų valsčių viršaičiai buvo vadinami staršinomis.'
   pagrindžia:
     - c-002
 

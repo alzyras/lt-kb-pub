@@ -25,7 +25,9 @@ Ta pačia privilegija, kuria Vilniui buvo duotos Magdeburgo teisės (Trakuose, 1
 
 ## Teiginiai
 
+<a id="claim-t-86630"></a>
 - t-001
+  global_id: t-86630
   teiginys: '1492 m. Aleksandras suteikė Vilniui teisę laikyti vaško dirbtuvę, vadintą Zabójnica, ir panaikino daugumą privačių dirbtuvių.'
   pagrindžia:
     - c-001

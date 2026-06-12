@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-26337"></a>
 - t-001
+  global_id: t-26337
   teiginys: '1995 m. pabaigoje moratoriumas paskelbtas dviem dideliems komerciniams bankams, o jų griūtis pakenkė Lietuvos finansų raidai.'
   pagrindžia:
     - c-001

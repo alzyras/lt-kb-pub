@@ -23,12 +23,16 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
 
 ## Teiginiai
 
+<a id="claim-t-79488"></a>
 - t-001
+  global_id: t-79488
   teiginys: '1919 m. Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėtą, buvusią Panevėžio būrio LIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pajėgi aprūpinti pirmųjų savanorių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79489"></a>
 - t-002
+  global_id: t-79489
   teiginys: 'Miške į šiaurę nuo Kolupių kaimo į nelaisvę buvo paimta 18 raudonarmiečių.'
   pagrindžia:
     - c-001

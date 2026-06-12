@@ -26,7 +26,9 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
 
 ## Teiginiai
 
+<a id="claim-t-63776"></a>
 - t-001
+  global_id: t-63776
   teiginys: 'Jurgis Mačiūnas citatoje įvardijamas kaip „Fluxus“ kūrėjas tarp su Lietuva siejamų garsių vardų.'
   pagrindžia:
     - c-001

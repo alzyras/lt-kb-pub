@@ -16,12 +16,16 @@ Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropolit
 
 ## Teiginiai
 
+<a id="claim-t-74118"></a>
 - t-001
+  global_id: t-74118
   teiginys: 'Nuo Brastos bažnytinės unijos graikais katalikais tapo dauguma Lenkijos ir Lietuvos valstybės stačiatikių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74119"></a>
 - t-002
+  global_id: t-74119
   teiginys: 'Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, nuolat rezidavę Vilniuje.'
   pagrindžia:
     - c-001

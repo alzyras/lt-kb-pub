@@ -16,7 +16,9 @@ Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbin�
 
 ## Teiginiai
 
+<a id="claim-t-28704"></a>
 - t-001
+  global_id: t-28704
   teiginys: 'Tacitas rašė, kad Aestii papročiais ir išore buvo panašūs į svebus, bet jų kalba esanti artimesnė britų kalbai.'
   pagrindžia:
     - c-001

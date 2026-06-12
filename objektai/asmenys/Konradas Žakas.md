@@ -29,17 +29,23 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
 
 ## Teiginiai
 
+<a id="claim-t-60043"></a>
 - t-001
+  global_id: t-60043
   teiginys: 'Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į saugias vietas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60044"></a>
 - t-002
+  global_id: t-60044
   teiginys: 'Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė, palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60045"></a>
 - t-003
+  global_id: t-60045
   teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos magistrą 1302—1306 metais Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus.'
   pagrindžia:
     - c-002

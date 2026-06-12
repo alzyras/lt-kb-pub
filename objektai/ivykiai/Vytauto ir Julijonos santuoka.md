@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vytauto ir Julijonos santuoka
 
 ## Santrauka
 
-Kojelavičius teigia, kad nutaręs sutelkti didesnę kariuomenę, Vytautas patraukė į Trakus ir čia, mirus jo žmonai Onai, nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra. Kojelavičius teigia, kad todėl Petras, Vilniaus vyskupas, labai atkakliai priešinosi šiai santuokai, kad nebūtų pa žeisti dievo bei žmonių įstatymai.
+Trakuose, mirus žmonai Onai, Vytautas nutarė vesti Julijoną, Alšėnų kunigaikščio Algimantaičio dukrą. Kojelavičius vaizduoja Vilniaus vyskupą Petrą kaip atkakliai prieštaravusį Vytauto ir Julijonos santuokai, nes ji esą pažeidė Dievo ir žmonių įstatymus.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185786"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad nutaręs sutelkti didesnę kariuomenę, Vytautas patraukė į Trakus ir čia, mirus jo žmonai Onai, nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
+  global_id: t-185786
+  teiginys: 'Trakuose, mirus žmonai Onai, Vytautas nutarė vesti Julijoną, Alšėnų kunigaikščio Algimantaičio dukrą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185787"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad todėl Petras, Vilniaus vyskupas, labai atkakliai priešinosi šiai santuokai, kad nebūtų pa žeisti dievo bei žmonių įstatymai.'
+  global_id: t-185787
+  teiginys: 'Kojelavičius vaizduoja Vilniaus vyskupą Petrą kaip atkakliai prieštaravusį Vytauto ir Julijonos santuokai, nes ji esą pažeidė Dievo ir žmonių įstatymus.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad nutaręs sutelkti didesnę kariuomenę, Vytautas patraukė į Trakus ir čia, mirus jo žmonai Onai, nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
+  santrauka: 'Trakuose, mirus žmonai Onai, Vytautas nutarė vesti Julijoną, Alšėnų kunigaikščio Algimantaičio dukrą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nutaręs sutelkti
@@ -57,7 +60,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad todėl Petras, Vilniaus vyskupas, labai atkakliai priešinosi šiai santuokai, kad nebūtų pa žeisti dievo bei žmonių įstatymai.'
+  santrauka: 'Vilniaus vyskupas Petras atkakliai priešinosi Vytauto ir Julijonos santuokai, laikydamas ją dievo ir žmonių įstatymų pažeidimu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl Petras, Vilniaus vyskupas,
@@ -81,3 +84,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Jonas Kropidlas|Jonas Kropidlas (vyskupas)]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]

@@ -27,27 +27,37 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
 
 ## Teiginiai
 
+<a id="claim-t-71644"></a>
 - t-001
-  teiginys: 'Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomos priklausančios lygiai abiem valstybėm. Pagaliau lenkams labai rūpėjo iškovoti sau teisę Lietuvoje įsigyti dvarų ir gauti urėdų.'
+  global_id: t-71644
+  teiginys: 'Po ilgų ginčų sutarta, kad Livonija ir Kuršo kunigaikštystė bus laikomos lygiai priklausančiomis Lietuvai ir Lenkijai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-71645"></a>
 - t-002
+  global_id: t-71645
   teiginys: '1561 m. nustojus egzistuoti Livonijos konfederacijai, Kuršo kunigaikštystė buvo viena iš dviejų kunigaikštysčių, atitekusių Lietuvai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71646"></a>
 - t-003
+  global_id: t-71646
   teiginys: 'Po Liublino unijos Kuršo kunigaikštystė buvo pripažinta bendra Lenkijos ir LDK valda.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71647"></a>
 - t-004
+  global_id: t-71647
   teiginys: 'Tokie kardai kilo iš Vengrijos, kur jie formavosi turkų Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71648"></a>
 - t-005
+  global_id: t-71648
   teiginys: 'Šiaurinė dalis atiteko Švedijai, likusi dalis buvo padalinta į 4 + P i dvi kunigaikštystes (Kuršo ir Livonijos), kurios atiteko Lietuvai.'
   pagrindžia:
     - c-001
@@ -89,6 +99,7 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
     - t-003
 
 - c-003
+  santrauka: 'Po ilgų ginčų sutarta, kad Livonija ir Kuršo kunigaikštystė bus laikomos lygiai priklausančiomis Lietuvai ir Lenkijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuviai ją laikė prijungta prie Lietuvos, o Lenkai

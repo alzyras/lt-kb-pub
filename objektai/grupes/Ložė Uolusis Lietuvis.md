@@ -30,12 +30,16 @@ Vilniuje veikusi masonų ložė.
 
 ## Teiginiai
 
+<a id="claim-t-54829"></a>
 - t-001
+  global_id: t-54829
   teiginys: '1816 m. ložės Uolusis Lietuvis sąraše buvo 114 narių, tarp jų nemažai Vilniaus universiteto profesorių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54830"></a>
 - t-002
+  global_id: t-54830
   teiginys: 'M. Balinskis 1819 m. įstojo į ložę Uolusis Lietuvis.'
   pagrindžia:
     - c-001

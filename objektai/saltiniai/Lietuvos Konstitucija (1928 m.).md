@@ -25,17 +25,23 @@ Voldemaru tapo atsargesni – derybos sustojo, o 1928 m. Lietuvos konstitucijoje
 
 ## Teiginiai
 
+<a id="claim-t-21122"></a>
 - t-001
+  global_id: t-21122
   teiginys: '1928 m. Konstitucija sustiprino A. Smetonos pozicijas, nes įteisino jo viršenybę prieš Seimą ir teisę leisti įstatymus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-21123"></a>
 - t-002
+  global_id: t-21123
   teiginys: '1928 m. Lietuvos konstitucijoje Lietuvos sostine buvo įrašytas Vilnius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183372"></a>
 - t-003
+  global_id: t-183372
   teiginys: 'Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabineto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo viršenybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus (įsteigta Valstybės Taryba turėjo teisę tik.'
   pagrindžia:
     - c-002

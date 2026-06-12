@@ -18,7 +18,9 @@ Pagaliau 1989 m. gruodį, veikiant visų Baltijos tautų atstovams, slaptųjų p
 
 ## Teiginiai
 
+<a id="claim-t-19999"></a>
 - t-001
+  global_id: t-19999
   teiginys: '1989 m. gruodį SSRS liaudies deputatų II suvažiavimas pasmerkė slaptųjų protokolų padarinius, bet tiesiogiai jų nesusiejo su Baltijos valstybių okupacija.'
   pagrindžia:
     - c-001

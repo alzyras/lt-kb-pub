@@ -18,7 +18,9 @@ Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos s
 
 ## Teiginiai
 
+<a id="claim-t-36263"></a>
 - t-001
+  global_id: t-36263
   teiginys: 'Kamiencas buvo minimas tarp krikščioniškų Trakų kunigaikštijos sričių, kurių magistrai pasižadėjo nepulti.'
   pagrindžia:
     - c-001

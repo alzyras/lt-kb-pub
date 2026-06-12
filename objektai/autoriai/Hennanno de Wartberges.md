@@ -17,7 +17,9 @@ Vokiečių ordino XIV amž. kronikose (Wartberge, Wigand) yra minimi ištisi ži
 
 ## Teiginiai
 
+<a id="claim-t-30635"></a>
 - t-001
+  global_id: t-30635
   teiginys: 'Hennanno de Wartberges XIV a. Vokiečių ordino kronika mini ištisus žirgynus, vadintus „Equireae“.'
   pagrindžia:
     - c-001

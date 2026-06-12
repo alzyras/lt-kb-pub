@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87276"></a>
 - t-001
+  global_id: t-87276
   teiginys: 'Aleksandras Vygantas buvo iškilmingai palaidotas katedroje šalia Karigailos, o jo mirtį lydėjo visuotinis gedulas.'
   pagrindžia:
     - c-001

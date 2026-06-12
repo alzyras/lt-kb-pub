@@ -25,12 +25,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-114776"></a>
 - t-001
+  global_id: t-114776
   teiginys: '1578 m. sausio 28 d. Steponas Batoras suteikė Mogiliavui privilegiją, kuria miestas gavo Magdeburgo teisę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-114777"></a>
 - t-002
+  global_id: t-114777
   teiginys: 'Žlugus deryboms, rusai Padneprėje įsiveržė į rytines LDK valdas ir sudegino Mogiliavą, siaubė Šklovo apylinkes.'
   pagrindžia:
     - c-002

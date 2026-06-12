@@ -18,7 +18,9 @@ Dusburgietis teigia, kad šitai karaliui išpranašavo šventas Vaclovas, čekų
 
 ## Teiginiai
 
+<a id="claim-t-60455"></a>
 - t-001
+  global_id: t-60455
   teiginys: 'Dusburgietis teigia, kad šitai karaliui išpranašavo šventas Vaclovas, čekų kunigaikštis, kuris prieš 300 metų irgi taip buvo savo brolio nugalabytas, ir pasiūlė minėtajam karaliui Henrikui, kad savo vardui pagerbti pasirūpintų pastatydinti bažnyčią, o tas šitaip ir padarė, būtent.'
   pagrindžia:
     - c-001

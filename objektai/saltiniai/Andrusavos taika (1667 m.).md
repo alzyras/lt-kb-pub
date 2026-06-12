@@ -27,12 +27,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-10469"></a>
 - t-001
+  global_id: t-10469
   teiginys: '1667 m. sausio 30 d. netoli Smolensko pasirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko Smolenskas, Černigovas, Severų Naugardas, Kijevas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-10470"></a>
 - t-002
+  global_id: t-10470
   teiginys: 'Sutartyje nustatytos sienos buvo patvirtintos 1686 m. „amžinąja taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.'
   pagrindžia:
     - c-002

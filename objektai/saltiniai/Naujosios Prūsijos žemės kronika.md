@@ -33,27 +33,37 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
 
 ## Teiginiai
 
+<a id="claim-t-171552"></a>
 - t-001
+  global_id: t-171552
   teiginys: 'Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie Marienverderio pilies šturmą 1384 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-171553"></a>
 - t-002
+  global_id: t-171553
   teiginys: 'Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 1376 m. Algirdas ir Kęstutis siaubia Ordino valdas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-171555"></a>
 - t-003
+  global_id: t-171555
   teiginys: 'Naujosios Prūsijos žemės kronika nurodo, kad prie Vilniaus penkias savaites dieną ir naktį vyko kautynės.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-171556"></a>
 - t-004
+  global_id: t-171556
   teiginys: '„Naujosios Prūsijos žemės kronikos“ ištraukoje pasakojama, kad 1376 m. Kęstutis ir Algirdas trimis voromis įsiveržė į Ordino valdas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-171557"></a>
 - t-005
+  global_id: t-171557
   teiginys: 'Vygando liudijimu, po penkias savaites trukusių kautynių kryžiuočiai atsitraukė nuo Vilniaus ir grįžo į Prūsiją bei Livoniją.'
   pagrindžia:
     - c-003

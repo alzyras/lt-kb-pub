@@ -25,7 +25,9 @@ Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vi
 
 ## Teiginiai
 
+<a id="claim-t-86195"></a>
 - t-001
+  global_id: t-86195
   teiginys: 'Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.'
   pagrindžia:
     - c-001

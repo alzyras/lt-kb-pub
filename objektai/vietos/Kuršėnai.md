@@ -25,22 +25,30 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
 
 ## Teiginiai
 
+<a id="claim-t-68377"></a>
 - t-001
+  global_id: t-68377
   teiginys: 'Kuršėnuose įvyko paskutinis vadų pasitarimas, kuriame išryškėjo didelė jų nesantarvė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-68378"></a>
 - t-002
+  global_id: t-68378
   teiginys: 'Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-68379"></a>
 - t-003
+  global_id: t-68379
   teiginys: '1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji bermontininkai, vadovaujami plk.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183039"></a>
 - t-004
+  global_id: t-183039
   teiginys: 'Kuršėnuose įvyko paskutinis vadų pasitarimas, kuriame išryškėjo jų nesantarvė ir neveiklumas.'
   pagrindžia:
     - c-004

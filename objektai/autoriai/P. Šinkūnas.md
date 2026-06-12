@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-35469"></a>
 - t-001
+  global_id: t-35469
   teiginys: 'P. Šinkūnas parengė „Geografijos vadovėlį“ IV pradžios mokyklos skyriui ir I vidurinės mokyklos klasei.'
   pagrindžia:
     - c-001

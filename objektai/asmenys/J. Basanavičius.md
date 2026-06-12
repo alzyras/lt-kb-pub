@@ -18,12 +18,16 @@ Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausom
 
 ## Teiginiai
 
+<a id="claim-t-63663"></a>
 - t-001
+  global_id: t-63663
   teiginys: 'J. Basanavičius vadinamas tautos patriarchu ir siejamas su Lietuvos Respublikos ištakomis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-63664"></a>
 - t-002
+  global_id: t-63664
   teiginys: '1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą.'
   pagrindžia:
     - c-002

@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-28918"></a>
 - t-001
+  global_id: t-28918
   teiginys: 'Jonas III, laikydamas save žlugusios Bizantijos paveldėtoju, perėmė jos dvigalvį erelį bei imperatoriaus dvaro ceremonialą ir savinosi caro titulą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184347"></a>
 - t-002
+  global_id: t-184347
   teiginys: 'Jonas III, laikydamas save Bizantijos imperijos paveldėtoju, perėmė dvigalvį erelį, imperatoriaus dvaro ceremonialą ir savinosi caro titulą.'
   pagrindžia:
     - c-002

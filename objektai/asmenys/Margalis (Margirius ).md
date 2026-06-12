@@ -27,7 +27,9 @@ lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai iliustruoj
 
 ## Teiginiai
 
+<a id="claim-t-39597"></a>
 - t-001
+  global_id: t-39597
   teiginys: '1329 m. lietuvių didikas Margalis dvikovoje susirėmė su Čekijos karaliumi Jonu Liuksemburgiečiu.'
   pagrindžia:
     - c-001

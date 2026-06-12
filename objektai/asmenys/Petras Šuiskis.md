@@ -18,12 +18,16 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
 
 ## Teiginiai
 
+<a id="claim-t-40392"></a>
 - t-001
+  global_id: t-40392
   teiginys: 'Kunigaikštis P. Šuiskis su savo kariuomene iš Polocko pajudėjo sausio 23 d.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40393"></a>
 - t-002
+  global_id: t-40393
   teiginys: 'Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką.'
   pagrindžia:
     - c-001

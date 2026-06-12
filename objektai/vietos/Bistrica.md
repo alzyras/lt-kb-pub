@@ -17,7 +17,9 @@ Jogaila buvo pastatęs bažnyčias Aš­ menoje, Lydoje, Medininkuose (Vil.), Kr
 
 ## Teiginiai
 
+<a id="claim-t-34170"></a>
 - t-001
+  global_id: t-34170
   teiginys: 'Jogaila buvo pastatęs bažnyčią Bistricoje.'
   pagrindžia:
     - c-001

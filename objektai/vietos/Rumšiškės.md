@@ -17,12 +17,16 @@ Tam įsteigtas Liaudies buities muziejus Rumšiškėse (netoli Kauno), įkurtos 
 
 ## Teiginiai
 
+<a id="claim-t-21760"></a>
 - t-001
+  global_id: t-21760
   teiginys: 'Rumšiškėse, netoli Kauno, buvo įsteigtas Liaudies buities muziejus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183628"></a>
 - t-002
+  global_id: t-183628
   teiginys: 'Tam įsteigtas Liaudies buities muziejus Rumšiškėse (netoli Kauno), įkurtos meno ir kraštotyros draugijos, legalizuoti etnografiniai tyrimai, leista kurti folkloro ansamblius.'
   pagrindžia:
     - c-002

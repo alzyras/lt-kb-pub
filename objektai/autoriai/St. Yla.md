@@ -24,7 +24,9 @@ Yla, St. : Krikščionybės įvedimas Lietuvoje, Kaunas 1938. — Kolankowski, L
 
 ## Teiginiai
 
+<a id="claim-t-31000"></a>
 - t-001
+  global_id: t-31000
   teiginys: 'St. Yla 1938 m. Kaune paskelbė veikalą „Krikščionybės įvedimas Lietuvoje“.'
   pagrindžia:
     - c-001

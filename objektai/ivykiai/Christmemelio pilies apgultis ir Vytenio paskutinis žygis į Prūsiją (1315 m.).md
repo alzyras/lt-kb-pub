@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad kryžiuočių kariai, atskubėję iš iš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau jus pulkus ir nuvedė juos pulti Christmemelio pilies; taranai daužė pilies sienas, galybė strėlių ir iečių nešė pilies gynėjams žaizdas ir mirtį, į pagalbą iš Sem bos. Kojelavičius teigia, kad tačiau pasklido gandas, jog ateina su didele kariuomene Prūsijos magistras, ir šitaip sužlu go viltys paimti pilį.
+Kryžiuočiai puolė Christmemelio pilį taranais ir strėlėmis, o į pagalbą iš Sembos skubėjęs būrys buvo sunaikintas. Gandas apie su didele kariuomene ateinantį Prūsijos magistrą sužlugdė lietuvių viltis paimti Christmemelio pilį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185559"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kryžiuočių kariai, atskubėję iš iš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau jus pulkus ir nuvedė juos pulti Christmemelio pilies; taranai daužė pilies sienas, galybė strėlių ir iečių nešė pilies gynėjams žaizdas ir mirtį, į pagalbą iš Sem bos.'
+  global_id: t-185559
+  teiginys: 'Kryžiuočiai puolė Christmemelio pilį taranais ir strėlėmis, o į pagalbą iš Sembos skubėjęs būrys buvo sunaikintas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185560"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad tačiau pasklido gandas, jog ateina su didele kariuomene Prūsijos magistras, ir šitaip sužlu go viltys paimti pilį.'
+  global_id: t-185560
+  teiginys: 'Gandas apie su didele kariuomene ateinantį Prūsijos magistrą sužlugdė lietuvių viltis paimti Christmemelio pilį.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kryžiuočių kariai, atskubėję iš iš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau jus pulkus ir nuvedė juos pulti Christmemelio pilies; taranai daužė pilies sienas, galybė strėlių ir iečių nešė pilies gynėjams žaizdas ir mirtį, į pagalbą iš Sem bos.'
+  santrauka: 'Kryžiuočiai puolė Christmemelio pilį taranais ir strėlėmis, o į pagalbą iš Sembos skubėjęs būrys buvo sunaikintas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kaip
@@ -71,7 +74,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad tačiau pasklido gandas, jog ateina su didele kariuomene Prūsijos magistras, ir šitaip sužlu go viltys paimti pilį.'
+  santrauka: 'Gandas apie su didele kariuomene ateinantį Prūsijos magistrą sužlugdė lietuvių viltis paimti Christmemelio pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tačiau pasklido gandas, jog ateina su
@@ -87,3 +90,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Skalviai]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/magistras]]

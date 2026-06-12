@@ -23,7 +23,9 @@ LAUKO FORTIFIKACIJA", Andžej Geglis, dail.
 
 ## Teiginiai
 
+<a id="claim-t-39969"></a>
 - t-001
+  global_id: t-39969
   teiginys: 'Andžejus Geglis sukūrė iliustraciją „XVII a. lauko fortifikacija“.'
   pagrindžia:
     - c-001

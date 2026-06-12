@@ -27,12 +27,16 @@ Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Viln
 
 ## Teiginiai
 
+<a id="claim-t-87533"></a>
 - t-001
+  global_id: t-87533
   teiginys: 'Po sultono Saladino mirties Kerimberdėjus atsisakė paklusti Vytautui, todėl Vytautas chanu paskelbė Betsabutą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87534"></a>
 - t-002
+  global_id: t-87534
   teiginys: 'Kerimberdėjus mūšyje nukovė iš Vilniaus išvykusį naująjį chaną, bet vėliau pats buvo nužudytas brolio Geremferdeno.'
   pagrindžia:
     - c-002

@@ -28,12 +28,16 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
 
 ## Teiginiai
 
+<a id="claim-t-68690"></a>
 - t-001
+  global_id: t-68690
   teiginys: 'Prie Melno ežero buvo priimtas naujos sienos projektas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-68691"></a>
 - t-002
+  global_id: t-68691
   teiginys: '27 d. prie Melno ežero (netoli Vislos)^1 ).'
   pagrindžia:
     - c-001

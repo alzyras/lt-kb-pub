@@ -19,17 +19,23 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
 
 ## Teiginiai
 
+<a id="claim-t-101565"></a>
 - t-001
+  global_id: t-101565
   teiginys: 'Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – cechai, edukacijoje – europinė švietimo sistema.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101566"></a>
 - t-002
+  global_id: t-101566
   teiginys: 'Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101567"></a>
 - t-003
+  global_id: t-101567
   teiginys: 'Politinės lietuvių tautos pagrindinis požymis buvo priklausymas kilmingiesiems LDK gyventojams.'
   pagrindžia:
     - c-002

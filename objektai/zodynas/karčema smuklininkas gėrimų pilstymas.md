@@ -17,7 +17,9 @@ Be to, pagal šią fundaciją ir tvarką, mūsų perimtą iš ją įvedusio pirm
 
 ## Teiginiai
 
+<a id="claim-t-86531"></a>
 - t-001
+  global_id: t-86531
   teiginys: 'Pabaisko bažnyčios valdose leista laikyti tik jai priklausančias karčemas, kuriose buvo galima pilstyti midų, alų ir degtinę.'
   pagrindžia:
     - c-001

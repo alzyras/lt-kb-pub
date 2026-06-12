@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77933"></a>
 - t-001
+  global_id: t-77933
   teiginys: 'Netrukus atsirado ir modernių jaunos nacijos didvyrių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77934"></a>
 - t-002
+  global_id: t-77934
   teiginys: 'Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo sportu.'
   pagrindžia:
     - c-002

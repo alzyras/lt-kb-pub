@@ -19,37 +19,51 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
 
 ## Teiginiai
 
+<a id="claim-t-64086"></a>
 - t-001
+  global_id: t-64086
   teiginys: 'Tuo metu Čartoriskiai pasiuntė į Petrapilį savo sesers sūnų Stanislovą Augustą Poniatauską.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64087"></a>
 - t-002
+  global_id: t-64087
   teiginys: 'Stanislovas Augustas Poniatauskas 1764–1795 m. buvo Lietuvos didysis kunigaikštis ir Lenkijos karalius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64088"></a>
 - t-003
+  global_id: t-64088
   teiginys: 'Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-64089"></a>
 - t-004
+  global_id: t-64089
   teiginys: 'Stanislovas Augustas buvo priverstas atsisakyti nuo sosto.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-64090"></a>
 - t-005
+  global_id: t-64090
   teiginys: 'Pakeliui (Kaneve) ji susitiko su buvusiu prieš 25 m. savo mylimuoju Stanislovu Augustu.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-64091"></a>
 - t-006
+  global_id: t-64091
   teiginys: 'Stanislovo Augusto laikais valstybės gyvenime pradėjo rodytis gerėjimo žymių — buvo padaryta reformų.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-64092"></a>
 - t-007
+  global_id: t-64092
   teiginys: 'Rusų kariuomenei parėmus, karalium buvo išrinktas Stanislovas Augustas.'
   pagrindžia:
     - c-005

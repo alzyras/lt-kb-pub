@@ -23,12 +23,16 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 
 ## Teiginiai
 
+<a id="claim-t-78196"></a>
 - t-001
+  global_id: t-78196
   teiginys: 'Fronto kairiajame ir dešiniajame sparnuose taip pat buvo išdėstyta artilerija, už jos rikiavosi pėstininkai, kiek toliau - kavalerija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78197"></a>
 - t-002
+  global_id: t-78197
   teiginys: 'Leibgvardijos lietuviškasis pėstininkų pulkas sudarė dalį kautynėms paruoštos Rusijos kariuomenės pagrindo.'
   pagrindžia:
     - c-001

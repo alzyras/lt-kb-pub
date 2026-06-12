@@ -17,7 +17,9 @@ Galiausiai buvo nusiaubtos Opokos apylinkės.
 
 ## Teiginiai
 
+<a id="claim-t-41984"></a>
 - t-001
+  global_id: t-41984
   teiginys: 'Galiausiai buvo nusiaubtos Opokos apylinkės.'
   pagrindžia:
     - c-001

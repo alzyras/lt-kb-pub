@@ -26,17 +26,23 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
 
 ## Teiginiai
 
+<a id="claim-t-88221"></a>
 - t-001
+  global_id: t-88221
   teiginys: 'Žygimanto privilegija mėsinėms Vilniaus mieste datuojama 1543 metais ir buvo saugoma Vilniaus kapitulos archyve.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88222"></a>
 - t-002
+  global_id: t-88222
   teiginys: '1543 m. privilegijoje minimas ginčas tarp Vilniaus vyskupo Povilo ir Vilniaus vaito, tarėjų bei miestiečių dėl mėsinių turguje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88223"></a>
 - t-003
+  global_id: t-88223
   teiginys: 'Žygimanto privilegija leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes, kurių mokesčiai turėjo būti mokami bažnyčios muzikantams.'
   pagrindžia:
     - c-003

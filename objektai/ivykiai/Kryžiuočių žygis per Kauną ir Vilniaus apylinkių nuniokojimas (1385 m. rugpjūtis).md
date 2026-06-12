@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86914"></a>
 - t-001
+  global_id: t-86914
   teiginys: '1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir nuniokojo žemes iki Medininkų bei Ašmenos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86915"></a>
 - t-002
+  global_id: t-86915
   teiginys: '1385 m. pabaigoje Jogaila paliko Vilnių ir, lydimas lietuvių kunigaikščių bei didikų svitos, išvyko į Krokuvą.'
   pagrindžia:
     - c-001

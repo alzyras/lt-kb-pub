@@ -20,27 +20,37 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 
 ## Teiginiai
 
+<a id="claim-t-110177"></a>
 - t-001
+  global_id: t-110177
   teiginys: 'Plačios Vilniaus vyskupijos parapijose buvo įsteigtos pradžios mokyklos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-110178"></a>
 - t-002
+  global_id: t-110178
   teiginys: 'Kaltinamasis teigė esąs Vilniaus vyskupijos valdinys ir pilietis, todėl siekė būti grąžintas į jos teismą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-110179"></a>
 - t-003
+  global_id: t-110179
   teiginys: 'Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-110180"></a>
 - t-004
+  global_id: t-110180
   teiginys: 'Jurgis Radvila, matydamas kunigų trūkumą Vilniaus vyskupijoje, nusprendė funduoti kolegiją lietuvių ir rusų jaunuoliams auklėti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-110181"></a>
 - t-005
+  global_id: t-110181
   teiginys: 'Jurgis Radvila Vilniaus vyskupijoje nusprendė įsteigti ir funduoti klierikų kolegiją lietuvių ir rusų jaunuoliams.'
   pagrindžia:
     - c-004

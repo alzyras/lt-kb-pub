@@ -28,57 +28,79 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 
 ## Teiginiai
 
+<a id="claim-t-182787"></a>
 - t-001
+  global_id: t-182787
   teiginys: 'Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos laikraštis).'
   pagrindžia:
     - c-010
 
+<a id="claim-t-182788"></a>
 - t-002
+  global_id: t-182788
   teiginys: 'Balinskio veikalo vertimą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-182789"></a>
 - t-003
+  global_id: t-182789
   teiginys: 'M. Balinskis paliko nemažai istorinių darbų ir apybraižų, dalis jų liko rankraščiuose.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-182790"></a>
 - t-004
+  global_id: t-182790
   teiginys: 'Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti istorinės savimonės pagrindus.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-182791"></a>
 - t-005
+  global_id: t-182791
   teiginys: 'Mykolo Balinskio „Vilniaus miesto istorijos“ 2007 m. leidimą iš lenkų kalbos vertė Ona Slavėnaitė ir Irena Katilienė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182792"></a>
 - t-006
+  global_id: t-182792
   teiginys: 'Balinskio Vilniaus miesto istorijos dalis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182793"></a>
 - t-007
+  global_id: t-182793
   teiginys: 'Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-182794"></a>
 - t-008
+  global_id: t-182794
   teiginys: 'Mykolas Balinskis Vilnių apibūdino kaip Lietuvos mokslo ir vyriausiosios valdžios centrą.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-182795"></a>
 - t-009
+  global_id: t-182795
   teiginys: 'M. Balinskis dėkojo Ignui Danilavičiui, Ignui Onacevičiui ir Pranciškui Malevskiui už pagalbą istoriniais dokumentais.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-182796"></a>
 - t-010
+  global_id: t-182796
   teiginys: '1841 m. M. Balinskis tapo vienu iš enciklopedinio leidinio Biblioteka Warszawska steigėjų.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-182797"></a>
 - t-011
+  global_id: t-182797
   teiginys: 'M. Balinskis laiške Joachimui Leleveliui rašė, kad Vilniaus miesto istorijos pirmąjį tomą baigė 1825 metų pradžioje.'
   pagrindžia:
     - c-003

@@ -16,12 +16,16 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
 
 ## Teiginiai
 
+<a id="claim-t-42341"></a>
 - t-001
+  global_id: t-42341
   teiginys: 'Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-42342"></a>
 - t-002
+  global_id: t-42342
   teiginys: 'Kolonos padaliniai įsitvirtino Vyžuonose ir Vyžuonų dvare.'
   pagrindžia:
     - c-001

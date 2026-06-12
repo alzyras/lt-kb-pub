@@ -19,7 +19,9 @@ Sil­ pno charakterio karalius negalėjo veiksmingai pasipriešinti turčių vyr
 
 ## Teiginiai
 
+<a id="claim-t-86599"></a>
 - t-001
+  global_id: t-86599
   teiginys: 'Valdant Aleksandrui, miestiečių luomui stigo tvirtos municipalinių laisvių apsaugos nuo valdininkų ir šlėktų piktnaudžiavimo.'
   pagrindžia:
     - c-001

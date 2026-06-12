@@ -44,22 +44,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-23318"></a>
 - t-001
+  global_id: t-23318
   teiginys: '1926 m. birželio 17 d. panaikinta karo padėtis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23319"></a>
 - t-002
+  global_id: t-23319
   teiginys: 'Tą pačią reformų bangą lydėjo politinių kalinių amnestija, spaudos apribojimų panaikinimas ir susirinkimų laisvės suteikimas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-23320"></a>
 - t-003
+  global_id: t-23320
   teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-26642"></a>
 - t-004
+  global_id: t-26642
   teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką.'
   pagrindžia:
     - c-001

@@ -19,12 +19,16 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 
 ## Teiginiai
 
+<a id="claim-t-19651"></a>
 - t-001
+  global_id: t-19651
   teiginys: 'Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės valią reiškė tik didysis kunigaikštis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183121"></a>
 - t-002
+  global_id: t-183121
   teiginys: 'Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės valią, nebūta.'
   pagrindžia:
     - c-002

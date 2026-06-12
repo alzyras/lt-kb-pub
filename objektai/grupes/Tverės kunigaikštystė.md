@@ -26,7 +26,9 @@ Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo (Aleksandro sūnau
 
 ## Teiginiai
 
+<a id="claim-t-31363"></a>
 - t-001
+  global_id: t-31363
   teiginys: 'Algirdas, gindamas Tverės kunigaikščio Mykolo teises, ginklu kliudė Maskvai įsitvirtinti Tverėje.'
   pagrindžia:
     - c-001

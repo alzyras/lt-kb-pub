@@ -18,12 +18,16 @@ Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, maty
 
 ## Teiginiai
 
+<a id="claim-t-40109"></a>
 - t-001
+  global_id: t-40109
   teiginys: 'Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, matydamas besirikiuojančius lietuvius, savo 300 raitelių įsakė persikelti į dešinįjį krantą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40110"></a>
 - t-002
+  global_id: t-40110
   teiginys: 'Lietuvos kariuomenės vadovybės vaizde Fridrichas Ketleris nurodytas J. K. Chodkevičiui iš kairės.'
   pagrindžia:
     - c-001

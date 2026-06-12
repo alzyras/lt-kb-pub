@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-95948"></a>
 - t-001
+  global_id: t-95948
   teiginys: '1384 m. sausio 30 d. Karaliaučiuje Vytautas, pasivadinęs „Herczog von Traken von Gottes Gnaden“, išdavė magistrui raštą ir pažadėjo būti jo vasalu.'
   pagrindžia:
     - c-001

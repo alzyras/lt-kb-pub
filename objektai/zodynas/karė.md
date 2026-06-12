@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-80625"></a>
 - t-001
+  global_id: t-80625
   teiginys: '144, „KARĖ“ Andžej Geglis, dail.'
   pagrindžia:
     - c-001

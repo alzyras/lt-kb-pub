@@ -27,7 +27,9 @@ Lappo : Litovskij Statut 1588 goda, I t.
 
 ## Teiginiai
 
+<a id="claim-t-31830"></a>
 - t-001
+  global_id: t-31830
   teiginys: 'I. I. Lappo „Litovskij Statut 1588 goda“ dalys buvo išleistos Kaune 1934 m., 1936 m. ir 1938 m.'
   pagrindžia:
     - c-001

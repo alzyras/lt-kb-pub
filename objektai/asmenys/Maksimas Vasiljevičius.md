@@ -18,7 +18,9 @@ Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą pal
 
 ## Teiginiai
 
+<a id="claim-t-87769"></a>
 - t-001
+  global_id: t-87769
   teiginys: 'Didysis kunigaikštis Aleksandras dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės.'
   pagrindžia:
     - c-001

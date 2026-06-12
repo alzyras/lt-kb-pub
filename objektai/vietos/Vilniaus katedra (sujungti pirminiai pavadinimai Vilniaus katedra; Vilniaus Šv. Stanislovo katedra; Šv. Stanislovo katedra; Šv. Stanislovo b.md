@@ -34,77 +34,107 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
 
 ## Teiginiai
 
+<a id="claim-t-85798"></a>
 - t-001
+  global_id: t-85798
   teiginys: 'Vilniaus katedros bažnyčioje ties šventovės viduriu buvo Šventojo Kryžiaus altorius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85799"></a>
 - t-002
+  global_id: t-85799
   teiginys: 'Vilniaus vyskupas Mikalojus Šv. Stanislovo katedroje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-85800"></a>
 - t-003
+  global_id: t-85800
   teiginys: 'Vilniaus katedros kapitula teigė, kad jos jurisdikciją patvirtino Apaštalų Sostas ir Lietuvos kunigaikščiai.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-85801"></a>
 - t-004
+  global_id: t-85801
   teiginys: 'Vilniaus miesto taryba ginčijo Vilniaus katedros kapitulos jurisdikciją miesto gyventojų atžvilgiu.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-85802"></a>
 - t-005
+  global_id: t-85802
   teiginys: 'Vilniaus kapitulos archyve buvo vyskupo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo nuo 1536 m.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-85803"></a>
 - t-006
+  global_id: t-85803
   teiginys: 'Vilniaus katedroje vyskupas Jonas Lasavičius įrengė Vyskupų koplyčią.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-85804"></a>
 - t-007
+  global_id: t-85804
   teiginys: 'Stanislovo garbei, iškilmingai pripažinta katedra.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-85805"></a>
 - t-008
+  global_id: t-85805
   teiginys: 'Šv. Stanislovo bažnyčioje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-85806"></a>
 - t-009
+  global_id: t-85806
   teiginys: '1396 m. Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą netoli Medininkų pilies.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-85807"></a>
 - t-010
+  global_id: t-85807
   teiginys: 'VILNIAUS MIESTO ISTORIJA I I TOMAS 29 to Augusto 1543 metais, numirė VilElžbieta, Vengrijos ir Čekijos karaniuje 1545 metais, palaidota katedliaus, vėliau imperatoriaus Ferdiros bažnyčioje, koplyčioje, šalia kanando, duktė, ištekinta už Žygimanraliaus.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-85808"></a>
 - t-011
+  global_id: t-85808
   teiginys: '1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-85809"></a>
 - t-012
+  global_id: t-85809
   teiginys: 'Vilniaus katedros kapitula galėjo naudotis bažnytine jurisdikcija ir ekskomunikacijos teise savo asmenų bei valdinių bylose.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-85810"></a>
 - t-013
+  global_id: t-85810
   teiginys: 'Šv. Stanislovo katedroje Vaitiekus Taboras sutuokė didįjį kunigaikštį Aleksandrą su Elena.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-85811"></a>
 - t-014
+  global_id: t-85811
   teiginys: 'Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85812"></a>
 - t-015
+  global_id: t-85812
   teiginys: 'Vilniaus vyskupo Povilo poelgis privertė karalių atsisakyti ketinimo ir pasukti į katalikų katedrą.'
   pagrindžia:
     - c-003

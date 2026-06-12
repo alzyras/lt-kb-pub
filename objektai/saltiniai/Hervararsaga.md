@@ -16,7 +16,9 @@ Tai patvirtina ir Hervararsaga (apie 675 m.
 
 ## Teiginiai
 
+<a id="claim-t-100168"></a>
 - t-001
+  global_id: t-100168
   teiginys: 'Tai patvirtina ir Hervararsaga (apie 675 m.'
   pagrindžia:
     - c-001

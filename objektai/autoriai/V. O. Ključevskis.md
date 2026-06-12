@@ -17,12 +17,16 @@ V. O. Ključevskis šitą faktą laiko ir svarbiausiu visos rusų istorijos peri
 
 ## Teiginiai
 
+<a id="claim-t-97230"></a>
 - t-001
+  global_id: t-97230
   teiginys: 'V. O. Ključevskis šį faktą laikė svarbiausiu rusų istorijos periodizacijos rodikliu ir pagal jį skirstė rusų tautos istoriją į kolonizacijos periodus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-97231"></a>
 - t-002
+  global_id: t-97231
   teiginys: 'Ključevskis viena iš charakteringiausių jų istorijos vystymosi žyme ir laiko platų «kolonizavimąsi ».'
   pagrindžia:
     - c-001

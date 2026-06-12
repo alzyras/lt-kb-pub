@@ -6,34 +6,39 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kazimieras Skirgaila (Lenkijos karalius)
 
 ## Santrauka
 
-Kojelavičius teigia, kad tuo metu jie gavo žinią, kad Skirgaila skuba iš Rusios, no rėdamas pralaužti apsupimo žiedą. Kojelavičius teigia, kad kazimieras Skirgaila su visomis Lietuvos valdomis amžinai liksiąs paklusnus bei ištikimas karaliui; šventai saugosiąs Lietuvos kunigaikštystės sąjungą ir sandraugą su Lenkijos karalyste, nebandydamas nei nuo jos atsiskirti, nei ją pažeisti; visada laikysiąs savo draugais ir priešais Lenkijos karalystės bei Lenkijos karaliaus draugus ir priešus; su Skirgaila visada stengsiąsis gyventi taikoje ir broliškoje santarvėje; skirsiąs lėšų ir duosiąs karių atkariauti Skirgailai bei jo palikuonims Kijevo kunigaikštystę su visomis jos valdomis, tuojau pat jam atiduosiąs valdyti Trakus, Kremenecą ir kai kurias kitas mažesnes valdas. Kojelavičius teigia, kad kazimieras Skirgaila džiaugėsi naujomis valdomis, kurių taip aistringai troško: džiaugsmą nutraukė kito žmogaus nedorumas.
+Skirgaila skubėjo iš Rusios, norėdamas pralaužti apsupimo žiedą. Kazimieras Skirgaila, pasitenkinęs gautomis kunigaikštystėmis, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo. Skirgaila neilgai džiaugėsi naujomis valdomis, nes vienuolyno viršininkas jam slaptai įpylė nuodų.
 
 ## Teiginiai
 
+<a id="claim-t-185949"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tuo metu jie gavo žinią, kad Skirgaila skuba iš Rusios, no rėdamas pralaužti apsupimo žiedą.'
+  global_id: t-185949
+  teiginys: 'Skirgaila skubėjo iš Rusios, norėdamas pralaužti apsupimo žiedą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185950"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kazimieras Skirgaila su visomis Lietuvos valdomis amžinai liksiąs paklusnus bei ištikimas karaliui; šventai saugosiąs Lietuvos kunigaikštystės sąjungą ir sandraugą su Lenkijos karalyste, nebandydamas nei nuo jos atsiskirti, nei ją pažeisti; visada laikysiąs savo draugais ir priešais Lenkijos karalystės bei Lenkijos karaliaus draugus ir priešus; su Skirgaila visada stengsiąsis gyventi taikoje ir broliškoje santarvėje; skirsiąs lėšų ir duosiąs karių atkariauti Skirgailai bei jo palikuonims Kijevo kunigaikštystę su visomis jos valdomis, tuojau pat jam atiduosiąs valdyti Trakus, Kremenecą ir kai kurias kitas mažesnes valdas.'
+  global_id: t-185950
+  teiginys: 'Kazimieras Skirgaila, pasitenkinęs gautomis kunigaikštystėmis, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185951"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad kazimieras Skirgaila džiaugėsi naujomis valdomis, kurių taip aistringai troško: džiaugsmą nutraukė kito žmogaus nedorumas.'
+  global_id: t-185951
+  teiginys: 'Skirgaila neilgai džiaugėsi naujomis valdomis, nes vienuolyno viršininkas jam slaptai įpylė nuodų.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tuo metu jie gavo žinią, kad Skirgaila skuba iš Rusios, no rėdamas pralaužti apsupimo žiedą.'
+  santrauka: 'Skirgaila skubėjo iš Rusios, norėdamas pralaužti apsupimo žiedą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Porą kartų pa-
@@ -60,7 +65,7 @@ Kojelavičius teigia, kad tuo metu jie gavo žinią, kad Skirgaila skuba iš Rus
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kazimieras Skirgaila su visomis Lietuvos valdomis amžinai liksiąs paklusnus bei ištikimas karaliui; šventai saugosiąs Lietuvos kunigaikštystės sąjungą ir sandraugą su Lenkijos karalyste, nebandydamas nei nuo jos atsiskirti, nei ją pažeisti; visada laikysiąs savo draugais ir priešais Lenkijos karalystės bei Lenkijos karaliaus draugus ir priešus; su Skirgaila visada stengsiąsis gyventi taikoje ir broliškoje santarvėje; skirsiąs lėšų ir duosiąs karių atkariauti Skirgailai bei jo palikuonims Kijevo kunigaikštystę su visomis jos valdomis, tuojau pat jam atiduosiąs valdyti Trakus, Kremenecą ir kai kurias kitas mažesnes valdas.'
+  santrauka: 'Kazimieras Skirgaila, pasitenkinęs gautomis kunigaikštystėmis, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Alek­
@@ -93,7 +98,7 @@ Kojelavičius teigia, kad tuo metu jie gavo žinią, kad Skirgaila skuba iš Rus
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad kazimieras Skirgaila džiaugėsi naujomis valdomis, kurių taip aistringai troško: džiaugsmą nutraukė kito žmogaus nedorumas.'
+  santrauka: 'Skirgaila neilgai džiaugėsi naujomis valdomis, nes vienuolyno viršininkas jam slaptai įpylė nuodų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto neil­
@@ -114,3 +119,13 @@ Kojelavičius teigia, kad tuo metu jie gavo žinią, kad Skirgaila skuba iš Rus
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
+- [[objektai/zodynas/didysis kunigaikštis]]

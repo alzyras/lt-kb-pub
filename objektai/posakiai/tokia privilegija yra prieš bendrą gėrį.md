@@ -18,7 +18,9 @@ Nagrinėdamas geras ir blogas priva­ čios prekybos arba monopolio pu­ ses, Vi
 
 ## Teiginiai
 
+<a id="claim-t-86874"></a>
 - t-001
+  global_id: t-86874
   teiginys: 'Smigleckis teigė, kad privilegija vienam asmeniui Vilniuje pardavinėti stiklo dirbinius būtų prieš bendrą gėrį.'
   pagrindžia:
     - c-001

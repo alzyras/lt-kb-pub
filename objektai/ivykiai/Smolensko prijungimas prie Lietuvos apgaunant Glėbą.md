@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Smolensko prijungimas prie Lietuvos apgaunant Glėbą
 
 ## Santrauka
 
-Kojelavičius teigia, kad ta proga atvyko į stovyklą ir Glėbas, S m o len sk a s priju n - Smolensko kunigaikštis.
+Vytautas vaišino Smolensko kunigaikštį Glėbą stovykloje, kol užėmė Smolenską ir visą kraštą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185774"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad ta proga atvyko į stovyklą ir Glėbas, S m o len sk a s priju n - Smolensko kunigaikštis.'
+  global_id: t-185774
+  teiginys: 'Vytautas vaišino Smolensko kunigaikštį Glėbą stovykloje, kol užėmė Smolenską ir visą kraštą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad ta proga atvyko į stovyklą ir Glėbas, S m o len sk a s priju n - Smolensko kunigaikštis.'
+  santrauka: 'Vytautas vaišino Smolensko kunigaikštį Glėbą stovykloje, kol užėmė Smolenską ir visą kraštą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ta proga
@@ -59,3 +60,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
+- [[objektai/asmenys/Jomantas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

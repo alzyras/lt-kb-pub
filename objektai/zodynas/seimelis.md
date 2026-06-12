@@ -25,33 +25,45 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-72751"></a>
 - t-001
+  global_id: t-72751
   teiginys: 'Kiekvienas seimelis rinko po 2 atstovus, vadinamus deputatais; tad iš viso tribunolo narių buvo 46.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-72752"></a>
 - t-002
+  global_id: t-72752
   teiginys: 'Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72753"></a>
 - t-003
+  global_id: t-72753
   teiginys: 'Tribunolo teisėjais buvo visų seimelių renkami bajorijos atstovai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72754"></a>
 - t-004
+  global_id: t-72754
   teiginys: 'Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-72755"></a>
 - t-005
+  global_id: t-72755
   teiginys: 'Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72756"></a>
 - t-006
-  teiginys: 'Taip pat seimeliuose buvo renkami atstovai į seimą ir surašomos jiems instrukcijos.'
+  global_id: t-72756
+  teiginys: 'Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas.'
   pagrindžia:
     - c-001
 

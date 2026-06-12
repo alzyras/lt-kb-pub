@@ -18,7 +18,9 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 
 ## Teiginiai
 
+<a id="claim-t-87626"></a>
 - t-001
+  global_id: t-87626
   teiginys: 'Andrius Volanas garsėjo mokslu ir rašytojo talentu, o Vilniuje uoliai skleidė reformatų idėjas.'
   pagrindžia:
     - c-001

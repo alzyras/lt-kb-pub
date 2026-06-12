@@ -19,7 +19,9 @@ Epitomatorius nurodo tiesiai: Cives Rigenses et Archiepiscopus eorum tunc Rome a
 
 ## Teiginiai
 
+<a id="claim-t-88045"></a>
 - t-001
+  global_id: t-88045
   teiginys: 'Epitomatorius nurodė, kad Rygos miestiečiai ir arkivyskupas skelbė apie lietuvių ir rutėnų valdovų norą priimti krikštą.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
 
 ## Teiginiai
 
+<a id="claim-t-21870"></a>
 - t-001
+  global_id: t-21870
   teiginys: 'Venesuela buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai.'
   pagrindžia:
     - c-001

@@ -17,12 +17,16 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 
 ## Teiginiai
 
+<a id="claim-t-40139"></a>
 - t-001
+  global_id: t-40139
   teiginys: 'Meistras Hermanas po keturių savaičių apgulties pastatė bombardą prieš lietuvius, tačiau buvo jų užmuštas tokiu pat pabūklu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183740"></a>
 - t-002
+  global_id: t-183740
   teiginys: 'Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vienoje pilies angoje pastatė bombardą prieš lietuvius, tačiau lietuviai, priešpriešiais įtaisę tokį pat pabūklą, užmušė minėtą meistrą.'
   pagrindžia:
     - c-002

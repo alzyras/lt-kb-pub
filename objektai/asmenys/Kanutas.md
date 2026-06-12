@@ -16,7 +16,9 @@ Juk šis kroniki­ ninkas pasakoja, kad apie 880 me­ tus, viešpataujant Danijo
 
 ## Teiginiai
 
+<a id="claim-t-87747"></a>
 - t-001
+  global_id: t-87747
   teiginys: 'Apie 880 m. Danijoje viešpatavęs karalius Kanutas įsakė dėl nederliaus kas trečią žmogų išvaryti iš valsčiaus visiems laikams.'
   pagrindžia:
     - c-001

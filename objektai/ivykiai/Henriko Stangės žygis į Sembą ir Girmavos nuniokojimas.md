@@ -41,17 +41,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66560"></a>
 - t-001
+  global_id: t-66560
   teiginys: 'Henriko Stangės brolis Hermanas stojo į kovą ir kartu su komtūru žuvo po ilgos gynybos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66561"></a>
 - t-002
+  global_id: t-66561
   teiginys: 'Sembos puolimas datuojamas 1252–1253 m. žiema arba 1254 m. pradžia.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66562"></a>
 - t-003
+  global_id: t-66562
   teiginys: 'Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė į karą prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų pilis315, degindamas ir grobdamas abiejose [kelio].'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lovičius
 
 ## Santrauka
 
-Kojelavičius teigia, kad iki tol išliko nepaliestos Lovičiaus apygardos, todėl iš ten buvo išgabentas di džiulis grobis, o visa kita sunaikinta ugnimi ir kalavi ju.
+Iš iki tol nepaliestų Lovičiaus apygardų buvo išgabentas didžiulis grobis, o visa kita sunaikinta ugnimi ir kalaviju.
 
 ## Teiginiai
 
+<a id="claim-t-185328"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad iki tol išliko nepaliestos Lovičiaus apygardos, todėl iš ten buvo išgabentas di džiulis grobis, o visa kita sunaikinta ugnimi ir kalavi ju.'
+  global_id: t-185328
+  teiginys: 'Iš iki tol nepaliestų Lovičiaus apygardų buvo išgabentas didžiulis grobis, o visa kita sunaikinta ugnimi ir kalaviju.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad iki tol išliko nepaliestos Lovičiaus apygardos, todėl iš ten buvo išgabentas di džiulis grobis, o visa kita sunaikinta ugnimi ir kalavi ju.'
+  santrauka: 'Iš iki tol nepaliestų Lovičiaus apygardų buvo išgabentas didžiulis grobis, o visa kita sunaikinta ugnimi ir kalaviju.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to kitą vasarą vėl kariuomenę nusiuntė į Mazovi­

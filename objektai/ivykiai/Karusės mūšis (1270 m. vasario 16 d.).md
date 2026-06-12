@@ -38,17 +38,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66606"></a>
 - t-001
+  global_id: t-66606
   teiginys: 'Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66607"></a>
 - t-002
+  global_id: t-66607
   teiginys: 'Hermano Vartbergės kronika mūšį sieja su 52 ordino broliais ir 600 krikščionių prie Karuzo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66608"></a>
 - t-003
+  global_id: t-66608
   teiginys: '1270 m. vasario 16 d. abi kariuomenės ties Karuse (Virtsu) susitiko ant užšalusios jūros ledo.'
   pagrindžia:
     - c-002

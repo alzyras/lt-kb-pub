@@ -28,17 +28,23 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
 
 ## Teiginiai
 
+<a id="claim-t-65908"></a>
 - t-001
+  global_id: t-65908
   teiginys: 'MGB operatyvinė karinė grupė apsupo kaimo gyventojo sodybą, kurioje slėpėsi 3 partizanai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-65909"></a>
 - t-002
+  global_id: t-65909
   teiginys: 'MGB organai sunaikino 2 353 partizanų grupes, nukovė 20 000 partizanų ir suėmė 19 000 žmonių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65910"></a>
 - t-003
+  global_id: t-65910
   teiginys: 'V. Voveris žuvo 1949 m., kai MGB užverbuoti agentai K. Kubilinskas-Varna ir A. Slinkis-Rytas išdavė Dainavos apygardos vadavietę.'
   pagrindžia:
     - c-002

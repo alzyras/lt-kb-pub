@@ -32,73 +32,101 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-99858"></a>
 - t-001
+  global_id: t-99858
   teiginys: 'Tokios didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasigavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su trisdešimt šešiais kariais nužudė8.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-99859"></a>
 - t-002
+  global_id: t-99859
   teiginys: 'Tais pačiais 1347 m. lietuvių karalius (rex) niokojo Ragainės ir Įsruties apylinkes, spalio pradžioje priėjo Vėluvą, tyliai įėjus buvo sudegintas miestas, po to lietuviai siaubė Unzatrapio žemę prie Alnos bei Girdavą.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-99860"></a>
 - t-003
+  global_id: t-99860
   teiginys: 'Rugpjūtį lietuviai prasigavo iki Vėluvos apylinkių, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-99861"></a>
 - t-004
+  global_id: t-99861
   teiginys: 'Dusburgietis teigia, kad apie Vėluvos pilies puolimą Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias dienas laikė apsupę Vėluvos pilį, kasdien ją puldami.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-99862"></a>
 - t-005
+  global_id: t-99862
   teiginys: 'Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-99863"></a>
 - t-006
+  global_id: t-99863
   teiginys: 'Dusburgietis teigia, kad vėluva, sietina su lie.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-99864"></a>
 - t-007
+  global_id: t-99864
   teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių, skalvių ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui ir broliams (jie mat būgštavo, kad dėl tos.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-99865"></a>
 - t-008
+  global_id: t-99865
   teiginys: 'Žygis Ordino žemėse pasiekė Įsručio ir Vėluvos apylinkes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-99866"></a>
 - t-009
+  global_id: t-99866
   teiginys: 'Vėluvos ir Angerburgo pilys nurodytos kaip įkurtos 1335 metais.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-99867"></a>
 - t-010
+  global_id: t-99867
   teiginys: 'Ordino žemėse vykusio žygio metu buvo pasiektos Įsruties ir Vėluvos apylinkės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-99868"></a>
 - t-011
+  global_id: t-99868
   teiginys: '1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumente buvo minėti lietuvių žygiai į Vėluvą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-99869"></a>
 - t-012
+  global_id: t-99869
   teiginys: 'Dusburgietis teigia, kad vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta išlaikyti savo pusėje56.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-99870"></a>
 - t-013
+  global_id: t-99870
   teiginys: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185213"></a>
 - t-015
-  teiginys: 'Kojelavičius teigia, kad prūsijos magistras, susilaukęs pa galbininkų iš svetur, baisiai sumušė Lietuvą; tuo tarpu gardą, užpuolė pilį, sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.'
+  global_id: t-185213
+  teiginys: 'Prūsijos magistras sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.'
   pagrindžia:
     - c-012
 
@@ -350,7 +378,7 @@ amziai:
     - t-006
 
 - c-012
-  santrauka: 'Kojelavičius teigia, kad prūsijos magistras, susilaukęs pa galbininkų iš svetur, baisiai sumušė Lietuvą; tuo tarpu gardą, užpuolė pilį, sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.'
+  santrauka: 'Prūsijos magistras sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip praėjo ir kiti metai, pakaitomis vieniems

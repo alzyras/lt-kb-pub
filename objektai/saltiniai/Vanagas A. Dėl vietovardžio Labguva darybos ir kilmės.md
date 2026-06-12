@@ -22,7 +22,9 @@ Dusburgietis teigia, kad vanagas A.
 
 ## Teiginiai
 
+<a id="claim-t-61339"></a>
 - t-001
+  global_id: t-61339
   teiginys: 'A. Vanago straipsnis apie vietovardžio Labguva darybą ir kilmę paskelbtas „Baltisticoje“ 1966 m.'
   pagrindžia:
     - c-001

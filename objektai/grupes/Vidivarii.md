@@ -19,7 +19,9 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 
 ## Teiginiai
 
+<a id="claim-t-31369"></a>
 - t-001
+  global_id: t-31369
   teiginys: 'Vidivarii gyveno prie Vyslos, o Jordanes Aesti lokalizavo į rytus nuo jų.'
   pagrindžia:
     - c-001

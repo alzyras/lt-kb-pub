@@ -19,12 +19,16 @@ Konstitucija. Konstitucija nustatė Lietuvos valstybei demokratinės respublikos
 
 ## Teiginiai
 
+<a id="claim-t-67458"></a>
 - t-001
+  global_id: t-67458
   teiginys: 'Lietuvos Valstybės Konstitucija buvo priimta 1922 m. rugpjūčio 1 d.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67459"></a>
 - t-002
+  global_id: t-67459
   teiginys: '1922 m. Lietuvos Valstybės Konstitucija nustatė Lietuvai demokratinės respublikos formą.'
   pagrindžia:
     - c-002

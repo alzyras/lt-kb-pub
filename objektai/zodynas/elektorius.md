@@ -16,13 +16,17 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
 
 ## Teiginiai
 
+<a id="claim-t-02988"></a>
 - t-001
+  global_id: t-02988
   teiginys: 'Brandenburgo elektorius su imperatoriumi piršo Neuburgo princą, o jo ministeris Radvila oficialiai rėmė šią kandidatūrą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182944"></a>
 - t-002
-  teiginys: 'Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoriaus ir elektoriaus peršamą Neuburgo princą, bet kartu statė ir savo kandidatūrą.'
+  global_id: t-182944
+  teiginys: 'Radvila buvo Brandenburgo elektoriaus ministeris ir oficialiai rėmė imperatoriaus bei elektoriaus siūlomą Neuburgo princą.'
   pagrindžia:
     - c-002
 
@@ -53,7 +57,7 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
     - t-001
 
 - c-002
-  santrauka: 'Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoriaus ir elektoriaus peršamą Neuburgo princą, bet kartu statė ir savo kandidatūrą.'
+  santrauka: 'Radvila buvo Brandenburgo elektoriaus ministeris ir oficialiai rėmė imperatoriaus bei elektoriaus siūlomą Neuburgo princą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pacai su Radvila

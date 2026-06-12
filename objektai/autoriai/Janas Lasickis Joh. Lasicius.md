@@ -17,7 +17,9 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
 
 ## Teiginiai
 
+<a id="claim-t-88066"></a>
 - t-001
+  global_id: t-88066
   teiginys: 'Šubravcų draugijos nariai, išstudijavę Jano Lasickio knygą apie žemaičių dievus, pasivadino senovės lietuvių dievybių vardais.'
   pagrindžia:
     - c-001

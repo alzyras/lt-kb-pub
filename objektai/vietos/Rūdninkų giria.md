@@ -17,17 +17,23 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
 
 ## Teiginiai
 
+<a id="claim-t-85950"></a>
 - t-001
+  global_id: t-85950
   teiginys: 'O Rūdninkų miškuose nieko panašaus ir neįmanoma būtų surasti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85951"></a>
 - t-002
+  global_id: t-85951
   teiginys: 'Rūdninkų girios seniau buvo laikomos neperžengiamomis ir žmonių neištirtomis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85952"></a>
 - t-003
+  global_id: t-85952
   teiginys: 'Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso ir Rūdninkų medžionė, buvo nežmoniškai nuniokotas, išliko šiame žvėryne iki šiol yra likę puikaus miško pėdsakų.'
   pagrindžia:
     - c-001

@@ -17,12 +17,16 @@ Bet ypatingai pagyvėjo lietuviškoji spauda, kai 1896 m. buvo įsteigta Tėvyn�
 
 ## Teiginiai
 
+<a id="claim-t-01507"></a>
 - t-001
+  global_id: t-01507
   teiginys: 'Tėvynės Mylėtojų Draugija tuo metu dar gyvavo, tačiau jos veikla buvo apmirusi.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01508"></a>
 - t-002
+  global_id: t-01508
   teiginys: 'Tėvynės Mylėtojų Draugija buvo įsteigta 1896 m. lietuviškiems raštams leisti.'
   pagrindžia:
     - c-002

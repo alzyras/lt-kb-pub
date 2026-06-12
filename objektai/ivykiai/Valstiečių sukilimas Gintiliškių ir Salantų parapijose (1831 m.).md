@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01832"></a>
 - t-001
+  global_id: t-01832
   teiginys: 'Valstiečių sukilimas Gintiliškių ir Salantų parapijose plačiai išsiplėtė, tačiau rusų kariuomenės išvaikyti sukilėliai pabėgo į Prūsiją.'
   pagrindžia:
     - c-001

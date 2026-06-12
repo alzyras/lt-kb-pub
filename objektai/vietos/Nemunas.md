@@ -46,353 +46,493 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 
 ## Teiginiai
 
+<a id="claim-t-180340"></a>
 - t-001
+  global_id: t-180340
   teiginys: 'Mezolito įrankių gausiai aptikta palei Nemuną, Nerį, Merkį, Ūlą ir Katrą, taip pat paežerėse nuo Lydos iki Alytaus ir Užnemunės durpynuose.'
   pagrindžia:
     - c-032
 
+<a id="claim-t-180341"></a>
 - t-002
+  global_id: t-180341
   teiginys: 'Dusburgietis teigia, kad į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai, lamatiečiai, dar toliau į šiaurę, Klaipėdos apylinkėse (dab.'
   pagrindžia:
     - c-034
 
+<a id="claim-t-180342"></a>
 - t-003
+  global_id: t-180342
   teiginys: 'Jie vis įrodinėjo, kas Žemaitijos sienos teprasidedančios keturios mylios nuo Nemuno krantų.'
   pagrindžia:
     - c-033
 
+<a id="claim-t-180343"></a>
 - t-004
+  global_id: t-180343
   teiginys: 'Remiantis Dusburgo pasakojimu, Gedimino pilis galėjo stovėti prie Nemuno.'
   pagrindžia:
     - c-023
 
+<a id="claim-t-180344"></a>
 - t-005
+  global_id: t-180344
   teiginys: 'Veliuona aprašyta kaip prie Nemuno nusidriekusi vietovė, buvusi už 7 mylių nuo Kauno.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-180345"></a>
 - t-006
+  global_id: t-180345
   teiginys: 'Gynybos linija tęsėsi 4–12 mylių atstumu nuo dešiniojo Nemuno kranto.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-180346"></a>
 - t-007
+  global_id: t-180346
   teiginys: 'Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalnų šlaitus.'
   pagrindžia:
     - c-041
 
+<a id="claim-t-180347"></a>
 - t-008
+  global_id: t-180347
   teiginys: 'Didysis magistras per Šv. Jokūbą persikėlė anapus Nemuno ir ėmė statydinti bei stiprinti Rittersverderio pilį.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-180348"></a>
 - t-009
+  global_id: t-180348
   teiginys: 'Talkininkaujami svečių iš Anglijos, Vokietijos ir Italijos, ir padedami Livonijos magistro, Prūsų kryžiuočiai 1362 pavasarį atliko drąsų žygį, išgriaudami svarbią lietuvių Nemuno ir Neries santakos pilį — Kauną.'
   pagrindžia:
     - c-028
 
+<a id="claim-t-180349"></a>
 - t-010
+  global_id: t-180349
   teiginys: '1914 m. liepą J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė Gintarinę deklaraciją apie abiejų Lietuvų prie Nemuno sujungimą.'
   pagrindžia:
     - c-031
 
+<a id="claim-t-180350"></a>
 - t-011
+  global_id: t-180350
   teiginys: 'Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelbta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas, esančias apie Nemuną – Didžiąją ir Mažąją (Rytų.'
   pagrindžia:
     - c-031
 
+<a id="claim-t-180351"></a>
 - t-012
+  global_id: t-180351
   teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
   pagrindžia:
     - c-030
 
+<a id="claim-t-180352"></a>
 - t-013
+  global_id: t-180352
   teiginys: 'Vilniaus vyskupas gavo dešimtą žuvį iš didžiojo kunigaikščio tvenkinių Nemune.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-180353"></a>
 - t-014
+  global_id: t-180353
   teiginys: 'Veliuonėlė įteka į Nemuną, iš šiaurės skalaudama Pilies ir Gedimino kalno šlaitus.'
   pagrindžia:
     - c-041
 
+<a id="claim-t-180355"></a>
 - t-015
+  global_id: t-180355
   teiginys: '1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau Nemunu pasiekė Dubysos upę.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-180356"></a>
 - t-016
+  global_id: t-180356
   teiginys: 'Ordinas turėjo tuojau paimti vakarinį Sūduvos ruožą ir Žemaičių dalį į vakarus nuo Raudonės įtakos į Nemuną iki Klaipėdos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-180357"></a>
 - t-017
+  global_id: t-180357
   teiginys: 'Tačiau vėliau jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei Užnemunę.'
   pagrindžia:
     - c-037
 
+<a id="claim-t-180358"></a>
 - t-018
+  global_id: t-180358
   teiginys: '1812 m. Napoleono kariuomenė kėlėsi per Nemuną žygyje į Rusiją.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-180359"></a>
 - t-019
+  global_id: t-180359
   teiginys: 'Dusburgietis teigia, kad traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama, vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos globojo, kai traukė per ploną Kuršių marių ledą (III, 285).'
   pagrindžia:
     - c-045
 
+<a id="claim-t-180360"></a>
 - t-020
+  global_id: t-180360
   teiginys: 'Dusburgietis teigia, kad tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
   pagrindžia:
     - c-027
 
+<a id="claim-t-180361"></a>
 - t-021
+  global_id: t-180361
   teiginys: 'Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos, aukščiau Insterburgo.'
   pagrindžia:
     - c-047
 
+<a id="claim-t-180362"></a>
 - t-022
+  global_id: t-180362
   teiginys: 'Dusburgietis teigia, kad autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes, niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio.'
   pagrindžia:
     - c-043
 
+<a id="claim-t-180363"></a>
 - t-023
+  global_id: t-180363
   teiginys: 'Visas Nemuno žemupys jau Vytenio laikais buvo kryžiuočių; o Gedimino laikais, pasistatę Bajerburgo ir Marijenburgo pilis, kryžiuočiai paslinko dar arčiau.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-180365"></a>
 - t-024
+  global_id: t-180365
   teiginys: 'Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius.'
   pagrindžia:
     - c-039
 
+<a id="claim-t-180367"></a>
 - t-025
+  global_id: t-180367
   teiginys: 'Susitikimas vyko Salyne, Nemuno saloje prie dabartinės Kulautuvos.'
   pagrindžia:
     - c-025
 
+<a id="claim-t-180368"></a>
 - t-026
+  global_id: t-180368
   teiginys: 'Varėnos, Valkininkų ir Merkinės miškai driekėsi nuo Rūdninkų link Nemuno.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-180369"></a>
 - t-027
+  global_id: t-180369
   teiginys: 'Fridbergo pilis stovėjo už 2 mylių nuo Veliuonos žemyn Nemuno tėkme.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-180370"></a>
 - t-028
+  global_id: t-180370
   teiginys: 'Didysis magistras anapus Nemuno ėmė statydinti ir stiprinti Rittersverderio pilį.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-180371"></a>
 - t-029
+  global_id: t-180371
   teiginys: 'Užtvaros linija tęsėsi 4–12 mylių nuo dešiniojo Nemuno kranto.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-180372"></a>
 - t-030
+  global_id: t-180372
   teiginys: 'Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas nuplaukė Nemunu žemyn; jį, pasroviui plaukiantį, lietuviai taip smarkiai užpuolė, kad, nors ir daug jų buvo sužeista, o Skaldonis, minėtojo Surmino brolis, užmuštas, paėmė laivą ir, nužudę 4 lankininkus, jį.'
   pagrindžia:
     - c-036
 
+<a id="claim-t-180373"></a>
 - t-031
+  global_id: t-180373
   teiginys: 'Kaunui kritus, tuojau sekė kiti kryžiuočių pasisekimai prie Nemuno.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-180374"></a>
 - t-032
+  global_id: t-180374
   teiginys: 'Dusburgietis teigia, kad šiuo principu jis naudojasi, aprašydamas Prūsijos žemių tarp Vyslos ir Nemuno nukariavimą.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-180375"></a>
 - t-033
+  global_id: t-180375
   teiginys: 'Pagaliau šie miškai, kaip ir tie, kur per keliolika mylių nusidriekę nuo Rūdninkų link Nemuno: Varėnos, Valkininkų, Merkinės ir kiti, - priklauso amžinosioms girioms, siekiančioms pačią žmonių atsiradimo žemės rutulyje pradžią.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-180376"></a>
 - t-034
+  global_id: t-180376
   teiginys: 'Tačiau išvedus visą kariuomenę iš Lietuvos, liko neapsaugotos pilys ir staigus Ordino puolimas prie Nemuno galėjo baigtis katastrofa.'
   pagrindžia:
     - c-046
 
+<a id="claim-t-180377"></a>
 - t-035
+  global_id: t-180377
   teiginys: 'Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie, kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir.'
   pagrindžia:
     - c-038
 
+<a id="claim-t-180378"></a>
 - t-036
+  global_id: t-180378
   teiginys: 'Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais buvo tarp Nemuno ir Neries upių.'
   pagrindžia:
     - c-021
 
+<a id="claim-t-180379"></a>
 - t-037
+  global_id: t-180379
   teiginys: 'Pradinė Mindaugo Lietuva ir jo valdomos tėviškės pilys apėmė plotą tarp Nemuno, Neries ir Merkio.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-180380"></a>
 - t-038
+  global_id: t-180380
   teiginys: 'Kryžiuočiai prie Nemuno pasistatė Ragainės, Jurbarko ir kiek vėliau Skirsnemunės pilis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-180381"></a>
 - t-039
+  global_id: t-180381
   teiginys: 'Dusburgietis teigia, kad nemunas — taip pat upė, prasidedanti Rusios valdose, o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo187.'
   pagrindžia:
     - c-022
 
+<a id="claim-t-180382"></a>
 - t-040
+  global_id: t-180382
   teiginys: '1398 m. Vytauto laiške Nemunas minėtas apibrėžiant ruožą iki vietos, kur į jį įteka Strėva.'
   pagrindžia:
     - c-026
 
+<a id="claim-t-180383"></a>
 - t-041
+  global_id: t-180383
   teiginys: 'Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per šešerius metus, kada vadovavo šiai piliai, privertė visus lietuvius, gyvenusius Nemuno pakrantėje, nuo Neries upės iki Lamatos žemės546, laikytis taikos su krikščionimis, bet Lethovinorum rex), o toliau.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-180384"></a>
 - t-042
+  global_id: t-180384
   teiginys: '1362 m. pavasarį Prūsų kryžiuočiai, padedami sąjungininkų, išgriovė lietuvių pilį Kauną Nemuno ir Neries santakoje.'
   pagrindžia:
     - c-028
 
+<a id="claim-t-180385"></a>
 - t-043
-  teiginys: 'Kaip tik šituo metu vokiečių ordinas nuo Vyslos jau buvo priėjęs iki Nemuno ir nuo 1282 m. pradėjo pulti lietuvius (anksčiau Lietuvą puldavo tik livoniškė jo šaka).'
+  global_id: t-180385
+  teiginys: 'Nuo 1282 m. Vokiečių ordinas, nuo Vyslos priėjęs iki Nemuno, pradėjo pulti lietuvius.'
   pagrindžia:
     - c-039
 
+<a id="claim-t-180386"></a>
 - t-044
+  global_id: t-180386
   teiginys: 'Fridbergo pilis stovėjo už dviejų mylių nuo Veliuonos žemyn Nemuno tėkme.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-180387"></a>
 - t-045
+  global_id: t-180387
   teiginys: 'Keliautojai Nemunu vyko iš Merkinės į Kauną, o iš ten Nemunu ir Dubysa pasiekė Aukokalnį ties dabartine Betygala.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-180388"></a>
 - t-046
-  teiginys: 'Aukščiau Dubysos žiočių, Lietuvos valstybei priklausė jau abi Nemuno pusės (dabartiniame Suvalkų krašte buvo didžiulė giria, ir ten nebuvo pasistatę pilių nei kryžiuočiai nei lietuviai).'
+  global_id: t-180388
+  teiginys: 'Aukščiau Dubysos žiočių Lietuvos valstybei priklausė abi Nemuno pusės.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-180389"></a>
 - t-047
-  teiginys: 'Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą).'
+  global_id: t-180389
+  teiginys: 'Vytauto ir magistro susitikimas įvyko Salyne, Nemuno saloje netoli dabartinės Kulautuvos.'
   pagrindžia:
     - c-025
 
+<a id="claim-t-180390"></a>
 - t-048
+  global_id: t-180390
   teiginys: 'Vytautas laiške Prūsijos ordinui žadėjo pagalbą statant dvi pilis išilgai Nemuno iki Strėvos žiočių.'
   pagrindžia:
     - c-026
 
+<a id="claim-t-180391"></a>
 - t-049
+  global_id: t-180391
   teiginys: 'Veliuona buvo įsikūrusi ties Nemunu, už 7 mylių nuo Kauno, per pusę mylios nuo Jurbarko ir per pusantros mylios nuo Prūsijos sienos.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-180392"></a>
 - t-050
+  global_id: t-180392
   teiginys: 'Lenkijos spaudoje buvo skelbiama straipsnių apie socialinę ir ekonominę padėtį į rytus nuo Nemuno.'
   pagrindžia:
     - c-029
 
+<a id="claim-t-180394"></a>
 - t-052
+  global_id: t-180394
   teiginys: 'Sudeginus Peštvę ir Veliuoną, Nemuno krantuose iki Kauno nebeliko lietuvių gynybos punktų.'
   pagrindžia:
     - c-020
 
+<a id="claim-t-180395"></a>
 - t-053
+  global_id: t-180395
   teiginys: 'Vytautas liepė atnaujinti pilis Dubysos ir Nemuno krantuose ir atstatyti sudegintą Veliuoną.'
   pagrindžia:
     - c-035
 
+<a id="claim-t-180396"></a>
 - t-054
+  global_id: t-180396
   teiginys: '1362 m. pavasarį Prūsų kryžiuočiai išgriovė svarbią lietuvių pilį Kauną Nemuno ir Neries santakoje.'
   pagrindžia:
     - c-028
 
+<a id="claim-t-180397"></a>
 - t-055
+  global_id: t-180397
   teiginys: 'Ordinas primygtinai savinosi visą didžiąją Sūduvos dykrą, persimetusią į Nemuno dešiniąją pusę ir nusidriekusią per visą vakarų Žemaitiją.'
   pagrindžia:
     - c-042
 
+<a id="claim-t-180398"></a>
 - t-056
+  global_id: t-180398
   teiginys: 'Dusburgietis teigia, kad aprašęs kai kurias kovas Skalvoje abipus Nemuno, kronikininkas pažymi, jog „daug karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną“ (III, 188).'
   pagrindžia:
     - c-013
 
+<a id="claim-t-180399"></a>
 - t-057
+  global_id: t-180399
   teiginys: 'Galiausiai spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau - palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-180400"></a>
 - t-058
+  global_id: t-180400
   teiginys: 'Ordino atstovai įrodinėjo, kad Žemaitijos sienos prasideda keturios mylios nuo Nemuno krantų.'
   pagrindžia:
     - c-033
 
+<a id="claim-t-180402"></a>
 - t-059
+  global_id: t-180402
   teiginys: 'Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose ir žygiavo Marcinkonių link.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-180404"></a>
 - t-060
+  global_id: t-180404
   teiginys: 'Dusburgietis teigia, kad pilis buvusi pastatyta aukštame Nemuno krante (žr.'
   pagrindžia:
     - c-044
 
+<a id="claim-t-180405"></a>
 - t-061
+  global_id: t-180405
   teiginys: 'Didysis magistras slapta išplaukė iš Marienburgo Vysla, per jūros įlanką įplaukė į Nemuną.'
   pagrindžia:
     - c-040
 
+<a id="claim-t-180406"></a>
 - t-062
+  global_id: t-180406
   teiginys: 'Remiantis Dusburgu, Gedimino pilis galėjo stovėti Lietuvos ar Žemaitijos pasienyje, net prie Nemuno.'
   pagrindžia:
     - c-023
 
+<a id="claim-t-180407"></a>
 - t-063
+  global_id: t-180407
   teiginys: 'Didysis magistras slapta iš Marienburgo išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.'
   pagrindžia:
     - c-040
 
+<a id="claim-t-180409"></a>
 - t-064
+  global_id: t-180409
   teiginys: 'Dusburgietis Nemuną vadina Memela (plg.'
   pagrindžia:
     - c-024
 
+<a id="claim-t-185066"></a>
 - t-066
-  teiginys: 'Kojelavičius teigia, kad tėvui mirus, sū nūs šitaip pasiskirstė žemes: Barkus, į Nemuną įtekančios Jūros žiotyse pasistatęs Jur barko pilį, gavo valdyti tą Žemaitijos dalį (mat Žemai tija jau buvo prisijungusi prie Lietuvos), kuri plyti nuo Jūros ir Nemuno ligi Kuršių įlankos.'
+  global_id: t-185066
+  teiginys: 'Barkus prie į Nemuną įtekančios Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti dalį Žemaitijos.'
   pagrindžia:
     - c-049
 
+<a id="claim-t-185067"></a>
 - t-067
-  teiginys: 'Kojelavičius teigia, kad kūno, arba Kūnasijaus, valstybė buvo ribojama Nemunu, Duby sa, Nevėžiu ir Vilija, arba (gimtosios kalbos žodžiu) Nerimi.'
+  global_id: t-185067
+  teiginys: 'Kūno, arba Kūnasijaus, valstybė buvo ribojama Nemunu, Dubysa, Nevėžiu ir Vilija, vadinama Nerimi.'
   pagrindžia:
     - c-050
 
+<a id="claim-t-185068"></a>
 - t-068
-  teiginys: 'Kojelavičius teigia, kad mat šis, ki lęs iš Lietuvos didžiųjų ku nigaikščių, Treniotos ar Dau manto sūnus, persekiojamas L ie tu v a n io k o ja m a k ry žiu o č ių užšalęs Nemunas leidoleng vai persikelti ledu, įsiveržė į Lietuvą vedami magistro Konrado fon Tirbergo.'
+  global_id: t-185068
+  teiginys: 'Užšalęs Nemunas leido magistro Konrado fon Tirbergo vedamiems kryžiuočiams lengvai persikelti ledu į Lietuvą.'
   pagrindžia:
     - c-051
 
+<a id="claim-t-185069"></a>
 - t-069
-  teiginys: 'Kojelavičius teigia, kad pirmoji apsupo Bisenės pilį ir po kovos, trukusios nuo Aušros ligi vi durdienio, užėmė ją bei sudegino; kita vora nuniokojo aplinkines žemes, tačiau, traukdami atgal, patyrė di delių nuostolių, nes Nemuno ledas, nepakankamai tuo metu tvirtas, neatlaikė jų.'
+  global_id: t-185069
+  teiginys: 'Traukiantis kariuomenei, nepakankamai tvirtas Nemuno ledas neatlaikė svorio, todėl dalis karių ir grobio paskendo.'
   pagrindžia:
     - c-052
 
+<a id="claim-t-185070"></a>
 - t-070
-  teiginys: 'Kojelavičius teigia, kad pirmiausia ėmėsi kariauti Meinhardas, Prūsijos magistras, apie balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos Nemuno pakrantėje esančią Lietuvos pilį.'
+  global_id: t-185070
+  teiginys: 'Prūsijos magistras Meinhardas apie balandžio vidurį apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos.'
   pagrindžia:
     - c-053
 
+<a id="claim-t-185071"></a>
 - t-071
-  teiginys: 'Kojelavičius teigia, kad netekęs vilties, kad užkariaus pilį, be to, nenorė damas, kad pasklistų kalbos, jog priešas šiuo žygiu nie ko nenuveikė, jis pasitraukė į Nemuno salas, esančias už vienos mylios, ir pastatė čia naujas pilis.'
+  global_id: t-185071
+  teiginys: 'Nepajėgęs užimti pilies, priešas pasitraukė į už vienos mylios esančias Nemuno salas ir pastatė ten naujas pilis.'
   pagrindžia:
     - c-054
 
+<a id="claim-t-185072"></a>
 - t-072
-  teiginys: 'Kojelavičius teigia, kad gavę žinią apie skitų antplūdį, vieni, vadovau jami Naugarduko vaivados Alberto Goštauto, subruz do ginti pilies, o kiti pasitraukė už Nemuno.'
+  global_id: t-185072
+  teiginys: 'Gavę žinią apie skitų antplūdį, dalis Naugarduko didikų pasitraukė už Nemuno.'
   pagrindžia:
     - c-055
 
@@ -1245,7 +1385,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-065
 
 - c-049
-  santrauka: 'Kojelavičius teigia, kad tėvui mirus, sū nūs šitaip pasiskirstė žemes: Barkus, į Nemuną įtekančios Jūros žiotyse pasistatęs Jur barko pilį, gavo valdyti tą Žemaitijos dalį (mat Žemai tija jau buvo prisijungusi prie Lietuvos), kuri plyti nuo Jūros ir Nemuno ligi Kuršių įlankos.'
+  santrauka: 'Barkus prie į Nemuną įtekančios Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti dalį Žemaitijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Valdęs
@@ -1270,7 +1410,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-066
 
 - c-050
-  santrauka: 'Kojelavičius teigia, kad kūno, arba Kūnasijaus, valstybė buvo ribojama Nemunu, Duby sa, Nevėžiu ir Vilija, arba (gimtosios kalbos žodžiu) Nerimi.'
+  santrauka: 'Kūno, arba Kūnasijaus, valstybė buvo ribojama Nemunu, Dubysa, Nevėžiu ir Vilija, vadinama Nerimi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kūno, arba
@@ -1287,7 +1427,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-067
 
 - c-051
-  santrauka: 'Kojelavičius teigia, kad mat šis, ki lęs iš Lietuvos didžiųjų ku nigaikščių, Treniotos ar Dau manto sūnus, persekiojamas L ie tu v a n io k o ja m a k ry žiu o č ių užšalęs Nemunas leidoleng vai persikelti ledu, įsiveržė į Lietuvą vedami magistro Konrado fon Tirbergo.'
+  santrauka: 'Užšalęs Nemunas leido magistro Konrado fon Tirbergo vedamiems kryžiuočiams lengvai persikelti ledu į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Taigi kai lietuviai įrudenėjus buvo užsi­
@@ -1319,7 +1459,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-068
 
 - c-052
-  santrauka: 'Kojelavičius teigia, kad pirmoji apsupo Bisenės pilį ir po kovos, trukusios nuo Aušros ligi vi durdienio, užėmė ją bei sudegino; kita vora nuniokojo aplinkines žemes, tačiau, traukdami atgal, patyrė di delių nuostolių, nes Nemuno ledas, nepakankamai tuo metu tvirtas, neatlaikė jų.'
+  santrauka: 'Traukiantis kariuomenei, nepakankamai tvirtas Nemuno ledas neatlaikė svorio, todėl dalis karių ir grobio paskendo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ka­
@@ -1339,7 +1479,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-069
 
 - c-053
-  santrauka: 'Kojelavičius teigia, kad pirmiausia ėmėsi kariauti Meinhardas, Prūsijos magistras, apie balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos Nemuno pakrantėje esančią Lietuvos pilį.'
+  santrauka: 'Prūsijos magistras Meinhardas apie balandžio vidurį apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Už žalą, padarytą per šį niokojamą iš­
@@ -1360,7 +1500,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-070
 
 - c-054
-  santrauka: 'Kojelavičius teigia, kad netekęs vilties, kad užkariaus pilį, be to, nenorė damas, kad pasklistų kalbos, jog priešas šiuo žygiu nie ko nenuveikė, jis pasitraukė į Nemuno salas, esančias už vienos mylios, ir pastatė čia naujas pilis.'
+  santrauka: 'Nepajėgęs užimti pilies, priešas pasitraukė į už vienos mylios esančias Nemuno salas ir pastatė ten naujas pilis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kiek kartų kareiviai puolė pylimą, tiek kartų buvo at­
@@ -1384,7 +1524,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-071
 
 - c-055
-  santrauka: 'Kojelavičius teigia, kad gavę žinią apie skitų antplūdį, vieni, vadovau jami Naugarduko vaivados Alberto Goštauto, subruz do ginti pilies, o kiti pasitraukė už Nemuno.'
+  santrauka: 'Gavę žinią apie skitų antplūdį, dalis Naugarduko didikų pasitraukė už Nemuno.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo metu ten

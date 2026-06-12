@@ -24,12 +24,16 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
 
 ## Teiginiai
 
+<a id="claim-t-89708"></a>
 - t-001
+  global_id: t-89708
   teiginys: 'Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui, Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių pasiuntinių prašomas, jį paskyrė Prūsijos ir Livonijos brolių magistru 1279.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89709"></a>
 - t-002
+  global_id: t-89709
   teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'
   pagrindžia:
     - c-002
@@ -70,6 +74,7 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
 ### Susiję objektai
 - [[objektai/asmenys/Konradas]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Cimbarka]]
 - [[objektai/grupes/Liaudies vyriausybė]]
 - [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]

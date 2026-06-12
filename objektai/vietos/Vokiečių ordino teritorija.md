@@ -17,7 +17,9 @@ O dabar įsiveržiama į Vokiečių ordino teritoriją ir žygiuojama tiesiai li
 
 ## Teiginiai
 
+<a id="claim-t-15353"></a>
 - t-001
+  global_id: t-15353
   teiginys: 'Į Vokiečių ordino teritoriją įsiveržta žygiuojant tiesiai link sostinės ir siekiant susidurti su visomis Ordino pajėgomis.'
   pagrindžia:
     - c-001

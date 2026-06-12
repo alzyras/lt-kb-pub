@@ -24,7 +24,9 @@ Dusburgietis teigia, kad 224 Burggrafas Burchardas iš Magdeburgo, kilęs iš to
 
 ## Teiginiai
 
+<a id="claim-t-60256"></a>
 - t-001
+  global_id: t-60256
   teiginys: 'Dusburgietis teigia, kad 224 Burggrafas Burchardas iš Magdeburgo, kilęs iš tos pačios giminės kaip ir Brunonas iŠ Kverfurfo (mir.'
   pagrindžia:
     - c-001

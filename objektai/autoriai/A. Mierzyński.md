@@ -16,7 +16,9 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
 
 ## Teiginiai
 
+<a id="claim-t-71486"></a>
 - t-001
+  global_id: t-71486
   teiginys: 'A. Mierzyńskis parengė „Źródła do mytologii litewskiej“ I–II tomus, išleistus Varšuvoje 1892 ir 1896 m.'
   pagrindžia:
     - c-002

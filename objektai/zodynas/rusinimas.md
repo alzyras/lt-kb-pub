@@ -17,17 +17,23 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
 
 ## Teiginiai
 
+<a id="claim-t-22287"></a>
 - t-001
+  global_id: t-22287
   teiginys: 'Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuvos žemes paversti tiesiog Vakarų Rusija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-22288"></a>
 - t-002
+  global_id: t-22288
   teiginys: 'Po J. Stalino mirties ir Nikitos Chruščiovo pasmerkto Stalino kulto rusinimas susilpnėjo, o valdžia labiau pasitikėjo vietiniais lietuviais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-22289"></a>
 - t-003
+  global_id: t-22289
   teiginys: 'Rusinimo politikos programa siekė silpninti vietos dvarininkiją ir viešajame gyvenime įtvirtinti rusų kalbą.'
   pagrindžia:
     - c-002

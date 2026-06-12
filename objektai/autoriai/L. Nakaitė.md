@@ -25,7 +25,9 @@ Nakaitė, L.
 
 ## Teiginiai
 
+<a id="claim-t-30782"></a>
 - t-001
+  global_id: t-30782
   teiginys: 'L. Nakaitė tyrė sidabro naudojimą Lietuvoje II-XIII a. ir auksakalystę iki XIII a.'
   pagrindžia:
     - c-001

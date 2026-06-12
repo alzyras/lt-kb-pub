@@ -16,7 +16,9 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
 
 ## Teiginiai
 
+<a id="claim-t-41949"></a>
 - t-001
+  global_id: t-41949
   teiginys: 'Frontas nusistovėjo Kernavės-Musninkų-Širvintų-Giedraičių-Dubingių-Švenčionėlių linijoje.'
   pagrindžia:
     - c-001

@@ -27,7 +27,9 @@ Lietuvoje taip ir nebuvo įsteigtos šį modelį papildančios vietos savivaldos
 
 ## Teiginiai
 
+<a id="claim-t-77810"></a>
 - t-001
+  global_id: t-77810
   teiginys: 'Lietuvoje taip ir nebuvo įsteigtos šį modelį papildančios vietos savivaldos institucijos, vadinamosios zemstvos, veikusios Rusijoje nuo 1864 m. Svarstant Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikėjai išsakė mintį, kad tokiu atveju.'
   pagrindžia:
     - c-001

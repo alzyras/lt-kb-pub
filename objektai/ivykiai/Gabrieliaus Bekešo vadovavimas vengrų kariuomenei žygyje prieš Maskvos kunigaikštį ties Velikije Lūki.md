@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86945"></a>
 - t-001
+  global_id: t-86945
   teiginys: 'Žygyje ties Velikije Lūki Gabrielis Bekešas buvo paskirtas vadovauti vengrų kariuomenės riteriams.'
   pagrindžia:
     - c-001

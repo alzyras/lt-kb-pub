@@ -16,7 +16,9 @@ Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks
 
 ## Teiginiai
 
+<a id="claim-t-20960"></a>
 - t-001
+  global_id: t-20960
   teiginys: 'Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.'
   pagrindžia:
     - c-001

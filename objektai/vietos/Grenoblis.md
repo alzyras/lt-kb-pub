@@ -23,7 +23,9 @@ Trečiasis buvo nuo Simno kilęs Ignas Jonynas, kuris 1905 m. porai metų istori
 
 ## Teiginiai
 
+<a id="claim-t-32183"></a>
 - t-001
+  global_id: t-32183
   teiginys: 'Ignas Jonynas 1905 m. išvyko į Grenoblį porai metų studijuoti istorijos.'
   pagrindžia:
     - c-001

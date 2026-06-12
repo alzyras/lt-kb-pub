@@ -16,7 +16,9 @@ Vytautas pasižadėjo padėti Skirgailai pa­ imti Kijevą ir atiduoti jam Kreme
 
 ## Teiginiai
 
+<a id="claim-t-36585"></a>
 - t-001
+  global_id: t-36585
   teiginys: 'Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir atiduoti jam Kremencą bei Stožką vietoj Trakų kunigaikštijos.'
   pagrindžia:
     - c-001

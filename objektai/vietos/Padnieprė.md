@@ -17,7 +17,9 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
 
 ## Teiginiai
 
+<a id="claim-t-36471"></a>
 - t-001
+  global_id: t-36471
   teiginys: 'Vytautas Padnieprės srityje turėjo vietininkų mokesčiams rinkti net ten, kur nebuvo jo dvarų.'
   pagrindžia:
     - c-001

@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08312"></a>
 - t-001
+  global_id: t-08312
   teiginys: 'Vilniaus žinyčios sienoje būdavo įmūrijama paženklinta plyta, kad būtų žinomi praėjusių metų skaitliai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-08313"></a>
 - t-002
+  global_id: t-08313
   teiginys: 'Paskuojoji plyta turėjo dvikežį skersį, o ženklas buvo siunčiamas didžiajam kunigaikščiui.'
   pagrindžia:
     - c-001

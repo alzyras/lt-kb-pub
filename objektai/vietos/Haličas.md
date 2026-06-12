@@ -23,17 +23,23 @@ Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo lai
 
 ## Teiginiai
 
+<a id="claim-t-114291"></a>
 - t-001
+  global_id: t-114291
   teiginys: 'Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-114292"></a>
 - t-002
+  global_id: t-114292
   teiginys: 'Haličas buvo tarp žemių, buvusių Lietuvos politinėje įtakoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183593"></a>
 - t-003
+  global_id: t-183593
   teiginys: 'Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.'
   pagrindžia:
     - c-003

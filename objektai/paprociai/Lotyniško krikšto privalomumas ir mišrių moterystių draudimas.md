@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-05354"></a>
 - t-001
+  global_id: t-05354
   teiginys: 'Jogailos įsakymu lietuviams buvo draudžiamos mišrios santuokos su rusais ir nekatalikais, kol antroji pusė priims katalikų tikėjimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05355"></a>
 - t-002
+  global_id: t-05355
   teiginys: 'Jogaila dokumente įsipareigojo lietuvius priversti paklusti Romos Bažnyčiai, įvedant privalomą lotynišką krikštą ir draudžiant mišrias santuokas.'
   pagrindžia:
     - c-002

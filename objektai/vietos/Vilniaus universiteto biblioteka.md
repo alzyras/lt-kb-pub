@@ -25,7 +25,9 @@ Kai kurias Žygimantų bibliotekos knygas dar iki šiol su šventa pagarba galim
 
 ## Teiginiai
 
+<a id="claim-t-86261"></a>
 - t-001
+  global_id: t-86261
   teiginys: 'Vilniaus universiteto bibliotekoje buvo saugomos kai kurios Žygimantų bibliotekos knygos.'
   pagrindžia:
     - c-001

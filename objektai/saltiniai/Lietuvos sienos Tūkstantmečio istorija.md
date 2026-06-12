@@ -24,7 +24,9 @@ Kaunas, 1936 (fotografuotinis leidimas: Vilnius, 1989); Lietuvos sienos: Tūksta
 
 ## Teiginiai
 
+<a id="claim-t-78132"></a>
 - t-001
+  global_id: t-78132
   teiginys: 'Kaunas, 1936 (fotografuotinis leidimas: Vilnius, 1989); Lietuvos sienos: Tūkstantmečio istorija.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Pasiuntė ir Vytautas į Romą laiškus, pasižadėdamas pulti visa savo galybe 
 
 ## Teiginiai
 
+<a id="claim-t-34997"></a>
 - t-001
+  global_id: t-34997
   teiginys: 'Vytautas į Romą pasiuntė laiškus, kuriuose pasižadėjo visa savo galybe pulti husitus.'
   pagrindžia:
     - c-001

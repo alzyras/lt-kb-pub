@@ -44,37 +44,51 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-59177"></a>
 - t-001
+  global_id: t-59177
   teiginys: 'Dusburgietis teigia, kad matydami, kad nestengs Karaliaučiaus pilies jėga paimti, prūsai, įgudę ir patyrę kariai, pasistatydino daug laivų, su kuriais ketino daužyti ir naikinti brolių laivus, gabenančius maistą į minėtąją pilį, kad, trūkdami maisto, broliai silpnėtų.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-59178"></a>
 - t-002
+  global_id: t-59178
   teiginys: 'Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis 373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos punkto, svarbą Ordinui.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-59179"></a>
 - t-003
+  global_id: t-59179
   teiginys: 'Per Karaliaučiaus apgultį broliai po kovos išardė ir sunaikino prūsų pastatytą tiltą per Prieglių bei jo kuorus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59180"></a>
 - t-004
+  global_id: t-59180
   teiginys: 'Dusburgietis teigia, kad dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo, kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti. Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo. Kiti, apspitę jį, didžiai stebėjosi, nežinodami.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-59181"></a>
 - t-005
+  global_id: t-59181
   teiginys: 'Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos tu globoji.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59182"></a>
 - t-006
+  global_id: t-59182
   teiginys: 'Sembai netikėtai užpuolė prie Karaliaučiaus pilies įkurtą miestą, jį sugriovė, o dalį žmonių paėmė į nelaisvę arba išžudė.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-59183"></a>
 - t-007
+  global_id: t-59183
   teiginys: 'Dusburgietis teigia, kad todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis.'
   pagrindžia:
     - c-002

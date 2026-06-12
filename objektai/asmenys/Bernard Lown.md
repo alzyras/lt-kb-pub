@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-18851"></a>
 - t-001
+  global_id: t-18851
   teiginys: 'Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo.'
   pagrindžia:
     - c-001

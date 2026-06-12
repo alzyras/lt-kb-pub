@@ -26,17 +26,23 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 
 ## Teiginiai
 
+<a id="claim-t-60022"></a>
 - t-001
+  global_id: t-60022
   teiginys: 'Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo komtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai nudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60023"></a>
 - t-002
+  global_id: t-60023
   teiginys: 'Dusburgietis teigia, kad apie brolį Helvigą, Prūsijos žemės magistrą (1300 metai) Brolis Helvigas iš Goldbacho iš Tiuringijos, penkioliktas Prūsijos žemės magistras, vadovavo vienus metus; vėliau, atsisakęs pareigų, grįžo į Vokietiją, kur mirė ir palaidotas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60024"></a>
 - t-003
+  global_id: t-60024
   teiginys: 'Dusburgietis teigia, kad tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus ir juos išsivarė į nelaisvę.'
   pagrindžia:
     - c-002

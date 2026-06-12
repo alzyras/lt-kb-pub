@@ -17,7 +17,9 @@ Tie vadai buvo vadinami rikiais ir kunigais.
 
 ## Teiginiai
 
+<a id="claim-t-03146"></a>
 - t-001
+  global_id: t-03146
   teiginys: 'Rikiais ir kunigais buvo vadinami giminės ir apylinkės vadai, kurių valdžioje būdavo ir pilys.'
   pagrindžia:
     - c-001

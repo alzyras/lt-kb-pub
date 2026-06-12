@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31531"></a>
 - t-001
+  global_id: t-31531
   teiginys: 'Nuo Vytauto laikų Lietuvoje buvo kalamos monetos ir liejami pabūklai bei varpai.'
   pagrindžia:
     - c-001

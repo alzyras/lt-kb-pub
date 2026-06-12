@@ -24,12 +24,16 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
 
 ## Teiginiai
 
+<a id="claim-t-58616"></a>
 - t-001
+  global_id: t-58616
   teiginys: 'Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romene rytų Nadruvoje, į pietus nuo Pilkalnio (Тоерреn M., HCGP, p. 26—27 ir žemėlapis).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58617"></a>
 - t-002
+  global_id: t-58617
   teiginys: 'Dusburgietis teigia, kad kita vertus, jis galvojo, jog ji galėjusi būti ir prie mūsų jau minėtos Rausvės (Мержинский А.'
   pagrindžia:
     - c-002

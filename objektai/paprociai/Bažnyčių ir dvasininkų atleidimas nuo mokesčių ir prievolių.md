@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-93016"></a>
 - t-001
+  global_id: t-93016
   teiginys: 'Bažnyčios ir dvasininkai buvo atleisti nuo mokesčių, natūralijų, teismų ir pilių statymo prievolių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-93017"></a>
 - t-002
+  global_id: t-93017
   teiginys: 'Jogailos laikais bažnyčios ir dvasininkai buvo atleisti nuo mokesčių, natūralijų, teismų ir pilių statymo prievolių.'
   pagrindžia:
     - c-002

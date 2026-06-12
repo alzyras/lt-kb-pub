@@ -19,7 +19,9 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
 
 ## Teiginiai
 
+<a id="claim-t-86636"></a>
 - t-001
+  global_id: t-86636
   teiginys: '1501 metais Gardine tarp dalyvavusių pareigūnų minimas LDK pataurininkas ir Belsko seniūnas Mikalojus Mikolajevičius.'
   pagrindžia:
     - c-001

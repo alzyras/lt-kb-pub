@@ -23,7 +23,9 @@ Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą 1307 metais Brolis F
 
 ## Teiginiai
 
+<a id="claim-t-62603"></a>
 - t-001
+  global_id: t-62603
   teiginys: 'Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą 1307 metais Brolis Folčas, arba Folradas, Ragainės komtūras, išgirdęs, jog karšuviai išžygiavo su kariuomene prieš Klaipėdos brolius, įsakė broliui Hildebrandui iš Rebergo traukti į karą prieš juos; šis, pasiėmęs keletą brolių.'
   pagrindžia:
     - c-001

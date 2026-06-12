@@ -20,27 +20,37 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
 
 ## Teiginiai
 
+<a id="claim-t-79165"></a>
 - t-001
+  global_id: t-79165
   teiginys: 'Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos ir Prūsijos įtaka yra jau pakankamai stipri, kad nejsileisty nepageidaujamos Prancūzijos konkurencijos šiame regione.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-79166"></a>
 - t-002
+  global_id: t-79166
   teiginys: 'Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį (1706 m.).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79167"></a>
 - t-003
+  global_id: t-79167
   teiginys: '1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas švedų kariuomene, paskelbė karalium Poznanės vaivadą Stanislovą Leščinskį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-79168"></a>
 - t-004
+  global_id: t-79168
   teiginys: 'Gais metais ATR valdovu buvo išrinktas Švedijos remiamas Stanislovas Lesčinskis, įsiplieskė karas tarp jo ir Augusto 11 šalininkų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79169"></a>
 - t-005
+  global_id: t-79169
   teiginys: 'Augustui II mirus, daugumas bajorijos panoro grąžinti ištremtąjį karalių Leščinskį, kurio kandidatūrą rėmė Prancūzija.'
   pagrindžia:
     - c-005

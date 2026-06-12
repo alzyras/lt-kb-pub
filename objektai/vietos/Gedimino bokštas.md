@@ -17,7 +17,9 @@ trijų Baltijos valstybių gyventojai paminėjo 50-ąsias Molotovo–Ribentropo 
 
 ## Teiginiai
 
+<a id="claim-t-21434"></a>
 - t-001
+  global_id: t-21434
   teiginys: '1989 m. rugpjūčio 23 d. Baltijos kelio žmonių grandinė driekėsi nuo Gedimino bokšto Vilniuje iki Hermano bokšto Taline.'
   pagrindžia:
     - c-001

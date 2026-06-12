@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-18954"></a>
 - t-001
+  global_id: t-18954
   teiginys: '1968 m. susidegino čekas Janas Palachas, protestuodamas prieš sovietų kariuomenės įsiveržimą į Prahą.'
   pagrindžia:
     - c-001

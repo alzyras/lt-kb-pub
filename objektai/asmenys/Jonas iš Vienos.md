@@ -18,7 +18,9 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
 
 ## Teiginiai
 
+<a id="claim-t-60348"></a>
 - t-001
+  global_id: t-60348
   teiginys: 'Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras, išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai.'
   pagrindžia:
     - c-001

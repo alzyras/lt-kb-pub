@@ -26,17 +26,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88248"></a>
 - t-001
+  global_id: t-88248
   teiginys: 'Dogelio rankraščiuose Vilniaus universiteto bibliotekoje buvo Žygimanto Augusto 1551 m. privilegijos tekstas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-88249"></a>
 - t-002
+  global_id: t-88249
   teiginys: 'Dogelio rankraščiuose buvo 1570 m. nuostolių, patirtų Lietuvos monetas keičiant į lenkiškus pinigus, sąrašas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88250"></a>
 - t-003
+  global_id: t-88250
   teiginys: '— 369- (Iš Dogelio rankraščių Vilniaus universiteto bibliotekoje) Žygimantas Augustas ir 1.'
   pagrindžia:
     - c-001

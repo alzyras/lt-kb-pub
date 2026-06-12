@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31474"></a>
 - t-001
+  global_id: t-31474
   teiginys: '1305 m. Rygos sąjungininkai įsiveržė į Livoniją, prie Dobės pralaimėjo, bet karo veiksmus tęsė iki 1307 m. vasaros.'
   pagrindžia:
     - c-001

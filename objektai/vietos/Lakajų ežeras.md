@@ -19,7 +19,9 @@ Taip pat mūsų Lakajų ežerą, greta vyskupo dvaro, vadinamo Jakubiškėmis, e
 
 ## Teiginiai
 
+<a id="claim-t-86204"></a>
 - t-001
+  global_id: t-86204
   teiginys: 'Lakajų ežeras buvo greta vyskupo dvaro Jakubiškėse ir turėjo į jį įtekančių bei iš jo ištekančių upių.'
   pagrindžia:
     - c-001

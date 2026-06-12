@@ -34,22 +34,30 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 
 ## Teiginiai
 
+<a id="claim-t-08500"></a>
 - t-001
+  global_id: t-08500
   teiginys: 'Uksinė jūra susiejama su žemaičių gintarų prekyba ir kraštų atskyrimu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08501"></a>
 - t-002
+  global_id: t-08501
   teiginys: 'Uksinė jūra Daukanto tekste tapatinama su Juodąja jūra.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-08502"></a>
 - t-003
+  global_id: t-08502
   teiginys: 'Juodoji jūra siejama su Lietuvos prekybos ir valstybės ribų plėtra.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-71069"></a>
 - t-004
+  global_id: t-71069
   teiginys: 'Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris.'
   pagrindžia:
     - c-005

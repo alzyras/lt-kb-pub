@@ -20,7 +20,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-09663"></a>
 - t-001
+  global_id: t-09663
   teiginys: 'Karalius ištarė „Kaimieti (Rustice), tu čia karalium nebūsi“ ir liepė pilies kieme nukirsti pašnekovui galvą.'
   pagrindžia:
     - c-001

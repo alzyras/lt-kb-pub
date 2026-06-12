@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Florencijoje sudaryta Rytų ir Vakarų bažnyčių unija
 
 ## Santrauka
 
-Kojelavičius teigia, kad esą po Florencijoje sudarytos Rytų ir Vakarų bažnyčių unijos, kai visi Rytų patriar chai ir Bizantijos imperatorius pripažino Romos po piežių aukščiausiąja krikščioniškojo tikėjimo galva, Aleksandras, remdamasis senaisiais Lietuvos įstatymais, rūpinęsis, kad.
+Po Florencijos bažnyčių unijos Aleksandras siekė, kad jo valdose gyvenantys rusai prisidėtų prie Rytų ir Vakarų bažnyčių santarvės.
 
 ## Teiginiai
 
+<a id="claim-t-186329"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad esą po Florencijoje sudarytos Rytų ir Vakarų bažnyčių unijos, kai visi Rytų patriar chai ir Bizantijos imperatorius pripažino Romos po piežių aukščiausiąja krikščioniškojo tikėjimo galva, Aleksandras, remdamasis senaisiais Lietuvos įstatymais, rūpinęsis, kad.'
+  global_id: t-186329
+  teiginys: 'Po Florencijos bažnyčių unijos Aleksandras siekė, kad jo valdose gyvenantys rusai prisidėtų prie Rytų ir Vakarų bažnyčių santarvės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad esą po Florencijoje sudarytos Rytų ir Vakarų bažnyčių unijos, kai visi Rytų patriar chai ir Bizantijos imperatorius pripažino Romos po piežių aukščiausiąja krikščioniškojo tikėjimo galva, Aleksandras, remdamasis senaisiais Lietuvos įstatymais, rūpinęsis, kad.'
+  santrauka: 'Po Florencijos bažnyčių unijos Aleksandras siekė, kad jo valdose gyvenantys rusai prisidėtų prie Rytų ir Vakarų bažnyčių santarvės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Aleksandras kol kas laikėsi nuomonės,

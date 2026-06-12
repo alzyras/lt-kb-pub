@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jonas Nemiravičius
 
 ## Santrauka
 
-Kojelavičius teigia, kad žygimantas, beveik be kovos laimėjęs karą, paėmė be kraujo praliejimo į savo rankas Vilnių, Tra kus, Gardiną bei visas kitas Lietuvos pilis ir, pasiun tęs Joną Nemiravičių, pareiškė karaliui pagarbą ir pranešė, kad Boleslovas išvytas iš Lietuvos.
+Žygimantas pasiuntė Joną Nemiravičių pranešti karaliui, kad Boleslovas išvytas iš Lietuvos.
 
 ## Teiginiai
 
+<a id="claim-t-186216"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad žygimantas, beveik be kovos laimėjęs karą, paėmė be kraujo praliejimo į savo rankas Vilnių, Tra kus, Gardiną bei visas kitas Lietuvos pilis ir, pasiun tęs Joną Nemiravičių, pareiškė karaliui pagarbą ir pranešė, kad Boleslovas išvytas iš Lietuvos.'
+  global_id: t-186216
+  teiginys: 'Žygimantas pasiuntė Joną Nemiravičių pranešti karaliui, kad Boleslovas išvytas iš Lietuvos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad žygimantas, beveik be kovos laimėjęs karą, paėmė be kraujo praliejimo į savo rankas Vilnių, Tra kus, Gardiną bei visas kitas Lietuvos pilis ir, pasiun tęs Joną Nemiravičių, pareiškė karaliui pagarbą ir pranešė, kad Boleslovas išvytas iš Lietuvos.'
+  santrauka: 'Žygimantas pasiuntė Joną Nemiravičių pranešti karaliui, kad Boleslovas išvytas iš Lietuvos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Čia šiaip ne taip

@@ -16,7 +16,9 @@ Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją
 
 ## Teiginiai
 
+<a id="claim-t-78061"></a>
 - t-001
+  global_id: t-78061
   teiginys: 'Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžiagą.'
   pagrindžia:
     - c-001

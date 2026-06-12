@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Stanislovas Strumila Petravičius
 
 ## Santrauka
 
-Kojelavičius teigia, kad sužinojęs apie šiuos M a s k v o s galia auga, įvykius, karalius tiek tepadab e t karaliu s K a zim ierė, kad išsiuntė pas Vasiljeras sten g ia si to nevičių pasiuntinį Stanislovą m a ty ti Strumilą Petravičių protes tuoti dėl paliaubų sulaužymo. Kojelavičius teigia, kad aleksandro pasiuntiniai Stanislovas Strumila Petravičius, Smolensko vietininkas, ir Fiodoras Grigorovičius, Lietuvos raštininkas, ryžtingai derėjosi su Ivanu, reikalaudami atlyginti skriaudas.
+Karalius išsiuntė Stanislovą Strumilą Petravičių pas Vasiljevičių protestuoti dėl paliaubų sulaužymo. Stanislovas Strumila Petravičius, Smolensko vietininkas, derėjosi su Ivanu ir reikalavo atlyginti skriaudas.
 
 ## Teiginiai
 
+<a id="claim-t-186165"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad sužinojęs apie šiuos M a s k v o s galia auga, įvykius, karalius tiek tepadab e t karaliu s K a zim ierė, kad išsiuntė pas Vasiljeras sten g ia si to nevičių pasiuntinį Stanislovą m a ty ti Strumilą Petravičių protes tuoti dėl paliaubų sulaužymo.'
+  global_id: t-186165
+  teiginys: 'Karalius išsiuntė Stanislovą Strumilą Petravičių pas Vasiljevičių protestuoti dėl paliaubų sulaužymo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186166"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad aleksandro pasiuntiniai Stanislovas Strumila Petravičius, Smolensko vietininkas, ir Fiodoras Grigorovičius, Lietuvos raštininkas, ryžtingai derėjosi su Ivanu, reikalaudami atlyginti skriaudas.'
+  global_id: t-186166
+  teiginys: 'Stanislovas Strumila Petravičius, Smolensko vietininkas, derėjosi su Ivanu ir reikalavo atlyginti skriaudas.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad sužinojęs apie šiuos M a s k v o s galia auga, įvykius, karalius tiek tepadab e t karaliu s K a zim ierė, kad išsiuntė pas Vasiljeras sten g ia si to nevičių pasiuntinį Stanislovą m a ty ti Strumilą Petravičių protes tuoti dėl paliaubų sulaužymo.'
+  santrauka: 'Karalius išsiuntė Stanislovą Strumilą Petravičių pas Vasiljevičių protestuoti dėl paliaubų sulaužymo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat prieš keletą mėnesių labai turtingi
@@ -56,7 +59,7 @@ Kojelavičius teigia, kad sužinojęs apie šiuos M a s k v o s galia auga, įvy
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad aleksandro pasiuntiniai Stanislovas Strumila Petravičius, Smolensko vietininkas, ir Fiodoras Grigorovičius, Lietuvos raštininkas, ryžtingai derėjosi su Ivanu, reikalaudami atlyginti skriaudas.'
+  santrauka: 'Stanislovas Strumila Petravičius, Smolensko vietininkas, derėjosi su Ivanu ir reikalavo atlyginti skriaudas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sutelkę jėgas, visi kartu užpuolė
@@ -76,3 +79,10 @@ Kojelavičius teigia, kad sužinojęs apie šiuos M a s k v o s galia auga, įvy
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/daiktai/Taurės]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/vietininkas]]

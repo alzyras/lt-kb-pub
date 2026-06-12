@@ -19,12 +19,16 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
 
 ## Teiginiai
 
+<a id="claim-t-60193"></a>
 - t-001
+  global_id: t-60193
   teiginys: 'Dusburgietis teigia, kad taigi Pomandas iš Baigos pilies sugrįžo pas savo bendrataučius prusus, dėdamasis tikėjimo ir tikinčiųjų priešu, o jį pamatę, prūsai labai nudžiugo, nes tikėjosi per šio vyro sumanumą galėsią žlugdyti visas brolių įstangas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60194"></a>
 - t-002
+  global_id: t-60194
   teiginys: 'Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestingai guodęs jam atsidavusių vyrų, atsidūrusių sunkioje nelaimėje, maloniai paragino vieną kilnų vyrą, vardu Pomandas, nusipelniusį didelės prūsų pagarbos ir neseniai priėmusį Kristaus tikėjimą bei atvykusį.'
   pagrindžia:
     - c-001

@@ -27,17 +27,23 @@ O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios K
 
 ## Teiginiai
 
+<a id="claim-t-86016"></a>
 - t-001
+  global_id: t-86016
   teiginys: 'Nuo 1541 m. Mikalojus Radvila Juodasis nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo po 20 kapų lietuviškų grašių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86017"></a>
 - t-002
+  global_id: t-86017
   teiginys: 'Apie 1601 m. Goštautų ir Filipovo namai Albrechto Radvilos laikais buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86018"></a>
 - t-003
+  global_id: t-86018
   teiginys: 'Mikalojus Kristupas Radvila tapo Filipovo namų, sudarytų iš kelių medinių moliu aplipdytų pastatų, savininku.'
   pagrindžia:
     - c-003

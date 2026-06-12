@@ -16,7 +16,9 @@ Vakarų Europos riterio rekonstrukcija.
 
 ## Teiginiai
 
+<a id="claim-t-80641"></a>
 - t-001
+  global_id: t-80641
   teiginys: 'Vakarų Europos riterio rekonstrukcija.'
   pagrindžia:
     - c-001

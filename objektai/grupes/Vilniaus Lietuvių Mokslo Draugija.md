@@ -17,12 +17,16 @@ Malinauskas, kurs švenčiausiai tiki Vytauto kaulus tebesant ir kuris iš padav
 
 ## Teiginiai
 
+<a id="claim-t-72654"></a>
 - t-001
-  teiginys: 'Beje, yra lietuvių, kurie net nujaučia kapo vietą, bet lenkai jiems neleidžia jo ieškoti.'
+  global_id: t-72654
+  teiginys: 'Vilniaus Lietuvių Mokslo Draugijoje buvo saugomas D. Malinausko padirbdintas grabas Vytauto kaulams sudėti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72655"></a>
 - t-002
+  global_id: t-72655
   teiginys: 'Vilniaus Lietuvių Mokslo Draugijoje buvo saugomas D. Malinausko aukomis padirbdintas grabas Vytauto kaulams sudėti.'
   pagrindžia:
     - c-001

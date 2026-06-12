@@ -25,37 +25,51 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-46284"></a>
 - t-001
+  global_id: t-46284
   teiginys: 'Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-46285"></a>
 - t-002
+  global_id: t-46285
   teiginys: 'Sovietų valdžia paskelbė, kad R. Kalantos susideginimo priežastis buvo sunki psichikos liga šizofrenija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-46286"></a>
 - t-003
+  global_id: t-46286
   teiginys: 'R. Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-46287"></a>
 - t-004
+  global_id: t-46287
   teiginys: 'Sovietiniai saugumiečiai R. Kalantą slapta palaidojo anksčiau paskelbto laiko.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-46288"></a>
 - t-005
+  global_id: t-46288
   teiginys: 'R. Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183564"></a>
 - t-006
+  global_id: t-183564
   teiginys: '1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-183565"></a>
 - t-007
+  global_id: t-183565
   teiginys: 'Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką.'
   pagrindžia:
     - c-006

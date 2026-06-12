@@ -25,7 +25,9 @@ Dusburgietis teigia, kad wermke E.
 
 ## Teiginiai
 
+<a id="claim-t-62664"></a>
 - t-001
+  global_id: t-62664
   teiginys: 'E. Wermke parengė Rytų ir Vakarų Prūsijos istorijos bibliografiją, apimančią laikotarpius iki 1929 m., 1930–1938 m. ir 1939–1970 m.'
   pagrindžia:
     - c-001

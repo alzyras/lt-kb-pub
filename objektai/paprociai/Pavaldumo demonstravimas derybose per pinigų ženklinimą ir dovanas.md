@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39323"></a>
 - t-001
+  global_id: t-39323
   teiginys: 'Prieš mūšį Vytautas tarsi reikalavo chano pavaldumo, kad visos Ordos pinigai būtų žymimi Vytauto ženklu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183694"></a>
 - t-002
+  global_id: t-183694
   teiginys: 'Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo - visos Ordos pinigus žymėti Vytauto ženklu.'
   pagrindžia:
     - c-002

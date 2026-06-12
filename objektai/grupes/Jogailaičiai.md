@@ -27,27 +27,37 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 
 ## Teiginiai
 
+<a id="claim-t-110661"></a>
 - t-001
+  global_id: t-110661
   teiginys: 'Nors Habsburgai dinastinėje kovoje su Jogailaičiais dėl įtakos Čekijoje ir Vengrijoje turėjo neabejotinai daugiau naudos, bet nustojo remti amžinus Lietuvos ir Lenkijos priešus - Vokiečių ordiną ir Maskvą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-110662"></a>
 - t-002
+  global_id: t-110662
   teiginys: 'Dviejų paskutiniųjų Jogailaičių paaukštintas miestiečių luomas valdant Steponui turėjo stiprų karaliaus palaikymą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-110663"></a>
 - t-003
+  global_id: t-110663
   teiginys: 'Dviejų paskutiniųjų Jogailaičių laikais miestiečių luomas buvo paaukštintas iki tikrųjų piliečių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-110664"></a>
 - t-004
+  global_id: t-110664
   teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus žinomiausioms Europos monarchijoms.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183136"></a>
 - t-005
+  global_id: t-183136
   teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.'
   pagrindžia:
     - c-004

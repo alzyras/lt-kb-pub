@@ -23,7 +23,9 @@ kelio iki AT) 107-oji motošaulių divizija.
 
 ## Teiginiai
 
+<a id="claim-t-40821"></a>
 - t-001
+  global_id: t-40821
   teiginys: '1991 m. sausio įvykiuose Lietuvoje dalyvavo Vilniuje dislokuota 107-oji motošaulių divizija.'
   pagrindžia:
     - c-001

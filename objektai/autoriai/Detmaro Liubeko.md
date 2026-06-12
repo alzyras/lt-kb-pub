@@ -17,12 +17,16 @@ Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai api
 
 ## Teiginiai
 
+<a id="claim-t-39865"></a>
 - t-001
+  global_id: t-39865
   teiginys: 'Detmaro Liubeko kronikos tęsinyje teigta, kad lietuviai prieš totorius kariavo tris kartus, dvejas kautynes laimėjo, o prie Vorsklos pralaimėjo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183696"></a>
 - t-002
+  global_id: t-183696
   teiginys: 'Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro Liubeko kronikos tęsinyje: tuo metu lietuviai prieš totorius kariavę tris kartus, dvejas kautynes laimėję, o prie Vorsklos patyrę nesėkmę; to meto žiniomis, tuose.'
   pagrindžia:
     - c-002

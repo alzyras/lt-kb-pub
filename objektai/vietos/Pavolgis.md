@@ -16,7 +16,9 @@ Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo toto
 
 ## Teiginiai
 
+<a id="claim-t-36477"></a>
 - t-001
+  global_id: t-36477
   teiginys: 'Vytautas suėmė savo valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
   pagrindžia:
     - c-001

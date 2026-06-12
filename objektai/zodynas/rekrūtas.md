@@ -17,7 +17,9 @@ Rekrūtus rinkti Lietuvoje buvo galima tik į Lietuvos, o Lenkijoje tik į Lenki
 
 ## Teiginiai
 
+<a id="claim-t-03142"></a>
 - t-001
+  global_id: t-03142
   teiginys: 'Rekrūtus rinkti Lietuvoje buvo galima tik į Lietuvos, o Lenkijoje tik į Lenkijos kariuomenę.'
   pagrindžia:
     - c-001

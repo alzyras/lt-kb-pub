@@ -22,7 +22,9 @@ Tų metų rudenį Vytauto nurodymu Skirgaila, žygiuodamas iš Kijevo į pietus,
 
 ## Teiginiai
 
+<a id="claim-t-42349"></a>
 - t-001
+  global_id: t-42349
   teiginys: '1396 m. rudenį Skirgaila Vytauto nurodymu paėmė Zvenigorodą ir prijungė šias Aukso ordai pavaldžias žemes prie LDK.'
   pagrindžia:
     - c-001

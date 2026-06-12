@@ -14,12 +14,16 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
 
 ## Teiginiai
 
+<a id="claim-t-70215"></a>
 - t-001
+  global_id: t-70215
   teiginys: 'Lėnas čia reiškia Ordino valdžiai pavaldžią feodalinę valdą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70216"></a>
 - t-002
+  global_id: t-70216
   teiginys: 'Vytautas pasižada savo tėviškę valdyti kaip Ordino lėną.'
   pagrindžia:
     - c-001

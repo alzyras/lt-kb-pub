@@ -32,12 +32,16 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
 
 ## Teiginiai
 
+<a id="claim-t-36006"></a>
 - t-001
+  global_id: t-36006
   teiginys: 'Formulė vartojama kaip argumentas prieš Lietuvos inkorporavimą į kitą karūną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-36007"></a>
 - t-002
+  global_id: t-36007
   teiginys: 'Atskiros Lietuvos karalijos projektas būtų panaikinęs inkorporacijos klausimą, nes karūna su karūna negalėjo būti sujungta.'
   pagrindžia:
     - c-002

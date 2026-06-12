@@ -17,7 +17,9 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
 
 ## Teiginiai
 
+<a id="claim-t-02953"></a>
 - t-001
+  global_id: t-02953
   teiginys: 'Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės, o Pažaislio vienuolyne apsigyveno pravoslavų vyskupas — archieriejus.'
   pagrindžia:
     - c-001

@@ -19,7 +19,9 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
 
 ## Teiginiai
 
+<a id="claim-t-87618"></a>
 - t-001
+  global_id: t-87618
   teiginys: 'Hohenšteino grafas Algardas žuvo prie Vilniaus, kai buvo pakirstas šūvio per pilies apsiaustį.'
   pagrindžia:
     - c-001

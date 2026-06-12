@@ -25,7 +25,9 @@ Straubergs, K.
 
 ## Teiginiai
 
+<a id="claim-t-30752"></a>
 - t-001
+  global_id: t-30752
   teiginys: 'K. Straubergs 1948 m. paskelbė darbą „Latvju sakrālā pasaule“.'
   pagrindžia:
     - c-001

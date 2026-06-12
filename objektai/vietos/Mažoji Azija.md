@@ -24,17 +24,23 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
 
 ## Teiginiai
 
+<a id="claim-t-169044"></a>
 - t-001
-  teiginys: 'Jis įsigijo daugybę turtų ne tik Mažojoj Azijoj, bet ir Europoj.'
+  global_id: t-169044
+  teiginys: 'Ordinas įsigijo daug turtų Mažojoje Azijoje ir Europoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169045"></a>
 - t-002
-  teiginys: 'Mažojoj Azijoj tuo būdu buvo likusi tik nedidelė ordino dalis.'
+  global_id: t-169045
+  teiginys: 'Mažojoje Azijoje buvo likusi tik nedidelė ordino dalis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183052"></a>
 - t-003
+  global_id: t-183052
   teiginys: 'Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu neteko reikšmės Europai.'
   pagrindžia:
     - c-003
@@ -42,6 +48,7 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mažojoje Azijoje buvo likusi tik nedidelė ordino dalis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kita ordino narių dalis jau kūrė Vengrijoj savo
@@ -55,6 +62,7 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
     - t-002
 
 - c-002
+  santrauka: 'Ordinas įsigijo daug turtų Mažojoje Azijoje ir Europoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ordinas buvo vokiečių imperatorių bei kunigaikščių remia-

@@ -35,23 +35,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66992"></a>
 - t-001
+  global_id: t-66992
   teiginys: '1430 m. spalio 17 d. iš Vilniaus į Trakus išjojęs Vytautas pakeliui nukrito nuo arklio ir nuo patalo nebepakilo.'
   pagrindžia:
-    - c-002
+    - c-001
 
+<a id="claim-t-66993"></a>
 - t-002
+  global_id: t-66993
   teiginys: 'Pagal Dlugošo pasakojimą, prieš mirtį Vytautas Lietuvą pavedė Jogailai ir liepė jam atiduoti raktus nuo iždo ir pilių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66994"></a>
 - t-003
-  teiginys: 'Susitikę abudu pusbroliai tuojau susitarė: Vytautas sutiko garantuoti, kad po jo mirties Lietuva neatiteks niekam kitam, kaip tik Jogailos sūnui, o Jogaila davė savo sutikimą dėl karūnacijos.'
+  global_id: t-66994
+  teiginys: '1430 m. rudenį Vytautas sutiko garantuoti, kad po jo mirties Lietuva atiteks Jogailos sūnui, o Jogaila pritarė Vytauto karūnacijai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66995"></a>
 - t-004
-  teiginys: 'Mirties priežastį vieni šaltiniai nurodo votį ant peties, kiti susitrenkimą.'
+  global_id: t-66995
+  teiginys: 'Vienuose šaltiniuose Vytauto mirties priežastimi laikyta votis ant peties, kituose - susitrenkimas nukritus nuo žirgo.'
   pagrindžia:
     - c-003
 
@@ -84,6 +92,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: 'Vienuose šaltiniuose Vytauto mirties priežastimi laikyta votis ant peties, kituose - susitrenkimas nukritus nuo žirgo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mirties priežastį vieni šaltiniai nurodo votį ant pe-
@@ -99,6 +108,7 @@ Nenurodyta
     - t-004
 
 - c-004
+  santrauka: '1430 m. rudenį Vytautas sutiko garantuoti, kad po jo mirties Lietuva atiteks Jogailos sūnui, o Jogaila pritarė Vytauto karūnacijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Paaštrėjus ginčui dėl karūnacijos, 1430 m.

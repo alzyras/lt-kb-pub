@@ -22,7 +22,9 @@ Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923), «Vyriausias L
 
 ## Teiginiai
 
+<a id="claim-t-32029"></a>
 - t-001
+  global_id: t-32029
   teiginys: 'Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923), «Vyriausias Lietuvos Tribunolas XVI-XVIII amž.'
   pagrindžia:
     - c-001

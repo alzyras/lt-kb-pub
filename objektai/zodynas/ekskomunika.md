@@ -17,7 +17,9 @@ Vėliau Vytautas popiežiui dar rašė, kad jis nenu­ traukia ryšių su Bažny
 
 ## Teiginiai
 
+<a id="claim-t-36780"></a>
 - t-001
+  global_id: t-36780
   teiginys: 'Vytautas prašė popiežiaus sustabdyti kryžiaus karus ir nuimti ekskomuniką, nes griežtos priemonės galėjo nepasiekti tikslo.'
   pagrindžia:
     - c-001

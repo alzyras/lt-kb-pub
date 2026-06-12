@@ -17,12 +17,16 @@ Metraščių liudijimu, šalia Mėlynųjų Vandenų buvo nukariauta ir Baltoji p
 
 ## Teiginiai
 
+<a id="claim-t-41613"></a>
 - t-001
+  global_id: t-41613
   teiginys: 'Metraščių liudijimu, šalia Mėlynųjų Vandenų buvo nukariauta ir Baltoji pakrantė („Beloberežė“).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41614"></a>
 - t-002
+  global_id: t-41614
   teiginys: 'Senoji Baltoji pakrantė laikyta šiaurine Juodosios jūros pakrante prie Dniepro-Bugo limano, nuo Dniepro žemupio iki Berezanės limano.'
   pagrindžia:
     - c-002

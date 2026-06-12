@@ -17,7 +17,9 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 
 ## Teiginiai
 
+<a id="claim-t-18965"></a>
 - t-001
+  global_id: t-18965
   teiginys: 'Joachimas fon Ribentropas rugsėjo 28 d. su Viačeslavu Molotovu pasirašė Reicho ir SSRS sienų bei draugystės sutartį.'
   pagrindžia:
     - c-001

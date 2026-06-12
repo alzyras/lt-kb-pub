@@ -18,7 +18,9 @@ Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas 
 
 ## Teiginiai
 
+<a id="claim-t-58864"></a>
 - t-001
+  global_id: t-58864
   teiginys: 'Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.'
   pagrindžia:
     - c-001

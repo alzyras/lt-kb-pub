@@ -17,12 +17,16 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 
 ## Teiginiai
 
+<a id="claim-t-90009"></a>
 - t-001
+  global_id: t-90009
   teiginys: 'Dusburgietis teigia, kad rudolfas, vadinamas Bodemeru subūrė brolių kariuomenę ir ją išdėstė įvairiose vietose, notangai, piktosios dvasios sukurstyti, dar kartą pakluso senam įsiūčiui ir iš neapykantos Jėzui Kristui vėl padarė atskalūnybės nuodėmę, o savo kariuomenės vadu išsirinko vyrą, vardu Sabinas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90010"></a>
 - t-002
+  global_id: t-90010
   teiginys: 'Brolis Rudolfas, vadinamas Bodemeru, Bartenšteino pilyje pateko į Stantos ir jo bendrų nelaisvę.'
   pagrindžia:
     - c-001

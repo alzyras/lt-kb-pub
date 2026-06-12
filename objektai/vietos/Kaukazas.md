@@ -16,7 +16,9 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
 
 ## Teiginiai
 
+<a id="claim-t-32211"></a>
 - t-001
+  global_id: t-32211
   teiginys: 'Indoeuropiečiai į Europą greičiausiai atkeliavo per pietų Rusijos stepes ir Kaukazą.'
   pagrindžia:
     - c-001

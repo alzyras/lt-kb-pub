@@ -24,7 +24,9 @@ Kad bažnyčia būtų geriau tvarkoma ir būtų parinktas tinkamas asmuo užimti
 
 ## Teiginiai
 
+<a id="claim-t-88488"></a>
 - t-001
+  global_id: t-88488
   teiginys: '1581 m. birželio 9 d. Vilniaus kapitula perleido jėzuitų kolegijos rektoriams teisę siūlyti Šv. Jono bažnyčios vikarus.'
   pagrindžia:
     - c-001

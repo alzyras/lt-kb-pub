@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08319"></a>
 - t-001
+  global_id: t-08319
   teiginys: 'Pirmieji kalnėnų ir žemaičių ratai buvo ant dviejų tekinių, vadinamų šliuižiu.'
   pagrindžia:
     - c-001

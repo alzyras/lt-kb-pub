@@ -16,7 +16,9 @@ opera et studio Rmi Patris Josephi Mariae Fonseca ab Ebora etc.
 
 ## Teiginiai
 
+<a id="claim-t-88070"></a>
 - t-001
+  global_id: t-88070
   teiginys: 'Josephi Mariae Fonseca ab Ebora darbu ir rūpesčiu 1733 m. Romoje išleistas „Annales Minorum“ XIX tomas.'
   pagrindžia:
     - c-001

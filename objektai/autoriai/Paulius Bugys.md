@@ -17,7 +17,9 @@ p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras. p. 89,
 
 ## Teiginiai
 
+<a id="claim-t-40666"></a>
 - t-001
+  global_id: t-40666
   teiginys: 'Paulius Bugys kartu su Vidmantu Airini ir Karoliu Zikaru siejamas su leidinio iliustracija „Alebardos“.'
   pagrindžia:
     - c-001

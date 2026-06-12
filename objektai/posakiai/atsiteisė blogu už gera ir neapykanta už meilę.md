@@ -34,7 +34,9 @@ Dusburgietis teigia, kad tačiau tas vyras, užmiršęs patirtas malones, atsite
 
 ## Teiginiai
 
+<a id="claim-t-59080"></a>
 - t-001
+  global_id: t-59080
   teiginys: 'Dusburgietis teigia, kad tačiau tas vyras, užmiršęs patirtas malones, atsiteisė blogu už gera ir neapykanta už meilę.'
   pagrindžia:
     - c-001

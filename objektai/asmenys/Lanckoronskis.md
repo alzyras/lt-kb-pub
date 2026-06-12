@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lanckoronskis
 
 ## Santrauka
 
-Kojelavičius teigia, kad be to, kuo greičiausiai iš žiemos sto vyklų iškvietė algininkus, o lenkų kariuomenės lauko etmonui Lanckoronskiui įsakė atremti virš valstybės pakibusią grėsmę. Kojelavičius teigia, kad vyriausiuoju karvedžiu paliko Lanckoronskį.
+Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš valstybės pakibusią grėsmę. Lanckoronskis buvo paliktas vyriausiuoju karvedžiu prieš laukiamą mūšį.
 
 ## Teiginiai
 
+<a id="claim-t-186136"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad be to, kuo greičiausiai iš žiemos sto vyklų iškvietė algininkus, o lenkų kariuomenės lauko etmonui Lanckoronskiui įsakė atremti virš valstybės pakibusią grėsmę.'
+  global_id: t-186136
+  teiginys: 'Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš valstybės pakibusią grėsmę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186137"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad vyriausiuoju karvedžiu paliko Lanckoronskį.'
+  global_id: t-186137
+  teiginys: 'Lanckoronskis buvo paliktas vyriausiuoju karvedžiu prieš laukiamą mūšį.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad be to, kuo greičiausiai iš žiemos sto vyklų iškvietė algininkus, o lenkų kariuomenės lauko etmonui Lanckoronskiui įsakė atremti virš valstybės pakibusią grėsmę.'
+  santrauka: 'Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš valstybės pakibusią grėsmę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai žinia apie šį
@@ -51,7 +54,7 @@ Kojelavičius teigia, kad be to, kuo greičiausiai iš žiemos sto vyklų iškvi
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad vyriausiuoju karvedžiu paliko Lanckoronskį.'
+  santrauka: 'Lanckoronskis buvo paliktas vyriausiuoju karvedžiu prieš laukiamą mūšį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Konstantinas su savaisiais įsitaisė dešiniajame
@@ -68,3 +71,9 @@ Kojelavičius teigia, kad be to, kuo greičiausiai iš žiemos sto vyklų iškvi
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/rezervas]]
+- [[objektai/zodynas/skitai]]

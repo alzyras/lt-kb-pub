@@ -25,7 +25,9 @@ Mykolo bažnyčia buvo išmūryti didieji maldos namai.
 
 ## Teiginiai
 
+<a id="claim-t-86286"></a>
 - t-001
+  global_id: t-86286
   teiginys: 'Mykolo bažnyčia buvo išmūryti didieji maldos namai.'
   pagrindžia:
     - c-001

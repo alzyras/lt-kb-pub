@@ -28,22 +28,30 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
 
 ## Teiginiai
 
+<a id="claim-t-85977"></a>
 - t-001
+  global_id: t-85977
   teiginys: 'Gediminas 1337 m. birželio 15 d. su kariuomene sustojo ties Bajerburgu, siekdamas išvyti priešais Veliuoną įsikūrusius kryžiuočius.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85978"></a>
 - t-002
+  global_id: t-85978
   teiginys: 'Bajerburgas vėliau vadintas Raudone, nes pilies sienos buvo sumūrytos iš raudonų plytų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85979"></a>
 - t-003
+  global_id: t-85979
   teiginys: 'Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-85980"></a>
 - t-004
+  global_id: t-85980
   teiginys: 'Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos.'
   pagrindžia:
     - c-002

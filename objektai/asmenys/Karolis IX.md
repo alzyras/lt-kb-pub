@@ -28,37 +28,51 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 
 ## Teiginiai
 
+<a id="claim-t-79076"></a>
 - t-001
+  global_id: t-79076
   teiginys: 'SALASPILIO (KIRKCHOLMO) MUSIS riuomenės karališkosios gvardijos pėstininkų batalionas, už jo ant žirgo Švedijos karalius Karolis Ix.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79077"></a>
 - t-002
+  global_id: t-79077
   teiginys: 'Beje, Švedijos karalius Karolis 1x vos nepakliuvo į nelaisvę.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-79078"></a>
 - t-003
+  global_id: t-79078
   teiginys: 'Karolis IX ir Karina Nilsdotter buvo nesantuokinio sūnaus Karolio Karlsono Gyllenhielmo tėvai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79079"></a>
 - t-004
+  global_id: t-79079
   teiginys: 'Karolis IX vos nepakliuvo į nelaisvę, bet išsigelbėjo, kai švedų reitaras Henrikas Vrede atidavė jam savo žirgą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-79080"></a>
 - t-005
+  global_id: t-79080
   teiginys: 'Karolis Sudermanas pasiuntė 2400 karių, kurie turėjo pristatyti apsiautusiai švedų kariuomenei maistą ir šaudmenis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-79081"></a>
 - t-006
+  global_id: t-79081
   teiginys: 'Salaspilio mūšyje Karolis IX netrukus turėjo duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79082"></a>
 - t-007
+  global_id: t-79082
   teiginys: 'Karolis IX buvo Švedijos karalius ir Karolio Karlsono Gyllenhielmo tėvas.'
   pagrindžia:
     - c-001

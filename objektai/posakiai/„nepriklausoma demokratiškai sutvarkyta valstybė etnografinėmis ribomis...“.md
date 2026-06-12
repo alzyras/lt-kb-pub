@@ -19,7 +19,9 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 
 ## Teiginiai
 
+<a id="claim-t-20923"></a>
 - t-001
+  global_id: t-20923
   teiginys: 'Konferencijos rezoliucijoje būsima Lietuva apibrėžta kaip nepriklausoma demokratiškai sutvarkyta valstybė etnografinėmis ribomis.'
   pagrindžia:
     - c-001

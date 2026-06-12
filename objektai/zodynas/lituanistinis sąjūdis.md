@@ -37,12 +37,16 @@ Terminas vartojamas kaip pradžia, nuo kurios Vilniaus universitete kilo lietuvi
 
 ## Teiginiai
 
+<a id="claim-t-05596"></a>
 - t-001
+  global_id: t-05596
   teiginys: 'Ankstyvas lituanistinis sąjūdis siejamas su Vilniaus universitetu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05597"></a>
 - t-002
+  global_id: t-05597
   teiginys: 'Šis sąjūdis pristatomas kaip lietuvių tautos atgimimo veikėjų istorinio domėjimosi pradžia.'
   pagrindžia:
     - c-001

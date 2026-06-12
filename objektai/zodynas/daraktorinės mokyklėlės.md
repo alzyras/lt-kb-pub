@@ -26,7 +26,9 @@ Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
 
 ## Teiginiai
 
+<a id="claim-t-77792"></a>
 - t-001
+  global_id: t-77792
   teiginys: 'Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.'
   pagrindžia:
     - c-001

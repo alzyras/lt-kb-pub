@@ -16,7 +16,9 @@ Po nepavykusio grafo Liudviko Pliaterio antpuolio prieš Rusijos kariuomenės ka
 
 ## Teiginiai
 
+<a id="claim-t-40308"></a>
 - t-001
+  global_id: t-40308
   teiginys: 'Po nepavykusio grafo Liudviko Pliaterio antpuolio prieš Rusijos kariuomenės karinio transporto gurguolę, vykstančią į Daugpilį, teko atsisakyti šios tvirtovės puolimo, nes rusų karinė vadovybė perprato sukilėlių planus.'
   pagrindžia:
     - c-001

@@ -18,12 +18,16 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
 
 ## Teiginiai
 
+<a id="claim-t-60185"></a>
 - t-001
+  global_id: t-60185
   teiginys: 'Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai taip įsiteikė broliams, kad šie jiems sugrąžino paimtas į nelaisvę jų žmonas ir vaikus; šitai nepatiko nei.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60186"></a>
 - t-002
+  global_id: t-60186
   teiginys: 'Numa ir Derska pelnė brolių palankumą, išžudė lietuvius ir išsigabeno grobį į Pagudę.'
   pagrindžia:
     - c-002

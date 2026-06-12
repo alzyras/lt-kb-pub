@@ -17,7 +17,9 @@ Dusburgietis teigia, kad siek tiek toliau jis priduria (1 Mak 2. 67—68): „..
 
 ## Teiginiai
 
+<a id="claim-t-61227"></a>
 - t-001
+  global_id: t-61227
   teiginys: 'Pirmojoje Makabiejų knygoje raginama atkeršyti priešams už tautą ir kovoti dėl gyvybės bei įstatymo.'
   pagrindžia:
     - c-001

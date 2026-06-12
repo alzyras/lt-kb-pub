@@ -19,12 +19,16 @@ Varšuvos recesas: tuo metu buvo surašytas specialus aktas, į kurį buvo įtra
 
 ## Teiginiai
 
+<a id="claim-t-67557"></a>
 - t-001
+  global_id: t-67557
   teiginys: 'Po ilgų derybų Varšuvos recesu buvo sutarta tik dėl kai kurių klausimų, o neišspręsti klausimai atidėti vėlesniam laikui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67558"></a>
 - t-002
+  global_id: t-67558
   teiginys: 'Varšuvos recesas buvo Varšuvoje sudarytas aktas, kuriame išspręsti klausimai atskirti nuo vėlesniam seimui paliktų klausimų.'
   pagrindžia:
     - c-002

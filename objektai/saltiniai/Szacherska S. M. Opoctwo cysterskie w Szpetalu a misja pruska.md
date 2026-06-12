@@ -22,7 +22,9 @@ Dusburgietis teigia, kad szacherska S.
 
 ## Teiginiai
 
+<a id="claim-t-61304"></a>
 - t-001
+  global_id: t-61304
   teiginys: 'S. M. Szacherskos veikalas „Opoctwo cysterskie w Szpetalu a misja pruska“ išleistas Varšuvoje 1960 m.'
   pagrindžia:
     - c-001

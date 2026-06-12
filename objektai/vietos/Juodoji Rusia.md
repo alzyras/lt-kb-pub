@@ -25,12 +25,16 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
 
 ## Teiginiai
 
+<a id="claim-t-68026"></a>
 - t-001
+  global_id: t-68026
   teiginys: 'Vytauto laikais Juodojoje Rusioje, Gardine ir Naugarduke, pradėtos statyti LDK pilys.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-68027"></a>
 - t-002
+  global_id: t-68027
   teiginys: 'Jam priklausė betarpiškai Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.'
   pagrindžia:
     - c-002

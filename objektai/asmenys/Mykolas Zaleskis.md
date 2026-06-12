@@ -27,7 +27,9 @@ Dabar Veliuona priklauso dvari­ ninkui Mykolui Zaleskiui.
 
 ## Teiginiai
 
+<a id="claim-t-87804"></a>
 - t-001
+  global_id: t-87804
   teiginys: 'Mykolui Zaleskiui priklausė Veliuona.'
   pagrindžia:
     - c-001

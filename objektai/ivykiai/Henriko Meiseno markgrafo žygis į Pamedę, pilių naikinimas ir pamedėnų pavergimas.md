@@ -43,17 +43,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66557"></a>
 - t-001
+  global_id: t-66557
   teiginys: 'Henrikas Meiseno markgrafas 1236 m. atvyko į Prūsiją ir niokojo Pamedę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66558"></a>
 - t-002
+  global_id: t-66558
   teiginys: 'Dusburgietis teigia, kad apie daugelio pilių sunaikinimą ir pamedėnų pavergimą Pamedės žemėje buvo valsčius, vardu Reisiai, kuriame gyveno daug garsių vyrų ir drąsių karių; minėtasis valdovas, ryžtingai imdamasis darbo, drąsiai juos užpuolė, kamuodamas grobstymais bei gaisrais ir.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66559"></a>
 - t-003
+  global_id: t-66559
   teiginys: 'Dusburgietis teigia, kad apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais.'
   pagrindžia:
     - c-002

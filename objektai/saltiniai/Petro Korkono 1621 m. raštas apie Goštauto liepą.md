@@ -25,7 +25,9 @@ Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkviet�
 
 ## Teiginiai
 
+<a id="claim-t-88462"></a>
 - t-001
+  global_id: t-88462
   teiginys: 'Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą.'
   pagrindžia:
     - c-001

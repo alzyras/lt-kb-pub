@@ -41,13 +41,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62908"></a>
 - t-001
+  global_id: t-62908
   teiginys: 'Dusburgietis teigia, kad norint atremti visus Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą, didžiajam magistrui Verneriui reikėjo kronikos.'
   pagrindžia:
     - c-002
     - c-001
 
+<a id="claim-t-62909"></a>
 - t-002
+  global_id: t-62909
   teiginys: 'Dusburgietis teigia, kad 69 Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.'
   pagrindžia:
     - c-001

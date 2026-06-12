@@ -16,12 +16,16 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
 
 ## Teiginiai
 
+<a id="claim-t-22055"></a>
 - t-001
+  global_id: t-22055
   teiginys: 'Valdant Ldk Gediminui ankstyvojo feodalizmo požymiu Lietuvoje buvo ankstyvieji dvarai, vadinti kiemais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183396"></a>
 - t-002
+  global_id: t-183396
   teiginys: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.'
   pagrindžia:
     - c-002

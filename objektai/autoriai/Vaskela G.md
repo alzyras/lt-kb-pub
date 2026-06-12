@@ -17,7 +17,9 @@ Vaskela G.
 
 ## Teiginiai
 
+<a id="claim-t-17744"></a>
 - t-001
+  global_id: t-17744
   teiginys: 'G. Vaskela parašė knygą „Žemės reforma Lietuvoje 1919–1940 m.“, išleistą Vilniuje 1998 m.'
   pagrindžia:
     - c-001

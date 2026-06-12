@@ -24,7 +24,9 @@ Lapinskio jūrų ekspedicija dėl audros ties Juodkrante sužlugo.
 
 ## Teiginiai
 
+<a id="claim-t-40463"></a>
 - t-001
+  global_id: t-40463
   teiginys: 'Teofilio Lapinskio jūrų ekspedicija dėl audros ties Juodkrante sužlugo.'
   pagrindžia:
     - c-001

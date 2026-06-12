@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-32707"></a>
 - t-001
+  global_id: t-32707
   teiginys: 'Zieteloje į pietvakarius nuo Naugarduko iki autoriaus laikų buvo išsilaikiusi lietuvių kalbos sala.'
   pagrindžia:
     - c-001

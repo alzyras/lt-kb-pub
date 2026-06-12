@@ -16,7 +16,9 @@ Osten-Sacken, P.
 
 ## Teiginiai
 
+<a id="claim-t-30890"></a>
 - t-001
+  global_id: t-30890
   teiginys: 'P. von Osten-Sackenas rašė apie Livonijos ir Rusios santykius Lietuvos didžiojo kunigaikščio Vytauto valdymo laikotarpiu.'
   pagrindžia:
     - c-001

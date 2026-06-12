@@ -18,12 +18,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-67360"></a>
 - t-001
+  global_id: t-67360
   teiginys: '„Codex epistolaris saeculi decimi quinti“ yra XV amžiaus laiškų rinkinys, kurio 1-3 tomus parengė J. Sokołowskis, J. Szujskis ir A. Lewickis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67361"></a>
 - t-002
+  global_id: t-67361
   teiginys: 'Visi išlikę dokumentai yra atspausdinti: St. Kutrzeba i Wl. Semkowicz, Akta unji NNr. 29—31; be to, žiūr.: Codex ep. Vitoldi, 30, 959 psl. ir Cod. ep. saec. XV, 16 psl.).'
   pagrindžia:
     - c-002

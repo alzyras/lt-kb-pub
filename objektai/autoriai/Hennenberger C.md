@@ -19,12 +19,16 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
 
 ## Teiginiai
 
+<a id="claim-t-64603"></a>
 - t-001
+  global_id: t-64603
   teiginys: 'Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (Videvučio) sūnaus Samo pilis, čia prūsai uždegdavę pavojų skelbiančius laužus (SU, 1, Nr. 58, 182; 2, Nr. 304; PUB, 2, 2, Nr. 663; 3, 2, Nr. 644; 4, Nr. 26; Hennenberger C, Erclerung.., p. 136; Sch-K; Faber.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-64604"></a>
 - t-002
+  global_id: t-64604
   teiginys: 'C. Hennenbergeris rašė apie Brandenburgo pilies vietą Pokarviuose prie Aismarių.'
   pagrindžia:
     - c-001

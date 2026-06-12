@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad užvolgio skitai, netekę mirusio chano Saladi- 1419 m eta i no, suskilo atskiromis grupėS k itų ta u to m s V y ta u - mis: vieni vieną, kiti kitą tas p a s k y r ė v a ld o v u s mirusio valdovo sūnų siūlė sosto įpėdiniu. Kojelavičius teigia, kad štai todėl maloniai ir noriai priėmė Tochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu les iškilmes, uždėjo jam perlais bei brangakmeniais nu sagstytą kepurę, paskelbė Užvolgio skitų chanu (pap rastai vadinamu caru) ir pakėlė į valdovus.
+Po chano Saladino mirties Užvolgio skitai suskilo į grupes, palaikiusias skirtingus mirusio valdovo sūnus. Vytautas Vilniuje priėmė Tochtamyšą, pažadėjo jam paramą ir paskelbė Užvolgio skitų chanu.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185645"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad užvolgio skitai, netekę mirusio chano Saladi- 1419 m eta i no, suskilo atskiromis grupėS k itų ta u to m s V y ta u - mis: vieni vieną, kiti kitą tas p a s k y r ė v a ld o v u s mirusio valdovo sūnų siūlė sosto įpėdiniu.'
+  global_id: t-185645
+  teiginys: 'Po chano Saladino mirties Užvolgio skitai suskilo į grupes, palaikiusias skirtingus mirusio valdovo sūnus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185646"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad štai todėl maloniai ir noriai priėmė Tochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu les iškilmes, uždėjo jam perlais bei brangakmeniais nu sagstytą kepurę, paskelbė Užvolgio skitų chanu (pap rastai vadinamu caru) ir pakėlė į valdovus.'
+  global_id: t-185646
+  teiginys: 'Vytautas Vilniuje priėmė Tochtamyšą, pažadėjo jam paramą ir paskelbė Užvolgio skitų chanu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad užvolgio skitai, netekę mirusio chano Saladi- 1419 m eta i no, suskilo atskiromis grupėS k itų ta u to m s V y ta u - mis: vieni vieną, kiti kitą tas p a s k y r ė v a ld o v u s mirusio valdovo sūnų siūlė sosto įpėdiniu.'
+  santrauka: 'Po chano Saladino mirties Užvolgio skitai suskilo į grupes, palaikiusias skirtingus mirusio valdovo sūnus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Užvolgio skitai,
@@ -70,7 +73,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad štai todėl maloniai ir noriai priėmė Tochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu les iškilmes, uždėjo jam perlais bei brangakmeniais nu sagstytą kepurę, paskelbė Užvolgio skitų chanu (pap rastai vadinamu caru) ir pakėlė į valdovus.'
+  santrauka: 'Vytautas Vilniuje priėmė Tochtamyšą, pažadėjo jam paramą ir paskelbė Užvolgio skitų chanu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas, ne vieną
@@ -89,3 +92,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/asmenys/Saladinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Kerim Berdis]]
+- [[objektai/asmenys/Tochtamyšas]]
+- [[objektai/zodynas/chanas caras]]

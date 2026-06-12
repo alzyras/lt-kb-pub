@@ -16,12 +16,16 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
 
 ## Teiginiai
 
+<a id="claim-t-21883"></a>
 - t-001
+  global_id: t-21883
   teiginys: '1941 m. birželio 26 d. Vilijampolėje lietuvių talkininkai dalyvavo SD inspiruotuose žiauriuose pogromuose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183641"></a>
 - t-002
+  global_id: t-183641
   teiginys: 'Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba bandančių nusiplauti sovietmečio nuodėmes lietuvių – tokie dalyvavo SD inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje, 27 – Kauno „Lietūkio“ garaže, nors SD.'
   pagrindžia:
     - c-002

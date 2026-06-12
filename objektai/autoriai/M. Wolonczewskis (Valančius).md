@@ -16,7 +16,9 @@ VaŽV = Wolonczewskis (Valančius), M., Žemajtiu Wiskupiste, dal.
 
 ## Teiginiai
 
+<a id="claim-t-29555"></a>
 - t-001
+  global_id: t-29555
   teiginys: 'M. Wolonczewskis (Valančius) 1848 m. Vilniuje išleido dviejų dalių „Žemajtiu Wiskupiste“.'
   pagrindžia:
     - c-001

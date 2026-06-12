@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20575"></a>
 - t-001
+  global_id: t-20575
   teiginys: 'Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties pradėjo garsėti kaip stebukladaris.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183288"></a>
 - t-002
+  global_id: t-183288
   teiginys: 'Kazimiero kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota religinė savimonė.'
   pagrindžia:
     - c-002

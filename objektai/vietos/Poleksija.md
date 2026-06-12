@@ -12,39 +12,46 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Poleksija
 
 ## Santrauka
 
-Kojelavičius teigia, kad tačiau ir lietuviai, sulaužę sutartį, gavo tinkamą atlygį už šią piktadarybę: apie tą patį laiką Poleksija, jiems priklausąs kraštas, buvo nusiaubta karių iš Ma zovijos ir Kujavijos. Kojelavičius teigia, kad kol jis pats gyveno Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs, tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen kėję, arba Poleksijoje), minia, kažin kieno sukursty ta, žiauriai su jais susidorojo. Kojelavičius teigia, kad tuo tar pu Jogaila, užkirtęs, kaip jis manė, kelią vidaus ne santarvei, nukreipė jėgas prieš išorinį priešą, norėda mas jį išvyti iš Poleksijos, kurią Jonušas, Mazovijos kunigaikštis, kilus nesutarimams tarp Lietuvos valdo vų, buvo neseniai atėmęs iš lietuvių.
+Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos kariai. Goštautui išvykus į Tikociną Palenkėje, arba Poleksijoje, Vilniuje minia nužudė krikščionių tikėjimo skelbėjus. Jogaila siekė išvyti Jonušą iš Poleksijos, kurią šis buvo neseniai atėmęs iš lietuvių.
 
 ## Teiginiai
 
+<a id="claim-t-185245"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tačiau ir lietuviai, sulaužę sutartį, gavo tinkamą atlygį už šią piktadarybę: apie tą patį laiką Poleksija, jiems priklausąs kraštas, buvo nusiaubta karių iš Ma zovijos ir Kujavijos.'
+  global_id: t-185245
+  teiginys: 'Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos kariai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185246"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kol jis pats gyveno Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs, tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen kėję, arba Poleksijoje), minia, kažin kieno sukursty ta, žiauriai su jais susidorojo.'
+  global_id: t-185246
+  teiginys: 'Goštautui išvykus į Tikociną Palenkėje, arba Poleksijoje, Vilniuje minia nužudė krikščionių tikėjimo skelbėjus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185247"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad tuo tar pu Jogaila, užkirtęs, kaip jis manė, kelią vidaus ne santarvei, nukreipė jėgas prieš išorinį priešą, norėda mas jį išvyti iš Poleksijos, kurią Jonušas, Mazovijos kunigaikštis, kilus nesutarimams tarp Lietuvos valdo vų, buvo neseniai atėmęs iš lietuvių.'
+  global_id: t-185247
+  teiginys: 'Jogaila siekė išvyti Jonušą iš Poleksijos, kurią šis buvo neseniai atėmęs iš lietuvių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185248"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad sėkmingai atgavus Poleksiją, kur kas didesni rūpesčiai paragino skubėti į tėvy nę.'
+  global_id: t-185248
+  teiginys: 'Atgavus Poleksiją, didesni rūpesčiai paskatino kariuomenę skubėti į tėvynę.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tačiau ir lietuviai, sulaužę sutartį, gavo tinkamą atlygį už šią piktadarybę: apie tą patį laiką Poleksija, jiems priklausąs kraštas, buvo nusiaubta karių iš Ma zovijos ir Kujavijos.'
+  santrauka: 'Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos kariai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lietuvių kariaunos, pakviestos iš sodybų, nesutik-
@@ -68,7 +75,7 @@ Kojelavičius teigia, kad tačiau ir lietuviai, sulaužę sutartį, gavo tinkam�
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kol jis pats gyveno Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs, tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen kėję, arba Poleksijoje), minia, kažin kieno sukursty ta, žiauriai su jais susidorojo.'
+  santrauka: 'Goštautui išvykus į Tikociną Palenkėje, arba Poleksijoje, Vilniuje minia nužudė krikščionių tikėjimo skelbėjus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat Goštautas buvo la-
@@ -99,7 +106,7 @@ Kojelavičius teigia, kad tačiau ir lietuviai, sulaužę sutartį, gavo tinkam�
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad tuo tar pu Jogaila, užkirtęs, kaip jis manė, kelią vidaus ne santarvei, nukreipė jėgas prieš išorinį priešą, norėda mas jį išvyti iš Poleksijos, kurią Jonušas, Mazovijos kunigaikštis, kilus nesutarimams tarp Lietuvos valdo vų, buvo neseniai atėmęs iš lietuvių.'
+  santrauka: 'Jogaila siekė išvyti Jonušą iš Poleksijos, kurią šis buvo neseniai atėmęs iš lietuvių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl neilgai jis
@@ -138,7 +145,7 @@ Kojelavičius teigia, kad tačiau ir lietuviai, sulaužę sutartį, gavo tinkam�
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad sėkmingai atgavus Poleksiją, kur kas didesni rūpesčiai paragino skubėti į tėvy nę.'
+  santrauka: 'Atgavus Poleksiją, didesni rūpesčiai paskatino kariuomenę skubėti į tėvynę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Praėjus kelioms

@@ -23,12 +23,16 @@ Vartojamos formos: `ūkės vilkėjomis`.
 
 ## Teiginiai
 
+<a id="claim-t-07652"></a>
 - t-001
+  global_id: t-07652
   teiginys: 'Ūkės vilkėja siejama su didžios gaspadinės vardu ir tokiais darbais kaip sėjimas, arimas, šieno pjovimas bei javų valymas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-07653"></a>
 - t-002
+  global_id: t-07653
   teiginys: 'Ūkės vilkėjomis vadintos merginos ar moterys, siejamos su gaspadinės vardu, lauko darbais ir rūtos auginimu.'
   pagrindžia:
     - c-002

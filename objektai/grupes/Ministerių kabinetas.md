@@ -19,12 +19,16 @@ Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautin
 
 ## Teiginiai
 
+<a id="claim-t-19943"></a>
 - t-001
+  global_id: t-19943
   teiginys: 'A. Smetona 1928 m. gegužės 15 d., pritariamas Ministerių kabineto, nauja konstitucija sustiprino savo viršenybę prieš Seimą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-19944"></a>
 - t-002
+  global_id: t-19944
   teiginys: 'K. Grinius atstatydino M. Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautininkui A. Voldemarui.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Hunai
 
 ## Santrauka
 
-Kojelavičius teigia, kad dalis alanų drauge su gotais ir hunais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie vergovinės Romos imperijos sugrio vimo.
+Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie Romos imperijos sugriovimo.
 
 ## Teiginiai
 
+<a id="claim-t-185449"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad dalis alanų drauge su gotais ir hunais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie vergovinės Romos imperijos sugrio vimo.'
+  global_id: t-185449
+  teiginys: 'Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie Romos imperijos sugriovimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad dalis alanų drauge su gotais ir hunais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie vergovinės Romos imperijos sugrio vimo.'
+  santrauka: 'Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie Romos imperijos sugriovimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Viena sarmatų
@@ -40,3 +41,10 @@ Kojelavičius teigia, kad dalis alanų drauge su gotais ir hunais dalyvavo didž
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Gotai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/zodynas/alanai]]

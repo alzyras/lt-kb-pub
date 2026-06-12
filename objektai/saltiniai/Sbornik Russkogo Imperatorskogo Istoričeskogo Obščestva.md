@@ -26,7 +26,9 @@ SbRIO = Sbornik Russkogo Imperatorskogo Istoričeskogo Obščestva, St.
 
 ## Teiginiai
 
+<a id="claim-t-30043"></a>
 - t-001
+  global_id: t-30043
   teiginys: 'Sbornik Russkogo Imperatorskogo Istoričeskogo Obščestva leistas Sankt Peterburge ir turėjo 148 rinkinio tomus.'
   pagrindžia:
     - c-001

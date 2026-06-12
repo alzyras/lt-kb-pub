@@ -27,27 +27,37 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 
 ## Teiginiai
 
+<a id="claim-t-45608"></a>
 - t-001
+  global_id: t-45608
   teiginys: 'Grigorijaus Camblako vadovaujama LDK stačiatikių delegacija Konstance iškėlė visuotinės bažnyčių unijos idėją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45609"></a>
 - t-002
+  global_id: t-45609
   teiginys: 'Vytautas paskyrė Grigorijų Camblaką į LDK stačiatikių metropoliją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45610"></a>
 - t-003
+  global_id: t-45610
   teiginys: 'Vytautas Naugarduke sušaukė LDK stačiatikių vyskupų suvažiavimą, įkūrė metropoliją ir į ją paskyrė Grigorijų Camblaką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45611"></a>
 - t-004
+  global_id: t-45611
   teiginys: '1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45612"></a>
 - t-005
+  global_id: t-45612
   teiginys: 'Grigorijus Camblakas buvo vienas žymiausių to meto stačiatikybės teologų.'
   pagrindžia:
     - c-001

@@ -25,27 +25,37 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
 
 ## Teiginiai
 
+<a id="claim-t-88131"></a>
 - t-001
+  global_id: t-88131
   teiginys: 'Balińskis teigė, kad laiškas popiežiui ir kiti laiškai ordinams bei Vokietijos miestams nebuvo parašyti Gedimino žinia ar valia.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-88132"></a>
 - t-002
+  global_id: t-88132
   teiginys: 'Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominikonų ordinui, Mažesniesiems troliams kei Siaurės Vokietijos pajūrio miestams, klastotę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-88133"></a>
 - t-003
+  global_id: t-88133
   teiginys: 'Gediminas laiške popiežiui Jonui XXII prisistatė lietuvių ir daugelio rusėnų karaliumi.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-88134"></a>
 - t-004
+  global_id: t-88134
   teiginys: 'Balińskis aiškino, kad pasakojimas apie kryžiuočių sudegintą valdovo antspaudą buvo įterptas siekiant išsklaidyti abejones dėl laiškų tikrumo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88135"></a>
 - t-005
+  global_id: t-88135
   teiginys: 'Gedimino laiške popiežiui Jonui XXII teigiama, kad Mindaugas su karalyste buvo priėmęs krikščionybę, bet dėl Teutonų ordino nuoskaudų nuo jos atkrito.'
   pagrindžia:
     - c-002

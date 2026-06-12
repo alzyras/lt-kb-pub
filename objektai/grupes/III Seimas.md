@@ -19,22 +19,30 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
 
 ## Teiginiai
 
+<a id="claim-t-74133"></a>
 - t-001
+  global_id: t-74133
   teiginys: 'O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės 8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pralaimėjo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-74134"></a>
 - t-002
+  global_id: t-74134
   teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-74135"></a>
 - t-003
+  global_id: t-74135
   teiginys: 'Pajaujo suėmimą, nepritarus vyriausybės deklaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas, o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74136"></a>
 - t-004
+  global_id: t-74136
   teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką.'
   pagrindžia:
     - c-003

@@ -16,7 +16,9 @@ Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio (Antanas Ka
 
 ## Teiginiai
 
+<a id="claim-t-18813"></a>
 - t-001
+  global_id: t-18813
   teiginys: 'Antanas Kazimeras Žemaitis sukūrė gitarą „Zemaitis“, kuria grojo Jimi Hendrixas, Ericas Claptonas, Bobas Dylanas ir kiti muzikantai.'
   pagrindžia:
     - c-001

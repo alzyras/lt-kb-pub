@@ -17,12 +17,16 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
 
 ## Teiginiai
 
+<a id="claim-t-40541"></a>
 - t-001
+  global_id: t-40541
   teiginys: 'Walenrodtas vadovavo 2000 pėstininkų jungtinėje G. F. Valdeko vadovaujamoje kariuomenėje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-40542"></a>
 - t-002
+  global_id: t-40542
   teiginys: 'G. Valdekas įsakė Walenrodto brandenburgiečiams keltis atgal, bet juos užpuolė ir sumušė V. Gosievskio pajėgos.'
   pagrindžia:
     - c-001

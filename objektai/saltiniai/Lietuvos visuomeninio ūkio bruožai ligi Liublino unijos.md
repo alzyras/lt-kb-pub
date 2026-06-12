@@ -23,7 +23,9 @@ Rim. = Rimka, A., Lietuvos visuomeninio ūkio bruožai ligi Liublino unijos.
 
 ## Teiginiai
 
+<a id="claim-t-34971"></a>
 - t-001
+  global_id: t-34971
   teiginys: 'A. Rimkos „Lietuvos visuomeninio ūkio bruožai ligi Liublino unijos“ išleisti Kaune 1925 m.'
   pagrindžia:
     - c-001

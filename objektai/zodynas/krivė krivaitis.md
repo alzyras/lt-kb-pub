@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # krivė krivaitis
 
 ## Santrauka
 
-Kojelavičius teigia, kad toji sodyba, tada vadinama R om a n o va , paskui Romnove bei Romove, vėliau tapo vyriausiojo lietuvių žynio Krivės Krivaičio būstine, kurią, Gediminui viešpataujaut, iš pamatų išgriovė vokiečių ordino vienuo liai riteriai, paprastai vadinami kryžiuočiais.
+Romanova, vėliau vadinta Romnove ir Romove, tapo vyriausiojo lietuvių žynio Krivės Krivaičio būstine.
 
 ## Teiginiai
 
+<a id="claim-t-185387"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad toji sodyba, tada vadinama R om a n o va , paskui Romnove bei Romove, vėliau tapo vyriausiojo lietuvių žynio Krivės Krivaičio būstine, kurią, Gediminui viešpataujaut, iš pamatų išgriovė vokiečių ordino vienuo liai riteriai, paprastai vadinami kryžiuočiais.'
+  global_id: t-185387
+  teiginys: 'Romanova, vėliau vadinta Romnove ir Romove, tapo vyriausiojo lietuvių žynio Krivės Krivaičio būstine.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad toji sodyba, tada vadinama R om a n o va , paskui Romnove bei Romove, vėliau tapo vyriausiojo lietuvių žynio Krivės Krivaičio būstine, kurią, Gediminui viešpataujaut, iš pamatų išgriovė vokiečių ordino vienuo liai riteriai, paprastai vadinami kryžiuočiais.'
+  santrauka: 'Romanova, vėliau vadinta Romnove ir Romove, tapo vyriausiojo lietuvių žynio Krivės Krivaičio būstine.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Plaukdami prieš srovę į krašto gilumą, prie Dubysos
@@ -41,3 +42,10 @@ Kojelavičius teigia, kad toji sodyba, tada vadinama R om a n o va , paskui Romn
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

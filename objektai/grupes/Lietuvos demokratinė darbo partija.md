@@ -25,12 +25,16 @@ LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunis
 
 ## Teiginiai
 
+<a id="claim-t-169677"></a>
 - t-001
+  global_id: t-169677
   teiginys: 'Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą programą ir naują statutą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169680"></a>
 - t-002
+  global_id: t-169680
   teiginys: 'Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos kompromisas, labiau į parlamentinį valdymą orientuota sistema, nes prezidentinei valdymo formai nepritarta.'
   pagrindžia:
     - c-001

@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-91919"></a>
 - t-001
+  global_id: t-91919
   teiginys: 'Dusburgietis teigia, kad vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.'
   pagrindžia:
     - c-001

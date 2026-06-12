@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87245"></a>
 - t-001
+  global_id: t-87245
   teiginys: 'M. Balinskis rėmė lietuvių ir baltarusių švietėjų pastangas liaudies ugdymą paversti visuomeninių pertvarkymų dalimi.'
   pagrindžia:
     - c-001

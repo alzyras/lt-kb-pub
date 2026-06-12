@@ -26,12 +26,16 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
 
 ## Teiginiai
 
+<a id="claim-t-67818"></a>
 - t-001
+  global_id: t-67818
   teiginys: 'Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė tvirtovę « Tavan’ » (šv.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67819"></a>
 - t-002
+  global_id: t-67819
   teiginys: 'Totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.'
   pagrindžia:
     - c-002

@@ -28,12 +28,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-47949"></a>
 - t-001
+  global_id: t-47949
   teiginys: 'Tai rodo jo laiškai imperatoriui Zigmantui ir ordino magistrui: neleidimas vainikuotis Vytautui reiškė ne tik jo asmeninės laisvės suvaržymą, bet ir pastangas « mūsų kraštą pavergti »^15.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-47950"></a>
 - t-002
+  global_id: t-47950
   teiginys: 'Vytautas laiškuose imperatoriui Zigmantui ir ordino magistrui teigė, kad draudimas vainikuotis reiškė pastangas „mūsų kraštą pavergti“.'
   pagrindžia:
     - c-001

@@ -29,12 +29,16 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-113963"></a>
 - t-001
+  global_id: t-113963
   teiginys: 'Rusdorfas 1435 m. gruodžio 31 d. Bresto taikoje atstovavo Vokiečių-kryžiuočių ordino žemėms Prūsijoje, Livonijoje ir Vokietijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-113964"></a>
 - t-002
+  global_id: t-113964
   teiginys: 'Magistrui Rusdorfui buvo rašyti Vytauto laiškai dėl Lietuvos karūnos, saugoti Kryžiuočių Slaptajame archyve Karaliaučiuje.'
   pagrindžia:
     - c-002

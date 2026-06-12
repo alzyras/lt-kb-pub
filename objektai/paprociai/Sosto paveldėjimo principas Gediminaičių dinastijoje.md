@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54349"></a>
 - t-001
+  global_id: t-54349
   teiginys: 'XIII a. pabaigoje Lietuvoje nauju reiškiniu tapo sosto paveldėjimas tos pačios giminės brolių arba sūnų linijoje.'
   pagrindžia:
     - c-001

@@ -34,17 +34,23 @@ Liejykla lokalizuojama prie Vilniaus pilies ir siejama su Stepono Batoro kariniu
 
 ## Teiginiai
 
+<a id="claim-t-55250"></a>
 - t-001
+  global_id: t-55250
   teiginys: 'Didžioji ginklų liejykla buvo įkurta prie Vilniaus pilies ir turėjo didelę įtaką amatininkų gerovei bei tobulėjimui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55251"></a>
 - t-002
+  global_id: t-55251
   teiginys: '1579 m. rengiantis žygiui į Livoniją Vilniaus ginklų liejykla liejo pabūklus pagal geriausius pavyzdžius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85131"></a>
 - t-003
+  global_id: t-85131
   teiginys: '1579 m. rengiantis žygiui į Livoniją, Vilniaus ginklų liejykla liejo pabūklus pagal geriausius pavyzdžius.'
   pagrindžia:
     - c-002

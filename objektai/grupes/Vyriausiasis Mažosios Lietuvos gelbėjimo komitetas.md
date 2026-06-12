@@ -22,7 +22,9 @@ Mažosios Lietuvos gelbėjimo komitetas ir jo bendradarbiai, 1923 sausio 9 d., V
 
 ## Teiginiai
 
+<a id="claim-t-80660"></a>
 - t-001
+  global_id: t-80660
   teiginys: 'Mažosios Lietuvos gelbėjimo komitetas ir jo bendradarbiai, 1923 sausio 9 d., VDKM, Artūro Užgalio nuotr.'
   pagrindžia:
     - c-001

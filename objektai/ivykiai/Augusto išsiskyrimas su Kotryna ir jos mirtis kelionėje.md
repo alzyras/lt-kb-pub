@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje
 
 ## Santrauka
 
-Kojelavičius teigia, kad žmonės dar labiau patikėjo šiais gandais, kai jis ga lop ryžosi įvykdyti prieš kelerius metus sugalvotą su manymą ir atvirai išsiskyrė su austrų kunigaikštyte Kotryna. Kojelavičius teigia, kad šis veiksmas didžiai įžeidė Romos popiežių, kuris, Augustui tuokiantis su Kotryna, leido jam ne paisyti įstatymų, draudžiančių K a ra liu s A u g u sta s išpo žmonos mirties vesti jos sisk iria su žm o n a seserį. Kojelavičius teigia, kad kotryna, pasiųsta pas imperatorių Maksimilijoną, neišgyveno šitokio siel varto: susirgusi, tiesa, veikiau siela nei kūnu, kelionėje mirė.
+Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, įgyvendindamas anksčiau sugalvotą sumanymą. Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, anksčiau leidusį jam vesti mirusios žmonos seserį. Kotryna, pasiųsta pas imperatorių Maksimilijoną, susirgo ir mirė kelionėje.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,25 +26,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185551"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad žmonės dar labiau patikėjo šiais gandais, kai jis ga lop ryžosi įvykdyti prieš kelerius metus sugalvotą su manymą ir atvirai išsiskyrė su austrų kunigaikštyte Kotryna.'
+  global_id: t-185551
+  teiginys: 'Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, įgyvendindamas anksčiau sugalvotą sumanymą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185552"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad šis veiksmas didžiai įžeidė Romos popiežių, kuris, Augustui tuokiantis su Kotryna, leido jam ne paisyti įstatymų, draudžiančių K a ra liu s A u g u sta s išpo žmonos mirties vesti jos sisk iria su žm o n a seserį.'
+  global_id: t-185552
+  teiginys: 'Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, anksčiau leidusį jam vesti mirusios žmonos seserį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185553"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad kotryna, pasiųsta pas imperatorių Maksimilijoną, neišgyveno šitokio siel varto: susirgusi, tiesa, veikiau siela nei kūnu, kelionėje mirė.'
+  global_id: t-185553
+  teiginys: 'Kotryna, pasiųsta pas imperatorių Maksimilijoną, susirgo ir mirė kelionėje.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad žmonės dar labiau patikėjo šiais gandais, kai jis ga lop ryžosi įvykdyti prieš kelerius metus sugalvotą su manymą ir atvirai išsiskyrė su austrų kunigaikštyte Kotryna.'
+  santrauka: 'Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, įgyvendindamas anksčiau sugalvotą sumanymą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jų atsimetimą nuo
@@ -69,7 +74,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad šis veiksmas didžiai įžeidė Romos popiežių, kuris, Augustui tuokiantis su Kotryna, leido jam ne paisyti įstatymų, draudžiančių K a ra liu s A u g u sta s išpo žmonos mirties vesti jos sisk iria su žm o n a seserį.'
+  santrauka: 'Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, anksčiau leidusį jam vesti mirusios žmonos seserį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šis veiksmas didžiai įžeidė Romos popiežių,
@@ -94,7 +99,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad kotryna, pasiųsta pas imperatorių Maksimilijoną, neišgyveno šitokio siel varto: susirgusi, tiesa, veikiau siela nei kūnu, kelionėje mirė.'
+  santrauka: 'Kotryna, pasiųsta pas imperatorių Maksimilijoną, susirgo ir mirė kelionėje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Aiškiai šitokius ir kitokius daly­
@@ -110,3 +115,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Augustas]]
+- [[objektai/grupes/Liuteronai]]
+- [[objektai/asmenys/Kotryna]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

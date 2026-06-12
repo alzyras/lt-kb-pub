@@ -38,47 +38,65 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54186"></a>
 - t-001
+  global_id: t-54186
   teiginys: 'Salaspilio mūšyje švedų kavalerijai netvarkingai traukiantis suiro pėstininkų rikiuotė, o centre žuvo švedų generolas A. Liuneburgietis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-54187"></a>
 - t-002
+  global_id: t-54187
   teiginys: 'Salaspilio mūšyje Karolis Chodkevičius pasinaudojo laikina ramybe, pasakė kalbą ir padrąsino savo karius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54188"></a>
 - t-003
+  global_id: t-54188
   teiginys: 'Salaspilio mūšyje žuvo Fridrichas Liuneburgietis ir Andrius Lennartssonas, o lietuvių kairiojo sparno sėkmė padėjo V. Vainos kariams centre.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-54189"></a>
 - t-004
+  global_id: t-54189
   teiginys: 'Salaspilio mūšyje J. K. Chodkevičius įsakė pulti pastebėjęs, kad švedų pėstininkų rikiuotė prarado darnumą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54190"></a>
 - t-005
+  global_id: t-54190
   teiginys: 'Švedų gvardijos kavaleriją pasitiko T. Lackio husarai ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius, po to švedų pajėgos bėgo iš mūšio lauko.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-54191"></a>
 - t-006
+  global_id: t-54191
   teiginys: 'Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-54192"></a>
 - t-007
+  global_id: t-54192
   teiginys: 'Iki Salaspilio mūšio vidudienio abi kariuomenės stovėjo nepajudėjusios.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-54193"></a>
 - t-008
+  global_id: t-54193
   teiginys: 'Salaspilio mūšyje T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir smogė švedų kavalerijai iš flango.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-54194"></a>
 - t-009
+  global_id: t-54194
   teiginys: 'Salaspilio mūšyje lietuviai nedideliais išpuoliais mėgino išprovokuoti švedus pulti pirmuosius, bet abi kariuomenės išstovėjo iki vidudienio.'
   pagrindžia:
     - c-005

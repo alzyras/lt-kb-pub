@@ -26,12 +26,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86162"></a>
 - t-001
+  global_id: t-86162
   teiginys: 'Jonas Lasavičius Vilniaus katedroje įrengė Vyskupų koplyčią.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86163"></a>
 - t-002
+  global_id: t-86163
   teiginys: 'Vilniaus vyskupas Mikalojus Šv. Stanislovo katedroje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu.'
   pagrindžia:
     - c-001

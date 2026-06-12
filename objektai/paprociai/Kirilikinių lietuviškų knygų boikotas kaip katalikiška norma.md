@@ -36,17 +36,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54249"></a>
 - t-001
+  global_id: t-54249
   teiginys: 'Kirilikinė lietuvių abėcėlė galėjo būti boikotuojama dėl lietuviškų pradžios mokyklų draudimo ir katalikų diskriminacijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54250"></a>
 - t-002
+  global_id: t-54250
   teiginys: 'Kirilikinių lietuviškų knygų boikotas sužlugdė valdžios užmačią lietuvių raštijoje lotyniškąjį raidyną pakeisti kirilika.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183313"></a>
 - t-003
+  global_id: t-183313
   teiginys: 'Jei valdžia būtų leidusi lietuviškas pradžios mokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi diskriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į stačiatikybę, abėcėlė boikoto galėjo nesusilaukti.'
   pagrindžia:
     - c-002

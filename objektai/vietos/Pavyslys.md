@@ -19,12 +19,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-68911"></a>
 - t-001
+  global_id: t-68911
   teiginys: 'Ordinas išvežė žymesniųjų Žemaičių bajorų vaikus į Pavyslį kaip įkaitus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-68912"></a>
 - t-002
+  global_id: t-68912
   teiginys: 'Vokiečių, arba kryžiuočių, ordinas buvo atkviestas apie 1226 m. į Pavyslį kovoti su aisčiais.'
   pagrindžia:
     - c-001

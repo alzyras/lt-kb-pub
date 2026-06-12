@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Žygimanto Kęstutaičio šermenys ir laidotuvės Vilniuje (1440 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad sklido gandai, kad jis netikėtai užpuolė ir užėmė Lucką, išvadavo bajorus, Žygimanto ten įka lintus, ir šitaip gerokai padidino savo kariauną, o at vyks artimiausiomis dienomis.
+Trakuose susirinkę luomai, Goštautui ir Kęsgailai pasiūlius, nutarė surengti Žygimantui Kęstutaičiui puikias šermenis.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185846"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad sklido gandai, kad jis netikėtai užpuolė ir užėmė Lucką, išvadavo bajorus, Žygimanto ten įka lintus, ir šitaip gerokai padidino savo kariauną, o at vyks artimiausiomis dienomis.'
+  global_id: t-185846
+  teiginys: 'Trakuose susirinkę luomai, Goštautui ir Kęsgailai pasiūlius, nutarė surengti Žygimantui Kęstutaičiui puikias šermenis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad sklido gandai, kad jis netikėtai užpuolė ir užėmė Lucką, išvadavo bajorus, Žygimanto ten įka lintus, ir šitaip gerokai padidino savo kariauną, o at vyks artimiausiomis dienomis.'
+  santrauka: 'Trakuose susirinkę luomai, Goštautui ir Kęsgailai pasiūlius, nutarė surengti Žygimantui Kęstutaičiui puikias šermenis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sklido gandai, kad jis netikėtai užpuolė
@@ -60,3 +61,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Kęsgaila]]
+- [[objektai/paprociai/Prabangūs šermenys ir iškilmingos laidotuvės nužudytam valdovui]]

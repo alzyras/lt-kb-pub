@@ -25,12 +25,16 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
 
 ## Teiginiai
 
+<a id="claim-t-79244"></a>
 - t-001
+  global_id: t-79244
   teiginys: 'Česlovas Jezerskas 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79245"></a>
 - t-002
+  global_id: t-79245
   teiginys: '1991 m. Česlovas Jezerskas buvo įvardytas Aukščiausiosios Tarybos gynybos štabe.'
   pagrindžia:
     - c-001

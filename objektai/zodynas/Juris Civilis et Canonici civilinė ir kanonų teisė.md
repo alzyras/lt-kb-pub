@@ -19,7 +19,9 @@ Jokio atskiro turto, kaip valdų ar piniginių sumų, Aka­ demija neturi, išsk
 
 ## Teiginiai
 
+<a id="claim-t-86591"></a>
 - t-001
+  global_id: t-86591
   teiginys: 'Akademija dalį pajamų iš kolegijai užrašytų sumų ir turtų skyrė civilinės ir kanonų teisės profesoriams.'
   pagrindžia:
     - c-001

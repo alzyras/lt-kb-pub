@@ -22,7 +22,9 @@ Tur būt, su Vaišvilko žinia ir pritarimu, buvę Mindaugo dvariškiai-arklinin
 
 ## Teiginiai
 
+<a id="claim-t-99983"></a>
 - t-001
+  global_id: t-99983
   teiginys: 'Tur būt, su Vaišvilko žinia ir pritarimu, buvę Mindaugo dvariškiai-arklininkai (koniuši) Treniotą 1264 m. nužudė.'
   pagrindžia:
     - c-001

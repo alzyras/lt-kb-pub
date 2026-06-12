@@ -15,13 +15,11 @@ atnaujinta: ''
 tags:
   - asmuo
   - krikštas
-  - šeima
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
 ---
-
 # Patrikas (kunigaikštis, XIV a.)
 
 ## Santrauka
@@ -30,18 +28,24 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 
 ## Teiginiai
 
+<a id="claim-t-121122"></a>
 - t-001
+  global_id: t-121122
   teiginys: 'Iš Gedimino giminės ten buvo paskutinis kunigaikštis Jogailos pusbrolis Patrikas, prie Strėvos (1348) žuvusio Narimanto sūnus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-121123"></a>
 - t-002
+  global_id: t-121123
   teiginys: 'Dusburgietis teigia, kad 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184816"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad išvydo tėvui gresiantį pavojų jo sūnus Patrikas ir nelyginant įgel tas (jis buvo tauraus būdo ir S ū n au s m eilė tė v u i labai mylėjo tėvą) pavarė ir karių m e ilė v a d u i žirgą link susigrūdusių prie šų, norėdamas pagelbėti tė vui; aklai kalaviju.'
+  global_id: t-184816
+  teiginys: 'Patrikas puolė gelbėti į priešų rankas patekusio tėvo Kęstučio ir buvo ietimi numuštas nuo žirgo.'
   pagrindžia:
     - c-003
 
@@ -78,7 +82,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad išvydo tėvui gresiantį pavojų jo sūnus Patrikas ir nelyginant įgel tas (jis buvo tauraus būdo ir S ū n au s m eilė tė v u i labai mylėjo tėvą) pavarė ir karių m e ilė v a d u i žirgą link susigrūdusių prie šų, norėdamas pagelbėti tė vui; aklai kalaviju.'
+  santrauka: 'Patrikas puolė gelbėti į priešų rankas patekusio tėvo Kęstučio ir buvo ietimi numuštas nuo žirgo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kęstutį, kuris ban­
@@ -114,3 +118,16 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Henrikas Hochbergas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.)]]
+- [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]

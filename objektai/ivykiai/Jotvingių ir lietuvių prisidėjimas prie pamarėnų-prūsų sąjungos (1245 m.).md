@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62809"></a>
 - t-001
+  global_id: t-62809
   teiginys: '1245 m. prie pamarėnų ir prūsų sąjungos prisidėjo jotvingiai ir lietuviai.'
   pagrindžia:
     - c-001

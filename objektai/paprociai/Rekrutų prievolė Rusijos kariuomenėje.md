@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77948"></a>
 - t-001
+  global_id: t-77948
   teiginys: 'LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių padėties iš esmės nepakeitė.'
   pagrindžia:
     - c-001

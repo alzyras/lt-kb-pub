@@ -25,12 +25,16 @@ toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe i
 
 ## Teiginiai
 
+<a id="claim-t-52600"></a>
 - t-001
-  teiginys: 'Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos upe, ji ėjo ties Šafranovo dvaru, toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo ežerą, per Miastros ežerą, Bliados ežero rytų šonu.'
+  global_id: t-52600
+  teiginys: 'Lietuvos rytinė teritorijos linija ėjo per Drivietų, Želvos ir Oziraičių ežerus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-52601"></a>
 - t-002
+  global_id: t-52601
   teiginys: 'Lietuvos rytinė teritorijos linija buvo išvesta per Drivietų, Želvos ir Oziraičių ežerus.'
   pagrindžia:
     - c-001

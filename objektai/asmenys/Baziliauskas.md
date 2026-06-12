@@ -16,7 +16,9 @@ Būrininkas Baziliauskas nusmeigė dar kelis komisarus, ir tuo būdu per minutę
 
 ## Teiginiai
 
+<a id="claim-t-80730"></a>
 - t-001
+  global_id: t-80730
   teiginys: 'Būrininkas Baziliauskas nusmeigė dar kelis komisarus, ir tuo būdu per minutę buvo likviduotas divizijos štabas.'
   pagrindžia:
     - c-001

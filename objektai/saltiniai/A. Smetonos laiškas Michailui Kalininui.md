@@ -16,7 +16,9 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
 
 ## Teiginiai
 
+<a id="claim-t-20991"></a>
 - t-001
+  global_id: t-20991
   teiginys: 'Taikingas A. Smetonos laiškas sovietų prezidentui Michailui Kalininui nepadėjo išvengti 1940 m. birželio 14 d. sovietų ultimatumo Lietuvai.'
   pagrindžia:
     - c-001

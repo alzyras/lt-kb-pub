@@ -41,27 +41,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-05427"></a>
 - t-001
+  global_id: t-05427
   teiginys: 'Tarybiniai istorikai Lietuvos Tarybų respublikos suverenitetą laikė 1940 m. įvykdytu plačiųjų lietuvių tautos masių siekimu.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-05586"></a>
 - t-002
+  global_id: t-05586
   teiginys: 'Dubysos sutartyje Jogailos suverenitetas buvo siaurinamas, nes jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-10898"></a>
 - t-003
+  global_id: t-10898
   teiginys: 'Suverenitetas reiškia Lietuvos valdžią ir teisinę viršenybę Klaipėdos krašte.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-10899"></a>
 - t-004
+  global_id: t-10899
   teiginys: '1926 m. Lietuva ir Sovietų Rusija nepuolimo sutartimi pasižadėjo gerbti viena kitos suverenitetą ir teritorinį neliečiamumą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-10900"></a>
 - t-005
+  global_id: t-10900
   teiginys: 'Suvereniteto sąvoka taikoma ir Lietuvos teisėms į Vilniaus sritį.'
   pagrindžia:
     - c-003

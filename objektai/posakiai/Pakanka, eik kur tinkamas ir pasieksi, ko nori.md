@@ -17,7 +17,9 @@ Dusburgietis teigia, kad tada sutraukė dvigubai tiek kariuomenės, o jis, ją m
 
 ## Teiginiai
 
+<a id="claim-t-59144"></a>
 - t-001
+  global_id: t-59144
   teiginys: 'Posakis „Pakanka, eik kur tinkamas ir pasieksi, ko nori“ buvo atsakymas karaliui, klaususiam, ar pakanka kariuomenės veikti Semboje.'
   pagrindžia:
     - c-001

@@ -19,12 +19,16 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
 
 ## Teiginiai
 
+<a id="claim-t-36216"></a>
 - t-001
+  global_id: t-36216
   teiginys: 'Kelionė iš Kauno tęsėsi Nemunu iki Dubysos upės, o Dubysa - iki Aukokalnio ties dabartine Betygala.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-36217"></a>
 - t-002
+  global_id: t-36217
   teiginys: 'Vytautas liepė atnaujinti Dubysos ir Nemuno krantuose buvusias pilis ir atstatyti sudegintą Veliuoną.'
   pagrindžia:
     - c-002

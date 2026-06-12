@@ -25,22 +25,30 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
 
 ## Teiginiai
 
+<a id="claim-t-171634"></a>
 - t-001
+  global_id: t-171634
   teiginys: '1945 m. gegužės 16 dienos mūšyje dalyvavo apie 90 partizanų NKVD pajėgos Partizanus kalniškės miške puolė 1-ojo Pabaltijo fronto NKvp kariuomenės 220-asis Kutuzovo ordino pulkas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-171635"></a>
 - t-002
+  global_id: t-171635
   teiginys: '1944 m. jis su žmona pasitraukė į Kalniškės mišką ir pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-171636"></a>
 - t-003
+  global_id: t-171636
   teiginys: 'Kalniškės miškas yra apie 3–4 km pločio ir apie 8 km ilgio kalvotas mišrus miškas netoli Krosnos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-171638"></a>
 - t-004
+  global_id: t-171638
   teiginys: 'Kalniškės miškas yra apie 3–4 km pločio ir 8 km ilgio mišrus miškas, kuriame 1945 m. įvyko Kalniškės mūšis.'
   pagrindžia:
     - c-001

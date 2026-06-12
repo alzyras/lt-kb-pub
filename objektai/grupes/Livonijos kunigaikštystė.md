@@ -24,17 +24,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-78383"></a>
 - t-001
+  global_id: t-78383
   teiginys: 'Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78384"></a>
 - t-002
+  global_id: t-78384
   teiginys: '1561 m. Livonijos konfederacijos likusi dalis buvo padalinta į Kuršo ir Livonijos kunigaikštystes, atitekusias Lietuvai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78385"></a>
 - t-003
+  global_id: t-78385
   teiginys: 'Karalius Steponas Batoras ir LDK didysis etmonas Mikalojus Radvila Rudasis suvokė, kad siekiant nutraukti rusų veržimąsi į Livoniją reikia atkirsti Livonijos teritoriją nuo Rusijos ir perkelti karo veiksmus Vengriškasis-lenkiškasis kardas.'
   pagrindžia:
     - c-002

@@ -24,12 +24,16 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
 
 ## Teiginiai
 
+<a id="claim-t-88326"></a>
 - t-001
+  global_id: t-88326
   teiginys: 'Radvilų archyve Kardinalijoje buvęs 1493 m. aktas buvo surašytas gryna slavų kalba ir puikiai išsilaikęs.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88327"></a>
 - t-002
+  global_id: t-88327
   teiginys: 'Radvilų archyve Kardinalijoje buvo saugomi vertingi istorijos šaltiniai, prie kurių prieigą palengvino Mikalojus Malinovskis.'
   pagrindžia:
     - c-001

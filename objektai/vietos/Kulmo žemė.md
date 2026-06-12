@@ -29,102 +29,142 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 
 ## Teiginiai
 
+<a id="claim-t-79492"></a>
 - t-001
+  global_id: t-79492
   teiginys: 'Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-79493"></a>
 - t-002
+  global_id: t-79493
   teiginys: 'Dusburgietis teigia, kad nutyli lenkų feodalinės ekspansijos į prūsų žemes bandymus iki 1223 m. kryžiaus žygio imtinai, lenkų — kryžiuočių ginčus dėl Kulmo žemės dovanojimo charakterio, apimties ir t.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-79494"></a>
 - t-003
+  global_id: t-79494
   teiginys: 'Dusburgietis teigia, kad istoriografijoje vyrauja nuomonė, kad Dusburgietis perdeda, teigdamas, jog Kulmo žemė buvusi visiškai nusiaubta, paversta dykromis, nes jam rūpėjo padidinti prūsų antpuolių rezultatus, iškelti Ordino nuopelnus (HP.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-79495"></a>
 - t-004
+  global_id: t-79495
   teiginys: 'Dusburgietis teigia, kad jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per Vyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o visa kita pavertė pelenais bei degėsiais.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-79496"></a>
 - t-005
+  global_id: t-79496
   teiginys: 'Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-79497"></a>
 - t-006
+  global_id: t-79497
   teiginys: 'Dusburgietis teigia, kad tuo metu į Prūsijos žemę atvyko kilnusis ir šviesusis Anlanto300 kunigaikštis su didele kariuomene; be daugybės kitų gerų darbų, kuriuos čia nuveikė, stiprindamas tikėjimą bei krikščionis, jis perkėlė Kulmo miestą nuo senosios pilies į kalvą, kur ir dabar.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-79498"></a>
 - t-007
+  global_id: t-79498
   teiginys: 'Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-79499"></a>
 - t-008
+  global_id: t-79499
   teiginys: 'Dusburgietis teigia, kad „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas, o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą, apie.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-79500"></a>
 - t-009
+  global_id: t-79500
   teiginys: 'Dusburgietis teigia, kad kulmo (Kulmos?) žemė rašytiniuose šaltiniuose minima nuo 1222 m. Vardas įsitvirtino XIII a.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-79501"></a>
 - t-010
+  global_id: t-79501
   teiginys: 'Dusburgietis teigia, kad tuo tarpu stalininkas Druzigeris, su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo žemėje ir Lenkijoje kilo toks baisus krikščionių.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-79502"></a>
 - t-011
+  global_id: t-79502
   teiginys: 'Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos krante, persikėlė per upę į Kulmo žemę ir pastatė Torunės pilį, prasidėjo sisteminga agresija prieš prūsus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-79503"></a>
 - t-012
+  global_id: t-79503
   teiginys: 'Kulmo žemę mozūrų kunigaikščiai buvo dovanoję vokiečiams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79504"></a>
 - t-013
+  global_id: t-79504
   teiginys: 'Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-79505"></a>
 - t-014
+  global_id: t-79505
   teiginys: 'XIII a., prieš kryžiuočių atsikraustymą į Pavyslį, Kulmo žemė vėl buvo prūsų rankose.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-79506"></a>
 - t-015
+  global_id: t-79506
   teiginys: 'Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-79507"></a>
 - t-016
+  global_id: t-79507
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams, būtent: Eimsutis ir dar viena Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas siaubė Kulmo žemę, plėšdamas ir degindamas.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-79508"></a>
 - t-017
+  global_id: t-79508
   teiginys: 'Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-79509"></a>
 - t-018
+  global_id: t-79509
   teiginys: '1231 m. Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos krante, persikėlė per upę į Kulmo žemę ir pastatė Torunės pilį, prasidėjo sisteminga agresija prieš prūsus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-79510"></a>
 - t-019
+  global_id: t-79510
   teiginys: 'Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių ordino riterius (kryžiuočius).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79511"></a>
 - t-020
+  global_id: t-79511
   teiginys: 'Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama kaip teritorija tarp Osos šiaurėje, Vyslos vakaruose ir Drėvantos (dab.'
   pagrindžia:
     - c-005

@@ -16,14 +16,17 @@ Antra tokia pat didžiulė giria buvo Livonijos pasienis (šiaurinė Lietuvos da
 
 ## Teiginiai
 
+<a id="claim-t-02564"></a>
 - t-001
-  teiginys: 'Antra tokia pat didžiulė giria buvo Livonijos pasienis (šiaurinė Lietuvos dalis).'
+  global_id: t-02564
+  teiginys: 'Livonijos pasienis, šiaurinė Lietuvos dalis, buvo didžiulė mažai gyvenama giria.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Livonijos pasienis, šiaurinė Lietuvos dalis, buvo didžiulė mažai gyvenama giria.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O ir čia jų buvo ne kažin kiek, nes ir Lietuva dau-

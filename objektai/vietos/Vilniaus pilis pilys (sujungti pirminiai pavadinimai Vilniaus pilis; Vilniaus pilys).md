@@ -28,82 +28,114 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-174225"></a>
 - t-001
+  global_id: t-174225
   teiginys: 'Po Vilniaus gaisrų susirūpinta senų Pilies ir Katedros pastatų remontu bei atnaujinimu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-174226"></a>
 - t-002
+  global_id: t-174226
   teiginys: 'Savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje25.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-174227"></a>
 - t-003
+  global_id: t-174227
   teiginys: 'Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-174228"></a>
 - t-004
+  global_id: t-174228
   teiginys: 'Prie Vilniaus pilies buvo įkurta didžioji ginklų liejykla, turėjusi daug įtakos amatininkų gerovei ir tobulėjimui.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-174229"></a>
 - t-005
+  global_id: t-174229
   teiginys: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-174231"></a>
 - t-006
+  global_id: t-174231
   teiginys: 'Vilniaus vyskupas Povilas parodė karaliui į katedros bažnyčią pilyje ir privertė jį pakeisti ketinimą.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-174232"></a>
 - t-007
+  global_id: t-174232
   teiginys: 'Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-174233"></a>
 - t-008
+  global_id: t-174233
   teiginys: 'Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-174234"></a>
 - t-009
+  global_id: t-174234
   teiginys: 'Dalis vietos gyventojų, siekdami apsisaugoti nuo kryžiuočių, ieškojo prieglobsčio prie Vilniaus pilies.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-174235"></a>
 - t-010
+  global_id: t-174235
   teiginys: '1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-174236"></a>
 - t-011
+  global_id: t-174236
   teiginys: 'Po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nerasta.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-174237"></a>
 - t-012
+  global_id: t-174237
   teiginys: 'Vilniaus pilininkas ir miestiečiai, sumušę Kęstučio įgulą, Žemutinę ir Aukštutinę pilis atidavė Jogailai.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-174238"></a>
 - t-013
+  global_id: t-174238
   teiginys: '1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-174239"></a>
 - t-014
+  global_id: t-174239
   teiginys: '1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-174240"></a>
 - t-015
+  global_id: t-174240
   teiginys: '1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-174241"></a>
 - t-016
+  global_id: t-174241
   teiginys: 'Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai.'
   pagrindžia:
     - c-001

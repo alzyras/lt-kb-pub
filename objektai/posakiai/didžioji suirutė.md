@@ -16,7 +16,9 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
 
 ## Teiginiai
 
+<a id="claim-t-02087"></a>
 - t-001
+  global_id: t-02087
   teiginys: 'Maskvoje prasidėjęs perversmų periodas buvo vadinamas didžiąja suirute, arba smuta.'
   pagrindžia:
     - c-001

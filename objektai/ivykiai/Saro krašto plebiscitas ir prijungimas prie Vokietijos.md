@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-26404"></a>
 - t-001
+  global_id: t-26404
   teiginys: 'Plebiscitas Saro krašte ir jo prijungimas prie Vokietijos išgąsdino Lietuvos vadovus.'
   pagrindžia:
     - c-001

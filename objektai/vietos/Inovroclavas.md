@@ -18,7 +18,9 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
 
 ## Teiginiai
 
+<a id="claim-t-86190"></a>
 - t-001
+  global_id: t-86190
   teiginys: 'Vienas iš trijų į Vilnių pakviestų lenkų tapytojų buvo Vaitiekus Chelminskis iš Inovroclavo.'
   pagrindžia:
     - c-001

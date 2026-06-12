@@ -18,12 +18,16 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
 
 ## Teiginiai
 
+<a id="claim-t-86554"></a>
 - t-001
+  global_id: t-86554
   teiginys: 'Batoras reikalavo, kad Vilniaus miestiečiai mokėtų Czopowe ir Szosowe mokesčius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86555"></a>
 - t-002
+  global_id: t-86555
   teiginys: 'Szosowe buvo viena iš rinkliavų, kurias Vilniaus piliečiai ir pirkliai turėjo mokėti kartu su nustatytais muitais.'
   pagrindžia:
     - c-001

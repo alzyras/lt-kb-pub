@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Trečioji Smolensko apgultis ir nesėkmingas Dimitrijaus bandymas
 
 ## Santrauka
 
-Kojelavičius teigia, kad siusdamas iš gėdos, Dimitrijus po trečio nesėk mingo bandymo užimti miestą atgiežė apmaudą ant kaimų, nuniokodamas visą apylinkę.
+Po trečio nesėkmingo bandymo užimti Smolenską Dimitrijus nuniokojo miesto apylinkės kaimus.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185651"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad siusdamas iš gėdos, Dimitrijus po trečio nesėk mingo bandymo užimti miestą atgiežė apmaudą ant kaimų, nuniokodamas visą apylinkę.'
+  global_id: t-185651
+  teiginys: 'Po trečio nesėkmingo bandymo užimti Smolenską Dimitrijus nuniokojo miesto apylinkės kaimus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad siusdamas iš gėdos, Dimitrijus po trečio nesėk mingo bandymo užimti miestą atgiežė apmaudą ant kaimų, nuniokodamas visą apylinkę.'
+  santrauka: 'Po trečio nesėkmingo bandymo užimti Smolenską Dimitrijus nuniokojo miesto apylinkės kaimus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žymus karvedys Mikalojus Glebavičius jau bu­
@@ -55,3 +56,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Dimitrijus]]
+- [[objektai/asmenys/Sologubas]]
+- [[objektai/asmenys/Stanislovas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/įgula]]

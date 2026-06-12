@@ -26,7 +26,9 @@ Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m.
 
 ## Teiginiai
 
+<a id="claim-t-42440"></a>
 - t-001
+  global_id: t-42440
   teiginys: '1773–1775 m. delegacinis seimas Varšuvoje patvirtino 1772 m. Sankt Peterburge pasirašytas padalinimo sutartis.'
   pagrindžia:
     - c-001

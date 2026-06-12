@@ -29,7 +29,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01626"></a>
 - t-001
+  global_id: t-01626
   teiginys: 'Jogaila artinosi su kryžiuočiais, nes ieškojo paramos prieš vyresniuosius brolius, nepripažinusius jo valdžios.'
   pagrindžia:
     - c-001

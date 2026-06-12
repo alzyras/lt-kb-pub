@@ -19,7 +19,9 @@ Mes norime, kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar to
 
 ## Teiginiai
 
+<a id="claim-t-86585"></a>
 - t-001
+  global_id: t-86585
   teiginys: 'Cesijos ar decesijos būdu dominijos nuosavybę įgiję žmonės turėjo prisiimti ankstesnių savininkų mokėtas duokles.'
   pagrindžia:
     - c-001

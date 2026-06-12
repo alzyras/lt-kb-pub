@@ -28,27 +28,37 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 
 ## Teiginiai
 
+<a id="claim-t-59910"></a>
 - t-001
+  global_id: t-59910
   teiginys: 'Divanas, pravarde Klokinis, buvo bartų vadas ir su pagudėnu Linku bei didele kariuomene įsibrovė į Kulmo žemę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59911"></a>
 - t-002
+  global_id: t-59911
   teiginys: 'Dusburgietis teigia, kad kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-59912"></a>
 - t-003
+  global_id: t-59912
   teiginys: 'Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo giminaitį, vardu Dabaras, o visus jo žmones išžudė.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-59913"></a>
 - t-004
+  global_id: t-59913
   teiginys: 'Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu jie bematant.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-59914"></a>
 - t-005
+  global_id: t-59914
   teiginys: 'Prūsams atkritus nuo tikėjimo, bartai savo kariuomenės vadu ir vyresniuoju išsirinko Divaną.'
   pagrindžia:
     - c-002

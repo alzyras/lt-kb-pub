@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # alanai
 
 ## Santrauka
 
-Kojelavičius teigia, kad galimas daiktas, alanai, arba herulai (kurie, istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie pasitraukė iš tėvynės ir pasuko į tas žemes, kurios buvo tinkamiausios įsikurti ir neniokojamos karų. Kojelavičius teigia, kad gerokai pasistūmėję tolyn, jie persikėlė per Nevėžio upę ir nusigavo į vietas, kur gyveno alanai, arba lietuviai.
+Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į karų neniokojamas, įsikurti tinkamas žemes. Ateiviai persikėlė per Nevėžį ir pasiekė vietas, kuriose, pasak Kojelavičiaus, gyveno alanai, arba lietuviai.
 
 ## Teiginiai
 
+<a id="claim-t-185378"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad galimas daiktas, alanai, arba herulai (kurie, istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie pasitraukė iš tėvynės ir pasuko į tas žemes, kurios buvo tinkamiausios įsikurti ir neniokojamos karų.'
+  global_id: t-185378
+  teiginys: 'Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į karų neniokojamas, įsikurti tinkamas žemes.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185379"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad gerokai pasistūmėję tolyn, jie persikėlė per Nevėžio upę ir nusigavo į vietas, kur gyveno alanai, arba lietuviai.'
+  global_id: t-185379
+  teiginys: 'Ateiviai persikėlė per Nevėžį ir pasiekė vietas, kuriose, pasak Kojelavičiaus, gyveno alanai, arba lietuviai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad galimas daiktas, alanai, arba herulai (kurie, istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie pasitraukė iš tėvynės ir pasuko į tas žemes, kurios buvo tinkamiausios įsikurti ir neniokojamos karų.'
+  santrauka: 'Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į karų neniokojamas, įsikurti tinkamas žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gal, palikę Italiją, šia kryptimi pasuko tie, kurie no­
@@ -51,7 +54,7 @@ Kojelavičius teigia, kad galimas daiktas, alanai, arba herulai (kurie, istorijo
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad gerokai pasistūmėję tolyn, jie persikėlė per Nevėžio upę ir nusigavo į vietas, kur gyveno alanai, arba lietuviai.'
+  santrauka: 'Ateiviai persikėlė per Nevėžį ir pasiekė vietas, kuriose, pasak Kojelavičiaus, gyveno alanai, arba lietuviai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Toji sodyba, tada vadinama R om a n o va , paskui
@@ -74,3 +77,12 @@ Kojelavičius teigia, kad galimas daiktas, alanai, arba herulai (kurie, istorijo
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Herulai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Gotai]]
+- [[objektai/grupes/Hunai]]

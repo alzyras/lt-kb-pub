@@ -18,7 +18,9 @@ Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­ žiuočiai grį�
 
 ## Teiginiai
 
+<a id="claim-t-28524"></a>
 - t-001
+  global_id: t-28524
   teiginys: 'Jogailai įsiveržus į Dobrino žemę, kryžiuočiai grįžo atgal.'
   pagrindžia:
     - c-001

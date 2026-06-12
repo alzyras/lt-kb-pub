@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67247"></a>
 - t-001
+  global_id: t-67247
   teiginys: 'Užsidegus trobesiui kai kurie lietuviai nenorėdavo jo gesinti, nes ugnelę laikė šventą ir įsižeidžiančią.'
   pagrindžia:
     - c-001

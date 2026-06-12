@@ -24,7 +24,9 @@ Eckert, W.
 
 ## Teiginiai
 
+<a id="claim-t-31060"></a>
 - t-001
+  global_id: t-31060
   teiginys: 'W. Eckertas tyrė Kuršo Cedis kraštovaizdį ir kovą dėl Pietų Kuršo tarp Vokiečių ordino ir Lietuvos.'
   pagrindžia:
     - c-001

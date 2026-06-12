@@ -24,7 +24,9 @@ Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.
 
 ## Teiginiai
 
+<a id="claim-t-78125"></a>
 - t-001
+  global_id: t-78125
   teiginys: 'Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.'
   pagrindžia:
     - c-001

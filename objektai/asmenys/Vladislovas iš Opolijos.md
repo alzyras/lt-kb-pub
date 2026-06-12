@@ -18,7 +18,9 @@ Kandidatu į jaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo, dar
 
 ## Teiginiai
 
+<a id="claim-t-35323"></a>
 - t-001
+  global_id: t-35323
   teiginys: 'Vladislovas iš Opolijos buvo kandidatas į Jadvygos vyrus, bet lenkams nepatiko dėl kilmės iš Silezijos kunigaikščių giminės.'
   pagrindžia:
     - c-001

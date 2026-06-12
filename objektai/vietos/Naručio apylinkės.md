@@ -22,7 +22,9 @@ GariavaO p 2 KAISADORYS Riešė pyp AL Naručio apylinkėse puolė dvi partizan�
 
 ## Teiginiai
 
+<a id="claim-t-41956"></a>
 - t-001
+  global_id: t-41956
   teiginys: '1951 m. kovo 19 d. MGB vidaus kariuomenės kareiviai Naručio apylinkėse puolė dvi partizanų žemines.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą 
 
 ## Teiginiai
 
+<a id="claim-t-87645"></a>
 - t-001
+  global_id: t-87645
   teiginys: 'Radvila padovanojo savo gydytojui Cimermanui mūrinį namą ir sklypą, o karalius Žygimantas Augustas šį dovanojimą patvirtino.'
   pagrindžia:
     - c-001

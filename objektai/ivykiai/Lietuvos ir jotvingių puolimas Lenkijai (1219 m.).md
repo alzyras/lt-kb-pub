@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62859"></a>
 - t-001
+  global_id: t-62859
   teiginys: 'Dusburgietis teigia, kad lietuvos ir Jotvingių jėgos puolė vieną iš minėtos antiprūsiškosios koalicijos dalyvių — Lenkiją25.'
   pagrindžia:
     - c-002

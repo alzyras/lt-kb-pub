@@ -26,17 +26,23 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 
 ## Teiginiai
 
+<a id="claim-t-182770"></a>
 - t-001
+  global_id: t-182770
   teiginys: 'Variakojis su pirmuoju savanorių būriu paliko miestą ir atvyko į Kėdainius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183040"></a>
 - t-002
-  teiginys: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
+  global_id: t-183040
+  teiginys: 'Vienos Radvilų šeimos šakos centrai buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka Voluinėje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183041"></a>
 - t-003
+  global_id: t-183041
   teiginys: 'Kėdainių mokykla išgarsėjo, kai Radvilos Kėdainius darė protestantų kultūros centru.'
   pagrindžia:
     - c-003
@@ -66,7 +72,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - t-001
 
 - c-002
-  santrauka: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
+  santrauka: 'Vienos Radvilų šeimos šakos centrai buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka Voluinėje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pats

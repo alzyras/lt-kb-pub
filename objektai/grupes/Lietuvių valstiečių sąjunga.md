@@ -26,7 +26,9 @@ Lietuvos visuomenė dar nebuvo politiškai susipratusi.
 
 ## Teiginiai
 
+<a id="claim-t-168568"></a>
 - t-001
+  global_id: t-168568
   teiginys: 'Lietuvių valstiečių sąjunga minima tarp kairiųjų politinių grupių, kurios dar neturėjo organizuotų skyrių krašte.'
   pagrindžia:
     - c-001

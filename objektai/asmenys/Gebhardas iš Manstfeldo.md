@@ -26,7 +26,9 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 
 ## Teiginiai
 
+<a id="claim-t-60284"></a>
 - t-001
+  global_id: t-60284
   teiginys: 'Brolis Gebhardas iš Manstfeldo įmetė Viešpaties kryžiaus atskalą į ugnį, iš kurios ji iššoko daugelio žmonių akyse.'
   pagrindžia:
     - c-001

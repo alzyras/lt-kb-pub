@@ -16,7 +16,9 @@ Gudynas.
 
 ## Teiginiai
 
+<a id="claim-t-19459"></a>
 - t-001
+  global_id: t-19459
   teiginys: 'P. Gudynas buvo 1976 m. Vilniuje išleisto leidinio „Lietuvos tapyba“ sudarytojas.'
   pagrindžia:
     - c-001

@@ -26,12 +26,16 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
 
 ## Teiginiai
 
+<a id="claim-t-31046"></a>
 - t-001
+  global_id: t-31046
   teiginys: 'V. T. Pašuto parašė darbą „Choziajstvo i technika srednevekovoj Litvy“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-31047"></a>
 - t-002
+  global_id: t-31047
   teiginys: 'V. T. Pašuto parašė veikalą „Obrazovanie litovskogo gosudarstva“, kurio lietuviškas vertimas išėjo pavadinimu „Lietuvos valstybės susidarymas“.'
   pagrindžia:
     - c-002

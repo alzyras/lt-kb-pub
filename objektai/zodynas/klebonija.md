@@ -19,17 +19,23 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 
 ## Teiginiai
 
+<a id="claim-t-86471"></a>
 - t-001
+  global_id: t-86471
   teiginys: 'Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta klebonija tapo išties reikšmingiausia Žemaitijoje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86472"></a>
 - t-002
+  global_id: t-86472
   teiginys: 'Vladislovui Jogailai įsakius Vilniuje statyti Šv. Martyno bažnyčią, jos klebonija buvo aprūpinta lėšomis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86473"></a>
 - t-003
+  global_id: t-86473
   teiginys: 'Vilniaus katedra buvo aprūpinta pajamomis iš Klodovo klebonijos Gniezno diecezijoje ir kitų valdų.'
   pagrindžia:
     - c-002

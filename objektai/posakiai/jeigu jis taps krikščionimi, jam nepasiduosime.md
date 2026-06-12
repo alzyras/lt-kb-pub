@@ -25,7 +25,9 @@ Jeigu kronikininkas Wigandas teisingai užrašė, jie dar vidaus karo metu 1382 
 
 ## Teiginiai
 
+<a id="claim-t-100010"></a>
 - t-001
+  global_id: t-100010
   teiginys: 'Wigando kronikos duomenimis, 1382 m. vidaus karo metu žemaičiai įspėjo Jogailą, kad jam tapus krikščionimi nepasiduos.'
   pagrindžia:
     - c-001

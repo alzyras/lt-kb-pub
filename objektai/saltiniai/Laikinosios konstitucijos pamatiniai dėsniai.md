@@ -18,12 +18,16 @@ Taryba priėmė „Laikinės konstitucijos pamatinius dėsnius", kuriais ji pasi
 
 ## Teiginiai
 
+<a id="claim-t-67430"></a>
 - t-001
+  global_id: t-67430
   teiginys: 'Valstybės Taryba priėmė „Laikinės konstitucijos pamatinius dėsnius“, kuriais perėmė suvereninės Lietuvos galią.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67431"></a>
 - t-002
+  global_id: t-67431
   teiginys: '1919 m. balandžio 4 d. laikinės konstitucijos pamatiniai dėsniai buvo pakeisti, vietoj Valstybės Tarybos prezidiumo įsteigiant prezidento organą.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Teodozijų, kaipo kan­ didatą į Kijevo metropolitus, bet Konstantinopolyje ru
 
 ## Teiginiai
 
+<a id="claim-t-35295"></a>
 - t-001
+  global_id: t-35295
   teiginys: 'Po Ciprijono mirties Vytautas pristatė Polocko vyskupą Teodozijų Konstantinopolio patriarchui kaip kandidatą į Kijevo metropolitus.'
   pagrindžia:
     - c-001

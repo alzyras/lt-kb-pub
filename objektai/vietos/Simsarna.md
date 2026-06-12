@@ -16,7 +16,9 @@ Dusburgietis teigia, kad pasare) Sicilija Sidabro kalnas (netoli Gumbinės) Sido
 
 ## Teiginiai
 
+<a id="claim-t-58724"></a>
 - t-001
+  global_id: t-58724
   teiginys: 'Dusburgietis teigia, kad pasare) Sicilija Sidabro kalnas (netoli Gumbinės) Sidonas Siena Silezija Simsarna (dab.'
   pagrindžia:
     - c-001

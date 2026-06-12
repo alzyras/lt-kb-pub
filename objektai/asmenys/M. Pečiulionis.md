@@ -16,12 +16,16 @@ Pečiulionio vadovaujama nepilnos sudėties 4-oji baterija (3 patrankos). Pečiu
 
 ## Teiginiai
 
+<a id="claim-t-40318"></a>
 - t-001
+  global_id: t-40318
   teiginys: 'Karininkas M. Pečiulionis vadovavo nepilnos sudėties 4-ajai baterijai, turėjusiai tris patrankas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-40319"></a>
 - t-002
+  global_id: t-40319
   teiginys: 'K. Ladygos kolonos karius, supusius Kaniūkų kaimą, rėmė karininko M. Pečiulionio artilerija.'
   pagrindžia:
     - c-002

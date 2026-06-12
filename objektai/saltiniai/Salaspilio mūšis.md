@@ -28,17 +28,23 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
 
 ## Teiginiai
 
+<a id="claim-t-41578"></a>
 - t-001
+  global_id: t-41578
   teiginys: 'Salaspilio mūšio schemų viršus orientuotas į pietus, kad jos sutaptų su P. Snayerso paveikslu „Salaspilio mūšis“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41579"></a>
 - t-002
+  global_id: t-41579
   teiginys: 'Apie 1619 m. Pieterio Snayerso paveiksle „Salaspilio mūšis“ Lietuvos husarai vaizduojami naikinantys švedų pėstininkų batalioną.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183705"></a>
 - t-003
+  global_id: t-183705
   teiginys: 'Salaspilio mūšyje Karolio IX vadovaujami švedai tuoj pat pradėjo puolimą.'
   pagrindžia:
     - c-002

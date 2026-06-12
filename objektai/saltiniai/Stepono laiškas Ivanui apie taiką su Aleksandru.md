@@ -6,46 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Stepono laiškas Ivanui apie taiką su Aleksandru
 
 ## Santrauka
 
-Kojelavičius teigia, kad kelionėje jis gavo laišką iš karaliaus, kuris jį kvietė į Parčevo seimą. Kojelavičius teigia, kad maskvos valdovas per Joną Sapiegą, Alek sandro žygūną, pažadėjo pagalbą, bet kai suvokė, jog netrukus prasidės karas su valachais, pareikalavo, iš leidęs į kelią gausią pasiuntinybę, susilaikyti nuo ko vos, nes iš Stepono laiško jam paaiškėję, jog šis esąs.
+Iš Stepono laiško Maskvos valdovui paaiškėjo, kad Steponas ketino amžinai laikytis taikos su Aleksandru.
 
 ## Teiginiai
 
+<a id="claim-t-186305"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kelionėje jis gavo laišką iš karaliaus, kuris jį kvietė į Parčevo seimą.'
+  global_id: t-186305
+  teiginys: 'Iš Stepono laiško Maskvos valdovui paaiškėjo, kad Steponas ketino amžinai laikytis taikos su Aleksandru.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Kojelavičius teigia, kad maskvos valdovas per Joną Sapiegą, Alek sandro žygūną, pažadėjo pagalbą, bet kai suvokė, jog netrukus prasidės karas su valachais, pareikalavo, iš leidęs į kelią gausią pasiuntinybę, susilaikyti nuo ko vos, nes iš Stepono laiško jam paaiškėję, jog šis esąs.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kelionėje jis gavo laišką iš karaliaus, kuris jį kvietė į Parčevo seimą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Motinai išvykus, Aleksandras
-    su žmona ir žymiausiais didikais aplankė Rusią ir įsa­
-    kė pastatyti naujų sutvirtinimų, turėjusių ginti kraštą
-    nuo busimųjų užpuolimų. Kelionėje jis gavo laišką iš
-    karaliaus, kuris jį kvietė į Parčevo seimą. Tačiau laiš­
-    kas jį pasiekė per vėlai, ir Aleksandras nespėjo laiku
-    ten nuvykti.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kojelavičius teigia, kad maskvos valdovas per Joną Sapiegą, Alek sandro žygūną, pažadėjo pagalbą, bet kai suvokė, jog netrukus prasidės karas su valachais, pareikalavo, iš leidęs į kelią gausią pasiuntinybę, susilaikyti nuo ko vos, nes iš Stepono laiško jam paaiškėję, jog šis esąs.'
+  santrauka: 'Iš Stepono laiško Maskvos valdovui paaiškėjo, kad Steponas ketino amžinai laikytis taikos su Aleksandru.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pakvietė dėtis į są­
@@ -62,4 +41,4 @@ Kojelavičius teigia, kad kelionėje jis gavo laišką iš karaliaus, kuris jį 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

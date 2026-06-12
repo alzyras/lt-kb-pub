@@ -27,17 +27,23 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
 
 ## Teiginiai
 
+<a id="claim-t-71970"></a>
 - t-001
+  global_id: t-71970
   teiginys: 'Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederacijos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71971"></a>
 - t-002
+  global_id: t-71971
   teiginys: 'Aukščiau šios upės žiočių buvusi pilis ir šiandien yra vietovė Targovica (buvęs Ordos karinisadministracinis centras), pro kurią kelias iš pietų, nuo Juodosios jūros ir Krymo veda Lucko ir Kijevo link.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71972"></a>
 - t-003
+  global_id: t-71972
   teiginys: 'Targovicos konfederatams į pagalbą atėjusi Rusijos kariuomenė 1792 m. gegužės 22 d. įžengė į LDK prie Polocko.'
   pagrindžia:
     - c-002

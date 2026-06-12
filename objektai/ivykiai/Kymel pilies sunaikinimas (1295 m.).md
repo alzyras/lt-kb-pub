@@ -40,7 +40,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31436"></a>
 - t-001
+  global_id: t-31436
   teiginys: '1295 m. kryžiuočiai prie Nemuno sunaikino stiprią Kymel pilį.'
   pagrindžia:
     - c-001

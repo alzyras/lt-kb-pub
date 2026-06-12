@@ -17,7 +17,9 @@ Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, 
 
 ## Teiginiai
 
+<a id="claim-t-18931"></a>
 - t-001
+  global_id: t-18931
   teiginys: 'Ivanas Kornilovas Muravjovo kvietimu prisidėjo prie rusinimo politikos ir buvo paskirtas Vilniaus švietimo apygardos globėju.'
   pagrindžia:
     - c-001

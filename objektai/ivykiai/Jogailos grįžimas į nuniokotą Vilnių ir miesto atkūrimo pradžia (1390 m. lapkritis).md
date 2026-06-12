@@ -43,17 +43,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54707"></a>
 - t-001
+  global_id: t-54707
   teiginys: 'Moskoževskiui grąžinus Vilniaus seniūno pareigas, Jogaila jas pavedė Jonui Olesnickiui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54708"></a>
 - t-002
+  global_id: t-54708
   teiginys: 'Po Jogailos grįžimo išsisklaidę gyventojai pradėjo telktis ir statytis namus ant degėsių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54709"></a>
 - t-003
+  global_id: t-54709
   teiginys: '1390 m. lapkritį Jogaila su kariuomene grįžo iš Lenkijos į griuvėsiais virtusį Vilnių ir dalijo gyventojams atgabentas atsargas.'
   pagrindžia:
     - c-001

@@ -19,17 +19,23 @@ Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ s
 
 ## Teiginiai
 
+<a id="claim-t-35453"></a>
 - t-001
+  global_id: t-35453
   teiginys: 'Kochanovskis Kazimiero Didžiojo politikos kryptį į rytus vadino nemirštama politikos idėja.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-35454"></a>
 - t-002
+  global_id: t-35454
   teiginys: 'Kochanovskis uniją su Lietuva vadino genialia mintimi, pralenkusia ištisus amžius ir kartas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184239"></a>
 - t-003
+  global_id: t-184239
   teiginys: 'Kochanovskis Lenkijos ir Lietuvos unijos sumanymą vadino genialia mintimi, pralenkusia amžius ir kartas.'
   pagrindžia:
     - c-003

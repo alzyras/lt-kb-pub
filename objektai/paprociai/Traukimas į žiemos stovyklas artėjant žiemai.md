@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Traukimas į žiemos stovyklas artėjant žiemai
 
 ## Santrauka
 
-Kojelavičius teigia, kad lenkijos reikalai kvietė karalių važiuoti iš Lietuvos, artėjo žiema, netinkamas laikas karui, itin rūsti šiame krašte, kariams reikėjo trauk ti į žiemos stovyklas, tuo tarpu priešas, pasitraukęs iš kovos lauko ir pasislėpęs už miesto sienų, visai nedavė.
+Artėjant žiemai kariams reikėjo traukti į žiemos stovyklas, nes šis metas krašte laikytas netinkamu karui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185897"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad lenkijos reikalai kvietė karalių važiuoti iš Lietuvos, artėjo žiema, netinkamas laikas karui, itin rūsti šiame krašte, kariams reikėjo trauk ti į žiemos stovyklas, tuo tarpu priešas, pasitraukęs iš kovos lauko ir pasislėpęs už miesto sienų, visai nedavė.'
+  global_id: t-185897
+  teiginys: 'Artėjant žiemai kariams reikėjo traukti į žiemos stovyklas, nes šis metas krašte laikytas netinkamu karui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad lenkijos reikalai kvietė karalių važiuoti iš Lietuvos, artėjo žiema, netinkamas laikas karui, itin rūsti šiame krašte, kariams reikėjo trauk ti į žiemos stovyklas, tuo tarpu priešas, pasitraukęs iš kovos lauko ir pasislėpęs už miesto sienų, visai nedavė.'
+  santrauka: 'Artėjant žiemai kariams reikėjo traukti į žiemos stovyklas, nes šis metas krašte laikytas netinkamu karui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat nestigo priežasčių, vertusių pri­

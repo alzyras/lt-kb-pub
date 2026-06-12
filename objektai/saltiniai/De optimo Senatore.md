@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-88415"></a>
 - t-001
+  global_id: t-88415
   teiginys: 'Laurynas Goślickis labiausiai išgarsėjo lotyniškai parašyta knyga „De optimo Senatore“, kuri buvo išversta į anglų kalbą.'
   pagrindžia:
     - c-001

@@ -36,17 +36,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-09608"></a>
 - t-001
+  global_id: t-09608
   teiginys: 'Benziną padegamiesiems mišiniams, maistą ir statybines medžiagas gynybai tiekė gyventojai, maitinimo įmonės ir statybinės organizacijos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-09609"></a>
 - t-002
+  global_id: t-09609
   teiginys: 'Aukščiausiosios Tarybos gynybos metu Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios pagalbos ir medicininio vadovavimo punktą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-09610"></a>
 - t-003
+  global_id: t-09610
   teiginys: 'Rengiantis gynybai AT rūsyje įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla.'
   pagrindžia:
     - c-002

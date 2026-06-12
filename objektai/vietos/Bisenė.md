@@ -20,7 +20,6 @@ tags:
 amziai:
   - 'XIV'
 ---
-
 # Bisenė
 
 ## Santrauka
@@ -29,28 +28,38 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 
 ## Teiginiai
 
+<a id="claim-t-58379"></a>
 - t-001
+  global_id: t-58379
   teiginys: 'Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie, kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58380"></a>
 - t-002
+  global_id: t-58380
   teiginys: 'Dusburgietis teigia, kad apie 80 lietuvių žūtį 1316 metais Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir 60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies, turėjo iš čia pasitraukti, o į jų vietą ateiti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58381"></a>
 - t-003
+  global_id: t-58381
   teiginys: 'Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės ginklanešiais link Bisenės pilies irgi tuo laiku.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-58382"></a>
 - t-004
+  global_id: t-58382
   teiginys: 'Dusburgietis teigia, kad apie Bisenės papilių sudeginimą 1313 metais Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų, abu jos papiliai supleškėjo ugnyje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184933"></a>
 - t-005
-  teiginys: 'Kojelavičius teigia, kad baigiantis dve jų metų paliauboms, kryžiuo čių riteriai pradėjo rengti diniekur nestodami į tikrą kovą, pulkai, niokoję kraštą, buvo sutraukti prie Bisenės pilies, kurią jie ir apgulė.'
+  global_id: t-184933
+  teiginys: 'Kraštą niokoję pulkai buvo sutraukti prie Bisenės pilies ir ją apgulė.'
   pagrindžia:
     - c-005
 
@@ -128,7 +137,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-003
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad baigiantis dve jų metų paliauboms, kryžiuo čių riteriai pradėjo rengti diniekur nestodami į tikrą kovą, pulkai, niokoję kraštą, buvo sutraukti prie Bisenės pilies, kurią jie ir apgulė.'
+  santrauka: 'Kraštą niokoję pulkai buvo sutraukti prie Bisenės pilies ir ją apgulė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Apmalšinus žudynėmis širdis, kai, pykčiui lėgstant,

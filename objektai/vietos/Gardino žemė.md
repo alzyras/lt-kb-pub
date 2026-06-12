@@ -17,7 +17,9 @@ Gardino žemė su artimiausiomis pilimis buvo pradinis laimikis.
 
 ## Teiginiai
 
+<a id="claim-t-32171"></a>
 - t-001
+  global_id: t-32171
   teiginys: 'Gardino žemė su artimiausiomis pilimis buvo pradinis Mindaugo laimikis užimant Lietuvai artimiausias krivičių sritis.'
   pagrindžia:
     - c-001

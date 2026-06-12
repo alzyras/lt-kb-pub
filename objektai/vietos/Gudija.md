@@ -27,12 +27,16 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
 
 ## Teiginiai
 
+<a id="claim-t-67987"></a>
 - t-001
+  global_id: t-67987
   teiginys: 'Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas (Bychovco kronikoje jis čia pavadintas Ringaudu) 1234 m. kovojo prieš totorius «nuo saulės patekėjimo iki jos nusileidimo» prie Mohilnos (Nemuno aukštupio dabartinėje Gudijoje).'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67988"></a>
 - t-002
+  global_id: t-67988
   teiginys: 'Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.'
   pagrindžia:
     - c-001

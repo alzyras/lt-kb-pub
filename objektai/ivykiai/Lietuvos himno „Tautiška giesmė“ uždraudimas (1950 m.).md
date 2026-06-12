@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20298"></a>
 - t-001
+  global_id: t-20298
   teiginys: 'Lietuvos valstybingumą liudijusių paminklų vietose statytos sovietinio kario, V. Lenino ir J. Stalino statulos.'
   pagrindžia:
     - c-001

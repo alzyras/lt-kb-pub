@@ -17,7 +17,9 @@ Karpov, 1892) ir t.
 
 ## Teiginiai
 
+<a id="claim-t-29475"></a>
 - t-001
+  global_id: t-29475
   teiginys: 'G. F. Karpovas 1892 m. išleido SbRIO 35 tomą apie Lietuvos ir Lenkijos diplomatinius santykius su Maskva.'
   pagrindžia:
     - c-001

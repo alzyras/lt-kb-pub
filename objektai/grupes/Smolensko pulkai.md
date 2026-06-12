@@ -17,17 +17,23 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
 
 ## Teiginiai
 
+<a id="claim-t-81606"></a>
 - t-001
+  global_id: t-81606
   teiginys: 'Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-81607"></a>
 - t-002
+  global_id: t-81607
   teiginys: 'Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Vitebską ir paėmė Švitrigailą į nelaisvę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-81608"></a>
 - t-003
+  global_id: t-81608
   teiginys: 'Žalgirio mūšyje Smolensko pulkai liko centre tarp lietuvių ir lenkų, vadovaujami Lengvenio sūnaus Jurgio.'
   pagrindžia:
     - c-001

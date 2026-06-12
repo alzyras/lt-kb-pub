@@ -14,24 +14,25 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Nestanas
 
 ## Santrauka
 
-Kojelavičius teigia, kad visas valachų įgulas jis sumušė, o Nestaną, valdžiusį Teodoro vardu Podolę, paėmė Kamenece į nelaisvę ir išsiuntė į Vilnių.
+Algirdas Kamenece paėmė į nelaisvę Nestaną, Teodoro vardu valdžiusį Podolę, ir išsiuntė jį į Vilnių.
 
 ## Teiginiai
 
+<a id="claim-t-186242"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad visas valachų įgulas jis sumušė, o Nestaną, valdžiusį Teodoro vardu Podolę, paėmė Kamenece į nelaisvę ir išsiuntė į Vilnių.'
+  global_id: t-186242
+  teiginys: 'Algirdas Kamenece paėmė į nelaisvę Nestaną, Teodoro vardu valdžiusį Podolę, ir išsiuntė jį į Vilnių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad visas valachų įgulas jis sumušė, o Nestaną, valdžiusį Teodoro vardu Podolę, paėmė Kamenece į nelaisvę ir išsiuntė į Vilnių.'
+  santrauka: 'Algirdas Kamenece paėmė į nelaisvę Nestaną, Teodoro vardu valdžiusį Podolę, ir išsiuntė jį į Vilnių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi Teodoras buvo išvykęs (įkurdinęs pily­
@@ -63,3 +64,9 @@ Kojelavičius teigia, kad visas valachų įgulas jis sumušė, o Nestaną, vald�
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Valachai]]
+- [[objektai/zodynas/seniūnas]]

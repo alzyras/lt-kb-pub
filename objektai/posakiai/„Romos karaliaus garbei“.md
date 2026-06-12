@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41489"></a>
 - t-001
+  global_id: t-41489
   teiginys: '1431 m. birželio 19 d. Skirsnemunėje buvo pasirašyta sutartis su Ordinu „Romos karaliaus garbei“.'
   pagrindžia:
     - c-001

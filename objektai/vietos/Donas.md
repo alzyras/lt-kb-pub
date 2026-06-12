@@ -17,7 +17,9 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 
 ## Teiginiai
 
+<a id="claim-t-36196"></a>
 - t-001
+  global_id: t-36196
   teiginys: 'Vytautas žygiavo į Okos ir Dono aukštupius suvaldyti jam nepaklusnių kunigaikščių.'
   pagrindžia:
     - c-001

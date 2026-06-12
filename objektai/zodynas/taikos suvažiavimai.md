@@ -24,13 +24,17 @@ didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadi
 
 ## Teiginiai
 
+<a id="claim-t-52535"></a>
 - t-001
+  global_id: t-52535
   teiginys: 'Taikos suvažiavimai buvo visų taikos tarpininkų susirinkimai, skirti didesniems valstiečių reformos nesusipratimams spręsti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-52536"></a>
 - t-002
-  teiginys: 'Reformai atlikti buvo sudarytos apskrityse valstiečių komisijos, apskritys padalintos į apylinkes, kurių priešaky buvo pastatyti taikos tarpininkai, o didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadinami taikos suvažiavimais.'
+  global_id: t-52536
+  teiginys: 'Taikos suvažiavimai buvo visų taikos tarpininkų susirinkimai, skirti didesniems reformos vykdymo nesusipratimams spręsti.'
   pagrindžia:
     - c-001
 

@@ -25,7 +25,9 @@ Dusburgietis teigia, kad toppen M. Dusburgietis teigia, kad toeppen M. Historisc
 
 ## Teiginiai
 
+<a id="claim-t-60800"></a>
 - t-001
+  global_id: t-60800
   teiginys: 'M. Toppenas 1853 m. Berlyne išleido veikalą apie Prūsijos istoriografiją nuo Petro Dusburgiečio iki K. Schützo.'
   pagrindžia:
     - c-001

@@ -26,7 +26,9 @@ Adomas Honorijus Kir­ koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplank
 
 ## Teiginiai
 
+<a id="claim-t-88481"></a>
 - t-001
+  global_id: t-88481
   teiginys: 'Adomas Honorijus Kirkoras 1857–1858 m. leido „Teki Wileńskie“.'
   pagrindžia:
     - c-001

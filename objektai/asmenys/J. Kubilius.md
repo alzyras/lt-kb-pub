@@ -16,7 +16,9 @@ Kubiliaus vadovaujama kolona (Ukmergės atskirasis batalionas, pusė husarų esk
 
 ## Teiginiai
 
+<a id="claim-t-40157"></a>
 - t-001
+  global_id: t-40157
   teiginys: 'Kubiliaus vadovaujamas Ukmergės batalionas, nepaisydamas smarkios priešo ugnies, drąsiai veržėsi ir išmušė bolševikus iš jų apkasų, užėmė keletą kaimų.'
   pagrindžia:
     - c-001

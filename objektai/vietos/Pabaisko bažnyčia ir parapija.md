@@ -18,22 +18,30 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-173860"></a>
 - t-001
+  global_id: t-173860
   teiginys: 'Pabaisko bažnyčios ir klebonijos fundacijos privilegija buvo sudaryta 1544 metais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-173861"></a>
 - t-002
+  global_id: t-173861
   teiginys: 'Pabaisko parapijos ribos turėjo eiti nuo Širvintos upės iki Šventosios ir būti juosiamos Kertušos upės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-173862"></a>
 - t-003
+  global_id: t-173862
   teiginys: 'Pabaisko bažnyčia buvo pastatyta Šventosios Trejybės, Mergelės Marijos Ėmimo į dangų, šv. Egidijaus ir šv. Jurgio garbei.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-173863"></a>
 - t-004
+  global_id: t-173863
   teiginys: 'Pagal fundaciją nustatytose ribose karčemos turėjo priklausyti Pabaisko bažnyčiai.'
   pagrindžia:
     - c-001

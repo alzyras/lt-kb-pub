@@ -25,7 +25,9 @@ Dusburgietis teigia, kad trautmann R.
 
 ## Teiginiai
 
+<a id="claim-t-61326"></a>
 - t-001
+  global_id: t-61326
   teiginys: 'R. Trautmanno „Die altpreussischen Sprachdenkmäler“ išleista Getingene 1910 m.'
   pagrindžia:
     - c-001

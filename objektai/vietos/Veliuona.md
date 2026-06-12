@@ -30,118 +30,164 @@ saugoti Dubysos upyną.
 
 ## Teiginiai
 
+<a id="claim-t-180736"></a>
 - t-001
+  global_id: t-180736
   teiginys: 'Mes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį manytume buvus.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-180737"></a>
 - t-002
+  global_id: t-180737
   teiginys: 'Senoji Veliuonos piliavietė apėmė du kalnus prie Nemuno, sujungtus tiltu per gilią griovą.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-180738"></a>
 - t-003
+  global_id: t-180738
   teiginys: 'Gediminas žuvo 1337 m. mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-180739"></a>
 - t-004
+  global_id: t-180739
   teiginys: 'M. Michelbertas pateikė duomenų iš Rudaičių ir Veliuonos kapinynų.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-180740"></a>
 - t-005
+  global_id: t-180740
   teiginys: 'Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausė jiems.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-180741"></a>
 - t-006
+  global_id: t-180741
   teiginys: 'Yra tikra tiek, jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas.'
   pagrindžia:
     - c-017
 
+<a id="claim-t-180743"></a>
 - t-008
+  global_id: t-180743
   teiginys: 'Veliuona tikriausiai XIII a. buvo pastatyta kaip pilis Žemaitijos sienoms saugoti nuo kryžiuočių puldinėjimų.'
   pagrindžia:
     - c-016
 
+<a id="claim-t-180744"></a>
 - t-009
+  global_id: t-180744
   teiginys: '1418 m. Veliuonos derybose nepavyko nustatyti Žemaitijos sienų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-180746"></a>
 - t-010
+  global_id: t-180746
   teiginys: 'Atvykus naujai pagalbai Ordinui, „daug vokiečių, anglų“, kryžiuočiai vėl veikė prie Nemuno, rugpjūtį magistrui pavyko sunaikinti svarbią lietuvių Veliuonos pilį.'
   pagrindžia:
     - c-013
 
+<a id="claim-t-180747"></a>
 - t-011
+  global_id: t-180747
   teiginys: 'Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos.'
   pagrindžia:
     - c-018
 
+<a id="claim-t-180748"></a>
 - t-012
+  global_id: t-180748
   teiginys: 'Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos yra susimetę kryžiuočiai.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-180749"></a>
 - t-013
+  global_id: t-180749
   teiginys: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-180751"></a>
 - t-014
+  global_id: t-180751
   teiginys: 'Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies, per mylią nuo Veliuonos.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-180752"></a>
 - t-015
+  global_id: t-180752
   teiginys: 'Grįždami jie sudegino dar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai buvo rodžiusios tvirtą atsparumą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-180754"></a>
 - t-017
+  global_id: t-180754
   teiginys: 'Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausęs jiems.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-180755"></a>
 - t-018
+  global_id: t-180755
   teiginys: 'Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos ir galįs siekti Prūsijos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-180756"></a>
 - t-019
+  global_id: t-180756
   teiginys: 'Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos susitelkė kryžiuočiai.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-180757"></a>
 - t-020
+  global_id: t-180757
   teiginys: 'Tais metais maršalo vadovaujama Ordino kariuomenė, su talkininkais iš Vokietijos atplaukusi laivais, puolė Veliuonos pilį, padarė jai daug žalos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-180758"></a>
 - t-021
+  global_id: t-180758
   teiginys: 'Ilgai buvo klaidingai aiškinta, kad Gediminas žuvo per Veliuonos apgulimą 1338 m.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-180759"></a>
 - t-022
+  global_id: t-180759
   teiginys: 'Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.'
   pagrindžia:
     - c-015
 
+<a id="claim-t-180760"></a>
 - t-023
+  global_id: t-180760
   teiginys: 'M. Michelbertas pateikė Rudaičių ir Veliuonos kapinynų duomenų archeologiniuose leidiniuose.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-185171"></a>
 - t-025
-  teiginys: 'Kojelavičius teigia, kad nus prendė susitikti Veliuonoje, kur abi šalys turėjo aiškiai pasisakyti, ko nori: ar pratęsti jau sudarytą susitarimą, ąr susiderėti dėl amžinos taikos.'
+  global_id: t-185171
+  teiginys: 'Veliuonoje abi šalys turėjo tartis, ar pratęsti sudarytą susitarimą, ar sudaryti amžiną taiką.'
   pagrindžia:
     - c-019
 
+<a id="claim-t-185172"></a>
 - t-026
-  teiginys: 'Kojelavičius teigia, kad pasibai gus susitikimui, karalius kurį laiką pasiliko Veliuono je, norėdamas pailsėti, nes netoliese buvo vietų, tinka mų medžioklei ir poilsiui.'
+  global_id: t-185172
+  teiginys: 'Pasibaigus susitikimui karalius kurį laiką pasiliko Veliuonoje pailsėti, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.'
   pagrindžia:
     - c-020
 
@@ -537,7 +583,7 @@ saugoti Dubysos upyną.
     - t-011
 
 - c-019
-  santrauka: 'Kojelavičius teigia, kad nus prendė susitikti Veliuonoje, kur abi šalys turėjo aiškiai pasisakyti, ko nori: ar pratęsti jau sudarytą susitarimą, ąr susiderėti dėl amžinos taikos.'
+  santrauka: 'Veliuonoje abi šalys turėjo tartis, ar pratęsti sudarytą susitarimą, ar sudaryti amžiną taiką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sugrįžti nuo tikėjimo reikalų prie vals­
@@ -562,7 +608,7 @@ saugoti Dubysos upyną.
     - t-025
 
 - c-020
-  santrauka: 'Kojelavičius teigia, kad pasibai gus susitikimui, karalius kurį laiką pasiliko Veliuono je, norėdamas pailsėti, nes netoliese buvo vietų, tinka mų medžioklei ir poilsiui.'
+  santrauka: 'Pasibaigus susitikimui karalius kurį laiką pasiliko Veliuonoje pailsėti, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi kryžiuočiai

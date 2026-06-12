@@ -26,12 +26,16 @@ Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (
 
 ## Teiginiai
 
+<a id="claim-t-36344"></a>
 - t-001
+  global_id: t-36344
   teiginys: 'Kėzmarke Vytautas atmetė gundymą suardyti uniją ir siekė palenkti Zigmantą laikytis paliaubų su Lenkija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184306"></a>
 - t-002
+  global_id: t-184306
   teiginys: '1429 m., praėjus dvidešimt metų po Kėzmarko suvažiavimo, vėl iškilo Vytauto karūnos klausimas.'
   pagrindžia:
     - c-002

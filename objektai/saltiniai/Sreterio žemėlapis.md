@@ -23,7 +23,9 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 
 ## Teiginiai
 
+<a id="claim-t-61295"></a>
 - t-001
+  global_id: t-61295
   teiginys: 'XVIII–XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės žemupyje pažymėta Romanuppen.'
   pagrindžia:
     - c-001

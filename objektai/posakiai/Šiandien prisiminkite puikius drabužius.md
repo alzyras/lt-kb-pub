@@ -18,7 +18,9 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
 
 ## Teiginiai
 
+<a id="claim-t-59172"></a>
 - t-001
+  global_id: t-59172
   teiginys: 'Sembas Sklodas iš Kvedenavos ragino giminaičius prisiminti puikius drabužius, kurių jie dažnai gaudavo iš Ordino brolių.'
   pagrindžia:
     - c-001

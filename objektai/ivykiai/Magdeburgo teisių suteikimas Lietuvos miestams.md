@@ -44,17 +44,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66765"></a>
 - t-001
+  global_id: t-66765
   teiginys: 'Kai kuriems Lietuvos miestams buvo suteiktos savivaldybės, vadintos Magdeburgo teisėmis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66766"></a>
 - t-002
+  global_id: t-66766
   teiginys: 'Kaune Vytautas suteikė Magdeburgo teises (1408 m.) vokiečių pirkliams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66767"></a>
 - t-003
+  global_id: t-66767
   teiginys: 'Vytautas palaikė Lietuvos miestus ir suteikė jiems daugiau laisvės Magdeburgo miesto pavyzdžiu.'
   pagrindžia:
     - c-002

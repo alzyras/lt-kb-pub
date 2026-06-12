@@ -16,7 +16,9 @@ Abi pusi tą susitarimą patvirtino priesaiko- (^5) VMPL, I, nr.
 
 ## Teiginiai
 
+<a id="claim-t-100142"></a>
 - t-001
+  global_id: t-100142
   teiginys: 'Abi pusi tą susitarimą patvirtino priesaiko- (^5) VMPL, I, nr.'
   pagrindžia:
     - c-001

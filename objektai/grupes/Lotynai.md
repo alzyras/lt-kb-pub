@@ -23,7 +23,9 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
 
 ## Teiginiai
 
+<a id="claim-t-63146"></a>
 - t-001
+  global_id: t-63146
   teiginys: 'Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten lotynai 57 metus (Ptol.'
   pagrindžia:
     - c-001

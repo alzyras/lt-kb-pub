@@ -18,7 +18,9 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 
 ## Teiginiai
 
+<a id="claim-t-19967"></a>
 - t-001
+  global_id: t-19967
   teiginys: '1791 m. vasarą Stanislovas Augustas Poniatovskis rašė Prancūzijos steigiamajam susirinkimui apie kitą tautą Europoje.'
   pagrindžia:
     - c-001

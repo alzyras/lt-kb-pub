@@ -30,27 +30,37 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
 
 ## Teiginiai
 
+<a id="claim-t-78742"></a>
 - t-001
+  global_id: t-78742
   teiginys: 'Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie Lietuvos partizanų mūšius bendraautoris.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78743"></a>
 - t-002
+  global_id: t-78743
   teiginys: 'Arvydas Anušauskas yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autorius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78744"></a>
 - t-003
+  global_id: t-78744
   teiginys: 'Arvydas Anušauskas buvo Lietuvos naujausių laikų istorijos specialistas ir pripažintas rezistencinių kovų istorijos žinovas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78745"></a>
 - t-004
+  global_id: t-78745
   teiginys: '238-239, „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“, Arvydas Anušauskas, Karolis Zikaras, Loreta Uzdraitė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78746"></a>
 - t-005
+  global_id: t-78746
   teiginys: 'Tekstų apie mūšius i Arvydas Anušauskas (gimęs 1963 m.), 1989 m. baigė Vilniaus universitetą.'
   pagrindžia:
     - c-001

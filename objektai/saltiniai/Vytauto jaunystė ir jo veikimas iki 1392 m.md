@@ -28,7 +28,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31977"></a>
 - t-001
+  global_id: t-31977
   teiginys: 'Z. Ivinskio „Vytauto jaunystė ir jo veikimas iki 1392 m.“ paskelbtas 1930 m. Kaune išleistame rinkinyje „Vytautas Didysis“.'
   pagrindžia:
     - c-001

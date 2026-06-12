@@ -16,7 +16,9 @@ adjutantas Juozas Lapienis-Darius, pasidavė rinktinės vadas Stasys GimbutasTar
 
 ## Teiginiai
 
+<a id="claim-t-40237"></a>
 - t-001
+  global_id: t-40237
   teiginys: 'Šarūno rinktinės adjutantas Juozas Lapienis-Darius po nelygios kovos su okupantų kariuomene nusišovė.'
   pagrindžia:
     - c-001

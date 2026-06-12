@@ -17,22 +17,30 @@ Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai Onai paliktų privatini�
 
 ## Teiginiai
 
+<a id="claim-t-64013"></a>
 - t-001
+  global_id: t-64013
   teiginys: 'Ona (Zigmanto Augusto sesuo): zigmanto Augusto sesuo Ona (ta pati, kuri buvo numatyta žmona karaliui Henrikui ir kurią vedė Stp. Batoras).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64014"></a>
 - t-002
+  global_id: t-64014
   teiginys: 'Ona (Zigmanto Augusto sesuo): po jo mirties neliko jokių vyriškų įpėdinių (liko tik seserys, kurių viena — Ona — tebebuvo netekėjusi), tad turėjo prasidėti laisvai renkamųjų valdovų periodas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-64015"></a>
 - t-003
+  global_id: t-64015
   teiginys: 'Henrikas pasižadėjo vesti Zigmanto Augusto seserį Oną, kai jam buvo 23 metai, o jai 55 metai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-64016"></a>
 - t-004
+  global_id: t-64016
   teiginys: 'Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai Onai paliktų privatinių dvarų.'
   pagrindžia:
     - c-002

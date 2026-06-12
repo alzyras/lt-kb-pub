@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01592"></a>
 - t-001
+  global_id: t-01592
   teiginys: '1916 m. kovo 1–5 d. Berno konferencija paskelbė Lietuvos nepriklausomybės šūkį ir lietuvių tautos savarankiškumą.'
   pagrindžia:
     - c-001

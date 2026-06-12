@@ -16,7 +16,9 @@ Anas pomirtinis pasaulis buvo vadinamas dausomis; jis taip pat turėjo savo dvas
 
 ## Teiginiai
 
+<a id="claim-t-02967"></a>
 - t-001
+  global_id: t-02967
   teiginys: 'Anas pomirtinis pasaulis buvo vadinamas dausomis; jis taip pat turėjo savo dvasių bei dievų.'
   pagrindžia:
     - c-001

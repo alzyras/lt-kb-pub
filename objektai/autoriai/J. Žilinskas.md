@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-01068"></a>
 - t-001
+  global_id: t-01068
   teiginys: 'J. Žilinskas 1893 m. perėmė Susivienijimo vadovybę ir 1896–1902 m. redagavo jo organą „Tėvynę“.'
   pagrindžia:
     - c-001

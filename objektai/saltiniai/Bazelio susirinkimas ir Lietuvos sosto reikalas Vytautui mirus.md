@@ -23,7 +23,9 @@ Tai buvo, šaltiniais paremta studijėlė, « Bazelio susirinkimas ir Lietuvos s
 
 ## Teiginiai
 
+<a id="claim-t-31629"></a>
 - t-001
+  global_id: t-31629
   teiginys: '„Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus“ buvo šaltiniais paremta studijėlė, atspausta iš TK 1926 m.'
   pagrindžia:
     - c-001

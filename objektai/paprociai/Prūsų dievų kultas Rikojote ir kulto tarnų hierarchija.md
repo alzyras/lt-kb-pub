@@ -37,17 +37,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54329"></a>
 - t-001
+  global_id: t-54329
   teiginys: 'Prūsų dievų trejetą sudarė požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas ir javų dievas Patrimpas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54330"></a>
 - t-002
+  global_id: t-54330
   teiginys: 'Prūsų dievais laikyti požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183332"></a>
 - t-003
+  global_id: t-183332
   teiginys: 'Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų dievų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.'
   pagrindžia:
     - c-002

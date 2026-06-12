@@ -23,12 +23,16 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
 
 ## Teiginiai
 
+<a id="claim-t-58521"></a>
 - t-001
+  global_id: t-58521
   teiginys: 'Auktalitas buvo vėlesnis Auglitten kairiajame Alnos krante aukščiau Alenburgo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58522"></a>
 - t-002
+  global_id: t-58522
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Vonsdorfo žemė Kitais metais (1256) tas pats Karaliaučiaus komtūras vėl sutelkė stiprią kariuomenę ir patraukė į minėtąją Vonsdorfo žemę, ten pasistatė stovyklą, apsupdamas Auktalito pilį334, ir anksčiau.'
   pagrindžia:
     - c-002

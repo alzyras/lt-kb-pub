@@ -18,7 +18,9 @@ Karas susmulkėjo į eilę atskirų susirėmimų ir pilių apgulimų, kurių tik
 
 ## Teiginiai
 
+<a id="claim-t-32178"></a>
 - t-001
+  global_id: t-32178
   teiginys: 'Per karą iš apgultų pilių buvo paimtas tik Golubovas.'
   pagrindžia:
     - c-001

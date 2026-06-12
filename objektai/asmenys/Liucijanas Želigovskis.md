@@ -17,7 +17,9 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
 
 ## Teiginiai
 
+<a id="claim-t-19108"></a>
 - t-001
+  global_id: t-19108
   teiginys: 'Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vidurinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.'
   pagrindžia:
     - c-001

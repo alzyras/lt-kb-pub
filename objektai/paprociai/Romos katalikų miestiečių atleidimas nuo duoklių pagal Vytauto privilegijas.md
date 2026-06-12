@@ -45,12 +45,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87222"></a>
 - t-001
+  global_id: t-87222
   teiginys: 'Didesnioji Vilniaus miestiečių dalis buvo graikų apeigų tikėjimą išpažinę rusinai, todėl Vytautas neskubėjo vykdyti privilegijų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87223"></a>
 - t-002
+  global_id: t-87223
   teiginys: 'Vytauto 1424 m. Vilniui suteiktomis duoklių lengvatomis naudojosi tik Romos katalikų tikėjimą išpažinę miestiečiai.'
   pagrindžia:
     - c-001

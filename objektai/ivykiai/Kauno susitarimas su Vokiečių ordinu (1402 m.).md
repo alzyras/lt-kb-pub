@@ -41,17 +41,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-34452"></a>
 - t-001
+  global_id: t-34452
   teiginys: 'Kaune Vytautas be Lenkijos žinios suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus ir pažadėjo jam pagalbą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-34453"></a>
 - t-002
+  global_id: t-34453
   teiginys: 'Kitą dieną po Kauno susitarimo Vokiečių ordinas pažadėjo po Vytauto mirties globoti jo žmoną Oną ir ginti jos teises į jos dalį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184232"></a>
 - t-003
+  global_id: t-184232
   teiginys: 'Po Kauno susitarimo Ordinas atskiru dokumentu pažadėjo Vytautui mirus globoti Oną ir ginti jos teises į jos dalį.'
   pagrindžia:
     - c-003

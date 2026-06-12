@@ -20,7 +20,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Julijona
 
 ## Santrauka
@@ -29,48 +28,66 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 
 ## Teiginiai
 
+<a id="claim-t-05184"></a>
 - t-001
+  global_id: t-05184
   teiginys: 'Julijona buvo Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-05185"></a>
 - t-002
+  global_id: t-05185
   teiginys: 'Julijona paminėta Žemaičių dovanojimo dokumente kartu su kunigaikščio taryba.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05186"></a>
 - t-003
+  global_id: t-05186
   teiginys: 'Remiantis Torno analų žinia, Julijonos įtaka aiškinamas Jogailos atsisakymas judėti pas magistrą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-176500"></a>
 - t-004
-  teiginys: 'Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos — pastangomis.'
+  global_id: t-176500
+  teiginys: 'Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-176502"></a>
 - t-005
+  global_id: t-176502
   teiginys: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176503"></a>
 - t-006
+  global_id: t-176503
   teiginys: 'Remiantis Torno analų žinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis pas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva butų pakrikštyta lotynų apeigomis.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-176504"></a>
 - t-007
-  teiginys: 'Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną.'
+  global_id: t-176504
+  teiginys: 'Julijona buvo Tverės kunigaikščio sesuo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176505"></a>
 - t-008
+  global_id: t-176505
   teiginys: 'Po Onos mirties Vilniuje 1418 m. Vytautas nusprendė vesti jos dukterėčią Julijoną, Jono Algimantaičio dukterį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-184743"></a>
 - t-009
-  teiginys: 'Kojelavičius teigia, kad algirdas, nors viešai laikėsi stabmeldžių apeigų, ta čiau, neseniai savo žmonos Julijonos, Vitebsko kuni gaikščio dukters, noru sutikęs priimti krikščionybę, ne atmetė rusų apeigų ir rusams Vitebske pastatė porą šventovių.'
+  global_id: t-184743
+  teiginys: 'Algirdas žmonos Julijonos, Vitebsko kunigaikščio dukters, noru sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves.'
   pagrindžia:
     - c-007
 
@@ -99,6 +116,7 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     - t-005
 
 - c-002
+  santrauka: 'Julijona buvo Tverės kunigaikščio sesuo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Norėdamas turėti sąjungininką prieš Maskvą,
@@ -169,6 +187,7 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     - t-003
 
 - c-006
+  santrauka: 'Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu Jo-
@@ -188,7 +207,7 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     - t-004
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad algirdas, nors viešai laikėsi stabmeldžių apeigų, ta čiau, neseniai savo žmonos Julijonos, Vitebsko kuni gaikščio dukters, noru sutikęs priimti krikščionybę, ne atmetė rusų apeigų ir rusams Vitebske pastatė porą šventovių.'
+  santrauka: 'Algirdas žmonos Julijonos, Vitebsko kunigaikščio dukters, noru sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat rusai nuo senų senovės įpratę Velykų dieną do­
@@ -205,3 +224,36 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   statusas: verified
   pagrindžia:
     - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Julijona (Algirdo žmona)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/margutis]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/stabmeldžiai]]
+- [[objektai/asmenys/Dmitrijus Ivanovičius]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]
+- [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
+- [[objektai/asmenys/Kazimieras IV]]
+- [[objektai/asmenys/Michailas Aleksandrovičius]]
+- [[objektai/asmenys/Ona (Vytauto žmona)]]
+- [[objektai/asmenys/Petras (Vilniaus vyskupas)]]
+- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
+- [[objektai/ivykiai/Vytauto ir Julijonos santuoka]]
+- [[objektai/posakiai/nei žemės, nei žmonių]]
+- [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/paprociai/Graikų apeigų koplyčios laikymas Trakų pilyje]]
+- [[objektai/asmenys/Vyguntas]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/zodynas/stabmeldžių apeigos]]

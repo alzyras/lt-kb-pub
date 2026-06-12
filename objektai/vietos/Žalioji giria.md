@@ -28,17 +28,23 @@ atnaujinta: ''
 
 ## Teiginiai
 
+<a id="claim-t-08029"></a>
 - t-001
+  global_id: t-08029
   teiginys: 'Žalioji giria dengė vakarinę daugiau kaip šimtą mylių į rytus ir vakarus nusidriekusios kalvos pusę.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-08030"></a>
 - t-002
+  global_id: t-08030
   teiginys: 'Lietuviais vadinta getų tautos dalis po kruvinų karų įsitraukė į Žaliąją ir Juodąją girias.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-08031"></a>
 - t-003
+  global_id: t-08031
   teiginys: 'Algirdas iš Žaliosios girios per Įstrupį užpuolė krikščionis iš užpakalio.'
   pagrindžia:
     - c-001

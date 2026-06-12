@@ -19,33 +19,38 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
 
 ## Teiginiai
 
+<a id="claim-t-104176"></a>
 - t-001
+  global_id: t-104176
   teiginys: 'Klaipėdos krašto sujungimas su nepriklausomąja Lietuva siejamas su vietos lietuvių kultūrine veikla, gaivinusia tautišką sąmonę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-104177"></a>
 - t-002
+  global_id: t-104177
   teiginys: '„Birutės“ draugijos tikslas buvo stiprinti lietuviškumą ir kelti tautišką sąmonę.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-104178"></a>
 - t-003
+  global_id: t-104178
   teiginys: 'Tilžėje įkurtos „Birutės“ draugijos tikslas buvo stiprinti lietuviškumą ir kelti tautišką sąmonę.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-104180"></a>
 - t-004
-  teiginys: 'Jis tada jau reiškėsi ne vien peticijomis valdžiai ir kova dėl savo atstovų į parlamentą, bet ir kultūrine veikla.'
+  global_id: t-104180
+  teiginys: 'Prūsijos valdžiai siekiant išnaikinti lietuvių kalbą, Mažojoje Lietuvoje jau buvo prasidėjęs pačių lietuvių tautiškas susipratimas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182980"></a>
 - t-005
-  teiginys: 'Lietuvos lietuvių veikla ir tautiško susipratimo augimas Tuo metu, kai valdžia nusistatė visiškai išnaikinti lietuvių kalbą, o vokiečiai mokslininkai įkūrė draugiją naikinamosios tautos palaikams surinkti, jau buvo prasidėjęs ir pačių lietuvių susipratimas.'
-  pagrindžia:
-    - c-002
-
-- t-006
-  teiginys: 'Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lietuva Klaipėdos kraštas, tai buvo nuopelnas kultūrinio vietos lietuvių veikimo, gaivinusio tautišką sąmonę ir subūrusio jėgas.'
+  global_id: t-182980
+  teiginys: 'Klaipėdos krašto sujungimą su nepriklausoma Lietuva šaltinis sieja su vietos lietuvių kultūrine veikla ir tautiškos sąmonės gaivinimu.'
   pagrindžia:
     - c-001
 
@@ -66,9 +71,10 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
   statusas: verified
   pagrindžia:
     - t-001
-    - t-006
+    - t-005
 
 - c-002
+  santrauka: 'Prūsijos valdžiai siekiant išnaikinti lietuvių kalbą, Mažojoje Lietuvoje jau buvo prasidėjęs pačių lietuvių tautiškas susipratimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kultūrinė M. Lietuvos lietuvių veikla ir tautiško susipratimo**
@@ -85,7 +91,6 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
     - t-004
 
 - c-003

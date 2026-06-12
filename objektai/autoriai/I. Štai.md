@@ -24,7 +24,9 @@ Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudeg
 
 ## Teiginiai
 
+<a id="claim-t-88063"></a>
 - t-001
+  global_id: t-88063
   teiginys: 'I. Štai kartu su V. Pašuta parengė leidinį „Gedimino laiškai“, kuriuo remiamasi cituojant laiško vertimą.'
   pagrindžia:
     - c-001

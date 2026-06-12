@@ -30,17 +30,23 @@ Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro L
 
 ## Teiginiai
 
+<a id="claim-t-67370"></a>
 - t-001
+  global_id: t-67370
   teiginys: 'Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro Liubeko kronikos tęsinyje: tuo metu lietuviai prieš totorius kariavę tris kartus, dvejas kautynes laimėję, o prie Vorsklos patyrę nesėkmę; to meto žiniomis, tuose.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67371"></a>
 - t-002
+  global_id: t-67371
   teiginys: 'Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro Liubeko kronikos tęsinyje: tuo metu lietuviai prieš totorius kariavę tris kartus, dvejas kautynes laimėję, o prie Vorsklos patyrę nesėkmę;.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67372"></a>
 - t-003
+  global_id: t-67372
   teiginys: 'Detmaro Liubeko kronikos tęsinyje nurodyta, kad tuose mūšiuose žuvo 300 000 totorių, o Vytautas prarado 100 000 karių.'
   pagrindžia:
     - c-001

@@ -18,7 +18,9 @@ Dusburgietis teigia, kad juos išvydę, lenkai išsigandę visi išlakstė, išs
 
 ## Teiginiai
 
+<a id="claim-t-60384"></a>
 - t-001
+  global_id: t-60384
   teiginys: 'Dusburgietis teigia, kad juos išvydę, lenkai išsigandę visi išlakstė, išskyrus vieną riterį Martyną iš Krušvicos, vėliavininką, bei kunigaikštį Kazimierą, kuris nutarė tuoj pat kviestis į pagalbą Henriką iš Lichtenšteino.'
   pagrindžia:
     - c-001

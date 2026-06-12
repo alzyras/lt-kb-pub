@@ -27,7 +27,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87650"></a>
 - t-001
+  global_id: t-87650
   teiginys: '1440 m. balandį Vilniaus vaivada Daugirdas laikinai užėmė žemutinę Vilniaus pilį Švitrigailai.'
   pagrindžia:
     - c-001

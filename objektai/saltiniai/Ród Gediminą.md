@@ -24,7 +24,9 @@ Wolff = Wolff, Józef, Ród Gediminą.
 
 ## Teiginiai
 
+<a id="claim-t-34986"></a>
 - t-001
+  global_id: t-34986
   teiginys: 'Józefo Wolffo veikalas „Ród Gediminą“ buvo išleistas Krokuvoje 1886 m.'
   pagrindžia:
     - c-001

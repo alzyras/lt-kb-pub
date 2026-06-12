@@ -18,7 +18,9 @@ Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių praneš
 
 ## Teiginiai
 
+<a id="claim-t-64598"></a>
 - t-001
+  global_id: t-64598
   teiginys: 'Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių pranešimus (BeGeDO).'
   pagrindžia:
     - c-001

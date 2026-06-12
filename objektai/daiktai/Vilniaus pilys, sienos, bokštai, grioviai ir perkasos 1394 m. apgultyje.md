@@ -45,17 +45,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87066"></a>
 - t-001
+  global_id: t-87066
   teiginys: '1394 metų Vilniaus apgultyje didysis kunigaikštis įtvirtino įgulas abiejose pilyse ir mieste.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87067"></a>
 - t-002
+  global_id: t-87067
   teiginys: '1394 m. Švitrigaila mėgino užimti Vilnių, įkalbėdamas vienuolius padegti du medinius bokštus puolimo metu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87068"></a>
 - t-003
+  global_id: t-87068
   teiginys: 'Magistras tris savaites ir dvi dienas prie Vilniaus pilių daužė sienas ir bokštus, bet jų neužėmė dėl griovių ir perkasų.'
   pagrindžia:
     - c-001

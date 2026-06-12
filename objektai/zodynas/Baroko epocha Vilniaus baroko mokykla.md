@@ -17,7 +17,9 @@ buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, kurios pagrindinis a
 
 ## Teiginiai
 
+<a id="claim-t-21978"></a>
 - t-001
+  global_id: t-21978
   teiginys: 'XVIII a. susiformavo originali Vilniaus baroko mokykla, kurios pagrindiniu architektu laikomas Jonas Kristupas Glaubicas.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88441"></a>
 - t-001
+  global_id: t-88441
   teiginys: 'Lenkijos karalius laiške dėkojo didžiajam magistrui už atsiųstą rūmų gydytoją ir gyrė jo patyrimą.'
   pagrindžia:
     - c-001

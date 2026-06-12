@@ -41,52 +41,72 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-103827"></a>
 - t-001
+  global_id: t-103827
   teiginys: '1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku paliudijimu, kad Vilnius jau buvo Gedimino sostinė.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-103828"></a>
 - t-002
+  global_id: t-103828
   teiginys: '1323 m. spalio 2 d. Vilniuje Livonijos ordino ir vyskupų pasiuntiniai sudarė taiką, kurioje buvo nustatyti Rygai svarbūs prekybos reikalai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-103829"></a>
 - t-003
+  global_id: t-103829
   teiginys: 'Dusburgietis teigia, kad kryžiuočių ordinas visaip stengėsi sužlugdyti minėtąją 1323 m. spalio 2 d. sutartį: jau spalio 24 d. Livonijos ordinas raginamas ją nutraukti, po to imtasi žygių, kad nutrauktų sutartį Rygos miestas ir t.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-103830"></a>
 - t-004
+  global_id: t-103830
   teiginys: '1323 m. spalio 2 d. Vilniuje Livonijos ordino ir Livonijos vyskupų pasiuntiniai sudarė taiką su Gediminu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-103831"></a>
 - t-005
+  global_id: t-103831
   teiginys: '1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku paliudijimu, kad Vilnius jau buvo miestas ir Gedimino sostinė.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-103832"></a>
 - t-006
+  global_id: t-103832
   teiginys: 'Prūsų ordinas Vilniaus taikos nepripažino ir skatino siekti su Gediminu pasirašytos sutarties anuliavimo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-103833"></a>
 - t-007
+  global_id: t-103833
   teiginys: '1323 m. spalio 2 d. Vilniuje Livonijos ordinas ir Livonijos vyskupai sudarė taiką, kurioje aptarti ir Rygai svarbūs prekybos reikalai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-103834"></a>
 - t-008
+  global_id: t-103834
   teiginys: 'Po 1323 m. Vilniaus taikos Livonijos kryžiuočiai laikėsi oficialios taikos, nors Prūsų ordinas siekė sutarties anuliavimo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-103835"></a>
 - t-009
+  global_id: t-103835
   teiginys: 'Dusburgietis teigia, kad gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-103836"></a>
 - t-010
+  global_id: t-103836
   teiginys: '1323 m. Vilniaus taikoje buvo nustatyti ir Rygai svarbūs prekybos reikalai.'
   pagrindžia:
     - c-001

@@ -23,7 +23,9 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
 
 ## Teiginiai
 
+<a id="claim-t-77779"></a>
 - t-001
+  global_id: t-77779
   teiginys: 'Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Aušros vartų.'
   pagrindžia:
     - c-001

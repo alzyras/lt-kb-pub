@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jaunikaičių siuntimas puldinėti kaimynus karo mokymuisi
 
 ## Santrauka
 
-Kojelavičius teigia, kad dėdamasis, jog pagerbia šiuos aukštesnėmis pareigybėmis, jis išsiuntė juos toliau nuo rūmų, gal norėdamas sėkmingiau suklaidinti, o gal neduoti jiems progos perversmui: įsakė jiems vykti į kariuomenę, kad, puldinėdami kaimynus, jaunikaičiai pratintųsi ka.
+Erdivydas, Vykintas ir Tautvilas buvo išsiųsti į kariuomenę, kad puldinėdami kaimynus pratintųsi kariauti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185916"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad dėdamasis, jog pagerbia šiuos aukštesnėmis pareigybėmis, jis išsiuntė juos toliau nuo rūmų, gal norėdamas sėkmingiau suklaidinti, o gal neduoti jiems progos perversmui: įsakė jiems vykti į kariuomenę, kad, puldinėdami kaimynus, jaunikaičiai pratintųsi ka.'
+  global_id: t-185916
+  teiginys: 'Erdivydas, Vykintas ir Tautvilas buvo išsiųsti į kariuomenę, kad puldinėdami kaimynus pratintųsi kariauti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad dėdamasis, jog pagerbia šiuos aukštesnėmis pareigybėmis, jis išsiuntė juos toliau nuo rūmų, gal norėdamas sėkmingiau suklaidinti, o gal neduoti jiems progos perversmui: įsakė jiems vykti į kariuomenę, kad, puldinėdami kaimynus, jaunikaičiai pratintųsi ka.'
+  santrauka: 'Erdivydas, Vykintas ir Tautvilas buvo išsiųsti į kariuomenę, kad puldinėdami kaimynus pratintųsi kariauti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gyveno trys jauni­
@@ -57,3 +58,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Vykintas]]
+- [[objektai/asmenys/Tautvilas]]

@@ -17,7 +17,9 @@ Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, poliglotas
 
 ## Teiginiai
 
+<a id="claim-t-18912"></a>
 - t-001
+  global_id: t-18912
   teiginys: 'Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.'
   pagrindžia:
     - c-001

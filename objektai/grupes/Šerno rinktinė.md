@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41212"></a>
 - t-001
+  global_id: t-41212
   teiginys: '1946 m. rugpjūčio 20 d. jis tapo Šerno rinktinės vadu, o nuo 1945 m. Žebenkšties rinktinės štabo viršininku.'
   pagrindžia:
     - c-001

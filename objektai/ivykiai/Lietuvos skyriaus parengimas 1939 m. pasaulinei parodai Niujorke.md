@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20358"></a>
 - t-001
+  global_id: t-20358
   teiginys: '1939 m. pasaulinei parodai Niujorke Lietuvos Respublikos užsienio reikalų ministerija parengė specialų Lietuvos skyrių.'
   pagrindžia:
     - c-001

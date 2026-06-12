@@ -26,7 +26,9 @@ Išlikę dokumentai, iš įvairių rankų gauti, tai patikina.
 
 ## Teiginiai
 
+<a id="claim-t-88486"></a>
 - t-001
+  global_id: t-88486
   teiginys: 'Išlikę dokumentai, iš įvairių rankų gauti, tai patikina.'
   pagrindžia:
     - c-001

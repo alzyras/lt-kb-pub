@@ -30,62 +30,86 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 
 ## Teiginiai
 
+<a id="claim-t-171496"></a>
 - t-001
+  global_id: t-171496
   teiginys: 'Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-171497"></a>
 - t-002
+  global_id: t-171497
   teiginys: 'Bendrųjų Informacinių blokų sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS p. 29, „LEIČIAI - VALDOVO VALIOS ĮGYVENDINTOJAI“, Karolis Zikaras.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-171498"></a>
 - t-003
+  global_id: t-171498
   teiginys: 'Karolis Zikaras nurodytas prie teksto „Valstybės smukimas“.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-171499"></a>
 - t-004
+  global_id: t-171499
   teiginys: 'KARAS PO KARO p. 222-223, „PARTIZANŲ BUNKERIAI“, Karolis Zikaras.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-171500"></a>
 - t-005
+  global_id: t-171500
   teiginys: 'Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-171501"></a>
 - t-006
+  global_id: t-171501
   teiginys: 'VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE p. 115, „DIDYSIS ARTILERIJOS MENAS“, Karolis Zikaras.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-171502"></a>
 - t-007
+  global_id: t-171502
   teiginys: 'Autorių sąraše Karolis Zikaras apibūdinamas kaip Lietuvos karybos istorija, jos didaktika ir valstybingumo istorija besidomintis istorikas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-171504"></a>
 - t-008
+  global_id: t-171504
   teiginys: 'Karolis Zikaras nurodytas prie tekstų „1991 m. Sausio 13 d.“ ir „1991 m. Rugpjūčio Maskvos pučas“.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-171505"></a>
 - t-009
+  global_id: t-171505
   teiginys: 'Karolis Zikaras nurodytas prie teksto „Kryžiuočiai prieš Lietuvą XIV a.“'
   pagrindžia:
     - c-004
 
+<a id="claim-t-171506"></a>
 - t-010
+  global_id: t-171506
   teiginys: 'Karolis Zikaras nurodytas prie tekstų „Vyties kryžius“ ir „Šarvuotas traukinys Gediminas“.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-171507"></a>
 - t-011
+  global_id: t-171507
   teiginys: ', Karolis Zikaras, Loreta Uzdraitė.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-171508"></a>
 - t-012
+  global_id: t-171508
   teiginys: '236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras, Dalius Žygelis, Loreta Uzdraitė.'
   pagrindžia:
     - c-009

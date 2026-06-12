@@ -18,7 +18,9 @@ Pirmoji lietuvių moksleivių organizacija, įsteigta 1911 m., buvo „Ateitis".
 
 ## Teiginiai
 
+<a id="claim-t-01269"></a>
 - t-001
+  global_id: t-01269
   teiginys: '1911 m. įsteigta „Ateitis“ buvo pirmoji lietuvių moksleivių organizacija.'
   pagrindžia:
     - c-001

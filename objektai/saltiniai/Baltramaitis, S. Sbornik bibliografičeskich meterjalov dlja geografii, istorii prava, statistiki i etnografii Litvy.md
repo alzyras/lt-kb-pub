@@ -25,7 +25,9 @@ Silvestro Baltramaičio veikalas, nors jame rūpestingai sužymėta daug Lietuvo
 
 ## Teiginiai
 
+<a id="claim-t-29777"></a>
 - t-001
+  global_id: t-29777
   teiginys: 'Silvestro Baltramaičio veikalas sužymėjo daug Lietuvos istorijos bibliografijos, bet buvo gerokai pasenęs.'
   pagrindžia:
     - c-001

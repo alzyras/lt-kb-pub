@@ -25,7 +25,9 @@ Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo kunigaikštystė, k
 
 ## Teiginiai
 
+<a id="claim-t-28655"></a>
 - t-001
+  global_id: t-28655
   teiginys: 'Kijevo kunigaikštystė nuo Gedimino laikų buvo didžiojo Lietuvos kunigaikščio priklausomybėje.'
   pagrindžia:
     - c-001

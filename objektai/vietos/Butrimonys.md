@@ -25,12 +25,16 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
 
 ## Teiginiai
 
+<a id="claim-t-67762"></a>
 - t-001
+  global_id: t-67762
   teiginys: 'Italų renesanso tapybos žinovas Bernardas Berensonas buvo kilęs iš Butrimonių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67763"></a>
 - t-002
+  global_id: t-67763
   teiginys: 'Tokiu būdu iki liepos pabaigos lenkai užgrobė Merkine@®, Daugus Us), Butrimonis, Stakliskes (yp, Aukštadvarį @.'
   pagrindžia:
     - c-002

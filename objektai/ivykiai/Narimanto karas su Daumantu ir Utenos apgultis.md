@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Narimanto karas su Daumantu ir Utenos apgultis
 
 ## Santrauka
 
-Kojelavičius teigia, kad jis apgulė Uteną, kadangi ten buvo pasislėpęs svetimų žmonų viliotojas, nesitikėdamas sėk mės atvirame kovos lauke, nes labiau buvo linkęs prie piktadarybių nei prie karo.
+Narimantas apgulė Uteną, kur buvo pasislėpęs Daumantas, vengęs atviro mūšio lauko.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185625"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad jis apgulė Uteną, kadangi ten buvo pasislėpęs svetimų žmonų viliotojas, nesitikėdamas sėk mės atvirame kovos lauke, nes labiau buvo linkęs prie piktadarybių nei prie karo.'
+  global_id: t-185625
+  teiginys: 'Narimantas apgulė Uteną, kur buvo pasislėpęs Daumantas, vengęs atviro mūšio lauko.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad jis apgulė Uteną, kadangi ten buvo pasislėpęs svetimų žmonų viliotojas, nesitikėdamas sėk mės atvirame kovos lauke, nes labiau buvo linkęs prie piktadarybių nei prie karo.'
+  santrauka: 'Narimantas apgulė Uteną, kur buvo pasislėpęs Daumantas, vengęs atviro mūšio lauko.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     To­
@@ -57,3 +58,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]

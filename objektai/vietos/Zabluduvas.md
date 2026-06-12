@@ -16,7 +16,9 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 
 ## Teiginiai
 
+<a id="claim-t-21932"></a>
 - t-001
+  global_id: t-21932
   teiginys: '1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.'
   pagrindžia:
     - c-001

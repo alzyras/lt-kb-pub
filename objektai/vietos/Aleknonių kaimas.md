@@ -17,7 +17,9 @@ Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkinink
 
 ## Teiginiai
 
+<a id="claim-t-41586"></a>
 - t-001
+  global_id: t-41586
   teiginys: 'Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkininkų kluonų duris ir jomis kaip plaustais plaukė ežeru.'
   pagrindžia:
     - c-001

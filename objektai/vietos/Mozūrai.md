@@ -24,17 +24,23 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
 
 ## Teiginiai
 
+<a id="claim-t-52958"></a>
 - t-001
+  global_id: t-52958
   teiginys: 'Prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus, kai jų gynėjai išvykdavo namo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-52959"></a>
 - t-002
+  global_id: t-52959
   teiginys: 'Mozūrų kunigaikštis Konradas įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-52960"></a>
 - t-003
+  global_id: t-52960
   teiginys: 'Kryžeiviams išvykus, prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Oginskis spėjo sutelkti Chomske, ėmė supti Rusijos kariuomenės daliniai.
 
 ## Teiginiai
 
+<a id="claim-t-41641"></a>
 - t-001
+  global_id: t-41641
   teiginys: 'Chomske M. K. Oginskio sutelktą Lietuvos kariuomenę ėmė supti Rusijos kariuomenės daliniai.'
   pagrindžia:
     - c-001

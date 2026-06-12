@@ -18,12 +18,16 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
 
 ## Teiginiai
 
+<a id="claim-t-87577"></a>
 - t-001
+  global_id: t-87577
   teiginys: 'Sofijai Šimonovai suteiktos privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87578"></a>
 - t-002
+  global_id: t-87578
   teiginys: 'Bajorė Sofija Simonovna privalėjo mokėti kviečių dešimtinę iš visų Alberto Tžasibrodos žemės laukų.'
   pagrindžia:
     - c-001

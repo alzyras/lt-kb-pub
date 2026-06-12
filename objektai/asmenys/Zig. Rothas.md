@@ -17,7 +17,9 @@ Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­ mantas siuntė Vytautu
 
 ## Teiginiai
 
+<a id="claim-t-35395"></a>
 - t-001
+  global_id: t-35395
   teiginys: 'Zigmantas siuntė Zig. Rothą pas Vytautą kaip imperatoriaus atstovą aiškinti karūnacijos klausimų ir sklaidyti abejonių.'
   pagrindžia:
     - c-001

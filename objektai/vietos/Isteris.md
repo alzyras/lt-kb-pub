@@ -33,7 +33,9 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 
 ## Teiginiai
 
+<a id="claim-t-67995"></a>
 - t-001
+  global_id: t-67995
   teiginys: 'Isteris, arba Dunojus, yra viena iš didžiųjų pietinės įšleities upių.'
   pagrindžia:
     - c-001

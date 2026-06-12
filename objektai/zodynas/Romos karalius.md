@@ -18,12 +18,16 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 
 ## Teiginiai
 
+<a id="claim-t-36751"></a>
 - t-001
+  global_id: t-36751
   teiginys: 'Romos karalius laikytas galinčiu karūnuoti ir kurti karalystes be popiežiaus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-36752"></a>
 - t-002
+  global_id: t-36752
   teiginys: 'Krokuvos profesoriai teigė, kad Romos karalius Zigmantas negalėjo suteikti karūnos, nes pats nebuvo gavęs ciesoriaus titulo iš popiežiaus.'
   pagrindžia:
     - c-002

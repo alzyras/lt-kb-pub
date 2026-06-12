@@ -26,7 +26,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31930"></a>
 - t-001
+  global_id: t-31930
   teiginys: 'St. Zaskevičiaus „Trijų elementų reikšmė Tannenbergo kautynėse“ paskelbta 1930 m. kaip atspaudas iš MŽ.'
   pagrindžia:
     - c-001

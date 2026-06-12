@@ -19,17 +19,23 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
 
 ## Teiginiai
 
+<a id="claim-t-79827"></a>
 - t-001
+  global_id: t-79827
   teiginys: 'Mažoji Podolė buvo tarp Aukštutinio Pietinio Bugo ir Dniestro, į vakarus nuo minėtos mūšio vietos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-79828"></a>
 - t-002
+  global_id: t-79828
   teiginys: 'Algirdo remiami Karijotaičiai, įsitvirtinę Mažojoje Podolėje, vietiniams gyventojams pritariant, organizavo šio krašto gynybą nuo totorių puolimų bei grobimų, statė minėtas Smotričo, Bakotos, Kameneco pilis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79829"></a>
 - t-003
+  global_id: t-79829
   teiginys: 'Pietinių žemių (Kijevo, Mažosios Podolės ir kt.) išėmimas iš tiesioginės Aukso ordos valdžios vietiniams rusėnams, kaimyninėms Rytų Europos šalims (Lenkijai, iš dalies Moldavijai, Vengrijai) sudarė saugesnę padėtį rytuose.'
   pagrindžia:
     - c-002

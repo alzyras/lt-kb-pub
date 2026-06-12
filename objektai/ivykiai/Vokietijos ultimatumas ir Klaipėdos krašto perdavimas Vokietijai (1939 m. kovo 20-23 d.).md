@@ -41,22 +41,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75307"></a>
 - t-001
+  global_id: t-75307
   teiginys: 'Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75308"></a>
 - t-002
+  global_id: t-75308
   teiginys: '1939 m. kovo 23 d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos perdavimo sutartį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75309"></a>
 - t-003
+  global_id: t-75309
   teiginys: 'Lietuvai suduotas ir didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75310"></a>
 - t-004
+  global_id: t-75310
   teiginys: '1939 m. kovo 23 d. Adolfas Hitleris Klaipėdoje sakė kalbą vietos vokiečiams iš teatro balkono.'
   pagrindžia:
     - c-001

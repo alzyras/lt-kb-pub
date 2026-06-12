@@ -57,7 +57,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-169728"></a>
 - t-001
+  global_id: t-169728
   teiginys: 'Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, demokratiniais.'
   pagrindžia:
     - c-001

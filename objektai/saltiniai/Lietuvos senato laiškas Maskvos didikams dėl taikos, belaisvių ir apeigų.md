@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Lietuvos senato laiškas Maskvos didikams dėl taikos, belaisvių ir apeigų
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai pasiuntiniai, remdamiesi gryniausia tiesa, ėmė dėl visko teisintis bei žadėti, jog Aleksandras at silyginsiąs, išleisdamas į kelią aukštesnio rango pa siuntinius, ir pasistengsiąs rasti būdą taikai atnaujinti, jeigu jis liautųsi puldinėjęs kraštą, Ivanas.
+Jonas Zaberezinskis Lietuvos senato vardu įteikė Maskvos didikams laišką dėl taikos laikymosi, belaisvių švelnesnio traktavimo ir apeigų laisvės.
 
 ## Teiginiai
 
+<a id="claim-t-186338"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai pasiuntiniai, remdamiesi gryniausia tiesa, ėmė dėl visko teisintis bei žadėti, jog Aleksandras at silyginsiąs, išleisdamas į kelią aukštesnio rango pa siuntinius, ir pasistengsiąs rasti būdą taikai atnaujinti, jeigu jis liautųsi puldinėjęs kraštą, Ivanas.'
+  global_id: t-186338
+  teiginys: 'Jonas Zaberezinskis Lietuvos senato vardu įteikė Maskvos didikams laišką dėl taikos laikymosi, belaisvių švelnesnio traktavimo ir apeigų laisvės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai pasiuntiniai, remdamiesi gryniausia tiesa, ėmė dėl visko teisintis bei žadėti, jog Aleksandras at silyginsiąs, išleisdamas į kelią aukštesnio rango pa siuntinius, ir pasistengsiąs rasti būdą taikai atnaujinti, jeigu jis liautųsi puldinėjęs kraštą, Ivanas.'
+  santrauka: 'Jonas Zaberezinskis Lietuvos senato vardu įteikė Maskvos didikams laišką dėl taikos laikymosi, belaisvių švelnesnio traktavimo ir apeigų laisvės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai pasiuntiniai, remdamiesi gryniausia tiesa,

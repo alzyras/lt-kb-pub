@@ -28,52 +28,72 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
 
 ## Teiginiai
 
+<a id="claim-t-78427"></a>
 - t-001
+  global_id: t-78427
   teiginys: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).'
   pagrindžia:
     - c-005
 
+<a id="claim-t-78428"></a>
 - t-002
+  global_id: t-78428
   teiginys: 'Baigiantis Antrajam pasauliniam karui, bijodami artėjančios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-78429"></a>
 - t-003
+  global_id: t-78429
   teiginys: 'Tik Raudonajai armijai pralaimėjus prie Varšuvos, bolševikai „sukilimą“ atšaukė.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-78430"></a>
 - t-004
+  global_id: t-78430
   teiginys: 'Leidus parašyti Lietuvos istorijos sovietinę interpretaciją nustota dėkoti Raudonajai armijai už „išvadavimą“ iš lietuvių buržuazijos jungo 1940 m., nes sukonstruota socialistinės revoliucijos teorija, neva buvęs savarankiškas lietuvių tautos sprendimas.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-78431"></a>
 - t-005
+  global_id: t-78431
   teiginys: 'Jį, „pasipuošusį“ raudonomis vėliavomis, išmargintomis įvairiais šūkiais Lietuvių pajėgos Lietuvos kariuomenės kario kokarda Lietuvos karinė vadovybė turėjo žinių, kad Raudonoji armija planuoja pulti Kauną iš pietų.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-78432"></a>
 - t-006
+  global_id: t-78432
   teiginys: 'Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms po 1939 m. rudens buvo akivaizdus – Raudonosios armijos įgulos darė savo – lietuvių jaunimo dešinėje stiprėjo radikalus, nacionalistinis sparnas, kairėje – žydų ir lietuvių jaunimo dalis reiškė.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78433"></a>
 - t-007
+  global_id: t-78433
   teiginys: 'Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliucijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių kariuomenę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78434"></a>
 - t-008
+  global_id: t-78434
   teiginys: 'Lietuvos diplomatinė tarnyba ir išeivija Baigiantis Antrajam pasauliniam karui, bijodami artėjančios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-78435"></a>
 - t-009
+  global_id: t-78435
   teiginys: 'Daug laiko atėmė ir Raudonosios armijos, dislokuotos Lietuvoje, 20 000 kariškių reikmės – trūko kareivinių, patalpų, butų karininkams.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-78436"></a>
 - t-010
+  global_id: t-78436
   teiginys: 'Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 dienos manifestu deklaravo Sovietų Lietuvą.'
   pagrindžia:
     - c-002

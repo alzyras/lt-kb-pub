@@ -25,17 +25,23 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
 
 ## Teiginiai
 
+<a id="claim-t-77773"></a>
 - t-001
+  global_id: t-77773
   teiginys: 'Ženevoje pasiektus rezultatus Lietuva ir Lenkija laikė pergale, tačiau Vilnius dar labiau nutolo nuo Lietuvos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-77774"></a>
 - t-002
+  global_id: t-77774
   teiginys: 'Todėl tik 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjunga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį, socialinį, teisinį ir administracinį bendradarbiavimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77775"></a>
 - t-003
+  global_id: t-77775
   teiginys: 'Ženevoje Tautų Sąjungos Taryboje Juzefas Pilsudskis paklausė Augustino Voldemaro: „Karas ar taika?“'
   pagrindžia:
     - c-003

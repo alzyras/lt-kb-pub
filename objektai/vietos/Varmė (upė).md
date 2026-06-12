@@ -17,7 +17,9 @@ Dusburgietis teigia, kad kotelnikovas) Varmė, u.
 
 ## Teiginiai
 
+<a id="claim-t-58745"></a>
 - t-001
+  global_id: t-58745
   teiginys: 'Dusburgietis teigia, kad kotelnikovas) Varmė, u.'
   pagrindžia:
     - c-001

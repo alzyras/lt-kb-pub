@@ -28,42 +28,58 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-75050"></a>
 - t-001
+  global_id: t-75050
   teiginys: 'Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75051"></a>
 - t-002
+  global_id: t-75051
   teiginys: 'Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono sutarties 5-ajame straipsnyje.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-75052"></a>
 - t-003
+  global_id: t-75052
   teiginys: 'Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75053"></a>
 - t-004
+  global_id: t-75053
   teiginys: '1991 m. rugsėjo 17 d. Lietuva priimta į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuotas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75054"></a>
 - t-005
+  global_id: t-75054
   teiginys: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75055"></a>
 - t-006
+  global_id: t-75055
   teiginys: 'Vašingtono sutarties 5-asis straipsnis užtikrina, kad nė vienai šaliai nereikės kliautis savo pačios pastangomis ir ekonominiais ištekliais, jei iškils pavojus jos saugumui.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-75056"></a>
 - t-007
+  global_id: t-75056
   teiginys: 'NATO Vašingtono sutarties 5 straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus Aljanso narę.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-75057"></a>
 - t-008
+  global_id: t-75057
   teiginys: '2002 m. lapkritį Prahoje septynios NATO kandidatės – Bulgarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakviestos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.'
   pagrindžia:
     - c-002

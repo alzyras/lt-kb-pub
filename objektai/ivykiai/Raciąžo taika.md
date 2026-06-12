@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-100057"></a>
 - t-001
+  global_id: t-100057
   teiginys: '51, 74, 75, 86, 380 Raciąžo (Racionžo) taika 319-322, 330, 331, 334, 335, 343, 365 Raczyński Ed.'
   pagrindžia:
     - c-001

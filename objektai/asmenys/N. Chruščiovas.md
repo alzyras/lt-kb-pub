@@ -17,7 +17,9 @@ Chruščiovo laikais bažnyčią imta diskredituoti, spausti morališkai, nors i
 
 ## Teiginiai
 
+<a id="claim-t-19166"></a>
 - t-001
+  global_id: t-19166
   teiginys: 'N. Chruščiovo laikais bažnyčią imta diskredituoti ir morališkai spausti, nors iš trėmimų vietų sugrįžo 130 kunigų.'
   pagrindžia:
     - c-001

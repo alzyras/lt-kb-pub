@@ -24,7 +24,9 @@ Antonovič, V.
 
 ## Teiginiai
 
+<a id="claim-t-29450"></a>
 - t-001
+  global_id: t-29450
   teiginys: 'V. B. Antonovič su D. J. Ilovaiskiu 1887 m. Tarnopolyje paskelbė darbą apie Lietuvos Didžiąją Kunigaikštystę.'
   pagrindžia:
     - c-001

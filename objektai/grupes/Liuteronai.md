@@ -32,12 +32,16 @@ Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietu
 
 ## Teiginiai
 
+<a id="claim-t-45108"></a>
 - t-001
+  global_id: t-45108
   teiginys: 'Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietuvoje, vėliau ji vis labiau sutapo su vokiečiais, todėl liuteronų bendruomenės buvo pradėtos vadinti „vokiečių bendruomenėmis“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45109"></a>
 - t-002
+  global_id: t-45109
   teiginys: 'Antra vertus, tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendrijoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš Rusijos atsikeliantiems.'
   pagrindžia:
     - c-002

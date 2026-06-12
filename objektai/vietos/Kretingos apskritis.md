@@ -24,12 +24,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-38360"></a>
 - t-001
+  global_id: t-38360
   teiginys: 'P. Končius slapstėsi Latvijoje, vėliau Kretingos rajone, o 1965 m. apsuptas Kretingos saugumiečių nusišovė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183787"></a>
 - t-002
+  global_id: t-183787
   teiginys: '1945 m. vadovavo Kretingos apskrities partizanų Klevo kuopai.'
   pagrindžia:
     - c-002

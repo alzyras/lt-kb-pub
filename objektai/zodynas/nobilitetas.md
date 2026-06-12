@@ -23,7 +23,9 @@ Ji gavo europeiško nobiliteto pažymius — herbus ir nuo tų laikų palengva �
 
 ## Teiginiai
 
+<a id="claim-t-36817"></a>
 - t-001
+  global_id: t-36817
   teiginys: 'Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius – herbus.'
   pagrindžia:
     - c-001

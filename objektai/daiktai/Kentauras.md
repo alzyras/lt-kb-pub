@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kentauras
 
 ## Santrauka
 
-Kojelavičius teigia, kad pagal kilmę bei karinius nuopelnus buvo vardijami vadai: Palemonas, arba Publijus Libonas, herbo Stulpai, Julijonas Dausprungas;, kurio giminės herbas Kentauras, Prosperas Cezarinas — her bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba Rožynas.
+Kojelavičiaus pasakojime Julijono Dausprungo giminės herbas buvo Kentauras, kitados laikytas Lietuvos kunigaikštystės herbu.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185848"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pagal kilmę bei karinius nuopelnus buvo vardijami vadai: Palemonas, arba Publijus Libonas, herbo Stulpai, Julijonas Dausprungas;, kurio giminės herbas Kentauras, Prosperas Cezarinas — her bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba Rožynas.'
+  global_id: t-185848
+  teiginys: 'Kojelavičiaus pasakojime Julijono Dausprungo giminės herbas buvo Kentauras, kitados laikytas Lietuvos kunigaikštystės herbu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pagal kilmę bei karinius nuopelnus buvo vardijami vadai: Palemonas, arba Publijus Libonas, herbo Stulpai, Julijonas Dausprungas;, kurio giminės herbas Kentauras, Prosperas Cezarinas — her bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba Rožynas.'
+  santrauka: 'Kojelavičiaus pasakojime Julijono Dausprungo giminės herbas buvo Kentauras, kitados laikytas Lietuvos kunigaikštystės herbu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pagal kilmę bei karinius nuopelnus
@@ -62,3 +63,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Herbas]]
+- [[objektai/asmenys/Julijonas Dausprungas]]
+- [[objektai/daiktai/Stulpai]]

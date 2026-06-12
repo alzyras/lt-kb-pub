@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Karolio Didžiojo žygis prieš langobardus (776 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad neat sisakė padėti krikščionių valstybei Karolis Didysis: su galinga kariuomene įsiveržęs į Italiją, jis ne tik nuga lėjo lango bardus, bet, porą 776 m e ta i kartų juos sumušęs, padarė, kad išnyktų ir jų vardas.
+Karolis Didysis su galinga kariuomene įsiveržė į Italiją ir, du kartus sumušęs langobardus, juos nugalėjo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185803"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad neat sisakė padėti krikščionių valstybei Karolis Didysis: su galinga kariuomene įsiveržęs į Italiją, jis ne tik nuga lėjo lango bardus, bet, porą 776 m e ta i kartų juos sumušęs, padarė, kad išnyktų ir jų vardas.'
+  global_id: t-185803
+  teiginys: 'Karolis Didysis su galinga kariuomene įsiveržė į Italiją ir, du kartus sumušęs langobardus, juos nugalėjo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad neat sisakė padėti krikščionių valstybei Karolis Didysis: su galinga kariuomene įsiveržęs į Italiją, jis ne tik nuga lėjo lango bardus, bet, porą 776 m e ta i kartų juos sumušęs, padarė, kad išnyktų ir jų vardas.'
+  santrauka: 'Karolis Didysis su galinga kariuomene įsiveržė į Italiją ir, du kartus sumušęs langobardus, juos nugalėjo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius Deziderijus, tikėdamasis, jog Galija, Įsivėlusi
@@ -59,3 +60,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Karolis]]
+- [[objektai/asmenys/Karolis Didysis]]

@@ -53,12 +53,16 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
 
 ## Teiginiai
 
+<a id="claim-t-20821"></a>
 - t-001
+  global_id: t-20821
   teiginys: 'Privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios ir susidarė naujas verslininkų sluoksnis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-20822"></a>
 - t-002
+  global_id: t-20822
   teiginys: 'Privatizuojant valstybės turtą investiciniais čekiais, daugelis gyventojų čekius pardavė ir neprivatizavo savo būsto.'
   pagrindžia:
     - c-002

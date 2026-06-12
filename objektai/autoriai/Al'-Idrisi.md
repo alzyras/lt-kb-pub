@@ -24,7 +24,9 @@ Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'- Idrisi (1100-
 
 ## Teiginiai
 
+<a id="claim-t-30556"></a>
 - t-001
+  global_id: t-30556
   teiginys: 'Al''''-Idrisi, remdamasis pirklių, keliautojų ir piligrimų žiniomis, „Rogero knygoje“ minėjo rytų Pabaltijį ir galimai Kauną.'
   pagrindžia:
     - c-001

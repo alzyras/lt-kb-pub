@@ -26,12 +26,16 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
 
 ## Teiginiai
 
+<a id="claim-t-58612"></a>
 - t-001
+  global_id: t-58612
   teiginys: '1302 metais Perudžoje buvo nukirsdintas plėšikas, kuris, pasak kronikos, gerbė mergelę Mariją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58613"></a>
 - t-002
+  global_id: t-58613
   teiginys: 'Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje, brolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių.'
   pagrindžia:
     - c-002

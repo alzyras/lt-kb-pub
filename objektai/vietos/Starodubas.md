@@ -18,7 +18,6 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
-
 # Starodubas
 
 ## Santrauka
@@ -27,23 +26,31 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
 
 ## Teiginiai
 
+<a id="claim-t-69311"></a>
 - t-001
+  global_id: t-69311
   teiginys: 'Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-69312"></a>
 - t-002
+  global_id: t-69312
   teiginys: 'Nuvykęs Maskvon, jis prikalbėjo kunigaikštį Dimitrą žygiui į Lietuvą, ir šio kariuomenė 1379- 1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir Trubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo valdą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185155"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad sutelkę jėgas, visi kartu užpuolė Brianską ir dėl rusų klastingos išdavystės be vargo užėmė miestą, o netrukus prie išdavikų prisidėjo visa Seversko žemė — Černigovas, Starodubas, Naugardas ir Rylskas.'
+  global_id: t-185155
+  teiginys: 'Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-185156"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad po šio įvykio Glinskis, nelyginant sumažėjęs ne tik savo šalininkų, bet ir savo paties akyse, pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo.'
+  global_id: t-185156
+  teiginys: 'Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo.'
   pagrindžia:
     - c-004
 
@@ -80,7 +87,7 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
     - t-001
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad sutelkę jėgas, visi kartu užpuolė Brianską ir dėl rusų klastingos išdavystės be vargo užėmė miestą, o netrukus prie išdavikų prisidėjo visa Seversko žemė — Černigovas, Starodubas, Naugardas ir Rylskas.'
+  santrauka: 'Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kaip
@@ -105,7 +112,7 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad po šio įvykio Glinskis, nelyginant sumažėjęs ne tik savo šalininkų, bet ir savo paties akyse, pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo.'
+  santrauka: 'Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Maskvėnai tvirtino,

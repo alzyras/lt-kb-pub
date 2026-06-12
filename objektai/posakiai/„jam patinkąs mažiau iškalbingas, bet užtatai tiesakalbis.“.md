@@ -17,7 +17,9 @@ O kai vėl kartą jo akyse kažkas gyrė vieną iškalbingą kunigaikštį, Vyta
 
 ## Teiginiai
 
+<a id="claim-t-36031"></a>
 - t-001
+  global_id: t-36031
   teiginys: 'Vytautas, išgirdęs giriant iškalbingą kunigaikštį, tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis kunigaikštis.'
   pagrindžia:
     - c-001

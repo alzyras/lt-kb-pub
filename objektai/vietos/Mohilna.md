@@ -23,7 +23,9 @@ Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas (Bychovco kroniko
 
 ## Teiginiai
 
+<a id="claim-t-32373"></a>
 - t-001
+  global_id: t-32373
   teiginys: 'Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas (Bychovco kronikoje jis čia pavadintas Ringaudu) 1234 m. kovojo prieš totorius «nuo saulės patekėjimo iki jos nusileidimo» prie Mohilnos (Nemuno aukštupio dabartinėje Gudijoje).'
   pagrindžia:
     - c-001

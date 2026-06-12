@@ -25,7 +25,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-30551"></a>
 - t-001
+  global_id: t-30551
   teiginys: 'A. Šeptyckyj siejamas su 1964-1975 m. Romoje leistu „Monumenta Ucrainae Historica“ I-XII tomų leidiniu.'
   pagrindžia:
     - c-001

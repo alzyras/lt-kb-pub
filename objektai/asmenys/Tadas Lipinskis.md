@@ -17,7 +17,9 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 
 ## Teiginiai
 
+<a id="claim-t-87867"></a>
 - t-001
+  global_id: t-87867
   teiginys: 'Tadas Lipinskis kartu su Michału Balińskiu parengė tris „Senovės Lenkijos“ tomus.'
   pagrindžia:
     - c-001

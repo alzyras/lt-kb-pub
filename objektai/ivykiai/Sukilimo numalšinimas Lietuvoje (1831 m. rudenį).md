@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66913"></a>
 - t-001
+  global_id: t-66913
   teiginys: '1831 m. rudenį sukilimas Lietuvoje buvo numalšintas žiauriomis priemonėmis.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66914"></a>
 - t-002
+  global_id: t-66914
   teiginys: 'Dembinskiui išvykus, Lietuvoje nebeliko stipresnės sukilėlių pajėgos, o rusų kariuomenei teliko gaudyti sukilėlius.'
   pagrindžia:
     - c-001

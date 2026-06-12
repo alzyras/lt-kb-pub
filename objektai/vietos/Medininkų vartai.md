@@ -18,7 +18,9 @@ Beveik tuo pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką Dievu
 
 ## Teiginiai
 
+<a id="claim-t-86210"></a>
 - t-001
+  global_id: t-86210
   teiginys: 'Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trejybės cerkvę.'
   pagrindžia:
     - c-001

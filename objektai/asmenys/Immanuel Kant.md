@@ -23,7 +23,9 @@ Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai gebanti ats
 
 ## Teiginiai
 
+<a id="claim-t-78054"></a>
 - t-001
+  global_id: t-78054
   teiginys: 'Immanuelis Kantas Kristijono Gotlibo Milkaus žodyno pratarmėje aukštai įvertino lietuvių kalbą.'
   pagrindžia:
     - c-001

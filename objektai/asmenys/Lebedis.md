@@ -16,12 +16,16 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
 
 ## Teiginiai
 
+<a id="claim-t-87540"></a>
 - t-001
+  global_id: t-87540
   teiginys: 'Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr., 9 den.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87541"></a>
 - t-002
+  global_id: t-87541
   teiginys: 'Die 1 10 bris [gruodžio 1 dieną] Lebedis liet.'
   pagrindžia:
     - c-001

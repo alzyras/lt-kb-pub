@@ -16,7 +16,9 @@ Korsako) milicijos batalionas ir keli eskadronai bei keletas kitų smulkesnių s
 
 ## Teiginiai
 
+<a id="claim-t-40455"></a>
 - t-001
+  global_id: t-40455
   teiginys: 'T. Korsakas buvo Vilniaus pavieto žemės generolas majoras, kurio milicijos batalionas buvo įguloje.'
   pagrindžia:
     - c-001

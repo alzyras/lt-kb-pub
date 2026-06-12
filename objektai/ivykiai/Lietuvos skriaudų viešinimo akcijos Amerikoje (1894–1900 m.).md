@@ -34,17 +34,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66730"></a>
 - t-001
+  global_id: t-66730
   teiginys: 'Draugija kartu su Lietuvos inteligentais suorganizavo skyrių, kuriame rodė lietuviškus raštus ir lietuvių priespaudą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66731"></a>
 - t-002
+  global_id: t-66731
   teiginys: 'Be to, Amerikos lietuvių organizacijos kaip įmanydamos, dažniausiai pinigais, rėmė Lietuvoje veikiančius inteligentus ir jų organizacijas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66732"></a>
 - t-003
+  global_id: t-66732
   teiginys: '1894 m. lietuvių kolonijose dėl Kražių skerdynių vyko protestai ir gedulingi minėjimai, pasiekę Amerikos bei Europos spaudą.'
   pagrindžia:
     - c-002

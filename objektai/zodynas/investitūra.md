@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-36783"></a>
 - t-001
+  global_id: t-36783
   teiginys: 'Buvo teigiama, kad ir nekarūnuotas ciesorius turi teisę teikti karališkąsias investitūras.'
   pagrindžia:
     - c-001

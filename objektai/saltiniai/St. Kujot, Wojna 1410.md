@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31921"></a>
 - t-001
+  global_id: t-31921
   teiginys: 'St. Kujoto „Wojna 1410“ publikuota „Rocznik Towarzystwa Nauk w Toruniu“ 18 tome 1911 m., p. 157–159.'
   pagrindžia:
     - c-001

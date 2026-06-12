@@ -18,12 +18,16 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
 
 ## Teiginiai
 
+<a id="claim-t-40861"></a>
 - t-001
+  global_id: t-40861
   teiginys: 'Bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus, vadovavo Vincentas Gonsievskis, Povilas Sapiega, Kristupas ir Mykolas Pacai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183652"></a>
 - t-002
+  global_id: t-183652
   teiginys: 'Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklaravusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai, vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos, Kristupo ir Mykolo.'
   pagrindžia:
     - c-002

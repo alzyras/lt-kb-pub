@@ -18,7 +18,9 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
 
 ## Teiginiai
 
+<a id="claim-t-35455"></a>
 - t-001
+  global_id: t-35455
   teiginys: 'Koneczny kartu su Danilavičiumi tą dokumentą laikė falsifikatu, nors Prochaska jį priėmė kaip autentišką.'
   pagrindžia:
     - c-001

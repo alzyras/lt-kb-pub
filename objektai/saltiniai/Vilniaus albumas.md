@@ -23,32 +23,44 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
 
 ## Teiginiai
 
+<a id="claim-t-75528"></a>
 - t-001
+  global_id: t-75528
   teiginys: 'Vilčinskio „Vilniaus albumo“.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-75529"></a>
 - t-002
+  global_id: t-75529
   teiginys: 'J. K. Vilčinskio „Vilniaus albume“ pavaizduota Vilniaus katedra.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75530"></a>
 - t-003
+  global_id: t-75530
   teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-75531"></a>
 - t-004
+  global_id: t-75531
   teiginys: 'Vilniaus universiteto Didysis kiemas ir Šv.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75532"></a>
 - t-005
+  global_id: t-75532
   teiginys: 'J. K. Vilčinskio „Vilniaus albume“ pateiktas Vilniaus Verkių rūmų interjero vaizdas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75533"></a>
 - t-006
+  global_id: t-75533
   teiginys: 'J. K. Vilčinskio „Vilniaus albume“ paskelbtas P. Benoist 1848 m. Vilniaus Verkių rūmų interjero vaizdas.'
   pagrindžia:
     - c-005

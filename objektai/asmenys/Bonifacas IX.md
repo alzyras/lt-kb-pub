@@ -29,17 +29,23 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 
 ## Teiginiai
 
+<a id="claim-t-35040"></a>
 - t-001
+  global_id: t-35040
   teiginys: 'Bonifacas IX 1388–1404 m. kartu su kitais popiežiais siuntė į Malburgą bules, draudusias Vokiečių ordinui pulti lietuvius neofitus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-35042"></a>
 - t-002
+  global_id: t-35042
   teiginys: 'Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę tarp stačiatikių, patvirtindamas Vladimiro vyskupiją Volynijoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184254"></a>
 - t-003
+  global_id: t-184254
   teiginys: 'Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—1404) pasiuntė į Malburgą kelias bules, drausdami Vok.'
   pagrindžia:
     - c-003

@@ -29,17 +29,23 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-79202"></a>
 - t-001
+  global_id: t-79202
   teiginys: 'Po jo, 15 metų buvo caru jokiems dideliems žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim pasibaigė Kalitos dinastija.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-79203"></a>
 - t-002
+  global_id: t-79203
   teiginys: 'Lietuvai būdingą Desiukiškių tipo kalaviją Kijevo prijungimą tuo metu prie Lietuvos patvirtina faktas, kad vienalaikiai šaltiniai kiek vėliau, 1330-1331 m. jau aiškiai mini „Gedimino brolį“ Teodorą, Lietuvos valdovo vietininką Kijeve.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79204"></a>
 - t-003
+  global_id: t-79204
   teiginys: '1575 m. pasibaigus paliaubų laikui, caras dar nepradėjo karo, nes vis dar tikėjosi, kad jis pats arba jo sūnus Teodoras gaus Lietuvos ir Lenkijos sostus.'
   pagrindžia:
     - c-002

@@ -17,7 +17,9 @@ Berija ir apie ką jie kalbėjo, iki šiol nežinoma.
 
 ## Teiginiai
 
+<a id="claim-t-19104"></a>
 - t-001
+  global_id: t-19104
   teiginys: 'L. Berija lankė J. Žemaitį kameroje ir pripažino partizaninį karą Lietuvoje rimta grėsme sovietų valdymui.'
   pagrindžia:
     - c-001

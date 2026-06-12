@@ -24,7 +24,9 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 
 ## Teiginiai
 
+<a id="claim-t-58899"></a>
 - t-001
+  global_id: t-58899
   teiginys: '1324 m. popiežius Jonas XXII pagrasino ekskomunikuoti Ordiną.'
   pagrindžia:
     - c-001

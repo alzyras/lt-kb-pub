@@ -22,7 +22,9 @@ Dusburgietis teigia, kad vanagas A.
 
 ## Teiginiai
 
+<a id="claim-t-61340"></a>
 - t-001
+  global_id: t-61340
   teiginys: 'A. Vanago straipsnis „Galindai“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1965 m.'
   pagrindžia:
     - c-001

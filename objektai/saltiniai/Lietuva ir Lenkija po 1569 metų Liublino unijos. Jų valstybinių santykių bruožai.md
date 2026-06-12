@@ -27,7 +27,9 @@ Moksli­ niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenk
 
 ## Teiginiai
 
+<a id="claim-t-29918"></a>
 - t-001
+  global_id: t-29918
   teiginys: '„Lietuva ir Lenkija po 1569 metų Liublino unijos. Jų valstybinių santykių bruožai“ buvo plati disertacija, išspausdinta 1938 m.'
   pagrindžia:
     - c-001

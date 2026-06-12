@@ -17,7 +17,9 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
 
 ## Teiginiai
 
+<a id="claim-t-40977"></a>
 - t-001
+  global_id: t-40977
   teiginys: 'Vilniaus puolime balandžio 23 d. dalyvavo 50 LDK tribunolo vengrų vėliavos dalinio karių.'
   pagrindžia:
     - c-001

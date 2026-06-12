@@ -19,7 +19,9 @@ Pats miestas tiesiog visai sunai­ kintas, Kreivoji, arba Žemutinė, pilis, iš
 
 ## Teiginiai
 
+<a id="claim-t-88425"></a>
 - t-001
+  global_id: t-88425
   teiginys: 'Po kryžiuočių antpuolio Vilnius buvo smarkiai sunaikintas, o Kreivoji, arba Žemutinė, pilis sudeginta.'
   pagrindžia:
     - c-001

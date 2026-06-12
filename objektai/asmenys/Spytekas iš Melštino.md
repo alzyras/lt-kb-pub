@@ -17,7 +17,9 @@ Taip pat lenkų didikai paremdavo ir jo reikalus, kaip Spytkas iš Melštino, vy
 
 ## Teiginiai
 
+<a id="claim-t-96041"></a>
 - t-001
+  global_id: t-96041
   teiginys: 'Taip pat lenkų didikai paremdavo ir jo reikalus, kaip Spytkas iš Melštino, vysk.'
   pagrindžia:
     - c-001

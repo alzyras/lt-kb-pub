@@ -22,7 +22,9 @@ Po rinktinės vado suėmimo J.
 
 ## Teiginiai
 
+<a id="claim-t-39004"></a>
 - t-001
+  global_id: t-39004
   teiginys: 'Po rinktinės vado suėmimo J. Paliūnui pavyko pakrikusius partizanus suorganizuoti į Savanorio rinktinę.'
   pagrindžia:
     - c-001

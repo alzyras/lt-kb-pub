@@ -23,7 +23,9 @@ Plačiai pasiremdamas Kauno vyskupijos kurijos archyvine medžiaga, jis išleido
 
 ## Teiginiai
 
+<a id="claim-t-32026"></a>
 - t-001
+  global_id: t-32026
   teiginys: '„Žemaičiu vysk. M. Valančius“ išleistas 1923 m., plačiai remiantis Kauno vyskupijos kurijos archyvine medžiaga.'
   pagrindžia:
     - c-001

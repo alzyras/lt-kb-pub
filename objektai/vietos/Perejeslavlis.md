@@ -10,7 +10,6 @@ tags:
   - mūšis
   - vieta
 ---
-
 # Perejeslavlis
 
 ## Santrauka
@@ -19,13 +18,17 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
 
 ## Teiginiai
 
+<a id="claim-t-99942"></a>
 - t-001
+  global_id: t-99942
   teiginys: 'Jis pasidavė Maskvai, gaudamas Perejeslavlį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185083"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad užėmęs Brianską ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis išplėtė lietuvių valdų ribas ligi Putivlio.'
+  global_id: t-185083
+  teiginys: 'Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.'
   pagrindžia:
     - c-002
 
@@ -48,7 +51,7 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad užėmęs Brianską ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis išplėtė lietuvių valdų ribas ligi Putivlio.'
+  santrauka: 'Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gediminas, pasilsėjęs čia, kol artimiausios pi­

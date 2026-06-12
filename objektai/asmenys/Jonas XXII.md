@@ -30,17 +30,23 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 
 ## Teiginiai
 
+<a id="claim-t-183545"></a>
 - t-001
+  global_id: t-183545
   teiginys: 'Jonas XXII sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais kėlė bažnytinės unijos idėją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183840"></a>
 - t-002
+  global_id: t-183840
   teiginys: 'Jonas XXII pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali būti pateisinti, o kai kurie priekaištai suvis prasimanyti33.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-184095"></a>
 - t-003
+  global_id: t-184095
   teiginys: 'Dusburgietis teigia, kad apie popiežių Joną XXII ir išrinktus [karalius] 1316 viešpaties metais valdė Jonas XXII, popiežius, ir šie du per nesantarvę išrinkti karaliai.'
   pagrindžia:
     - c-004

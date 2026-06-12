@@ -19,22 +19,30 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
 
 ## Teiginiai
 
+<a id="claim-t-67298"></a>
 - t-001
+  global_id: t-67298
   teiginys: 'Kardinalinės teisės buvo surašytos atskirame įstatyme, o Rusijai pripažinta teisė prižiūrėti, kad jos nebūtų pakeistos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67299"></a>
 - t-002
+  global_id: t-67299
   teiginys: '1768 m. kardinalinės teisės buvo patvirtintos, o jų garantu vėl tapo Rusija ir jos sąjungininkės.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67300"></a>
 - t-003
+  global_id: t-67300
   teiginys: 'kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyti konfe- deracijos aktą, kuriuo kvietė prisidėti prie konfederacijos ir kara- lių, pripažino lygias teises kitatikiams, o Kotryną II prašė „priimti pareigą" saugoti Respublikos konstituciją, arba, kaip ją.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-67301"></a>
 - t-004
+  global_id: t-67301
   teiginys: 'Kardinalinės teisės paliko liberum veto, karalių elekciją ir bajorijos teisę neklausyti karaliaus, jei nevykdomi pacta conventa punktai.'
   pagrindžia:
     - c-003

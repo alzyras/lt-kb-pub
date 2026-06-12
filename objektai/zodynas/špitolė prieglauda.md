@@ -25,17 +25,23 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 
 ## Teiginiai
 
+<a id="claim-t-86430"></a>
 - t-001
+  global_id: t-86430
   teiginys: 'Pastatytai prieglaudai turėjo būti skiriama dalis tilto mokesčio ligonių maistui, drabužiams, vaistams ir kitoms reikmėms.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86431"></a>
 - t-002
+  global_id: t-86431
   teiginys: 'Švč. Trejybės prieglauda Vilniuje garsėjo labdaringa veikla.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86432"></a>
 - t-003
+  global_id: t-86432
   teiginys: 'Jonas Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Dominikonų ordino namas.
 
 ## Teiginiai
 
+<a id="claim-t-86178"></a>
 - t-001
+  global_id: t-86178
   teiginys: 'Dominikonų ordino namas.'
   pagrindžia:
     - c-001

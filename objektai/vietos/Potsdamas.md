@@ -17,7 +17,9 @@ Kalibras - 17,4 mm. Pagamintas Potsdame.
 
 ## Teiginiai
 
+<a id="claim-t-38531"></a>
 - t-001
+  global_id: t-38531
   teiginys: 'XVIII a. antrojoje pusėje Potsdame buvo pagamintas prūsiškas karabinas su titnagine spyna.'
   pagrindžia:
     - c-001

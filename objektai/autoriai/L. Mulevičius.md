@@ -24,7 +24,9 @@ Mulevičius 120.
 
 ## Teiginiai
 
+<a id="claim-t-30781"></a>
 - t-001
+  global_id: t-30781
   teiginys: 'L. Mulevičius rašė apie to laiko žemėvaldos klausimus.'
   pagrindžia:
     - c-001

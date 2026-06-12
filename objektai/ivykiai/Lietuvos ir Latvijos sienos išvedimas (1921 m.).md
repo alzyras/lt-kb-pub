@@ -35,22 +35,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66694"></a>
 - t-001
+  global_id: t-66694
   teiginys: 'Vedant Lietuvos ir Latvijos sieną, dalis lietuviškų valsčių atiteko Latvijai, o kai kurie latviški valsčiai ar jų dalys - Lietuvai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66695"></a>
 - t-002
+  global_id: t-66695
   teiginys: 'Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos sodybos, buvusios Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno gubernijos kaimai.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66696"></a>
 - t-003
+  global_id: t-66696
   teiginys: '1921 m. Lietuvos ir Latvijos siena buvo išvesta maždaug buvusios Kuršo gubernijos riba, padarius nedidelių pakeitimų abiejų valstybių naudai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66697"></a>
 - t-004
+  global_id: t-66697
   teiginys: 'Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena.'
   pagrindžia:
     - c-001

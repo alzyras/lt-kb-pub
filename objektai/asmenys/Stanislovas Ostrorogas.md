@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Stanislovas Ostrorogas
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai Vilniuje susirinko lietuvių seimas, atvyko čia Lenkijos pasiuntiniai Stanislovas Ostrorogas, Kališo vaivada, ir Jonas Ritvianskis, karalystės maršalas.
+Stanislovas Ostrorogas, Kališo vaivada, atvyko į Vilniaus lietuvių seimą kaip Lenkijos pasiuntinys.
 
 ## Teiginiai
 
+<a id="claim-t-186257"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai Vilniuje susirinko lietuvių seimas, atvyko čia Lenkijos pasiuntiniai Stanislovas Ostrorogas, Kališo vaivada, ir Jonas Ritvianskis, karalystės maršalas.'
+  global_id: t-186257
+  teiginys: 'Stanislovas Ostrorogas, Kališo vaivada, atvyko į Vilniaus lietuvių seimą kaip Lenkijos pasiuntinys.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai Vilniuje susirinko lietuvių seimas, atvyko čia Lenkijos pasiuntiniai Stanislovas Ostrorogas, Kališo vaivada, ir Jonas Ritvianskis, karalystės maršalas.'
+  santrauka: 'Stanislovas Ostrorogas, Kališo vaivada, atvyko į Vilniaus lietuvių seimą kaip Lenkijos pasiuntinys.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gavo jie tik tokį atsakymą, kad
@@ -39,3 +40,10 @@ Kojelavičius teigia, kad kai Vilniuje susirinko lietuvių seimas, atvyko čia L
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/ivykiai/Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.)]]

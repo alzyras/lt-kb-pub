@@ -10,47 +10,53 @@ tags:
   - asmuo
   - kunigaikštis
 ---
-
 # Sofija (Vytauto duktė)
 
 ## Santrauka
 
 Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. Šaltiniai ją sieja su Vosyliaus vedybų planu, Vytauto ryšiais su Maskva, protestu dėl Žemaitijos ir nepilnamečio sūnaus globos klausimu.
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/asmenys/Vosylius]]
-
 ## Teiginiai
 
+<a id="claim-t-176611"></a>
 - t-001
+  global_id: t-176611
   teiginys: 'Sofijos, Maskvos kunigaikštienės, vardu buvo įteiktas protestas prieš Žemaitijos atidavimą Ordinui po jos tėvo mirties.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-176612"></a>
 - t-002
+  global_id: t-176612
   teiginys: 'Po vyro mirties Sofija prašė Vytautą paimti jos sūnų Vosylių II globon, paliekant jam valstybę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-176613"></a>
 - t-003
+  global_id: t-176613
   teiginys: 'Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijos (Maskvos kunigaikštienės) ir Jogailos dukters Jadvygos (Lenkų karalaitės) vardu protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176614"></a>
 - t-004
+  global_id: t-176614
   teiginys: 'Jogaila, varžydamas Vytautą, be jo sutikimo uždraudė išleisti Sofiją už Maskvos kunigaikščio.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-176616"></a>
 - t-005
+  global_id: t-176616
   teiginys: 'Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184830"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad sofija (Vytauto duktė) turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti pasitikėjimą; karaliaus pasiuntinybei pas Vytautą vadovauti galop parinko Henriką, mozūrų kunigaikščio Zemovito sūnų, neseniai vainikuotą Plocko vyskupu.'
+  global_id: t-184830
+  teiginys: 'Vytautas Marienburge surengė dukteriai Sofijai, tekėjusiai už Maskvos kunigaikščio Vasilijaus, dideles palydėtuves.'
   pagrindžia:
     - c-006
 
@@ -138,7 +144,7 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
     - t-005
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad sofija (Vytauto duktė) turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti pasitikėjimą; karaliaus pasiuntinybei pas Vytautą vadovauti galop parinko Henriką, mozūrų kunigaikščio Zemovito sūnų, neseniai vainikuotą Plocko vyskupu.'
+  santrauka: 'Vytautas Marienburge surengė dukteriai Sofijai, tekėjusiai už Maskvos kunigaikščio Vasilijaus, dideles palydėtuves.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Priėmus nutarimą, ieškota žmogaus, kuriam be
@@ -166,3 +172,21 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   statusas: verified
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/Liberum veto]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
+- [[objektai/asmenys/Sofija Vytautaitė]]
+- [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
+- [[objektai/asmenys/Sofija]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)]]

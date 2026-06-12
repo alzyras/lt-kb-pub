@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad ne ilgai leido lietuviai vokiečiams laisvai siautėti; veda mi kunigaikščių Algirdo, Kęstučio ir Patriko, jie ne tikėtai užpuolė priešų stovyklą.
+Algirdo, Kęstučio ir Patriko vedami lietuviai netikėtai užpuolė vokiečių stovyklą, bet po kovos Kęstutis pateko į priešų rankas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185603"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad ne ilgai leido lietuviai vokiečiams laisvai siautėti; veda mi kunigaikščių Algirdo, Kęstučio ir Patriko, jie ne tikėtai užpuolė priešų stovyklą.'
+  global_id: t-185603
+  teiginys: 'Algirdo, Kęstučio ir Patriko vedami lietuviai netikėtai užpuolė vokiečių stovyklą, bet po kovos Kęstutis pateko į priešų rankas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad ne ilgai leido lietuviai vokiečiams laisvai siautėti; veda mi kunigaikščių Algirdo, Kęstučio ir Patriko, jie ne tikėtai užpuolė priešų stovyklą.'
+  santrauka: 'Algirdo, Kęstučio ir Patriko vedami lietuviai netikėtai užpuolė vokiečių stovyklą, bet po kovos Kęstutis pateko į priešų rankas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ne­
@@ -63,3 +64,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]

@@ -19,12 +19,16 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
 
 ## Teiginiai
 
+<a id="claim-t-30332"></a>
 - t-001
+  global_id: t-30332
   teiginys: 'Klemensas Moskorzewskis buvo Jogailos vietininkas, atlaikęs Kalno pilį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-30333"></a>
 - t-002
+  global_id: t-30333
   teiginys: 'O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo Klemensas Moskorzewskis.'
   pagrindžia:
     - c-001

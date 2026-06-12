@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Nifono laiškas rusams dėl Florencijos tikėjimo santarvės
 
 ## Santrauka
 
-Kojelavičius teigia, kad beje, d a r vienas dalykas užgavo jiems širdis: k a raliu s mat buvo išleidęs Rusai v e r č ia m i prigriežtus potvarkius, k u riais p a žin ti u n iją su Rosakėsi remiąs Florencijoje m o s b a žn y č ia sudarytą Romos bažnyčios su sitarimą su Rytų bažnyčia.
+Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, dėl kurios sutarė Jonas Paleologas ir Rytų bažnyčios patriarchai.
 
 ## Teiginiai
 
+<a id="claim-t-186342"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad beje, d a r vienas dalykas užgavo jiems širdis: k a raliu s mat buvo išleidęs Rusai v e r č ia m i prigriežtus potvarkius, k u riais p a žin ti u n iją su Rosakėsi remiąs Florencijoje m o s b a žn y č ia sudarytą Romos bažnyčios su sitarimą su Rytų bažnyčia.'
+  global_id: t-186342
+  teiginys: 'Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, dėl kurios sutarė Jonas Paleologas ir Rytų bažnyčios patriarchai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad beje, d a r vienas dalykas užgavo jiems širdis: k a raliu s mat buvo išleidęs Rusai v e r č ia m i prigriežtus potvarkius, k u riais p a žin ti u n iją su Rosakėsi remiąs Florencijoje m o s b a žn y č ia sudarytą Romos bažnyčios su sitarimą su Rytų bažnyčia.'
+  santrauka: 'Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, dėl kurios sutarė Jonas Paleologas ir Rytų bažnyčios patriarchai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Beje, d a r vienas dalykas užgavo jiems širdis:

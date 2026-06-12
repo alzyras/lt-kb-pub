@@ -17,7 +17,6 @@ amziai:
   - 'XIII'
   - 'XX'
 ---
-
 # vora
 
 ## Santrauka
@@ -26,20 +25,19 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
 
 ## Teiginiai
 
+<a id="claim-t-38785"></a>
 - t-001
+  global_id: t-38785
   teiginys: 'Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėlius ir Barklainius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184651"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad pirmoji apsupo Bisenės pilį ir po kovos, trukusios nuo Aušros ligi vi durdienio, užėmė ją bei sudegino; kita vora nuniokojo aplinkines žemes, tačiau, traukdami atgal, patyrė di delių nuostolių, nes Nemuno ledas, nepakankamai tuo metu tvirtas, neatlaikė jų.'
+  global_id: t-184651
+  teiginys: 'Girdila pasisiūlė siaurais miškų takais vesti kareivių voras, kad netikėtai užkluptų Aukaimio pilį.'
   pagrindžia:
     - c-002
-
-- t-003
-  teiginys: 'Kojelavičius teigia, kad galbūt norėdamas pa mėgdžioti Skomantą, kryžiuočių valia puolusį Lietuvą, Girdila (irgi neseniai pabėgęs iš Lietuvos) pasisiūlė takeliais kareivių voras, norėdamas netikėtai užklupti Aukaimio pilį.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -66,39 +64,7 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad pirmoji apsupo Bisenės pilį ir po kovos, trukusios nuo Aušros ligi vi durdienio, užėmė ją bei sudegino; kita vora nuniokojo aplinkines žemes, tačiau, traukdami atgal, patyrė di delių nuostolių, nes Nemuno ledas, nepakankamai tuo metu tvirtas, neatlaikė jų.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Mat šis, ki­
-    lęs iš Lietuvos didžiųjų ku­
-    nigaikščių, Treniotos ar Dau­
-    manto sūnus, persekiojamas
-    157
-
-    ## Puslapis 156
-
-    L ie tu v a
-    n io k o ja m a
-    k ry žiu o č ių
-    užšalęs Nemunas leido- leng­
-    vai persikelti ledu, įsiveržė
-    į Lietuvą vedami magistro
-    Konrado fon Tirbergo. Ka­
-    riuomenė žygiavo dviem voromis. Pirmoji apsupo Bi-
-    senės pilį ir po kovos, trukusios nuo Aušros ligi vi­
-    durdienio, užėmė ją bei sudegino; kita vora nuniokojo
-    aplinkines žemes, tačiau, traukdami atgal, patyrė di­
-    delių nuostolių, nes Nemuno ledas, nepakankamai tuo
-    metu tvirtas, neatlaikė jų svorio ir nemaža dalis ka­
-    riuomenės bei grobio paskendo verpetuose.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Kojelavičius teigia, kad galbūt norėdamas pa mėgdžioti Skomantą, kryžiuočių valia puolusį Lietuvą, Girdila (irgi neseniai pabėgęs iš Lietuvos) pasisiūlė takeliais kareivių voras, norėdamas netikėtai užklupti Aukaimio pilį.'
+  santrauka: 'Girdila pasisiūlė siaurais miškų takais vesti kareivių voras, kad netikėtai užkluptų Aukaimio pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kitų metų pradžioje
@@ -123,4 +89,17 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/asmenys/Girdila]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
+- [[objektai/asmenys/J. Mikoliūnas]]
+- [[objektai/asmenys/K. Dragunevičius]]
+- [[objektai/asmenys/Vytautas Landsbergis]]
+- [[objektai/asmenys/Fiodoras Ostrogiškis]]

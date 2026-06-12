@@ -23,7 +23,9 @@ Dusburgietis teigia, kad pakarklis P.
 
 ## Teiginiai
 
+<a id="claim-t-61213"></a>
 - t-001
+  global_id: t-61213
   teiginys: 'P. Pakarklio „Mažoji Lietuva vokiečių mokslo šviesoje“ išleistas 1935 m.'
   pagrindžia:
     - c-001

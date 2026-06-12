@@ -24,7 +24,9 @@ Przyczyny wojny , Roczn.
 
 ## Teiginiai
 
+<a id="claim-t-31604"></a>
 - t-001
+  global_id: t-31604
   teiginys: 'A. Prochaskos „Rok 1410. Przyczyny wojny“ išspausdintas 1910 m. Torunės mokslo draugijos metraštyje.'
   pagrindžia:
     - c-001

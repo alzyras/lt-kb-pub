@@ -59,22 +59,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-71676"></a>
 - t-001
+  global_id: t-71676
   teiginys: 'Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-71677"></a>
 - t-002
+  global_id: t-71677
   teiginys: 'Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus, grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-71680"></a>
 - t-003
+  global_id: t-71680
   teiginys: 'Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-71681"></a>
 - t-004
+  global_id: t-71681
   teiginys: 'Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė: 1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst.'
   pagrindžia:
     - c-001

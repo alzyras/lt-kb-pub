@@ -25,12 +25,16 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
 
 ## Teiginiai
 
+<a id="claim-t-42024"></a>
 - t-001
+  global_id: t-42024
   teiginys: '1609 m. kovo 14 d. Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė pasiekė Piarnu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-42025"></a>
 - t-002
+  global_id: t-42025
   teiginys: 'Mūšio išvakarėse Piarnu užėmimas užtikrino lietuviams saugų užnugarį ir leido tęsti karo veiksmus siekiant panaikinti Rygos miesto blokadą.'
   pagrindžia:
     - c-002

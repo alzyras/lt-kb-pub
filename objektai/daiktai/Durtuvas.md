@@ -36,17 +36,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39170"></a>
 - t-001
+  global_id: t-39170
   teiginys: 'Vėliau praktika parodė, kad durtuvų atakos metu persirikiuoti į liniją nebūtina.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-39171"></a>
 - t-002
+  global_id: t-39171
   teiginys: 'Dvylika žvalgų, susidūrę su keturiasdešimt lenkų raitelių, susispaudė į krūvą, atstatė durtuvus ir laukė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-39172"></a>
 - t-003
+  global_id: t-39172
   teiginys: 'Žvalgas, lenkui priartėjus, pašoko ir atkišo durtuvą jam į panosę.'
   pagrindžia:
     - c-003

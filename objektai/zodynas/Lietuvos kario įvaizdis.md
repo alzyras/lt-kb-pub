@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-80628"></a>
 - t-001
+  global_id: t-80628
   teiginys: 'Šio leidinio tikslas - per karų kulminacinius momentus (mūšius) parodyti ilgaamžę kovų už Lietuvos valstybę istoriją.'
   pagrindžia:
     - c-001

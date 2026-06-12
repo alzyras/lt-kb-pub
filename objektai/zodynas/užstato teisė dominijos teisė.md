@@ -18,7 +18,9 @@ IL 4U 326 ## Puslapis 343 IV KNYGA tautoms, kurios paprastai patenka jų globai,
 
 ## Teiginiai
 
+<a id="claim-t-86622"></a>
 - t-001
+  global_id: t-86622
   teiginys: 'Apskritys turėjo būti perduotos tik užstato, o ne dominijos teise.'
   pagrindžia:
     - c-001

@@ -30,12 +30,16 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
 
 ## Teiginiai
 
+<a id="claim-t-55095"></a>
 - t-001
+  global_id: t-55095
   teiginys: 'Apie 1345 m. Vilniaus prastuomenė, galbūt pakurstyta Perkūno garbintojų ar Rytų Bažnyčios išpažinėjų, smurtu užėmė pranciškonų vienuolyną ir nužudė vienuolius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55096"></a>
 - t-002
+  global_id: t-55096
   teiginys: 'Grzybowskio pasakojime Vilniaus miestiečiai 1341 m. vaizduojami kaip su totoriais puolę pranciškonų vienuolyną.'
   pagrindžia:
     - c-002

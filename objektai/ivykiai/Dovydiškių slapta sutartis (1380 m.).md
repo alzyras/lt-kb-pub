@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35827"></a>
 - t-001
+  global_id: t-35827
   teiginys: 'Vytautas dalyvavo Dovydiškių medžioklėje, bet nepastebėjo, kad buvo sudaryta slapta sutartis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184231"></a>
 - t-002
+  global_id: t-184231
   teiginys: 'Dovydiškių slaptos sutarties sudarymo Vytautas nepastebėjo, nors dalyvavo medžioklėje.'
   pagrindžia:
     - c-002

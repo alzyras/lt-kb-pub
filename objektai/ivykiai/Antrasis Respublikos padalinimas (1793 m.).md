@@ -44,17 +44,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66451"></a>
 - t-001
+  global_id: t-66451
   teiginys: 'Siekiant dar labiau susilpninti Abiejų Tautų Respubliką, 1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl jos II padalijimo, po kurio Abiejų Tautų Respublika neteko apie 300 tūkst.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66452"></a>
 - t-002
+  global_id: t-66452
   teiginys: '1793 m. dalybų sutartimi Prūsijai turėjo atitekti dideli Lenkijos plotai tarp abiejų Prūsų karalystės dalių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66453"></a>
 - t-003
+  global_id: t-66453
   teiginys: 'Po 1793 m. okupacijų Rusijai ir Prūsijai reikėjo gauti karaliaus bei seimo padalinimo patvirtinimą ir sudaryti naują taikos sutartį.'
   pagrindžia:
     - c-002

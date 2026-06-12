@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86266"></a>
 - t-001
+  global_id: t-86266
   teiginys: '4to, Virogorų ežerą su žeme, miškais, lankomis tie patys tėvai jėzuitai pasisavino.'
   pagrindžia:
     - c-001

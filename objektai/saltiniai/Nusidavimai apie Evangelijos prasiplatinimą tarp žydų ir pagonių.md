@@ -17,12 +17,16 @@ Tai buvo 1832 m. pradėtas leisti misijų laikraštis „Nusidavimai apie Evange
 
 ## Teiginiai
 
+<a id="claim-t-02255"></a>
 - t-001
+  global_id: t-02255
   teiginys: '„Nusidavimai apie Evangelijos prasiplatinimą tarp žydų ir pagonių“ buvo 1832 m. pradėtas leisti misijų laikraštis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-02256"></a>
 - t-002
+  global_id: t-02256
   teiginys: '„Nusidavimai apie Evangelijos prasiplatinimą tarp žydų ir pagonių“ buvo pirmasis lietuviškas laikraštis.'
   pagrindžia:
     - c-002

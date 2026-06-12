@@ -22,7 +22,9 @@ Dievo Krėslo miške aptiko Edmundo Rekašiaus-Lakūno vadovaujamų Žarėnų ku
 
 ## Teiginiai
 
+<a id="claim-t-41678"></a>
 - t-001
+  global_id: t-41678
   teiginys: '1949 m. gegužės 21 d. Dievo Krėslo miške MGB 32-asis šaulių pulkas aptiko Žarėnų kuopos partizanų stovyklą.'
   pagrindžia:
     - c-001

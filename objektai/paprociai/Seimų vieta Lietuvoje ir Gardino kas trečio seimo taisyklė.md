@@ -39,32 +39,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67202"></a>
 - t-001
+  global_id: t-67202
   teiginys: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67203"></a>
 - t-002
+  global_id: t-67203
   teiginys: 'Buvo reikalaujama, kad seimai būtų šaukiami Lietuvoje arba bent pasienyje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67204"></a>
 - t-003
+  global_id: t-67204
   teiginys: 'Lietuvos atstovai 1673 m. seime išreikalavo įstatymą, kad kas trečias seimas su lietuviu maršalka būtų šaukiamas Gardine.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-67205"></a>
 - t-004
+  global_id: t-67205
   teiginys: 'Įstatymas, kad kas trečias seimas būtų šaukiamas Lietuvoje, buvo vykdomas iki Respublikos pabaigos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67206"></a>
 - t-005
+  global_id: t-67206
   teiginys: '1673 m. pakeistas seimų vietos įstatymas nustatė, kad kas trečias seimas su lietuviu maršalka rinktųsi Gardine.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67207"></a>
 - t-006
+  global_id: t-67207
   teiginys: 'Be to, tas pats įstatymas pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo Lietuvoje.'
   pagrindžia:
     - c-002

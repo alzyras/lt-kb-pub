@@ -25,7 +25,9 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
 
 ## Teiginiai
 
+<a id="claim-t-86191"></a>
 - t-001
+  global_id: t-86191
   teiginys: 'Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spaso) bažnyčia ir penktuosius - nuo Pilies.'
   pagrindžia:
     - c-001

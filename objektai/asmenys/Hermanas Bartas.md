@@ -25,7 +25,9 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
 
 ## Teiginiai
 
+<a id="claim-t-60325"></a>
 - t-001
+  global_id: t-60325
   teiginys: 'Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė gegužės 20 dieną ir palaidotas Akone157.'
   pagrindžia:
     - c-001

@@ -28,50 +28,66 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
 
 ## Teiginiai
 
+<a id="claim-t-74943"></a>
 - t-001
+  global_id: t-74943
   teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-74944"></a>
 - t-002
+  global_id: t-74944
   teiginys: 'Dėl nepriklausomybės kovų rinkimai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą, tautybę ar lytį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74946"></a>
 - t-003
+  global_id: t-74946
   teiginys: 'Pademonstruota vienybė su Mažąja Lietuva – Steigiamasis Seimas 1921 m. lapkričio 11 d. vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-74947"></a>
 - t-004
+  global_id: t-74947
   teiginys: '1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų balsais priėmė pagrindinį Žemės reformos įstatymą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-74948"></a>
 - t-005
+  global_id: t-74948
   teiginys: 'Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-74949"></a>
 - t-006
+  global_id: t-74949
   teiginys: 'Dešimt vietų Steigiamajame Seime gavo tautinės mažumos (6 žydai, 3 lenkai ir 1 vokietis).'
   pagrindžia:
     - c-003
 
+<a id="claim-t-74950"></a>
 - t-007
+  global_id: t-74950
   teiginys: 'Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-182925"></a>
 - t-008
-  teiginys: 'Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvelgdamas į ilgą ten Vokietijos viešpatavimą, pareiškė (1921.XI.il.), kad tas kraštas turėtų būti prijungtas prie Lietuvos, kaip atskiras autonominis vienetas.'
+  global_id: t-182925
+  teiginys: 'Steigiamasis seimas 1921 m. lapkričio 11 d. pareiškė, kad Klaipėdos kraštas turėtų būti prijungtas prie Lietuvos kaip autonominis vienetas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvelgdamas į ilgą ten Vokietijos viešpatavimą, pareiškė (1921.XI.il.), kad tas kraštas turėtų būti prijungtas prie Lietuvos, kaip atskiras autonominis vienetas.'
+  santrauka: 'Steigiamasis seimas 1921 m. lapkričio 11 d. pareiškė, kad Klaipėdos kraštas turėtų būti prijungtas prie Lietuvos kaip autonominis vienetas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Steigiamasis seimas taip pat svarstė

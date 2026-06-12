@@ -16,7 +16,9 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 
 ## Teiginiai
 
+<a id="claim-t-22016"></a>
 - t-001
+  global_id: t-22016
   teiginys: 'Sovietmečiu politrukai trukdė rengti Kazimiero Būgos pradėtą lietuvių kalbos žodyną.'
   pagrindžia:
     - c-001

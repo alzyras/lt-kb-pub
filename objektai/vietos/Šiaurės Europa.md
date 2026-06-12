@@ -16,12 +16,16 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 
 ## Teiginiai
 
+<a id="claim-t-77713"></a>
 - t-001
+  global_id: t-77713
   teiginys: 'Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77714"></a>
 - t-002
+  global_id: t-77714
   teiginys: 'Protestantizmas lėmė, kad Šiaurės Europa per XVII–XVIII a. pritapo prie dinamiškosios Vakarų Europos dalies ir pralenkė katalikiškąją Vidurio Europą.'
   pagrindžia:
     - c-001

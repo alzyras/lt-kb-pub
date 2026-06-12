@@ -25,12 +25,16 @@ Liubavskij). Liubavskij, M.
 
 ## Teiginiai
 
+<a id="claim-t-30839"></a>
 - t-001
+  global_id: t-30839
   teiginys: 'M. Liubavskij teigė, kad rusai siekė pasipelnyti iš lietuvių kailių, vaško ir medaus prekybos su Bizantija.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-30840"></a>
 - t-002
+  global_id: t-30840
   teiginys: 'M. Liubavskij paskelbė darbą apie Lietuvos ir slavų santykius XI-XII a.'
   pagrindžia:
     - c-001

@@ -27,17 +27,23 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
 
 ## Teiginiai
 
+<a id="claim-t-60554"></a>
 - t-001
+  global_id: t-60554
   teiginys: 'H. Górnowiczius aptarė Gdansko Pomeranijos miestų vardus, susijusius su Elbingo upėvardžiu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60555"></a>
 - t-002
+  global_id: t-60555
   teiginys: 'H. Górnowiczius nagrinėjo Marienverderio ir Kvidzino vietovardžių medžiagą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-60556"></a>
 - t-003
+  global_id: t-60556
   teiginys: 'Dusburgietis teigia, kad dzierzgoń — GAO, p. 158; Būga K., 3, p. 539; Górnowicz H., Średniowieczne..., p. 103; to paties, Toponimia..., p. 275) įteka į Drūzo (dab.'
   pagrindžia:
     - c-001

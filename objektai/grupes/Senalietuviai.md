@@ -18,12 +18,16 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 
 ## Teiginiai
 
+<a id="claim-t-20006"></a>
 - t-001
+  global_id: t-20006
   teiginys: 'Senalietuviams priskiriamai tradicijai XIX–XX a. sandūroje pradėjo oponuoti jaunalietuviai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-20007"></a>
 - t-002
+  global_id: t-20007
   teiginys: 'Tiesa, nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“ arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų tautą, o Lietuvą laikė Lenkijos dalimi.'
   pagrindžia:
     - c-002

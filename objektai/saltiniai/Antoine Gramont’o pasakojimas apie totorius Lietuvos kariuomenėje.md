@@ -34,17 +34,23 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
 
 ## Teiginiai
 
+<a id="claim-t-41495"></a>
 - t-001
+  global_id: t-41495
   teiginys: 'Antoine’as Gramont’as rašė, kad totoriai Lietuvoje valdė laisvuosius dvarus ir sudarė lengvąją raitiją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41496"></a>
 - t-002
+  global_id: t-41496
   teiginys: 'Antoine’o Gramont’o 1663-1664 m. pasakojimo ištrauka aprašo totorius Lietuvos kariuomenėje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183698"></a>
 - t-005
+  global_id: t-183698
   teiginys: 'Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie totorius Lietuvos kariuomenėje.'
   pagrindžia:
     - c-003

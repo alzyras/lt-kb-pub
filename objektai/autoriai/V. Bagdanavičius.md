@@ -24,7 +24,9 @@ Bagdanavičius, V.
 
 ## Teiginiai
 
+<a id="claim-t-31021"></a>
 - t-001
+  global_id: t-31021
   teiginys: 'V. Bagdanavičius 1959 m. paskelbė kritišką LTSR istorijos pirmojo tomo įvertinimą apie sovietinę Lietuvos istoriografiją.'
   pagrindžia:
     - c-001

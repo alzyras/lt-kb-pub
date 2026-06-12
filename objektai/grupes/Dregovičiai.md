@@ -17,7 +17,9 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
 
 ## Teiginiai
 
+<a id="claim-t-31176"></a>
 - t-001
+  global_id: t-31176
   teiginys: 'Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (Dniepro ir Dauguvos aukštupiuose), nors Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno dar gana žemame kultūros laipsnyje.'
   pagrindžia:
     - c-001

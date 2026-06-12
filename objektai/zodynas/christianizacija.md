@@ -19,7 +19,9 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 
 ## Teiginiai
 
+<a id="claim-t-22093"></a>
 - t-001
+  global_id: t-22093
   teiginys: '997 m. Norvegijos valdovas Olafas pradėjo šalies christianizaciją, o 1009 m. buvo pakrikštytas Lietuvos „karalius“ Netimeras.'
   pagrindžia:
     - c-001

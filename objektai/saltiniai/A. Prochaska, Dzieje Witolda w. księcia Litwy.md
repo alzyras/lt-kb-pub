@@ -26,7 +26,9 @@ Prochaska, A.
 
 ## Teiginiai
 
+<a id="claim-t-31597"></a>
 - t-001
+  global_id: t-31597
   teiginys: 'A. Prochaskos „Dzieje Witolda w. księcia Litwy“ buvo išleista Vilniuje 1914 m.'
   pagrindžia:
     - c-001

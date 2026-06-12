@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Prokopijus
 
 ## Santrauka
 
-Kojelavičius teigia, kad apie tuos pačius metus langobardai, vedami Albojino, iškeliavo iš Panonijos ir, pasi kvietę dalytis grobiu įvai- 559 m e ta i rias sarmatų tauteles, tarp jų gepidus (kurie, pasak Prokopijaus, dalyvavo visuose herulų žygiuose), įsi veržė su didžiule kariuomene.
+Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.
 
 ## Teiginiai
 
+<a id="claim-t-186291"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad apie tuos pačius metus langobardai, vedami Albojino, iškeliavo iš Panonijos ir, pasi kvietę dalytis grobiu įvai- 559 m e ta i rias sarmatų tauteles, tarp jų gepidus (kurie, pasak Prokopijaus, dalyvavo visuose herulų žygiuose), įsi veržė su didžiule kariuomene.'
+  global_id: t-186291
+  teiginys: 'Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad apie tuos pačius metus langobardai, vedami Albojino, iškeliavo iš Panonijos ir, pasi kvietę dalytis grobiu įvai- 559 m e ta i rias sarmatų tauteles, tarp jų gepidus (kurie, pasak Prokopijaus, dalyvavo visuose herulų žygiuose), įsi veržė su didžiule kariuomene.'
+  santrauka: 'Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atgavęs Italiją, jis, mi­
@@ -50,3 +51,10 @@ Kojelavičius teigia, kad apie tuos pačius metus langobardai, vedami Albojino, 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Gepidai]]
+- [[objektai/grupes/Herulai]]
+- [[objektai/grupes/Langobardai]]
+- [[objektai/ivykiai/Langobardų įsiveržimas į Italiją (559 m.)]]

@@ -24,7 +24,9 @@ Dusburgietis teigia, kad apie Mikalojų III, popiežių, bei karalių Rudolfą i
 
 ## Teiginiai
 
+<a id="claim-t-58737"></a>
 - t-001
+  global_id: t-58737
   teiginys: 'Dusburgietis teigia, kad apie Mikalojų III, popiežių, bei karalių Rudolfą ir apie Tibro potvynį 1277 viešpaties metais valdė popiežius Mikalojus III ir Rudolfas.'
   pagrindžia:
     - c-001

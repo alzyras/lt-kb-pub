@@ -26,12 +26,16 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 
 ## Teiginiai
 
+<a id="claim-t-43363"></a>
 - t-001
+  global_id: t-43363
   teiginys: 'Tacitas veikale „Germania“ mūsų krašto gyventojus vadino aisčiais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-43365"></a>
 - t-002
+  global_id: t-43365
   teiginys: 'Kalbininkai aisčius pagal kalbos tarmę skirsto į tris grupes: prūsus, lietuvius ir latvius.'
   pagrindžia:
     - c-002

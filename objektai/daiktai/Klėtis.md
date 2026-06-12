@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08298"></a>
 - t-001
+  global_id: t-08298
   teiginys: 'Klėtis buvo pakelta ant trinkų ar akmenų, grįsta ir lubota lentomis dėl sausumo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08299"></a>
 - t-002
+  global_id: t-08299
   teiginys: 'Klėtyje viename kambaryje laikyti javai, kitame kabėjo drabužiai, todėl tas kambarys vadinosi svirnu.'
   pagrindžia:
     - c-002

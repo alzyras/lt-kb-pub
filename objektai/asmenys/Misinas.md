@@ -17,12 +17,16 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 
 ## Teiginiai
 
+<a id="claim-t-60175"></a>
 - t-001
+  global_id: t-60175
   teiginys: 'Dusburgietis teigia, kad tuo tarpu Misinas su Sklunijos valsčiaus547 vyrais pagrobė Karaliaučiaus brolių arklius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60176"></a>
 - t-002
+  global_id: t-60176
   teiginys: 'Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta, Trinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei, taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė į Bartenšteino pilį ir.'
   pagrindžia:
     - c-002

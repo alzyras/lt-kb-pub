@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87089"></a>
 - t-001
+  global_id: t-87089
   teiginys: 'XVI amžiaus pradžioje tame kaime buvo gausiau negu dabar gyventojų, šis tas iš technikos, tarp kurių - malūnas, kalvė ir lentpjūvė.'
   pagrindžia:
     - c-001

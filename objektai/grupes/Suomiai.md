@@ -17,7 +17,9 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
 
 ## Teiginiai
 
+<a id="claim-t-01485"></a>
 - t-001
+  global_id: t-01485
   teiginys: 'Suomiai priskirti prie lietuviams negiminiškų tautų, kurios kartais buvo žymimos baltų terminu.'
   pagrindžia:
     - c-001

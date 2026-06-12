@@ -14,29 +14,32 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Leonas
 
 ## Santrauka
 
-Kojelavičius teigia, kad labiausiai jis veržėsi susi kauti su Leonu, negalėdamas užmiršti, kaip prieš ke letą metų jo buvo nužudytas vaišėse Lietuvos didysis kunigaikštis. Kojelavičius teigia, kad kadangi Leonas su panieka žiūrėjo į negausius priešus, būdamas tik ras dėl savo pergalės, o gal norėdamas, kad visa prie šo nugalėjimo šlovė atitektų jo rusams, ar dar kokiais sumetimais, jis išrikiavo rusus pirmose pozicijose, kur tikėjosi ir kovos, ir.
+Germantas siekė susikauti su Leonu, nes Leonas prieš kelerius metus per vaišes nužudė Lietuvos didįjį kunigaikštį. Leonas pirmose pozicijose išrikiavo rusus, o lietuvius ir skitus pastatė užnugaryje kaip žiūrovus.
 
 ## Teiginiai
 
+<a id="claim-t-186009"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad labiausiai jis veržėsi susi kauti su Leonu, negalėdamas užmiršti, kaip prieš ke letą metų jo buvo nužudytas vaišėse Lietuvos didysis kunigaikštis.'
+  global_id: t-186009
+  teiginys: 'Germantas siekė susikauti su Leonu, nes Leonas prieš kelerius metus per vaišes nužudė Lietuvos didįjį kunigaikštį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186010"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kadangi Leonas su panieka žiūrėjo į negausius priešus, būdamas tik ras dėl savo pergalės, o gal norėdamas, kad visa prie šo nugalėjimo šlovė atitektų jo rusams, ar dar kokiais sumetimais, jis išrikiavo rusus pirmose pozicijose, kur tikėjosi ir kovos, ir.'
+  global_id: t-186010
+  teiginys: 'Leonas pirmose pozicijose išrikiavo rusus, o lietuvius ir skitus pastatė užnugaryje kaip žiūrovus.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad labiausiai jis veržėsi susi kauti su Leonu, negalėdamas užmiršti, kaip prieš ke letą metų jo buvo nužudytas vaišėse Lietuvos didysis kunigaikštis.'
+  santrauka: 'Germantas siekė susikauti su Leonu, nes Leonas prieš kelerius metus per vaišes nužudė Lietuvos didįjį kunigaikštį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Su pastaraisiais Germantas
@@ -55,7 +58,7 @@ Kojelavičius teigia, kad labiausiai jis veržėsi susi kauti su Leonu, negalėd
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kadangi Leonas su panieka žiūrėjo į negausius priešus, būdamas tik ras dėl savo pergalės, o gal norėdamas, kad visa prie šo nugalėjimo šlovė atitektų jo rusams, ar dar kokiais sumetimais, jis išrikiavo rusus pirmose pozicijose, kur tikėjosi ir kovos, ir.'
+  santrauka: 'Leonas pirmose pozicijose išrikiavo rusus, o lietuvius ir skitus pastatė užnugaryje kaip žiūrovus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu Krokuvos kaš­
@@ -90,3 +93,18 @@ Kojelavičius teigia, kad labiausiai jis veržėsi susi kauti su Leonu, negalėd
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Germantas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/paprociai/Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis]]
+- [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas]]
+- [[objektai/zodynas/manu proprio M.P]]
+- [[objektai/ivykiai/1941 m. Birželio sukilimas|1941 m. Birželio sukilimas (sukilimas)]]
+- [[objektai/grupes/Laikinoji vyriausybė]]
+- [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]
+- [[objektai/posakiai/„Susidariusi laikinoji... atstatanti laisvą ir nepriklausomą Lietuvos valstybę“]]

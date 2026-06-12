@@ -24,17 +24,23 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
 
 ## Teiginiai
 
+<a id="claim-t-87439"></a>
 - t-001
+  global_id: t-87439
   teiginys: '1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas su didelėmis pajėgomis persikėlė per Nemuną ties Kaunu ir niokojo kraštą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87440"></a>
 - t-002
+  global_id: t-87440
   teiginys: 'Konradas Ciolneris negalėjo vadovauti žygiui, nes tuo metu sirgo sunkia liga.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-87441"></a>
 - t-003
+  global_id: t-87441
   teiginys: 'Konradas Ciolneris fon Rotenšteinas mirė iki 1390 m. rugpjūčio 15 d., kai Konradas Valenrodas tapo didžiojo magistro vietininku.'
   pagrindžia:
     - c-002

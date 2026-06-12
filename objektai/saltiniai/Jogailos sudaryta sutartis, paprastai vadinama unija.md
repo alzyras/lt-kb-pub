@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Jogailos sudaryta sutartis, paprastai vadinama unija
 
 ## Santrauka
 
-Kojelavičius teigia, kad lenkai atkakliai tvirtino, jog visi Jogailos ir Vytauto laikais sudaryti susitarimai, be to, vėliau, Žygimanto laikais, paskelbti potvarkiai iš viso negalį būti keičiami, nes jų teisėtumas nekeliąs jokių abejonių, antra vertus, nieku būdu negalima liesti ir.
+Lenkai tvirtino, kad Jogailos ir Vytauto laikų susitarimai bei Žygimanto laikų potvarkiai negali būti keičiami.
 
 ## Teiginiai
 
+<a id="claim-t-186315"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad lenkai atkakliai tvirtino, jog visi Jogailos ir Vytauto laikais sudaryti susitarimai, be to, vėliau, Žygimanto laikais, paskelbti potvarkiai iš viso negalį būti keičiami, nes jų teisėtumas nekeliąs jokių abejonių, antra vertus, nieku būdu negalima liesti ir.'
+  global_id: t-186315
+  teiginys: 'Lenkai tvirtino, kad Jogailos ir Vytauto laikų susitarimai bei Žygimanto laikų potvarkiai negali būti keičiami.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad lenkai atkakliai tvirtino, jog visi Jogailos ir Vytauto laikais sudaryti susitarimai, be to, vėliau, Žygimanto laikais, paskelbti potvarkiai iš viso negalį būti keičiami, nes jų teisėtumas nekeliąs jokių abejonių, antra vertus, nieku būdu negalima liesti ir.'
+  santrauka: 'Lenkai tvirtino, kad Jogailos ir Vytauto laikų susitarimai bei Žygimanto laikų potvarkiai negali būti keičiami.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Be to, turinti būti sugrąžinta Podolė, kurią Lie­

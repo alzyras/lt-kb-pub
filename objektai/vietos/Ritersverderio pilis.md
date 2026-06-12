@@ -18,7 +18,9 @@ Tačiau jam buvo leista gyventi prie pat Kauno, vietoj senojo Marijenverderio pa
 
 ## Teiginiai
 
+<a id="claim-t-02723"></a>
 - t-001
+  global_id: t-02723
   teiginys: 'Vytautui buvo leista gyventi prie Kauno pastatytoje Ritersverderio pilyje, kur jis organizavo karą su Jogaila.'
   pagrindžia:
     - c-001

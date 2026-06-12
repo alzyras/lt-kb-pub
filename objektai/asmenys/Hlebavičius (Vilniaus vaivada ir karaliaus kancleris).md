@@ -27,7 +27,9 @@ Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilij
 
 ## Teiginiai
 
+<a id="claim-t-87690"></a>
 - t-001
+  global_id: t-87690
   teiginys: 'Vilniaus vaivados ir karaliaus kanclerio Hlebavičiaus plytinė buvo prie Vilniaus, už Vilijos upės, greta fabrikui skirto sklypo.'
   pagrindžia:
     - c-001

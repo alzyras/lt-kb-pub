@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # margutis
 
 ## Santrauka
 
-Kojelavičius teigia, kad mat rusai nuo senų senovės įpratę Velykų dieną do vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
+Rusai nuo senų laikų Velykų dieną dovanodavo vienas kitam margutį kaip bičiuliškumo ženklą.
 
 ## Teiginiai
 
+<a id="claim-t-185407"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad mat rusai nuo senų senovės įpratę Velykų dieną do vanoti vienas kitam margutį kaip bičiuliškumo ženklą.'
+  global_id: t-185407
+  teiginys: 'Rusai nuo senų laikų Velykų dieną dovanodavo vienas kitam margutį kaip bičiuliškumo ženklą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad mat rusai nuo senų senovės įpratę Velykų dieną do vanoti vienas kitam margutį kaip bičiuliškumo ženklą.'
+  santrauka: 'Rusai nuo senų laikų Velykų dieną dovanodavo vienas kitam margutį kaip bičiuliškumo ženklą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Abiejų tautų
@@ -48,3 +49,14 @@ Kojelavičius teigia, kad mat rusai nuo senų senovės įpratę Velykų dieną d
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Akademijos teatro įranga]]
+- [[objektai/daiktai/Altorius]]
+- [[objektai/daiktai/Ietis]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/viečė]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/zodynas/stabmeldžių apeigos]]

@@ -27,32 +27,44 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-98613"></a>
 - t-001
+  global_id: t-98613
   teiginys: 'Dusburgietis teigia, kad medvėgalio pilis buvo centrinėje Žemaitijoje, į šiaurės vakarus nuo Kaltinėnų, Medvėgalio kalno papėdėje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-98614"></a>
 - t-002
+  global_id: t-98614
   teiginys: 'Dusburgietis teigia, kad apie Medvėgalio pilėnus 1329 viešpaties metais į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-98615"></a>
 - t-003
+  global_id: t-98615
   teiginys: 'Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava į riterius.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-98616"></a>
 - t-004
+  global_id: t-98616
   teiginys: 'Daug Medvėgalio srities kilmingųjų derėjosi su magistru, siūlydami paklusti už apsaugą nuo karaliaus pykčio ir jėgos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-98617"></a>
 - t-005
+  global_id: t-98617
   teiginys: 'Medvėgalyje žemaičiai atkakliai gynėsi, tačiau priešui padegus pilį turėjo pasiduoti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-98618"></a>
 - t-006
+  global_id: t-98618
   teiginys: 'Wigando kronikoje rašoma, kad daug Medvėgalio srities kilmingųjų derėjosi su magistru dėl paklusimo mainais į apsaugą nuo karaliaus.'
   pagrindžia:
     - c-002

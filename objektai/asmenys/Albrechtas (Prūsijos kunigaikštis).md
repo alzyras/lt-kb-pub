@@ -17,7 +17,9 @@ Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfi
 
 ## Teiginiai
 
+<a id="claim-t-87612"></a>
 - t-001
+  global_id: t-87612
   teiginys: 'Albrechtas, Prūsijos kunigaikštis, testamente turėjo gauti du gerus žirgus ir būti paskutinės valios gynėju bei globėju.'
   pagrindžia:
     - c-001

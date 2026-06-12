@@ -25,7 +25,9 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
 
 ## Teiginiai
 
+<a id="claim-t-99931"></a>
 - t-001
+  global_id: t-99931
   teiginys: 'GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.'
   pagrindžia:
     - c-001

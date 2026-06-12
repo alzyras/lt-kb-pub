@@ -28,7 +28,9 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
 
 ## Teiginiai
 
+<a id="claim-t-60214"></a>
 - t-001
+  global_id: t-60214
   teiginys: 'Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo, tokio stipraus kūno sudėjimo, kad lenkė visus kitus vyrus.'
   pagrindžia:
     - c-001

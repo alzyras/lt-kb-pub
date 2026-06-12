@@ -17,7 +17,9 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
 
 ## Teiginiai
 
+<a id="claim-t-22296"></a>
 - t-001
+  global_id: t-22296
   teiginys: 'Pavertus Lietuvą SSRS dalimi, savanoriškumo kamufliažo atsisakyta, o valdymo sistema pertvarkyta pagal Sovietų Sąjungos modelį.'
   pagrindžia:
     - c-001

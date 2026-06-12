@@ -42,22 +42,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66828"></a>
 - t-001
+  global_id: t-66828
   teiginys: 'Dusburgietis teigia, kad jis išžudė 4 tūkstančius dievo žmonių, kurie jo garbei bei šlovei ten gyveno, ir rodėsi, jog visa Prūsijos žemė paraudusi nuo krikščionių kraujo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-66829"></a>
 - t-002
+  global_id: t-66829
   teiginys: 'Dusburgietis teigia, kad sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių ir pragaišties, pasak šventojo rašto, be galo klastingos ir suktos širdies; prūsų tautą, neseniai priėmusią.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-66830"></a>
 - t-003
+  global_id: t-66830
   teiginys: 'Dusburgietis teigia, kad apie žemutinių Prūsijos žemės dalių nusiaubimą Kai šitai buvo padaryta, Sventopelkas, nepaisydamas dievo baimės, viešai sumanė atskleisti iki šiol slėptą tūžmingą įgeidį persekioti, anksčiau padarytas nedorybes papildydamas naujomis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66831"></a>
 - t-004
+  global_id: t-66831
   teiginys: 'Pirmojo prūsų atsimetimo pradžia dažniausiai datuojama 1242 m., nors kai kas ją sieja su 1243 m. pabaiga.'
   pagrindžia:
     - c-002

@@ -23,12 +23,16 @@ Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos nuorašų faksimil
 
 ## Teiginiai
 
+<a id="claim-t-101561"></a>
 - t-001
+  global_id: t-101561
   teiginys: '„Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos nuorašų faksimilės“ išleistas Vilniuje 1985 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-101562"></a>
 - t-002
+  global_id: t-101562
   teiginys: 'Kraków, 1989; Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos nuorašų faksimilės.'
   pagrindžia:
     - c-001

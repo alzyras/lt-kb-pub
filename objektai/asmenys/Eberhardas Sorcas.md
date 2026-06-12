@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Eberhardas Sorcas
 
 ## Santrauka
 
-Kojelavičius teigia, kad tik Įsruties komtūras Eberhardas Sorcas su trimis šim tais raitelių ir penkiais šimtais pėstininkų, kuriuos ve dėsi iš Saksonijos papildyti Karaliaučiaus įgulai, buvo žygio metu užpultas, priverstas stoti į kovą ir sunai kintas.
+Įsruties komtūras Eberhardas Sorcas su 300 raitelių ir 500 pėstininkų buvo žygio metu užpultas ir sunaikintas.
 
 ## Teiginiai
 
+<a id="claim-t-186197"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tik Įsruties komtūras Eberhardas Sorcas su trimis šim tais raitelių ir penkiais šimtais pėstininkų, kuriuos ve dėsi iš Saksonijos papildyti Karaliaučiaus įgulai, buvo žygio metu užpultas, priverstas stoti į kovą ir sunai kintas.'
+  global_id: t-186197
+  teiginys: 'Įsruties komtūras Eberhardas Sorcas su 300 raitelių ir 500 pėstininkų buvo žygio metu užpultas ir sunaikintas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tik Įsruties komtūras Eberhardas Sorcas su trimis šim tais raitelių ir penkiais šimtais pėstininkų, kuriuos ve dėsi iš Saksonijos papildyti Karaliaučiaus įgulai, buvo žygio metu užpultas, priverstas stoti į kovą ir sunai kintas.'
+  santrauka: 'Įsruties komtūras Eberhardas Sorcas su 300 raitelių ir 500 pėstininkų buvo žygio metu užpultas ir sunaikintas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Niekur
@@ -43,3 +44,10 @@ Kojelavičius teigia, kad tik Įsruties komtūras Eberhardas Sorcas su trimis š
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/žygis]]

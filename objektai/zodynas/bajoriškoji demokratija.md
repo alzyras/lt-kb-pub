@@ -24,7 +24,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-25330"></a>
 - t-001
+  global_id: t-25330
   teiginys: 'Abiejų Tautų Respublika aprūpino Vakarus javais ir sukūrė religinės tolerancijos bei bajoriškosios demokratijos tradiciją.'
   pagrindžia:
     - c-001

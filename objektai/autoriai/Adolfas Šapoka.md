@@ -24,12 +24,16 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-63301"></a>
 - t-001
+  global_id: t-63301
   teiginys: 'Adolfas Šapoka redagavo plačios apimties Lietuvos istoriją, kurią išleido grupė lietuvių istorikų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183339"></a>
 - t-002
+  global_id: t-183339
   teiginys: '1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.'
   pagrindžia:
     - c-002

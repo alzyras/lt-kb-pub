@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08309"></a>
 - t-001
+  global_id: t-08309
   teiginys: 'Vyriškieji patys dailidavo namų baldus, rakandus ir įvairius būtos padargus.'
   pagrindžia:
     - c-001

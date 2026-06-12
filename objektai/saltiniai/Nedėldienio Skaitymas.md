@@ -18,12 +18,16 @@ Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą"
 
 ## Teiginiai
 
+<a id="claim-t-67499"></a>
 - t-001
+  global_id: t-67499
   teiginys: 'Kitais metais Kaune pradėjo eiti „Nedėldienio Skaitymas“.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67500"></a>
 - t-002
+  global_id: t-67500
   teiginys: 'Šv. Kazimiero draugija leido „Nedėldienio Skaitymą“, iš kurio vėliau atsirado „Vienybė“ ir „Draugija“.'
   pagrindžia:
     - c-001

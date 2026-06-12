@@ -24,7 +24,9 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
 
 ## Teiginiai
 
+<a id="claim-t-21097"></a>
 - t-001
+  global_id: t-21097
   teiginys: '1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per radiją paskelbė apie laisvos ir nepriklausomos Lietuvos valstybės atkūrimą.'
   pagrindžia:
     - c-001

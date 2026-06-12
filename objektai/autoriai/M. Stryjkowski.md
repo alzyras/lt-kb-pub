@@ -24,7 +24,9 @@ Stryjkowski: Kronika Polska, Litewska etc ., I, 1846, 370-372 p. (^15) Plg.
 
 ## Teiginiai
 
+<a id="claim-t-30848"></a>
 - t-001
+  global_id: t-30848
   teiginys: 'M. Stryjkowskis parašė veikalą „Kronika Polska, Litewska etc.“, cituojamą 1846 m. leidimo pirmajame tome.'
   pagrindžia:
     - c-001

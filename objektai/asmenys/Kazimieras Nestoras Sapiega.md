@@ -18,12 +18,16 @@ Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausia
 
 ## Teiginiai
 
+<a id="claim-t-63826"></a>
 - t-001
+  global_id: t-63826
   teiginys: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63827"></a>
 - t-002
+  global_id: t-63827
   teiginys: 'K. N. Sapiega, LLV Seimo lietuviškosios pusės maršalas, balsavo už tolesnį priešinimąsi karaliaus pozicijai.'
   pagrindžia:
     - c-001

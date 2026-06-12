@@ -16,12 +16,16 @@ Glaubicas suformavo baroko architektūrinio stiliaus atmainą, neturinčią anal
 
 ## Teiginiai
 
+<a id="claim-t-20069"></a>
 - t-001
+  global_id: t-20069
   teiginys: 'J. K. Glaubicas suformavo analogų neturinčią baroko architektūrinio stiliaus atmainą – Vilniaus baroko mokyklą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183195"></a>
 - t-002
+  global_id: t-183195
   teiginys: 'Glaubicas suformavo baroko architektūrinio stiliaus atmainą, neturinčią analogo – Vilniaus baroko mokyklą.'
   pagrindžia:
     - c-001

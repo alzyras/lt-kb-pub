@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-32012"></a>
 - t-001
+  global_id: t-32012
   teiginys: '„Russdorf Paul von“ nurodytas „Lietuvių enciklopedijos“ 26 tome, 170-171 puslapiuose.'
   pagrindžia:
     - c-001

@@ -30,37 +30,51 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 
 ## Teiginiai
 
+<a id="claim-t-85993"></a>
 - t-001
+  global_id: t-85993
   teiginys: '1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-85994"></a>
 - t-002
+  global_id: t-85994
   teiginys: 'Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-85995"></a>
 - t-003
+  global_id: t-85995
   teiginys: 'Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir pritaikė jį jiems gyventi.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-85996"></a>
 - t-004
+  global_id: t-85996
   teiginys: 'Jono bažnyčia, ir 1667 metų lapkričio 19 dieną Vilniaus magistrato neteisingos pretenzijos Šv.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85997"></a>
 - t-005
+  global_id: t-85997
   teiginys: '1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-85998"></a>
 - t-006
+  global_id: t-85998
   teiginys: 'Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85999"></a>
 - t-007
+  global_id: t-85999
   teiginys: 'Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65.'
   pagrindžia:
     - c-001

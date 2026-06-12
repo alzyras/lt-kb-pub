@@ -27,22 +27,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-172033"></a>
 - t-001
+  global_id: t-172033
   teiginys: 'Iš Kauno šarvuotas traukinys nuvyko į Varėną, iš ten per Alytų į Šeštokus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-172035"></a>
 - t-002
+  global_id: t-172035
   teiginys: 'Spalio 3 d. lenkai užima Varėnos stotį.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-172037"></a>
 - t-003
+  global_id: t-172037
   teiginys: 'Varėnos ir Bastūnų stotys liko lenkams.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-172038"></a>
 - t-004
+  global_id: t-172038
   teiginys: 'Rugsėjo 24 d. „Gediminas“ grižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms, nuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį.'
   pagrindžia:
     - c-003

@@ -17,7 +17,9 @@ Dva­ sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­ ba, �
 
 ## Teiginiai
 
+<a id="claim-t-87838"></a>
 - t-001
+  global_id: t-87838
   teiginys: 'Povilas Piestavičius buvo Vilniaus vyskupo valdinys ir pilietis, kurio namas minėtas apibrėžiant prieglaudos sklypo ribas.'
   pagrindžia:
     - c-001

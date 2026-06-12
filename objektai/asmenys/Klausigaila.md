@@ -29,7 +29,9 @@ Klausigaila buvo vienas iš penkių vadovų, kurie turėjo Kęstutaičio vardu p
 
 ## Teiginiai
 
+<a id="claim-t-29030"></a>
 - t-001
+  global_id: t-29030
   teiginys: 'Klausigaila 1409 m. kaip Vytauto patikėtinis turėjo Kęstutaičio vardu paremti Žemaičių sukilimą.'
   pagrindžia:
     - c-001

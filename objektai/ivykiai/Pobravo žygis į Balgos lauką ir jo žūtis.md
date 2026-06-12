@@ -33,7 +33,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62899"></a>
 - t-001
+  global_id: t-62899
   teiginys: 'Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir variniais, naktį pasiuntė daug pėstininkų į Balgos lauką, o pats anksti rytą su raiteliais užgrobė brolių gyvulius ir užmušė tris juos saugojusius vyrus, brolis Gerhardas iš Reino ir nemaža kitų brolių bei.'
   pagrindžia:
     - c-001

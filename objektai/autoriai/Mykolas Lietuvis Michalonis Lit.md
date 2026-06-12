@@ -27,17 +27,23 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-88036"></a>
 - t-001
+  global_id: t-88036
   teiginys: 'Mykolas Lietuvis rašė, kad Kafos miestas prie Juodosios jūros buvo svarbiausias Lietuvos prekybinis uostas ryšiams su Rytais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88037"></a>
 - t-002
+  global_id: t-88037
   teiginys: 'Mykolas Lietuvis liudijo, kad totoriai seniau garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88038"></a>
 - t-003
+  global_id: t-88038
   teiginys: 'Apie tai yra rašęs Mykolas L i e t u v i s, p. 28.'
   pagrindžia:
     - c-003

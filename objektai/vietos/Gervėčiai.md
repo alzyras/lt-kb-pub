@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Gervėčiai
 
 ## Santrauka
 
-Kojelavičius teigia, kad grįžęs iš to žy gio, jis ėmėsi taikiai tvarkytis ir kurdinti šalyje nau sėdijas: tuo metu buvo padėti pamatai Gervėčių mies teliui.
+Po žygio į Volynę buvo padėti Gervėčių miestelio pamatai.
 
 ## Teiginiai
 
+<a id="claim-t-185286"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad grįžęs iš to žy gio, jis ėmėsi taikiai tvarkytis ir kurdinti šalyje nau sėdijas: tuo metu buvo padėti pamatai Gervėčių mies teliui.'
+  global_id: t-185286
+  teiginys: 'Po žygio į Volynę buvo padėti Gervėčių miestelio pamatai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad grįžęs iš to žy gio, jis ėmėsi taikiai tvarkytis ir kurdinti šalyje nau sėdijas: tuo metu buvo padėti pamatai Gervėčių mies teliui.'
+  santrauka: 'Po žygio į Volynę buvo padėti Gervėčių miestelio pamatai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     S e n i lie tu v ių  p r ie ta ­

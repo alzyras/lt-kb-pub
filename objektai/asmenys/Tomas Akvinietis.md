@@ -26,7 +26,9 @@ Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alber
 
 ## Teiginiai
 
+<a id="claim-t-60447"></a>
 - t-001
+  global_id: t-60447
   teiginys: 'Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto mokinys bei pamokslininkų ordino vienuolis (Ptol.'
   pagrindžia:
     - c-001

@@ -25,7 +25,9 @@ V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza metraštini
 
 ## Teiginiai
 
+<a id="claim-t-88081"></a>
 - t-001
+  global_id: t-88081
   teiginys: 'Pskovo metraštininkas minėjo pskoviečių pasiuntinybę pas Vytautą.'
   pagrindžia:
     - c-001

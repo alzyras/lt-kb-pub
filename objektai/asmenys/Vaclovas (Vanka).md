@@ -26,7 +26,9 @@ Dusburgietis teigia, kad apie 1320 m. Gediminas išleido savo dukterį už Plock
 
 ## Teiginiai
 
+<a id="claim-t-60452"></a>
 - t-001
+  global_id: t-60452
   teiginys: 'Dusburgietis teigia, kad apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).'
   pagrindžia:
     - c-001

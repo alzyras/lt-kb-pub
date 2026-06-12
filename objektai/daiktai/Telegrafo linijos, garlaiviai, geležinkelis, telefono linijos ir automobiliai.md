@@ -36,7 +36,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19603"></a>
 - t-001
+  global_id: t-19603
   teiginys: 'XIX a. viduryje Lietuvoje pradėjo veikti pirmosios telegrafo linijos, o Nemune pradėta garlaivių navigacija.'
   pagrindžia:
     - c-001

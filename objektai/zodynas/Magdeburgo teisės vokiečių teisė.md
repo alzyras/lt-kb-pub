@@ -27,12 +27,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86534"></a>
 - t-001
+  global_id: t-86534
   teiginys: 'Magdeburgo teisių išdava buvo aukštesnė miestiečių luomo padėtis negu nelaisvų kaimo žmonių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86535"></a>
 - t-002
+  global_id: t-86535
   teiginys: 'Vilnius 1321 m. turėjo Gedimino Rygos pavyzdžiu suteiktą vokiečių teisę, o 1387 m. iš Jogailos gavo Magdeburgo teisę.'
   pagrindžia:
     - c-001

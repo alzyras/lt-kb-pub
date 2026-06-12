@@ -42,17 +42,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-71784"></a>
 - t-001
+  global_id: t-71784
   teiginys: 'Karūnos armija priklausė Lenkijos karalystei, o Lietuvos kariuomenė priklausė Lietuvos Didžiajai Kunigaikštystei.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-71785"></a>
 - t-002
+  global_id: t-71785
   teiginys: 'Pirmoji iš šių dviejų kariuomenių yra Karūnos armija ir priklauso Lenkijos karalysi atl tei.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-71786"></a>
 - t-003
+  global_id: t-71786
   teiginys: 'Lietuvos kariuomenė buvo laikoma Karūnos armijos pagalbininke ir sąjungininke, o ne pavaldžia provincija.'
   pagrindžia:
     - c-001

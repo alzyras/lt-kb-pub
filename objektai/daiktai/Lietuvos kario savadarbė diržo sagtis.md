@@ -43,22 +43,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-78668"></a>
 - t-001
+  global_id: t-78668
   teiginys: '1919 m. Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėtą, buvusią Panevėžio būrio LIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pajėgi aprūpinti pirmųjų savanorių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78669"></a>
 - t-002
+  global_id: t-78669
   teiginys: 'Lietuvos kario savadarbė diržo sagtis siejosi su pirmaisiais Lietuvos kariuomenės mėnesiais, kai savanoriams trūko ekipuotės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78670"></a>
 - t-003
+  global_id: t-78670
   teiginys: 'Lietuvos kariai prie gautų vokiečių kariuomenės sagčių pritvirtindavo Vytį, uždengdami vokišką imperijos karūną ir šūkį „Got mit uns“.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78671"></a>
 - t-004
+  global_id: t-78671
   teiginys: 'Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės.'
   pagrindžia:
     - c-002

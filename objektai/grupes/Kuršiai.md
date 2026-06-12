@@ -17,7 +17,6 @@ atnaujinta: ''
 tags:
   - grupe
   - upė
-  - šventė
 amziai:
   - 'XIII'
   - 'XXI'
@@ -30,83 +29,115 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 
 ## Teiginiai
 
+<a id="claim-t-65554"></a>
 - t-001
+  global_id: t-65554
   teiginys: 'Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65555"></a>
 - t-002
+  global_id: t-65555
   teiginys: 'Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-65556"></a>
 - t-003
+  global_id: t-65556
   teiginys: 'Istorijos priešaušryje kuršių žemėse turėjo būti gana daug atskirų sričių kunigų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-65557"></a>
 - t-004
+  global_id: t-65557
   teiginys: 'Tuo metu, kai prūsai iš paskutiniųjų kovojo savo didžiąją kovą prieš kryžiuočius, vidaus nesutikimai Lietuvoje (1263-1270 m.) nesudarė šaliai išorinio pavojaus, juo labiau, kad ir Livonijoje buvo sukilusios tautos : estai, kuršiai, žiemgaliai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-65558"></a>
 - t-005
+  global_id: t-65558
   teiginys: 'Dusburgietis teigia, kad materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai prie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių (žemutinių lietuvių) ir latvių13.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-65559"></a>
 - t-006
+  global_id: t-65559
   teiginys: 'Tokiu atskirų sričių kunigų istorijos priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant drauge ir jotvingius) žemėse turėjo būti gana daug.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-65560"></a>
 - t-007
+  global_id: t-65560
   teiginys: 'Kuršiai XI a. jau rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-65561"></a>
 - t-008
+  global_id: t-65561
   teiginys: 'Spindinčius metalo ginklus kronikininkai randa ir pas kuršius bei žiemgalius.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-65563"></a>
 - t-009
-  teiginys: 'Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir žemaičių, gyveno kuršiai, kairiajame Dauguvos žemupio krante — žiemgaliai, kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apskritis, gyveno sėliai, o į šiaurę.'
+  global_id: t-65563
+  teiginys: 'Kuršiai gyveno dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir žemaičių.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-65564"></a>
 - t-010
+  global_id: t-65564
   teiginys: 'Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-65565"></a>
 - t-011
+  global_id: t-65565
   teiginys: 'Nestoro „Povest“ tarp rusams duoklę mokėjusių ir atskiras kalbas turėjusių tautų minėjo Kuršą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65566"></a>
 - t-012
+  global_id: t-65566
   teiginys: 'Dusburgietis teigia, kad lietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-65567"></a>
 - t-013
+  global_id: t-65567
   teiginys: 'Livonijoje sukilę kuršiai buvo pajungti tik po septynerių metų kovos, 1267 m.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-65568"></a>
 - t-014
+  global_id: t-65568
   teiginys: 'Dusburgietis teigia, kad tuo tarpu atvyko kuršiai, nuolankiai prašydami, kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-184514"></a>
 - t-016
-  teiginys: 'Kojelavičius teigia, kad staiga kilusi grėsmė išjudino galybę kuršių, žemaičių ir lietuvių: Latvijos, pakliuvusios į žeminan čią vergovę, varganas likimas akivaizdžiausiai rodė, kaip labai pavojinga iš pat pradžių neatremti visomis jėgomis į kovą pakilusio priešo.'
+  global_id: t-184514
+  teiginys: 'Staiga kilusi grėsmė išjudino daug kuršių, žemaičių ir lietuvių priešintis priešui, kurio pavojų rodė pavergtos Latvijos likimas.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-184515"></a>
 - t-017
-  teiginys: 'Kojelavičius teigia, kad kitais metais Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę tik savo šalyje priešintis LiL en kai k v ie č ia iš V o - vonijos riteriams, dabar liek ie tijo s į P rū siją k r y - tuviai buvo nusiųsti pulti žiu o č iu s priešų žemių.'
+  global_id: t-184515
+  teiginys: 'Kitais metais Utenis perkėlė karą iš Kuršo į Livoniją, o sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus.'
   pagrindžia:
     - c-013
 
@@ -198,6 +229,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-002
 
 - c-006
+  santrauka: 'Kuršiai gyveno dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir žemaičių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Į pie-
@@ -293,7 +325,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-015
 
 - c-012
-  santrauka: 'Kojelavičius teigia, kad staiga kilusi grėsmė išjudino galybę kuršių, žemaičių ir lietuvių: Latvijos, pakliuvusios į žeminan čią vergovę, varganas likimas akivaizdžiausiai rodė, kaip labai pavojinga iš pat pradžių neatremti visomis jėgomis į kovą pakilusio priešo.'
+  santrauka: 'Staiga kilusi grėsmė išjudino daug kuršių, žemaičių ir lietuvių priešintis priešui, kurio pavojų rodė pavergtos Latvijos likimas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kolonijos Agripinos6 ar­
@@ -315,7 +347,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-016
 
 - c-013
-  santrauka: 'Kojelavičius teigia, kad kitais metais Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę tik savo šalyje priešintis LiL en kai k v ie č ia iš V o - vonijos riteriams, dabar liek ie tijo s į P rū siją k r y - tuviai buvo nusiųsti pulti žiu o č iu s priešų žemių.'
+  santrauka: 'Kitais metais Utenis perkėlė karą iš Kuršo į Livoniją, o sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kitais metais
@@ -337,3 +369,67 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   statusas: verified
   pagrindžia:
     - t-017
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Avigenas]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/daiktai/Ginklai]]
+- [[objektai/grupes/Jotvingai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietgaliai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Nadruviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Skalviai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Vikingai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/kolonijos]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vienkiemiai]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/ivykiai/1283 m. žiemos lietuvių antpuolis Sembos žemėje]]
+- [[objektai/ivykiai/Apuolės apgula (853 m.)]]
+- [[objektai/asmenys/Barkus]]
+- [[objektai/paprociai/Belaisvių likimo sprendimas pagal visiems žinomus karo papročius]]
+- [[objektai/ivykiai/Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje]]
+- [[objektai/asmenys/Burchardas iš Hornhauzeno]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis]]
+- [[objektai/asmenys/Engelbertas]]
+- [[objektai/grupes/Estai]]
+- [[objektai/asmenys/Fridrichas, vadinamas Hole]]
+- [[objektai/asmenys/Henrikas Botelis]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema)]]
+- [[objektai/asmenys/Konradas Žakas]]
+- [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]
+- [[objektai/ivykiai/Kuršių sukilimas prieš danus (853 m.)]]
+- [[objektai/grupes/Lamatiečiai]]
+- [[objektai/ivykiai/Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.)]]
+- [[objektai/grupes/Lybiai]]
+- [[objektai/autoriai/Mažiulis V]]
+- [[objektai/ivykiai/Noihauzo pilies pastatymas Kuršių nerijoje|Noihauzo pilies pastatymas Kuršių nerijoje (pilis)]]
+- [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]
+- [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]
+- [[objektai/autoriai/Rimbertas]]
+- [[objektai/autoriai/Rimberto, Rimbertas]]
+- [[objektai/autoriai/Saxo Grammaticus]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/grupes/Skandinavai]]
+- [[objektai/asmenys/Sklodas iš Kvedenavos]]
+- [[objektai/autoriai/V. Mažiulis]]
+- [[objektai/asmenys/Volkvinas]]
+- [[objektai/zodynas/atskalūnybė atskalūnai]]
+- [[objektai/zodynas/kuopiniai kaimai]]
+- [[objektai/posakiai/Šiandien prisiminkite puikius drabužius]]
+- [[objektai/daiktai/Šventojo kryžiaus ženklas]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/duoklė]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
+- [[objektai/zodynas/vakariniai baltai]]
+- [[objektai/grupes/Sėliai]]

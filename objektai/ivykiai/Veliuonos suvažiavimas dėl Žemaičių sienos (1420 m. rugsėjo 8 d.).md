@@ -41,17 +41,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31481"></a>
 - t-001
+  global_id: t-31481
   teiginys: 'Veliuonos suvažiavime kunigaikštis taikos labui sutiko atsisakyti Klaipėdos su trijų mylių ruožu nuo jūros.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-31482"></a>
 - t-002
+  global_id: t-31482
   teiginys: 'Veliuonoje susitarimo nepasiekta, nes Ordinas tikėjosi naudos iš Romos tarpininkavimo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184342"></a>
 - t-003
+  global_id: t-184342
   teiginys: 'Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Melno ežero.'
   pagrindžia:
     - c-003

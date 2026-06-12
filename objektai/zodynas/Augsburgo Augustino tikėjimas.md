@@ -19,7 +19,9 @@ Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomi
 
 ## Teiginiai
 
+<a id="claim-t-86514"></a>
 - t-001
+  global_id: t-86514
   teiginys: 'Gotardas Ketleris siekė, kad perduodamų apskričių žmonėms būtų leista laisvai išpažinti Augustino tikėjimą.'
   pagrindžia:
     - c-001

@@ -26,7 +26,9 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
 
 ## Teiginiai
 
+<a id="claim-t-86177"></a>
 - t-001
+  global_id: t-86177
   teiginys: '1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus.'
   pagrindžia:
     - c-001

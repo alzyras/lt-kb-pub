@@ -23,12 +23,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-32749"></a>
 - t-001
+  global_id: t-32749
   teiginys: 'Dvilaukė sistema atsirado, kai apžėlęs lydimas virsdavo ganykla, o naujas lydimas buvo daromas kitoje miško ar pamiškės vietoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184355"></a>
 - t-002
+  global_id: t-184355
   teiginys: 'Šitaip atsirado dvilaukė sistema.'
   pagrindžia:
     - c-002

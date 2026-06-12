@@ -27,7 +27,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87680"></a>
 - t-001
+  global_id: t-87680
   teiginys: 'Goštautas buvo Trakų vaivada ir Barboros Radvilaitės vyras, po kurio mirties Barbora liko našlė.'
   pagrindžia:
     - c-001

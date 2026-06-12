@@ -26,7 +26,9 @@ Po sukilimo vykusios represijos sustabdė istoriko planų įgyvendinimą, nors j
 
 ## Teiginiai
 
+<a id="claim-t-87779"></a>
 - t-001
+  global_id: t-87779
   teiginys: 'Michailas Muravjovas-Korikas po 1863 m. sukilimo buvo naujai paskirtas Vilniaus generalgubernatorius ir vykdė represijas krašte.'
   pagrindžia:
     - c-001

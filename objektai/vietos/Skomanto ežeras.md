@@ -17,7 +17,9 @@ Dusburgietis teigia, kad zioka Skomackas Skomantai Skomanto ež.
 
 ## Teiginiai
 
+<a id="claim-t-58726"></a>
 - t-001
+  global_id: t-58726
   teiginys: 'Dusburgietis teigia, kad zioka Skomackas Skomantai Skomanto ež.'
   pagrindžia:
     - c-001

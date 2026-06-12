@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Kazimiero konfliktas dėl Rusios ir sutartis su lietuvių valdovu (sutartis)
 
 ## Santrauka
 
-Kojelavičius teigia, kad tad šis, norėdamas apginti savo teises į Ru sią, nutarė, jog pirmiausia būtina kariauti su lietuviais.
+Kazimieras, siekdamas apginti savo teises į Rusią, pirmiausia nutarė kariauti su lietuviais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185806"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tad šis, norėdamas apginti savo teises į Ru sią, nutarė, jog pirmiausia būtina kariauti su lietuviais.'
+  global_id: t-185806
+  teiginys: 'Kazimieras, siekdamas apginti savo teises į Rusią, pirmiausia nutarė kariauti su lietuviais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tad šis, norėdamas apginti savo teises į Ru sią, nutarė, jog pirmiausia būtina kariauti su lietuviais.'
+  santrauka: 'Kazimieras, siekdamas apginti savo teises į Rusią, pirmiausia nutarė kariauti su lietuviais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tad šis, norėdamas apginti savo teises į Ru­
@@ -61,3 +62,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/daiktai/Ginklai]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Liubartas]]

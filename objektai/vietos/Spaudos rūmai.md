@@ -17,7 +17,9 @@ Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus ir Krašto ap
 
 ## Teiginiai
 
+<a id="claim-t-21817"></a>
 - t-001
+  global_id: t-21817
   teiginys: 'Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus ir Krašto apsaugos tarnybos pastatus Vilniuje, Šiauliuose, Alytuje, vėliau – Vilniaus geležinkelio mazgą.'
   pagrindžia:
     - c-001

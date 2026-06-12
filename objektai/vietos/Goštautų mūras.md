@@ -24,12 +24,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86071"></a>
 - t-001
+  global_id: t-86071
   teiginys: 'Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo Goštautų vardu vadintą mūrinį namą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86072"></a>
 - t-002
+  global_id: t-86072
   teiginys: 'Kardinolas Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią, kurioje ilgai buvo laikomos pamaldos.'
   pagrindžia:
     - c-002

@@ -6,29 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Fiodoras Ostrogiškis
 
 ## Santrauka
 
-Kojelavičius teigia, kad padalijęs savo jėgas dviem žygio voromis, vieną pats nuvedė į Lietuvą, o kunigaikščiui Fiodorui Ostrogiškiui su kita įsakė užim ti Podolę. Kojelavičius teigia, kad kunigaikštis Fiodoras, manydamas, jog lenkams į pagalbą atskuba didelės jėgos, anksčiau už kitus paspruko su rinkti niais kariais iš kovos lauko į saugesnę vietą, o paskui, vadą be tvarkos pasileido ir visa kariuomenė.
+Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti Podolę. Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad lenkams į pagalbą atskuba didelės jėgos.
 
 ## Teiginiai
 
+<a id="claim-t-186037"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad padalijęs savo jėgas dviem žygio voromis, vieną pats nuvedė į Lietuvą, o kunigaikščiui Fiodorui Ostrogiškiui su kita įsakė užim ti Podolę.'
+  global_id: t-186037
+  teiginys: 'Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti Podolę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186038"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad kunigaikštis Fiodoras, manydamas, jog lenkams į pagalbą atskuba didelės jėgos, anksčiau už kitus paspruko su rinkti niais kariais iš kovos lauko į saugesnę vietą, o paskui, vadą be tvarkos pasileido ir visa kariuomenė.'
+  global_id: t-186038
+  teiginys: 'Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad lenkams į pagalbą atskuba didelės jėgos.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad padalijęs savo jėgas dviem žygio voromis, vieną pats nuvedė į Lietuvą, o kunigaikščiui Fiodorui Ostrogiškiui su kita įsakė užim ti Podolę.'
+  santrauka: 'Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti Podolę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kryžiuočiai
@@ -65,7 +68,7 @@ Kojelavičius teigia, kad padalijęs savo jėgas dviem žygio voromis, vieną pa
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad kunigaikštis Fiodoras, manydamas, jog lenkams į pagalbą atskuba didelės jėgos, anksčiau už kitus paspruko su rinkti niais kariais iš kovos lauko į saugesnę vietą, o paskui, vadą be tvarkos pasileido ir visa kariuomenė.'
+  santrauka: 'Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad lenkams į pagalbą atskuba didelės jėgos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lenkai atgavo drąsą ir ūpą, tuo
@@ -81,3 +84,13 @@ Kojelavičius teigia, kad padalijęs savo jėgas dviem žygio voromis, vieną pa
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/vora]]
+- [[objektai/zodynas/žygio vora]]
+- [[objektai/ivykiai/Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.)]]

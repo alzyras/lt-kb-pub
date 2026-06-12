@@ -47,22 +47,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-65004"></a>
 - t-001
+  global_id: t-65004
   teiginys: 'Vytauto Didžiojo kulto kūrimo momentas: 1930 m. Pasvalyje ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą kunigaikščio paveikslas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-65005"></a>
 - t-002
+  global_id: t-65005
   teiginys: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto paveikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietuvos miestuose ir.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-65006"></a>
 - t-003
+  global_id: t-65006
   teiginys: '1930 m. Pasvalyje ypatinga ceremonija buvo pagerbtas po Lietuvą keliavęs Vytauto Didžiojo paveikslas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-65007"></a>
 - t-004
+  global_id: t-65007
   teiginys: 'Vytauto Didžiojo kulto kūrimo momentas: 1930 m. Pasvalyje ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą kunigaikščio paveikslas Vytauto Didžiojo karo muziejus, atidarytas 1935 m.'
   pagrindžia:
     - c-001

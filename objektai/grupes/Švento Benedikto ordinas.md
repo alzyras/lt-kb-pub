@@ -18,7 +18,9 @@ Dusburgietis teigia, kad apie vienuolijų kilmę ir pradžią Švento Benedikto 
 
 ## Teiginiai
 
+<a id="claim-t-59047"></a>
 - t-001
+  global_id: t-59047
   teiginys: 'Dusburgietis teigia, kad apie vienuolijų kilmę ir pradžią Švento Benedikto ordinas pradėjo naudingai darbuotis 500 viešpaties metais popiežiaus Felikso III laikais (Ptol.'
   pagrindžia:
     - c-001

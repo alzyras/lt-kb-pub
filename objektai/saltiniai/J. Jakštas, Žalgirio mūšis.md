@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31727"></a>
 - t-001
+  global_id: t-31727
   teiginys: 'J. Jakšto „Žalgirio mūšis“ paskelbtas Lietuvių enciklopedijos 35 tome, p. 158–163.'
   pagrindžia:
     - c-001

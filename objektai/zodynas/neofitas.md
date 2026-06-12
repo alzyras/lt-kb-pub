@@ -22,17 +22,23 @@ Ordinui pulti lietuvius, kaipo neofitus. Lietuvos katalikai buvo laikomi neofita
 
 ## Teiginiai
 
+<a id="claim-t-179583"></a>
 - t-001
+  global_id: t-179583
   teiginys: 'Ordinui pulti lietuvius, kaipo neofitus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-179584"></a>
 - t-002
+  global_id: t-179584
   teiginys: 'Lietuvos katalikai buvo laikomi neofitais, nes į tikėjimą žiūrėjo šalčiau ir labiau iš reikalo negu iš įsitikinimo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-179585"></a>
 - t-003
+  global_id: t-179585
   teiginys: 'Popiežius Bonifacas IX rėmė neofitą Vytautą kaip kovotoją su katalikų priešais.'
   pagrindžia:
     - c-003

@@ -41,32 +41,44 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 
 ## Teiginiai
 
+<a id="claim-t-05469"></a>
 - t-001
+  global_id: t-05469
   teiginys: 'Lietuvių tauta prieš pusę šimtmečio įgyvendino Lietuvos valstybingumo idealą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-05470"></a>
 - t-002
+  global_id: t-05470
   teiginys: 'Visas veikalo dėstymas sutelktas apie valstybingumo idėją lietuvių tautoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-05471"></a>
 - t-003
+  global_id: t-05471
   teiginys: 'Valstybingumo idėja aprašoma kaip atsiradusi, vystęsi, išbujavusi, silpusi, atsigavusi ir realizuota.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-05472"></a>
 - t-004
+  global_id: t-05472
   teiginys: 'Viena Lietuvos istorijos periodizacija remiasi valstybingumo idėja.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-05473"></a>
 - t-005
+  global_id: t-05473
   teiginys: 'Lietuvių tautos valstybingumo idėja grindė periodizaciją pagal Lietuvos valstybės raidą, žlugimą ir atkūrimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-05474"></a>
 - t-006
+  global_id: t-05474
   teiginys: 'Naujaisiais laikais šiai periodizacijai svarbiausia valstybingumo idėja.'
   pagrindžia:
     - c-004

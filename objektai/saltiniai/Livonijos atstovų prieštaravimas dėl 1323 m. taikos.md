@@ -26,12 +26,16 @@ Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų p
 
 ## Teiginiai
 
+<a id="claim-t-60990"></a>
 - t-001
+  global_id: t-60990
   teiginys: 'Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų prieštaravimo lotyniškojo vertimo fraze ex parte regis praedicti Lethoviae, Eustoythen, Samaythen, Plescowe et omnes Rutheni (LUB, 2, Nr. 694, p. 154; plg.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-60991"></a>
 - t-002
+  global_id: t-60991
   teiginys: 'Dusburgietis teigia, kad livonijos atstovų prieštaravimo originale rašoma: van des koninges wegene van Lettowen dat lant do Ousteyten und Sameyten, Plessekowe und alle de Russen (LUB, 2, Nr. 694, p. 155).'
   pagrindžia:
     - c-001

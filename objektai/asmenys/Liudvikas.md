@@ -17,17 +17,23 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 
 ## Teiginiai
 
+<a id="claim-t-63882"></a>
 - t-001
+  global_id: t-63882
   teiginys: 'Po bevaikio Kazimiero mirties sostas atiteko jo sesers sūnui, Vengrijos karaliui Liudvikui iš d''''Anjou giminės.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-63883"></a>
 - t-002
+  global_id: t-63883
   teiginys: 'Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti Galiciją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-63884"></a>
 - t-003
+  global_id: t-63884
   teiginys: 'Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno įpėdinio.'
   pagrindžia:
     - c-001
@@ -122,4 +128,7 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 - [[objektai/zodynas/ginklanešys]]
 - [[objektai/zodynas/šeimynykštis famulus]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkijos senatas]]
+- [[objektai/grupes/Lenkų senatas]]
 - [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]

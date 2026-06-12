@@ -17,7 +17,9 @@ Snayerso paveikslo „Salaspilio mūšis“ fragmente švedai pradeda bėgti iš
 
 ## Teiginiai
 
+<a id="claim-t-40382"></a>
 - t-001
+  global_id: t-40382
   teiginys: 'P. Snayerso paveikslo „Salaspilio mūšis“ fragmente švedai pradeda bėgti iš mūšio lauko.'
   pagrindžia:
     - c-001

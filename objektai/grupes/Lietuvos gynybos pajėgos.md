@@ -22,12 +22,16 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-41026"></a>
 - t-001
+  global_id: t-41026
   teiginys: '1949 m. minimas asmuo tapo LLKS tarybos prezidiumo pirmininko J. Žemaičio-Vytauto pavaduotoju ir LLKS gynybos pajėgų vadu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41027"></a>
 - t-002
+  global_id: t-41027
   teiginys: 'Žemaitis išrinktas LLKS tarybos prezidiumo pirmininku, taip pat laikinai ėjo Lietuvos gynybos pajėgų vado pareigas.'
   pagrindžia:
     - c-001

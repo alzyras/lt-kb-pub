@@ -26,22 +26,30 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
 
 ## Teiginiai
 
+<a id="claim-t-75448"></a>
 - t-001
+  global_id: t-75448
   teiginys: 'Gruodžio 11-osios rezoliucija sukėlė neigiamas JAV ir Rusijos lietuvių reakcijas ir suskaldė Lietuvos Tarybą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75449"></a>
 - t-002
+  global_id: t-75449
   teiginys: 'Gruodžio 11-osios rezoliucijos projektą Oberostas pateikė Tarybos prezidiumui, kuris jį pataisė ir grąžino karinei administracijai kaip priimtą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75450"></a>
 - t-003
+  global_id: t-75450
   teiginys: 'Žinoma, Vokietijai ši rezoliucija pravertė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias Lietuvos Tarybos delegacija net nebuvo pakviesta.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183359"></a>
 - t-004
+  global_id: t-183359
   teiginys: 'Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris, kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip priimtą.'
   pagrindžia:
     - c-004

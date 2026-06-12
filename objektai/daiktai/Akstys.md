@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08278"></a>
 - t-001
+  global_id: t-08278
   teiginys: 'Akstys buvo ginklai, kurių galuose vietoj ietigalių buvo įtaisyti aštrūs akmenys.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-08279"></a>
 - t-002
+  global_id: t-08279
   teiginys: 'Tokios akstys dar buvo dėvimos 10 amžiuje ir siejamos su šv. Vaitiekaus pervėrimu.'
   pagrindžia:
     - c-002

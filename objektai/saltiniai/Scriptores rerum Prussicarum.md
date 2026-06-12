@@ -25,7 +25,9 @@ Dusburgietis teigia, kad nuorašus parengė ir 1861 m. „Scriptores rerum Pruss
 
 ## Teiginiai
 
+<a id="claim-t-61290"></a>
 - t-001
+  global_id: t-61290
   teiginys: 'M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė mokslinį kronikos leidimą lotynų kalba.'
   pagrindžia:
     - c-001

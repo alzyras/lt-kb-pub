@@ -35,12 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-91904"></a>
 - t-001
+  global_id: t-91904
   teiginys: 'Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save visos žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-91905"></a>
 - t-002
+  global_id: t-91905
   teiginys: 'Dusburgietis teigia, kad šios klastingos tautos [gyvenamų žemių] viduryje, Nadruvoje, buvo vieta, kurią vadino Romove204, gavusi savo vardą nuo Romos, o ten gyveno žmogus, 203 Manoma, kad pagrindinė Galindos žemės nusiaubimo priežastis buvo pasienio karai, ypač su Lenkija XI—XIII a.'
   pagrindžia:
     - c-002

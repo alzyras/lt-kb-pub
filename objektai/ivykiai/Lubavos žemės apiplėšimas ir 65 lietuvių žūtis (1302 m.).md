@@ -38,12 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62382"></a>
 - t-001
+  global_id: t-62382
   teiginys: 'Dusburgietis teigia, kad po to broliai iš patikimų šaltinių sužinojo, kad vos keli šio būrio lietuviai gyvi ir sveiki besugrįžo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-62383"></a>
 - t-002
+  global_id: t-62383
   teiginys: 'Dusburgietis teigia, kad apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten nužudė ar išsivarė į nelaisvę beveik 200 krikščionių.'
   pagrindžia:
     - c-001

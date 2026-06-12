@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86922"></a>
 - t-001
+  global_id: t-86922
   teiginys: '1812 m. prancūzams valdant Vilnių ir Lietuvą, krašto bajorai laukė žinių apie Napoleono kampaniją Rusijos imperijos gilumoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86923"></a>
 - t-002
+  global_id: t-86923
   teiginys: 'Po Napoleono sutriuškinimo Rusijoje kurį laiką pastebimas visuomeninio gyvenimo pagyvėjimas.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Pabaiskas yra parapijos kaimas, priklausantis vie­ tiniam klebonui ir nutolęs 
 
 ## Teiginiai
 
+<a id="claim-t-86202"></a>
 - t-001
+  global_id: t-86202
   teiginys: 'Pabaiskas buvo už pusės mylios nuo Kščeniškių ir per 2 varstus į kairę nuo Vilniaus–Ukmergės pašto trakto.'
   pagrindžia:
     - c-001

@@ -44,17 +44,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19594"></a>
 - t-001
+  global_id: t-19594
   teiginys: 'Vyskupas slapta suorganizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose ir nelegalų jos platinimą Lietuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-19595"></a>
 - t-002
+  global_id: t-19595
   teiginys: 'Spaudos draudimo laikotarpiu Rytprūsiuose išleista daugiau kaip 1 800 lietuviškų knygų pavadinimų Didžiajai Lietuvai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183300"></a>
 - t-003
+  global_id: t-183300
   teiginys: 'Valdžios ir žandarų bausmės knygnešiams nesustabdė lietuviškos spaudos srauto į Lietuvą.'
   pagrindžia:
     - c-002

@@ -23,7 +23,9 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
 
 ## Teiginiai
 
+<a id="claim-t-77854"></a>
 - t-001
+  global_id: t-77854
   teiginys: 'Vilniaus akademiją steigęs jėzuitas rašė, kad iš Vilniaus atsiveria kelias į Maskoviją, o per totorius galima pasiekti Kiniją.'
   pagrindžia:
     - c-001

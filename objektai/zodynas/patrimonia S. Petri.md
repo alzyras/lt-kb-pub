@@ -18,7 +18,9 @@ Tokiomis patrimonia S.
 
 ## Teiginiai
 
+<a id="claim-t-28598"></a>
 - t-001
+  global_id: t-28598
   teiginys: 'Patrimonia S. Petri tuo metu buvo tapusi ne viena Europos šalis.'
   pagrindžia:
     - c-001

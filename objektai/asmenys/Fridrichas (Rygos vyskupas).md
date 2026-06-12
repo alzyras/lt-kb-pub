@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Fridrichas (Rygos vyskupas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad fridrichas, Rygos vyskupas, gal asme niškai jausdamas Gediminui dėkingumą už ne vieną kar tą suteiktą pagalbą, o gal gailėdamasis karų nukamuotos Livonijos, bandė am žiams sutaikyti Livonijos ordiną ir Lietuvą.
+Rygos vyskupas Fridrichas bandė sutaikyti Livonijos ordiną ir Lietuvą, pasitelkęs popiežiaus Jono XXII autoritetą.
 
 ## Teiginiai
 
+<a id="claim-t-186204"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad fridrichas, Rygos vyskupas, gal asme niškai jausdamas Gediminui dėkingumą už ne vieną kar tą suteiktą pagalbą, o gal gailėdamasis karų nukamuotos Livonijos, bandė am žiams sutaikyti Livonijos ordiną ir Lietuvą.'
+  global_id: t-186204
+  teiginys: 'Rygos vyskupas Fridrichas bandė sutaikyti Livonijos ordiną ir Lietuvą, pasitelkęs popiežiaus Jono XXII autoritetą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad fridrichas, Rygos vyskupas, gal asme niškai jausdamas Gediminui dėkingumą už ne vieną kar tą suteiktą pagalbą, o gal gailėdamasis karų nukamuotos Livonijos, bandė am žiams sutaikyti Livonijos ordiną ir Lietuvą.'
+  santrauka: 'Rygos vyskupas Fridrichas bandė sutaikyti Livonijos ordiną ir Lietuvą, pasitelkęs popiežiaus Jono XXII autoritetą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai šitaip klostėsi reikalai
@@ -46,3 +47,8 @@ Kojelavičius teigia, kad fridrichas, Rygos vyskupas, gal asme niškai jausdamas
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Kalavijuočių ordinas]]

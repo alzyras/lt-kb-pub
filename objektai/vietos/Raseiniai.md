@@ -24,7 +24,6 @@ amziai:
   - 'XIV'
   - 'XV'
 ---
-
 # Raseiniai
 
 ## Santrauka
@@ -33,38 +32,52 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 
 ## Teiginiai
 
+<a id="claim-t-182825"></a>
 - t-001
+  global_id: t-182825
   teiginys: 'Po Vaikių krašto nusiaubimo ginkluota palyda kitą dieną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-183087"></a>
 - t-002
-  teiginys: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
+  global_id: t-183087
+  teiginys: 'Raseiniuose buvo įkurta pijarų mokykla.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-183804"></a>
 - t-003
+  global_id: t-183804
   teiginys: 'Bermontininkų rankose atsidūrė Šiaurės Lietuva, palaipsniui judėdami į pietus bermontininkai pasiekė net Raseinius.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184321"></a>
 - t-004
+  global_id: t-184321
   teiginys: 'Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184395"></a>
 - t-005
+  global_id: t-184395
   teiginys: 'Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis; tik dėl staigaus polaidžio jis turėjo gana nuostolingą grįžimą^12.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184396"></a>
 - t-006
+  global_id: t-184396
   teiginys: 'Raseinių sritis buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai darė taiką su Vytautu ir Ordinu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185121"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad didelį kraštą — Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius jis sulygino su žeme.'
+  global_id: t-185121
+  teiginys: 'Priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.'
   pagrindžia:
     - c-007
 
@@ -120,7 +133,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     - t-001
 
 - c-004
-  santrauka: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
+  santrauka: 'Raseiniuose buvo įkurta pijarų mokykla.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pijarai, niekuo daugiau neužsiimdami,
@@ -180,7 +193,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     - t-004
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad didelį kraštą — Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius jis sulygino su žeme.'
+  santrauka: 'Priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai

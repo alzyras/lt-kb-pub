@@ -13,12 +13,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Kryžiuočių žygis, Algirdo pralaimėjimas ir atsakomasis puolimas į Sembą (1345-1346 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad todėl, atidėję žygį kitam laikui, be garbės ir be N io k o ja m a L ietu va , grobio kryžiuočiai sugrįžo su m u ša m a s A lg ird a s namo; kitais metais, su keturiasdešimčia tūkstančių įsi brovę į Lietuvą, jie nusiaubė didelius Žemaitijos plo tus.
+Kitais metais kryžiuočiai su keturiasdešimčia tūkstančių karių įsiveržė į Lietuvą ir nusiaubė didelius Žemaitijos plotus.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -34,15 +33,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185730"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad todėl, atidėję žygį kitam laikui, be garbės ir be N io k o ja m a L ietu va , grobio kryžiuočiai sugrįžo su m u ša m a s A lg ird a s namo; kitais metais, su keturiasdešimčia tūkstančių įsi brovę į Lietuvą, jie nusiaubė didelius Žemaitijos plo tus.'
+  global_id: t-185730
+  teiginys: 'Kitais metais kryžiuočiai su keturiasdešimčia tūkstančių karių įsiveržė į Lietuvą ir nusiaubė didelius Žemaitijos plotus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad todėl, atidėję žygį kitam laikui, be garbės ir be N io k o ja m a L ietu va , grobio kryžiuočiai sugrįžo su m u ša m a s A lg ird a s namo; kitais metais, su keturiasdešimčia tūkstančių įsi brovę į Lietuvą, jie nusiaubė didelius Žemaitijos plo tus.'
+  santrauka: 'Kitais metais kryžiuočiai su keturiasdešimčia tūkstančių karių įsiveržė į Lietuvą ir nusiaubė didelius Žemaitijos plotus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Arti-
@@ -76,3 +77,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/žygis]]

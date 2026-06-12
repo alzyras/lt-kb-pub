@@ -16,12 +16,16 @@ Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turė
 
 ## Teiginiai
 
+<a id="claim-t-02529"></a>
 - t-001
+  global_id: t-02529
   teiginys: 'Generolams sutarus perskirti jėgas, Dembinskis turėjo eiti į Kuršo pasienį.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183038"></a>
 - t-002
+  global_id: t-183038
   teiginys: 'Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.'
   pagrindžia:
     - c-002

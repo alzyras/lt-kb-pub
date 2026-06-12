@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-89448"></a>
 - t-001
+  global_id: t-89448
   teiginys: 'Dusburgietis teigia, kad ir šiuo atveju Petras iš Dusburgo yra ryškus Ordino interesų gynėjas, visas pastangas sutelkęs kronikos pagrindinei idėjai — agresyvios vokiečių feodalų klasės politikos vykdytojo, Ordino, apologijai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89449"></a>
 - t-002
+  global_id: t-89449
   teiginys: 'Dusburgietis teigia, kad kronikos idėjinė reikšmė ir mokslinė svarba Kronikos tekstas ryškiai parodo jos autoriaus, kaip vokiečių feodalų karinės-religinės organizacijos ideologo, siekimus išaukštinti ir pateisinti Ordino veiksmus krikščionybės platinimu.'
   pagrindžia:
     - c-001

@@ -25,27 +25,37 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 
 ## Teiginiai
 
+<a id="claim-t-173018"></a>
 - t-001
+  global_id: t-173018
   teiginys: '1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-173019"></a>
 - t-002
+  global_id: t-173019
   teiginys: 'Vilniaus tarėjai reikalavo atleisti miestą nuo Vilniaus kapitulos naujai pasisavintos jurisdikcijos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-173020"></a>
 - t-003
+  global_id: t-173020
   teiginys: 'Vilniaus katedros kapitula bažnytinėse savo asmenų ir valdinių bylose turėjo jurisdikciją su ekskomunikacijos teise.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-173021"></a>
 - t-004
+  global_id: t-173021
   teiginys: 'Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-173022"></a>
 - t-005
+  global_id: t-173022
   teiginys: 'Vilniaus vyskupui ir jo įpėdiniams suteikta mėsos krautuvių kūrimo jurisdikcija Vilniaus bažnyčios teritorijoje.'
   pagrindžia:
     - c-003

@@ -16,12 +16,16 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
 
 ## Teiginiai
 
+<a id="claim-t-70076"></a>
 - t-001
+  global_id: t-70076
   teiginys: 'Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armijos dalinius, ukrainiečių, latvių policijos batalionus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70077"></a>
 - t-002
+  global_id: t-70077
   teiginys: 'Vadinamųjų akcijų metu buvo žudomi ir didžiųjų getų žydai.'
   pagrindžia:
     - c-002

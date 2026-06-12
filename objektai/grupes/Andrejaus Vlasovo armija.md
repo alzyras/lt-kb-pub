@@ -16,7 +16,9 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
 
 ## Teiginiai
 
+<a id="claim-t-19632"></a>
 - t-001
+  global_id: t-19632
   teiginys: 'Naciai Lietuvoje akcijose prieš žydus panaudojo Andrejaus Vlasovo armijos dalinius.'
   pagrindžia:
     - c-001

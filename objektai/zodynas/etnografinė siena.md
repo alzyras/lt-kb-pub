@@ -24,22 +24,30 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
 
 ## Teiginiai
 
+<a id="claim-t-72688"></a>
 - t-001
+  global_id: t-72688
   teiginys: 'Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis, arba etnografinėmis, žemėmis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72689"></a>
 - t-002
+  global_id: t-72689
   teiginys: 'Pradinė Latvijos ir Lietuvos siena nesutapo su etnografine lietuvių siena, todėl pradžioje kildavo nesusipratimų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-72690"></a>
 - t-003
-  teiginys: 'Okupacijos metu ir Vilniaus konferencija ir Taryba vengė aiškiai kelti Mažosios Lietuvos klausimo; buvo pasitenkinta bendru posakiu, kad būsimoji Lietuva turinti apimti lietuvių gyvenamąsias (etnografines) žemes.'
+  global_id: t-72690
+  teiginys: 'Okupacijos metu Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis etnografinėmis žemėmis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72691"></a>
 - t-004
+  global_id: t-72691
   teiginys: 'Lietuvos Latvijos sienos nustatymas Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena.'
   pagrindžia:
     - c-002

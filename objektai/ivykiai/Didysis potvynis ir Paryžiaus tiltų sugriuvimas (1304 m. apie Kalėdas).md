@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62236"></a>
 - t-001
+  global_id: t-62236
   teiginys: 'Dusburgietis teigia, kad apie potvynį 1304 viešpaties metais, apie kalėdas, taip ištvino vanduo, kad žmonės manė, jog žūsią nuo tvano.'
   pagrindžia:
     - c-001

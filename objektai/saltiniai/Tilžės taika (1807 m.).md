@@ -23,7 +23,9 @@ Tilžėje padaryta su Aleksandru I taika (1807 m.) palaidojo Lietuvos bajorų vi
 
 ## Teiginiai
 
+<a id="claim-t-02295"></a>
 - t-001
+  global_id: t-02295
   teiginys: 'Tilžėje padaryta su Aleksandru I taika (1807 m.) palaidojo Lietuvos bajorų viltis.'
   pagrindžia:
     - c-001

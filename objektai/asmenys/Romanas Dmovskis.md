@@ -18,17 +18,23 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
 
 ## Teiginiai
 
+<a id="claim-t-19207"></a>
 - t-001
+  global_id: t-19207
   teiginys: 'Romano Dmovskio ir J. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-19208"></a>
 - t-002
+  global_id: t-19208
   teiginys: 'Romanas Dmovskis buvo lenkų tautinių demokratų lyderis ir vadovavosi lenkų organinio nacionalizmo doktrina.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183563"></a>
 - t-003
+  global_id: t-183563
   teiginys: 'Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kurių lyderis visų lenkų žemių mastu Romanas Dmovskis (Roman Dmowski) vadovavosi lenkų organinio nacionalizmo doktrina.'
   pagrindžia:
     - c-003

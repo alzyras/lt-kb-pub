@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86955"></a>
 - t-001
+  global_id: t-86955
   teiginys: '1831 m. gegužę Mykolas Balinskis buvo areštuotas, bet netrukus paleistas.'
   pagrindžia:
     - c-001

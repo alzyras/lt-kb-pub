@@ -18,22 +18,30 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
 
 ## Teiginiai
 
+<a id="claim-t-19634"></a>
 - t-001
+  global_id: t-19634
   teiginys: 'Antantės šalys pareikalavo, kad Vokietija leistų panaudoti savo dalinius bolševizmui stabdyti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-19635"></a>
 - t-002
+  global_id: t-19635
   teiginys: 'Neilgai trukus Vatikanas, JAV, Ispanija, Olandija, Skandinavijos šalys, o 1922 m. gruodžio 20 d. keturios Antantės valstybės (Prancūzija, Anglija, Italija, Japonija) pripažino Lietuvą de jure.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-19636"></a>
 - t-003
+  global_id: t-19636
   teiginys: 'Antantės karinės misijos sustiprino Lietuvos viltis pasiekti nepriklausomybę ir suteikė Antantei objektyvios informacijos apie padėtį Lietuvoje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-19637"></a>
 - t-004
+  global_id: t-19637
   teiginys: 'Antantė pripažino, kad Lietuvos Taryba iškėlė nepriklausomybės klausimą ir išsivadavo iš Vokietijos politikos diktato.'
   pagrindžia:
     - c-002

@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62920"></a>
 - t-001
+  global_id: t-62920
   teiginys: 'Dabartinės Torunės pilies vietoje stovėjusi X a. vidurio–XII–XIII a. sandūros pilaitė buvo sunaikinta prūsų.'
   pagrindžia:
     - c-001

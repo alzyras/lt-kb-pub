@@ -17,7 +17,9 @@ Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus i
 
 ## Teiginiai
 
+<a id="claim-t-88458"></a>
 - t-001
+  global_id: t-88458
   teiginys: 'O stanie Akademii Krakowskiej nurodoma, kad Mikalojus iš Gožkovo buvo trečiasis Krokuvos akademijos rektorius.'
   pagrindžia:
     - c-001

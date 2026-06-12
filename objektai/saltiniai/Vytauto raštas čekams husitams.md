@@ -22,7 +22,9 @@ Tad Vytautas įsakė grįžti Kaributui į Lietuvą, o čekams husitams nurašė
 
 ## Teiginiai
 
+<a id="claim-t-36131"></a>
 - t-001
+  global_id: t-36131
   teiginys: 'Vytautas rašte čekams husitams teigė nerėmęs jų mokslo ir siūlė tarpininkauti tarp jų ir Zigmanto, jeigu jie atsisakytų erezijos.'
   pagrindžia:
     - c-001

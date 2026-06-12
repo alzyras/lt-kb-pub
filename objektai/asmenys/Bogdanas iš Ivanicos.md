@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Bogdanas iš Ivanicos
 
 ## Santrauka
 
-Kojelavičius teigia, kad pastarąjį šaukė Bogdanu iš Ivanicos: gūdžią naktį įsėlinęs į len kų stovyklą ir viską paeiliui pilnaties šviesoje išžvalgęs, jis papasakojo kunigaikščiui, ką matęs, patarda mas, kaip ir pro kur sprukti iš pavojaus.
+Bogdanas iš Ivanicos naktį išžvalgė lenkų stovyklą ir patarė Vladimire apsuptam Liubartui, kaip išvengti nelaisvės.
 
 ## Teiginiai
 
+<a id="claim-t-186185"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pastarąjį šaukė Bogdanu iš Ivanicos: gūdžią naktį įsėlinęs į len kų stovyklą ir viską paeiliui pilnaties šviesoje išžvalgęs, jis papasakojo kunigaikščiui, ką matęs, patarda mas, kaip ir pro kur sprukti iš pavojaus.'
+  global_id: t-186185
+  teiginys: 'Bogdanas iš Ivanicos naktį išžvalgė lenkų stovyklą ir patarė Vladimire apsuptam Liubartui, kaip išvengti nelaisvės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pastarąjį šaukė Bogdanu iš Ivanicos: gūdžią naktį įsėlinęs į len kų stovyklą ir viską paeiliui pilnaties šviesoje išžvalgęs, jis papasakojo kunigaikščiui, ką matęs, patarda mas, kaip ir pro kur sprukti iš pavojaus.'
+  santrauka: 'Bogdanas iš Ivanicos naktį išžvalgė lenkų stovyklą ir patarė Vladimire apsuptam Liubartui, kaip išvengti nelaisvės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     To pat karo
@@ -40,3 +41,7 @@ Kojelavičius teigia, kad pastarąjį šaukė Bogdanu iš Ivanicos: gūdžią na
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]

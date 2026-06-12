@@ -41,7 +41,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31435"></a>
 - t-001
+  global_id: t-31435
   teiginys: 'Kulikovo laimėjimas sujudino Lietuvai priklausančią Rusią.'
   pagrindžia:
     - c-001

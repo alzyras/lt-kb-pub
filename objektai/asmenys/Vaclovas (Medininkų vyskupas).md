@@ -19,7 +19,9 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 
 ## Teiginiai
 
+<a id="claim-t-87481"></a>
 - t-001
+  global_id: t-87481
   teiginys: 'Medininkų vyskupas Vaclovas dalyvavo 1542 m. Vilniuje duoto rašto patvirtinime kartu su kitais dignitoriais ir pareigūnais.'
   pagrindžia:
     - c-001

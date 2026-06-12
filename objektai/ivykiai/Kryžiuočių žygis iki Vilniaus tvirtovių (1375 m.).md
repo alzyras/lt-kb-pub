@@ -44,17 +44,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-55123"></a>
 - t-001
+  global_id: t-55123
   teiginys: '1375 m. Vinricho ekspedicija į Lietuvą nutrūko dėl staigaus atodrėkio ir upių polaidžio.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-55124"></a>
 - t-002
+  global_id: t-55124
   teiginys: 'Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet staiga užimti miesto nepavyko.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-81826"></a>
 - t-003
+  global_id: t-81826
   teiginys: 'Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet miesto staiga neužėmė.'
   pagrindžia:
     - c-003

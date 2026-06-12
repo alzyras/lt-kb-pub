@@ -16,7 +16,9 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
 
 ## Teiginiai
 
+<a id="claim-t-19409"></a>
 - t-001
+  global_id: t-19409
   teiginys: 'Josephas Everattas kartu su Mindaugu Šapoka redagavo leidinį „The Battle of Grünwald“.'
   pagrindžia:
     - c-001

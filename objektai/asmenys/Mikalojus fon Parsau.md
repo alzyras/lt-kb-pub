@@ -19,7 +19,9 @@ Gal todėl, kad daugybė Ordino riterių, būtent, Ordino kunigas Jonas Rygietis
 
 ## Teiginiai
 
+<a id="claim-t-87552"></a>
 - t-001
+  global_id: t-87552
   teiginys: '1323 m. Liubeke prieš apsisprendžiant dėl Gedimino laiškų nutarta kreiptis patarimo į Karkuso valdytoją Mikalojų fon Parsau.'
   pagrindžia:
     - c-001

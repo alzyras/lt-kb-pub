@@ -22,7 +22,9 @@ Biržiška : Senųjų lietuviškų knygų istorija , I, Chicago, Ill.
 
 ## Teiginiai
 
+<a id="claim-t-31920"></a>
 - t-001
+  global_id: t-31920
   teiginys: 'Vaclovas Biržiška „Senųjų lietuviškų knygų istorijos“ I tomą išleido Čikagoje 1953 m.'
   pagrindžia:
     - c-001

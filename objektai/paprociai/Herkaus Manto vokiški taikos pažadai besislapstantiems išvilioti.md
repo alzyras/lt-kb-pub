@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62116"></a>
 - t-001
+  global_id: t-62116
   teiginys: 'Herkus Mantas vokiškai žadėdavo saugumą besislapstantiems krikščionims, o išėjusius su saviškiais suimdavo arba nužudydavo.'
   pagrindžia:
     - c-001

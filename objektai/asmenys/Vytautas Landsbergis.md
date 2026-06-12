@@ -29,42 +29,58 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 
 ## Teiginiai
 
+<a id="claim-t-170245"></a>
 - t-001
+  global_id: t-170245
   teiginys: 'Vytautas Landsbergis ir B. Jelcinas 1991 m. liepos 29 d. buvo savo šalių parlamentų pirmininkai.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-170246"></a>
 - t-002
+  global_id: t-170246
   teiginys: 'Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Aušros vartų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-170247"></a>
 - t-003
+  global_id: t-170247
   teiginys: 'Landsbergį, nors sunkumai buvo senosios ekonomikos pasekmės.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-170248"></a>
 - t-004
+  global_id: t-170248
   teiginys: 'Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirmininko Vytauto Landsbergio, priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-170249"></a>
 - t-005
+  global_id: t-170249
   teiginys: '1991 m. sausio 13 d. valstybės vadovas V. Landsbergis ragino susirinkusius prie parlamento nepasiduoti provokacijoms ir dainuoti.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-170250"></a>
 - t-006
+  global_id: t-170250
   teiginys: 'Landsbergio vadovaujamus konservatorius.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-170251"></a>
 - t-007
+  global_id: t-170251
   teiginys: 'Landsbergis, kreipdamasis į susirinkusius prie parlamento, ragino užslopinti pyktį, nepasiduoti provokacijoms ir...'
   pagrindžia:
     - c-002
 
+<a id="claim-t-170253"></a>
 - t-008
+  global_id: t-170253
   teiginys: 'Vytautas Landsbergis 1991 m. sausio 13 d. buvo Aukščiausiosios Tarybos pirmininkas ir šalies vadovas.'
   pagrindžia:
     - c-001

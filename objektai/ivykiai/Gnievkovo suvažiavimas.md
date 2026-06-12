@@ -32,7 +32,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-100050"></a>
 - t-001
+  global_id: t-100050
   teiginys: '53, 131 Girstutis 155 Glapas, prūsų vadas 187 Glinskis Mykolas 39 Gnievkovo suvažiavimas 354 Gnieznas 174; Gniezno arkiv.'
   pagrindžia:
     - c-001

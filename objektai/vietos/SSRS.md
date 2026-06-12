@@ -27,57 +27,79 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 
 ## Teiginiai
 
+<a id="claim-t-77326"></a>
 - t-001
+  global_id: t-77326
   teiginys: 'Pusė jų 1941 m. balandį–birželį išvežti į SSRS gilumą, daugiausia Sibirą.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-77327"></a>
 - t-002
+  global_id: t-77327
   teiginys: 'Lietuvos aukštosiose mokyklose mokslas politizuotas (dėstytas privalomas marksizmo-leninizmo kursas), aukštosios mokyklos pertvarkytos pagal SSRS aukštųjų mokyklų sistemą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-77328"></a>
 - t-003
+  global_id: t-77328
   teiginys: 'Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo.'
   pagrindžia:
     - c-010
 
+<a id="claim-t-77329"></a>
 - t-004
+  global_id: t-77329
   teiginys: 'Lietuvą pavertus SSRS dalimi, jos valdymo sistema buvo pertvarkoma pagal Sovietų Sąjungos modelį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-77331"></a>
 - t-005
+  global_id: t-77331
   teiginys: 'SSRS 1940 metų ultimatumas ir sovietų okupacija Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrinkta į Tautų Sąjungos Tarybą.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-77332"></a>
 - t-006
+  global_id: t-77332
   teiginys: 'Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lietuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių ryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-77333"></a>
 - t-007
+  global_id: t-77333
   teiginys: 'Galimybė atsidurti „po rusais“, taip pergyventi karo negandas, suprasta kaip laikinas grįžimas į Nikolajaus II Rusiją, visiškai nesuvokiant totalitarinio SSRS bolševikų režimo esmės, – jis valdė teroru, jėga izoliavo ir fiziškai naikino oponentus.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-77334"></a>
 - t-008
+  global_id: t-77334
   teiginys: 'Viačeslavas Molotovas Juozui Urbšiui pareiškė, kad nepaisant Lietuvos atsakymo SSRS kariuomenė įžygiuos į Lietuvą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-77335"></a>
 - t-009
+  global_id: t-77335
   teiginys: 'Lietuvos ir kitų sovietinių respublikų pramonė buvo izoliuota nuo kapitalistinių valstybių ir priklausoma nuo kitų SSRS regionų.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-77336"></a>
 - t-010
+  global_id: t-77336
   teiginys: 'Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį: rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba, kitą dieną formaliai aukščiausiąja.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-77337"></a>
 - t-011
+  global_id: t-77337
   teiginys: 'Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė.'
   pagrindžia:
     - c-001

@@ -30,7 +30,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01872"></a>
 - t-001
+  global_id: t-01872
   teiginys: 'Vytauto palaikai 8 dienas laikyti gimtojoje pilyje, paskui pervežti į Vilnių ir palaidoti katedros rūsyje po šv. Mykolo Arkangelo altoriumi.'
   pagrindžia:
     - c-001

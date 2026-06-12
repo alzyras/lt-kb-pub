@@ -44,7 +44,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31130"></a>
 - t-001
+  global_id: t-31130
   teiginys: 'Svarbiausi Lietuvos ūkio produktai užsieniui buvo vaškas ir kailiai.'
   pagrindžia:
     - c-001

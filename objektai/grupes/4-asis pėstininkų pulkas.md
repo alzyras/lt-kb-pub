@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-40825"></a>
 - t-001
+  global_id: t-40825
   teiginys: '4-ojo pėstininkų pulko pozicijos gynė Musninkus, o lenkams šioje vietoje nepavyko priversti lietuvių atsitraukti.'
   pagrindžia:
     - c-001

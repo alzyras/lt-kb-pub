@@ -19,7 +19,9 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
 
 ## Teiginiai
 
+<a id="claim-t-32562"></a>
 - t-001
+  global_id: t-32562
   teiginys: 'Podolėje Karijotaičiai statė pilis, tarp jų Smotryčą, ir ėmė tvarkyti krašto ūkinį gyvenimą.'
   pagrindžia:
     - c-001

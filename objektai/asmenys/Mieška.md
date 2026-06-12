@@ -29,7 +29,9 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
 
 ## Teiginiai
 
+<a id="claim-t-78066"></a>
 - t-001
+  global_id: t-78066
   teiginys: 'Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988), kankinyste pasibaigusi šv.'
   pagrindžia:
     - c-001

@@ -40,22 +40,30 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 
 ## Teiginiai
 
+<a id="claim-t-00063"></a>
 - t-001
+  global_id: t-00063
   teiginys: 'P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-00067"></a>
 - t-002
+  global_id: t-00067
   teiginys: 'P. Klimas buvo Vykdomojo Komiteto biuro narys.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-00068"></a>
 - t-003
+  global_id: t-00068
   teiginys: 'P. Klimas buvo Lietuvos Tarybos narys.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-93049"></a>
 - t-004
+  global_id: t-93049
   teiginys: 'Klimo, LIETUVIŲ KALBOS SINTAKSĖ.'
   pagrindžia:
     - c-004

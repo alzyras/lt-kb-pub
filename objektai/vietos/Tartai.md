@@ -19,14 +19,17 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 
 ## Teiginiai
 
+<a id="claim-t-02783"></a>
 - t-001
-  teiginys: 'Tuo metu Maskva buvo užgrobusi Tartų (Dorpato) vyskupystę.'
+  global_id: t-02783
+  teiginys: 'Tuo metu Maskva buvo užgrobusi Tartų, dar vadintų Dorpatu, vyskupystę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tuo metu Maskva buvo užgrobusi Tartų, dar vadintų Dorpatu, vyskupystę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šitos sutarties nepripažino tik Rygos miestas; jis liko nepri-

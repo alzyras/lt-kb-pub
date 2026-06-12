@@ -45,27 +45,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67173"></a>
 - t-001
+  global_id: t-67173
   teiginys: 'Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei Lietuvoje, pabrėžiama specialiais skyreliais, kuriuose kiekvienam riterių ginklui suteikiama religinė prasmė: jeigu, pvz., Ordino broliai, atvykę Prūsų žemėn, griebiasi kalavijo, vadinasi, jie griebiasi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67174"></a>
 - t-002
+  global_id: t-67174
   teiginys: 'Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino riterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus ginklus“).'
   pagrindžia:
     - c-005
 
+<a id="claim-t-67175"></a>
 - t-003
+  global_id: t-67175
   teiginys: 'Dusburgietis teigia, kad ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9). Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-67176"></a>
 - t-004
+  global_id: t-67176
   teiginys: 'Dusburgietis teigia, kad 600; PD, III, 58) formą, Ordino aktuose vartotą nuo XIII a.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67177"></a>
 - t-005
+  global_id: t-67177
   teiginys: 'Ordino karo religinis įprasminimas žadėjo žuvusiems kryžiuočiams dangų, amžiną palaimą ir angelų globą po mūšio.'
   pagrindžia:
     - c-001

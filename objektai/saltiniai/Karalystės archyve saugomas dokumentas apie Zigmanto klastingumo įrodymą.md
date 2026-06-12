@@ -13,24 +13,25 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Karalystės archyve saugomas dokumentas apie Zigmanto klastingumo įrodymą
 
 ## Santrauka
 
-Kojelavičius teigia, kad po šiai dienai išliko raštiškas to klastingumo įrodymas, karalystės archyve saugomas dokumentas, patvirtintas paties Vytauto, Vilniaus vys kupo Mikalojaus ir vaivadų Alberto Manvydo bei Jo no Nemyros parašais.
+Karalystės archyve saugomas dokumentas buvo patvirtintas Vytauto, Vilniaus vyskupo Mikalojaus, Alberto Manvydo ir Jono Nemyros parašais.
 
 ## Teiginiai
 
+<a id="claim-t-186333"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad po šiai dienai išliko raštiškas to klastingumo įrodymas, karalystės archyve saugomas dokumentas, patvirtintas paties Vytauto, Vilniaus vys kupo Mikalojaus ir vaivadų Alberto Manvydo bei Jo no Nemyros parašais.'
+  global_id: t-186333
+  teiginys: 'Karalystės archyve saugomas dokumentas buvo patvirtintas Vytauto, Vilniaus vyskupo Mikalojaus, Alberto Manvydo ir Jono Nemyros parašais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad po šiai dienai išliko raštiškas to klastingumo įrodymas, karalystės archyve saugomas dokumentas, patvirtintas paties Vytauto, Vilniaus vys kupo Mikalojaus ir vaivadų Alberto Manvydo bei Jo no Nemyros parašais.'
+  santrauka: 'Karalystės archyve saugomas dokumentas buvo patvirtintas Vytauto, Vilniaus vyskupo Mikalojaus, Alberto Manvydo ir Jono Nemyros parašais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo

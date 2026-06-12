@@ -16,7 +16,9 @@ Hess), Rytų Prūsijos oberprezidentas Ėrichas Kochas (Erich Koch) ir Vokietijo
 
 ## Teiginiai
 
+<a id="claim-t-19351"></a>
 - t-001
+  global_id: t-19351
   teiginys: 'Klaipėdos nacistai teigė, kad nurodymus jiems davė Rytų Prūsijos oberprezidentas Ėrichas Kochas.'
   pagrindžia:
     - c-001

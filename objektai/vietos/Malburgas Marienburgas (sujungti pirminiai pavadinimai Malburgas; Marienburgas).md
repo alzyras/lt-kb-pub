@@ -28,17 +28,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-86149"></a>
 - t-001
+  global_id: t-86149
   teiginys: 'Didysis magistras slapta iš Marienburgo išplaukė Vysla laivais, o paskui per jūros įlanką įplaukė į Nemuną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86150"></a>
 - t-002
+  global_id: t-86150
   teiginys: 'Malburgą, dar vadinamą Marienburgu, 1281 m. pastatė kryžiuočiai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-86151"></a>
 - t-003
+  global_id: t-86151
   teiginys: '1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai.'
   pagrindžia:
     - c-003

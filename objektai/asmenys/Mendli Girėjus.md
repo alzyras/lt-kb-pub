@@ -19,12 +19,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-87443"></a>
 - t-001
+  global_id: t-87443
   teiginys: 'Aleksandras siekė suimti ir įbauginti Mendli Girėjų, todėl Šach Achmedas buvo iki gyvos galvos įkalintas Kaune.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87445"></a>
 - t-002
+  global_id: t-87445
   teiginys: 'Mendli Girėjus sumušė sąjungininko apleistą Šach Achmedą.'
   pagrindžia:
     - c-002

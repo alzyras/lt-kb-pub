@@ -25,7 +25,9 @@ Lietuvai liko sukilimo inscenizacijos scenarijus.
 
 ## Teiginiai
 
+<a id="claim-t-77785"></a>
 - t-001
+  global_id: t-77785
   teiginys: 'Lietuvai liko sukilimo inscenizacijos scenarijus.'
   pagrindžia:
     - c-001

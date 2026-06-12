@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad kadangi sklido gandai, jog priešas skubiai traukiąs į Kijevą, jie už šešių my lių nuo šio miesto, prie Irpenio upės, įsirengė karo stovyklas, ketindami, jeigu tik bus įmanoma, užgriū ti visa jėga lietuvius, kai šie bus ar iš kelionės nuvar gę, ar pernelyg. Kojelavičius teigia, kad visi luo mai, išėję iš miesto, sveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kuni gaikštį, prisiekdami su visomis žemėmis paklusti jo valdžiai. Kojelavičius teigia, kad šitaip ilgai niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija, patyrusi visokių sėkmių ir nesėk mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val džioje.
+Rusų kunigaikščiai prie Irpenio upės įsirengė karo stovyklas, ketindami užpulti į Kijevą traukiančius lietuvius. Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai. Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,25 +32,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185493"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kadangi sklido gandai, jog priešas skubiai traukiąs į Kijevą, jie už šešių my lių nuo šio miesto, prie Irpenio upės, įsirengė karo stovyklas, ketindami, jeigu tik bus įmanoma, užgriū ti visa jėga lietuvius, kai šie bus ar iš kelionės nuvar gę, ar pernelyg.'
+  global_id: t-185493
+  teiginys: 'Rusų kunigaikščiai prie Irpenio upės įsirengė karo stovyklas, ketindami užpulti į Kijevą traukiančius lietuvius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185494"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad visi luo mai, išėję iš miesto, sveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kuni gaikštį, prisiekdami su visomis žemėmis paklusti jo valdžiai.'
+  global_id: t-185494
+  teiginys: 'Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185495"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad šitaip ilgai niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija, patyrusi visokių sėkmių ir nesėk mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val džioje.'
+  global_id: t-185495
+  teiginys: 'Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kadangi sklido gandai, jog priešas skubiai traukiąs į Kijevą, jie už šešių my lių nuo šio miesto, prie Irpenio upės, įsirengė karo stovyklas, ketindami, jeigu tik bus įmanoma, užgriū ti visa jėga lietuvius, kai šie bus ar iš kelionės nuvar gę, ar pernelyg.'
+  santrauka: 'Rusų kunigaikščiai prie Irpenio upės įsirengė karo stovyklas, ketindami užpulti į Kijevą traukiančius lietuvius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iškilęs pavojus paskatino
@@ -81,7 +86,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad visi luo mai, išėję iš miesto, sveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kuni gaikštį, prisiekdami su visomis žemėmis paklusti jo valdžiai.'
+  santrauka: 'Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     K ije v a s  a p su p a m a s ir
@@ -113,7 +118,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad šitaip ilgai niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija, patyrusi visokių sėkmių ir nesėk mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val džioje.'
+  santrauka: 'Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gediminas, pasilsėjęs čia, kol artimiausios pi­
@@ -131,3 +136,15 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/posakiai/Kijevo ir Rusios didįjį kunigaikštį]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/monarchas monarchija]]

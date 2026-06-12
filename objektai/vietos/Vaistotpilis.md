@@ -18,17 +18,23 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
 
 ## Teiginiai
 
+<a id="claim-t-58484"></a>
 - t-001
+  global_id: t-58484
   teiginys: 'Vaistotpilis buvo sena prūsų pilis, kurioje įsitvirtino Ordinas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58485"></a>
 - t-002
+  global_id: t-58485
   teiginys: 'Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu Vaistotpilis389.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-58486"></a>
 - t-003
+  global_id: t-58486
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Vaistotpilio pilis Nesitenkindami broliams padarytais nuostoliais, prūsai subūrė didžiulę kariuomenę ir apsupo Vaistotpilio pilį; jie smarkiai puolė ją nuo aušros iki sutemų, o broliai narsiai gynėsi.'
   pagrindžia:
     - c-002

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Sochačevas
 
 ## Santrauka
 
-Kojelavičius teigia, kad jie netru ko užimti Sochačevo ir Plocko apygardas; dvarus ir visa kita, ko negalėjo išsigabenti iš krašto kaip gro bio, sunaikino ugnimi ir kalaviju.
+Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentą grobį sunaikino ugnimi ir kalaviju.
 
 ## Teiginiai
 
+<a id="claim-t-185330"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad jie netru ko užimti Sochačevo ir Plocko apygardas; dvarus ir visa kita, ko negalėjo išsigabenti iš krašto kaip gro bio, sunaikino ugnimi ir kalaviju.'
+  global_id: t-185330
+  teiginys: 'Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentą grobį sunaikino ugnimi ir kalaviju.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad jie netru ko užimti Sochačevo ir Plocko apygardas; dvarus ir visa kita, ko negalėjo išsigabenti iš krašto kaip gro bio, sunaikino ugnimi ir kalaviju.'
+  santrauka: 'Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentą grobį sunaikino ugnimi ir kalaviju.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lietuviai, kelerius metus vengę niokoti to­

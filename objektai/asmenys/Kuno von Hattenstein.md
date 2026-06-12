@@ -17,7 +17,9 @@ Tuo pat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip pat jo
 
 ## Teiginiai
 
+<a id="claim-t-30339"></a>
 - t-001
+  global_id: t-30339
   teiginys: 'Kuno von Hattenstein buvo Ordino maršalas ir padėjo Jogailai įveikti dėdę.'
   pagrindžia:
     - c-001

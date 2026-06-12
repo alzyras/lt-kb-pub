@@ -16,7 +16,9 @@ Vokietija 1919 m. Versalio taikos traktatu buvo labai suvaržyta.
 
 ## Teiginiai
 
+<a id="claim-t-02305"></a>
 - t-001
+  global_id: t-02305
   teiginys: 'Vokietija 1919 m. Versalio taikos traktatu buvo labai suvaržyta.'
   pagrindžia:
     - c-001

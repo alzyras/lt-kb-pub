@@ -42,7 +42,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39285"></a>
 - t-001
+  global_id: t-39285
   teiginys: 'AVS-36 buvo 1936 m. pavyzdžio Simonovo automatinis šautuvas, naudojęs 7,62x54 mm R šovinius ir 15 šovinių dėtuvę.'
   pagrindžia:
     - c-001

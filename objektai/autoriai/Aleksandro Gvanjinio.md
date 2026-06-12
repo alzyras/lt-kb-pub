@@ -27,17 +27,23 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-78739"></a>
 - t-001
+  global_id: t-78739
   teiginys: 'Aleksandro Gvanjinio knygoje „Europos Sarmatijos aprašymas“ yra iliustracija, vaizduojanti mūšį su totoriais.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78740"></a>
 - t-002
+  global_id: t-78740
   teiginys: 'Gvanjinio knygoje konkrečiai nenurodoma, koks mūšis vaizduojamas, tačiau labiausiai tikėtina, kad čia vaizduojamas 1512 m. Lopušnos mūšis, kuriame jungtinė lietuvių ir lenkų kariuomenė sumušė įsiveržusias Krymo totorių pajėgas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78741"></a>
 - t-003
+  global_id: t-78741
   teiginys: 'Tarp jų bene labiausiai pagarsėjo 1482 m. įvykęs Kijevo nusiaubimas, kurio metu į totorių nelaisvę pakliuvo aukščiausias vietinės Iliustracija iš Aleksandro Gvanjinio knygos „Europos Sarmatijos aprašymas“, vaizduojanti mūšį su totoriais.'
   pagrindžia:
     - c-002

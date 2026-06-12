@@ -16,7 +16,9 @@ Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grand
 
 ## Teiginiai
 
+<a id="claim-t-39059"></a>
 - t-001
+  global_id: t-39059
   teiginys: 'Žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“.'
   pagrindžia:
     - c-001

@@ -21,17 +21,23 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
 
 ## Teiginiai
 
+<a id="claim-t-91232"></a>
 - t-001
+  global_id: t-91232
   teiginys: '1466 m. Torno taika Lenkija atgavo Pamarį, Dancigą, Elbingą, Marijenburgą ir Varmijos vyskupystę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-91233"></a>
 - t-002
+  global_id: t-91233
   teiginys: 'Dusburgietis teigia, kad tokį vardą pelno su prūsais bendradarbiavęs Pamario kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą prieš Ordiną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-91234"></a>
 - t-003
+  global_id: t-91234
   teiginys: 'Grėsmingas jis buvo ir Lenkijai, nes tebevaldė Pamarį – vienintelį Lenkijos išėjimą prie jūros.'
   pagrindžia:
     - c-003

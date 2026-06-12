@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Helvigas fon Goldbachas
 
 ## Santrauka
 
-Kojelavičius teigia, kad pirmieji jų išpuoliai buvo sėk mingi: keliose vietose jie sumušė kryžiuočių įgulas, Pagudės komtūrą ir Helvigą fon Goldbachą, Christburgo komtūrą, paėmė į nelaisvę.
+Žemaičiai per sėkmingus išpuolius prieš kryžiuočius paėmė į nelaisvę Christburgo komtūrą Helvigą fon Goldbachą.
 
 ## Teiginiai
 
+<a id="claim-t-186208"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pirmieji jų išpuoliai buvo sėk mingi: keliose vietose jie sumušė kryžiuočių įgulas, Pagudės komtūrą ir Helvigą fon Goldbachą, Christburgo komtūrą, paėmė į nelaisvę.'
+  global_id: t-186208
+  teiginys: 'Žemaičiai per sėkmingus išpuolius prieš kryžiuočius paėmė į nelaisvę Christburgo komtūrą Helvigą fon Goldbachą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pirmieji jų išpuoliai buvo sėk mingi: keliose vietose jie sumušė kryžiuočių įgulas, Pagudės komtūrą ir Helvigą fon Goldbachą, Christburgo komtūrą, paėmė į nelaisvę.'
+  santrauka: 'Žemaičiai per sėkmingus išpuolius prieš kryžiuočius paėmė į nelaisvę Christburgo komtūrą Helvigą fon Goldbachą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žemaičiai pir­
@@ -41,3 +42,11 @@ Kojelavičius teigia, kad pirmieji jų išpuoliai buvo sėk mingi: keliose vieto
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/posakiai/Ugnimi ir kalaviju]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/grupes/Žemaičiai]]

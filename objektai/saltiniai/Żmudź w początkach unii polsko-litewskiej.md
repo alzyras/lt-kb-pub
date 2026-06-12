@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-32025"></a>
 - t-001
+  global_id: t-32025
   teiginys: 'St. Zajączkowskio „Żmudź w początkach unii polsko-litewskiej“ paskelbtas PamZH II tome 1930 m., p. 337-344.'
   pagrindžia:
     - c-001

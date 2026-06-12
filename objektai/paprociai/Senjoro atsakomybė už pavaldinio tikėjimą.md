@@ -37,17 +37,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-54348"></a>
 - t-001
-  teiginys: 'Pavaldiniui buvo nurodoma, kokį tikėjimą jis turi išpažinti.'
-  pagrindžia:
-    - c-001
-
-- t-002
+  global_id: t-54348
   teiginys: 'Feodaliniuose santykiuose pavaldiniui buvo nurodoma, kokį tikėjimą jis turi išpažinti.'
   pagrindžia:
     - c-001
 
-- t-003
+<a id="claim-t-183335"></a>
+- t-002
+  global_id: t-183335
   teiginys: 'Savaip transformuota artimo meilės idėja atsispindi senjoro ir pavaldinio santykiuose, ypač tai pasakytina apie senjoro atsakomybę už pavaldinio išganymą.'
   pagrindžia:
     - c-001
@@ -75,8 +74,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

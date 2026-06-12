@@ -17,12 +17,16 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 
 ## Teiginiai
 
+<a id="claim-t-28992"></a>
 - t-001
+  global_id: t-28992
   teiginys: 'Borisas Karijotaitis, Podolėje įsikūręs Jogailos pusbrolis, turėjo įtakos Lietuvos ir Lenkijos suartėjimui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184371"></a>
 - t-002
+  global_id: t-184371
   teiginys: 'Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje įsikūrę dėdės Karijoto Gediminaičio sūnūs, ypač Borisas ir Konstantinas.'
   pagrindžia:
     - c-002

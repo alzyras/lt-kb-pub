@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Christmemelio pilis (pilis)
 
 ## Santrauka
 
-Kojelavičius teigia, kad kryžiuočių kariai, atskubėję iš iš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau jus pulkus ir nuvedė juos pulti Christmemelio pilies; taranai daužė pilies sienas, galybė strėlių ir iečių nešė pilies gynėjams žaizdas ir mirtį, į pagalbą iš Sem bos.
+Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeidė ar nukovė daug pilies gynėjų.
 
 ## Teiginiai
 
+<a id="claim-t-185262"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kryžiuočių kariai, atskubėję iš iš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau jus pulkus ir nuvedė juos pulti Christmemelio pilies; taranai daužė pilies sienas, galybė strėlių ir iečių nešė pilies gynėjams žaizdas ir mirtį, į pagalbą iš Sem bos.'
+  global_id: t-185262
+  teiginys: 'Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeidė ar nukovė daug pilies gynėjų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kryžiuočių kariai, atskubėję iš iš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau jus pulkus ir nuvedė juos pulti Christmemelio pilies; taranai daužė pilies sienas, galybė strėlių ir iečių nešė pilies gynėjams žaizdas ir mirtį, į pagalbą iš Sem bos.'
+  santrauka: 'Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeidė ar nukovė daug pilies gynėjų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kryžiuočių kariai, atskubėję iš

@@ -16,7 +16,9 @@ Suchodolskio kavalerijos daliniu.
 
 ## Teiginiai
 
+<a id="claim-t-40449"></a>
 - t-001
+  global_id: t-40449
   teiginys: 'Gen. mjr. Suchodolskis vadovavo kavalerijos daliniui, susikovusiam su Karolio Jastržembskio 200 sukilėlių būriu.'
   pagrindžia:
     - c-001

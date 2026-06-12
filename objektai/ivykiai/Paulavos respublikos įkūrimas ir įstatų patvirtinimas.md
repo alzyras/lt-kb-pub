@@ -43,12 +43,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-77885"></a>
 - t-001
+  global_id: t-77885
   teiginys: 'Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-77886"></a>
 - t-002
+  global_id: t-77886
   teiginys: 'Bžostovskio įkurta Paulavos respublika.'
   pagrindžia:
     - c-002

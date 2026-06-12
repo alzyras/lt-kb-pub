@@ -40,12 +40,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-20471"></a>
 - t-001
+  global_id: t-20471
   teiginys: 'Liepos 17-osios nutarimu iš Lietuvos, Latvijos, Estijos ir Gudijos buvo sudarytas Rytų krašto, arba Ostlando, reicho komisariatas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183272"></a>
 - t-002
+  global_id: t-183272
   teiginys: 'Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją administravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis okupacinis valdymas.'
   pagrindžia:
     - c-002

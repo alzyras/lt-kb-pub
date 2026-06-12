@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01833"></a>
 - t-001
+  global_id: t-01833
   teiginys: 'Varšuvos konfederacinis seimas (1768 m.) turėjo patvirtinti viską, ko reikalavo Repninas.'
   pagrindžia:
     - c-001

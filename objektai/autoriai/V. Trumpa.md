@@ -24,12 +24,16 @@ Trumpa, V. Trumpa: Jonynas I ., LE 9 t., 478 p. (^83) A.
 
 ## Teiginiai
 
+<a id="claim-t-31048"></a>
 - t-001
+  global_id: t-31048
   teiginys: 'V. Trumpa parašė Lietuvių enciklopedijos straipsnį apie I. Jonyną.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-31049"></a>
 - t-002
+  global_id: t-31049
   teiginys: 'V. Trumpa parašė straipsnį „Lietuvos istorikų darbai ir dienos“, paskelbtą žurnale „Aidai“.'
   pagrindžia:
     - c-001

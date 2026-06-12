@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Imperatoriaus Zigmanto raštas Jogailai dėl Galičo ir dalies Podolės
 
 ## Santrauka
 
-Kojelavičius teigia, kad dėdama sis, jog jam be galo rūpi išsaugoti draugystę ir paša linti abipusį įtarumą, ZigmanIm p era to riu s Z igm antas per žygūnus nusiuntė Jo to m ėg in a s u p ju d y ti gailai imperatoriškąjį raštą, len k u s su lie tu v ia is kuriuo, įsiteikdamas.
+Imperatorius Zigmantas raštu pripažino Jogailai teisę į Galičą ir dalį Podolės, o pasiuntiniams įsakė kurstyti Vytautą pažadais.
 
 ## Teiginiai
 
+<a id="claim-t-186312"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad dėdama sis, jog jam be galo rūpi išsaugoti draugystę ir paša linti abipusį įtarumą, ZigmanIm p era to riu s Z igm antas per žygūnus nusiuntė Jo to m ėg in a s u p ju d y ti gailai imperatoriškąjį raštą, len k u s su lie tu v ia is kuriuo, įsiteikdamas.'
+  global_id: t-186312
+  teiginys: 'Imperatorius Zigmantas raštu pripažino Jogailai teisę į Galičą ir dalį Podolės, o pasiuntiniams įsakė kurstyti Vytautą pažadais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad dėdama sis, jog jam be galo rūpi išsaugoti draugystę ir paša linti abipusį įtarumą, ZigmanIm p era to riu s Z igm antas per žygūnus nusiuntė Jo to m ėg in a s u p ju d y ti gailai imperatoriškąjį raštą, len k u s su lie tu v ia is kuriuo, įsiteikdamas.'
+  santrauka: 'Imperatorius Zigmantas raštu pripažino Jogailai teisę į Galičą ir dalį Podolės, o pasiuntiniams įsakė kurstyti Vytautą pažadais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dėdama­

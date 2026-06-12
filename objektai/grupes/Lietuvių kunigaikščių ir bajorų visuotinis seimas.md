@@ -19,7 +19,9 @@ Tuoj pat sušauktas lietuvių ku­ nigaikščių ir bajorų visuotinis seimas pa
 
 ## Teiginiai
 
+<a id="claim-t-86802"></a>
 - t-001
+  global_id: t-86802
   teiginys: 'Lietuvių kunigaikščių ir bajorų visuotinis seimas sostinėje paskelbė apie didelį ir esminį religijos pokytį.'
   pagrindžia:
     - c-001

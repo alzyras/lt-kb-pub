@@ -24,7 +24,9 @@ Kaip rašo istorikas Romualdas Naruniecas, „Mykolo Balinskio išlaisvinimo iš
 
 ## Teiginiai
 
+<a id="claim-t-88042"></a>
 - t-001
+  global_id: t-88042
   teiginys: 'Romualdas Naruniec rašė, kad Mykolo Balinskio išlaisvinimo iš kalėjimo problema lieka paslaptinga.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ Savo laiške jis rašo, kad su vi­ sa kariuomene ir pulku dvariškių pasiekė 
 
 ## Teiginiai
 
+<a id="claim-t-36514"></a>
 - t-001
+  global_id: t-36514
   teiginys: 'Vytautas toliausiai nužygiavo iki Okos prieupio Znos už Pronsko, visai netoli dabartinės Penzos.'
   pagrindžia:
     - c-001

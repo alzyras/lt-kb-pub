@@ -22,7 +22,9 @@ Dusburgietis teigia, kad karwasińska J.
 
 ## Teiginiai
 
+<a id="claim-t-61096"></a>
 - t-001
+  global_id: t-61096
   teiginys: 'J. Karwasińskos straipsnis „Złote bulle Karola IV w sprawie chrztu Litwy“ paskelbtas 1976 m. Varšuvoje išleistame rinkinyje „Cultus et cognitio“.'
   pagrindžia:
     - c-001

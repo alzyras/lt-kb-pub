@@ -16,7 +16,9 @@ Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o ap
 
 ## Teiginiai
 
+<a id="claim-t-03103"></a>
 - t-001
+  global_id: t-03103
   teiginys: 'Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o aplink juos buvo duodama po valaką valstiečiams.'
   pagrindžia:
     - c-001

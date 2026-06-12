@@ -28,17 +28,23 @@ Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
 
 ## Teiginiai
 
+<a id="claim-t-82749"></a>
 - t-001
+  global_id: t-82749
   teiginys: 'Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos praeities veikalų buvo nedaug.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-82750"></a>
 - t-002
+  global_id: t-82750
   teiginys: 'Teodoras Narbutas rašydavo apie istorinius įvykius ir be atitinkamos faktografinės bazės.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-82751"></a>
 - t-003
+  global_id: t-82751
   teiginys: 'Narbutas susilaukė rūsčios jo kritikos.'
   pagrindžia:
     - c-002

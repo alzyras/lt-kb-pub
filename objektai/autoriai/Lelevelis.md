@@ -17,12 +17,16 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
 
 ## Teiginiai
 
+<a id="claim-t-01094"></a>
 - t-001
+  global_id: t-01094
   teiginys: 'Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, įrodinėjo Baužos lietuvių kildinimo iš gerulių nemoksliškumą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01095"></a>
 - t-002
+  global_id: t-01095
   teiginys: 'Istorijos profesoriaus Lelevelio paskaitų klausytis rinkdavosi ne vien studentai, bet ir daugybė vilniečių.'
   pagrindžia:
     - c-002

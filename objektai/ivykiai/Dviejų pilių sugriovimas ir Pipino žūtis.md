@@ -42,12 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-66533"></a>
 - t-001
+  global_id: t-66533
   teiginys: 'Dusburgietis teigia, kad 221 Pipino nukankinimas vaizduojamas tendencingai (žr.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-66534"></a>
 - t-002
+  global_id: t-66534
   teiginys: 'Dusburgietis teigia, kad apie dviejų pilių sugriovimą ir Pipino žūtį Sako, kad tuo metu, kai broliai gyveno minėtajame ąžuole, prūsai turėję Vyslos pakrantėje, aukščiau Torunės, pilį, vardu Ragava218, o dar vieną — žemiau, apie tą vietą, kur dabar yra senoji pilis219.'
   pagrindžia:
     - c-001

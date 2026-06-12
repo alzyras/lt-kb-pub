@@ -16,7 +16,9 @@ Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos interesus Vilniuj
 
 ## Teiginiai
 
+<a id="claim-t-21051"></a>
 - t-001
+  global_id: t-21051
   teiginys: 'Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos interesus Vilniuje; sovietai užtikrino lietuviams, kad de facto esantys Lietuvos sienos pažeidimai nepakeitė Maskvos pozicijų dėl Lietuvos teritorinio suverenumo.'
   pagrindžia:
     - c-001

@@ -29,22 +29,30 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-182798"></a>
 - t-001
+  global_id: t-182798
   teiginys: 'Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūpino gausių išrašų apie Vilnių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-182800"></a>
 - t-002
+  global_id: t-182800
   teiginys: '1524 m. Lietuvos Metrika patvirtina karaliaus priekaištus Vilniaus magistratui dėl nesutarimų su bendruomene.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182801"></a>
 - t-003
+  global_id: t-182801
   teiginys: 'Lietuvos maršalkos Chreptavičiaus ataskaita liudijo, kad Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla teikė pajamų karaliaus iždui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183373"></a>
 - t-004
+  global_id: t-183373
   teiginys: 'Lietuvos Metrika – tai Lietuvos didžiojo kunigaikščio raštinėje nuo XIV a.'
   pagrindžia:
     - c-004

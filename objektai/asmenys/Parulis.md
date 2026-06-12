@@ -24,7 +24,9 @@ Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė V
 
 ## Teiginiai
 
+<a id="claim-t-87926"></a>
 - t-001
+  global_id: t-87926
   teiginys: 'Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė Vilniaus magistratui už tam tikrą sumą, įpareigodamas, kad magistratas procentus, nuo sumos už tą mūrinį namą gaunamus, mokėtų Švč.'
   pagrindžia:
     - c-001

@@ -19,12 +19,16 @@ Karalius tuo tarpu kreipėsi pagalbos į Prūsiją, su kuria seimo (1790 m.) buv
 
 ## Teiginiai
 
+<a id="claim-t-67425"></a>
 - t-001
+  global_id: t-67425
   teiginys: '1790 m. seimas sudarė karinę sutartį su Prūsija, tačiau Prūsija atsisakė padėti karaliui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67426"></a>
 - t-002
+  global_id: t-67426
   teiginys: 'Prūsija rėmė seimą siekdama spausti Rusiją, kuri nesutiko leisti jai užimti Dancigo ir Torno.'
   pagrindžia:
     - c-001

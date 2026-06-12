@@ -17,7 +17,9 @@ Bet Lietuvos valdymą perėmė karalius — • — 257 ## Puslapis 274 258 ## P
 
 ## Teiginiai
 
+<a id="claim-t-86860"></a>
 - t-001
+  global_id: t-86860
   teiginys: 'Žygimantas Senasis, perėmęs Lietuvos valdymą, siekė įvesti tvarką ir nukreipė valdymo mechanizmą reikiama kryptimi.'
   pagrindžia:
     - c-001

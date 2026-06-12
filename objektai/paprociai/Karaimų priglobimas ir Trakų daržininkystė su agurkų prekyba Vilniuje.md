@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87209"></a>
 - t-001
+  global_id: t-87209
   teiginys: 'Karaimai buvo įsikūrę Trakuose ir nedidelėje Vilniaus dalyje, tačiau Vytauto privilegija jiems negaliojo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87210"></a>
 - t-002
+  global_id: t-87210
   teiginys: 'Balińskis karaimų atvykimą į Lietuvą siejo su Vytauto laikais, nes Vytautas priimdavo ir priglobdavo ateivius iš rytų kraštų.'
   pagrindžia:
     - c-001

@@ -23,7 +23,9 @@ Zajączkowski, St.
 
 ## Teiginiai
 
+<a id="claim-t-31929"></a>
 - t-001
+  global_id: t-31929
   teiginys: 'St. Zajączkowskio „W sprawie zajęcia Podlasia przez Giedymina“ paskelbta 1929 m. AW 6 tome, 1-8 puslapiuose.'
   pagrindžia:
     - c-001

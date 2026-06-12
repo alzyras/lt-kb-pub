@@ -19,7 +19,9 @@ Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasi
 
 ## Teiginiai
 
+<a id="claim-t-87671"></a>
 - t-001
+  global_id: t-87671
   teiginys: 'Graikų tikėjimo dvasininkas Foma kartu su Vilniaus vyskupu Vaitiekumi Taboru sutuokė didįjį kunigaikštį su Elena.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Kad bažnyčia būtų geriau tvarkoma ir būtų parinktas tinkamas asmuo užimti
 
 ## Teiginiai
 
+<a id="claim-t-86528"></a>
 - t-001
+  global_id: t-86528
   teiginys: '1581 m. birželio 9 d. Vilniaus kapitula atsisakė Jus Patronatus teisės siūlyti vikarus ir perleido ją jėzuitų Akademijos kolegijos rektoriams.'
   pagrindžia:
     - c-001

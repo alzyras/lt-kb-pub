@@ -25,7 +25,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31991"></a>
 - t-001
+  global_id: t-31991
   teiginys: 'J. Fijałeko „Wnuk Kiejstuta, Jan książę drohiczyński“ išspausdintas KH 28 tome 1914 m., p. 181-197.'
   pagrindžia:
     - c-001

@@ -16,12 +16,16 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
 
 ## Teiginiai
 
+<a id="claim-t-30474"></a>
 - t-001
+  global_id: t-30474
   teiginys: 'Jogaila geruoju susitarė su Mozūrijos Ziemovitu, kai mažlenkių ponai jėga išvarė Vilhelmą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-30475"></a>
 - t-002
+  global_id: t-30475
   teiginys: 'O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios, ir jis — priešingai Krokuvos ponų nusistatymui — planavęs Jadvygą pagrobti prievarta.'
   pagrindžia:
     - c-002

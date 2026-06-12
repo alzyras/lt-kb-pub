@@ -17,7 +17,9 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
 
 ## Teiginiai
 
+<a id="claim-t-23465"></a>
 - t-001
+  global_id: t-23465
   teiginys: 'Amerikos lietuvių taryba, įsteigta 1940 m., buvo viena svarbiausių ir stipriausių JAV lietuvių išeivijos organizacijų.'
   pagrindžia:
     - c-001

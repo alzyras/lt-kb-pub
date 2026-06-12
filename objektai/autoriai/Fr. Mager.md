@@ -19,7 +19,9 @@ Mager veikalas^16 °, o apie I pasaulinį karą W.
 
 ## Teiginiai
 
+<a id="claim-t-30616"></a>
 - t-001
+  global_id: t-30616
   teiginys: 'Fr. Magerio veikalas laikytas įdomiu Lietuvos žilai senovei tyrinėti.'
   pagrindžia:
     - c-001

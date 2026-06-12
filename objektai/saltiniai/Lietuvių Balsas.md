@@ -18,12 +18,16 @@ Jakšto lenkiškai parašyta brošiūra — „Lietuvių Balsas" (1902 m.), kur 
 
 ## Teiginiai
 
+<a id="claim-t-02210"></a>
 - t-001
+  global_id: t-02210
   teiginys: 'A. Jakšto lenkiškai parašyta brošiūra „Lietuvių Balsas“ buvo išleista 1902 m. ir kvietė jaunąją bajorų kartą į Lietuvos atgaivinimo darbą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-02211"></a>
 - t-002
+  global_id: t-02211
   teiginys: '„Lietuvių Balse“ buvo išdėstytos sąlygos, kuriomis būtų galimas bendradarbiavimas Lietuvos atgaivinimo darbe.'
   pagrindžia:
     - c-001

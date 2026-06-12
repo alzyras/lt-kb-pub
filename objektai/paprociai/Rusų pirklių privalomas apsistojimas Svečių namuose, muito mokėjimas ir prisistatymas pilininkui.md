@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87224"></a>
 - t-001
+  global_id: t-87224
   teiginys: 'Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, mokėti muitą ir prisistatyti pilininkui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87225"></a>
 - t-002
+  global_id: t-87225
   teiginys: 'Aleksandras leido statyti Svečių namus ir dėl miesto bei muito pelno, ir dėl išorinio saugumo.'
   pagrindžia:
     - c-001

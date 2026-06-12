@@ -22,7 +22,9 @@ Spaustuvės lėšas sudaro pajamos, gautos už parduotas joje spausdintas knygas
 
 ## Teiginiai
 
+<a id="claim-t-86533"></a>
 - t-001
+  global_id: t-86533
   teiginys: 'Lotyniškos apskaitos formulės nurodo spaustuvės išlaidas spaudmenims, popieriui, atlyginimams, išlaikymui ir remontui.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ p. 98, „HUSARŲ ORGANIZACIJA XVII A.“, Andžej Geglis, Karolis Zikaras.
 
 ## Teiginiai
 
+<a id="claim-t-41524"></a>
 - t-001
+  global_id: t-41524
   teiginys: '„Husarų organizacija XVII a.“ autoriumi nurodytas Andžej Geglis, o Karolis Zikaras paminėtas prie šios medžiagos.'
   pagrindžia:
     - c-001

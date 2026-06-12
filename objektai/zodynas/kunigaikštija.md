@@ -28,12 +28,16 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
 
 ## Teiginiai
 
+<a id="claim-t-36801"></a>
 - t-001
+  global_id: t-36801
   teiginys: 'Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savarankiškumą viduje.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-36803"></a>
 - t-003
+  global_id: t-36803
   teiginys: 'Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža.'
   pagrindžia:
     - c-003

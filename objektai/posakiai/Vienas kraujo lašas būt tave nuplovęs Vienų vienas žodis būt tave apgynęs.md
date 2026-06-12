@@ -22,12 +22,16 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
 
 ## Teiginiai
 
+<a id="claim-t-41468"></a>
 - t-001
+  global_id: t-41468
   teiginys: 'Poeto Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 metų įvykių vertinimu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-41469"></a>
 - t-002
+  global_id: t-41469
   teiginys: 'Aisčio eilutė „Vienų vienas žodis būt tave apgynęs“ primena, kad 1940 metais buvo galima priešintis protestais.'
   pagrindžia:
     - c-001

@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-100209"></a>
 - t-001
+  global_id: t-100209
   teiginys: ': Kęstučio vardas, LE, t.'
   pagrindžia:
     - c-001

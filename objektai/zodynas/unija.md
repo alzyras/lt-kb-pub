@@ -13,42 +13,34 @@ atnaujinta: ''
 amziai:
   - 'XVI'
 ---
-
 # unija
 
 ## Santrauka
 
 Valstybinė santvarka po Liublino unijos.
 
-## Ryšiai
-
-### Teminiai klasteriai
-- [[temos/istorinė-sąvoka]]
-
-### Susiję objektai
-- [[objektai/zodynas/santvarka]]
-
 ## Teiginiai
 
+<a id="claim-t-72004"></a>
 - t-001
+  global_id: t-72004
   teiginys: 'Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė atsiimti Žemaitiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-72005"></a>
 - t-002
+  global_id: t-72005
   teiginys: 'Nauja unija padėjo Vytautui apsisaugoti nuo Lenkijos ir trauktis nuo Ordino, siekiant atsiimti Žemaitiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184641"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad t uo ta rp u L ietuvą užgriu- 1566 metai v o d a r didesni rūpesčiai, m at Tariamasi dėl Lietup ašlijo k a raliau s sv eik ata, be vos unijos su Lenkija to, jis n e tu rė jo įpėdinių, štai to d ėl didelį n erim ą kėlė tai, jo g le n k a i gali p aliau ti te.'
+  global_id: t-184641
+  teiginys: '1566 m. Lietuvoje nerimą kėlė tai, kad karaliui mirus iki unijos sudarymo lenkai gali liautis teikę pagalbą.'
   pagrindžia:
     - c-002
-
-- t-004
-  teiginys: 'Kojelavičius teigia, kad be abejo, jie n o rė jo unijos, b et tokios, k ad n eb ū tų p ažeistas v a l stybės orum as, p ak e ista p areig y b ės ir teism ai, b e to, įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau L ietuvos Di džiosios K unig aik šty stės sienos.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -73,7 +65,7 @@ Valstybinė santvarka po Liublino unijos.
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad t uo ta rp u L ietuvą užgriu- 1566 metai v o d a r didesni rūpesčiai, m at Tariamasi dėl Lietup ašlijo k a raliau s sv eik ata, be vos unijos su Lenkija to, jis n e tu rė jo įpėdinių, štai to d ėl didelį n erim ą kėlė tai, jo g le n k a i gali p aliau ti te.'
+  santrauka: '1566 m. Lietuvoje nerimą kėlė tai, kad karaliui mirus iki unijos sudarymo lenkai gali liautis teikę pagalbą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     K ai žlugo visos v il­
@@ -108,21 +100,200 @@ Valstybinė santvarka po Liublino unijos.
   pagrindžia:
     - t-003
 
-- c-003
-  santrauka: 'Kojelavičius teigia, kad be abejo, jie n o rė jo unijos, b et tokios, k ad n eb ū tų p ažeistas v a l stybės orum as, p ak e ista p areig y b ės ir teism ai, b e to, įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau L ietuvos Di džiosios K unig aik šty stės sienos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    K okį atsak y m ą
-    g avo p asiuntin iai, šaltin iai n erašo . K ad iš esm ės n iek o
-    n eb u v o  su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u ­
-    v o  u žd rau sta b et k ą  spręsti, ir jie  tu rė jo  ap ie v isk ą p ra ­
-    n ešti luom am s, susirinkusiem s į B resto seim ą. Be abejo,
-    jie  n o rė jo  unijos, b et tokios, k ad n eb ū tų  p ažeistas v a l­
-    stybės orum as, p ak e ista p areig y b ės ir teism ai, b e to,
-    įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau  L ietuvos Di­
-    džiosios K unig aik šty stės sienos.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/santvarka]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/ivykiai/1401 m. Vytauto pasižadėjimai Lenkijai]]
+- [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]
+- [[objektai/ivykiai/1428 m. Lenčicos suvažiavimas]]
+- [[objektai/autoriai/A. E. Presniakov]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
+- [[objektai/posakiai/Aktai sau, gyvenimas nuėjo sau]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
+- [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
+- [[objektai/grupes/Atskiri Lietuvos seimai]]
+- [[objektai/paprociai/Atskiri Lietuvos seimai karo ir tarpuvaldžio metu]]
+- [[objektai/grupes/Bajorijos konfederacija]]
+- [[objektai/paprociai/Bajoriškoji demokratija, seimavimai ir liberum veto praktika]]
+- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
+- [[objektai/asmenys/Bogdanas Chmelnickis]]
+- [[objektai/ivykiai/Brastos bažnytinė unija|Brastos bažnytinė unija (unija)]]
+- [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]
+- [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]]
+- [[objektai/ivykiai/Edukacinės komisijos įkūrimas]]
+- [[objektai/asmenys/Edyga]]
+- [[objektai/ivykiai/Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)]]
+- [[objektai/ivykiai/Florencijos bažnytinė unija|Florencijos bažnytinė unija (unija)]]
+- [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]
+- [[objektai/ivykiai/G. Camblako delegacija į Konstancą ir mišios Konstanco katedroje]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/grupes/Gediminaičių šeima]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
+- [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
+- [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]
+- [[objektai/grupes/Graikų katalikų bažnyčia]]
+- [[objektai/asmenys/Gregorijus Cemblakas]]
+- [[objektai/autoriai/Grigorijus Camblakas]]
+- [[objektai/asmenys/Henrikas von Plauenas]]
+- [[objektai/ivykiai/Herasimo sąmokslas ir sudeginimas ant laužo]]
+- [[objektai/daiktai/Herbai]]
+- [[objektai/daiktai/Herbas]]
+- [[objektai/grupes/Hohenzollernai]]
+- [[objektai/asmenys/Ivanas Rūstusis]]
+- [[objektai/asmenys/J. Pilsudskis]]
+- [[objektai/asmenys/Jachna Laurinavičius]]
+- [[objektai/asmenys/Jadvyga]]
+- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
+- [[objektai/asmenys/Jeronimas Opachovskis]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/grupes/Jogailos palikuonys]]
+- [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]
+- [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
+- [[objektai/asmenys/Juzefas Pilsudskis]]
+- [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
+- [[objektai/autoriai/K. Chodynickis]]
+- [[objektai/ivykiai/Karas tarp Švitrigailos ir Žygimanto Kęstutaičio]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
+- [[objektai/asmenys/Kazimieras Jogailaitis]]
+- [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]
+- [[objektai/autoriai/Kochanovskis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Krėvos sutarties priėmimas|Krėvos sutarties priėmimas (sutartis)]]
+- [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
+- [[objektai/grupes/Kuršo kunigaikštystė]]
+- [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.)]]
+- [[objektai/ivykiai/LDK kanclerio pareigų įsteigimas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lenkijos bajorija]]
+- [[objektai/daiktai/Lenkijos ir Lietuvos Valstybės žemėlapis]]
+- [[objektai/grupes/Lenkijos senatas]]
+- [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
+- [[objektai/grupes/Lenkų bajorija]]
+- [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]
+- [[objektai/grupes/Lenkų karalystė]]
+- [[objektai/grupes/Lenkų senatas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvių bajorija]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/grupes/Lietuvos seimas (XVI a.)]]
+- [[objektai/grupes/Liublino seimas]]
+- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/asmenys/Liudvikas (Torunės komtūras)]]
+- [[objektai/grupes/Livonijos kunigaikštystė]]
+- [[objektai/asmenys/Lukas Opachovskis]]
+- [[objektai/autoriai/M. Hruševskis]]
+- [[objektai/zodynas/Magdeburgo teisė]]
+- [[objektai/asmenys/Matijas Ercbergeris]]
+- [[objektai/paprociai/Naujai krikštytų lietuvių bajorų privilegijavimas]]
+- [[objektai/autoriai/O. Balzeris]]
+- [[objektai/autoriai/O. Halecki]]
+- [[objektai/ivykiai/Paulavos respublikos įkūrimas ir įstatų patvirtinimas]]
+- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
+- [[objektai/grupes/Piastų dinastija]]
+- [[objektai/asmenys/Pilsudskis]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
+- [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]
+- [[objektai/zodynas/Rašliava]]
+- [[objektai/asmenys/Romanas Dmovskis]]
+- [[objektai/grupes/Romanovų dinastija]]
+- [[objektai/asmenys/Rotundas (Augustinas Milesijus Mieleskis)]]
+- [[objektai/autoriai/Rusų ir ukrainiečių istorikai]]
+- [[objektai/ivykiai/Salyno sutartis]]
+- [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Stanislovas Sabina]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vaclovas (Wanko) iš Płocko]]
+- [[objektai/daiktai/Valstybės antspaudai]]
+- [[objektai/ivykiai/Varšuvos konfederacija]]
+- [[objektai/paprociai/Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija]]
+- [[objektai/asmenys/Vilhelmas fon Urachas]]
+- [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/ivykiai/Vilniaus-Radomo susitarimas]]
+- [[objektai/ivykiai/Vitebsko karo lauko seimas|Vitebsko karo lauko seimas (seimas)]]
+- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
+- [[objektai/ivykiai/Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.)]]
+- [[objektai/paprociai/Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika]]
+- [[objektai/ivykiai/Vėlesni Kriavo pažadų akto susitarimai (1392–1432 m.)]]
+- [[objektai/autoriai/W. Kamienieckis]]
+- [[objektai/autoriai/Wł. Semkowiczius]]
+- [[objektai/asmenys/Zenonas Zažeckis]]
+- [[objektai/asmenys/Zigmantas Augustas]]
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- [[objektai/zodynas/aneksija]]
+- [[objektai/zodynas/atskiri seimai]]
+- [[objektai/zodynas/aukso laisvė]]
+- [[objektai/zodynas/bajoriškoji demokratija]]
+- [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]
+- [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
+- [[objektai/zodynas/daugiakonfesiškumas]]
+- [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]
+- [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]
+- [[objektai/posakiai/duona, tolerancija, demokratija, konstitucija, barokas]]
+- [[objektai/posakiai/dux Russiae]]
+- [[objektai/zodynas/egzekucija]]
+- [[objektai/zodynas/federacinė valstybė]]
+- [[objektai/zodynas/feodalinis imunitetas]]
+- [[objektai/zodynas/gudų rašto kalba]]
+- [[objektai/zodynas/imunitetai]]
+- [[objektai/zodynas/kaštelionas]]
+- [[objektai/zodynas/konsiliumas]]
+- [[objektai/zodynas/konstitucinė monarchija]]
+- [[objektai/zodynas/lenkinti]]
+- [[objektai/posakiai/lenkų ponus „užglostyti”]]
+- [[objektai/zodynas/lenkų pradų naikinimo politika]]
+- [[objektai/zodynas/lenkų pradų naikinimo politika istorinio pirmumo teisė]]
+- [[objektai/zodynas/metropolija bažnytinė unija|metropolija bažnytinė unija (unija)]]
+- [[objektai/zodynas/perdėtinis]]
+- [[objektai/zodynas/pereinamasis laikotarpis]]
+- [[objektai/zodynas/poliublininiai laikai]]
+- [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
+- [[objektai/zodynas/ponų įsigalėjimo laikotarpis]]
+- [[objektai/zodynas/pravoslavai]]
+- [[objektai/zodynas/sankcija]]
+- [[objektai/zodynas/separatizmas]]
+- [[objektai/zodynas/statuto dėsniai]]
+- [[objektai/zodynas/supremacija]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/supremus dux magnus dux]]
+- [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/vaivada kaštelionas]]
+- [[objektai/zodynas/valstybingumo sąmonė]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/ivykiai/Čičinsko seimo išardymas (1652 m.)]]
+- [[objektai/daiktai/Šv. Vaclovo karūna]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/paprociai/Žemaičių atvertimo į krikščionybę veikla iš Vilniaus]]
+- [[objektai/ivykiai/Žemaičių krikštas|Žemaičių krikštas (krikštas)]]
+- [[objektai/grupes/Žečpospolita]]
+- [[objektai/ivykiai/Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių|Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių (privilegija)]]
+- [[objektai/posakiai/„Jūsų Didybės įsakyti mes čia su didžiu skausmu...“]]
+- [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]
+- [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“]]
+- [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
+- [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
+- [[objektai/posakiai/„Čia nebus Lenkijos“]]
+- [[objektai/posakiai/„Šventos santuokos“]]
+- [[objektai/daiktai/Didysis Lietuvos antspaudas]]
+- [[objektai/grupes/Lietuvos didikai]]
+- [[objektai/ivykiai/Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)]]
+- [[objektai/ivykiai/Vilniaus katedros unijos atnaujinimo pasižadėjimas (1812 m. liepos 14 d.)]]
+- [[objektai/zodynas/federacija federacinė valstybė]]

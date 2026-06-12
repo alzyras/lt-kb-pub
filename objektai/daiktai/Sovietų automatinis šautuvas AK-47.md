@@ -45,17 +45,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-78677"></a>
 - t-001
+  global_id: t-78677
   teiginys: '1947 m. M. Kalašnikovo sukurtas automatinis šautuvas AK-47 buvo priimtas į sovietinės armijos ginkluotę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78678"></a>
 - t-002
+  global_id: t-78678
   teiginys: 'Negana to, 7,62x54 mm R šoviniai buvo naudojami visuose sovietų snaiperiniuose šautuvuose ir kulkosvaidžiuose šovinys, tačiau trumpesne tūtele, tai sumažina jį naudojančio kario nešiojamos amunicijos svorį ir nepageidautiną atatranką šaudant automatine ugnimi.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78679"></a>
 - t-003
+  global_id: t-78679
   teiginys: 'Sovietų automatinis šautuvas AK-47 pasižymėjo paprasta priežiūra, patikima konstrukcija ir pigia gamyba.'
   pagrindžia:
     - c-002

@@ -39,22 +39,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67119"></a>
 - t-001
+  global_id: t-67119
   teiginys: 'Klaipėdos krašto autonominis statutas apibrėžė vietinių organų kompetenciją, seimelio, direktorijos ir gubernatoriaus funkcijas.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-67120"></a>
 - t-002
+  global_id: t-67120
   teiginys: 'Klaipėdos kraštas turėjo autonominę valdžią, o Lietuvos Respublikos vyriausybei ten atstovavo prezidento skiriamas gubernatorius.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67121"></a>
 - t-003
+  global_id: t-67121
   teiginys: '1923 m. vasario 16 d. Ambasadorių Konferencija nutarė Klaipėdos kraštą priskirti Lietuvos valstybei, suteikiant jam autonominį režimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-67122"></a>
 - t-004
+  global_id: t-67122
   teiginys: 'Klaipėdos krašto lietuvių atstovai norėjo jungtis prie Didžiosios Lietuvos vietinės autonomijos sąlygomis ir dalyvavo Valstybės Taryboje.'
   pagrindžia:
     - c-002

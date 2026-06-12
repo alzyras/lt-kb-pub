@@ -18,17 +18,23 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-41992"></a>
 - t-001
+  global_id: t-41992
   teiginys: '2-ojo pėstininkų pulko I batalionas, žygiuodamas į Panevėžio frontą, sustojo Pagirių kaime.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41994"></a>
 - t-002
+  global_id: t-41994
   teiginys: 'Lenkų kavalerijos brigadai užėmus Pagirius, jos judėjimą sekė ir kolonas atakavo lietuvių karo lėktuvai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183796"></a>
 - t-003
+  global_id: t-183796
   teiginys: '@ Tuo pat metu lenkų kavalerijos brigada užima Pagirius, jų judėjimą seka ir kolonas atakuoja lietuvių karo lėktuvai.'
   pagrindžia:
     - c-002

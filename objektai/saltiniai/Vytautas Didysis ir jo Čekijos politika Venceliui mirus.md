@@ -23,7 +23,9 @@ Tai buvo, šaltiniais paremta studijėlė, « Bazelio susirinkimas ir Lietuvos s
 
 ## Teiginiai
 
+<a id="claim-t-31975"></a>
 - t-001
+  global_id: t-31975
   teiginys: '„Vytautas Didysis ir jo Čekijos politika Venceliui mirus“ buvo platesnis darbas, atspaustas iš 1930 m. „Židinio“.'
   pagrindžia:
     - c-001

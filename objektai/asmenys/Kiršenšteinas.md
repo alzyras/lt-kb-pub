@@ -19,7 +19,9 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
 
 ## Teiginiai
 
+<a id="claim-t-87913"></a>
 - t-001
+  global_id: t-87913
   teiginys: 'Prūsijoje lietuvių paimtos karo belaisvės sūnus buvo vadinamas Kiršenšteinu, o jo giminė vėliau valdė Raudonės pilį.'
   pagrindžia:
     - c-001

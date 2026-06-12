@@ -19,7 +19,9 @@ Taigi matyti, kad 1219 m. Lietuva buvo dar ne valstybė, o tik žemių konfedera
 
 ## Teiginiai
 
+<a id="claim-t-22355"></a>
 - t-001
+  global_id: t-22355
   teiginys: 'Žemė buvo to meto politinės organizacijos vienetas, o žemių konfederacijoje atskirų žemių kunigaikščiai derino savo veiksmus.'
   pagrindžia:
     - c-001

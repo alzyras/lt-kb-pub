@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08283"></a>
 - t-001
+  global_id: t-08283
   teiginys: 'Kariai ant savo apdaro kartais užsimesdavo baltą trinytinį maišą su rankovėmis.'
   pagrindžia:
     - c-001

@@ -47,22 +47,30 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-113464"></a>
 - t-001
+  global_id: t-113464
   teiginys: 'Atsisakęs krikšto, Gediminas neatsisakė tikslo artinti Lietuvą prie Vakarų Europos, kviesdamas vokiečių kolonistus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-113465"></a>
 - t-002
+  global_id: t-113465
   teiginys: 'Gedimino laiškai p. 21 kais rašytas, ant pergamento, be da- (Leid. past.) tos Slapt.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-113466"></a>
 - t-003
+  global_id: t-113466
   teiginys: 'Lietuvos valdovai kvietė pirklius ir amatininkus iš svetur, nes nepasitikėjo savųjų įgūdžiais.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-113469"></a>
 - t-006
+  global_id: t-113469
   teiginys: 'Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.'
   pagrindžia:
     - c-002

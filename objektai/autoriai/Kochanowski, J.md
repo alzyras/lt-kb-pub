@@ -24,12 +24,16 @@ Kochanowski, J.
 
 ## Teiginiai
 
+<a id="claim-t-54129"></a>
 - t-001
+  global_id: t-54129
   teiginys: 'J. Kochanowskis parašė veikalą „Witold, w. książę litewski“, išleistą Lvove 1900 m.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-54130"></a>
 - t-002
+  global_id: t-54130
   teiginys: 'J. Kochanowski 1900 m. Lvove paskelbė darbą „Witold, w. książę litewski“.'
   pagrindžia:
     - c-001

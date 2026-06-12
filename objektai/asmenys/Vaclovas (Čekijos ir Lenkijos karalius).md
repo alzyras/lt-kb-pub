@@ -25,7 +25,9 @@ Dusburgietis teigia, kad apie Dobrynės žemės apiplėšimą ir 70 lietuvių ž
 
 ## Teiginiai
 
+<a id="claim-t-60453"></a>
 - t-001
+  global_id: t-60453
   teiginys: 'Dusburgietis teigia, kad apie Dobrynės žemės apiplėšimą ir 70 lietuvių žūtį 1300 metais Tais metais Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi.'
   pagrindžia:
     - c-001

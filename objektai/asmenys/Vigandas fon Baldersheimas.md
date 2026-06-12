@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vigandas fon Baldersheimas
 
 ## Santrauka
 
-Kojelavičius teigia, kad puolęs vytis įkandin traukiančių iš Prūsijos lietuvių su menka manta beapsikrovusiais kariais, Įsruties komtūras Vigandas fon Baldersheimas apiplėšė galybę kaimų, ligi tol nepatyrusių karo negandų, ir sudegino išžudęs bei paėmęs į nelaisvę kaimiečius.
+Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų.
 
 ## Teiginiai
 
+<a id="claim-t-186266"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad puolęs vytis įkandin traukiančių iš Prūsijos lietuvių su menka manta beapsikrovusiais kariais, Įsruties komtūras Vigandas fon Baldersheimas apiplėšė galybę kaimų, ligi tol nepatyrusių karo negandų, ir sudegino išžudęs bei paėmęs į nelaisvę kaimiečius.'
+  global_id: t-186266
+  teiginys: 'Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad puolęs vytis įkandin traukiančių iš Prūsijos lietuvių su menka manta beapsikrovusiais kariais, Įsruties komtūras Vigandas fon Baldersheimas apiplėšė galybę kaimų, ligi tol nepatyrusių karo negandų, ir sudegino išžudęs bei paėmęs į nelaisvę kaimiečius.'
+  santrauka: 'Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šis staigus ant­
@@ -43,3 +44,9 @@ Kojelavičius teigia, kad puolęs vytis įkandin traukiančių iš Prūsijos lie
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Vytis]]
+- [[objektai/zodynas/komtūras]]

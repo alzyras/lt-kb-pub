@@ -25,7 +25,9 @@ Wagner, K.
 
 ## Teiginiai
 
+<a id="claim-t-31076"></a>
 - t-001
+  global_id: t-31076
   teiginys: 'K. Wagneris 1933 m. „Naujojoje Romuvoje“ paskelbė darbą „Vokiečių ordino pilys Kauno apylinkėje“.'
   pagrindžia:
     - c-001

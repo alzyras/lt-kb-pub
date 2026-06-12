@@ -16,7 +16,9 @@ Savo mokytojo Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vai
 
 ## Teiginiai
 
+<a id="claim-t-30367"></a>
 - t-001
+  global_id: t-30367
   teiginys: 'Olesnickis buvo Dlugošo mokytojas, kurio įtakoje Dlugošas Vytauto vainiko klausimą neteisingai siejo su asmeniniais interesais.'
   pagrindžia:
     - c-001

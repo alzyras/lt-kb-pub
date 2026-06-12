@@ -17,7 +17,9 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
 
 ## Teiginiai
 
+<a id="claim-t-59129"></a>
 - t-001
+  global_id: t-59129
   teiginys: 'Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio spraga.'
   pagrindžia:
     - c-001

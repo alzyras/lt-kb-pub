@@ -26,17 +26,23 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
 
 ## Teiginiai
 
+<a id="claim-t-169945"></a>
 - t-001
+  global_id: t-169945
   teiginys: 'Rusintojai manė laimėti, „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169946"></a>
 - t-002
+  global_id: t-169946
   teiginys: '„Rusų pradus“ švietimo įstaigose turėjo diegti rusai mokytojai, paprastai atvykę iš Rusijos gilumos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183496"></a>
 - t-003
+  global_id: t-183496
   teiginys: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
   pagrindžia:
     - c-002

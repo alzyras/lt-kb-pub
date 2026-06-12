@@ -41,7 +41,9 @@ Praktika minima Vytauto santykiuose su Ordinu ir Jogailos dokumentiniame pažad�
 
 ## Teiginiai
 
+<a id="claim-t-67216"></a>
 - t-001
+  global_id: t-67216
   teiginys: '1385 m. rugpjūčio 14 d. Jogailos pažadus patvirtinęs dokumentas buvo papildomai sustiprintas Vytauto, Skirgailos, Kaributo ir Lengvenio antspaudais.'
   pagrindžia:
     - c-001

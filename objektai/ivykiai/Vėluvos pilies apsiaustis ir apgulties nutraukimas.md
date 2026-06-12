@@ -34,12 +34,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62956"></a>
 - t-001
+  global_id: t-62956
   teiginys: 'Dusburgietis teigia, kad galop vieną dieną visi pakilo į kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas Tupadelis, kuris vėliau tapo Teutonų ordino broliu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-62957"></a>
 - t-002
+  global_id: t-62957
   teiginys: 'Dusburgietis teigia, kad apie Vėluvos pilies puolimą Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias dienas laikė apsupę Vėluvos pilį, kasdien ją puldami.'
   pagrindžia:
     - c-002

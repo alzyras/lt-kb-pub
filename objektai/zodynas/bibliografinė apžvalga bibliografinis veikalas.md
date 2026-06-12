@@ -16,7 +16,9 @@ Dėl savo naujumo ir tiksliai pravestos sistemingos bibliografinės apžvalgos b
 
 ## Teiginiai
 
+<a id="claim-t-32767"></a>
 - t-001
+  global_id: t-32767
   teiginys: 'Bibliografinis veikalas buvo svarbus Lietuvos istorijos tyrinėtojui dėl naujos ir sistemingos bendrų Lietuvos ir Lenkijos istorijos klausimų apžvalgos.'
   pagrindžia:
     - c-001

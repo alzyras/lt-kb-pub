@@ -9,7 +9,6 @@ atnaujinta: ''
 tags:
   - asmuo
 ---
-
 # Albertas iš Meiseno
 
 ## Santrauka
@@ -18,48 +17,66 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 
 ## Teiginiai
 
+<a id="claim-t-89608"></a>
 - t-001
+  global_id: t-89608
   teiginys: 'Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie burnos pasirodė komunijos paplotėlis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89609"></a>
 - t-002
+  global_id: t-89609
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats brolis Albertas su kitais broliais traukė prieš tikėjimo priešus, tą dieną, kai broliai bei kiti vienuoliai paprastai ima šventąją komuniją — mūsų viešpaties Jėzaus Kristaus kūną, nutolo jis šiek tiek nuo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89610"></a>
 - t-003
+  global_id: t-89610
   teiginys: 'Dusburgietis teigia, kad albertas iš Meiseno išsigando ir pasakė: „Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas, tegu jis įeina į mane“; kai atvėrė burną, paplotėlis įėjo, o jis jį priėmė, neapsakomai džiaugdamasis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89611"></a>
 - t-004
+  global_id: t-89611
   teiginys: 'Dusburgietis pasakoja, kad kasdienė malda Albertui padėjo nugalėti pagundas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89612"></a>
 - t-005
+  global_id: t-89612
   teiginys: 'Dusburgietis pasakoja, kad albertas iš Meiseno šiame šaltinyje įvardijamas Karaliaučiaus pilies komtūru.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89613"></a>
 - t-006
+  global_id: t-89613
   teiginys: 'Dusburgietis teigia, kad su jais kartu gyveno ir brolis Albertas iš Meiseno, šios pilies komtūras526, dievui atsidavęs vyras, pagirtinai gyvenęs per visą savo gyvenimą.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-89614"></a>
 - t-007
+  global_id: t-89614
   teiginys: 'Dusburgietis teigia, kad albertas iš Meiseno kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89615"></a>
 - t-008
+  global_id: t-89615
   teiginys: 'Dusburgietis teigia, kad albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-184655"></a>
 - t-009
-  teiginys: 'Kojelavičius teigia, kad pelužis, lengvai patikėjęs patarimu, apie viską pra nešė Albertui ton Meisenuį, Karaliaučiaus komtūrui, kuris parėmė sumanymą.'
+  global_id: t-184655
+  teiginys: 'Pelužis pranešė Karaliaučiaus komtūrui Albertui iš Meiseno apie sumanymą, o šis jį parėmė.'
   pagrindžia:
     - c-007
 
@@ -162,7 +179,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - t-006
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad pelužis, lengvai patikėjęs patarimu, apie viską pra nešė Albertui ton Meisenuį, Karaliaučiaus komtūrui, kuris parėmė sumanymą.'
+  santrauka: 'Pelužis pranešė Karaliaučiaus komtūrui Albertui iš Meiseno apie sumanymą, o šis jį parėmė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tegu su kariais netikėtai pasirodąs, iš pa­
@@ -178,3 +195,16 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   statusas: verified
   pagrindžia:
     - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Albertas]]
+- [[objektai/daiktai/Deglas]]
+- [[objektai/asmenys/Kūnas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Paplotėlis]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/posakiai/O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs]]

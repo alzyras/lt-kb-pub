@@ -28,12 +28,16 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-87465"></a>
 - t-001
+  global_id: t-87465
   teiginys: 'Valerijonas pasirašė 1533 m. spalio 23 d. Vilniuje rašytą dokumentą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-87466"></a>
 - t-002
+  global_id: t-87466
   teiginys: '1533 m. spalio 23 d. Vilniuje datuotas karalienės Bonos laiškas buvo pasirašytas Valerijono.'
   pagrindžia:
     - c-002
@@ -140,5 +144,6 @@ periodo_grupes:
 - [[objektai/zodynas/činšas]]
 - [[objektai/posakiai/„aidint patrankoms, mūzos tyli“]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/asmenys/Valerijonas Suškovskis Protasevičius|Valerijonas Suškovskis Protasevičius (vyskupas)]]
 - [[objektai/paprociai/Valerijono Bursos studentų vidaus drausmė ir prefekto-senjoro priežiūra]]
 - [[objektai/zodynas/arkibrolija arkikonfratrija]]

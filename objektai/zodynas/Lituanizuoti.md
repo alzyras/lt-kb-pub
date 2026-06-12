@@ -16,7 +16,9 @@ Lenkų įtaka ribota, nes valdžia siekė juos lituanizuoti, laikydama esant nut
 
 ## Teiginiai
 
+<a id="claim-t-22007"></a>
 - t-001
+  global_id: t-22007
   teiginys: 'Valdžia siekė lituanizuoti lenkus, laikydama juos nutautėjusiais lietuviais.'
   pagrindžia:
     - c-001

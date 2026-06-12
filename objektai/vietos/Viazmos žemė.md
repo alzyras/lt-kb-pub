@@ -12,29 +12,32 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Viazmos žemė
 
 ## Santrauka
 
-Kojelavičius teigia, kad jis ir pats atė mė iš Krošino kunigaikščių, Kęstučio sūnaus Vygando palikuonių, geroką krašto dalį, ir stengėsi nuslėpti savo brolio Andrejaus, Možaisko 1487 metai kunigaikščio, įsibrovimą į Siaubia L ie tu v o s v a iViazmos žemę, nekalbant jau d a s apie. Kojelavičius teigia, kad ir Stanislovas Kiška, vargais negalais pra sivalęs kelią, veržliai nusiaubė Viazmos žemę ir greti mas apygardas, visur žudydamas ir degindamas.
+Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikščio, įsibrovimą į Viazmos žemę. Stanislovas Kiška nusiaubė Viazmos žemę ir gretimas apygardas, visur žudydamas ir degindamas.
 
 ## Teiginiai
 
+<a id="claim-t-185275"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad jis ir pats atė mė iš Krošino kunigaikščių, Kęstučio sūnaus Vygando palikuonių, geroką krašto dalį, ir stengėsi nuslėpti savo brolio Andrejaus, Možaisko 1487 metai kunigaikščio, įsibrovimą į Siaubia L ie tu v o s v a iViazmos žemę, nekalbant jau d a s apie.'
+  global_id: t-185275
+  teiginys: 'Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikščio, įsibrovimą į Viazmos žemę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185276"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad ir Stanislovas Kiška, vargais negalais pra sivalęs kelią, veržliai nusiaubė Viazmos žemę ir greti mas apygardas, visur žudydamas ir degindamas.'
+  global_id: t-185276
+  teiginys: 'Stanislovas Kiška nusiaubė Viazmos žemę ir gretimas apygardas, visur žudydamas ir degindamas.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad jis ir pats atė mė iš Krošino kunigaikščių, Kęstučio sūnaus Vygando palikuonių, geroką krašto dalį, ir stengėsi nuslėpti savo brolio Andrejaus, Možaisko 1487 metai kunigaikščio, įsibrovimą į Siaubia L ie tu v o s v a iViazmos žemę, nekalbant jau d a s apie.'
+  santrauka: 'Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikščio, įsibrovimą į Viazmos žemę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu Va­
@@ -63,7 +66,7 @@ Kojelavičius teigia, kad jis ir pats atė mė iš Krošino kunigaikščių, Kę
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad ir Stanislovas Kiška, vargais negalais pra sivalęs kelią, veržliai nusiaubė Viazmos žemę ir greti mas apygardas, visur žudydamas ir degindamas.'
+  santrauka: 'Stanislovas Kiška nusiaubė Viazmos žemę ir gretimas apygardas, visur žudydamas ir degindamas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto Ostro­

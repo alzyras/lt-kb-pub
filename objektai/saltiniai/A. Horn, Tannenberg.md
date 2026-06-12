@@ -28,7 +28,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31584"></a>
 - t-001
+  global_id: t-31584
   teiginys: 'A. Horno „Tannenberg“ paskelbtas AM 22 tome 1885 m. ir 23 tome 1886 m.'
   pagrindžia:
     - c-001

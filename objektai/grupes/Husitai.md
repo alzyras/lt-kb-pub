@@ -21,86 +21,88 @@ amziai:
   - 'XV'
   - 'XXI'
 ---
-
 # Husitai
 
 ## Santrauka
 
 Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karaliumi, šis davė aiškių vilčių. Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]
-- [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]
-- [[objektai/asmenys/Prokopas]]
-- [[objektai/asmenys/Sofija (Vytauto duktė)]]
-- [[objektai/asmenys/St. Ciolką]]
-- [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]
-- [[objektai/zodynas/ekskomunika]]
-- [[objektai/posakiai/in odium Sigismundi]]
-- [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/grupes/Čekijos husitai]]
-- [[objektai/daiktai/Šv. Vaclovo karūna]]
-- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
-
 ## Teiginiai
 
+<a id="claim-t-172096"></a>
 - t-001
+  global_id: t-172096
   teiginys: 'Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-172097"></a>
 - t-002
+  global_id: t-172097
   teiginys: 'Vytautas popiežiui rašė norįs be kraujo praliejimo atversti husitus ir prašė sustabdyti kryžiaus karus bei ekskomuniką.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-172099"></a>
 - t-003
+  global_id: t-172099
   teiginys: 'Pavyzdžiui, husitai dargi ne kartą Vytauto globa naudojosi.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-172100"></a>
 - t-004
+  global_id: t-172100
   teiginys: 'Popiežius draudė Vytautui siųsti Kaributą ir grasė paskelbti Lietuvai kryžiaus žygį, jei jis nenutrauks ryšių su husitais.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-172101"></a>
 - t-005
+  global_id: t-172101
   teiginys: 'Popiežius draudė siųsti Kaributą, o kai Vytautas nepaklausė, grasė paskelbsiąs Lietuvai kryžiaus žygį, jei jo neatšauktų ir nenutrauktų su husitais santykių.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-172102"></a>
 - t-006
+  global_id: t-172102
   teiginys: '1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą tapti jų karaliumi ir gavo iš jo vilčių.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-172103"></a>
 - t-007
+  global_id: t-172103
   teiginys: 'Vytautas čekams husitams rašė nerėmęs jų mokslo ir siūlėsi tarpininkauti, jei jie atsisakytų erezijos.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-172104"></a>
 - t-008
+  global_id: t-172104
   teiginys: 'Čekai husitai pasiūlė karališką vainiką Jogailai, bet jis atsisakė jį priimti, nes tai buvo eretikų siūlymas.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-172105"></a>
 - t-009
+  global_id: t-172105
   teiginys: 'Lenkijoje, o vėliau ir Lietuvoje kilo opozicija husitams: imta kovoti su jų mokslu ir likta Bažnyčios pusėje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-172106"></a>
 - t-010
+  global_id: t-172106
   teiginys: 'Husitai ne kartą naudojosi Vytauto globa.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-184478"></a>
 - t-011
-  teiginys: 'Kojelavičius teigia, kad valdo vų posėdyje jis visą laiką ra gino sudaryti santarvę, sutelktomis jėgomis numalšinti husitus, pirmiausia, žinoma, Čekijoje, o vėliau visą kariuomenę nukreipti prieš turkus ir saracėnus, kerši jant už Rytų imperijos griovimą.'
+  global_id: t-184478
+  teiginys: '1429 m. valdovų posėdyje imperatorius ragino sutelktomis jėgomis numalšinti husitus pirmiausia Čekijoje.'
   pagrindžia:
     - c-010
 
@@ -258,7 +260,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     - t-005
 
 - c-010
-  santrauka: 'Kojelavičius teigia, kad valdo vų posėdyje jis visą laiką ra gino sudaryti santarvę, sutelktomis jėgomis numalšinti husitus, pirmiausia, žinoma, Čekijoje, o vėliau visą kariuomenę nukreipti prieš turkus ir saracėnus, kerši jant už Rytų imperijos griovimą.'
+  santrauka: '1429 m. valdovų posėdyje imperatorius ragino sutelktomis jėgomis numalšinti husitus pirmiausia Čekijoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai todėl vienaip kalbėjo im­
@@ -286,3 +288,41 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   statusas: verified
   pagrindžia:
     - t-011
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]
+- [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]
+- [[objektai/asmenys/Prokopas]]
+- [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- [[objektai/asmenys/St. Ciolką]]
+- [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]
+- [[objektai/zodynas/ekskomunika]]
+- [[objektai/posakiai/in odium Sigismundi]]
+- [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/grupes/Čekijos husitai]]
+- [[objektai/daiktai/Šv. Vaclovo karūna]]
+- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos vyskupai]]
+- [[objektai/asmenys/Martynas V]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/daiktai/Balnas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis)]]
+- [[objektai/asmenys/Zigmantas Kaributas]]
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- [[objektai/zodynas/atskala]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/zodynas/erezija]]
+- [[objektai/autoriai/B. Dundulis]]
+- [[objektai/grupes/Saracėnai]]

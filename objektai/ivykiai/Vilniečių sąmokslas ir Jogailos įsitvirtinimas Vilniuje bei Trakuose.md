@@ -31,12 +31,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01855"></a>
 - t-001
+  global_id: t-01855
   teiginys: '1382 m., Kęstučiui išvykus į rytus, Vilniuje kilo sąmokslas, o vokiečiai pirkliai perdavė miestą Jogailai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-01856"></a>
 - t-002
+  global_id: t-01856
   teiginys: 'Vytautas bandė atsiimti Vilnių, bet prie miesto Jogailos buvo sumuštas ir pasitraukė į Gardiną rinkti jėgų.'
   pagrindžia:
     - c-002

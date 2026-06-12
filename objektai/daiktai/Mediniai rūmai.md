@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87085"></a>
 - t-001
+  global_id: t-87085
   teiginys: 'Gedimino dvare gyvenę lietuvių didikai ir kunigaikščio giminės ties pilimi statydinosi medinius rūmus.'
   pagrindžia:
     - c-001

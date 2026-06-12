@@ -27,47 +27,65 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-90737"></a>
 - t-001
+  global_id: t-90737
   teiginys: 'Dusburgietis teigia, kad tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys būdami netikėliai ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo 160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo ir Lenčicos, 1229 ir 1241—1243 m..'
   pagrindžia:
     - c-006
 
+<a id="claim-t-90738"></a>
 - t-002
+  global_id: t-90738
   teiginys: '1291 m. lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras išsiuntė Vytenį į Lenkiją su didele kariuomene.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-90739"></a>
 - t-003
+  global_id: t-90739
   teiginys: 'Dusburgietis teigia, kad apie laikos nutraukimą ir Kujavijos žemės nuniokojimą Praslinkus tam tikram laikui, Sventopelkas, užmiršęs būti dėkingas už palankumą ir visokiausias malones, kurių broliai ne kartą jam, patekusiam į bėdą, yra teikę, plėšė slaptomis brolių valdinius, vienus.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-90740"></a>
 - t-004
+  global_id: t-90740
   teiginys: 'Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-90741"></a>
 - t-005
+  global_id: t-90741
   teiginys: 'Dusburgietis teigia, kad galop, viešai išsižadėjęs taikos, įniko kaip ir seniau persekioti krikščionis ir, sutelkęs didelę kariuomenę, netikėtai įsiveržė į kunigaikščiui Kazimierui priklausomą Kujavijos žemę, ją nuniokojo, degindamas bei grobdamas, o išžudęs daugybę krikščionių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-90742"></a>
 - t-006
+  global_id: t-90742
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-90743"></a>
 - t-007
+  global_id: t-90743
   teiginys: '1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-90744"></a>
 - t-008
+  global_id: t-90744
   teiginys: 'Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90745"></a>
 - t-009
+  global_id: t-90745
   teiginys: 'Dusburgietis teigia, kad galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę ir įsibrovė į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas, baisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop sugrįžo.'
   pagrindžia:
     - c-003

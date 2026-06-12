@@ -28,7 +28,9 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
 
 ## Teiginiai
 
+<a id="claim-t-60337"></a>
 - t-001
+  global_id: t-60337
   teiginys: 'Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau priešinęsis broliams ir iki savo gyvenimo pabaigos ištikimai laikėsi sutarties, kurią tarp jo ir brolių buvo sudaręs Jokūbas, Liuticho [Liežo] arkidiakonas, vėliau tapęs popiežiumi Urbonu IV.'
   pagrindžia:
     - c-001

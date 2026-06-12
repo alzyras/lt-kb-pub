@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-19431"></a>
 - t-001
+  global_id: t-19431
   teiginys: 'M. Šapoka redagavo leidinį „Millennium of Lithuania: Millennium Lithuaniae“, išleistą Vilniuje 2009 m.'
   pagrindžia:
     - c-001

@@ -27,17 +27,23 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
 
 ## Teiginiai
 
+<a id="claim-t-45701"></a>
 - t-001
+  global_id: t-45701
   teiginys: 'Atkuriant valstybę reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą ir atkurti paskutinės nepriklausomos Lietuvos konstituciją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-45703"></a>
 - t-002
+  global_id: t-45703
   teiginys: 'Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-45704"></a>
 - t-003
+  global_id: t-45704
   teiginys: '1938 m. gegužę priimtoje naujoje konstitucijoje vėl buvo įrašyta, kad Vilnius yra Lietuvos sostinė.'
   pagrindžia:
     - c-001

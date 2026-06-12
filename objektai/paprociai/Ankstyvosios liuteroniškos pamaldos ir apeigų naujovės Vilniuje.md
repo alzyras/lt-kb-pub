@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Ankstyvosios liuteroniškos pamaldos ir apeigų naujovės Vilniuje
 
 ## Santrauka
 
-Kojelavičius teigia, kad galop Vilniuje, gy vam tebesant vyskupui Povilui, kažkoks Viklifo pase kėjas, apsirengęs kunigo rūbais, gavo iš vyskupo lei dimą kalbėti šv.
+Vilniuje, vyskupui Povilui dar gyvam esant, Viklifo pasekėjas gavo leidimą Šv. Onos bažnyčioje kalbėti apie tikėjimą ir laikyti pamaldas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185859"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad galop Vilniuje, gy vam tebesant vyskupui Povilui, kažkoks Viklifo pase kėjas, apsirengęs kunigo rūbais, gavo iš vyskupo lei dimą kalbėti šv.'
+  global_id: t-185859
+  teiginys: 'Vilniuje, vyskupui Povilui dar gyvam esant, Viklifo pasekėjas gavo leidimą Šv. Onos bažnyčioje kalbėti apie tikėjimą ir laikyti pamaldas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad galop Vilniuje, gy vam tebesant vyskupui Povilui, kažkoks Viklifo pase kėjas, apsirengęs kunigo rūbais, gavo iš vyskupo lei dimą kalbėti šv.'
+  santrauka: 'Vilniuje, vyskupui Povilui dar gyvam esant, Viklifo pasekėjas gavo leidimą Šv. Onos bažnyčioje kalbėti apie tikėjimą ir laikyti pamaldas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nauji tikybiniai įsitikinimai laisvai plito po didikų
@@ -55,3 +56,11 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/asmenys/Povilas (Vilniaus vyskupas)]]

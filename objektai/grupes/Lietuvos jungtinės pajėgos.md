@@ -17,12 +17,16 @@ Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaik�
 
 ## Teiginiai
 
+<a id="claim-t-38824"></a>
 - t-001
+  global_id: t-38824
   teiginys: 'Lietuvos jungtines pajėgas sudarė lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamyšo totoriai, talkininkai iš Lenkijos, Kryžiuočių ordino kariai ir moldavai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183660"></a>
 - t-002
+  global_id: t-183660
   teiginys: 'Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamišo totoriai, talkininkai iš Lenkijos, Kryžiuočių ordino kariai, moldavai.'
   pagrindžia:
     - c-001

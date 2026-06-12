@@ -25,7 +25,9 @@ Lietuvos bajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, vieną 
 
 ## Teiginiai
 
+<a id="claim-t-74033"></a>
 - t-001
+  global_id: t-74033
   teiginys: 'Lietuvos bajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, arba vieną bajorų „tautą“, tačiau pati rūpinosi Lietuva.'
   pagrindžia:
     - c-001

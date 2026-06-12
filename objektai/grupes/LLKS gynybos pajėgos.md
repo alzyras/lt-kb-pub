@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-40978"></a>
 - t-001
+  global_id: t-40978
   teiginys: '1949 m. minimas LLKS gynybos pajėgų vadas, susijęs su vieningos pasipriešinimo judėjimo vadovybės kūrimu.'
   pagrindžia:
     - c-001

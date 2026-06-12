@@ -22,7 +22,9 @@ Dusburgietis teigia, kad kuzavinis К.
 
 ## Teiginiai
 
+<a id="claim-t-61115"></a>
 - t-001
+  global_id: t-61115
   teiginys: 'K. Kuzavinio „Garbus – jotvingiškas žodis“ paskelbta 1968 m. „Baltistica“ 4 tomo 1 numeryje, p. 65–67.'
   pagrindžia:
     - c-001

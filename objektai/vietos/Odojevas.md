@@ -26,22 +26,30 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 
 ## Teiginiai
 
+<a id="claim-t-79891"></a>
 - t-001
+  global_id: t-79891
   teiginys: 'Odojevo kunigaikščiai buvo tarp Okos ir Dono aukštupių valdovų, atsimetusių nuo Vytauto.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79892"></a>
 - t-002
+  global_id: t-79892
   teiginys: 'Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79893"></a>
 - t-003
+  global_id: t-79893
   teiginys: 'Gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184315"></a>
 - t-004
+  global_id: t-184315
   teiginys: 'Odojevo kunigaikštis buvo tarp Okos ir Dono aukštupių valdovų, atsimetusių nuo Vytauto.'
   pagrindžia:
     - c-003

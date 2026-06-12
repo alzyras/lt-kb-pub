@@ -26,62 +26,86 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
 
 ## Teiginiai
 
+<a id="claim-t-84407"></a>
 - t-001
+  global_id: t-84407
   teiginys: 'Balińskio liudijimu, Paneriams priklausiusiuose Trakų apskrities kaimuose Vilija dar buvo vadinama Nerimi.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-84408"></a>
 - t-002
+  global_id: t-84408
   teiginys: '1390 m. Vladislovo Jogailos privilegijoje Vilniaus kapitulai buvo dovanojami Paneriai.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-84409"></a>
 - t-003
+  global_id: t-84409
   teiginys: 'Vilija buvo vadinama Nerimi kaimuose, priklausiusiuose Zubiškių palivarkui ir Paneriams Trakų apskrityje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-84410"></a>
 - t-004
+  global_id: t-84410
   teiginys: 'Balińskis Panerių pavadinimą siejo su įspūdžiu, kad tarp aukštų kalnų tekanti Neris atrodo tarsi panirusi.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-84411"></a>
 - t-005
+  global_id: t-84411
   teiginys: 'Sapiegų pajėgos iš Vilniaus apylinkių pro Panerius ir Vokę išžygiavo Valkininkų kryptimi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-84412"></a>
 - t-006
+  global_id: t-84412
   teiginys: 'Perkėlimai plaustais per Vilijos upę buvo uždrausti tarp Verkių kaimo ir Panerių kaimo.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-84413"></a>
 - t-007
+  global_id: t-84413
   teiginys: 'Panerių pavadinimas siejamas su Neries vardu ir žodžiu „Panerta“.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-84414"></a>
 - t-008
+  global_id: t-84414
   teiginys: 'Perkėlimai plaustais per Viliją buvo draudžiami tarp Verkių kaimo ir Vilniaus kapitulai priklausiusio Panerių kaimo.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-84415"></a>
 - t-009
+  global_id: t-84415
   teiginys: 'Algirdas kartais gyvendavo Paneriuose, šiandien priklausančiuose Vilniaus kapitulai.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-84416"></a>
 - t-010
+  global_id: t-84416
   teiginys: 'Paneriuose veikęs Ypatingasis SD būrys buvo viena iš dviejų lietuvių zonderkomandų, daugiausia vykdžiusių šaudymus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-84417"></a>
 - t-011
+  global_id: t-84417
   teiginys: '1390 m. Vladislovo Jogailos privilegijoje, kuria Vilniaus kapitulai dovanoti Paneriai, Vilija pavadinta Vigilia.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-84418"></a>
 - t-012
+  global_id: t-84418
   teiginys: 'Sapiegų pajėgos Kitą dieną iš Vilniaus, kurio apylinkėse ir buvo sutelktos, pro Panerius ir Vokę Valkininkų kryptimi išžygiavo Sapiegų pajėgos.'
   pagrindžia:
     - c-006

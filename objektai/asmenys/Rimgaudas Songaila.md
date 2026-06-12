@@ -16,12 +16,16 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 
 ## Teiginiai
 
+<a id="claim-t-64040"></a>
 - t-001
+  global_id: t-64040
   teiginys: 'S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griškevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios vadžias.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64041"></a>
 - t-002
+  global_id: t-64041
   teiginys: 'Rimgaudas Songaila, pakeitęs Petrą Griškevičių LKP CK pirmojo sekretoriaus pareigose, laikėsi pasyviai.'
   pagrindžia:
     - c-002

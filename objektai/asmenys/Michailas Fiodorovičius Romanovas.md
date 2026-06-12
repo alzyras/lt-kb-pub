@@ -25,12 +25,16 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
 
 ## Teiginiai
 
+<a id="claim-t-40337"></a>
 - t-001
+  global_id: t-40337
   teiginys: 'Michailas Fiodorovičius Romanovas 1613 m. Zemskinio susirinkimo buvo išrinktas caru.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183754"></a>
 - t-002
+  global_id: t-183754
   teiginys: 'Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Romanovas.'
   pagrindžia:
     - c-002

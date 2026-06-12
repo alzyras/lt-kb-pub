@@ -16,7 +16,9 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 
 ## Teiginiai
 
+<a id="claim-t-11083"></a>
 - t-001
+  global_id: t-11083
   teiginys: 'Mozūrai buvo tarp grupių, su kuriomis Zigmantas Kęstutaitis patvirtino sandaras, po kurių prekyba didėjo.'
   pagrindžia:
     - c-001

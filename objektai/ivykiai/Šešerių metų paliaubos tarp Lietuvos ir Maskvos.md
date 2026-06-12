@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Šešerių metų paliaubos tarp Lietuvos ir Maskvos
 
 ## Santrauka
 
-Kojelavičius teigia, kad pasiun tinybei vadovavo Petras Miškovskis, Lenčicos vaiva da, Stanislovas Glebavičius, Lietuvos maršalas, Vaitie kus Kločka, karalienės rūmininkas, Jonas Sapiega, Lie tuvos raštininkas. Kojelavičius teigia, kad išvykstantiems pasiuntiniams buvo nurodyta, kad amžina taika galinti būti sudaryta, jei gu Maskvos valdovas priimsiąs šias svarbiausias są- 5 73 lygas: atstatyti pilis, sugrąSudaro šešerių m e tų žinti belaisvius bei perbėgėpa lia u b a s liūs ir įtraukti į. Kojelavičius teigia, kad be to, sutarė paliaubų metu derėtis dėl amžinos taikos.
+Lietuvos ir Maskvos paliaubų pasiuntinybei vadovavo Petras Miškovskis, Stanislovas Glebavičius, Vaitiekus Kločka ir Jonas Sapiega. Lietuvos pasiuntiniams buvo nurodyta siekti, kad Maskvos valdovas atstatytų pilis, grąžintų belaisvius bei perbėgėlius ir įtrauktų Livonijos magistrą į sutartį. Lietuva ir Maskva sutarė paliaubų metu derėtis dėl amžinos taikos.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,25 +26,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185678"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad pasiun tinybei vadovavo Petras Miškovskis, Lenčicos vaiva da, Stanislovas Glebavičius, Lietuvos maršalas, Vaitie kus Kločka, karalienės rūmininkas, Jonas Sapiega, Lie tuvos raštininkas.'
+  global_id: t-185678
+  teiginys: 'Lietuvos ir Maskvos paliaubų pasiuntinybei vadovavo Petras Miškovskis, Stanislovas Glebavičius, Vaitiekus Kločka ir Jonas Sapiega.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185679"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad išvykstantiems pasiuntiniams buvo nurodyta, kad amžina taika galinti būti sudaryta, jei gu Maskvos valdovas priimsiąs šias svarbiausias są- 5 73 lygas: atstatyti pilis, sugrąSudaro šešerių m e tų žinti belaisvius bei perbėgėpa lia u b a s liūs ir įtraukti į.'
+  global_id: t-185679
+  teiginys: 'Lietuvos pasiuntiniams buvo nurodyta siekti, kad Maskvos valdovas atstatytų pilis, grąžintų belaisvius bei perbėgėlius ir įtrauktų Livonijos magistrą į sutartį.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185680"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad be to, sutarė paliaubų metu derėtis dėl amžinos taikos.'
+  global_id: t-185680
+  teiginys: 'Lietuva ir Maskva sutarė paliaubų metu derėtis dėl amžinos taikos.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad pasiun tinybei vadovavo Petras Miškovskis, Lenčicos vaiva da, Stanislovas Glebavičius, Lietuvos maršalas, Vaitie kus Kločka, karalienės rūmininkas, Jonas Sapiega, Lie tuvos raštininkas.'
+  santrauka: 'Lietuvos ir Maskvos paliaubų pasiuntinybei vadovavo Petras Miškovskis, Stanislovas Glebavičius, Vaitiekus Kločka ir Jonas Sapiega.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pasiun­
@@ -75,7 +80,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad išvykstantiems pasiuntiniams buvo nurodyta, kad amžina taika galinti būti sudaryta, jei gu Maskvos valdovas priimsiąs šias svarbiausias są- 5 73 lygas: atstatyti pilis, sugrąSudaro šešerių m e tų žinti belaisvius bei perbėgėpa lia u b a s liūs ir įtraukti į.'
+  santrauka: 'Lietuvos pasiuntiniams buvo nurodyta siekti, kad Maskvos valdovas atstatytų pilis, grąžintų belaisvius bei perbėgėlius ir įtrauktų Livonijos magistrą į sutartį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Išvykstantiems pasiuntiniams buvo
@@ -104,7 +109,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad be to, sutarė paliaubų metu derėtis dėl amžinos taikos.'
+  santrauka: 'Lietuva ir Maskva sutarė paliaubų metu derėtis dėl amžinos taikos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Derantis dėl Livonijos, var­
@@ -121,3 +126,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Stanislovas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]

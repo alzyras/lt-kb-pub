@@ -43,32 +43,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-45389"></a>
 - t-001
+  global_id: t-45389
   teiginys: 'Lietuvos Valstybės Konstitucija skelbė, kad aukščiausioji valdžia priklauso tautai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-45390"></a>
 - t-002
+  global_id: t-45390
   teiginys: 'Lietuvių kalba Lietuvos Valstybės Konstitucijoje pirmą kartą įteisinta kaip valstybinė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-45391"></a>
 - t-003
+  global_id: t-45391
   teiginys: 'Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-45392"></a>
 - t-004
+  global_id: t-45392
   teiginys: 'Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji tautos atstovai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45393"></a>
 - t-005
+  global_id: t-45393
   teiginys: 'Lietuvos Valstybės Konstitucija skelbė Lietuvos valstybę nepriklausoma demokratine respublika.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-45394"></a>
 - t-006
+  global_id: t-45394
   teiginys: 'Lietuvos Valstybės Konstitucija suteikė plačią autonomiją Lietuvoje gyvenusioms tautinėms mažumoms ir įteisino privalomą pradžios mokslą.'
   pagrindžia:
     - c-001

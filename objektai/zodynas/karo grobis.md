@@ -19,7 +19,9 @@ Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo gro
 
 ## Teiginiai
 
+<a id="claim-t-38756"></a>
 - t-001
+  global_id: t-38756
   teiginys: 'Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo grobį.'
   pagrindžia:
     - c-001

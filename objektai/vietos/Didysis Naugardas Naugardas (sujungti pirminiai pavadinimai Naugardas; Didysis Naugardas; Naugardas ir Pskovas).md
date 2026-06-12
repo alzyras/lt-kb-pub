@@ -28,47 +28,65 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
 
 ## Teiginiai
 
+<a id="claim-t-85876"></a>
 - t-001
+  global_id: t-85876
   teiginys: 'Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Naugardą ir Pskovą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-85877"></a>
 - t-002
+  global_id: t-85877
   teiginys: 'Be to, Rusios miestai, būtent Pskovas ir Didysis Naugardas, atsidūrė kitokiose aplinkybėse.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-85878"></a>
 - t-003
+  global_id: t-85878
   teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-85879"></a>
 - t-004
+  global_id: t-85879
   teiginys: 'Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-85880"></a>
 - t-005
+  global_id: t-85880
   teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-85881"></a>
 - t-006
+  global_id: t-85881
   teiginys: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila saugumo ir prekybos laisvės sutartį.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-85882"></a>
 - t-007
+  global_id: t-85882
   teiginys: 'Naugardas tam tikru požiūriu priklausė prie 1241 m. Hamburgo su Liubeku sudarytos karinės sąjungos.'
   pagrindžia:
     - c-009
 
+<a id="claim-t-85883"></a>
 - t-008
+  global_id: t-85883
   teiginys: 'Vytautas senatvėje kovojo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai padarytas skriaudas.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-85884"></a>
 - t-009
+  global_id: t-85884
   teiginys: 'Vytauto laikais Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais.'
   pagrindžia:
     - c-008

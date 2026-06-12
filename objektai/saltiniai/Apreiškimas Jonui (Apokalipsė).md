@@ -17,12 +17,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-21006"></a>
 - t-001
+  global_id: t-21006
   teiginys: 'Millenniumo idėja kildinama iš Šventojo Rašto Apreiškimo Jonui, arba Apokalipsės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183356"></a>
 - t-002
+  global_id: t-183356
   teiginys: 'Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės.'
   pagrindžia:
     - c-002

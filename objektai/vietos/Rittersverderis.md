@@ -25,17 +25,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-36552"></a>
 - t-001
+  global_id: t-36552
   teiginys: 'Jogailos pasiuntinys rado Vytautą Rittersverderyje rengiantį tolesnių žygių planus.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-36553"></a>
 - t-002
+  global_id: t-36553
   teiginys: '1391 metų pabaigoje Vytautas ėmė telkti savo šalininkus į Rittersverderį iš kitų Ordino pilių.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-36554"></a>
 - t-003
+  global_id: t-36554
   teiginys: 'Jogailos pasiuntinys Henrikas buvo nusiųstas į Rittersverderį pas Vytautą.'
   pagrindžia:
     - c-001

@@ -31,27 +31,37 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 
 ## Teiginiai
 
+<a id="claim-t-89539"></a>
 - t-001
+  global_id: t-89539
   teiginys: 'Simono Grunau kronikoje Rikojoto šventykla aprašoma kaip papuošta trimis stabais, vaizduojančiais tris prūsų dievus.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89540"></a>
 - t-002
+  global_id: t-89540
   teiginys: 'Dusburgietis teigia, kad per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89541"></a>
 - t-003
+  global_id: t-89541
   teiginys: 'Simono Grunau kronikoje Rikojotas apibūdinamas kaip prūsų dievų kulto centras.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89542"></a>
 - t-004
+  global_id: t-89542
   teiginys: 'Simono Grunau kronikoje Rikojotas vadinamas prūsų dievų kulto centru su ąžuolu ir po juo įsikūrusia šventykla.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89543"></a>
 - t-005
+  global_id: t-89543
   teiginys: 'Prūsijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus.'
   pagrindžia:
     - c-001

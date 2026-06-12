@@ -17,7 +17,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-100132"></a>
 - t-001
+  global_id: t-100132
   teiginys: '77, 105, 140 Mickevičius Adomas 307 Mickevičius (Kapsukas) Vincas 34 Miechowitos kronika 45 Miejdieinas, dievaitis 190 Mielecki, žr.'
   pagrindžia:
     - c-001

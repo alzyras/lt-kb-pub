@@ -24,12 +24,16 @@ Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (19
 
 ## Teiginiai
 
+<a id="claim-t-64599"></a>
 - t-001
+  global_id: t-64599
   teiginys: 'H. Paszkiewiczius 1938 m. paskelbė 206 puslapių veikalą „O genezie i wartości Krewa“.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-64600"></a>
 - t-002
+  global_id: t-64600
   teiginys: 'H. Paszkiewicz parašė veikalą „O genezie i wartości Krewa“.'
   pagrindžia:
     - c-001

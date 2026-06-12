@@ -22,7 +22,9 @@ Kaip pats prisipažino atsiminimuose, turėjęs „gimti Mickūnuose, jei ne tų
 
 ## Teiginiai
 
+<a id="claim-t-86212"></a>
 - t-001
+  global_id: t-86212
   teiginys: 'M. Balinskis atsiminimuose rašė, kad būtų gimęs Mickūnuose, jei ne jėgerių ir kazokų užpuolimas.'
   pagrindžia:
     - c-001

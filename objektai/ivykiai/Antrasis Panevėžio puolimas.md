@@ -41,27 +41,37 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-41237"></a>
 - t-001
+  global_id: t-41237
   teiginys: '1919 m. gegužės 19 d. Antrasis Panevėžio puolimas buvo tęsiamas, o lietuvių spaudžiami bolševikai traukėsi visu frontu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-41239"></a>
 - t-002
+  global_id: t-41239
   teiginys: 'Užėmus Panevėžį gegužės 20 d. lietuvių pajėgos įsitvirtino mieste ir pradėjo ruoštis galimam bolševikų mėginimui Panevėžį atsiimti.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-41240"></a>
 - t-003
+  global_id: t-41240
   teiginys: 'Išvadavusi Panevėžį, Panevėžio rinktinė persekiodama priešą 1919 m. gegužės 27 d. užėmė Troškūnus ir Subačių.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-41241"></a>
 - t-004
+  global_id: t-41241
   teiginys: '1919 m. gegužę Panevėžio, Ukmergės, Kurklių, Anykščių ir Alantos operacijos pradėjo naują Lietuvos karo su Sovietų Rusija etapą.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-41242"></a>
 - t-005
+  global_id: t-41242
   teiginys: 'Gegužės 18-19 d. lietuvių lėktuvai bombardavo ir kulkosvaidžiais apšaudė bolševikų pozicijas Panevėžyje ir ruože Panevėžys-Kupiškis.'
   pagrindžia:
     - c-002

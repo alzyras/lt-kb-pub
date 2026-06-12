@@ -22,7 +22,9 @@ Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuo
 
 ## Teiginiai
 
+<a id="claim-t-47480"></a>
 - t-001
+  global_id: t-47480
   teiginys: '1958 m. „atšilimas“ baigėsi, pradėta kovoti su religija mokymo ir mokslo įstaigose, įmonėse steigti ateistų būreliai, drausta skambinti varpais, varžomi krikštijimai, katekizavimas, ribotas atlaidų lankymas Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli.'
   pagrindžia:
     - c-001

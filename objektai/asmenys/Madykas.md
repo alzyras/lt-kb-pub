@@ -17,7 +17,9 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
 
 ## Teiginiai
 
+<a id="claim-t-40323"></a>
 - t-001
+  global_id: t-40323
   teiginys: 'Kunigaikštis Madykas buvo murzos Sivinduko tėvas.'
   pagrindžia:
     - c-001

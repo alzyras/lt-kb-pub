@@ -25,12 +25,16 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
 
 ## Teiginiai
 
+<a id="claim-t-70356"></a>
 - t-001
+  global_id: t-70356
   teiginys: 'Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji tautos atstovai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-70357"></a>
 - t-002
+  global_id: t-70357
   teiginys: 'Prezidentą renka septyneriems metams ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus.'
   pagrindžia:
     - c-002

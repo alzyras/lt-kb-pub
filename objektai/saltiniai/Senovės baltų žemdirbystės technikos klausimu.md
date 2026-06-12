@@ -22,7 +22,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-31917"></a>
 - t-001
+  global_id: t-31917
   teiginys: 'J. Antonevičiaus „Senovės baltų žemdirbystės technikos klausimu“ išspausdintas ILKI 4 tome 1964 m., p. 164-170.'
   pagrindžia:
     - c-001

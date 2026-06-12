@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-42350"></a>
 - t-001
+  global_id: t-42350
   teiginys: 'P. Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų, kai sužinojo, kad lietuviai rengiasi užkirsti jam kelią.'
   pagrindžia:
     - c-001

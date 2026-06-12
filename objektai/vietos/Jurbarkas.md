@@ -19,7 +19,6 @@ amziai:
   - 'XIII'
   - 'XXI'
 ---
-
 # Jurbarkas
 
 ## Santrauka
@@ -28,38 +27,52 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 
 ## Teiginiai
 
+<a id="claim-t-83423"></a>
 - t-001
+  global_id: t-83423
   teiginys: 'Jurbarko pilis buvo sugriauta, todėl jos statytojas nebeturėjo ryšio su Klaipėdos pilimi.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-83424"></a>
 - t-002
-  teiginys: 'Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės pilis (šią pastarąją netrukus turėjo vėl sugriauti, nes sunku buvo ją atlaikyti).'
+  global_id: t-83424
+  teiginys: 'Kryžiuočiai, atslinkę prie Nemuno, greitai pasistatė Jurbarko pilį.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-83425"></a>
 - t-003
-  teiginys: 'Jo pastatyta Jurbarko pilis buvo sugriauta; su Klaipėdos pilim jis jau nebeturėjo ryšio.'
+  global_id: t-83425
+  teiginys: 'Po Durbės pralaimėjimo Jurbarko pilis buvo sugriauta.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-83426"></a>
 - t-004
+  global_id: t-83426
   teiginys: 'Apgriautos pilies plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-83427"></a>
 - t-005
+  global_id: t-83427
   teiginys: '1259 m. prie Nemuno buvo pastatyta Jurbarko pilis, kurios žemaičiai neįstengė išgriauti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-83428"></a>
 - t-006
+  global_id: t-83428
   teiginys: 'Dabar sienos ir trys kiti bokštai gerokai apgriauti, ypač per pastaruosius dvidešimt metų, o šiuo metu netgi nedraudžiama plytas rinkti ir pardavinėti į Jurbarką krosnims ir dūmtraukiams mūryti.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184965"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad nebetoli su kariuomene buvo ir Gediminas, įrengęs stovyklą tarp Jurbarko ir Kauno.'
+  global_id: t-184965
+  teiginys: 'Gediminas su kariuomene buvo įrengęs stovyklą tarp Jurbarko ir Kauno.'
   pagrindžia:
     - c-005
 
@@ -95,6 +108,7 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     - t-003
 
 - c-003
+  santrauka: 'Kryžiuočiai, atslinkę prie Nemuno, greitai pasistatė Jurbarko pilį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kryžiuočiai, atslinkę prie Nemuno, tuojau
@@ -128,7 +142,7 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     - t-004
 
 - c-005
-  santrauka: 'Kojelavičius teigia, kad nebetoli su kariuomene buvo ir Gediminas, įrengęs stovyklą tarp Jurbarko ir Kauno.'
+  santrauka: 'Gediminas su kariuomene buvo įrengęs stovyklą tarp Jurbarko ir Kauno.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto, kai, pilyje užkūrus laužą ir šitaip

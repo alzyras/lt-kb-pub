@@ -17,7 +17,9 @@ Rugsėjo 14 d. mirė kitas Lietuvos ir Kęstučio kaimynas Liudvikas Anjou, Lenk
 
 ## Teiginiai
 
+<a id="claim-t-100074"></a>
 - t-001
+  global_id: t-100074
   teiginys: 'Rugsėjo 14 d. mirė kitas Lietuvos ir Kęstučio kaimynas Liudvikas Anjou, Lenkiją ir Vengriją palikdamas neaiškioje būklėje—savo mažametėms dukterims ir jų būsimiems vyrams.'
   pagrindžia:
     - c-001

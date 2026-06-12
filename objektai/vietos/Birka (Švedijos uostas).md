@@ -16,7 +16,9 @@ Su Švedijos uostu Birka (= Bjaerko ») jie palaiką santykius, patys savo laiva
 
 ## Teiginiai
 
+<a id="claim-t-28306"></a>
 - t-001
+  global_id: t-28306
   teiginys: 'Sembai palaikė ryšius su Švedijos uostu Birka ir patys savo laivais ten nuplaukdavo.'
   pagrindžia:
     - c-001

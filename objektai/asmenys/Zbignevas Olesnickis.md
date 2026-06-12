@@ -8,11 +8,10 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
   - karalius
   - kunigaikštis
+  - vyskupas
 ---
-
 # Zbignevas Olesnickis (vyskupas)
 
 ## Santrauka
@@ -21,18 +20,24 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 
 ## Teiginiai
 
+<a id="claim-t-87889"></a>
 - t-001
+  global_id: t-87889
   teiginys: 'Zbignevas Olesnickis, karaliaus ir Lenkijos senato pasiųstas į Vilnių, grasino Vytautui karu dėl jo sumanymo.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-87890"></a>
 - t-002
+  global_id: t-87890
   teiginys: 'Krokuvos vyskupas Zbignevas Olesnickis turėjo lemiamą balsą karaliaus taryboje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-184893"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino, Lauryną Zarembą ir kitus.'
+  global_id: t-184893
+  teiginys: 'Senatas į pasiuntinybę Lietuvoje paskyrė vyskupą Zbignevą Olesnickį, Jarandą iš Brudzevo, Joną iš Lichino, Lauryną Zarembą ir kitus.'
   pagrindžia:
     - c-003
 
@@ -85,7 +90,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - t-001
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino, Lauryną Zarembą ir kitus.'
+  santrauka: 'Senatas į pasiuntinybę Lietuvoje paskyrė vyskupą Zbignevą Olesnickį, Jarandą iš Brudzevo, Joną iš Lichino, Lauryną Zarembą ir kitus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atidėlioti šį
@@ -110,3 +115,14 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Karūna]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/senatas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/Lenkijos senatas]]
+- [[objektai/zodynas/karūnacija karūnuotis]]
+- [[objektai/grupes/Lenkų senatas]]

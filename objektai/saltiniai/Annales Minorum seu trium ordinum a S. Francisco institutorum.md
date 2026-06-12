@@ -30,12 +30,16 @@ Annales Minorum Balińskio tekste yra Mažesniųjų brolių ordino analų rinkin
 
 ## Teiginiai
 
+<a id="claim-t-54684"></a>
 - t-001
+  global_id: t-54684
   teiginys: 'Annales Minorum pasakojime Petras Goštautas 1333 m. į Vilnių atkvietė keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-54685"></a>
 - t-002
+  global_id: t-54685
   teiginys: 'Analų pasakojime minima 1341 m. gegužės 24 d. Vilniuje nužudytų 36 pranciškonų versija.'
   pagrindžia:
     - c-001

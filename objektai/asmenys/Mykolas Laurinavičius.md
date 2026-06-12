@@ -26,7 +26,9 @@ Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurina
 
 ## Teiginiai
 
+<a id="claim-t-87922"></a>
 - t-001
+  global_id: t-87922
   teiginys: 'Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurinavičius.'
   pagrindžia:
     - c-001

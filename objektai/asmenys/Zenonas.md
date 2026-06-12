@@ -26,7 +26,9 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
 
 ## Teiginiai
 
+<a id="claim-t-35392"></a>
 - t-001
+  global_id: t-35392
   teiginys: 'Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet neįstengė.'
   pagrindžia:
     - c-001

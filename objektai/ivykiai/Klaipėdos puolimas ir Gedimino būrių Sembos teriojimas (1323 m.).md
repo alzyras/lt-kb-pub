@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31432"></a>
 - t-001
+  global_id: t-31432
   teiginys: '1323 m. kovą lietuviai iš Žemaičių puolė Klaipėdą, o Gedimino būriai vasarą teriojo Sembą.'
   pagrindžia:
     - c-001

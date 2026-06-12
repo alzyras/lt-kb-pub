@@ -17,7 +17,9 @@ Kryžiuočiai buvo jau beapsupą lenkus ir būtų juos sumušę, bet tuo momentu
 
 ## Teiginiai
 
+<a id="claim-t-03145"></a>
 - t-001
+  global_id: t-03145
   teiginys: 'Vytautas į mūšį atvedė paskutinius rezervus, tai yra antrąsias kariuomenės eiles.'
   pagrindžia:
     - c-001

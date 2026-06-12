@@ -27,7 +27,9 @@ Kai popiežiaus Honorijaus III atsiustasis legatas Vilhelmas de Mo­ dena sėkmi
 
 ## Teiginiai
 
+<a id="claim-t-32762"></a>
 - t-001
+  global_id: t-32762
   teiginys: 'Vicelegatas Baldvinas de Alna 1231-1234 m. nepajėgė Livonijoje įkurti bažnytinės valstybės dėl kalavijuočių pasipriešinimo.'
   pagrindžia:
     - c-001

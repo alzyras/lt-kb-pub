@@ -27,13 +27,17 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-168696"></a>
 - t-001
+  global_id: t-168696
   teiginys: 'Bijodamas sukilimo, ordinas pareikalavo iš žemaičių naujų įkaitų; vietoj įkaitų jis sulaukė visuotinio sukilimo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182994"></a>
 - t-002
-  teiginys: 'Žymesniųjų bajorų vaikai buvo net išvežti į Pavyslį, kaip įkaitai.'
+  global_id: t-182994
+  teiginys: 'Ordinas žymesniųjų Žemaičių bajorų vaikus išvežė į Pavyslį kaip įkaitus.'
   pagrindžia:
     - c-002
 
@@ -56,7 +60,7 @@ amziai:
     - t-001
 
 - c-002
-  santrauka: 'Žymesniųjų bajorų vaikai buvo net išvežti į Pavyslį, kaip įkaitai.'
+  santrauka: 'Ordinas žymesniųjų Žemaičių bajorų vaikus išvežė į Pavyslį kaip įkaitus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ordi-
@@ -98,8 +102,8 @@ amziai:
 - [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]
 - [[objektai/asmenys/Tirskas]]
 - [[objektai/grupes/Varmiai]]
-- [[objektai/asmenys/Vimaras [Gneomiras]]]
-- [[objektai/asmenys/Vojakas [Vojachas]]]
+- [Vimaras [Gneomiras]](/objektai/asmenys/Vimaras%20%5BGneomiras%5D)
+- [Vojakas [Vojachas]](/objektai/asmenys/Vojakas%20%5BVojachas%5D)
 - [[objektai/zodynas/bažnyčios visuotinybė]]
 - [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]
 - [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]

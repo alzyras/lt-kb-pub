@@ -16,7 +16,9 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 
 ## Teiginiai
 
+<a id="claim-t-02554"></a>
 - t-001
+  global_id: t-02554
   teiginys: 'Brastos apygardoje Liubešave veikė viena iš minimų mokyklų.'
   pagrindžia:
     - c-001

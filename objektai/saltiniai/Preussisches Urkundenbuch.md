@@ -24,12 +24,16 @@ PUB = Preussisches Urkundenbuch, t.
 
 ## Teiginiai
 
+<a id="claim-t-67523"></a>
 - t-001
+  global_id: t-67523
   teiginys: 'Dusburgietis teigia, kad 162 Kulmo (dab. Chelmnas, Chelmno, LLR) pilies ir kt. Šios žemės pilių sunaikinimą patvirtina 1222 (ar 1223) m. Konrado privilegija vyskupui Kristijonui (PUB, 1, 1, Nr. 41, p. 28).'
   pagrindžia:
     - c-001
 
+<a id="claim-t-67524"></a>
 - t-002
+  global_id: t-67524
   teiginys: 'Dusburgietis teigia, kad realizuojant popiežiaus planus, 1215 m. 2-oje pusėje ar 1216 m. pradžioje Kristijonas paskelbtas pirmuoju Prūsijos vyskupu (PUB, 1, 1, Nr. 9, 10; Pakarklis P. Kryžiuočių..., p. 203—204). Kristijono misija apėmė gana didelę teritoriją, greičiausiai ir visą.'
   pagrindžia:
     - c-002

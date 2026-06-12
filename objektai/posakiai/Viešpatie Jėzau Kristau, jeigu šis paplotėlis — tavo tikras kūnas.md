@@ -17,12 +17,16 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
 
 ## Teiginiai
 
+<a id="claim-t-59167"></a>
 - t-001
+  global_id: t-59167
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats brolis Albertas su kitais broliais traukė prieš tikėjimo priešus, tą dieną, kai broliai bei kiti vienuoliai paprastai ima šventąją komuniją — mūsų viešpaties Jėzaus Kristaus kūną, nutolo jis šiek tiek nuo.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-59168"></a>
 - t-002
+  global_id: t-59168
   teiginys: 'Dusburgietis teigia, kad sitai išvydęs, jis išsigando ir pasakė: „Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas, tegu jis įeina į mane“; kai atvėrė burną, paplotėlis įėjo, o jis jį priėmė, neapsakomai džiaugdamasis.'
   pagrindžia:
     - c-002

@@ -34,7 +34,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-08291"></a>
 - t-001
+  global_id: t-08291
   teiginys: 'Kalvėje patys sau kalė padarynę ir ginklą.'
   pagrindžia:
     - c-001

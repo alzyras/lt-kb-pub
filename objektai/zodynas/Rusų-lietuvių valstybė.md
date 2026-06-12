@@ -25,7 +25,9 @@ Pavyzdžiui, 1838 m. aiškinosi rusų valdžiai Varšuvoje: „Leidžiant Vilnia
 
 ## Teiginiai
 
+<a id="claim-t-86639"></a>
 - t-001
+  global_id: t-86639
   teiginys: 'Michałas Balińskis teigė įrodęs, kad iki susijungimo su Lenkija Lietuva iš esmės buvo rusų-lietuvių valstybė.'
   pagrindžia:
     - c-001

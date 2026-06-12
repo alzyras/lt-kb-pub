@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Prūsų sukilimas prieš kryžiuočius A. Kojelavičiaus pasakojime (sukilimas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad tuo žygiu atgavęs Že maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne norėdamas, kad atrodytų, jog veltui puolęs Prūsiją, sukurstė žmones visame krašte atsimesti nuo kryžiuo čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po kelerių metų vėl Prūsijoje. Kojelavičius teigia, kad mat prūsai, išsirinkę vadus, atsimetė nuo krikš čionybės ir sutartu laiku, prieš pat šv.
+Mindaugas, atgavęs Žemaitiją bei Kuršą ir nusiaubęs Sembą, sukurstė prūsus atsimesti nuo kryžiuočių. Prūsai, išsirinkę vadus, atsimetė nuo krikščionybės ir prieš šv. Motiejaus dieną visame krašte griovė bažnyčias.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,20 +26,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185762"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad tuo žygiu atgavęs Že maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne norėdamas, kad atrodytų, jog veltui puolęs Prūsiją, sukurstė žmones visame krašte atsimesti nuo kryžiuo čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po kelerių metų vėl Prūsijoje.'
+  global_id: t-185762
+  teiginys: 'Mindaugas, atgavęs Žemaitiją bei Kuršą ir nusiaubęs Sembą, sukurstė prūsus atsimesti nuo kryžiuočių.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185763"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad mat prūsai, išsirinkę vadus, atsimetė nuo krikš čionybės ir sutartu laiku, prieš pat šv.'
+  global_id: t-185763
+  teiginys: 'Prūsai, išsirinkę vadus, atsimetė nuo krikščionybės ir prieš šv. Motiejaus dieną visame krašte griovė bažnyčias.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad tuo žygiu atgavęs Že maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne norėdamas, kad atrodytų, jog veltui puolęs Prūsiją, sukurstė žmones visame krašte atsimesti nuo kryžiuo čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po kelerių metų vėl Prūsijoje.'
+  santrauka: 'Mindaugas, atgavęs Žemaitiją bei Kuršą ir nusiaubęs Sembą, sukurstė prūsus atsimesti nuo kryžiuočių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ka­
@@ -63,7 +66,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad mat prūsai, išsirinkę vadus, atsimetė nuo krikš čionybės ir sutartu laiku, prieš pat šv.'
+  santrauka: 'Prūsai, išsirinkę vadus, atsimetė nuo krikščionybės ir prieš šv. Motiejaus dieną visame krašte griovė bažnyčias.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat prūsai, išsirinkę vadus, atsimetė nuo krikš­
@@ -98,3 +101,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/apostazija]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

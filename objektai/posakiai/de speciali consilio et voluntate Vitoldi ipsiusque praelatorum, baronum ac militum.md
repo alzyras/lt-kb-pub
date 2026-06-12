@@ -24,7 +24,9 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
 
 ## Teiginiai
 
+<a id="claim-t-95940"></a>
 - t-001
+  global_id: t-95940
   teiginys: '1425 m. lenkų šlėkta pasirinko Jogailos sūnų Vladislovą būsimu valdovu specialiu Vytauto, jo prelatų, baronų ir riterių patarimu bei valia.'
   pagrindžia:
     - c-001

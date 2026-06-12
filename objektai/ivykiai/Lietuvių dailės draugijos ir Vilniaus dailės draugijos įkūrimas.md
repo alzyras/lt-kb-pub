@@ -33,12 +33,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-26397"></a>
 - t-001
+  global_id: t-26397
   teiginys: 'Lietuviai Vilniuje įkūrė Lietuvių dailės draugiją, o vėliau vietiniai dailininkai įsteigė atskirą Vilniaus dailės draugiją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183236"></a>
 - t-002
+  global_id: t-183236
   teiginys: 'Dailės ir vaizduojamojo meno bei architektūros srityje taip pat pastebėtas draugijų paralelizmas.'
   pagrindžia:
     - c-002

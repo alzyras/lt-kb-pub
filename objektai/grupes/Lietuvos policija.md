@@ -17,7 +17,9 @@ Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalsta
 
 ## Teiginiai
 
+<a id="claim-t-26342"></a>
 - t-001
+  global_id: t-26342
   teiginys: 'Lietuvos policijai pasiekus pergalių prieš organizuotą nusikalstamumą, nusikaltėlių grupės emigravo paskui tautiečius.'
   pagrindžia:
     - c-001

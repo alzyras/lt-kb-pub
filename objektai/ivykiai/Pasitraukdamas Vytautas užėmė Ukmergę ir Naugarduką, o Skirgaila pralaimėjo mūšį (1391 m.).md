@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
 ---
-
 # Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad gal iš baimės, mat gandai nepaprastai padidino Skirgailos jėgas, gal, žlu gus viltims, nenorėdamas ilgiau gaišti toje vietoje, gal dėl kitų sumetimų Vytautas vos išgirdęs, jog artėja Skirgaila, skubiai nutraukė N u tra u k ia a p su p im ą apsupimą ir išvyko. Kojelavičius teigia, kad jį pasivi jo netoli buvęs Skirgaila, ta čiau jo kariuomenė veikiau tiko puldinėti besitraukian tiems būriams arba laisvai beklaidžiojantiems gaudyti, nei stoti į tikrą kovą: ji buvo nedidelė ir menkai gink luota.
+Išgirdęs apie artėjantį Skirgailą, Vytautas nutraukė apsupimą, pasitraukė Prūsijos link ir jėga užėmė Naugarduką bei Ukmergę. Skirgaila pasivijo Vytautą, bet jo nedidelė ir menkai ginkluota kariuomenė po trumpų kautynių buvo sumušta.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,20 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185631"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad gal iš baimės, mat gandai nepaprastai padidino Skirgailos jėgas, gal, žlu gus viltims, nenorėdamas ilgiau gaišti toje vietoje, gal dėl kitų sumetimų Vytautas vos išgirdęs, jog artėja Skirgaila, skubiai nutraukė N u tra u k ia a p su p im ą apsupimą ir išvyko.'
+  global_id: t-185631
+  teiginys: 'Išgirdęs apie artėjantį Skirgailą, Vytautas nutraukė apsupimą, pasitraukė Prūsijos link ir jėga užėmė Naugarduką bei Ukmergę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185632"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad jį pasivi jo netoli buvęs Skirgaila, ta čiau jo kariuomenė veikiau tiko puldinėti besitraukian tiems būriams arba laisvai beklaidžiojantiems gaudyti, nei stoti į tikrą kovą: ji buvo nedidelė ir menkai gink luota.'
+  global_id: t-185632
+  teiginys: 'Skirgaila pasivijo Vytautą, bet jo nedidelė ir menkai ginkluota kariuomenė po trumpų kautynių buvo sumušta.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad gal iš baimės, mat gandai nepaprastai padidino Skirgailos jėgas, gal, žlu gus viltims, nenorėdamas ilgiau gaišti toje vietoje, gal dėl kitų sumetimų Vytautas vos išgirdęs, jog artėja Skirgaila, skubiai nutraukė N u tra u k ia a p su p im ą apsupimą ir išvyko.'
+  santrauka: 'Išgirdęs apie artėjantį Skirgailą, Vytautas nutraukė apsupimą, pasitraukė Prūsijos link ir jėga užėmė Naugarduką bei Ukmergę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gal iš baimės, mat
@@ -80,7 +83,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad jį pasivi jo netoli buvęs Skirgaila, ta čiau jo kariuomenė veikiau tiko puldinėti besitraukian tiems būriams arba laisvai beklaidžiojantiems gaudyti, nei stoti į tikrą kovą: ji buvo nedidelė ir menkai gink luota.'
+  santrauka: 'Skirgaila pasivijo Vytautą, bet jo nedidelė ir menkai ginkluota kariuomenė po trumpų kautynių buvo sumušta.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jį pasivi­
@@ -106,3 +109,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

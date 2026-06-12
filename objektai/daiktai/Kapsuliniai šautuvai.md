@@ -47,7 +47,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40722"></a>
 - t-001
+  global_id: t-40722
   teiginys: 'Rusų kariai pranoko sukilėlius ginkluote, nes buvo ginkluoti naujo pavyzdžio kapsuliniais šautuvais.'
   pagrindžia:
     - c-001

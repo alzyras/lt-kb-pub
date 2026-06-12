@@ -16,7 +16,9 @@ Dusburgietis teigia, kad štai koks nuostabus, štai koks nepaprastas įvykis: m
 
 ## Teiginiai
 
+<a id="claim-t-59133"></a>
 - t-001
+  global_id: t-59133
   teiginys: 'Dusburgietis teigia, kad štai koks nuostabus, štai koks nepaprastas įvykis: moteriškos vilionės palaužė stiprųjį Samsoną, šventąjį Dovydą, išmintingąjį Saliamoną, tuo tarpu šis vyras, laisva valia apkabinęs savo bendrę, nugalėjo ir pakilo į dorybės viršūnes.'
   pagrindžia:
     - c-001

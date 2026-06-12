@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Samdinių verbavimas krikščioniškose karalystėse įgulos tarnybai
 
 ## Santrauka
 
-Kojelavičius teigia, kad teodosijos miesto (vadinamosios Kafos), esančios prie Juodosios jūros, gyventojai, pagrįstai baimindamiesi kaimynystėje augančios turkų galybės, susimanė pasi samdyti krikščioniškose karalystėse karių, tinkamų įgulos tarnybai.
+Kafos gyventojai, bijodami augančios turkų galybės, sumanė krikščioniškose karalystėse samdyti įgulos tarnybai tinkamų karių.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,15 +29,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185924"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad teodosijos miesto (vadinamosios Kafos), esančios prie Juodosios jūros, gyventojai, pagrįstai baimindamiesi kaimynystėje augančios turkų galybės, susimanė pasi samdyti krikščioniškose karalystėse karių, tinkamų įgulos tarnybai.'
+  global_id: t-185924
+  teiginys: 'Kafos gyventojai, bijodami augančios turkų galybės, sumanė krikščioniškose karalystėse samdyti įgulos tarnybai tinkamų karių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad teodosijos miesto (vadinamosios Kafos), esančios prie Juodosios jūros, gyventojai, pagrįstai baimindamiesi kaimynystėje augančios turkų galybės, susimanė pasi samdyti krikščioniškose karalystėse karių, tinkamų įgulos tarnybai.'
+  santrauka: 'Kafos gyventojai, bijodami augančios turkų galybės, sumanė krikščioniškose karalystėse samdyti įgulos tarnybai tinkamų karių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu vienas netikėtas įvy­
@@ -59,3 +60,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/algininkai]]
+- [[objektai/zodynas/įgula]]
+- [[objektai/grupes/Kafos gyventojai]]

@@ -12,24 +12,25 @@ atnaujinta: ''
 amziai:
   - 'XVII'
 ---
-
 # Vijūkų dvaras
 
 ## Santrauka
 
-Kojelavičius teigia, kad jis gimė 1609 m. Vijūkų dvarelyje netoli Kau no.
+Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.
 
 ## Teiginiai
 
+<a id="claim-t-185277"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad jis gimė 1609 m. Vijūkų dvarelyje netoli Kau no.'
+  global_id: t-185277
+  teiginys: 'Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad jis gimė 1609 m. Vijūkų dvarelyje netoli Kau no.'
+  santrauka: 'Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­

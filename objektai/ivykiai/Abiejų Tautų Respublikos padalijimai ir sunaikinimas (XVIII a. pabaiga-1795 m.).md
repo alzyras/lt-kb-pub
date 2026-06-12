@@ -39,12 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75089"></a>
 - t-001
+  global_id: t-75089
   teiginys: 'Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-75090"></a>
 - t-002
+  global_id: t-75090
   teiginys: 'Susikuria jungtinė Lenkijos ir Lietuvos Valstybė – Abiejų Tautų Respublika.'
   pagrindžia:
     - c-002

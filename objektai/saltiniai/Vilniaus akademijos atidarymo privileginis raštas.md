@@ -19,7 +19,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-21303"></a>
 - t-001
+  global_id: t-21303
   teiginys: 'Vilniaus akademija vadinosi Academia et Universitas Vilnensis Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.'
   pagrindžia:
     - c-001

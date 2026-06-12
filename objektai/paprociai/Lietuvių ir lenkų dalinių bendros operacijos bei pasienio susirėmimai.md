@@ -43,37 +43,51 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-78707"></a>
 - t-001
+  global_id: t-78707
   teiginys: 'Lenkų daliniai dažnai puldinėjo lietuvių teritoriją nuo Nemuno pietuose iki Zarasų šiaurėje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78708"></a>
 - t-002
+  global_id: t-78708
   teiginys: 'Kartais atskiri lietuvių ir lenkų daliniai surengdavo bendras operacijas prieš rusus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78709"></a>
 - t-003
+  global_id: t-78709
   teiginys: 'Tačiau Lietuvos vyriausybė maištą numalSino ir lenkai prarado pretekstą atviram Kauno puolimui.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78710"></a>
 - t-004
+  global_id: t-78710
   teiginys: 'Provokacijos ir smulkūs lenkų bei lietuvių susirėmimai tęsėsi iki 1920 m. balandžio.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-78711"></a>
 - t-005
+  global_id: t-78711
   teiginys: '1919 m. rudenį pagrindinėms Lietuvos pajėgoms kovojant su bermontininkais, lenkai mėgino įvairiose vietose veržtis į Lietuvos teritorijos glumą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-78712"></a>
 - t-006
+  global_id: t-78712
   teiginys: '[137 Ašmeną, | Tiek lietuvių, tiek ir lenkų pajėgos kovojo su bolševikais, kartais atskiri lietuvių ir lenkų daliniai net surengdavo bendras operacijas prieš rusus.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-78713"></a>
 - t-007
+  global_id: t-78713
   teiginys: '1919 m. rudenį lenkų daliniai sistemingai puldinėjo kelių Lietuvos apskričių vietoves.'
   pagrindžia:
     - c-002

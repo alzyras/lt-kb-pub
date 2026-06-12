@@ -27,17 +27,23 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 
 ## Teiginiai
 
+<a id="claim-t-86785"></a>
 - t-001
+  global_id: t-86785
   teiginys: '1581 m. birželio 9 d. Vilniaus kapitula atsisakė teisės siūlyti Šv. Jono bažnyčios vikarus ir ją perleido Akademijos kolegijos rektoriams jėzuitams.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-86786"></a>
 - t-002
+  global_id: t-86786
   teiginys: '1571 m. gruodžio 22 d. Apaštališkasis Sostas patvirtino parapijinės Šv. Jono bažnyčios inkorporavimą į Vilniaus akademijos kolegiją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-86787"></a>
 - t-003
+  global_id: t-86787
   teiginys: '1571 m. Žygimantas Augustas Šv. Jono bažnyčią su visu turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.'
   pagrindžia:
     - c-001

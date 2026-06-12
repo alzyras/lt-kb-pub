@@ -16,7 +16,9 @@ Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją, S.
 
 ## Teiginiai
 
+<a id="claim-t-05735"></a>
 - t-001
+  global_id: t-05735
   teiginys: 'K. Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją.'
   pagrindžia:
     - c-001

@@ -16,12 +16,16 @@ Pagal Dlugošo kroniką, lietuvių pasitraukimas, esą, reiškęs bėgimą^25. �
 
 ## Teiginiai
 
+<a id="claim-t-32759"></a>
 - t-001
+  global_id: t-32759
   teiginys: 'Dlugošo kronikoje lietuvių pasitraukimas aiškintas kaip bėgimas.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-32760"></a>
 - t-002
+  global_id: t-32760
   teiginys: 'Apsimestinis bėgimas galėjo būti iš totorių perimta taktika priešui patraukti ir jo eilėms suardyti.'
   pagrindžia:
     - c-002

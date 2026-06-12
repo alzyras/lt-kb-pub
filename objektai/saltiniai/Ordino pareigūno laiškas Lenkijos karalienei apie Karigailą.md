@@ -25,7 +25,9 @@ Tą liudija Ordino pareigūno vienas laiš­ kas (įdėtas F o i g t o, V, 546) 
 
 ## Teiginiai
 
+<a id="claim-t-88460"></a>
 - t-001
+  global_id: t-88460
   teiginys: 'Ordino pareigūno laiške Lenkijos karalienei teigta, kad Karigaila buvo kareivių neatpažintas ir nukautas.'
   pagrindžia:
     - c-001

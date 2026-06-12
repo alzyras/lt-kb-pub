@@ -28,17 +28,23 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 
 ## Teiginiai
 
+<a id="claim-t-182712"></a>
 - t-001
+  global_id: t-182712
   teiginys: 'Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederacijos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-182713"></a>
 - t-002
+  global_id: t-182713
   teiginys: '1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-182926"></a>
 - t-003
+  global_id: t-182926
   teiginys: 'Targovicos konfederaciją suorganizavo Rusija, remdama reformų priešus savo kariuomene.'
   pagrindžia:
     - c-003

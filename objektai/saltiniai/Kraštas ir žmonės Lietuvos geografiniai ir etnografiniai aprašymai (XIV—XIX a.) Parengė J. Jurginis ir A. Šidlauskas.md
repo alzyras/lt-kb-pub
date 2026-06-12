@@ -26,7 +26,9 @@ Dusburgietis teigia, kad kraštas ir žmonės: Lietuvos geografiniai ir etnograf
 
 ## Teiginiai
 
+<a id="claim-t-61106"></a>
 - t-001
+  global_id: t-61106
   teiginys: 'Leidinį „Kraštas ir žmonės“ parengė J. Jurginis ir A. Šidlauskas, jis išleistas Vilniuje 1983 m.'
   pagrindžia:
     - c-001

@@ -20,7 +20,6 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-
 # Treniota
 
 ## Santrauka
@@ -29,50 +28,61 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 
 ## Teiginiai
 
+<a id="claim-t-90060"></a>
 - t-001
+  global_id: t-90060
   teiginys: 'Dusburgietis teigia, kad apie Birgelavos pilies sugriovimą Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas, subūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo juos į tris dalis437, kurių vieną nusiuntė prieš.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-90061"></a>
 - t-002
+  global_id: t-90061
   teiginys: 'Dusburgietis teigia, kad štai Didžiojo prūsų sukilimo metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė Ordino užnugarį pavyslyje (III, 160).'
   pagrindžia:
     - c-005
 
+<a id="claim-t-90062"></a>
 - t-003
+  global_id: t-90062
   teiginys: '1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-90063"></a>
 - t-004
+  global_id: t-90063
   teiginys: 'Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-90064"></a>
 - t-005
+  global_id: t-90064
   teiginys: 'Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-184846"></a>
 - t-006
-  teiginys: 'Kojelavičius teigia, kad treniota negaišdamas griebėsi gink lo: jis nenorėjo nusileisti tėvui nei narsa, nei sėkme.'
+  global_id: t-184846
+  teiginys: 'Treniota nedelsdamas griebėsi ginklo, nenorėdamas nusileisti tėvui nei narsa, nei sėkme.'
   pagrindžia:
     - c-006
 
+<a id="claim-t-184848"></a>
 - t-007
-  teiginys: 'Kojelavičius teigia, kad treniota pasilaikė ją už žmoną.'
+  global_id: t-184848
+  teiginys: 'Treniota sutartą dieną slaptai atvedė kariuomenę iš Žemaitijos ir kartu su Daumantu naktį įsiveržė į Mindaugo rūmus.'
   pagrindžia:
     - c-007
 
+<a id="claim-t-184849"></a>
 - t-008
-  teiginys: 'Kojelavičius teigia, kad mat tuo metu prie Dnepro Briansko kunigaikštis buvo sukėlęs nedi delį maištą: Mindaugas įsakė Daumantui traukti prieš jį su kariuomene; Daumantas negaišdamas paskatino Treniotą nepraleisti progos: dabar pagaliau atėjęs lai kas veikti, kai jo rankose.'
+  global_id: t-184849
+  teiginys: 'Keturi Mindaugo asmeninės sargybos kariai nužudė Treniotą, kai dar nebuvo praėję nė metai nuo jo viešpatavimo pradžios.'
   pagrindžia:
     - c-008
-
-- t-009
-  teiginys: 'Kojelavičius teigia, kad ke turi asmeninės sargybos kariai, kitados ištikimai rėmę Mindaugą, užpuolė ramiai einantį į pirtį Treniotą ir jį nužudė, kai dar nebuvo praėję nė metai nuo jo vieš patavimo pradžios.'
-  pagrindžia:
-    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -154,7 +164,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
     - t-002
 
 - c-006
-  santrauka: 'Kojelavičius teigia, kad treniota negaišdamas griebėsi gink lo: jis nenorėjo nusileisti tėvui nei narsa, nei sėkme.'
+  santrauka: 'Treniota nedelsdamas griebėsi ginklo, nenorėdamas nusileisti tėvui nei narsa, nei sėkme.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kad kerštas būtų kuo didesnis, ėmė visomis išga­
@@ -173,44 +183,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
     - t-006
 
 - c-007
-  santrauka: 'Kojelavičius teigia, kad treniota pasilaikė ją už žmoną.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Karalius,
-    turėdamas
-    begė­
-    diškų ketinimų, sulaužė įsta­
-    tymą jėga pamynęs moters
-    dorą, jis pasilaikė ją už
-    žmoną. Kad ir nesitaikstyda-
-    mas su skriauda, Daumantas, jausdamasis esąs per
-    silpnas, stengėsi atvirai nerodyti, jog trokšta atkeršyti,
-    P roga,
-    d a v u si
-    p ra ­
-    d žią  v id a u s n esu ta ri­
-    m am s
-    L ie tu v o je
-    ir
-    M in d a u g o  žū čiai
-    109
-
-    ## Puslapis 108
-
-    šitai slėpė nuo visų, o tuo pat metu, rūpindamasis
-    valstybe, mėgino tirti aukštuomenės nuotaikas ir ją
-    atitraukti nuo valdovo; jis dažniausiai dėl to slapta
-    tardavosi su Žemaitijos kunigaikščiu Treniota, Min­
-    daugo sesers sūnumi. Jis, girdi, turįs ryžtis pagaliau
-    tam, ko visi trokštą.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-008
-  santrauka: 'Kojelavičius teigia, kad mat tuo metu prie Dnepro Briansko kunigaikštis buvo sukėlęs nedi delį maištą: Mindaugas įsakė Daumantui traukti prieš jį su kariuomene; Daumantas negaišdamas paskatino Treniotą nepraleisti progos: dabar pagaliau atėjęs lai kas veikti, kai jo rankose.'
+  santrauka: 'Treniota sutartą dieną slaptai atvedė kariuomenę iš Žemaitijos ir kartu su Daumantu naktį įsiveržė į Mindaugo rūmus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat tuo
@@ -229,10 +202,10 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
-- c-009
-  santrauka: 'Kojelavičius teigia, kad ke turi asmeninės sargybos kariai, kitados ištikimai rėmę Mindaugą, užpuolė ramiai einantį į pirtį Treniotą ir jį nužudė, kai dar nebuvo praėję nė metai nuo jo vieš patavimo pradžios.'
+- c-008
+  santrauka: 'Keturi Mindaugo asmeninės sargybos kariai nužudė Treniotą, kai dar nebuvo praėję nė metai nuo jo viešpatavimo pradžios.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto kada esti sau­
@@ -248,4 +221,33 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Estai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/autoriai/Batūra R]]
+- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
+- [[objektai/ivykiai/Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu]]
+- [[objektai/asmenys/Konradas fon Tirbergas]]
+- [[objektai/grupes/Naugardukiečiai]]
+- [[objektai/autoriai/Paszkiewicz H]]
+- [[objektai/asmenys/Pisimantas]]
+- [[objektai/grupes/Polockiečiai]]
+- [[objektai/autoriai/R. Batūra|Romas Batūra]]
+- [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.)]]
+- [[objektai/ivykiai/Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas]]
+- [[objektai/asmenys/Treniota Vykintaitis]]
+- [[objektai/ivykiai/Treniotos nužudymas]]
+- [[objektai/ivykiai/Treniotos nužudymas (1264 m.)]]
+- [[objektai/ivykiai/Treniotos žygis į Mazoviją (1264 m.)]]
+- [[objektai/zodynas/koniuši]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/ivykiai/Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.)]]

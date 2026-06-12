@@ -27,17 +27,23 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 
 ## Teiginiai
 
+<a id="claim-t-58445"></a>
 - t-001
+  global_id: t-58445
   teiginys: 'Dusburgietis teigia, kad aprašomos castrum Cameniswikam (Kampsvykių) pilies ieškoma ir gerokai toliau į pietus, kur ji tapatinama su Kamantų (Kamanten) piliakalniu kair.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58446"></a>
 - t-002
+  global_id: t-58446
   teiginys: 'Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių.., p. 190—191), per 400 m į pietus nuo Tamoviškių.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-58447"></a>
 - t-003
+  global_id: t-58447
   teiginys: 'Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras su didele kariuomene perėjo Nadruvos žemę, plėšdamas ir degindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė, tinkamai parengęs visa, kas tam reikalinga; abiem šalims.'
   pagrindžia:
     - c-003

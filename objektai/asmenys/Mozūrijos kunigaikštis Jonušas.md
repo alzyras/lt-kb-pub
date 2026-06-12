@@ -26,7 +26,9 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
 
 ## Teiginiai
 
+<a id="claim-t-35250"></a>
 - t-001
+  global_id: t-35250
   teiginys: 'Mozūrijos kunigaikštis Jonušas 1380 m. vedė Danutą, kuri krikšte gavo ir Marijos vardą.'
   pagrindžia:
     - c-001

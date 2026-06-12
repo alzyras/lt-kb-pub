@@ -39,7 +39,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-35536"></a>
 - t-001
+  global_id: t-35536
   teiginys: 'Vytautas suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus.'
   pagrindžia:
     - c-001

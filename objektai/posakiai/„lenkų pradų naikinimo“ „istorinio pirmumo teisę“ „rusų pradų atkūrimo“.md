@@ -27,27 +27,37 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 
 ## Teiginiai
 
+<a id="claim-t-169940"></a>
 - t-001
+  global_id: t-169940
   teiginys: 'Šiame krašte buvo naikinamos nuo likusios Rusijos jį skyrusios institucijos ir neleista administracijoje vartoti lenkų kalbos.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-169941"></a>
 - t-002
+  global_id: t-169941
   teiginys: 'Rusintojai manė laimėti, „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-169943"></a>
 - t-003
+  global_id: t-169943
   teiginys: '„Rusų pradus“ švietimo įstaigose turėjo diegti rusai mokytojai, paprastai atvykę iš Rusijos gilumos.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169944"></a>
 - t-004
+  global_id: t-169944
   teiginys: 'Po sukilimo caro valdžia buvusiose LDK žemėse vykdė „lenkų pradų naikinimo“ politiką, grįstą Rusijos „istorinio pirmumo teisės“ idėja.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-183495"></a>
 - t-005
+  global_id: t-183495
   teiginys: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
   pagrindžia:
     - c-003

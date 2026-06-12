@@ -18,12 +18,16 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-67368"></a>
 - t-001
+  global_id: t-67368
   teiginys: 'Rusijai pagal sutartį turėjo atitekti Lenkijos Ukraina, o didžiosios Lietuvos kunigaikštijos visa Minsko vaivadija ir dalis Vilniaus, Naugarduko ir Brastos vaivadijų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67369"></a>
 - t-002
+  global_id: t-67369
   teiginys: '1793 m. (sausio 23 d.) Rusija pasirašė dalybų sutartį, kuria Prūsijai turėjo tekti dideli Lenkijos plotai, esantieji tarp abiejų Prūsų karalystės dalių.'
   pagrindžia:
     - c-001

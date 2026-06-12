@@ -19,12 +19,16 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
 
 ## Teiginiai
 
+<a id="claim-t-42168"></a>
 - t-001
+  global_id: t-42168
   teiginys: 'Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-42169"></a>
 - t-002
+  global_id: t-42169
   teiginys: 'Prie Strėvos upės susirėmė stabmeldžių ir krikščionių pajėgos.'
   pagrindžia:
     - c-002

@@ -38,7 +38,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-87275"></a>
 - t-001
+  global_id: t-87275
   teiginys: 'Ant Veliuonoje Gedimino kapu laikyto pilkapio nuo neatmenamų laikų būdavo statomas kryžius.'
   pagrindžia:
     - c-001

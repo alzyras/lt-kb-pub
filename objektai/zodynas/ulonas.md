@@ -19,12 +19,16 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
 
 ## Teiginiai
 
+<a id="claim-t-38783"></a>
 - t-001
+  global_id: t-38783
   teiginys: 'Algirdo pajėgų spaudimo neatlaikę totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183719"></a>
 - t-002
+  global_id: t-183719
   teiginys: 'Algirdo pajėgoms spaudžiant totoriai pabėgo, o mūšyje žuvo daug murzų ir ulonų.'
   pagrindžia:
     - c-002

@@ -16,7 +16,9 @@ Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuo
 
 ## Teiginiai
 
+<a id="claim-t-02748"></a>
 - t-001
+  global_id: t-02748
   teiginys: 'Semetyčiuose buvo įkurta protestantų mokykla.'
   pagrindžia:
     - c-001

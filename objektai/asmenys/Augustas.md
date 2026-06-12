@@ -6,39 +6,32 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Augustas
 
 ## Santrauka
 
-Kojelavičius teigia, kad kai pradėta nagrinėti valstybės rei kalai, karalius, pareiškęs, kad jo sveikata pakirsta me tų bei ligų, perdavė savo sūnui Augustui Lietuvos Didžiosios Kunigaikštystės valdymą, o luomai tam pri tarė. Kojelavičius teigia, kad beje, ši taip iškilmingai atšvęstos vestuvės, sukėlusios tada vi suotinę linksmybę, neatnešė džiaugsmo pačiam kara liui, nes Augustas netrukus taip atšalo nuo Kotrynos, kad apskritai nutarė su ja išsiskirti, aiškindamasis tuo, jog santuoka esanti neteisėta. Kojelavičius teigia, kad augustas nesusipažinęs su L ietuvos isto rija, k u r aišk iai p asak y ta, k ad jo p irm tak ai Jo g a ila bei V y tau tas p a p rastai už p inigus L iv o n ijo je sam dydavęsi k arių?
+Karalius perdavė sūnui Augustui Lietuvos Didžiosios Kunigaikštystės valdymą, o luomai tam pritarė. Augustas netrukus atšalo nuo Kotrynos ir nutarė su ja išsiskirti, aiškindamas, kad santuoka esanti neteisėta.
 
 ## Teiginiai
 
+<a id="claim-t-185940"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kai pradėta nagrinėti valstybės rei kalai, karalius, pareiškęs, kad jo sveikata pakirsta me tų bei ligų, perdavė savo sūnui Augustui Lietuvos Didžiosios Kunigaikštystės valdymą, o luomai tam pri tarė.'
+  global_id: t-185940
+  teiginys: 'Karalius perdavė sūnui Augustui Lietuvos Didžiosios Kunigaikštystės valdymą, o luomai tam pritarė.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185941"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad beje, ši taip iškilmingai atšvęstos vestuvės, sukėlusios tada vi suotinę linksmybę, neatnešė džiaugsmo pačiam kara liui, nes Augustas netrukus taip atšalo nuo Kotrynos, kad apskritai nutarė su ja išsiskirti, aiškindamasis tuo, jog santuoka esanti neteisėta.'
+  global_id: t-185941
+  teiginys: 'Augustas netrukus atšalo nuo Kotrynos ir nutarė su ja išsiskirti, aiškindamas, kad santuoka esanti neteisėta.'
   pagrindžia:
     - c-002
-
-- t-003
-  teiginys: 'Kojelavičius teigia, kad augustas nesusipažinęs su L ietuvos isto rija, k u r aišk iai p asak y ta, k ad jo p irm tak ai Jo g a ila bei V y tau tas p a p rastai už p inigus L iv o n ijo je sam dydavęsi k arių?'
-  pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'Kojelavičius teigia, kad augustas n eu žp u o lė L ivonijos, žinodam as, k ad ten g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti tin k am ą atkirtį, bet, n e tik ė ta i įsiv eržęs į B altarusiją, sm arkiai n u siau b ė V itebsko, D ubrovno, O ršos, K opysės, Š klovo apylinkes.'
-  pagrindžia:
-    - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kai pradėta nagrinėti valstybės rei kalai, karalius, pareiškęs, kad jo sveikata pakirsta me tų bei ligų, perdavė savo sūnui Augustui Lietuvos Didžiosios Kunigaikštystės valdymą, o luomai tam pri tarė.'
+  santrauka: 'Karalius perdavė sūnui Augustui Lietuvos Didžiosios Kunigaikštystės valdymą, o luomai tam pritarė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Seimo pradžioje, kai pradė­
@@ -58,7 +51,7 @@ Kojelavičius teigia, kad kai pradėta nagrinėti valstybės rei kalai, karalius
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad beje, ši taip iškilmingai atšvęstos vestuvės, sukėlusios tada vi suotinę linksmybę, neatnešė džiaugsmo pačiam kara liui, nes Augustas netrukus taip atšalo nuo Kotrynos, kad apskritai nutarė su ja išsiskirti, aiškindamasis tuo, jog santuoka esanti neteisėta.'
+  santrauka: 'Augustas netrukus atšalo nuo Kotrynos ir nutarė su ja išsiskirti, aiškindamas, kad santuoka esanti neteisėta.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš lietuvių puošniausiai
@@ -77,40 +70,140 @@ Kojelavičius teigia, kad kai pradėta nagrinėti valstybės rei kalai, karalius
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Kojelavičius teigia, kad augustas nesusipažinęs su L ietuvos isto rija, k u r aišk iai p asak y ta, k ad jo p irm tak ai Jo g a ila bei V y tau tas p a p rastai už p inigus L iv o n ijo je sam dydavęsi k arių?'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Esą k am  gi jam  b ū tų  re ik ė ję
-    tarp a is L ivoniją v ad in ti R om os im p erato ria u s dovana,
-    tarp a is —  L ietuvos k u n ig aik ščių  tėv o n ija, jeig u  n e n o rė ­
-    tų aiškaus m elo p a v e rsti tiesa? A p sk rita i n e o ru  to k iam
-    v ald o v u i k aip  A u g u stas ra šy ti tokius p rieštarin g u s, to ­
-    k iu s n esu d erin am u s d alykus. A rg i jis nesusipažinęs su
-    L ietuvos isto rija, k u r aišk iai p asak y ta, k ad  jo  p irm tak ai
-    Jo g a ila  bei V y tau tas p a p rastai už p inigus L iv o n ijo je
-    sam dydavęsi k arių?
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Kojelavičius teigia, kad augustas n eu žp u o lė L ivonijos, žinodam as, k ad ten g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti tin k am ą atkirtį, bet, n e tik ė ta i įsiv eržęs į B altarusiją, sm arkiai n u siau b ė V itebsko, D ubrovno, O ršos, K opysės, Š klovo apylinkes.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tiesa, jis n eu žp u o lė L ivonijos, žinodam as, k ad  ten
-    g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti
-    tin k am ą atkirtį, bet, n e tik ė ta i įsiv eržęs į B altarusiją,
-    sm arkiai n u siau b ė V itebsko, D ubrovno, O ršos, K opysės,
-    Š klovo apylinkes. G avęs ap ie tai žinią, k araliu s A u g u s­
-    tas p ad alijo  sav o  jėg as į dv i dalis. K araly stės lau k o  e t­
-    m onui F lo rijo n u i Z ebžidovskiui įsak ė len k u s v esti į
-    Polocką, o M ik alo ju i R advilai tra u k ti su  lietu v iais link
-    Sm olensko.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Chodkevičiai]]
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Radvila]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/ivykiai/1792 m. LLV ir Rusijos karas]]
+- [[objektai/ivykiai/1797 m. Peterburgo konvencija dėl trečiojo padalijimo patvirtinimo]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/daiktai/Antspaudai]]
+- [[objektai/daiktai/Antspaudai ir pergamentiniai privilegijų originalai]]
+- [[objektai/grupes/Atskiri Lietuvos seimai]]
+- [[objektai/paprociai/Atskiri Lietuvos seimai karo ir tarpuvaldžio metu]]
+- [[objektai/paprociai/Audringi ir kalbūs seimai, dažnai iširdavę]]
+- [[objektai/asmenys/Augustas II]]
+- [[objektai/asmenys/Augustas III]]
+- [[objektai/ivykiai/Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje]]
+- [[objektai/ivykiai/Augusto santuokos su Barbora Radvilaite atskleidimas ir kilęs pasipriešinimas]]
+- [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/daiktai/Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos]]
+- [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]
+- [[objektai/asmenys/Elžbieta]]
+- [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)]]
+- [[objektai/asmenys/Firstenbergas (Livonijos ordino magistras)]]
+- [[objektai/ivykiai/Gardino seimas ir antrojo LLV padalijimo patvirtinimas|Gardino seimas ir antrojo LLV padalijimo patvirtinimas (seimas)]]
+- [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
+- [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]]
+- [[objektai/asmenys/Grigalius Chodkevičius]]
+- [[objektai/grupes/Habsburgai]]
+- [[objektai/asmenys/Jonas Chodkevičius]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]
+- [[objektai/asmenys/Jurgis (Vilniaus kaštelionas, Barboros tėvas)]]
+- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Karaimai]]
+- [[objektai/grupes/Karalaičio Jokūbo partija]]
+- [[objektai/ivykiai/Karalienės Bonos išvykimas į Italiją]]
+- [[objektai/ivykiai/Karolio XII žygis į Saksoniją ir Altrandštato taika (1706 m.)]]
+- [[objektai/asmenys/Kazimieras IV]]
+- [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
+- [[objektai/asmenys/Kotryna II]]
+- [[objektai/asmenys/Kunzas Lochneris]]
+- [[objektai/ivykiai/LLV padalijimų aktų panaikinimas Sovietų Rusijoje]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
+- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/grupes/Lietuvos ponų taryba]]
+- [[objektai/grupes/Lietuvos senatoriai]]
+- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/grupes/Livonijos valstybė]]
+- [[objektai/zodynas/Magdeburgo teisė]]
+- [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/ivykiai/Nebylus seimas (1717 m.)]]
+- [[objektai/asmenys/Ona (Zigmanto Augusto sesuo)]]
+- [[objektai/ivykiai/Padalinamasis seimas (1773–1775 m.)]]
+- [[objektai/asmenys/Petras I Didysis]]
+- [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Prancūzijos steigiamasis susirinkimas]]
+- [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]
+- [[objektai/grupes/Radvilų giminė]]
+- [[objektai/asmenys/Romanas Sanguška]]
+- [[objektai/grupes/Saksų dinastija]]
+- [[objektai/grupes/Savickiai]]
+- [[objektai/ivykiai/Slapta Augusto ir Barboros Radvilaitės santuoka]]
+- [[objektai/asmenys/Stanislovas Augustas Poniatauskas]]
+- [[objektai/asmenys/Stanislovas Leščinskis]]
+- [[objektai/ivykiai/Stanislovo Augusto Poniatovskio išrinkimas LLV valdovu]]
+- [[objektai/ivykiai/Stanislovo Augusto kapituliacija ir prisijungimas prie Targovicos konfederacijos]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/posakiai/Tai ne tas kelias, Maloningasis Pone]]
+- [[objektai/daiktai/Taurės]]
+- [[objektai/paprociai/Valdovo meilės ryšių viešas smerkimas apkalbomis ir pašiepiamomis dainelėmis]]
+- [[objektai/paprociai/Valdovo pareiga laisvoje valstybėje tartis dėl karo su didikais]]
+- [[objektai/grupes/Valerijono Bursos studentų bendrija]]
+- [[objektai/ivykiai/Varšuvos konfederacija]]
+- [[objektai/grupes/Vilniaus akademijos kolegija]]
+- [[objektai/daiktai/Vilniaus ginklų liejyklos pabūklai, bombos ir amunicija]]
+- [[objektai/grupes/Vilniaus gyventojai]]
+- [[objektai/grupes/Vilniaus jėzuitų kolegija]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/grupes/Vilniaus magistratas]]
+- [[objektai/paprociai/Vilniaus miestiečių bylinėjimasis pagal Magdeburgo teisę]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]
+- [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]
+- [[objektai/paprociai/Vilniaus padienininkų rinkimasis prie rotušės]]
+- [[objektai/grupes/Vilniaus pirkliai]]
+- [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Wielkierz Wilkirz Willkühren]]
+- [[objektai/asmenys/Zigmantas Vaza]]
+- [[objektai/daiktai/Zigmanto Augusto antkapis]]
+- [[objektai/daiktai/Zigmanto Augusto pinigai]]
+- [[objektai/zodynas/abdikacija]]
+- [[objektai/zodynas/archikamerarijus]]
+- [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai]]
+- [[objektai/zodynas/atskala]]
+- [[objektai/zodynas/atskiri seimai]]
+- [[objektai/zodynas/dignitoriai]]
+- [[objektai/zodynas/disidentai reformatai reformatoriai]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai]]
+- [[objektai/zodynas/mansionieriai]]
+- [[objektai/zodynas/miesto magistrato pareigybės]]
+- [[objektai/zodynas/muitas thelonea]]
+- [[objektai/zodynas/poliublininis laikotarpis]]
+- [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
+- [[objektai/zodynas/sambrūzdis]]
+- [[objektai/zodynas/sufraganas kleras arkipresbiteris]]
+- [[objektai/zodynas/supirkinėtojai ir padienininkai]]
+- [[objektai/zodynas/Veldėmė|veldėmė]]
+- [[objektai/ivykiai/Šiaurės karas (1700–1721 m.)]]
+- [[objektai/grupes/Šv. Jono brolija]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
+- [[objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija]]
+- [[objektai/ivykiai/Žygimanto Augusto generalinio potvarkio dėl lietuviškų monetų paskelbimas (1572 m. kovo 26 d.)]]
+- [[objektai/posakiai/Žygimanto Augusto laikai Vilniui buvo aukso amžius]]
+- [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai]]
+- [[objektai/ivykiai/Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių|Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių (privilegija)]]
+- [[objektai/zodynas/žirgininkas]]
+- [[objektai/posakiai/„Jūsų Didybės įsakyti mes čia su didžiu skausmu...“]]
+- [[objektai/posakiai/„taikdarišką“ ir „tarpininkavimo“ misiją]]
+- [[objektai/posakiai/„yra dar viena tauta Europoje“]]
+- [[objektai/posakiai/Ab alio expectes alteri quod feceris]]
+- [[objektai/ivykiai/Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika]]
+- [[objektai/daiktai/Patranka Hidra]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/paprociai/Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje]]
+- [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]

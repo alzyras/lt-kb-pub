@@ -16,7 +16,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-86844"></a>
 - t-001
+  global_id: t-86844
   teiginys: 'Formulė „Praemissa er corde considerantes devoto“ pavartota Žygimanto dovanojimo akte, buvusiame Vilniaus kapitulos archyve.'
   pagrindžia:
     - c-001

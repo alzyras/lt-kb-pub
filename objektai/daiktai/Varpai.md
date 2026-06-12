@@ -39,32 +39,44 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-12333"></a>
 - t-001
+  global_id: t-12333
   teiginys: 'Vytauto laikams baigiantis daugelyje Lietuvos vietų jau skambėjo bažnyčių varpai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-89438"></a>
 - t-002
+  global_id: t-89438
   teiginys: 'Dusburgietis teigia, kad vis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-89439"></a>
 - t-003
+  global_id: t-89439
   teiginys: '1958 m. „atšilimas“ baigėsi, pradėta kovoti su religija mokymo ir mokslo įstaigose, įmonėse steigti ateistų būreliai, drausta skambinti varpais, varžomi krikštijimai, katekizavimas, ribotas atlaidų lankymas Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli.'
   pagrindžia:
     - c-004
 
+<a id="claim-t-89440"></a>
 - t-004
+  global_id: t-89440
   teiginys: 'Nuo Vytauto laikų Lietuvoje buvo liejami varpai.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-89441"></a>
 - t-005
+  global_id: t-89441
   teiginys: 'Laidojant sausio 13-osios aukas, solidarumo su Lietuva varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir kitose Europos šalyse.'
   pagrindžia:
     - c-005
 
+<a id="claim-t-89442"></a>
 - t-006
+  global_id: t-89442
   teiginys: 'Po 1958 m. sovietų valdžia Lietuvoje draudė bažnyčiose skambinti varpais.'
   pagrindžia:
     - c-004

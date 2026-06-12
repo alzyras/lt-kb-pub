@@ -16,7 +16,9 @@ Kuodžio redaguota, su dailininko K.
 
 ## Teiginiai
 
+<a id="claim-t-96056"></a>
 - t-001
+  global_id: t-96056
   teiginys: 'L. Kuodys redagavo vyskupo Valančiaus „Vaikų knygelę“, išleistą su K. Šimonio iliustracijomis.'
   pagrindžia:
     - c-001

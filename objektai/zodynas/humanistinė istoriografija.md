@@ -16,7 +16,9 @@ Nors Stryjkovskio istorija « neatitiko visiems moks­ liniams bei literatūrini
 
 ## Teiginiai
 
+<a id="claim-t-32781"></a>
 - t-001
+  global_id: t-32781
   teiginys: 'Stryjkovskio istorija neatitiko visų humanistinės istoriografijos mokslinių ir literatūrinių kriterijų.'
   pagrindžia:
     - c-001

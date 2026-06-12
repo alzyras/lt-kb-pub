@@ -17,7 +17,9 @@ Dusburgietis teigia, kad turi paprotį lažintis, jog vaišėse visi gers po lyg
 
 ## Teiginiai
 
+<a id="claim-t-59176"></a>
 - t-001
+  global_id: t-59176
   teiginys: 'Dusburgietis teigia, kad turi paprotį lažintis, jog vaišėse visi gers po lygiai ir be saiko, todėl svečiui namiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką išgėrus, ir svečias privaląs tiek pat išgerti; tokios gėrynės taip ilgai tęsiasi, iki.'
   pagrindžia:
     - c-001

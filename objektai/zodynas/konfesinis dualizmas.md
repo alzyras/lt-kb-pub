@@ -17,12 +17,16 @@ Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo 
 
 ## Teiginiai
 
+<a id="claim-t-22196"></a>
 - t-001
+  global_id: t-22196
   teiginys: 'Stačiatikiams netekus civilizacinio pranašumo, LDK politinio ir kultūrinio elito kaita sukėlė konfesinio dualizmo problemą.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183437"></a>
 - t-002
+  global_id: t-183437
   teiginys: 'Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo pretenduoti) problemą.'
   pagrindžia:
     - c-002

@@ -30,17 +30,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-09597"></a>
 - t-001
+  global_id: t-09597
   teiginys: 'Šeimininkai stebėdavo aplinką ir perspėdavo partizanus apie pavojų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-09598"></a>
 - t-002
+  global_id: t-09598
   teiginys: 'Sodybų šeimininkai aprūpindavo partizanus maistu ir kitomis būtinomis priemonėmis.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-09599"></a>
 - t-003
+  global_id: t-09599
   teiginys: 'Demaskavus slėptuvę nukentėdavo ir sodybos šeimininkai: sodyba dažnai būdavo sudeginama, o gyvi likę šeimininkai ištremiami.'
   pagrindžia:
     - c-001

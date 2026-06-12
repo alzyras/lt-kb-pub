@@ -16,7 +16,9 @@ Dusburgietis teigia, kad sembos kanauninko rinkinio105, turinčio ryšio su Dusb
 
 ## Teiginiai
 
+<a id="claim-t-61066"></a>
 - t-001
+  global_id: t-61066
   teiginys: 'Dusburgietis teigia, kad sembos kanauninko rinkinio105, turinčio ryšio su Dusburgiečio tekstu, tyrinėjimai106 rodo, kad čia taip pat esama žinių, išrašytų iš neišlikusio Seniausio Prūsijos metraščio, kad Dusburgietis galėjęs žinoti ir Diunamiundės metraštį107.'
   pagrindžia:
     - c-001

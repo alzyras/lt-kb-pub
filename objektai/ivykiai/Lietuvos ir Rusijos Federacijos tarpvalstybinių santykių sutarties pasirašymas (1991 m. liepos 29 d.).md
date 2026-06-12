@@ -43,17 +43,23 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-75146"></a>
 - t-001
+  global_id: t-75146
   teiginys: 'Sovietų Sąjungos įvykdytos Lietuvos aneksijos pasekmių pašalinimą, o Lietuva pripažino Rusiją nepriklausoma valstybe.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-75147"></a>
 - t-002
+  global_id: t-75147
   teiginys: 'Spalio pradžioje Lietuva ir Rusijos Federacija užmezgė diplomatinius santykius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-75148"></a>
 - t-003
+  global_id: t-75148
   teiginys: 'Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   pagrindžia:
     - c-001

@@ -24,7 +24,9 @@ Platonov, S.
 
 ## Teiginiai
 
+<a id="claim-t-30968"></a>
 - t-001
+  global_id: t-30968
   teiginys: 'S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ 1927 m. buvo išleista Leipcige.'
   pagrindžia:
     - c-001

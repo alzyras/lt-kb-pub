@@ -28,17 +28,23 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
 
 ## Teiginiai
 
+<a id="claim-t-79156"></a>
 - t-001
+  global_id: t-79156
   teiginys: 'Sirputis, ketvirtasis Traidenio brolis, perėmė Rytų krikščionybę ir Lietuvos valdovo pavedimu veikė prieš Lenkiją.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-79157"></a>
 - t-002
+  global_id: t-79157
   teiginys: 'Traidenio brolis Sirputis greičiausiai vadovavo Naugarduko pilies gynybai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-79158"></a>
 - t-003
+  global_id: t-79158
   teiginys: 'Senovės lietuvių tradicijų besilaikantis Traidenis didžiausias pastangas sutelkė gynybai nuo kryžiuočių, o savo broliams, priėmusiems graikų stačiatikių tikėjimą, buvo pavedes pietrytinių valdų ribų apsaugą.'
   pagrindžia:
     - c-002

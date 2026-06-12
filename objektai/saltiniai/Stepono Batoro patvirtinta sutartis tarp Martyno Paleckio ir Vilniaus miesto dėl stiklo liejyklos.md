@@ -29,17 +29,23 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-88276"></a>
 - t-001
+  global_id: t-88276
   teiginys: 'Po Paleckių mirties jų sūnūs turėjo perduoti privilegijas miestui ir per dvidešimt savaičių išparduoti likusį stiklą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-88277"></a>
 - t-002
+  global_id: t-88277
   teiginys: 'Miesto aktuose buvo karaliaus Stepono patvirtinta Martyno Paleckio, jo žmonos ir Vilniaus miesto sutartis dėl stiklo liejyklos.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-88278"></a>
 - t-003
+  global_id: t-88278
   teiginys: '1583 metų Varšuvos seime Vilniaus miestas ir Martynas Paleckis sudarė sutartį dėl stiklo liejyklos ir stiklo supirkimo teisių.'
   pagrindžia:
     - c-003

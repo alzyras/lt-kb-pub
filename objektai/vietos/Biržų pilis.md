@@ -26,7 +26,9 @@ Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė švedų įgul
 
 ## Teiginiai
 
+<a id="claim-t-38596"></a>
 - t-001
+  global_id: t-38596
   teiginys: 'Iki 1657 m. V. Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė Biržų pilyje buvusi švedų įgula.'
   pagrindžia:
     - c-001

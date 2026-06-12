@@ -25,7 +25,9 @@ Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas 
 
 ## Teiginiai
 
+<a id="claim-t-87658"></a>
 - t-001
+  global_id: t-87658
   teiginys: 'Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas su stipriu pulku kilmingų karių ir vasalų iš Čekijos bei Pareinio žemių.'
   pagrindžia:
     - c-001

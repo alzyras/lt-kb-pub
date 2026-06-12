@@ -16,7 +16,9 @@ Kai jis buvo jau gana toli, lenkų vachmistras išsiskyrė iš žiedo ir ėmė v
 
 ## Teiginiai
 
+<a id="claim-t-38738"></a>
 - t-001
+  global_id: t-38738
   teiginys: 'Lenkų vachmistras išsiskyrė iš žiedo ir ėmė vytis bėgantį žvalgą.'
   pagrindžia:
     - c-001

@@ -17,7 +17,9 @@ Karijotaičiai Podolėje pastatė Smotričo, Bakotos, Kameneco pilis, užage —
 
 ## Teiginiai
 
+<a id="claim-t-41758"></a>
 - t-001
+  global_id: t-41758
   teiginys: 'Karijotaičiai Podolėje pastatė Smotričo, Bakotos ir Kameneco pilis.'
   pagrindžia:
     - c-001

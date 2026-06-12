@@ -16,7 +16,9 @@ Sapiega ir maršalas A.
 
 ## Teiginiai
 
+<a id="claim-t-40057"></a>
 - t-001
+  global_id: t-40057
   teiginys: 'Iždininkas B. P. Sapiega pasitraukė kartu su maršalu A. P. Sapiega ir totorių vėliavomis.'
   pagrindžia:
     - c-001

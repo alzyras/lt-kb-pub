@@ -26,12 +26,16 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
 
 ## Teiginiai
 
+<a id="claim-t-58634"></a>
 - t-001
+  global_id: t-58634
   teiginys: 'Dusburgietis teigia, kad dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai, dalyvavę 1231 m. puolime į Kulmo žemę.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-58635"></a>
 - t-002
+  global_id: t-58635
   teiginys: 'Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.).'
   pagrindžia:
     - c-002

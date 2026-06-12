@@ -18,7 +18,9 @@ Radvilos pajėgų sparnuose stovėjo pėstininkai ir dragūnai (jie gynė Lojevk
 
 ## Teiginiai
 
+<a id="claim-t-41884"></a>
 - t-001
+  global_id: t-41884
   teiginys: 'Radvilos pajėgų sparnuose stovėję pėstininkai ir dragūnai gynė Lojevkos upės, juosiančios stovyklą, užtvanką.'
   pagrindžia:
     - c-001

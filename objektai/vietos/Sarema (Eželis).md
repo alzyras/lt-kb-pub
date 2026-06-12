@@ -16,12 +16,16 @@ Jie pasiekdavo tolimus pajūrius, o žiemos metu, ledu perėję įlanką, nusiga
 
 ## Teiginiai
 
+<a id="claim-t-69232"></a>
 - t-001
+  global_id: t-69232
   teiginys: 'XIII a. pradžioje lietuviai žiemą ledu perėję įlanką pasiekdavo Saremą, dar vadintą Eželiu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-69233"></a>
 - t-002
+  global_id: t-69233
   teiginys: 'Jie pasiekdavo tolimus pajūrius, o žiemos metu, ledu perėję įlanką, nusigaudavo net į Saremą (Eželį).'
   pagrindžia:
     - c-001

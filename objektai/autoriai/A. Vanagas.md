@@ -20,11 +20,15 @@ tags:
 Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, raguva, slėnys’ (Vanagas A., Dėl vietovardžio Labguva..., p. 185—189).
 
 ## Teiginiai
+<a id="claim-t-184447"></a>
 - t-001
+  global_id: t-184447
   teiginys: 'Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, raguva, slėnys’ (Vanagas A., Dėl vietovardžio Labguva..., p. 185—189).'
   pagrindžia:
     - c-001
+<a id="claim-t-184448"></a>
 - t-002
+  global_id: t-184448
   teiginys: 'Filologijos mokslų daktaras A. Vanagas sulaukė padėkos už dalykinius patarimus rengiant knygą spaudai.'
   pagrindžia:
     - c-004

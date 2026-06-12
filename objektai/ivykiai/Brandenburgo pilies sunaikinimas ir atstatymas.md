@@ -33,12 +33,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-62751"></a>
 - t-001
+  global_id: t-62751
   teiginys: 'Dusburgietis teigia, kad kai traukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta Štai šiuo būdu.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-62752"></a>
 - t-002
+  global_id: t-62752
   teiginys: 'Dusburgietis teigia, kad apie Brandenburgo pilies atstatymą ir vieno jos brolio šlovingą gyvenimą Brandenburgo markgrafas, sužinojęs, kad jo pastatytą pilį sunaikino prūsai, susikrimto ir, vėl surinkęs didelę kariuomenę, sugrįžo į Prūsiją; magistro bei brolių patariamas, toje pat.'
   pagrindžia:
     - c-001

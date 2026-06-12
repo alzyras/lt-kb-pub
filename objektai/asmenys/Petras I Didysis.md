@@ -3,12 +3,9 @@ tipas: asmuo
 pavadinimas: 'Petras I Didysis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-variantai:
-  - 'Petras I'
-aliases:
-  - 'Petras I'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,41 +20,110 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 
 ## Teiginiai
 
+<a id="claim-t-184422"></a>
 - t-001
-  teiginys: 'Petras I kariavo su švedais Estijoje, užėmė Narvą ir Tartu, o Nevos paupyje pradėjo statyti Petrapilį.'
-  pagrindžia:
-    - c-005
-- t-002
-  teiginys: 'Augustas II susitarė su Rusijos valdovu Petru I dél jo paramos prieš Švediją.'
-  pagrindžia:
-    - c-007
-- t-003
-  teiginys: 'Petro Didžiojo epocha, valdant iš Peterburgo, įvedė Rusijos imperiją į Europos areną ir reiškė Respublikos patekimą Rusijos įtakon.'
-  pagrindžia:
-    - c-001
-- t-004
-  teiginys: 'Energingasis Petras I Didysis (1682—1725 m.) griežtomis priemonėmis pakirto jos rytietiškos santvarkos šaknis ir išvedė ją į europėjamąjį kelią.'
-  pagrindžia:
-    - c-006
-- t-005
-  teiginys: 'Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus.'
-  pagrindžia:
-    - c-004
-- t-006
-  teiginys: '1721 m. Petras I Didysis paskelbė Rusiją imperija.'
+  global_id: t-184422
+  teiginys: 'Augustas II ir Petras I sudarė sutartį atimti iš Švedijos Baltijos pajūrį.'
   pagrindžia:
     - c-002
-- t-007
+
+<a id="claim-t-184423"></a>
+- t-002
+  global_id: t-184423
+  teiginys: 'A. Šapokos redaguotoje istorijoje Petras I Didysis vertinamas kaip griežtomis priemonėmis Rusiją europėjimo keliu vedęs valdovas.'
+  pagrindžia:
+    - c-007
+
+<a id="claim-t-184424"></a>
+- t-003
+  global_id: t-184424
   teiginys: 'Maskvos caras Petras I Didysis ruošėsi prasiveržti į Baltijos jūrą, tam siekdamas išvyti švedus iš pajūrio.'
   pagrindžia:
     - c-003
-- t-008
-  teiginys: 'Petro I Rusija buvo viena iš stiprėjančių centralizuotų valstybių, grasinusių Lenkijai ir Lietuvai.'
+
+<a id="claim-t-184425"></a>
+- t-004
+  global_id: t-184425
+  teiginys: 'Augustas II susitarė su Rusijos valdovu Petru I dél jo paramos prieš Švediją.'
   pagrindžia:
     - c-008
+
+<a id="claim-t-184426"></a>
+- t-005
+  global_id: t-184426
+  teiginys: 'Petro I Rusija buvo viena iš stiprėjančių centralizuotų valstybių, grasinusių Lenkijai ir Lietuvai.'
+  pagrindžia:
+    - c-005
+
+<a id="claim-t-184427"></a>
+- t-006
+  global_id: t-184427
+  teiginys: '1721 m. Petras I Didysis paskelbė Rusiją imperija.'
+  pagrindžia:
+    - c-006
+
+<a id="claim-t-184428"></a>
+- t-007
+  global_id: t-184428
+  teiginys: 'Petro Didžiojo epocha, valdant iš Peterburgo, įvedė Rusijos imperiją į Europos areną ir reiškė Respublikos patekimą Rusijos įtakon.'
+  pagrindžia:
+    - c-004
+
+<a id="claim-t-184429"></a>
+- t-008
+  global_id: t-184429
+  teiginys: 'Petras I kariavo su švedais Estijoje, užėmė Narvą ir Tartu, o Nevos paupyje pradėjo statyti Petrapilį.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
 - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Karolio XII žygis į
+    Saksoniją ir Altrandštato
+    taika (1706 m.).** Tuo tarpu caras Petras I sėkmingai kariavo su
+    švedais Estijoje, — užėmė Narvą, Tartus ir Nevos paupy pradėjo
+    statyti būsimąją Rusijos sostinę — Petrapilį (dabartinį Le-
+    ningradą). Iš čia, susitaręs su Augustu, jis atvyko į Lietuvą ir už-
+    ėmė Vilnių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-002
+  santrauka: 'Augustas II ir Petras I sudarė sutartį atimti iš Švedijos Baltijos pajūrį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Karo pradžia. Kai Augustas II su Petru I padarė sutartį
+    atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo
+    jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Augus-
+    tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-
+    go kunigaikštį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo pat metu Maskvos caras Petras I Didysis ruošėsi pra-
+    siveržti į Baltijos jūrą. Tam tikslui reikėjo išvyti švedus, val-
+    dančius visą pajūrį nuo Rygos iki Estijos. Augustas irgi pasi-
+    ryžo prie jo prisidėti; Petrui palikęs Estiją, jis svajojo nusika-
+    riauti sau Livoniją (Vidžemę).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei
@@ -74,8 +140,25 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-- c-002
+    - t-007
+
+- c-005
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
+    Lietuvos uostus Palangoje ir Šventojoje. Kovos su švedais paliko gilų pėd-
+    saką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai
+    apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.
+    Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir
+    1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui
+    nulems tolesnį ATR likimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuo Gediminaičių dinastijos išmirimo (1572) « abiejų tautų »
@@ -91,50 +174,9 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   statusas: verified
   pagrindžia:
     - t-006
-- c-003
-  santrauka: 'Maskvos caras Petras I Didysis ruošėsi prasiveržti į Baltijos jūrą, tam siekdamas išvyti švedus iš pajūrio.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo pat metu Maskvos caras Petras I Didysis ruošėsi pra-
-    siveržti į Baltijos jūrą. Tam tikslui reikėjo išvyti švedus, val-
-    dančius visą pajūrį nuo Rygos iki Estijos. Augustas irgi pasi-
-    ryžo prie jo prisidėti; Petrui palikęs Estiją, jis svajojo nusika-
-    riauti sau Livoniją (Vidžemę).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Karo pradžia. Kai Augustas II su Petru I padarė sutartį
-    atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo
-    jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Augus-
-    tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-
-    go kunigaikštį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-- c-005
-  santrauka: 'Petras I kariavo su švedais Estijoje, užėmė Narvą ir Tartu, o Nevos paupyje pradėjo statyti Petrapilį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Karolio XII žygis į
-    Saksoniją ir Altrandštato
-    taika (1706 m.).** Tuo tarpu caras Petras I sėkmingai kariavo su
-    švedais Estijoje, — užėmė Narvą, Tartus ir Nevos paupy pradėjo
-    statyti būsimąją Rusijos sostinę — Petrapilį (dabartinį Le-
-    ningradą). Iš čia, susitaręs su Augustu, jis atvyko į Lietuvą ir už-
-    ėmė Vilnių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-- c-006
+
+- c-007
+  santrauka: 'A. Šapokos redaguotoje istorijoje Petras I Didysis vertinamas kaip griežtomis priemonėmis Rusiją europėjimo keliu vedęs valdovas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo pat metu plačiais užsimojimais išgarsėjo taip pat absoliu-
@@ -151,8 +193,9 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-- c-007
+    - t-002
+
+- c-008
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Todėl Augustas 11 nusprendė
@@ -168,22 +211,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-- c-008
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
-    Lietuvos uostus Palangoje ir Šventojoje. Kovos su švedais paliko gilų pėd-
-    saką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai
-    apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.
-    Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir
-    1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui
-    nulems tolesnį ATR likimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -198,4 +226,3 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/santvarka]]

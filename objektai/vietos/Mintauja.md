@@ -17,7 +17,9 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 
 ## Teiginiai
 
+<a id="claim-t-41932"></a>
 - t-001
+  global_id: t-41932
   teiginys: 'Etmonas, iždininkas ir maršalas, paskleidę gandą apie kelionę į Drują bei Bychovo tvirtovę, iš tikrųjų traukėsi į Bauskę ir Mintaują.'
   pagrindžia:
     - c-001

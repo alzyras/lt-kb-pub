@@ -16,7 +16,9 @@ Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai
 
 ## Teiginiai
 
+<a id="claim-t-32431"></a>
 - t-001
+  global_id: t-32431
   teiginys: 'Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.'
   pagrindžia:
     - c-001

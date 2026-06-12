@@ -16,7 +16,9 @@ Simpsono klausimą dėl požiūrio į federaciją su Rusija atsakė, kad „Liet
 
 ## Teiginiai
 
+<a id="claim-t-26358"></a>
 - t-001
+  global_id: t-26358
   teiginys: 'A. Voldemaras, atsakydamas J. Simpsonui, pareiškė, kad Lietuva galėtų įsijungti į Rusijos federaciją panašiais pagrindais kaip Bavarija į Vokietijos sąjungą.'
   pagrindžia:
     - c-001

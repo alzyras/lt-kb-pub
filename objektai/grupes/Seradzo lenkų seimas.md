@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Seradzo lenkų seimas (seimas)
 
 ## Santrauka
 
-Kojelavičius teigia, kad karaliaus sumanymus sugriauti padėjo ir Torunės komtūras, kryžiuočių pa siųstas pas Boleslovą: jis iš paskutiniųjų kurstė tarp brolių nesantaiką, be galo naudingą jo ordinui, ir, paža dėjęs rimtą pagalbą, skatino Švitrigailą nesibaiminti karo su lenkais.
+Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją ir sušaukė Seradzo lenkų seimą.
 
 ## Teiginiai
 
+<a id="claim-t-185455"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad karaliaus sumanymus sugriauti padėjo ir Torunės komtūras, kryžiuočių pa siųstas pas Boleslovą: jis iš paskutiniųjų kurstė tarp brolių nesantaiką, be galo naudingą jo ordinui, ir, paža dėjęs rimtą pagalbą, skatino Švitrigailą nesibaiminti karo su lenkais.'
+  global_id: t-185455
+  teiginys: 'Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją ir sušaukė Seradzo lenkų seimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad karaliaus sumanymus sugriauti padėjo ir Torunės komtūras, kryžiuočių pa siųstas pas Boleslovą: jis iš paskutiniųjų kurstė tarp brolių nesantaiką, be galo naudingą jo ordinui, ir, paža dėjęs rimtą pagalbą, skatino Švitrigailą nesibaiminti karo su lenkais.'
+  santrauka: 'Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją ir sušaukė Seradzo lenkų seimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karaliaus sumanymus
@@ -47,3 +48,10 @@ Kojelavičius teigia, kad karaliaus sumanymus sugriauti padėjo ir Torunės komt
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/asmenys/Švitrigaila]]

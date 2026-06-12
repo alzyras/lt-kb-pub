@@ -43,7 +43,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-31536"></a>
 - t-001
+  global_id: t-31536
   teiginys: '1557 m. valakų reforma Lietuvoje įvedė visuotinę trilaukio ūkio sistemą su vieneriems metams paliekamu pūdymu.'
   pagrindžia:
     - c-001

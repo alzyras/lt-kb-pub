@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39258"></a>
 - t-001
+  global_id: t-39258
   teiginys: 'Dolegos vedamo pulko kareiviai buvo apsitaisę, ginkluoti šobliomis ir muškietomis, o ant galvų dėvėjo konfederatkas.'
   pagrindžia:
     - c-001

@@ -17,17 +17,23 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 
 ## Teiginiai
 
+<a id="claim-t-68827"></a>
 - t-001
+  global_id: t-68827
   teiginys: 'Nogatas yra rytinė Vyslos deltos atšaka, seniau įtekėjusi į Aismares gerokai piečiau dabartinio atsišakojimo.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-68828"></a>
 - t-002
+  global_id: t-68828
   teiginys: 'Dusburgietis teigia, kad todėl dviejų upių santakoje, būtent: Vyslos ir Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-68829"></a>
 - t-003
+  global_id: t-68829
   teiginys: 'Nogatu buvo plaukiama iš Aistmarių į Vyslą prekybos keliu, kuriuo Lietuvos prekės galiausiai pasiekdavo Dancigą.'
   pagrindžia:
     - c-002

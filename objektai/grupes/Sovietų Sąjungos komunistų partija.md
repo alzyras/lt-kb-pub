@@ -16,12 +16,16 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
 
 ## Teiginiai
 
+<a id="claim-t-74929"></a>
 - t-001
+  global_id: t-74929
   teiginys: 'Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą programą ir naują statutą.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-74930"></a>
 - t-002
+  global_id: t-74930
   teiginys: 'Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžiagą.'
   pagrindžia:
     - c-001

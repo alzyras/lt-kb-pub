@@ -6,39 +6,46 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Vladislovas (karalius, Kazimiero brolis)
 
 ## Santrauka
 
-Kojelavičius teigia, kad manvydas susitarė su Goštautu bei Astiku, laikantis senojo susitarimo su len kais, paskelbti valdovu patį karalių Vladislovą. Kojelavičius teigia, kad šiuo metu jie jaučiąsi turį teisę prašyti karalių patvirtinti ir įteisinti priemones, kurių griebtis juos pri vertusi pavojaus baimė. Kojelavičius teigia, kad sulaužyda mas susitarimą, karą tais metais neapdairiai pradėjo Vengrijos karalius Vladislovas ir susilaukė pralaimėji mo Varnos mūšyje; sklido gandai, jog ir pats karalius krito kovoje kartu su kitais.
+Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu. Karalius Vladislovas atšiauriai priėmė pasiuntinius, prašiusius patvirtinti pavojaus baimės nulemtas priemones. Vengrijos karalius Vladislovas pradėjo karą ir patyrė pralaimėjimą Varnos mūšyje.
 
 ## Teiginiai
 
+<a id="claim-t-186021"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad manvydas susitarė su Goštautu bei Astiku, laikantis senojo susitarimo su len kais, paskelbti valdovu patį karalių Vladislovą.'
+  global_id: t-186021
+  teiginys: 'Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-186022"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad šiuo metu jie jaučiąsi turį teisę prašyti karalių patvirtinti ir įteisinti priemones, kurių griebtis juos pri vertusi pavojaus baimė.'
+  global_id: t-186022
+  teiginys: 'Karalius Vladislovas atšiauriai priėmė pasiuntinius, prašiusius patvirtinti pavojaus baimės nulemtas priemones.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-186023"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad sulaužyda mas susitarimą, karą tais metais neapdairiai pradėjo Vengrijos karalius Vladislovas ir susilaukė pralaimėji mo Varnos mūšyje; sklido gandai, jog ir pats karalius krito kovoje kartu su kitais.'
+  global_id: t-186023
+  teiginys: 'Vengrijos karalius Vladislovas pradėjo karą ir patyrė pralaimėjimą Varnos mūšyje.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-186024"></a>
 - t-004
-  teiginys: 'Kojelavičius teigia, kad zbignevui, Kro kuvos vyskupui, pakišus mintį, visi, rodydami nepa prastą sutarimą, nutarė karaliaus sostą pasiūlyti Kazi mierui ir išsiuntė žygūnus, turėjusius pakviesti valdovą užimti brolio vietos, o Lietuvos luomus — atvykti į 4 8 2 Piotrkovą, kur bus.'
+  global_id: t-186024
+  teiginys: 'Kazimierui buvo pasiūlyta užimti brolio Vladislovo karaliaus sostą.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad manvydas susitarė su Goštautu bei Astiku, laikantis senojo susitarimo su len kais, paskelbti valdovu patį karalių Vladislovą.'
+  santrauka: 'Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
@@ -58,7 +65,7 @@ Kojelavičius teigia, kad manvydas susitarė su Goštautu bei Astiku, laikantis 
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad šiuo metu jie jaučiąsi turį teisę prašyti karalių patvirtinti ir įteisinti priemones, kurių griebtis juos pri vertusi pavojaus baimė.'
+  santrauka: 'Karalius Vladislovas atšiauriai priėmė pasiuntinius, prašiusius patvirtinti pavojaus baimės nulemtas priemones.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šiuo metu jie jaučiąsi turį teisę prašyti karalių
@@ -74,7 +81,7 @@ Kojelavičius teigia, kad manvydas susitarė su Goštautu bei Astiku, laikantis 
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad sulaužyda mas susitarimą, karą tais metais neapdairiai pradėjo Vengrijos karalius Vladislovas ir susilaukė pralaimėji mo Varnos mūšyje; sklido gandai, jog ir pats karalius krito kovoje kartu su kitais.'
+  santrauka: 'Vengrijos karalius Vladislovas pradėjo karą ir patyrė pralaimėjimą Varnos mūšyje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat lenkai
@@ -106,7 +113,7 @@ Kojelavičius teigia, kad manvydas susitarė su Goštautu bei Astiku, laikantis 
     - t-003
 
 - c-004
-  santrauka: 'Kojelavičius teigia, kad zbignevui, Kro kuvos vyskupui, pakišus mintį, visi, rodydami nepa prastą sutarimą, nutarė karaliaus sostą pasiūlyti Kazi mierui ir išsiuntė žygūnus, turėjusius pakviesti valdovą užimti brolio vietos, o Lietuvos luomus — atvykti į 4 8 2 Piotrkovą, kur bus.'
+  santrauka: 'Kazimierui buvo pasiūlyta užimti brolio Vladislovo karaliaus sostą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Zbignevui, Kro­
@@ -138,3 +145,13 @@ Kojelavičius teigia, kad manvydas susitarė su Goštautu bei Astiku, laikantis 
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Manvydas]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/žygūnai]]
+- [[objektai/asmenys/Astikas]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]

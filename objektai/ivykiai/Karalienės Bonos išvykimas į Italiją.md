@@ -6,12 +6,11 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Karalienės Bonos išvykimas į Italiją
 
 ## Santrauka
 
-Kojelavičius teigia, kad po ilgų ir karštų ginčų tais pačiais metais leista karalienei Bonai, negailėjuK a ra lic n ė B ona iššiai dovanų Lenkijos didiv y k s ta į Ita liją kams, išvykti į Italiją su vi somis brangenybėmis ir vi sais valdovės turtais.
+Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -27,15 +26,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185801"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad po ilgų ir karštų ginčų tais pačiais metais leista karalienei Bonai, negailėjuK a ra lic n ė B ona iššiai dovanų Lenkijos didiv y k s ta į Ita liją kams, išvykti į Italiją su vi somis brangenybėmis ir vi sais valdovės turtais.'
+  global_id: t-185801
+  teiginys: 'Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad po ilgų ir karštų ginčų tais pačiais metais leista karalienei Bonai, negailėjuK a ra lic n ė B ona iššiai dovanų Lenkijos didiv y k s ta į Ita liją kams, išvykti į Italiją su vi somis brangenybėmis ir vi sais valdovės turtais.'
+  santrauka: 'Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi švedų valdovas atsisakė siūlomos sąjungos,
@@ -61,3 +62,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Papakoda]]
+- [[objektai/grupes/Švedai]]

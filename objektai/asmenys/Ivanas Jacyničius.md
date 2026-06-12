@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Ivanas Jacyničius
 
 ## Santrauka
 
-Kojelavičius teigia, kad išvengė nelaisvės ar mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va lavičius, Teodoras Nemyra, Bogdanas Maskevičius; šie garsūs pulkų vadai, sužeisti ir beveik visai išsekę, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš.
+Ivanas Jacyničius buvo vienas iš sužeistų pulkų vadų, kurie prasiskynė kelią per ginkluotus būrius ir išvengė nelaisvės ar mirties.
 
 ## Teiginiai
 
+<a id="claim-t-186212"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad išvengė nelaisvės ar mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va lavičius, Teodoras Nemyra, Bogdanas Maskevičius; šie garsūs pulkų vadai, sužeisti ir beveik visai išsekę, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš.'
+  global_id: t-186212
+  teiginys: 'Ivanas Jacyničius buvo vienas iš sužeistų pulkų vadų, kurie prasiskynė kelią per ginkluotus būrius ir išvengė nelaisvės ar mirties.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad išvengė nelaisvės ar mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va lavičius, Teodoras Nemyra, Bogdanas Maskevičius; šie garsūs pulkų vadai, sužeisti ir beveik visai išsekę, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš.'
+  santrauka: 'Ivanas Jacyničius buvo vienas iš sužeistų pulkų vadų, kurie prasiskynė kelią per ginkluotus būrius ir išvengė nelaisvės ar mirties.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip pakliuvo į nelaisvę
@@ -51,3 +52,7 @@ Kojelavičius teigia, kad išvengė nelaisvės ar mirties vos vienas kitas: Ivan
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Kardas]]

@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-67028"></a>
 - t-001
+  global_id: t-67028
   teiginys: 'Žygyje prieš varmius, notangus ir bartus broliai prie būsimos Baigos apiplėšė kaimus, o prūsai juos užpuolė ir išžudė.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67029"></a>
 - t-002
+  global_id: t-67029
   teiginys: 'Varmės puolimas, aprašytas pasakojime apie žygį prieš varmius, notangus ir bartus, įvyko 1238 m. vasarą.'
   pagrindžia:
     - c-001

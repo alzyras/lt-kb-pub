@@ -40,17 +40,23 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 
 ## Teiginiai
 
+<a id="claim-t-66998"></a>
 - t-001
+  global_id: t-66998
   teiginys: '1377 m. žygis buvo pirmas žinomas Vytauto savarankiškas pasirodymas karo lauke.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-66999"></a>
 - t-002
+  global_id: t-66999
   teiginys: 'Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-67000"></a>
 - t-003
+  global_id: t-67000
   teiginys: '1377 m. Vytautas, tėvo pavedamas, surengė žygį į Ordino žemes ir pasirodė kaip savarankiškas lietuvių kariuomenės vadas.'
   pagrindžia:
     - c-001

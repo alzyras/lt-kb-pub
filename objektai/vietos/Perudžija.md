@@ -23,7 +23,9 @@ Pasiuntiniai rado popiežių Perudžijoje (Š.
 
 ## Teiginiai
 
+<a id="claim-t-34215"></a>
 - t-001
+  global_id: t-34215
   teiginys: '1388 m. balandžio 8 d. pasiuntiniai Perudžijoje rado popiežių ir gavo jo brevę.'
   pagrindžia:
     - c-001

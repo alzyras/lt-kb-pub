@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad suM e d in in k ų v y s k u p y s - šaukęs Lietuvos luomų seimą, /ę jis, visiems pritariant, parū pino valstybinius raštus, no rėdamas, kad visos ištarmės, pagal kurias neseniai buvo įsteigęs Medininkų vyskupystę ir suteikęs dvasinin kams visokių privilegijų.
+1421 m. Vytautas sušaukė Lietuvos luomų seimą ir, visiems pritariant, parūpino valstybinius raštus dėl Medininkų vyskupystės.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,15 +32,17 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185816"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad suM e d in in k ų v y s k u p y s - šaukęs Lietuvos luomų seimą, /ę jis, visiems pritariant, parū pino valstybinius raštus, no rėdamas, kad visos ištarmės, pagal kurias neseniai buvo įsteigęs Medininkų vyskupystę ir suteikęs dvasinin kams visokių privilegijų.'
+  global_id: t-185816
+  teiginys: '1421 m. Vytautas sušaukė Lietuvos luomų seimą ir, visiems pritariant, parūpino valstybinius raštus dėl Medininkų vyskupystės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad suM e d in in k ų v y s k u p y s - šaukęs Lietuvos luomų seimą, /ę jis, visiems pritariant, parū pino valstybinius raštus, no rėdamas, kad visos ištarmės, pagal kurias neseniai buvo įsteigęs Medininkų vyskupystę ir suteikęs dvasinin kams visokių privilegijų.'
+  santrauka: '1421 m. Vytautas sušaukė Lietuvos luomų seimą ir, visiems pritariant, parūpino valstybinius raštus dėl Medininkų vyskupystės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nuodugniau apsvarstęs padėtį, jis vis dėlto
@@ -67,3 +68,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Pinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/vyskupystė]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/zodynas/seimas]]

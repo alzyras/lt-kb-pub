@@ -18,7 +18,9 @@ Kovos veiksmai su raudonaisiais baigėsi jų išstūmimu iš Lietuvos 1919 m. va
 
 ## Teiginiai
 
+<a id="claim-t-19188"></a>
 - t-001
+  global_id: t-19188
   teiginys: 'Pavelas Bermontas-Avalovas vadovavo rusų ir vokiečių kariuomenei, vadintai bermontininkais.'
   pagrindžia:
     - c-001

@@ -28,7 +28,9 @@ periodo_grupes:
 
 ## Teiginiai
 
+<a id="claim-t-78026"></a>
 - t-001
+  global_id: t-78026
   teiginys: 'Daukšos lietuviakalbė programa nebuvo įgyvendinta.'
   pagrindžia:
     - c-001

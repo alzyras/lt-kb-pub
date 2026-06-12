@@ -17,7 +17,9 @@ Vis dėlto pasididžiavimas praeitimi, susietas su sunkiu darbu ir tinkamai skir
 
 ## Teiginiai
 
+<a id="claim-t-41461"></a>
 - t-001
+  global_id: t-41461
   teiginys: 'Vis dėlto pasididžiavimas praeitimi, susietas su sunkiu darbu ir tinkamai skirtomis priemonėmis, yra mūsų stiprybė ir privalumas.'
   pagrindžia:
     - c-001

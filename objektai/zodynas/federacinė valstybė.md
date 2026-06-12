@@ -12,24 +12,25 @@ atnaujinta: ''
 amziai:
   - 'XVII'
 ---
-
 # federacinė valstybė
 
 ## Santrauka
 
-Kojelavičius teigia, kad žymesnieji buržuazinės istoriografijos atstovai, lai kydamiesi tokios didžiavalstybinės pažiūros, vadino Lietuvą valstybe, o uolų feodalinio imuniteto saugoji mą vaizdavo kaip valstybės ar net tautos reikalų gy nimą.
+Unijos aktai ir Lietuvos Statutas pripažino karalių ir bendrą seimą jungtinės valstybės suverenu.
 
 ## Teiginiai
 
+<a id="claim-t-185383"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad žymesnieji buržuazinės istoriografijos atstovai, lai kydamiesi tokios didžiavalstybinės pažiūros, vadino Lietuvą valstybe, o uolų feodalinio imuniteto saugoji mą vaizdavo kaip valstybės ar net tautos reikalų gy nimą.'
+  global_id: t-185383
+  teiginys: 'Unijos aktai ir Lietuvos Statutas pripažino karalių ir bendrą seimą jungtinės valstybės suverenu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad žymesnieji buržuazinės istoriografijos atstovai, lai kydamiesi tokios didžiavalstybinės pažiūros, vadino Lietuvą valstybe, o uolų feodalinio imuniteto saugoji mą vaizdavo kaip valstybės ar net tautos reikalų gy nimą.'
+  santrauka: 'Unijos aktai ir Lietuvos Statutas pripažino karalių ir bendrą seimą jungtinės valstybės suverenu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žymesnieji buržuazinės istoriografijos atstovai, lai­
@@ -52,3 +53,14 @@ Kojelavičius teigia, kad žymesnieji buržuazinės istoriografijos atstovai, la
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ukrainiečiai]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/suverenas]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/zodynas/feodalinis imunitetas]]

@@ -24,7 +24,9 @@ Dusburgietis teigia, kad wenta J.
 
 ## Teiginiai
 
+<a id="claim-t-60851"></a>
 - t-001
+  global_id: t-60851
   teiginys: 'J. Wenta 1980 m. paskelbė straipsnį apie Petro Dusburgiečio kroniką ir Kryžiuočių ordino istoriją Oliwos kronikoje.'
   pagrindžia:
     - c-001

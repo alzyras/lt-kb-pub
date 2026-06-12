@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Avigenas
 
 ## Santrauka
 
-Kojelavičius teigia, kad kolonijos Agripinos6 ar kivyskupas Avigenas ne tik pats su kariuomene pa traukė į žygį, bet netgi jai nelyginant etmonas vado vavo.
+Kolonijos Agripinos arkivyskupas Avigenas su kariuomene patraukė į žygį ir jai vadovavo lyg etmonas.
 
 ## Teiginiai
 
+<a id="claim-t-186096"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kolonijos Agripinos6 ar kivyskupas Avigenas ne tik pats su kariuomene pa traukė į žygį, bet netgi jai nelyginant etmonas vado vavo.'
+  global_id: t-186096
+  teiginys: 'Kolonijos Agripinos arkivyskupas Avigenas su kariuomene patraukė į žygį ir jai vadovavo lyg etmonas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kolonijos Agripinos6 ar kivyskupas Avigenas ne tik pats su kariuomene pa traukė į žygį, bet netgi jai nelyginant etmonas vado vavo.'
+  santrauka: 'Kolonijos Agripinos arkivyskupas Avigenas su kariuomene patraukė į žygį ir jai vadovavo lyg etmonas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Rodosi, tų pačių valdovų viešpatavimo metais Livoni-
@@ -43,3 +44,13 @@ Kojelavičius teigia, kad kolonijos Agripinos6 ar kivyskupas Avigenas ne tik pat
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/kolonijos]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/stabmeldžiai]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/žygis]]

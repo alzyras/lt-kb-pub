@@ -37,7 +37,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-01679"></a>
 - t-001
+  global_id: t-01679
   teiginys: '1283 m. kryžiuočiai jau buvo įsitvirtinę Nemuno pakrantėje ir pradėjo karą su Lietuvos valstybe.'
   pagrindžia:
     - c-001

@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Spitekas iš Melštino
 
 ## Santrauka
 
-Kojelavičius teigia, kad kadangi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas, Spitekui iš Melštino, Krokuvos vaivadai, parūpinus pini gų, atidavė karalystei ir karaliui Kamenecą, Smotričių, Skalą, Červonogradą.
+Spitekas iš Melštino parūpino pinigų, o Vytautas atidavė karaliui Kamenecą, Smotričių, Skalą ir Červonogradą.
 
 ## Teiginiai
 
+<a id="claim-t-186164"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kadangi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas, Spitekui iš Melštino, Krokuvos vaivadai, parūpinus pini gų, atidavė karalystei ir karaliui Kamenecą, Smotričių, Skalą, Červonogradą.'
+  global_id: t-186164
+  teiginys: 'Spitekas iš Melštino parūpino pinigų, o Vytautas atidavė karaliui Kamenecą, Smotričių, Skalą ir Červonogradą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kadangi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas, Spitekui iš Melštino, Krokuvos vaivadai, parūpinus pini gų, atidavė karalystei ir karaliui Kamenecą, Smotričių, Skalą, Červonogradą.'
+  santrauka: 'Spitekas iš Melštino parūpino pinigų, o Vytautas atidavė karaliui Kamenecą, Smotričių, Skalą ir Červonogradą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadan-
@@ -51,3 +52,7 @@ Kojelavičius teigia, kad kadangi valstybės iždas buvo dėl karų ištuštėj�
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/vietininkas]]

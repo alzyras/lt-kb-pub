@@ -24,12 +24,16 @@ Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl 
 
 ## Teiginiai
 
+<a id="claim-t-22116"></a>
 - t-001
+  global_id: t-22116
   teiginys: 'Pradėjus mobilizaciją į SSRS kariuomenę, lietuviai dezertyrai vengė tarnybos Raudonojoje armijoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183412"></a>
 - t-002
+  global_id: t-183412
   teiginys: 'Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl jie įtraukti į oficialiai ieškomų „dezertyrų“ kategoriją, tūkstančiai jų įsijungė į lietuvių partizanų, kovojusių prieš sovietus, gretas.'
   pagrindžia:
     - c-001

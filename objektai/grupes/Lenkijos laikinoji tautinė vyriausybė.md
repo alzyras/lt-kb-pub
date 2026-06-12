@@ -18,7 +18,9 @@ Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną 
 
 ## Teiginiai
 
+<a id="claim-t-65648"></a>
 - t-001
+  global_id: t-65648
   teiginys: 'Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną paskelbė sukilimo pradžią.'
   pagrindžia:
     - c-001

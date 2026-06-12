@@ -16,7 +16,9 @@ Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Li
 
 ## Teiginiai
 
+<a id="claim-t-17869"></a>
 - t-001
+  global_id: t-17869
   teiginys: 'E. Galvanausko nota prisidėjo prie 1923 m. kovo 15 d. sprendimo Vilnių palikti Lenkijai.'
   pagrindžia:
     - c-001

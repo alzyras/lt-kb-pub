@@ -51,7 +51,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-40758"></a>
 - t-001
+  global_id: t-40758
   teiginys: 'Pirmojo pasaulinio karo metu, pradėjus trūkti ginklų, buvo naudojami ir senieji Berdan šautuvai.'
   pagrindžia:
     - c-001

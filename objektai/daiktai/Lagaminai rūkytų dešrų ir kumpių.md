@@ -35,7 +35,9 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-19546"></a>
 - t-001
+  global_id: t-19546
   teiginys: 'Į Maskvą keliaudavo kyšiai, apibūdinti kaip lagaminai rūkytų dešrų ir kumpių.'
   pagrindžia:
     - c-001

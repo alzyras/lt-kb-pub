@@ -26,7 +26,9 @@ Dusburgietis teigia, kad l., Die Eroberung..., 3, p. 11—24; Šapoka A., Premys
 
 ## Teiginiai
 
+<a id="claim-t-91943"></a>
 - t-001
+  global_id: t-91943
   teiginys: 'Dusburgietis teigia, kad l., Die Eroberung..., 3, p. 11—24; Šapoka A., Premyslo (Ottakaro) II žygiai..., p. 1—15).'
   pagrindžia:
     - c-001

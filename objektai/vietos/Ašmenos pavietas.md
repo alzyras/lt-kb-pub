@@ -18,7 +18,9 @@ Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Aš
 
 ## Teiginiai
 
+<a id="claim-t-80615"></a>
 - t-001
+  global_id: t-80615
   teiginys: 'Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Ašmenos paviete.'
   pagrindžia:
     - c-001

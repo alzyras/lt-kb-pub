@@ -16,17 +16,23 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-45782"></a>
 - t-001
+  global_id: t-45782
   teiginys: 'Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-45784"></a>
 - t-003
+  global_id: t-45784
   teiginys: 'Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-45785"></a>
 - t-004
+  global_id: t-45785
   teiginys: 'BUVUSIO VALSTYBINGUMO TRAUKOJE Kultūrinė autonomija Napoleono šešėlyje L DK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią, kuri realizuota pasitelkus monarchui pavaldų centralizuotą biurokratinį aparatą.'
   pagrindžia:
     - c-003

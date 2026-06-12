@@ -25,7 +25,9 @@ Rusijos caras Aleksandras 11 1856 m. paskelbė politinę amnestiją 1831 m. suki
 
 ## Teiginiai
 
+<a id="claim-t-38771"></a>
 - t-001
+  global_id: t-38771
   teiginys: 'Rusijos caras Aleksandras II 1856 m. paskelbė politinę amnestiją 1831 m. sukilimo tremtiniams.'
   pagrindžia:
     - c-001

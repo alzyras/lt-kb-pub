@@ -41,12 +41,16 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-39099"></a>
 - t-001
+  global_id: t-39099
   teiginys: '1648 m. vasarą sukilę kazokai veržėsi į LDK pietrytines sritis ir siautėjo Pinsko, Starodubo bei Mozyriaus apylinkėse.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-39100"></a>
 - t-002
+  global_id: t-39100
   teiginys: 'Prie Lojevo priartėjusios Kijevo, Černobylio ir Ovručo kazokų pajėgos buvo triskart gausesnės už LDK kariuomenę.'
   pagrindžia:
     - c-002

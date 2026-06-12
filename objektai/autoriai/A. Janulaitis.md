@@ -23,7 +23,9 @@ Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą �
 
 ## Teiginiai
 
+<a id="claim-t-100104"></a>
 - t-001
+  global_id: t-100104
   teiginys: 'Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936).'
   pagrindžia:
     - c-001

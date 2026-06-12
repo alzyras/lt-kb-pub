@@ -27,7 +27,9 @@ Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, 
 
 ## Teiginiai
 
+<a id="claim-t-87653"></a>
 - t-001
+  global_id: t-87653
   teiginys: 'Rusios didysis kunigaikštis Dmitrijus Michailovičius buvo vedęs vieną iš Gedimino dukterų ir 1326 m. spalio 15 d. nužudytas totorių chano Uzbeko įsakymu.'
   pagrindžia:
     - c-001

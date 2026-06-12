@@ -12,12 +12,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
 ---
-
 # Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)
 
 ## Santrauka
 
-Kojelavičius teigia, kad kur kas didesnį pavojų kėlė skitai, tačiau aukščiausiasis nukreipė šią grėsmę prieš patį Boleslovą. Kojelavičius teigia, kad pakviesta Boleslovo, pažadė jusio gerą atlyginimą, susitel kė didžiulė skitų kariauna, ketinusi išvyti Žygimantą ir sugrąžinti į valdžią Lietuvoje Boleslovą. Kojelavičius teigia, kad tik rudens pabaigoje paliko Žygimantas Ž yg im a n ta s traukia savo slėptuves ir užpuolė su / M stisla vlį menka savo kariuomene, pa jėgiančia tik nuostolių priešui pridaryti, kurias ne kurias Boleslovo valdas.
+Skitai atsisuko prieš Švitrigailą, kai Jogailos pasiuntiniai pranešė, kad Švitrigaila juos apgavo dėl valdžios Lietuvoje. Švitrigailos pakviesta skitų kariauna ketino išvyti Žygimantą ir sugrąžinti Švitrigailą į valdžią Lietuvoje. Rudens pabaigoje Žygimantas su nedidele kariuomene užpuolė kai kurias Švitrigailos valdas ir po mėnesio apgulties užėmė Mstislavlį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,25 +32,31 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185639"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kur kas didesnį pavojų kėlė skitai, tačiau aukščiausiasis nukreipė šią grėsmę prieš patį Boleslovą.'
+  global_id: t-185639
+  teiginys: 'Skitai atsisuko prieš Švitrigailą, kai Jogailos pasiuntiniai pranešė, kad Švitrigaila juos apgavo dėl valdžios Lietuvoje.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-185640"></a>
 - t-002
-  teiginys: 'Kojelavičius teigia, kad pakviesta Boleslovo, pažadė jusio gerą atlyginimą, susitel kė didžiulė skitų kariauna, ketinusi išvyti Žygimantą ir sugrąžinti į valdžią Lietuvoje Boleslovą.'
+  global_id: t-185640
+  teiginys: 'Švitrigailos pakviesta skitų kariauna ketino išvyti Žygimantą ir sugrąžinti Švitrigailą į valdžią Lietuvoje.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-185641"></a>
 - t-003
-  teiginys: 'Kojelavičius teigia, kad tik rudens pabaigoje paliko Žygimantas Ž yg im a n ta s traukia savo slėptuves ir užpuolė su / M stisla vlį menka savo kariuomene, pa jėgiančia tik nuostolių priešui pridaryti, kurias ne kurias Boleslovo valdas.'
+  global_id: t-185641
+  teiginys: 'Rudens pabaigoje Žygimantas su nedidele kariuomene užpuolė kai kurias Švitrigailos valdas ir po mėnesio apgulties užėmė Mstislavlį.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kur kas didesnį pavojų kėlė skitai, tačiau aukščiausiasis nukreipė šią grėsmę prieš patį Boleslovą.'
+  santrauka: 'Skitai atsisuko prieš Švitrigailą, kai Jogailos pasiuntiniai pranešė, kad Švitrigaila juos apgavo dėl valdžios Lietuvoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kur kas didesnį
@@ -76,7 +81,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičius teigia, kad pakviesta Boleslovo, pažadė jusio gerą atlyginimą, susitel kė didžiulė skitų kariauna, ketinusi išvyti Žygimantą ir sugrąžinti į valdžią Lietuvoje Boleslovą.'
+  santrauka: 'Švitrigailos pakviesta skitų kariauna ketino išvyti Žygimantą ir sugrąžinti Švitrigailą į valdžią Lietuvoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pakviesta Boleslovo, pažadė­
@@ -100,7 +105,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kojelavičius teigia, kad tik rudens pabaigoje paliko Žygimantas Ž yg im a n ta s traukia savo slėptuves ir užpuolė su / M stisla vlį menka savo kariuomene, pa jėgiančia tik nuostolių priešui pridaryti, kurias ne kurias Boleslovo valdas.'
+  santrauka: 'Rudens pabaigoje Žygimantas su nedidele kariuomene užpuolė kai kurias Švitrigailos valdas ir po mėnesio apgulties užėmė Mstislavlį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tik rudens
@@ -130,3 +135,12 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Boleslovas]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/zodynas/skitai]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Švitrigaila]]

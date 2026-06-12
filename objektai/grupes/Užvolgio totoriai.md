@@ -23,7 +23,9 @@ amziai:
 
 ## Teiginiai
 
+<a id="claim-t-34369"></a>
 - t-001
+  global_id: t-34369
   teiginys: '1424 m. Vytauto pasiųsta kariuomenė smarkiai sumušė Užvolgio totorius, vadovaujamus chano Chudandacho.'
   pagrindžia:
     - c-001

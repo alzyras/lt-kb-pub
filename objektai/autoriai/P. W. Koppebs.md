@@ -25,7 +25,9 @@ Koppebs.
 
 ## Teiginiai
 
+<a id="claim-t-30912"></a>
 - t-001
+  global_id: t-30912
   teiginys: 'P. W. Koppebsas žurnale „Soter“ paskelbė darbą „Indoeuropiečių religijos kultūriniai istoriniai santykiai“.'
   pagrindžia:
     - c-001

@@ -27,12 +27,16 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
 
 ## Teiginiai
 
+<a id="claim-t-60149"></a>
 - t-001
+  global_id: t-60149
   teiginys: 'Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios neteisybės, nei kantrios teisybės.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-60150"></a>
 - t-002
+  global_id: t-60150
   teiginys: 'Jeronimas ragino dėl kryžiaus karo atsisakyti net šeimos kliūčių ir pulti prie kryžiaus karo vėliavos.'
   pagrindžia:
     - c-002

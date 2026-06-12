@@ -6,24 +6,25 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 ---
-
 # Sologubas
 
 ## Santrauka
 
-Kojelavičius teigia, kad kiek galėdamas šitokiems siūlymams priešinosi Sologubas; visaip įrodinėdamas ir įtikinėdamas, jis mal daute maldavo vardan visų šventųjų, kad, skubotai pasiduodami, neterštų šlovės, kurią įsigijo, garbingai dvylika metų gindami pilį.
+Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą neteršti dvylika metų gintos pilies šlovės.
 
 ## Teiginiai
 
+<a id="claim-t-186079"></a>
 - t-001
-  teiginys: 'Kojelavičius teigia, kad kiek galėdamas šitokiems siūlymams priešinosi Sologubas; visaip įrodinėdamas ir įtikinėdamas, jis mal daute maldavo vardan visų šventųjų, kad, skubotai pasiduodami, neterštų šlovės, kurią įsigijo, garbingai dvylika metų gindami pilį.'
+  global_id: t-186079
+  teiginys: 'Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą neteršti dvylika metų gintos pilies šlovės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičius teigia, kad kiek galėdamas šitokiems siūlymams priešinosi Sologubas; visaip įrodinėdamas ir įtikinėdamas, jis mal daute maldavo vardan visų šventųjų, kad, skubotai pasiduodami, neterštų šlovės, kurią įsigijo, garbingai dvylika metų gindami pilį.'
+  santrauka: 'Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą neteršti dvylika metų gintos pilies šlovės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tokių kalbų paskatinti
@@ -41,3 +42,10 @@ Kojelavičius teigia, kad kiek galėdamas šitokiems siūlymams priešinosi Solo
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/įgula]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/ivykiai/Pirmoji Smolensko apgultis ir maskvėnų atsitraukimas]]
+- [[objektai/ivykiai/Trečioji Smolensko apgultis ir nesėkmingas Dimitrijaus bandymas]]

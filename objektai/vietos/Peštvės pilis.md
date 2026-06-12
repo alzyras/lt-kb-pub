@@ -18,7 +18,9 @@ tags:
 
 ## Teiginiai
 
+<a id="claim-t-99943"></a>
 - t-001
+  global_id: t-99943
   teiginys: '58 Pernarava 251 Persantė, upė 100 Peštvės pilis 216, 218, 227, 233, 236, 251, 256, 345 Petersburgas 30, 52 ; Petersburgo univ.'
   pagrindžia:
     - c-001

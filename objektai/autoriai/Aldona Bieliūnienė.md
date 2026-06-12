@@ -27,12 +27,16 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
 
 ## Teiginiai
 
+<a id="claim-t-64534"></a>
 - t-001
+  global_id: t-64534
   teiginys: 'Parengė Aldona Bieliūnienė ir kiti.'
   pagrindžia:
     - c-001
 
+<a id="claim-t-183340"></a>
 - t-002
+  global_id: t-183340
   teiginys: 'Aldona Bieliūnienė buvo viena iš 2011 m. antrojo papildyto leidinio „Lietuva žemėlapiuose“ sudarytojų.'
   pagrindžia:
     - c-002
