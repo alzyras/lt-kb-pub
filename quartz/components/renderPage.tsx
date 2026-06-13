@@ -29,11 +29,12 @@ export function pageResources(
   baseDir: FullSlug | RelativeURL,
   staticResources: StaticResources,
 ): StaticResources {
-  const assetVersion = "20260601-source-counts"
+  const assetVersion = "20260613-zemelapis"
   const versionedAsset = (path: string) => `${path}?v=${assetVersion}`
   const contentMetaPath = versionedAsset(joinSegments(baseDir, "static/contentMeta.json"))
   const searchIndexPath = versionedAsset(joinSegments(baseDir, "static/searchIndex.json"))
   const graphIndexPath = versionedAsset(joinSegments(baseDir, "static/graphIndex.json"))
+  const graphExplorerIndexPath = versionedAsset(joinSegments(baseDir, "static/graphExplorerIndex.json"))
   const randomClaimsPath = versionedAsset(joinSegments(baseDir, "static/randomClaims.json"))
   const citationSourcesPath = versionedAsset(joinSegments(baseDir, "static/citationSources.json"))
   const staticIndexScript = `
@@ -48,6 +49,7 @@ globalThis.loadStaticJson ??= (path) => {
 globalThis.loadContentMeta = () => globalThis.loadStaticJson("${contentMetaPath}")
 globalThis.loadSearchIndex = () => globalThis.loadStaticJson("${searchIndexPath}")
 globalThis.loadGraphIndex = () => globalThis.loadStaticJson("${graphIndexPath}")
+globalThis.loadGraphExplorerIndex = () => globalThis.loadStaticJson("${graphExplorerIndexPath}")
 globalThis.loadRandomClaims = () => globalThis.loadStaticJson("${randomClaimsPath}")
 // Compatibility only: callers should prefer purpose-specific loaders.
 globalThis.fetchData = {

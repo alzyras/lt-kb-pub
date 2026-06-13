@@ -16,7 +16,7 @@ import {
 } from "d3"
 import { Text, Graphics, Application, Container, Circle } from "pixi.js"
 import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
-import { registerEscapeHandler, removeAllChildren } from "./util"
+import { removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { D3Config } from "../Graph"
 
@@ -40,6 +40,7 @@ type SimpleLinkData = {
 
 type GraphRuntime = typeof globalThis & {
   loadGraphIndex?: () => Promise<Record<FullSlug, GraphIndexDetails>>
+  spaNavigate?: (url: URL) => void
 }
 
 type LinkData = {
@@ -772,49 +773,27 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     document.removeEventListener("themechange", handleThemeChange)
   })
 
-  const containers = [...document.getElementsByClassName("global-graph-outer")] as HTMLElement[]
-  async function renderGlobalGraph() {
-    const slug = getFullSlug(window)
-    for (const container of containers) {
-      container.classList.add("active")
-      const sidebar = container.closest(".sidebar") as HTMLElement
-      if (sidebar) {
-        sidebar.style.zIndex = "1"
-      }
-
-      const graphContainer = container.querySelector(".global-graph-container") as HTMLElement
-      registerEscapeHandler(container, hideGlobalGraph)
-      if (graphContainer) {
-        globalGraphCleanups.push(await renderGraph(graphContainer, slug))
-      }
+  function openGraphExplorer() {
+    const currentSlug = simplifySlug(getFullSlug(window))
+    const target = new URL(resolveRelative(getFullSlug(window), "zemelapis/index" as FullSlug), window.location.toString())
+    if (currentSlug !== "/") {
+      target.searchParams.set("focus", currentSlug)
+      target.searchParams.set("depth", "1")
     }
-  }
-
-  function hideGlobalGraph() {
-    cleanupGlobalGraphs()
-    for (const container of containers) {
-      container.classList.remove("active")
-      const sidebar = container.closest(".sidebar") as HTMLElement
-      if (sidebar) {
-        sidebar.style.zIndex = ""
-      }
-    }
+    ;(graphRuntime.spaNavigate ?? ((url: URL) => window.location.assign(url)))(target)
   }
 
   async function shortcutHandler(e: HTMLElementEventMap["keydown"]) {
     if (e.key === "g" && (e.ctrlKey || e.metaKey) && !e.shiftKey) {
       e.preventDefault()
-      const anyGlobalGraphOpen = containers.some((container) =>
-        container.classList.contains("active"),
-      )
-      anyGlobalGraphOpen ? hideGlobalGraph() : renderGlobalGraph()
+      openGraphExplorer()
     }
   }
 
   const containerIcons = document.getElementsByClassName("global-graph-icon")
   Array.from(containerIcons).forEach((icon) => {
-    icon.addEventListener("click", renderGlobalGraph)
-    window.addCleanup(() => icon.removeEventListener("click", renderGlobalGraph))
+    icon.addEventListener("click", openGraphExplorer)
+    window.addCleanup(() => icon.removeEventListener("click", openGraphExplorer))
   })
 
   document.addEventListener("keydown", shortcutHandler)

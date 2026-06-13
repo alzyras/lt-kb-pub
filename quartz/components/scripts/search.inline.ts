@@ -516,7 +516,10 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
 
   function writeSearchOptionsState(options: SearchOptionsState) {
     localStorage.setItem(OPTIONS_STORAGE_KEY, JSON.stringify(options))
-    document.dispatchEvent(new CustomEvent("quartz-options-change"))
+    const event: CustomEventMap["quartz-options-change"] = new CustomEvent("quartz-options-change", {
+      detail: {},
+    })
+    document.dispatchEvent(event)
   }
 
   async function displayResults(

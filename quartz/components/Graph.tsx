@@ -101,7 +101,7 @@ export default ((opts?: Partial<GraphOptions>) => {
         </div>
         <div class="graph-outer">
           <div class="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
-          <button class="global-graph-icon" aria-label="Global Graph">
+          <button class="global-graph-icon" aria-label="Atidaryti viso ekrano žemėlapį">
             <svg
               version="1.1"
               xmlns="http://www.w3.org/2000/svg"
