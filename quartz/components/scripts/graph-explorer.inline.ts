@@ -19,7 +19,16 @@ import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from
 
 type ExplorerRuntime = typeof globalThis & {
   loadGraphExplorerIndex?: () => Promise<Record<FullSlug, GraphExplorerIndexDetails>>
+  fetchCitationSources?: Promise<CitationSourceRegistryEntry[]>
   spaNavigate?: (url: URL) => void
+}
+
+type CitationSourceRegistryEntry = {
+  id: string
+  title: string
+  objectCount?: number
+  quoteCount?: number
+  count?: number
 }
 
 type FilterState = {
@@ -55,6 +64,7 @@ type RuntimeLink = SimulationLinkDatum<RuntimeNode> & {
 }
 
 const runtime = globalThis as ExplorerRuntime
+let cachedCitationSources: CitationSourceRegistryEntry[] | null = null
 
 const defaultState: FilterState = {
   focus: "",
@@ -148,6 +158,61 @@ function writeState(state: FilterState) {
 
 function normalizedText(value: string | undefined): string {
   return (value ?? "").toLocaleLowerCase("lt-LT")
+}
+
+function normalizeCitationSources(sources: CitationSourceRegistryEntry[]): CitationSourceRegistryEntry[] {
+  return sources
+    .filter(
+      (source) =>
+        typeof source?.id === "string" &&
+        source.id.trim().length > 0 &&
+        typeof source?.title === "string" &&
+        source.title.trim().length > 0,
+    )
+    .map((source) => {
+      const quoteCount = Number.isFinite(source.quoteCount)
+        ? Math.max(0, Number(source.quoteCount))
+        : Number.isFinite(source.count)
+          ? Math.max(0, Number(source.count))
+          : 0
+      return {
+        id: source.id.trim(),
+        title: source.title.trim(),
+        objectCount: Number.isFinite(source.objectCount)
+          ? Math.max(0, Number(source.objectCount))
+          : 0,
+        quoteCount,
+        count: quoteCount,
+      }
+    })
+    .sort((a, b) => {
+      const objectDiff = Number(b.objectCount ?? 0) - Number(a.objectCount ?? 0)
+      if (objectDiff !== 0) return objectDiff
+      const quoteDiff = Number(b.quoteCount ?? b.count ?? 0) - Number(a.quoteCount ?? a.count ?? 0)
+      return quoteDiff === 0 ? a.title.localeCompare(b.title, "lt", { sensitivity: "base" }) : quoteDiff
+    })
+}
+
+async function loadCitationSources(): Promise<CitationSourceRegistryEntry[]> {
+  if (cachedCitationSources) return cachedCitationSources
+  try {
+    const resolved = await runtime.fetchCitationSources
+    cachedCitationSources = normalizeCitationSources(Array.isArray(resolved) ? resolved : [])
+  } catch (error) {
+    console.warn("Citation source registry failed to load for graph explorer.", error)
+    cachedCitationSources = []
+  }
+  return cachedCitationSources
+}
+
+function sourceMatches(node: GraphExplorerIndexDetails, selectedSource: string): boolean {
+  if (!selectedSource) return true
+  const sourceIds = node.citationSourceIds ?? []
+  if (sourceIds.includes(selectedSource)) return true
+
+  const needle = normalizedText(selectedSource)
+  const sources = normalizedText([...(node.citationSourceIds ?? []), ...(node.citationSourceTitles ?? [])].join(" "))
+  return sources.includes(needle)
 }
 
 function graphExplorerIndexUrls(): string[] {
@@ -277,13 +342,7 @@ function passesFilters(node: GraphExplorerIndexDetails, state: FilterState, igno
   if (!ignoreVolume && node.claimCount < state.minClaims && node.quoteCount < state.minQuotes) {
     return false
   }
-  if (state.source) {
-    const needle = normalizedText(state.source)
-    const sources = normalizedText(
-      [...(node.citationSourceIds ?? []), ...(node.citationSourceTitles ?? [])].join(" "),
-    )
-    if (!sources.includes(needle)) return false
-  }
+  if (!sourceMatches(node, state.source)) return false
   if (!dateOverlaps(node, state.from, state.to)) return false
   if (state.q) {
     const needle = normalizedText(state.q)
@@ -298,13 +357,7 @@ function passesFilters(node: GraphExplorerIndexDetails, state: FilterState, igno
 function passesFocusTraversalFilters(node: GraphExplorerIndexDetails, state: FilterState): boolean {
   if (!graphAllowed(node, state)) return false
   if (!dateOverlaps(node, state.from, state.to)) return false
-  if (state.source) {
-    const needle = normalizedText(state.source)
-    const sources = normalizedText(
-      [...(node.citationSourceIds ?? []), ...(node.citationSourceTitles ?? [])].join(" "),
-    )
-    if (!sources.includes(needle)) return false
-  }
+  if (!sourceMatches(node, state.source)) return false
   return true
 }
 
@@ -421,6 +474,17 @@ function buildVisibleGraph(
   for (const source of selected) {
     for (const target of adjacency.get(source) ?? []) {
       if (!selected.has(target)) continue
+      if (focus && state.depth >= 0) {
+        const sourceDistance = distances.get(source)
+        const targetDistance = distances.get(target)
+        if (
+          sourceDistance === undefined ||
+          targetDistance === undefined ||
+          Math.abs(sourceDistance - targetDistance) !== 1
+        ) {
+          continue
+        }
+      }
       const pairKey = [source, target].sort().join(" ")
       if (seenLinks.has(pairKey)) continue
       seenLinks.add(pairKey)
@@ -545,7 +609,11 @@ function setFormState(root: HTMLElement, state: FilterState) {
   ;(form.elements.namedItem("preset") as HTMLSelectElement).value = state.preset
   ;(form.elements.namedItem("minClaims") as HTMLInputElement).value = String(state.minClaims)
   ;(form.elements.namedItem("minQuotes") as HTMLInputElement).value = String(state.minQuotes)
-  ;(form.elements.namedItem("source") as HTMLInputElement).value = state.source
+  const sourceSelect = form.elements.namedItem("source") as HTMLSelectElement
+  if (state.source && ![...sourceSelect.options].some((option) => option.value === state.source)) {
+    sourceSelect.append(new Option(`Senas filtras: ${state.source}`, state.source))
+  }
+  sourceSelect.value = state.source
   ;(form.elements.namedItem("from") as HTMLInputElement).value = state.from === null ? "" : String(state.from)
   ;(form.elements.namedItem("to") as HTMLInputElement).value = state.to === null ? "" : String(state.to)
   ;(form.elements.namedItem("depth") as HTMLSelectElement).value = String(state.depth)
@@ -567,7 +635,7 @@ function readFormState(root: HTMLElement, previous: FilterState): FilterState {
     preset: (form.elements.namedItem("preset") as HTMLSelectElement).value,
     minClaims: Math.max(0, parseNumber((form.elements.namedItem("minClaims") as HTMLInputElement).value, 0)),
     minQuotes: Math.max(0, parseNumber((form.elements.namedItem("minQuotes") as HTMLInputElement).value, 0)),
-    source: (form.elements.namedItem("source") as HTMLInputElement).value.trim(),
+    source: (form.elements.namedItem("source") as HTMLSelectElement).value.trim(),
     from: parseOptionalNumber((form.elements.namedItem("from") as HTMLInputElement).value),
     to: parseOptionalNumber((form.elements.namedItem("to") as HTMLInputElement).value),
     depth: parseNumber((form.elements.namedItem("depth") as HTMLSelectElement).value, -1),
@@ -578,11 +646,42 @@ function readFormState(root: HTMLElement, previous: FilterState): FilterState {
   }
 }
 
+function sourceOptionLabel(source: CitationSourceRegistryEntry): string {
+  const objectCount = Number(source.objectCount ?? 0)
+  const quoteCount = Number(source.quoteCount ?? source.count ?? 0)
+  return objectCount > 0 || quoteCount > 0
+    ? `${source.title} — ${objectCount} ob. (${quoteCount} cit.)`
+    : source.title
+}
+
+async function populateSourceSelect(root: HTMLElement, state: FilterState) {
+  const selectElement = root.querySelector<HTMLSelectElement>("[data-source-select]")
+  if (!selectElement) return
+  const sources = await loadCitationSources()
+  const selected = state.source
+  selectElement.replaceChildren(new Option("Visos knygos", ""))
+  for (const source of sources) {
+    selectElement.append(new Option(sourceOptionLabel(source), source.id))
+  }
+  if (selected && !sources.some((source) => source.id === selected)) {
+    selectElement.append(new Option(`Senas filtras: ${selected}`, selected))
+  }
+  selectElement.value = selected
+}
+
+function syncAdvancedFiltersForViewport(root: HTMLElement) {
+  const advanced = root.querySelector<HTMLDetailsElement>(".graph-explorer-advanced")
+  if (!advanced) return
+  const shouldCollapse = window.matchMedia("(max-width: 760px)").matches
+  advanced.open = !shouldCollapse
+}
+
 function renderNodePanel(
   panel: HTMLElement,
   node: RuntimeNode,
   state: FilterState,
   activateFocus: (slug: SimpleSlug) => void,
+  clearFocus: () => void,
   setPanelMode: (mode: FilterState["panel"]) => void,
 ) {
   const period = [
@@ -612,7 +711,11 @@ function renderNodePanel(
     ${node.summary ? `<p class="graph-explorer-summary">${node.summary}</p>` : ""}
     <div class="graph-explorer-actions">
       <a class="graph-explorer-button" href="${relativePageUrl(node.id)}">Atidaryti</a>
-      <button type="button" data-action="focus">Rodyti tik susijusius</button>
+      ${
+        state.focus === node.id
+          ? `<button type="button" data-action="clear-focus">Grįžti į bendrą žemėlapį</button>`
+          : `<button type="button" data-action="focus">Rodyti tiesioginius ryšius</button>`
+      }
     </div>
     ${
       node.topClaims.length > 0
@@ -634,6 +737,9 @@ function renderNodePanel(
   bindPanelModeControls(panel, setPanelMode)
   panel.querySelector<HTMLButtonElement>("[data-action='focus']")?.addEventListener("click", () => {
     activateFocus(node.id)
+  })
+  panel.querySelector<HTMLButtonElement>("[data-action='clear-focus']")?.addEventListener("click", () => {
+    clearFocus()
   })
 }
 
@@ -685,6 +791,7 @@ function renderGraph(
   graph: { nodes: RuntimeNode[]; links: RuntimeLink[]; focus: SimpleSlug | "" },
   state: FilterState,
   activateFocus: (slug: SimpleSlug) => void,
+  clearFocus: () => void,
   setPanelMode: (mode: FilterState["panel"]) => void,
 ) {
   root.dataset.panel = state.panel
@@ -832,7 +939,7 @@ function renderGraph(
   fitGraphToCanvas()
 
   if (focusNode && state.panel !== "hidden") {
-    renderNodePanel(panel, focusNode, state, activateFocus, setPanelMode)
+    renderNodePanel(panel, focusNode, state, activateFocus, clearFocus, setPanelMode)
   } else if (state.panel === "hidden") {
     panel.innerHTML = ""
   } else {
@@ -865,12 +972,23 @@ async function setupGraphExplorer(root: HTMLElement) {
   )
 
   let state = readState()
+  syncAdvancedFiltersForViewport(root)
+  await populateSourceSelect(root, state)
   setFormState(root, state)
 
+  let pendingRenderFrame = 0
   const rerender = () => {
+    pendingRenderFrame = 0
     root.dataset.panel = state.panel
     const graph = buildVisibleGraph(nodesBySlug, state)
-    renderGraph(root, canvas, panel, graph, state, activateFocus, setPanelMode)
+    renderGraph(root, canvas, panel, graph, state, activateFocus, clearFocus, setPanelMode)
+  }
+
+  const scheduleRerender = () => {
+    if (pendingRenderFrame) {
+      window.cancelAnimationFrame(pendingRenderFrame)
+    }
+    pendingRenderFrame = window.requestAnimationFrame(rerender)
   }
 
   const setPanelMode = (mode: FilterState["panel"]) => {
@@ -883,7 +1001,7 @@ async function setupGraphExplorer(root: HTMLElement) {
     state = {
       ...state,
       focus: slug,
-      depth: 2,
+      depth: 1,
       q: "",
       preset: "important",
       types: [],
@@ -894,20 +1012,39 @@ async function setupGraphExplorer(root: HTMLElement) {
     rerender()
   }
 
-  const updateFromForm = () => {
-    state = readFormState(root, state)
+  const clearFocus = () => {
+    state = {
+      ...defaultState,
+      panel: state.panel === "hidden" ? "details" : state.panel,
+    }
     writeState(state)
+    setFormState(root, state)
     rerender()
   }
 
-  form.addEventListener("input", updateFromForm)
-  form.addEventListener("change", updateFromForm)
+  const updateFromForm = (immediate = false) => {
+    state = readFormState(root, state)
+    writeState(state)
+    if (immediate) {
+      if (pendingRenderFrame) {
+        window.cancelAnimationFrame(pendingRenderFrame)
+        pendingRenderFrame = 0
+      }
+      rerender()
+    } else {
+      scheduleRerender()
+    }
+  }
+
+  form.addEventListener("input", () => updateFromForm(false))
+  form.addEventListener("change", () => updateFromForm(true))
   reset?.addEventListener("click", () => {
     state = { ...defaultState }
     writeState(state)
     setFormState(root, state)
     rerender()
   })
+  window.addEventListener("resize", () => syncAdvancedFiltersForViewport(root), { passive: true })
   root.querySelector<HTMLButtonElement>("[data-panel-show]")?.addEventListener("click", () => {
     setPanelMode("details")
   })
