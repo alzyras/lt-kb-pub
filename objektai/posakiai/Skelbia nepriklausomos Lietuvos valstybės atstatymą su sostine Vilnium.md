@@ -3,6 +3,10 @@ tipas: posakis
 pavadinimas: 'Skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+aliases:
+  - 'objektai/posakiai/skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium'
+variantai:
+  - 'skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium'
 sukurta: ''
 atnaujinta: ''
 tags:

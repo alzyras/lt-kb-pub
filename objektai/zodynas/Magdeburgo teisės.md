@@ -14,6 +14,10 @@ datos:
   - '2026 m.'
 date_start: '1330'
 date_end: '2026'
+aliases:
+  - 'objektai/zodynas/magdeburginės teisės'
+variantai:
+  - 'magdeburginės teisės'
 sukurta: ''
 atnaujinta: ''
 amziai:

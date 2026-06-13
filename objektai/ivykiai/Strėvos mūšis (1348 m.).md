@@ -8,6 +8,10 @@ datos:
   - '1348 m.'
 date_start: '1348'
 date_end: ''
+aliases:
+  - 'objektai/ivykiai/Strėvos mūšis'
+variantai:
+  - 'Strėvos mūšis'
 sukurta: ''
 atnaujinta: ''
 tags:

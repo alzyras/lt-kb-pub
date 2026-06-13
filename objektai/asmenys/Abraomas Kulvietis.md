@@ -8,6 +8,10 @@ datos:
   - '1542 m.'
 date_start: '1539'
 date_end: '1542'
+aliases:
+  - 'objektai/autoriai/Abraomas Kulvietis'
+variantai:
+  - 'Abraomas Kulvietis'
 sukurta: ''
 atnaujinta: ''
 tags:

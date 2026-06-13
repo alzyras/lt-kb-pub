@@ -3,6 +3,10 @@ tipas: autorius
 pavadinimas: 'Audronius Ažubalis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+aliases:
+  - 'objektai/asmenys/Audronius Ažubalis'
+variantai:
+  - 'Audronius Ažubalis'
 sukurta: ''
 atnaujinta: ''
 tags:

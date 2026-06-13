@@ -4,6 +4,10 @@ pavadinimas: 'Iki gyvos Vytauto ir Jogailos galvos'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+aliases:
+  - 'objektai/posakiai/iki gyvos Vytauto ir Jogailos galvos'
+variantai:
+  - 'iki gyvos Vytauto ir Jogailos galvos'
 sukurta: ''
 atnaujinta: ''
 tags:

@@ -8,6 +8,10 @@ datos:
   - '1927 m.'
 date_start: '1851'
 date_end: '1927'
+aliases:
+  - 'objektai/autoriai/Jonas Basanavičius'
+variantai:
+  - 'Jonas Basanavičius'
 sukurta: ''
 atnaujinta: ''
 tags:

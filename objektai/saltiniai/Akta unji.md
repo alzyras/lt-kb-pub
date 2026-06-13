@@ -4,6 +4,10 @@ pavadinimas: 'Akta unji'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+aliases:
+  - 'objektai/saltiniai/AUPL'
+variantai:
+  - 'AUPL'
 sukurta: ''
 atnaujinta: ''
 tags:

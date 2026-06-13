@@ -3,6 +3,10 @@ tipas: saltinis
 pavadinimas: 'Heinrici Chronicon Livoniae'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+aliases:
+  - 'objektai/saltiniai/Henriko Latvio kronika'
+variantai:
+  - 'Henriko Latvio kronika'
 sukurta: ''
 atnaujinta: ''
 ---

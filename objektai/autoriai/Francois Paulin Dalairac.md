@@ -3,6 +3,10 @@ tipas: autorius
 pavadinimas: 'Francois Paulin Dalairac'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+aliases:
+  - 'objektai/asmenys/Francois Paulin Dalairac'
+variantai:
+  - 'Francois Paulin Dalairac'
 sukurta: ''
 atnaujinta: ''
 tags:

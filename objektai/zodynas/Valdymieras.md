@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'valdymieras'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+aliases:
+  - 'objektai/zodynas/valdymierai'
+variantai:
+  - 'valdymierai'
 sukurta: ''
 atnaujinta: ''
 ---

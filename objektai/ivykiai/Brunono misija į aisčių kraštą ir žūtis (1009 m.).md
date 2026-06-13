@@ -9,6 +9,10 @@ datos:
   - '1009 m.'
 date_start: '1008'
 date_end: '1009'
+aliases:
+  - 'objektai/ivykiai/Brunono Bonifaco misija į aisčių kraštą ir žūtis'
+variantai:
+  - 'Brunono Bonifaco misija į aisčių kraštą ir žūtis'
 sukurta: ''
 atnaujinta: ''
 tags:

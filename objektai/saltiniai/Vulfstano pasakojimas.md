@@ -3,6 +3,10 @@ tipas: saltinis
 pavadinimas: 'Vulfstano pasakojimas'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+aliases:
+  - 'objektai/saltiniai/Wulfstano pasakojimai'
+variantai:
+  - 'Wulfstano pasakojimai'
 sukurta: ''
 atnaujinta: ''
 tags:

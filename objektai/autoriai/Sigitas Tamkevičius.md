@@ -3,6 +3,10 @@ tipas: autorius
 pavadinimas: 'Sigitas Tamkevičius'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+aliases:
+  - 'objektai/asmenys/Sigitas Tamkevičius'
+variantai:
+  - 'Sigitas Tamkevičius'
 sukurta: ''
 atnaujinta: ''
 tags:

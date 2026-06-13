@@ -15,6 +15,10 @@ datos:
   - '1500 m.'
 date_start: '1387'
 date_end: '1500'
+aliases:
+  - 'objektai/asmenys/Vytautas Didysis'
+variantai:
+  - 'Vytautas Didysis'
 sukurta: ''
 atnaujinta: ''
 tags:

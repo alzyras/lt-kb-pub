@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'rėda'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+aliases:
+  - 'objektai/zodynas/ūkės rėda'
+variantai:
+  - 'ūkės rėda'
 sukurta: ''
 atnaujinta: ''
 ---

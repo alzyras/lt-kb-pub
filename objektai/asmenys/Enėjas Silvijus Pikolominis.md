@@ -3,6 +3,10 @@ tipas: asmuo
 pavadinimas: 'Enėjas Silvijus Pikolominis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+aliases:
+  - 'objektai/autoriai/Enėjas Silvijus Pikolominis'
+variantai:
+  - 'Enėjas Silvijus Pikolominis'
 sukurta: ''
 atnaujinta: ''
 tags:

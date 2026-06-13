@@ -4,6 +4,10 @@ pavadinimas: 'Balstogė'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+aliases:
+  - 'objektai/vietos/Balostekė'
+variantai:
+  - 'Balostekė'
 sukurta: ''
 atnaujinta: ''
 tags:

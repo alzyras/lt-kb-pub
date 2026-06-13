@@ -8,6 +8,10 @@ datos:
   - '1966 m.'
 date_start: '1966'
 date_end: ''
+aliases:
+  - 'objektai/autoriai/Romas Batūra'
+variantai:
+  - 'Romas Batūra'
 sukurta: ''
 atnaujinta: ''
 tags:

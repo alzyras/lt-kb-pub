@@ -10,6 +10,10 @@ datos:
   - '1989 m.'
 date_start: '1939'
 date_end: '1989'
+aliases:
+  - 'objektai/saltiniai/Molotovo-Ribentropo paktas'
+variantai:
+  - 'Molotovo-Ribentropo paktas'
 sukurta: ''
 atnaujinta: ''
 amziai:

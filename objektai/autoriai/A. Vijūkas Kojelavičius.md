@@ -9,6 +9,10 @@ datos:
   - '1651 m.'
 date_start: '1648'
 date_end: '1651'
+aliases:
+  - 'objektai/asmenys/A. Vijūkas Kojelavičius'
+variantai:
+  - 'A. Vijūkas Kojelavičius'
 sukurta: ''
 atnaujinta: ''
 tags:

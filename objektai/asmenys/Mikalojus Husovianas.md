@@ -7,6 +7,10 @@ datos:
   - '1523 m.'
 date_start: '1523'
 date_end: ''
+aliases:
+  - 'objektai/autoriai/Mikalojus Husovianas'
+variantai:
+  - 'Mikalojus Husovianas'
 sukurta: ''
 atnaujinta: ''
 tags:

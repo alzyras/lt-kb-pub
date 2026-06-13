@@ -7,6 +7,10 @@ datos:
   - '1989 m.'
 date_start: '1989'
 date_end: ''
+aliases:
+  - 'objektai/autoriai/J. Jurginis'
+variantai:
+  - 'J. Jurginis'
 sukurta: ''
 atnaujinta: ''
 tags:

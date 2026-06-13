@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'krivė krivaitis'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+aliases:
+  - 'objektai/zodynas/Krivė krivaitis'
+variantai:
+  - 'krivė krivaitis'
 sukurta: ''
 atnaujinta: ''
 ---

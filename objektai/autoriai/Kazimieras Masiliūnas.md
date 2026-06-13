@@ -3,6 +3,10 @@ tipas: autorius
 pavadinimas: 'Kazimieras Masiliūnas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+aliases:
+  - 'objektai/asmenys/Kazimieras Masiliūnas'
+variantai:
+  - 'Kazimieras Masiliūnas'
 sukurta: ''
 atnaujinta: ''
 tags:

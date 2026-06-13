@@ -3,6 +3,10 @@ tipas: saltinis
 pavadinimas: 'Klaipėdos krašto Statutas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+aliases:
+  - 'objektai/saltiniai/Klaipėdos krašto statutas'
+variantai:
+  - 'Klaipėdos krašto statutas'
 sukurta: ''
 atnaujinta: ''
 tags:

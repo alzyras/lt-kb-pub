@@ -4,6 +4,12 @@ pavadinimas: 'Juodoji jūra'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+aliases:
+  - 'objektai/vietos/Uksinė jūra'
+  - 'objektai/vietos/Uksinė marė'
+variantai:
+  - 'Uksinė jūra'
+  - 'Uksinė marė'
 sukurta: ''
 atnaujinta: ''
 ---

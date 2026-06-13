@@ -3,6 +3,10 @@ tipas: autorius
 pavadinimas: 'Robert Gordon Latham'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+aliases:
+  - 'objektai/asmenys/Robert Gordon Latham'
+variantai:
+  - 'Robert Gordon Latham'
 sukurta: ''
 atnaujinta: ''
 tags:

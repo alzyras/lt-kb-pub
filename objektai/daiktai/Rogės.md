@@ -3,6 +3,10 @@ tipas: daiktas
 pavadinimas: 'Rogės'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+aliases:
+  - 'objektai/daiktai/Rogelės'
+variantai:
+  - 'Rogelės'
 sukurta: ''
 atnaujinta: ''
 ---

@@ -15,6 +15,10 @@ datos:
   - '1861 m.'
 date_start: '1235'
 date_end: '1861'
+aliases:
+  - 'objektai/vietos/Karaliaucius'
+variantai:
+  - 'Karaliaučius'
 sukurta: ''
 atnaujinta: ''
 tags:

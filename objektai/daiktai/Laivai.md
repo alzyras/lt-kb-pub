@@ -11,6 +11,10 @@ datos:
   - '1383 m.'
 date_start: '1160'
 date_end: '1383'
+aliases:
+  - 'objektai/daiktai/Sieliai'
+variantai:
+  - 'Sieliai'
 sukurta: ''
 atnaujinta: ''
 tags:

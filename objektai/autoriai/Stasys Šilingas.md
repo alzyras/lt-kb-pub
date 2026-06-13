@@ -3,6 +3,10 @@ tipas: autorius
 pavadinimas: 'Stasys Šilingas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+aliases:
+  - 'objektai/asmenys/Stasys Šilingas'
+variantai:
+  - 'Stasys Šilingas'
 sukurta: ''
 atnaujinta: ''
 tags:

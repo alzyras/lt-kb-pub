@@ -10,6 +10,10 @@ datos:
   - '1000 m.'
 date_start: '1000'
 date_end: ''
+aliases:
+  - 'objektai/autoriai/Joannis Dlugosii'
+variantai:
+  - 'Joannis Dlugosii'
 sukurta: ''
 atnaujinta: ''
 tags:

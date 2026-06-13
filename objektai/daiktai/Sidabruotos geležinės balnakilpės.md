@@ -3,6 +3,10 @@ tipas: daiktas
 pavadinimas: 'Sidabruotos geležinės balnakilpės'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+aliases:
+  - 'objektai/daiktai/Sidabruotos geležinės XI-XII a. balnakilpės'
+variantai:
+  - 'Sidabruotos geležinės XI-XII a. balnakilpės'
 sukurta: ''
 atnaujinta: ''
 tags:

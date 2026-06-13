@@ -3,6 +3,10 @@ tipas: vieta
 pavadinimas: 'Isteris'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+aliases:
+  - 'objektai/vietos/Dunojus'
+variantai:
+  - 'Dunojus'
 sukurta: ''
 atnaujinta: ''
 ---

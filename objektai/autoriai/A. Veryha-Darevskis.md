@@ -3,6 +3,10 @@ tipas: autorius
 pavadinimas: 'A. Veryha-Darevskis'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+aliases:
+  - 'objektai/autoriai/A. Veryha - Darevskis'
+variantai:
+  - 'A. Veryha - Darevskis'
 sukurta: ''
 atnaujinta: ''
 tags:

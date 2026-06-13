@@ -11,6 +11,10 @@ datos:
   - '1978 m.'
 date_start: '1930'
 date_end: '1978'
+aliases:
+  - 'objektai/autoriai/Ivinskis, Z'
+variantai:
+  - 'Ivinskis, Z'
 sukurta: ''
 atnaujinta: ''
 tags:

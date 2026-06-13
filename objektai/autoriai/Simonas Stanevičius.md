@@ -8,6 +8,10 @@ datos:
   - '1864 m.'
 date_start: '1793'
 date_end: '1864'
+aliases:
+  - 'objektai/asmenys/Simonas Stanevičius'
+variantai:
+  - 'Simonas Stanevičius'
 sukurta: ''
 atnaujinta: ''
 tags:

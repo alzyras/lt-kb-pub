@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'Modus vivendi'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+aliases:
+  - 'objektai/zodynas/modus vivendi'
+variantai:
+  - 'modus vivendi'
 sukurta: ''
 atnaujinta: ''
 tags:

@@ -4,6 +4,10 @@ pavadinimas: 'Codex epistolaris Vitoldi, magni ducis Lithuaniae'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+aliases:
+  - 'objektai/saltiniai/Codex ep. Vitoldi'
+variantai:
+  - 'Codex ep. Vitoldi'
 sukurta: ''
 atnaujinta: ''
 tags: []

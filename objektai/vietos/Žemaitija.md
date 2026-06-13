@@ -20,6 +20,10 @@ datos:
   - '2007 m.'
 date_start: '1251'
 date_end: '2007'
+aliases:
+  - 'objektai/vietos/Zemaitija'
+variantai:
+  - 'Žemaitija'
 sukurta: ''
 atnaujinta: ''
 tags:

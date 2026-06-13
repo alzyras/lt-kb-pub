@@ -18,6 +18,12 @@ datos:
   - '1806 m.'
 date_start: '1231'
 date_end: '1806'
+aliases:
+  - 'objektai/vietos/Parusija'
+  - 'objektai/vietos/Parusis'
+variantai:
+  - 'Parusija'
+  - 'Parusis'
 sukurta: ''
 atnaujinta: ''
 amziai:

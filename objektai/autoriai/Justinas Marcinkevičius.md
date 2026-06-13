@@ -3,6 +3,10 @@ tipas: autorius
 pavadinimas: 'Justinas Marcinkevičius'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+aliases:
+  - 'objektai/asmenys/Justinas Marcinkevičius'
+variantai:
+  - 'Justinas Marcinkevičius'
 sukurta: ''
 atnaujinta: ''
 tags:

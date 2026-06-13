@@ -3,6 +3,10 @@ tipas: autorius
 pavadinimas: 'T. Čarkovskis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+aliases:
+  - 'objektai/asmenys/T. Čarkovskis'
+variantai:
+  - 'T. Čarkovskis'
 sukurta: ''
 atnaujinta: ''
 tags:

@@ -3,6 +3,10 @@ tipas: autorius
 pavadinimas: 'Vytautas Petkevičius'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+aliases:
+  - 'objektai/asmenys/Vytautas Petkevičius'
+variantai:
+  - 'Vytautas Petkevičius'
 sukurta: ''
 atnaujinta: ''
 tags:

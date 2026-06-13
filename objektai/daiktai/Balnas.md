@@ -4,6 +4,10 @@ pavadinimas: 'Balnas'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+aliases:
+  - 'objektai/daiktai/Balnai'
+variantai:
+  - 'Balnai'
 sukurta: ''
 atnaujinta: ''
 tags:

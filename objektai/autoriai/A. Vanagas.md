@@ -3,6 +3,10 @@ tipas: autorius
 pavadinimas: 'A. Vanagas'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+aliases:
+  - 'objektai/autoriai/Vanagas A'
+variantai:
+  - 'Vanagas A'
 sukurta: ''
 atnaujinta: ''
 tags:

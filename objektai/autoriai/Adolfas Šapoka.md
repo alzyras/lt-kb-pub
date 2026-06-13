@@ -7,6 +7,10 @@ datos:
   - '1936 m.'
 date_start: '1936'
 date_end: ''
+aliases:
+  - 'objektai/asmenys/Adolfas Šapoka'
+variantai:
+  - 'Adolfas Šapoka'
 sukurta: ''
 atnaujinta: ''
 tags:

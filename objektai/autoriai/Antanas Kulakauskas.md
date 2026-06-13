@@ -8,6 +8,10 @@ datos:
   - '2013 m.'
 date_start: '1996'
 date_end: '2013'
+aliases:
+  - 'objektai/autoriai/Kulakauskas A'
+variantai:
+  - 'Kulakauskas A'
 sukurta: ''
 atnaujinta: ''
 tags:

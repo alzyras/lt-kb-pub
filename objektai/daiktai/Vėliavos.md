@@ -11,6 +11,10 @@ datos:
   - '1399 m.'
 date_start: '1399'
 date_end: ''
+aliases:
+  - 'objektai/daiktai/Karinės vėliavos'
+variantai:
+  - 'Karinės vėliavos'
 sukurta: ''
 atnaujinta: ''
 tags:

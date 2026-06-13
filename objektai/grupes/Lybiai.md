@@ -4,6 +4,10 @@ pavadinimas: 'Lybiai'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+aliases:
+  - 'objektai/grupes/Lybiešiai'
+variantai:
+  - 'Lybiešiai'
 sukurta: ''
 atnaujinta: ''
 tags:

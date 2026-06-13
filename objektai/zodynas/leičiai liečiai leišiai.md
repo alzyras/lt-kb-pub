@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'leičiai / liečiai / leišiai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+aliases:
+  - 'objektai/zodynas/leičiai'
+variantai:
+  - 'leičiai'
 sukurta: ''
 atnaujinta: ''
 ---

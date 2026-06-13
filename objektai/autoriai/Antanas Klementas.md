@@ -7,6 +7,10 @@ datos:
   - '1794 m.'
 date_start: '1794'
 date_end: ''
+aliases:
+  - 'objektai/asmenys/Antanas Klementas'
+variantai:
+  - 'Antanas Klementas'
 sukurta: ''
 atnaujinta: ''
 tags:
