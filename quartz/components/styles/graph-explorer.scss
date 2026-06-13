@@ -113,6 +113,14 @@ body.graph-explorer-active {
   min-height: 0;
 }
 
+.graph-explorer[data-panel="hidden"] .graph-explorer-stage {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.graph-explorer[data-panel="hidden"] .graph-explorer-panel {
+  display: none;
+}
+
 .graph-explorer-canvas {
   min-height: calc(100vh - 4.2rem);
   overflow: hidden;
@@ -123,6 +131,25 @@ body.graph-explorer-active {
     height: 100%;
     width: 100%;
   }
+}
+
+.graph-explorer-show-panel {
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 5px;
+  color: var(--secondary);
+  cursor: pointer;
+  display: none;
+  font: inherit;
+  font-weight: 700;
+  position: absolute;
+  right: 0.8rem;
+  top: 0.8rem;
+  z-index: 5;
+}
+
+.graph-explorer[data-panel="hidden"] .graph-explorer-show-panel {
+  display: block;
 }
 
 .graph-explorer-status {
@@ -140,6 +167,51 @@ body.graph-explorer-active {
   max-height: calc(100vh - 4.2rem);
   overflow: auto;
   padding: 1rem;
+}
+
+.graph-explorer-panel-modes {
+  display: grid;
+  gap: 0.35rem;
+  grid-template-columns: repeat(3, 1fr);
+  margin-bottom: 0.75rem;
+
+  button {
+    background: transparent;
+    border: 1px solid var(--lightgray);
+    border-radius: 5px;
+    color: var(--dark);
+    cursor: pointer;
+    font: inherit;
+    font-weight: 700;
+    padding: 0.35rem 0.45rem;
+  }
+
+  button.is-active {
+    background: var(--secondary);
+    border-color: var(--secondary);
+    color: var(--light);
+  }
+}
+
+.graph-explorer-page-content {
+  font-size: 0.88rem;
+  line-height: 1.55;
+
+  h1 {
+    display: none;
+  }
+
+  h2 {
+    border-top: 1px solid var(--lightgray);
+    font-size: 1rem;
+    margin-top: 1rem;
+    padding-top: 0.8rem;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+  }
 }
 
 .graph-explorer-panel h2 {
@@ -213,8 +285,9 @@ body.graph-explorer-active {
 }
 
 .graph-explorer-node.is-selected {
+  filter: drop-shadow(0 0 8px color-mix(in srgb, var(--secondary) 45%, transparent));
   stroke: var(--secondary);
-  stroke-width: 3;
+  stroke-width: 4;
 }
 
 .graph-explorer-link {

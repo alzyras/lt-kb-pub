@@ -87,6 +87,9 @@ export default (() => {
         <section class="graph-explorer-stage">
           <div class="graph-explorer-canvas" data-graph-canvas>
             <div class="graph-explorer-status">Kraunamas žemėlapis...</div>
+            <button class="graph-explorer-show-panel" type="button" data-panel-show>
+              Rodyti panelį
+            </button>
           </div>
           <aside class="graph-explorer-panel" data-graph-panel>
             <div class="graph-explorer-panel-empty">

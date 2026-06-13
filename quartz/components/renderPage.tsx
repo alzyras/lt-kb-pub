@@ -29,7 +29,7 @@ export function pageResources(
   baseDir: FullSlug | RelativeURL,
   staticResources: StaticResources,
 ): StaticResources {
-  const assetVersion = "20260613-zemelapis"
+  const assetVersion = "20260613-zemelapis-fix"
   const versionedAsset = (path: string) => `${path}?v=${assetVersion}`
   const contentMetaPath = versionedAsset(joinSegments(baseDir, "static/contentMeta.json"))
   const searchIndexPath = versionedAsset(joinSegments(baseDir, "static/searchIndex.json"))
@@ -42,7 +42,16 @@ globalThis.__ltkbStaticJsonCache ??= new Map()
 globalThis.loadStaticJson ??= (path) => {
   const cache = globalThis.__ltkbStaticJsonCache
   if (!cache.has(path)) {
-    cache.set(path, fetch(path, { cache: "force-cache" }).then((data) => data.json()))
+    const request = fetch(path, { cache: "force-cache" })
+      .then((data) => {
+        if (!data.ok) throw new Error("Failed to fetch " + path + ": " + data.status)
+        return data.json()
+      })
+      .catch((error) => {
+        cache.delete(path)
+        throw error
+      })
+    cache.set(path, request)
   }
   return cache.get(path)
 }

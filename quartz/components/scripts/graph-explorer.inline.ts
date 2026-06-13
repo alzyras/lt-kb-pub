@@ -36,12 +36,15 @@ type FilterState = {
   maxNodes: number
   showPlaces: boolean
   showTopics: boolean
+  panel: "details" | "page" | "hidden"
 }
 
 type RuntimeNode = GraphExplorerIndexDetails &
   SimulationNodeDatum & {
     id: SimpleSlug
     degree: number
+    globalDegree: number
+    hop: number
     score: number
   }
 
@@ -67,6 +70,7 @@ const defaultState: FilterState = {
   maxNodes: 250,
   showPlaces: false,
   showTopics: false,
+  panel: "details",
 }
 
 const typeColors: Record<string, string> = {
@@ -98,6 +102,7 @@ function parseOptionalNumber(value: string | null): number | null {
 
 function readState(): FilterState {
   const params = new URLSearchParams(window.location.search)
+  const panel = params.get("panel")
   return {
     focus: (params.get("focus") ? simplifySlug(params.get("focus") as FullSlug) : "") as
       | SimpleSlug
@@ -117,6 +122,7 @@ function readState(): FilterState {
     maxNodes: parseNumber(params.get("maxNodes"), defaultState.maxNodes),
     showPlaces: params.get("showPlaces") === "1",
     showTopics: params.get("showTopics") === "1",
+    panel: panel === "page" || panel === "hidden" ? panel : "details",
   }
 }
 
@@ -135,6 +141,7 @@ function writeState(state: FilterState) {
   if (state.maxNodes !== defaultState.maxNodes) params.set("maxNodes", String(state.maxNodes))
   if (state.showPlaces) params.set("showPlaces", "1")
   if (state.showTopics) params.set("showTopics", "1")
+  if (state.panel !== defaultState.panel) params.set("panel", state.panel)
   const query = params.toString()
   window.history.replaceState(null, "", query ? `${window.location.pathname}?${query}` : window.location.pathname)
 }
@@ -143,21 +150,68 @@ function normalizedText(value: string | undefined): string {
   return (value ?? "").toLocaleLowerCase("lt-LT")
 }
 
-function fallbackGraphExplorerIndexUrl(): string {
+function graphExplorerIndexUrls(): string[] {
+  const urls: string[] = []
+  const push = (url: URL) => {
+    const value = url.toString()
+    if (!urls.includes(value)) urls.push(value)
+  }
+
   const prescript = [...document.scripts].find((script) => script.src.includes("prescript.js"))
   if (prescript?.src) {
     const sourceUrl = new URL(prescript.src)
-    return new URL(`static/graphExplorerIndex.json${sourceUrl.search}`, sourceUrl).toString()
+    push(new URL(`static/graphExplorerIndex.json${sourceUrl.search}`, sourceUrl))
+    push(new URL("static/graphExplorerIndex.json", sourceUrl))
   }
-  return new URL("../static/graphExplorerIndex.json", window.location.href).toString()
+  push(new URL("../static/graphExplorerIndex.json", window.location.href))
+
+  const cacheBusted = new URL(urls[0] ?? new URL("../static/graphExplorerIndex.json", window.location.href).toString())
+  cacheBusted.searchParams.set("reload", String(Date.now()))
+  push(cacheBusted)
+  return urls
+}
+
+function assertExplorerIndex(value: unknown): Record<FullSlug, GraphExplorerIndexDetails> {
+  if (!value || typeof value !== "object" || Array.isArray(value)) {
+    throw new Error("graphExplorerIndex.json is not an object")
+  }
+  if (Object.keys(value as Record<string, unknown>).length === 0) {
+    throw new Error("graphExplorerIndex.json is empty")
+  }
+  return value as Record<FullSlug, GraphExplorerIndexDetails>
+}
+
+async function fetchExplorerIndexUrl(
+  url: string,
+  cache: RequestCache,
+): Promise<Record<FullSlug, GraphExplorerIndexDetails>> {
+  const response = await fetch(url, { cache })
+  if (!response.ok) {
+    throw new Error(`Failed to fetch ${url}: ${response.status}`)
+  }
+  return assertExplorerIndex(await response.json())
 }
 
 async function loadExplorerIndex(): Promise<Record<FullSlug, GraphExplorerIndexDetails>> {
   if (runtime.loadGraphExplorerIndex) {
-    return runtime.loadGraphExplorerIndex()
+    try {
+      return assertExplorerIndex(await runtime.loadGraphExplorerIndex())
+    } catch (error) {
+      console.warn("Bundled graph explorer index loader failed, retrying directly.", error)
+    }
   }
-  const response = await fetch(fallbackGraphExplorerIndexUrl(), { cache: "force-cache" })
-  return response.json() as Promise<Record<FullSlug, GraphExplorerIndexDetails>>
+
+  let lastError: unknown
+  const urls = graphExplorerIndexUrls()
+  for (const [index, url] of urls.entries()) {
+    try {
+      return await fetchExplorerIndexUrl(url, index === 0 ? "force-cache" : "no-store")
+    } catch (error) {
+      lastError = error
+      console.warn("Graph explorer index fetch failed.", { url, error })
+    }
+  }
+  throw lastError instanceof Error ? lastError : new Error("Failed to load graph explorer index")
 }
 
 function nodeType(node: GraphExplorerIndexDetails): string {
@@ -241,6 +295,19 @@ function passesFilters(node: GraphExplorerIndexDetails, state: FilterState, igno
   return true
 }
 
+function passesFocusTraversalFilters(node: GraphExplorerIndexDetails, state: FilterState): boolean {
+  if (!graphAllowed(node, state)) return false
+  if (!dateOverlaps(node, state.from, state.to)) return false
+  if (state.source) {
+    const needle = normalizedText(state.source)
+    const sources = normalizedText(
+      [...(node.citationSourceIds ?? []), ...(node.citationSourceTitles ?? [])].join(" "),
+    )
+    if (!sources.includes(needle)) return false
+  }
+  return true
+}
+
 function scoreNode(node: GraphExplorerIndexDetails, degree: number): number {
   return node.claimCount + node.quoteCount * 1.8 + degree * 0.35
 }
@@ -289,17 +356,22 @@ function buildVisibleGraph(
 
   const focus = resolveFocus(nodesBySlug, state)
   let selected = new Set<SimpleSlug>()
+  const distances = new Map<SimpleSlug, number>()
   if (focus && state.depth >= 0) {
     selected.add(focus)
+    distances.set(focus, 0)
     let frontier = new Set<SimpleSlug>([focus])
     for (let step = 0; step < state.depth; step++) {
       const next = new Set<SimpleSlug>()
       for (const slug of frontier) {
         for (const neighbour of adjacency.get(slug) ?? []) {
           const node = nodesBySlug.get(neighbour)
-          if (node && passesFilters(node, state, true)) {
+          if (node && passesFocusTraversalFilters(node, state)) {
             next.add(neighbour)
             selected.add(neighbour)
+            if (!distances.has(neighbour)) {
+              distances.set(neighbour, step + 1)
+            }
           }
         }
       }
@@ -319,6 +391,8 @@ function buildVisibleGraph(
         .sort((a, b) => {
           const aNode = nodesBySlug.get(a)!
           const bNode = nodesBySlug.get(b)!
+          const distanceDiff = (distances.get(a) ?? Number.POSITIVE_INFINITY) - (distances.get(b) ?? Number.POSITIVE_INFINITY)
+          if (distanceDiff !== 0) return distanceDiff
           const diff =
             scoreNode(bNode, adjacency.get(b)?.size ?? 0) - scoreNode(aNode, adjacency.get(a)?.size ?? 0)
           return diff === 0 ? aNode.title.localeCompare(bNode.title, "lt") : diff
@@ -331,7 +405,15 @@ function buildVisibleGraph(
   const runtimeNodes: RuntimeNode[] = [...selected].map((slug) => {
     const node = nodesBySlug.get(slug)!
     const degree = [...(adjacency.get(slug) ?? [])].filter((target) => selected.has(target)).length
-    return { ...node, id: slug, degree, score: scoreNode(node, degree) }
+    const globalDegree = adjacency.get(slug)?.size ?? 0
+    return {
+      ...node,
+      id: slug,
+      degree,
+      globalDegree,
+      hop: distances.get(slug) ?? -1,
+      score: scoreNode(node, globalDegree),
+    }
   })
   const runtimeBySlug = new Map(runtimeNodes.map((node) => [node.id, node]))
   const runtimeLinks: RuntimeLink[] = []
@@ -354,14 +436,106 @@ function buildVisibleGraph(
   return { nodes: runtimeNodes, links: runtimeLinks, focus }
 }
 
-function radius(node: RuntimeNode): number {
-  return Math.min(19, Math.max(5, 4 + Math.log1p(node.score) * 2.2))
+function radius(node: RuntimeNode, focus: SimpleSlug | "" = ""): number {
+  const base = Math.min(22, Math.max(5, 4 + Math.log1p(node.score) * 2.15))
+  return node.id === focus ? Math.min(28, base + 5) : base
 }
 
 function relativePageUrl(slug: SimpleSlug): URL {
   const current = getFullSlug(window)
   const href = resolveRelative(current, slug)
   return new URL(href, window.location.toString())
+}
+
+function pageFetchUrls(slug: SimpleSlug): URL[] {
+  const cleanUrl = relativePageUrl(slug)
+  const htmlUrl = new URL(cleanUrl.toString())
+  if (!htmlUrl.pathname.endsWith("/") && !htmlUrl.pathname.endsWith(".html")) {
+    htmlUrl.pathname = `${htmlUrl.pathname}.html`
+  }
+  return htmlUrl.toString() === cleanUrl.toString() ? [cleanUrl] : [cleanUrl, htmlUrl]
+}
+
+function panelModeControls(state: FilterState): string {
+  const button = (mode: FilterState["panel"], label: string) =>
+    `<button type="button" data-panel-mode="${mode}" class="${state.panel === mode ? "is-active" : ""}">${label}</button>`
+  return `<div class="graph-explorer-panel-modes" role="group" aria-label="Panelio režimas">${button("details", "Detalės")}${button("page", "Puslapis")}${button("hidden", "Slėpti")}</div>`
+}
+
+function bindPanelModeControls(panel: HTMLElement, setPanelMode: (mode: FilterState["panel"]) => void) {
+  panel.querySelectorAll<HTMLButtonElement>("[data-panel-mode]").forEach((button) => {
+    button.addEventListener("click", () => {
+      const mode = button.dataset.panelMode
+      if (mode === "details" || mode === "page" || mode === "hidden") {
+        setPanelMode(mode)
+      }
+    })
+  })
+}
+
+function normalizePanelContent(content: Element, pageUrl: URL): HTMLElement {
+  const clone = content.cloneNode(true) as HTMLElement
+  clone.querySelectorAll("script, style, iframe, canvas, .popover, .graph, .breadcrumbs").forEach((el) => el.remove())
+  clone.querySelectorAll<HTMLAnchorElement>("a[href]").forEach((link) => {
+    const href = link.getAttribute("href")
+    if (!href) return
+    link.href = new URL(href, pageUrl).toString()
+    link.dataset.noPopover = "true"
+  })
+  clone.querySelectorAll<HTMLImageElement>("img[src]").forEach((img) => {
+    const src = img.getAttribute("src")
+    if (!src) return
+    img.src = new URL(src, pageUrl).toString()
+  })
+  return clone
+}
+
+async function renderPagePanel(
+  panel: HTMLElement,
+  node: RuntimeNode,
+  state: FilterState,
+  setPanelMode: (mode: FilterState["panel"]) => void,
+) {
+  const pageUrls = pageFetchUrls(node.id)
+  const pageUrl = pageUrls[0]
+  panel.innerHTML = `
+    ${panelModeControls(state)}
+    <div class="graph-explorer-panel-header">
+      <p>${nodeType(node)}</p>
+      <h2>${node.title}</h2>
+    </div>
+    <p class="graph-explorer-loading">Kraunamas puslapis...</p>
+  `
+  bindPanelModeControls(panel, setPanelMode)
+  try {
+    let response: Response | null = null
+    let responseUrl = pageUrl
+    for (const candidateUrl of pageUrls) {
+      const candidateResponse = await fetch(candidateUrl, { cache: "force-cache" })
+      if (candidateResponse.ok) {
+        response = candidateResponse
+        responseUrl = candidateUrl
+        break
+      }
+    }
+    if (!response) {
+      panel.querySelector(".graph-explorer-loading")!.textContent = "Nepavyko rasti puslapio turinio."
+      return
+    }
+    const html = new DOMParser().parseFromString(await response.text(), "text/html")
+    const article = html.querySelector("article.popover-hint") ?? html.querySelector("article") ?? html.querySelector("main")
+    if (!article) {
+      panel.querySelector(".graph-explorer-loading")!.textContent = "Nepavyko rasti puslapio turinio."
+      return
+    }
+    const content = normalizePanelContent(article, responseUrl)
+    content.classList.add("graph-explorer-page-content")
+    panel.querySelector(".graph-explorer-loading")?.replaceWith(content)
+  } catch (error) {
+    console.error(error)
+    const loading = panel.querySelector(".graph-explorer-loading")
+    if (loading) loading.textContent = "Nepavyko įkelti puslapio."
+  }
 }
 
 function setFormState(root: HTMLElement, state: FilterState) {
@@ -404,7 +578,13 @@ function readFormState(root: HTMLElement, previous: FilterState): FilterState {
   }
 }
 
-function renderNodePanel(panel: HTMLElement, node: RuntimeNode, rerenderFocus: (slug: SimpleSlug) => void) {
+function renderNodePanel(
+  panel: HTMLElement,
+  node: RuntimeNode,
+  state: FilterState,
+  activateFocus: (slug: SimpleSlug) => void,
+  setPanelMode: (mode: FilterState["panel"]) => void,
+) {
   const period = [
     node.dateStart !== undefined || node.dateEnd !== undefined
       ? [node.dateStart ?? "?", node.dateEnd ?? node.dateStart ?? "?"].join("–")
@@ -413,7 +593,12 @@ function renderNodePanel(panel: HTMLElement, node: RuntimeNode, rerenderFocus: (
   ]
     .filter(Boolean)
     .join(", ")
+  if (state.panel === "page") {
+    renderPagePanel(panel, node, state, setPanelMode)
+    return
+  }
   panel.innerHTML = `
+    ${panelModeControls(state)}
     <div class="graph-explorer-panel-header">
       <p>${nodeType(node)}</p>
       <h2>${node.title}</h2>
@@ -446,8 +631,9 @@ function renderNodePanel(panel: HTMLElement, node: RuntimeNode, rerenderFocus: (
         : ""
     }
   `
+  bindPanelModeControls(panel, setPanelMode)
   panel.querySelector<HTMLButtonElement>("[data-action='focus']")?.addEventListener("click", () => {
-    rerenderFocus(node.id)
+    activateFocus(node.id)
   })
 }
 
@@ -455,10 +641,16 @@ function linkNode(linkEnd: RuntimeNode | string | number): RuntimeNode {
   return linkEnd as RuntimeNode
 }
 
-function renderEdgePanel(panel: HTMLElement, link: RuntimeLink) {
+function renderEdgePanel(
+  panel: HTMLElement,
+  link: RuntimeLink,
+  state: FilterState,
+  setPanelMode: (mode: FilterState["panel"]) => void,
+) {
   const source = linkNode(link.source)
   const target = linkNode(link.target)
   panel.innerHTML = `
+    ${panelModeControls({ ...state, panel: "details" })}
     <div class="graph-explorer-panel-header">
       <p>${link.details.relationKind}</p>
       <h2>${source.title} → ${target.title}</h2>
@@ -483,6 +675,7 @@ function renderEdgePanel(panel: HTMLElement, link: RuntimeLink) {
         : `<p class="graph-explorer-summary">Ryšys rastas public puslapio nuorodose; citatos preview šiame indekse nėra.</p>`
     }
   `
+  bindPanelModeControls(panel, setPanelMode)
 }
 
 function renderGraph(
@@ -491,8 +684,10 @@ function renderGraph(
   panel: HTMLElement,
   graph: { nodes: RuntimeNode[]; links: RuntimeLink[]; focus: SimpleSlug | "" },
   state: FilterState,
-  rerenderFocus: (slug: SimpleSlug) => void,
+  activateFocus: (slug: SimpleSlug) => void,
+  setPanelMode: (mode: FilterState["panel"]) => void,
 ) {
+  root.dataset.panel = state.panel
   canvas.innerHTML = ""
   const width = Math.max(canvas.clientWidth, 320)
   const height = Math.max(canvas.clientHeight, 320)
@@ -501,20 +696,26 @@ function renderGraph(
     .attr("viewBox", `${-width / 2} ${-height / 2} ${width} ${height}`)
     .attr("role", "img")
     .attr("aria-label", "Objektų ryšių žemėlapis")
+  const showPanelButton = document.createElement("button")
+  showPanelButton.className = "graph-explorer-show-panel"
+  showPanelButton.type = "button"
+  showPanelButton.dataset.panelShow = "true"
+  showPanelButton.textContent = "Rodyti panelį"
+  showPanelButton.addEventListener("click", () => setPanelMode("details"))
+  canvas.append(showPanelButton)
 
   const stage = svg.append("g")
   const linkLayer = stage.append("g").attr("class", "graph-explorer-links")
   const nodeLayer = stage.append("g").attr("class", "graph-explorer-nodes")
   const labelLayer = stage.append("g").attr("class", "graph-explorer-labels")
+  const zoomBehavior = zoom<SVGSVGElement, unknown>()
+    .scaleExtent([0.2, 5])
+    .on("zoom", ({ transform }) => {
+      stage.attr("transform", transform.toString())
+      labelLayer.attr("font-size", 13 / transform.k)
+    })
 
-  svg.call(
-    zoom<SVGSVGElement, unknown>()
-      .scaleExtent([0.2, 5])
-      .on("zoom", ({ transform }) => {
-        stage.attr("transform", transform.toString())
-        labelLayer.attr("font-size", Math.max(9, 13 / transform.k))
-      }),
-  )
+  svg.call(zoomBehavior)
 
   const focusNode = graph.focus ? graph.nodes.find((node) => node.id === graph.focus) : undefined
   const links = linkLayer
@@ -522,23 +723,33 @@ function renderGraph(
     .data(graph.links)
     .join("line")
     .attr("class", "graph-explorer-link")
+    .style("stroke", (link) => (link.details.relationKind === "public_relation" ? "#b8a686" : "#8f7658"))
     .attr("stroke-width", (link) => Math.min(5, 0.6 + Math.log1p(link.details.evidenceCount) * 1.4))
-    .attr("stroke-opacity", (link) => Math.max(0.18, Math.min(0.9, link.details.confidence)))
-    .on("click", (_, link) => renderEdgePanel(panel, link))
+    .attr("stroke-opacity", (link) => Math.max(0.32, Math.min(0.88, link.details.confidence)))
+    .on("click", (event, link) => {
+      event.stopPropagation()
+      if (state.panel === "hidden") {
+        setPanelMode("details")
+      }
+      renderEdgePanel(panel, link, { ...state, panel: "details" }, setPanelMode)
+    })
 
   const nodes = nodeLayer
     .selectAll("circle")
     .data(graph.nodes)
     .join("circle")
-    .attr("class", "graph-explorer-node")
-    .attr("r", radius)
+    .attr("class", (node) => `graph-explorer-node${node.id === graph.focus ? " is-selected" : ""}`)
+    .attr("r", (node) => radius(node, graph.focus))
     .attr("fill", (node) => typeColors[nodeType(node)] ?? "#9b7b49")
     .attr("stroke", (node) => (node.id === graph.focus ? "var(--secondary)" : "var(--light)"))
     .attr("stroke-width", (node) => (node.id === graph.focus ? 3 : 1))
     .attr("tabindex", 0)
     .attr("role", "button")
     .attr("aria-label", (node) => node.title)
-    .on("click", (_, node) => renderNodePanel(panel, node, rerenderFocus))
+    .on("click", (event, node) => {
+      event.stopPropagation()
+      activateFocus(node.id)
+    })
     .call(
       drag<SVGCircleElement, RuntimeNode>()
         .on("start", (event, node) => {
@@ -564,7 +775,7 @@ function renderGraph(
     .attr("class", "graph-explorer-label")
     .text((node) => node.title)
     .attr("text-anchor", "middle")
-    .attr("dy", (node) => -radius(node) - 5)
+    .attr("dy", (node) => -radius(node, graph.focus) - 5)
 
   const simulation = forceSimulation<RuntimeNode>(graph.nodes)
     .force("charge", forceManyBody<RuntimeNode>().strength((node) => -120 - node.score * 2))
@@ -575,7 +786,7 @@ function renderGraph(
         .id((node) => node.id)
         .distance((link) => 58 + Math.max(0, 5 - link.details.evidenceCount) * 8),
     )
-    .force("collide", forceCollide<RuntimeNode>((node) => radius(node) + 10).iterations(2))
+    .force("collide", forceCollide<RuntimeNode>((node) => radius(node, graph.focus) + 10).iterations(2))
     .on("tick", () => {
       links
         .attr("x1", (link) => linkNode(link.source).x ?? 0)
@@ -586,27 +797,54 @@ function renderGraph(
       labels.attr("x", (node) => node.x ?? 0).attr("y", (node) => node.y ?? 0)
     })
 
-  if (focusNode) {
-    renderNodePanel(panel, focusNode, rerenderFocus)
-    setTimeout(() => {
-      const x = focusNode.x ?? 0
-      const y = focusNode.y ?? 0
-      svg
-        .transition()
-        .duration(350)
-        .call(
-          zoom<SVGSVGElement, unknown>().transform,
-          zoomIdentity.translate(-x * 1.25, -y * 1.25).scale(1.25),
-        )
-    }, 450)
+  const fitGraphToCanvas = () => {
+    if (graph.nodes.length === 0) return
+    const xs = graph.nodes.map((node) => node.x ?? 0)
+    const ys = graph.nodes.map((node) => node.y ?? 0)
+    const minX = Math.min(...xs)
+    const maxX = Math.max(...xs)
+    const minY = Math.min(...ys)
+    const maxY = Math.max(...ys)
+    const graphWidth = Math.max(1, maxX - minX)
+    const graphHeight = Math.max(1, maxY - minY)
+    const margin = Math.max(80, Math.min(width, height) * 0.12)
+    const scale = Math.max(
+      0.35,
+      Math.min(2.1, Math.min((width - margin) / graphWidth, (height - margin) / graphHeight)),
+    )
+    const centerX = (minX + maxX) / 2
+    const centerY = (minY + maxY) / 2
+    svg
+      .transition()
+      .duration(450)
+      .call(zoomBehavior.transform, zoomIdentity.translate(-centerX * scale, -centerY * scale).scale(scale))
+  }
+
+  simulation.stop()
+  simulation.tick(120)
+  links
+    .attr("x1", (link) => linkNode(link.source).x ?? 0)
+    .attr("y1", (link) => linkNode(link.source).y ?? 0)
+    .attr("x2", (link) => linkNode(link.target).x ?? 0)
+    .attr("y2", (link) => linkNode(link.target).y ?? 0)
+  nodes.attr("cx", (node) => node.x ?? 0).attr("cy", (node) => node.y ?? 0)
+  labels.attr("x", (node) => node.x ?? 0).attr("y", (node) => node.y ?? 0)
+  fitGraphToCanvas()
+
+  if (focusNode && state.panel !== "hidden") {
+    renderNodePanel(panel, focusNode, state, activateFocus, setPanelMode)
+  } else if (state.panel === "hidden") {
+    panel.innerHTML = ""
   } else {
     panel.innerHTML = `
+      ${panelModeControls(state)}
       <div class="graph-explorer-panel-header">
         <p>${state.preset === "important" ? "Svarbiausi objektai" : "Žemėlapis"}</p>
         <h2>${graph.nodes.length} objektai</h2>
       </div>
       <p class="graph-explorer-summary">Spustelėk objektą arba ryšį, kad pamatytum detales ir citatų pagrindimą.</p>
     `
+    bindPanelModeControls(panel, setPanelMode)
   }
 
   root.dataset.nodes = String(graph.nodes.length)
@@ -630,13 +868,30 @@ async function setupGraphExplorer(root: HTMLElement) {
   setFormState(root, state)
 
   const rerender = () => {
+    root.dataset.panel = state.panel
     const graph = buildVisibleGraph(nodesBySlug, state)
-    renderGraph(root, canvas, panel, graph, state, (slug) => {
-      state = { ...state, focus: slug, depth: 1, q: "" }
-      writeState(state)
-      setFormState(root, state)
-      rerender()
-    })
+    renderGraph(root, canvas, panel, graph, state, activateFocus, setPanelMode)
+  }
+
+  const setPanelMode = (mode: FilterState["panel"]) => {
+    state = { ...state, panel: mode }
+    writeState(state)
+    rerender()
+  }
+
+  const activateFocus = (slug: SimpleSlug) => {
+    state = {
+      ...state,
+      focus: slug,
+      depth: 2,
+      q: "",
+      preset: "important",
+      types: [],
+      panel: state.panel === "hidden" ? "details" : state.panel,
+    }
+    writeState(state)
+    setFormState(root, state)
+    rerender()
   }
 
   const updateFromForm = () => {
@@ -652,6 +907,9 @@ async function setupGraphExplorer(root: HTMLElement) {
     writeState(state)
     setFormState(root, state)
     rerender()
+  })
+  root.querySelector<HTMLButtonElement>("[data-panel-show]")?.addEventListener("click", () => {
+    setPanelMode("details")
   })
 
   rerender()
